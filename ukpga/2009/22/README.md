@@ -1,0 +1,917 @@
+# Apprenticeships, Skills, Children and Learning Act 2009
+
+2009 c. 22. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 40 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
+
+Source: https://www.legislation.gov.uk/ukpga/2009/22/2026-04-29
+
+## Contents
+
+- Part 1 Apprenticeships, study and training
+  - CHAPTER ZA1 The Institute for Apprenticeships and Technical Education
+    - Establishment
+      - [s. ZA1 The Institute for Apprenticeships and Technical Education](section/ZA1.md)
+    - General duties and functions
+      - [s. ZA2 General duties](section/ZA2.md)
+      - [s. ZA2A Oversight](section/ZA2A.md)
+      - [s. ZA3 Provision of advice and assistance to the Secretary of State etc](section/ZA3.md)
+      - [s. ZA4 Delegation of functions to the Institute by Secretary of State](section/ZA4.md)
+      - [s. ZA5 Conferral of further functions on the Institute by regulations](section/ZA5.md)
+      - [s. ZA6 Annual and other reports](section/ZA6.md)
+    - Compliance
+      - [s. ZA7 Secretary of State directions where the Institute fails to discharge duties etc](section/ZA7.md)
+    - Directions
+      - [s. ZA8 General provision about directions under Chapters ZA1 and A1](section/ZA8.md)
+      - [s. ZA8A Interpretation of Chapter ZA1](section/ZA8A.md)
+  - CHAPTER A1 Apprenticeships and technical education: England
+    - Occupational categories and groups
+      - [s. ZA9 Occupational categories (sometimes referred to as “routes”)](section/ZA9.md)
+      - [s. ZA10 Mapping of occupational groups](section/ZA10.md)
+    - Standards
+      - [s. ZA11 Standards](section/ZA11.md)
+    - Meaning of “approved English apprenticeship” etc
+      - [s. A1 Meaning of “approved English apprenticeship” etc](section/A1.md)
+    - Apprenticeship assessment plans
+      - [s. A2 Apprenticeship assessment plans](section/A2.md)
+      - [s. A2A Preparation of apprenticeship standards and assessment plans](section/A2A.md)
+    - Quality assurance of apprenticeship assessments etc
+      - [s. A2B Evaluation of quality of apprenticeship assessments](section/A2B.md)
+      - [s. A2C Unsatisfactory apprenticeship assessments](section/A2C.md)
+      - [s. A2D Committee to advise on quality evaluations etc](section/A2D.md)
+    - Technical education qualifications
+      - [s. A2D1 Approval of technical education qualifications: overview](section/A2D1.md)
+      - [s. A2D2 Categories of technical education qualification](section/A2D2.md)
+      - [s. A2DA Technical education certificate: approval of technical education qualifications](section/A2DA.md)
+      - [s. A2DB Additional steps towards occupational competence](section/A2DB.md)
+      - [s. A2D5 Further powers to approve technical education qualifications](section/A2D5.md)
+      - [s. A2D6 Approved technical education qualifications: approval and withdrawal](section/A2D6.md)
+      - [s. A2D7 Approved technical education qualifications: publication and fees](section/A2D7.md)
+      - [s. A2D8 Reviews of approval of technical education qualifications](section/A2D8.md)
+      - [s. A2D9 Moratorium on further approvals under section A2D5](section/A2D9.md)
+      - [s. A2DC Directions](section/A2DC.md)
+      - [s. A2D11 Co-operation between the Institute and Ofqual](section/A2D11.md)
+    - Other provision relating to approved English apprenticeships and technical education
+      - [s. A2E ... Reviews of published standards and assessment plans](section/A2E.md)
+      - [s. A2F Revision or withdrawal of published standards and assessment plans](section/A2F.md)
+    - ................................
+      - [s. A2G Examinations by independent third parties](section/A2G.md)
+      - [s. A2H List of published standards and assessment plans](section/A2H.md)
+      - [s. A2HA List of technical education qualifications](section/A2HA.md)
+      - [s. A2I Transfer of copyright in standards and assessment plans](section/A2I.md)
+      - [s. A2IA Transfer of copyright relating to technical education qualifications](section/A2IA.md)
+      - [s. A2IB Availability of approved technical education qualifications outside England](section/A2IB.md)
+      - [s. A3 Power to issue apprenticeship certificate](section/A3.md)
+      - [s. A3A Power to issue technical education certificate](section/A3A.md)
+      - [s. A4 Delegation](section/A4.md)
+      - [s. A5 English apprenticeship agreements: status](section/A5.md)
+      - [s. A6 English apprenticeship agreements: supplementary provision](section/A6.md)
+      - [s. A7 Crown servants and parliamentary staff](section/A7.md)
+      - [s. A8 Progress reports](section/A8.md)
+      - [s. A9 Public sector apprenticeship targets](section/A9.md)
+      - [s. A10 Further provision about apprenticeship targets](section/A10.md)
+      - [s. A11 Only statutory apprenticeships to be described as apprenticeships](section/A11.md)
+      - [s. A12 Interpretation of Chapter A1](section/A12.md)
+  - Chapter 1 Apprenticeships: Wales
+    - ...
+      - [s. 1 Meaning of “completing an English apprenticeship”](section/1.md)
+      - [s. 2 Meaning of “completing a Welsh apprenticeship”](section/2.md)
+    - ...
+      - [s. 3 Duty to issue: England](section/3.md)
+      - [s. 4 Power to issue: England](section/4.md)
+      - [s. 5 Issue by the English certifying authority: supplementary](section/5.md)
+      - [s. 6 The English certifying authority](section/6.md)
+    - Apprenticeship certificates: Wales
+      - [s. 7 Duty to issue: Wales](section/7.md)
+      - [s. 8 Power to issue: Wales](section/8.md)
+      - [s. 9 Issue by the Welsh certifying authority: supplementary](section/9.md)
+      - [s. 10 The Welsh certifying authority](section/10.md)
+    - Contents of apprenticeship certificate: ...Wales
+      - [s. 11 Contents of apprenticeship certificate](section/11.md)
+    - Apprenticeship frameworks: ... Wales
+      - [s. 12 Apprenticeship frameworks: interpretation](section/12.md)
+    - ...
+      - [s. 13 English issuing authority](section/13.md)
+      - [s. 14 Issue: England](section/14.md)
+      - [s. 15 Recognised English frameworks: notification and publication](section/15.md)
+      - [s. 16 Submission of draft framework for issue: England](section/16.md)
+      - [s. 17 Transitional provision: England](section/17.md)
+    - Apprenticeship frameworks: Wales
+      - [s. 18 Welsh issuing authority](section/18.md)
+      - [s. 19 Issue: Wales](section/19.md)
+      - [s. 20 Recognised Welsh frameworks: notification and publication](section/20.md)
+      - [s. 21 Submission of draft framework for issue: Wales](section/21.md)
+      - [s. 22 Transitional provision: Wales](section/22.md)
+    - ...
+      - [s. 23 Duty to prepare and submit draft specification: England](section/23.md)
+      - [s. 24 Order bringing specification into effect](section/24.md)
+      - [s. 25 Modification: England](section/25.md)
+      - [s. 26 Replacement or modification: recognised English frameworks](section/26.md)
+      - [s. 27 Contents of specification of apprenticeship standards for England](section/27.md)
+    - Specification of apprenticeship standards: Wales
+      - [s. 28 Specification of apprenticeship standards for Wales](section/28.md)
+      - [s. 29 Modification: Wales](section/29.md)
+      - [s. 30 Replacement or modification: recognised Welsh frameworks](section/30.md)
+      - [s. 31 Contents of specification of apprenticeship standards for Wales](section/31.md)
+    - Apprenticeship agreements: ... Wales
+      - [s. 32 Meaning of “apprenticeship agreement”](section/32.md)
+      - [s. 33 Ineffective provisions](section/33.md)
+      - [s. 34 Variation](section/34.md)
+      - [s. 35 Status](section/35.md)
+      - [s. 36 Crown servants and Parliamentary staff](section/36.md)
+    - Duty to participate in education or training: England
+      - [s. 37 Duty to participate in education or training: apprenticeship agreements](section/37.md)
+    - General
+      - [s. 38 Apprenticeship sectors](section/38.md)
+      - [s. 39 Interpretation of Chapter](section/39.md)
+  - Chapter 2 Study and training
+    - [s. 40 Employer support for employee study and training](section/40.md)
+- Part 1A Apprenticeships, Technical Education Qualifications and other education and training: information sharing
+  - England
+    - [s. 40A Sharing of information by HMRC and the Secretary of State](section/40A.md)
+    - [s. 40AA Sharing of information by or with the Secretary of State](section/40AA.md)
+    - [s. 40AB Sharing of technical education information by or with Ofqual](section/40AB.md)
+  - Wales, Scotland and Northern Ireland
+    - [s. 40B Sharing of information by HMRC and devolved authorities](section/40B.md)
+  - General
+    - [s. 40C Wrongful disclosure](section/40C.md)
+    - [s. 40D Interpretation](section/40D.md)
+- Part 2 Local authority functions
+  - Education and training for persons over compulsory school age
+    - [s. 41 Education and training for persons over compulsory school age: general duty](section/41.md)
+    - [s. 42 Encouragement of education and training for persons over compulsory school age](section/42.md)
+    - [s. 43 Local authority directions: children over compulsory school age](section/43.md)
+    - [s. 44 Power to require provision of education by further education institution](section/44.md)
+  - The core and additional entitlements
+    - [s. 45 Duties in relation to the core and additional entitlements](section/45.md)
+  - Boarding accommodation: persons subject to learning difficulty assessment
+    - [s. 46 Boarding accommodation: persons subject to learning difficulty assessment](section/46.md)
+  - Work experience
+    - [s. 47 Work experience for persons over compulsory school age](section/47.md)
+  - Persons detained in youth accommodation
+    - [s. 48 Provision of education for persons subject to youth detention](section/48.md)
+    - [s. 49 Persons detained in youth accommodation: application of provisions](section/49.md)
+    - [s. 50 Persons detained in youth accommodation: further provision](section/50.md)
+    - [s. 51 Detention of child or young person: local authorities to be notified](section/51.md)
+    - [s. 52 Release from detention of child or young person with special educational needs](section/52.md)
+  - Transport in England
+    - [s. 53 Provision of transport etc for persons of sixth form age: duty to have regard to section 15ZA duty](section/53.md)
+    - [s. 54 Transport policy statements for persons of sixth form age: consultation](section/54.md)
+    - [s. 55 Transport policy statements for persons of sixth form age: content and publication](section/55.md)
+    - [s. 56 Complaints about transport arrangements etc for persons of sixth form age](section/56.md)
+    - [s. 57 Local authorities in England: provision of transport etc for adult learners](section/57.md)
+  - Powers in respect of non-maintained schools
+    - [s. 58 Power of local authorities to arrange provision of education at non-maintained schools](section/58.md)
+  - General
+    - [s. 59 Minor and consequential amendments](section/59.md)
+- Part 3 The Young People’s Learning Agency for England
+  - Chapter 1 Establishment
+    - [s. 60 The Young People’s Learning Agency for England](section/60.md)
+  - Chapter 2 Main functions
+    - Funding
+      - [s. 61 Provision of financial resources](section/61.md)
+      - [s. 62 Financial resources: conditions](section/62.md)
+      - [s. 63](section/63.md)
+      - [s. 64 Means tests](section/64.md)
+      - [s. 65 Prohibition on charging](section/65.md)
+    - Securing provision of education and training
+      - [s. 66 Securing provision of education and training](section/66.md)
+      - [s. 67 Intervention for purpose of securing provision of education and training](section/67.md)
+    - Provision of services and assistance
+      - [s. 68 Provision of services](section/68.md)
+      - [s. 69 Assistance with respect to employment and training](section/69.md)
+      - [s. 70 Assistance with respect to employment and training: Northern Ireland](section/70.md)
+    - Miscellaneous
+      - [s. 71 Research, information and advice](section/71.md)
+      - [s. 71A Assistance etc. in relation to functions of the principal regulator](section/71A.md)
+      - [s. 72 Guidance by YPLA](section/72.md)
+      - [s. 73 Intervention powers: policy statement](section/73.md)
+      - [s. 74 Power to confer supplementary functions on YPLA](section/74.md)
+  - Chapter 3 YPLA’s functions: supplementary
+    - [s. 75 Directions by Secretary of State](section/75.md)
+    - [s. 76 Guidance by Secretary of State](section/76.md)
+  - Chapter 4 Academy agency arrangements
+    - [s. 77 Academy agency arrangements](section/77.md)
+    - [s. 78 Grants for purposes of Academy agency arrangements functions](section/78.md)
+    - [s. 79 Academy agency arrangements: information sharing](section/79.md)
+  - Chapter 5 General
+    - [s. 80 Interpretation of Part](section/80.md)
+- Part 4 Apprenticeships and adult education and training: role of Secretary of State
+  - Chapter 1 Apprenticeships and adult education and training
+    - ...
+      - [s. 81 The Chief Executive of Skills Funding](section/81.md)
+    - ...
+      - [s. 82 Apprenticeship functions](section/82.md)
+    - Apprenticeship training for persons aged 16 to 18 and certain young adults
+      - [s. 83 Power to secure provision of apprenticeship training](section/83.md)
+      - [s. 83A The apprenticeship offer](section/83A.md)
+      - [s. 83B Limit on scope of the apprenticeship offer](section/83B.md)
+      - [s. 84 Arrangements and co-operation with local authorities](section/84.md)
+      - [s. 85 Provision of apprenticeship training etc for persons within section 83 or 83A](section/85.md)
+    - Education and training for persons aged 19 or over etc.
+      - [s. 86 Education and training for persons aged 19 or over and others subject to adult detention](section/86.md)
+      - [s. 87 Learning aims for persons aged 19 or over: provision of facilities](section/87.md)
+      - [s. 88 Learning aims for persons aged 19 or over: payment of tuition fees](section/88.md)
+      - [s. 89 Sections 87 and 88: supplementary](section/89.md)
+      - [s. 90 Encouragement of education and training for persons aged 19 or over and others subject to adult detention](section/90.md)
+    - The apprenticeship offer
+      - [s. 91 Duty to secure availability of apprenticeship places](section/91.md)
+      - [s. 92 Election for apprenticeship offer](section/92.md)
+      - [s. 93 Meaning of “apprenticeship place”](section/93.md)
+      - [s. 94 Suitability and availability of apprenticeship places: further provision](section/94.md)
+      - [s. 95 Apprenticeship offer requirements](section/95.md)
+      - [s. 96 Apprenticeship offer requirements: interpretation](section/96.md)
+      - [s. 97 Suspension of offer](section/97.md)
+      - [s. 98 Power to amend apprenticeship offer](section/98.md)
+      - [s. 99 Apprenticeship offer: interpretation](section/99.md)
+  - Chapter 2 Provision of services to other bodies
+    - Funding
+      - [s. 100 Provision of financial resources](section/100.md)
+      - [s. 101 Financial resources: conditions](section/101.md)
+      - [s. 101A Financial resources: welfare](section/101A.md)
+      - [s. 102 Performance assessments](section/102.md)
+      - [s. 103 Means tests](section/103.md)
+    - Apprenticeships: general
+      - [s. 104 Assistance and support in relation to apprenticeship places](section/104.md)
+      - [s. 105 Promoting progression from level 2 to level 3 apprenticeships](section/105.md)
+      - [s. 106 Advice and assistance in relation to apprenticeships](section/106.md)
+    - Provision of services and assistance
+      - [s. 107 Provision of services](section/107.md)
+      - [s. 108 Assistance with respect to employment and training](section/108.md)
+      - [s. 109 Assistance with respect to employment and training: Northern Ireland](section/109.md)
+    - ...
+      - [s. 110 Research, information and advice](section/110.md)
+      - [s. 111 Power to confer supplementary functions on Chief Executive](section/111.md)
+  - Chapter 3 ... supplementary
+    - Strategies
+      - [s. 112 Strategies for functions of Chief Executive](section/112.md)
+      - [s. 113](section/113.md)
+      - [s. 114 Strategies: duty of Chief Executive](section/114.md)
+    - Directions and guidance
+      - [s. 114A Directions and guidance to strategic authorities](section/114A.md)
+    - Other
+      - [s. 115 Persons with special educational needs](section/115.md)
+      - [s. 116 Persons subject to adult detention](section/116.md)
+      - [s. 117 Use of information by Chief Executive](section/117.md)
+      - [s. 118 Guidance](section/118.md)
+      - [s. 118A Directions: consultation](section/118A.md)
+      - [s. 119 Directions: funding of qualifications](section/119.md)
+      - [s. 120 Other directions relating to functions of the office](section/120.md)
+  - Chapter 4 General
+    - [s. 120A Territorial application of Part](section/120A.md)
+    - [s. 120B When functions become exercisable by strategic authorities](section/120B.md)
+    - [s. 121 Interpretation of Part](section/121.md)
+- Part 5 Parts 2 to 4: supplementary
+  - Information
+    - [s. 122 Sharing of information for education and training purposes](section/122.md)
+  - The Learning and Skills Council for England
+    - [s. 123 Dissolution of the Learning and Skills Council for England](section/123.md)
+    - [s. 124 Dissolution of the Learning and Skills Council: transfer schemes](section/124.md)
+- Part 6 The sixth form college sector
+  - [s. 125 Sixth form college sector](section/125.md)
+  - [s. 126 Removal of power to establish sixth form schools](section/126.md)
+- Part 7 The Office of Qualifications and Examinations Regulation
+  - Chapter 1 Establishment, objectives and general duties
+    - Establishment
+      - [s. 127 The Office of Qualifications and Examinations Regulation](section/127.md)
+    - Objectives and general duties
+      - [s. 128 Objectives](section/128.md)
+      - [s. 129 General duties](section/129.md)
+    - Regulated qualifications and regulated assessment arrangements
+      - [s. 130 Meaning of “regulated qualifications” etc.](section/130.md)
+      - [s. 131 Meaning of “regulated assessment arrangements” etc.](section/131.md)
+  - Chapter 2 Functions in relation to qualifications
+    - Recognition of awarding bodies
+      - [s. 132 Recognition](section/132.md)
+      - [s. 133 Criteria for recognition](section/133.md)
+      - [s. 134 General conditions of recognition](section/134.md)
+      - [s. 135 Other conditions of recognition](section/135.md)
+      - [s. 136 Fee capping conditions: supplementary](section/136.md)
+      - [s. 137 Entry and inspection conditions: supplementary](section/137.md)
+    - Accreditation of certain qualifications
+      - [s. 138 Qualifications subject to the accreditation requirement](section/138.md)
+      - [s. 139 Accreditation](section/139.md)
+      - [s. 140 Criteria for accreditation](section/140.md)
+    - Minimum requirements
+      - [s. 141 Power to specify minimum requirements](section/141.md)
+      - [s. 142 Consultation before making order specifying minimum requirements](section/142.md)
+      - [s. 143 Effect of order specifying minimum requirements](section/143.md)
+      - [s. 144 Revocation and amendment of orders specifying minimum requirements](section/144.md)
+    - Guided learning
+      - [s. 145 Assignment of number of hours of guided learning](section/145.md)
+      - [s. 146 Criteria for assignment of number of hours of guided learning](section/146.md)
+    - Surrender
+      - [s. 147 Surrender of recognition](section/147.md)
+    - Register
+      - [s. 148 Register](section/148.md)
+    - Recognised bodies: monitoring and enforcement
+      - [s. 149 Review of activities of recognised bodies](section/149.md)
+      - [s. 150 Investigation of complaints](section/150.md)
+      - [s. 151 Power to give directions](section/151.md)
+      - [s. 151A Power to impose monetary penalties](section/151A.md)
+      - [s. 151B Monetary penalties: amount](section/151B.md)
+      - [s. 151C Monetary penalties: appeals](section/151C.md)
+      - [s. 151D Monetary penalties: interest and recovery](section/151D.md)
+      - [s. 152 Power to withdraw recognition](section/152.md)
+      - [s. 152A Costs recovery](section/152A.md)
+      - [s. 152B Costs recovery: appeals](section/152B.md)
+      - [s. 152C Costs: interest and recovery](section/152C.md)
+      - [s. 153 Qualifications regulatory framework](section/153.md)
+    - Other
+      - [s. 154 Review of qualifications to which Part applies](section/154.md)
+      - [s. 155 Review of system for allocating values to qualifications](section/155.md)
+      - [s. 156 Co-operation and joint working](section/156.md)
+      - [s. 157 Power to provide information to qualifications regulators](section/157.md)
+    - General
+      - [s. 158 Interpretation of Chapter](section/158.md)
+  - Chapter 3 Functions in relation to assessment arrangements
+    - Development etc. of regulated assessment arrangements
+      - [s. 159 NC assessment arrangements: duty to consult Ofqual etc.](section/159.md)
+      - [s. 160 EYFS assessment arrangements: duty to consult Ofqual etc.](section/160.md)
+    - Review etc. of regulated assessment arrangements
+      - [s. 161 Review of regulated assessment arrangements](section/161.md)
+      - [s. 162 Powers to require information](section/162.md)
+      - [s. 163 Duty to notify significant failings](section/163.md)
+    - Regulatory frameworks
+      - [s. 164 NC assessments regulatory framework](section/164.md)
+      - [s. 165 EYFS assessments regulatory framework](section/165.md)
+    - General
+      - [s. 166 Interpretation of Chapter](section/166.md)
+  - Chapter 4 Other functions
+    - [s. 167 Provision of services](section/167.md)
+    - [s. 168 Provision of information or advice](section/168.md)
+    - [s. 169 Research and development](section/169.md)
+    - [s. 170 Duty not to impose or maintain unnecessary burdens](section/170.md)
+    - [s. 171 Annual and other reports](section/171.md)
+  - Chapter 5 General
+    - [s. 172 Interpretation of Part](section/172.md)
+    - [s. 173 Transfer schemes](section/173.md)
+    - [s. 174 Minor and consequential amendments](section/174.md)
+- Part 8 The Qualifications and Curriculum Development Agency
+  - Chapter 1 The QCDA, objective and general duties
+    - The QCDA
+      - [s. 175 The Qualifications and Curriculum Development Agency](section/175.md)
+    - Objective and general duties
+      - [s. 176 Objective](section/176.md)
+      - [s. 177 General duties](section/177.md)
+  - Chapter 2 Functions in relation to qualifications
+    - [s. 178 Qualifications within the QCDA’s remit](section/178.md)
+    - [s. 179 Qualifications: general functions](section/179.md)
+    - [s. 180 Assistance etc. in relation to qualifications functions of Ofqual](section/180.md)
+  - Chapter 3 Functions in relation to curriculum, Early Years Foundation Stage and assessment
+    - [s. 181 Curriculum](section/181.md)
+    - [s. 182 Early learning goals and educational programmes](section/182.md)
+    - [s. 183 Assessment arrangements](section/183.md)
+  - Chapter 4 Other functions and supplementary provision
+    - Other functions
+      - [s. 184 Provision of services or other assistance](section/184.md)
+      - [s. 185 Provision of information or advice](section/185.md)
+      - [s. 186 Ancillary activities](section/186.md)
+      - [s. 187 Co-operation and joint working](section/187.md)
+      - [s. 188 Power to confer supplementary functions on the QCDA](section/188.md)
+    - Supplementary provision
+      - [s. 189 Directions etc. by the Secretary of State](section/189.md)
+      - [s. 190 Guidance by the Secretary of State](section/190.md)
+  - Chapter 5 General
+    - [s. 191 Interpretation of Part](section/191.md)
+    - [s. 192 Minor and consequential amendments](section/192.md)
+- Part 9 Children’s services
+  - Co-operation to improve well-being of children
+    - [s. 193 Arrangements to promote co-operation](section/193.md)
+    - [s. 194 Children’s Trust Boards](section/194.md)
+  - Safeguarding and promoting the welfare of children
+    - [s. 195 Targets for safeguarding and promoting the welfare of children](section/195.md)
+    - [s. 196 Local Safeguarding Children Boards: lay members](section/196.md)
+    - [s. 197 Local Safeguarding Children Boards: annual reports](section/197.md)
+  - Children’s centres
+    - [s. 198 Arrangements for children’s centres](section/198.md)
+    - [s. 199 Inspection of children’s centres](section/199.md)
+    - [s. 200 Children’s centres: safeguarding children](section/200.md)
+  - Arrangements in respect of early childhood services
+    - [s. 201 Arrangements in respect of early childhood services](section/201.md)
+  - Early years provision: budgetary framework
+    - [s. 202 Free of charge early years provision: budgetary framework: England](section/202.md)
+- Part 10 Schools
+  - Chapter 1 Schools causing concern
+    - Schools causing concern: England
+      - [s. 203 Powers in relation to schools causing concern: England](section/203.md)
+      - [s. 204 Power to require local authorities in England to obtain advisory services](section/204.md)
+    - Schools causing concern: Wales
+      - [s. 205 Powers in relation to schools causing concern: Wales](section/205.md)
+  - Chapter 2 Complaints: England
+    - [s. 206 Complaints to which this Chapter applies](section/206.md)
+    - [s. 207 Power of Local Commissioner to investigate complaint](section/207.md)
+    - [s. 208 Time-limit etc for making complaint](section/208.md)
+    - [s. 209 Procedure in respect of investigations](section/209.md)
+    - [s. 210 Investigations: further provisions](section/210.md)
+    - [s. 211 Statements about investigations](section/211.md)
+    - [s. 212 Adverse findings notices](section/212.md)
+    - [s. 213 Publication of statements etc. by Local Commissioner](section/213.md)
+    - [s. 214 Disclosure of information](section/214.md)
+    - [s. 215 Permitted disclosures of information by Local Commissioner](section/215.md)
+    - [s. 216 Law of defamation](section/216.md)
+    - [s. 217 Consultation with Parliamentary Commissioner for Administration](section/217.md)
+    - [s. 218 Arrangements etc. to be made by Commission](section/218.md)
+    - [s. 219 Annual reports](section/219.md)
+    - [s. 220 Secretary of State’s power of direction](section/220.md)
+    - [s. 221 Disapplication of certain powers of Secretary of State](section/221.md)
+    - [s. 222 Power to amend meaning of “qualifying school”](section/222.md)
+    - [s. 223 Amendments consequential on Chapter 2](section/223.md)
+    - [s. 224 Interpretation of Chapter 2](section/224.md)
+  - Chapter 3 Inspections
+    - [s. 225 Interim statements](section/225.md)
+    - [s. 226 Powers of persons providing administrative support in connection with inspections](section/226.md)
+  - Chapter 4 School Support Staff Pay and Conditions: England
+    - The SSSNB
+      - [s. 227 The School Support Staff Negotiating Body](section/227.md)
+      - [s. 228 Matters within SSSNB’s remit](section/228.md)
+    - Consideration of matter by SSSNB
+      - [s. 229 Referral of matter to SSSNB for consideration](section/229.md)
+      - [s. 230 Consideration of other matters by SSSNB](section/230.md)
+    - Powers of Secretary of State on submission of SSSNB agreement
+      - [s. 231 Agreement submitted by SSSNB under section 229 or 230](section/231.md)
+    - Reconsideration by SSSNB
+      - [s. 232 Reconsideration of agreement by SSSNB](section/232.md)
+      - [s. 233 SSSNB’s submission of agreement following reconsideration: powers of Secretary of State](section/233.md)
+    - Powers of Secretary of State in absence of SSSNB agreement
+      - [s. 234 Powers of Secretary of State in absence of SSSNB agreement](section/234.md)
+    - Orders
+      - [s. 235 Effect of order ratifying SSSNB agreement](section/235.md)
+      - [s. 236 Effect of order making provision otherwise than in terms of SSSNB agreement](section/236.md)
+      - [s. 237 Orders: supplementary](section/237.md)
+    - Guidance
+      - [s. 238 Guidance](section/238.md)
+    - General
+      - [s. 239 Non-statutory School Support Staff Negotiating Body](section/239.md)
+      - [s. 240 “School support staff”](section/240.md)
+      - [s. 241 General interpretation](section/241.md)
+- Part 11 Learners
+  - Power to search for prohibited items
+    - [s. 242 Power of members of staff to search pupils for prohibited items: England](section/242.md)
+    - [s. 243 Power of members of staff to search pupils for weapons: Wales](section/243.md)
+    - [s. 244 Power of members of staff to search students for prohibited items: England](section/244.md)
+    - [s. 245 Power of members of staff to search students for weapons: Wales](section/245.md)
+  - Recording and reporting use of force
+    - [s. 246 Recording and reporting the use of force in schools: England](section/246.md)
+    - [s. 247 Recording and reporting the use of force in FE institutions: England](section/247.md)
+  - School behaviour and attendance partnerships
+    - [s. 248 Co-operation with a view to promoting good behaviour, etc.: England](section/248.md)
+  - Pupil referral units
+    - [s. 249 Regulations about pupil referral units](section/249.md)
+- Part 12 Miscellaneous
+  - Careers education
+    - [s. 250 Careers education in schools: England](section/250.md)
+  - Information about local authority expenditure
+    - [s. 251 Information about planned and actual expenditure](section/251.md)
+    - [s. 252 Information about expenditure: supplementary](section/252.md)
+    - [s. 253 Information about expenditure: consequential amendments](section/253.md)
+  - Qualifications
+    - [s. 253A Qualifications](section/253A.md)
+  - Support for participation in education and training
+    - [s. 254 Provision of social security information for purposes of functions under Education and Skills Act 2008](section/254.md)
+    - [s. 255 Provision of other information in connection with support services](section/255.md)
+  - Further education corporations
+    - [s. 256 Further education corporations in England: co-operation and promotion of well-being](section/256.md)
+  - Student loans
+    - [s. 257 Student loans under the 1998 Act: IVAs](section/257.md)
+    - [s. 258 Student loans under the 1990 Act: IVAs and bankruptcy](section/258.md)
+  - Foundation degrees: Wales
+    - [s. 259 Power to award foundation degrees: Wales](section/259.md)
+  - Complaints: Wales
+    - [s. 260 Complaints: Wales](section/260.md)
+  - Local Government Act 1974
+    - [s. 261 Local Government Act 1974: minor amendment](section/261.md)
+- Part 13 General
+  - [s. 262 Orders and regulations](section/262.md)
+  - [s. 263 Directions](section/263.md)
+  - [s. 264 General interpretation of Act](section/264.md)
+  - [s. 265 Power to make consequential and transitional provision etc.](section/265.md)
+  - [s. 266 Repeals and revocations](section/266.md)
+  - [s. 267 Financial provisions](section/267.md)
+  - [s. 268 Extent](section/268.md)
+  - [s. 269 Commencement](section/269.md)
+  - [s. 270 Short title](section/270.md)
+- Schedule A1 The Institute for Apprenticeships
+  - Status
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Membership
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Tenure of non-executive members
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Remuneration of non-executive members
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Chief executive and other staff
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Arrangements with Secretary of State
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - Committees
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - Procedure
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+  - Exercise of functions
+    - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+  - Supplementary powers
+    - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+  - Accounts and reports
+    - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+  - Application of seal and proof of documents
+    - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+  - Funding
+    - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+- Schedule 1 Employee study and training: minor and consequential amendments
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Employment Tribunals Act 1996 (c. 17)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- Schedule 2 Local authority functions: minor and consequential amendments
+  - Education Act 1996 (c. 56)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- Schedule 3 The Young People’s Learning Agency for England
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Membership
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Tenure
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Remuneration etc. of members
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Staff
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Committees
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Procedure etc.
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Delegation
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Plans
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Reports
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Accounts
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Documents
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Funding
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Supplementary powers
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- Schedule 4 The Chief Executive of Skills Funding
+  - ...
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- Schedule 5 Learning aims for persons aged 19 or over
+  - Part 1 Qualifications to which Schedule applies
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Power to specify
+    - Power to specify
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Power to specify qualification in literacy
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Power to specify qualification in numeracy
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Power to specify qualification in information technology
+      - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+    - Level 2
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Level 3
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Advice and information
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Power to amend
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- Schedule 6 Dissolution of the Learning and Skills Council for England: minor and consequential amendments
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Further and Higher Education Act 1992 (c. 13)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Learning and Skills Act 2000 (c. 21)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+    - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+    - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+  - Education Act 2005 (c. 18)
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+  - Education and Inspections Act 2006 (c. 40)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+  - Further Education and Training Act 2007 (c. 25)
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+- Schedule 7 Learning and Skills Council for England: transfer schemes
+  - Staff transfer schemes
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Property transfer schemes
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Continuity
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Supplementary provision etc.
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Interpretation
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- Schedule 8 Sixth form college sector
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+- Schedule 9 The Office of Qualifications and Examinations Regulation
+  - Status
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Membership
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - The Chief Regulator
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - The chair
+    - [Sch. 9 para. 3A](schedule/9/paragraph/3A.md)
+  - The deputy and other ordinary members: tenure
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Remuneration etc. of members
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Staff
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Committees
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Procedure etc.
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Delegation
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Documents
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Supplementary powers
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+- Schedule 10 QCA: transfer schemes
+  - Staff transfer schemes
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Property transfer schemes
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Continuity
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Supplementary provision etc.
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Interpretation
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- Schedule 11 The Qualifications and Curriculum Development Agency
+  - Status
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Membership
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Chief officer
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Chair and chief officer: division of functions
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Tenure
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Remuneration etc. of ordinary members
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Staff
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Committees
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Procedure etc.
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Delegation
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Reports
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - Accounts
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Documents
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Funding
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Supplementary powers
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+- Schedule 12 Ofqual and the QCDA: minor and consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Local Authorities (Goods and Services) Act 1970 (c. 39)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Charities Act 1993 (c. 10)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Education Act 1997 (c. 44)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+  - Learning and Skills Act 2000 (c. 21)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+  - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+- Schedule 13 Powers in relation to schools causing concern: England
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+- Schedule 14 Powers in relation to schools causing concern: Wales
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+- Schedule 15 The School Support Staff Negotiating Body
+  - Constitution
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Membership
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Proceedings
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Administrative support
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Annual reports
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Fees and expenses
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - House of Commons disqualification
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Interpretation
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+- Schedule 16 Repeals and revocations
+  - Part 1 Local authority functions
+  - Part 2 Dissolution of the LSC
+  - Part 3 Sixth form college sector
+  - Part 4 Ofqual and the QCDA
+  - Part 5 Co-operation to improve well-being of children
+  - Part 6 Schools causing concern
+  - Part 7 Complaints
+  - Part 8 School inspections
+  - Part 9 Information about local authority expenditure
+  - Part 10 Support for participation in education and training
+  - Part 11 Foundation degrees: Wales
