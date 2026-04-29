@@ -1,0 +1,407 @@
+# Local Transport Act 2008
+
+2008 c. 26. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
+
+Source: https://www.legislation.gov.uk/ukpga/2008/26/2026-04-29
+
+## Contents
+
+- Part 1 The traffic commissioners
+  - [s. 1 Traffic areas](section/1.md)
+  - [s. 2 Traffic commissioners](section/2.md)
+  - [s. 3 The senior traffic commissioner](section/3.md)
+  - [s. 4 Amendments of Schedule 2 to the PPVA 1981](section/4.md)
+  - [s. 5 Transitional provision for existing traffic commissioners etc](section/5.md)
+  - [s. 6 Consequential amendments](section/6.md)
+- Part 2 Transport policies
+  - [s. 7 Local transport policies](section/7.md)
+  - [s. 8 Nature of duty to develop transport policies](section/8.md)
+  - [s. 9 Local transport plans](section/9.md)
+  - [s. 10 Bus strategies no longer required](section/10.md)
+  - [s. 11 Duty to have regard to transport needs of disabled persons](section/11.md)
+  - [s. 12 Development of policies by ITA no longer joint duty with district councils](section/12.md)
+- Part 3 Bus services
+  - Quality partnership schemes
+    - [s. 13 Quality partnership schemes](section/13.md)
+    - [s. 14 Notice and consultation requirements](section/14.md)
+    - [s. 15 Making a scheme: different dates for different facilities or standards etc](section/15.md)
+    - [s. 16 Postponement of provision of particular facilities or standards of service](section/16.md)
+    - [s. 17 Effect of scheme: different dates for different facilities or standards etc](section/17.md)
+    - [s. 18 Regulations about schemes which specify frequencies, timings or fares](section/18.md)
+  - Quality contracts schemes
+    - [s. 19 Quality contracts schemes](section/19.md)
+    - [s. 20 Notice and consultation requirements](section/20.md)
+  - QCS boards for England and approval by Welsh Ministers in Wales
+    - [s. 21 Approval of proposed schemes: required for areas in Wales only](section/21.md)
+    - [s. 22 Boards for proposed schemes for areas in England](section/22.md)
+    - [s. 23 Advice by boards or their Commissioners](section/23.md)
+    - [s. 24 Consideration of proposed schemes by boards](section/24.md)
+    - [s. 25 Practice and procedure of boards](section/25.md)
+  - Making and duration of quality contracts schemes
+    - [s. 26 Making of scheme](section/26.md)
+    - [s. 27 Appeals against the making of schemes for areas in England](section/27.md)
+    - [s. 28 Postponement of scheme in part](section/28.md)
+    - [s. 29 Effect of scheme: different operational dates and excepted services](section/29.md)
+    - [s. 30 Extension of maximum period of quality contracts](section/30.md)
+  - Continuation of quality contracts schemes
+    - [s. 31 Continuation of schemes for further periods](section/31.md)
+    - [s. 32 Exempt continuation proposals](section/32.md)
+    - [s. 33 Continuation of schemes for areas in England: procedure](section/33.md)
+    - [s. 34 Continuation of schemes for areas in Wales: procedure](section/34.md)
+    - [s. 35 Appeals where proposed continuation considered exempt](section/35.md)
+    - [s. 36 Appeals where proposed continuation considered non-exempt](section/36.md)
+  - Variation or revocation of quality contracts schemes
+    - [s. 37 Variation or revocation of scheme](section/37.md)
+    - [s. 38 Appeals where proposed variation considered exempt](section/38.md)
+    - [s. 39 Exemption from s.132 for specific variations directed by Transport Tribunal](section/39.md)
+  - Quality contracts schemes: miscellaneous and supplementary provisions
+    - [s. 40 Power of authorities to provide services in exceptional circumstances](section/40.md)
+    - [s. 41 Regulations about schemes](section/41.md)
+    - [s. 42 Power to make transitional provision about schemes](section/42.md)
+    - [s. 43 Guidance about schemes](section/43.md)
+    - [s. 44 Quality contracts: application of TUPE](section/44.md)
+    - [s. 45 Power to make traffic regulation orders](section/45.md)
+  - Extension of the competition test
+    - [s. 46 Competition scrutiny of functions and agreements relating to buses](section/46.md)
+- Part 4 General provisions relating to passenger transport
+  - Detention of certain PSVs
+    - [s. 47 Detention of certain PSVs used without PSV operators’ licences](section/47.md)
+  - Registration of local services
+    - [s. 48 Determination of applications for registration where restrictions in force](section/48.md)
+    - [s. 49 Applications for registration where quality contracts scheme in force](section/49.md)
+    - [s. 50 Traffic regulation conditions for anticipated traffic problems](section/50.md)
+    - [s. 51 Transport Tribunal to decide appeals against traffic regulation conditions](section/51.md)
+    - [s. 52 Fees for registration of services](section/52.md)
+  - Use of taxis and hire cars to provide local services
+    - [s. 53 Use of private hire vehicles to provide local services](section/53.md)
+    - [s. 54 Application of certain provisions about taxis and hire cars to London](section/54.md)
+    - [s. 55 Carrying of passengers in wheelchairs in vehicles providing local services](section/55.md)
+    - [s. 56 Carrying of passengers in wheelchairs: supplementary provisions](section/56.md)
+  - Vehicles used under permits
+    - [s. 57 Permits in relation to use of vehicles by educational and other bodies](section/57.md)
+    - [s. 58 Further provision with respect to such permits](section/58.md)
+    - [s. 59 Relaxation of rules relating to community bus services](section/59.md)
+    - [s. 60 Power to limit permits under section 19 or 22 of TA 1985 to 5 years](section/60.md)
+    - [s. 61 Traffic commissioners to keep records about such permits](section/61.md)
+  - Services not operated as registered etc
+    - [s. 62 Attachment of conditions to related licences](section/62.md)
+    - [s. 63 Powers of traffic commissioners where services not operated as registered](section/63.md)
+    - [s. 64 Additional sanctions for failures by bus operators](section/64.md)
+    - [s. 65 Operational data](section/65.md)
+  - Powers of Passenger Transport Executives
+    - [s. 66 Revival of certain powers of PTEs](section/66.md)
+  - Subsidised services
+    - [s. 67 Subsidy to secure passenger transport services in integrated transport areas](section/67.md)
+    - [s. 68 Subsidy to secure passenger transport services in other areas](section/68.md)
+    - [s. 69 Subsidy to secure passenger transport services in Wales](section/69.md)
+    - [s. 70 Extension of maximum length of subsidised services agreements](section/70.md)
+  - Public transport companies etc
+    - [s. 71 Removal of certain disabilities and requirements for consent](section/71.md)
+  - Transport users’ advisory committees etc
+    - [s. 72 The Disabled Persons Transport Advisory Committee: remuneration](section/72.md)
+    - [s. 73 The Public Transport Users’ Committee for England](section/73.md)
+    - [s. 74 Power to confer non-rail functions on the Rail Passengers’ Council](section/74.md)
+  - Display of transport-related information
+    - [s. 75 Power to require display of certain information](section/75.md)
+  - Appeals to the Transport Tribunal
+    - [s. 76 Appeals to the Transport Tribunal](section/76.md)
+- Part 5 Integrated Transport Authorities etc
+  - Chapter 1 Introductory
+    - [s. 77 Change of name of passenger transport areas and PTAs](section/77.md)
+  - Chapter 2 Arrangements relating to Integrated Transport Authorities
+    - Establishment of new ITA by order
+      - [s. 78 Power to establish a new ITA](section/78.md)
+      - [s. 79 Provision that may be made in an order under section 78](section/79.md)
+      - [s. 80 Authorities’ review: new ITA](section/80.md)
+      - [s. 81 Secretary of State’s power to direct a review: new ITA](section/81.md)
+    - Other powers to make orders about arrangements relating to an ITA
+      - [s. 82 Authorities’ review of arrangements](section/82.md)
+      - [s. 83 Secretary of State’s power to direct a review of arrangements](section/83.md)
+      - [s. 84 Constitutional arrangements](section/84.md)
+      - [s. 85 Provision that may be made in an order under section 84: membership of ITA](section/85.md)
+      - [s. 86 Delegation of functions of the Secretary of State](section/86.md)
+      - [s. 87 Delegation of local authority functions](section/87.md)
+      - [s. 88 Conferral of a power to direct](section/88.md)
+      - [s. 89 Contravention of an order under section 88](section/89.md)
+      - [s. 89A Transfer of functions of combined authority](section/89A.md)
+      - [s. 89B Transfer of functions of combined county authority](section/89B.md)
+      - [s. 90 Changing the boundaries of an integrated transport area](section/90.md)
+      - [s. 91 Dissolution of an integrated transport area](section/91.md)
+    - Further provision about orders
+      - [s. 92 Orders under sections 84 to 91](section/92.md)
+      - [s. 93 Incidental etc provision](section/93.md)
+      - [s. 94 Procedure for orders under this Chapter](section/94.md)
+    - Directions and guidance
+      - [s. 95 Further provision about directions](section/95.md)
+      - [s. 96 Guidance](section/96.md)
+    - Power to change name
+      - [s. 97 Change of name of ITA](section/97.md)
+    - Amendment of power to reorganise functions
+      - [s. 98 Amendment of power to reorganise functions](section/98.md)
+  - Chapter 3 Power to promote well-being
+    - [s. 99 Power to promote well-being](section/99.md)
+    - [s. 100 Limits on power to promote well-being](section/100.md)
+    - [s. 101 Power to amend or repeal enactments](section/101.md)
+    - [s. 102 Procedure for orders under section 101](section/102.md)
+    - [s. 102A Application of Chapter to combined authorities and combined county authorities](section/102A.md)
+  - CHAPTER 4 General powers
+    - [s. 102B Powers of Integrated Transport Authorities](section/102B.md)
+    - [s. 102C Boundaries of power under section 102B](section/102C.md)
+    - [s. 102D Power to make provision supplemental to section 102B](section/102D.md)
+- PART 5A SUB-NATIONAL TRANSPORT BODIES
+  - Establishment and constitution of STBs
+    - [s. 102E Power to establish STBs](section/102E.md)
+    - [s. 102F Requirements in connection with regulations under section 102E](section/102F.md)
+    - [s. 102G Constitution of STBs](section/102G.md)
+  - Functions
+    - [s. 102H General functions](section/102H.md)
+    - [s. 102I Transport strategy of an STB](section/102I.md)
+    - [s. 102J Exercise of local transport functions](section/102J.md)
+    - [s. 102K Other public authority functions](section/102K.md)
+    - [s. 102L Funding](section/102L.md)
+  - General powers etc
+    - [s. 102M General powers](section/102M.md)
+    - [s. 102N Boundaries of power under section 102M](section/102N.md)
+    - [s. 102O Power to make provision supplemental to section 102M](section/102O.md)
+    - [s. 102P Power of direction](section/102P.md)
+  - Boundary and name changes
+    - [s. 102Q Change to boundaries of an STB’s area](section/102Q.md)
+    - [s. 102R Change of name](section/102R.md)
+  - Supplementary
+    - [s. 102S Incidental etc provision](section/102S.md)
+    - [s. 102T Procedure for regulations under this Part](section/102T.md)
+    - [s. 102U Interpretation](section/102U.md)
+- Part 6 Local and London charging schemes
+  - Involvement of Integrated Transport Authorities
+    - [s. 103 Power of ITAs to make charging schemes](section/103.md)
+    - [s. 104 Local charging schemes to implement policies of ITAs](section/104.md)
+    - [s. 105 Joint local charging schemes to implement policies of ITAs](section/105.md)
+    - [s. 106 Joint local-ITA charging schemes](section/106.md)
+    - [s. 107 Joint local-London charging schemes to implement policies of ITAs](section/107.md)
+    - [s. 108 Joint ITA-London charging schemes](section/108.md)
+    - [s. 109 Consequential amendments](section/109.md)
+  - Miscellaneous amendments
+    - [s. 110 Abolition of requirement for confirmation of English schemes](section/110.md)
+    - [s. 111 Consultation and inquiries for English schemes](section/111.md)
+    - [s. 112 Charges](section/112.md)
+    - [s. 113 Supplementary provision as to charging schemes](section/113.md)
+    - [s. 114 Suspension of charging schemes](section/114.md)
+    - [s. 115 Interference with functioning of equipment](section/115.md)
+    - [s. 116 Use of equipment for charging schemes](section/116.md)
+    - [s. 117 Power of national authority to require information from charging authorities](section/117.md)
+    - [s. 118 Information: England and Wales](section/118.md)
+    - [s. 119 Information: Scotland](section/119.md)
+    - [s. 120 London charging schemes: 10 year plan for share](section/120.md)
+    - [s. 121 Other amendments relating to schemes](section/121.md)
+- Part 7 Miscellaneous provisions
+  - Trunk road charging schemes in Wales
+    - [s. 122 Powers of the National Assembly for Wales](section/122.md)
+    - [s. 123 Information](section/123.md)
+  - Street works
+    - [s. 124 Reinstatement and remedial works](section/124.md)
+  - Goods vehicles
+    - [s. 125 Vehicles authorised to be used under operator’s licence](section/125.md)
+    - [s. 126 Vehicles used without operator’s licence: power to return detained vehicles](section/126.md)
+  - Civil enforcement of traffic contraventions
+    - [s. 127 Civil enforcement of traffic contraventions: meaning of “local authority”](section/127.md)
+    - [s. 128 Financial penalty deposits: powers of vehicle examiners in Scotland](section/128.md)
+  - Foreign-registered vehicles
+    - [s. 129 Disclosure of information relating to foreign-registered vehicles](section/129.md)
+    - [s. 130 Use of information relating to foreign-registered vehicles](section/130.md)
+- Part 8 Supplementary provisions
+  - [s. 131 Repeals](section/131.md)
+  - [s. 132 Interpretation](section/132.md)
+  - [s. 133 Extent](section/133.md)
+  - [s. 134 Commencement](section/134.md)
+  - [s. 135 Short title](section/135.md)
+- SCHEDULE 1 References to local transport plans
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Quality contracts schemes
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Joint and through ticketing schemes
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Information about bus services
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Local licensing schemes
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Joint local licensing schemes
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Joint local-London licensing schemes
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Financial provisions relating to road user charging and workplace parking levy
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Competition test: amendments of Schedule 10 to the Transport Act 2000
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Test for the exercise of functions by local authorities
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - New test for certain agreements, decisions and practices
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Schedule heading
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 Detention of certain PSVs used without PSV operators’ licences
+- SCHEDULE 4 Change of name of PTAs: consequential amendments
+  - Part 1 Amendments of the Transport Act 1968
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Part 2 Amendments of the Transport Act 1985
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+  - Part 3 Amendments of the Transport Act 2000
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+  - Part 4 Other amendments
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - Transport Act 1983 (c. 10)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - Rates Act 1984 (c. 33)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - Local Government Act 1985 (c. 51)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - Airports Act 1986 (c. 31)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - Local Government Act 1988 (c. 9)
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - Local Government Finance Act 1988 (c. 41)
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - Local Government and Housing Act 1989 (c. 42)
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - Railways Act 1993 (c. 43)
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - Value Added Tax Act 1994 (c. 23)
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - Education Act 1996 (c. 56)
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - Audit Commission Act 1998 (c. 18)
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - Local Government Act 1999 (c. 27)
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - Police Reform Act 2002 (c. 30)
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - Railways Act 2005 (c. 14)
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - Concessionary Bus Travel Act 2007 (c. 13)
+      - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - Local Government and Public Involvement in Health Act 2007 (c. 28)
+      - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+- SCHEDULE 5 ITAs and charging schemes: minor and consequential amendments
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Preliminary: power to make schemes does not limit other powers
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Conditions for making trunk road schemes
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Charging schemes to be made by order
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Confirmation of charging schemes
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Consultation and inquiries
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Traffic signs
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Guidance
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Interpretation
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Financial provisions
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 Amendments of financial provisions relating to schemes
+  - Part 1 Amendments of Schedule 12 to the Transport Act 2000
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Application of proceeds by non-metropolitan local traffic authorities
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Application of proceeds where paragraph 8 does not apply
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Plans and programmes for application of proceeds
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Programme for application of proceeds after end of opening period
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Application of proceeds by London traffic authorities
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Application of proceeds by Secretary of State and Welsh Ministers
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Regulations and orders
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Part 2 Amendments of Schedule 23 to the Greater London Authority Act 1999
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Application of net proceeds
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Apportionment of net proceeds
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+- SCHEDULE 7 Repeals
+  - Part 1 Repeals relating to Part 2 of this Act
+  - Part 2 Repeals relating to Part 3 of this Act
+  - Part 3 Repeals relating to Part 4 of this Act
+  - Part 4 Repeals relating to Part 5 of this Act
+  - Part 5 Repeals relating to Part 6 of this Act
