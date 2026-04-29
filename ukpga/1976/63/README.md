@@ -1,0 +1,154 @@
+# Bail Act 1976
+
+1976 c. 63. Enacted 1976-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
+
+Source: https://www.legislation.gov.uk/ukpga/1976/63/2026-04-29
+
+## Contents
+
+- Preliminary
+  - [s. 1 Meaning of “bail in criminal proceedings”.](section/1.md)
+  - [s. 2 Other definitions.](section/2.md)
+- Incidents of bail in criminal proceedings
+  - [s. 3 General provisions.](section/3.md)
+  - [s. 3AA Conditions for the imposition of electronic monitoring requirements: children and young persons released on bail other than in extradition proceedings](section/3AA.md)
+  - [s. 3AAA Conditions for the imposition of electronic monitoring requirements: children and young persons released on bail in extradition proceedings](section/3AAA.md)
+  - [s. 3AAB Conditions for the imposition of electronic monitoring requirements: certain adults released on bail where real prospect of suspended sentence](section/3AAB.md)
+  - [s. 3AB Conditions for the imposition of electronic monitoring requirements: other persons](section/3AB.md)
+  - [s. 3AC Electronic monitoring: general provisions](section/3AC.md)
+  - [s. 3A Conditions of bail in case of police bail.](section/3A.md)
+- Bail for accused persons and others
+  - [s. 4 General right to bail of accused persons and others.](section/4.md)
+- Supplementary
+  - [s. 5 Supplementary provisions about decisions on bail.](section/5.md)
+  - [s. 5A Supplementary provisions in cases of police bail.](section/5A.md)
+  - [s. 5B Reconsideration of decisions granting bail.](section/5B.md)
+  - [s. 6 Offence of absconding by person released on bail.](section/6.md)
+  - [s. 7 Liability to arrest for absconding or breaking conditions of bail.](section/7.md)
+  - [s. 8 Bail with sureties.](section/8.md)
+- Miscellaneous
+  - [s. 9 Offence of agreeing to indemnify sureties in criminal proceedings.](section/9.md)
+  - [s. 9A Bail decisions relating to children or young persons who are accused of offences mentioned in Schedule 2 to the Magistrates’ Courts Act 1980](section/9A.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 Amendments, repeals and transitional provisions.](section/12.md)
+  - [s. 13 Short title, commencement, application and extent.](section/13.md)
+- SCHEDULE 1 Persons Entitled to Bail: Supplementary Provisions
+  - Part I Defendants Accused or Convicted of Imprisonable Offences
+    - Application of Part 1
+      - [Sch. 1 Pt. I para. 1](schedule/1/part/I/paragraph/1.md)
+      - [Sch. 1 Pt. I para. 1A](schedule/1/part/I/paragraph/1A.md)
+    - Exceptions to right to bail
+      - [Sch. 1 Pt. I para. 2](schedule/1/part/I/paragraph/2.md)
+      - [Sch. 1 Pt. I para. 2ZA](schedule/1/part/I/paragraph/2ZA.md)
+      - [Sch. 1 Pt. I para. 2A](schedule/1/part/I/paragraph/2A.md)
+      - [Sch. 1 Pt. I para. 2B](schedule/1/part/I/paragraph/2B.md)
+      - [Sch. 1 Pt. I para. 3](schedule/1/part/I/paragraph/3.md)
+      - [Sch. 1 Pt. I para. 4](schedule/1/part/I/paragraph/4.md)
+      - [Sch. 1 Pt. I para. 5](schedule/1/part/I/paragraph/5.md)
+      - [Sch. 1 Pt. I para. 6](schedule/1/part/I/paragraph/6.md)
+      - [Sch. 1 Pt. I para. 6ZA](schedule/1/part/I/paragraph/6ZA.md)
+    - Exception applicable to drug users in certain areas
+      - [Sch. 1 Pt. I para. 6A](schedule/1/part/I/paragraph/6A.md)
+    - Exception applicable to drug users in certain areas
+      - [Sch. 1 Pt. I para. 6B](schedule/1/part/I/paragraph/6B.md)
+    - Exception applicable to drug users in certain areas
+      - [Sch. 1 Pt. I para. 6C](schedule/1/part/I/paragraph/6C.md)
+    - Exception applicable only to defendant whose case is adjourned for inquiries or a report
+      - [Sch. 1 Pt. I para. 7](schedule/1/part/I/paragraph/7.md)
+    - Restriction of conditions of bail
+      - [Sch. 1 Pt. I para. 8](schedule/1/part/I/paragraph/8.md)
+    - Decisions under paragraph 2
+      - [Sch. 1 Pt. I para. 9](schedule/1/part/I/paragraph/9.md)
+      - [Sch. 1 Pt. I para. 9AA](schedule/1/part/I/paragraph/9AA.md)
+      - [Sch. 1 Pt. I para. 9AB](schedule/1/part/I/paragraph/9AB.md)
+      - [Sch. 1 Pt. I para. 9A](schedule/1/part/I/paragraph/9A.md)
+    - Cases under section 128A of Magistrates’ Courts Act 1980
+      - [Sch. 1 Pt. I para. 9B](schedule/1/part/I/paragraph/9B.md)
+  - Part 1A Defendants Accused or Convicted of Imprisonable Offences to which Part 1 does not apply
+    - Application of Part 1A
+      - [Sch. 1 Pt. 1A para. 1](schedule/1/part/1A/paragraph/1.md)
+      - [Sch. 1 Pt. 1A para. 1A](schedule/1/part/1A/paragraph/1A.md)
+    - Exceptions to right to bail
+      - [Sch. 1 Pt. 1A para. 2](schedule/1/part/1A/paragraph/2.md)
+      - [Sch. 1 Pt. 1A para. 3](schedule/1/part/1A/paragraph/3.md)
+      - [Sch. 1 Pt. 1A para. 4](schedule/1/part/1A/paragraph/4.md)
+      - [Sch. 1 Pt. 1A para. 5](schedule/1/part/1A/paragraph/5.md)
+      - [Sch. 1 Pt. 1A para. 6](schedule/1/part/1A/paragraph/6.md)
+      - [Sch. 1 Pt. 1A para. 7](schedule/1/part/1A/paragraph/7.md)
+      - [Sch. 1 Pt. 1A para. 8](schedule/1/part/1A/paragraph/8.md)
+    - Application of paragraphs 6A to 6C of Part 1
+      - [Sch. 1 Pt. 1A para. 9](schedule/1/part/1A/paragraph/9.md)
+  - Part II Defendants Accused or Convicted of Non-Imprisonable Offences
+    - Defendants to whom Part II applies
+      - [Sch. 1 Pt. II heading defendants-to-whom-part-ii-applies para. 1](schedule/1/part/II/crossheading/defendants-to-whom-part-ii-applies/paragraph/1.md)
+    - Exceptions to right to bail
+      - [Sch. 1 Pt. II heading exceptions-to-right-to-bail para. 2](schedule/1/part/II/crossheading/exceptions-to-right-to-bail/paragraph/2.md)
+      - [Sch. 1 Pt. II heading exceptions-to-right-to-bail para. 3](schedule/1/part/II/crossheading/exceptions-to-right-to-bail/paragraph/3.md)
+      - [Sch. 1 Pt. II heading exceptions-to-right-to-bail para. 4](schedule/1/part/II/crossheading/exceptions-to-right-to-bail/paragraph/4.md)
+      - [Sch. 1 Pt. II heading exceptions-to-right-to-bail para. 5](schedule/1/part/II/crossheading/exceptions-to-right-to-bail/paragraph/5.md)
+      - [Sch. 1 Pt. II heading exceptions-to-right-to-bail para. 6](schedule/1/part/II/crossheading/exceptions-to-right-to-bail/paragraph/6.md)
+  - Part IIA Decisions where Bail Refused on Previous Hearing
+    - [Sch. 1 Pt. IIA para. 1](schedule/1/part/IIA/paragraph/1.md)
+    - [Sch. 1 Pt. IIA para. 2](schedule/1/part/IIA/paragraph/2.md)
+    - [Sch. 1 Pt. IIA para. 3](schedule/1/part/IIA/paragraph/3.md)
+  - Part III Interpretation
+    - [Sch. 1 Pt. III para. 1](schedule/1/part/III/paragraph/1.md)
+    - [Sch. 1 Pt. III para. 2](schedule/1/part/III/paragraph/2.md)
+    - [Sch. 1 Pt. III para. 3](schedule/1/part/III/paragraph/3.md)
+    - [Sch. 1 Pt. III para. 4](schedule/1/part/III/paragraph/4.md)
+- SCHEDULE 2 CONSEQUENTIAL AND OTHER AMENDMENTS OF ACTS
+  - Habeas Corpus Act 1679
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Criminal Law Amendment Act 1867
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Criminal Justice Administration Act 1914
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Indictments Act 1915
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Children and Young Persons Act 1933
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Public Order Act 1936
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Criminal Justice Act 1948
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Administration of Justice Act 1960
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Backing of Warrants (Republic of Ireland) Act 1965
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+  - Criminal Justice Act 1967
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - Criminal Appeal Act 1968
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+  - Courts-Martial (Appeals) Act 1968
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+  - Children and Young Persons Act 1969
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+- SCHEDULE 3 REPEALS
+- SCHEDULE 4 Transitional Provisions
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
