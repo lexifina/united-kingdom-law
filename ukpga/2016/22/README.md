@@ -2,9 +2,9 @@
 
 2016 c. 22. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-30, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-04-30
+Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-05-01
 
 ## Contents
 
@@ -72,6 +72,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-04-30
       - [s. 44 Amount of order: tenants](section/44.md)
       - [s. 45 Amount of order: local housing authorities](section/45.md)
       - [s. 46 Amount of order following conviction](section/46.md)
+      - [s. 46A Amount of order: supplementary](section/46A.md)
     - Enforcement of rent repayment order
       - [s. 47 Enforcement of rent repayment orders](section/47.md)
     - Local housing authority functions
@@ -80,6 +81,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-04-30
     - Amendments etc and interpretation
       - [s. 50 Rent repayment orders: consequential amendments](section/50.md)
       - [s. 51 Housing benefit: inclusion pending abolition](section/51.md)
+      - [s. 51A Landlord which is body corporate: liability of directors etc](section/51A.md)
       - [s. 52 Interpretation of Chapter](section/52.md)
   - CHAPTER 5 Appeals under this Part
     - [s. 53 Appeals from the first-tier tribunal](section/53.md)
