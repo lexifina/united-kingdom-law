@@ -1,0 +1,804 @@
+# Deregulation Act 2015
+
+2015 c. 20. Enacted 2015-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
+
+Source: https://www.legislation.gov.uk/ukpga/2015/20/2026-05-01
+
+## Contents
+
+- Measures affecting the workplace: general
+  - [s. 1 Health and safety at work: general duty of self-employed persons](section/1.md)
+  - [s. 2 Removal of employment tribunals’ power to make wider recommendations](section/2.md)
+  - [s. 3 Apprenticeships: simplification](section/3.md)
+  - [s. 4 English apprenticeships: funding arrangements](section/4.md)
+  - [s. 5 English apprenticeships: disclosure of information](section/5.md)
+  - [s. 6 Requirements to wear safety helmets: exemption for Sikhs](section/6.md)
+  - [s. 7 Requirements to wear safety helmets: exemption for Sikhs: Northern Ireland](section/7.md)
+- Measures affecting business: particular areas
+  - [s. 8 Driving instructors](section/8.md)
+  - [s. 9 Motor insurers](section/9.md)
+  - [s. 10 Taxis and private hire vehicles: duration of licences](section/10.md)
+  - [s. 11 Private hire vehicles: sub-contracting](section/11.md)
+  - [s. 12 Space activity: limit on indemnity required](section/12.md)
+  - [s. 13 Agricultural Holdings Act 1986: resolution of disputes by third party determination](section/13.md)
+  - [s. 14 Shippers etc of gas](section/14.md)
+  - [s. 15 Suppliers of fuel and fireplaces](section/15.md)
+  - [s. 16 Sellers of knitting yarn](section/16.md)
+- Companies and insolvency
+  - [s. 17 Authorisation of insolvency practitioners](section/17.md)
+  - [s. 18 Auditors ceasing to hold office](section/18.md)
+  - [s. 19 Insolvency and company law: miscellaneous](section/19.md)
+- Use of land
+  - [s. 20 Recorded rights of way: additional protection](section/20.md)
+  - [s. 21 Unrecorded rights of way: protection from extinguishment](section/21.md)
+  - [s. 22 Conversion of public rights of way to private rights of way](section/22.md)
+  - [s. 23 Applications by owners etc for public path orders](section/23.md)
+  - [s. 24 Extension of powers to authorise erection of gates at owner’s request](section/24.md)
+  - [s. 25 Applications for certain orders under Highways Act 1980: cost recovery](section/25.md)
+  - [s. 26 Public rights of way: procedure](section/26.md)
+  - [s. 27 Erection of public statues (London): removal of consent requirement](section/27.md)
+- Housing and development
+  - [s. 28 Reduction of qualifying period for right to buy](section/28.md)
+  - [s. 29 Removal of power to require preparation of housing strategies](section/29.md)
+  - [s. 30 Tenancy deposits: provision of information by agents](section/30.md)
+  - [s. 31](section/31.md)
+  - [s. 32 Tenancy deposits: deemed compliance with requirements](section/32.md)
+  - [s. 33](section/33.md)
+  - [s. 34](section/34.md)
+  - [s. 35](section/35.md)
+  - [s. 36](section/36.md)
+  - [s. 37](section/37.md)
+  - [s. 38](section/38.md)
+  - [s. 39](section/39.md)
+  - [s. 40](section/40.md)
+  - [s. 41](section/41.md)
+  - [s. 42 Optional building requirements](section/42.md)
+  - [s. 43 Amendment of Planning and Energy Act 2008](section/43.md)
+  - [s. 44 Short-term use of London accommodation: relaxation of restrictions](section/44.md)
+  - [s. 45 Short-term use of London accommodation: power to relax restrictions](section/45.md)
+  - [s. 46 Designation of urban development areas: procedure](section/46.md)
+  - [s. 47 Establishment of urban development corporations: procedure](section/47.md)
+  - [s. 48 Provision of advice etc about residential licences](section/48.md)
+- Transport
+  - [s. 49 Removal of restrictions on provision of passenger rail services](section/49.md)
+  - [s. 50 Road traffic legislation: use of vehicles in emergency response by NHS](section/50.md)
+  - [s. 51 Reduction of burdens relating to the use of roads and railways](section/51.md)
+  - [s. 52 Reduction of burdens relating to enforcement of transport legislation](section/52.md)
+  - [s. 53 Civil penalties for parking contraventions: enforcement](section/53.md)
+  - [s. 54 Removal of restriction on investigation of tramway accidents in Scotland by RAIB](section/54.md)
+  - [s. 55 Removal of duty to order re-hearing of marine accident investigations](section/55.md)
+- Communications
+  - [s. 56 Repeal of power to make provision for blocking injunctions](section/56.md)
+- The environment etc
+  - [s. 57 Reduction of duties relating to energy and climate change](section/57.md)
+  - [s. 58 Household waste: de-criminalisation](section/58.md)
+  - [s. 59 Other measures relating to animals, food and the environment](section/59.md)
+- Regulation of child trust funds
+  - [s. 60 Management of child trust funds: looked after children](section/60.md)
+  - [s. 61 Management of child trust funds: children 16 or over](section/61.md)
+  - [s. 62 Child trust funds: transfers](section/62.md)
+  - [s. 63 Child trust funds: safeguards for children’s interests](section/63.md)
+- Education and training
+  - [s. 64 Abolition of office of Chief Executive of Skills Funding](section/64.md)
+  - [s. 65 Further and higher education sectors: reduction of burdens](section/65.md)
+  - [s. 66 Schools: reduction of burdens](section/66.md)
+- Alcohol, sport and entertainment
+  - [s. 67 Sale of alcohol: community events etc and ancillary business sales](section/67.md)
+  - [s. 68 Temporary event notices: increase in maximum number of events per year](section/68.md)
+  - [s. 69 Personal licences: no requirement to renew](section/69.md)
+  - [s. 70 Sale of liqueur confectionery to children under 16: abolition of offence](section/70.md)
+  - [s. 71 Late night refreshment](section/71.md)
+  - [s. 72 Removal of requirement to report loss or theft of licence etc to police](section/72.md)
+  - [s. 73 Motor racing on public roads: general](section/73.md)
+  - [s. 74 Motor racing: road closures](section/74.md)
+  - [s. 75 Motor racing: consequential amendments](section/75.md)
+  - [s. 76 Exhibition of films in community premises](section/76.md)
+  - [s. 77 TV licensing: duty to review sanctions](section/77.md)
+  - [s. 78 TV licensing: alternatives to criminal sanctions](section/78.md)
+- Administration of justice
+  - [s. 79 Repeal of Senior President of Tribunals’ duty to report on standards](section/79.md)
+  - [s. 80 Criminal procedure: written witness statements](section/80.md)
+  - [s. 81 Criminal procedure: written guilty pleas](section/81.md)
+  - [s. 82 Criminal procedure: powers to make Criminal Procedure Rules](section/82.md)
+  - [s. 83 “MAPPA arrangements” to cease to apply to certain offenders](section/83.md)
+  - [s. 84 Removal of requirement that prison closures be made by order](section/84.md)
+  - [s. 85 Power of HMRC to disclose information for purposes of certain litigation](section/85.md)
+  - [s. 86 CLC practitioner services bodies](section/86.md)
+  - [s. 87 Licensed CLC practitioners](section/87.md)
+  - [s. 88 CLC practitioner services: consequential amendments](section/88.md)
+  - [s. 89 The Council for Licensed Conveyancers: other amendments](section/89.md)
+- Other measures to reduce burdens on public authorities
+  - [s. 90 Poisons and explosives precursors](section/90.md)
+  - [s. 91 London street trading appeals: removal of role of Secretary of State in appeals](section/91.md)
+  - [s. 92 Gangmasters (Licensing) Act 2004: enforcement](section/92.md)
+  - [s. 93 Reduction in regulation of providers of social work services](section/93.md)
+  - [s. 94 Electoral Commission: changes to facilitate efficient administration](section/94.md)
+  - [s. 95 LGBC for England: changes to facilitate efficient administration](section/95.md)
+  - [s. 96 NHS foundation trusts and NHS trusts: acquisitions and dissolutions etc](section/96.md)
+  - [s. 97 Access to registers kept by Gas and Electricity Markets Authority](section/97.md)
+  - [s. 98 Information contained in entries of births and deaths](section/98.md)
+  - [s. 99 Information contained in entries of marriages and civil partnerships](section/99.md)
+  - [s. 100 Repeal of duty to prepare sustainable community strategy](section/100.md)
+  - [s. 101 Repeal of duties relating to local area agreements](section/101.md)
+  - [s. 102 Repeal of provisions relating to multi-area agreements](section/102.md)
+  - [s. 103 Repeal of duties relating to consultation or involvement](section/103.md)
+- Legislative reform
+  - [s. 104 Power to spell out dates described in legislation](section/104.md)
+  - [s. 105 Combining different forms of subordinate legislation](section/105.md)
+  - [s. 106 Ambulatory references to international shipping instruments](section/106.md)
+- Legislation no longer of practical use
+  - [s. 107 Legislation no longer of practical use](section/107.md)
+- Exercise of regulatory functions
+  - [s. 108 Exercise of regulatory functions: economic growth](section/108.md)
+  - [s. 109 Functions to which section 108 applies](section/109.md)
+  - [s. 110 Guidance on duty under section 108](section/110.md)
+  - [s. 111 Sections 108 to 110: interpretation](section/111.md)
+- General
+  - [s. 112 Consequential amendments, repeals and revocations](section/112.md)
+  - [s. 113 Financial provision](section/113.md)
+  - [s. 114 Extent](section/114.md)
+  - [s. 115 Commencement](section/115.md)
+  - [s. 116 Short title](section/116.md)
+- SCHEDULE 1 Approved English apprenticeships
+  - PART 1 Main amendments
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - PART 2 Consequential amendments
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Amendments of Part 1
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Other amendments of the 2009 Act
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - PART 3 Apprenticeships: Wales
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - PART 4 Transitional provision
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+- SCHEDULE 2 Driving instructors
+  - PART 1 Amendments of Part 5 RTA 1988 (as amended by RSA 2006)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - PART 2 Transitory amendments of Part 5 RTA 1988 (before amendment by RSA 2006)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - PART 3 Consequential and related amendments
+    - Road Traffic (Driving Instruction by Disabled Persons) Act 1993
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Road Traffic Offenders Act 1988
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Road Safety Act 2006
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+- SCHEDULE 3 Motor insurance industry: certificates of insurance
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Agricultural Holdings Act 1986: resolution of disputes by third party determination
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+- SCHEDULE 5 Auditors ceasing to hold office
+  - PART 1 Notification requirements
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - PART 2 Miscellaneous
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Failure to re-appoint auditor: special procedure requirements
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Replacement of references to documents being deposited at the company’s registered office
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 Insolvency and company law
+  - PART 1 Deeds of arrangement
+    - Repeal of Deeds of Arrangement Act 1914
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - PART 2 Administration of companies
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Appointment of administrators
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Release of administrator where no distribution to unsecured creditors other than by virtue of section 176A(2)(a)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - PART 3 Winding up of companies
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Removal of power of court to order payment into Bank of England of money due to company
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Release of liquidator where winding-up order rescinded
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - PART 4 Disqualification of unfit directors of insolvent companies
+    - Application for making of disqualification order: power to require information
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - PART 5 Bankruptcy
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Appointment of insolvency practitioner as interim receiver
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Statement of affairs
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - After-acquired property of bankrupt
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - PART 6 Authorisation of insolvency practitioners
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Repeal of provision for authorisation of nominees and supervisors in relation to voluntary arrangements
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Repeal of provision for authorisation of insolvency practitioners to be granted by competent authority
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - PART 7 Liabilities of administrators and administrative receivers of companies and preferential debts of companies and individuals
+    - Treatment of liabilities relating to contracts of employment
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+  - PART 8 Requirements of company law: proxies
+    - Proxies at a poll taken 48 hours or less after it was demanded
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+- SCHEDULE 7 Ascertainment of rights of way
+  - PART 1 Wildlife and Countryside Act 1981
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - PART 2 New Schedule 13A to the 1981 Act
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - PART 3 New Schedule 14A to the 1981 Act
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - PART 4 Highways Act 1980
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - PART 5 Consequential amendments
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Provision of passenger rail services
+  - Consequential amendments
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Franchise exemptions granted by Secretary of State: protection of railway assets etc
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Minor correcting amendments
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Road traffic legislation: use of vehicles in emergency response by NHS
+  - Traffic Management Act 2004
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Road Vehicles (Construction and Use) Regulations 1986 (S.I. 1986/1078)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Road Vehicles Lighting Regulations 1989 (S.I. 1989/1796)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997 (S.I. 1997/2400)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Traffic Signs Regulations and General Directions 2002 (S.I. 2002/3113)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+- SCHEDULE 10 Regulation of the use of roads and railways
+  - PART 1 Duration of driving licences to be granted to drivers with relevant or prospective disabilities
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - PART 2 Permit schemes: removal of requirement for Secretary of State approval
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - PART 3 Road humps
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - PART 4 Pedestrian crossings: removal of requirement to inform Secretary of State
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - PART 5 Off-road motoring events
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - PART 6 Testing of vehicles
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - PART 7 Rail vehicle accessibility regulations: exemption orders
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+- SCHEDULE 11 Enforcement of transport legislation
+  - PART 1 Drink and drug driving offences
+    - Removal of “statutory option” to have breath specimen replaced: road and rail transport
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - No need for preliminary breath test before evidential breath test: road transport
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Removing restriction that evidential breath test must be taken at police station: rail transport
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Health care professionals advising whether condition is due to drugs: road and rail transport
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Further extension of role of health care professionals: road and rail transport
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Application of Road Traffic Act provisions in shipping regime
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Application of Road Traffic Act provisions in aviation regime
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - PART 2 Bus lane contraventions
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+- SCHEDULE 12 Household waste: London
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+- SCHEDULE 13 Other measures relating to animals, food and the environment
+  - PART 1 Destructive imported animals
+    - Destructive Imported Animals Act 1932 (c. 12)
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Grey Squirrels (Prohibition of Importation and Keeping) Order 1937 (S.I. 1937/478)
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - PART 2 Farriers
+    - Constitution of Farriers Registration Council
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - PART 3 Joint waste authorities
+    - Removal of power to establish joint waste authorities in England
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - PART 4 Air quality
+    - Removal of duty to conduct further air quality assessments
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - PART 5 Noise abatement zones
+    - Removal of power of local authorities to designate area as noise abatement zone
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+- SCHEDULE 14 Abolition of office of the Chief Executive of Skills Funding
+  - PART 1 Main amendments
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+  - PART 2 Consequential Amendments
+    - Parliamentary Commissioner Act 1967 (c.13)
+      - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - Education (Fees and Awards) Act 1983 (c.40)
+      - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - Employment Act 1988 (c.19)
+      - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - Education Reform Act 1988 (c.40)
+      - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - Further and Higher Education Act 1992 (c.13)
+      - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+      - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+      - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+      - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+      - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - Value Added Tax Act 1994 (c.23)
+      - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - Education Act 1996 (c.56)
+      - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+      - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+      - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - Learning and Skills Act 2000 (c.21)
+      - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - Education Act 2002 (c.32)
+      - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+    - Education Act 2005 (c.18)
+      - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+      - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+      - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - Education and Inspections Act 2006 (c.40)
+      - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+      - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+      - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+      - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+      - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+      - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+      - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+      - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+      - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - Local Government and Public Involvement in Health Act 2007 (c.28)
+      - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+    - Education and Skills Act 2008 (c.25)
+      - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+      - [Sch. 14 para. 61](schedule/14/paragraph/61.md)
+      - [Sch. 14 para. 62](schedule/14/paragraph/62.md)
+      - [Sch. 14 para. 63](schedule/14/paragraph/63.md)
+      - [Sch. 14 para. 64](schedule/14/paragraph/64.md)
+    - Education Act 2011 (c.21)
+      - [Sch. 14 para. 65](schedule/14/paragraph/65.md)
+- SCHEDULE 15 Further and higher education: reduction of burdens
+  - PART 1 Measures applying to England and Wales
+    - Control of interest rates on loans
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Powers of Secretary of State in relation to local authority maintained institutions
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Transfer of property etc
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - PART 2 Measures applying to England only
+    - Control of governance of designated institutions conducted by companies
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Conversion of sixth form college corporations into further education corporations
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Powers of Secretary of State in relation to local authority maintained institutions
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Regulation of qualification requirements for teaching staff and principals
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+- SCHEDULE 16 Schools: reduction of burdens
+  - Responsibility for determining behaviour policy
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Home-school agreements
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Determining school terms
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Staffing matters
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Publication of reports
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+- SCHEDULE 17 Part to be inserted as Part 5A of the Licensing Act 2003
+- SCHEDULE 18 Amendments consequential on section 69
+  - Licensing Act 2003 (c. 17)
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - Police Reform and Social Responsibility Act 2011 (c. 13)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+- SCHEDULE 19 CLC practitioner services: consequential amendments
+  - Administration of Justice Act 1985 (c. 61)
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - Legal Services Act 2007 (c. 29)
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+- SCHEDULE 20 The Council for Licensed Conveyancers: other amendments
+  - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+- SCHEDULE 21 Poisons and explosives precursors
+  - Abolition of Poisons Board
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Establishment of common regulatory system
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+    - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+    - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+- SCHEDULE 22 Removal of consultation requirements
+  - PART 1 Measures affecting England only
+    - National Parks and Access to the Countryside Act 1949: making of byelaws
+      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - Pests Act 1954: designation of rabbit clearance areas
+      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - Agriculture and Horticulture Act 1964: grading etc of horticultural produce
+      - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - Control of Pollution Act 1974: reduction of noise from plant or machinery
+      - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - Agriculture (Miscellaneous Provisions) Act 1976: metrication of measurements
+      - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - Forestry Act 1979: metrication of measurements
+      - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - Derelict Land Act 1982: grants for reclaiming or improving derelict land etc
+      - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - Horticultural Produce Act 1986: movement of horticultural produce
+      - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - ...
+      - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - Land Drainage Act 1991: codes of practice
+      - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - Environment Act 1995: National Park grant
+      - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - Environment Act 1995: hedgerows
+      - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+    - Environment Act 1995: environmental subordinate legislation
+      - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+    - Local Government Act 1999: keeping of accounts by best value authorities
+      - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+    - Countryside and Rights of Way Act 2000: grants to conservation boards
+      - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+    - Fire and Rescue Services Act 2004: schemes for combining fire and rescue authorities
+      - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+  - PART 2 Measures affecting England and Wales
+    - Water Industry Act 1991: provision of sewers
+      - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+    - Local Government Act 2003: commencement of BID arrangements following appeal
+      - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+- SCHEDULE 23 Legislation no longer of practical use
+  - PART 1 Companies
+    - Companies Act 2006 (c. 46)
+      - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - PART 2 Industry
+    - Newspaper Libel and Registration Act 1881 (c. 60)
+      - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+      - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - Mining Industry Act 1920 (c. 50)
+      - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+      - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - Mining Industry Act 1926 (c. 28)
+      - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - Industry Act 1972 (c. 63)
+      - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - Aircraft and Shipbuilding Industries Act 1977 (c. 3)
+      - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+      - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - British Steel Act 1988 (c. 35)
+      - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+      - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+      - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - European Communities (Definition of Treaties) (International Railway Tariffs Agreements) Order 1980 (S.I. 1980/1094)
+      - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+  - PART 3 Energy
+    - Atomic Energy Act 1946 (c. 80)
+      - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+      - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+    - Energy Act 1976 (c. 76)
+      - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+      - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+    - Nuclear Industry (Finance) Act 1977 (c. 7)
+      - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - Sustainable Energy Act 2003 (c. 30)
+      - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - Electricity and Gas (Energy Efficiency Obligations) Orders
+      - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+      - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+  - PART 4 Transport
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+    - Subordinate legislation relating to railways
+      - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+  - PART 5 Environment
+    - Farm and Garden Chemicals Act 1967 (c. 50)
+      - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+      - [Sch. 23 para. 25](schedule/23/paragraph/25.md)
+    - Merchant Shipping Act 1988 (c. 12)
+      - [Sch. 23 para. 26](schedule/23/paragraph/26.md)
+    - Statutory Water Companies Act 1991 (c. 58)
+      - [Sch. 23 para. 27](schedule/23/paragraph/27.md)
+      - [Sch. 23 para. 28](schedule/23/paragraph/28.md)
+    - Sea Fish (Conservation) Act 1992 (c. 60)
+      - [Sch. 23 para. 29](schedule/23/paragraph/29.md)
+    - Highways (Assessment of Environmental Effects) Regulations 1988 and 1994
+      - [Sch. 23 para. 30](schedule/23/paragraph/30.md)
+  - PART 6 Animals and Food
+    - Sea Fisheries Act 1868 and other fisheries legislation
+      - [Sch. 23 para. 31](schedule/23/paragraph/31.md)
+      - [Sch. 23 para. 32](schedule/23/paragraph/32.md)
+    - Agricultural Produce (Grading and Marking) Acts 1928 and 1931
+      - [Sch. 23 para. 33](schedule/23/paragraph/33.md)
+      - [Sch. 23 para. 34](schedule/23/paragraph/34.md)
+    - Breeding of Dogs Act 1973 (c. 60)
+      - [Sch. 23 para. 35](schedule/23/paragraph/35.md)
+      - [Sch. 23 para. 36](schedule/23/paragraph/36.md)
+    - Animal Health Act 1981 (c. 22)
+      - [Sch. 23 para. 37](schedule/23/paragraph/37.md)
+      - [Sch. 23 para. 38](schedule/23/paragraph/38.md)
+    - Milk: cessation of production
+      - [Sch. 23 para. 39](schedule/23/paragraph/39.md)
+      - [Sch. 23 para. 40](schedule/23/paragraph/40.md)
+    - Breeding and Sale of Dogs (Welfare) Act 1999 (c. 11)
+      - [Sch. 23 para. 41](schedule/23/paragraph/41.md)
+    - Coal and Other Mines (Horses) Order (S.I. 1956/1777)
+      - [Sch. 23 para. 42](schedule/23/paragraph/42.md)
+  - PART 7 Education
+    - Greenwich Hospital School (Regulations) (Amendment) Order 1948 (S.I. 1948/2792)
+      - [Sch. 23 para. 43](schedule/23/paragraph/43.md)
+  - PART 8 Civil law
+    - Defamation Act 1996 (c. 31)
+      - [Sch. 23 para. 44](schedule/23/paragraph/44.md)
+  - PART 9 Criminal law
+    - Town Police Clauses Act 1847 (10 &11 Vict. (c. 89))
+      - [Sch. 23 para. 45](schedule/23/paragraph/45.md)
+  - PART 10 Housing
+    - Housing Act 1988 (c. 50)
+      - [Sch. 23 para. 46](schedule/23/paragraph/46.md)
