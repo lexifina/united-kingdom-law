@@ -1,0 +1,327 @@
+# Housing (Scotland) Act 1988
+
+1988 c. 43. Enacted 1988-11-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
+
+Source: https://www.legislation.gov.uk/ukpga/1988/43/2026-05-01
+
+## Contents
+
+- Part I Scottish Homes
+  - Establishment and functions
+    - [s. 1 Scottish Homes.](section/1.md)
+    - [s. 2 General functions of Scottish Homes.](section/2.md)
+    - [s. 2A ................................](section/2A.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Finance and administration
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+- Part II Rented Accommodation
+  - Assured tenancies
+    - [s. 12 Assured tenancies.](section/12.md)
+    - [s. 13 Letting of a house together with other land.](section/13.md)
+    - [s. 14 Tenant sharing accommodation with persons other than landlord.](section/14.md)
+    - [s. 15 Certain sublettings not to exclude any part of sub-lessor’s premises from assured tenancy.](section/15.md)
+  - Assured tenancies—security of tenure
+    - [s. 16 Security of tenure](section/16.md)
+    - [s. 17 Fixing of terms of statutory assured tenancy.](section/17.md)
+    - [s. 18 Orders for possession.](section/18.md)
+    - [s. 19 Notice of proceedings for possession.](section/19.md)
+    - [s. 19A Requirement to notify local authority of proceedings for possession](section/19A.md)
+    - [s. 20 Extended discretion of First-tier Tribunal in possession claims](section/20.md)
+    - [s. 21 Special provisions applicable to shared accommodation.](section/21.md)
+    - [s. 22 Payment of removal expenses in certain cases.](section/22.md)
+  - Assured tenancies—rents and other terms
+    - [s. 23 Limited prohibition on assignation etc. without consent.](section/23.md)
+    - [s. 23A Rent cap controls](section/23A.md)
+    - [s. 24 Increases of rent under assured tenancies.](section/24.md)
+    - [s. 24A Consideration of notice to increase rent by rent officer](section/24A.md)
+    - [s. 24B Right of appeal to First-tier Tribunal against order of rent officer](section/24B.md)
+    - [s. 24C First-tier Tribunal’s power to set rent subject to permitted rate](section/24C.md)
+    - [s. 24D Withdrawal of referral or appeal](section/24D.md)
+    - [s. 24E Landlord application to rent officer to increase rent above permitted rate](section/24E.md)
+    - [s. 24F Rent officer’s power to apply rent increase above permitted rate](section/24F.md)
+    - [s. 24G Appeal to the First-tier Tribunal](section/24G.md)
+    - [s. 24H Withdrawal or dismissal of appeal to the First-tier Tribunal](section/24H.md)
+    - [s. 24I Finality of First-tier Tribunal’s decision](section/24I.md)
+    - [s. 24J Powers to adjust maximum amount of increased costs by which rent may be increased](section/24J.md)
+    - [s. 24K Liability for underpaid rent](section/24K.md)
+    - [s. 25 Determination of rent by the First-tier Tribunal](section/25.md)
+    - [s. 25ZA Power to modify this Part](section/25ZA.md)
+    - [s. 25ZB Determination of rent payable](section/25ZB.md)
+    - [s. 25ZC Determination of open market rent](section/25ZC.md)
+    - [s. 25A Assured tenancies: transitional provisions](section/25A.md)
+    - [s. 25B Determination of rent by the First-tier Tribunal where section 25A applies](section/25B.md)
+    - [s. 26 Access for repairs.](section/26.md)
+    - [s. 26A Discriminatory terms relating to children or benefits status](section/26A.md)
+  - Assured tenancies—miscellaneous
+    - [s. 27 Prohibition of premiums etc. on assured tenancies.](section/27.md)
+    - [s. 28 Effect of termination of tenancy on sub-tenancies which are or are under assured tenancies.](section/28.md)
+    - [s. 29 Restriction on diligence.](section/29.md)
+    - [s. 30 Duty of landlord under assured tenancy to provide written tenancy document and weekly rent book.](section/30.md)
+    - [s. 30A Duty of landlord to provide certain information](section/30A.md)
+    - [s. 30B Duty of landlord to provide certain information: further provision](section/30B.md)
+    - [s. 31 Right of succession of spouse.](section/31.md)
+    - [s. 31A Succession after the Private Housing (Tenancies) (Scotland) Act 2016 comes into force](section/31A.md)
+  - Short assured tenancies
+    - [s. 32 Short assured tenancies.](section/32.md)
+    - [s. 33 Recovery of possession on termination of a short assured tenancy.](section/33.md)
+    - [s. 34 Reference of rents under short assured tenancies to the First-tier Tribunal](section/34.md)
+    - [s. 35 Disapplication of the First-tier Tribunal’s functions under section 34](section/35.md)
+  - Protection from eviction
+    - [s. 36 Damages for unlawful eviction.](section/36.md)
+    - [s. 37 The measure of damages.](section/37.md)
+    - [s. 38 Further offence of harassment.](section/38.md)
+    - [s. 39 Variation of scope of sections 23 and 24 of Rent (Scotland) Act 1984.](section/39.md)
+    - [s. 40 Cases excluded from sections 23 and 24 of Rent (Scotland) Act 1984.](section/40.md)
+  - Power to repeal sections 33 and 58 of Rent (Scotland) Act 1984
+    - [s. 41 Power of Secretary of State to repeal sections 33 and 58 of Rent (Scotland) Act 1984 and to reduce phasing progressively.](section/41.md)
+  - Phasing out of Rent (Scotland) Act 1984 and other transitional provisions
+    - [s. 42 New protected tenancies restricted to special cases.](section/42.md)
+    - [s. 43 Removal of special regimes for tenancies of housing associations etc.](section/43.md)
+    - [s. 44 New “Part VII” contracts limited to transitional cases.](section/44.md)
+    - [s. 45 Transfer of existing tenancies.](section/45.md)
+    - [s. 46 Statutory tenants: succession.](section/46.md)
+  - Phasing out of assured tenancies
+    - [s. 46A Change to private residential tenancy by agreement](section/46A.md)
+  - General provisions
+    - [s. 47 Rent (Scotland) Act 1984 not to apply to tenancies subject to shared ownership agreements.](section/47.md)
+    - [s. 48 First-tier Tribunal: procedure and information powers](section/48.md)
+    - [s. 48A Amounts attributable to services.](section/48A.md)
+    - [s. 49 Information as to determination of rents.](section/49.md)
+    - [s. 50 Powers of local authorities for the purposes of giving information.](section/50.md)
+    - [s. 51 Application to Crown.](section/51.md)
+    - [s. 52 Saving for common law as to effect of notice of termination upon tacit relocation.](section/52.md)
+    - [s. 53 Orders and regulations.](section/53.md)
+    - [s. 54 Notice under Part II.](section/54.md)
+    - [s. 55 Interpretation of Part II.](section/55.md)
+- Part III Change of Landlord: Secure Tenants
+  - [s. 56 Right conferred by Part III.](section/56.md)
+  - [s. 57 Persons by whom right may be exercised.](section/57.md)
+  - [s. 58 Application to exercise rights conferred by this Part and offer to sell.](section/58.md)
+  - [s. 59 Variation of conditions.](section/59.md)
+  - [s. 60 Notice of acceptance.](section/60.md)
+  - [s. 61 Refusal of applications.](section/61.md)
+  - [s. 62 Reference to Lands Tribunal.](section/62.md)
+  - [s. 63 Consent for subsequent disposals.](section/63.md)
+  - [s. 64 Extension etc. of relevant periods.](section/64.md)
+- Part IV Miscellaneous and General
+  - [s. 65 “Cost floor” limit on discount on price of house purchased by secure tenant.](section/65.md)
+  - [s. 66 Schemes for payments to assist local authority tenants to obtain other accommodation.](section/66.md)
+  - [s. 67 Abolition and capitalisation of certain subsidies and contributions.](section/67.md)
+  - [s. 68 Abolition of local authority’s power to refer Part VII contracts to the First-tier Tribunal](section/68.md)
+  - [s. 69 Exclusion of SSHA, development corporations and co-operative housing associations from rent limitation under Part VI of Rent (Scotland) Act 1984.](section/69.md)
+  - [s. 70 ................................](section/70.md)
+  - [s. 71 Power of development corporations to dispose of housing land.](section/71.md)
+  - [s. 72 Amendments to the Housing (Scotland) Act 1987 and other enactments and repeals.](section/72.md)
+  - [s. 73 Finance.](section/73.md)
+  - [s. 74 Short title, commencement and extent.](section/74.md)
+- SCHEDULE 1
+  - Incorporation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Status
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Membership
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Chairman and Deputy Chairmen
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration, Allowances and Pensions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Staff
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Proceedings
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Committees
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Execution of Documents
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Amendments Consequential on Establishing of Scottish Homes and Abolition of SSHA
+  - General
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 c. 13.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 c. 24.
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Local Government (Scotland) Act 1975 c. 30.
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Rent (Scotland) Act 1984 c. 58.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Housing Associations Act 1985 c. 69.
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Housing (Scotland) Act 1987 c. 26.
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Local Government Act 1988 c. 9.
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3
+- SCHEDULE 4 Tenancies which cannot be Assured Tenancies
+  - Tenancies entered into before commencement
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Tenancies at a low rent
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Tenancies of shops
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Licensed premises
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Tenancies of agricultural land
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Tenancies of agricultural holdings
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Lettings to students
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Holiday lettings
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Resident landlords
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Crown tenancies
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Local authority and other tenancies
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Accommodation for offenders
+    - [Sch. 4 heading local-authority-and-other-tenancies para. 11A](schedule/4/crossheading/local-authority-and-other-tenancies/paragraph/11A.md)
+  - Accommodation for homeless persons
+    - [Sch. 4 heading accommodation-for-homeless-persons para. 11A](schedule/4/crossheading/accommodation-for-homeless-persons/paragraph/11A.md)
+  - Accommodation for asylum-seekers
+    - [Sch. 4 para. 11B](schedule/4/paragraph/11B.md)
+  - ...
+    - [Sch. 4 para. 11Bn1](schedule/4/paragraph/11Bn1.md)
+  - Shared ownership agreements
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Transitional cases
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Grounds for Possession of Houses let on Assured Tenancies
+  - Part I Certain grounds on which First-tier Tribunal may order possession
+    - Ground 1
+    - Ground 2
+    - Ground 3
+    - Ground 4
+    - Ground 5
+    - Ground 6
+    - Ground 7
+    - Ground 8
+  - Part II Further grounds on which First-tier Tribunal may order possession
+    - Ground 9
+    - Ground 10
+    - Ground 11
+    - Ground 12
+    - Ground 13
+    - Ground 14
+    - Ground 15
+    - Ground 16
+    - Ground 17
+  - Part III Suitable Alternative Accommodation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Part IV Notices relating to recovery of Possession
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Statutory or Statutory Assured Tenants by Succession
+  - Part I New Schedules 1A and 1B to Rent (Scotland) Act 1984
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Part II Statutory Assured Tenants by Succession—Modification of Enactments
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Housing (Scotland) Act 1987—Amendments connected with Consolidation
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+- SCHEDULE 8 Housing (Scotland) Act 1987— Minor Amendments
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Consequential Amendments
+  - Land Compensation (Scotland) Act 1973 c. 56.
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Local Government, Planning and Land Act 1980 c. 65.
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Matrimonial Homes (Family Protection) (Scotland) Act 1981 c. 59.
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Rent (Scotland) Act 1984 c. 58.
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Housing Associations Act 1985 c. 69.
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Housing (Scotland) Act 1987 c. 26.
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+- SCHEDULE 10 Repeals
