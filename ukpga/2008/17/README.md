@@ -1,0 +1,1109 @@
+# Housing and Regeneration Act 2008
+
+2008 c. 17. Enacted 2008-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
+
+Source: https://www.legislation.gov.uk/ukpga/2008/17/2026-05-01
+
+## Contents
+
+- Part 1 The Homes and Communities Agency
+  - Chapter 1 General
+    - [s. 1 Establishment and constitution](section/1.md)
+    - [s. 2 Objects](section/2.md)
+    - [s. 3 Principal powers](section/3.md)
+    - [s. 4 Powers: general](section/4.md)
+  - Chapter 2 Land and infrastructure
+    - Exercise of functions by strategic authorities
+      - [s. 4A Purpose of exercise of functions](section/4A.md)
+    - General
+      - [s. 5 Powers to provide housing or other land](section/5.md)
+      - [s. 6 Powers for regeneration, development or effective use of land](section/6.md)
+      - [s. 7 Powers in relation to infrastructure](section/7.md)
+    - Powers to deal with land etc.
+      - [s. 8 Powers to deal with land etc.](section/8.md)
+      - [s. 9 Acquisition of land](section/9.md)
+      - [s. 9A Compulsory acquisition of land by strategic authorities outside London](section/9A.md)
+      - [s. 10 Restrictions on disposal of land](section/10.md)
+    - Powers in relation to acquired land
+      - [s. 11 Main powers in relation to acquired land](section/11.md)
+      - [s. 12 Powers in relation to, and for, statutory undertakers](section/12.md)
+    - Planning
+      - [s. 13 Power of Secretary of State to make designation orders](section/13.md)
+      - [s. 14 Contents of designation orders](section/14.md)
+      - [s. 15 HCA as local planning authority: local involvement](section/15.md)
+      - [s. 16 Regional planning](section/16.md)
+    - Other powers etc. in relation to land
+      - [s. 17 Power to enter and survey land](section/17.md)
+      - [s. 18 Section 17: supplementary](section/18.md)
+  - Chapter 3 Financial provision
+    - Powers to give financial assistance
+      - [s. 19 Financial assistance](section/19.md)
+    - Borrowing powers of the HCA
+      - [s. 20 Powers to borrow](section/20.md)
+      - [s. 21 Loans by the Secretary of State](section/21.md)
+      - [s. 22 Guarantees by the Secretary of State](section/22.md)
+      - [s. 23 Financial limits](section/23.md)
+    - Other
+      - [s. 24 Power to charge for certain activities](section/24.md)
+      - [s. 25 Directions as to surplus funds](section/25.md)
+      - [s. 26 Duty to act as agent in respect of regeneration and development](section/26.md)
+      - [s. 27 Duty to act as agent in respect of derelict land etc.](section/27.md)
+  - Chapter 4 Other functions of the HCA
+    - General
+      - [s. 28 Business](section/28.md)
+      - [s. 29 Powers to form companies etc.](section/29.md)
+      - [s. 30 Community services](section/30.md)
+    - Social housing
+      - [s. 31 Duties in relation to social housing](section/31.md)
+      - [s. 32 Recovery etc. of social housing assistance](section/32.md)
+      - [s. 33 Section 32: interest and successors in title](section/33.md)
+      - [s. 34 Determinations under sections 32 and 33](section/34.md)
+      - [s. 35 Duty to give financial assistance in respect of certain disposals](section/35.md)
+      - [s. 36 Information in relation to social housing](section/36.md)
+      - [s. 36A Co-operation with the Regulator of Social Housing](section/36A.md)
+      - [s. 37 Duty to co-operate with Regulator of Social Housing](section/37.md)
+    - Information, education and guidance etc.
+      - [s. 38 Information services](section/38.md)
+      - [s. 39 Advice, education and training](section/39.md)
+      - [s. 40 Guidance](section/40.md)
+    - Functions in relation to companies and other persons
+      - [s. 41 Control of subsidiaries](section/41.md)
+      - [s. 42 Agency arrangements with UDCs](section/42.md)
+      - [s. 43 Acting with, or for, other persons: general](section/43.md)
+      - [s. 44 Local government involvement](section/44.md)
+    - Other
+      - [s. 45 Support services](section/45.md)
+  - Chapter 5 Supplementary
+    - Certain supervisory powers of the Secretary of State
+      - [s. 46 Guidance by the Secretary of State](section/46.md)
+      - [s. 47 Directions by the Secretary of State](section/47.md)
+      - [s. 48 Consents of the Secretary of State](section/48.md)
+    - Abolition of existing bodies
+      - [s. 49 Abolition of Urban Regeneration Agency](section/49.md)
+      - [s. 50 Abolition of the Commission for the New Towns](section/50.md)
+      - [s. 51 Property etc. transfers to the HCA and the Welsh Ministers](section/51.md)
+      - [s. 52 Role of the HCA in relation to former CNT functions](section/52.md)
+      - [s. 53 Interim arrangements](section/53.md)
+    - Other
+      - [s. 54 Other property etc transfers to the HCA](section/54.md)
+      - [s. 53B Tax consequences of transfers under section 53A](section/53B.md)
+      - [s. 54n1 Validity of transactions](section/54n1.md)
+      - [s. 55 Notices](section/55.md)
+      - [s. 56 Consequential amendments: Part 1](section/56.md)
+      - [s. 57 Interpretation: Part 1](section/57.md)
+      - [s. 58 Index of defined expressions: Part 1](section/58.md)
+- Part 2 Regulation of Social Housing
+  - Chapter 1 Introduction
+    - Preliminary
+      - [s. 59 Purpose](section/59.md)
+      - [s. 60 Structural overview](section/60.md)
+      - [s. 61 Restriction of “registered social landlord” system to Wales](section/61.md)
+      - [s. 62 References to Welsh Ministers](section/62.md)
+      - [s. 63 References to National Assembly for Wales](section/63.md)
+      - [s. 64 Dissolution of Housing Corporation](section/64.md)
+      - [s. 65 Transfer schemes](section/65.md)
+      - [s. 66 Interim arrangements](section/66.md)
+      - [s. 67 Transitional arrangements](section/67.md)
+    - Social housing
+      - [s. 68 Basic principle](section/68.md)
+      - [s. 69 Low cost rental](section/69.md)
+      - [s. 70 Low cost home ownership](section/70.md)
+      - [s. 71 Shared ownership low cost rental](section/71.md)
+      - [s. 72 Regulations](section/72.md)
+      - [s. 73 Leaving the social housing stock: sale](section/73.md)
+      - [s. 74 Leaving the social housing stock: ending of lease](section/74.md)
+      - [s. 74A Leaving the social housing stock: transfer by private providers](section/74A.md)
+      - [s. 75 Leaving the social housing stock: local authority disposal with consent](section/75.md)
+      - [s. 76 Leaving the social housing stock: regulator’s direction](section/76.md)
+      - [s. 77 Housing stock under Housing Act 1996](section/77.md)
+    - Other key concepts
+      - [s. 78 Regulator of Social Housing](section/78.md)
+      - [s. 79 English bodies](section/79.md)
+      - [s. 80 Provider of social housing](section/80.md)
+  - Chapter 2 The Social Housing Regulator
+    - The Regulator
+      - [s. 80A Establishment](section/80A.md)
+      - [s. 80B Membership](section/80B.md)
+      - [s. 80C Terms of appointment of members](section/80C.md)
+      - [s. 80D Staff](section/80D.md)
+    - Constitution
+      - [s. 81 Establishment](section/81.md)
+      - [s. 82 Membership](section/82.md)
+      - [s. 83 Tenure](section/83.md)
+      - [s. 84 Chief executive](section/84.md)
+      - [s. 85 Other staff](section/85.md)
+    - Proceedings
+      - [s. 86 Fundamental objectives](section/86.md)
+      - [s. 87 Procedure](section/87.md)
+      - [s. 88 Conflict of interest](section/88.md)
+      - [s. 89 Committees](section/89.md)
+      - [s. 90 Delegation](section/90.md)
+      - [s. 91 Seal](section/91.md)
+      - [s. 92 Annual report](section/92.md)
+    - ................................
+      - [s. 92A Regulation functions of the HCA](section/92A.md)
+      - [s. 92B The Regulation Committee](section/92B.md)
+      - [s. 92C Membership of the Regulation Committee](section/92C.md)
+      - [s. 92D Terms of appointment of members](section/92D.md)
+      - [s. 92E Remuneration etc of members](section/92E.md)
+      - [s. 92F Sub-committees of the Regulation Committee](section/92F.md)
+      - [s. 92G Procedure of the Committee and its sub-committees](section/92G.md)
+      - [s. 92H Members’ interests](section/92H.md)
+      - [s. 92I Exercise of functions](section/92I.md)
+      - [s. 92J Recommendations to HCA](section/92J.md)
+    - Fundamental objectives
+      - [s. 92K Fundamental objectives](section/92K.md)
+    - Procedure etc.
+      - [s. 92L Committees](section/92L.md)
+      - [s. 92M Procedure](section/92M.md)
+      - [s. 92N Conflict of interest](section/92N.md)
+      - [s. 92O Delegation](section/92O.md)
+      - [s. 92P Members’ interests](section/92P.md)
+      - [s. 92Q Seal](section/92Q.md)
+    - Powers
+      - [s. 93 General](section/93.md)
+      - [s. 94 Studies](section/94.md)
+      - [s. 95 Financial assistance](section/95.md)
+      - [s. 96 Evidence](section/96.md)
+      - [s. 96A Advisory panel](section/96A.md)
+      - [s. 97 Information, advice etc.](section/97.md)
+      - [s. 98 Tenant involvement](section/98.md)
+    - Money
+      - [s. 99 Remuneration](section/99.md)
+      - [s. 99A Remuneration](section/99A.md)
+      - [s. 100 Charging](section/100.md)
+      - [s. 100A Assistance by Secretary of State](section/100A.md)
+      - [s. 100B Borrowing](section/100B.md)
+      - [s. 100C Accounts](section/100C.md)
+      - [s. 100D Regulator’s annual report](section/100D.md)
+      - [s. 100E Financial year](section/100E.md)
+    - Relationship with the HCA
+      - [s. 100F Cooperation with the HCA](section/100F.md)
+      - [s. 100Gn1 Direction to the HCA](section/100Gn1.md)
+    - Relationship with housing ombudsman
+      - [s. 100H Relationship with housing ombudsman](section/100H.md)
+      - [s. 101 Assistance by Secretary of State](section/101.md)
+      - [s. 102 Borrowing](section/102.md)
+      - [s. 103 Accounts](section/103.md)
+      - [s. 104 Financial year](section/104.md)
+    - Relationship with other bodies
+      - [s. 105 Cooperation with the HCA](section/105.md)
+      - [s. 106 Direction to the HCA](section/106.md)
+      - [s. 106A Cooperation with the Audit Commission](section/106A.md)
+    - Information
+      - [s. 107 Collection](section/107.md)
+      - [s. 108 Section 107: supplemental](section/108.md)
+      - [s. 109 Disclosure](section/109.md)
+  - Chapter 3 Registration
+    - Introduction
+      - [s. 110 Overview](section/110.md)
+      - [s. 111 The register](section/111.md)
+    - Eligibility
+      - [s. 112 Eligibility for voluntary registration](section/112.md)
+      - [s. 113 Section 112: exceptions](section/113.md)
+      - [s. 114 Registration of local authorities](section/114.md)
+      - [s. 114A Local authorities: duty to notify](section/114A.md)
+      - [s. 115 Profit-making and non-profit organisations](section/115.md)
+    - Procedure
+      - [s. 116 Entry in the register: voluntary registration](section/116.md)
+      - [s. 117 Fees](section/117.md)
+      - [s. 118 De-registration: compulsory](section/118.md)
+      - [s. 119 De-registration: voluntary](section/119.md)
+      - [s. 120 Notice](section/120.md)
+      - [s. 121 Appeal](section/121.md)
+  - Chapter 4 Registered providers
+    - General provisions
+      - [s. 122 Payments to members etc.](section/122.md)
+      - [s. 123 Disposal of property](section/123.md)
+      - [s. 124 Complaints](section/124.md)
+      - [s. 125 Voluntary undertaking](section/125.md)
+      - [s. 126 Sustainable community strategies](section/126.md)
+    - Health and safety lead for registered provider
+      - [s. 126A Designation of health and safety lead](section/126A.md)
+      - [s. 126B Functions of the health and safety lead](section/126B.md)
+      - [s. 126C Duties of registered provider in relation to health and safety lead](section/126C.md)
+      - [s. 126D Health and safety lead: general](section/126D.md)
+    - Accounts
+      - [s. 127 Directions](section/127.md)
+      - [s. 128 Submission to regulator](section/128.md)
+      - [s. 129 Companies or limited liability partnerships exempt from audit](section/129.md)
+      - [s. 130 Exempt companies or limited liability partnerships: accountant’s report](section/130.md)
+      - [s. 131 Exempt companies or limited liability partnerships: reporting accountant](section/131.md)
+      - [s. 132 Application of Companies Act](section/132.md)
+      - [s. 133 Exempt companies or limited liability partnerships: extraordinary audit](section/133.md)
+      - [s. 134 Non-audited registered society](section/134.md)
+      - [s. 135 Charity](section/135.md)
+      - [s. 136 Charity: audit](section/136.md)
+      - [s. 137 Charity: auditor’s report](section/137.md)
+      - [s. 138 Charity: accountant’s report](section/138.md)
+      - [s. 139 Charity: extraordinary audit](section/139.md)
+      - [s. 140 Charity: auditor’s powers](section/140.md)
+      - [s. 141 Offences](section/141.md)
+      - [s. 142 High Court](section/142.md)
+      - [s. 143 Disclosure](section/143.md)
+    - Insolvency etc.
+      - [s. 143A Application of rules about insolvency](section/143A.md)
+      - [s. 144 Preparatory steps: notice](section/144.md)
+      - [s. 145 Moratorium](section/145.md)
+      - [s. 146 Ending of moratorium](section/146.md)
+      - [s. 147 Further moratorium](section/147.md)
+      - [s. 148 Effect of moratorium](section/148.md)
+      - [s. 149 Exempted disposals](section/149.md)
+      - [s. 150 Disposals without consent](section/150.md)
+      - [s. 151 Interim manager](section/151.md)
+      - [s. 152 Proposals](section/152.md)
+      - [s. 153 Proposals: procedure](section/153.md)
+      - [s. 154 Proposals: effect](section/154.md)
+      - [s. 155 Manager: appointment](section/155.md)
+      - [s. 156 Manager: powers](section/156.md)
+      - [s. 157 Manager of registered society: extra powers](section/157.md)
+      - [s. 158 Assistance by regulator](section/158.md)
+      - [s. 159 Applications to court](section/159.md)
+    - Restructuring and dissolution
+      - [s. 159A Application of rules about restructuring and dissolution](section/159A.md)
+      - [s. 160 Company and limited liability partnership: arrangements and reconstructions](section/160.md)
+      - [s. 161 Company: conversion into registered society](section/161.md)
+      - [s. 161A Company: receipt of transfer of engagements from registered society](section/161A.md)
+      - [s. 162 Company: winding up](section/162.md)
+      - [s. 163 Registered society: restructuring](section/163.md)
+      - [s. 163A Restructuring of registered societies: registration of successor bodies](section/163A.md)
+      - [s. 163B Registered society: receipt of transfer of engagements from another registered society](section/163B.md)
+      - [s. 164 Registered society: winding up](section/164.md)
+      - [s. 165 Registered society: dissolution](section/165.md)
+      - [s. 166 Winding up petition by regulator](section/166.md)
+      - [s. 167 Transfer of property](section/167.md)
+      - [s. 168 Section 167: supplemental](section/168.md)
+      - [s. 169 Extension of sections 167 and 168](section/169.md)
+    - Notification of constitutional changes
+      - [s. 169ZA Application of rules about notification of constitutional changes](section/169ZA.md)
+      - [s. 169A Registered societies: change of rules etc](section/169A.md)
+      - [s. 169B Charity: change to trusts etc](section/169B.md)
+      - [s. 169C Companies: change of articles etc](section/169C.md)
+      - [s. 169CA Limited liability partnership: change of name etc](section/169CA.md)
+    - Notification of change of control
+      - [s. 169CB Application of rules about notification of change of control](section/169CB.md)
+      - [s. 169CC Change in board members](section/169CC.md)
+      - [s. 169CD Change in subsidiary status](section/169CD.md)
+    - Directions about notifications
+      - [s. 169D Directions about notifications](section/169D.md)
+  - Chapter 5 Disposal of propertyby private registered providers
+    - Introductory
+      - [s. 170 Overview](section/170.md)
+      - [s. 171 Power to dispose](section/171.md)
+    - Notification of regulator
+      - [s. 172 Requirement of consent](section/172.md)
+      - [s. 173 Exceptions](section/173.md)
+      - [s. 174 Procedure](section/174.md)
+      - [s. 175 Disposal without consent](section/175.md)
+      - [s. 176 Notification where disposal consent not required](section/176.md)
+    - ................................
+      - [s. 177 Separate accounting](section/177.md)
+      - [s. 178 Use of proceeds](section/178.md)
+    - ................................
+      - [s. 179 Application of Housing Act 1996](section/179.md)
+    - Right to acquire
+      - [s. 180 Right to acquire](section/180.md)
+      - [s. 181 Interpretation: “publicly funded”](section/181.md)
+      - [s. 182 Interpretation: “remained in the social rented sector”](section/182.md)
+      - [s. 183 Interpretation: other expressions](section/183.md)
+      - [s. 184 Right to acquire: supplemental](section/184.md)
+      - [s. 185 Right to acquire: consequential amendments](section/185.md)
+    - Miscellaneous
+      - [s. 186 Former registered providers](section/186.md)
+      - [s. 187 Change of use, etc.](section/187.md)
+      - [s. 188 Trustees](section/188.md)
+      - [s. 189 Charities](section/189.md)
+    - Consents under other legislation
+      - [s. 190 Consent to disposals under other legislation](section/190.md)
+      - [s. 191 Section 190: consequential amendments](section/191.md)
+  - Chapter 6 Regulatory powers
+    - [s. 192 Overview](section/192.md)
+    - Standards
+      - [s. 193 Standards relating to consumer matters](section/193.md)
+      - [s. 194 Standards relating to economic matters](section/194.md)
+      - [s. 194A Standards relating to competence and conduct](section/194A.md)
+      - [s. 194B Meaning of “services provider”, “senior housing executive” and “senior housing manager”](section/194B.md)
+      - [s. 194C Standards relating to information and transparency](section/194C.md)
+      - [s. 195 Code of practice](section/195.md)
+      - [s. 196 Consultation](section/196.md)
+      - [s. 197 Direction by Secretary of State](section/197.md)
+      - [s. 198 Supplemental](section/198.md)
+      - [s. 198A Failure to meet standard under section 193](section/198A.md)
+      - [s. 198B Failure to meet standard under section 194](section/198B.md)
+    - Performance information
+      - [s. 198C Directions about performance information](section/198C.md)
+    - Monitoring
+      - [s. 199 Survey](section/199.md)
+      - [s. 199A Survey: power to enter without warrant](section/199A.md)
+      - [s. 199B Survey: power to enter with warrant](section/199B.md)
+      - [s. 200 Survey: supplemental](section/200.md)
+      - [s. 201 Inspections](section/201.md)
+      - [s. 201A Inspection plan](section/201A.md)
+      - [s. 202 Inspections: supplemental](section/202.md)
+      - [s. 203 Inspector’s powers](section/203.md)
+      - [s. 203A Action after inspection](section/203A.md)
+      - [s. 204 Performance information](section/204.md)
+      - [s. 205 Publication of performance information](section/205.md)
+      - [s. 206 Inquiry](section/206.md)
+      - [s. 207 Inquiry: supplemental](section/207.md)
+      - [s. 208 Inquiry: evidence](section/208.md)
+      - [s. 209 Inquiry: charities](section/209.md)
+      - [s. 210 Extraordinary audit](section/210.md)
+      - [s. 210A Extraordinary audit: local authorities](section/210A.md)
+    - ................................
+      - [s. 211 Non-profit providers only](section/211.md)
+      - [s. 212 Registered society: change of rules](section/212.md)
+      - [s. 213 Charity: change of objects](section/213.md)
+      - [s. 214 Companies: change of articles](section/214.md)
+    - Guidance
+      - [s. 215 Use of intervention powers](section/215.md)
+      - [s. 216 Consultation](section/216.md)
+    - Managers of social housing
+      - [s. 217 Accreditation](section/217.md)
+      - [s. 217A Implied terms of management services agreements relating to qualifications](section/217A.md)
+  - Chapter 7 Enforcement powers
+    - General
+      - [s. 218 Exercise of enforcement powers](section/218.md)
+    - Performance improvement plans
+      - [s. 218A Performance improvement plan notice](section/218A.md)
+      - [s. 218B Performance improvement plans](section/218B.md)
+      - [s. 218C Cancellation of performance improvement plan](section/218C.md)
+      - [s. 218D Appeals](section/218D.md)
+    - Enforcement notice
+      - [s. 219 Overview](section/219.md)
+      - [s. 220 Grounds for giving notice](section/220.md)
+      - [s. 221 Content](section/221.md)
+      - [s. 222 Notifying HCA etc](section/222.md)
+      - [s. 223 Appeal](section/223.md)
+      - [s. 224 Withdrawal](section/224.md)
+      - [s. 225 Sanction](section/225.md)
+    - Emergency remedial action
+      - [s. 225A Overview](section/225A.md)
+      - [s. 225B Power to take emergency remedial action](section/225B.md)
+      - [s. 225C Emergency remedial action: power to enter without warrant](section/225C.md)
+      - [s. 225D Power under section 225C: supplementary](section/225D.md)
+      - [s. 225E Emergency remedial action: power to enter with warrant](section/225E.md)
+      - [s. 225F Offences](section/225F.md)
+      - [s. 225G Reclaiming expenses](section/225G.md)
+      - [s. 225H Appeals](section/225H.md)
+    - Penalty
+      - [s. 226 Overview](section/226.md)
+      - [s. 227 Grounds for imposition](section/227.md)
+      - [s. 228 Imposition](section/228.md)
+      - [s. 229 Amount](section/229.md)
+      - [s. 230 Warning](section/230.md)
+      - [s. 231 Representations](section/231.md)
+      - [s. 231A Notifying the HCA](section/231A.md)
+      - [s. 232 Notifying HCA](section/232.md)
+      - [s. 232A Notifying the Greater London Authority](section/232A.md)
+      - [s. 233 Destination](section/233.md)
+      - [s. 234 Enforcement](section/234.md)
+      - [s. 235 Appeal](section/235.md)
+    - Compensation
+      - [s. 236 Overview](section/236.md)
+      - [s. 237 Grounds for award](section/237.md)
+      - [s. 238 Nature](section/238.md)
+      - [s. 239 Housing ombudsman compensation](section/239.md)
+      - [s. 240 Award](section/240.md)
+      - [s. 241 Impact](section/241.md)
+      - [s. 242 Warning](section/242.md)
+      - [s. 243 Representations](section/243.md)
+      - [s. 244 Enforcement](section/244.md)
+      - [s. 245 Appeal](section/245.md)
+    - Management etc.
+      - [s. 246 Overview](section/246.md)
+      - [s. 247 Management tender](section/247.md)
+      - [s. 248 Section 247: supplemental](section/248.md)
+      - [s. 249 Management transfer](section/249.md)
+      - [s. 250 Section 249: supplemental](section/250.md)
+      - [s. 250A Sections 247 and 249: local authorities](section/250A.md)
+      - [s. 251 Appointment of manager of private registered provider](section/251.md)
+      - [s. 252 Section 251: supplemental](section/252.md)
+      - [s. 252A Appointment of advisers to local authorities](section/252A.md)
+      - [s. 253 Transfer of land by private registered provider](section/253.md)
+      - [s. 254 Section 253: supplemental](section/254.md)
+      - [s. 255 Amalgamation](section/255.md)
+    - Restrictions on dealings by ... registered providers
+      - [s. 256 Restrictions on dealings during inquiry](section/256.md)
+      - [s. 257 Restrictions on dealings following inquiry](section/257.md)
+      - [s. 258 Restrictions on dealings: supplemental](section/258.md)
+    - Suspension and removal of officers of ... registered providers
+      - [s. 259 Suspension during inquiry](section/259.md)
+      - [s. 260 Removal or suspension following inquiry](section/260.md)
+      - [s. 261 Suspension under section 259 or 260: supplemental](section/261.md)
+      - [s. 262 Disqualification of removed person](section/262.md)
+      - [s. 263 Register of disqualified persons](section/263.md)
+      - [s. 264 Acting while disqualified: offence](section/264.md)
+      - [s. 265 Acting while disqualified: other consequences](section/265.md)
+      - [s. 266 Removal of officers](section/266.md)
+      - [s. 267 Section 266: supplemental](section/267.md)
+      - [s. 268 Appeal against removal or suspension](section/268.md)
+      - [s. 269 Appointment of new officers](section/269.md)
+    - Censure of local authority employees
+      - [s. 269A Local authorities: censure during or following inquiry](section/269A.md)
+      - [s. 269B Response to censure notice](section/269B.md)
+  - Chapter 8 General
+    - Interpretation
+      - [s. 270 Officer](section/270.md)
+      - [s. 271 Subsidiary and associate](section/271.md)
+      - [s. 272 Family](section/272.md)
+      - [s. 273 Disposal](section/273.md)
+      - [s. 274 Charities that have “received public assistance”](section/274.md)
+      - [s. 275 General](section/275.md)
+      - [s. 276 Index of defined terms](section/276.md)
+    - Miscellaneous
+      - [s. 276A Exercise of powers: land with a Crown or Duchy interest](section/276A.md)
+      - [s. 276B Data protection](section/276B.md)
+      - [s. 277 Consequential amendments](section/277.md)
+      - [s. 278 Transitional](section/278.md)
+      - [s. 278A Power to nominate for consultation purposes](section/278A.md)
+- Part 3 Other provisions
+  - Chapter 1 Sustainability certificates
+    - General
+      - [s. 279 Certificates for new homes](section/279.md)
+      - [s. 280 Meaning of sustainability](section/280.md)
+      - [s. 281 Authorised assessors](section/281.md)
+      - [s. 282 Register of certificates](section/282.md)
+    - Enforcement
+      - [s. 283 Enforcement authorities](section/283.md)
+      - [s. 284 Power to require production of certificates or statements](section/284.md)
+      - [s. 285 Penalty charge notices](section/285.md)
+      - [s. 286 Offences relating to enforcement officers](section/286.md)
+    - Supplementary
+      - [s. 287 Grants](section/287.md)
+      - [s. 288 Suspension of duties](section/288.md)
+      - [s. 289 Disclosure of certificates etc.](section/289.md)
+      - [s. 290 General powers to make regulations](section/290.md)
+      - [s. 291 Powers to extend Chapter](section/291.md)
+      - [s. 292 Chapter 1: interpretation etc.](section/292.md)
+      - [s. 293 Index of defined expressions: Chapter 1](section/293.md)
+  - Chapter 2 Landlord and tenant matters
+    - Tenant empowerment
+      - [s. 294 Ballots before certain disposals to private landlords](section/294.md)
+      - [s. 295 Management agreements: extending requirements to co-operate](section/295.md)
+      - [s. 296 Requirements to co-operate in relation to certain disposals of land](section/296.md)
+    - Family intervention tenancies
+      - [s. 297 Family intervention tenancies: general](section/297.md)
+      - [s. 298 Certain family intervention tenancies: termination](section/298.md)
+    - Possession orders
+      - [s. 299 Possession orders relating to certain tenancies](section/299.md)
+    - Leasehold enfranchisement
+      - [s. 300 Right to acquire freehold: abolition of low rent test](section/300.md)
+      - [s. 301 Shared ownership leases: protection for certain leases](section/301.md)
+      - [s. 302 Shared ownership leases: protection for hard to replace houses](section/302.md)
+    - Service charges
+      - [s. 303 Service charges: provision of information and designated accounts](section/303.md)
+    - Right to buy etc: miscellaneous
+      - [s. 304 Exclusion of the right to buy: possession orders](section/304.md)
+      - [s. 305 Exclusion of the right to buy: demolition notices](section/305.md)
+      - [s. 306 Review of determination of value](section/306.md)
+      - [s. 307 Approved lending institutions](section/307.md)
+      - [s. 308 Former right to buy and other flats: service charge loans](section/308.md)
+      - [s. 309 Former right to buy and other flats: equity share purchases](section/309.md)
+      - [s. 310 Other amendments](section/310.md)
+    - Other
+      - [s. 311 Disposals of dwelling-houses by local authorities](section/311.md)
+      - [s. 312 Financial assistance for information and other services](section/312.md)
+  - Chapter 3 Housing finance and other provisions
+    - Housing Revenue Account subsidy
+      - [s. 313 Exclusions from subsidy arrangements](section/313.md)
+    - Homelessness and allocation of housing
+      - [s. 314 Ineligible persons from abroad: statutory disregards](section/314.md)
+      - [s. 315 Armed forces: local connection test](section/315.md)
+    - Other
+      - [s. 316 Amendments to Housing Act 1985: lending institutions](section/316.md)
+      - [s. 317 Building regulations: time limit for prosecutions](section/317.md)
+      - [s. 318 Protected mobile home sites to include sites for gypsies and travellers](section/318.md)
+      - [s. 319 Financial assistance for certain services about commonhold](section/319.md)
+- Part 4 Supplementary and final provisions
+  - [s. 320 Orders and regulations](section/320.md)
+  - [s. 321 Consequential amendments and repeals](section/321.md)
+  - [s. 322 Transitional, transitory or saving provision](section/322.md)
+  - [s. 323 Financial provisions](section/323.md)
+  - [s. 324 Extent](section/324.md)
+  - [s. 325 Commencement](section/325.md)
+  - [s. 326 Short title](section/326.md)
+- SCHEDULE 1 The Homes and Communities Agency
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Terms of appointment of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Remuneration etc: members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Staff
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Financial provision
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Committees
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Procedure and members’ interests
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Reports, accounts etc.
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Supplementary and transitional provisions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Acquisition of land
+  - Part 1 Compulsory acquisition of land
+    - Application of Acquisition of Land Act 1981 (c. 67)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Extinguishment of private rights of way etc.
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - New rights: Compulsory Purchase Act 1965 (c. 56)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - New rights: specific adaptations of 1965 Act
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - New rights: compensation
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Part 2 Acquisition by agreement
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Main powers in relation to land acquired ...
+  - Part 1 Powers to override easements etc.
+    - Powers to override easements etc. in undertaking works or using land
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Compensation for overridden easements etc.
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part 2 Powers to extinguish public rights of way
+    - Powers of Secretary of State to extinguish public rights of way by order
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Notification of proposal to make order
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Duty to consider objections
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Duty to give opportunity to appear
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Power to treat objection as irrelevant
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Power to curtail decision-making process
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Power to hold public local inquiry
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Orders relating to electronic communications apparatus: removal or abandonment of apparatus
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Orders relating to electronic communications apparatus: notice requirements
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Supplementary: Part 2
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Part 3 Powers in relation to burial grounds and consecrated land etc.
+    - Burial grounds
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Consecrated land other than burial grounds
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Other land connected to religious worship
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Regulations: general
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Regulations about human remains and monuments
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Disapplication of faculties
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Disapplication of section 25 of the Burial Act 1857
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Interpretation: Part 3
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 Powers in relation to, and for, statutory undertakers
+  - Part 1 Extinguishment or removal powers for the HCA
+    - Notice for extinguishment of rights of undertakers or for removal of their apparatus
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Counter-notices
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Effect of unopposed notice
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Opposed notices and Ministerial orders
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Compensation
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Electronic communications
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Part 2 Powers for undertakers to carry out works
+    - Notices to carry out works
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Counter-notices
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Effect of unopposed notice
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Opposed notices and Ministerial orders
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Power to arrange for the works to be done ...
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Compensation
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Electronic communications
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Part 3 Extension or modification of functions of undertakers
+    - Ministerial order following representations by statutory undertakers
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Ministerial order following representations by the HCA or a strategic authority outside London
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Examples of contents of orders
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Notification of proposal to make order
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Duty to consider objections
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Duty to give opportunity to appear
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Power to treat objection as irrelevant
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Power to curtail decision-making process
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Power to hold public local inquiry
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Special parliamentary procedure for orders
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Part 4 Relieving undertakers of obligations
+    - Orders to relieve obligations
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Notification of proposal to make order
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Duty to consider objections
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Duty to give opportunity to appear
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - Power to treat objection as irrelevant
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - Power to curtail decision-making process
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Power to hold public local inquiry
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - Notification procedure after the making of an order
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - Operative date of orders
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - Special parliamentary procedure for orders
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - Legal challenges to orders
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+  - Part 5 Supplementary
+    - Orders and directions
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - Interpretation
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+- SCHEDULE 5 Amendments of the New Towns Act 1981
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+- SCHEDULE 6 Transfer schemes
+  - Creation and apportionment of property, rights and liabilities etc.
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Employment contracts
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Civil servants treated as employed under a contract of employment etc.
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Compensation
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Continuity
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Supplementary etc. provision
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Transfer schemes: tax
+  - Overview
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Key concepts
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Other definitions
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Corporation tax: continuity of trade
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Corporation tax: capital allowances
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Corporation tax: capital gains
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Corporation tax: intangible assets
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Corporation tax: loan relationships
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Stamp duty
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Amendments of enactments: Part 1
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Land Compensation Act 1961 (c. 33)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Public Health Act 1961 (c. 64)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - National Loans Act 1968 (c. 13)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Land Compensation Act 1973 (c. 26)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Rent Act 1977 (c. 42)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Protection from Eviction Act 1977 (c. 43)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - Landlord and Tenant Act 1985 (c. 70)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - Landlord and Tenant Act 1987 (c. 31)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+  - Local Government Act 1988 (c. 9)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+  - Planning (Hazardous Substances) Act 1990 (c. 10)
+    - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+    - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+  - Taxation of Chargeable Gains Act 1992 (c. 12)
+    - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+  - Finance Act 1996 (c. 8)
+    - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+  - Regional Development Agencies Act 1998 (c. 45)
+    - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+    - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+    - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+    - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+    - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+    - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+    - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+    - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+    - [Sch. 8 para. 75](schedule/8/paragraph/75.md)
+    - [Sch. 8 para. 76](schedule/8/paragraph/76.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 8 para. 77](schedule/8/paragraph/77.md)
+  - Finance Act 2003 (c. 14)
+    - [Sch. 8 para. 78](schedule/8/paragraph/78.md)
+    - [Sch. 8 para. 79](schedule/8/paragraph/79.md)
+    - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 8 para. 81](schedule/8/paragraph/81.md)
+  - Finance Act 2004 (c. 12)
+    - [Sch. 8 para. 82](schedule/8/paragraph/82.md)
+  - Local Government and Public Involvement in Health Act 2007 (c. 28)
+    - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+- SCHEDULE 9 Amendments of enactments: Part 2
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Interpretation Act 1978 (c. 30)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Housing Associations Act 1985 (c. 69)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Taxation of Chargeable Gains Act 1992 (c. 12)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - Finance Act 2003 (c. 14)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+  - Finance Act 2004 (c. 12)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - Income Tax Act 2007 (c. 3)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+- SCHEDULE 10 Penalty charge notices
+  - Contents of notice
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Review and withdrawal of notice
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Appeals
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Recovery of penalty charge
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Repayments
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Supplementary
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 Possession orders relating to certain tenancies
+  - Part 1 Amendments to the Housing Acts of 1985, 1988 and 1996
+    - Housing Act 1985 (c. 68)
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Housing Act 1988 (c. 50)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Housing Act 1996 (c. 52)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Transitional provisions
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Part 2 Replacement of certain terminated tenancies
+    - Circumstances in which replacement tenancies arise
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Nature of replacement tenancies
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - Status of possession order and other court orders
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - Continuity of tenancies
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - Compliance with consultation requirements
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - Joint tenancies
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - Successor landlords
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - Supplementary
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+- SCHEDULE 12 Service charges: provision of information and designated accounts
+  - Landlord and Tenant Act 1985 (c. 70)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Landlord and Tenant Act 1987 (c. 31)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+- SCHEDULE 13 Demolition notices
+  - Final demolition notices
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Initial demolition notices
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Transitional provision
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+- SCHEDULE 14 Disposals of dwelling-houses by local authorities
+  - Housing Act 1985 (c. 68)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+- SCHEDULE 15 Ineligible persons from abroad: statutory disregards
+  - Part 1 England and Wales
+    - Housing Act 1996 (c. 52)
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Part 2 Scotland and Northern Ireland
+    - Housing (Scotland) Act 1987 (c. 26)
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+      - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Housing (Northern Ireland) Order 1988 (S.I. 1988/1990 (N.I. 23))
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - Part 3 Consequential amendments
+    - Criminal Justice and Immigration Act 2008 (c. 4)
+      - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+      - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+      - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+- SCHEDULE 16 Repeals and revocations
