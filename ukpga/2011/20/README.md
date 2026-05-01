@@ -2,9 +2,9 @@
 
 2011 c. 20. Enacted 2011-11-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-04-29
+Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-05-01
 
 ## Contents
 
@@ -250,8 +250,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-04-29
       - [s. 160 Succession to secure tenancies](section/160.md)
       - [s. 161 Succession to assured tenancies](section/161.md)
       - [s. 162 Secure and assured tenancies: recovery of possession after tenant’s death](section/162.md)
-      - [s. 163 Assured shorthold tenancy following demoted or family intervention tenancy](section/163.md)
-      - [s. 164 Assured shorthold tenancies: notice requirements](section/164.md)
+      - [s. 163](section/163.md)
+      - [s. 164](section/164.md)
       - [s. 165 Assured shorthold tenancies: rights to acquire](section/165.md)
       - [s. 166 Repairing obligations in leases of seven years or more](section/166.md)
   - CHAPTER 3 Housing finance
