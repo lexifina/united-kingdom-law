@@ -1,0 +1,1598 @@
+# Capital Allowances Act 2001
+
+2001 c. 2. Enacted 2001-03-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2001/2
+
+Source: https://www.legislation.gov.uk/ukpga/2001/2/2026-05-01
+
+## Contents
+
+- Part 1 Introduction
+  - Chapter 1 Capital allowances: general
+    - [s. 1 Capital allowances](section/1.md)
+    - [s. 1A Capital allowances and charges: cash basis](section/1A.md)
+    - [s. 2 General means of giving effect to capital allowances](section/2.md)
+    - [s. 3 Claims for capital allowances](section/3.md)
+    - [s. 4 Capital expenditure](section/4.md)
+    - [s. 5 When capital expenditure is incurred](section/5.md)
+    - [s. 6 Meaning of “chargeable period”](section/6.md)
+  - CHAPTER 1A Trades attracting Northern Ireland rate of corporation tax
+    - [s. 6A “NIRE company” and “SME (Northern Ireland employer) company”](section/6A.md)
+    - [s. 6B “Northern Ireland firm” etc](section/6B.md)
+    - [s. 6C “NI rate activity”](section/6C.md)
+    - [s. 6D NI rate activity treated as separate trade](section/6D.md)
+    - [s. 6E Giving effect to allowances and charges: NI rate activity cases](section/6E.md)
+  - Chapter 2 Exclusion of double relief
+    - [s. 7 No double allowances](section/7.md)
+    - [s. 8 No double relief through pooling under Part 2 (plant and machinery allowances)](section/8.md)
+    - [s. 9 Interaction between fixtures claims and other claims](section/9.md)
+    - [s. 10 Interpretation](section/10.md)
+- Part 2 Plant and machinery allowances
+  - Chapter 1 Introduction
+    - [s. 11 General conditions as to availability of plant and machinery allowances](section/11.md)
+    - [s. 12 Expenditure incurred before qualifying activity carried on](section/12.md)
+    - [s. 13 Use for qualifying activity of plant or machinery provided for other purposes](section/13.md)
+    - [s. 13A Use for other purposes of plant or machinery previously used for long funding leasing](section/13A.md)
+    - [s. 13B Use for other purposes of plant or machinery: property businesses](section/13B.md)
+    - [s. 14 Use for qualifying activity of plant or machinery which is a gift](section/14.md)
+  - Chapter 2 Qualifying activities
+    - [s. 15 Qualifying activities](section/15.md)
+    - [s. 16 Ordinary UK property businesses](section/16.md)
+    - [s. 17 UK furnished holiday lettings businesses](section/17.md)
+    - [s. 17A Ordinary overseas property business](section/17A.md)
+    - [s. 17B EEA furnished holiday lettings businesses](section/17B.md)
+    - [s. 18 Managing the investments of a company with investment business](section/18.md)
+    - [s. 19 Special leasing of plant or machinery](section/19.md)
+    - [s. 20 Employments and offices](section/20.md)
+  - Chapter 3 Qualifying expenditure
+    - Buildings, structures and land
+      - [s. 21 Buildings](section/21.md)
+      - [s. 22 Structures, assets and works](section/22.md)
+      - [s. 23 Expenditure unaffected by sections 21 and 22](section/23.md)
+      - [s. 24 Interests in land](section/24.md)
+      - [s. 25 Building alterations connected with installation of plant or machinery](section/25.md)
+    - Demolition costs
+      - [s. 26 Demolition costs](section/26.md)
+    - Expenditure on thermal insulation and personal security
+      - [s. 27 Application of Part to thermal insulation and personal security](section/27.md)
+      - [s. 28 Thermal insulation of ... buildings](section/28.md)
+      - [s. 29 Fire safety](section/29.md)
+      - [s. 30 Safety at designated sports grounds](section/30.md)
+      - [s. 31 Safety at regulated stands at sports grounds](section/31.md)
+      - [s. 32 Safety at other sports grounds](section/32.md)
+      - [s. 33 Personal security](section/33.md)
+    - Expenditure on integral features
+      - [s. 33A Expenditure on provision or replacement of integral features](section/33A.md)
+      - [s. 33B Meaning of “replacement” in section 33A](section/33B.md)
+    - Exclusion of certain types of expenditure
+      - [s. 34 Expenditure by MPs and others on accommodation](section/34.md)
+      - [s. 34A Expenditure on plant or machinery for long funding leasing not qualifying expenditure](section/34A.md)
+      - [s. 35 Expenditure on plant or machinery for use in dwelling-house not qualifying expenditure in certain cases](section/35.md)
+      - [s. 36 Restriction on qualifying expenditure in case of employment or office](section/36.md)
+      - [s. 37 Exclusion where sums payable in respect of depreciation](section/37.md)
+      - [s. 38 Production animals etc.](section/38.md)
+      - [s. 38ZA Vehicles for which deductions allowed at fixed rate under Part 2 of ITTOIA 2005](section/38ZA.md)
+  - Chapter 3A AIA qualifying expenditure
+    - [s. 38A AIA qualifying expenditure](section/38A.md)
+    - [s. 38B General exclusions applying to section 38A](section/38B.md)
+  - Chapter 4 First-year qualifying expenditure
+    - General
+      - [s. 39 First-year allowances available for certain types of qualifying expenditure only](section/39.md)
+    - Types of expenditure which may qualify for first-year allowances
+      - [s. 40 Expenditure incurred for Northern Ireland purposes by small or medium-sized enterprises](section/40.md)
+      - [s. 41 Miscellaneous exclusions from section 40 (expenditure for Northern Ireland purposes etc.)](section/41.md)
+      - [s. 42 Exclusion of plant or machinery partly for use outside Northern Ireland](section/42.md)
+      - [s. 43 Effect of plant or machinery subsequently being primarily for use outside Northern Ireland](section/43.md)
+      - [s. 44 Expenditure incurred by small or medium-sized enterprises](section/44.md)
+      - [s. 45 ICT expenditure incurred by small enterprises](section/45.md)
+      - [s. 45A Expenditure on energy-saving plant or machinery](section/45A.md)
+      - [s. 45AA Section 45A exclusion: feed-in tariffs and renewable heat incentives](section/45AA.md)
+      - [s. 45B Certification of energy-saving plant and machinery](section/45B.md)
+      - [s. 45C Energy-saving components of plant or machinery](section/45C.md)
+      - [s. 45D Expenditure on cars with low carbon dioxide emissions](section/45D.md)
+      - [s. 45DA Expenditure on zero-emission goods vehicles](section/45DA.md)
+      - [s. 45DB Exclusions from allowances under section 45DA](section/45DB.md)
+      - [s. 45E Expenditure on plant or machinery for gas refuelling station](section/45E.md)
+      - [s. 45EA Expenditure on plant or machinery for electric vehicle charging point](section/45EA.md)
+      - [s. 45F Expenditure on plant and machinery for use wholly in a ring fence trade](section/45F.md)
+      - [s. 45G Plant or machinery used for less than five years in a ring fence trade](section/45G.md)
+      - [s. 45H Expenditure on environmentally beneficial plant or machinery](section/45H.md)
+      - [s. 45I Certification of environmentally beneficial plant and machinery](section/45I.md)
+      - [s. 45J Environmentally beneficial components of plant or machinery](section/45J.md)
+      - [s. 45K Expenditure on plant and machinery for use in designated assisted areas](section/45K.md)
+      - [s. 45L Exclusion of plant or machinery partly for use outside designated assisted areas](section/45L.md)
+      - [s. 45M Exclusions from allowances under section 45K](section/45M.md)
+      - [s. 45N Effect of plant or machinery subsequently being primarily for use outside designated assisted areas](section/45N.md)
+      - [s. 45O Expenditure on plant and machinery for use in special tax sites](section/45O.md)
+      - [s. 45P Power to amend conditions](section/45P.md)
+      - [s. 45Q Exclusion of plant or machinery partly for use outside special tax sites](section/45Q.md)
+      - [s. 45R Effect of failing to comply with ongoing requirements](section/45R.md)
+      - [s. 45S Expenditure on plant or machinery in other cases](section/45S.md)
+      - [s. 45T Exclusion of expenditure incurred under disqualifying arrangements](section/45T.md)
+      - [s. 45U Expenditure on plant or machinery in cases not falling with section 45S etc](section/45U.md)
+      - [s. 45V Exclusion of expenditure incurred under disqualifying arrangements](section/45V.md)
+      - [s. 46 General exclusions ...](section/46.md)
+    - Expenditure of small or medium-sized enterprises
+      - [s. 47 Expenditure of small or medium-sized enterprises: companies](section/47.md)
+      - [s. 48 Expenditure of small or medium-sized enterprises: businesses](section/48.md)
+      - [s. 49 Whether company is a member of a large or medium-sized group](section/49.md)
+    - Supplementary
+      - [s. 50 Time when expenditure is incurred](section/50.md)
+      - [s. 51 Disclosure of information between UK tax authorities](section/51.md)
+  - Chapter 5 Allowances and charges
+    - Annual investment allowance
+      - [s. 51A Entitlement to annual investment allowance](section/51A.md)
+      - [s. 51B First restriction: companies](section/51B.md)
+      - [s. 51C Second restriction: groups of companies](section/51C.md)
+      - [s. 51D Third restriction: groups of companies under common control](section/51D.md)
+      - [s. 51E Fourth restriction: other companies under common control](section/51E.md)
+      - [s. 51F Companies and groups: meaning of “control”](section/51F.md)
+      - [s. 51G Companies and groups: meaning of “related”](section/51G.md)
+      - [s. 51H Fifth restriction: qualifying activities under common control](section/51H.md)
+      - [s. 51I Qualifying activities: meaning of control](section/51I.md)
+      - [s. 51J Qualifying activity: meaning of “related”](section/51J.md)
+      - [s. 51JA Sixth restriction: allocation where profits chargeable at NI rate](section/51JA.md)
+      - [s. 51K Operation of annual investment allowance where restrictions apply](section/51K.md)
+      - [s. 51L Special provision for short chargeable periods](section/51L.md)
+      - [s. 51M Special provision for long chargeable periods](section/51M.md)
+      - [s. 51N Special provision for long chargeable periods: supplementary](section/51N.md)
+    - First-year allowances
+      - [s. 52 First-year allowances](section/52.md)
+    - Prevention of double relief
+      - [s. 52A Prevention of double relief](section/52A.md)
+    - Pooling
+      - [s. 53 Pooling of qualifying expenditure](section/53.md)
+      - [s. 54 The different kinds of pools](section/54.md)
+    - Writing-down and balancing allowances and balancing charges
+      - [s. 55 Determination of entitlement or liability](section/55.md)
+      - [s. 56 Amount of allowances and charges](section/56.md)
+      - [s. 56A Writing-down allowances for small pools](section/56A.md)
+    - Available qualifying expenditure
+      - [s. 57 Available qualifying expenditure](section/57.md)
+      - [s. 58 Initial allocation of qualifying expenditure to pools](section/58.md)
+      - [s. 59 Unrelieved qualifying expenditure](section/59.md)
+    - Special balancing charge in cases of full expensing etc
+      - [s. 59A Disposal of assets where first-year allowance made under section 45S for expenditure which is not special rate expenditure](section/59A.md)
+      - [s. 59B Disposal of assets where first-year allowance made under section 45S for expenditure which is special rate expenditure](section/59B.md)
+      - [s. 59C Sections 59A and 59B: tax avoidance arrangements](section/59C.md)
+    - Disposal events and disposal values: general
+      - [s. 60 Meaning of “disposal receipt” and “disposal event”](section/60.md)
+      - [s. 61 Disposal events and disposal values](section/61.md)
+      - [s. 62 General limit on amount of disposal value](section/62.md)
+      - [s. 62A Cases in which disposal value is transition value](section/62A.md)
+      - [s. 63 Cases in which disposal value is nil](section/63.md)
+      - [s. 64 Case in which no disposal value need be brought into account](section/64.md)
+      - [s. 64A Leased assets: arrangements reducing disposal value of asset](section/64A.md)
+    - The final chargeable period
+      - [s. 65 The final chargeable period](section/65.md)
+    - List of provisions outside this Chapter about disposal values
+      - [s. 66 List of provisions outside this Chapter about disposal values](section/66.md)
+    - Application of Chapter to person leaving cash basis
+      - [s. 66A Persons leaving cash basis](section/66A.md)
+    - Effect of changes in Northern Ireland status of SME company or SME partnership
+      - [s. 66B SME company entering NI corporation tax regime](section/66B.md)
+      - [s. 66C SME partnership entering NI corporation tax regime](section/66C.md)
+      - [s. 66D SME company leaving NI corporation tax regime](section/66D.md)
+      - [s. 66E SME partnership leaving NI corporation tax regime](section/66E.md)
+  - Chapter 6 Hire-purchase etc. and plant or machinery provided by lessee
+    - Hire-purchase and similar contracts
+      - [s. 67 Plant or machinery treated as owned by person entitled to benefit of contract, etc.](section/67.md)
+      - [s. 68 Disposal value on cessation of notional ownership](section/68.md)
+      - [s. 69 Hire-purchase etc. and fixtures](section/69.md)
+    - Plant or machinery provided by lessee
+      - [s. 70 Plant or machinery provided by lessee](section/70.md)
+    - Lessees under long funding leases
+      - [s. 70A Entitlement to capital allowances](section/70A.md)
+      - [s. 70B Long funding operating lease: amount of capital expenditure](section/70B.md)
+      - [s. 70C Long funding finance lease: amount of capital expenditure](section/70C.md)
+      - [s. 70D Long funding finance lease: additional expenditure: allowances for lessee](section/70D.md)
+      - [s. 70DA Transfer and long funding leaseback: restrictions on lessee’s allowances](section/70DA.md)
+      - [s. 70E Disposal events and disposal values](section/70E.md)
+  - Chapter 6A Interpretation of provisions about long funding leases
+    - Introductory
+      - [s. 70F Introductory](section/70F.md)
+    - Meaning of “long funding lease” etc
+      - [s. 70G “Long funding lease”](section/70G.md)
+      - [s. 70H Lessee: requirement for tax return treating lease as long funding lease](section/70H.md)
+      - [s. 70I “Short lease”](section/70I.md)
+      - [s. 70J “Funding lease”](section/70J.md)
+    - Meaning of “plant or machinery lease”
+      - [s. 70K “Plant or machinery lease”](section/70K.md)
+      - [s. 70L Plant or machinery leased with other assets: separate derived leases](section/70L.md)
+      - [s. 70M Derived leases of plant or machinery: term and rentals](section/70M.md)
+    - The tests for being a funding lease
+      - [s. 70N The finance lease test](section/70N.md)
+      - [s. 70O The lease payments test](section/70O.md)
+      - [s. 70P The useful economic life test](section/70P.md)
+    - Leases excluded by right of lessor etc to claim capital allowances
+      - [s. 70Q Leases excluded by right of lessor etc to claim capital allowances](section/70Q.md)
+    - Excluded leases of background plant or machinery for a building
+      - [s. 70R Excluded leases of background plant or machinery for a building](section/70R.md)
+      - [s. 70S The disqualifications](section/70S.md)
+      - [s. 70T Orders relating to background plant or machinery for a building](section/70T.md)
+    - Exclusion for certain plant or machinery leased with land
+      - [s. 70U Plant or machinery leased with land: low percentage value](section/70U.md)
+    - Avoidance
+      - [s. 70V Tax avoidance involving international leasing](section/70V.md)
+    - Transfers, assignments, novations, leaseback, variations etc
+      - [s. 70W Transfers, assignments etc by lessor](section/70W.md)
+      - [s. 70X Transfers, assignments etc by lessee](section/70X.md)
+      - [s. 70Y Sale and leaseback, lease and leaseback etc: lessors](section/70Y.md)
+      - [s. 70YA Change in accountancy classification of long funding lease](section/70YA.md)
+      - [s. 70YB Long funding operating lease: extension of term of lease](section/70YB.md)
+      - [s. 70YC Extension of term of lease that is not a long funding lease](section/70YC.md)
+      - [s. 70YD Increase in proportion of residual amount guaranteed: review of status](section/70YD.md)
+    - Interpretation
+      - [s. 70YE “Minimum lease payments”](section/70YE.md)
+      - [s. 70YF The “term” of a lease](section/70YF.md)
+      - [s. 70YG “Termination amount”](section/70YG.md)
+      - [s. 70YH “Termination value”](section/70YH.md)
+      - [s. 70YI General definitions](section/70YI.md)
+      - [s. 70YJ Power to vary the meaning of certain expressions](section/70YJ.md)
+  - Chapter 7 Computer software
+    - [s. 71 Software and rights to software](section/71.md)
+    - [s. 72 Disposal values](section/72.md)
+    - [s. 73 Limit on disposal values](section/73.md)
+  - Chapter 8 Cars, etc.
+    - Cars above the cost threshold
+      - [s. 74 Single asset pool](section/74.md)
+      - [s. 75 General limit on amount of writing-down allowance](section/75.md)
+      - [s. 76 Limit where part of expenditure met by another person](section/76.md)
+      - [s. 77 Car used partly for purposes other than those of qualifying activity](section/77.md)
+      - [s. 78 Effect of partial depreciation subsidy](section/78.md)
+      - [s. 79 Cases where Chapter 17 (anti-avoidance) applies](section/79.md)
+    - Vehicles provided for purposes of employment or office
+      - [s. 80 Vehicles provided for purposes of employment or office](section/80.md)
+    - Interpretation
+      - [s. 81 Extended meaning of “car”](section/81.md)
+      - [s. 82 Qualifying hire cars](section/82.md)
+  - Chapter 9 Short-life assets
+    - [s. 83 Meaning of “short-life asset”](section/83.md)
+    - [s. 84 Cases in which short-life asset treatment is ruled out](section/84.md)
+    - [s. 85 Election for short-life asset treatment: procedure](section/85.md)
+    - [s. 86 Short-life asset pool](section/86.md)
+    - [s. 87 Short-life assets provided for leasing](section/87.md)
+    - [s. 88 Sales at under-value](section/88.md)
+    - [s. 89 Disposal to connected person](section/89.md)
+  - Chapter 10 Long-life assets
+    - Long-life asset expenditure
+      - [s. 90 Long-life asset expenditure](section/90.md)
+      - [s. 91 Meaning of “long-life asset”](section/91.md)
+      - [s. 92 Application of Chapter to part of expenditure](section/92.md)
+    - Expenditure excluded from being long-life asset expenditure
+      - [s. 93 Fixtures etc.](section/93.md)
+      - [s. 94 Ships](section/94.md)
+      - [s. 95 Railway assets](section/95.md)
+      - [s. 96 Cars](section/96.md)
+      - [s. 97 Expenditure within the relevant monetary limit: general](section/97.md)
+      - [s. 98 Expenditure to which the monetary limits apply](section/98.md)
+      - [s. 99 The monetary limit](section/99.md)
+      - [s. 100 Exceeding the monetary limit](section/100.md)
+    - Rules applying to long-life asset expenditure
+      - [s. 101 Allocation of long-life asset expenditure to pool](section/101.md)
+      - [s. 102 Writing-down allowance in respect of long-life asset expenditure](section/102.md)
+    - Anti-avoidance provisions
+      - [s. 103 Later claims](section/103.md)
+      - [s. 104 Disposal value of long-life assets](section/104.md)
+  - Chapter 10A Special rate expenditure
+    - Special rate expenditure
+      - [s. 104A Special rate expenditure](section/104A.md)
+      - [s. 104AA Meaning of “main rate car”](section/104AA.md)
+      - [s. 104B Application of Chapter to part of expenditure](section/104B.md)
+    - Rules applying to special rate expenditure
+      - [s. 104C Special rate pool](section/104C.md)
+      - [s. 104D Writing-down allowances at 6% or 10%](section/104D.md)
+      - [s. 104E Disposal value of special rate assets](section/104E.md)
+      - [s. 104F Special rate cars: discontinued activity continued by relevant company](section/104F.md)
+      - [s. 104G Disposal events in respect of cushion gas](section/104G.md)
+  - Chapter 11 Overseas leasing
+    - Basic terms
+      - [s. 105 “Leasing”, “overseas leasing” etc.](section/105.md)
+      - [s. 106 The designated period](section/106.md)
+    - Certain expenditure to be pooled
+      - [s. 107 The overseas leasing pool](section/107.md)
+      - [s. 108 Effect of disposal to connected person on overseas leasing pool](section/108.md)
+    - Allowances reduced or, in certain cases, prohibited
+      - [s. 109 Writing-down allowances at 10%](section/109.md)
+      - [s. 110 Cases where allowances are prohibited](section/110.md)
+    - Recovery of excess allowances
+      - [s. 111 Excess allowances: standard recovery mechanism](section/111.md)
+      - [s. 112 Excess allowances: connected persons](section/112.md)
+      - [s. 113 Excess allowances: special provision for ships](section/113.md)
+    - Recovery of allowances given in cases where prohibition applies
+      - [s. 114 Prohibited allowances: standard recovery mechanism](section/114.md)
+      - [s. 115 Prohibited allowances: connected persons](section/115.md)
+    - Application of Chapter in relation to joint lessees
+      - [s. 116 Mitigation of regime](section/116.md)
+      - [s. 117 Recovery of allowances in case of joint lessees](section/117.md)
+    - Duties to supply information
+      - [s. 118 Certificate relating to protected leasing](section/118.md)
+      - [s. 119 Notice of change of use of plant or machinery](section/119.md)
+      - [s. 120 Notice and joint lessees](section/120.md)
+    - Qualifying purposes
+      - [s. 121 Meaning of “short-term leasing”](section/121.md)
+      - [s. 122 Short-term leasing by buyer, lessee, etc.](section/122.md)
+      - [s. 123 Ships and aircraft](section/123.md)
+      - [s. 124 Transport containers](section/124.md)
+      - [s. 125 Other qualifying purposes](section/125.md)
+    - Minor definitions
+      - [s. 126 Minor definitions](section/126.md)
+  - Chapter 12 Ships
+    - Pooling and postponement of allowances
+      - [s. 127 Single ship pool](section/127.md)
+      - [s. 128 Expenditure which is not to be allocated to single ship pool](section/128.md)
+      - [s. 129 Election to use the appropriate non-ship pool](section/129.md)
+      - [s. 130 Notice postponing first-year or writing-down allowance](section/130.md)
+      - [s. 131 Effect of postponement](section/131.md)
+      - [s. 132 Disposal events and single ship pool](section/132.md)
+      - [s. 133 Ship not used](section/133.md)
+    - Deferment of balancing charges
+      - [s. 134 Deferment of balancing charges: introduction](section/134.md)
+      - [s. 135 Claim for deferment](section/135.md)
+      - [s. 136 Further conditions for deferment](section/136.md)
+      - [s. 137 Effect of deferment](section/137.md)
+      - [s. 138 Limit on amount deferred](section/138.md)
+      - [s. 139 Amount taken into account in respect of old ship](section/139.md)
+    - Attribution of deferred amounts
+      - [s. 140 Notice attributing deferred amounts to new expenditure](section/140.md)
+      - [s. 141 Deferred amounts attributed to earlier expenditure first](section/141.md)
+      - [s. 142 Variation of attribution](section/142.md)
+      - [s. 143 Effect of attribution](section/143.md)
+      - [s. 144 Amounts which cease to be attributable](section/144.md)
+      - [s. 145 Requirement to notify where no entitlement to defer amounts](section/145.md)
+    - Expenditure on new shipping
+      - [s. 146 Basic meaning of expenditure on new shipping](section/146.md)
+      - [s. 147 Exclusions: ship previously owned](section/147.md)
+      - [s. 148 Exclusions: object to secure deferment](section/148.md)
+      - [s. 149 Exclusions: later events](section/149.md)
+      - [s. 150 Exclusions where expenditure not incurred by shipowner](section/150.md)
+    - Qualifying ships
+      - [s. 151 Basic meaning of qualifying ship](section/151.md)
+      - [s. 152 Ships under 100 tons](section/152.md)
+      - [s. 153 Ships which are not qualifying ships](section/153.md)
+      - [s. 154 Further registration requirement](section/154.md)
+    - Deferment of balancing charges: supplementary provisions
+      - [s. 155 Change in the persons carrying on the qualifying activity](section/155.md)
+      - [s. 156 Connected persons](section/156.md)
+    - Further provisions
+      - [s. 157 Adjustment of assessments etc.](section/157.md)
+      - [s. 158 Members of same group](section/158.md)
+  - Chapter 13 Provisions affecting mining and oil industries
+    - Expenditure connected with mineral extraction trades
+      - [s. 159 Meaning of “mineral extraction trade” etc.](section/159.md)
+      - [s. 160 Expenditure treated as incurred for purposes of mineral extraction trade](section/160.md)
+      - [s. 161 Pre-trading expenditure on mineral exploration and access](section/161.md)
+    - Expenditure connected with reuse etc. of offshore oil infrastructure
+      - [s. 161A Meaning of “offshore infrastructure”](section/161A.md)
+      - [s. 161B Meaning of “decommissioning expenditure”](section/161B.md)
+      - [s. 161C Expenditure related to reuse etc. qualifies for writing-down allowances](section/161C.md)
+      - [s. 161D Exceptions to section 161C(2)](section/161D.md)
+    - Provisions relating to ring fence trades
+      - [s. 162 Ring fence trade a separate qualifying activity](section/162.md)
+      - [s. 163 Meaning of “general decommissioning expenditure”](section/163.md)
+      - [s. 163A Expenditure in anticipation of approval of abandonment programme](section/163A.md)
+      - [s. 164 General decommissioning expenditure incurred before cessation of ring fence trade](section/164.md)
+      - [s. 165 General decommissioning expenditure after ceasing ring fence trade](section/165.md)
+    - Restrictions on allowances: anti-avoidance
+      - [s. 165A Decommissioning services supplied by connected person](section/165A.md)
+      - [s. 165B Restriction on allowance available](section/165B.md)
+      - [s. 165C Allowance in respect of certain services related to decommissioning](section/165C.md)
+      - [s. 165D Allowance where decommissioning undertaken for other participators in oil field](section/165D.md)
+      - [s. 165E Transaction to obtain tax advantage](section/165E.md)
+    - Transfers of interests in oil fields: anti-avoidance
+      - [s. 166 Transfers of interests in oil fields: anti-avoidance](section/166.md)
+    - Oil production sharing contracts
+      - [s. 167 Oil production sharing contracts](section/167.md)
+      - [s. 168 Expenditure on plant or machinery incurred by contractor](section/168.md)
+      - [s. 169 Expenditure on plant or machinery incurred by participator](section/169.md)
+      - [s. 170 Participator’s expenditure attributable to plant or machinery](section/170.md)
+      - [s. 171 Disposal values on cessation of ownership](section/171.md)
+  - Chapter 14 Fixtures
+    - Introduction
+      - [s. 172 Scope of Chapter etc.](section/172.md)
+      - [s. 172A Long funding leases etc: cases where this Chapter does not apply.](section/172A.md)
+      - [s. 173 Meaning of “fixture” and “relevant land”](section/173.md)
+      - [s. 174 Meaning of “equipment lease” and “lease”](section/174.md)
+      - [s. 175 Meaning of “interest in land”, etc.](section/175.md)
+      - [s. 175A Meaning of “energy services agreement”](section/175A.md)
+    - Persons who are treated as owners of fixtures
+      - [s. 176 Person with interest in relevant land having fixture for purposes of qualifying activity](section/176.md)
+      - [s. 177 Equipment lessors](section/177.md)
+      - [s. 178 Equipment lessee has qualifying activity etc.](section/178.md)
+      - [s. 179 Equipment lessor has right to sever fixture that is not part of building](section/179.md)
+      - [s. 180 Equipment lease is part of affordable warmth programme](section/180.md)
+      - [s. 180A Energy services providers](section/180A.md)
+      - [s. 181 Purchaser of land giving consideration for fixture](section/181.md)
+      - [s. 182 Purchaser of land discharging obligations of equipment lessee](section/182.md)
+      - [s. 182A Purchaser of land discharging obligations of client under energy services agreement](section/182A.md)
+      - [s. 183 Incoming lessee where lessor entitled to allowances](section/183.md)
+      - [s. 184 Incoming lessee where lessor not entitled to allowances](section/184.md)
+    - Restrictions on amount of qualifying expenditure
+      - [s. 185 Fixture on which a plant and machinery allowance has been claimed](section/185.md)
+      - [s. 186 Fixture on which an industrial buildings allowance has been made](section/186.md)
+      - [s. 186A Fixtures on which a business premises renovation allowance has been made](section/186A.md)
+      - [s. 187 Fixture on which a research and development allowance has been made](section/187.md)
+      - [s. 187A Effect of changes in ownership of a fixture](section/187A.md)
+      - [s. 187B Section 187A: supplementary provision](section/187B.md)
+    - Cessation of ownership of fixtures
+      - [s. 188 Cessation of ownership when person ceases to have qualifying interest](section/188.md)
+      - [s. 189 Identifying the qualifying interest in special cases](section/189.md)
+      - [s. 190 Cessation of ownership of lessor where section 183 applies](section/190.md)
+      - [s. 191 Cessation of ownership on severance of fixture](section/191.md)
+      - [s. 192 Cessation of ownership of equipment lessor](section/192.md)
+      - [s. 192A Cessation of ownership of energy services provider](section/192A.md)
+    - Acquisition of ownership of fixture when another ceases to own it
+      - [s. 193 Acquisition of ownership by lessor or licensor on termination of lease or licence](section/193.md)
+      - [s. 194 Acquisition of ownership by assignee of equipment lessor](section/194.md)
+      - [s. 195 Acquisition of ownership by equipment lessee](section/195.md)
+      - [s. 195A Acquisition of ownership by assignee of energy services provider](section/195A.md)
+      - [s. 195B Acquisition of ownership by client](section/195B.md)
+    - Disposal values
+      - [s. 196 Disposal values in relation to fixtures: general](section/196.md)
+      - [s. 197 Disposal values in avoidance cases](section/197.md)
+    - Election to fix apportionment
+      - [s. 198 Election to apportion sale price on sale of qualifying interest](section/198.md)
+      - [s. 199 Election to apportion capital sum given by lessee on grant of lease](section/199.md)
+      - [s. 200 Elections under sections 198 and 199: supplementary](section/200.md)
+      - [s. 201 Elections under sections 198 and 199: procedure](section/201.md)
+    - Further provisions
+      - [s. 202 Interpretation](section/202.md)
+      - [s. 203 Amendment of returns etc.](section/203.md)
+      - [s. 204 Appeals etc.](section/204.md)
+  - Chapter 15 Asset provided or used only partly for qualifying activity
+    - [s. 205 Reduction of annual investment allowance and first-year allowances](section/205.md)
+    - [s. 206 Single asset pool etc.](section/206.md)
+    - [s. 207 Reduction of allowances and charges on expenditure in single asset pool](section/207.md)
+    - [s. 208 Effect of significant reduction in use for purposes of qualifying activity](section/208.md)
+    - [s. 208A Cars: disposal value in avoidance cases](section/208A.md)
+  - Chapter 16 Partial depreciation subsidies
+    - [s. 209 Meaning of “partial depreciation subsidy”](section/209.md)
+    - [s. 210 Reduction of annual investment allowance and first-year allowances](section/210.md)
+    - [s. 211 Single asset pool etc.](section/211.md)
+    - [s. 212 Reduction of allowances and charges on expenditure in single asset pool](section/212.md)
+  - CHAPTER 16ZA Asset provided or used only partly for NI rate activity
+    - [s. 212ZA Apportionment of expenditure incurred partly for NI rate activity](section/212ZA.md)
+    - [s. 212ZB Single asset pool etc](section/212ZB.md)
+    - [s. 212ZC Allowances and charges on expenditure in single asset pool](section/212ZC.md)
+    - [s. 212ZD Effect of significant change in balance of use](section/212ZD.md)
+    - [s. 212ZE Application of Chapter to partnerships](section/212ZE.md)
+    - [s. 212ZF “Main rate activity”](section/212ZF.md)
+  - Chapter 16A Restrictions on allowance buying
+    - Introduction
+      - [s. 212A Scope of Chapter](section/212A.md)
+      - [s. 212B Where Chapter applies](section/212B.md)
+    - Qualifying change
+      - [s. 212C When there is qualifying change in relation to C](section/212C.md)
+      - [s. 212D Guide to sections explaining section 212C](section/212D.md)
+      - [s. 212E Principal companies](section/212E.md)
+      - [s. 212F When company is owned by consortium and consortium members](section/212F.md)
+      - [s. 212G Qualifying 75% subsidiaries](section/212G.md)
+      - [s. 212H Ownership proportion](section/212H.md)
+      - [s. 212I Relevant percentage share](section/212I.md)
+    - Relevant excess of allowances
+      - [s. 212J Relevant excess of allowances](section/212J.md)
+      - [s. 212K Relevant tax written-down value](section/212K.md)
+      - [s. 212L Balance sheet value](section/212L.md)
+    - Limiting conditions
+      - [s. 212LA Limiting conditions](section/212LA.md)
+    - Unallowable purpose
+      - [s. 212M Unallowable purpose](section/212M.md)
+    - What happens when Chapter applies
+      - [s. 212N Old and new accounting periods](section/212N.md)
+      - [s. 212O When there is excess of allowances in pool: amount of excess](section/212O.md)
+      - [s. 212P Effect of excess of allowances on pools](section/212P.md)
+      - [s. 212Q When there are postponed capital allowances](section/212Q.md)
+      - [s. 212R Apportionment of proceeds of disposal of relevant plant and machinery](section/212R.md)
+      - [s. 212S Transactions on relevant day](section/212S.md)
+  - CHAPTER 16B Cap on first-year allowances...
+    - [s. 212T Cap on first-year allowances: zero-emission goods vehicles](section/212T.md)
+    - [s. 212U Cap on first-year allowances: expenditure on plant and machinery for use in designated assisted areas](section/212U.md)
+  - Chapter 17 Other anti-avoidance
+    - Relevant transactions
+      - [s. 213 Relevant transactions: sale, hire-purchase (etc.) and assignment](section/213.md)
+    - Restrictions on allowances
+      - [s. 214 Connected persons](section/214.md)
+      - [s. 215 Transactions to obtain tax advantages](section/215.md)
+      - [s. 216 Sale and leaseback, etc.](section/216.md)
+      - [s. 217 No annual investment allowance or first-year allowance for B’s expenditure](section/217.md)
+      - [s. 218 Restriction on B’s qualifying expenditure: section 214 or 216](section/218.md)
+      - [s. 218ZA Restrictions on writing-down allowances: section 215](section/218ZA.md)
+      - [s. 218ZB Disposal values: section 215](section/218ZB.md)
+      - [s. 218A Further restriction on annual investment allowance](section/218A.md)
+    - Finance leases and certain operating leases
+      - [s. 219 Meaning of “finance lease”](section/219.md)
+      - [s. 220 Allocation of expenditure to a chargeable period](section/220.md)
+    - Sale and finance leasebacks
+      - [s. 221 Meaning of “sale and finance leaseback”](section/221.md)
+      - [s. 222 Disposal value restricted](section/222.md)
+      - [s. 223 No first-year allowance for B’s expenditure](section/223.md)
+      - [s. 224 Restriction on B’s qualifying expenditure](section/224.md)
+      - [s. 225 B’s qualifying expenditure if lessor not bearing non-compliance risk](section/225.md)
+      - [s. 226 Qualifying expenditure limited in subsequent transactions](section/226.md)
+    - Sale and leaseback: election for special treatment
+      - [s. 227 Sale and leaseback: election for special treatment](section/227.md)
+      - [s. 228 Effect of election: relaxation of restriction on B’s qualifying expenditure, etc.](section/228.md)
+    - Finance leaseback: parties’ income and profits
+      - [s. 228A Application of sections 228B and 228C](section/228A.md)
+      - [s. 228B S’s income or profits etc: deductions](section/228B.md)
+      - [s. 228C S’s income or profits: termination of leaseback](section/228C.md)
+      - [s. 228D Lessor’s income or profits](section/228D.md)
+      - [s. 228E Lessor’s income or profits: termination of leaseback](section/228E.md)
+      - [s. 228F Lease and finance leaseback](section/228F.md)
+      - [s. 228G Leaseback not accounted for as finance lease in S’s accounts](section/228G.md)
+      - [s. 228H Sections 228A to 228G: supplementary](section/228H.md)
+      - [s. 228J Plant or machinery subject to further operating lease](section/228J.md)
+    - Disposal of plant or machinery subject to lease where income retained
+      - [s. 228K Disposal of plant or machinery subject to lease where income retained](section/228K.md)
+      - [s. 228L Determining the net present value of the rentals for purposes of s.228K](section/228L.md)
+      - [s. 228M Other definitions for the purposes of s.228K](section/228M.md)
+      - [s. 228MA Restriction of qualifying expenditure](section/228MA.md)
+      - [s. 228MB Calculation of present value](section/228MB.md)
+      - [s. 228MC Rental rebate](section/228MC.md)
+    - Miscellaneous and supplementary
+      - [s. 229 Hire-purchase etc.](section/229.md)
+      - [s. 229A Transfer followed by hire-purchase etc: restrictions on hirer’s allowances](section/229A.md)
+      - [s. 230 Exception for manufacturers and suppliers](section/230.md)
+      - [s. 231 Adjustments of assessments etc.](section/231.md)
+      - [s. 232 Meaning of connected person](section/232.md)
+      - [s. 233 Additional VAT liabilities and rebates](section/233.md)
+  - Chapter 18 Additional VAT liabilities and rebates
+    - Introduction
+      - [s. 234 Introduction](section/234.md)
+    - Additional VAT liability
+      - [s. 235 Additional VAT liability treated as qualifying expenditure](section/235.md)
+      - [s. 236 Additional VAT liability generates first-year allowance or annual investment allowance](section/236.md)
+      - [s. 237 Exceptions to section 236](section/237.md)
+    - Additional VAT rebate
+      - [s. 238 Additional VAT rebate generates disposal value](section/238.md)
+      - [s. 239 Limit on disposal value where additional VAT rebate](section/239.md)
+    - Short-life assets: balancing allowance
+      - [s. 240 Additional VAT liability](section/240.md)
+    - Anti-avoidance
+      - [s. 241 No annual investment allowance or first-year allowance in respect of additional VAT liability](section/241.md)
+      - [s. 242 Restriction on B’s qualifying expenditure: general](section/242.md)
+      - [s. 243 Restriction on B’s qualifying expenditure: sale and finance leaseback](section/243.md)
+      - [s. 244 B’s qualifying expenditure if lessor not bearing non-compliance risk](section/244.md)
+      - [s. 245 Effect of election under section 227 on additional VAT liability](section/245.md)
+      - [s. 246 Miscellaneous](section/246.md)
+  - Chapter 19 Giving effect to allowances and charges
+    - Trades
+      - [s. 247 Trades](section/247.md)
+    - Property businesses
+      - [s. 248 ...UK property businesses](section/248.md)
+      - [s. 249 UK furnished holiday lettings businesses](section/249.md)
+      - [s. 250 ... Overseas property businesses](section/250.md)
+      - [s. 250A EEA furnished holiday lettings businesses](section/250A.md)
+    - Activities analogous to trades
+      - [s. 251 Professions and vocations](section/251.md)
+      - [s. 252 Mines, transport undertakings etc.](section/252.md)
+    - Companies with investment business
+      - [s. 253 Companies with investment business](section/253.md)
+    - Long-term business
+      - [s. 254 Introductory](section/254.md)
+      - [s. 255 Apportionment of allowances and charges](section/255.md)
+      - [s. 256 Different giving effect rules for BLAGAB](section/256.md)
+      - [s. 257 Supplementary](section/257.md)
+    - Special leasing of plant or machinery
+      - [s. 258 Special leasing: income tax](section/258.md)
+      - [s. 259 Special leasing: corporation tax (general)](section/259.md)
+      - [s. 260 Special leasing: corporation tax (excess allowance)](section/260.md)
+      - [s. 261 Special leasing: long-term business](section/261.md)
+      - [s. 261A Special leasing: leasing partnerships](section/261A.md)
+    - Employments and offices
+      - [s. 262 Employments and offices](section/262.md)
+    - First-year tax credits
+      - [s. 262A First-year tax credits](section/262A.md)
+  - Chapter 20 Supplementary provisions
+    - Co-ownership ... contractual schemes
+      - [s. 262AA Co-ownership schemes: carrying on qualifying activity](section/262AA.md)
+      - [s. 262AB Co-ownership schemes: election](section/262AB.md)
+      - [s. 262AC Co-ownership schemes: calculation of allowance after election](section/262AC.md)
+      - [s. 262AD Co-ownership schemes: effect of election for participants](section/262AD.md)
+      - [s. 262AE Co-ownership schemes: effect of election for purchasers](section/262AE.md)
+      - [s. 262AEA Co-ownership authorised contractual schemes: withdrawal of election](section/262AEA.md)
+      - [s. 262AF Co-ownership schemes: definitions relating to schemes](section/262AF.md)
+    - Partnerships and successions
+      - [s. 263 Qualifying activities carried on in partnership](section/263.md)
+      - [s. 264 Partnership using property of a partner](section/264.md)
+      - [s. 265 Successions: general](section/265.md)
+      - [s. 266 Election where predecessor and successor are connected persons](section/266.md)
+      - [s. 267 Effect of election](section/267.md)
+      - [s. 267A Restriction on effect of election](section/267A.md)
+      - [s. 268 Successions by beneficiaries](section/268.md)
+    - Cars etc
+      - [s. 268A Meaning of “car” and “motor cycle”](section/268A.md)
+      - [s. 268B Electrically-propelled vehicles](section/268B.md)
+      - [s. 268C Terms relating to emissions](section/268C.md)
+      - [s. 268D Hire cars for disabled persons](section/268D.md)
+      - [s. 268E Meaning of “assigns”](section/268E.md)
+    - Miscellaneous
+      - [s. 269 Use of plant or machinery for business entertainment](section/269.md)
+      - [s. 270 Shares in plant or machinery](section/270.md)
+- PART 2A STRUCTURES AND BUILDINGS ALLOWANCES
+  - CHAPTER 1 INTRODUCTION
+    - [s. 270AA Structures and buildings allowances](section/270AA.md)
+    - [s. 270AB Date on which construction begins](section/270AB.md)
+  - CHAPTER 2 QUALIFYING EXPENDITURE
+    - Meaning of “qualifying expenditure”
+      - [s. 270BA Meaning of “qualifying expenditure”](section/270BA.md)
+    - Qualifying expenditure incurred on construction
+      - [s. 270BB Capital expenditure incurred on construction](section/270BB.md)
+    - Qualifying expenditure incurred on purchase
+      - [s. 270BC Sale of unused buildings or structures (other than by a developer)](section/270BC.md)
+      - [s. 270BD Sale by a developer: unused buildings or structures](section/270BD.md)
+      - [s. 270BE Sale by a developer: used buildings or structures](section/270BE.md)
+      - [s. 270BF Meaning of references to carrying on trade as a developer](section/270BF.md)
+    - Excluded expenditure
+      - [s. 270BG Acquisition or alteration of land etc](section/270BG.md)
+      - [s. 270BH Market value rule](section/270BH.md)
+      - [s. 270BI Provision of plant or machinery](section/270BI.md)
+    - Expenditure treated as expenditure on construction
+      - [s. 270BJ Expenditure on renovation, conversion or incidental repairs](section/270BJ.md)
+      - [s. 270BK Preparation of sites](section/270BK.md)
+    - Supplementary provision about expenditure
+      - [s. 270BL Apportionment of sums partly referable to non-qualifying assets](section/270BL.md)
+      - [s. 270BM Evidence of the amount of expenditure](section/270BM.md)
+      - [s. 270BN Expenditure incurred before qualifying activity carried on](section/270BN.md)
+  - CHAPTER 2A special tax site qualifying expenditure
+    - [s. 270BNA Meaning of “special tax site qualifying expenditure”](section/270BNA.md)
+    - [s. 270BNB Apportionment](section/270BNB.md)
+    - [s. 270BNC Power to amend meaning of “special tax site qualifying expenditure” etc](section/270BNC.md)
+  - CHAPTER 3 QUALIFYING USE AND QUALIFYING ACTIVITIES
+    - Qualifying activities
+      - [s. 270CA Qualifying activities](section/270CA.md)
+      - [s. 270CB Property businesses](section/270CB.md)
+      - [s. 270CC Foreign permanent establishments](section/270CC.md)
+      - [s. 270CD Companies with investment business](section/270CD.md)
+    - Qualifying use
+      - [s. 270CE Qualifying use](section/270CE.md)
+      - [s. 270CF Exclusion: residential use](section/270CF.md)
+      - [s. 270CG Use for the purposes of a property business](section/270CG.md)
+  - CHAPTER 4 THE RELEVANT INTEREST IN THE BUILDING OR STRUCTURE
+    - [s. 270DA General rule as to what is the relevant interest](section/270DA.md)
+    - [s. 270DB Interest acquired on completion of construction](section/270DB.md)
+    - [s. 270DC Effect of creation of subordinate interest](section/270DC.md)
+    - [s. 270DD Leases granted for 35 years or more](section/270DD.md)
+    - [s. 270DE Merger of leasehold interest](section/270DE.md)
+  - CHAPTER 5 CALCULATING THE ALLOWANCE: SUPPLEMENTARY PROVISION
+    - [s. 270EA Proportionate adjustment in certain cases](section/270EA.md)
+    - [s. 270EB Multiple uses](section/270EB.md)
+    - [s. 270EC Research and development](section/270EC.md)
+  - CHAPTER 6 HIGHWAY UNDERTAKINGS
+    - [s. 270FA Carrying on of highway undertakings](section/270FA.md)
+    - [s. 270FB The relevant interest](section/270FB.md)
+    - [s. 270FC Cases where highway concession is to be treated as extended](section/270FC.md)
+  - CHAPTER 7 ADDITIONAL VAT LIABILITIES AND REBATES
+    - Introduction
+      - [s. 270GA Introduction](section/270GA.md)
+    - Additional VAT liabilities
+      - [s. 270GB Additional VAT liabilities](section/270GB.md)
+    - Additional VAT rebates
+      - [s. 270GC Additional VAT rebates](section/270GC.md)
+  - CHAPTER 7A Adjustment for pre-April 2020 allowance
+    - [s. 270GD Adjustment for pre-April 2020 allowance](section/270GD.md)
+  - CHAPTER 8 GIVING EFFECT TO ALLOWANCES
+    - Trades
+      - [s. 270HA Trades](section/270HA.md)
+    - Property businesses
+      - [s. 270HB ... UK property businesses and ... overseas property businesses](section/270HB.md)
+    - Activities analogous to trades
+      - [s. 270HC Professions and vocations](section/270HC.md)
+      - [s. 270HD Mines, transport undertakings etc](section/270HD.md)
+    - Companies with investment business
+      - [s. 270HE Companies with investment business](section/270HE.md)
+    - Long-term business
+      - [s. 270HF Application of sections 270HG and 270HH](section/270HF.md)
+      - [s. 270HG Apportionment of allowances](section/270HG.md)
+      - [s. 270HH Different giving effect rules for BLAGAB](section/270HH.md)
+      - [s. 270HI Supplementary](section/270HI.md)
+  - CHAPTER 9 SUPPLEMENTARY PROVISIONS
+    - Evidence of qualifying expenditure etc
+      - [s. 270IA Evidence of qualifying expenditure etc](section/270IA.md)
+    - Anti-avoidance
+      - [s. 270IB Anti-avoidance: general](section/270IB.md)
+    - Co-ownership ... contractual schemes
+      - [s. 270IC Co-ownership schemes: carrying on qualifying activity](section/270IC.md)
+      - [s. 270ID Co-ownership schemes: election](section/270ID.md)
+      - [s. 270IE Co-ownership schemes: calculation of allowance after an election](section/270IE.md)
+      - [s. 270IF Co-ownership schemes: definitions relating to schemes](section/270IF.md)
+    - Leases
+      - [s. 270IG Treatment of leases](section/270IG.md)
+      - [s. 270IH Meaning of “lease” etc](section/270IH.md)
+- Part 3 Industrial buildings allowances
+  - Chapter 1 Introduction
+    - [s. 271 Industrial buildings allowances](section/271.md)
+    - [s. 272 Expenditure on the construction of a building](section/272.md)
+    - [s. 273 Preparation of sites for plant or machinery](section/273.md)
+  - Chapter 2 Industrial buildings
+    - Buildings in use for the purposes of a qualifying trade
+      - [s. 274 Trades and undertakings which are “qualifying trades”](section/274.md)
+      - [s. 275 Building used for welfare of workers](section/275.md)
+      - [s. 276 Parts of trades and undertakings](section/276.md)
+      - [s. 277 Exclusion of dwelling-houses, retail shops, showrooms, hotels and offices etc.](section/277.md)
+      - [s. 278 Building used by more than one licensee](section/278.md)
+    - Qualifying hotels and sports pavilions
+      - [s. 279 Qualifying hotels](section/279.md)
+      - [s. 280 Qualifying sports pavilions](section/280.md)
+    - Commercial buildings (enterprise zones)
+      - [s. 281 Commercial buildings (enterprise zones)](section/281.md)
+    - Supplementary provisions
+      - [s. 282 Buildings outside the United Kingdom](section/282.md)
+      - [s. 283 Non-industrial part of building disregarded](section/283.md)
+      - [s. 284 Roads on industrial estates etc.](section/284.md)
+      - [s. 285 Cessation of use and temporary disuse of building](section/285.md)
+  - Chapter 3 The relevant interest in the building
+    - [s. 286 General rule as to what is the relevant interest](section/286.md)
+    - [s. 287 Interest acquired on completion of construction](section/287.md)
+    - [s. 288 Effect of creation of subordinate interest](section/288.md)
+    - [s. 289 Merger of leasehold interest](section/289.md)
+    - [s. 290 Election to treat grant of lease exceeding 50 years as sale](section/290.md)
+    - [s. 291 Supplementary provisions with respect to elections](section/291.md)
+  - Chapter 4 Qualifying expenditure
+    - Introduction
+      - [s. 292 Meaning of “qualifying expenditure”](section/292.md)
+      - [s. 293 Meaning of references to carrying on a trade as a developer](section/293.md)
+    - Qualifying expenditure
+      - [s. 294 Capital expenditure on construction of a building](section/294.md)
+      - [s. 295 Purchase of unused building where developer not involved](section/295.md)
+      - [s. 296 Purchase of building which has been sold unused by developer](section/296.md)
+      - [s. 297 Purchase of used building from developer](section/297.md)
+    - Qualifying enterprise zone expenditure
+      - [s. 298 The time limit for qualifying enterprise zone expenditure](section/298.md)
+      - [s. 299 Application of section 294](section/299.md)
+      - [s. 300 Application of sections 295 and 296](section/300.md)
+      - [s. 301 Purchase of building within 2 years of first use](section/301.md)
+    - Part of expenditure within time limit for qualifying enterprise zone expenditure
+      - [s. 302 Qualifying enterprise zone expenditure where section 295 or 296 applies](section/302.md)
+      - [s. 303 Purchase of building within 2 years of first use](section/303.md)
+      - [s. 304 Application of section 303 where developer involved](section/304.md)
+  - Chapter 5 Initial allowances
+    - [s. 305 Initial allowances for qualifying enterprise zone expenditure](section/305.md)
+    - [s. 306 Amount of initial allowance and period for which allowance made](section/306.md)
+    - [s. 307 Building not industrial building when first used etc.](section/307.md)
+    - [s. 308 Grants affecting entitlement to initial allowances](section/308.md)
+  - Chapter 6 Writing-down allowances
+    - [s. 309 Entitlement to writing-down allowance](section/309.md)
+    - [s. 310 Basic rule for calculating amount of allowance](section/310.md)
+    - [s. 311 Calculation of allowance after sale of relevant interest](section/311.md)
+    - [s. 312 Allowance limited to residue of qualifying expenditure](section/312.md)
+    - [s. 313 Meaning of “the residue of qualifying expenditure”](section/313.md)
+    - [s. 313A Calculation of allowance after sale of relevant interest: anti-avoidance](section/313A.md)
+  - Chapter 7 Balancing adjustments
+    - General
+      - [s. 314 When balancing adjustments are made](section/314.md)
+      - [s. 315 Main balancing events](section/315.md)
+      - [s. 316 Proceeds from main balancing events](section/316.md)
+      - [s. 317 Balancing event where hotel not qualifying hotel for 2 years](section/317.md)
+    - Calculation of balancing adjustments
+      - [s. 318 Building an industrial building etc. throughout](section/318.md)
+      - [s. 319 Building not an industrial building etc. throughout](section/319.md)
+      - [s. 320 Overall limit on balancing charge](section/320.md)
+    - Meaning of “the relevant period of ownership” etc.
+      - [s. 321 The relevant period of ownership](section/321.md)
+      - [s. 322 Starting expenditure](section/322.md)
+      - [s. 323 Adjusted net cost](section/323.md)
+      - [s. 324 Net allowances](section/324.md)
+    - Balancing allowances restricted where sale subject to subordinate interest
+      - [s. 325 Balancing allowances restricted where sale subject to subordinate interest](section/325.md)
+      - [s. 326 Interpretation of section 325](section/326.md)
+    - Qualifying enterprise zone expenditure: effect of realising capital value
+      - [s. 327 Capital value provisions: application of provisions](section/327.md)
+      - [s. 328 Balancing adjustment on realisation of capital value](section/328.md)
+      - [s. 329 Capital value that is attributable to subordinate interest](section/329.md)
+      - [s. 330 Exception for payments more than 7 years after agreement](section/330.md)
+      - [s. 331 Capital value provisions: interpretation](section/331.md)
+  - Chapter 8 Writing off qualifying expenditure
+    - [s. 332 Introduction](section/332.md)
+    - [s. 333 Writing off initial allowances](section/333.md)
+    - [s. 334 Writing off writing-down allowances](section/334.md)
+    - [s. 335 Writing off research and development allowances](section/335.md)
+    - [s. 336 Writing off expenditure when building not an industrial building](section/336.md)
+    - [s. 337 Writing off or increase of expenditure where balancing adjustment made](section/337.md)
+    - [s. 338 Writing off capital value which has been realised](section/338.md)
+    - [s. 339 Crown or other person not within the charge to tax entitled to the relevant interest](section/339.md)
+    - [s. 340 Treatment of demolition costs](section/340.md)
+  - Chapter 9 Highway undertakings
+    - [s. 341 Carrying on of highway undertakings](section/341.md)
+    - [s. 342 The relevant interest](section/342.md)
+    - [s. 343 Balancing adjustment on ending of concession](section/343.md)
+    - [s. 344 Cases where highway concession is to be treated as extended](section/344.md)
+  - Chapter 10 Additional VAT liabilities and rebates
+    - Introduction
+      - [s. 345 Introduction](section/345.md)
+    - Additional VAT liabilities
+      - [s. 346 Additional VAT liabilities and initial allowances](section/346.md)
+      - [s. 347 Additional VAT liabilities and writing-down allowances](section/347.md)
+      - [s. 348 Additional VAT liabilities and writing off initial allowances](section/348.md)
+    - Additional VAT rebates
+      - [s. 349 Additional VAT rebates and writing-down allowances](section/349.md)
+      - [s. 350 Additional VAT rebates and balancing adjustments](section/350.md)
+      - [s. 351 Additional VAT rebates and writing off qualifying expenditure](section/351.md)
+  - Chapter 11 Giving effect to allowances and charges
+    - [s. 352 Trades](section/352.md)
+    - [s. 353 Lessors and licensors](section/353.md)
+    - [s. 354 Buildings temporarily out of use](section/354.md)
+    - [s. 355 Buildings for miners etc.: carry-back of balancing allowances](section/355.md)
+  - Chapter 12 Supplementary provisions
+    - [s. 356 Apportionment of sums partly referable to non-qualifying assets](section/356.md)
+    - [s. 357 Arrangements having an artificial effect on pricing](section/357.md)
+    - [s. 358 Requisitioned land](section/358.md)
+    - [s. 359 Provisions applying on termination of lease](section/359.md)
+    - [s. 360 Meaning of “lease” etc.](section/360.md)
+- Part 3A Business Premises Renovation Allowances
+  - Chapter 1 INTRODUCTION
+    - [s. 360A Business premises renovation allowances](section/360A.md)
+  - Chapter 2 QUALIFYING EXPENDITURE
+    - [s. 360B Meaning of “qualifying expenditure”](section/360B.md)
+    - [s. 360BA Expenditure not treated as qualifying expenditure if delay in carrying out works etc](section/360BA.md)
+  - Chapter 3 QUALIFYING BUILDINGS AND QUALIFYING BUSINESS PREMISES
+    - [s. 360C Meaning of “qualifying building”](section/360C.md)
+    - [s. 360D Meaning of “qualifying business premises”](section/360D.md)
+  - Chapter 4 THE RELEVANT INTEREST IN THE QUALIFYING BUILDING
+    - [s. 360E General rule as to what is the relevant interest](section/360E.md)
+    - [s. 360F Interest acquired on completion of conversion](section/360F.md)
+  - Chapter 5 INITIAL ALLOWANCES
+    - [s. 360G Initial allowances](section/360G.md)
+    - [s. 360H Premises not qualifying business premises or relevant interest sold before premises first used or let](section/360H.md)
+  - Chapter 6 WRITING-DOWN ALLOWANCES
+    - [s. 360I Entitlement to writing-down allowances](section/360I.md)
+    - [s. 360J Amount of allowance](section/360J.md)
+    - [s. 360K Meaning of “ the residue of qualifying expenditure ”](section/360K.md)
+  - Chapter 7 GRANTS IN RESPECT OF QUALIFYING EXPENDITURE
+    - [s. 360L Grants affecting entitlement to allowances](section/360L.md)
+  - Chapter 8 BALANCING ADJUSTMENTS
+    - [s. 360M When balancing adjustments are made](section/360M.md)
+    - [s. 360N Balancing events](section/360N.md)
+    - [s. 360O Proceeds from balancing events](section/360O.md)
+    - [s. 360P Calculation of balancing adjustments](section/360P.md)
+  - Chapter 9 WRITING OFF QUALIFYING EXPENDITURE
+    - [s. 360Q Introduction](section/360Q.md)
+    - [s. 360R Writing off initial allowances and writing-down allowances](section/360R.md)
+    - [s. 360S Treatment of demolition costs](section/360S.md)
+  - Chapter 10 ADDITIONAL VAT LIABILITIES AND REBATES
+    - [s. 360T Introduction](section/360T.md)
+    - [s. 360U Additional VAT liabilities and initial allowances](section/360U.md)
+    - [s. 360V Additional VAT liabilities and writing-down allowances](section/360V.md)
+    - [s. 360W Additional VAT liabilities and writing off initial allowances](section/360W.md)
+    - [s. 360X Additional VAT rebates and balancing adjustments](section/360X.md)
+    - [s. 360Y Additional VAT rebates and writing off qualifying expenditure](section/360Y.md)
+  - Chapter 11 SUPPLEMENTARY PROVISIONS
+    - [s. 360Z Giving effect to allowances and charges: trades](section/360Z.md)
+    - [s. 360Z1 Giving effect to allowances and charges: lessors and licensees](section/360Z1.md)
+    - [s. 360Z2 Apportionment of sums partly referable to non-qualifying assets](section/360Z2.md)
+    - [s. 360Z3 Provisions applying on termination of lease](section/360Z3.md)
+    - [s. 360Z4 Meaning of “lease” etc.](section/360Z4.md)
+- Part 4 Agricultural buildings allowances
+  - Chapter 1 Introduction
+    - [s. 361 Agricultural buildings allowances](section/361.md)
+    - [s. 362 Meaning of “husbandry”](section/362.md)
+    - [s. 363 Expenditure on the construction of a building](section/363.md)
+  - Chapter 2 The relevant interest
+    - [s. 364 General rule as to what is the relevant interest](section/364.md)
+    - [s. 365 Effect of creation of subordinate lease](section/365.md)
+    - [s. 366 Interest conveyed or assigned by way of security](section/366.md)
+    - [s. 367 Merger of leasehold interest](section/367.md)
+    - [s. 368 Provisions applying on ending of lease](section/368.md)
+  - Chapter 3 Qualifying expenditure
+    - [s. 369 Capital expenditure on construction of agricultural building](section/369.md)
+    - [s. 370 Purchase of relevant interest before first use of agricultural building](section/370.md)
+    - [s. 371 Different relevant interests in different parts of the related agricultural land](section/371.md)
+  - Chapter 4 Writing-down allowances
+    - [s. 372 Entitlement to writing-down allowance](section/372.md)
+    - [s. 373 Basic rule for calculating amount of allowance](section/373.md)
+    - [s. 374 First use of building not for purposes of husbandry, etc.](section/374.md)
+    - [s. 375 Effect of acquisition of relevant interest after first use of building](section/375.md)
+    - [s. 376 Calculation of allowance after acquisition](section/376.md)
+    - [s. 377 Chargeable period when balancing adjustment made](section/377.md)
+    - [s. 378 Allowance limited to residue of qualifying expenditure](section/378.md)
+    - [s. 379 Final writing-down allowance](section/379.md)
+  - Chapter 5 Balancing adjustments
+    - General
+      - [s. 380 When balancing adjustments are made](section/380.md)
+      - [s. 381 Balancing events (on making an election)](section/381.md)
+      - [s. 382 Requirements as to elections](section/382.md)
+      - [s. 383 Proceeds from balancing events](section/383.md)
+      - [s. 384 Exclusion of proportion of proceeds](section/384.md)
+    - Calculation of balancing adjustments
+      - [s. 385 Calculation of balancing adjustment](section/385.md)
+      - [s. 386 The residue of qualifying expenditure](section/386.md)
+      - [s. 387 Overall limit on balancing charge](section/387.md)
+      - [s. 388 Acquisition of relevant interest in part of land, etc.](section/388.md)
+      - [s. 389 Balancing allowances restricted where sale subject to subordinate interest etc.](section/389.md)
+      - [s. 390 Interpretation of section 389](section/390.md)
+  - Chapter 6 Supplementary provisions
+    - Giving effect to allowances and charges
+      - [s. 391 Trades](section/391.md)
+      - [s. 392 UK property businesses](section/392.md)
+    - Meaning of “freehold interest”, “lease” etc.
+      - [s. 393 Meaning of “freehold interest”, “lease”, etc.](section/393.md)
+- Part 4A FLAT CONVERSION ALLOWANCES
+  - Chapter 1 INTRODUCTION
+    - [s. 393A Flat conversion allowances](section/393A.md)
+  - Chapter 2 QUALIFYING EXPENDITURE
+    - [s. 393B Meaning of “qualifying expenditure”](section/393B.md)
+  - Chapter 3 QUALIFYING BUILDINGS AND QUALIFYING FLATS
+    - [s. 393C Meaning of “qualifying building”](section/393C.md)
+    - [s. 393D Meaning of “qualifying flat”](section/393D.md)
+    - [s. 393E High value flats](section/393E.md)
+  - Chapter 4 THE RELEVANT INTEREST IN THE FLAT
+    - [s. 393F General rule as to what is the relevant interest](section/393F.md)
+    - [s. 393G Interest acquired on completion of conversion](section/393G.md)
+  - Chapter 5 INITIAL ALLOWANCES
+    - [s. 393H Initial allowances](section/393H.md)
+    - [s. 393I Flat not qualifying flat or relevant interest sold before flat first let](section/393I.md)
+  - Chapter 6 WRITING-DOWN ALLOWANCES
+    - [s. 393J Entitlement to writing-down allowances](section/393J.md)
+    - [s. 393K Amount of allowance](section/393K.md)
+    - [s. 393L Meaning of “the residue of qualifying expenditure”](section/393L.md)
+  - Chapter 7 BALANCING ADJUSTMENTS
+    - [s. 393M When balancing adjustments are made](section/393M.md)
+    - [s. 393N Balancing events](section/393N.md)
+    - [s. 393O Proceeds from balancing events](section/393O.md)
+    - [s. 393P Calculation of balancing adjustments](section/393P.md)
+  - Chapter 8 WRITING OFF QUALIFYING EXPENDITURE
+    - [s. 393Q Introduction](section/393Q.md)
+    - [s. 393R Writing off initial allowances and writing-down allowances](section/393R.md)
+    - [s. 393S Treatment of demolition costs](section/393S.md)
+  - Chapter 9 SUPPLEMENTARY PROVISIONS
+    - [s. 393T Giving effect to allowances and charges](section/393T.md)
+    - [s. 393U Apportionment of sums partly referable to non-qualifying assets](section/393U.md)
+    - [s. 393V Provisions applying on termination of lease](section/393V.md)
+    - [s. 393W Meaning of “lease” etc.](section/393W.md)
+- Part 5 Mineral extraction allowances
+  - Chapter 1 Introduction
+    - [s. 394 Mineral extraction allowances](section/394.md)
+    - [s. 395 Qualifying expenditure](section/395.md)
+    - [s. 396 Meaning of “mineral exploration and access”](section/396.md)
+    - [s. 397 Meaning of “mineral asset”](section/397.md)
+    - [s. 398 Relationship between main types of qualifying expenditure](section/398.md)
+    - [s. 399 Expenditure excluded from being qualifying expenditure](section/399.md)
+  - Chapter 2 Qualifying expenditure on mineral exploration and access
+    - [s. 400 Qualifying expenditure on mineral exploration and access](section/400.md)
+    - [s. 401 Pre-trading exploration expenditure](section/401.md)
+    - [s. 402 Pre-trading expenditure on plant or machinery](section/402.md)
+  - Chapter 3 Qualifying expenditure on acquiring a mineral asset
+    - [s. 403 Qualifying expenditure on acquiring a mineral asset](section/403.md)
+    - [s. 404 Exclusion of undeveloped market value of land](section/404.md)
+    - [s. 405 Qualifying expenditure where buildings or structures cease to be used](section/405.md)
+    - [s. 406 Reduction where premium relief previously allowed](section/406.md)
+  - Chapter 4 Qualifying expenditure: second-hand assets
+    - Assets reflecting expenditure on mineral exploration and access
+      - [s. 407 Acquisition of mineral asset owned by previous trader](section/407.md)
+      - [s. 408 Acquisition of oil licence from non-trader](section/408.md)
+      - [s. 409 Acquisition of other assets from non-traders](section/409.md)
+    - Qualifying expenditure on assets limited by reference to historic costs
+      - [s. 410 UK oil licence: limit is original licence payment](section/410.md)
+      - [s. 411 Assets generally: limit is residue of previous trader’s qualifying expenditure](section/411.md)
+      - [s. 412 Transfers of mineral assets within group: limit is initial group expenditure](section/412.md)
+      - [s. 413 Transfers of mineral assets within group: supplementary](section/413.md)
+  - Chapter 5 Other kinds of qualifying expenditure
+    - [s. 414 Expenditure on works likely to become valueless](section/414.md)
+    - [s. 415 Contribution to buildings or works for benefit of employees abroad](section/415.md)
+    - [s. 416 Non-ring fence trades: expenditure on restoration within 3 years of ceasing to trade](section/416.md)
+    - [s. 416ZA Ring fence trades: expenditure on site restoration](section/416ZA.md)
+    - [s. 416ZB “Notional accounting period”](section/416ZB.md)
+    - [s. 416ZC Site restoration services supplied by connected person](section/416ZC.md)
+    - [s. 416ZD Restriction on allowance available](section/416ZD.md)
+    - [s. 416ZE Allowance where site restoration undertaken for other participators in oil field](section/416ZE.md)
+  - Chapter 5A First-year qualifying expenditure
+    - General
+      - [s. 416A First-year allowances available for certain types of qualifying expenditure](section/416A.md)
+    - Types of expenditure which may qualify for first year allowances
+      - [s. 416B Expenditure incurred by company for purposes of a ring fence trade](section/416B.md)
+    - Supplementary
+      - [s. 416C Time when expenditure is incurred](section/416C.md)
+  - Chapter 6 Allowances and charges
+    - First-year allowances
+      - [s. 416D First-year allowances](section/416D.md)
+      - [s. 416E Artificially inflated claims for first-year allowances](section/416E.md)
+    - Writing-down and balancing allowances and balancing charges
+      - [s. 417 Determination of entitlement or liability](section/417.md)
+      - [s. 418 Amount of allowances and charges](section/418.md)
+    - Unrelieved qualifying expenditure
+      - [s. 419 Unrelieved qualifying expenditure](section/419.md)
+      - [s. 419A Unrelieved qualifying expenditure: entry to cash basis](section/419A.md)
+    - Disposal values
+      - [s. 420 Meaning of “disposal receipt”](section/420.md)
+      - [s. 421 Disposal of, or ceasing to use, asset](section/421.md)
+      - [s. 422 Use of asset otherwise than for permitted development etc.](section/422.md)
+      - [s. 423 Sections 421 and 422: amount of disposal value to be brought into account](section/423.md)
+      - [s. 424 Disposal value restricted in case of interest in land](section/424.md)
+      - [s. 425 Receipt of capital sum](section/425.md)
+    - Cases in which a person is entitled to a balancing allowance
+      - [s. 426 Pre-trading expenditure](section/426.md)
+      - [s. 427 Giving up exploration, search or inquiry](section/427.md)
+      - [s. 428 Ceasing to work mineral deposits](section/428.md)
+      - [s. 429 Buildings etc. for benefit of employees abroad ceasing to be used](section/429.md)
+      - [s. 430 Disposal of asset, etc.](section/430.md)
+      - [s. 431 Discontinuance of trade](section/431.md)
+      - [s. 431A Foreign permanent establishment exemption](section/431A.md)
+      - [s. 431B Disposal value: no allowance/no charge cases](section/431B.md)
+      - [s. 431C Notional allowances](section/431C.md)
+      - [s. 431D Persons leaving cash basis](section/431D.md)
+  - Chapter 7 Supplementary provisions
+    - [s. 432 Giving effect to allowances and charges](section/432.md)
+    - [s. 433 Treatment of demolition costs](section/433.md)
+    - [s. 434 Time when expenditure incurred](section/434.md)
+    - [s. 435 Shares in assets](section/435.md)
+    - [s. 436 Meaning of “development” etc.](section/436.md)
+- Part 6 Research and development allowances
+  - Chapter 1 Introduction
+    - [s. 437 Research and development allowances](section/437.md)
+    - [s. 438 Expenditure on research and development](section/438.md)
+  - Chapter 2 Qualifying expenditure
+    - [s. 439 Qualifying expenditure](section/439.md)
+    - [s. 439A Qualifying expenditure incurred for purposes of NI rate activity](section/439A.md)
+    - [s. 440 Excluded expenditure: land](section/440.md)
+  - Chapter 3 Allowances and charges
+    - [s. 441 Allowances](section/441.md)
+    - [s. 442 Balancing charges](section/442.md)
+    - [s. 443 Disposal values and disposal events](section/443.md)
+    - [s. 444 Disposal events: chargeable period for which disposal value is to be brought into account](section/444.md)
+    - [s. 445 Costs of demolition](section/445.md)
+  - Chapter 4 Additional VAT liabilities and rebates
+    - [s. 446 Introduction](section/446.md)
+    - [s. 447 Additional VAT liability treated as additional expenditure etc.](section/447.md)
+    - [s. 448 Additional VAT rebate generates disposal value](section/448.md)
+    - [s. 449 Effect on balancing charges of additional VAT rebates in earlier chargeable periods](section/449.md)
+  - Chapter 5 Supplementary provisions
+    - [s. 450 Giving effect to allowances and charges](section/450.md)
+    - [s. 451 Sales: time of cessation of ownership](section/451.md)
+- Part 7 Know-how allowances
+  - Chapter 1 Introduction
+    - [s. 452 Know-how allowances](section/452.md)
+    - [s. 453 Know-how as property](section/453.md)
+  - Chapter 2 Qualifying expenditure
+    - [s. 454 Qualifying expenditure](section/454.md)
+    - [s. 455 Excluded expenditure](section/455.md)
+  - Chapter 3 Allowances and charges
+    - [s. 456 Pooling of expenditure](section/456.md)
+    - [s. 457 Determination of entitlement or liability](section/457.md)
+    - [s. 458 Amount of allowances and charges](section/458.md)
+    - [s. 459 Available qualifying expenditure](section/459.md)
+    - [s. 460 Allocation of qualifying expenditure to pools](section/460.md)
+    - [s. 461 Unrelieved qualifying expenditure](section/461.md)
+    - [s. 461A Unrelieved qualifying expenditure: entry to cash basis](section/461A.md)
+    - [s. 462 Disposal values](section/462.md)
+    - [s. 462A Persons leaving cash basis](section/462A.md)
+    - [s. 463 Giving effect to allowances and charges](section/463.md)
+- Part 8 Patent allowances
+  - Chapter 1 Introduction
+    - [s. 464 Patent allowances](section/464.md)
+    - [s. 465 Future patent rights](section/465.md)
+    - [s. 466 Grant of licences](section/466.md)
+  - Chapter 2 Qualifying expenditure
+    - [s. 467 Qualifying expenditure](section/467.md)
+    - [s. 468 Qualifying trade expenditure](section/468.md)
+    - [s. 469 Qualifying non-trade expenditure](section/469.md)
+  - Chapter 3 Allowances and charges
+    - [s. 470 Pooling of expenditure](section/470.md)
+    - [s. 471 Determination of entitlement or liability](section/471.md)
+    - [s. 472 Amount of allowances and charges](section/472.md)
+    - [s. 473 Available qualifying expenditure](section/473.md)
+    - [s. 474 Allocation of qualifying expenditure to pools](section/474.md)
+    - [s. 475 Unrelieved qualifying expenditure](section/475.md)
+    - [s. 475A Unrelieved qualifying expenditure: entry to cash basis](section/475A.md)
+    - [s. 476 Disposal value of patent rights](section/476.md)
+    - [s. 477 Limit on amount of disposal value](section/477.md)
+    - [s. 477A Persons leaving cash basis](section/477A.md)
+  - Chapter 4 Giving effect to allowances and charges
+    - [s. 478 Persons having qualifying trade expenditure](section/478.md)
+    - [s. 479 Persons having qualifying non-trade expenditure: income tax](section/479.md)
+    - [s. 480 Persons having qualifying non-trade expenditure: corporation tax](section/480.md)
+  - Chapter 5 Supplementary provisions
+    - [s. 481 Anti-avoidance: limit on qualifying expenditure](section/481.md)
+    - [s. 482 Sums paid for Crown use etc. treated as paid under licence](section/482.md)
+    - [s. 483 Meaning of “income from patents”](section/483.md)
+- Part 9 Dredging allowances
+  - Qualifying expenditure on dredging, etc.
+    - [s. 484 Dredging allowances](section/484.md)
+    - [s. 485 Qualifying expenditure](section/485.md)
+    - [s. 486 Pre-trading expenditure of qualifying trades, etc.](section/486.md)
+  - Writing-down and balancing allowances
+    - [s. 487 Writing-down allowances](section/487.md)
+    - [s. 488 Balancing allowances](section/488.md)
+  - Giving effect to allowances
+    - [s. 489 Giving effect to allowances](section/489.md)
+- Part 10 Assured tenancy allowances
+  - Chapter 1 Introduction
+    - [s. 490 Assured tenancy allowances](section/490.md)
+    - [s. 491 Allowances available in relation to old expenditure only](section/491.md)
+    - [s. 492 Meaning of “approved body”](section/492.md)
+    - [s. 493 Expenditure on the construction of a building](section/493.md)
+  - Chapter 2 The relevant interest
+    - Introduction
+      - [s. 494 Introduction](section/494.md)
+    - The relevant interest in the building
+      - [s. 495 General rule as to what is the relevant interest in the building](section/495.md)
+      - [s. 496 Interest acquired on completion of construction](section/496.md)
+      - [s. 497 Effect of creation of subordinate interest](section/497.md)
+      - [s. 498 Merger of leasehold interest](section/498.md)
+      - [s. 499 Provisions applying on termination of lease](section/499.md)
+    - The relevant interest in the dwelling-house
+      - [s. 500 The relevant interest in the dwelling-house](section/500.md)
+  - Chapter 3 Qualifying expenditure
+    - [s. 501 Capital expenditure on construction](section/501.md)
+    - [s. 502 Purchase of unused dwelling-house where developer not involved](section/502.md)
+    - [s. 503 Purchase of dwelling-house sold unused by developer](section/503.md)
+  - Chapter 4 Qualifying dwelling-houses
+    - [s. 504 Requirements relating to the landlord](section/504.md)
+    - [s. 505 Qualifying dwelling-houses: exclusions](section/505.md)
+    - [s. 506 Dwelling-house ceasing to be qualifying dwelling-house](section/506.md)
+  - Chapter 5 Writing-down allowances
+    - Entitlement to and calculation of writing-down allowances
+      - [s. 507 Entitlement to writing-down allowance](section/507.md)
+      - [s. 508 Basic rule for calculating amount of allowance](section/508.md)
+      - [s. 509 Calculation of allowance after sale of relevant interest](section/509.md)
+      - [s. 510 Allowance limited to residue of qualifying expenditure attributable to dwelling-house](section/510.md)
+    - Interpretation
+      - [s. 511 Qualifying expenditure attributable to dwelling-house](section/511.md)
+      - [s. 512 Residue of qualifying expenditure attributable to dwelling-house](section/512.md)
+  - Chapter 6 Balancing adjustments
+    - General
+      - [s. 513 When balancing adjustments are made](section/513.md)
+      - [s. 514 Balancing events](section/514.md)
+      - [s. 515 Proceeds from balancing events](section/515.md)
+    - Calculation of balancing adjustments
+      - [s. 516 Dwelling-house a qualifying dwelling-house throughout](section/516.md)
+      - [s. 517 Dwelling-house not a qualifying dwelling-house throughout](section/517.md)
+      - [s. 518 Overall limit on balancing charge](section/518.md)
+      - [s. 519 Recovery of old initial allowances made on incorrect assumptions](section/519.md)
+    - Meaning of “the relevant period of ownership” etc.
+      - [s. 520 The relevant period of ownership](section/520.md)
+      - [s. 521 Starting expenditure](section/521.md)
+      - [s. 522 Adjusted net cost](section/522.md)
+  - Chapter 7 Writing off qualifying expenditure attributable to dwelling-house
+    - [s. 523 Introduction](section/523.md)
+    - [s. 524 Writing off initial allowances](section/524.md)
+    - [s. 525 Writing off writing-down allowances](section/525.md)
+    - [s. 526 Writing off expenditure for periods when building not used as qualifying dwelling-house](section/526.md)
+    - [s. 527 Writing off or increase of expenditure where balancing adjustment made](section/527.md)
+    - [s. 528 Treatment of demolition costs](section/528.md)
+  - Chapter 8 Supplementary provisions
+    - [s. 529 Giving effect to allowances and charges](section/529.md)
+    - [s. 530 Apportionment of sums partly referable to non-qualifying assets](section/530.md)
+    - [s. 531 Meaning of “dwelling-house”, “lease” etc.](section/531.md)
+- Part 11 Contributions
+  - Chapter 1 Exclusion of expenditure met by contributions
+    - Rules excluding contributions
+      - [s. 532 The general rule excluding contributions](section/532.md)
+      - [s. 533 Exclusion of contributions to dredging](section/533.md)
+    - Exceptions to the general rule excluding contributions
+      - [s. 534 Northern Ireland regional development grants](section/534.md)
+      - [s. 535 Insurance or compensation money](section/535.md)
+      - [s. 536 Contributions not made by public bodies and not eligible for tax relief](section/536.md)
+  - Chapter 2 Contribution allowances
+    - Contribution allowances under Parts 2, 2A, 3, 4 and 5
+      - [s. 537 Conditions for contribution allowances under Parts 2, 2A ... and 5](section/537.md)
+      - [s. 538 Plant and machinery](section/538.md)
+      - [s. 538A Buildings and structures](section/538A.md)
+      - [s. 539 Industrial buildings](section/539.md)
+      - [s. 540 Agricultural buildings](section/540.md)
+      - [s. 541 Mineral extraction](section/541.md)
+    - Effect of transfers of C’s trade on contribution allowances under Parts 3, 4 and 5
+      - [s. 542 Transfer of C’s trade ...](section/542.md)
+    - Contribution allowances under Part 9
+      - [s. 543 Contribution allowances under Part 9](section/543.md)
+- Part 12 Supplementary provisions
+  - Chapter 1 LONG-TERM business
+    - [s. 544 Management assets](section/544.md)
+    - [s. 545 Investment assets](section/545.md)
+  - Chapter 2 Additional VAT liabilities and rebates: interpretation, etc.
+    - [s. 546 Introduction](section/546.md)
+    - [s. 547 “Additional VAT liability” and “additional VAT rebate”](section/547.md)
+    - [s. 548 Time when additional VAT liability or rebate is incurred or made](section/548.md)
+    - [s. 549 Chargeable period in which, and time when, additional VAT liability or rebate accrues](section/549.md)
+    - [s. 550 Apportionment of additional VAT liabilities and rebates](section/550.md)
+    - [s. 551 Supplementary](section/551.md)
+  - Chapter 3 Disposals of oil licences: provisions relating to Parts 5 and 6
+    - Introduction
+      - [s. 552 Meaning of “oil licence” and “interest in an oil licence”](section/552.md)
+    - Oil licences relating to undeveloped areas
+      - [s. 553 Consideration to be treated as nil](section/553.md)
+      - [s. 554 Circumstances in which oil licence relates to undeveloped area](section/554.md)
+    - Disposal of oil licence with exploitation value
+      - [s. 555 Disposal of oil licence with exploitation value](section/555.md)
+    - Minor definitions
+      - [s. 556 Minor definitions](section/556.md)
+  - Chapter 4 Partnerships, successions and transfers
+    - [s. 557 Application of sections 558 and 559](section/557.md)
+    - [s. 558 Effect of partnership changes](section/558.md)
+    - [s. 559 Effect of successions](section/559.md)
+    - [s. 560 Transfer of insurance company business](section/560.md)
+    - [s. 560A Transfers of trade without a change of ownership](section/560A.md)
+    - [s. 561 Transfer or division of UK business](section/561.md)
+    - [s. 561A Transfer of asset by reason of cross-border merger](section/561A.md)
+  - Chapter 5 Miscellaneous
+    - Apportionment
+      - [s. 562 Apportionment where property sold together](section/562.md)
+    - Procedure for determining certain questions
+      - [s. 563 Procedure for determining certain questions affecting one or more persons](section/563.md)
+      - [s. 564 Questions to which procedure in section 563 applies](section/564.md)
+    - Tax agreements for income tax purposes
+      - [s. 565 Tax agreements for income tax purposes](section/565.md)
+    - Companies not resident in the United Kingdom
+      - [s. 566 Companies not resident in the United Kingdom](section/566.md)
+    - Sales treated as being for alternative amount
+      - [s. 567 Sales treated as being for alternative amount: introductory](section/567.md)
+      - [s. 568 Sales treated as being at market value](section/568.md)
+      - [s. 569 Election to treat sale as being for alternative amount](section/569.md)
+      - [s. 570 Elections: supplementary](section/570.md)
+    - Anti-avoidance
+      - [s. 570A Avoidance affecting proceeds of balancing event](section/570A.md)
+  - Chapter 6 Final provisions
+    - Orders and regulations
+      - [s. 570B Orders and regulations made by Treasury or Commissioners](section/570B.md)
+    - General interpretation
+      - [s. 571 Application of Act to parts of assets](section/571.md)
+      - [s. 572 References to sale of property and time of sale](section/572.md)
+      - [s. 573 Transfers treated as sales](section/573.md)
+      - [s. 573A Special tax sites](section/573A.md)
+      - [s. 574 Meaning of “control”](section/574.md)
+      - [s. 575 Meaning of “connected” persons](section/575.md)
+      - [s. 575A Section 575: supplementary](section/575A.md)
+      - [s. 576 Meaning of “the Inland Revenue” etc.](section/576.md)
+      - [s. 577 Other definitions](section/577.md)
+    - Amendments, repeals, citation etc.
+      - [s. 578 Consequential amendments](section/578.md)
+      - [s. 579 Commencement and transitional provisions and savings](section/579.md)
+      - [s. 580 Repeals](section/580.md)
+      - [s. 581 Citation](section/581.md)
+- SCHEDULE A1 First-year tax credits
+  - Part 1 Entitlement to first-year tax credits
+    - Entitlement to first-year tax credits
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Amount of first-year tax credit
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Meaning of “relevant first-year expenditure”
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - Incurring a loss in carrying on a qualifying activity
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Unrelieved loss
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - Total amount of company’s PAYE and NICs liabilities
+      - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+  - Part 2 Giving effect to first-year tax credits
+    - Payment in respect of first-year tax credit
+      - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+    - Restriction on losses carried forward
+      - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+      - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+      - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+      - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+    - Payment in respect of first-year tax credit not income
+      - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+  - Part 3 Clawback of first-year tax credit
+    - Circumstances in which first-year tax credit clawed back
+      - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+    - Interpretation
+      - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+    - Amount of restored loss
+      - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+    - Clawback of first-year tax credits: administrative provision
+      - [Sch. A1 para. 27](schedule/A1/paragraph/27.md)
+  - Part 4 Supplementary
+    - Artificially inflated claims
+      - [Sch. A1 para. 28](schedule/A1/paragraph/28.md)
+    - Interpretation
+      - [Sch. A1 para. 29](schedule/A1/paragraph/29.md)
+- Schedule 1 Abbreviations and defined expressions
+  - Part 1 Abbreviations
+  - Part 2 Defined expressions
+- Schedule 2 Consequential amendments
+  - The Taxes Management Act 1970 (c. 9)
+    - [Sch. 2 para. 1 Section 42 (procedure for making claims etc.)](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Section 57 (regulations about appeals)](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Section 58 (proceedings in tax cases in Northern Ireland)](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Section 98 (special returns, etc.)](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Finance Act 1982 (c. 39)
+    - [Sch. 2 para. 6 Section 137 (expenditure met by regional development plans to be disregarded for certain purposes)](schedule/2/paragraph/6.md)
+  - The London Regional Transport Act 1984 (c. 32)
+    - [Sch. 2 para. 7 Schedule 5 (transitional provisions and savings)](schedule/2/paragraph/7.md)
+  - The Films Act 1985 (c. 21)
+    - [Sch. 2 para. 8 Section 6 (certification of films as British films)](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Schedule 1 (certification of films as British films)](schedule/2/paragraph/9.md)
+  - The Trustee Savings Banks Act 1985 (c. 58)
+    - [Sch. 2 para. 10 Schedule 2 (taxation)](schedule/2/paragraph/10.md)
+  - The Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29 Section 384 (restrictions on right of set-off)](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39 Sections 434D and 434E (capital allowances: management assets; investment assets)](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44 Sections 520 to 523 (patents)](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47 Section 530 (disposal of know-how)](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59 Section 831 (interpretation of Act)](schedule/2/paragraph/59.md)
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61 Section 834 (interpretation of the Corporation Tax Acts)](schedule/2/paragraph/61.md)
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+    - [Sch. 2 para. 63 Schedule 18 (group relief)](schedule/2/paragraph/63.md)
+    - [Sch. 2 para. 64 Schedule 19AC (modification of Act in relation to overseas life insurance companies)](schedule/2/paragraph/64.md)
+    - [Sch. 2 para. 65 Schedule 21 (tax relief in connection with schemes for rationalising industry and other redundancy schemes)](schedule/2/paragraph/65.md)
+    - [Sch. 2 para. 66 Schedule 24 (assumptions for calculating chargeable profits, creditable tax and corresponding United Kingdom tax of foreign companies)](schedule/2/paragraph/66.md)
+    - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+  - The Finance Act 1988 (c. 39)
+    - [Sch. 2 para. 69 Schedule 12 (building societies: change of status)](schedule/2/paragraph/69.md)
+  - The Finance Act 1989 (c. 26)
+    - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+  - The Electricity Act 1989 (c. 29)
+    - [Sch. 2 para. 71 Schedule 11 (taxation provisions)](schedule/2/paragraph/71.md)
+  - The Finance Act 1990 (c. 29)
+    - [Sch. 2 para. 72 Section 126 (pools payments for football ground improvements)](schedule/2/paragraph/72.md)
+  - The Finance Act 1991 (c. 31)
+    - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+    - [Sch. 2 para. 74 Section 78 (sharing of transmission facilities)](schedule/2/paragraph/74.md)
+  - The Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 2 para. 75 Schedule 2 (levy of Class 4 contributions with income tax)](schedule/2/paragraph/75.md)
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 2 para. 76 Schedule 2 (levy of Class 4 contributions with income tax)](schedule/2/paragraph/76.md)
+  - The Taxation of Chargeable Gains Act 1992 (c. 12)
+    - [Sch. 2 para. 77 Section 37 (consideration chargeable to tax on income)](schedule/2/paragraph/77.md)
+    - [Sch. 2 para. 78 Section 41 (restriction of losses by reference to capital allowances etc.)](schedule/2/paragraph/78.md)
+    - [Sch. 2 para. 79 Section 195 (allowance of certain drilling expenditure)](schedule/2/paragraph/79.md)
+    - [Sch. 2 para. 80 Section 288 (interpretation)](schedule/2/paragraph/80.md)
+    - [Sch. 2 para. 81 Schedule 3 (assets held on 31st March 1982)](schedule/2/paragraph/81.md)
+  - The Finance (No. 2) Act 1992 (c. 48)
+    - [Sch. 2 para. 82 New sections 40A to 40D (films)](schedule/2/paragraph/82.md)
+    - [Sch. 2 para. 83 Section 41 (relief for preliminary expenditure)](schedule/2/paragraph/83.md)
+    - [Sch. 2 para. 84 Section 42 (relief for production or acquisition expenditure)](schedule/2/paragraph/84.md)
+    - [Sch. 2 para. 85 Section 43 (interpretation of sections 41 and 42)](schedule/2/paragraph/85.md)
+    - [Sch. 2 para. 86](schedule/2/paragraph/86.md)
+    - [Sch. 2 para. 87 Schedule 17 (Northern Ireland electricity)](schedule/2/paragraph/87.md)
+  - The Finance Act 1993 (c. 34)
+    - [Sch. 2 para. 88 Section 92 (the basic rule: sterling to be used)](schedule/2/paragraph/88.md)
+    - [Sch. 2 para. 89 Section 93 (use of currency other than sterling)](schedule/2/paragraph/89.md)
+  - The Agriculture Act 1993 (c. 37)
+    - [Sch. 2 para. 90 Schedule 2 (provisions relating to carrying out approved schemes or reorganisation)](schedule/2/paragraph/90.md)
+  - The Finance Act 1994 (c. 9)
+    - [Sch. 2 para. 91 Schedule 24 (provisions relating to the Railways Act 1993)](schedule/2/paragraph/91.md)
+    - [Sch. 2 para. 92 Schedule 25 (Northern Ireland Airports Limited)](schedule/2/paragraph/92.md)
+  - The Coal Industry Act 1994 (c. 21)
+    - [Sch. 2 para. 93 Schedule 4 (taxation provisions)](schedule/2/paragraph/93.md)
+  - The Atomic Energy Authority Act 1995 (c. 37)
+    - [Sch. 2 para. 94 Schedule 3 (taxation provisions)](schedule/2/paragraph/94.md)
+  - The Finance Act 1996 (c. 8)
+    - [Sch. 2 para. 95 Section 151 (benefits under pilot schemes)](schedule/2/paragraph/95.md)
+    - [Sch. 2 para. 96](schedule/2/paragraph/96.md)
+  - The Broadcasting Act 1996 (c. 55)
+    - [Sch. 2 para. 97 Schedule 7 (transfer schemes relating to BBC transmission network: taxation provisions)](schedule/2/paragraph/97.md)
+  - The Finance Act 1997 (c. 16)
+    - [Sch. 2 para. 98 Schedule 12 (leasing arrangements: finance leases and loans)](schedule/2/paragraph/98.md)
+  - The Finance (No. 2) Act 1997 (c. 58)
+    - [Sch. 2 para. 99 Section 48 (films: relief for production or acquisition expenditure)](schedule/2/paragraph/99.md)
+  - The Finance Act 1998 (c. 36)
+    - [Sch. 2 para. 100 Section 117 (company tax returns, assessments and related matters)](schedule/2/paragraph/100.md)
+    - [Sch. 2 para. 101](schedule/2/paragraph/101.md)
+    - [Sch. 2 para. 102](schedule/2/paragraph/102.md)
+    - [Sch. 2 para. 103 Schedule 18 (company tax returns, assessments and related matters)](schedule/2/paragraph/103.md)
+  - The Finance Act 1999 (c. 16)
+    - [Sch. 2 para. 104](schedule/2/paragraph/104.md)
+  - The Greater London Authority Act 1999 (c. 29)
+    - [Sch. 2 para. 105 Schedule 33 (taxation)](schedule/2/paragraph/105.md)
+  - The Finance Act 2000 (c. 17)
+    - [Sch. 2 para. 106 Section 105 (corporation tax: use of currencies other than sterling)](schedule/2/paragraph/106.md)
+    - [Sch. 2 para. 107](schedule/2/paragraph/107.md)
+    - [Sch. 2 para. 108 Schedule 22 (tonnage tax)](schedule/2/paragraph/108.md)
+  - The Transport Act 2000 (c. 38)
+    - [Sch. 2 para. 109 Schedule 26 (transfers: tax)](schedule/2/paragraph/109.md)
+- Schedule 3 Transitionals and savings
+  - Part 1 Continuity of the law
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part 2 Changes in the law
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part 3 General
+    - Capital expenditure
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Exclusion of double relief
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part 4 Plant and machinery allowances
+    - Introduction
+      - [Sch. 3 para. 11 Use for qualifying activity of plant or machinery provided for other purposes](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12 Use for qualifying activity of plant or machinery which is a gift](schedule/3/paragraph/12.md)
+    - Qualifying expenditure
+      - [Sch. 3 para. 13 Buildings, structures and land](schedule/3/paragraph/13.md)
+    - First-year qualifying expenditure
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Hire-purchase and similar contracts
+      - [Sch. 3 para. 15 Plant or machinery acquired under hire purchase etc.](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16 Plant or machinery on hire purchase etc.: fixtures](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17 Plant or machinery provided by lessee](schedule/3/paragraph/17.md)
+    - Computer software
+      - [Sch. 3 para. 18 Software and rights to software](schedule/3/paragraph/18.md)
+    - ................................
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Long-life assets
+      - [Sch. 3 para. 20 Long-life asset expenditure](schedule/3/paragraph/20.md)
+    - Overseas leasing
+      - [Sch. 3 para. 21 Meaning of “overseas leasing”](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22 Recovery of first-year allowances in case of joint lessees](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23 Letting ships or aircraft to obtain old first-year allowance not a qualifying purpose](schedule/3/paragraph/23.md)
+    - Ships: deferments etc.
+      - [Sch. 3 para. 24 Further registration requirement](schedule/3/paragraph/24.md)
+    - Mining and oil industries
+      - [Sch. 3 para. 25 Pre-trading expenditure on mineral exploration and access](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26 Abandonment expenditure incurred before cessation of ring fence trade](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27 Abandonment expenditure incurred after cessation of ring fence trade](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28 Oil production sharing contracts](schedule/3/paragraph/28.md)
+    - Fixtures
+      - [Sch. 3 para. 29 Meaning of “interest in land” for purposes of Chapter 14 of Part 2 (fixtures)](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30 Equipment lessors](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31 Equipment lessee has qualifying activity etc.](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32 Equipment lessor has right to sever fixture that is not part of building](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33 Equipment lease is part of affordable warmth programme](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34 Purchaser of land giving consideration for fixture](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35 Purchaser of land discharging obligations of equipment lessee](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36 Incoming lessee where lessor entitled to allowances](schedule/3/paragraph/36.md)
+      - [Sch. 3 para. 37 Incoming lessee where lessor not entitled to allowances](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38 Fixture on which a plant and machinery allowance has been claimed](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39 Fixture on which industrial buildings allowance has been made](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40 Fixture on which research and development allowance has been made](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41 Disposal value in relation to fixtures: general](schedule/3/paragraph/41.md)
+    - Assets provided or used only partly for qualifying activity
+      - [Sch. 3 para. 42 Effect of significant reduction in use for purposes of qualifying activity](schedule/3/paragraph/42.md)
+    - Anti-avoidance
+      - [Sch. 3 para. 43 Relevant transactions: sale, hire-purchase (etc.) and assignment](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44 Hire purchase etc. and finance leases](schedule/3/paragraph/44.md)
+      - [Sch. 3 para. 45 Sale and finance leasebacks](schedule/3/paragraph/45.md)
+    - Additional VAT liabilities and rebates
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+    - Supplementary provisions
+      - [Sch. 3 para. 52 Successions by beneficiaries](schedule/3/paragraph/52.md)
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+    - General
+      - [Sch. 3 para. 54 Vehicles provided by employees in 1990-91](schedule/3/paragraph/54.md)
+      - [Sch. 3 para. 55 Certain expenditure incurred before 6th April 1976](schedule/3/paragraph/55.md)
+  - Part 5 Industrial buildings allowances
+    - Industrial buildings
+      - [Sch. 3 para. 56 Bridge undertakings](schedule/3/paragraph/56.md)
+      - [Sch. 3 para. 57 Building used by more than one licensee](schedule/3/paragraph/57.md)
+      - [Sch. 3 para. 58 Qualifying hotels](schedule/3/paragraph/58.md)
+      - [Sch. 3 para. 59 Non-industrial part of building disregarded](schedule/3/paragraph/59.md)
+    - Qualifying expenditure
+      - [Sch. 3 para. 60 Purchase of used building from developer](schedule/3/paragraph/60.md)
+      - [Sch. 3 para. 61 Qualifying enterprise zone expenditure](schedule/3/paragraph/61.md)
+      - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+      - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+    - Initial allowances
+      - [Sch. 3 para. 64 Building occupied by qualifying licensee](schedule/3/paragraph/64.md)
+      - [Sch. 3 para. 65 Grants affecting entitlement to initial allowances](schedule/3/paragraph/65.md)
+    - Writing-down allowances
+      - [Sch. 3 para. 66 Basic rule for calculating amount of allowance](schedule/3/paragraph/66.md)
+      - [Sch. 3 para. 67 Calculation of amount after relevant event](schedule/3/paragraph/67.md)
+    - Balancing adjustments
+      - [Sch. 3 para. 68 When balancing adjustments are made](schedule/3/paragraph/68.md)
+      - [Sch. 3 para. 69 Net allowance given](schedule/3/paragraph/69.md)
+      - [Sch. 3 para. 70](schedule/3/paragraph/70.md)
+      - [Sch. 3 para. 71 Balancing adjustment on realisation of capital value](schedule/3/paragraph/71.md)
+    - Writing off qualifying expenditure
+      - [Sch. 3 para. 72 Writing off qualifying expenditure when building not an industrial building](schedule/3/paragraph/72.md)
+      - [Sch. 3 para. 73 Crown or other person not within the charge to tax entitled to the relevant interest](schedule/3/paragraph/73.md)
+    - Highway undertakings
+      - [Sch. 3 para. 74 Special provisions relating to highway concessions](schedule/3/paragraph/74.md)
+    - Additional VAT liabilities and rebates
+      - [Sch. 3 para. 75 Additional VAT liabilities and initial allowances: 1992-93 cases](schedule/3/paragraph/75.md)
+      - [Sch. 3 para. 76 Additional VAT liabilities and initial allowances: further case](schedule/3/paragraph/76.md)
+      - [Sch. 3 para. 77 1992-93 qualifying expenditure](schedule/3/paragraph/77.md)
+    - Supplementary provisions
+      - [Sch. 3 para. 78 Arrangements having an artificial effect on pricing](schedule/3/paragraph/78.md)
+    - General
+      - [Sch. 3 para. 79 Expenditure on preparatory work on land where building used before 6th April 1956](schedule/3/paragraph/79.md)
+  - Part 6 Agricultural buildings allowances
+    - [Sch. 3 para. 80 Overall limit on balancing charge](schedule/3/paragraph/80.md)
+    - [Sch. 3 para. 81 Meaning of “freehold interest in land” for purposes of Part 4](schedule/3/paragraph/81.md)
+    - [Sch. 3 para. 82 Exclusion of expenditure incurred before 1st April 1986](schedule/3/paragraph/82.md)
+    - [Sch. 3 para. 83 The writing-down period](schedule/3/paragraph/83.md)
+  - Part 7 Mineral extraction allowances
+    - Qualifying expenditure on acquiring a mineral asset
+      - [Sch. 3 para. 84 Qualifying expenditure where buildings or structures cease to be used](schedule/3/paragraph/84.md)
+    - Qualifying expenditure: second-hand assets
+      - [Sch. 3 para. 85 Claims before 26th November 1996 in respect of acquisition of mineral asset owned by previous trader](schedule/3/paragraph/85.md)
+      - [Sch. 3 para. 86 Acquisition of oil licence from non-trader before 13th September 1995](schedule/3/paragraph/86.md)
+      - [Sch. 3 para. 87 Restrictions on qualifying expenditure in case of UK oil licence and certain other assets inapplicable for expenditure pre-16th July 1985](schedule/3/paragraph/87.md)
+      - [Sch. 3 para. 88 Expenditure incurred pre-1st April 1986](schedule/3/paragraph/88.md)
+  - Part 8 Research and development allowances
+    - [Sch. 3 para. 89 Expenditure incurred partly on research and development](schedule/3/paragraph/89.md)
+    - [Sch. 3 para. 90 References to research and development in relation to new trades](schedule/3/paragraph/90.md)
+    - [Sch. 3 para. 91 Disposal of oil licences](schedule/3/paragraph/91.md)
+  - Part 9 Patent allowances
+    - Expenditure incurred before 1st April 1986
+      - [Sch. 3 para. 92 Scope of paragraphs 93 to 101](schedule/3/paragraph/92.md)
+      - [Sch. 3 para. 93 Qualifying expenditure and unrelieved qualifying expenditure](schedule/3/paragraph/93.md)
+      - [Sch. 3 para. 94 Entitlement to writing-down allowances](schedule/3/paragraph/94.md)
+      - [Sch. 3 para. 95 The writing-down period](schedule/3/paragraph/95.md)
+      - [Sch. 3 para. 96 Calculation of writing-down allowances](schedule/3/paragraph/96.md)
+      - [Sch. 3 para. 97 End of writing-down allowances](schedule/3/paragraph/97.md)
+      - [Sch. 3 para. 98 Reduced writing-down allowance](schedule/3/paragraph/98.md)
+      - [Sch. 3 para. 99 Balancing allowance on sale or expiry of patent rights](schedule/3/paragraph/99.md)
+      - [Sch. 3 para. 100 Balancing charges](schedule/3/paragraph/100.md)
+      - [Sch. 3 para. 101 Giving effect to allowances and charges](schedule/3/paragraph/101.md)
+    - Supplementary provisions
+      - [Sch. 3 para. 102 Limit on qualifying expenditure](schedule/3/paragraph/102.md)
+  - Part 10 Dredging allowances
+    - [Sch. 3 para. 103 Writing-down allowances](schedule/3/paragraph/103.md)
+    - [Sch. 3 para. 104 Balancing allowances](schedule/3/paragraph/104.md)
+    - [Sch. 3 para. 105 The writing-down period](schedule/3/paragraph/105.md)
+  - Part 11 Contributions
+    - [Sch. 3 para. 106 Regional development grants](schedule/3/paragraph/106.md)
+    - [Sch. 3 para. 107 Contributions not made by public bodies and not eligible for tax relief](schedule/3/paragraph/107.md)
+    - [Sch. 3 para. 108 Conditions for allowances](schedule/3/paragraph/108.md)
+    - [Sch. 3 para. 109 Agricultural buildings](schedule/3/paragraph/109.md)
+    - [Sch. 3 para. 110](schedule/3/paragraph/110.md)
+  - Part 12 Supplemental
+    - [Sch. 3 para. 111 Transfer of insurance company business](schedule/3/paragraph/111.md)
+    - [Sch. 3 para. 112 Election regarding sale consideration](schedule/3/paragraph/112.md)
+  - Part 13 Other enactments
+    - [Sch. 3 para. 113](schedule/3/paragraph/113.md)
+    - [Sch. 3 para. 114](schedule/3/paragraph/114.md)
+    - [Sch. 3 para. 115](schedule/3/paragraph/115.md)
+    - [Sch. 3 para. 116](schedule/3/paragraph/116.md)
+    - [Sch. 3 para. 117](schedule/3/paragraph/117.md)
+- Schedule 4 Repeals
