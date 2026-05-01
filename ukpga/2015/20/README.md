@@ -2,9 +2,11 @@
 
 2015 c. 20. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/20/2025-09-10
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
+
+Source: https://www.legislation.gov.uk/ukpga/2015/20/2026-05-01
 
 ## Contents
 
@@ -43,17 +45,17 @@ Source: https://www.legislation.gov.uk/ukpga/2015/20/2025-09-10
   - [s. 28 Reduction of qualifying period for right to buy](section/28.md)
   - [s. 29 Removal of power to require preparation of housing strategies](section/29.md)
   - [s. 30 Tenancy deposits: provision of information by agents](section/30.md)
-  - [s. 31 Tenancy deposits: non-compliance with requirements](section/31.md)
+  - [s. 31](section/31.md)
   - [s. 32 Tenancy deposits: deemed compliance with requirements](section/32.md)
-  - [s. 33 Preventing retaliatory eviction](section/33.md)
-  - [s. 34 Further exemptions to section 33](section/34.md)
-  - [s. 35 Notice to be provided in relation to periodic assured shorthold tenancies](section/35.md)
-  - [s. 36 Time limits in relation to section 21 notices and proceedings](section/36.md)
-  - [s. 37 Prescribed form of section 21 notices](section/37.md)
-  - [s. 38 Compliance with prescribed legal requirements](section/38.md)
-  - [s. 39 Requirement for landlord to provide prescribed information](section/39.md)
-  - [s. 40 Repayment of rent where tenancy ends before end of a period](section/40.md)
-  - [s. 41 Application of sections 33 to 40](section/41.md)
+  - [s. 33](section/33.md)
+  - [s. 34](section/34.md)
+  - [s. 35](section/35.md)
+  - [s. 36](section/36.md)
+  - [s. 37](section/37.md)
+  - [s. 38](section/38.md)
+  - [s. 39](section/39.md)
+  - [s. 40](section/40.md)
+  - [s. 41](section/41.md)
   - [s. 42 Optional building requirements](section/42.md)
   - [s. 43 Amendment of Planning and Energy Act 2008](section/43.md)
   - [s. 44 Short-term use of London accommodation: relaxation of restrictions](section/44.md)
