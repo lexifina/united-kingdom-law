@@ -1,0 +1,896 @@
+# Broadcasting Act 1990
+
+1990 c. 42. Enacted 1990-11-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/42
+
+Source: https://www.legislation.gov.uk/ukpga/1990/42/2026-05-01
+
+## Contents
+
+- Part I Independent Television Services
+  - Chapter 1 Regulation by Commission of Television Services Generally
+    - Establishment of Independent Television Commission
+      - [s. 1 The Independent Television Commission.](section/1.md)
+    - Function of Commission
+      - [s. 2 Regulation by Commission of provision of television services.](section/2.md)
+    - General provisions about licences
+      - [s. 3 Licences under Part I.](section/3.md)
+      - [s. 4 General licence conditions.](section/4.md)
+      - [s. 5 Restrictions on the holding of licences.](section/5.md)
+    - General provisions about licensed services
+      - [s. 6 General requirements as to licensed services.](section/6.md)
+      - [s. 7 General code for programmes.](section/7.md)
+      - [s. 8 General provisions as to advertisements.](section/8.md)
+      - [s. 9 Control of advertisements.](section/9.md)
+      - [s. 10 Government control over licensed services.](section/10.md)
+      - [s. 11 Monitoring by Commission of programmes included in licensed services.](section/11.md)
+      - [s. 12 Audience research.](section/12.md)
+    - Prohibition on providing unlicensed television services
+      - [s. 13 Prohibition on providing television services without a licence.](section/13.md)
+  - Chapter II Television Broadcasting on Channels 3, 4 and 5
+    - Channel 3
+      - [s. 14 Establishment of Channel 3.](section/14.md)
+      - [s. 15 Applications for Channel 3 licences.](section/15.md)
+      - [s. 16 Procedure to be followed by Commission in connection with consideration of applications for licences.](section/16.md)
+      - [s. 17 Award of licence to person submitting highest cash bid.](section/17.md)
+      - [s. 17A Award of Channel 3 licence subject to conditions.](section/17A.md)
+      - [s. 18 Failure to begin providing licensed service and financial penalties on revocation of licence.](section/18.md)
+      - [s. 18A Section 18: supplementary provision](section/18A.md)
+      - [s. 19 Additional payments to be made in respect of Channel 3 licences.](section/19.md)
+      - [s. 20 Duration and renewal of Channel 3 licences.](section/20.md)
+      - [s. 21 Restriction on changes in control over Channel 3 licence holder.](section/21.md)
+      - [s. 21A Variation of regional Channel 3 licence following change of control.](section/21A.md)
+      - [s. 22 Temporary provision of regional Channel 3 service for additional area.](section/22.md)
+    - Channel 4
+      - [s. 23 The Channel Four Television Corporation.](section/23.md)
+      - [s. 23A Sustainability duty of Corporation](section/23A.md)
+      - [s. 24 Channel 4 to be provided by Corporation as licensed service.](section/24.md)
+      - [s. 25 Conditions to be included in Channel 4 licence.](section/25.md)
+      - [s. 26 Revenue deficits of Corporation to be funded by Channel 3 licensees.](section/26.md)
+      - [s. 27 Application of excess revenues of Corporation.](section/27.md)
+    - Channel 5
+      - [s. 28 Channel 5.](section/28.md)
+      - [s. 29 Application to Channel 5 of provisions relating to Channel 3.](section/29.md)
+      - [s. 30 Initial Channel 5 licensee required to retune equipment susceptible to interference.](section/30.md)
+    - Provision of news programmes
+      - [s. 31 Provision of news on Channels 3 and 5.](section/31.md)
+      - [s. 31A Appointment of news provider by holders of regional Channel 3 licences.](section/31A.md)
+      - [s. 32 Nomination of bodies to provide news for regional Channel 3 services.](section/32.md)
+    - Miscellaneous provisions relating to Channels 3, 4 and 5
+      - [s. 33 Conditions requiring holder of Channel 3 or Channel 5 licence to deliver promised service.](section/33.md)
+      - [s. 34 Schools programmes.](section/34.md)
+      - [s. 35 Subtitling for the deaf.](section/35.md)
+      - [s. 36 Party political broadcasts.](section/36.md)
+      - [s. 37 Announcements of programme schedules.](section/37.md)
+      - [s. 38 Promotion of equal opportunities in relation to employment by licence holder.](section/38.md)
+      - [s. 39 Networking arrangements between holders of regional Channel 3 licences.](section/39.md)
+    - Enforcement of licences
+      - [s. 40 Power to direct licensee to broadcast correction or a statement of findings or not to repeat programme.](section/40.md)
+      - [s. 41 Power to impose financial penalty or shorten licence period.](section/41.md)
+      - [s. 42 Power to revoke Channel 3 or 5 licence.](section/42.md)
+  - Chapter IIA Restricted services
+    - [s. 42A Restricted services.](section/42A.md)
+    - [s. 42B Licensing etc. of restricted services.](section/42B.md)
+  - Chapter III Satellite Television Services
+    - [s. 43 Satellite television services.](section/43.md)
+    - [s. 44 Licensing etc. of domestic satellite services.](section/44.md)
+    - [s. 45 Licensing etc. of satellite television services.](section/45.md)
+    - [s. 45A Special power of revocation and suspension on certain grounds in case of licence to provide satellite television service.](section/45A.md)
+  - Chapter IV. Licensable Programme Services
+    - [s. 46 Licensable programme services.](section/46.md)
+    - [s. 47 Licensing etc. of licensable programme services.](section/47.md)
+  - Chapter V Additional Services Provided on Television Broadcasting Frequencies
+    - [s. 48 Additional services.](section/48.md)
+    - [s. 49 Licensing of additional services.](section/49.md)
+    - [s. 50 Applications for additional services licences.](section/50.md)
+    - [s. 51 Procedure to be followed by Commission in connection with consideration of applications for, and awarding of, licences.](section/51.md)
+    - [s. 52 Additional payments to be made in respect of additional services licences.](section/52.md)
+    - [s. 53 Duration of licences, and renewal of licences for provision of services on assigned frequencies.](section/53.md)
+    - [s. 54 Additional services not to interfere with other transmissions.](section/54.md)
+    - [s. 55 Enforcement of additional services licences.](section/55.md)
+  - Chapter VI Television Broadcasting by Welsh Authority
+    - [s. 56 Welsh Authority to continue in existence as Sianel Pedwar Cymru.](section/56.md)
+    - [s. 56A The S4C Board](section/56A.md)
+    - [s. 57 Function and duties of Welsh Authority.](section/57.md)
+    - [s. 58 Sources of programmes for S4C.](section/58.md)
+    - [s. 59 Requirements to be complied with in relation to S4C programmes.](section/59.md)
+    - [s. 60 Advertising on S4C.](section/60.md)
+    - [s. 61 Funding of S4C.](section/61.md)
+    - [s. 61A S4C public service fund.](section/61A.md)
+    - [s. 62 Information to be supplied to Commission by Welsh Authority.](section/62.md)
+    - [s. 63 Government control over S4C.](section/63.md)
+    - [s. 64 Audience research by S4C.](section/64.md)
+  - Chapter VII Supplemental
+    - [s. 65 Assignment of frequencies by Secretary of State.](section/65.md)
+    - [s. 66 Requirements relating to transmission and distribution of services.](section/66.md)
+    - [s. 66A Enforcement of licences held by BBC companies.](section/66A.md)
+    - [s. 67 Computation of qualifying revenue.](section/67.md)
+    - [s. 68 Certain receipts of Commission to be paid into Consolidated Fund.](section/68.md)
+    - [s. 69 Frequency planning and research and development.](section/69.md)
+    - [s. 70 Representation by Commission of Government and other interests in connection with broadcasting matters.](section/70.md)
+    - [s. 71 Interpretation of Part I.](section/71.md)
+- Part II Local Delivery Services
+  - Preliminary
+    - [s. 72 Local delivery services.](section/72.md)
+  - Licensing of local delivery services
+    - [s. 73 Licensing of local delivery services.](section/73.md)
+    - [s. 74 Applications for local delivery licences.](section/74.md)
+    - [s. 75 Procedure to be followed by Commission in connection with consideration of applications for licences.](section/75.md)
+    - [s. 76 Award of licence to person submitting highest cash bid.](section/76.md)
+    - [s. 76A Award of local delivery licence subject to conditions.](section/76A.md)
+    - [s. 77 Additional payments to be made in respect of local delivery licences.](section/77.md)
+    - [s. 78 Duration and renewal of local delivery licences.](section/78.md)
+    - [s. 78A Inclusion of certain services in local delivery service provided by digital means.](section/78A.md)
+  - Regulation of delivery of certain programmes
+    - [s. 79 Regulation of delivery of programmes provided by licence holder and foreign satellite programmes.](section/79.md)
+    - [s. 80 Directions requiring licence holder to cease relaying foreign television programmes.](section/80.md)
+  - Enforcement of licences
+    - [s. 81 Enforcement of local delivery licences.](section/81.md)
+  - Prohibition on providing unlicensed local delivery services
+    - [s. 82 Prohibition on providing local delivery services without a licence.](section/82.md)
+- Part III Independent Radio Services
+  - Chapter I Regulation by Authority of Independent Radio Services Generally
+    - Establishment of Radio Authority
+      - [s. 83 The Radio Authority.](section/83.md)
+    - Function of Authority
+      - [s. 84 Regulation by Authority of independent radio services.](section/84.md)
+      - [s. 85 Licensing functions of Authority.](section/85.md)
+    - General provisions about licences
+      - [s. 86 Licences under Part III.](section/86.md)
+      - [s. 87 General licence conditions.](section/87.md)
+      - [s. 88 Restrictions on the holding of licences.](section/88.md)
+      - [s. 89 Disqualification for holding licence on grounds of conviction for transmitting offence.](section/89.md)
+    - General provisions about licensed services
+      - [s. 90 General requirements as to licensed services.](section/90.md)
+      - [s. 91 General code for programmes.](section/91.md)
+      - [s. 92 General provisions as to advertisements.](section/92.md)
+      - [s. 93 Control of advertisements.](section/93.md)
+      - [s. 94 Government control over licensed services.](section/94.md)
+      - [s. 95 Monitoring by Authority of programmes included in licensed services.](section/95.md)
+      - [s. 96 Audience research.](section/96.md)
+    - Prohibition on providing unlicensed independent radio services
+      - [s. 97 Prohibition on providing independent radio services without a licence.](section/97.md)
+    - Digital switchover
+      - [s. 97A Date for digital switchover](section/97A.md)
+      - [s. 97B Variation of licence period after date for digital switchover nominated](section/97B.md)
+  - Chapter II Sound Broadcasting Services
+    - National services
+      - [s. 98 Applications for national licences.](section/98.md)
+      - [s. 99 Procedure to be followed by Authority in connection with consideration of applications for national licences.](section/99.md)
+      - [s. 100 Award of national licence to person submitting highest cash bid.](section/100.md)
+      - [s. 100A Licence conditions relating to simulcast radio services](section/100A.md)
+      - [s. 101 Failure to begin providing licensed service and financial penalties on revocation of licence.](section/101.md)
+      - [s. 102 Additional payments to be made in respect of national licences.](section/102.md)
+      - [s. 103 Restriction on changes in control over holder of national licence.](section/103.md)
+      - [s. 103A Renewal of national licences.](section/103A.md)
+      - [s. 103B Further renewal of national licences](section/103B.md)
+    - Local and other services
+      - [s. 104 Applications for licences: local services and restricted services](section/104.md)
+      - [s. 104A Renewal of local licences.](section/104A.md)
+      - [s. 104AA Further renewal of local licences](section/104AA.md)
+      - [s. 104AB Renewal under section 104AA: nomination of national services](section/104AB.md)
+      - [s. 104AC Variation of conditions relating to digital services](section/104AC.md)
+      - [s. 104B Special application procedure for local licences.](section/104B.md)
+      - [s. 105 Special requirements relating to grant of local licences.](section/105.md)
+    - Miscellaneous provisions relating to national and local services
+      - [s. 105A Variation of licence period following renewal](section/105A.md)
+      - [s. 106 Requirements as to character and coverage of national and local services.](section/106.md)
+      - [s. 106ZA Consultation about change of character of local services](section/106ZA.md)
+      - [s. 106A Variation of local licence following change of control.](section/106A.md)
+      - [s. 107 Party political broadcasts.](section/107.md)
+      - [s. 108 Promotion of equal opportunities in relation to employment by holder of national licence.](section/108.md)
+    - Enforcement of licences
+      - [s. 109 Power to require scripts etc. or broadcasting of correction or a statement of findings.](section/109.md)
+      - [s. 110 Power to impose financial penalty or suspend or shorten licence period.](section/110.md)
+      - [s. 111 Power to revoke licences.](section/111.md)
+      - [s. 111A Enforcement of licences held by BBC companies.](section/111A.md)
+      - [s. 111B Suspension of licences for inciting crime or disorder](section/111B.md)
+  - Chapter III Licensable Sound Programme Services
+    - [s. 112 Licensable sound programme services.](section/112.md)
+    - [s. 113 Licensing etc. of licensable sound programme services.](section/113.md)
+  - Chapter IV Additional Services Provided on Sound Broadcasting Frequencies
+    - [s. 114 Additional services.](section/114.md)
+    - [s. 115 Licensing of additional services.](section/115.md)
+    - [s. 116 Applications for additional services licences.](section/116.md)
+    - [s. 117 Procedure to be followed by Authority in connection with consideration of applications for, and awarding of, licences.](section/117.md)
+    - [s. 118 Additional payments to be made in respect of additional services licences.](section/118.md)
+    - [s. 119 Additional services not to interfere with other transmissions.](section/119.md)
+    - [s. 120 Enforcement of additional services licences.](section/120.md)
+  - Chapter V Supplemental
+    - [s. 121 Computation of qualifying revenue.](section/121.md)
+    - [s. 122 Certain receipts of Authority to be paid into Consolidated Fund.](section/122.md)
+    - [s. 123 Frequency planning and general research and development.](section/123.md)
+    - [s. 124 Authority to assist Secretary of State in connection with licensing functions under 1949 Act.](section/124.md)
+    - [s. 125 Representation by Authority of Government and other interests in connection with broadcasting matters.](section/125.md)
+    - [s. 126 Interpretation of Part III.](section/126.md)
+- Part IV Transfer of Undertakings of IBA and Cable Authority
+  - Transfer of undertakings
+    - [s. 127 Division of assets of IBA and their dissolution.](section/127.md)
+    - [s. 128 Vesting in Commission of assets of Cable Authority and dissolution of Authority.](section/128.md)
+  - Transitional arrangements
+    - [s. 129 Transitional arrangements relating to IBA’s broadcasting services.](section/129.md)
+    - [s. 130 Variation of programme contracts to take account of new transmission arrangements.](section/130.md)
+    - [s. 131 Supplementary provisions relating to variation of programme contracts.](section/131.md)
+    - [s. 132 Disposal by IBA of DBS transmitting equipment etc.](section/132.md)
+    - [s. 133 Functions exercisable by IBA before transfer date in connection with local sound broadcasting.](section/133.md)
+    - [s. 134 Transitional arrangements relating to existing cable services.](section/134.md)
+  - Provisions relating to nominated company
+    - [s. 135 Initial Government holding in nominated company.](section/135.md)
+    - [s. 136 Exercise of functions through nominees.](section/136.md)
+    - [s. 137 Target investment limit for Government shareholding in nominated company.](section/137.md)
+    - [s. 138 Reserves of nominated company.](section/138.md)
+    - [s. 139 Loans by Secretary of State to nominated company.](section/139.md)
+    - [s. 140 Temporary restriction on borrowings of nominated company.](section/140.md)
+  - General
+    - [s. 141 Interpretation of Part IV.](section/141.md)
+- Part V The Broadcasting Complaints Commission
+  - [s. 142 The Broadcasting Complaints Commission.](section/142.md)
+  - [s. 143 Function of BCC.](section/143.md)
+  - [s. 144 Making and entertaining of complaints.](section/144.md)
+  - [s. 145 Consideration of complaints.](section/145.md)
+  - [s. 146 Publication of BCC’s findings.](section/146.md)
+  - [s. 147 Duty to publicise BCC.](section/147.md)
+  - [s. 148 Annual reports.](section/148.md)
+  - [s. 149 Contributions towards cost of BCC.](section/149.md)
+  - [s. 150 Interpretation of Part V.](section/150.md)
+- Part VI The Broadcasting Standards Council
+  - [s. 151 The Broadcasting Standards Council.](section/151.md)
+  - [s. 152 Preparation by Council of code relating to broadcasting standards.](section/152.md)
+  - [s. 153 Monitoring by Council of broadcasting standards.](section/153.md)
+  - [s. 154 Consideration by Council of complaints relating to broadcasting standards.](section/154.md)
+  - [s. 155 Consideration of complaints.](section/155.md)
+  - [s. 156 Publication of Council’s findings.](section/156.md)
+  - [s. 157 Power of Council to commission research.](section/157.md)
+  - [s. 158 International representation by Council of Government interests.](section/158.md)
+  - [s. 159 Duty to publicise Council.](section/159.md)
+  - [s. 160 Annual reports.](section/160.md)
+  - [s. 161 Interpretation of Part VI.](section/161.md)
+- Part VII Prohibition on Inclusion of Obscene and Other Material in Programme Services
+  - Obscenity
+    - [s. 162 Obscenity in programme services: England and Wales.](section/162.md)
+    - [s. 163 Obscenity in programme services: Scotland.](section/163.md)
+  - Racially inflammatory material etc.
+    - [s. 164 Inclusion in programme services in Great Britain of racially inflammatory material.](section/164.md)
+    - [s. 165 Inclusion in programme services in Northern Ireland of material likely to stir up hatred etc.](section/165.md)
+  - Defamation
+    - [s. 166 Defamatory material.](section/166.md)
+  - Supplementary
+    - [s. 167 Power to make copies of recordings.](section/167.md)
+- Part VIII Provisions Relating to Wireless Telegraphy
+  - [s. 168 Offence of keeping wireless telegraphy station or apparatus available for unauthorised use.](section/168.md)
+  - [s. 169 Offence of allowing premises to be used for purpose of unlawful broadcasting.](section/169.md)
+  - [s. 170 Prohibition of acts facilitating unauthorised broadcasting.](section/170.md)
+  - [s. 171 Amendments of the Marine, &c., Broadcasting (Offences) Act 1967.](section/171.md)
+  - [s. 172 Amendments of provisions of 1949 Act relating to penalties and forfeiture.](section/172.md)
+  - [s. 173 Extension of search and seizure powers in relation to unlawful broadcasting etc.](section/173.md)
+  - [s. 174 Application of Part VIII to Isle of Man and Channel Islands.](section/174.md)
+- Part IX Copyright and Related Matters
+  - [s. 175 Use as of right of sound recordings in broadcasts and cable programme services.](section/175.md)
+  - [s. 176 Duty to provide advance information about programmes.](section/176.md)
+- Part X Miscellaneous and General
+  - Foreign satellite services
+    - [s. 177 Orders proscribing unacceptable foreign satellite services.](section/177.md)
+    - [s. 178 Offence of supporting proscribed foreign satellite services.](section/178.md)
+  - Unauthorised decoders
+    - [s. 179 Unauthorised decoders for encrypted services etc.](section/179.md)
+  - Television licensing
+    - [s. 180 Transfer to BBC of functions connected with television licences.](section/180.md)
+    - [s. 181 Certain apparatus to be deemed to be apparatus for wireless telegraphy.](section/181.md)
+  - Listed events
+    - [s. 182 .](section/182.md)
+  - Gaelic television programmes
+    - [s. 183 Financing of programmes in Gaelic out of Gaelic Television Fund.](section/183.md)
+    - [s. 183A Membership of the Gaelic Media Service](section/183A.md)
+    - [s. 184 Broadcasting of programmes in Gaelic on Channel 3 in Scotland.](section/184.md)
+  - National television archive
+    - [s. 185 Contributions towards maintenance of national television archive.](section/185.md)
+  - Duties of BBC as respects independent productions
+    - [s. 186 Duty of BBC to include independent productions in their television services.](section/186.md)
+    - [s. 187 Information to be furnished by BBC for purposes of reports under section 186.](section/187.md)
+  - Power to give directions relating to international obligations
+    - [s. 188 Power to give broadcasting bodies etc. directions relating to international obligations.](section/188.md)
+  - Matters relating to telecommunication systems
+    - [s. 189 Sharing of apparatus by operators of telecom- munication systems.](section/189.md)
+    - [s. 190 Modification of certain references in Telecom- munications Act licences.](section/190.md)
+    - [s. 191 Revocation of class licence to run broadcast relay systems.](section/191.md)
+  - Application of competition legislation
+    - [s. 192 Application of provisions of Fair Trading Act 1973 to broadcasting and telecommunication services.](section/192.md)
+    - [s. 193 Modification of networking arrangements in consequence of competition legislation](section/193.md)
+    - [s. 194 ................................](section/194.md)
+    - [s. 194A Modification of Restrictive Trade Practices Act 1976 in its application to agreements relating to Channel 3 news provision.](section/194A.md)
+  - General
+    - [s. 195 Offences by bodies corporate.](section/195.md)
+    - [s. 196 Entry and search of premises.](section/196.md)
+    - [s. 197 Restriction on disclosure of information.](section/197.md)
+    - [s. 198 Financial provisions.](section/198.md)
+    - [s. 199 Notices.](section/199.md)
+    - [s. 200 Regulations and orders.](section/200.md)
+    - [s. 201 Programme services.](section/201.md)
+    - [s. 202 General interpretation.](section/202.md)
+    - [s. 203 Consequential and transitional provisions.](section/203.md)
+    - [s. 204 Short title, commencement and extent.](section/204.md)
+- SCHEDULE 1 The Independent Television Commission: Supplementary Provisions
+  - Status and capacity
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Appointment of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration and pensions of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Disqualification of members of Commission for House of Commons and Northern Ireland Assembly
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Proceedings
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Employees of the Commission
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Authentication of Commission’s seal
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Presumption of authenticity of documents issued by Commission
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Finances of Commission
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Advances to Commission
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Accounts and audit
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Annual reports
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Advisory committees
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Restrictions on the Holding of Licences
+  - Part I General
+    - [Sch. 2 Pt. I para. 1](schedule/2/part/I/paragraph/1.md)
+    - [Sch. 2 Pt. I para. 2](schedule/2/part/I/paragraph/2.md)
+    - [Sch. 2 Pt. I para. 3](schedule/2/part/I/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+    - [Sch. 2 Pt. I para. 4](schedule/2/part/I/paragraph/4.md)
+  - Part II Disqualification for Holding Licences
+    - General disqualification of non-EEC nationals and bodies having political connections
+      - [Sch. 2 Pt. II heading general-disqualification-of-noneec-nationals-and-bodies-having-political-connections para. 1](schedule/2/part/II/crossheading/general-disqualification-of-noneec-nationals-and-bodies-having-political-connections/paragraph/1.md)
+    - Disqualification of religious bodies
+      - [Sch. 2 Pt. II heading disqualification-of-religious-bodies para. 2](schedule/2/part/II/crossheading/disqualification-of-religious-bodies/paragraph/2.md)
+    - Disqualification of publicly-funded bodies for radio service licences
+      - [Sch. 2 Pt. II heading disqualification-of-publiclyfunded-bodies-for-radio-service-licences para. 3](schedule/2/part/II/crossheading/disqualification-of-publiclyfunded-bodies-for-radio-service-licences/paragraph/3.md)
+    - General disqualification on grounds of undue influence
+      - [Sch. 2 Pt. II heading general-disqualification-on-grounds-of-undue-influence para. 4](schedule/2/part/II/crossheading/general-disqualification-on-grounds-of-undue-influence/paragraph/4.md)
+    - General disqualification of broadcasting bodies
+      - [Sch. 2 Pt. II heading general-disqualification-of-broadcasting-bodies para. 5](schedule/2/part/II/crossheading/general-disqualification-of-broadcasting-bodies/paragraph/5.md)
+    - Disqualification of certain companies for certain licences
+      - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+    - General disqualification of advertising agencies
+      - [Sch. 2 Pt. II heading general-disqualification-of-advertising-agencies para. 6](schedule/2/part/II/crossheading/general-disqualification-of-advertising-agencies/paragraph/6.md)
+  - Part III. Restrictions to Prevent Accumulations of Interests in Licensed Services
+  - Part IV Restrictions on Controlling Interests in Both Newspapers and Licensed Services
+  - Part V Restriction on Holding of Licences by Operators of Public Telecommunication Systems
+- SCHEDULE 3 The Channel Four Television Corporation: Supplementary Provisions
+  - Status and capacity
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appointment of members
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Remuneration and pensions of members
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Disqualification of members of Corporation for House of Commons and Northern Ireland Assembly
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Proceedings
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Employees of the Corporation
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Authentication of Corporation’s seal
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Presumption of authenticity of documents issued by Corporation
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Accounts and audit
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Annual reports
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 References with Respect to Networking Arrangements
+  - Report by OFT on reference under s. 39
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The competition test
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Duty to modify arrangements in consequence of OFT’s report
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - References to Monopolies and Mergers CommissionMMC
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Further provision about references under paragraph 4
+    - [Sch. 4 para. 4A](schedule/4/paragraph/4A.md)
+  - Report by Monopolies and Mergers CommissionMMC on reference under paragraph 4
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Duty to modify arrangements in consequence of Monopolies and Mergers CommissionMMC’s report
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Power of OFT to review previous decision with respect to arrangements
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Power to obtain information
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Enforcement
+    - [Sch. 4 para. 8A](schedule/4/paragraph/8A.md)
+    - [Sch. 4 para. 8B](schedule/4/paragraph/8B.md)
+  - False or misleading information
+    - [Sch. 4 para. 8C](schedule/4/paragraph/8C.md)
+  - Duty of OFT to assist Monopolies and Mergers CommissionMMC
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Interpretation
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Special Provisions Relating to Public Teletext Service
+  - The relevant service
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Applications for licence to provide the relevant service
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Consideration of applications and award of licence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Conditions requiring licence holder to deliver promised service
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Failure to begin providing licensed service and financial penalties on revocation of licence
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Renewal of licence to provide relevant service
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Additional methods of enforcement of licence to provide relevant service
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 S4C: Supplementary Provisions
+  - Status and capacity
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Appointment of members
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Remuneration and pensions of members
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Disqualification of members of Authority for House of Commons
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Proceedings
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Employees of S4C
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Authentication of S4C’s seal
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Presumption of authenticity of documents issued by S4C
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Accounts and audit
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Annual reports
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Advisory committees
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+- Schedule 6A The S4C Board
+  - [Sch. 6A para. 1 Membership](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2 Membership](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3 Tenure of office](schedule/6A/paragraph/3.md)
+  - [Sch. 6A para. 4 Remuneration and pensions of members](schedule/6A/paragraph/4.md)
+  - [Sch. 6A para. 5 Proceedings](schedule/6A/paragraph/5.md)
+  - [Sch. 6A para. 6 Proceedings](schedule/6A/paragraph/6.md)
+  - [Sch. 6A para. 7 Proceedings](schedule/6A/paragraph/7.md)
+  - [Sch. 6A para. 8 Proceedings](schedule/6A/paragraph/8.md)
+- SCHEDULE 7 Qualifying Revenue: Supplementary Provisions
+  - Part I Qualifying Revenue for purposes of Part I or II of this Act
+    - Computation of qualifying revenue
+      - [Sch. 7 Pt. I heading computation-of-qualifying-revenue para. 1](schedule/7/part/I/crossheading/computation-of-qualifying-revenue/paragraph/1.md)
+    - Disputes
+      - [Sch. 7 Pt. I heading disputes para. 2](schedule/7/part/I/crossheading/disputes/paragraph/2.md)
+  - Part II Qualifying Revenue for purposes of Part III of this Act
+    - Computation of qualifying revenue
+      - [Sch. 7 Pt. II heading computation-of-qualifying-revenue para. 1](schedule/7/part/II/crossheading/computation-of-qualifying-revenue/paragraph/1.md)
+    - Disputes
+      - [Sch. 7 Pt. II heading disputes para. 2](schedule/7/part/II/crossheading/disputes/paragraph/2.md)
+- SCHEDULE 8 The Radio Authority: Supplementary Provisions
+  - Status and capacity
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Appointment of members
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Remuneration and pensions of members
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Disqualification of members of Authority for House of Commons and Northern Ireland Assembly
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Proceedings
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Employees of the Authority
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Authentication of Authority’s seal
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Presumption of authenticity of documents issued by Authority
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Finances of Authority
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Advances to Authority
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Accounts and audit
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Annual reports
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Advisory committees
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+- SCHEDULE 9 Scheme Providing for Division of Assets of IBA
+  - Preliminary
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Making and modification of transfer scheme
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Content of transfer scheme
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Effect of transfer scheme
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Third parties affected by transfer scheme
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Supplemental provisions of scheme
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Vesting of IBA’s property after coming into force of scheme
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Certificate of Secretary of State as to vesting of property etc.
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Power of Secretary of State to control division of IBA’s pension fund
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Discharge by IBA of contingent etc. liabilities
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Final accounts and annual report of IBA
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Supplementary Provisions Relating To Dissolution of Cable Authority
+  - Provisions as to vesting of property etc. of Cable Authority
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Transfer of employees
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Final accounts and annual report of Cable Authority
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+- SCHEDULE 11 Transitional Provisions Relating to IBA’s Broadcasting Services
+  - Part I General
+  - Part II Television Broadcasting Services to be provided by Commission
+    - IBA’s television broadcasting services to be provided by Commission during interim period
+      - [Sch. 11 Pt. II heading ibas-television-broadcasting-services-to-be-provided-by-commission-during-interim-period para. 1](schedule/11/part/II/crossheading/ibas-television-broadcasting-services-to-be-provided-by-commission-during-interim-period/paragraph/1.md)
+    - General provisions about programme contracts and programme contractors
+      - [Sch. 11 Pt. II heading general-provisions-about-programme-contracts-and-programme-contractors para. 2](schedule/11/part/II/crossheading/general-provisions-about-programme-contracts-and-programme-contractors/paragraph/2.md)
+    - Provisions relating to Channel 4
+      - [Sch. 11 Pt. II heading provisions-relating-to-channel-4 para. 3](schedule/11/part/II/crossheading/provisions-relating-to-channel-4/paragraph/3.md)
+    - Provisions relating to teletext services
+      - [Sch. 11 Pt. II heading provisions-relating-to-teletext-services para. 4](schedule/11/part/II/crossheading/provisions-relating-to-teletext-services/paragraph/4.md)
+    - Provisions relating to DBS services
+      - [Sch. 11 Pt. II heading provisions-relating-to-dbs-services para. 5](schedule/11/part/II/crossheading/provisions-relating-to-dbs-services/paragraph/5.md)
+    - General provisions relating to S4C
+      - [Sch. 11 Pt. II heading general-provisions-relating-to-s4c para. 6](schedule/11/part/II/crossheading/general-provisions-relating-to-s4c/paragraph/6.md)
+    - Broadcasting of advertisements on S4C
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Financing of S4C during interim period
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Delivery of programmes by means of local delivery services
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Provisions relating to Broadcasting Complaints Commission
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Provisions relating to Broadcasting Standards Council
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Supplementary provisions
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Part III Replacement of DBS Contracts by Licences under Part I
+    - Replacement of DBS programme contract by domestic satellite licence
+      - [Sch. 11 Pt. III heading replacement-of-dbs-programme-contract-by-domestic-satellite-licence para. 1](schedule/11/part/III/crossheading/replacement-of-dbs-programme-contract-by-domestic-satellite-licence/paragraph/1.md)
+    - Power to require licence holder to make additional payments under 1981 Act
+      - [Sch. 11 Pt. III heading power-to-require-licence-holder-to-make-additional-payments-under-1981-act para. 2](schedule/11/part/III/crossheading/power-to-require-licence-holder-to-make-additional-payments-under-1981-act/paragraph/2.md)
+    - Replacement of DBS teletext contract by additional services licence
+      - [Sch. 11 Pt. III heading replacement-of-dbs-teletext-contract-by-additional-services-licence para. 3](schedule/11/part/III/crossheading/replacement-of-dbs-teletext-contract-by-additional-services-licence/paragraph/3.md)
+  - Part IV Sound Broadcasting Services to be Provided by Radio Authority
+    - Certain local sound broadcasting services of IBA to be provided by Radio Authority as from transfer date
+      - [Sch. 11 Pt. IV heading certain-local-sound-broadcasting-services-of-iba-to-be-provided-by-radio-authority-as-from-transfer-date para. 1](schedule/11/part/IV/crossheading/certain-local-sound-broadcasting-services-of-iba-to-be-provided-by-radio-authority-as-from-transfer-date/paragraph/1.md)
+    - Preservation of certain local sound broadcasting contracts
+      - [Sch. 11 Pt. IV heading preservation-of-certain-local-sound-broadcasting-contracts para. 2](schedule/11/part/IV/crossheading/preservation-of-certain-local-sound-broadcasting-contracts/paragraph/2.md)
+    - Delivery of programmes by means of local delivery services
+      - [Sch. 11 Pt. IV heading delivery-of-programmes-by-means-of-local-delivery-services para. 3](schedule/11/part/IV/crossheading/delivery-of-programmes-by-means-of-local-delivery-services/paragraph/3.md)
+    - Provisions relating to Broadcasting Complaints Commission
+      - [Sch. 11 Pt. IV heading provisions-relating-to-broadcasting-complaints-commission para. 4](schedule/11/part/IV/crossheading/provisions-relating-to-broadcasting-complaints-commission/paragraph/4.md)
+    - Provisions relating to Broadcasting Standards Council
+      - [Sch. 11 Pt. IV heading provisions-relating-to-broadcasting-standards-council para. 5](schedule/11/part/IV/crossheading/provisions-relating-to-broadcasting-standards-council/paragraph/5.md)
+    - Supplementary provisions
+      - [Sch. 11 Pt. IV heading supplementary-provisions para. 6](schedule/11/part/IV/crossheading/supplementary-provisions/paragraph/6.md)
+  - Part V Replacement of Programme Contracts by Local Licences
+    - Replacement of contracts to which paragraph 2(1) in Part IV applies by local licences
+      - [Sch. 11 Pt. V heading replacement-of-contracts-to-which-paragraph-21-in-part-iv-applies-by-local-licences para. 1](schedule/11/part/V/crossheading/replacement-of-contracts-to-which-paragraph-21-in-part-iv-applies-by-local-licences/paragraph/1.md)
+    - Replacement by local licences of certain contracts for the provision of local sound broadcasts in localities in which such broadcasts were already provided
+      - [Sch. 11 Pt. V heading replacement-by-local-licences-of-certain-contracts-for-the-provision-of-local-sound-broadcasts-in-localities-in-which-such-broadcasts-were-already-provided para. 2](schedule/11/part/V/crossheading/replacement-by-local-licences-of-certain-contracts-for-the-provision-of-local-sound-broadcasts-in-localities-in-which-such-broadcasts-were-already-provided/paragraph/2.md)
+    - Common provisions applying to licences granted in pursuance of paragraph 1(1) or 2(1) above
+      - [Sch. 11 Pt. V heading common-provisions-applying-to-licences-granted-in-pursuance-of-paragraph-11-or-21-above para. 3](schedule/11/part/V/crossheading/common-provisions-applying-to-licences-granted-in-pursuance-of-paragraph-11-or-21-above/paragraph/3.md)
+    - Saving for liabilities under terminated contracts
+      - [Sch. 11 Pt. V heading saving-for-liabilities-under-terminated-contracts para. 4](schedule/11/part/V/crossheading/saving-for-liabilities-under-terminated-contracts/paragraph/4.md)
+- SCHEDULE 12 Transitional Provisions Relating to Existing Cable Services
+  - Part I General
+    - [Sch. 12 Pt. I para. 1](schedule/12/part/I/paragraph/1.md)
+    - [Sch. 12 Pt. I para. 2](schedule/12/part/I/paragraph/2.md)
+  - Part II Licensing of Existing Cable Services
+    - Prescribed diffusion services: continuation in force of existing licences
+      - [Sch. 12 Pt. II heading prescribed-diffusion-services-continuation-in-force-of-existing-licences para. 1](schedule/12/part/II/crossheading/prescribed-diffusion-services-continuation-in-force-of-existing-licences/paragraph/1.md)
+    - Prescribed diffusion services: replacement of cable licences by local delivery licences
+      - [Sch. 12 Pt. II heading prescribed-diffusion-services-replacement-of-cable-licences-by-local-delivery-licences para. 2](schedule/12/part/II/crossheading/prescribed-diffusion-services-replacement-of-cable-licences-by-local-delivery-licences/paragraph/2.md)
+    - Prescribed diffusion services: grant of new licences to provide existing services
+      - [Sch. 12 Pt. II heading prescribed-diffusion-services-grant-of-new-licences-to-provide-existing-services para. 3](schedule/12/part/II/crossheading/prescribed-diffusion-services-grant-of-new-licences-to-provide-existing-services/paragraph/3.md)
+    - Prescribed diffusion services: cable licences to be succeeded on their expiry by local delivery licences
+      - [Sch. 12 Pt. II heading prescribed-diffusion-services-cable-licences-to-be-succeeded-on-their-expiry-by-local-delivery-licences para. 4](schedule/12/part/II/crossheading/prescribed-diffusion-services-cable-licences-to-be-succeeded-on-their-expiry-by-local-delivery-licences/paragraph/4.md)
+    - Other diffusion services: continuation in force of existing licences
+      - [Sch. 12 Pt. II heading other-diffusion-services-continuation-in-force-of-existing-licences para. 5](schedule/12/part/II/crossheading/other-diffusion-services-continuation-in-force-of-existing-licences/paragraph/5.md)
+    - Other diffusion services: replacement of cable licences by local delivery licences
+      - [Sch. 12 Pt. II heading other-diffusion-services-replacement-of-cable-licences-by-local-delivery-licences para. 6](schedule/12/part/II/crossheading/other-diffusion-services-replacement-of-cable-licences-by-local-delivery-licences/paragraph/6.md)
+    - Other diffusion services: certain licences to cease to have effect
+      - [Sch. 12 Pt. II heading other-diffusion-services-certain-licences-to-cease-to-have-effect para. 7](schedule/12/part/II/crossheading/other-diffusion-services-certain-licences-to-cease-to-have-effect/paragraph/7.md)
+    - Other diffusion services: certain unlicensed services to be licensed as cableservices or local delivery services
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - Other diffusion services: services falling partly within and partly outside franchise areas
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - Restricted services: replacement of existing licences
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - Requests made under this Part
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - Saving for liabilities under terminated licences
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Part III Provisions Relating to Licences in Force under or by virtue of this Schedule
+    - Effect of relevant licences
+      - [Sch. 12 Pt. III heading effect-of-relevant-licences para. 1](schedule/12/part/III/crossheading/effect-of-relevant-licences/paragraph/1.md)
+    - General provisions about relevant licences
+      - [Sch. 12 Pt. III heading general-provisions-about-relevant-licences para. 2](schedule/12/part/III/crossheading/general-provisions-about-relevant-licences/paragraph/2.md)
+    - Restrictions on the holding of certain relevant licences
+      - [Sch. 12 Pt. III heading restrictions-on-the-holding-of-certain-relevant-licences para. 3](schedule/12/part/III/crossheading/restrictions-on-the-holding-of-certain-relevant-licences/paragraph/3.md)
+    - Inclusion of broadcasts in licensed services
+      - [Sch. 12 Pt. III heading inclusion-of-broadcasts-in-licensed-services para. 4](schedule/12/part/III/crossheading/inclusion-of-broadcasts-in-licensed-services/paragraph/4.md)
+      - [Sch. 12 para. 4A](schedule/12/paragraph/4A.md)
+    - Inclusion of local material in prescribed diffusion services
+      - [Sch. 12 Pt. III heading inclusion-of-local-material-in-prescribed-diffusion-services para. 5](schedule/12/part/III/crossheading/inclusion-of-local-material-in-prescribed-diffusion-services/paragraph/5.md)
+    - Revocation of licences
+      - [Sch. 12 Pt. III heading revocation-of-licences para. 6](schedule/12/part/III/crossheading/revocation-of-licences/paragraph/6.md)
+    - Supplementary provisions
+      - [Sch. 12 Pt. III heading supplementary-provisions para. 7](schedule/12/part/III/crossheading/supplementary-provisions/paragraph/7.md)
+- SCHEDULE 13
+  - Status and capacity
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Appointment of members
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Remuneration and pensions of members
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Proceedings
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Employees of the BCC
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Financial provisions
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Authentication of BCC’s seal
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Presumption of authenticity of documents issued by BCC
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Accounts and audit
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+- SCHEDULE 14
+  - Status and capacity
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Appointment of members
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Remuneration and pensions of members
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Disqualification of members of Council for House of Commons and Northern Ireland Assembly
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Proceedings
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Employees of the Council
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Financial provisions
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Authentication of Council’s seal
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Presumption of authenticity of documents issued by Council
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Accounts and audit
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- SCHEDULE 15 Application of 1959 Act to Television and Sound Programmes
+  - Interpretation
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Liability of person providing live programme material
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Obscene articles kept for inclusion in programmes
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Requirement for consent of Director of Public Prosecutions
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Defences
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Exclusion of proceedings under common law
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+- SCHEDULE 16 Amendments of the Marine, &c., Broadcasting (Offences) Act 1967
+  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+- SCHEDULE 17 Information About Programmes: Copyright
+  - Part I Copyright Licensing
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Part II Use of Information as of Right
+    - Circumstances in which right available
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Notice of intention to exercise right
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Conditions for exercise of right
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Applications to settle payments
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Application for review of order
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - Part III Supplementary
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+- SCHEDULE 18 Transfer of Functions Connected with Television Licences
+  - Part I Amendments of Wireless Telegraphy Act 1949
+    - [Sch. 18 Pt. I para. 1](schedule/18/part/I/paragraph/1.md)
+    - [Sch. 18 Pt. I para. 2](schedule/18/part/I/paragraph/2.md)
+    - [Sch. 18 Pt. I para. 3](schedule/18/part/I/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Part II Amendments of Part I of Wireless Telegraphy Act 1967
+    - [Sch. 18 Pt. II para. 1](schedule/18/part/II/paragraph/1.md)
+    - [Sch. 18 Pt. II para. 2](schedule/18/part/II/paragraph/2.md)
+    - [Sch. 18 Pt. II para. 3](schedule/18/part/II/paragraph/3.md)
+    - [Sch. 18 Pt. II para. 4](schedule/18/part/II/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+- SCHEDULE 19 The Gaelic Television Service: Supplementary Provisions
+  - Status and capacity
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Tenure of office and remuneration
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Disqualification of members of Service for House of Commons
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Proceedings
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - Employees of the Service
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - Financial provision
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 8A](schedule/19/paragraph/8A.md)
+  - Authentication of Service ’s seal
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - Presumption of authenticity of documents issued by the Service
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+  - Accounts and audit
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+  - Annual reports
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+- SCHEDULE 20 Minor and Consequential Amendments
+  - Parliamentary Papers Act 1840 (c. 9)
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Law of Libel Amendment Act 1888 (c. 64)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Children and Young Persons (Scotland) Act 1937 (c. 37)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Licensing Act 1964 (c. 26)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Private Places of Entertainment (Licensing) Act 1967 (c. 19)
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Wireless Telegraphy Act 1967 (c. 72)
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - London Cab Act 1968 (c. 7)
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+  - Trade Descriptions Act 1968 (c. 29)
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+  - Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+  - Theatres Act 1968 (c. 54)
+    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+  - Gaming Act 1968 (c. 65)
+    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+  - Children and Young Persons Act (Northern Ireland) 1968 (c. 34 (N.I.))
+    - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+  - Local Government Act (Northern Ireland) 1972 (c. 9 (N.I.))
+    - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+  - Employment Agencies Act 1973 (c. 35)
+    - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+  - Northern Ireland Constitution Act 1973 (c. 36)
+    - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+  - Criminal Procedure (Scotland) Act 1975 (c. 21)
+    - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+  - Industry Act 1975 (c. 68)
+    - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
+  - Scottish Development Agency Act 1975 (c. 69)
+    - [Sch. 20 para. 23](schedule/20/paragraph/23.md)
+  - Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 20 para. 24](schedule/20/paragraph/24.md)
+  - Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 20 para. 25](schedule/20/paragraph/25.md)
+  - Sexual Offences (Amendment) Act 1976 (c. 82)
+    - [Sch. 20 para. 26](schedule/20/paragraph/26.md)
+  - Sexual Offences (Northern Ireland) Order 1978 (S.I. 1978/460 (N.I.5))
+    - [Sch. 20 para. 27](schedule/20/paragraph/27.md)
+  - Competition Act 1980 (c. 21)
+    - [Sch. 20 para. 28](schedule/20/paragraph/28.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 20 para. 29](schedule/20/paragraph/29.md)
+  - Indecent Displays (Control) Act 1981 (c. 42)
+    - [Sch. 20 para. 30](schedule/20/paragraph/30.md)
+  - Contempt of Court Act 1981 (c. 49)
+    - [Sch. 20 para. 31](schedule/20/paragraph/31.md)
+  - Employment (Miscellaneous Provisions) (Northern Ireland) Order 1981 (S.I. 1981/839 (N.I.20))
+    - [Sch. 20 para. 32](schedule/20/paragraph/32.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26))
+    - [Sch. 20 para. 33](schedule/20/paragraph/33.md)
+  - Insurance Companies Act 1982 (c. 50)
+    - [Sch. 20 para. 34](schedule/20/paragraph/34.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 20 para. 35](schedule/20/paragraph/35.md)
+  - National Audit Act 1983 (c. 44)
+    - [Sch. 20 para. 36](schedule/20/paragraph/36.md)
+  - Value Added Tax Act 1983 (c. 55)
+    - [Sch. 20 para. 37](schedule/20/paragraph/37.md)
+  - Telecommunications Act 1984 (c. 12)
+    - [Sch. 20 para. 38](schedule/20/paragraph/38.md)
+  - Video Recordings Act 1984 (c. 39)
+    - [Sch. 20 para. 39](schedule/20/paragraph/39.md)
+  - Cinemas Act 1985 (c. 13)
+    - [Sch. 20 para. 40](schedule/20/paragraph/40.md)
+  - Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 20 para. 41](schedule/20/paragraph/41.md)
+  - Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (S.I. 1985/1204 (N.I.11))
+    - [Sch. 20 para. 42](schedule/20/paragraph/42.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 20 para. 43](schedule/20/paragraph/43.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 20 para. 44](schedule/20/paragraph/44.md)
+  - Financial Services Act 1986 (c. 60)
+    - [Sch. 20 para. 45](schedule/20/paragraph/45.md)
+  - Education and Libraries (Northern Ireland) Order 1986 (S.I. 1986/594 (N.I.3))
+    - [Sch. 20 para. 46](schedule/20/paragraph/46.md)
+  - Criminal Justice Act 1987 (c. 38)
+    - [Sch. 20 para. 47](schedule/20/paragraph/47.md)
+  - Consumer Protection Act 1987 (c. 43)
+    - [Sch. 20 para. 48](schedule/20/paragraph/48.md)
+  - Consumer Protection (Northern Ireland) Order 1987 (S.I.1987/2049 (N.I.20))
+    - [Sch. 20 para. 49](schedule/20/paragraph/49.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+    - [Sch. 20 para. 50](schedule/20/paragraph/50.md)
+  - Control of Misleading Advertisements Regulations 1988 (S.I. 1988/915)
+    - [Sch. 20 para. 51](schedule/20/paragraph/51.md)
+  - Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (S.I.1988/1846 (N.I.16))
+    - [Sch. 20 para. 52](schedule/20/paragraph/52.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 20 para. 53](schedule/20/paragraph/53.md)
+  - Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I.19))
+    - [Sch. 20 para. 54](schedule/20/paragraph/54.md)
+- SCHEDULE 21 Repeals
+- SCHEDULE 22 Transitional Provisions and Savings
+  - Preservation of appointments of existing members of the Welsh Authority, the BCC and the BSC
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Power to make provision with respect to complaints to the BCC or BSC
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Power to make provision with respect to complaints under the Control of Misleading Advertisements Regulations 1988
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Saving of amendments made by Cable and Broadcasting Act 1984
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Transitional modification of amendments made by this Act
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
