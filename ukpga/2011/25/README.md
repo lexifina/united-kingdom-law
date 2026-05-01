@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-11-27, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2025-11-27
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2026-05-01
 
 ## Contents
 
@@ -180,7 +180,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2025-11-27
     - [s. 117 Restrictions on dispositions of land: general](section/117.md)
     - [s. 118 Meaning of “connected person” in s.117(2)](section/118.md)
     - [s. 119 Requirements for dispositions other than certain leases](section/119.md)
-    - [s. 120 Requirements for leases which are for 7 years or less etc.](section/120.md)
+    - [s. 120 Requirements for leases which are for 7 years or less or which are assured tenancies etc.](section/120.md)
     - [s. 121 Additional restrictions where land held for stipulated purposes](section/121.md)
     - [s. 122 Instruments concerning dispositions of land: required statements, etc.](section/122.md)
     - [s. 123 Charity land and land registration](section/123.md)
