@@ -1,0 +1,172 @@
+# Anti-social Behaviour Act 2003
+
+2003 c. 38. Enacted 2003-11-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
+
+Source: https://www.legislation.gov.uk/ukpga/2003/38/2026-05-01
+
+## Contents
+
+- Part 1 Premises where drugs used unlawfully
+  - [s. 1 Closure notice](section/1.md)
+  - [s. 2 Closure order](section/2.md)
+  - [s. 3 Closure order: enforcement](section/3.md)
+  - [s. 4 Closure of premises: offences](section/4.md)
+  - [s. 5 Extension and discharge of closure order](section/5.md)
+  - [s. 6 Appeals](section/6.md)
+  - [s. 7 Access to other premises](section/7.md)
+  - [s. 8 Reimbursement of costs](section/8.md)
+  - [s. 9 Exemption from liability for certain damages](section/9.md)
+  - [s. 10 Compensation](section/10.md)
+  - [s. 11 Interpretation](section/11.md)
+- Part 1A Premises associated with persistent disorder or nuisance
+  - [s. 11A Part 1A closure notice](section/11A.md)
+  - [s. 11B Part 1A closure order](section/11B.md)
+  - [s. 11C Part 1A closure order: enforcement](section/11C.md)
+  - [s. 11D Closure of premises associated with persistent disorder or nuisance: offences](section/11D.md)
+  - [s. 11E Part 1A closure order: extension and discharge](section/11E.md)
+  - [s. 11F Part 1A closure order: appeals](section/11F.md)
+  - [s. 11G Part 1A closure order: access to other premises](section/11G.md)
+  - [s. 11H Part 1A closure order: reimbursement of costs](section/11H.md)
+  - [s. 11I Part 1A closure notice or order: exemption from liability](section/11I.md)
+  - [s. 11J Part 1A closure notices and orders: compensation](section/11J.md)
+  - [s. 11K Guidance](section/11K.md)
+  - [s. 11L Interpretation](section/11L.md)
+- Part 2 Housing
+  - [s. 12 Anti-social behaviour: landlords’ policies and procedures](section/12.md)
+  - [s. 13 Injunctions against anti-social behaviour on application of certain social landlords](section/13.md)
+  - [s. 14 Security of tenure: anti-social behaviour](section/14.md)
+  - [s. 15](section/15.md)
+  - [s. 16 Proceedings for possession: anti-social behaviour](section/16.md)
+  - [s. 17 Devolution: Wales](section/17.md)
+- Part 3 Parental responsibilities
+  - Parenting orders under the 1998 Act
+    - [s. 18 Parenting orders under the 1998 Act](section/18.md)
+  - Truancy and misbehaviour at school
+    - [s. 19 Parenting contracts in cases of misbehaviour at school or truancy](section/19.md)
+    - [s. 20 Parenting orders in cases of exclusion or potential exclusion from school](section/20.md)
+    - [s. 21 Parenting orders: supplemental](section/21.md)
+    - [s. 22 Parenting orders: appeals](section/22.md)
+    - [s. 22A Parenting contracts and parenting orders: further provisions](section/22A.md)
+    - [s. 23 Penalty notices for parents in cases of truancy](section/23.md)
+    - [s. 24 Interpretation](section/24.md)
+  - Criminal conduct and anti-social behaviour
+    - [s. 25 Parenting contracts in respect of criminal conduct and anti-social behaviour: youth offending teams](section/25.md)
+    - [s. 25A Parenting contracts in respect of anti-social behaviour: local authorities](section/25A.md)
+    - [s. 25B Parenting contracts in respect of anti-social behaviour: relevant housing providers](section/25B.md)
+    - [s. 26 Parenting orders in respect of criminal conduct and anti-social behaviour: youth offending teams](section/26.md)
+    - [s. 26A Parenting orders in respect of anti-social behaviour: local authorities](section/26A.md)
+    - [s. 26B Parenting orders in respect of anti-social behaviour: relevant housing providers](section/26B.md)
+    - [s. 26C Applications under section 26A or 26B in county court proceedings](section/26C.md)
+    - [s. 27 Parenting orders: supplemental](section/27.md)
+    - [s. 28 Parenting orders: appeals](section/28.md)
+    - [s. 28A Contracting out of local authority functions](section/28A.md)
+    - [s. 29 Interpretation and consequential amendment](section/29.md)
+- Part 4 Dispersal of groups etc.
+  - [s. 30 Dispersal of groups and removal of persons under 16 to their place of residence](section/30.md)
+  - [s. 31 Authorisations: supplemental](section/31.md)
+  - [s. 32 Powers under section 30: supplemental](section/32.md)
+  - [s. 33 Powers of community support officers](section/33.md)
+  - [s. 34 Code of practice](section/34.md)
+  - [s. 35 Authorisations by British Transport Police](section/35.md)
+  - [s. 36 Interpretation](section/36.md)
+- Part 5 Firearms
+  - [s. 37 Possession of air weapon or imitation firearm in public place](section/37.md)
+  - [s. 38 Air weapons: age limits](section/38.md)
+  - [s. 39 Prohibition of certain air weapons](section/39.md)
+- Part 6 The environment
+  - Noise
+    - [s. 40 Closure of noisy premises](section/40.md)
+    - [s. 41 Closure of noisy premises: supplemental](section/41.md)
+    - [s. 42 Dealing with noise at night](section/42.md)
+  - Penalty notices for graffiti and fly-posting
+    - [s. 43 Penalty notices for graffiti and fly-posting](section/43.md)
+    - [s. 43A Amount of penalty](section/43A.md)
+    - [s. 43B Penalty notices: power to require name and address](section/43B.md)
+    - [s. 44 Meaning of relevant offence](section/44.md)
+    - [s. 45 Penalty receipts](section/45.md)
+    - [s. 46 Powers of police civilians](section/46.md)
+    - [s. 47 Interpretation etc](section/47.md)
+  - ...
+    - [s. 48 Defacement removal notices](section/48.md)
+    - [s. 49 Recovery of expenditure](section/49.md)
+    - [s. 50 Guidance](section/50.md)
+    - [s. 51 Appeals](section/51.md)
+    - [s. 52 Exemption from liability in relation to defacement removal notices](section/52.md)
+  - Advertisements
+    - [s. 53 Display of advertisements in contravention of regulations](section/53.md)
+  - Aerosol paints
+    - [s. 54 Sale of aerosol paint to children](section/54.md)
+    - [s. 54A Enforcement of section 54](section/54A.md)
+  - Waste and litter
+    - [s. 55 Unlawfully deposited waste etc](section/55.md)
+    - [s. 56 Extension of litter authority powers to take remedial action](section/56.md)
+- Part 7 Public order and trespass
+  - [s. 57 Public assemblies](section/57.md)
+  - [s. 58 Raves](section/58.md)
+  - [s. 59 Aggravated trespass](section/59.md)
+  - [s. 60 Power to remove trespassers: alternative site available](section/60.md)
+  - [s. 61 Failure to comply with direction: offences](section/61.md)
+  - [s. 62 Failure to comply with direction: seizure](section/62.md)
+  - [s. 63 Common land: modifications](section/63.md)
+  - [s. 64 Interpretation](section/64.md)
+- Part 8 High hedges
+  - Introductory
+    - [s. 65 Complaints to which this Part applies](section/65.md)
+    - [s. 66 High hedges](section/66.md)
+    - [s. 67 Domestic property](section/67.md)
+  - Complaints procedure
+    - [s. 68 Procedure for dealing with complaints](section/68.md)
+    - [s. 69 Remedial notices](section/69.md)
+    - [s. 70 Withdrawal or relaxation of requirements of remedial notices](section/70.md)
+  - Appeals
+    - [s. 71 Appeals against remedial notices and other decisions of relevant authorities](section/71.md)
+    - [s. 72 Appeals procedure](section/72.md)
+    - [s. 73 Determination or withdrawal of appeals](section/73.md)
+  - Powers of entry
+    - [s. 74 Powers of entry for the purposes of complaints and appeals](section/74.md)
+  - Enforcement powers etc.
+    - [s. 75 Offences](section/75.md)
+    - [s. 76 Power to require occupier to permit action to be taken by owner](section/76.md)
+    - [s. 77 Action by relevant authority](section/77.md)
+    - [s. 78 Offences committed by bodies corporate](section/78.md)
+  - Supplementary
+    - [s. 79 Service of documents](section/79.md)
+    - [s. 80 Documents in electronic form](section/80.md)
+    - [s. 81 Power to make further provision about documents in electronic form](section/81.md)
+    - [s. 82 Interpretation](section/82.md)
+    - [s. 83 Power to amend sections 65 and 66](section/83.md)
+    - [s. 84 Crown application](section/84.md)
+- Part 9 Miscellaneous powers
+  - [s. 85 Anti-social behaviour orders](section/85.md)
+  - [s. 86 Certain orders made on conviction of offences](section/86.md)
+  - [s. 87 Penalty notices for disorderly behaviour by young persons](section/87.md)
+  - [s. 88 Curfew orders and supervision orders](section/88.md)
+  - [s. 89 Extension of powers of community support officers etc.](section/89.md)
+  - [s. 90 Report by local authority in certain cases where person remanded on bail](section/90.md)
+  - [s. 91 Proceedings under section 222 of the Local Government Act 1972: power of arrest attached to injunction](section/91.md)
+- Part 10 General
+  - [s. 92 Repeals](section/92.md)
+  - [s. 93 Commencement](section/93.md)
+  - [s. 94 Orders and regulations](section/94.md)
+  - [s. 95 Money](section/95.md)
+  - [s. 96 Extent](section/96.md)
+  - [s. 97 Short title](section/97.md)
+- SCHEDULE 1 Demoted tenancies
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Curfew orders and supervision orders
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Curfew orders
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Supervision orders
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Consequential amendments
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Repeals
