@@ -2,9 +2,9 @@
 
 2019 c. 4. Enacted 2019-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-06-01, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/4` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/4` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/4/2019-06-01
+Source: https://www.legislation.gov.uk/ukpga/2019/4/2026-05-01
 
 ## Contents
 
@@ -14,6 +14,8 @@ Source: https://www.legislation.gov.uk/ukpga/2019/4/2019-06-01
   - [s. 3 Prohibited and permitted payments](section/3.md)
   - [s. 4 Effect of a breach of section 1 or 2](section/4.md)
   - [s. 5 Treatment of holding deposit](section/5.md)
+  - [s. 5A Pre-tenancy payments of rent: prohibitions](section/5A.md)
+  - [s. 5B Effect of a breach of section 5A](section/5B.md)
 - Enforcement
   - [s. 6 Enforcement by local weights and measures authorities](section/6.md)
   - [s. 7 Enforcement by district councils](section/7.md)
@@ -53,6 +55,8 @@ Source: https://www.legislation.gov.uk/ukpga/2019/4/2019-06-01
 - SCHEDULE 1 Permitted payments
   - Rent
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Increased rent
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
   - Tenancy deposit
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
   - Holding deposit
