@@ -1,0 +1,542 @@
+# Environment Act 2021
+
+2021 c. 30. Enacted 2021-11-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/30/2026-05-07
+
+## Contents
+
+- PART 1 Environmental governance
+  - CHAPTER 1 Improving the natural environment
+    - Environmental targets
+      - [s. 1 Environmental targets](section/1.md)
+      - [s. 2 Environmental targets: particulate matter](section/2.md)
+      - [s. 3 Environmental targets: species abundance](section/3.md)
+      - [s. 4 Environmental targets: process](section/4.md)
+      - [s. 5 Environmental targets: effect](section/5.md)
+      - [s. 6 Environmental targets: reporting duties](section/6.md)
+      - [s. 7 Environmental targets: review](section/7.md)
+    - Environmental improvement plans
+      - [s. 8 Environmental improvement plans](section/8.md)
+      - [s. 9 Annual reports on environmental improvement plans](section/9.md)
+      - [s. 10 Reviewing and revising environmental improvement plans](section/10.md)
+      - [s. 11 Reviewing and revising plans: interim targets](section/11.md)
+      - [s. 12 Reviewing and revising plans: other requirements](section/12.md)
+      - [s. 13 Renewing environmental improvement plans](section/13.md)
+      - [s. 14 Renewing plans: interim targets](section/14.md)
+      - [s. 15 Renewing plans: other requirements](section/15.md)
+    - Environmental monitoring
+      - [s. 16 Environmental monitoring](section/16.md)
+    - Policy statement on environmental principles
+      - [s. 17 Policy statement on environmental principles](section/17.md)
+      - [s. 18 Policy statement on environmental principles: process](section/18.md)
+      - [s. 19 Policy statement on environmental principles: effect](section/19.md)
+    - Environmental protection: statements and reports
+      - [s. 20 Statements about Bills containing new environmental law](section/20.md)
+      - [s. 21 Reports on international environmental protection legislation](section/21.md)
+  - CHAPTER 2 The Office for Environmental Protection
+    - The Office for Environmental Protection
+      - [s. 22 The Office for Environmental Protection](section/22.md)
+      - [s. 23 Principal objective of the OEP and exercise of its functions](section/23.md)
+      - [s. 24 The OEP’s strategy: process](section/24.md)
+      - [s. 25 Guidance on the OEP’s enforcement policy and functions](section/25.md)
+      - [s. 25A Guidance on the OEP’s Northern Ireland enforcement policy and functions](section/25A.md)
+      - [s. 26 Memorandum of understanding](section/26.md)
+      - [s. 27 Co-operation duties of public authorities and the OEP](section/27.md)
+    - The OEP’s scrutiny and advice functions
+      - [s. 28 Monitoring and reporting on environmental improvement plans and targets](section/28.md)
+      - [s. 29 Monitoring and reporting on environmental law](section/29.md)
+      - [s. 30 Advising on changes to environmental law etc](section/30.md)
+    - The OEP’s enforcement functions
+      - [s. 31 Failure of public authorities to comply with environmental law](section/31.md)
+      - [s. 32 Complaints](section/32.md)
+      - [s. 33 Investigations](section/33.md)
+      - [s. 34 Duty to keep complainants informed](section/34.md)
+      - [s. 35 Information notices](section/35.md)
+      - [s. 36 Decision notices](section/36.md)
+      - [s. 37 Linked notices](section/37.md)
+      - [s. 38 Environmental review](section/38.md)
+      - [s. 39 Judicial review: powers to apply in urgent cases and to intervene](section/39.md)
+      - [s. 40 Duty of the OEP to involve the relevant Minister](section/40.md)
+      - [s. 41 Public statements](section/41.md)
+    - Information
+      - [s. 42 Disclosures to the OEP](section/42.md)
+      - [s. 43 Confidentiality of proceedings](section/43.md)
+  - CHAPTER 3 Interpretation of Part 1
+    - [s. 44 Meaning of “natural environment”](section/44.md)
+    - [s. 45 Meaning of “environmental protection”](section/45.md)
+    - [s. 46 Meaning of “environmental law”](section/46.md)
+    - [s. 47 Interpretation of Part 1: general](section/47.md)
+- PART 2 Environmental governance: Northern Ireland
+  - [s. 48 Improving the natural environment: Northern Ireland](section/48.md)
+  - [s. 49 The Office for Environmental Protection: Northern Ireland](section/49.md)
+- PART 3 Waste and resource efficiency
+  - Producer responsibility
+    - [s. 50 Producer responsibility obligations](section/50.md)
+    - [s. 51 Producer responsibility for disposal costs](section/51.md)
+  - Resource efficiency
+    - [s. 52 Resource efficiency information](section/52.md)
+    - [s. 53 Resource efficiency requirements](section/53.md)
+    - [s. 54 Deposit schemes](section/54.md)
+    - [s. 55 Charges for single use items](section/55.md)
+    - [s. 56 Charges for carrier bags](section/56.md)
+  - Managing waste
+    - [s. 57 Separation of waste](section/57.md)
+    - [s. 58 Electronic waste tracking: Great Britain](section/58.md)
+    - [s. 59 Electronic waste tracking: Northern Ireland](section/59.md)
+    - [s. 60 Hazardous waste: England and Wales](section/60.md)
+    - [s. 61 Hazardous waste: Northern Ireland](section/61.md)
+    - [s. 62 Transfrontier shipments of waste](section/62.md)
+    - [s. 63 Regulations under the Environmental Protection Act 1990](section/63.md)
+  - Waste enforcement and regulation
+    - [s. 64 Powers to make charging schemes](section/64.md)
+    - [s. 65 Waste charging: Northern Ireland](section/65.md)
+    - [s. 66 Enforcement powers](section/66.md)
+    - [s. 67 Enforcement powers: Northern Ireland](section/67.md)
+    - [s. 68 Littering enforcement](section/68.md)
+    - [s. 69 Fixed penalty notices](section/69.md)
+    - [s. 70 Regulation of polluting activities](section/70.md)
+    - [s. 71 Waste regulation: amendment of Northern Ireland Order](section/71.md)
+- PART 4 Air quality and environmental recall
+  - Air quality
+    - [s. 72 Local air quality management framework](section/72.md)
+    - [s. 73 Smoke control areas: amendments of the Clean Air Act 1993](section/73.md)
+  - Environmental recall of motor vehicles etc
+    - [s. 74 Environmental recall of motor vehicles etc](section/74.md)
+    - [s. 75 Compulsory recall notices](section/75.md)
+    - [s. 76 Further provision about regulations under section 74](section/76.md)
+    - [s. 77 Interpretation of sections 74 to 76](section/77.md)
+- PART 5 Water
+  - Plans and proposals
+    - [s. 78 Water resources management plans, drought plans and joint proposals](section/78.md)
+    - [s. 79 Drainage and sewerage management plans](section/79.md)
+  - Storm overflows
+    - [s. 80 Storm overflows](section/80.md)
+    - [s. 81 Reporting on discharges from storm overflows](section/81.md)
+    - [s. 82 Monitoring quality of water potentially affected by discharges](section/82.md)
+    - [s. 83 Reduction of adverse impacts of storm overflows](section/83.md)
+    - [s. 84 Report on elimination of discharges from storm overflows](section/84.md)
+  - Regulation of water and sewerage undertakers
+    - [s. 85 Authority’s power to require information](section/85.md)
+    - [s. 86 Water and sewerage undertakers in England: modifying appointments](section/86.md)
+    - [s. 87 Electronic service of documents](section/87.md)
+  - Abstraction
+    - [s. 88 Water abstraction: no compensation for certain licence modifications](section/88.md)
+  - Water quality
+    - [s. 89 Water quality: powers of Secretary of State](section/89.md)
+    - [s. 90 Water quality: powers of Welsh Ministers](section/90.md)
+    - [s. 91 Water quality: powers of Northern Ireland department](section/91.md)
+    - [s. 92 Solway Tweed river basin district: power to transfer functions](section/92.md)
+    - [s. 93 Water quality: interpretation](section/93.md)
+  - Land drainage
+    - [s. 94 Valuation of other land in drainage district: England](section/94.md)
+    - [s. 95 Valuation of other land in drainage district: Wales](section/95.md)
+    - [s. 96 Valuation of agricultural land in drainage district: England and Wales](section/96.md)
+    - [s. 97 Disclosure of Revenue and Customs information](section/97.md)
+- PART 6 Nature and biodiversity
+  - Biodiversity gain in planning
+    - [s. 98 Biodiversity gain as condition of planning permission](section/98.md)
+    - [s. 99 Biodiversity gain in nationally significant infrastructure projects](section/99.md)
+    - [s. 100 Biodiversity gain site register](section/100.md)
+    - [s. 101 Biodiversity credits](section/101.md)
+  - Biodiversity objective and reporting
+    - [s. 102 General duty to conserve and enhance biodiversity](section/102.md)
+    - [s. 103 Biodiversity reports](section/103.md)
+  - Local nature recovery strategies
+    - [s. 104 Local nature recovery strategies for England](section/104.md)
+    - [s. 105 Preparation of local nature recovery strategies](section/105.md)
+    - [s. 106 Content of local nature recovery strategies](section/106.md)
+    - [s. 107 Information to be provided by the Secretary of State](section/107.md)
+    - [s. 108 Interpretation](section/108.md)
+  - Conservation
+    - [s. 109 Species conservation strategies](section/109.md)
+    - [s. 110 Protected site strategies](section/110.md)
+    - [s. 111 Wildlife conservation: licences](section/111.md)
+  - Habitats Regulations
+    - [s. 112 Habitats Regulations: power to amend general duties](section/112.md)
+    - [s. 113 Habitats Regulations: power to amend Part 6](section/113.md)
+  - Tree felling and planting
+    - [s. 114 Controlling the felling of trees in England](section/114.md)
+    - [s. 115 Local highway authorities in England to consult before felling street trees](section/115.md)
+  - Use of forest risk commodities in commercial activity
+    - [s. 116 Use of forest risk commodities in commercial activity](section/116.md)
+- PART 7 Conservation covenants
+  - Creation of conservation covenant
+    - [s. 117 Conservation covenant agreements](section/117.md)
+    - [s. 118 Conservation covenants](section/118.md)
+    - [s. 119 Responsible bodies](section/119.md)
+  - Effect of conservation covenant
+    - [s. 120 Local land charge](section/120.md)
+    - [s. 121 Duration of obligation under conservation covenant](section/121.md)
+    - [s. 122 Benefit and burden of obligation of landowner](section/122.md)
+    - [s. 123 Benefit of obligation of responsible body](section/123.md)
+  - Breach and enforcement
+    - [s. 124 Breach of obligation](section/124.md)
+    - [s. 125 Enforcement of obligation](section/125.md)
+    - [s. 126 Defences to breach of obligation](section/126.md)
+  - Discharge and modification
+    - [s. 127 Discharge of obligation of landowner by agreement](section/127.md)
+    - [s. 128 Discharge of obligation of responsible body by agreement](section/128.md)
+    - [s. 129 Modification of obligation by agreement](section/129.md)
+    - [s. 130 Discharge or modification of obligation by Upper Tribunal](section/130.md)
+  - Replacement etc of responsible body
+    - [s. 131 Power of responsible body to appoint replacement](section/131.md)
+    - [s. 132 Body ceasing to be a responsible body](section/132.md)
+  - Miscellaneous
+    - [s. 133 Effect of acquisition or disposal of affected land by responsible body](section/133.md)
+    - [s. 134 Effect of deemed surrender and re-grant of qualifying estate](section/134.md)
+    - [s. 135 Declarations about obligations under conservation covenants](section/135.md)
+    - [s. 136 Duty of responsible bodies to make annual return](section/136.md)
+  - Supplementary
+    - [s. 137 Crown application](section/137.md)
+    - [s. 138 Index of defined terms in Part 7](section/138.md)
+    - [s. 139 Consequential amendments relating to Part 7](section/139.md)
+- PART 8 Miscellaneous and general provisions
+  - Regulation of chemicals
+    - [s. 140 Amendment of REACH legislation](section/140.md)
+  - Concurrent functions in Wales
+    - [s. 141 Amendments of Schedule 7B to the Government of Wales Act 2006](section/141.md)
+  - General provisions
+    - [s. 142 Consequential provision](section/142.md)
+    - [s. 143 Regulations](section/143.md)
+    - [s. 144 Crown application](section/144.md)
+    - [s. 145 Financial provisions](section/145.md)
+    - [s. 146 Extent](section/146.md)
+    - [s. 147 Commencement](section/147.md)
+    - [s. 148 Transitional or saving provision](section/148.md)
+    - [s. 149 Short title](section/149.md)
+- SCHEDULE 1 The Office for Environmental Protection
+  - [Sch. 1 para. 1 Membership](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Appointment of non-executive members](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Appointment of executive members](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Interim chief executive](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Terms of membership](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Remuneration of non-executive members](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Staffing and remuneration](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Powers](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Committees](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Delegation to members, committees and employees](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Procedure](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Funding](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Annual report](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Annual accounts](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Meaning of “financial year”](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Status](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Independence of the OEP](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Disqualification from membership of legislatures](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20 Public records](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21 Freedom of Information](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22 Investigation by the Parliamentary Commissioner](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23 Public sector equality duty](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24 Meaning of “the Northern Ireland Department”](schedule/1/paragraph/24.md)
+- SCHEDULE 2 Improving the natural environment: Northern Ireland
+  - PART 1 Environmental improvement plans
+    - [Sch. 2 para. 1 Environmental improvement plans](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Annual reports on environmental improvement plans](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Reviewing and revising environmental improvement plans](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Renewing environmental improvement plans](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Environmental monitoring](schedule/2/paragraph/5.md)
+  - PART 2 Policy statement on environmental principles
+    - [Sch. 2 para. 6 Policy statement on environmental principles](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Policy statement on environmental principles: process](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Policy statement on environmental principles: effect](schedule/2/paragraph/8.md)
+  - PART 3 Interpretation
+    - [Sch. 2 para. 9 Meaning of “natural environment”](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Meaning of “environmental protection”](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 General interpretation](schedule/2/paragraph/11.md)
+- SCHEDULE 3 The Office for Environmental Protection: Northern Ireland
+  - PART 1 The OEP’s Northern Ireland functions
+    - [Sch. 3 para. 1 Monitoring and reporting on the Department’s environmental improvement plans](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Monitoring and reporting on environmental law](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Advising on changes to Northern Ireland environmental law etc](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Failure of relevant public authorities to comply with environmental law](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Meaning of relevant environmental law, relevant public authority etc](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Complaints about relevant public authorities](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Investigations: relevant public authorities](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Duty to keep complainants informed](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Information notices](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Decision notices](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Linked notices](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Review application](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Judicial review: powers to apply to prevent serious damage and to intervene](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 Duty of the OEP to involve the relevant department](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Public statements](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16 Disclosures to the OEP](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17 Confidentiality of proceedings](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18 Meaning of UK environmental law and Northern Ireland environmental law](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19 Interpretation of Part 1 of this Schedule: general](schedule/3/paragraph/19.md)
+  - PART 2 Amendments of the OEP’s general functions
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+- SCHEDULE 4 Producer responsibility obligations
+  - PART 1 Requirements
+    - [Sch. 4 para. 1 General power](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Examples of provision that may be made](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Registration of persons subject to producer responsibility obligations](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Compliance schemes](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Registration of compliance schemes](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Power to direct compliance scheme operators](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Certificates of compliance](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Consultation etc requirements](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Interpretation](schedule/4/paragraph/11.md)
+  - PART 2 Enforcement
+    - [Sch. 4 para. 12 General power](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Powers to confer functions](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Monitoring compliance](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Records and information](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16 Powers of entry etc](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17 Sanctions](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19 Charges and costs](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20 Consultation requirement](schedule/4/paragraph/20.md)
+- SCHEDULE 5 Producer responsibility for disposal costs
+  - PART 1 Requirements
+    - [Sch. 5 para. 1 General power](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 “Disposal costs” and “disposal”](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Calculation of sums payable](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Administration](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Registration](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Payment of sums](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Distribution of sums paid](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8 Repayment of sums paid](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Charges](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Consultation requirements](schedule/5/paragraph/10.md)
+  - PART 2 Enforcement
+    - [Sch. 5 para. 11 General power](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12 Powers to confer functions](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13 Monitoring compliance](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14 Records and information](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15 Powers of entry etc](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16 Sanctions](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17 Charges and costs](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18 Consultation requirements](schedule/5/paragraph/18.md)
+- SCHEDULE 6 Resource efficiency information
+  - PART 1 Requirements
+    - [Sch. 6 para. 1 General power](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2 Meaning of “information about resource efficiency”](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3 Persons on whom requirements may be imposed](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4 Examples of provision that may be made](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5 Consultation etc requirements](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6 Interpretation](schedule/6/paragraph/6.md)
+  - PART 2 Enforcement
+    - [Sch. 6 para. 7 General power](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8 Powers to confer functions](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9 Monitoring compliance](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10 Records and information](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11 Powers of entry etc](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12 Sanctions](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13 Costs](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14 Consultation requirement](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Resource efficiency requirements
+  - PART 1 Requirements
+    - [Sch. 7 para. 1 General power](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2 Meaning of “resource efficiency requirements”](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3 Persons on whom requirements may be imposed](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4 Examples of provision that may be made](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5 Consultation etc requirements](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6 Interpretation](schedule/7/paragraph/6.md)
+  - PART 2 Enforcement
+    - [Sch. 7 para. 7 General power](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8 Powers to confer functions](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9 Monitoring compliance](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10 Records and information](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11 Powers of entry etc](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12 Sanctions](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13 Costs](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14 Consultation requirement](schedule/7/paragraph/14.md)
+- SCHEDULE 8 Deposit schemes
+  - [Sch. 8 para. 1 Power to establish deposit schemes](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Scheme suppliers](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Scheme collectors](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Deposit scheme administrators](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5 Enforcement](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6 Interpretation](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Charges for single use items
+  - [Sch. 9 para. 1 General power](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 Requirement to charge](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Sellers of goods and services](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Amount of charge](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5 Administration](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 Registration](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7 Record-keeping and publication of records](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8 Enforcement](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9 Civil sanctions](schedule/9/paragraph/9.md)
+- SCHEDULE 10 Enforcement powers
+  - [Sch. 10 para. 1 Powers to search and seize vehicles in connection with waste offences](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Powers of direction in relation to waste](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Powers of entry in relation to pollution control etc](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 Local air quality management framework
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+- SCHEDULE 12 Smoke control in England and Wales
+  - PART 1 Principal amendments to the Clean Air Act 1993: England
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - PART 2 Principal amendments to the Clean Air Act 1993: Wales
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - PART 3 Minor and consequential amendments
+    - [Sch. 12 para. 12 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24 Minor and consequential amendments to the Clean Air Act 1993](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25 Minor amendments to other legislation](schedule/12/paragraph/25.md)
+  - PART 4 Smoke control areas in England: transitional provision
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+- SCHEDULE 13 Modifying water and sewerage undertakers’ appointments: procedure for appeals
+- SCHEDULE 14 Biodiversity gain as condition of planning permission
+  - PART 1 Biodiversity gain condition
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - PART 2 Consequential amendments
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+- SCHEDULE 15 Biodiversity gain in nationally significant infrastructure projects
+  - PART 1 Principal amendments to the Planning Act 2008
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - PART 2 Supplementary amendments to the Planning Act 2008
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+- SCHEDULE 16 Controlling the felling of trees in England
+  - [Sch. 16 para. 1 Introductory](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 2 Penalty for felling without licence: increase of fine](schedule/16/paragraph/2.md)
+  - [Sch. 16 para. 3 Restocking notices to be local land charges](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4 Enforcement notices to be local land charges](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5 Further enforcement notices for new estate or interest holders](schedule/16/paragraph/5.md)
+  - [Sch. 16 para. 6 Power of court to order restocking after conviction for failure to comply with enforcement notice](schedule/16/paragraph/6.md)
+  - [Sch. 16 para. 7 Service of notices on directors of companies that have estates or interests in land](schedule/16/paragraph/7.md)
+  - [Sch. 16 para. 8 Requiring information from the owner of land](schedule/16/paragraph/8.md)
+- SCHEDULE 17 Use of forest risk commodities in commercial activity
+  - PART 1 Requirements
+    - [Sch. 17 para. 1 Meaning of “forest risk commodity”](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2 Prohibition on using illegally produced commodities](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3 Due diligence system](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4 Annual report on due diligence system](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5 Exemption](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6 Guidance](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7 Meaning of “regulated person”](schedule/17/paragraph/7.md)
+  - PART 2 Enforcement
+    - [Sch. 17 para. 8 General power](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9 Powers to confer functions](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10 Monitoring compliance](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11 Records and information](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12 Powers of entry etc](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13 Sanctions](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14 Sanctions](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15 Charges](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16 Consultation requirement](schedule/17/paragraph/16.md)
+  - PART 3 General provisions
+    - [Sch. 17 para. 17 Review](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18 Interpretation](schedule/17/paragraph/18.md)
+- SCHEDULE 18 Discharge or modification of obligations under conservation covenants
+  - PART 1 Discharge by Upper Tribunal
+    - [Sch. 18 para. 1 Power to discharge on application by landowner or responsible body](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2 Power to discharge on application by landowner or responsible body](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3 Deciding whether to discharge](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4 Supplementary powers](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5 Supplementary powers](schedule/18/paragraph/5.md)
+  - PART 2 Modification by Upper Tribunal
+    - [Sch. 18 para. 6 Power to modify on application by landowner or responsible body](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7 Power to modify on application by landowner or responsible body](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8 Power to modify on application by landowner or responsible body](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9 Deciding whether to modify](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10 Supplementary powers](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11 Supplementary powers](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12 Effect of modification](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13 Interpretation](schedule/18/paragraph/13.md)
+- SCHEDULE 19 Application of Part 7 to Crown land
+  - PART 1 General
+    - [Sch. 19 para. 1 Application of Part 7](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2 Interpretation](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3 Demesne land](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4 Land subject to escheat](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5 Bona vacantia](schedule/19/paragraph/5.md)
+  - PART 2 Conservation covenants relating to Crown land held by a person other than the appropriate authority
+    - [Sch. 19 para. 6 Agreements for the purposes of section 117](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7 Modification of Part 7 in relation to obligations under certain Crown conservation covenants](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8 Modification of Part 7 in relation to obligations under certain Crown conservation covenants](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9 Modification of Part 7 in relation to obligations under certain Crown conservation covenants](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10 Modification of Part 7 in relation to obligations under certain Crown conservation covenants](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11 Modification of Part 7 in relation to obligations under certain Crown conservation covenants](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12 Modification of Part 7 in relation to obligations under certain Crown conservation covenants](schedule/19/paragraph/12.md)
+  - PART 3 Other modifications of Part 7
+    - [Sch. 19 para. 13 Cases where estate in land to which conservation covenant relates has been acquired by the Crown and is held by person other than the appropriate authority](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14 Cases where estate in land to which conservation covenant relates has been acquired by the Crown and is held by person other than the appropriate authority](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15 Cases where estate in land to which conservation covenant relates has been acquired by the Crown and is held by person other than the appropriate authority](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16 Cases where estate in land to which conservation covenant relates has been acquired by the Crown and is held by person other than the appropriate authority](schedule/19/paragraph/16.md)
+    - [Sch. 19 para. 17 Cases where estate in land to which conservation covenant relates has been acquired by the Crown and is held by person other than the appropriate authority](schedule/19/paragraph/17.md)
+    - [Sch. 19 para. 18 Agreements under section 127(1) and (3)](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19 Agreements under section 128(1)](schedule/19/paragraph/19.md)
+    - [Sch. 19 para. 20 Agreements under section 129(1)](schedule/19/paragraph/20.md)
+    - [Sch. 19 para. 21 Agreements under section 129(1)](schedule/19/paragraph/21.md)
+- SCHEDULE 20 Consequential amendments relating to Part 7
+  - [Sch. 20 para. 1 Acquisition of Land Act 1981 (c. 67)](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2 Acquisition of Land Act 1981 (c. 67)](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3 Acquisition of Land Act 1981 (c. 67)](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4 Housing and Planning Act 2016 (c. 22)](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5 Housing and Planning Act 2016 (c. 22)](schedule/20/paragraph/5.md)
+  - [Sch. 20 para. 6 Housing and Planning Act 2016 (c. 22)](schedule/20/paragraph/6.md)
+  - [Sch. 20 para. 7 Housing and Planning Act 2016 (c. 22)](schedule/20/paragraph/7.md)
+  - [Sch. 20 para. 8 Neighbourhood Planning Act 2017 (c. 20)](schedule/20/paragraph/8.md)
+  - [Sch. 20 para. 9 Neighbourhood Planning Act 2017 (c. 20)](schedule/20/paragraph/9.md)
+  - [Sch. 20 para. 10 Neighbourhood Planning Act 2017 (c. 20)](schedule/20/paragraph/10.md)
+  - [Sch. 20 para. 11 Neighbourhood Planning Act 2017 (c. 20)](schedule/20/paragraph/11.md)
+  - [Sch. 20 para. 12 Neighbourhood Planning Act 2017 (c. 20)](schedule/20/paragraph/12.md)
+- SCHEDULE 21 Amendment of REACH legislation
+  - [Sch. 21 para. 1 Amendment of the REACH Regulation](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2 Amendment of the REACH Enforcement Regulations 2008](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 3 Consent of the devolved administrations](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 4 Requests by devolved administrations for exercise of powers under this Schedule](schedule/21/paragraph/4.md)
+  - [Sch. 21 para. 5 Consultation](schedule/21/paragraph/5.md)
+  - [Sch. 21 para. 6 The protected provisions](schedule/21/paragraph/6.md)
+  - [Sch. 21 para. 7 Other interpretation](schedule/21/paragraph/7.md)
