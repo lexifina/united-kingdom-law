@@ -1,0 +1,143 @@
+# Offender Rehabilitation Act 2014
+
+2014 c. 11. Enacted 2014-03-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-11, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/11
+
+Source: https://www.legislation.gov.uk/ukpga/2014/11/2026-05-11
+
+## Contents
+
+- Release and supervision of offenders sentenced to less than 2 years
+  - [s. 1 Reduction of cases in which prisoners released unconditionally](section/1.md)
+  - [s. 2 Supervision after end of sentence](section/2.md)
+  - [s. 3 Breach of supervision requirements](section/3.md)
+  - [s. 4 Supervision of certain young offenders after release from detention](section/4.md)
+  - [s. 5 Consecutive terms](section/5.md)
+  - [s. 6 Supervision of certain young offenders after detention and training order](section/6.md)
+  - [s. 7 Minor and consequential provision](section/7.md)
+- Other provision about release and supervision of offenders
+  - [s. 8 Extended sentences: length of extension period](section/8.md)
+  - [s. 9 Recall and further release of offenders](section/9.md)
+  - [s. 10 Arrangements for supervision and rehabilitation: female offenders](section/10.md)
+- Drugs and offenders released during custodial sentence
+  - [s. 11 Drug testing](section/11.md)
+  - [s. 12 Drug appointments](section/12.md)
+  - [s. 13 Drug testing and appointments: transfer within the British Islands](section/13.md)
+- Community orders and suspended sentence orders
+  - [s. 14 Officers responsible for implementing orders](section/14.md)
+  - [s. 15 Rehabilitation activity requirement](section/15.md)
+  - [s. 16 Programme requirement](section/16.md)
+  - [s. 17 Attendance centre requirement](section/17.md)
+  - [s. 18 Duty to obtain permission before changing residence](section/18.md)
+- Offenders sentenced by service courts
+  - [s. 19 Amendments of Armed Forces Act 2006](section/19.md)
+- General
+  - [s. 20 Consequential and supplementary provision etc](section/20.md)
+  - [s. 21 Transitional provision etc](section/21.md)
+  - [s. 22 Commencement](section/22.md)
+  - [s. 23 Extent](section/23.md)
+  - [s. 24 Short title](section/24.md)
+- SCHEDULE 1 Supervision requirements
+  - PART 1 General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - PART 2 Drugs
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Supervision default orders: new Schedule 19A to Criminal Justice Act 2003
+- SCHEDULE 3 Release and supervision: minor and consequential provision
+  - Crime (Sentences) Act 1997 (c. 43)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 Officers responsible for implementing orders
+  - PART 1 Functions confined to the public sector
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Offender Management Act 2007 (c. 21)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 2 Consequential provision
+    - Children Act 1989 (c. 41)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Rehabilitation activity requirement: consequential provision
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Offenders sentenced by service courts
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Supervision and release of offenders sentenced to less than 2 years
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Recall and further release of offenders
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Service community orders, overseas community orders and suspended sentence orders: officers responsible for implementing
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Service community orders, overseas community orders and suspended sentence orders: duty to obtain permission before changing residence
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Cases to which this Act applies
+  - Commencement day
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Release and supervision of offenders sentenced to less than 2 years
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Extended sentences
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Recall and further release of prisoners
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Drugs and offenders released during custodial sentence
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Community orders and suspended sentences
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Interpretation: offences committed over a period
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
