@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-11, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
 
 ## Contents
 
@@ -325,8 +325,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
         - [s. 217A Review of community order qualifying for special procedures](section/217A.md)
         - [s. 217B Powers on review](section/217B.md)
         - [s. 217C Alteration of review arrangements](section/217C.md)
-      - Breach, revocation or amendment of community order
-        - [s. 218 Breach, revocation or amendment of community order](section/218.md)
+      - Breach, revocation, termination or amendment of community order
+        - [s. 218 Breach, revocation, termination or amendment of community order](section/218.md)
       - Transferring order to Scotland or Northern Ireland
         - [s. 219 Transfer of community orders to Scotland or Northern Ireland](section/219.md)
       - Community orders: supplementary
@@ -1063,7 +1063,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
       - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
     - Restriction on imposing electronic whereabouts monitoring requirement
       - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
-- SCHEDULE 10 Breach, revocation or amendment of community order
+- SCHEDULE 10 Breach, revocation, termination or amendment of community order
   - PART 1 Preliminary
     - Meaning of particular expressions relating to an order
       - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
@@ -1101,6 +1101,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
       - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
     - Crown Court community order
       - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Part 3A Termination of order
+    - [Sch. 10 para. 15A](schedule/10/paragraph/15A.md)
   - PART 4 Amendment of order
     - Amendment because of change of residence
       - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
@@ -1113,7 +1115,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
       - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
     - Extension of order
       - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
-    - Extension of unpaid work requirement
+    - ...
       - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
   - PART 5 Conviction of further offence
     - Powers of magistrates’ court following subsequent conviction
@@ -1342,6 +1344,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
       - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
     - Cancellation of community requirements of suspended sentence order
       - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - Termination of supervision period
+      - [Sch. 16 para. 22A](schedule/16/paragraph/22A.md)
     - Amendment because of change of residence
       - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
       - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
@@ -1351,7 +1355,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-04-29
       - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
     - Amendment of treatment requirement on report of practitioner
       - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
-    - Extension of unpaid work requirement
+    - ...
       - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
   - PART 4 Supplementary
     - Provision of copies of orders etc
