@@ -2,9 +2,9 @@
 
 2020 c. 3. Enacted 2020-02-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-04-30, one file per provision. Earlier versions, from 2020-02-26, are in the history before it: `git log -- ukpga/2020/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-11, one file per provision. Earlier versions, from 2020-02-26, are in the history before it: `git log -- ukpga/2020/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/3/2021-04-30
+Source: https://www.legislation.gov.uk/ukpga/2020/3/2026-05-11
 
 ## Contents
 
