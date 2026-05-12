@@ -1,0 +1,163 @@
+# Teaching and Higher Education Act 1998
+
+1998 c. 30. Enacted 1998-07-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 34 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
+
+Source: https://www.legislation.gov.uk/ukpga/1998/30/2026-05-12
+
+## Contents
+
+- Part I The teaching profession
+  - Chapter I The General Teaching Council for Wales
+    - The General Teaching Council for Wales: aims and constitution
+      - [s. 1 Aims and constitution of the Council](section/1.md)
+    - Functions of the General Teaching Council for Wales
+      - [s. 2 Advisory functions of the Council.](section/2.md)
+      - [s. 3 Registration of teachers.](section/3.md)
+      - [s. 4 Regulations relating to registration.](section/4.md)
+      - [s. 4A Appeals against refusal of registration](section/4A.md)
+      - [s. 5 Code of practice for registered teachers.](section/5.md)
+      - [s. 6 Disciplinary powers of Council in relation to registered teachers.](section/6.md)
+      - [s. 6A Power to promote teaching profession](section/6A.md)
+      - [s. 7 Additional and ancillary functions of Council.](section/7.md)
+    - Establishment of The General Teaching Council for Wales
+      - [s. 8 Establishment of The General Teaching Council for Wales.](section/8.md)
+    - Functions of the General Teaching Council for Wales
+      - [s. 9 Functions of General Teaching Council for Wales: general.](section/9.md)
+      - [s. 10 Further functions of General Teaching Council for Wales in relation to teachers.](section/10.md)
+    - Supplementary
+      - [s. 11 Registration requirement for teachers at schools.](section/11.md)
+      - [s. 12 Deduction of fees from salaries, etc.](section/12.md)
+      - [s. 13 Consultation about qualified teacher status.](section/13.md)
+      - [s. 14 Supply of information relating to teachers: general.](section/14.md)
+      - [s. 15 Supply of information following dismissal, resignation, &c.](section/15.md)
+      - [s. 15A Supply of information by contractor, agency, &c.](section/15A.md)
+    - The General Teaching Council for Scotland
+      - [s. 16 Duty to have regard to needs of disabled persons.](section/16.md)
+      - [s. 17 Representation of special educational needs teachers on General Teaching Council for Scotland.](section/17.md)
+  - Chapter II HEAD TEACHERS
+    - [s. 18 Qualifications of head teachers.](section/18.md)
+  - Chapter III TEACHER TRAINING
+    - Induction periods: teachers in Wales
+      - [s. 19 Requirement to serve induction period.](section/19.md)
+    - Inspection of teacher training institutions
+      - [s. 20 Inspection of institutions training teachers for schools.](section/20.md)
+      - [s. 21 Inspection of institutions training teachers for schools: Scotland.](section/21.md)
+- Part II Financial provision for higher and further education
+  - Chapter I ENGLAND AND WALES
+    - Student support
+      - [s. 22 New arrangements for giving financial support to students.](section/22.md)
+      - [s. 23 Transfer or delegation of functions relating to student support.](section/23.md)
+      - [s. 24 Supply of information in connection with student support.](section/24.md)
+      - [s. 25 Transitional arrangements.](section/25.md)
+    - Student fees
+      - [s. 26 Imposition of conditions as to fees at further or higher education institutions.](section/26.md)
+    - Higher education funding
+      - [s. 27 Expenditure eligible for funding.](section/27.md)
+    - Supplementary
+      - [s. 28 Interpretation of Chapter I.](section/28.md)
+      - [s. 28A Modules of courses: modification of Chapter in relation to powers of the Secretary of State](section/28A.md)
+  - Chapter II SCOTLAND
+    - [s. 29 Grants and loans: Scotland.](section/29.md)
+    - [s. 30 Supply of information in connection with student loans: Scotland.](section/30.md)
+    - [s. 31 Imposition of conditions as to fees at further and higher education institutions in Scotland.](section/31.md)
+- Part III Right to time off for study or training
+  - [s. 32 Right of young persons to time off for study or training.](section/32.md)
+  - [s. 33 Further provisions as to time off for study or training.](section/33.md)
+- Part IV Miscellaneous and general
+  - Inspection of vocational training, etc: Wales
+    - [s. 34 Inspection of vocational training by Her Majesty’s chief inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru.](section/34.md)
+    - [s. 35 Inspection of careers services by Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru.](section/35.md)
+    - [s. 35A Inspection of other careers services etc. in Wales.](section/35A.md)
+  - Funding Councils: England, Wales and Scotland
+    - [s. 36 Power of funding councils in England and Wales to secure provision of certain further education.](section/36.md)
+    - [s. 37 Joint exercise of functions of funding councils in Scotland.](section/37.md)
+    - [s. 38 ................................](section/38.md)
+  - Further and higher education institutions: England and Wales
+    - [s. 39 Unauthorised use of “university” in title of educational institution, etc.](section/39.md)
+    - [s. 40 University college, etc., not to be treated as university.](section/40.md)
+    - [s. 41 Charitable status of further and higher education corporations.](section/41.md)
+  - General
+    - [s. 42 Orders and regulations.](section/42.md)
+    - [s. 43 General interpretation.](section/43.md)
+    - [s. 44 Minor and consequential amendments and repeals.](section/44.md)
+    - [s. 45 Northern Ireland.](section/45.md)
+    - [s. 46 Short title, commencement and extent.](section/46.md)
+- SCHEDULE 1 General Teaching Council for Wales
+  - Status of Council
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Chairman and members of Council
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Salaries, allowances, pensions and other payments
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Staff
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Finance
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation of functions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Proceedings
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Accounts
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Annual reports
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Application of seal and proof of instruments
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Power to amend Schedule](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Disciplinary powers of Council
+  - Investigation, hearing and determination of disciplinary cases
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Disciplinary orders: general
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Conditional registration orders
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Suspension orders
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Prohibition orders
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Appeals against disciplinary orders
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Supplementary provisions
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Minor and consequential amendments
+  - Public Records Act 1958 (c.51)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Superannuation Act 1972 (c.11)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Education (Scotland) Act 1980 (c.44)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Education (Fees and Awards) Act 1983 (c.40)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Education Reform Act 1988 (c.40)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Further and Higher Education Act 1992 (c.13)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Charities Act 1993 (c.10)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Employment Rights Act 1996 (c.18)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Education Act 1996 (c.56)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Repeals
