@@ -2,9 +2,9 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-12, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-05-12
 
 ## Contents
 
@@ -238,9 +238,27 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-04-01
 - SCHEDULE 2 The fee limit
   - Introduction
     - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
-  - The fee limit where the provider has an access and participation plan
+  - The credit-based method: basic concepts
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - The credit-based method: attachment of credits
+    - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+  - The credit-based method: maxima and defaults
+    - [Sch. 2 para. 1C](schedule/2/paragraph/1C.md)
+  - The credit-based method: fee limit where credits attached
+    - [Sch. 2 para. 1D](schedule/2/paragraph/1D.md)
+  - The credit-based method: fee limit where credits not attached
+    - [Sch. 2 para. 1E](schedule/2/paragraph/1E.md)
+  - The credit-based method: adjustments for transfer cases
+    - [Sch. 2 para. 1F](schedule/2/paragraph/1F.md)
+  - The credit-based method: supplementary
+    - [Sch. 2 para. 1G](schedule/2/paragraph/1G.md)
+  - The fixed method
+    - [Sch. 2 para. 1H](schedule/2/paragraph/1H.md)
+  - Determination of the per-credit and fixed limits
+    - [Sch. 2 para. 1I](schedule/2/paragraph/1I.md)
+  - Limits where the provider has an access and participation plan
     - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
-  - The fee limit where the provider has no access and participation plan
+  - Limits where the provider has no access and participation plan
     - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
   - Accelerated courses
     - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
