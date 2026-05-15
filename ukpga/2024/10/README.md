@@ -1,0 +1,184 @@
+# Automated Vehicles Act 2024
+
+2024 c. 10. Enacted 2024-05-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
+
+Source: https://www.legislation.gov.uk/ukpga/2024/10/2026-05-15
+
+## Contents
+
+- Part 1 Regulatory scheme for automated vehicles
+  - Chapter 1 Authorisation of road vehicles for automated use
+    - Self-driving capability
+      - [s. 1 Basic concepts](section/1.md)
+      - [s. 2 Statement of safety principles](section/2.md)
+    - Grant of authorisation
+      - [s. 3 Power to authorise](section/3.md)
+      - [s. 4 Authorised automation features](section/4.md)
+    - Authorisation requirements
+      - [s. 5 Authorisation requirements and conditions](section/5.md)
+      - [s. 6 Authorised self-driving entities](section/6.md)
+      - [s. 7 Transition demands](section/7.md)
+    - Variation, suspension and withdrawal of authorisation
+      - [s. 8 Power to vary, suspend or withdraw](section/8.md)
+      - [s. 9 Further provision about variation, suspension and withdrawal](section/9.md)
+    - Administration
+      - [s. 10 Register of authorisations](section/10.md)
+      - [s. 11 Regulations about authorisation procedure](section/11.md)
+  - Chapter 2 Licensing of operators for vehicle use without user-in-charge
+    - [s. 12 Power to establish operator licensing scheme](section/12.md)
+    - [s. 13 Further provision about operator licensing](section/13.md)
+  - Chapter 3 Provision of information by regulated bodies
+    - Requirements imposed by regulations
+      - [s. 14 Collection and sharing of information](section/14.md)
+      - [s. 15 Nomination of individuals](section/15.md)
+    - Requirements imposed by notice
+      - [s. 16 Purpose for which notices may be given](section/16.md)
+      - [s. 17 Power to issue information notice](section/17.md)
+      - [s. 18 Power to issue interview notice](section/18.md)
+      - [s. 19 Notices requiring individual attendance](section/19.md)
+      - [s. 20 Offences of non-compliance](section/20.md)
+      - [s. 21 Enforcement by court](section/21.md)
+      - [s. 22 Use of information obtained](section/22.md)
+      - [s. 23 Supplementary provision](section/23.md)
+    - Offences relating to information about safety
+      - [s. 24 False or withheld information relevant to vehicle safety](section/24.md)
+      - [s. 25 Aggravated offence where death or serious injury occurs](section/25.md)
+    - Liability of individuals
+      - [s. 26 Liability of nominated individual](section/26.md)
+      - [s. 27 Liability of senior manager](section/27.md)
+  - Chapter 4 Powers to investigate premises used by regulated bodies
+    - [s. 28 Warrants for entry, search and seizure](section/28.md)
+    - [s. 29 Powers exercisable under warrant](section/29.md)
+    - [s. 30 Offences of impeding execution of warrant](section/30.md)
+    - [s. 31 Seizure of items](section/31.md)
+    - [s. 32 Return of warrant](section/32.md)
+    - [s. 33 Use of information obtained](section/33.md)
+  - Chapter 5 Civil sanctions against regulated bodies
+    - [s. 34 Compliance notices](section/34.md)
+    - [s. 35 Redress notices](section/35.md)
+    - [s. 36 Monetary penalties](section/36.md)
+    - [s. 37 Supplementary provision](section/37.md)
+  - Chapter 6 Other regulatory powers and duties
+    - [s. 38 General monitoring duty](section/38.md)
+    - [s. 39 Duty with respect to incidents with potential regulatory consequences](section/39.md)
+    - [s. 40 Power to require reports from police and local authorities](section/40.md)
+  - Chapter 7 Supplementary provision
+    - [s. 41 Notices](section/41.md)
+    - [s. 42 Protection of information](section/42.md)
+    - [s. 43 Fees](section/43.md)
+    - [s. 44 Interpretation](section/44.md)
+    - [s. 45 Related amendments](section/45.md)
+- Part 2 Criminal liability for vehicle use
+  - Chapter 1 Legal position of user-in-charge
+    - [s. 46 Meaning of “user-in-charge”](section/46.md)
+    - [s. 47 User-in-charge not liable for manner of driving](section/47.md)
+    - [s. 48 Exceptions from immunity](section/48.md)
+    - [s. 49 User-in-charge otherwise liable as driver](section/49.md)
+    - [s. 50 Power to change or clarify existing traffic legislation](section/50.md)
+    - [s. 51 Supplementary provision](section/51.md)
+    - [s. 52 Interpretation](section/52.md)
+  - Chapter 2 Offences
+    - [s. 53 Use of vehicle without driver or licensed oversight](section/53.md)
+    - [s. 54 Dangerous use etc](section/54.md)
+    - [s. 55 Amendment of tampering offence](section/55.md)
+    - [s. 56 Amendment of offence concerning fitting of unsuitable parts](section/56.md)
+- Part 3 Policing and investigation
+  - Chapter 1 Stopping and seizure
+    - [s. 57 Application of stopping powers etc](section/57.md)
+    - [s. 58 Seizure and detention](section/58.md)
+    - [s. 59 Interpretation](section/59.md)
+  - Chapter 2 Investigation of incidents by statutory inspectors
+    - Authorised automated vehicle incident inspectors
+      - [s. 60 The role of inspector](section/60.md)
+      - [s. 61 Purpose of inspectors](section/61.md)
+    - Investigations
+      - [s. 62 General power to investigate certain incidents](section/62.md)
+      - [s. 63 Powers in respect of persons](section/63.md)
+      - [s. 64 Powers in respect of premises](section/64.md)
+      - [s. 65 Powers in respect of road traffic](section/65.md)
+      - [s. 66 Offences of impeding investigation](section/66.md)
+      - [s. 67 Application to police officers](section/67.md)
+      - [s. 68 Report of findings](section/68.md)
+      - [s. 69 Appointment of additional persons to exercise investigatory powers](section/69.md)
+    - Supplementary powers
+      - [s. 70 Additional power in respect of information and material](section/70.md)
+      - [s. 71 Obtaining reports from police](section/71.md)
+      - [s. 72 Ancillary functions](section/72.md)
+    - Supplementary provision
+      - [s. 73 Protection of information](section/73.md)
+      - [s. 74 Further provision about physical evidence](section/74.md)
+      - [s. 75 Expenses](section/75.md)
+      - [s. 76 Offences under regulations](section/76.md)
+      - [s. 77 Interpretation](section/77.md)
+- Part 4 Marketing restrictions
+  - [s. 78 Restriction of certain terms to authorised automated vehicles](section/78.md)
+  - [s. 79 Communications likely to confuse as to autonomous capability](section/79.md)
+  - [s. 80 Liability of corporate officers etc](section/80.md)
+  - [s. 81 Interpretation and supplementary provision](section/81.md)
+- Part 5 Permits for automated passenger services
+  - Content and effect of permits
+    - [s. 82 Power to grant permits](section/82.md)
+    - [s. 83 Disapplication of taxi, private hire vehicle and bus legislation](section/83.md)
+    - [s. 84 Civil sanctions for infringements](section/84.md)
+  - Requirements before granting permit
+    - [s. 85 Consent requirement for services resembling taxis or private hire vehicles](section/85.md)
+    - [s. 86 Consent requirement for services resembling buses](section/86.md)
+    - [s. 87 Further requirements](section/87.md)
+  - Supplementary provision
+    - [s. 88 Collection, sharing and protection of information](section/88.md)
+    - [s. 89 Procedural and administrative matters](section/89.md)
+    - [s. 90 Interpretation](section/90.md)
+- Part 6 Adaptation of existing regimes
+  - [s. 91 Power to update type approval requirements](section/91.md)
+  - [s. 92 Application of roadside testing powers etc](section/92.md)
+  - [s. 93 Provision of information about traffic regulation measures](section/93.md)
+- Part 7 General provision
+  - [s. 94 General definitions](section/94.md)
+  - [s. 95 Disclosure of information: interaction with external constraints](section/95.md)
+  - [s. 96 Crown application](section/96.md)
+  - [s. 97 Regulations](section/97.md)
+  - [s. 98 Extent](section/98.md)
+  - [s. 99 Commencement and transitional provision](section/99.md)
+  - [s. 100 Short title](section/100.md)
+- Schedule 1 Enforcement action under Part 1: procedure
+  - Part 1 Unilateral variation, suspension or withdrawal of authorisation
+    - [Sch. 1 para. 1 Ordinary procedure](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Procedure for urgent suspension or temporary variation](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Appeals](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Backstop procedure for cases where authorised self-driving entity defunct](schedule/1/paragraph/4.md)
+  - Part 2 Civil sanctions
+    - [Sch. 1 para. 5 Notices of intent](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Costs](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Appeals](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Assignment of functions to traffic commissioners](schedule/1/paragraph/8.md)
+- Schedule 2 Amendments related to Part 1
+  - [Sch. 2 para. 1 Theft Act 1968 (c. 60)](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Prescription and Limitation (Scotland) Act 1973 (c. 52)](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Limitation Act 1980 (c. 58)](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Road Traffic Act 1988 (c. 52)](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Automated and Electric Vehicles Act 2018 (c. 18)](schedule/2/paragraph/5.md)
+- Schedule 3 Amendments related to sections 53 and 54
+  - [Sch. 3 para. 1 Road Traffic Act 1988 (c. 52)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Road Traffic Offenders Act 1988 (c. 55)](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Crime (International Co-operation) Act 2003 (c. 32)](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Armed Forces Act 2006 (c. 52)](schedule/3/paragraph/4.md)
+- Schedule 4 Amendments related to section 66(3)
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+- Schedule 5 Enforcement of marketing restrictions
+  - [Sch. 5 para. 1 Duty to enforce](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Application of consumer enforcement powers](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Out-of-court undertakings](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Civil injunctions](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Time limit for prosecution](schedule/5/paragraph/5.md)
+- Schedule 6 Civil sanctions for infringing passenger permit scheme
+  - [Sch. 6 para. 1 Compliance notices](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Monetary penalties](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Notice of intent](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Costs](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Cancellation and variation](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Appeals](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Enforcement action in respect of multiple occurrences](schedule/6/paragraph/7.md)
