@@ -1,0 +1,633 @@
+# Small Business, Enterprise and Employment Act 2015
+
+2015 c. 26. Enacted 2015-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-05-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
+
+Source: https://www.legislation.gov.uk/ukpga/2015/26/2026-05-18
+
+## Contents
+
+- PART 1 Access to finance
+  - Assignment of receivables
+    - [s. 1 Power to invalidate certain restrictive terms of business contracts](section/1.md)
+    - [s. 2 Section 1(4)(a): meaning of “financial services”](section/2.md)
+  - Business payment practices
+    - [s. 3 Companies: duty to publish report on payment practices and performance](section/3.md)
+  - Financial information about businesses
+    - [s. 4 Small and medium sized businesses: information to credit reference agencies](section/4.md)
+    - [s. 5 Small and medium sized businesses: information to finance platforms](section/5.md)
+    - [s. 6 Sections 4 and 5: supplementary](section/6.md)
+    - [s. 7 Sections 4 to 6: interpretation](section/7.md)
+    - [s. 8 Disclosure of VAT registration information](section/8.md)
+    - [s. 9 Offences for the purposes of section 8](section/9.md)
+  - Exports
+    - [s. 10 Disclosure of exporter information](section/10.md)
+    - [s. 11 Power of the Secretary of State under section 1 of the EIGA 1991](section/11.md)
+    - [s. 12 EIGA 1991: further amendments](section/12.md)
+  - Presentment of cheques etc
+    - [s. 13 Electronic paying in of cheques etc](section/13.md)
+  - Payment systems
+    - [s. 14 Powers of the Payment Systems Regulator](section/14.md)
+- PART 2 Regulatory reform
+  - Streamlined company registration
+    - [s. 15 Target for streamlined company registration](section/15.md)
+    - [s. 16 Streamlined company registration: duty to report on progress](section/16.md)
+  - Review of business appeals procedures
+    - [s. 17 Review of regulators’ complaints and appeals procedures](section/17.md)
+    - [s. 18 Power to specify regulatory functions](section/18.md)
+    - [s. 19 Guidance by the Secretary of State](section/19.md)
+  - Report on investigations under financial regulators’ complaints scheme
+    - [s. 20 Independent Complaints Commissioner: reporting duty](section/20.md)
+  - ...
+    - [s. 21 Duty on Secretary of State to publish business impact target etc](section/21.md)
+    - [s. 22 Sections 21 and 23 to 25: “qualifying regulatory provisions” etc](section/22.md)
+    - [s. 23 Duty on Secretary of State to publish reports](section/23.md)
+    - [s. 24 Additional matters to be included in reports](section/24.md)
+    - [s. 24A Duty on relevant regulators to assess economic impact etc](section/24A.md)
+    - [s. 25 Appointment of body to verify assessments and lists in reports](section/25.md)
+    - [s. 26 Amending the business impact target etc](section/26.md)
+    - [s. 27 Sections 21 to 25 etc: interpretation](section/27.md)
+  - Secondary legislation: duty to review
+    - [s. 28 Duty to review regulatory provisions in secondary legislation](section/28.md)
+    - [s. 29 Section 28(1)(b): interpretation](section/29.md)
+    - [s. 30 Section 28(2)(a): “provision for review”](section/30.md)
+    - [s. 31 Section 28(2)(b): appropriateness of making provision for review](section/31.md)
+    - [s. 32 Sections 28 to 31 etc: supplementary](section/32.md)
+  - Definitions of small and micro business
+    - [s. 33 Definitions of small and micro business](section/33.md)
+    - [s. 34 Small and micro business regulations: further provision](section/34.md)
+  - Home businesses
+    - [s. 35 Exclusion of home businesses from Part 2 of the Landlord and Tenant Act 1954](section/35.md)
+    - [s. 36 Section 35: supplementary and consequential provision](section/36.md)
+  - CMA recommendations
+    - [s. 37 CMA to publish recommendations on proposals for Westminster legislation](section/37.md)
+  - Liability of bodies concerned with accounting standards
+    - [s. 38 Exemption from liability for bodies concerned with accounting standards etc](section/38.md)
+- PART 3 Public sector procurement
+  - [s. 39 Regulations about procurement](section/39.md)
+  - [s. 40 Investigation of procurement functions](section/40.md)
+- PART 4 The Pubs Code Adjudicator and the Pubs Code
+  - The Pubs Code Adjudicator
+    - [s. 41 The Adjudicator](section/41.md)
+  - Pubs Code
+    - [s. 42 Pubs Code](section/42.md)
+    - [s. 43 Pubs Code: market rent only option](section/43.md)
+    - [s. 44 Market rent only option: procedure](section/44.md)
+    - [s. 45 Market rent only option: disputes](section/45.md)
+    - [s. 46 Review of Pubs Code](section/46.md)
+    - [s. 47 Inconsistency with Pubs Code etc](section/47.md)
+  - Arbitration by Adjudicator
+    - [s. 48 Referral for arbitration by tied pub tenants](section/48.md)
+    - [s. 49 Timing of referral for arbitration by tied pub tenants](section/49.md)
+    - [s. 50 Arbitration commenced by pub-owning businesses](section/50.md)
+    - [s. 51 Arbitration: supplementary](section/51.md)
+    - [s. 52 Information about arbitration](section/52.md)
+  - Investigations by Adjudicator
+    - [s. 53 Investigations](section/53.md)
+    - [s. 54 Investigation reports](section/54.md)
+    - [s. 55 Forms of enforcement](section/55.md)
+    - [s. 56 Recommendations](section/56.md)
+    - [s. 57 Requirements to publish information](section/57.md)
+    - [s. 58 Financial penalties](section/58.md)
+    - [s. 59 Recovery of investigation costs](section/59.md)
+  - Advice and guidance by Adjudicator
+    - [s. 60 Advice](section/60.md)
+    - [s. 61 Guidance](section/61.md)
+  - Adjudicator’s reporting requirements
+    - [s. 62 Annual report](section/62.md)
+  - Funding of Adjudicator
+    - [s. 63 Levy funding](section/63.md)
+    - [s. 64 Loans by Secretary of State](section/64.md)
+  - Supervision of Adjudicator
+    - [s. 65 Review of Adjudicator and guidance from Secretary of State](section/65.md)
+    - [s. 66 Abolition of Adjudicator](section/66.md)
+    - [s. 67 Information to Secretary of State](section/67.md)
+  - Supplementary
+    - [s. 68 “Tied pub”](section/68.md)
+    - [s. 69 “Pub-owning business”](section/69.md)
+    - [s. 70 “Tied pub tenant”, “landlord”, “tenancy” and “licence”](section/70.md)
+    - [s. 71 Power to grant exemptions from Pubs Code](section/71.md)
+    - [s. 71A Reports on avoidance](section/71A.md)
+    - [s. 72 Interpretation: other provision](section/72.md)
+    - [s. 73 Regulations under this Part](section/73.md)
+- PART 5 Childcare and schools
+  - [s. 74 Funding for free of charge early years provision](section/74.md)
+  - [s. 75 Exemption from requirement to register as early years provider](section/75.md)
+  - [s. 76 Childminding other than on domestic premises](section/76.md)
+  - [s. 77 Registration of childcare: premises](section/77.md)
+- PART 6 Education evaluation
+  - [s. 78 Assessments of effectiveness](section/78.md)
+  - [s. 79 Qualifications](section/79.md)
+  - [s. 80 Destinations](section/80.md)
+- PART 7 Companies: Transparency
+  - Register of people with significant control
+    - [s. 81 Register of people with significant control](section/81.md)
+    - [s. 82 Review of provisions about PSC registers](section/82.md)
+  - Register of interests disclosed
+    - [s. 83 Amendment of section 813 of the Companies Act 2006](section/83.md)
+  - Abolition of share warrants to bearer
+    - [s. 84 Abolition of share warrants to bearer](section/84.md)
+    - [s. 85 Amendment of company’s articles to reflect abolition of share warrants](section/85.md)
+    - [s. 86 Review of section 84](section/86.md)
+  - Corporate directors
+    - [s. 87 Requirement for all company directors to be natural persons](section/87.md)
+    - [s. 88 Review of section 87](section/88.md)
+  - Shadow directors
+    - [s. 89 Application of directors’ general duties to shadow directors](section/89.md)
+    - [s. 90 Shadow directors: definition](section/90.md)
+    - [s. 91 Shadow directors: provision for Northern Ireland](section/91.md)
+- PART 8 Company filing requirements
+  - Annual return reform
+    - [s. 92 Duty to deliver confirmation statement instead of annual return](section/92.md)
+    - [s. 93 Section 92: related amendments](section/93.md)
+  - Additional information on the register
+    - [s. 94 Option for companies to keep information on central register](section/94.md)
+    - [s. 95 Recording of optional information on register](section/95.md)
+  - Information about dates of birth
+    - [s. 96 Protection of information about a person’s date of birth](section/96.md)
+  - Statements of capital etc
+    - [s. 97 Contents of statements of capital](section/97.md)
+    - [s. 98 Public companies: information about aggregate amount paid up on shares](section/98.md)
+  - Registered office disputes
+    - [s. 99 Address of company registered office](section/99.md)
+  - Director disputes
+    - [s. 100 Company filing requirements: consent to act as director or secretary](section/100.md)
+    - [s. 101 Registrar’s duty to inform new directors of entry in register](section/101.md)
+    - [s. 102 Removal from register of material about directors](section/102.md)
+  - Accelerated strike-off
+    - [s. 103 Reduction in notice periods etc for striking off companies](section/103.md)
+- PART 9 Directors’ disqualification etc
+  - New grounds for disqualification
+    - [s. 104 Convictions abroad](section/104.md)
+    - [s. 105 Persons instructing unfit director](section/105.md)
+  - Determining unfitness
+    - [s. 106 Determining unfitness and disqualifications: matters to be taken into account](section/106.md)
+    - [s. 107 Reports of office-holders on conduct of directors of insolvent companies](section/107.md)
+  - Director disqualification: other amendments
+    - [s. 108 Unfit directors of insolvent companies: extension of period for applying for disqualification order](section/108.md)
+    - [s. 109 Directors: removal of restriction on application for disqualification order](section/109.md)
+  - Compensation awards
+    - [s. 110 Compensation orders and undertakings](section/110.md)
+  - Consequential amendments and corresponding provision for Northern Ireland
+    - [s. 111 Sections 104 to 110: consequential and related amendments](section/111.md)
+    - [s. 112 Provision for Northern Ireland corresponding to sections 104 to 111](section/112.md)
+  - Bankruptcy: Scotland and Northern Ireland
+    - [s. 113 Disqualification as director: bankruptcy, etc in Scotland and Northern Ireland](section/113.md)
+    - [s. 114 Company Directors Disqualification (Northern Ireland) Order 2002: bankruptcy, etc in England and Wales or Scotland](section/114.md)
+    - [s. 115 Disqualification as insolvency practitioner: bankruptcy, etc in Scotland or Northern Ireland](section/115.md)
+    - [s. 116 Disqualification as insolvency practitioner in Northern Ireland: bankruptcy, etc in England and Wales or Scotland](section/116.md)
+- PART 10 Insolvency
+  - Office-holder actions
+    - [s. 117 Power for administrator to bring claim for fraudulent or wrongful trading](section/117.md)
+    - [s. 118 Power for liquidator or administrator to assign causes of action](section/118.md)
+    - [s. 119 Application of proceeds of office-holder claims](section/119.md)
+  - Removing requirements to seek sanction
+    - [s. 120 Exercise of powers by liquidator: removal of need for sanction](section/120.md)
+    - [s. 121 Exercise of powers by trustee in bankruptcy: removal of need for sanction](section/121.md)
+  - Position of creditors
+    - [s. 122 Abolition of requirements to hold meetings: company insolvency](section/122.md)
+    - [s. 123 Abolition of requirements to hold meetings: individual insolvency](section/123.md)
+    - [s. 124 Ability for creditors to opt not to receive certain notices: company insolvency](section/124.md)
+    - [s. 125 Ability for creditors to opt not to receive certain notices: individual insolvency](section/125.md)
+    - [s. 126 Sections 122 to 125: further amendments](section/126.md)
+  - Administration
+    - [s. 127 Extension of administrator’s term of office](section/127.md)
+    - [s. 128 Administration: payments to unsecured creditors](section/128.md)
+    - [s. 129 Administration: sales to connected persons](section/129.md)
+    - [s. 130 Attachment of floating charges on administration (Scotland)](section/130.md)
+  - Small debts
+    - [s. 131 Creditors not required to prove small debts: company insolvency](section/131.md)
+    - [s. 132 Creditors not required to prove small debts: individual insolvency](section/132.md)
+  - Trustees in bankruptcy
+    - [s. 133 Trustees in bankruptcy](section/133.md)
+  - Voluntary arrangements
+    - [s. 134 Time limit for challenging IVAs](section/134.md)
+    - [s. 135 Abolition of fast-track voluntary arrangements](section/135.md)
+  - Progress reports
+    - [s. 136 Voluntary winding-up: progress reports](section/136.md)
+  - Regulation of insolvency practitioners: amendments to existing regime
+    - [s. 137 Recognised professional bodies: recognition](section/137.md)
+    - [s. 138 Regulatory objectives](section/138.md)
+    - [s. 139 Oversight of recognised professional bodies](section/139.md)
+    - [s. 140 Recognised professional bodies: revocation of recognition](section/140.md)
+    - [s. 141 Court sanction of insolvency practitioners in public interest cases](section/141.md)
+    - [s. 142 Power for Secretary of State to obtain information](section/142.md)
+    - [s. 143 Compliance orders](section/143.md)
+  - Power to establish single regulator of insolvency practitioners
+    - [s. 144 Power to establish single regulator of insolvency practitioners](section/144.md)
+    - [s. 145 Regulations under section 144: designation of existing body](section/145.md)
+    - [s. 146 Regulations under section 144: timing and supplementary](section/146.md)
+- PART 11 Employment
+  - Equal pay
+    - [s. 147 Equal pay: transparency](section/147.md)
+  - Whistleblowing
+    - [s. 148 Protected disclosures: reporting requirements](section/148.md)
+    - [s. 149 Protection for applicants for employment etc in the health service](section/149.md)
+  - Employment tribunals
+    - [s. 150 Financial penalty for failure to pay sums ordered by employment tribunal etc](section/150.md)
+    - [s. 151 Employment tribunal procedure regulations: postponements](section/151.md)
+  - National minimum wage
+    - [s. 152 Amount of financial penalty for underpayment of national minimum wage](section/152.md)
+  - Exclusivity in zero hours contracts
+    - [s. 153 Exclusivity terms unenforceable in zero hours contracts](section/153.md)
+  - Public sector exit payments
+    - [s. 153A Regulations to restrict public sector exit payments](section/153A.md)
+    - [s. 153B Supplementary provision about regulations under section 153A](section/153B.md)
+    - [s. 153C Power to relax restriction on public sector exit payments](section/153C.md)
+    - [s. 154 Regulations in connection with repayment of public sector exit payments](section/154.md)
+    - [s. 155 Section 154(1): further provision](section/155.md)
+    - [s. 156 Power to make regulations under section 154(1) to be exercisable by the Treasury or Scottish Ministers](section/156.md)
+    - [s. 157 Power of Secretary of State to waive repayment requirement](section/157.md)
+  - Concessionary coal
+    - [s. 158 Concessionary coal](section/158.md)
+- PART 12 General
+  - [s. 159 Consequential amendments, repeals and revocations](section/159.md)
+  - [s. 160 Transitional, transitory or saving provision](section/160.md)
+  - [s. 161 Supplementary provision about regulations](section/161.md)
+  - [s. 162 Financial provisions](section/162.md)
+  - [s. 163 Extent](section/163.md)
+  - [s. 164 Commencement](section/164.md)
+  - [s. 165 Short title](section/165.md)
+- SCHEDULE 1 The Pubs Code Adjudicator
+  - PART 1 The Pubs Code Adjudicator
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Appointment
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Deputy Adjudicator
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Term of office etc
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Remuneration
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Staff
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Conflicts of interest
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Validity of acts
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Application of seal and proof of documents
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Accounts
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Incidental powers
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Assistance from the Secretary of State
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Exemption from liability for damages
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - PART 2 Information powers of the Pubs Code Adjudicator
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - PART 3 Amendments of legislation
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+- SCHEDULE 2 Registration of childcare: premises
+  - Childcare Act 2006
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Water Industry Act 1991
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Register of people with significant control
+  - PART 1 Duty to obtain information and keep register
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - PART 2 Related amendments
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Abolition of share warrants to bearer
+  - PART 1 Arrangements for conversion and cancellation of existing share warrants
+    - Right of surrender during surrender period
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Consequences of failure to surrender during first 7 months of surrender period
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Second notice of right to surrender
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Expiry of right to surrender and applications for cancellation of outstanding share warrants
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Cancellation orders and suspended cancellation orders
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Registration of reduction of share capital
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Reduction of share capital below authorised minimum in case of public company
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Payment into court in connection with cancellation
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Company with outstanding share warrants: prohibition on striking off
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Notices
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Company filings: language requirements
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Application of sections 1112 and 1113 of the Companies Act 2006
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Offences
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Interpretation
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Transitory provision
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - PART 2 Consequential amendments
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+- SCHEDULE 5 Option to keep information on central register
+  - PART 1 Creation of the option
+    - Register of members
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Register of overseas members
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Register of directors and register of directors’ residential addresses
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Register of secretaries
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - PART 2 Related amendments
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+- SCHEDULE 6 Contents of statements of capital
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 Sections 104 to 110: consequential and related amendments
+  - PART 1 Company Directors Disqualification Act 1986
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - PART 2 Other enactments
+    - Companies (Audit, Investigations and Community Enterprises) Act 2004
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Companies Act 2006
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+- SCHEDULE 8 Northern Ireland: provision corresponding to sections 104 to 111
+  - The Company Directors Disqualification (Northern Ireland) Order 2002
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Convictions abroad
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Determining unfitness and disqualification orders: matters to be taken into account
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Extension of period for applying for disqualification order for unfit directors
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Reports of office-holders on conduct of directors of insolvent companies
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Directors: removal of restriction on application for disqualification order
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Persons instructing unfit director
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Compensation orders and undertakings
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Amendments consequential on, or related to, amendments made by paragraphs 2 to 8
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Abolition of requirements to hold meetings; opted-out creditors
+  - PART 1 Company insolvency
+    - Introductory
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Company voluntary arrangements
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Administration
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Receivers and managers
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Winding-up
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+      - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+      - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+      - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+      - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+      - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+      - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+      - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+      - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+    - Other provision
+      - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+      - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+      - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+      - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+      - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+      - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+  - PART 2 Individual insolvency
+    - Introductory
+      - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+    - Individual voluntary arrangements
+      - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+      - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+      - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+      - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+      - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+      - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+      - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+      - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+      - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+      - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+      - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+      - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+    - Bankruptcy
+      - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+      - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+      - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+      - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
+      - [Sch. 9 para. 77](schedule/9/paragraph/77.md)
+      - [Sch. 9 para. 78](schedule/9/paragraph/78.md)
+      - [Sch. 9 para. 79](schedule/9/paragraph/79.md)
+      - [Sch. 9 para. 80](schedule/9/paragraph/80.md)
+      - [Sch. 9 para. 81](schedule/9/paragraph/81.md)
+      - [Sch. 9 para. 82](schedule/9/paragraph/82.md)
+      - [Sch. 9 para. 83](schedule/9/paragraph/83.md)
+      - [Sch. 9 para. 84](schedule/9/paragraph/84.md)
+      - [Sch. 9 para. 85](schedule/9/paragraph/85.md)
+      - [Sch. 9 para. 86](schedule/9/paragraph/86.md)
+      - [Sch. 9 para. 87](schedule/9/paragraph/87.md)
+    - Other provision
+      - [Sch. 9 para. 88](schedule/9/paragraph/88.md)
+- SCHEDULE 10 Trustees in bankruptcy
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Enterprise and Regulatory Reform Act 2013 (c. 24)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+- SCHEDULE 11 Single regulator of insolvency practitioners: supplementary provision
+  - Operation of this Schedule
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Name, members and chair
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Remuneration etc.
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Staff
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Proceedings
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Fees
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Consultation
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Training and other services
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Report and accounts
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Funding
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Financial penalties
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Status etc.
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Transfer schemes
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Additional provision where body is unincorporated association
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
