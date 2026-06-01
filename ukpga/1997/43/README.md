@@ -1,0 +1,265 @@
+# Crime (Sentences) Act 1997
+
+1997 c. 43. Enacted 1997-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 35 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
+
+Source: https://www.legislation.gov.uk/ukpga/1997/43/2026-06-01
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 Mandatory life sentence for second serious offence.](section/2.md)
+  - [s. 3 Minimum of seven years for third class A drug trafficking offence.](section/3.md)
+  - [s. 4 Minimum of three years for third domestic burglary.](section/4.md)
+  - [s. 5 Appeals where previous convictions set aside.](section/5.md)
+  - [s. 6 Certificates of convictions for purposes of Part I.](section/6.md)
+  - [s. 7 Offences under service law.](section/7.md)
+- Part II Effect of custodial sentences
+  - Chapter I Determinate sentences
+    - General
+      - [s. 8 ................................](section/8.md)
+      - [s. 9 ................................](section/9.md)
+      - [s. 9A ................................](section/9A.md)
+    - Early release
+      - [s. 10 ................................](section/10.md)
+      - [s. 11 ................................](section/11.md)
+      - [s. 12 ................................](section/12.md)
+      - [s. 13 ................................](section/13.md)
+    - Additional days
+      - [s. 14 ................................](section/14.md)
+      - [s. 15 ................................](section/15.md)
+    - Supervision after release
+      - [s. 16 ................................](section/16.md)
+      - [s. 17 ................................](section/17.md)
+      - [s. 18 ................................](section/18.md)
+    - Special cases
+      - [s. 19 ................................](section/19.md)
+      - [s. 20 ................................](section/20.md)
+      - [s. 21 ................................](section/21.md)
+      - [s. 22 ................................](section/22.md)
+      - [s. 23 ................................](section/23.md)
+      - [s. 24 ................................](section/24.md)
+      - [s. 25 ................................](section/25.md)
+    - Supplemental
+      - [s. 26 ................................](section/26.md)
+      - [s. 27 ................................](section/27.md)
+  - Chapter II Life sentences
+    - Sentence of detention during Her Majesty’s pleasure: review of minimum term
+      - [s. 27A Sentence of detention during Her Majesty’s pleasure imposed on a person under 18: application for minimum term review](section/27A.md)
+      - [s. 27B Power of High Court to reduce minimum term](section/27B.md)
+    - Release on licence
+      - [s. 28 Duty to release certain life prisoners.](section/28.md)
+      - [s. 28ZA Public protection decisions](section/28ZA.md)
+      - [s. 28A Murder or manslaughter: prisoner’s non-disclosure of information](section/28A.md)
+      - [s. 28B Indecent images: prisoner’s non-disclosure of information](section/28B.md)
+      - [s. 29 Power to release other life prisoners.](section/29.md)
+      - [s. 30 Power to release life prisoners on compassionate grounds.](section/30.md)
+    - Licences and recall
+      - [s. 31 Duration and conditions of licences.](section/31.md)
+      - [s. 31A Imprisonment or detention for public protection: termination of licences](section/31A.md)
+      - [s. 32 Recall of life prisoners while on licence.](section/32.md)
+      - [s. 32ZZA Imprisonment or detention for public protection: powers in relation to release of recalled prisoners](section/32ZZA.md)
+      - [s. 32ZA Offence of remaining unlawfully at large after recall](section/32ZA.md)
+    - Referral of release decisions to High Court
+      - [s. 32ZAA Referral of release decisions to High Court](section/32ZAA.md)
+      - [s. 32ZAB Specified offences](section/32ZAB.md)
+      - [s. 32ZAC Powers of the High Court](section/32ZAC.md)
+    - Release at the direction of Parole Board
+      - [s. 32ZB Release at direction of Parole Board: timing](section/32ZB.md)
+    - Persons liable to removal from the United Kingdom
+      - [s. 32A Removal of prisoners liable to removal from United Kingdom](section/32A.md)
+      - [s. 32B Re-entry into United Kingdom of offender removed from prison](section/32B.md)
+    - Miscellaneous and supplemental
+      - [s. 33 Life prisoners transferred to England and Wales.](section/33.md)
+      - [s. 33A Life prisoners also serving fixed-term sentence](section/33A.md)
+      - [s. 34 Interpretation of Chapter II.](section/34.md)
+- Part III Miscellaneous and supplemental
+  - Community sentences
+    - [s. 35 Fine defaulters: general.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 ................................](section/38.md)
+  - Driving disqualifications
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 Fine defaulters.](section/40.md)
+  - Transfer and repatriation of prisoners
+    - [s. 41 Transfer of prisoners within the British Islands.](section/41.md)
+    - [s. 42 Repatriation of prisoners to the British Islands.](section/42.md)
+  - Young offenders
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 Publication of reports.](section/45.md)
+  - Mentally disordered offenders
+    - [s. 46 Power to make hospital and limitation directions.](section/46.md)
+    - [s. 47 Power to specify hospital units.](section/47.md)
+    - [s. 48 Offenders conditionally discharged from hospital.](section/48.md)
+    - [s. 49 Other amendments of the 1983 Act.](section/49.md)
+  - Miscellaneous
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 Increased penalty for offence of indecency with children.](section/52.md)
+  - Supplemental
+    - [s. 53 Financial provisions.](section/53.md)
+    - [s. 54 General interpretation.](section/54.md)
+    - [s. 55 Minor and consequential amendments.](section/55.md)
+    - [s. 56 Transitional provisions, savings and repeals.](section/56.md)
+    - [s. 57 Short title, commencement and extent.](section/57.md)
+- SCHEDULE 1 Transfer of prisoners within the British Islands
+  - Part I Powers of transfer
+    - Transfer of prisoners: general
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Transfer of prisoners for trial
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Transfer of prisoners for other judicial purposes
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Transfer of supervision of released prisoners
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Conditions of transfers
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Conditions of transfer under paragraph 1(2A)
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+  - Part II Effect of transfers
+    - Preliminary
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Restricted transfers: general
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Restricted transfers from England and Wales to Scotland
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - ...
+      - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+    - Restricted transfers from England and Wales to Northern Ireland
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Restricted transfers from Scotland to England and Wales
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Restricted transfers from Scotland to Northern Ireland
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Restricted transfers from Northern Ireland to England and Wales
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Restricted transfers from Northern Ireland to Scotland
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Restricted transfers between the United Kingdom and the Channel Islands
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Unrestricted transfers: general
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Transfers ceasing to be restricted
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Part III Supplemental
+    - Prisoners unlawfully at large
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Subsequent sentence in case of transferred prisoners
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Application to the Isle of Man
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Service of process issued in Scotland
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+    - ...
+      - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+    - Interpretation
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Repatriation of prisoners to the British Islands
+  - Preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Prisoners repatriated to England and Wales
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Prisoners repatriated to Scotland
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Prisoners repatriated to Northern Ireland
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Prisoners repatriated to the Islands
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Transfers within the British Islands of responsibility for offenders conditionally discharged from hospital
+  - Part I Amendments of the 1983 Act
+    - Transfers from England and Wales to Scotland
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Transfers from England and Wales to Northern Ireland
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Transfers from Northern Ireland to England and Wales
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Transfers from England and Wales to the Islands
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Transfers from the Islands to England and Wales
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part II Amendments of the 1984 Act
+    - Transfers from Scotland to England and Wales
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Transfers from Scotland to Northern Ireland
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Transfers from Northern Ireland to Scotland
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Transfers from the Islands to Scotland
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Transfers from Scotland to the Islands
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Army Act 1955 (c.18)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Air Force Act 1955 (c.19)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Naval Discipline Act 1957 (c.53)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Children and Young Persons Act 1963 (c.37)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Criminal Justice Act 1967 (c.80)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Criminal Appeal Act 1968 (c.19)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Immigration Act 1971 (c.77)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Powers of Criminal Courts Act 1973 (c.62)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Rehabilitation of Offenders Act 1974 (c.53)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Magistrates’ Courts Act 1980 (c.43)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Criminal Justice Act 1982 (c.48)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Mental Health Act 1983 (c.20)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Criminal Justice Act 1988 (c.33)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Criminal Justice Act 1991 (c.53)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+- SCHEDULE 5 Transitional provisions and savings
+  - Sentences for offences committed before the commencement of Chapter I of Part II
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Consecutive sentences for offences committed before and after that commencement
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Concurrent sentences for offences committed before and after that commencement
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Crediting of periods of remand in custody
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Duty to release certain life prisoners
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Life prisoners transferred to England and Wales
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Recall of life prisoners while on licence
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Transfers of prisoners: general
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Transfers of prisoners from England and Wales to Scotland
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Transfers of prisoners from England and Wales to Northern Ireland
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Transfers of prisoners from Scotland to England and Wales
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Transfers of prisoners from Scotland to Northern Ireland
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Interpretation
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 Repeals
