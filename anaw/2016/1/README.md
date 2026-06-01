@@ -1,0 +1,809 @@
+# Renting Homes (Wales) Act 2016
+
+anaw/2016/1. Enacted 2016-01-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 37 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2016/1
+
+Source: https://www.legislation.gov.uk/anaw/2016/1/2026-06-01
+
+## Contents
+
+- PART 1 OVERVIEW OF ACT
+  - Introduction to Parts 1 and 2 and key concepts in this Act
+    - [s. 1 Occupation contracts](section/1.md)
+    - [s. 2 Kinds of landlord](section/2.md)
+    - [s. 3 Fundamental provisions and supplementary provisions of occupation contracts](section/3.md)
+    - [s. 4 Identifying provisions of this Act which are fundamental provisions](section/4.md)
+  - Overview of rest of Act
+    - [s. 5 Overview of Parts 3 to 9: operation and termination of occupation contracts](section/5.md)
+    - [s. 6 Overview of Parts 10 and 11: general provision](section/6.md)
+- PART 2 OCCUPATION CONTRACTS AND LANDLORDS
+  - CHAPTER 1 OCCUPATION CONTRACTS
+    - [s. 7 Tenancies and licences that are occupation contracts](section/7.md)
+    - [s. 8 Secure contracts and standard contracts](section/8.md)
+  - CHAPTER 2 NATURE OF CONTRACTS WHICH CAN BE MADE ETC. BY COMMUNITY LANDLORDS AND PRIVATE LANDLORDS
+    - Definitions
+      - [s. 9 Community landlords](section/9.md)
+      - [s. 10 Private landlords](section/10.md)
+    - Contracts made with or adopted by community landlords
+      - [s. 11 Contract made with community landlord](section/11.md)
+      - [s. 12 Contract adopted by community landlord](section/12.md)
+      - [s. 13 Notice of standard contract](section/13.md)
+      - [s. 14 Review of notice](section/14.md)
+      - [s. 15 Notice of right to decide to remain on a fixed term standard contract](section/15.md)
+      - [s. 16 Introductory standard contracts](section/16.md)
+    - Contracts made with or adopted by private landlords
+      - [s. 17 Contract made with or adopted by private landlord](section/17.md)
+  - CHAPTER 3 FUNDAMENTAL PROVISIONS OF OCCUPATION CONTRACTS
+    - [s. 18 Fundamental provisions](section/18.md)
+    - [s. 19 Fundamental terms and fundamental provisions: definitions](section/19.md)
+    - [s. 20 Incorporation and modification of fundamental provisions](section/20.md)
+    - [s. 21 Effect of non-incorporation and modification of fundamental provisions](section/21.md)
+    - [s. 22 Powers in relation to fundamental provisions](section/22.md)
+  - CHAPTER 4 SUPPLEMENTARY PROVISIONS OF OCCUPATION CONTRACTS
+    - [s. 23 Supplementary provisions](section/23.md)
+    - [s. 24 Incorporation and modification of supplementary provisions](section/24.md)
+    - [s. 25 Effect of non-incorporation and modification of supplementary provisions](section/25.md)
+  - CHAPTER 5 KEY MATTERS AND ADDITIONAL TERMS OF OCCUPATION CONTRACTS
+    - [s. 26 Key matters of all occupation contracts](section/26.md)
+    - [s. 27 Further key matters of standard contracts](section/27.md)
+    - [s. 28 Additional terms](section/28.md)
+  - CHAPTER 6 MODEL CONTRACTS
+    - [s. 29 Model written statement of contract](section/29.md)
+- PART 3 PROVISIONS APPLYING TO ALL OCCUPATION CONTRACTS
+  - CHAPTER 1 OVERVIEW
+    - [s. 30 Overview of this Part](section/30.md)
+  - CHAPTER 2 PROVISION OF INFORMATION
+    - Written statement of contract
+      - [s. 31 Written statement](section/31.md)
+      - [s. 32 Contents of written statement](section/32.md)
+      - [s. 33 Editorial changes](section/33.md)
+      - [s. 34 Failure to provide a written statement etc.](section/34.md)
+      - [s. 35 Failure to provide statement: compensation](section/35.md)
+      - [s. 36 Incomplete statement](section/36.md)
+      - [s. 37 Incorrect statement: contract-holder’s application to court](section/37.md)
+      - [s. 38 Incorrect statement: landlord’s application to court for declaration that contract is a standard contract](section/38.md)
+    - Provision by landlord of information about landlord
+      - [s. 39 Provision by landlord of information about landlord](section/39.md)
+      - [s. 40 Compensation for breach of section 39](section/40.md)
+    - Form of notices, statements and other documents
+      - [s. 41 Form of notices etc.](section/41.md)
+  - CHAPTER 3 WHEN CONTRACT BECOMES ENFORCEABLE
+    - [s. 42 When terms of occupation contract become enforceable](section/42.md)
+  - CHAPTER 4 DEPOSITS AND DEPOSIT SCHEMES
+    - Security
+      - [s. 43 Form of security](section/43.md)
+      - [s. 44 Form of security: county court proceedings](section/44.md)
+    - Deposit schemes
+      - [s. 45 Requirement to use deposit scheme](section/45.md)
+      - [s. 46 Deposit schemes: further provision](section/46.md)
+      - [s. 47 Deposit schemes: interpretation](section/47.md)
+  - CHAPTER 5 JOINT CONTRACT-HOLDERS AND JOINT LANDLORDS
+    - Joint contract-holders
+      - [s. 48 Joint contract-holders: joint liability etc.](section/48.md)
+      - [s. 49 Adding a joint contract-holder](section/49.md)
+      - [s. 50 Adding a joint contract-holder: landlord’s consent](section/50.md)
+      - [s. 51 Adding a joint contract-holder: formalities](section/51.md)
+    - Joint contract-holders: survivorship
+      - [s. 52 Joint contract-holder ceasing to be a party to the occupation contract](section/52.md)
+    - Joint landlords
+      - [s. 53 Joint landlords](section/53.md)
+  - CHAPTER 6 RIGHT TO OCCUPY WITHOUT INTERFERENCE
+    - [s. 54 Right to occupy without interference from landlord](section/54.md)
+  - Chapter 6A Prohibition of discrimination against people with children and benefits claimants
+    - [s. 54A Right for children to live at or visit dwelling](section/54A.md)
+    - [s. 54B Right to claim benefits](section/54B.md)
+  - CHAPTER 7 ANTI-SOCIAL BEHAVIOUR AND OTHER PROHIBITED CONDUCT
+    - [s. 55 Anti-social behaviour and other prohibited conduct](section/55.md)
+    - [s. 56 Power to amend section 55](section/56.md)
+  - CHAPTER 8 DEALING
+    - Rights to deal with occupation contract
+      - [s. 57 Permissible forms of dealing](section/57.md)
+      - [s. 58 Dealing and landlord’s consent](section/58.md)
+    - Sub-occupation contracts
+      - [s. 59 Sub-occupation contracts: interpretation](section/59.md)
+      - [s. 60 Sub-occupation contract never takes effect as transfer](section/60.md)
+      - [s. 61 Failure to comply with conditions imposed by head landlord](section/61.md)
+      - [s. 62 End of head contract](section/62.md)
+      - [s. 63 End of head contract: further provision](section/63.md)
+      - [s. 64 Possession claim against contract-holder where there is a sub-holder](section/64.md)
+      - [s. 65 Extended possession order against sub-holder](section/65.md)
+      - [s. 66 Exclusion of contract-holder after abandoning contracts](section/66.md)
+      - [s. 67 Excluded contract-holder’s remedies](section/67.md)
+      - [s. 68 Power to vary periods of time relating to exclusion after abandonment of contracts](section/68.md)
+    - Transfer
+      - [s. 69 Form of transfer](section/69.md)
+      - [s. 70 Effect of authorised transfer](section/70.md)
+      - [s. 71 Effect of unauthorised transfer](section/71.md)
+      - [s. 72 Deeds and covenants](section/72.md)
+    - Succession
+      - [s. 73 Succession on death](section/73.md)
+      - [s. 74 Persons qualified to succeed](section/74.md)
+      - [s. 75 Priority successor](section/75.md)
+      - [s. 76 Reserve successor: family member](section/76.md)
+      - [s. 77 Reserve successor: carer](section/77.md)
+      - [s. 78 More than one qualified successor](section/78.md)
+      - [s. 79 Effect of succession](section/79.md)
+      - [s. 80 Substitute succession on early termination](section/80.md)
+      - [s. 81 Effect of substitute succession](section/81.md)
+      - [s. 82 Notice of rights under section 80](section/82.md)
+      - [s. 83 Succession: interpretation](section/83.md)
+  - CHAPTER 9 LANDLORD’S CONSENT
+    - [s. 84 Landlord’s consent: reasonableness](section/84.md)
+    - [s. 85 Application to court relating to consent](section/85.md)
+    - [s. 86 Landlord’s consent: timing](section/86.md)
+  - CHAPTER 10 COMPENSATION
+    - [s. 87 Compensation for failures relating to provision of written statements etc.](section/87.md)
+    - [s. 88 Right of set off](section/88.md)
+- PART 4 CONDITION OF DWELLING
+  - CHAPTER 1 INTRODUCTORY
+    - [s. 89 Application of Part](section/89.md)
+    - [s. 90 Fixed term standard contracts: determining the length of term](section/90.md)
+  - CHAPTER 2 CONDITION OF DWELLING
+    - Landlord’s obligations as to condition of dwelling
+      - [s. 91 Landlord’s obligation: fitness for human habitation](section/91.md)
+      - [s. 92 Landlord’s obligation to keep dwelling in repair](section/92.md)
+      - [s. 93 Obligations under sections 91 and 92: supplementary](section/93.md)
+      - [s. 94 Determination of fitness for human habitation](section/94.md)
+    - Limits on landlord’s obligations under this Chapter
+      - [s. 95 Limits on sections 91 and 92: general](section/95.md)
+      - [s. 96 Limits on sections 91 and 92: contract-holder’s fault](section/96.md)
+      - [s. 97 Limits on sections 91 and 92: notice](section/97.md)
+    - Access to dwellings and rights of permitted occupiers
+      - [s. 98 Landlord’s right to access dwelling](section/98.md)
+      - [s. 99 Rights of permitted occupiers to enforce Chapter](section/99.md)
+  - CHAPTER 3 MISCELLANEOUS
+    - [s. 100 Specific performance](section/100.md)
+    - [s. 101 Waste and tenant-like user](section/101.md)
+- PART 5 PROVISIONS APPLYING ONLY TO SECURE CONTRACTS
+  - CHAPTER 1 OVERVIEW
+    - [s. 102 Overview of Part](section/102.md)
+  - CHAPTER 2 VARIATION OF CONTRACTS
+    - [s. 103 Variation](section/103.md)
+    - [s. 104 Variation of rent](section/104.md)
+    - [s. 105 Variation of other consideration](section/105.md)
+    - [s. 106 Variation of fundamental terms](section/106.md)
+    - [s. 107 Variation of supplementary and additional terms](section/107.md)
+    - [s. 108 Limitation on variation](section/108.md)
+    - [s. 109 Written statement of variation](section/109.md)
+    - [s. 110 Failure to provide written statement etc.](section/110.md)
+  - CHAPTER 3 JOINT CONTRACT-HOLDERS: WITHDRAWAL
+    - [s. 111 Withdrawal](section/111.md)
+    - [s. 112 Withdrawal: power to prescribe time limits](section/112.md)
+  - CHAPTER 4 DEALING
+    - Lodgers
+      - [s. 113 Lodgers](section/113.md)
+    - Transfers
+      - [s. 114 Transfer to potential successor](section/114.md)
+      - [s. 115 Transfer to a potential successor: landlord’s consent](section/115.md)
+  - CHAPTER 5 PROHIBITED CONDUCT STANDARD CONTRACTS
+    - [s. 116 Order imposing periodic standard contract because of prohibited conduct](section/116.md)
+    - [s. 117 Conversion to secure contract](section/117.md)
+  - CHAPTER 6 PROVISIONS APPLYING ONLY TO SECURE CONTRACTS WITH COMMUNITY LANDLORDS
+    - [s. 118 Transfer to another secure contract-holder](section/118.md)
+    - [s. 119 Transfer to another secure contract-holder: landlord’s consent](section/119.md)
+- PART 6 PROVISIONS APPLYING ONLY TO PERIODIC STANDARD CONTRACTS
+  - CHAPTER 1 OVERVIEW
+    - [s. 120 Overview of Part](section/120.md)
+  - CHAPTER 2 EXCLUSION FOR SPECIFIED PERIODS
+    - [s. 121 Exclusion of contract-holder from dwelling for specified periods](section/121.md)
+  - CHAPTER 3 VARIATION OF CONTRACTS
+    - [s. 122 Variation](section/122.md)
+    - [s. 123 Variation of rent](section/123.md)
+    - [s. 124 Variation of other consideration](section/124.md)
+    - [s. 125 Variation of other terms](section/125.md)
+    - [s. 126 Variation by landlord of other terms: notice procedure](section/126.md)
+    - [s. 127 Limitation on variation](section/127.md)
+    - [s. 128 Written statement of variation](section/128.md)
+    - [s. 129 Failure to provide written statement etc.](section/129.md)
+  - CHAPTER 4 JOINT CONTRACT-HOLDERS: WITHDRAWAL
+    - [s. 130 Withdrawal](section/130.md)
+    - [s. 131 Withdrawal: power to prescribe time limits](section/131.md)
+- PART 7 PROVISIONS APPLYING ONLY TO FIXED TERM STANDARD CONTRACTS
+  - CHAPTER 1 OVERVIEW
+    - [s. 132 Overview of Part](section/132.md)
+  - CHAPTER 2 EXCLUSION FOR SPECIFIED PERIODS
+    - [s. 133 Exclusion of contract-holder from dwelling for specified periods](section/133.md)
+  - CHAPTER 3 VARIATION OF CONTRACTS
+    - [s. 134 Variation](section/134.md)
+    - [s. 135 Limitation on variation](section/135.md)
+    - [s. 136 Written statement of variation](section/136.md)
+    - [s. 137 Failure to provide written statement etc.](section/137.md)
+  - CHAPTER 4 JOINT CONTRACT-HOLDERS: WITHDRAWAL
+    - [s. 138 Withdrawal of joint contract-holder using contract-holder’s break clause](section/138.md)
+  - CHAPTER 5 DEALING: TRANSFERS
+    - Sole contract-holder
+      - [s. 139 Transfer on death of sole contract-holder](section/139.md)
+    - Joint contract-holders
+      - [s. 140 Forced transfers](section/140.md)
+      - [s. 141 Joint contract-holder’s interest](section/141.md)
+      - [s. 142 Transfer on death of joint contract-holder](section/142.md)
+- PART 8 SUPPORTED STANDARD CONTRACTS
+  - [s. 143 Supported standard contract and supported accommodation](section/143.md)
+  - [s. 144 Mobility](section/144.md)
+  - [s. 145 Temporary exclusion](section/145.md)
+  - [s. 146 Temporary exclusion: guidance](section/146.md)
+- PART 9 TERMINATION ETC. OF OCCUPATION CONTRACTS
+  - CHAPTER 1 OVERVIEW AND INTRODUCTORY PROVISIONS
+    - Overview
+      - [s. 147 Overview of Part](section/147.md)
+    - Permissible termination, possession claims and notices requiring possession
+      - [s. 148 Permissible termination etc.](section/148.md)
+      - [s. 149 Possession claims](section/149.md)
+      - [s. 150 Possession notices](section/150.md)
+    - Notices requiring possession: introductory standard contracts and prohibited conduct standard contracts
+      - [s. 151 Introductory standard contracts and prohibited conduct standard contracts: notices under sections 173 and 181](section/151.md)
+  - CHAPTER 2 TERMINATION ETC. WITHOUT A POSSESSION CLAIM
+    - [s. 152 Early termination by contract-holder](section/152.md)
+    - [s. 153 Termination by agreement](section/153.md)
+    - [s. 154 Repudiatory breach by landlord](section/154.md)
+    - [s. 155 Death of sole contract-holder](section/155.md)
+    - [s. 156 Death of landlord where occupation contract is a licence](section/156.md)
+  - CHAPTER 3 TERMINATION OF ALL OCCUPATION CONTRACTS (POSSESSION CLAIMS BY LANDLORDS)
+    - Breach of contract
+      - [s. 157 Breach of contract](section/157.md)
+      - [s. 158 False statement inducing landlord to make contract to be treated as breach of contract](section/158.md)
+      - [s. 159 Restrictions on section 157](section/159.md)
+    - Estate management grounds
+      - [s. 160 Estate management grounds](section/160.md)
+      - [s. 161 Restrictions on section 160](section/161.md)
+      - [s. 162 Estate management grounds: redevelopment schemes](section/162.md)
+  - CHAPTER 4 TERMINATION OF SECURE CONTRACTS (CONTRACT-HOLDER’S NOTICE)
+    - [s. 163 Contract-holder’s notice](section/163.md)
+    - [s. 164 Minimum notice period](section/164.md)
+    - [s. 165 Recovery of possession](section/165.md)
+    - [s. 166 Restrictions on section 165](section/166.md)
+    - [s. 167 Termination of contract on contract-holder’s notice](section/167.md)
+  - CHAPTER 5 TERMINATION OF PERIODIC STANDARD CONTRACTS
+    - Termination by contract-holder: contract-holder’s notice
+      - [s. 168 Contract-holder’s notice](section/168.md)
+      - [s. 169 Minimum notice period](section/169.md)
+      - [s. 170 Recovery of possession](section/170.md)
+      - [s. 171 Restrictions on section 170](section/171.md)
+      - [s. 172 Termination of contract on contract-holder’s notice](section/172.md)
+    - Termination by landlord: landlord’s notice
+      - [s. 173 Landlord’s notice](section/173.md)
+      - [s. 174 Minimum notice period](section/174.md)
+      - [s. 174A Minimum notice period: periodic standard contracts within Schedule 8A](section/174A.md)
+      - [s. 175 Restriction on section 173: notice may not be given until after the first six months of occupation](section/175.md)
+      - [s. 176 Restrictions on giving notice under section 173: breaches of statutory obligations](section/176.md)
+      - [s. 177 Restrictions on giving further notices under section 173](section/177.md)
+      - [s. 177A Restriction on giving notice under section 173 following retaliatory possession claim](section/177A.md)
+      - [s. 178 Recovery of possession](section/178.md)
+      - [s. 179 Restriction on section 178](section/179.md)
+      - [s. 180 Termination of contract on landlord’s notice](section/180.md)
+    - Termination by landlord: serious rent arrears
+      - [s. 181 Serious rent arrears](section/181.md)
+      - [s. 182 Restrictions on section 181](section/182.md)
+    - Termination of periodic standard contracts which were fixed term standard contracts
+      - [s. 183 Relevance of events under fixed term standard contract](section/183.md)
+  - CHAPTER 6 FIXED TERM STANDARD CONTRACTS: END OF THE FIXED TERM
+    - [s. 184 End of fixed term](section/184.md)
+    - [s. 185 Written statement may address periodic standard contract arising under section 184(2)](section/185.md)
+  - CHAPTER 7 TERMINATION OF FIXED TERM STANDARD CONTRACTS
+    - End of fixed term: landlord’s notice
+      - [s. 186 Landlord’s notice in connection with end of term of contract within Schedule 9B](section/186.md)
+      - [s. 186A Restrictions on giving notice under section 186: breaches of statutory obligations](section/186A.md)
+    - Termination by landlord: serious rent arrears
+      - [s. 187 Serious rent arrears](section/187.md)
+      - [s. 188 Restrictions on section 187](section/188.md)
+    - Contract-holder’s break clause
+      - [s. 189 Contract-holder’s break clause](section/189.md)
+      - [s. 190 Minimum notice period](section/190.md)
+      - [s. 191 Recovery of possession](section/191.md)
+      - [s. 192 Restrictions on section 191](section/192.md)
+      - [s. 193 Termination of contract under contract-holder’s break clause](section/193.md)
+    - Landlord’s break clause
+      - [s. 194 Landlord’s break clause](section/194.md)
+      - [s. 195 Minimum notice period](section/195.md)
+      - [s. 195A Minimum notice period: fixed term standard contracts within Schedule 8A](section/195A.md)
+      - [s. 196 Restriction on use of landlord’s break clause until after the first 18 months of occupation](section/196.md)
+      - [s. 197 Restrictions on use of landlord’s break clause: breaches of statutory obligations](section/197.md)
+      - [s. 198 Restriction on use of landlord’s break clause following retaliatory possession claim](section/198.md)
+      - [s. 199 Recovery of possession](section/199.md)
+      - [s. 200 Restriction on section 199](section/200.md)
+      - [s. 201 Termination of contract under landlord’s break clause](section/201.md)
+  - CHAPTER 8 REVIEW BY LANDLORD OF DECISION TO GIVE NOTICE REQUIRING POSSESSION
+    - [s. 202 Review of decision to terminate introductory standard contract or prohibited conduct standard contract](section/202.md)
+    - [s. 203 Landlord’s review of decision to give a notice](section/203.md)
+  - CHAPTER 9 POSSESSION CLAIMS: POWERS OF COURT
+    - [s. 204 Possession claims](section/204.md)
+    - [s. 205 Orders for possession](section/205.md)
+    - [s. 206 Effect of order for possession](section/206.md)
+    - [s. 207 Participation in proceedings](section/207.md)
+    - [s. 208 Misrepresentation or concealment of facts used to obtain order for possession](section/208.md)
+  - CHAPTER 10 POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO DISCRETIONARY GROUNDS
+    - [s. 209 Breach of contract ground](section/209.md)
+    - [s. 210 Estate management grounds](section/210.md)
+    - [s. 211 Powers to adjourn proceedings and postpone giving up of possession](section/211.md)
+  - CHAPTER 11 POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO ABSOLUTE GROUNDS
+    - [s. 212 Contract-holder’s notice ground](section/212.md)
+    - [s. 213 Review of claim made on absolute ground](section/213.md)
+    - [s. 214 Powers to postpone giving up of possession](section/214.md)
+  - CHAPTER 12 POSSESSION CLAIMS: POWERS OF COURT IN RELATION TO ABSOLUTE GROUNDS
+    - Absolute grounds for possession relating to standard contracts
+      - [s. 215 Notice grounds](section/215.md)
+      - [s. 216 Serious rent arrears grounds](section/216.md)
+    - Retaliatory eviction: absolute ground that becomes a discretionary ground
+      - [s. 217 Retaliatory possession claims to avoid obligations to repair etc.](section/217.md)
+    - Review and postponement
+      - [s. 218 Review of claim made on absolute ground](section/218.md)
+      - [s. 219 Powers to postpone giving up of possession](section/219.md)
+  - CHAPTER 13 ABANDONMENT
+    - [s. 220 Possession of abandoned dwellings](section/220.md)
+    - [s. 221 Disposal of property](section/221.md)
+    - [s. 222 Contract-holder’s remedies](section/222.md)
+    - [s. 223 Power to vary periods of time relating to abandonment](section/223.md)
+    - [s. 224 Rights of entry](section/224.md)
+  - CHAPTER 14 JOINT CONTRACT-HOLDERS: EXCLUSION AND TERMINATION
+    - Exclusion of joint contract-holders
+      - [s. 225 Non-occupation: exclusion by landlord](section/225.md)
+      - [s. 226 Remedies for exclusion under section 225](section/226.md)
+      - [s. 227 Non-occupation: exclusion by joint contract-holder](section/227.md)
+      - [s. 228 Remedies for exclusion under section 227](section/228.md)
+      - [s. 229 Power to vary periods of time relating to exclusion of joint contract-holder](section/229.md)
+      - [s. 230 Prohibited conduct: exclusion by landlord](section/230.md)
+    - Termination
+      - [s. 231 Termination of occupation contract with joint contract-holders](section/231.md)
+  - CHAPTER 15 FORFEITURE AND NOTICES TO QUIT NOT AVAILABLE
+    - [s. 232 Forfeiture and notices to quit](section/232.md)
+- PART 10 MISCELLANEOUS
+  - CHAPTER 1 FURTHER PROVISIONS RELATING TO OCCUPATION CONTRACTS
+    - Effect of reaching 18
+      - [s. 233 Effect of reaching 18](section/233.md)
+    - Consultation obligations of community landlords
+      - [s. 234 Consultation arrangements](section/234.md)
+      - [s. 235 Statement of consultation arrangements](section/235.md)
+    - Notices, statements and other documents
+      - [s. 236 Form of notices, statements and other documents](section/236.md)
+      - [s. 237 Giving notices, statements and other documents](section/237.md)
+  - CHAPTER 2 TRESPASSERS: IMPLIED TENANCIES AND LICENCES
+    - [s. 238 Implied tenancies and licences](section/238.md)
+  - CHAPTER 3 TENANCIES AND LICENCES EXISTING BEFORE COMMENCEMENT OF THIS CHAPTER
+    - [s. 239 Abolition of assured, secure and other tenancies](section/239.md)
+    - [s. 239A Power to make provision about certain tenancies and licences](section/239A.md)
+    - [s. 240 Conversion of tenancies and licences existing before commencement of Chapter](section/240.md)
+    - [s. 241 Pre-existing contracts](section/241.md)
+    - [s. 242 Interpretation of Chapter](section/242.md)
+- PART 11 FINAL PROVISIONS
+  - Interpretation of Act
+    - [s. 243 Local authority and other authorities](section/243.md)
+    - [s. 244 Landlord, lodger and permitted occupier](section/244.md)
+    - [s. 245 Occupation date of an occupation contract](section/245.md)
+    - [s. 246 Dwelling](section/246.md)
+    - [s. 247 Meaning of “variation” of occupation contract](section/247.md)
+    - [s. 248 The court](section/248.md)
+    - [s. 249 Lease, tenancy and related expressions](section/249.md)
+    - [s. 250 Members of a family](section/250.md)
+    - [s. 251 Family property order](section/251.md)
+    - [s. 252 Minor definitions](section/252.md)
+    - [s. 253 Index of terms](section/253.md)
+  - Crown application
+    - [s. 254 Crown application](section/254.md)
+  - Consequential and transitional provision etc.
+    - [s. 255 Power to make consequential and transitional provision etc.](section/255.md)
+  - Regulations
+    - [s. 256 Regulations](section/256.md)
+  - Coming into force and short title
+    - [s. 257 Coming into force](section/257.md)
+    - [s. 258 Short title](section/258.md)
+- SCHEDULE 1 OVERVIEW OF FUNDAMENTAL PROVISIONS INCORPORATED AS TERMS OF OCCUPATION CONTRACTS
+  - PART 1 SECURE CONTRACTS
+  - PART 2 PERIODIC STANDARD CONTRACTS
+  - PART 3 FIXED TERM STANDARD CONTRACTS
+- SCHEDULE 2 EXCEPTIONS TO SECTION 7
+  - PART 1 TENANCIES AND LICENCES NOT WITHIN SECTION 7 THAT ARE OCCUPATION CONTRACTS IF NOTICE IS GIVEN
+    - The rule
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Contracts for another’s benefit: further provision
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - PART 2 TENANCIES AND LICENCES WITHIN SECTION 7 THAT ARE NOT OCCUPATION CONTRACTS UNLESS NOTICE IS GIVEN
+    - The rule
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Meaning of “care institution”
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Meaning of “temporary expedient”
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Meaning of “shared accommodation”
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - PART 3 TENANCIES AND LICENCES THAT ARE NEVER OCCUPATION CONTRACTS
+    - The rule
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Meaning of “long tenancy”
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Meaning of “armed forces accommodation”
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Meaning of “direct access accommodation”
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 10A Meaning of “private sector temporary homelessness accommodation”](schedule/2/paragraph/10A.md)
+  - PART 4 TENANCIES AND LICENCES TO WHICH SPECIAL RULES APPLY: HOMELESSNESS
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - PART 5 TENANCIES AND LICENCES TO WHICH SPECIAL RULES APPLY: SUPPORTED ACCOMMODATION
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Meaning of relevant period where there are previous contracts
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Extending the relevant period
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - County court review of decision to extend
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - PART 6 POWER TO AMEND SCHEDULE
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 OCCUPATION CONTRACTS MADE WITH OR ADOPTED BY COMMUNITY LANDLORDS WHICH MAY BE STANDARD CONTRACTS
+  - Occupation contracts by notice
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Supported accommodation
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Introductory occupation
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - ...
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Accommodation for displaced persons
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Accommodation for homeless persons
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Service occupancy: general
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Service occupancy: police
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Service occupancy: fire and rescue services
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Student accommodation
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Temporary accommodation: land acquired for development
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Temporary accommodation: persons taking up employment
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Temporary accommodation: short-term arrangements
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Temporary accommodation: accommodation during works
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Accommodation which is not social accommodation
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Dwellings intended for transfer
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Power to amend Schedule
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 INTRODUCTORY STANDARD CONTRACTS
+  - Introductory period
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Meaning of introduction date where there are previous introductory standard contracts
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Extending the introductory period
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Landlord’s review of decision to extend introductory period
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - County court review of decision to extend
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Written statement may address secure contract arising at end of introductory standard contract
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Terms of secure contract which was an introductory standard contract
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Landlord’s duty to give address at start of contract does not apply in relation to secure contract
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 DEPOSIT SCHEMES: FURTHER PROVISION
+  - Deposit schemes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Authorised deposit schemes: proceedings where the occupation contract has not ended
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Authorised deposit schemes: proceedings where the occupation contract has ended
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Existing deposit used in connection with a renewed or other kind of substitute occupation contract
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Power to amend Schedule
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 REASONABLENESS OF WITHHOLDING CONSENT ETC.
+  - PART 1 INTRODUCTORY
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - PART 2 CIRCUMSTANCES WHICH MAY BE RELEVANT TO REASONABLENESS GENERALLY
+    - Status of occupation contract
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - The dwelling
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Circumstances of contract-holder and other occupiers
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Circumstances of landlord
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - PART 3 CIRCUMSTANCES WHICH MAY BE RELEVANT TO REASONABLENESS IN RELATION TO PARTICULAR TRANSACTIONS
+    - Section 49: proposed joint contract-holder
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Section 114: transfer to potential successor in relation to a secure contract
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Section 118: transfer to secure contract-holder in relation to a secure contract with a community landlord
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+- SCHEDULE 7 PROHIBITED CONDUCT STANDARD CONTRACTS
+  - Procedure on application for an order under section 116
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Terms of prohibited conduct standard contract
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Probation period
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Extending probation period
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Landlord’s review of decision to extend probation period
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - County court review of decision to extend probation period
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Application to court to end probation period
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Terms of secure contract that was a prohibited conduct standard contract
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 ESTATE MANAGEMENT GROUNDS
+  - PART 1 THE GROUNDS
+    - REDEVELOPMENT GROUNDS
+      - Ground A (building works)
+        - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - Ground B (redevelopment schemes)
+        - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - SPECIAL ACCOMMODATION GROUNDS
+      - Ground C (charities)
+        - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - Ground D (dwelling suitable for disabled people)
+        - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - Ground E (housing associations and housing trusts: people difficult to house)
+        - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - Ground F (groups of dwellings for people with special needs)
+        - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - UNDER-OCCUPATION GROUNDS
+      - Ground G (reserve successors)
+        - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - Ground H (joint contract-holders)
+        - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - OTHER ESTATE MANAGEMENT REASONS
+      - Ground I (other estate management reasons)
+        - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - FUNDAMENTAL PROVISION
+      - Fundamental provision applicable to all occupation contracts
+        - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - PART 2 APPROVAL OF REDEVELOPMENT SCHEMES FOR PURPOSES OF GROUND B
+    - Approval of scheme and of variation of scheme
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Notice to contract-holders affected
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Decision on approval or variation
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Scheme affecting part of dwelling etc.
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Conditions in relation to approval
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Special provision for community landlords
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+- SCHEDULE 8A STANDARD CONTRACTS WHICH CAN BE TERMINATED ON TWO MONTHS’ NOTICE UNDER SECTION 173 OR A LANDLORD’S BREAK CLAUSE
+  - Prohibited conduct standard contracts
+    - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+  - Tenancies and licences which are occupation contracts because of notice given under Part 2 of Schedule 2
+    - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+  - Accommodation for students in higher education
+    - [Sch. 8A para. 3](schedule/8A/paragraph/3.md)
+  - Supported accommodation
+    - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+  - ...
+    - [Sch. 8A para. 5](schedule/8A/paragraph/5.md)
+  - Accommodation for homeless persons
+    - [Sch. 8A para. 6](schedule/8A/paragraph/6.md)
+  - Service occupancy
+    - [Sch. 8A para. 7](schedule/8A/paragraph/7.md)
+  - Service occupancy: police
+    - [Sch. 8A para. 8](schedule/8A/paragraph/8.md)
+  - Service occupancy: fire and rescue services
+    - [Sch. 8A para. 9](schedule/8A/paragraph/9.md)
+  - Temporary accommodation: land acquired for development
+    - [Sch. 8A para. 10](schedule/8A/paragraph/10.md)
+  - Temporary accommodation: short-term arrangements
+    - [Sch. 8A para. 11](schedule/8A/paragraph/11.md)
+  - Temporary accommodation: accommodation during works
+    - [Sch. 8A para. 12](schedule/8A/paragraph/12.md)
+  - Power to amend Schedule
+    - [Sch. 8A para. 13](schedule/8A/paragraph/13.md)
+- SCHEDULE 9 STANDARD CONTRACTS TO WHICH LIMITS IN SECTIONS 175 ... AND 196 (WHEN LANDLORD’S NOTICE MAY BE GIVEN) DO NOT APPLY
+  - Prohibited conduct standard contracts
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Tenancies and licences which are occupation contracts because of notice given under Part 2 of Schedule 2
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Supported accommodation
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - ...
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Accommodation for displaced persons
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Accommodation for homeless persons
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Service occupancy
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Service occupancy: police
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Service occupancy: fire and rescue services
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Temporary accommodation: land acquired for development
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Temporary accommodation: short-term arrangements
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Temporary accommodation: accommodation during works
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Power to amend Schedule
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+- SCHEDULE 9A STANDARD CONTRACTS: RESTRICTIONS ON GIVING NOTICE UNDER SECTION 173, UNDER SECTION 186, AND UNDER A LANDLORD’S BREAK CLAUSE
+  - PART 1 THE RESTRICTIONS
+    - Failure to provide written statement
+      - [Sch. 9A para. 1](schedule/9A/paragraph/1.md)
+    - Six month restriction following failure to provide written statement within the period specified in section 31
+      - [Sch. 9A para. 2](schedule/9A/paragraph/2.md)
+    - Failure to provide information
+      - [Sch. 9A para. 3](schedule/9A/paragraph/3.md)
+    - Failure to provide valid energy performance certificate
+      - [Sch. 9A para. 3A](schedule/9A/paragraph/3A.md)
+    - Breach of security and deposit requirements
+      - [Sch. 9A para. 4](schedule/9A/paragraph/4.md)
+    - Prohibited payments and holding deposits under the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019 (anaw 2)
+      - [Sch. 9A para. 5](schedule/9A/paragraph/5.md)
+    - Failure to ensure that working smoke alarms and carbon monoxide alarms are installed
+      - [Sch. 9A para. 5A](schedule/9A/paragraph/5A.md)
+    - Failure to supply electrical condition report etc.
+      - [Sch. 9A para. 5B](schedule/9A/paragraph/5B.md)
+    - Failure to provide gas safety report to contract-holder
+      - [Sch. 9A para. 5C](schedule/9A/paragraph/5C.md)
+    - Meaning of “notice”
+      - [Sch. 9A para. 6](schedule/9A/paragraph/6.md)
+  - PART 2 FURTHER PROVISION
+    - Fundamental provision
+      - [Sch. 9A para. 7](schedule/9A/paragraph/7.md)
+    - Power to amend Schedule
+      - [Sch. 9A para. 8](schedule/9A/paragraph/8.md)
+- SCHEDULE 9B FIXED TERM STANDARD CONTRACTS WHICH CAN BE TERMINATED BY GIVING NOTICE UNDER SECTION 186
+  - Tenancies and licences which are occupation contracts because of notice given under Part 2 of Schedule 2
+    - [Sch. 9B para. 1](schedule/9B/paragraph/1.md)
+  - Supported accommodation
+    - [Sch. 9B para. 2](schedule/9B/paragraph/2.md)
+  - ...
+    - [Sch. 9B para. 3](schedule/9B/paragraph/3.md)
+  - Accommodation for homeless persons
+    - [Sch. 9B para. 4](schedule/9B/paragraph/4.md)
+  - Service occupancy
+    - [Sch. 9B para. 5](schedule/9B/paragraph/5.md)
+  - Service occupancy: police
+    - [Sch. 9B para. 6](schedule/9B/paragraph/6.md)
+  - Service occupancy: fire and rescue services
+    - [Sch. 9B para. 7](schedule/9B/paragraph/7.md)
+  - Temporary accommodation: land acquired for development
+    - [Sch. 9B para. 8](schedule/9B/paragraph/8.md)
+  - Temporary accommodation: short-term arrangements
+    - [Sch. 9B para. 9](schedule/9B/paragraph/9.md)
+  - Temporary accommodation: accommodation during works
+    - [Sch. 9B para. 10](schedule/9B/paragraph/10.md)
+  - Power to amend Schedule
+    - [Sch. 9B para. 11](schedule/9B/paragraph/11.md)
+- SCHEDULE 9C FIXED TERM STANDARD CONTRACTS WHICH MAY CONTAIN A LANDLORD’S BREAK CLAUSE EVEN IF MADE FOR A TERM OF LESS THAN TWO YEARS
+  - Tenancies and licences which are occupation contracts because of notice given under Part 2 of Schedule 2
+    - [Sch. 9C para. 1](schedule/9C/paragraph/1.md)
+  - Supported accommodation
+    - [Sch. 9C para. 2](schedule/9C/paragraph/2.md)
+  - ...
+    - [Sch. 9C para. 3](schedule/9C/paragraph/3.md)
+  - Accommodation for homeless persons
+    - [Sch. 9C para. 4](schedule/9C/paragraph/4.md)
+  - Service occupancy
+    - [Sch. 9C para. 5](schedule/9C/paragraph/5.md)
+  - Service occupancy: police
+    - [Sch. 9C para. 6](schedule/9C/paragraph/6.md)
+  - Service occupancy: fire and rescue services
+    - [Sch. 9C para. 7](schedule/9C/paragraph/7.md)
+  - Temporary accommodation: land acquired for development
+    - [Sch. 9C para. 8](schedule/9C/paragraph/8.md)
+  - Temporary accommodation: short-term arrangements
+    - [Sch. 9C para. 9](schedule/9C/paragraph/9.md)
+  - Temporary accommodation: accommodation during works
+    - [Sch. 9C para. 10](schedule/9C/paragraph/10.md)
+  - Power to amend Schedule
+    - [Sch. 9C para. 11](schedule/9C/paragraph/11.md)
+- SCHEDULE 10 ORDERS FOR POSSESSION ON DISCRETIONARY GROUNDS ETC.: REASONABLENESS
+  - Introductory
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Circumstances as regards the contract-holder
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Circumstances as regards the landlord
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Circumstances as regards other persons
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - New occupation contract offered
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Circumstances in relation to a possession claim on ground of breach of contract
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Circumstances in relation to a possession claim concerning section 55
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Circumstances relating to estate management Ground G
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Circumstances relating to estate management Ground H
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Assistance in relation to homelessness not relevant
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+- SCHEDULE 11 SUITABLE ALTERNATIVE ACCOMMODATION
+  - Introductory
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Estate management grounds: certificate of local housing authority
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Suitable accommodation
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Needs of contract-holder and his or her family
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Overcrowding
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Evidence of certificate of local housing authority
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+- SCHEDULE 12 CONVERSION OF TENANCIES AND LICENCES EXISTING BEFORE COMMENCEMENT OF CHAPTER 3 OF PART 10
+  - Definitions
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Determination of whether existing tenancy or licence is occupation contract
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 2A](schedule/12/paragraph/2A.md)
+  - Determination of whether converted contract is secure contract or standard contract
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 6A](schedule/12/paragraph/6A.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Written statement of converted contract and provision of information
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 11A](schedule/12/paragraph/11A.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 12A](schedule/12/paragraph/12A.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Deposit Schemes
+    - [Sch. 12 para. 13A](schedule/12/paragraph/13A.md)
+  - Variation
+    - [Sch. 12 para. 13B](schedule/12/paragraph/13B.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - Waste and tenant-like user
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - Dealing
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - Succession
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+  - Requirement to occupy dwelling as main home under certain converted contracts
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+  - Introductory standard contracts
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+  - Prohibited conduct standard contract
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+  - Supported standard contract that was an assured shorthold tenancy
+    - [Sch. 12 para. 24A](schedule/12/paragraph/24A.md)
+  - Termination of contract by landlord
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 25A](schedule/12/paragraph/25A.md)
+    - [Sch. 12 para. 25B](schedule/12/paragraph/25B.md)
+    - [Sch. 12 para. 25C](schedule/12/paragraph/25C.md)
+    - [Sch. 12 para. 25D](schedule/12/paragraph/25D.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+  - Termination of contract that was assured tenancy by landlord: additional absolute grounds for possession
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 29A](schedule/12/paragraph/29A.md)
+  - Implied tenancies and licences
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+  - The occupation date
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+  - Substitute occupation contracts
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+  - Power to amend Schedule
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
