@@ -1,0 +1,268 @@
+# Housing (Wales) Act 2014
+
+anaw/2014/7. Enacted 2014-09-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 180 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2014/7
+
+Source: https://www.legislation.gov.uk/anaw/2014/7/2026-06-01
+
+## Contents
+
+- PART 1 REGULATION OF PRIVATE RENTED HOUSING
+  - Introduction
+    - [s. 1 Overview of this Part](section/1.md)
+    - [s. 2 Meaning of key terms](section/2.md)
+    - [s. 3 Licensing authority](section/3.md)
+  - Prohibition of letting and management without registration and licence
+    - [s. 4 Requirement for a landlord to be registered](section/4.md)
+    - [s. 5 Exceptions to the requirement for a landlord to be registered](section/5.md)
+    - [s. 6 Requirement for landlords to be licensed to carry out lettings activities](section/6.md)
+    - [s. 7 Requirement for landlords to be licensed to carry out property management activities](section/7.md)
+    - [s. 8 Exceptions to requirements for landlords to be licensed](section/8.md)
+    - [s. 9 Requirement for agents to be licensed to carry out lettings work](section/9.md)
+    - [s. 10 Meaning of lettings work](section/10.md)
+    - [s. 11 Requirement for agents to be licensed to carry out property management work](section/11.md)
+    - [s. 12 Meaning of property management work](section/12.md)
+    - [s. 13 Offence of appointing an unlicensed agent](section/13.md)
+  - Registration
+    - [s. 14 Duty to maintain register in relation to rental properties](section/14.md)
+    - [s. 15 Registration by a licensing authority](section/15.md)
+    - [s. 16 Duty to update information](section/16.md)
+    - [s. 17 Revocation of registration](section/17.md)
+  - Licensing
+    - [s. 18 Licences that may be granted](section/18.md)
+    - [s. 19 Licence application requirements](section/19.md)
+    - [s. 20 Fit and proper person requirement](section/20.md)
+    - [s. 21 Determination of application](section/21.md)
+    - [s. 22 Licence conditions](section/22.md)
+    - [s. 23 Duty to update information](section/23.md)
+    - [s. 24 Amendment of licence](section/24.md)
+    - [s. 25 Revocation of licence](section/25.md)
+    - [s. 26 Expiry and renewal of licence](section/26.md)
+    - [s. 27 Licensing appeals](section/27.md)
+  - Enforcement
+    - [s. 28 Prosecution by a licensing authority or a local housing authority](section/28.md)
+    - [s. 29 Fixed penalty notices](section/29.md)
+    - [s. 30 Rent stopping orders](section/30.md)
+    - [s. 31 Revocation of rent stopping orders](section/31.md)
+    - [s. 32 Rent repayment orders](section/32.md)
+    - [s. 33 Rent repayment orders: further provision](section/33.md)
+    - [s. 34 Power for Welsh Ministers to make regulations in relation to sections 32 and 33](section/34.md)
+    - [s. 35 Offences by bodies corporate](section/35.md)
+  - Information
+    - [s. 36 Requests for information from authorities and use of information by authorities](section/36.md)
+    - [s. 37 Power to require documents to be produced or information given](section/37.md)
+    - [s. 38 Enforcement of powers to obtain information](section/38.md)
+    - [s. 39 False or misleading information](section/39.md)
+  - Powers of the Welsh Ministers
+    - [s. 40 Code of practice](section/40.md)
+    - [s. 41 Guidance](section/41.md)
+    - [s. 42 Directions](section/42.md)
+  - Supplementary
+    - [s. 42A Crown Application: Part 1](section/42A.md)
+    - [s. 43 Activity in contravention of this Part: effect on tenancy agreements](section/43.md)
+    - [s. 44 Restriction on terminating tenancies](section/44.md)
+    - [s. 45 Landlords who are trustees](section/45.md)
+    - [s. 46 Regulations about fees](section/46.md)
+    - [s. 47 Information about applications](section/47.md)
+    - [s. 48 Giving notification etc. under this Part](section/48.md)
+  - General
+    - [s. 49 Interpretation of this Part and index of defined terms](section/49.md)
+- PART 2 HOMELESSNESS
+  - CHAPTER 1 HOMELESSNESS REVIEWS AND STRATEGIES
+    - [s. 50 Duty to carry out a homelessness review and formulate a homelessness strategy](section/50.md)
+    - [s. 51 Homelessness reviews](section/51.md)
+    - [s. 52 Homelessness strategies](section/52.md)
+  - CHAPTER 2 HELP FOR PEOPLE WHO ARE HOMELESS OR THREATENED WITH HOMELESSNESS
+    - Introduction
+      - [s. 53 Overview of this Chapter](section/53.md)
+    - Key terms
+      - [s. 54 Application of key terms](section/54.md)
+      - [s. 55 Meaning of homeless and threatened homelessness](section/55.md)
+      - [s. 56 Meaning of accommodation available for occupation](section/56.md)
+      - [s. 57 Whether it is reasonable to continue to occupy accommodation](section/57.md)
+      - [s. 58 Meaning of abuse and domestic abuse](section/58.md)
+      - [s. 59 Suitability of accommodation](section/59.md)
+    - Information, advice and assistance in accessing help
+      - [s. 60 Duty to provide information, advice and assistance in accessing help](section/60.md)
+    - Eligibility
+      - [s. 61 Eligibility for help under this Chapter](section/61.md)
+    - Applications for help and assessment
+      - [s. 62 Duty to assess](section/62.md)
+      - [s. 63 Notice of the outcome of assessment](section/63.md)
+    - Duties to help applicants
+      - [s. 64 How to secure or help to secure the availability of accommodation](section/64.md)
+      - [s. 65 Meaning of help to secure](section/65.md)
+      - [s. 66 Duty to help to prevent an applicant from becoming homeless](section/66.md)
+      - [s. 67 Circumstances in which the duty in section 66 ends](section/67.md)
+      - [s. 68 Interim duty to secure accommodation for homeless applicants in priority need](section/68.md)
+      - [s. 69 Circumstances in which the duty in section 68 ends](section/69.md)
+      - [s. 70 Priority need for accommodation](section/70.md)
+      - [s. 71 Meaning of vulnerable in section 70](section/71.md)
+      - [s. 72 Power to amend or repeal provisions about priority need for accommodation](section/72.md)
+      - [s. 73 Duty to help to secure accommodation for homeless applicants](section/73.md)
+      - [s. 74 Circumstances in which the duty in section 73 ends](section/74.md)
+      - [s. 75 Duty to secure accommodation for applicants in priority need when the duty in section 73 ends](section/75.md)
+      - [s. 76 Circumstances in which the duty in section 75 ends](section/76.md)
+      - [s. 77 Meaning of intentionally homeless](section/77.md)
+      - [s. 78 Deciding to have regard to intentionality](section/78.md)
+      - [s. 79 Further circumstances in which the duties to help applicants end](section/79.md)
+    - Referral to another local housing authority
+      - [s. 80 Referral of case to another local housing authority](section/80.md)
+      - [s. 81 Local connection](section/81.md)
+      - [s. 82 Duties to applicant whose case is considered for referral or referred](section/82.md)
+      - [s. 83 Cases referred from a local housing authority in England](section/83.md)
+    - Notice
+      - [s. 84 Notice that duties have ended](section/84.md)
+    - Right to review and appeal
+      - [s. 85 Right to request review](section/85.md)
+      - [s. 86 Procedure on review](section/86.md)
+      - [s. 87 Effect of a decision on review or appeal that reasonable steps were not taken](section/87.md)
+      - [s. 88 Right of appeal to county court on point of law](section/88.md)
+      - [s. 89 Appeals against refusal to accommodate pending appeal](section/89.md)
+    - Supplementary provisions
+      - [s. 90 Charges](section/90.md)
+      - [s. 91 Out-of-area placement](section/91.md)
+      - [s. 92 Interim accommodation in England: arrangements with private landlord](section/92.md)
+      - [s. 92A Accommodation in Wales](section/92A.md)
+      - [s. 93 Protection of property](section/93.md)
+      - [s. 94 Protection of property: supplementary provisions](section/94.md)
+      - [s. 95 Co-operation](section/95.md)
+      - [s. 96 Co-operation in certain cases involving children](section/96.md)
+    - General
+      - [s. 97 False statements, withholding information and failure to disclose change of circumstances](section/97.md)
+      - [s. 98 Guidance](section/98.md)
+      - [s. 99 Interpretation of this Chapter and index of defined terms](section/99.md)
+      - [s. 100 Consequential amendments](section/100.md)
+- PART 3 GYPSIES AND TRAVELLERS
+  - Meeting accommodation needs
+    - [s. 101 Assessment of accommodation needs](section/101.md)
+    - [s. 102 Report following assessment](section/102.md)
+    - [s. 103 Duty to meet assessed needs](section/103.md)
+    - [s. 104 Failure to comply with duty under section 103](section/104.md)
+    - [s. 105 Provision of information upon request](section/105.md)
+    - [s. 106 Guidance](section/106.md)
+    - [s. 107 Duties in relation to housing strategies](section/107.md)
+  - General
+    - [s. 108 Interpretation](section/108.md)
+    - [s. 109 Power to amend definition of Gypsies and Travellers](section/109.md)
+    - [s. 110 Consequential amendments](section/110.md)
+- PART 4 STANDARDS FOR SOCIAL HOUSING
+  - Standards for housing provided by local housing authorities
+    - [s. 111 Standards](section/111.md)
+    - [s. 112 Guidance](section/112.md)
+    - [s. 113 Consultation on standards and guidance](section/113.md)
+    - [s. 114 Information on compliance with standards](section/114.md)
+    - [s. 115 Powers of entry](section/115.md)
+    - [s. 116 Exercise of intervention powers](section/116.md)
+    - [s. 117 Grounds for intervention](section/117.md)
+    - [s. 118 Warning notice](section/118.md)
+    - [s. 119 Power of Welsh Ministers to intervene](section/119.md)
+    - [s. 120 Power to require local housing authority to obtain advisory services](section/120.md)
+    - [s. 121 Power to require performance of functions by other persons on behalf of authority](section/121.md)
+    - [s. 122 Power to require performance of functions by Welsh Ministers or nominee](section/122.md)
+    - [s. 123 Power to direct exercise of other local housing authority functions](section/123.md)
+    - [s. 124 General power to give directions and take steps](section/124.md)
+    - [s. 125 Directions](section/125.md)
+    - [s. 126 Duty to co-operate](section/126.md)
+    - [s. 127 Powers of entry and inspection](section/127.md)
+  - Service charges for social housing
+    - [s. 128 Exemption from offences relating to service charges for social housing](section/128.md)
+    - [s. 129 Application of duties relating to service charges to local authority tenancies](section/129.md)
+  - General
+    - [s. 130 Consequential amendments](section/130.md)
+- PART 5 HOUSING FINANCE
+  - Housing Revenue Account subsidy
+    - [s. 131 Abolition of Housing Revenue Account subsidy](section/131.md)
+  - Payments in relation to Housing Revenue Accounts
+    - [s. 132 Settlement payments](section/132.md)
+    - [s. 133 Further payments](section/133.md)
+    - [s. 134 Additional provision about payments](section/134.md)
+  - General provision
+    - [s. 135 Provision of information upon request](section/135.md)
+    - [s. 136 Determinations under this Part](section/136.md)
+- PART 6 ALLOWING FULLY MUTUAL HOUSING ASSOCIATIONS TO GRANT ASSURED TENANCIES
+  - [s. 137 Amendment of Schedule 1 to the Housing Act 1988](section/137.md)
+  - [s. 138 Amendment of Schedule 2 to the Housing Act 1988](section/138.md)
+- PART 7 COUNCIL TAX FOR CERTAIN TYPES OF DWELLING
+  - [s. 139 Amount of tax payable for certain types of dwelling](section/139.md)
+- PART 8 AMENDMENT OF THE LEASEHOLD REFORM, HOUSING AND URBAN DEVELOPMENT ACT 1993
+  - [s. 140 Amendment of the Leasehold Reform, Housing and Urban Development Act 1993](section/140.md)
+- PART 9 MISCELLANEOUS AND GENERAL
+  - Miscellaneous
+    - [s. 141 Minor amendments to the Mobile Homes (Wales) Act 2013](section/141.md)
+  - General
+    - [s. 142 Orders and regulations](section/142.md)
+    - [s. 143 Meaning of local housing authority](section/143.md)
+    - [s. 144 Power to make consequential and transitional provision etc](section/144.md)
+    - [s. 145 Commencement](section/145.md)
+    - [s. 146 Short title](section/146.md)
+- SCHEDULE 1 REGISTER OF PRIVATE RENTED HOUSING
+  - PART 1 CONTENT OF REGISTER
+    - Landlords
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Agents
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - PART 2 ACCESS TO REGISTER
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 ELIGIBILITY FOR HELP UNDER CHAPTER 2 OF PART 2
+  - Persons not eligible for help
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Asylum-seekers and their dependants: transitional provision
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Provision of information by Secretary of State
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 HOMELESSNESS
+    - Housing Act 1985
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Housing Act 1996
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Homelessness Act 2002
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Mental Health (Wales) Measure 2010
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Legal Aid, Sentencing and Punishment of Offenders Act 2012
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Prevention of Social Housing Fraud Act 2013
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Social Services and Well-being (Wales) Act 2014
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - PART 2 GYPSIES AND TRAVELLERS
+    - Local Government Act 2003
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Housing Act 2004
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Housing (Assessment of Accommodation Needs) (Meaning of Gypsies and Travellers) (Wales) Regulations 2007 (S.I. 2007/3235)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Mobile Homes (Wales) Act 2013
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - PART 3 STANDARDS FOR SOCIAL HOUSING
+    - Housing Act 1985
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Housing Act 1996
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - PART 4 COUNCIL TAX FOR CERTAIN TYPES OF DWELLING
+    - Local Government Finance Act 1992
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - PART 5 AMENDMENTS TO THE MOBILE HOMES (WALES) ACT 2013
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
