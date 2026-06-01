@@ -1,0 +1,125 @@
+# Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019
+
+anaw/2019/2. Enacted 2019-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2019/2
+
+Source: https://www.legislation.gov.uk/anaw/2019/2/2026-06-01
+
+## Contents
+
+- PART 1 Overview
+  - [s. 1 Overview of Act](section/1.md)
+- PART 2 Prohibition of certain payments etc.
+  - [s. 2 Prohibitions applying to landlords](section/2.md)
+  - [s. 3 Prohibitions applying to letting agents](section/3.md)
+  - [s. 4 Prohibited and permitted payments](section/4.md)
+  - [s. 5 Non-binding contract terms](section/5.md)
+  - [s. 6 Application of sections 2 to 5 to pre-existing requirements and contracts](section/6.md)
+  - [s. 7 Power to amend definition of “permitted payment”](section/7.md)
+  - [s. 8 Meaning of “letting agent”, “lettings work” and “property management work”](section/8.md)
+- Part 2A Prohibition of discrimination
+  - [s. 8A Prohibition of discrimination relating to children](section/8A.md)
+  - [s. 8B Prohibition of discrimination relating to benefits status](section/8B.md)
+  - [s. 8C Exception for publication of advertisements etc](section/8C.md)
+  - [s. 8D Continuing breach of prohibition after fixed penalty](section/8D.md)
+  - [s. 8E Repeated breach of prohibition after fixed penalty](section/8E.md)
+  - [s. 8F Terms in superior leases relating to children or benefits status](section/8F.md)
+  - [s. 8G Terms in mortgages relating to children or benefits status](section/8G.md)
+  - [s. 8H Terms in insurance contracts relating to children or benefits status](section/8H.md)
+  - [s. 8I No prohibition on taking income into account](section/8I.md)
+  - [s. 8J Interpretation of Part 2A](section/8J.md)
+- PART 3 TREATMENT OF HOLDING DEPOSITS
+  - [s. 9 Treatment of holding deposits](section/9.md)
+- PART 4 Enforcement
+  - Enforcement authority powers to require information etc.
+    - [s. 10 Power to require documents or information](section/10.md)
+    - [s. 11 Offence of failing to comply with a notice under section 10](section/11.md)
+    - [s. 12 Offence of providing false or misleading information in relation to a notice under section 10](section/12.md)
+  - Fixed penalty notices
+    - [s. 13 Fixed penalty notices](section/13.md)
+  - Notification of conviction to licensing authority
+    - [s. 14 Duty of local housing authority to notify licensing authority of conviction](section/14.md)
+  - Guidance
+    - [s. 15 Duty to have regard to guidance](section/15.md)
+  - Meaning of “authorised officer” in this Part
+    - [s. 16 Meaning of “authorised officer”](section/16.md)
+  - The enforcement authority for the purposes of this Part
+    - [s. 17 Enforcement authorities](section/17.md)
+  - Information sharing and power to bring criminal proceedings
+    - [s. 18 Supply and use of information by enforcement authorities](section/18.md)
+    - [s. 19 Power of licensing authority to bring criminal proceedings](section/19.md)
+  - Restrictions on termination by landlord of standard occupation contracts
+    - [s. 20 Restrictions on terminating standard occupation contracts](section/20.md)
+  - Guidance to a licensing authority under Part 1 of the Housing (Wales) Act 2014
+    - [s. 21 Amendment to section 41 of Housing (Wales) Act 2014](section/21.md)
+- PART 5 Recovery of amount by contract-holder
+  - [s. 22 Recovery of a prohibited payment or holding deposit](section/22.md)
+- PART 6 Publicising Letting agents’ Fees
+  - [s. 23 Publicising letting agents’ fees](section/23.md)
+- PART 7 Final provisions
+  - [s. 24 Requirement for local housing authority to promote awareness of effect of Act](section/24.md)
+  - [s. 25 Power to make transitional provision in respect of assured tenancies](section/25.md)
+  - [s. 26 Offences by bodies corporate](section/26.md)
+  - [s. 27 Regulations](section/27.md)
+  - [s. 28 Interpretation](section/28.md)
+  - [s. 29 Crown application](section/29.md)
+  - [s. 30 Coming into force](section/30.md)
+  - [s. 31 Short title](section/31.md)
+- SCHEDULE 1 Permitted Payments
+  - Rent
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Security deposit
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Holding deposit
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Payment in the event of default
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Payment in respect of council tax
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Payment in respect of provision of utilities
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Payment in respect of television licence
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Payment in respect of communication service
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Service charges payable to community landlords etc.
+    - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+  - Payment for further copy of written statement
+    - [Sch. 1 para. 10B](schedule/1/paragraph/10B.md)
+  - Changing the meaning of “permitted variation” in paragraph 1
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Treatment of Holding Deposit
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Meaning of “deadline for agreement”
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Requirement to repay holding deposit
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Exceptions
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Supplemental provision about exceptions in paragraphs 8 to 10
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 AMENDMENTS TO THE RENTING HOMES (WALES) ACT 2016
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Restriction on giving notice for possession: periodic standard contracts
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Restrictions on giving notice in connection with end of fixed term standard contracts
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Restriction on using landlord’s break clause in fixed term standard contracts
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Restrictions on a court hearing landlord’s claim for possession
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Miscellaneous consequential provision
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
