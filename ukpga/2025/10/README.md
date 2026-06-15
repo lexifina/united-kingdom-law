@@ -1,0 +1,114 @@
+# Terrorism (Protection of Premises) Act 2025
+
+2025 c. 10. Enacted 2025-04-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2025/10/2026-06-15
+
+## Contents
+
+- Part 1 Public protection requirements
+  - Introductory
+    - [s. 1 Overview](section/1.md)
+    - [s. 2 Qualifying premises](section/2.md)
+    - [s. 3 Qualifying events](section/3.md)
+    - [s. 4 Persons responsible for qualifying premises or events](section/4.md)
+  - Requirements
+    - [s. 5 Public protection procedures](section/5.md)
+    - [s. 6 Public protection measures for enhanced duty premises and qualifying events](section/6.md)
+    - [s. 7 Enhanced duty premises and qualifying events: documenting compliance](section/7.md)
+    - [s. 8 Requirements to co-ordinate and co-operate](section/8.md)
+    - [s. 9 Notification requirements](section/9.md)
+    - [s. 10 Designating a senior individual](section/10.md)
+    - [s. 11 Determinations by the tribunal](section/11.md)
+  - Investigations and enforcement
+    - [s. 12 Role of the Security Industry Authority](section/12.md)
+    - [s. 13 Compliance notices](section/13.md)
+    - [s. 14 Restriction notices](section/14.md)
+    - [s. 15 Variation or withdrawal of notices](section/15.md)
+    - [s. 16 Appeals against notices](section/16.md)
+  - Monetary penalties
+    - [s. 17 Penalty notices](section/17.md)
+    - [s. 18 Maximum amount of a non-compliance penalty](section/18.md)
+    - [s. 19 Daily penalties](section/19.md)
+    - [s. 20 Determining the amount of a penalty](section/20.md)
+    - [s. 21 Penalty notices: contents, procedure, variation and withdrawal](section/21.md)
+    - [s. 22 Appeals against penalties](section/22.md)
+    - [s. 23 Recovery of penalties](section/23.md)
+  - Offences
+    - [s. 24 Offences of failing to comply with compliance notice or restriction notice](section/24.md)
+    - [s. 25 Offence of providing false or misleading information](section/25.md)
+    - [s. 26 Liability for offence committed by a body](section/26.md)
+  - General
+    - [s. 27 Guidance](section/27.md)
+    - [s. 28 Disclosure of information](section/28.md)
+    - [s. 29 Means of giving notices](section/29.md)
+    - [s. 30 Further provision about notices](section/30.md)
+    - [s. 31 Civil liability](section/31.md)
+    - [s. 32 Powers to amend this Part](section/32.md)
+    - [s. 33 Interpretation of this Part](section/33.md)
+- Part 2 Licensing: disclosure of plans of premises
+  - [s. 34 Licensing: disclosure of plans of premises](section/34.md)
+- Part 3 General
+  - [s. 35 Regulations](section/35.md)
+  - [s. 36 Extent](section/36.md)
+  - [s. 37 Commencement](section/37.md)
+  - [s. 38 Short title](section/38.md)
+- Schedule 1 Specified uses of premises
+  - [Sch. 1 para. 1 Shops etc](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Food and drink](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Entertainment and leisure activities](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Sports grounds](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Libraries, museums and galleries etc](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Halls etc](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Visitor attractions](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Hotels etc](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Places of worship](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Health care](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Bus stations, railway stations etc](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Aerodromes](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Childcare](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Primary and secondary education](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Further education](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Higher education](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Public authorities](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 References to visiting members of the public](schedule/1/paragraph/18.md)
+- Schedule 2 Excluded premises and events
+  - Part 1 Excluded premises
+    - [Sch. 2 para. 1 Legislatures and devolved administrations](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Legislatures and devolved administrations](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Parks, gardens, etc](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Transport security](schedule/2/paragraph/4.md)
+  - Part 2 Excluded events
+    - [Sch. 2 para. 5 Events to be held on certain excluded premises](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Events at places of worship, schools, etc](schedule/2/paragraph/6.md)
+- Schedule 3 Investigatory powers
+  - [Sch. 3 para. 1 Terrorism protection investigations](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Authorised inspectors](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Information gathering powers](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Powers to enter premises without a warrant](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Conditions for issue of warrant to enter premises](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Powers exercisable by warrant](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Evidence of authority](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Return of warrant](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Retention of evidence etc](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Offence of failing to comply with information notice](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Offence of obstructing an authorised inspector](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Offence of pretending to be an authorised inspector](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13 Saving for material subject to legal professional privilege](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14 Powers of entry: Crown application](schedule/3/paragraph/14.md)
+- Schedule 4 Licensing: disclosure of plans of premises
+  - Part 1 England and Wales
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 Scotland
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
