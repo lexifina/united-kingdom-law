@@ -2,9 +2,9 @@
 
 2025 c. 10. Enacted 2025-04-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-10, one file per provision. Earlier versions, from 2025-04-03, are in the history before it: `git log -- ukpga/2025/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-15, one file per provision. Earlier versions, from 2025-04-03, are in the history before it: `git log -- ukpga/2025/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/10/2026-04-10
+Source: https://www.legislation.gov.uk/ukpga/2025/10/2026-06-15
 
 ## Contents
 
