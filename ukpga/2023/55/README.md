@@ -2,9 +2,9 @@
 
 2023 c. 55. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-18, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-29
+Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-18
 
 ## Contents
 
@@ -370,6 +370,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-29
   - [Sch. 2 para. 2 Timing of elections](schedule/2/paragraph/2.md)
   - [Sch. 2 para. 3 Timing of elections](schedule/2/paragraph/3.md)
   - [Sch. 2 para. 4 Voting at elections of mayors](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
   - [Sch. 2 para. 5 Entitlement to vote](schedule/2/paragraph/5.md)
   - [Sch. 2 para. 6 Election as mayor and councillor](schedule/2/paragraph/6.md)
   - [Sch. 2 para. 7 Qualification and disqualification](schedule/2/paragraph/7.md)
