@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-12, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-19, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-05-12
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
 
 ## Contents
 
@@ -298,8 +298,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-05-12
   - Complaints
     - [s. 164A Complaints by data subjects to controllers](section/164A.md)
     - [s. 164B Controllers to notify the Commissioner of the number of complaints](section/164B.md)
-    - [s. 165 Complaints by data subjects](section/165.md)
-    - [s. 166 Orders to progress complaints](section/166.md)
+    - [s. 165 Complaints by data subjects to the Commissioner](section/165.md)
+    - [s. 166 Orders to progress complaints to the Commissioner](section/166.md)
   - Remedies in the court
     - [s. 167 Compliance orders](section/167.md)
     - [s. 168 Compensation for contravention of the UK GDPR](section/168.md)
