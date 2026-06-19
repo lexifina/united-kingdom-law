@@ -1,0 +1,194 @@
+# Animals (Scientific Procedures) Act 1986
+
+1986 c. 14. Enacted 1986-05-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/14
+
+Source: https://www.legislation.gov.uk/ukpga/1986/14/2026-06-19
+
+## Contents
+
+- Preliminary
+  - [s. 1 Protected animals.](section/1.md)
+  - [s. 2 Regulated procedures.](section/2.md)
+  - [s. 2A Principles of replacement, reduction and refinement](section/2A.md)
+- Licensing of undertakings
+  - [s. 2B Prohibition of unlicensed undertakings](section/2B.md)
+  - [s. 2C Licensing of undertakings](section/2C.md)
+- Personal and project licences
+  - [s. 3 Prohibition of unlicensed procedures.](section/3.md)
+  - [s. 4 Personal licences.](section/4.md)
+  - [s. 5 Project licences: general](section/5.md)
+  - [s. 5A Application for a project licence](section/5A.md)
+  - [s. 5B Determining an application: evaluation of the programme of work](section/5B.md)
+  - [s. 5BA Determining an application: classification of the severity of the procedure](section/5BA.md)
+  - [s. 5C Determining an application: further provision](section/5C.md)
+  - [s. 5D Granting a project licence](section/5D.md)
+  - [s. 5E Duration of a project licence and further evaluation etc](section/5E.md)
+  - [s. 5F Retrospective assessment of programme of work](section/5F.md)
+  - [s. 5G Documents to be kept by Secretary of State](section/5G.md)
+- ...
+  - [s. 6 Scientific procedure establishments.](section/6.md)
+  - [s. 7 Breeding and supplying establishments.](section/7.md)
+- Licences: general provisions
+  - [s. 8 Fees.](section/8.md)
+- ...
+  - [s. 9 Consultation.](section/9.md)
+  - [s. 10 Conditions](section/10.md)
+  - [s. 11 Failure to comply with licence conditions etc](section/11.md)
+  - [s. 12 Right to make representations.](section/12.md)
+  - [s. 13 Suspension in cases of urgency.](section/13.md)
+  - [s. 13A Duty to ensure welfare of animals not adversely affected by revocation or suspension](section/13A.md)
+- Additional controls
+  - [s. 14 Re-use of protected animals](section/14.md)
+  - [s. 15 Killing animals at conclusion of regulated procedures.](section/15.md)
+  - [s. 15A Manner in which protected animals are to be killed](section/15A.md)
+  - [s. 16 Prohibition of public displays.](section/16.md)
+  - [s. 17 Neuromuscular blocking agents](section/17.md)
+  - [s. 17A Setting free and re-homing protected animals](section/17A.md)
+- The inspectorate and the committee
+  - [s. 18 Inspectors.](section/18.md)
+  - [s. 19 The Committee for the Protection of Animals Used for Scientific Purposes](section/19.md)
+  - [s. 20 Functions of the Committee](section/20.md)
+- Miscellaneous and supplementary
+  - [s. 20A Sharing of organs and tissues](section/20A.md)
+  - [s. 20B Alternative strategies](section/20B.md)
+  - [s. 21 Guidance and codes of practice.](section/21.md)
+  - [s. 21A Statistics and reporting](section/21A.md)
+  - [s. 22 Penalties for contraventions.](section/22.md)
+  - [s. 23 False statements.](section/23.md)
+  - [s. 24 Protection of confidential information.](section/24.md)
+  - [s. 25 Powers of entry.](section/25.md)
+  - [s. 26 Prosecutions.](section/26.md)
+  - [s. 27 Repeal, consequential amendments and transitional provisions.](section/27.md)
+  - [s. 28 Orders.](section/28.md)
+  - [s. 29 Application to Northern Ireland.](section/29.md)
+  - [s. 30 Short title, interpretation and commencement.](section/30.md)
+- SCHEDULE 1 APPROPRIATE METHODS OF HUMANE KILLING
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 table A](schedule/1/table/A.md)
+  - [Sch. 1 table B](schedule/1/table/B.md)
+- SCHEDULE 2 ANIMALS THAT ARE “RELEVANT PROTECTED ANIMALS” FOR THE PURPOSES OF SECTION 2B
+- SCHEDULE 2A ARTICLE 8 OF COUNCIL DIRECTIVE No.86/609/EEC
+  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+- Schedule 2AA Severity of procedures
+  - Part 1 General
+    - [Sch. 2AA para. 1](schedule/2AA/paragraph/1.md)
+    - [Sch. 2AA para. 2](schedule/2AA/paragraph/2.md)
+    - [Sch. 2AA para. 3](schedule/2AA/paragraph/3.md)
+    - [Sch. 2AA para. 4](schedule/2AA/paragraph/4.md)
+  - Part 2 Mild procedures
+    - [Sch. 2AA para. 5](schedule/2AA/paragraph/5.md)
+    - [Sch. 2AA para. 6](schedule/2AA/paragraph/6.md)
+    - [Sch. 2AA para. 7](schedule/2AA/paragraph/7.md)
+    - [Sch. 2AA para. 8](schedule/2AA/paragraph/8.md)
+    - [Sch. 2AA para. 9](schedule/2AA/paragraph/9.md)
+    - [Sch. 2AA para. 10](schedule/2AA/paragraph/10.md)
+    - [Sch. 2AA para. 11](schedule/2AA/paragraph/11.md)
+    - [Sch. 2AA para. 12](schedule/2AA/paragraph/12.md)
+    - [Sch. 2AA para. 13](schedule/2AA/paragraph/13.md)
+    - [Sch. 2AA para. 14](schedule/2AA/paragraph/14.md)
+    - [Sch. 2AA para. 15](schedule/2AA/paragraph/15.md)
+    - [Sch. 2AA para. 16](schedule/2AA/paragraph/16.md)
+    - [Sch. 2AA para. 17](schedule/2AA/paragraph/17.md)
+  - Part 3 Moderate procedures
+    - [Sch. 2AA para. 18](schedule/2AA/paragraph/18.md)
+    - [Sch. 2AA para. 19](schedule/2AA/paragraph/19.md)
+    - [Sch. 2AA para. 20](schedule/2AA/paragraph/20.md)
+    - [Sch. 2AA para. 21](schedule/2AA/paragraph/21.md)
+    - [Sch. 2AA para. 22](schedule/2AA/paragraph/22.md)
+    - [Sch. 2AA para. 23](schedule/2AA/paragraph/23.md)
+    - [Sch. 2AA para. 24](schedule/2AA/paragraph/24.md)
+    - [Sch. 2AA para. 25](schedule/2AA/paragraph/25.md)
+    - [Sch. 2AA para. 26](schedule/2AA/paragraph/26.md)
+    - [Sch. 2AA para. 27](schedule/2AA/paragraph/27.md)
+    - [Sch. 2AA para. 28](schedule/2AA/paragraph/28.md)
+    - [Sch. 2AA para. 29](schedule/2AA/paragraph/29.md)
+  - Part 4 Severe procedures
+    - [Sch. 2AA para. 30](schedule/2AA/paragraph/30.md)
+    - [Sch. 2AA para. 31](schedule/2AA/paragraph/31.md)
+    - [Sch. 2AA para. 32](schedule/2AA/paragraph/32.md)
+    - [Sch. 2AA para. 33](schedule/2AA/paragraph/33.md)
+    - [Sch. 2AA para. 34](schedule/2AA/paragraph/34.md)
+    - [Sch. 2AA para. 35](schedule/2AA/paragraph/35.md)
+    - [Sch. 2AA para. 36](schedule/2AA/paragraph/36.md)
+    - [Sch. 2AA para. 37](schedule/2AA/paragraph/37.md)
+    - [Sch. 2AA para. 38](schedule/2AA/paragraph/38.md)
+    - [Sch. 2AA para. 39](schedule/2AA/paragraph/39.md)
+    - [Sch. 2AA para. 40](schedule/2AA/paragraph/40.md)
+    - [Sch. 2AA para. 41](schedule/2AA/paragraph/41.md)
+    - [Sch. 2AA para. 42](schedule/2AA/paragraph/42.md)
+    - [Sch. 2AA para. 43](schedule/2AA/paragraph/43.md)
+    - [Sch. 2AA para. 44](schedule/2AA/paragraph/44.md)
+- SCHEDULE 2B ADDITIONAL CONDITIONS FOR THE GRANT OF CERTAIN PROJECT LICENCES
+  - Project licences authorising the use of endangered primates
+    - [Sch. 2B para. 1](schedule/2B/paragraph/1.md)
+  - Project licences authorising the use of non-endangered primates
+    - [Sch. 2B para. 2](schedule/2B/paragraph/2.md)
+  - Project licences authorising the use of endangered animals that are not primates
+    - [Sch. 2B para. 3](schedule/2B/paragraph/3.md)
+  - Project licences authorising the use of cats, dogs and equidae
+    - [Sch. 2B para. 4](schedule/2B/paragraph/4.md)
+  - Interpretation
+    - [Sch. 2B para. 5](schedule/2B/paragraph/5.md)
+- SCHEDULE 2C CONDITIONS IN LICENCES
+  - PART 1 Conditions in section 2C licences
+    - [Sch. 2C para. 1](schedule/2C/paragraph/1.md)
+    - [Sch. 2C para. 2](schedule/2C/paragraph/2.md)
+    - [Sch. 2C para. 3](schedule/2C/paragraph/3.md)
+    - [Sch. 2C para. 4](schedule/2C/paragraph/4.md)
+    - [Sch. 2C para. 5](schedule/2C/paragraph/5.md)
+    - [Sch. 2C para. 6](schedule/2C/paragraph/6.md)
+    - [Sch. 2C para. 7](schedule/2C/paragraph/7.md)
+    - [Sch. 2C para. 8](schedule/2C/paragraph/8.md)
+    - [Sch. 2C para. 9](schedule/2C/paragraph/9.md)
+    - [Sch. 2C para. 10](schedule/2C/paragraph/10.md)
+    - [Sch. 2C para. 11](schedule/2C/paragraph/11.md)
+    - [Sch. 2C para. 12](schedule/2C/paragraph/12.md)
+  - PART 2 Conditions in personal licences
+    - [Sch. 2C para. 13](schedule/2C/paragraph/13.md)
+    - [Sch. 2C para. 14](schedule/2C/paragraph/14.md)
+    - [Sch. 2C para. 15](schedule/2C/paragraph/15.md)
+    - [Sch. 2C para. 16](schedule/2C/paragraph/16.md)
+  - PART 3 Conditions in project licences
+    - [Sch. 2C para. 17](schedule/2C/paragraph/17.md)
+    - [Sch. 2C para. 18](schedule/2C/paragraph/18.md)
+    - [Sch. 2C para. 19](schedule/2C/paragraph/19.md)
+    - [Sch. 2C para. 20](schedule/2C/paragraph/20.md)
+    - [Sch. 2C para. 21](schedule/2C/paragraph/21.md)
+    - [Sch. 2C para. 22](schedule/2C/paragraph/22.md)
+    - [Sch. 2C para. 23](schedule/2C/paragraph/23.md)
+    - [Sch. 2C para. 24](schedule/2C/paragraph/24.md)
+    - [Sch. 2C para. 25](schedule/2C/paragraph/25.md)
+    - [Sch. 2C para. 26](schedule/2C/paragraph/26.md)
+    - [Sch. 2C para. 27](schedule/2C/paragraph/27.md)
+    - [Sch. 2C para. 28](schedule/2C/paragraph/28.md)
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 TRANSITIONAL PROVISIONS
+  - Existing licences
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Current experiments
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Existing certificates
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Registered premises
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Inspectors
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
