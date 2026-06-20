@@ -1,0 +1,124 @@
+# Energy Prices Act 2022
+
+2022 c. 44. Enacted 2022-10-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/44
+
+Source: https://www.legislation.gov.uk/ukpga/2022/44/2026-06-20
+
+## Contents
+
+- Reduction of domestic energy bills in England, Wales and Scotland
+  - [s. 1 Domestic energy price reduction schemes for Great Britain](section/1.md)
+  - [s. 2 GB electricity scheme: supplementary provision](section/2.md)
+  - [s. 3 GB gas scheme: supplementary provision](section/3.md)
+  - [s. 4 Interpretation of sections 1 to 3](section/4.md)
+- Reduction of domestic energy bills in Northern Ireland
+  - [s. 5 Domestic energy price reduction schemes for Northern Ireland](section/5.md)
+  - [s. 6 NI electricity scheme: supplementary provision](section/6.md)
+  - [s. 7 NI gas scheme: supplementary provision](section/7.md)
+  - [s. 8 Interpretation of sections 5 to 7](section/8.md)
+- Reduction of non-domestic energy bills in England, Wales and Scotland
+  - [s. 9 Reduced energy charges for non-domestic customers in Great Britain](section/9.md)
+  - [s. 10 Interpretation of section 9 and Schedule 1](section/10.md)
+- Reduction of non-domestic energy bills in Northern Ireland
+  - [s. 11 Reduced energy charges for non-domestic customers in Northern Ireland](section/11.md)
+  - [s. 12 Interpretation of section 11 and Schedule 2](section/12.md)
+- Support for meeting energy costs etc
+  - [s. 13 Power of the Secretary of State to give support for meeting energy costs etc](section/13.md)
+  - [s. 14 Procedure and reporting in connection with section 13](section/14.md)
+  - [s. 15 Role of other bodies in giving support for meeting energy costs etc](section/15.md)
+- Reducing the price of electricity
+  - [s. 16 Temporary requirement for electricity generators to make payments](section/16.md)
+  - [s. 17 Power to require information in connection with regulations under section 16](section/17.md)
+  - [s. 18 Contracts for difference](section/18.md)
+- Passing on the benefits of reductions and other support
+  - [s. 19 Requirement to pass on energy price support to end users](section/19.md)
+- The domestic energy tariff cap
+  - [s. 20 Domestic gas and electricity tariff cap](section/20.md)
+- Regulation of energy markets
+  - [s. 21 Power of the Secretary of State to modify energy licences etc](section/21.md)
+  - [s. 22 Power of Secretary of State to give directions](section/22.md)
+  - [s. 23 Regulation of the Northern Ireland energy market](section/23.md)
+- Final provisions
+  - [s. 24 Concurrent exercise of powers by the Department for the Economy](section/24.md)
+  - [s. 25 Time limits on exercise of certain powers under this Act](section/25.md)
+  - [s. 26 Regulations](section/26.md)
+  - [s. 27 Consequential provision etc](section/27.md)
+  - [s. 28 Interpretation](section/28.md)
+  - [s. 29 Application to the Crown](section/29.md)
+  - [s. 30 Extent, commencement and short title](section/30.md)
+- SCHEDULE 1 Non-domestic relief regulations for Great Britain
+  - [Sch. 1 para. 1 Introduction](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Application of GB non-domestic relief regulations](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Delegation](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Powers and duties](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Modification of contracts](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Enforcement](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Exclusion of liability](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Avoidance of abuse or unreasonable reliance on support schemes](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Financially disadvantaged customers](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Non-domestic relief regulations for Northern Ireland
+  - [Sch. 2 para. 1 Introduction](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Application of NI non-domestic relief regulations](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Delegation](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Powers and duties](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Modification of contracts](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Enforcement](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Exclusion of liability](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Avoidance of abuse or unreasonable reliance on support schemes](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Financially disadvantaged customers](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Domestic Gas and Electricity (Tariff Cap) Act 2018
+  - [Sch. 3 para. 1 Amendments to 2018 Act](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Amendments to 2018 Act](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Amendments to 2018 Act](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Amendments to 2018 Act](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Amendments to 2018 Act](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Amendments to 2018 Act](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Amendments to 2018 Act](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Amendments to 2018 Act](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Transitional provision](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Regulation of the Northern Ireland energy market
+  - [Sch. 4 para. 1 Simplification of procedure for modifying conditions of electricity licences](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Simplification of procedure for modifying conditions of gas licences](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Expiry of this Schedule](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Interpretation](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Powers and expiry of powers in respect of Northern Ireland
+  - [Sch. 5 para. 1 Powers exercisable concurrently by the Department for the Economy](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Limitations on the exercise of particular powers by the Department](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Application of section 14 to the exercise of powers by the Department](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Regulations made by the Department](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Expiry of the Department’s powers](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Expiry of the Secretary of State’s powers in respect of Northern Ireland](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Meaning of “relevant period”](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 Continuity of the Department’s powers](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Time limits on the exercise of certain powers under this Act
+  - [Sch. 6 para. 1 Domestic electricity price reduction schemes for Great Britain](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Domestic gas price reduction schemes for Great Britain](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Domestic electricity price reduction schemes for Northern Ireland](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Domestic gas price reduction schemes for Northern Ireland](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Reduced energy charges for non-domestic customers in Great Britain](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Reduced energy charges for non-domestic customers in Northern Ireland](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Power of the Secretary of State to give support for meeting energy costs etc](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Temporary requirement for electricity generators to make payments](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Extension of certain periods](schedule/6/paragraph/9.md)
+- SCHEDULE 7 Amendments of legislation
+  - PART 1 Acts of Parliament
+    - [Sch. 7 para. 1 Gas Act 1986](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2 Electricity Act 1989](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3 Utilities Act 2000](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4 Utilities Act 2000](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5 Utilities Act 2000](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6 Utilities Act 2000](schedule/7/paragraph/6.md)
+  - PART 2 Northern Ireland legislation
+    - [Sch. 7 para. 7 Energy (Northern Ireland) Order 2003](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8 Energy (Northern Ireland) Order 2003](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9 Energy (Northern Ireland) Order 2003](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10 Energy (Northern Ireland) Order 2003](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11 Energy (Northern Ireland) Order 2003](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12 Energy (Northern Ireland) Order 2003](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13 The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14 The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15 The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007](schedule/7/paragraph/15.md)
