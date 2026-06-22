@@ -1,0 +1,121 @@
+# Tenant Fees Act 2019
+
+2019 c. 4. Enacted 2019-02-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2019/4
+
+Source: https://www.legislation.gov.uk/ukpga/2019/4/2026-06-22
+
+## Contents
+
+- Prohibitions etc applying to landlords and letting agents
+  - [s. 1 Prohibitions applying to landlords](section/1.md)
+  - [s. 2 Prohibitions applying to letting agents](section/2.md)
+  - [s. 3 Prohibited and permitted payments](section/3.md)
+  - [s. 4 Effect of a breach of section 1 or 2](section/4.md)
+  - [s. 5 Treatment of holding deposit](section/5.md)
+  - [s. 5A Pre-tenancy payments of rent: prohibitions](section/5A.md)
+  - [s. 5B Effect of a breach of section 5A](section/5B.md)
+- Enforcement
+  - [s. 6 Enforcement by local weights and measures authorities](section/6.md)
+  - [s. 7 Enforcement by district councils](section/7.md)
+  - [s. 8 Financial penalties](section/8.md)
+  - [s. 9 Power to amend maximum financial penalties](section/9.md)
+  - [s. 10 Recovery by enforcement authority of amount paid](section/10.md)
+  - [s. 11 Interest on payments under section 10](section/11.md)
+  - [s. 12 Offences](section/12.md)
+  - [s. 13 Offences by bodies corporate](section/13.md)
+  - [s. 14 Duty to notify when taking enforcement action](section/14.md)
+  - [s. 15 Recovery by relevant person of amount paid](section/15.md)
+  - [s. 16 Assistance to recover amount paid](section/16.md)
+  - [s. 17 Restriction on terminating tenancy](section/17.md)
+- Amendments to the Consumer Rights Act 2015
+  - [s. 18 Duty to publicise fees on third party websites](section/18.md)
+  - [s. 19 Information about membership of client money protection scheme](section/19.md)
+  - [s. 20 Penalties for continuing breach of duty](section/20.md)
+- Client money protection schemes
+  - [s. 21 Enforcement of client money protection schemes for property agents](section/21.md)
+  - [s. 22 Client money protection schemes: approval and designation](section/22.md)
+  - [s. 23 Client money protection schemes: requirement to belong to a scheme etc](section/23.md)
+- Lead enforcement authority
+  - [s. 24 Lead enforcement authority](section/24.md)
+  - [s. 25 General duties of the lead enforcement authority](section/25.md)
+  - [s. 26 Enforcement by the lead enforcement authority](section/26.md)
+- General interpretation
+  - [s. 27 Meaning of “letting agent” and related expressions](section/27.md)
+  - [s. 28 Interpretation](section/28.md)
+- Final provisions
+  - [s. 29 Consequential amendments](section/29.md)
+  - [s. 30 Transitional provision](section/30.md)
+  - [s. 31 Financial provisions](section/31.md)
+  - [s. 32 Crown application](section/32.md)
+  - [s. 33 Extent](section/33.md)
+  - [s. 34 Commencement](section/34.md)
+  - [s. 35 Short title](section/35.md)
+- SCHEDULE 1 Permitted payments
+  - Rent
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Increased rent
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - Tenancy deposit
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Holding deposit
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Payment in the event of a default
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Payment on variation, assignment or novation of a tenancy
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Payment on termination of a tenancy
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Payment in respect of council tax
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Payment in respect of utilities etc
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Payment in respect of a television licence
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Payment in respect of communication services
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Treatment of holding deposit
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Interpretation
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Requirement to repay holding deposit
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Exceptions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Financial penalties etc
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Notice of intent
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Right to make representations
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Final notice
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Withdrawal or amendment of notice
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Appeals
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Recovery of financial penalty
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Recovery of prohibited payment etc
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Assistance to recover prohibited payment etc
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Proceeds of financial penalties
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
