@@ -1,0 +1,954 @@
+# Housing Act 2004
+
+2004 c. 34. Enacted 2004-11-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 145 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
+
+Source: https://www.legislation.gov.uk/ukpga/2004/34/2026-06-22
+
+## Contents
+
+- Part 1 Housing conditions
+  - Chapter 1 Enforcement of housing standards: general
+    - New system for assessing housing conditions
+      - [s. 1 New system for assessing housing conditions and enforcing housing standards](section/1.md)
+      - [s. 2 Meaning of “category 1 hazard” and “category 2 hazard”](section/2.md)
+    - Additional standards for certain housing in England
+      - [s. 2A Power to set standards for qualifying residential premises](section/2A.md)
+      - [s. 2B Qualifying residential premises](section/2B.md)
+    - Procedure for assessing housing conditions
+      - [s. 3 Local housing authorities to review housing conditions in their districts](section/3.md)
+      - [s. 4 Inspections by local housing authorities to see whether category 1 or 2 hazards exist](section/4.md)
+    - Enforcement of housing standards
+      - [s. 5 Category 1 hazards: general duty to take enforcement action](section/5.md)
+      - [s. 6 Category 1 hazards: how duty under section 5 operates in certain cases](section/6.md)
+      - [s. 6A Financial penalties relating to category 1 hazards or type 1 requirements](section/6A.md)
+      - [s. 7 Category 2 hazards: powers to take enforcement action](section/7.md)
+      - [s. 8 Reasons for decision to take enforcement action](section/8.md)
+      - [s. 9 Guidance about inspections and enforcement action](section/9.md)
+      - [s. 10 Consultation with fire and rescue authorities in certain cases](section/10.md)
+  - Chapter 2 Improvement notices, prohibition orders and hazard awareness notices
+    - Improvement notices
+      - [s. 11 Improvement notices relating to category 1 hazards: duty of authority to serve notice](section/11.md)
+      - [s. 12 Improvement notices relating to category 2 hazards: power of authority to serve notice](section/12.md)
+      - [s. 13 Contents of improvement notices](section/13.md)
+      - [s. 14 Suspension of improvement notices](section/14.md)
+      - [s. 15 Operation of improvement notices](section/15.md)
+      - [s. 16 Revocation and variation of improvement notices](section/16.md)
+      - [s. 17 Review of suspended improvement notices](section/17.md)
+      - [s. 18 Service of improvement notices etc. and related appeals](section/18.md)
+      - [s. 19 Change in person liable to comply with improvement notice](section/19.md)
+    - Prohibition orders
+      - [s. 20 Prohibition orders relating to category 1 hazards: duty of authority to make order](section/20.md)
+      - [s. 21 Prohibition orders relating to category 2 hazards: power of authority to make order](section/21.md)
+      - [s. 22 Contents of prohibition orders](section/22.md)
+      - [s. 23 Suspension of prohibition orders](section/23.md)
+      - [s. 24 Operation of prohibition orders](section/24.md)
+      - [s. 25 Revocation and variation of prohibition orders](section/25.md)
+      - [s. 26 Review of suspended prohibition orders](section/26.md)
+      - [s. 27 Service of copies of prohibition orders etc. and related appeals](section/27.md)
+    - Hazard awareness notices
+      - [s. 28 Hazard awareness notices relating to category 1 hazards: duty of authority to serve notice](section/28.md)
+      - [s. 29 Hazard awareness notices relating to category 2 hazards: power of authority to serve notice](section/29.md)
+    - Enforcement: improvement notices
+      - [s. 30 Offence of failing to comply with improvement notice](section/30.md)
+      - [s. 31 Enforcement action by local housing authorities](section/31.md)
+    - Enforcement: prohibition orders
+      - [s. 32 Offence of failing to comply with prohibition order etc.](section/32.md)
+      - [s. 33 Recovery of possession of premises in order to comply with order](section/33.md)
+      - [s. 34 Power of tribunal to determine or vary lease](section/34.md)
+    - Enforcement: improvement notices and prohibition orders
+      - [s. 35 Power of court to order occupier or owner to allow action to be taken on premises](section/35.md)
+      - [s. 36 Power of court to authorise action by one owner on behalf of another](section/36.md)
+    - Supplementary provisions
+      - [s. 37 Effect of improvement notices and prohibition orders as local land charges](section/37.md)
+      - [s. 38 Savings for rights arising from breach of covenant etc.](section/38.md)
+      - [s. 39 Effect of Part 4 enforcement action and redevelopment proposals](section/39.md)
+  - Chapter 3 Emergency measures
+    - Emergency remedial action
+      - [s. 40 Emergency remedial action](section/40.md)
+      - [s. 41 Notice of emergency remedial action](section/41.md)
+      - [s. 42 Recovery of expenses of taking emergency remedial action](section/42.md)
+    - Emergency prohibition orders
+      - [s. 43 Emergency prohibition orders](section/43.md)
+      - [s. 44 Contents of emergency prohibition orders](section/44.md)
+    - Appeals
+      - [s. 45 Appeals relating to emergency measures](section/45.md)
+  - Chapter 4 Demolition orders and slum clearance declarations
+    - Demolition orders
+      - [s. 46 Demolition orders](section/46.md)
+    - Slum clearance declarations
+      - [s. 47 Clearance areas](section/47.md)
+    - Appeals
+      - [s. 48 Transfer of jurisdiction in respect of appeals relating to demolition orders etc.](section/48.md)
+  - Chapter 5 General and miscellaneous provisions relating to enforcement action
+    - Recovery of expenses relating to enforcement action
+      - [s. 49 Power to charge for certain enforcement action](section/49.md)
+      - [s. 50 Recovery of charge under section 49](section/50.md)
+    - Repeals
+      - [s. 51 Repeal of power to improve existing enforcement procedures](section/51.md)
+      - [s. 52 Repeal of provisions relating to demolition of obstructive buildings](section/52.md)
+      - [s. 53 Miscellaneous repeals etc. in relation to fire hazards](section/53.md)
+    - Index
+      - [s. 54 Index of defined expressions: Part 1](section/54.md)
+- Part 2 Licensing of houses in multiple occupation
+  - Introductory
+    - [s. 55 Licensing of HMOs to which this Part applies](section/55.md)
+  - Designation of additional licensing areas
+    - [s. 56 Designation of areas subject to additional licensing](section/56.md)
+    - [s. 57 Designations under section 56: further considerations](section/57.md)
+    - [s. 58 Designation needs confirmation or general approval to be effective](section/58.md)
+    - [s. 59 Notification requirements relating to designations](section/59.md)
+    - [s. 60 Duration, review and revocation of designations](section/60.md)
+  - HMOs required to be licensed
+    - [s. 61 Requirement for HMOs to be licensed](section/61.md)
+    - [s. 62 Temporary exemption from licensing requirement](section/62.md)
+  - Grant or refusal of licences
+    - [s. 63 Applications for licences](section/63.md)
+    - [s. 64 Grant or refusal of licence](section/64.md)
+    - [s. 65 Tests as to suitability for multiple occupation](section/65.md)
+    - [s. 66 Tests for fitness etc. and satisfactory management arrangements](section/66.md)
+    - [s. 67 Licence conditions](section/67.md)
+    - [s. 68 Licences: general requirements and duration](section/68.md)
+  - Variation and revocation of licences
+    - [s. 69 Variation of licences](section/69.md)
+    - [s. 70 Power to revoke licences](section/70.md)
+    - [s. 70A Duty to revoke licence in banning order cases](section/70A.md)
+  - Procedure and appeals
+    - [s. 71 Procedural requirements and appeals against licence decisions](section/71.md)
+  - Enforcement
+    - [s. 72 Offences in relation to licensing of HMOs](section/72.md)
+    - [s. 73 Other consequences of operating unlicensed HMOs: rent repayment orders](section/73.md)
+    - [s. 74 Further provisions about rent repayment orders](section/74.md)
+    - [s. 75](section/75.md)
+    - [s. 75A Other consequences of operating unlicensed HMOs: restriction on terminating tenancies (Wales)](section/75A.md)
+  - Supplementary provisions
+    - [s. 76 Transitional arrangements relating to introduction and termination of licensing](section/76.md)
+    - [s. 77 Meaning of “HMO”](section/77.md)
+    - [s. 78 Index of defined expressions: Part 2](section/78.md)
+- Part 3 Selective licensing of other residential accommodation
+  - Introductory
+    - [s. 79 Licensing of houses to which this Part applies](section/79.md)
+  - Designation of selective licensing areas
+    - [s. 80 Designation of selective licensing areas](section/80.md)
+    - [s. 81 Designations under section 80: further considerations](section/81.md)
+    - [s. 82 Designation needs confirmation or general approval to be effective](section/82.md)
+    - [s. 83 Notification requirements relating to designations](section/83.md)
+    - [s. 84 Duration, review and revocation of designations](section/84.md)
+  - Houses required to be licensed
+    - [s. 85 Requirement for Part 3 houses to be licensed](section/85.md)
+    - [s. 86 Temporary exemption from licensing requirement](section/86.md)
+  - Grant or refusal of licences
+    - [s. 87 Applications for licences](section/87.md)
+    - [s. 88 Grant or refusal of licence](section/88.md)
+    - [s. 89 Tests for fitness etc. and satisfactory management arrangements](section/89.md)
+    - [s. 90 Licence conditions](section/90.md)
+    - [s. 91 Licences: general requirements and duration](section/91.md)
+  - Variation and revocation of licences
+    - [s. 92 Variation of licences](section/92.md)
+    - [s. 93 Power to revoke licences](section/93.md)
+    - [s. 93A Duty to revoke licence in banning order cases](section/93A.md)
+  - Procedure and appeals
+    - [s. 94 Procedural requirements and appeals against licence decisions](section/94.md)
+  - Enforcement
+    - [s. 95 Offences in relation to licensing of houses under this Part](section/95.md)
+    - [s. 96 Other consequences of operating unlicensed houses: rent repayment orders](section/96.md)
+    - [s. 97 Further provisions about rent repayment orders](section/97.md)
+    - [s. 98](section/98.md)
+    - [s. 98A Other consequences of operating unlicensed houses: restriction on terminating tenancies (Wales)](section/98A.md)
+  - Supplementary provisions
+    - [s. 99 Meaning of “house” etc.](section/99.md)
+    - [s. 100 Index of defined expressions: Part 3](section/100.md)
+- Part 4 Additional control provisions in relation to residential accommodation
+  - Chapter 1 Interim and final management orders
+    - Introductory
+      - [s. 101 Interim and final management orders: introductory](section/101.md)
+    - Interim management orders: making and operation of orders
+      - [s. 102 Making of interim management orders](section/102.md)
+      - [s. 103 Special interim management orders](section/103.md)
+      - [s. 104 The health and safety condition](section/104.md)
+      - [s. 105 Operation of interim management orders](section/105.md)
+      - [s. 106 Local housing authority’s duties once interim management order in force](section/106.md)
+      - [s. 107 General effect of interim management orders](section/107.md)
+      - [s. 108 General effect of interim management orders: leases and licences granted by authority](section/108.md)
+      - [s. 109 General effect of interim management orders: immediate landlords, mortgagees etc.](section/109.md)
+      - [s. 110 Financial arrangements while order is in force](section/110.md)
+    - Interim management orders: variation and revocation
+      - [s. 111 Variation of interim management orders](section/111.md)
+      - [s. 112 Revocation of interim management orders](section/112.md)
+    - Final management orders: making and operation of orders
+      - [s. 113 Making of final management orders](section/113.md)
+      - [s. 114 Operation of final management orders](section/114.md)
+      - [s. 115 Local housing authority’s duties once final management order in force](section/115.md)
+      - [s. 116 General effect of final management orders](section/116.md)
+      - [s. 117 General effect of final management orders: leases and licences granted by authority](section/117.md)
+      - [s. 118 General effect of final management orders: immediate landlords, mortgagees etc.](section/118.md)
+      - [s. 119 Management schemes and accounts](section/119.md)
+      - [s. 120 Enforcement of management scheme by relevant landlord](section/120.md)
+    - Final management orders: variation and revocation
+      - [s. 121 Variation of final management orders](section/121.md)
+      - [s. 122 Revocation of final management orders](section/122.md)
+    - Interim and final management orders: procedure and appeals
+      - [s. 123 Procedural requirements and appeals](section/123.md)
+    - Interim and final management orders: other general provisions
+      - [s. 124 Effect of management orders: occupiers](section/124.md)
+      - [s. 125 Effect of management orders: agreements and legal proceedings](section/125.md)
+      - [s. 126 Effect of management orders: furniture](section/126.md)
+      - [s. 127 Management orders: power to supply furniture](section/127.md)
+      - [s. 128 Compensation payable to third parties](section/128.md)
+      - [s. 129 Termination of management orders: financial arrangements](section/129.md)
+      - [s. 130 Termination of management orders: leases, agreements and proceedings](section/130.md)
+      - [s. 131 Management orders: power of entry to carry out work](section/131.md)
+  - Chapter 2 Interim and final empty dwelling management orders
+    - Introductory
+      - [s. 132 Empty dwelling management orders: introductory](section/132.md)
+    - Interim empty dwelling management orders
+      - [s. 133 Making of interim EDMOs](section/133.md)
+      - [s. 134 Authorisation to make interim EDMOs](section/134.md)
+      - [s. 135 Local housing authority’s duties once interim EDMO in force](section/135.md)
+    - Final empty dwelling management orders
+      - [s. 136 Making of final EDMOs](section/136.md)
+      - [s. 137 Local housing authority’s duties once final EDMO in force](section/137.md)
+    - Compensation
+      - [s. 138 Compensation payable to third parties](section/138.md)
+  - Chapter 3 Overcrowding notices
+    - [s. 139 Service of overcrowding notices](section/139.md)
+    - [s. 140 Contents of overcrowding notices](section/140.md)
+    - [s. 141 Requirement as to overcrowding generally](section/141.md)
+    - [s. 142 Requirement as to new residents](section/142.md)
+    - [s. 143 Appeals against overcrowding notices](section/143.md)
+    - [s. 144 Revocation and variation of overcrowding notices](section/144.md)
+  - Chapter 4 Supplementary provisions
+    - [s. 145 Supplementary provisions](section/145.md)
+    - [s. 146 Interpretation and modification of this Part](section/146.md)
+    - [s. 147 Index of defined expressions: Part 4](section/147.md)
+- Part 5
+  - Preliminary
+    - [s. 148 Meaning of “residential property” and “home information pack”](section/148.md)
+    - [s. 149 Meaning of “on the market” and related expressions](section/149.md)
+    - [s. 150 Acting as estate agent](section/150.md)
+  - Responsibility for marketing residential properties
+    - [s. 151 Responsibility for marketing: general](section/151.md)
+    - [s. 152 Responsibility of person acting as estate agent](section/152.md)
+    - [s. 153 Responsibility of the seller](section/153.md)
+  - Duties of a responsible person where a property is on the market
+    - [s. 154 Application of sections 155 to 158](section/154.md)
+    - [s. 155 Duty to have a home information pack](section/155.md)
+    - [s. 156 Duty to provide copy of home information pack on request](section/156.md)
+    - [s. 157 Section 156 (1) duty: imposition of conditions](section/157.md)
+    - [s. 158 Duty to ensure authenticity of documents in other situations](section/158.md)
+  - Other duties of person acting as estate agent
+    - [s. 159 Other duties of person acting as estate agent](section/159.md)
+  - Exceptions from the duties
+    - [s. 160 Residential properties not available with vacant possession](section/160.md)
+    - [s. 161 Power to provide for further exceptions](section/161.md)
+    - [s. 162 Suspension of duties under sections 155 to 159](section/162.md)
+  - Contents of home information packs
+    - [s. 163 Contents of home information packs](section/163.md)
+    - [s. 164 Home condition reports](section/164.md)
+  - Register of home condition reports
+    - [s. 165 Register of home condition reports](section/165.md)
+  - Enforcement
+    - [s. 166 Enforcement authorities](section/166.md)
+    - [s. 167 Power to require production of home information packs](section/167.md)
+    - [s. 168 Penalty charge notices](section/168.md)
+    - [s. 169 Offences relating to enforcement officers](section/169.md)
+    - [s. 170 Right of private action](section/170.md)
+  - Supplementary
+    - [s. 171 Application of Part to sub-divided buildings](section/171.md)
+    - [s. 172 Power to require estate agents to belong to a redress scheme](section/172.md)
+    - [s. 173 Approval of redress schemes](section/173.md)
+    - [s. 174 Withdrawal of approval of redress schemes](section/174.md)
+    - [s. 175 Office of Fair Trading](section/175.md)
+    - [s. 176 Grants](section/176.md)
+    - [s. 177 Interpretation of Part 5](section/177.md)
+    - [s. 178 Index of defined expressions: Part 5](section/178.md)
+- Part 6 Other provisions about housing
+  - Chapter 1 Secure tenancies
+    - Introductory tenancies
+      - [s. 179 Extension of introductory tenancies](section/179.md)
+    - Right to buy: when exercisable
+      - [s. 180 Extension of qualifying period for right to buy](section/180.md)
+      - [s. 181 Exceptions to the right to buy: determination whether exception for dwelling-house suitable for elderly persons applies](section/181.md)
+      - [s. 182 Exceptions to the right to buy: houses due to be demolished](section/182.md)
+      - [s. 183 Right to buy: claim suspended or terminated by demolition notice](section/183.md)
+      - [s. 184 Landlord’s notice to complete](section/184.md)
+    - Right to buy: discounts
+      - [s. 185 Repayment of discount: periods and amounts applicable](section/185.md)
+      - [s. 186 Repayment of discount: increase attributable to home improvements to be disregarded](section/186.md)
+      - [s. 187 Deferred resale agreements](section/187.md)
+    - Right to buy: landlord’s right of first refusal
+      - [s. 188 Right of first refusal for landlord etc.](section/188.md)
+    - Right to buy: information
+      - [s. 189 sInformation to help tenants decide whether to exercise right to buy etc.](section/189.md)
+    - Right to buy: termination of rent to mortgage scheme
+      - [s. 190 Termination of rent to mortgage scheme](section/190.md)
+    - Suspension of certain rights in connection with anti-social behaviour
+      - [s. 191 Secure tenancies: withholding of consent to mutual exchange](section/191.md)
+      - [s. 192 Right to buy: suspension by court order](section/192.md)
+      - [s. 193 Right to buy: suspension of landlord’s obligation to complete](section/193.md)
+      - [s. 194 Disclosure of information as to orders etc. in respect of anti-social behaviour](section/194.md)
+  - Chapter 2 Disposals attracting discounts other than under right to buy
+    - Disposals by local authorities
+      - [s. 195 Repayment of discount: periods and amounts applicable](section/195.md)
+      - [s. 196 Repayment of discount: increase attributable to home improvements to be disregarded](section/196.md)
+      - [s. 197 Local authority’s right of first refusal](section/197.md)
+      - [s. 198 Deferred resale agreements](section/198.md)
+    - Disposals by registered social landlords
+      - [s. 199 Repayment of discount: periods and amounts payable](section/199.md)
+      - [s. 200 Registered social landlord’s right of first refusal](section/200.md)
+      - [s. 201 Deferred resale agreements](section/201.md)
+      - [s. 202 Right of assured tenant to acquire dwelling not affected by collective enfranchisement](section/202.md)
+    - Disposals by housing action trusts
+      - [s. 203 Repayment of discount: periods and amounts payable](section/203.md)
+      - [s. 204 Housing action trust’s right of first refusal](section/204.md)
+      - [s. 205 Deferred resale agreements](section/205.md)
+  - Chapter 3 Mobile Homes
+    - Site agreements
+      - [s. 206 Particulars of site agreements to be given in advance](section/206.md)
+      - [s. 207 Implied terms relating to termination of agreements or disposal of mobile homes](section/207.md)
+      - [s. 208 Power to amend terms implied in site agreements](section/208.md)
+    - Protection from eviction etc.
+      - [s. 209 Protected sites to include sites for gypsies](section/209.md)
+      - [s. 210 Extension of protection from harassment for occupiers of mobile homes](section/210.md)
+      - [s. 211 Suspension of eviction orders](section/211.md)
+  - Chapter 4 Tenancy deposit schemes
+    - [s. 212 Tenancy deposit schemes](section/212.md)
+    - [s. 212A Provision of information to local authorities](section/212A.md)
+    - [s. 213 Requirements relating to tenancy deposits](section/213.md)
+    - [s. 214 Proceedings relating to tenancy deposits](section/214.md)
+    - [s. 215 Sanctions for non-compliance](section/215.md)
+    - [s. 215A](section/215A.md)
+    - [s. 215B Assured tenancies: deposit received on or after 6 April 2007](section/215B.md)
+    - [s. 215C](section/215C.md)
+  - Chapter 5 Miscellaneous
+    - Overcrowding
+      - [s. 216 Overcrowding](section/216.md)
+    - Energy efficiency
+      - [s. 217 Energy efficiency of residential accommodation: England](section/217.md)
+    - Registered social landlords
+      - [s. 218 Amendments relating to registered social landlords](section/218.md)
+      - [s. 219 Disclosure of information to registered social landlords for the purposes of section 1 of the Crime and Disorder Act 1998](section/219.md)
+    - Other provisions relating to social housing
+      - [s. 220 Additional power to give grants for social housing](section/220.md)
+      - [s. 221 Extension of right to acquire](section/221.md)
+      - [s. 222 Rights of pre-emption in connection with assured tenancies](section/222.md)
+      - [s. 223 Allocation of housing accommodation by local authorities](section/223.md)
+    - Disabled facilities grant
+      - [s. 224 Disabled facilities grant: caravans](section/224.md)
+    - Accommodation needs of gypsies and travellers
+      - [s. 225 Duties of local housing authorities in England: accommodation needs of gypsies and travellers](section/225.md)
+      - [s. 226 Guidance in relation to section 225](section/226.md)
+    - Annual reports by local housing authorities
+      - [s. 227 Removal of duty on local housing authorities to send annual reports to tenants etc.](section/227.md)
+    - Social Housing Ombudsman for Wales
+      - [s. 228 Social Housing Ombudsman for Wales](section/228.md)
+- Part 7 Supplementary and final provisions
+  - Residential property tribunals
+    - [s. 229 Residential property tribunals](section/229.md)
+    - [s. 230 Powers and procedure of residential property tribunals](section/230.md)
+    - [s. 231 Appeals from residential property tribunals](section/231.md)
+  - First-tier Tribunal and Upper Tribunal
+    - [s. 231A Additional Powers of First-tier Tribunal and Upper Tribunal](section/231A.md)
+    - [s. 231B Transfer from court to First-tier Tribunal](section/231B.md)
+    - [s. 231C Appeals from the First-tier Tribunal](section/231C.md)
+    - [s. 231D Enforcement](section/231D.md)
+  - Register of licences and management orders
+    - [s. 232 Register of licences and management orders](section/232.md)
+  - Codes of practice and management regulations relating to HMOs etc.
+    - [s. 233 Approval of codes of practice with regard to the management of HMOs etc.](section/233.md)
+    - [s. 234 Management regulations in respect of HMOs](section/234.md)
+  - Information provisions
+    - [s. 235 Power to require documents to be produced](section/235.md)
+    - [s. 236 Enforcement of powers to obtain information](section/236.md)
+    - [s. 237 Use of information obtained for certain other statutory purposes](section/237.md)
+    - [s. 238 False or misleading information](section/238.md)
+  - Enforcement
+    - [s. 239 Powers of entry](section/239.md)
+    - [s. 240 Warrant to authorise entry](section/240.md)
+    - [s. 241 Penalty for obstruction](section/241.md)
+    - [s. 242 Additional notice requirements for protection of owners](section/242.md)
+  - Authorisations
+    - [s. 243 Authorisations for enforcement purposes etc.](section/243.md)
+  - Documents
+    - [s. 244 Power to prescribe forms](section/244.md)
+    - [s. 245 Power to dispense with notices](section/245.md)
+    - [s. 246 Service of documents](section/246.md)
+    - [s. 247 Licences and other documents in electronic form](section/247.md)
+    - [s. 248 Timing and location of things done electronically](section/248.md)
+    - [s. 249 Proof of designations](section/249.md)
+  - Financial penalties as alternative to prosecution
+    - [s. 249A Financial penalties for certain housing offences in England](section/249A.md)
+  - Other supplementary provisions
+    - [s. 250 Orders and regulations](section/250.md)
+    - [s. 251 Offences by bodies corporate](section/251.md)
+    - [s. 252 Power to up-rate level of fines for certain offences](section/252.md)
+    - [s. 253 Local inquiries](section/253.md)
+  - Meaning of “house in multiple occupation”
+    - [s. 254 Meaning of “house in multiple occupation”](section/254.md)
+    - [s. 255 HMO declarations](section/255.md)
+    - [s. 256 Revocation of HMO declarations](section/256.md)
+    - [s. 257 HMOs: certain converted blocks of flats](section/257.md)
+    - [s. 258 HMOs: persons not forming a single household](section/258.md)
+    - [s. 259 HMOs: persons treated as occupying premises as only or main residence](section/259.md)
+    - [s. 260 HMOs: presumption that sole use condition or significant use condition is met](section/260.md)
+  - Other general interpretation provisions
+    - [s. 261 Meaning of “appropriate national authority”, “local housing authority” etc.](section/261.md)
+    - [s. 262 Meaning of “lease”, “tenancy”, “occupier” and “owner” etc.](section/262.md)
+    - [s. 263 Meaning of “person having control” and “person managing” etc.](section/263.md)
+    - [s. 264 Calculation of numbers of persons](section/264.md)
+  - Final provisions
+    - [s. 265 Minor and consequential amendments](section/265.md)
+    - [s. 266 Repeals](section/266.md)
+    - [s. 267 Devolution: Wales](section/267.md)
+    - [s. 268 The Isles of Scilly](section/268.md)
+    - [s. 269 Expenses](section/269.md)
+    - [s. 270 Short title, commencement and extent](section/270.md)
+- Schedule A1 Procedure and appeals relating to financial penalties under section 6A
+  - [Sch. A1 para. 1 Notice of intent](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2 Notice of intent](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3 Notice of intent](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4 Right to make representations](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5 Final notice](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6 Final notice](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7 Final notice](schedule/A1/paragraph/7.md)
+  - [Sch. A1 para. 8 Final notice](schedule/A1/paragraph/8.md)
+  - [Sch. A1 para. 9 Withdrawal or amendment of notice](schedule/A1/paragraph/9.md)
+  - [Sch. A1 para. 10 Appeals](schedule/A1/paragraph/10.md)
+  - [Sch. A1 para. 11 Recovery of financial penalty](schedule/A1/paragraph/11.md)
+  - [Sch. A1 para. 12 Proceeds of financial penalties](schedule/A1/paragraph/12.md)
+  - [Sch. A1 para. 13 Proceeds of financial penalties](schedule/A1/paragraph/13.md)
+  - [Sch. A1 para. 14 Proceeds of financial penalties](schedule/A1/paragraph/14.md)
+- SCHEDULE 1 Procedure and appeals relating to improvement notices
+  - Part 1 Service of improvement notices
+    - Service of improvement notices: premises licensed under Part 2 or 3
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Service of improvement notices: premises which are neither licensed under Part 2 or 3 nor flats
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Service of improvement notices: flats which are not licensed under Part 2 or 3
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Service of improvement notices: common parts
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Service of copies of improvement notices
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part 2 Service of notices relating to revocation or variation of improvement notices
+    - Notice of revocation or variation
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Notice of refusal to revoke or vary notice
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part 3 Appeals relating to improvement notices
+    - Appeal against improvement notice
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Appeal against decision relating to variation or revocation of improvement notice
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Time limit for appeal
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Powers of ... tribunal on appeal under paragraph 10
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Powers of ... tribunal on appeal under paragraph 13
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - “The operative time” for the purposes of section 15(5)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - “The operative time” for the purposes of section 16(7)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Procedure and appeals relating to prohibition orders
+  - Part 1 Service of copies of prohibition orders
+    - Service on owners and occupiers of dwelling or HMO which is not a flat
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Service on owners and occupiers of building containing flats etc.
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part 2 Service of notices relating to revocation or variation of prohibition orders
+    - Notice of revocation or variation
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Notice of refusal to revoke or vary order
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 3 Appeals relating to prohibition orders
+    - Appeal against prohibition order
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Appeal against decision relating to revocation or variation of prohibition order
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Time limit for appeal
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Powers of ... tribunal on appeal under paragraph 7
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Powers of ... tribunal on appeal under paragraph 9
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - “The operative time” for the purposes of section 24(5)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - “The operative time” for the purposes of section 25(7)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Meaning of “relevant person”
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 Improvement notices: enforcement action by local housing authorities
+  - Part 1 Action taken by agreement
+    - Power to take action by agreement
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Expenses of taking action by agreement
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part 2 Power to take action without agreement
+    - Power to take action without agreement
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Notice requirements in relation to taking action without agreement
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Obstruction of action taken without agreement
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Expenses in relation to taking action without agreement
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part 3 Recovery of certain expenses
+    - Introductory
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Recovery of expenses
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Service of demand
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Interest
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Appeals
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Expenses and interest recoverable from occupiers
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Expenses and interest to be a charge on the premises
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Recovery of expenses and interest from other persons profiting from taking of action
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Licences under Parts 2 and 3: mandatory conditions
+  - Conditions to be included in licences under Part 2 or 3
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Additional conditions to be included in licences under Part 2: floor area etc
+    - [Sch. 4 para. 1A](schedule/4/paragraph/1A.md)
+  - Time for compliance with conditions under paragraph 1A(2) and (3)
+    - [Sch. 4 para. 1B](schedule/4/paragraph/1B.md)
+  - Additional conditions to be included in licences under Part 2: household waste
+    - [Sch. 4 para. 1C](schedule/4/paragraph/1C.md)
+  - Additional conditions to be included in licences under Part 3
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Power to prescribe conditions
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Interpretation
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Licences under Parts 2 and 3: procedure and appeals
+  - Part 1 Procedure relating to grant or refusal of licences
+    - Requirements before grant of licence
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Requirements before refusal to grant licence
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Requirements following grant or refusal of licence
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Exceptions from requirements in relation to grant or refusal of licences
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 11A](schedule/5/paragraph/11A.md)
+    - Meaning of “the end of the consultation period”
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Meaning of “licence” and “relevant person”
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Part 2 Procedure relating to variation or revocation of licences
+    - Variation of licences
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Exceptions from requirements of paragraph 14
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Refusal to vary a licence
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Revocation of licences
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Exception from requirements of paragraph 22
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 25A](schedule/5/paragraph/25A.md)
+    - Refusal to revoke a licence
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Meaning of “the end of the consultation period”
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Meaning of “licence” and “relevant person”
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - Part 3 Appeals against licence decisions
+    - Right to appeal against refusal or grant of licence
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Right to appeal against decision or refusal to vary or revoke licence
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - No rights of appeal where banning order involved
+      - [Sch. 5 para. 32A](schedule/5/paragraph/32A.md)
+    - Time limits for appeals
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Powers of ... tribunal hearing appeal
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - “The operative time” for the purposes of section 69(6), 70(8), 92(3) or 93(5)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - Meaning of “licence” and “relevant person”
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+- SCHEDULE 6 Management orders: procedure and appeals
+  - Part 1 Procedure relating to making of management orders
+    - Requirements before making final management order
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Exceptions from requirements relating to making of final management order
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Requirements following making of interim or final management order
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Meaning of “the end of the consultation period” and “relevant person”
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Part 2 Procedure relating to variation or revocation of management orders
+    - Variation of management orders
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Exceptions from requirements of paragraph 9
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Refusal to vary interim or final management order
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Revocation of management orders
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Refusal to revoke management order
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Meaning of “the end of the consultation period” and “relevant person”
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Part 3 Appeals against decisions relating to management orders
+    - Right to appeal against making of order etc.
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Time limits for appeals under paragraph 24
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Powers of ... tribunal on appeal under paragraph 24
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - “The operative time” for the purposes of section 114(2)
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Right to appeal against decision or refusal to vary or revoke interim management order
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Time limits for appeals under paragraph 28
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - Powers of ... tribunal on appeal under paragraph 28
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - “The operative time” for the purposes of section 111(2), 112(2), 121(2) or 122(2)
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - Right to appeal against decision in respect of compensation payable to third parties
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Time limits for appeals under paragraph 32
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - Powers of ... tribunal on appeal under paragraph 32
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - Meaning of “relevant person”
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+- SCHEDULE 7 Further provisions regarding empty dwelling management orders
+  - Part 1 Interim EDMOs
+    - Operation of interim EDMOs
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - General effect of interim EDMOs
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - General effect of interim EDMOs: leases and licences granted by authority
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - General effect of interim EDMOs: relevant proprietor, mortgagees etc.
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Financial arrangements while order is in force
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Variation or revocation of interim EDMOs
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part 2 Final EDMOs
+    - Operation of final EDMOs
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - General effect of final EDMOs
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - General effect of final EDMOs: leases and licences granted by authority
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - General effect of final EDMOs: relevant proprietor, mortgagees etc.
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Management scheme and accounts
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Application to residential property tribunal in respect of breach of management scheme
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Variation or revocation of final EDMOs
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Part 3 Interim and final EDMOs: general provisions (other than provisions relating to appeals)
+    - Effect of EDMOs: persons occupying or having a right to occupy the dwelling
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Effect of EDMOs: agreements and legal proceedings
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Effect of EDMOs: furniture
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - EDMOs: power to supply furniture
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Power of a ... tribunal to determine certain leases and licences
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Termination of EDMOs: financial arrangements
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Termination of EDMOs: leases, agreements and proceedings
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - EDMOs: power of entry to carry out work
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Part 4 Appeals
+    - Appeals: decisions relating to EDMOs
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Appeals: time limits for appeals under paragraph 26
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Appeals: powers of ... tribunal on appeal under paragraph 26
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - “The operative time” for the purposes of paragraph 9(2)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - Right to appeal against decision or refusal to vary or revoke EDMO
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Time limits for appeals under paragraph 30
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Powers of ... tribunal on appeal under paragraph 30
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - “The operative time” for the purposes of paragraphs 6, 7, 15 and 16
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Right to appeal against decision in respect of compensation payable to third parties
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - Time limits for appeals under paragraph 34
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Powers of ... tribunal on appeal under paragraph 34
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - Meaning of “relevant person” for the purposes of this Part
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+- SCHEDULE 8
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+- SCHEDULE 9 New Schedule 5A to the Housing Act 1985: initial demolition notices
+- SCHEDULE 10 Provisions relating to tenancy deposit schemes
+  - Schemes to be custodial schemes or insurance schemes
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Provisions applying to custodial and insurance schemes
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Custodial Schemes:general
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Custodial schemes: termination of tenancies
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Custodial schemes: termination of tenancies - absent or un-cooperative landlord or tenant
+    - [Sch. 10 para. 4A](schedule/10/paragraph/4A.md)
+    - [Sch. 10 para. 4B](schedule/10/paragraph/4B.md)
+    - [Sch. 10 para. 4C](schedule/10/paragraph/4C.md)
+  - Insurance schemes: general
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Requirements where deposit is to cease to be retained under an insurance scheme
+    - [Sch. 10 para. 5A](schedule/10/paragraph/5A.md)
+  - Insurance schemes: termination of tenancies
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Notice to be sent to landlord when a direction under paragraph 6(3) is given
+    - [Sch. 10 para. 6A](schedule/10/paragraph/6A.md)
+  - Insurance schemes – supplementary provisions
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Notifications to tenants
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Dispute resolution procedures
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Service of documents: general
+    - [Sch. 10 para. 10A](schedule/10/paragraph/10A.md)
+  - Service of documents by scheme administrator on landlords
+    - [Sch. 10 para. 10B](schedule/10/paragraph/10B.md)
+    - [Sch. 10 para. 10C](schedule/10/paragraph/10C.md)
+  - Power to amend
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Interpretation
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+- SCHEDULE 11 Registered social landlords
+  - Housing Associations Act 1985 (c. 69)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+- SCHEDULE 12 New Schedule 2A to the Housing Act 1996
+- SCHEDULE 13 Residential property tribunals: procedure
+  - Procedure regulations
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Applications and appeals
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Transfers
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Parties etc.
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Information
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Pre-trial reviews etc.
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Interim orders
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Additional relief
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Dismissal
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Determination without hearing
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Fees
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Costs
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Enforcement
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+- SCHEDULE 13A Financial penalties under section 249A
+  - Notice of intent
+    - [Sch. 13A para. 1](schedule/13A/paragraph/1.md)
+    - [Sch. 13A para. 2](schedule/13A/paragraph/2.md)
+    - [Sch. 13A para. 3](schedule/13A/paragraph/3.md)
+  - Right to make representations
+    - [Sch. 13A para. 4](schedule/13A/paragraph/4.md)
+  - Final notice
+    - [Sch. 13A para. 5](schedule/13A/paragraph/5.md)
+    - [Sch. 13A para. 6](schedule/13A/paragraph/6.md)
+    - [Sch. 13A para. 7](schedule/13A/paragraph/7.md)
+    - [Sch. 13A para. 8](schedule/13A/paragraph/8.md)
+  - Withdrawal or amendment of notice
+    - [Sch. 13A para. 9](schedule/13A/paragraph/9.md)
+  - Appeals
+    - [Sch. 13A para. 10](schedule/13A/paragraph/10.md)
+  - Recovery of financial penalty
+    - [Sch. 13A para. 11](schedule/13A/paragraph/11.md)
+  - Guidance
+    - [Sch. 13A para. 12](schedule/13A/paragraph/12.md)
+- SCHEDULE 14 Buildings which are not HMOs for purposes of this Act (excluding Part 1)
+  - Introduction: buildings (or parts) which are not HMOs for purposes of this Act (excludingPart 1)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Buildings controlled or managed by public sector bodies etc.
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 2A](schedule/14/paragraph/2A.md)
+    - [Sch. 14 para. 2B Buildings controlled or managed by a co-operative society](schedule/14/paragraph/2B.md)
+  - Buildings regulated otherwise than under this Act
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Buildings occupied by students: England
+    - [Sch. 14 para. 3A](schedule/14/paragraph/3A.md)
+  - Buildings occupied by students: Wales
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Buildings occupied by religious communities
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Buildings occupied by owners
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Buildings occupied by two persons
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+- SCHEDULE 15 Minor and consequential amendments
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Land Compensation Act 1973 (c. 26)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Greater London Council (General Powers) Act 1981 (c. xvii)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Mobile Homes Act 1983 (c. 34)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+    - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+    - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+  - Landlord and Tenant Act 1985 (c. 70)
+    - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+    - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+  - Health Service Commissioners Act 1993 (c. 46)
+    - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+  - Home Energy Conservation Act 1995 (c. 10)
+    - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+  - Gas Act 1995 (c. 45)
+    - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 15 para. 40](schedule/15/paragraph/40.md)
+    - [Sch. 15 para. 41](schedule/15/paragraph/41.md)
+    - [Sch. 15 para. 42](schedule/15/paragraph/42.md)
+    - [Sch. 15 para. 43](schedule/15/paragraph/43.md)
+  - Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+    - [Sch. 15 para. 44](schedule/15/paragraph/44.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 15 para. 45](schedule/15/paragraph/45.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 15 para. 46](schedule/15/paragraph/46.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 15 para. 47](schedule/15/paragraph/47.md)
+- SCHEDULE 16 Repeals
