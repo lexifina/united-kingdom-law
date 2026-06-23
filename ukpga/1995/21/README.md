@@ -1,0 +1,1423 @@
+# Merchant Shipping Act 1995
+
+1995 c. 21. Enacted 1995-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-23, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
+
+Source: https://www.legislation.gov.uk/ukpga/1995/21/2026-06-23
+
+## Contents
+
+- PART I BRITISH SHIPS
+  - [s. 1 British ships and United Kingdom ships.](section/1.md)
+  - [s. 2 British flag.](section/2.md)
+  - [s. 3 Offences relating to British character of ship.](section/3.md)
+  - [s. 4 Penalty for carrying improper colours.](section/4.md)
+  - [s. 5 Duty to show British flag.](section/5.md)
+  - [s. 6 Duty to declare national character of ship.](section/6.md)
+  - [s. 7 Proceedings on forfeiture of a ship.](section/7.md)
+- Part II Registration
+  - General
+    - [s. 8 Central register of British ships.](section/8.md)
+    - [s. 9 Registration of ships: basic provisions.](section/9.md)
+    - [s. 10 Registration regulations.](section/10.md)
+    - [s. 11 Tonnage ascertained for registration to be tonnage of ship.](section/11.md)
+    - [s. 12 Tonnage of ships of foreign countries adopting tonnage regulations.](section/12.md)
+    - [s. 13 Status of certificate of registration.](section/13.md)
+    - [s. 14 Offences relating to a ship’s British connection.](section/14.md)
+    - [s. 15 Supplementary provisions as respects fishing vessels.](section/15.md)
+    - [s. 16 Private law provisions for registered ships and liability as owner.](section/16.md)
+  - Ships on bareboat charter
+    - [s. 17 Ships bareboat chartered-in by British charterers.](section/17.md)
+  - Supplemental
+    - [s. 18 Regulation of registration in British possessions by reference to categories of registries.](section/18.md)
+    - [s. 19 Tonnage regulations.](section/19.md)
+    - [s. 20 Proceedings on forfeiture of ship.](section/20.md)
+    - [s. 21 Disclosure of information relating to registration by other government departments.](section/21.md)
+    - [s. 22 Forgery of documents: Scotland.](section/22.md)
+    - [s. 23 Interpretation.](section/23.md)
+- Part III Masters and Seamen
+  - Application of Part
+    - [s. 24 Application of this Part.](section/24.md)
+  - Engagement and discharge of crews
+    - [s. 25 Crew agreements.](section/25.md)
+    - [s. 26 Regulations relating to crew agreements.](section/26.md)
+    - [s. 27 Discharge of seamen.](section/27.md)
+    - [s. 28 Seamen left behind abroad otherwise than on discharge.](section/28.md)
+    - [s. 29 Discharge of seamen when ship ceases to be registered in United Kingdom.](section/29.md)
+  - Wages etc.
+    - [s. 30 Payment of seamen’s wages.](section/30.md)
+    - [s. 31 Account of seaman’s wages.](section/31.md)
+    - [s. 32 Regulations relating to wages and accounts.](section/32.md)
+    - [s. 33 Power of superintendent or proper officer to decide disputes about wages.](section/33.md)
+    - [s. 34 Restriction on assignment of and charge upon wages.](section/34.md)
+    - [s. 35 Power of court to award interest on wages due otherwise than under crew agreement.](section/35.md)
+    - [s. 36 Allotment notes.](section/36.md)
+    - [s. 37 Right of person named in allotment to sue in own name.](section/37.md)
+    - [s. 38 Right, or loss of right, to wages in certain circumstances.](section/38.md)
+    - [s. 39 Protection of certain rights and remedies.](section/39.md)
+    - [s. 40 Claims against seaman’s wages for maintenance, etc. of dependants.](section/40.md)
+    - [s. 41 Remedies of master for remuneration, disbursements and liabilities.](section/41.md)
+  - Safety, health and welfare
+    - [s. 42 Obligation of shipowners as to seaworthiness.](section/42.md)
+    - [s. 43 Crew accommodation.](section/43.md)
+    - [s. 44 Complaints about provisions or water.](section/44.md)
+    - [s. 45 Expenses of medical and other treatment during voyage.](section/45.md)
+  - Manning, qualifications, training and uniform
+    - [s. 46 Application of sections 47 to 51.](section/46.md)
+    - [s. 47 Manning.](section/47.md)
+    - [s. 48 Power to exempt from manning requirements.](section/48.md)
+    - [s. 49 Prohibition of going to sea undermanned.](section/49.md)
+    - [s. 50 Production of certificates and other documents of qualification.](section/50.md)
+    - [s. 51 Crew’s knowledge of English.](section/51.md)
+    - [s. 52 Unqualified persons going to sea as qualified officers or seamen.](section/52.md)
+    - [s. 53 Medical treatment on board ship.](section/53.md)
+    - [s. 54 Special certificates of competence.](section/54.md)
+    - [s. 55 Young persons.](section/55.md)
+    - [s. 56 Financial assistance for training.](section/56.md)
+    - [s. 57 Uniform.](section/57.md)
+  - Offences by seamen, etc
+    - [s. 58 Conduct endangering ships, structures or individuals.](section/58.md)
+    - [s. 59 Concerted disobedience and neglect of duty.](section/59.md)
+  - Disciplinary offences
+    - [s. 60 Breaches by seamen of codes of conduct.](section/60.md)
+  - Disqualification of seamen and inquiries
+    - [s. 61 Inquiry into fitness or conduct of officer.](section/61.md)
+    - [s. 62 Disqualification of holder of certificate other than officer’s.](section/62.md)
+    - [s. 63 Inquiry into fitness or conduct of seaman other than officer.](section/63.md)
+    - [s. 64 Re-hearing of and appeal from inquiries.](section/64.md)
+    - [s. 65 Rules as to inquiries and appeals.](section/65.md)
+    - [s. 66 Failure to deliver cancelled or suspended certificate.](section/66.md)
+    - [s. 67 Power to restore certificate.](section/67.md)
+    - [s. 68 Power to summon witness to inquiry into fitness or conduct of officer or other seaman.](section/68.md)
+    - [s. 69 Procedure where inquiry into fitness or conduct of officer or other seaman is held by sheriff.](section/69.md)
+  - Civil liability of seamen for offences
+    - [s. 70 Civil liability for absence without leave.](section/70.md)
+    - [s. 71 Civil liability for smuggling.](section/71.md)
+    - [s. 72 Civil liability for fines imposed under immigration laws.](section/72.md)
+  - Relief and repatriation and relief costs
+    - [s. 73 Relief and return of seamen etc. left behind and shipwrecked.](section/73.md)
+    - [s. 74 Limit of employer’s liability under section 73.](section/74.md)
+    - [s. 75 Recovery of expenses incurred for relief and return, etc.](section/75.md)
+    - [s. 76 Financial assistance in respect of crew relief costs.](section/76.md)
+  - Documentation
+    - [s. 77 Official log books.](section/77.md)
+    - [s. 78 Lists of crew.](section/78.md)
+    - [s. 79 British seamen’s cards.](section/79.md)
+    - [s. 80 Discharge books.](section/80.md)
+    - [s. 81 Handing over of documents by master.](section/81.md)
+  - Merchant Navy Reserve
+    - [s. 82 Maintenance of Merchant Navy Reserve.](section/82.md)
+    - [s. 83 Supplementary provisions as respects the Reserve.](section/83.md)
+  - Interpretation
+    - [s. 84 Interpretation.](section/84.md)
+- Part 3A International agreements relating to maritime employment
+  - [s. 84A International agreements relating to maritime employment](section/84A.md)
+  - [s. 84B Regulations under section 84A: supplementary](section/84B.md)
+- Part IV Safety
+  - Safety and Health on Ships
+    - [s. 85 Safety and health on ships.](section/85.md)
+    - [s. 86 Provisions supplementary to section 85: general.](section/86.md)
+    - [s. 87 Provisions supplementary to section 85: dangerous goods.](section/87.md)
+    - [s. 88 Safety of submersible and supporting apparatus.](section/88.md)
+  - Special provisions
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91](section/91.md)
+  - Assistance at sea
+    - [s. 92 Duty of ship to assist the other in case of collision.](section/92.md)
+    - [s. 93 Duty to assist aircraft in distress.](section/93.md)
+  - Unsafe ships
+    - [s. 94 Meaning of “dangerously unsafe ship”.](section/94.md)
+    - [s. 95 Power to detain dangerously unsafe ship.](section/95.md)
+    - [s. 96 References of detention notices to arbitration.](section/96.md)
+    - [s. 97 Compensation in connection with invalid detention of ship.](section/97.md)
+    - [s. 98 Owner and master liable in respect of dangerously unsafe ship.](section/98.md)
+    - [s. 99 Use of unsafe lighters, etc.](section/99.md)
+    - [s. 100 Owner liable for unsafe operation of ship.](section/100.md)
+  - Temporary exclusion zones
+    - [s. 100A Power to establish temporary exclusion zones.](section/100A.md)
+    - [s. 100B Temporary exclusion zones: offences](section/100B.md)
+  - Power to require ships to be moved
+    - [s. 100C Power to require ships to be moved.](section/100C.md)
+    - [s. 100D Offences in relation to section 100C.](section/100D.md)
+    - [s. 100E Service of directions under section 100C.](section/100E.md)
+    - [s. 100F Requirements to be met by ships in respect of which trans-shipment licences in force.](section/100F.md)
+    - [s. 100G Failure to comply with prescribed standards in respect of ship in respect of which trans-shipment licence is in force.](section/100G.md)
+  - Control of, and returns as to, persons on ships
+    - [s. 101 Offences in connection with passenger ships.](section/101.md)
+    - [s. 102 Power to exclude drunken passengers from certain passenger ships.](section/102.md)
+    - [s. 103 Stowaways.](section/103.md)
+    - [s. 104 Unauthorised presence on board ship.](section/104.md)
+    - [s. 105 Master’s power of arrest.](section/105.md)
+    - [s. 106 Unauthorised persons: offences relating to safety.](section/106.md)
+    - [s. 107 Return to be furnished by masters of ships as to passengers.](section/107.md)
+    - [s. 108 Returns of births and deaths in ships, etc.](section/108.md)
+    - [s. 108A Safety directions](section/108A.md)
+- Part V Fishing Vessels
+  - Chapter I Skipper and Seamen
+    - Engagement and discharge of crews
+      - [s. 109 Regulations relating to crew agreements.](section/109.md)
+    - Wages
+      - [s. 110 Payments of seamen’s wages.](section/110.md)
+      - [s. 111 Regulations relating to wages: deductions.](section/111.md)
+      - [s. 112 Accounts of wages and catch.](section/112.md)
+      - [s. 113 Restriction on assignment of and charge upon wages.](section/113.md)
+      - [s. 114 Right, or loss of right, to wages in certain circumstances.](section/114.md)
+    - Safety, health and welfare
+      - [s. 115 Hours of work.](section/115.md)
+    - Manning and qualifications
+      - [s. 116 Production of crew certificates and other documents of qualification.](section/116.md)
+    - Offences by seamen
+      - [s. 117 Drunkenness on duty.](section/117.md)
+      - [s. 118 Unauthorised liquor.](section/118.md)
+      - [s. 119 Disciplinary offences.](section/119.md)
+    - Exemptions
+      - [s. 120 Power to grant exemptions from this Chapter.](section/120.md)
+  - Chapter II Safety
+    - [s. 121 Fishing vessel construction rules.](section/121.md)
+    - [s. 122 Fishing vessel survey rules.](section/122.md)
+    - [s. 123 Fishing vessel certificates.](section/123.md)
+    - [s. 124 Provisions supplementary to section 123.](section/124.md)
+    - [s. 125 Prohibition on going to sea without appropriate certificate.](section/125.md)
+    - [s. 126 Notice of alterations.](section/126.md)
+    - Training
+      - [s. 127 Training in safety matters.](section/127.md)
+- Part VI Prevention of Pollution
+  - Chapter I Pollution Generally
+    - [s. 128 Prevention of pollution from ships etc.](section/128.md)
+    - [s. 129 Further provision for prevention of pollution from ships.](section/129.md)
+    - [s. 130 Regulation of transfers between ships in territorial waters.](section/130.md)
+  - Chapter IA Waste reception facilities at harbours
+    - [s. 130A General.](section/130A.md)
+    - [s. 130B Waste management plans.](section/130B.md)
+    - [s. 130C Charges for and use of waste reception facilities.](section/130C.md)
+    - [s. 130D Supplementary.](section/130D.md)
+    - [s. 130E Interpretation of Chapter IA.](section/130E.md)
+  - Chapter II Oil Pollution
+    - General provisions for preventing pollution
+      - [s. 131 Discharge of oil from ships into certain United Kingdom waters.](section/131.md)
+      - [s. 132 Defences of owner or master charged with offence under section 131.](section/132.md)
+      - [s. 133 Defences of occupier charged with offence under section 131](section/133.md)
+      - [s. 134 Protection for acts done in exercise of certain powers of harbour authorities, etc.](section/134.md)
+      - [s. 135 Restrictions on transfer of oil at night.](section/135.md)
+      - [s. 136 Duty to report discharge of oil into waters of harbours.](section/136.md)
+      - [s. 136A Discharges etc. authorised under other enactments.](section/136A.md)
+    - Shipping casualties
+      - [s. 137 Shipping casualties.](section/137.md)
+      - [s. 138 Right to recover in respect of unreasonable loss or damage.](section/138.md)
+      - [s. 138A Application of sections 137 and 138 to pollution by substances other than oil.](section/138A.md)
+      - [s. 139 Offences in relation to section 137.](section/139.md)
+      - [s. 140 Service of directions under section 137.](section/140.md)
+      - [s. 141 Application of sections 137 to 140 to certain foreign and other ships.](section/141.md)
+    - Enforcement
+      - [s. 142 Oil records.](section/142.md)
+      - [s. 143 Prosecutions and enforcement of fines.](section/143.md)
+      - [s. 144 Power to detain ships for section 131 offences.](section/144.md)
+      - [s. 145 Interpretation of section 144](section/145.md)
+      - [s. 146 Enforcement and application of fines.](section/146.md)
+      - [s. 147 Enforcement of Conventions relating to oil pollution.](section/147.md)
+    - Miscellaneous and supplementary
+      - [s. 148 Power of Secretary of State to grant exemptions.](section/148.md)
+      - [s. 149 Application to Government ships.](section/149.md)
+      - [s. 150 Annual Report.](section/150.md)
+      - [s. 151 Interpretation.](section/151.md)
+  - Chapter III Liability for Oil Pollution
+    - Preliminary
+      - [s. 152 Meaning of “the Bunkers Convention”, “the Liability Convention” and related expressions.](section/152.md)
+    - Liability
+      - [s. 153 Liability for oil pollution in case of tankers.](section/153.md)
+      - [s. 153A Liability for pollution by bunker oil](section/153A.md)
+      - [s. 154 Liability for oil pollution in other cases.](section/154.md)
+      - [s. 155 Exceptions from liability under sections 153, 153A and 154.](section/155.md)
+      - [s. 156 Restriction of liability for pollution from oil or bunker oil.](section/156.md)
+      - [s. 156A Liability under section 153, 153A or 154: supplementary provisions](section/156A.md)
+    - Limitation of liability under section 153
+      - [s. 157 Limitation of liability under section 153.](section/157.md)
+      - [s. 158 Limitation actions.](section/158.md)
+      - [s. 159 Restriction on enforcement after establishment of limitation fund.](section/159.md)
+      - [s. 160 Concurrent liabilities of owners and others.](section/160.md)
+      - [s. 161 Establishment of limitation fund outside United Kingdom.](section/161.md)
+    - Limitation period for claims under this Chapter
+      - [s. 162 Extinguishment of claims.](section/162.md)
+    - Compulsory insurance
+      - [s. 163 Compulsory insurance against liability for pollution.](section/163.md)
+      - [s. 163A Compulsory insurance against liability for pollution from bunker oil](section/163A.md)
+      - [s. 164 Issue of certificate by Secretary of State.](section/164.md)
+      - [s. 165 Rights of third parties against insurers.](section/165.md)
+    - Supplementary
+      - [s. 166 Jurisdiction of United Kingdom courts and registration of foreign judgments.](section/166.md)
+      - [s. 167 Government ships.](section/167.md)
+      - [s. 168 Limitation of liability under section 153A or 154.](section/168.md)
+      - [s. 169 Saving for recourse actions.](section/169.md)
+      - [s. 170 Interpretation.](section/170.md)
+      - [s. 171 Transitory text of this Chapter and power to make transitional provisions.](section/171.md)
+  - Chapter IV International Oil Pollution
+    - Preliminary
+      - [s. 172 Meaning of the “Liability Convention”, “the Fund Convention” and related expressions.](section/172.md)
+    - Contributions to Fund
+      - [s. 173 Contributions by importers of oil and others.](section/173.md)
+      - [s. 174 Power to obtain information.](section/174.md)
+    - Compensation for persons suffering pollution damage
+      - [s. 175 Liability of the Fund.](section/175.md)
+      - [s. 176 Limitation of Fund’s liability under section 175.](section/176.md)
+      - [s. 176A Liability of the Supplementary Fund](section/176A.md)
+      - [s. 176B Limitation of the Supplementary Fund’s liability under section 176A](section/176B.md)
+    - Supplemental
+      - [s. 177 Jurisdiction and effect of judgments.](section/177.md)
+      - [s. 178](section/178.md)
+      - [s. 179 Subrogation.](section/179.md)
+      - [s. 180 Supplementary provisions as to proceedings involving the Fund.](section/180.md)
+      - [s. 181 Interpretation.](section/181.md)
+      - [s. 182 Transitory text of this Chapter and power to make transitional provisions.](section/182.md)
+  - Chapter V Carriage of hazardous and noxious substances
+    - [s. 182A Introductory.](section/182A.md)
+    - [s. 182B Power to give effect to Convention.](section/182B.md)
+    - [s. 182C Power of Secretary of State to make orders.](section/182C.md)
+- Part VII Liability of Shipowners and Others
+  - Carriage of passengers and luggage by sea
+    - [s. 183 Scheduled convention to have force of law.](section/183.md)
+    - [s. 184 Application of Schedule 6 to carriage within British Islands.](section/184.md)
+  - Limitation of liability of shipowners, etc and salvors for maritime claims
+    - [s. 185 Limitation of liability for maritime claims.](section/185.md)
+    - [s. 186 Exclusion of liability.](section/186.md)
+  - Multiple fault; apportionment, liability and contribution
+    - [s. 187 Damage or loss: apportionment of liability.](section/187.md)
+    - [s. 188 Loss of life or personal injuries: joint and several liability.](section/188.md)
+    - [s. 189 Loss of life or personal injuries: right of contribution.](section/189.md)
+  - Time limit for proceedings against owners or ship
+    - [s. 190 Time limit for proceedings against owners or ship.](section/190.md)
+  - Limitation of liability of harbour, conservancy, dock and canal authorities
+    - [s. 191 Limitation of liability.](section/191.md)
+  - Application to Crown and its ships
+    - [s. 192 Application to Crown and its ships.](section/192.md)
+  - Regulations requiring insurance or security
+    - [s. 192A Compulsory insurance or security](section/192A.md)
+- Part VIII Lighthouses
+  - Lighthouse authorities
+    - [s. 193 General and local lighthouse authorities.](section/193.md)
+  - Information to Secretary of State
+    - [s. 194 Returns and information to Secretary of State.](section/194.md)
+  - Functions of general lighthouse authorities
+    - [s. 195 General function of management of lighthouses, etc.](section/195.md)
+    - [s. 196 Joint discharge of functions.](section/196.md)
+    - [s. 197 General powers of general lighthouse authority.](section/197.md)
+    - [s. 197A General lighthouse authorities: commercial activities](section/197A.md)
+    - [s. 198 Inspection of local lighthouses.](section/198.md)
+    - [s. 199 Control of local lighthouse authorities.](section/199.md)
+  - Inspections by Secretary of State
+    - [s. 200 Powers of inspection by Secretary of State.](section/200.md)
+  - Powers of harbour authorities as local lighthouse authorities
+    - [s. 201 Powers of harbour authorities.](section/201.md)
+  - Transfers between general and local lighthouse authorities
+    - [s. 202 ................................](section/202.md)
+    - [s. 203 Individual transfers of local lighthouses to harbour authorities.](section/203.md)
+    - [s. 204 Surrender of local lighthouses.](section/204.md)
+  - General light dues
+    - [s. 205 Light dues leviable by general lighthouse authorities.](section/205.md)
+    - [s. 206 Information to determine light dues.](section/206.md)
+    - [s. 207 Recovery of general light dues.](section/207.md)
+    - [s. 208 Distress on ship for general light dues.](section/208.md)
+    - [s. 209 Receipt for general light dues and its production.](section/209.md)
+  - Local light dues
+    - [s. 210 Light dues leviable by local lighthouse authorities.](section/210.md)
+  - Financial and administrative provisions
+    - [s. 211 General Lighthouse Fund: expenses and receipts.](section/211.md)
+    - [s. 212 Establishments of general lighthouse authorities.](section/212.md)
+    - [s. 213 Estimates or accounts of expenses to Secretary of State.](section/213.md)
+    - [s. 214 Pension rights of certain employees.](section/214.md)
+    - [s. 215 Borrowing powers of general lighthouse authorities.](section/215.md)
+    - [s. 216 Limit on borrowings under section 215.](section/216.md)
+    - [s. 217 Guarantees by Secretary of State.](section/217.md)
+    - [s. 218 Accounts of general lighthouse authorities.](section/218.md)
+  - Offences in connection with lighthouses, buoys, beacons, etc.
+    - [s. 219 Damage etc. to lighthouses etc.](section/219.md)
+    - [s. 220 Prevention of false lights.](section/220.md)
+  - Exemptions from taxes, duties, etc
+    - [s. 221 Exemption from taxes, duties, rates etc.](section/221.md)
+    - [s. 222 Exemption from harbour dues.](section/222.md)
+    - [s. 222A Disclosure of information to general lighthouse authorities.](section/222A.md)
+  - Supplemental
+    - [s. 223 Interpretation, etc.](section/223.md)
+- Part IX Salvage and Wreck
+  - Chapter 1 Salvage
+    - [s. 224 Salvage Convention 1989 to have force of law.](section/224.md)
+    - [s. 225 Valuation of property by receiver.](section/225.md)
+    - [s. 226 Detention of property liable for salvage by receiver.](section/226.md)
+    - [s. 227 Sale of detained property by receiver.](section/227.md)
+    - [s. 228 Apportionment of salvage under £5,000 by the receiver.](section/228.md)
+    - [s. 229 Apportionment of salvage by the court.](section/229.md)
+    - [s. 230 Salvage claims against the Crown and Crown rights of salvage and regulation thereof.](section/230.md)
+  - Chapter II Wreck
+    - Vessels in distress
+      - [s. 231 Application of, and discharge of functions under, sections 232, 233 234 and 235.](section/231.md)
+      - [s. 232 Duty of receiver where vessel in distress.](section/232.md)
+      - [s. 233 Powers of receiver in case of vessel in distress.](section/233.md)
+      - [s. 234 Power to pass over adjoining land.](section/234.md)
+      - [s. 235 Liability for damage in case of plundered vessel.](section/235.md)
+    - Dealing with wreck
+      - [s. 236 Duties of finder etc of wreck.](section/236.md)
+      - [s. 237 Provisions as respects cargo, etc.](section/237.md)
+      - [s. 238 Receiver to give notice of wreck.](section/238.md)
+      - [s. 239 Claims of owners to wreck.](section/239.md)
+      - [s. 240 Immediate sale of wreck in certain cases.](section/240.md)
+    - Unclaimed wreck
+      - [s. 241 Right of Crown to unclaimed wreck.](section/241.md)
+      - [s. 242 Notice of unclaimed wreck to be given to persons entitled.](section/242.md)
+      - [s. 243 Disposal of unclaimed wreck.](section/243.md)
+      - [s. 244 Effect of delivery of wreck etc under this Part.](section/244.md)
+    - Offences in respect of wreck
+      - [s. 245 Taking wreck to foreign port.](section/245.md)
+      - [s. 246 Interfering with wrecked vessel or wreck.](section/246.md)
+      - [s. 247 Powers of entry etc.](section/247.md)
+  - Chapter III Supplemental
+    - Administration
+      - [s. 248 Functions of Secretary of State as to wreck.](section/248.md)
+      - [s. 249 Expenses and fees of receivers.](section/249.md)
+    - Coastguard services
+      - [s. 250 Remuneration for services of coastguard.](section/250.md)
+    - Release from customs and excise control
+      - [s. 251 Release of goods from customs and excise control.](section/251.md)
+    - Removal of wrecks
+      - [s. 252 Powers of harbour and conservancy authorities in relation to wrecks.](section/252.md)
+      - [s. 253 Powers of lighthouse authorities in relation to wrecks.](section/253.md)
+      - [s. 254 Referral of questions as to powers between authorities.](section/254.md)
+    - Interpretation
+      - [s. 255 Interpretation.](section/255.md)
+- Part 9A Wreck Removal Convention
+  - Preliminary
+    - [s. 255A “The Wrecks Convention”](section/255A.md)
+  - Reporting, marking and removing
+    - [s. 255B Wreck reports](section/255B.md)
+    - [s. 255C Locating and marking wrecks](section/255C.md)
+    - [s. 255D Removal by registered owner](section/255D.md)
+    - [s. 255E Imposition of conditions about removal](section/255E.md)
+    - [s. 255F Removal in default](section/255F.md)
+    - [s. 255G Liability for costs](section/255G.md)
+    - [s. 255H Limitation period](section/255H.md)
+    - [s. 255I Expenses of general lighthouse authorities](section/255I.md)
+  - Insurance
+    - [s. 255J Wreck removal insurance](section/255J.md)
+    - [s. 255K Failure to insure](section/255K.md)
+    - [s. 255L Detention of ships](section/255L.md)
+    - [s. 255M Production of certificates](section/255M.md)
+    - [s. 255N Issue of certificates](section/255N.md)
+    - [s. 255O Cancellation of certificates](section/255O.md)
+    - [s. 255P Third parties’ rights against insurers](section/255P.md)
+    - [s. 255Q Electronic certificates](section/255Q.md)
+  - Supplemental
+    - [s. 255R Interpretation etc.](section/255R.md)
+    - [s. 255S Government ships](section/255S.md)
+    - [s. 255T Saving](section/255T.md)
+    - [s. 255U Power to amend](section/255U.md)
+- Part X Enforcement Officers and Powers
+  - Enforcement Officers
+    - [s. 256 Appointment of inspectors and surveyors.](section/256.md)
+    - [s. 256A Scottish officers](section/256A.md)
+  - Inspection etc powers
+    - [s. 257 Powers to require production of ships documents.](section/257.md)
+    - [s. 258 Powers to inspect ships and their equipment, etc.](section/258.md)
+    - [s. 259 Powers of inspectors in relation to premises and ships.](section/259.md)
+    - [s. 260 Provisions supplementary to section 259.](section/260.md)
+  - Improvement notices and prohibition notices
+    - [s. 261 Improvement notices.](section/261.md)
+    - [s. 262 Prohibition notices.](section/262.md)
+    - [s. 263 Provisions supplementary to sections 261 and 262.](section/263.md)
+    - [s. 264 References of notices to arbitration.](section/264.md)
+    - [s. 265 Compensation in connection with invalid prohibition notices.](section/265.md)
+    - [s. 266 Offences.](section/266.md)
+- Part XI Accident Investigations and Inquiries
+  - Marine accident investigations
+    - [s. 267 Investigation of marine accidents.](section/267.md)
+    - [s. 268 Formal investigation into marine accidents.](section/268.md)
+    - [s. 269 Re-hearing of and appeal from investigations.](section/269.md)
+    - [s. 270 Rules as to investigations and appeals.](section/270.md)
+  - Inquiries into and reports on deaths and injuries
+    - [s. 271 Inquiries into deaths of crew members and others.](section/271.md)
+    - [s. 272 Reports of and inquiries into injuries.](section/272.md)
+    - [s. 273 Transmission of particulars of certain deaths on ships.](section/273.md)
+- Part XII Legal Proceedings
+  - Prosecution of offences
+    - [s. 274 Time limit for summary offences.](section/274.md)
+    - [s. 275 Time limit for summary orders.](section/275.md)
+    - [s. 276 Summary offences: Scotland.](section/276.md)
+    - [s. 277 Offences by officers of bodies corporate.](section/277.md)
+    - [s. 277A Accessories and abettors](section/277A.md)
+    - [s. 278 Offences by partners, etc. in Scotland.](section/278.md)
+  - Jurisdiction
+    - [s. 279 Jurisdiction in relation to offences.](section/279.md)
+    - [s. 280 Jurisdiction over ships lying off coasts.](section/280.md)
+    - [s. 281 Jurisdiction in case of offences on board ship.](section/281.md)
+    - [s. 282 Offences committed by British seamen.](section/282.md)
+  - Return of offenders
+    - [s. 283 Return of offenders.](section/283.md)
+  - Detention of ship and distress on ship
+    - [s. 284 Enforcing detention of ship.](section/284.md)
+    - [s. 285 Sums ordered to be paid leviable by distress on the ship.](section/285.md)
+  - Special evidential provisions
+    - [s. 286 Depositions of persons abroad admissible.](section/286.md)
+    - [s. 287 Admissibility in evidence and inspection of certain documents.](section/287.md)
+    - [s. 288 Admissibility of documents in evidence.](section/288.md)
+    - [s. 289 Inspection and admissibility in evidence of copies of certain documents.](section/289.md)
+    - [s. 290 Proof, etc of exemptions.](section/290.md)
+  - Service of documents
+    - [s. 291 Service of documents.](section/291.md)
+- Part XIII Supplemental
+  - Administration
+    - [s. 292 General functions of Secretary of State.](section/292.md)
+    - [s. 293 Functions of Secretary of State in relation to marine pollution.](section/293.md)
+    - [s. 294 General power to dispense.](section/294.md)
+    - [s. 295 Registrar General of Shipping and Seamen.](section/295.md)
+    - [s. 296 Mercantile marine superintendents.](section/296.md)
+    - [s. 297 Wreck commissioners, etc.](section/297.md)
+    - [s. 298 Transmission of documents to Registrar General.](section/298.md)
+    - [s. 299 Returns, etc to Secretary of State.](section/299.md)
+    - [s. 300 Forms.](section/300.md)
+    - [s. 301 Advisory committees.](section/301.md)
+  - Financial Provisions
+    - [s. 302 Fees.](section/302.md)
+    - [s. 302A Funding of maritime services.](section/302A.md)
+    - [s. 303 Expenses of Commissioners of Customs and Excise.](section/303.md)
+    - [s. 304 Expenses charged on money provided by Parliament.](section/304.md)
+    - [s. 305 Payments to be made into Consolidated Fund.](section/305.md)
+  - Subordinate Legislation
+    - [s. 306 Regulations, rules and orders, etc.](section/306.md)
+    - [s. 306A Power to make ambulatory references to international instruments](section/306A.md)
+  - Application of Act to certain descriptions of ships, etc.
+    - [s. 307 Application of Act to non-United Kingdom ships.](section/307.md)
+    - [s. 308 Application of Act to government ships.](section/308.md)
+    - [s. 309 Application of Act to ships chartered by demise to the Crown.](section/309.md)
+    - [s. 310 Application of Act to hovercraft.](section/310.md)
+    - [s. 311 Application of Act to certain structures, etc.](section/311.md)
+  - Special provisions for Scots law
+    - [s. 312 Special provisions for Scots law.](section/312.md)
+  - Final provisions
+    - [s. 313 Definitions.](section/313.md)
+    - [s. 313A Meaning of “qualifying foreign ship”.](section/313A.md)
+    - [s. 314 Repeals, consequential amendments and transitional provisions.](section/314.md)
+    - [s. 315 Extent and application.](section/315.md)
+    - [s. 316 Short title and commencement.](section/316.md)
+- SCHEDULE 1 Private Law Provisions for registered ships
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Transfers etc of registered ships
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Mortgages of registered ships
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Priority of registered mortgages
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Registered mortgagee’s power of sale
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Protection of registered mortgagees
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Transfer of registered mortgage
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Transmission of registered mortgage by operation of law
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Discharge of registered mortgage
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Definitions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Regulations Relating to Submersible and Supporting Apparatus
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Registration of submersible apparatus
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Offences
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Exemptions from regulations
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - General
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3
+  - General Provisions
+    - Ships to which Schedule applies
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Load Line rules
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - United Kingdom ships Compliance with load line rules
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - Submersion of load lines
+        - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - Miscellaneous offences in relation to marks
+        - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - Issue of load line certificates
+        - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - Effect of load line certificate
+        - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - Duration, endorsement and cancellation of load line certificates
+        - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - Ships not to proceed to sea without load line certificate
+        - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - Publication of load line certificate and entry of particulars in official log book
+        - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - Inspection of ships
+        - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Non-United Kingdom ships Valid Convention certificates
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - Compliance with load line rules
+        - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - Submersion of load lines
+        - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - United Kingdom load line certificates
+        - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - Production of certificate to customs and excise officer
+        - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - Provisions as to inspection
+        - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Exemptions Power to make exemption orders
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - Further powers to exempt ships
+        - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - Issue of exemption certificates
+        - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - Duration and termination of exemptions, and duration, endorsement and cancellation of exemption certificates
+        - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - International Load Line Exemption Certificates
+        - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Subdivision load lines and deck cargo Subdivision load lines
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - Deck cargo
+        - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Miscellaneous provisions Notice to consular officer of proceedings against foreign ships
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - Delivery up of certificates
+        - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - Penalty for false statements etc.
+        - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - Admissibility of certificates in evidence
+        - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - Convention countries
+        - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - Orders, rules and regulations
+        - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - Interpretation
+        - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+- SCHEDULE 3A Safety Directions
+  - Direction following accident: person in control of ship
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Direction following accident: person in control of land
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Other direction
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Action in lieu of direction
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Enforcement
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Enforcement
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Enforcement
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Enforcement
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Enforcement
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+  - Variation and revocation
+    - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+  - Procedure
+    - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+  - Procedure
+    - [Sch. 3A para. 12](schedule/3A/paragraph/12.md)
+  - Procedure
+    - [Sch. 3A para. 13](schedule/3A/paragraph/13.md)
+  - Unreasonable loss and damage
+    - [Sch. 3A para. 14](schedule/3A/paragraph/14.md)
+  - Expenses
+    - [Sch. 3A para. 15](schedule/3A/paragraph/15.md)
+  - Jurisdiction
+    - [Sch. 3A para. 16](schedule/3A/paragraph/16.md)
+  - Ships to which Schedule applies
+    - [Sch. 3A para. 17](schedule/3A/paragraph/17.md)
+  - Ships to which Schedule applies
+    - [Sch. 3A para. 18](schedule/3A/paragraph/18.md)
+  - Ships to which Schedule applies
+    - [Sch. 3A para. 19](schedule/3A/paragraph/19.md)
+  - Ships to which Schedule applies
+    - [Sch. 3A para. 20](schedule/3A/paragraph/20.md)
+  - Ships to which Schedule applies
+    - [Sch. 3A para. 21](schedule/3A/paragraph/21.md)
+  - Interpretation
+    - [Sch. 3A para. 22](schedule/3A/paragraph/22.md)
+  - Savings
+    - [Sch. 3A para. 23](schedule/3A/paragraph/23.md)
+  - Savings
+    - [Sch. 3A para. 24](schedule/3A/paragraph/24.md)
+- SCHEDULE 4 Prevention of Oil Pollution: Transitory Provisions
+    - Chapter III Liability for Oil Pollution
+      - [Sch. 4 para. 152](schedule/4/paragraph/152.md)
+      - Liability
+        - [Sch. 4 para. 153 Liability for oil pollution in case of tankers.](schedule/4/paragraph/153.md)
+        - [Sch. 4 para. 154 Liability for oil pollution in case of other ships.](schedule/4/paragraph/154.md)
+        - [Sch. 4 para. 155 Exceptions from liability under section 153.](schedule/4/paragraph/155.md)
+        - [Sch. 4 para. 155A Exceptions from liability under section 154.](schedule/4/paragraph/155A.md)
+        - [Sch. 4 para. 156 Restriction of liability for oil pollution.](schedule/4/paragraph/156.md)
+        - [Sch. 4 para. 156A Restriction of liability for oil pollution from ship within section 154.](schedule/4/paragraph/156A.md)
+      - Limitation of liability
+        - [Sch. 4 para. 157 Limitation of liability under section 153.](schedule/4/paragraph/157.md)
+        - [Sch. 4 para. 158 Limitation actions.](schedule/4/paragraph/158.md)
+        - [Sch. 4 para. 159 Restriction on enforcement after establishment of limitation fund.](schedule/4/paragraph/159.md)
+        - [Sch. 4 para. 160 Concurrent liabilities of owners and others.](schedule/4/paragraph/160.md)
+        - [Sch. 4 para. 161 Establishment of limitation fund outside United Kingdom.](schedule/4/paragraph/161.md)
+        - [Sch. 4 para. 162 Extinguishment of claims.](schedule/4/paragraph/162.md)
+      - Compulsory insurance
+        - [Sch. 4 para. 163 Compulsory insurance against liability for pollution.](schedule/4/paragraph/163.md)
+        - [Sch. 4 para. 164 Issue of certificate by Secretary of State.](schedule/4/paragraph/164.md)
+        - [Sch. 4 para. 165 Rights of third parties against insurers.](schedule/4/paragraph/165.md)
+      - Supplementary
+        - [Sch. 4 para. 166 Jurisdiction of United Kingdom courts and registration of foreign judgments.](schedule/4/paragraph/166.md)
+        - [Sch. 4 para. 167 Government ships.](schedule/4/paragraph/167.md)
+        - [Sch. 4 para. 168 Limitation of liability under section 154.](schedule/4/paragraph/168.md)
+        - [Sch. 4 para. 169 Saving for recourse actions.](schedule/4/paragraph/169.md)
+        - [Sch. 4 para. 170 Interpretation.](schedule/4/paragraph/170.md)
+    - Chapter IV International Oil Pollution
+    - Compensation Fund
+      - Preliminary
+        - [Sch. 4 para. 172 Meaning of “Liability Convention”, “the Fund Convention” and related expressions.](schedule/4/paragraph/172.md)
+      - Contributions to Fund
+        - [Sch. 4 para. 173 Contributions by importers of oil and others.](schedule/4/paragraph/173.md)
+        - [Sch. 4 para. 174 Power to obtain information.](schedule/4/paragraph/174.md)
+      - Compensation for persons suffering pollution damage
+        - [Sch. 4 para. 175 Liability of the Fund.](schedule/4/paragraph/175.md)
+        - [Sch. 4 para. 176 Limitation of Fund’s liability under section 175.](schedule/4/paragraph/176.md)
+      - Indemnification of shipowners
+        - [Sch. 4 para. 176A Indemnification where damage is caused by ship registered in Fund Convention country.](schedule/4/paragraph/176A.md)
+      - Supplemental
+        - [Sch. 4 para. 177 Jurisdiction and effect of judgments.](schedule/4/paragraph/177.md)
+        - [Sch. 4 para. 178 Extinguishment of claims.](schedule/4/paragraph/178.md)
+        - [Sch. 4 para. 179 Subrogation.](schedule/4/paragraph/179.md)
+        - [Sch. 4 para. 181 Interpretation.](schedule/4/paragraph/181.md)
+- SCHEDULE 5 Overall Limit on Liability of Fund
+  - Part I Permanent provision
+    - Article 4 — paragraphs 4 and 5
+      - [Sch. 5 Pt. I heading article-4-paragraphs-4-and-5 para. 4](schedule/5/part/I/crossheading/article-4-paragraphs-4-and-5/paragraph/4.md)
+      - [Sch. 5 Pt. I heading article-4-paragraphs-4-and-5 para. 5](schedule/5/part/I/crossheading/article-4-paragraphs-4-and-5/paragraph/5.md)
+  - Part II Transitory Provision
+    - Article 4 — paragraphs 4, 5 and 6
+      - [Sch. 5 Pt. II heading article-4-paragraphs-4-5-and-6 para. 4](schedule/5/part/II/crossheading/article-4-paragraphs-4-5-and-6/paragraph/4.md)
+      - [Sch. 5 Pt. II heading article-4-paragraphs-4-5-and-6 para. 5](schedule/5/part/II/crossheading/article-4-paragraphs-4-5-and-6/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 5ZA SUPPLEMENTARY FUND LIABILITY
+  - Article 4—paragraphs 1, 2 and 3
+    - [Sch. 5ZA para. 1](schedule/5ZA/paragraph/1.md)
+    - [Sch. 5ZA para. 2](schedule/5ZA/paragraph/2.md)
+    - [Sch. 5ZA para. 3](schedule/5ZA/paragraph/3.md)
+  - Article 13—paragraph 1
+    - [Sch. 5ZA para. 1n1](schedule/5ZA/paragraph/1n1.md)
+  - Article 15—paragraphs 1, 2 and 3
+    - [Sch. 5ZA para. 1n2](schedule/5ZA/paragraph/1n2.md)
+    - [Sch. 5ZA para. 2n1](schedule/5ZA/paragraph/2n1.md)
+    - [Sch. 5ZA para. 3n1](schedule/5ZA/paragraph/3n1.md)
+- SCHEDULE 5A
+  - Text of International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea
+  - Chapter I GENERAL PROVISIONS
+    - Definitions
+      - Article 1
+    - Annexes
+      - Article 2
+    - Scope of application
+      - Article 3
+      - Article 4
+      - Article 5
+    - Duties of State Parties
+      - Article 6
+  - Chapter II LIABILITY
+    - Liability of the owner
+      - Article 7
+    - Incidents involving two or more ships
+      - Article 8
+    - Limitation of liability
+      - Article 9
+      - Article 10
+    - Death and injury
+      - Article 11
+    - Compulsory insurance of the owner
+      - Article 12
+  - Chapter III COMPENSATION BY THE INTERNATIONAL HAZARDOUS AND NOXIOUS SUBSTANCES FUND (HNS FUND)
+    - Establishment of the HNS Fund
+      - Article 13
+    - Compensation
+      - Article 14
+    - Related tasks of the HNS Fund
+      - Article 15
+    - General provisions on contributions
+      - Article 16
+    - General provisions on annual contributions
+      - Article 17
+    - Annual contributions to the general account
+      - Article 18
+    - Annual contributions to separate accounts
+      - Article 19
+    - Initial contributions
+      - Article 20
+    - Reports
+      - Article 21
+    - Non-payment of contributions
+      - Article 22
+    - Optional liability of States Parties for the payment of contributions
+      - Article 23
+    - Organization and administration
+      - Article 24
+    - Assembly
+      - Article 25
+      - Article 26
+      - Article 27
+      - Article 28
+    - Secretariat
+      - Article 29
+      - Article 30
+      - Article 31
+    - Finances
+      - Article 32
+    - Voting
+      - Article 33
+      - Article 34
+    - Tax exemptions and currency regulations
+      - Article 35
+    - Confidentiality of information
+      - Article 36
+  - Chapter IV CLAIMS AND ACTIONS
+    - Limitation of actions
+      - Article 37
+    - Jurisdiction in respect of action against the owner
+      - Article 38
+    - Jurisdiction in respect of action against the HNS Fund or taken by the HNS Fund
+      - Article 39
+    - Recognition and enforcement
+      - Article 40
+    - Subrogation and recourse
+      - Article 41
+    - Supersession clause
+      - Article 42
+  - Chapter V TRANSITIONAL PROVISIONS
+    - Information on contributing cargo
+      - Article 43
+    - First session of the Assembly
+      - Article 44
+  - Chapter VI FINAL CLAUSES
+    - Signature, ratification, acceptance, approval and accession
+      - Article 45
+    - Entry into force
+      - Article 46
+    - Revision and amendment
+      - Article 47
+    - Amendment of limits
+      - Article 48
+    - Article 49
+    - Extraordinary sessions of the Assembly
+      - Article 50
+    - Cessation
+      - Article 51
+    - Winding up of the HNS Fund
+      - Article 52
+    - Depositary
+      - Article 53
+    - Languages
+      - Article 54
+- SCHEDULE 6 Convention Relating to the Carriage of Passengers and Their Luggage by Sea
+  - Part I Text of Convention
+  - Part II Provisions having effect in connection with Convention
+    - Interpretation
+      - [Sch. 6 Pt. II heading interpretation para. 1](schedule/6/part/II/crossheading/interpretation/paragraph/1.md)
+    - Provisions adapting or supplementing specified articles of the Convention
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 2](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/2.md)
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 3](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/3.md)
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 4](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/4.md)
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 5](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/5.md)
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 6](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/6.md)
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 7](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/7.md)
+      - [Sch. 6 Pt. II heading provisions-adapting-or-supplementing-specified-articles-of-the-convention para. 8](schedule/6/part/II/crossheading/provisions-adapting-or-supplementing-specified-articles-of-the-convention/paragraph/8.md)
+    - Other provisions adapting or supplementing the Convention
+      - [Sch. 6 Pt. II heading other-provisions-adapting-or-supplementing-the-convention para. 9](schedule/6/part/II/crossheading/other-provisions-adapting-or-supplementing-the-convention/paragraph/9.md)
+      - [Sch. 6 para. 9A](schedule/6/paragraph/9A.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Application of ss. 185 and 186 of this Act
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Convention on Limitation of Liability for Maritime Claims 1976
+  - Part I Text of Convention
+    - Chapter I. The Right of Limitation
+    - Article 1
+      - Persons entitled to limit liability
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 1](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 2](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/2.md)
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 3](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/3.md)
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 4](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/4.md)
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 5](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/5.md)
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 6](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/6.md)
+        - [Sch. 7 Pt. I Ch. 2 heading persons-entitled-to-limit-liability para. 7](schedule/7/part/I/chapter/2/crossheading/persons-entitled-to-limit-liability/paragraph/7.md)
+    - Article 2
+      - Claims subject to limitation
+        - [Sch. 7 Pt. I Ch. 3 heading claims-subject-to-limitation para. 1](schedule/7/part/I/chapter/3/crossheading/claims-subject-to-limitation/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 3 heading claims-subject-to-limitation para. 2](schedule/7/part/I/chapter/3/crossheading/claims-subject-to-limitation/paragraph/2.md)
+    - Article 3
+      - Claims excepted from limitation
+    - Article 4
+      - Conduct barring limitation
+    - Article 5
+      - Counterclaims
+    - Chapter II. Limits of Liability
+    - Article 6
+      - The general limits
+        - [Sch. 7 Pt. I Ch. 8 heading the-general-limits para. 1](schedule/7/part/I/chapter/8/crossheading/the-general-limits/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 8 heading the-general-limits para. 2](schedule/7/part/I/chapter/8/crossheading/the-general-limits/paragraph/2.md)
+        - [Sch. 7 Pt. I Ch. 8 heading the-general-limits para. 4](schedule/7/part/I/chapter/8/crossheading/the-general-limits/paragraph/4.md)
+    - Article 7
+      - The limit for passenger claims
+        - [Sch. 7 Pt. I Ch. 9 heading the-limit-for-passenger-claims para. 1](schedule/7/part/I/chapter/9/crossheading/the-limit-for-passenger-claims/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 9 heading the-limit-for-passenger-claims para. 2](schedule/7/part/I/chapter/9/crossheading/the-limit-for-passenger-claims/paragraph/2.md)
+    - Article 8
+      - Unit of Account
+    - Article 9
+      - Aggregation of claims
+        - [Sch. 7 Pt. I Ch. 11 heading aggregation-of-claims para. 1](schedule/7/part/I/chapter/11/crossheading/aggregation-of-claims/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 11 heading aggregation-of-claims para. 2](schedule/7/part/I/chapter/11/crossheading/aggregation-of-claims/paragraph/2.md)
+    - Article 10
+      - Limitation of liability without constitution of a limitation fund
+        - [Sch. 7 Pt. I Ch. 12 heading limitation-of-liability-without-constitution-of-a-limitation-fund para. 1](schedule/7/part/I/chapter/12/crossheading/limitation-of-liability-without-constitution-of-a-limitation-fund/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 12 heading limitation-of-liability-without-constitution-of-a-limitation-fund para. 2](schedule/7/part/I/chapter/12/crossheading/limitation-of-liability-without-constitution-of-a-limitation-fund/paragraph/2.md)
+        - [Sch. 7 Pt. I Ch. 12 heading limitation-of-liability-without-constitution-of-a-limitation-fund para. 3](schedule/7/part/I/chapter/12/crossheading/limitation-of-liability-without-constitution-of-a-limitation-fund/paragraph/3.md)
+    - Chapter III. The Limitation Fund
+    - Article 11
+      - Constitution of the Fund
+        - [Sch. 7 Pt. I Ch. 14 heading constitution-of-the-fund para. 1](schedule/7/part/I/chapter/14/crossheading/constitution-of-the-fund/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 14 heading constitution-of-the-fund para. 2](schedule/7/part/I/chapter/14/crossheading/constitution-of-the-fund/paragraph/2.md)
+        - [Sch. 7 Pt. I Ch. 14 heading constitution-of-the-fund para. 3](schedule/7/part/I/chapter/14/crossheading/constitution-of-the-fund/paragraph/3.md)
+    - Article 12
+      - Distribution of the fund
+        - [Sch. 7 Pt. I Ch. 15 heading distribution-of-the-fund para. 1](schedule/7/part/I/chapter/15/crossheading/distribution-of-the-fund/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 15 heading distribution-of-the-fund para. 2](schedule/7/part/I/chapter/15/crossheading/distribution-of-the-fund/paragraph/2.md)
+        - [Sch. 7 Pt. I Ch. 15 heading distribution-of-the-fund para. 3](schedule/7/part/I/chapter/15/crossheading/distribution-of-the-fund/paragraph/3.md)
+        - [Sch. 7 Pt. I Ch. 15 heading distribution-of-the-fund para. 4](schedule/7/part/I/chapter/15/crossheading/distribution-of-the-fund/paragraph/4.md)
+    - Article 13
+      - Bar to other actions
+        - [Sch. 7 Pt. I Ch. 16 heading bar-to-other-actions para. 1](schedule/7/part/I/chapter/16/crossheading/bar-to-other-actions/paragraph/1.md)
+        - [Sch. 7 Pt. I Ch. 16 heading bar-to-other-actions para. 2](schedule/7/part/I/chapter/16/crossheading/bar-to-other-actions/paragraph/2.md)
+        - [Sch. 7 Pt. I Ch. 16 heading bar-to-other-actions para. 3](schedule/7/part/I/chapter/16/crossheading/bar-to-other-actions/paragraph/3.md)
+    - Article 14
+      - Governing law
+    - Chapter IV. Scope of Application
+    - Article 15
+      - [Sch. 7 Pt. I Ch. 19 para. 2](schedule/7/part/I/chapter/19/paragraph/2.md)
+    - ARTICLE 18 Reservations
+      - [Sch. 7 Pt. I Ch. 20 para. 1](schedule/7/part/I/chapter/20/paragraph/1.md)
+  - Part II Provisions having effect in connection with Convention
+    - Interpretation
+      - [Sch. 7 Pt. II heading interpretation para. 1](schedule/7/part/II/crossheading/interpretation/paragraph/1.md)
+    - Right to limit liability
+      - [Sch. 7 Pt. II heading right-to-limit-liability para. 2](schedule/7/part/II/crossheading/right-to-limit-liability/paragraph/2.md)
+      - [Sch. 7 para. 2A](schedule/7/paragraph/2A.md)
+    - Claims subject to limitation
+      - [Sch. 7 Pt. II heading claims-subject-to-limitation para. 3](schedule/7/part/II/crossheading/claims-subject-to-limitation/paragraph/3.md)
+    - Claims excluded from limitation
+      - [Sch. 7 Pt. II heading claims-excluded-from-limitation para. 4](schedule/7/part/II/crossheading/claims-excluded-from-limitation/paragraph/4.md)
+    - The general limits
+      - [Sch. 7 Pt. II heading the-general-limits para. 5](schedule/7/part/II/crossheading/the-general-limits/paragraph/5.md)
+    - Limit for passenger claims
+      - [Sch. 7 Pt. II heading limit-for-passenger-claims para. 6](schedule/7/part/II/crossheading/limit-for-passenger-claims/paragraph/6.md)
+    - Units of Account
+      - [Sch. 7 Pt. II heading units-of-account para. 7](schedule/7/part/II/crossheading/units-of-account/paragraph/7.md)
+    - Constitution of fund
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Distribution of fund
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Bar to other actions
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Meaning of “court”
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Meaning of “ship”
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Meaning of “State Party”
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Commissioners of Northern Lighthouses
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 4A](schedule/8/paragraph/4A.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Local Light Dues: Objections
+- SCHEDULE 11 International Convention on Salvage 1989
+  - Part I Text of Convention
+    - Chapter I — General Provisions
+    - Article 1
+      - Definitions
+    - Article 2
+      - Application of the Convention
+    - Article 3
+      - Platforms and drilling units
+    - Article 4
+      - State-owned vessels
+        - [Sch. 11 Pt. I Ch. 5 heading stateowned-vessels para. 1](schedule/11/part/I/chapter/5/crossheading/stateowned-vessels/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 5 heading stateowned-vessels para. 2](schedule/11/part/I/chapter/5/crossheading/stateowned-vessels/paragraph/2.md)
+    - Article 5
+      - Salvage operations controlled by public authorities
+        - [Sch. 11 Pt. I Ch. 6 heading salvage-operations-controlled-by-public-authorities para. 1](schedule/11/part/I/chapter/6/crossheading/salvage-operations-controlled-by-public-authorities/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 6 heading salvage-operations-controlled-by-public-authorities para. 2](schedule/11/part/I/chapter/6/crossheading/salvage-operations-controlled-by-public-authorities/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 6 heading salvage-operations-controlled-by-public-authorities para. 3](schedule/11/part/I/chapter/6/crossheading/salvage-operations-controlled-by-public-authorities/paragraph/3.md)
+    - Article 6
+      - Salvage contracts
+        - [Sch. 11 Pt. I Ch. 7 heading salvage-contracts para. 1](schedule/11/part/I/chapter/7/crossheading/salvage-contracts/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 7 heading salvage-contracts para. 2](schedule/11/part/I/chapter/7/crossheading/salvage-contracts/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 7 heading salvage-contracts para. 3](schedule/11/part/I/chapter/7/crossheading/salvage-contracts/paragraph/3.md)
+    - Article 7
+      - Annulment and modification of contracts
+    - Chapter II — Performance of Salvage Operations
+    - Article 8
+      - Duties of the salvor and of the owner and master
+        - [Sch. 11 Pt. I Ch. 10 heading duties-of-the-salvor-and-of-the-owner-and-master para. 1](schedule/11/part/I/chapter/10/crossheading/duties-of-the-salvor-and-of-the-owner-and-master/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 10 heading duties-of-the-salvor-and-of-the-owner-and-master para. 2](schedule/11/part/I/chapter/10/crossheading/duties-of-the-salvor-and-of-the-owner-and-master/paragraph/2.md)
+    - Article 9
+      - Rights of coastal States
+    - Article 10
+      - Duty to render assistance
+        - [Sch. 11 Pt. I Ch. 12 heading duty-to-render-assistance para. 1](schedule/11/part/I/chapter/12/crossheading/duty-to-render-assistance/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 12 heading duty-to-render-assistance para. 2](schedule/11/part/I/chapter/12/crossheading/duty-to-render-assistance/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 12 heading duty-to-render-assistance para. 3](schedule/11/part/I/chapter/12/crossheading/duty-to-render-assistance/paragraph/3.md)
+    - Article 11
+      - Co-operation
+    - Chapter III — Rights of Salvors
+    - Article 12
+      - Conditions for reward
+        - [Sch. 11 Pt. I Ch. 15 heading conditions-for-reward para. 1](schedule/11/part/I/chapter/15/crossheading/conditions-for-reward/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 15 heading conditions-for-reward para. 2](schedule/11/part/I/chapter/15/crossheading/conditions-for-reward/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 15 heading conditions-for-reward para. 3](schedule/11/part/I/chapter/15/crossheading/conditions-for-reward/paragraph/3.md)
+    - Article 13
+      - Criteria for fixing the reward
+        - [Sch. 11 Pt. I Ch. 16 heading criteria-for-fixing-the-reward para. 1](schedule/11/part/I/chapter/16/crossheading/criteria-for-fixing-the-reward/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 16 heading criteria-for-fixing-the-reward para. 2](schedule/11/part/I/chapter/16/crossheading/criteria-for-fixing-the-reward/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 16 heading criteria-for-fixing-the-reward para. 3](schedule/11/part/I/chapter/16/crossheading/criteria-for-fixing-the-reward/paragraph/3.md)
+    - Article 14
+      - Special compensation
+        - [Sch. 11 Pt. I Ch. 17 heading special-compensation para. 1](schedule/11/part/I/chapter/17/crossheading/special-compensation/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 17 heading special-compensation para. 2](schedule/11/part/I/chapter/17/crossheading/special-compensation/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 17 heading special-compensation para. 3](schedule/11/part/I/chapter/17/crossheading/special-compensation/paragraph/3.md)
+        - [Sch. 11 Pt. I Ch. 17 heading special-compensation para. 4](schedule/11/part/I/chapter/17/crossheading/special-compensation/paragraph/4.md)
+        - [Sch. 11 Pt. I Ch. 17 heading special-compensation para. 5](schedule/11/part/I/chapter/17/crossheading/special-compensation/paragraph/5.md)
+        - [Sch. 11 Pt. I Ch. 17 heading special-compensation para. 6](schedule/11/part/I/chapter/17/crossheading/special-compensation/paragraph/6.md)
+    - Article 15
+      - Apportionment between salvors
+        - [Sch. 11 Pt. I Ch. 18 heading apportionment-between-salvors para. 1](schedule/11/part/I/chapter/18/crossheading/apportionment-between-salvors/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 18 heading apportionment-between-salvors para. 2](schedule/11/part/I/chapter/18/crossheading/apportionment-between-salvors/paragraph/2.md)
+    - Article 16
+      - Salvage of persons
+        - [Sch. 11 Pt. I Ch. 19 heading salvage-of-persons para. 1](schedule/11/part/I/chapter/19/crossheading/salvage-of-persons/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 19 heading salvage-of-persons para. 2](schedule/11/part/I/chapter/19/crossheading/salvage-of-persons/paragraph/2.md)
+    - Article 17
+      - Services rendered under existing contracts
+    - Article 18
+      - The effect of salvor’s misconduct
+    - Article 19
+      - Prohibition of salvage operations
+    - Chapter IV — Claims and Actions
+    - Article 20
+      - Maritime lien
+        - [Sch. 11 Pt. I Ch. 24 heading maritime-lien para. 1](schedule/11/part/I/chapter/24/crossheading/maritime-lien/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 24 heading maritime-lien para. 2](schedule/11/part/I/chapter/24/crossheading/maritime-lien/paragraph/2.md)
+    - Article 21
+      - Duty to provide security
+        - [Sch. 11 Pt. I Ch. 25 heading duty-to-provide-security para. 1](schedule/11/part/I/chapter/25/crossheading/duty-to-provide-security/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 25 heading duty-to-provide-security para. 2](schedule/11/part/I/chapter/25/crossheading/duty-to-provide-security/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 25 heading duty-to-provide-security para. 3](schedule/11/part/I/chapter/25/crossheading/duty-to-provide-security/paragraph/3.md)
+    - Article 22
+      - Interim payment
+        - [Sch. 11 Pt. I Ch. 26 heading interim-payment para. 1](schedule/11/part/I/chapter/26/crossheading/interim-payment/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 26 heading interim-payment para. 2](schedule/11/part/I/chapter/26/crossheading/interim-payment/paragraph/2.md)
+    - Article 23
+      - Limitation of actions
+        - [Sch. 11 Pt. I Ch. 27 heading limitation-of-actions para. 1](schedule/11/part/I/chapter/27/crossheading/limitation-of-actions/paragraph/1.md)
+        - [Sch. 11 Pt. I Ch. 27 heading limitation-of-actions para. 2](schedule/11/part/I/chapter/27/crossheading/limitation-of-actions/paragraph/2.md)
+        - [Sch. 11 Pt. I Ch. 27 heading limitation-of-actions para. 3](schedule/11/part/I/chapter/27/crossheading/limitation-of-actions/paragraph/3.md)
+    - Article 24
+      - Interest
+    - Article 25
+      - State-owned cargoes
+    - Article 26
+      - Humanitarian cargoes
+    - Article 27
+      - Publication of arbitral awards
+  - Part II Provisions having effect in connection with Convention
+    - Interpretation
+      - [Sch. 11 Pt. II heading interpretation para. 1](schedule/11/part/II/crossheading/interpretation/paragraph/1.md)
+    - Claims excluded from Convention
+      - [Sch. 11 Pt. II heading claims-excluded-from-convention para. 2](schedule/11/part/II/crossheading/claims-excluded-from-convention/paragraph/2.md)
+    - Assistance to persons in danger at sea
+      - [Sch. 11 Pt. II heading assistance-to-persons-in-danger-at-sea para. 3](schedule/11/part/II/crossheading/assistance-to-persons-in-danger-at-sea/paragraph/3.md)
+    - The reward and special compensation: the common understanding
+      - [Sch. 11 Pt. II heading the-reward-and-special-compensation-the-common-understanding para. 4](schedule/11/part/II/crossheading/the-reward-and-special-compensation-the-common-understanding/paragraph/4.md)
+    - Recourse for life salvage payment
+      - [Sch. 11 Pt. II heading recourse-for-life-salvage-payment para. 5](schedule/11/part/II/crossheading/recourse-for-life-salvage-payment/paragraph/5.md)
+    - Meaning of “judicial proceedings”
+      - [Sch. 11 Pt. II heading meaning-of-judicial-proceedings para. 6](schedule/11/part/II/crossheading/meaning-of-judicial-proceedings/paragraph/6.md)
+    - Meaning of “State Party”
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 11ZA Wrecks Convention
+  - Article 1 Definitions
+    - [Sch. 11ZA heading definitions para. 1](schedule/11ZA/crossheading/definitions/paragraph/1.md)
+    - [Sch. 11ZA heading definitions para. 2](schedule/11ZA/crossheading/definitions/paragraph/2.md)
+    - [Sch. 11ZA heading definitions para. 3](schedule/11ZA/crossheading/definitions/paragraph/3.md)
+    - [Sch. 11ZA heading definitions para. 4](schedule/11ZA/crossheading/definitions/paragraph/4.md)
+    - [Sch. 11ZA heading definitions para. 5](schedule/11ZA/crossheading/definitions/paragraph/5.md)
+    - [Sch. 11ZA heading definitions para. 6](schedule/11ZA/crossheading/definitions/paragraph/6.md)
+    - [Sch. 11ZA heading definitions para. 7](schedule/11ZA/crossheading/definitions/paragraph/7.md)
+    - [Sch. 11ZA heading definitions para. 8](schedule/11ZA/crossheading/definitions/paragraph/8.md)
+    - [Sch. 11ZA heading definitions para. 9](schedule/11ZA/crossheading/definitions/paragraph/9.md)
+    - [Sch. 11ZA heading definitions para. 10](schedule/11ZA/crossheading/definitions/paragraph/10.md)
+    - [Sch. 11ZA heading definitions para. 11](schedule/11ZA/crossheading/definitions/paragraph/11.md)
+    - [Sch. 11ZA heading definitions para. 12](schedule/11ZA/crossheading/definitions/paragraph/12.md)
+    - [Sch. 11ZA heading definitions para. 13](schedule/11ZA/crossheading/definitions/paragraph/13.md)
+  - Article 2 Objectives and general principles
+    - [Sch. 11ZA heading objectives-and-general-principles para. 1](schedule/11ZA/crossheading/objectives-and-general-principles/paragraph/1.md)
+    - [Sch. 11ZA heading objectives-and-general-principles para. 2](schedule/11ZA/crossheading/objectives-and-general-principles/paragraph/2.md)
+    - [Sch. 11ZA heading objectives-and-general-principles para. 3](schedule/11ZA/crossheading/objectives-and-general-principles/paragraph/3.md)
+    - [Sch. 11ZA heading objectives-and-general-principles para. 4](schedule/11ZA/crossheading/objectives-and-general-principles/paragraph/4.md)
+    - [Sch. 11ZA heading objectives-and-general-principles para. 5](schedule/11ZA/crossheading/objectives-and-general-principles/paragraph/5.md)
+  - Article 3 Scope of application
+    - [Sch. 11ZA heading scope-of-application para. 1](schedule/11ZA/crossheading/scope-of-application/paragraph/1.md)
+    - [Sch. 11ZA heading scope-of-application para. 2](schedule/11ZA/crossheading/scope-of-application/paragraph/2.md)
+    - [Sch. 11ZA heading scope-of-application para. 3](schedule/11ZA/crossheading/scope-of-application/paragraph/3.md)
+    - [Sch. 11ZA heading scope-of-application para. 4](schedule/11ZA/crossheading/scope-of-application/paragraph/4.md)
+    - [Sch. 11ZA heading scope-of-application para. 5](schedule/11ZA/crossheading/scope-of-application/paragraph/5.md)
+  - Article 4 Exclusions
+    - [Sch. 11ZA heading exclusions para. 1](schedule/11ZA/crossheading/exclusions/paragraph/1.md)
+    - [Sch. 11ZA heading exclusions para. 2](schedule/11ZA/crossheading/exclusions/paragraph/2.md)
+    - [Sch. 11ZA heading exclusions para. 3](schedule/11ZA/crossheading/exclusions/paragraph/3.md)
+    - [Sch. 11ZA heading exclusions para. 4](schedule/11ZA/crossheading/exclusions/paragraph/4.md)
+  - Article 5 Reporting wrecks
+    - [Sch. 11ZA heading reporting-wrecks para. 1](schedule/11ZA/crossheading/reporting-wrecks/paragraph/1.md)
+    - [Sch. 11ZA heading reporting-wrecks para. 2](schedule/11ZA/crossheading/reporting-wrecks/paragraph/2.md)
+  - Article 6 Determination of hazard
+  - Article 7 Locating wrecks
+    - [Sch. 11ZA heading locating-wrecks para. 1](schedule/11ZA/crossheading/locating-wrecks/paragraph/1.md)
+    - [Sch. 11ZA heading locating-wrecks para. 2](schedule/11ZA/crossheading/locating-wrecks/paragraph/2.md)
+  - Article 8 Marking of wrecks
+    - [Sch. 11ZA heading marking-of-wrecks para. 1](schedule/11ZA/crossheading/marking-of-wrecks/paragraph/1.md)
+    - [Sch. 11ZA heading marking-of-wrecks para. 2](schedule/11ZA/crossheading/marking-of-wrecks/paragraph/2.md)
+    - [Sch. 11ZA heading marking-of-wrecks para. 3](schedule/11ZA/crossheading/marking-of-wrecks/paragraph/3.md)
+  - Article 9 Measures to facilitate the removal of wrecks
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 1](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/1.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 2](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/2.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 3](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/3.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 4](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/4.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 5](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/5.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 6](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/6.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 7](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/7.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 8](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/8.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 9](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/9.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 10](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/10.md)
+    - [Sch. 11ZA heading measures-to-facilitate-the-removal-of-wrecks para. 11](schedule/11ZA/crossheading/measures-to-facilitate-the-removal-of-wrecks/paragraph/11.md)
+  - Article 10 Liability of the owner
+    - [Sch. 11ZA heading liability-of-the-owner para. 1](schedule/11ZA/crossheading/liability-of-the-owner/paragraph/1.md)
+    - [Sch. 11ZA heading liability-of-the-owner para. 2](schedule/11ZA/crossheading/liability-of-the-owner/paragraph/2.md)
+    - [Sch. 11ZA heading liability-of-the-owner para. 3](schedule/11ZA/crossheading/liability-of-the-owner/paragraph/3.md)
+    - [Sch. 11ZA heading liability-of-the-owner para. 4](schedule/11ZA/crossheading/liability-of-the-owner/paragraph/4.md)
+  - Article 11 Exceptions to liability
+    - [Sch. 11ZA heading exceptions-to-liability para. 1](schedule/11ZA/crossheading/exceptions-to-liability/paragraph/1.md)
+    - [Sch. 11ZA heading exceptions-to-liability para. 2](schedule/11ZA/crossheading/exceptions-to-liability/paragraph/2.md)
+  - Article 12 Compulsory insurance or other financial security
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 1](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/1.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 2](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/2.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 3](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/3.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 4](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/4.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 5](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/5.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 6](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/6.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 7](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/7.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 8](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/8.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 9](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/9.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 10](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/10.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 11](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/11.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 12](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/12.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 13](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/13.md)
+    - [Sch. 11ZA heading compulsory-insurance-or-other-financial-security para. 14](schedule/11ZA/crossheading/compulsory-insurance-or-other-financial-security/paragraph/14.md)
+  - Article 13 Time limits
+  - Article 14 Amendment provisions
+    - [Sch. 11ZA heading amendment-provisions para. 1](schedule/11ZA/crossheading/amendment-provisions/paragraph/1.md)
+    - [Sch. 11ZA para. 2](schedule/11ZA/paragraph/2.md)
+  - Article 15 Settlement of disputes
+    - [Sch. 11ZA heading settlement-of-disputes para. 1](schedule/11ZA/crossheading/settlement-of-disputes/paragraph/1.md)
+    - [Sch. 11ZA heading settlement-of-disputes para. 2](schedule/11ZA/crossheading/settlement-of-disputes/paragraph/2.md)
+    - [Sch. 11ZA heading settlement-of-disputes para. 3](schedule/11ZA/crossheading/settlement-of-disputes/paragraph/3.md)
+    - [Sch. 11ZA heading settlement-of-disputes para. 4](schedule/11ZA/crossheading/settlement-of-disputes/paragraph/4.md)
+    - [Sch. 11ZA heading settlement-of-disputes para. 5](schedule/11ZA/crossheading/settlement-of-disputes/paragraph/5.md)
+  - Article 16 Relationship to other conventions and international agreements
+  - Article 17 Signature, ratification, acceptance, approval and accession
+  - Article 18 Entry into force
+    - [Sch. 11ZA heading entry-into-force para. 1](schedule/11ZA/crossheading/entry-into-force/paragraph/1.md)
+    - [Sch. 11ZA heading entry-into-force para. 2](schedule/11ZA/crossheading/entry-into-force/paragraph/2.md)
+  - Article 19 Denunciation
+    - [Sch. 11ZA heading denunciation para. 1](schedule/11ZA/crossheading/denunciation/paragraph/1.md)
+    - [Sch. 11ZA heading denunciation para. 2](schedule/11ZA/crossheading/denunciation/paragraph/2.md)
+    - [Sch. 11ZA heading denunciation para. 3](schedule/11ZA/crossheading/denunciation/paragraph/3.md)
+  - Article 20 Depositary
+    - [Sch. 11ZA heading depositary para. 1](schedule/11ZA/crossheading/depositary/paragraph/1.md)
+    - [Sch. 11ZA heading depositary para. 2](schedule/11ZA/crossheading/depositary/paragraph/2.md)
+    - [Sch. 11ZA heading depositary para. 3](schedule/11ZA/crossheading/depositary/paragraph/3.md)
+  - Article 21 Languages
+- Schedule 11A Funding of maritime services
+  - Interpretation
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+  - Charges in respect of maritime matters
+    - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+  - Charges relating to expenses payable out of General Lighthouse Fund
+    - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+  - Ships in respect of which charges may be imposed
+    - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+  - Persons by whom charges to be paid
+    - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+  - Amount of charges
+    - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+  - Powers to require information
+    - [Sch. 11A para. 7](schedule/11A/paragraph/7.md)
+  - Disclosure of information
+    - [Sch. 11A para. 8](schedule/11A/paragraph/8.md)
+  - Collection and recovery, etc.
+    - [Sch. 11A para. 9](schedule/11A/paragraph/9.md)
+    - [Sch. 11A para. 10](schedule/11A/paragraph/10.md)
+  - Distress
+    - [Sch. 11A para. 11](schedule/11A/paragraph/11.md)
+  - Further powers in relation to General Lighthouse Fund etc
+    - [Sch. 11A para. 12](schedule/11A/paragraph/12.md)
+    - [Sch. 11A para. 13](schedule/11A/paragraph/13.md)
+  - Supplementary
+    - [Sch. 11A para. 14](schedule/11A/paragraph/14.md)
+    - [Sch. 11A para. 15](schedule/11A/paragraph/15.md)
+    - [Sch. 11A para. 16](schedule/11A/paragraph/16.md)
+- SCHEDULE 12 Repeals
+- SCHEDULE 13 Consequential Amendments
+  - General Pier and Harbour Act 1861 Amendment Act 1862 (c. 19)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Sea Fisheries Act 1868 (c. 45)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Lloyd’s Act 1871 (c. xxi)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Slave Trade Act 1873 (c. 88)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Explosives Act 1875 (c. 17)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Explosive Substances Act 1883 (c. 3)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Submarine Telegraph Act 1885 (c. 49)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Foreign Jurisdiction Act 1890 (c. 37)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Fisheries Act 1891 (c. 37)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Commissioners for Oaths Act 1891 (c. 50)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Seal Fisheries (North Pacific) Act 1895 (c.21)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Seal Fisheries (North Pacific) Act 1912 (c. 10)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Trustee Act 1925 (c. 19)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Whaling Industry (Regulations) Act 1934 (c. 49)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Public Health Act 1936 (c. 49)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Public Health (Drainage of Trade Premises) Act 1937 (c. 40)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - Superannuation (Various Services) Act 1938 (c. 13)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+  - Compensation (Defence) Act 1939 (c. 75)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 (c. 83)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+  - Public Health (Scotland) Act 1945 (c.15)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+  - Crown Proceedings Act 1947 (c. 44)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+  - British Nationality Act 1948 (c. 56)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+  - Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948 (c. 23 (N.I.))
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+  - Wireless Telegraphy Act 1949 (c. 54)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+  - Coast Protection Act 1949 (c. 74)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+  - Registered Designs Act 1949 (c. 88)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+  - Rivers (Prevention of Pollution) (Scotland) Act 1951 (c.66)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+  - Post Office Act 1953 (c. 36)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+  - Administration of Justice Act 1956 (c. 46)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+  - Trustee Act (Northern Ireland) 1958 (c. 23 (N.I.))
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+  - Factories Act 1961 (c. 34)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+  - Pipe-Lines Act 1962 (c. 58)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+  - Harbours Act 1964 (c. 40)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+  - Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965 (c. 19 (N.I.))
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+  - Factories Act (Northern Ireland) 1965 (c. 20 (N.I.))
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+  - Fisheries Act (Northern Ireland) 1966 (c. 17 (N.I.))
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+  - Finance Act 1966 (c. 18)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+  - Sea Fish (Conservation) Act 1967 (c. 84)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+  - Public Health Act (Northern Ireland) 1967 (c. 36 (N.I.))
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+  - Consular Relations Act 1968 (c. 18)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+  - Hovercraft Act 1968 (c. 59)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+  - Sea Fisheries Act 1968 (c. 77)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+  - Harbours Act (Northern Ireland) 1970 (c. 1 (N.I.))
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+  - Carriage of Goods by Sea Act 1971 (c. 19)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+  - Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+  - Industry Act 1972 (c. 63)
+    - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+  - Education (Work Experience) Act 1973 (c. 23)
+    - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+  - Fishery Limits Act 1976 (c. 86)
+    - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+  - Aircraft and Shipbuilding Industry Act 1977 (c. 3)
+    - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+  - Rates (Northern Ireland) Order 1977 (S.I. 1977/2157 (NI 28))
+    - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+  - Judicature (Northern Ireland) Act 1978 (c. 23)
+    - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+  - Customs and Excise Management Act 1979 (c. 2)
+    - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+  - Hydrocarbon Oil Duties Act 1979 (c. 5)
+    - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+  - Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+  - Private Streets (Northern Ireland) Order 1980 (S.I. 1980/1086 (NI 12))
+    - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+  - Animal Health Act 1981 (c. 22)
+    - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+  - Senior Courts Act 1981 (c. 54)
+    - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+  - Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (NI 6))
+    - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+  - Clean Air (Northern Ireland) Order 1981 (S.I. 1981/158 (NI 14))
+    - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+  - Diseases of Animals (Northern Ireland) Order 1981 (S.I. 1981/1115 (NI 22))
+    - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (NI 26))
+    - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+  - Civil Aviation Act 1982 (c. 16)
+    - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+  - Oil and Gas (Enterprise) Act 1982 (c. 23)
+    - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+  - Civil Jurisdiction and Judgments Act 1982 (c. 27)
+    - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+  - Civic Government (Scotland) Act 1982 (c. 45)
+    - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+  - British Fishing Boats Act 1983 (c. 8)
+    - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+  - Public Health (Control of Disease) Act 1984 (c. 22)
+    - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+  - Inshore Fishing (Scotland) Act 1984 (c. 26)
+    - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+  - Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+  - Repatriation of Prisoners Act 1984 (c. 47)
+    - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+  - Dangerous Vessels Act 1985 (c. 22)
+    - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+  - Food and Environment Protection Act 1985 (c. 48)
+    - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+  - Protection of Military Remains Act 1986 (c. 35)
+    - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
+  - Wages Act 1986 (c. 48)
+    - [Sch. 13 para. 77](schedule/13/paragraph/77.md)
+  - Petroleum Act 1987 (c. 12)
+    - [Sch. 13 para. 78](schedule/13/paragraph/78.md)
+  - Debtors (Scotland) Act 1987 (c. 18)
+    - [Sch. 13 para. 79](schedule/13/paragraph/79.md)
+  - Pilotage Act 1987 (c. 21)
+    - [Sch. 13 para. 80](schedule/13/paragraph/80.md)
+  - Channel Tunnel Act 1987 (c. 53)
+    - [Sch. 13 para. 81](schedule/13/paragraph/81.md)
+  - Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 13 para. 82](schedule/13/paragraph/82.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 13 para. 83](schedule/13/paragraph/83.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+    - [Sch. 13 para. 84](schedule/13/paragraph/84.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 13 para. 85](schedule/13/paragraph/85.md)
+  - Wages (Northern Ireland) Order 1988 (S.I. 1988/796 (NI 7))
+    - [Sch. 13 para. 86](schedule/13/paragraph/86.md)
+  - Criminal Justice (International Co-operation) Act 1990 (c. 5)
+    - [Sch. 13 para. 87](schedule/13/paragraph/87.md)
+  - Aviation and Maritime Security Act 1990 (c. 31)
+    - [Sch. 13 para. 88](schedule/13/paragraph/88.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 13 para. 89](schedule/13/paragraph/89.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 13 para. 90](schedule/13/paragraph/90.md)
+  - Land Drainage Act 1991 (c. 59)
+    - [Sch. 13 para. 91](schedule/13/paragraph/91.md)
+  - Dangerous Vessels (Northern Ireland) Order 1991 (S.I. 1991/1219 (NI 10))
+    - [Sch. 13 para. 92](schedule/13/paragraph/92.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 13 para. 93](schedule/13/paragraph/93.md)
+  - Clean Air Act 1993 (c. 11)
+    - [Sch. 13 para. 94](schedule/13/paragraph/94.md)
+  - Value Added Tax Act 1994 (c. 23)
+    - [Sch. 13 para. 95](schedule/13/paragraph/95.md)
+- SCHEDULE 14 Transitory, Saving and Transitional Provisions
+  - Extra-territorial provisions
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - References to registration in other legislation
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Qualifications: certificates of A.B.
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Manning: certificates existing in 1979
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Masters and seamen: postponed commencements
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Masters and seamen and documents: transitory provisions
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Safety provisions: saving of instruments, etc
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Oil pollution: saving for certain transitional provisions
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Lighthouses: dependencies
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Lighthouses: Scotland
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Wreck and salvage: Cinque ports
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Wreck: Liability for damage in case of plundered vessel in Scotland
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Behring Sea Award
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- Table of Derivations
+  - [Sch. n17 para. 1 Notes](schedule/n17/paragraph/1.md)
+  - [Sch. n17 para. 2](schedule/n17/paragraph/2.md)
+  - [Sch. n17 para. 3](schedule/n17/paragraph/3.md)
+  - [Sch. n17 para. 4](schedule/n17/paragraph/4.md)
+  - [Sch. n17 para. 5](schedule/n17/paragraph/5.md)
+  - [Sch. n17 para. 6](schedule/n17/paragraph/6.md)
+  - [Sch. n17 para. 7](schedule/n17/paragraph/7.md)
+  - [Sch. n17 para. 8](schedule/n17/paragraph/8.md)
