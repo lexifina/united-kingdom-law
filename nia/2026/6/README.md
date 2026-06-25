@@ -1,0 +1,370 @@
+# Insolvency (Amendment) Act (Northern Ireland) 2026
+
+nia/2026/6. Enacted 2026-06-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2026/6/2026-06-25
+
+## Contents
+
+- Part 1 Introductory
+  - [s. 1 Introductory](section/1.md)
+- Part 2 Office-holder actions
+  - [s. 2 Power for administrator to bring claim for fraudulent or wrongful trading](section/2.md)
+  - [s. 3 Power for liquidator or administrator to assign causes of action](section/3.md)
+  - [s. 4 Application of proceeds of office-holder claims](section/4.md)
+- Part 3 Removing requirements to seek sanction
+  - [s. 5 Exercise of powers by liquidator: removal of need for sanction](section/5.md)
+  - [s. 6 Exercise of powers by trustee in bankruptcy: removal of need for sanction](section/6.md)
+- Part 4 Position of creditors
+  - Chapter 1 Principal amendments
+    - [s. 7 Abolition of requirements to hold meetings: company insolvency](section/7.md)
+    - [s. 8 Abolition of requirements to hold meetings: individual insolvency](section/8.md)
+    - [s. 9 Ability for creditors to opt not to receive certain notices: company insolvency](section/9.md)
+    - [s. 10 Ability for creditors to opt not to receive certain notices: individual insolvency](section/10.md)
+  - Chapter 2 Further amendments: Company insolvency
+    - Moratoriums
+      - [s. 11 Creditor consent for the purposes of Article 13CB](section/11.md)
+      - [s. 12 Challenge to directors’ actions](section/12.md)
+      - [s. 13 Regulated companies: modifications to Part 1A](section/13.md)
+    - Company voluntary arrangements
+      - [s. 14 Nominee’s report on company’s proposal](section/14.md)
+      - [s. 15 Summoning of meetings](section/15.md)
+      - [s. 16 Decisions of meetings](section/16.md)
+      - [s. 17 Approval of arrangement](section/17.md)
+      - [s. 18 Effect of approval](section/18.md)
+      - [s. 19 Challenge of decisions](section/19.md)
+      - [s. 20 Supervisor of voluntary arrangement](section/20.md)
+    - Administration
+      - [s. 21 Administration](section/21.md)
+      - [s. 22 Offences](section/22.md)
+    - Receivers and managers
+      - [s. 23 Report by administrative receiver](section/23.md)
+      - [s. 24 Committee of creditors](section/24.md)
+    - Winding up
+      - [s. 25 Progress report to company](section/25.md)
+      - [s. 26 Final meeting prior to dissolution](section/26.md)
+      - [s. 27 Effect of company’s insolvency](section/27.md)
+      - [s. 28 Conversion to creditors’ voluntary winding up](section/28.md)
+      - [s. 29 Application of Chapter 4](section/29.md)
+      - [s. 30 Meeting of creditors](section/30.md)
+      - [s. 31 Directors’ statement of affairs to creditors](section/31.md)
+      - [s. 32 Appointment of liquidator](section/32.md)
+      - [s. 33 Appointment of liquidation committee](section/33.md)
+      - [s. 34 Creditors’ meeting where winding up converted under Article 82](section/34.md)
+      - [s. 35 Progress report to company and creditors](section/35.md)
+      - [s. 36 Final meeting prior to dissolution](section/36.md)
+      - [s. 37 Powers of directors where no liquidator appointed or nominated by company](section/37.md)
+      - [s. 38 Functions of official receiver in relation to office of liquidator](section/38.md)
+      - [s. 39 Appointment by Department](section/39.md)
+      - [s. 40 Choice of liquidator at meetings of creditors and contributories](section/40.md)
+      - [s. 41 Appointment of liquidator by High Court following administration or voluntary arrangement](section/41.md)
+      - [s. 42 Liquidation committee](section/42.md)
+      - [s. 43 Duty to summon final meeting](section/43.md)
+      - [s. 44 Delegation of High Court’s powers to liquidator](section/44.md)
+      - [s. 45 Liquidator’s powers and duties in creditors’ voluntary winding up](section/45.md)
+      - [s. 46 Liquidator’s supplementary powers](section/46.md)
+      - [s. 47 Removal of liquidator: voluntary winding up](section/47.md)
+      - [s. 48 Removal of liquidator: winding up by the High Court](section/48.md)
+      - [s. 49 Release of liquidator: voluntary winding up](section/49.md)
+      - [s. 50 Release of liquidator: winding up by the High Court](section/50.md)
+      - [s. 51 Resolutions passed at adjourned meetings](section/51.md)
+      - [s. 52 Meetings to ascertain wishes of creditors or contributories](section/52.md)
+      - [s. 53 Dissolution: voluntary winding up](section/53.md)
+      - [s. 54 Early dissolution](section/54.md)
+      - [s. 55 Dissolution in other cases](section/55.md)
+      - [s. 56 Misconduct in the course of winding up](section/56.md)
+      - [s. 57 Protection of supplies of goods and services](section/57.md)
+      - [s. 58 Penalties for offences under the 1989 Order](section/58.md)
+    - Other provision
+      - [s. 59 Definition of “the relevant date”](section/59.md)
+      - [s. 60 Admissibility of evidence in statement of affairs etc](section/60.md)
+      - [s. 61 Representation of corporations at meetings](section/61.md)
+      - [s. 62 Provision that may be included in company insolvency rules](section/62.md)
+  - Chapter 3 Further amendments: Individual insolvency
+    - Individual voluntary arrangements
+      - [s. 63 Nominee’s report on debtor’s proposal](section/63.md)
+      - [s. 64 Debtor’s proposal and nominee’s report](section/64.md)
+      - [s. 65 Creditors’ meeting](section/65.md)
+      - [s. 66 Decisions of creditors’ meeting](section/66.md)
+      - [s. 67 Report of decisions to High Court](section/67.md)
+      - [s. 68 Effect of approval](section/68.md)
+      - [s. 69 Additional effect on undischarged bankrupt](section/69.md)
+      - [s. 70 Challenge of meeting’s decision](section/70.md)
+      - [s. 71 Prosecution of delinquent debtors](section/71.md)
+      - [s. 72 Arrangements coming to an end prematurely](section/72.md)
+      - [s. 73 Implementation and supervision of approved voluntary arrangement](section/73.md)
+    - Bankruptcy
+      - [s. 74 Definition of “bankrupt’s estate”](section/74.md)
+      - [s. 75 Default in connection with voluntary arrangement](section/75.md)
+      - [s. 76 Powers of interim receiver](section/76.md)
+      - [s. 77 Appointment of trustee by Department](section/77.md)
+      - [s. 78 Trustee’s vacation of office](section/78.md)
+      - [s. 79 Release of trustee](section/79.md)
+      - [s. 80 Vacancy in office of trustee](section/80.md)
+      - [s. 81 Creditors’ committee](section/81.md)
+      - [s. 82 Trustee’s powers](section/82.md)
+      - [s. 83 Final distribution](section/83.md)
+      - [s. 84 Final meeting](section/84.md)
+      - [s. 85 Bankrupt’s home](section/85.md)
+      - [s. 86 Offence of making false statements](section/86.md)
+      - [s. 87 Provision that may be included in individual insolvency rules](section/87.md)
+- Part 5 Administration
+  - [s. 88 Extension of administrator’s term of office](section/88.md)
+  - [s. 89 Administration: payments to unsecured creditors](section/89.md)
+- Part 6 Small debts
+  - [s. 90 Creditors not required to prove small debts: company insolvency](section/90.md)
+  - [s. 91 Creditors not required to prove small debts: individual insolvency](section/91.md)
+- Part 7 Trustees in bankruptcy
+  - [s. 92 Trustees in bankruptcy](section/92.md)
+- Part 8 Voluntary arrangements
+  - [s. 93 Abolition of fast-track voluntary arrangements](section/93.md)
+- Part 9 Protection of essential supplies
+  - Corporate insolvency
+    - [s. 94 Power to add to supplies protected under the 1989 Order](section/94.md)
+    - [s. 95 Power to give further protection to essential supplies](section/95.md)
+  - Individual insolvency
+    - [s. 96 Protection of supplies of water, electricity, etc](section/96.md)
+    - [s. 97 Further protection of essential supplies](section/97.md)
+    - [s. 98 Power to add to supplies protected under the 1989 Order](section/98.md)
+    - [s. 99 Power to give further protection to essential supplies](section/99.md)
+  - Supplemental
+    - [s. 100 Sections 94 to 99: supplemental](section/100.md)
+- Part 10 Remote attendance at meetings and use of websites
+  - [s. 101 Remote attendance at meetings and use of websites](section/101.md)
+- Part 11 Other amendments relating to insolvency
+  - [s. 102 Miscellaneous provision about insolvency law](section/102.md)
+  - [s. 103 Notice of proposed resolution for voluntary winding up](section/103.md)
+  - [s. 104 Notice of result of resolution to wind up voluntarily](section/104.md)
+  - [s. 105 Presentation of bankruptcy petition: conditions to be satisfied](section/105.md)
+  - [s. 106 Orders relating to recognised professional bodies to be subject to negative resolution](section/106.md)
+- Part 12 Insolvent Partnerships
+  - [s. 107 Amendments of the 1995 Order](section/107.md)
+  - [s. 108 Voluntary arrangements of insolvent partnerships](section/108.md)
+  - [s. 109 Voluntary arrangements of members of insolvent partnership](section/109.md)
+  - [s. 110 Administration in relation to insolvent partnerships](section/110.md)
+  - [s. 111 Creditors’ winding-up: no concurrent petition against member](section/111.md)
+  - [s. 112 Creditors’ winding-up: concurrent petition against member or members](section/112.md)
+  - [s. 113 Members’ winding-up: concurrent petitions against all members](section/113.md)
+  - [s. 114 Individual members presenting joint petition: no winding-up of partnership](section/114.md)
+  - [s. 115 Application of the Company Directors Disqualification (Northern Ireland) Order 2002](section/115.md)
+  - [s. 116 Supplemental and transitional provision](section/116.md)
+  - [s. 117 Amendments to the Schedules to the 1995 Order](section/117.md)
+- Part 13 General
+  - [s. 118 Interpretation](section/118.md)
+  - [s. 119 Power to make consequential amendments, repeals and revocations](section/119.md)
+  - [s. 120 Commencement](section/120.md)
+  - [s. 121 Short title](section/121.md)
+- Schedule 1 Amendments to Schedule B1 to the 1989 Order
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+- Schedule 2 Trustees in bankruptcy: consequential amendments
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- Schedule 3 Miscellaneous amendments of insolvency law
+  - Part 1 Administration of companies
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Appointment of administrators
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Release of administrator
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part 2 Winding up of companies
+    - Removal of power of Court to order payment into bank of money due to company
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part 3 Disqualification of unfit directors of insolvent companies
+    - Application for making of disqualification order: power to require information
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Enforcement of Article 10(5) of the 2002 Order
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Amendment of Article 24 of the 2002 Order
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Part 4 Bankruptcy
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Appointment of insolvency practitioner as interim receiver
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Statement of affairs
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part 5 Other minor amendments of the 1989 Order and other enactments
+    - Regulations that are not subject to negative resolution
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Companies in relation to which a voluntary arrangement may be made
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Application for winding up
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Holders of office to be qualified insolvency practitioners
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Adjudicators in England and Wales: consequential amendments
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Removal of reference to repealed provision
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Penalties and proceedings for certain offences under the 1989 Order
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Administration
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - Amendment consequential on Small Business, Enterprise and Employment Act 2015
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+- Schedule 4 Insolvent Partnerships: Amendments to Schedules to the 1995 Order
+  - Part 1 Amendments to Schedule 1
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Amendments in consequence of repeal of Article 348A by paragraph 15 of Schedule 3 to the Insolvency (Amendment) Act (Northern Ireland) 2016
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Other amendments to modified Articles of the 1989 Order
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Part 2 Amendments to Schedule 2
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Part 3 Amendments to Schedule 3
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - Part 4 Amendments to Schedule 4
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+  - Part 5 Amendments to Schedule 5
+    - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+  - Part 6 Amendments to Schedule 6
+    - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+  - Part 7 Amendments to Schedule 7
+    - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+    - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+    - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+    - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+    - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+    - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+    - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+    - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+    - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+    - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+    - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+    - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+    - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+    - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+    - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+    - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+  - Part 8 Amendments to Schedule 8
+    - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+    - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+    - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+    - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+    - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+    - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+    - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+    - [Sch. 4 para. 91](schedule/4/paragraph/91.md)
+    - [Sch. 4 para. 92](schedule/4/paragraph/92.md)
+    - [Sch. 4 para. 93](schedule/4/paragraph/93.md)
+    - [Sch. 4 para. 94](schedule/4/paragraph/94.md)
+  - Part 9 Amendment to Schedule 10
+    - [Sch. 4 para. 95](schedule/4/paragraph/95.md)
