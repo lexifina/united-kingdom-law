@@ -2,9 +2,11 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-25, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-04-01
+legislation.gov.uk lists 30 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
+
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
 
 ## Contents
 
