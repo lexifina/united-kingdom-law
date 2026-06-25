@@ -1,0 +1,690 @@
+# Taxes Management Act 1970
+
+1970 c. 9. Enacted 1970-03-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 243 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1970/9
+
+Source: https://www.legislation.gov.uk/ukpga/1970/9/2026-06-25
+
+## Contents
+
+- PART I ADMINISTRATION
+  - [s. 1 Responsibility for certain taxes](section/1.md)
+  - [s. 2 General Commissioners](section/2.md)
+  - [s. 2A General Commissioners: costs and expenses in legal proceedings.](section/2A.md)
+  - [s. 3 Clerk to General Commissioners.](section/3.md)
+  - [s. 3A General Commissioners and clerks: indemnity.](section/3A.md)
+  - [s. 4 Special Commissioners.](section/4.md)
+  - [s. 4A Deputy Special Commissioners.](section/4A.md)
+  - [s. 5 General and Special Commissioners.](section/5.md)
+  - [s. 6 Declarations on taking office.](section/6.md)
+- PART II RETURNS OF INCOME AND GAINS
+  - Income tax
+    - [s. 7 Notice of liability to income tax and capital gains tax.](section/7.md)
+    - [s. 7A Disregard of certain NRCGT gains for purposes of section 7](section/7A.md)
+    - [s. 8 Personal return.](section/8.md)
+    - [s. 8ZA Interpretation of section 8(4A)](section/8ZA.md)
+    - [s. 8A Trustee’s return.](section/8A.md)
+    - [s. 8B Withdrawal by HMRC of notice under section 8 or 8A](section/8B.md)
+    - [s. 8C Returns so far as relating to capital gains tax](section/8C.md)
+    - [s. 9 Returns to include self-assessment.](section/9.md)
+    - [s. 9ZA Amendment of personal or trustee return by taxpayer](section/9ZA.md)
+    - [s. 9ZB Correction of personal or trustee return by Revenue](section/9ZB.md)
+    - [s. 9A Notice of enquiry](section/9A.md)
+    - [s. 9B Amendment of return by taxpayer during enquiry](section/9B.md)
+    - [s. 9C Amendment of self-assessment during enquiry to prevent loss of tax](section/9C.md)
+    - [s. 9D Choice between different Cases of Schedule D](section/9D.md)
+  - Corporation tax
+    - [s. 10 Notice of liability to corporation tax.](section/10.md)
+    - [s. 11 Return of profits.](section/11.md)
+    - [s. 11A Notice of liability to capital gains tax.](section/11A.md)
+    - [s. 11AA Return of profits to include self-assessment.](section/11AA.md)
+    - [s. 11AB Power to enquire into return of profits.](section/11AB.md)
+    - [s. 11AC Modifications of sections 11AA and 11AB in relation to non-annual accounting of general insurance business.](section/11AC.md)
+    - [s. 11AD Modifications of sections 11AA and 11AB for insurance companies with non-annual actuarial investigations.](section/11AD.md)
+    - [s. 11AE Modifications of sections 11AA and 11AB for friendly societies with non-annual actuarial investigations.](section/11AE.md)
+    - [s. 12 Information about chargeable gains.](section/12.md)
+  - ................................
+    - [s. 12ZA Interpretation of sections 12ZB to 12ZN](section/12ZA.md)
+    - [s. 12ZB NRCGT return](section/12ZB.md)
+    - [s. 12ZBA Elective NRCGT return](section/12ZBA.md)
+    - [s. 12ZC Single return in respect of two or more non-resident CGT disposals](section/12ZC.md)
+    - [s. 12ZD NRCGT returns: grant and exercise of options](section/12ZD.md)
+    - [s. 12ZE NRCGT return to include advance self-assessment](section/12ZE.md)
+    - [s. 12ZF The “amount notionally chargeable”](section/12ZF.md)
+    - [s. 12ZG Cases where advance self-assessment not required](section/12ZG.md)
+    - [s. 12ZH NRCGT returns and annual self-assessment: section 8](section/12ZH.md)
+    - [s. 12ZI NRCGT returns and annual self-assessment: section 8A](section/12ZI.md)
+    - [s. 12ZJ Sections 12ZA to 12ZI: determination of residence status](section/12ZJ.md)
+    - [s. 12ZK Amendment of NRCGT return by the taxpayer](section/12ZK.md)
+    - [s. 12ZL Correction of NRCGT return by HMRC](section/12ZL.md)
+    - [s. 12ZM Notice of enquiry](section/12ZM.md)
+    - [s. 12ZN Amendment of return by taxpayer during enquiry](section/12ZN.md)
+  - Partnerships
+    - [s. 12AA Partnership return.](section/12AA.md)
+    - [s. 12AAA Withdrawal by HMRC of notice under section 12AA](section/12AAA.md)
+    - [s. 12AB Partnership return to include partnership statement.](section/12AB.md)
+    - [s. 12ABZA Partnership returns: overseas partners in investment partnerships etc](section/12ABZA.md)
+    - [s. 12ABZAA Returns relating to LLP not carrying on business etc with view to profit](section/12ABZAA.md)
+    - [s. 12ABZB Partnership return conclusive as to partnership shares](section/12ABZB.md)
+    - [s. 12ABA Amendment of partnership return by taxpayer](section/12ABA.md)
+    - [s. 12ABB Correction of partnership return by Revenue](section/12ABB.md)
+    - [s. 12AC Notice of enquiry](section/12AC.md)
+    - [s. 12AD Amendment of partnership return by taxpayer, or referral of dispute, during enquiry](section/12AD.md)
+    - [s. 12ADA AIFM firms](section/12ADA.md)
+    - [s. 12AE Choice between different Cases of Schedule D](section/12AE.md)
+  - UK Economic Interest Groupings and European Economic Interest Groupings
+    - [s. 12A UK Economic Interest Groupings and European Economic Interest Groupings.](section/12A.md)
+  - Records
+    - [s. 12B Records to be kept for purposes of returns.](section/12B.md)
+  - Digital reporting and record-keeping
+    - [s. 12C Digital reporting and record-keeping](section/12C.md)
+  - Voluntary returns
+    - [s. 12D Returns made otherwise than pursuant to a notice](section/12D.md)
+- PART III OTHER RETURNS AND INFORMATION
+  - [s. 13 Persons in receipt of taxable income belonging to others.](section/13.md)
+  - [s. 14 Return of lodgers and inmates.](section/14.md)
+  - [s. 15 Return of employees’ earnings etc.](section/15.md)
+  - [s. 15A Non-resident’s staff are UK client’s employees for section 15 purposes](section/15A.md)
+  - [s. 16 Fees, commissions, etc.](section/16.md)
+  - [s. 16A Agency workers.](section/16A.md)
+  - [s. 17 Interest paid or credited by banks, building societies, etc. without deduction of income tax.](section/17.md)
+  - [s. 18 Interest paid without deduction of income tax.](section/18.md)
+  - [s. 18A Other payments and licences etc.](section/18A.md)
+  - [s. 18B Savings income: regulations about European and international aspects](section/18B.md)
+  - [s. 18C Regulations under section 18B: provision about “paying agents”](section/18C.md)
+  - [s. 18D Content of regulations under section 18B: supplementary provision](section/18D.md)
+  - [s. 18E Interpretation of sections 18B to 18D: “prescribed” etc](section/18E.md)
+  - [s. 19 Information for purposes of charge on profits of UK property businesses or under Schedule A.](section/19.md)
+  - Production of accounts, books and other information
+    - [s. 19A Power to call for documents for purposes of certain enquiries.](section/19A.md)
+    - [s. 20 Power to call for documents of taxpayer and others.](section/20.md)
+    - [s. 20A Power to call for papers of tax accountant.](section/20A.md)
+    - [s. 20B Restrictions on powers under section 20A.](section/20B.md)
+    - [s. 20BA Orders for the delivery of documents.](section/20BA.md)
+    - [s. 20BB Falsification etc. of documents.](section/20BB.md)
+    - [s. 20C Entry with warrant to obtain documents.](section/20C.md)
+    - [s. 20CC Procedure where documents etc. are removed.](section/20CC.md)
+    - [s. 20D Interpretation of ss.20 to 20C.](section/20D.md)
+    - [s. 21 Stock jobbers’ transactions.](section/21.md)
+  - Surtax
+    - [s. 22 Additional particulars for surtax.](section/22.md)
+    - [s. 23 Power to obtain copies of registers of securities.](section/23.md)
+    - [s. 24 Power to obtain information as to income from securities.](section/24.md)
+  - Chargeable gains
+    - [s. 25 Issuing houses, stockbrokers, auctioneers, etc.](section/25.md)
+    - [s. 26 Nominee shareholders.](section/26.md)
+    - [s. 27 Settled property.](section/27.md)
+    - [s. 28 Non-resident companies and trusts.](section/28.md)
+- PART 3A REFERRAL OF QUESTIONS DURING ENQUIRY
+  - [s. 28ZA Referral of questions during enquiry](section/28ZA.md)
+  - [s. 28ZB Withdrawal of notice of referral](section/28ZB.md)
+  - [s. 28ZC Regulations with respect to referrals](section/28ZC.md)
+  - [s. 28ZD Effect of referral on enquiry](section/28ZD.md)
+  - [s. 28ZE Effect of determination](section/28ZE.md)
+- PART IV ASSESSMENT AND CLAIMS
+  - [s. 28A Completion of enquiry into personal or trustee return ...](section/28A.md)
+  - [s. 28AA Amendment of return of profits made for wrong period.](section/28AA.md)
+  - [s. 28AB Provisions supplementary to section 28AA.](section/28AB.md)
+  - [s. 28B Completion of enquiry into partnership return](section/28B.md)
+  - [s. 28C Determination of tax where no return delivered.](section/28C.md)
+  - [s. 28D Determination of corporation tax where no return delivered.](section/28D.md)
+  - [s. 28E Determination of corporation tax where notice complied with in part.](section/28E.md)
+  - [s. 28F Corporation tax determinations: supplementary.](section/28F.md)
+  - [s. 28G Determination of amount notionally chargeable where no NRCGT return delivered](section/28G.md)
+  - [s. 28H Simple assessments by HMRC: personal assessments](section/28H.md)
+  - [s. 28I Simple assessments by HMRC: trustees](section/28I.md)
+  - [s. 28J Power to withdraw a simple assessment](section/28J.md)
+  - [s. 29 Assessment where loss of tax discovered.](section/29.md)
+  - [s. 29A Non-resident CGT disposals: determination of amount which should have been assessed](section/29A.md)
+  - [s. 30 Recovery of overpayment of tax, etc.](section/30.md)
+  - [s. 30A Assessing procedure.](section/30A.md)
+  - [s. 30AA Assessing income tax on trustees and personal representatives](section/30AA.md)
+  - [s. 30B Amendment of partnership statement where loss of tax discovered.](section/30B.md)
+  - [s. 30C Transfer pricing records: carelessness for the purposes of section 29](section/30C.md)
+  - [s. 30D Transfer pricing records: carelessness for the purposes of section 30B](section/30D.md)
+  - [s. 31 Appeals: right of appeal](section/31.md)
+  - [s. 31A Appeals: notice of appeal](section/31A.md)
+  - [s. 31AA Taxpayer’s right to query simple assessment](section/31AA.md)
+  - [s. 31B Appeals: appeals to General Commissioners](section/31B.md)
+  - [s. 31C Appeals: appeals to Special Commissioners](section/31C.md)
+  - [s. 31D Appeals: election to bring appeal before Special Commissioners](section/31D.md)
+  - Overpaid tax, excessive assessments etc
+    - [s. 32 Double assessment.](section/32.md)
+    - [s. 33 Recovery of overpaid tax etc](section/33.md)
+  - Time limits
+    - [s. 34 Ordinary time limit of 4 years.](section/34.md)
+    - [s. 34A Ordinary time limit for self-assessments](section/34A.md)
+    - [s. 35 Time limit: income received after year for which it is assessable](section/35.md)
+    - [s. 36 Loss of tax brought about carelessly or deliberately etc](section/36.md)
+    - [s. 36A Loss of tax involving offshore matter or offshore transfer](section/36A.md)
+    - [s. 37 Neglect: income tax and capital gains tax.](section/37.md)
+    - [s. 37A Effect of assessment where allowances transferred.](section/37A.md)
+    - [s. 38 Modification of s.37 in relation to partnerships.](section/38.md)
+    - [s. 39 Neglect: corporation tax.](section/39.md)
+    - [s. 40 Assessment on personal representatives.](section/40.md)
+    - [s. 41 Leave of General or Special Commissioners required for certain assessments.](section/41.md)
+  - Corporation tax determinations
+    - [s. 41A Determination procedure](section/41A.md)
+    - [s. 41B Reduction of determination](section/41B.md)
+    - [s. 41C Time limits](section/41C.md)
+  - Claims
+    - [s. 42 Procedure for making claims etc.](section/42.md)
+    - [s. 43 Time limit for making claims.](section/43.md)
+    - [s. 43A Further assessments: claims etc.](section/43A.md)
+    - [s. 43B Limits on application of section 43A.](section/43B.md)
+    - [s. 43C Consequential claims etc](section/43C.md)
+    - [s. 43D Claims for double taxation relief in relation to petroleum revenue tax](section/43D.md)
+    - [s. 43E Making of income tax claims by electronic communications etc](section/43E.md)
+    - [s. 43F Effect of directions under section 43E](section/43F.md)
+- PART V APPEALS AND OTHER PROCEEDINGS
+  - Jurisdiction
+    - [s. 44 General Commissioners.](section/44.md)
+    - [s. 45 Quorum of Special Commissioners.](section/45.md)
+    - [s. 46 General and Special Commissioners.](section/46.md)
+    - [s. 46A Regulations about jurisdiction.](section/46A.md)
+    - [s. 46B Questions to be determined by Special Commissioners.](section/46B.md)
+    - [s. 46C Jurisdiction of Special Commissioners over certain claims included in returns.](section/46C.md)
+    - [s. 46D Questions to be determined by the relevant tribunal.](section/46D.md)
+    - [s. 47 Special jurisdiction relating to tax on chargeable gains.](section/47.md)
+    - [s. 47A ................................](section/47A.md)
+    - [s. 47B Special jurisdiction relating to Business Expansion Scheme.](section/47B.md)
+  - Appeals
+    - [s. 47C Meaning of tribunal](section/47C.md)
+    - [s. 48 Application to appeals and other proceedings](section/48.md)
+    - [s. 49 Late notice of appeal](section/49.md)
+    - [s. 49A Appeal: HMRC review or determination by tribunal](section/49A.md)
+    - [s. 49B Appellant requires review by HMRC](section/49B.md)
+    - [s. 49C HMRC offer review](section/49C.md)
+    - [s. 49D Notifying appeal to the tribunal](section/49D.md)
+    - [s. 49E Nature of review etc](section/49E.md)
+    - [s. 49EA Nature of review: penalties under Schedule 24 to FA 2021](section/49EA.md)
+    - [s. 49F Effect of conclusions of review](section/49F.md)
+    - [s. 49FA Effect of conclusions of review: penalties under Schedule 24 to FA 2021](section/49FA.md)
+    - [s. 49G Notifying appeal to tribunal after review concluded](section/49G.md)
+    - [s. 49H Notifying appeal to tribunal after review offered but not accepted](section/49H.md)
+    - [s. 49I Interpretation of sections 49A to 49H](section/49I.md)
+    - [s. 50 Procedure.](section/50.md)
+    - [s. 51 Power of Commissioners to obtain information from appellant.](section/51.md)
+    - [s. 52 Evidence.](section/52.md)
+    - [s. 53 Appeals against summary determination of penalties.](section/53.md)
+    - [s. 54 Settling of appeals by agreement.](section/54.md)
+    - [s. 54A No questioning in appeal of amounts of certain social security income](section/54A.md)
+    - [s. 54B Notifications of taxable amounts of certain social security income](section/54B.md)
+    - [s. 54C Interpretation of sections 54A and 54B: “appropriate officer” etc](section/54C.md)
+    - [s. 55 Recovery of tax not postponed.](section/55.md)
+    - [s. 56 Payment of tax where there is a further appeal](section/56.md)
+    - [s. 56A Appeals from the Special Commissioners.](section/56A.md)
+    - [s. 56B Regulations about practice and procedure.](section/56B.md)
+    - [s. 56C Power of Special Commissioners to order costs.](section/56C.md)
+    - [s. 56D Power of Special Commissioners to publish reports of decisions.](section/56D.md)
+  - Chargeable gains
+    - [s. 57 Regulations about appeals.](section/57.md)
+    - [s. 57A ................................](section/57A.md)
+    - [s. 57B ................................](section/57B.md)
+  - ................................
+    - [s. 58 Proceedings in tax cases in Northern Ireland.](section/58.md)
+    - [s. 59 Election for county court in Northern Ireland.](section/59.md)
+- PART VA Payment of Tax
+  - Income tax and capital gains tax
+    - [s. 59A Payments on account of income tax.](section/59A.md)
+    - [s. 59AZA Payments on account of capital gains tax: disposals of land etc](section/59AZA.md)
+    - [s. 59AA Non-resident CGT disposals: payments on account of capital gains tax](section/59AA.md)
+    - [s. 59AB Amounts payable on account: recovery](section/59AB.md)
+    - [s. 59B Payment of income tax and capital gains tax: assessments other than simple assessments.](section/59B.md)
+    - [s. 59BA Payment of income tax and capital gains tax: simple assessments](section/59BA.md)
+    - [s. 59BB CGT exit charge payment plans](section/59BB.md)
+    - [s. 59C Surcharges on unpaid income tax and capital gains tax.](section/59C.md)
+  - Corporation tax
+    - [s. 59D General rule as to when corporation tax is due and payable.](section/59D.md)
+    - [s. 59DA Claim for repayment in advance of liability being established.](section/59DA.md)
+    - [s. 59E Further provision as to when corporation tax is due and payable.](section/59E.md)
+    - [s. 59F Arrangements for paying tax on behalf of group members](section/59F.md)
+    - [s. 59FA CT exit charge payment plans](section/59FA.md)
+    - [s. 59FB CT payment plans for tax on certain transactions with EEA residents](section/59FB.md)
+  - Managed payment plans
+    - [s. 59G Managed payment plans](section/59G.md)
+    - [s. 59H Balancing of instalments for the purposes of section 59G](section/59H.md)
+- PART VI COLLECTION AND RECOVERY
+  - [s. 60 Issue of demand notes and receipts.](section/60.md)
+  - Distraint and poinding
+    - [s. 61 Distraint by collectors.](section/61.md)
+    - [s. 62 Priority of claim for tax.](section/62.md)
+    - [s. 63 Recovery of tax in Scotland](section/63.md)
+    - [s. 63A Sheriff officer’s fees and outlays.](section/63A.md)
+    - [s. 64 Priority of claim for tax in Scotland.](section/64.md)
+  - Court proceedings
+    - [s. 65 Magistrates’ courts.](section/65.md)
+    - [s. 66 County courts.](section/66.md)
+    - [s. 67 Inferior courts in Scotland.](section/67.md)
+    - [s. 68 High Court, etc.](section/68.md)
+  - Supplemental
+    - [s. 69 Recovery of penalty ... or interest](section/69.md)
+    - [s. 70 Evidence.](section/70.md)
+    - [s. 70A Payments by cheque.](section/70A.md)
+- PART VII PERSONS CHARGEABLE IN A REPRESENTATIVE CAPACITY, ETC.
+  - Income Tax
+    - [s. 71 Bodies of persons.](section/71.md)
+    - [s. 72 Trustees, guardians, etc., of incapacitated persons.](section/72.md)
+    - [s. 73 Further provision as to infants.](section/73.md)
+    - [s. 74 Personal representatives.](section/74.md)
+    - [s. 75 Receivers appointed by a court.](section/75.md)
+    - [s. 76 Protection for certain trustees, agents and receivers.](section/76.md)
+  - Capital gains tax
+    - [s. 77 Application of Part VII to capital gains tax.](section/77.md)
+    - [s. 77A ................................](section/77A.md)
+- PART 7A Holders of licences under the Petroleum Act 1998
+  - Licence-holders’ liabilities for tax assessed on non-UK residents
+    - [s. 77B Pre-conditions for serving secondary-liability notice](section/77B.md)
+    - [s. 77C Secondary-liability notices](section/77C.md)
+    - [s. 77D Payments under secondary-liability notices](section/77D.md)
+    - [s. 77E Exception for certain pre-1974 cases](section/77E.md)
+  - Exemption certificates
+    - [s. 77F Issue, cancellation and effect of exemption certificates](section/77F.md)
+    - [s. 77G Liabilities for assessments made after exemption certificate cancelled](section/77G.md)
+  - Supplementary
+    - [s. 77H Calculations under sections 77C(3) and 77G(7)](section/77H.md)
+    - [s. 77I Information](section/77I.md)
+    - [s. 77J Meaning of “related to a licence” as respects tax, or profits or gains](section/77J.md)
+    - [s. 77K Other definitions in Part 7A](section/77K.md)
+- PART VIII CHARGES ON NON-RESIDENTS
+  - Income tax
+    - [s. 78 Method of charging non-residents.](section/78.md)
+    - [s. 79 Profits from branch or agency.](section/79.md)
+    - [s. 80 Charge on percentage of turnover.](section/80.md)
+    - [s. 81 Taxation on basis of merchanting profit.](section/81.md)
+    - [s. 82 Savings.](section/82.md)
+    - [s. 83 Responsibilities and indemnification of persons in whose name a non-resident person is chargeable.](section/83.md)
+  - Capital gains tax
+    - [s. 84 Gains from branch or agency.](section/84.md)
+  - Corporation tax
+    - [s. 85 Application of Part VIII to corporation tax.](section/85.md)
+    - [s. 85A ................................](section/85A.md)
+- PART IX INTEREST ON OVERDUE TAX
+  - [s. 86 Interest on overdue income tax and capital gains tax.](section/86.md)
+  - [s. 86A ................................](section/86A.md)
+  - [s. 87 Interest on overdue income tax deducted at source](section/87.md)
+  - [s. 87A Interest on overdue corporation tax etc.](section/87A.md)
+  - [s. 88 Interest on tax recovered to make good loss due to taxpayer’s fault.](section/88.md)
+  - [s. 88A Determinations under section 88.](section/88A.md)
+  - [s. 89 The prescribed rate of interest.](section/89.md)
+  - [s. 90 Interest on tax payable gross](section/90.md)
+  - [s. 91 Effect on interest of reliefs.](section/91.md)
+  - [s. 91A ................................](section/91A.md)
+  - [s. 92 Remission in certain cases of interest on tax in arrear by reason of exchange restrictions.](section/92.md)
+- PART X PENALTIES, ETC.
+  - [s. 93 Failure to make return for income tax and capital gains tax.](section/93.md)
+  - [s. 93A Failure to make partnership return.](section/93A.md)
+  - [s. 94 Failure to make return for corporation tax.](section/94.md)
+  - [s. 95 Incorrect return or accounts for income tax or capital gains tax.](section/95.md)
+  - [s. 95A Incorrect partnership return or accounts.](section/95A.md)
+  - [s. 96 Incorrect return or accounts for corporation tax.](section/96.md)
+  - [s. 97 Incorrect return or accounts: supplemental.](section/97.md)
+  - [s. 97AA Failure to produce documents under section 19A.](section/97AA.md)
+  - [s. 97A Two or more tax-geared penalties in respect of the same tax.](section/97A.md)
+  - [s. 98 Special returns, etc.](section/98.md)
+  - [s. 98A Special penalties in the case of certain returns.](section/98A.md)
+  - [s. 98B UK Economic Interest Groupings and European Economic Interest Groupings.](section/98B.md)
+  - [s. 98C Notification under Part 7 of Finance Act 2004](section/98C.md)
+  - [s. 99 Assisting in preparation of incorrect return, etc.](section/99.md)
+  - [s. 99A Certificates of non-liability to income tax.](section/99A.md)
+  - [s. 99B Declarations under Chapter 2 of Part 15 of ITA 2007](section/99B.md)
+  - [s. 100 Determination of penalties by officer of the Board.](section/100.md)
+  - [s. 100A Provisions supplementary to section 100.](section/100A.md)
+  - [s. 100B Appeals against penalty determinations.](section/100B.md)
+  - [s. 100C Penalty proceedings before First-tier Tribunal.](section/100C.md)
+  - [s. 100D Penalty proceedings before court.](section/100D.md)
+  - [s. 101 Evidence for purposes of proceedings relating to penalties.](section/101.md)
+  - [s. 102 Mitigation of penalties.](section/102.md)
+  - [s. 103 Time limits for penalties.](section/103.md)
+  - [s. 103ZA Disapplication of sections 100 to 103 in the case of certain penalties](section/103ZA.md)
+  - [s. 103A Interest on penalties.](section/103A.md)
+  - [s. 104 Saving for criminal proceedings.](section/104.md)
+  - [s. 105 Admissibility of evidence not affected by offer of settlement etc.](section/105.md)
+  - [s. 106 Refusal to allow a deduction of income tax, and avoidance of agreements for payment without deduction.](section/106.md)
+  - Evasion
+    - [s. 106A Offence of fraudulent evasion of income tax](section/106A.md)
+  - Offshore income, assets and activities
+    - [s. 106B Offence of failing to give notice of being chargeable to tax](section/106B.md)
+    - [s. 106C Offence of failing to deliver return](section/106C.md)
+    - [s. 106D Offence of making inaccurate return](section/106D.md)
+    - [s. 106E Exclusions from offences under sections 106B to 106D](section/106E.md)
+    - [s. 106F Offences under sections 106B to 106D: supplementary provision](section/106F.md)
+    - [s. 106G Penalties for offences under sections 106B to 106D](section/106G.md)
+    - [s. 106H Regulations under sections 106E and 106F](section/106H.md)
+  - Scotland
+    - [s. 107 Criminal liability for false statements made to obtain allowances.](section/107.md)
+- PART XI MISCELLANEOUS AND SUPPLEMENTAL
+  - Settlements
+    - [s. 107A Relevant trustees.](section/107A.md)
+  - Companies
+    - [s. 108 Responsibility of company officers.](section/108.md)
+    - [s. 109 Corporation tax on close company in connection with loans or benefits to participators etc.](section/109.md)
+    - [s. 109A Residence of companies](section/109A.md)
+  - Companies ceasing to be UK resident
+    - [s. 109B Provisions for securing payment by company of outstanding tax](section/109B.md)
+    - [s. 109C Penalty for company’s failure to comply with section 109B](section/109C.md)
+    - [s. 109D Penalty for other persons if company fails to comply with section 109B](section/109D.md)
+    - [s. 109E Liability of other persons for unpaid tax](section/109E.md)
+    - [s. 109F Interpretation of sections 109B to 109E](section/109F.md)
+  - Valuation
+    - [s. 110 Valuation of land: power of entry.](section/110.md)
+    - [s. 111 Valuation of assets: power to inspect.](section/111.md)
+  - Documents
+    - [s. 112 Loss, destruction or damage to assessments, returns, etc.](section/112.md)
+    - [s. 113 Form of returns and other documents.](section/113.md)
+    - [s. 114 Want of form or errors not to invalidate assessments, etc.](section/114.md)
+    - [s. 115 Delivery and service of documents.](section/115.md)
+    - [s. 115A Electronic lodgement of tax returns, etc.](section/115A.md)
+    - [s. 116 ................................](section/116.md)
+  - Northern Ireland
+    - [s. 117 Action of ejectment in Northern Ireland.](section/117.md)
+  - Interpretation
+    - [s. 118 Interpretation.](section/118.md)
+- PART XII GENERAL
+  - [s. 119 Commencement and construction.](section/119.md)
+  - [s. 120 Short title.](section/120.md)
+- SCHEDULE 1 FORMS OF DECLARATIONS
+  - PART I GENERAL AND SPECIAL COMMISSIONERS AND OTHERS
+  - PART II COMMISSIONERS OF INLAND REVENUE
+  - PART III INSPECTORS, COLLECTORS AND OTHER OFFICERS
+- SCHEDULE A1 Digital reporting and record-keeping
+  - PART 1 Introduction
+    - Overview
+      - [Sch. A1 para. A1](schedule/A1/paragraph/A1.md)
+    - Interpretation: relevant persons
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Interpretation: relevant partnerships
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - ...
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - Nominated partners
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - PART 2 Digital reporting and record-keeping
+    - Interpretation
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - Periodic updates
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - End of period statement
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - Personal or trustee return etc.
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Partnership return
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+    - Record-keeping
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - Electronic communications and records: supplementary powers
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+  - PART 3 Exemptions
+    - Exemption for the digitally excluded
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+    - Further exemptions
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+  - PART 4 Supplementary provision
+    - Appeals
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - Interpretation
+      - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - Regulations
+      - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+- SCHEDULE 1AA Orders for production of documents
+  - Introduction
+    - [Sch. 1AA para. 1](schedule/1AA/paragraph/1.md)
+  - Authorised officer of the Board
+    - [Sch. 1AA para. 2](schedule/1AA/paragraph/2.md)
+  - Notice of application for order
+    - [Sch. 1AA para. 3](schedule/1AA/paragraph/3.md)
+  - Obligations of person given notice of application
+    - [Sch. 1AA para. 4](schedule/1AA/paragraph/4.md)
+  - Exception of items subject to legal privilege
+    - [Sch. 1AA para. 5](schedule/1AA/paragraph/5.md)
+  - Resolution of disputes as to legal privilege
+    - [Sch. 1AA para. 6](schedule/1AA/paragraph/6.md)
+  - Complying with an order
+    - [Sch. 1AA para. 7](schedule/1AA/paragraph/7.md)
+  - Procedure where documents are delivered
+    - [Sch. 1AA para. 8](schedule/1AA/paragraph/8.md)
+  - Sanction for failure to comply with order
+    - [Sch. 1AA para. 9](schedule/1AA/paragraph/9.md)
+  - Notice of order etc.
+    - [Sch. 1AA para. 10](schedule/1AA/paragraph/10.md)
+  - General provisions about regulations
+    - [Sch. 1AA para. 11](schedule/1AA/paragraph/11.md)
+- SCHEDULE 1AB Recovery of overpaid tax etc
+  - Claim for relief for overpaid tax etc
+    - [Sch. 1AB para. 1](schedule/1AB/paragraph/1.md)
+  - Cases in which Commissioners not liable to give effect to claim
+    - [Sch. 1AB para. 2](schedule/1AB/paragraph/2.md)
+  - Making a claim
+    - [Sch. 1AB para. 3](schedule/1AB/paragraph/3.md)
+  - Determinations under section 28C: special rules
+    - [Sch. 1AB para. 3A](schedule/1AB/paragraph/3A.md)
+  - The claimant: one person accountable for amounts payable by another etc
+    - [Sch. 1AB para. 4](schedule/1AB/paragraph/4.md)
+  - The claimant: partnerships
+    - [Sch. 1AB para. 5](schedule/1AB/paragraph/5.md)
+  - Assessment of claimant in connection with claim
+    - [Sch. 1AB para. 6](schedule/1AB/paragraph/6.md)
+  - Amendment of partnership return etc in connection with claim
+    - [Sch. 1AB para. 7](schedule/1AB/paragraph/7.md)
+  - Contract settlements
+    - [Sch. 1AB para. 8](schedule/1AB/paragraph/8.md)
+  - Interpretation
+    - [Sch. 1AB para. 9](schedule/1AB/paragraph/9.md)
+- SCHEDULE 1A Claims etc. not included in returns
+  - Preliminary
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Making of claims
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Keeping and preserving of records
+    - [Sch. 1A para. 2A](schedule/1A/paragraph/2A.md)
+  - Amendments of claims
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Giving effect to claims and amendments
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Power to enquire into claims
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Power to call for documents for purposes of enquiries
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Appeal against notice to produce documents, etc
+    - [Sch. 1A para. 6A](schedule/1A/paragraph/6A.md)
+  - Completion of enquiry into claim
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Giving effect to such amendments
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Appeals against such amendments
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+- SCHEDULE 1B Claims for relief involving two or more years
+  - Preliminary
+    - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+  - Loss relief
+    - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - Relief for fluctuating profits of farming etc.
+    - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+  - Relief claimed by virtue of section 224(4) of ITTOIA 2005
+    - [Sch. 1B para. 4](schedule/1B/paragraph/4.md)
+  - Carry-back of post-cessation etc. receipts
+    - [Sch. 1B para. 5](schedule/1B/paragraph/5.md)
+  - Backward spreading of certain payments
+    - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+- SCHEDULE 2 JURISDICTION IN APPEALS ON CLAIMS
+  - Appeal from inspector
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Supplemental
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Rules for assigning proceedings to General Commissioners
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - General rule for income and capital gains tax proceedings
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Pay As You EarnPAYE appeals
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Corporation tax et ceteralaetc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Procedure for making elections, et ceteralaetc.
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Partnerships
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Directions by the Board
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Other provisions
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 3ZA Date by which payment to be made after amendment or correction of self-assessment
+  - General
+    - [Sch. 3ZA para. 1](schedule/3ZA/paragraph/1.md)
+  - Amendment of personal or trustee return by the taxpayer
+    - [Sch. 3ZA para. 2](schedule/3ZA/paragraph/2.md)
+  - Correction of personal or trustee return by Revenue
+    - [Sch. 3ZA para. 3](schedule/3ZA/paragraph/3.md)
+  - Amendment of personal or trustee return to prevent loss of tax
+    - [Sch. 3ZA para. 4](schedule/3ZA/paragraph/4.md)
+  - Amendment of personal or trustee return by closure notice
+    - [Sch. 3ZA para. 5](schedule/3ZA/paragraph/5.md)
+  - Amendment consequential on amendment of partnership return by taxpayer
+    - [Sch. 3ZA para. 6](schedule/3ZA/paragraph/6.md)
+  - Amendment consequential on correction of partnership return by Revenue or tribunal determination of partnership dispute
+    - [Sch. 3ZA para. 7](schedule/3ZA/paragraph/7.md)
+  - Amendment consequential on amendment of partnership return by closure notice
+    - [Sch. 3ZA para. 8](schedule/3ZA/paragraph/8.md)
+  - Amendment consequential on amendment of partnership return to prevent loss of tax
+    - [Sch. 3ZA para. 9](schedule/3ZA/paragraph/9.md)
+  - Amendment consequential on amendment of partnership return by way of error or mistake relief
+    - [Sch. 3ZA para. 10](schedule/3ZA/paragraph/10.md)
+  - Amendment consequential on reduction or increase on appeal of amounts stated in partnership statement
+    - [Sch. 3ZA para. 11](schedule/3ZA/paragraph/11.md)
+- SCHEDULE 3ZAA CGT exit charge payment plans
+  - Introduction
+    - [Sch. 3ZAA para. 1](schedule/3ZAA/paragraph/1.md)
+  - Eligibility
+    - [Sch. 3ZAA para. 2](schedule/3ZAA/paragraph/2.md)
+    - [Sch. 3ZAA para. 3](schedule/3ZAA/paragraph/3.md)
+  - Tax to which a plan relates
+    - [Sch. 3ZAA para. 4](schedule/3ZAA/paragraph/4.md)
+  - Payment by instalments
+    - [Sch. 3ZAA para. 5](schedule/3ZAA/paragraph/5.md)
+  - Entering into a plan
+    - [Sch. 3ZAA para. 6](schedule/3ZAA/paragraph/6.md)
+  - Contents of a plan
+    - [Sch. 3ZAA para. 7](schedule/3ZAA/paragraph/7.md)
+  - Effect of a plan
+    - [Sch. 3ZAA para. 8](schedule/3ZAA/paragraph/8.md)
+  - Supplementary
+    - [Sch. 3ZAA para. 9](schedule/3ZAA/paragraph/9.md)
+    - [Sch. 3ZAA para. 10](schedule/3ZAA/paragraph/10.md)
+- SCHEDULE 3ZB CT exit charge payment plans
+  - PART 1 company ceasing to be resident in UK
+    - Circumstances in which CT exit charge payment plan may be entered into
+      - [Sch. 3ZB para. 1](schedule/3ZB/paragraph/1.md)
+    - Qualifying corporation tax
+      - [Sch. 3ZB para. 2](schedule/3ZB/paragraph/2.md)
+    - Interpretation: exit charge assets and liabilities
+      - [Sch. 3ZB para. 3](schedule/3ZB/paragraph/3.md)
+  - PART 2 Non-UK resident companies with UK permanent establishments
+    - Circumstances in which CT exit charge payment plan may be entered into
+      - [Sch. 3ZB para. 4](schedule/3ZB/paragraph/4.md)
+    - Qualifying corporation tax
+      - [Sch. 3ZB para. 5](schedule/3ZB/paragraph/5.md)
+    - Interpretation: exit charge assets and liabilities
+      - [Sch. 3ZB para. 6](schedule/3ZB/paragraph/6.md)
+  - PART 3 Entering into a CT exit charge payment plan
+    - Introduction
+      - [Sch. 3ZB para. 7](schedule/3ZB/paragraph/7.md)
+    - Entering into a CT exit charge payment plan
+      - [Sch. 3ZB para. 8](schedule/3ZB/paragraph/8.md)
+    - Effect of CT exit charge payment plan
+      - [Sch. 3ZB para. 9](schedule/3ZB/paragraph/9.md)
+    - Content of CT exit charge payment plan
+      - [Sch. 3ZB para. 10](schedule/3ZB/paragraph/10.md)
+    - The payment method
+      - [Sch. 3ZB para. 11](schedule/3ZB/paragraph/11.md)
+    - All of outstanding balance due
+      - [Sch. 3ZB para. 12](schedule/3ZB/paragraph/12.md)
+    - All of outstanding balance attributable to particular exit charge asset or liability due
+      - [Sch. 3ZB para. 13](schedule/3ZB/paragraph/13.md)
+    - Part of outstanding balance attributable to particular exit charge asset or liability due
+      - [Sch. 3ZB para. 14](schedule/3ZB/paragraph/14.md)
+- SCHEDULE 3ZC CT Payment plans for tax on certain transactions with EEA residents
+  - Introduction
+    - [Sch. 3ZC para. 1](schedule/3ZC/paragraph/1.md)
+  - Qualifying corporation tax
+    - [Sch. 3ZC para. 2](schedule/3ZC/paragraph/2.md)
+  - Qualifying transactions
+    - [Sch. 3ZC para. 3](schedule/3ZC/paragraph/3.md)
+  - Eligibility to enter a CT payment plan
+    - [Sch. 3ZC para. 4](schedule/3ZC/paragraph/4.md)
+  - Application to enter a CT payment plan
+    - [Sch. 3ZC para. 5](schedule/3ZC/paragraph/5.md)
+  - Entering into a CT payment plan
+    - [Sch. 3ZC para. 6](schedule/3ZC/paragraph/6.md)
+  - Content of CT payment plan
+    - [Sch. 3ZC para. 7](schedule/3ZC/paragraph/7.md)
+  - Effect of CT payment plan
+    - [Sch. 3ZC para. 8](schedule/3ZC/paragraph/8.md)
+  - The payment method: instalments
+    - [Sch. 3ZC para. 9](schedule/3ZC/paragraph/9.md)
+  - The payment method: all of outstanding balance due
+    - [Sch. 3ZC para. 10](schedule/3ZC/paragraph/10.md)
+  - All of outstanding balance attributable to particular qualifying transaction due
+    - [Sch. 3ZC para. 11](schedule/3ZC/paragraph/11.md)
+  - Part of outstanding balance attributable to particular qualifying transaction due
+    - [Sch. 3ZC para. 12](schedule/3ZC/paragraph/12.md)
+- SCHEDULE 3A Electronic lodgement of tax returns, etc.
+  - Part I Tax returns: general
+    - The basic rule
+      - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - Returns to which Schedule applies
+      - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Part II Documents supporting certain tax returns
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Part III The conditions
+    - Approved persons
+      - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - Approved manner of transmission
+      - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+    - Content of transmission
+      - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+    - Procedure for accepting electronic transmissions
+      - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Part IV Hard copies of information transmitted
+    - Provisions about making of hard copies
+      - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+    - Meaning of “hard copy”
+      - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+  - Part V Status of information
+    - Exercise of powers
+      - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+    - Proceedings
+      - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+- SCHEDULE 4 SAVINGS AND TRANSITORY PROVISIONS
+  - Declaration of secrecy
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Information about interest paid or credited without deduction of tax by banks, etc.
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Assessments
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Claims
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Choice of Commissioners to hear proceedings
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Settling of appeals by agreement
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Interest on tax
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Penalties, etc.
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Northern Ireland
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
