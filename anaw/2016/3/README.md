@@ -1,0 +1,254 @@
+# Environment (Wales) Act 2016
+
+anaw/2016/3. Enacted 2016-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2016/3
+
+Source: https://www.legislation.gov.uk/anaw/2016/3/2026-06-27
+
+## Contents
+
+- PART 1 SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES
+  - Introduction
+    - [s. 1 Purpose of this Part](section/1.md)
+    - [s. 2 Natural resources](section/2.md)
+    - [s. 3 Sustainable management of natural resources](section/3.md)
+    - [s. 4 Principles of sustainable management of natural resources](section/4.md)
+  - General duties of public authorities
+    - [s. 5 General purpose of Natural Resources Body for Wales](section/5.md)
+    - [s. 6 Biodiversity and resilience of ecosystems duty](section/6.md)
+    - [s. 6A Evaluation of action to maintain and enhance biodiversity](section/6A.md)
+  - Biodiversity targets
+    - [s. 6B Biodiversity targets: general](section/6B.md)
+    - [s. 6C Duty to make regulations setting targets: priority areas](section/6C.md)
+    - [s. 6D Target-setting process](section/6D.md)
+    - [s. 6E Duty to meet targets](section/6E.md)
+    - [s. 6F Designation of public authorities for the purpose of section 6(2A)](section/6F.md)
+    - [s. 6G Review of targets](section/6G.md)
+    - [s. 6H Revoking or lowering targets](section/6H.md)
+    - [s. 6I Statement about targets](section/6I.md)
+  - Biodiversity lists
+    - [s. 7 Biodiversity lists and duty to take steps to maintain and enhance biodiversity](section/7.md)
+  - State of natural resources report
+    - [s. 8 Duty to prepare and publish state of natural resources report](section/8.md)
+  - Duties of the Welsh Ministers
+    - [s. 8A Duty to promote awareness of biodiversity](section/8A.md)
+    - [s. 9 Duty to prepare, publish and implement national natural resources policy](section/9.md)
+  - Area-based implementation of the national policy
+    - [s. 10 Meaning of public body in sections 11 to 15](section/10.md)
+    - [s. 11 Area statements](section/11.md)
+    - [s. 12 Welsh Ministers’ directions to implement area statements](section/12.md)
+    - [s. 13 Guidance about implementing area statements](section/13.md)
+    - [s. 14 Duty of public bodies to provide information or other assistance to NRW](section/14.md)
+    - [s. 15 Duty of NRW to provide information or other assistance to public bodies](section/15.md)
+  - Land management agreements
+    - [s. 16 Power to enter into land management agreements](section/16.md)
+    - [s. 17 Effect on successors in title of certain land management agreements](section/17.md)
+    - [s. 18 Application of Schedule 2 to the Forestry Act 1967 to land management agreements](section/18.md)
+    - [s. 19 Effect of agreements on dedication of highway and grant of easement](section/19.md)
+    - [s. 20 Transitional provisions](section/20.md)
+    - [s. 21 Crown land](section/21.md)
+  - Experimental schemes
+    - [s. 22 Power to suspend statutory requirements for experimental schemes](section/22.md)
+    - [s. 23 Power of NRW to conduct experimental schemes etc.](section/23.md)
+  - General
+    - [s. 24 Power to amend periods for the preparation and publication of documents](section/24.md)
+    - [s. 25 Regulations under this Part](section/25.md)
+    - [s. 26 General interpretation of this Part](section/26.md)
+    - [s. 27 Minor and consequential provision](section/27.md)
+- PART 2 CLIMATE CHANGE
+  - Introduction
+    - [s. 28 Purpose of this Part](section/28.md)
+  - Emissions targets and carbon budgets: main duties of the Welsh Ministers
+    - [s. 29 The 2050 emissions target](section/29.md)
+    - [s. 30 Interim emissions targets](section/30.md)
+    - [s. 31 Carbon budgets](section/31.md)
+    - [s. 32 Emissions targets and carbon budgets: principles](section/32.md)
+  - Targets and budgets: scope and main concepts
+    - [s. 33 The net Welsh emissions account](section/33.md)
+    - [s. 34 Net Welsh emissions](section/34.md)
+    - [s. 35 Welsh emissions from international aviation and shipping](section/35.md)
+    - [s. 36 Carbon units](section/36.md)
+    - [s. 37 Greenhouse gases](section/37.md)
+    - [s. 38 The baseline](section/38.md)
+  - Compliance with carbon budgets: reports and statements by the Welsh Ministers
+    - [s. 39 Proposals and policies for meeting carbon budget](section/39.md)
+    - [s. 40 Carrying amounts from one budgetary period to another](section/40.md)
+    - [s. 41 Final statement for budgetary period](section/41.md)
+    - [s. 42 Proposals and policies where carbon budget not met](section/42.md)
+  - Compliance with emissions targets: statements by the Welsh Ministers
+    - [s. 43 Statements for interim target years and 2050](section/43.md)
+  - Functions of advisory body: reports and advice
+    - [s. 44 Advisory body](section/44.md)
+    - [s. 45 Progress reports](section/45.md)
+    - [s. 46 Duty of advisory body to provide advice and assistance](section/46.md)
+    - [s. 47 Guidance to advisory body](section/47.md)
+  - Regulations: procedure and advice
+    - [s. 48 Regulations: procedure](section/48.md)
+    - [s. 49 Requirement to obtain advice about proposals to make regulations](section/49.md)
+    - [s. 50 Advice about proposed regulations relating to targets and budgets](section/50.md)
+  - Measurement and interpretation
+    - [s. 51 Measurement of emissions](section/51.md)
+    - [s. 52 International carbon reporting practice](section/52.md)
+    - [s. 53 General interpretation of this Part](section/53.md)
+- PART 3 CHARGES FOR CARRIER BAGS
+  - Regulations about charges for carrier bags
+    - [s. 54 Meaning of “carrier bag”](section/54.md)
+    - [s. 55 Requirement to charge](section/55.md)
+    - [s. 56 Sellers of goods](section/56.md)
+    - [s. 57 Application of proceeds](section/57.md)
+  - Administration and enforcement
+    - [s. 58 Administration](section/58.md)
+    - [s. 59 Record-keeping and publication of records](section/59.md)
+    - [s. 60 Enforcement](section/60.md)
+    - [s. 61 Civil sanctions](section/61.md)
+  - General
+    - [s. 62 Regulations under this Part](section/62.md)
+    - [s. 63 General interpretation of this Part](section/63.md)
+    - [s. 64 Minor and consequential amendments and repeals](section/64.md)
+- PART 4 COLLECTION AND DISPOSAL OF WASTE
+  - Separate collection etc. of waste
+    - [s. 65 Requirements relating to separate collection etc. of waste](section/65.md)
+  - Disposal of waste
+    - [s. 66 Prohibition on disposal of food waste to sewer](section/66.md)
+    - [s. 67 Power to prohibit or regulate disposal of waste by incineration](section/67.md)
+  - Enforcement
+    - [s. 68 Civil sanctions](section/68.md)
+  - General
+    - [s. 69 Regulations](section/69.md)
+    - [s. 70 Minor and consequential amendments and repeals](section/70.md)
+- PART 5 FISHERIES FOR SHELLFISH
+  - Applications for orders relating to fisheries
+    - [s. 71 Applications for orders relating to fisheries](section/71.md)
+  - Protection of marine environment
+    - [s. 72 Requirement to include environmental provisions in orders relating to fisheries](section/72.md)
+    - [s. 73 Power to serve notices for protection of European marine sites](section/73.md)
+    - [s. 74 Power to vary or revoke orders to protect European marine sites](section/74.md)
+    - [s. 75 Supplementary provision](section/75.md)
+- PART 6 MARINE LICENSING
+  - [s. 76 Advice and assistance in relation to marine licensing](section/76.md)
+  - [s. 77 Fees for monitoring, variation etc. of marine licences](section/77.md)
+  - [s. 78 Further provision about payment of fees](section/78.md)
+  - [s. 79 Appeal against variation etc. of marine licence for non-payment of fee or deposit](section/79.md)
+  - [s. 80 Exceptions from power to delegate licensing authority functions](section/80.md)
+- PART 7 MISCELLANEOUS
+  - Flood and Coastal Erosion Committee
+    - [s. 81 Establishment of Flood and Coastal Erosion Committee](section/81.md)
+  - Land drainage
+    - [s. 82 Repeal of requirements to publish in local newspapers etc.](section/82.md)
+    - [s. 83 Valuation of non-agricultural land for apportionment of drainage expenses](section/83.md)
+    - [s. 84 Power to make provision for appeals against special levies](section/84.md)
+    - [s. 85 Power of entry: compliance with order for cleansing ditches etc.](section/85.md)
+  - Byelaws
+    - [s. 86 Byelaws made by the Natural Resources Body for Wales](section/86.md)
+- PART 8 GENERAL
+  - [s. 87 Interpretation](section/87.md)
+  - [s. 88 Coming into force](section/88.md)
+  - [s. 89 Short title](section/89.md)
+- SCHEDULE 1 CHARGES FOR CARRIER BAGS: CIVIL SANCTIONS
+  - Civil sanctions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Fixed monetary penalties
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Fixed monetary penalties: procedure
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Discretionary requirements
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Discretionary requirements: procedure
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Discretionary requirements: enforcement
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Combination of sanctions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Monetary penalties
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Costs recovery
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Appeals
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Publicity for imposition of civil sanctions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Persons liable to civil sanctions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Guidance about use of powers to impose civil sanctions and recover costs
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Publication of enforcement action
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Compliance with regulatory principles
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Review
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Suspension
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Payment of penalties into Welsh Consolidated Fund
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Index of defined terms
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - PART 1 SUSTAINABLE MANAGEMENT OF NATURAL RESOURCES
+    - National Parks and Access to the Countryside Act 1949 (c. 97)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Countryside Act 1968 (c. 41)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Wildlife and Countryside Act 1981 (c. 69)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Countryside and Rights of Way Act 2000 (c. 37)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Planning and Compulsory Purchase Act 2004 (c. 5)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Natural Environment and Rural Communities Act 2006 (c. 16)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Planning (Wales) Act 2015 (anaw 4)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - PART 2 CHARGES FOR CARRIER BAGS
+    - Climate Change Act 2008 (c. 27)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Waste (Wales) Measure 2010 (nawm 8)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - PART 3 COLLECTION AND DISPOSAL OF WASTE
+    - Environmental Protection Act 1990 (c. 43)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Household Waste Recycling Act 2003 (c. 29)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Waste (Wales) Measure 2010 (nawm 8)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - PART 4 FLOOD AND COASTAL EROSION COMMITTEE
+    - Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Local Government Act 1974 (c. 7)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Water Resources Act 1991 (c. 57)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Land Drainage Act 1991 (c. 59)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Flood and Water Management Act 2010 (c. 29)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Public Bodies Act 2011 (c. 24)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Water Act 2014 (c. 21)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - PART 5 BYELAWS
+    - National Parks and Access to the Countryside Act 1949 (c. 97)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Countryside Act 1968 (c. 41)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Local Government Byelaws (Wales) Act 2012 (anaw 2)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
