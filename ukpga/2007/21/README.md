@@ -1,0 +1,178 @@
+# Offender Management Act 2007
+
+2007 c. 21. Enacted 2007-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
+
+Source: https://www.legislation.gov.uk/ukpga/2007/21/2026-06-29
+
+## Contents
+
+- Part 1 New arrangements for the provision of probation services
+  - Probation purposes
+    - [s. 1 Meaning of “the probation purposes”](section/1.md)
+  - Functions of the Secretary of State
+    - [s. 2 Responsibility for ensuring the provision of probation services](section/2.md)
+    - [s. 3 Power to make arrangements for the provision of probation services](section/3.md)
+    - [s. 4 Restriction on certain arrangements under section 3](section/4.md)
+    - [s. 5 Power to establish probation trusts](section/5.md)
+    - [s. 6 Power to make grants for probation purposes etc](section/6.md)
+    - [s. 7 National standards for the management of offenders](section/7.md)
+    - [s. 8 Annual plans](section/8.md)
+  - Miscellaneous
+    - [s. 9 Officers of providers of probation services](section/9.md)
+    - [s. 10 National framework for qualifications of officers](section/10.md)
+    - [s. 10A Duty to consult on unpaid work requirements](section/10A.md)
+    - [s. 11 Abolition of local probation boards and transfers of property etc and staff](section/11.md)
+    - [s. 12 The inspectorate](section/12.md)
+    - [s. 13 Approved premises](section/13.md)
+    - [s. 13A Approved premises: substance testing](section/13A.md)
+    - [s. 14 Disclosure for offender management purposes](section/14.md)
+    - [s. 15 Power to repeal section 4](section/15.md)
+- Part 2 Prisons
+  - Contracted out prisons and secure training centres
+    - [s. 16 Power of search in contracted out prisons and secure training centres](section/16.md)
+    - [s. 17 Power of detention in contracted out prisons and secure training centres](section/17.md)
+    - [s. 18 Powers of authorised persons to perform custodial duties and search prisoners](section/18.md)
+    - [s. 19 Powers of director of a contracted out prison](section/19.md)
+    - [s. 20 Amendment of section 87 of the Criminal Justice Act 1991](section/20.md)
+  - Offences relating to prison security
+    - [s. 21 Assisting a prisoner to escape](section/21.md)
+    - [s. 22 Conveyance of prohibited articles into or out of prison](section/22.md)
+    - [s. 23 Other offences relating to prison security](section/23.md)
+    - [s. 24 Offences under sections 40B to 40D of the Prison Act 1952: extension of Crown immunity](section/24.md)
+  - Other amendments of the Prison Act 1952
+    - [s. 25 Removal of requirement to appoint a medical officer etc](section/25.md)
+    - [s. 26 Independent monitoring boards](section/26.md)
+    - [s. 27 Amendment of section 8A of the Prison Act 1952](section/27.md)
+- Part 3 Other provisions about the management of offenders
+  - Polygraph conditions for certain offenders released on licence
+    - [s. 28 Application of polygraph condition](section/28.md)
+    - [s. 29 Effect of polygraph condition](section/29.md)
+    - [s. 30 Use in criminal proceedings of evidence from polygraph sessions](section/30.md)
+  - Accreditation of programmes
+    - [s. 31 Accreditation of programmes for purposes of programme requirements](section/31.md)
+  - Young offenders
+    - [s. 32 Functions of Youth Justice Board](section/32.md)
+    - [s. 33 Detention and training orders: early release](section/33.md)
+    - [s. 34 Accommodation in which period of detention and training to be served](section/34.md)
+    - [s. 35 Escort arrangements](section/35.md)
+- Part 4 Supplemental
+  - [s. 36 Orders and regulations](section/36.md)
+  - [s. 37 Financial provisions](section/37.md)
+  - [s. 38 Power to make consequential and transitional provision etc](section/38.md)
+  - [s. 39 Minor and consequential amendments, transitionals, and repeals](section/39.md)
+  - [s. 40 Extent](section/40.md)
+  - [s. 41 Commencement](section/41.md)
+  - [s. 42 Short title](section/42.md)
+- SCHEDULE 1 Probation trusts: further provisions
+  - Name and status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership and terms of appointment
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remuneration etc of members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Chief executive and other employees
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings and delegation
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - General powers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Accounts and records
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Duty to comply with directions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Transfers of property etc and staff in connection with probation services arrangements
+  - Transfer schemes: preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Property transfer schemes
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Staff transfer schemes
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Minor and consequential amendments
+  - Part 1 New arrangements for the provision of probation services
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Interpretation Act 1978 (c. 30)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Children Act 2004 (c. 31)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Local Government and Public Involvement in Health Act 2007
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part 2 Prisons
+    - Prison Act 1952 (c. 52)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Employment Rights Act 1996 (c. 18)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part 3 DTOs: accommodation
+    - Prison Act 1952 (c. 52)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Army Act 1955 (3 & 4 Eliz. 2 c. 18)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Air Force Act 1955 (3 & 4 Eliz. 2 c. 19)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Naval Discipline Act 1957 (c. 53)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Crime (Sentences) Act 1997 (c. 43)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Part 4 Escort arrangements
+    - Imprisonment (Temporary Provisions) Act 1980 (c. 57)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Criminal Justice and Public Order Act 1994 (c. 33)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 Transitional and transitory provisions and savings
+  - Part 1 Provisions relating to Part 1
+    - Compensation for certain former chief officers of local probation boards
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Continuity of employment where chief officer is appointed chief executive of a probation trust
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - General saving for existing functions of the Secretary of State
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Interpretation
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part 2 Provisions relating to Part 2
+    - Penalty for offences under sections 40C & 40D of the Prison Act 1952
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 3 Provisions relating to Part 3
+    - Imprisonment of offenders aged 18 or over but under 21
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Remand centres
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Repeals
+  - Part 1 Probation services
+  - Part 2 Prisons
+  - Part 3 Miscellaneous
