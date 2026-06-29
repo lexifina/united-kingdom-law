@@ -1,0 +1,213 @@
+# Firearms Act 1968
+
+1968 c. 27. Enacted 1968-05-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1968/27
+
+Source: https://www.legislation.gov.uk/ukpga/1968/27/2026-06-29
+
+## Contents
+
+- Part I Provisions as to Possession, Handling and Distribution of Weapons and Ammunition; Prevention of Crime and Measures to Protect Public Safety
+  - General restrictions on possession and handling of firearms and ammunition
+    - [s. 1 Requirement of firearm certificate.](section/1.md)
+    - [s. 2 Requirement of certificate for possession of shot guns.](section/2.md)
+    - [s. 2A Possession of a sound moderator or flash suppressor](section/2A.md)
+    - [s. 3 Business and other transactions with firearms and ammunition.](section/3.md)
+    - [s. 3A Possessing component parts of ammunition with intent to manufacture](section/3A.md)
+    - [s. 4 Conversion of weapons.](section/4.md)
+    - [s. 4A Possession of articles for use in connection with conversion](section/4A.md)
+  - Prohibition of certain weapons and control of arms traffic
+    - [s. 5 Weapons subject to general prohibition.](section/5.md)
+    - [s. 5A Exemptions from requirement of authority under s.5.](section/5A.md)
+    - [s. 6 Power to prohibit movement of arms and ammunition.](section/6.md)
+  - Special exemptions from sections 1 to 5
+    - [s. 7 Police permit.](section/7.md)
+    - [s. 8 Authorised dealing with firearms.](section/8.md)
+    - [s. 9 Carriers, auctioneers, etc.](section/9.md)
+    - [s. 10 Slaughter of animals.](section/10.md)
+    - [s. 11 Sports, athletics and other approved activities.](section/11.md)
+    - [s. 11A Authorised lending and possession of firearms for hunting etc](section/11A.md)
+    - [s. 12 Theatre and cinema.](section/12.md)
+    - [s. 13 Equipment for ships and aircraft.](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 Holder of Northern Irish certificate.](section/15.md)
+  - Prevention of crime and preservation of public safety
+    - [s. 16 Possession of firearm with intent to injure.](section/16.md)
+    - [s. 16A Possession of firearm with intent to cause fear of violence.](section/16A.md)
+    - [s. 17 Use of firearm to resist arrest.](section/17.md)
+    - [s. 18 Carrying firearm with criminal intent.](section/18.md)
+    - [s. 19 Carrying firearm in a public place.](section/19.md)
+    - [s. 19A Having small-calibre pistol outside premises of licensed pistol club.](section/19A.md)
+    - [s. 20 Trespassing with firearm.](section/20.md)
+    - [s. 21 Possession of firearms by persons previously convicted of crime.](section/21.md)
+    - [s. 21A Firing an air weapon beyond premises](section/21A.md)
+    - [s. 22 Acquisition and possession of firearms by minors.](section/22.md)
+    - [s. 23](section/23.md)
+    - [s. 24 Supplying firearms to minors.](section/24.md)
+    - [s. 24ZA Failing to prevent minors from having air weapons](section/24ZA.md)
+    - [s. 24A Supplying imitation firearms to minors](section/24A.md)
+    - [s. 25 Supplying firearm to person drunk or insane.](section/25.md)
+- Part II Firearm and Shot Gun Certificates; Registration of Firearms Dealers
+  - Grant, renewal, variation and revocation of firearm and shot gun certificates
+    - [s. 26A Applications for firearm certificates.](section/26A.md)
+    - [s. 26B Applications for shot gun certificates.](section/26B.md)
+    - [s. 26 Application for, and grant of, certificates.](section/26.md)
+    - [s. 27 Special provisions about firearm certificates.](section/27.md)
+    - [s. 27A Conditions for storage etc of certain firearms](section/27A.md)
+    - [s. 28 Special provisions about shot gun certificates.](section/28.md)
+    - [s. 28A Certificates: supplementary.](section/28A.md)
+    - [s. 28B Certificates: limited extension](section/28B.md)
+    - [s. 29 Variation of firearm certificates.](section/29.md)
+    - [s. 30A Revocation of firearm certificates.](section/30A.md)
+    - [s. 30B Partial revocation of firearm certificates.](section/30B.md)
+    - [s. 30C Revocation of shot gun certificates.](section/30C.md)
+    - [s. 30D Revocation of certificates: supplementary.](section/30D.md)
+    - [s. 30 Revocation of certificates.](section/30.md)
+    - [s. 31 Certificate for prohibited weapon.](section/31.md)
+    - [s. 32 Fee for certificate and exemption from paying it in certain cases.](section/32.md)
+    - [s. 32ZA Fees in connection with authority under section 5](section/32ZA.md)
+  - ...
+    - [s. 32A Documents for European purposes.](section/32A.md)
+    - [s. 32B Renewal of European firearms pass.](section/32B.md)
+    - [s. 32C Variation, endorsement etc. of European documents.](section/32C.md)
+  - Registration of firearms dealers
+    - [s. 33 Police register.](section/33.md)
+    - [s. 34 Grounds for refusal of registration.](section/34.md)
+    - [s. 35 Fee for registration and renewal thereof.](section/35.md)
+    - [s. 36 Conditions of registration.](section/36.md)
+    - [s. 37 Registration of new place of business.](section/37.md)
+    - [s. 38 Removal from register of dealer’s name or place of business.](section/38.md)
+    - [s. 39 Offences in connection with registration.](section/39.md)
+  - Supplementary
+    - [s. 40 Compulsory register of transactions in firearms.](section/40.md)
+    - [s. 41 Exemption from s. 40 in case of trade in shot gun components.](section/41.md)
+    - [s. 42](section/42.md)
+    - [s. 42A Information as to transactions under visitors’ permits.](section/42A.md)
+    - [s. 42B Permitted electronic means](section/42B.md)
+    - [s. 43 Power of Secretary of State to alter fees.](section/43.md)
+    - [s. 44 Appeals against police decisions.](section/44.md)
+    - [s. 45 Consequences where registered dealer convicted of offence.](section/45.md)
+- Part III Law Enforcement and Punishment of Offences
+  - [s. 46 Power of search with warrant.](section/46.md)
+  - [s. 47 Powers of constables to stop and search.](section/47.md)
+  - [s. 48 Production of certificates.](section/48.md)
+  - [s. 49 Police powers in relation to arms traffic.](section/49.md)
+  - [s. 50 Special powers of arrest.](section/50.md)
+  - [s. 51 Prosecution and punishment of offences.](section/51.md)
+  - [s. 51A Minimum sentence for certain offences under s. 5](section/51A.md)
+  - [s. 52 Forfeiture and disposal of firearms; cancellation of certificate by convicting court.](section/52.md)
+- Part IV Miscellaneous and General
+  - [s. 53 Rules for implementing this Act.](section/53.md)
+  - [s. 54 Application of Parts I and II to Crown servants.](section/54.md)
+  - [s. 55 Exercise of police functions.](section/55.md)
+  - [s. 55A Guidance as to exercise of police functions](section/55A.md)
+  - [s. 56 Service of notices](section/56.md)
+  - [s. 57 Interpretation.](section/57.md)
+  - [s. 57A Exception for airsoft guns](section/57A.md)
+  - [s. 57B Power to amend section 57(1D)](section/57B.md)
+  - [s. 58 Particular savings.](section/58.md)
+  - [s. 59 Repeals and general savings.](section/59.md)
+  - [s. 60 Short title, commencement and extent.](section/60.md)
+- SCHEDULE 1 Offences to which section 17(2) applies
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+  - [Sch. 1 para. 5B](schedule/1/paragraph/5B.md)
+  - [Sch. 1 para. 5C](schedule/1/paragraph/5C.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Offences to which sections 17(2) and 18 apply in Scotland
+  - Common Law Offences
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Statutory Offences
+    - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
+    - [Sch. 2 para. 13B](schedule/2/paragraph/13B.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Attempts
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Jurisdiction and Procedure on application under section 21(6)
+  - Part I Application to the Crown Court (England and Wales)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Application to Sheriff (Scotland)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Particulars to be Entered by Firearms Dealer in Register of Transactions
+  - PART 1 PARTICULARS RELATING TO FIREARMS (OTHER THAN AIR WEAPONS) AND AMMUNITION
+    - Note: in this Part references to firearms do not include any firearm to which Part 2 or 3 of this Schedule applies
+      - [Sch. 4 Pt. 1 heading note-in-this-part-references-to-firearms-do-not-include-any-firearm-to-which-part-2-of-this-schedule-applies para. 1](schedule/4/part/1/crossheading/note-in-this-part-references-to-firearms-do-not-include-any-firearm-to-which-part-2-of-this-schedule-applies/paragraph/1.md)
+      - [Sch. 4 Pt. 1 heading note-in-this-part-references-to-firearms-do-not-include-any-firearm-to-which-part-2-of-this-schedule-applies para. 2](schedule/4/part/1/crossheading/note-in-this-part-references-to-firearms-do-not-include-any-firearm-to-which-part-2-of-this-schedule-applies/paragraph/2.md)
+      - [Sch. 4 Pt. 1 heading note-in-this-part-references-to-firearms-do-not-include-any-firearm-to-which-part-2-of-this-schedule-applies para. 3](schedule/4/part/1/crossheading/note-in-this-part-references-to-firearms-do-not-include-any-firearm-to-which-part-2-of-this-schedule-applies/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 PARTICULARS RELATING TO AIR WEAPONS: ENGLAND AND WALES
+    - Notes:This Part does not apply in relation to Scotland.In this Part “air weapon” includes any component of, or accessory to, an air weapon.
+      - [Sch. 4 Pt. 2 heading note-in-this-part-air-weapon-includes-any-component-of-or-accessory-to-an-air-weapon para. 1](schedule/4/part/2/crossheading/note-in-this-part-air-weapon-includes-any-component-of-or-accessory-to-an-air-weapon/paragraph/1.md)
+      - [Sch. 4 Pt. 2 heading note-in-this-part-air-weapon-includes-any-component-of-or-accessory-to-an-air-weapon para. 2](schedule/4/part/2/crossheading/note-in-this-part-air-weapon-includes-any-component-of-or-accessory-to-an-air-weapon/paragraph/2.md)
+      - [Sch. 4 Pt. 2 heading note-in-this-part-air-weapon-includes-any-component-of-or-accessory-to-an-air-weapon para. 3](schedule/4/part/2/crossheading/note-in-this-part-air-weapon-includes-any-component-of-or-accessory-to-an-air-weapon/paragraph/3.md)
+  - PART 3 PARTICULARS RELATING TO AIR WEAPONS: SCOTLAND
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4n1](schedule/4/paragraph/4n1.md)
+    - [Sch. 4 para. 5n1](schedule/4/paragraph/5n1.md)
+- SCHEDULE 5 Provisions as to Appeals under s. 44 of this Act
+  - Part I Courts with Jurisdiction to entertain Appeal
+  - Part II Procedural provisions for appeal to the Crown Court
+    - [Sch. 5 Pt. II para. 1](schedule/5/part/II/paragraph/1.md)
+    - [Sch. 5 Pt. II para. 2](schedule/5/part/II/paragraph/2.md)
+    - [Sch. 5 Pt. II para. 3](schedule/5/part/II/paragraph/3.md)
+    - [Sch. 5 Pt. II para. 4](schedule/5/part/II/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Part III Appeals in Scotland
+    - [Sch. 5 Pt. III para. 1](schedule/5/part/III/paragraph/1.md)
+    - [Sch. 5 Pt. III para. 2](schedule/5/part/III/paragraph/2.md)
+    - [Sch. 5 Pt. III para. 3](schedule/5/part/III/paragraph/3.md)
+    - [Sch. 5 Pt. III para. 4](schedule/5/part/III/paragraph/4.md)
+- SCHEDULE 6 Prosecution and Punishment of Offences
+  - Part I Table of Punishments
+  - Part II Supplementary Provisions as to Trial and Punishment of offences
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7. Repeals
