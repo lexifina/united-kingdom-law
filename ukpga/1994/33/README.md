@@ -1,0 +1,692 @@
+# Criminal Justice and Public Order Act 1994
+
+1994 c. 33. Enacted 1994-11-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
+
+Source: https://www.legislation.gov.uk/ukpga/1994/33/2026-06-29
+
+## Contents
+
+- Part I Young Offenders
+  - Secure training orders
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 Provision etc. of secure training centres.](section/5.md)
+    - [s. 6 Management of secure training centres.](section/6.md)
+    - [s. 7 Contracting out of secure training centres.](section/7.md)
+    - [s. 8 Officers of contracted out secure training centres.](section/8.md)
+    - [s. 9 Powers and duties of custody officers employed at contracted out secure training centres.](section/9.md)
+    - [s. 9A Power of custody officers to detain suspected offenders](section/9A.md)
+    - [s. 10 Intervention by Secretary of State in management of contracted out secure training centres.](section/10.md)
+    - [s. 11 Contracted out functions at directly managed secure training centres.](section/11.md)
+    - [s. 12 Escort arrangements and officers.](section/12.md)
+    - [s. 13 Protection of custody officers....](section/13.md)
+    - [s. 14 Wrongful disclosure of information relating to persons detained in youth detention accommodation.](section/14.md)
+    - [s. 15 Interpretation of sections 7 to 14.](section/15.md)
+  - Custodial sentences for young offenders
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 Maximum length of detention for young offenders.](section/17.md)
+    - [s. 18 Accommodation of young offenders sentenced to custody for life.](section/18.md)
+  - Secure accommodation for certain young persons
+    - [s. 19 Extension of kinds of secure accommodation.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 Cost of secure accommodation.](section/21.md)
+    - [s. 22 Management of secure accommodation.](section/22.md)
+  - Arrest of young persons in breach of conditions of remand
+    - [s. 23 Liability of young persons to arrest for breaking conditions of remand.](section/23.md)
+  - Police detention of young persons
+    - [s. 24 Detention of arrested juveniles after charge.](section/24.md)
+- Part II Bail
+  - [s. 25 No bail for defendants charged with or convicted of homicide or rape after previous conviction of such offences.](section/25.md)
+  - [s. 26 No right to bail for persons accused or convicted of committing offence while on bail.](section/26.md)
+  - [s. 27 Power for police to grant conditional bail to persons charged.](section/27.md)
+  - [s. 28 Police detention after charge.](section/28.md)
+  - [s. 29 Power for police to arrest for failure to answer to police bail.](section/29.md)
+  - [s. 30 Reconsideration of decisions granting bail.](section/30.md)
+- Part III Course of Justice: Evidence, Procedure, Etc.
+  - Imputations on character
+    - [s. 31 Imputations on character.](section/31.md)
+  - Corroboration
+    - [s. 32 Abolition of corroboration rules.](section/32.md)
+    - [s. 33 Abolition of corroboration requirements under Sexual Offences Act 1956.](section/33.md)
+  - Inferences from accused’s silence
+    - [s. 34 Effect of accused’s failure to mention facts when questioned or charged.](section/34.md)
+    - [s. 35 Effect of accused’s silence at trial.](section/35.md)
+    - [s. 36 Effect of accused’s failure or refusal to account for objects, substances or marks.](section/36.md)
+    - [s. 37 Effect of accused’s failure or refusal to account for presence at a particular place.](section/37.md)
+    - [s. 38 Interpretation and savings for sections 34, 35, 36 and 37.](section/38.md)
+    - [s. 39 Power to apply sections 34 to 38 to armed forces.](section/39.md)
+    - [s. 39A Power to apply sections 36 and 37 in relation to food crime officers](section/39A.md)
+  - Juries
+    - [s. 40 Disqualification for jury service of persons on bail in criminal proceedings.](section/40.md)
+    - [s. 41 Jury service: disabled persons.](section/41.md)
+    - [s. 42 Jury service: excusal on religious grounds.](section/42.md)
+    - [s. 43 Separation of jury during consideration of verdict.](section/43.md)
+  - Procedure, jurisdiction and powers of magistrates’ courts
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 Extension of procedures enabling magistrates’ courts to deal with cases in which accused pleads guilty.](section/45.md)
+    - [s. 46 Criminal damage, etc. as summary offence: relevant sum.](section/46.md)
+    - [s. 47 Recovery of fines, etc. by deduction from income support.](section/47.md)
+  - Sentencing: guilty pleas
+    - [s. 48 ................................](section/48.md)
+  - Publication of reports in young offender cases
+    - [s. 49 Restrictions on reports of proceedings in which children or young persons are concerned.](section/49.md)
+  - Child testimony
+    - [s. 50 ................................](section/50.md)
+  - Intimidation, etc., of witnesses, jurors and others
+    - [s. 51 Intimidation, etc., of witnesses, jurors and others.](section/51.md)
+  - Criminal appeals
+    - [s. 52 Circuit judges to act as judges of criminal division of Court of Appeal.](section/52.md)
+    - [s. 53 Expenses in criminal appeals in Northern Ireland Court of Appeal.](section/53.md)
+- Part IV Police Powers
+  - Powers of police to take body samples
+    - [s. 54 Powers of police to take intimate body samples.](section/54.md)
+    - [s. 55 Powers of police to take non-intimate body samples.](section/55.md)
+    - [s. 56 Fingerprints and samples: supplementary provisions.](section/56.md)
+    - [s. 57 Retention of samples in certain cases.](section/57.md)
+    - [s. 58 Samples: intimate and non-intimate etc.](section/58.md)
+    - [s. 59 Extension of powers to search persons’ mouths.](section/59.md)
+  - Powers of police to stop and search
+    - [s. 60 Powers to stop and search in anticipation of, or after violence.](section/60.md)
+    - [s. 60AA Powers to require removal of disguises](section/60AA.md)
+    - [s. 60A Retention and disposal of things seized under section 60.](section/60A.md)
+    - [s. 60B Arrest without warrant for offences under section 60: Scotland.](section/60B.md)
+- Part V Public Order: Unauthorised encampments and Collective Trespass or Nuisance on Land
+  - Residing on land without consent in or with a vehicle
+    - [s. 60C Offence relating to residing on land without consent in or with a vehicle](section/60C.md)
+    - [s. 60D Offence under section 60C: seizure of property etc](section/60D.md)
+    - [s. 60E Offence under section 60C: forfeiture](section/60E.md)
+  - Powers to remove trespassers on land
+    - [s. 61 Power to remove trespassers on land.](section/61.md)
+    - [s. 62 Supplementary powers of seizure.](section/62.md)
+    - [s. 62A Power to remove trespassers: alternative site available](section/62A.md)
+    - [s. 62B Failure to comply with direction under section 62A: offences](section/62B.md)
+    - [s. 62C Failure to comply with direction under section 62A: seizure](section/62C.md)
+    - [s. 62D Common land: modifications](section/62D.md)
+    - [s. 62E Sections 62A to 62D: interpretation](section/62E.md)
+    - [s. 62F Guidance](section/62F.md)
+  - Powers in relation to raves
+    - [s. 63 Powers to remove persons attending or preparing for a rave.](section/63.md)
+    - [s. 64 Supplementary powers of entry and seizure.](section/64.md)
+    - [s. 65 Raves: power to stop persons from proceeding.](section/65.md)
+    - [s. 66 Power of court to forfeit sound equipment.](section/66.md)
+  - Retention and charges for seized property
+    - [s. 67 Retention and charges for seized property.](section/67.md)
+  - Disruptive trespassers
+    - [s. 68 Offence of aggravated trespass.](section/68.md)
+    - [s. 69 Powers to remove persons committing or participating in aggravated trespass.](section/69.md)
+  - Trespassory assemblies
+    - [s. 70 Trespassory assemblies.](section/70.md)
+    - [s. 71 Trespassory assemblies: power to stop persons from proceeding.](section/71.md)
+  - Squatters
+    - [s. 72 Violent entry to premises: special position of displaced residential occupiers and intending occupiers.](section/72.md)
+    - [s. 73 Adverse occupation of residential premises.](section/73.md)
+    - [s. 74 Protected intending occupiers: supplementary provisions.](section/74.md)
+    - [s. 75 Interim possession orders: false or misleading statements.](section/75.md)
+    - [s. 76 Interim possession orders: trespassing during currency of order.](section/76.md)
+  - Powers to remove unauthorised campers
+    - [s. 77 Power of local authority to direct unauthorised campers to leave land.](section/77.md)
+    - [s. 78 Orders for removal of persons and their vehicles unlawfully on land.](section/78.md)
+    - [s. 79 Provisions as to directions under s. 77 and orders under s. 78.](section/79.md)
+    - [s. 80 Repeal of certain provisions relating to gipsy sites.](section/80.md)
+- Part VI Prevention of Terrorism
+  - [s. 81 ................................](section/81.md)
+  - [s. 82 ................................](section/82.md)
+  - [s. 83 ................................](section/83.md)
+- Part VII Obscenity and Pornography and Videos
+  - Obscene publications and indecent photographs of children
+    - [s. 84 Indecent pseudo-photographs of children.](section/84.md)
+    - [s. 85 Arrestable offences to include certain offences relating to obscenity or indecency.](section/85.md)
+    - [s. 86 Indecent photographs of children: sentence of imprisonment.](section/86.md)
+    - [s. 87 Publishing, displaying, selling or distributing etc. obscene material in Scotland: sentence of imprisonment.](section/87.md)
+  - Video recordings
+    - [s. 88 Video recordings: increase in penalties.](section/88.md)
+    - [s. 89 Video recordings: restriction of exemptions.](section/89.md)
+    - [s. 90 Video recordings: suitability.](section/90.md)
+    - [s. 91 Enforcement by enforcing authorities outside their areas.](section/91.md)
+  - Obscene, offensive or annoying telephone calls
+    - [s. 92 Obscene, offensive or annoying telephone calls: increase in penalty.](section/92.md)
+- Part VIII Prison Services and the Prison Service
+  - Chapter I England and Wales
+    - Prisoner escorts
+      - [s. 93 Arrangements for the provision of prisoner escorts.](section/93.md)
+      - [s. 94 Powers and duties of prisoner custody officers acting in pursuance of such arrangements.](section/94.md)
+      - [s. 95 Breaches of discipline by prisoners under escort.](section/95.md)
+    - Contracted out prisons etc.
+      - [s. 96 Contracted out parts of prisons, etc.](section/96.md)
+      - [s. 97 Temporary attachment of prison officers.](section/97.md)
+      - [s. 98 Prisoners temporarily out of prison.](section/98.md)
+    - Miscellaneous
+      - [s. 99 Contracted out functions at directly managed prisons.](section/99.md)
+      - [s. 100 Provision of prisons by contractors.](section/100.md)
+    - Supplemental
+      - [s. 101 Minor and consequential amendments.](section/101.md)
+  - Chapter II Scotland
+    - Prisoner escorts
+      - [s. 102 Arrangements for the provision of prisoner escorts.](section/102.md)
+      - [s. 103 Monitoring of prisoner escort arrangements.](section/103.md)
+      - [s. 104 Powers and duties of prisoner custody officers performing escort functions.](section/104.md)
+      - [s. 105 Breaches of discipline by prisoners under escort.](section/105.md)
+    - Contracted out prisons
+      - [s. 106 Contracting out of prisons.](section/106.md)
+      - [s. 107 Officers of contracted out prisons.](section/107.md)
+      - [s. 108 Powers and duties of prisoner custody officers employed at contracted out prisons.](section/108.md)
+      - [s. 109 Breaches of discipline by prisoners temporarily out of contracted out prison.](section/109.md)
+      - [s. 110 Consequential modifications of 1989 Act, prison rules and directions.](section/110.md)
+      - [s. 111 Intervention by the Secretary of State.](section/111.md)
+    - Contracted out functions
+      - [s. 112 Contracted out functions at directly managed prisons.](section/112.md)
+    - Provision of new prisons
+      - [s. 113 Provision of new prisons.](section/113.md)
+    - Supplemental
+      - [s. 114 Prisoner custody officers: general provisions.](section/114.md)
+      - [s. 115 Wrongful disclosure of information.](section/115.md)
+      - [s. 116 Minor and consequential amendments.](section/116.md)
+      - [s. 117 Interpretation of Chapter II.](section/117.md)
+  - Chapter III Northern Ireland
+    - Prisoner escorts
+      - [s. 117A Exercise of functions by the Department of Justice](section/117A.md)
+      - [s. 118 Arrangements for the provision of prisoner escorts.](section/118.md)
+      - [s. 119 Monitoring etc. of prisoner escort arrangements.](section/119.md)
+      - [s. 120 Powers and duties of prisoner custody officers acting in pursuance of such arrangements.](section/120.md)
+      - [s. 121 Breaches of discipline by prisoners under escort.](section/121.md)
+    - Supplemental
+      - [s. 122 Certification of custody officers.](section/122.md)
+      - [s. 123 Protection of prisoner custody officers.](section/123.md)
+      - [s. 124 Wrongful disclosure of information.](section/124.md)
+      - [s. 125 Interpretation of Chapter III.](section/125.md)
+  - Chapter IV The Prison Service
+    - [s. 126 Service in England and Wales and Northern Ireland.](section/126.md)
+    - [s. 127 Inducements to withhold services or to indiscipline.](section/127.md)
+    - [s. 127A Power to suspend the operation of section 127](section/127A.md)
+    - [s. 128 Pay and related conditions.](section/128.md)
+    - [s. 128A Pay and related conditions: Northern Ireland](section/128A.md)
+- Part IX Miscellaneous Amendments: Scotland
+  - [s. 129 Transfer of persons detained by police and customs officers.](section/129.md)
+  - [s. 130 Detention and release of children: Scotland.](section/130.md)
+  - [s. 131 Conditions in licence of released prisoner: requirement for Parole Board recommendations.](section/131.md)
+  - [s. 132 ................................](section/132.md)
+  - [s. 133 Extension of categories of prisoner to whom Part I of Prisoners and Criminal Proceedings (Scotland) Act 1993 applies.](section/133.md)
+  - [s. 134 Amendment of provisions continued in effect for certain prisoners by Prisoners and Criminal Proceedings (Scotland) Act 1993.](section/134.md)
+  - [s. 135 Further amendment of Schedule 6 to the Prisoners and Criminal Proceedings (Scotland) Act 1993: application of “new provisions”.](section/135.md)
+- Part X Cross-Border Enforcement
+  - [s. 136 Execution of warrants.](section/136.md)
+  - [s. 137 Cross-border powers of arrest etc.](section/137.md)
+  - [s. 137ZA Arrest under section 136 or 137 in connection with offence in Scotland](section/137ZA.md)
+  - [s. 137A Additional cross-border powers of arrest etc: urgent cases](section/137A.md)
+  - [s. 137B Meaning of “specified offence” for the purposes of section 137A](section/137B.md)
+  - [s. 137C Detention for the purpose of re-arrest](section/137C.md)
+  - [s. 137D Rights of persons arrested under section 137A](section/137D.md)
+  - [s. 137E Entry and search for the purposes of arrest](section/137E.md)
+  - [s. 138 Powers of arrest etc.: supplementary provisions.](section/138.md)
+  - [s. 139 Search powers available on arrests under sections 136, 137 and 137A.](section/139.md)
+  - [s. 140 Reciprocal powers of arrest.](section/140.md)
+  - [s. 141 ................................](section/141.md)
+- Part XI Sexual Offences
+  - Rape
+    - [s. 142 Rape of women and men.](section/142.md)
+  - Male rape and buggery
+    - [s. 143 Male rape and buggery.](section/143.md)
+  - Revised penalties for certain sexual offences
+    - [s. 144 Revised penalties for buggery and indecency between men.](section/144.md)
+  - Homosexuality
+    - [s. 145 ................................](section/145.md)
+    - [s. 146 Extension of Sexual Offences Act 1967 to the armed forces and merchant navy.](section/146.md)
+    - [s. 147 Homosexuality on merchant ships and in the armed forces: Northern Ireland.](section/147.md)
+    - [s. 148 Amendment of law relating to homosexual acts in Scotland.](section/148.md)
+- Part XII Miscellaneous and General
+  - The Parole Board
+    - [s. 149 Incorporation of the Parole Board.](section/149.md)
+    - [s. 150 Powers to recall prisoners released on licence.](section/150.md)
+  - Prisons: powers in relation to prisoners, visitors and others
+    - [s. 151 Power to test prisoners for drugs.](section/151.md)
+    - [s. 152 Powers of search by authorised employees in prisons.](section/152.md)
+    - [s. 153 Prohibited articles in Scottish prisons.](section/153.md)
+  - Harassment, alarm or distress
+    - [s. 154 Offence of causing intentional harassment, alarm or distress.](section/154.md)
+  - Offence of racially inflammatory publication etc. to be arrestable
+    - [s. 155 Offence of racially inflammatory publication etc. to be arrestable.](section/155.md)
+  - Prohibition on use of cells from embryos or foetuses
+    - [s. 156 Prohibition on use of cells from embryos or foetuses.](section/156.md)
+  - Increase in certain penalties
+    - [s. 157 Increase in penalties for certain offences.](section/157.md)
+  - Extradition procedures
+    - [s. 158 Extradition procedures.](section/158.md)
+    - [s. 159 Backing of warrants: Republic of Ireland.](section/159.md)
+  - Constabulary powers in United Kingdom waters
+    - [s. 160 Extension of powers, etc., of constables to United Kingdom waters.](section/160.md)
+  - Obtaining computer-held information
+    - [s. 161 ................................](section/161.md)
+    - [s. 162 Access to computer material by constables and other enforcement officers.](section/162.md)
+  - Closed-circuit television by local authorities
+    - [s. 163 Local authority powers to provide closed-circuit television.](section/163.md)
+  - Serious fraud
+    - [s. 164 Extension of powers of Serious Fraud Office and of powers to investigate serious fraud in Scotland.](section/164.md)
+  - Copyright and illicit recordings: enforcement of offences
+    - [s. 165 Enforcement of certain offences relating to copyright and illicit recordings.](section/165.md)
+  - Ticket touts
+    - [s. 166 Sale of tickets by unauthorised persons.](section/166.md)
+    - [s. 166A Supplementary provision relating to sale and disposal of tickets on internet](section/166A.md)
+  - Taxi touts
+    - [s. 167 Touting for hire car services.](section/167.md)
+  - General
+    - [s. 168 Minor and consequential amendments and repeals.](section/168.md)
+    - [s. 169 Power of Secretary of State to make payments or grants in relation to crime prevention, etc.](section/169.md)
+    - [s. 170 Security costs at party conferences.](section/170.md)
+    - [s. 171 Expenses etc. under Act.](section/171.md)
+    - [s. 172 Short title, commencement and extent.](section/172.md)
+- SCHEDULES
+- SCHEDULE 1 Escort Arrangements: England and Wales
+  - Arrangements for the escort of persons detained in youth detention accommodation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Monitoring etc. of escort arrangements
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Powers and duties of custody officers acting in pursuance of escort arrangements
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interpretation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Certification of Custody Officers: England and Wales
+  - Preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Issue of certificates
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Suspension of certificate
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Revocation of certificate
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - False statements
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Bail: Supplementary Provisions
+  - Bail Act 1976
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Magistrates’ Courts Act 1980
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4
+- SCHEDULE 5 Magistrates’ Courts: Dealing with cases where accused pleads guilty
+  - Non-appearance of accused: plea of guilty
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Application of section 12 procedure where accused appears
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Consequential amendments
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Certification of Prisoner Custody Officers: Scotland
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Issue of certificates
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Suspension of certificate
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Revocation of certificate
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - False statements
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Certification of Prisoner Custody Officers: Northern Ireland
+  - Preliminary
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Issue of certificates
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Suspension of certificate
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Revocation of certificate
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - False statements
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- Schedule 7A Offences specified for the purposes of section 137A
+  - Part 1 Offences under the law of England and Wales
+    - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+    - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+    - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+    - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+    - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+    - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+    - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+    - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+    - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+    - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+    - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+    - [Sch. 7A para. 12](schedule/7A/paragraph/12.md)
+    - [Sch. 7A para. 13](schedule/7A/paragraph/13.md)
+    - [Sch. 7A para. 14](schedule/7A/paragraph/14.md)
+    - [Sch. 7A para. 15](schedule/7A/paragraph/15.md)
+    - [Sch. 7A para. 16](schedule/7A/paragraph/16.md)
+    - [Sch. 7A para. 17](schedule/7A/paragraph/17.md)
+    - [Sch. 7A para. 18](schedule/7A/paragraph/18.md)
+    - [Sch. 7A para. 19](schedule/7A/paragraph/19.md)
+    - [Sch. 7A para. 20](schedule/7A/paragraph/20.md)
+    - [Sch. 7A para. 21](schedule/7A/paragraph/21.md)
+    - [Sch. 7A para. 22](schedule/7A/paragraph/22.md)
+    - [Sch. 7A para. 23](schedule/7A/paragraph/23.md)
+    - [Sch. 7A para. 24](schedule/7A/paragraph/24.md)
+    - [Sch. 7A para. 25](schedule/7A/paragraph/25.md)
+    - [Sch. 7A para. 25A](schedule/7A/paragraph/25A.md)
+  - Part 2 Offences under the law of Scotland
+    - [Sch. 7A para. 26](schedule/7A/paragraph/26.md)
+    - [Sch. 7A para. 27](schedule/7A/paragraph/27.md)
+    - [Sch. 7A para. 28](schedule/7A/paragraph/28.md)
+    - [Sch. 7A para. 29](schedule/7A/paragraph/29.md)
+    - [Sch. 7A para. 30](schedule/7A/paragraph/30.md)
+    - [Sch. 7A para. 31](schedule/7A/paragraph/31.md)
+    - [Sch. 7A para. 32](schedule/7A/paragraph/32.md)
+    - [Sch. 7A para. 33](schedule/7A/paragraph/33.md)
+    - [Sch. 7A para. 34](schedule/7A/paragraph/34.md)
+    - [Sch. 7A para. 35](schedule/7A/paragraph/35.md)
+    - [Sch. 7A para. 36](schedule/7A/paragraph/36.md)
+    - [Sch. 7A para. 37](schedule/7A/paragraph/37.md)
+    - [Sch. 7A para. 38](schedule/7A/paragraph/38.md)
+    - [Sch. 7A para. 39](schedule/7A/paragraph/39.md)
+    - [Sch. 7A para. 40](schedule/7A/paragraph/40.md)
+    - [Sch. 7A para. 41](schedule/7A/paragraph/41.md)
+    - [Sch. 7A para. 42](schedule/7A/paragraph/42.md)
+    - [Sch. 7A para. 43](schedule/7A/paragraph/43.md)
+    - [Sch. 7A para. 43A](schedule/7A/paragraph/43A.md)
+  - Part 3 Offences under the law of Northern Ireland
+    - [Sch. 7A para. 44](schedule/7A/paragraph/44.md)
+    - [Sch. 7A para. 45](schedule/7A/paragraph/45.md)
+    - [Sch. 7A para. 46](schedule/7A/paragraph/46.md)
+    - [Sch. 7A para. 47](schedule/7A/paragraph/47.md)
+    - [Sch. 7A para. 48](schedule/7A/paragraph/48.md)
+    - [Sch. 7A para. 49](schedule/7A/paragraph/49.md)
+    - [Sch. 7A para. 50](schedule/7A/paragraph/50.md)
+    - [Sch. 7A para. 51](schedule/7A/paragraph/51.md)
+    - [Sch. 7A para. 52](schedule/7A/paragraph/52.md)
+    - [Sch. 7A para. 53](schedule/7A/paragraph/53.md)
+    - [Sch. 7A para. 54](schedule/7A/paragraph/54.md)
+    - [Sch. 7A para. 55](schedule/7A/paragraph/55.md)
+    - [Sch. 7A para. 56](schedule/7A/paragraph/56.md)
+    - [Sch. 7A para. 57](schedule/7A/paragraph/57.md)
+    - [Sch. 7A para. 58](schedule/7A/paragraph/58.md)
+    - [Sch. 7A para. 59](schedule/7A/paragraph/59.md)
+    - [Sch. 7A para. 60](schedule/7A/paragraph/60.md)
+    - [Sch. 7A para. 61](schedule/7A/paragraph/61.md)
+    - [Sch. 7A para. 62](schedule/7A/paragraph/62.md)
+    - [Sch. 7A para. 63](schedule/7A/paragraph/63.md)
+    - [Sch. 7A para. 64](schedule/7A/paragraph/64.md)
+    - [Sch. 7A para. 65](schedule/7A/paragraph/65.md)
+    - [Sch. 7A para. 66](schedule/7A/paragraph/66.md)
+    - [Sch. 7A para. 67](schedule/7A/paragraph/67.md)
+    - [Sch. 7A para. 68](schedule/7A/paragraph/68.md)
+- Schedule 7B Rights of persons arrested under section 137A: modifications
+  - Part 1 Arrests in respect of offences committed in England and Wales
+    - [Sch. 7B para. 1](schedule/7B/paragraph/1.md)
+    - [Sch. 7B para. 2](schedule/7B/paragraph/2.md)
+    - [Sch. 7B para. 3](schedule/7B/paragraph/3.md)
+    - [Sch. 7B para. 4](schedule/7B/paragraph/4.md)
+  - Part 2 Arrests in respect of offences committed in Scotland
+    - [Sch. 7B para. 5](schedule/7B/paragraph/5.md)
+    - [Sch. 7B para. 6](schedule/7B/paragraph/6.md)
+    - [Sch. 7B para. 7](schedule/7B/paragraph/7.md)
+    - [Sch. 7B para. 8](schedule/7B/paragraph/8.md)
+    - [Sch. 7B para. 9](schedule/7B/paragraph/9.md)
+    - [Sch. 7B para. 10](schedule/7B/paragraph/10.md)
+    - [Sch. 7B para. 11](schedule/7B/paragraph/11.md)
+    - [Sch. 7B para. 12](schedule/7B/paragraph/12.md)
+  - Part 3 Arrests in respect of offences committed in Northern Ireland
+    - [Sch. 7B para. 13](schedule/7B/paragraph/13.md)
+    - [Sch. 7B para. 14](schedule/7B/paragraph/14.md)
+    - [Sch. 7B para. 15](schedule/7B/paragraph/15.md)
+    - [Sch. 7B para. 16](schedule/7B/paragraph/16.md)
+- SCHEDULE 8 Increase in Penalties
+  - Part I Increase of Fines for Certain Sea Fisheries Offences
+  - Part II Increase of Fines for Certain Misuse of Drugs Offences
+  - Part III Increase in Penalties for Certain Firearms Offences
+- SCHEDULE 9 Minor Amendments
+  - Poaching: increase in penalties
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Sexual offences: procurement of women
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Electronic transmission of obscene material
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Poaching: forfeiture of vehicles
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Magistrates’ courts’ jurisdiction in cases involving children and young persons
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Service of documents by first class post
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Offences aggravated by possession of firearms
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Notice of proceedings
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Treatment of mental condition of offenders placed on probation
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Rehabilitation of offenders placed on probation
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Anonymity of victims of certain offences
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Execution of warrants for non-payment
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Committals for sentence
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Conditional or absolute discharge: appeal to Crown Court
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Electronic transmission of obscene material (Scotland)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - Fines for breach of attendance centre orders or rules
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Video recordings
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - Standard period of validity of search warrants
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+  - Award of costs against accused
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - Confiscation orders in drug trafficking cases: variation of sentences
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - Transfer of fraud cases
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - Fraud cases: preparatory hearings
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+  - Evidence through television links
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+  - Competence of children
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - Reviews of sentencing
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - Assaulting prisoner custody officer triable with indictable offence
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+  - Confiscation orders: variation of sentence
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - Extradition from the United Kingdom
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+  - Remands and committals of young persons to secure accommodation
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+  - Non-intimate samples: samples of hair
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+  - Pre-sentence reports
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+  - Curfew orders
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+  - Fines
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+  - False statements as to financial circumstances
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+  - Effect of previous probation orders and discharges
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+  - Sexual offences
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+  - Discretionary life prisoners
+    - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+  - Committals for sentence
+    - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+  - Extradited persons: sentence of imprisonment to reflect custody
+    - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+  - Transfers of proceedings
+    - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+  - Community sentences: binding over of parent or guardian
+    - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+  - Confiscation orders in terrorist-related activities cases: variation of sentences
+    - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+  - Anonymity of victims of certain offences
+    - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+  - Application of 1993 Act powers to pre-commencement offences
+    - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+- SCHEDULE 10 Consequential Amendments
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Evidence of accused in criminal proceedings
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Evidence of accused in criminal proceedings
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Responsibility for fine for breach of requirements of secure training order
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Bail: exclusion in homicide or rape cases
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Modernisation of “servant” in Prison Act
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Use of young offender institutions as secure training centres
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Young offenders absconding from secure training centres
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Young offenders: application of prison rules
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Young offenders: transfer, supervision and recall within British Islands
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Payment of damages by police authority
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Cross-border enforcement: extension of protection
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Young offenders: detention under secure training order
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Payment of damages by Scottish police authority
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Assaults on constables etc.
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - Young offenders: possession of firearms
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - Cross-border enforcement: extension of protection
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+  - Sexual offences: male rape
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+  - Payment of damages by Police Authority for Northern Ireland
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - Jury service: penalty for serving when not qualified
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+  - Custody officers: ineligibility for jury service
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+  - Rehabilitation of offenders subject to secure training orders
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+  - Prisoner custody officers: ineligibility for jury service
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+  - Police bail: variation by magistrates
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Bail: no right for persons offending while on bail
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+  - Sexual offences: male rape
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+  - Sexual offences: male rape
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+  - Indecent photographs etc.
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+  - Indecent photographs etc. (Northern Ireland)
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+  - Secure training orders: absence of accused
+    - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+  - Procedure for young offenders in cases of grave crimes
+    - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+  - Police bail
+    - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+  - Bail: exclusion in homicide or rape cases
+    - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+  - Prisoner custody officers: ineligibility for jury service
+    - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+  - Young offenders: detention in the custody of a constable and others
+    - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+  - Detention by constables and officers of a prison etc.: maximum period
+    - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+  - Young offenders: legal representation
+    - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+  - Young offenders: early release
+    - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+  - Video recordings
+    - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+  - Interim possession order: power of entry
+    - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+  - Searches of persons detained at police stations
+    - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+  - Fingerprinting: speculative searches
+    - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+  - Intimate samples: speculative searches
+    - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+  - Non-intimate samples: speculative searches
+    - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+  - Sexual offences: male rape and buggery
+    - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+  - Trespassory assemblies
+    - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+  - Inferences from accused’s silence
+    - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+  - Samples: application to terrorist suspects
+    - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+  - Prevention of terrorism: consents for prosecutions etc.
+    - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+  - Young offenders: powers to search and to test for drugs
+    - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+  - Non-appearance of accused: plea of guilty
+    - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+  - Young offenders: secure training order a custodial sentence
+    - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 67](schedule/10/paragraph/67.md)
+  - Contracted out prisons: exclusion of search powers
+    - [Sch. 10 para. 68](schedule/10/paragraph/68.md)
+  - Testing prisoners for drugs: director’s function
+    - [Sch. 10 para. 69](schedule/10/paragraph/69.md)
+  - The Parole Board
+    - [Sch. 10 para. 70](schedule/10/paragraph/70.md)
+  - Bail: exclusion in homicide and rape cases
+    - [Sch. 10 para. 71](schedule/10/paragraph/71.md)
+  - Probation officers for offenders subject to secure training orders
+    - [Sch. 10 para. 72](schedule/10/paragraph/72.md)
+  - Secure training orders: cost of supervision by probation officer
+    - [Sch. 10 para. 73](schedule/10/paragraph/73.md)
+- SCHEDULE 11 Repeals
