@@ -1,0 +1,134 @@
+# Criminal Appeal Act 1968
+
+1968 c. 19. Enacted 1968-05-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1968/19
+
+Source: https://www.legislation.gov.uk/ukpga/1968/19/2026-06-29
+
+## Contents
+
+- Part I Appeal to Court of Appeal in Criminal Cases
+  - Appeal against conviction on indictment
+    - [s. 1 Right of appeal.](section/1.md)
+    - [s. 2 Grounds for allowing appeal under s. 1.](section/2.md)
+    - [s. 3 Power to substitute conviction of alternative offence.](section/3.md)
+    - [s. 3A Power to substitute conviction of alternative offence after guilty plea](section/3A.md)
+    - [s. 4 Power to re-sentence where appellant remains convicted of related offences.](section/4.md)
+    - [s. 5 Disposal of appeal against conviction on special verdict.](section/5.md)
+    - [s. 6 Substitution of finding of insanity or findings of unfitness to plead etc.](section/6.md)
+  - Retrial
+    - [s. 7 Power to order retrial.](section/7.md)
+    - [s. 8 Supplementary provisions as to retrial.](section/8.md)
+  - Appeal against sentence
+    - [s. 9 Appeal against sentence following conviction on indictment.](section/9.md)
+    - [s. 10 Appeal against sentence in other cases dealt with at assizes or quarter sessions.](section/10.md)
+    - [s. 11 Supplementary provisions as to appeal against sentence.](section/11.md)
+    - [s. 11A Quashing of certain confiscation orders: supplementary](section/11A.md)
+  - Appeal in cases of insanity
+    - [s. 12 Appeal against verdict of not guilty by reason of insanity.](section/12.md)
+    - [s. 13 Disposal of appeal under s. 12.](section/13.md)
+    - [s. 14 Substitution of findings of unfitness to plead etc.](section/14.md)
+    - [s. 14A Substitution of verdict of acquittal.](section/14A.md)
+  - Unfitness to stand trial
+    - [s. 15 Right of appeal against finding of disability.](section/15.md)
+    - [s. 16 Disposal of appeal under s. 15.](section/16.md)
+  - Appeal against order made in cases of insanity or unfitness to plead
+    - [s. 16A Right of appeal against hospital order etc.](section/16A.md)
+    - [s. 16B Disposal of appeal under s. 16A](section/16B.md)
+  - Appeals following references by the CCRC
+    - [s. 16C Power to dismiss certain appeals following references by the CCRC](section/16C.md)
+  - Review by Court of Appeal of cases tried on indictment
+    - [s. 17 ................................](section/17.md)
+  - Procedure from notice of appeal to hearing
+    - [s. 18 Initiating procedure.](section/18.md)
+    - [s. 18A Appeals in cases of contempt of court.](section/18A.md)
+    - [s. 19 Bail.](section/19.md)
+    - [s. 20 Disposal of groundless appeal or application for leave to appeal.](section/20.md)
+    - [s. 21 Preparation of case for hearing.](section/21.md)
+  - The hearing
+    - [s. 22 Right of appellant to be present.](section/22.md)
+    - [s. 23 Evidence.](section/23.md)
+    - [s. 23A Power to order investigations.](section/23A.md)
+    - [s. 24 ................................](section/24.md)
+  - Other matters depending on result of appeal
+    - [s. 29 Effect of appeal on sentence.](section/29.md)
+    - [s. 30 Restitution of property.](section/30.md)
+  - Supplementary
+    - [s. 30A Effect of interim hospital orders](section/30A.md)
+    - [s. 30B Criminal courts charge](section/30B.md)
+    - [s. 31 Powers of Court ...which are exercisable by single judge.](section/31.md)
+    - [s. 31A Powers of Court ... which are exercisable by registrar.](section/31A.md)
+    - [s. 31B Procedural directions: powers of single judge and registrar](section/31B.md)
+    - [s. 31C Appeals against procedural directions](section/31C.md)
+    - [s. 32 Transcripts.](section/32.md)
+- Part II Appeal to House of Lords from Court of Appeal (Criminal Division)
+  - The appeal
+    - [s. 33 Right of appeal to Supreme Court.](section/33.md)
+    - [s. 34 Application for leave to appeal.](section/34.md)
+    - [s. 35 Hearing and disposal of appeal.](section/35.md)
+  - Matters preliminary to hearing
+    - [s. 36 Bail on appeal by defendant.](section/36.md)
+    - [s. 37 Detention of defendant on appeal by the Crown.](section/37.md)
+    - [s. 37A Continuation of community treatment order on appeal by the Crown](section/37A.md)
+    - [s. 38 Presence of defendant at hearing.](section/38.md)
+    - [s. 39 ................................](section/39.md)
+  - Supplementary
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 Effect of appeal on sentence.](section/43.md)
+    - [s. 44 Powers of Court of Appeal under Part II which are exercisable by single judge.](section/44.md)
+    - [s. 44A Appeals in cases of death.](section/44A.md)
+- Part III Miscellaneous and General
+  - [s. 45 Construction of references in Parts I and II to Court of Appeal and a single judge.](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 Appeal in capital cases.](section/48.md)
+  - [s. 49 Saving for prerogative of mercy.](section/49.md)
+  - [s. 50 Meaning of “sentence”.](section/50.md)
+  - [s. 51 Interpretation.](section/51.md)
+  - [s. 52 Consequential amendment of enactments.](section/52.md)
+  - [s. 53 Transitional provisions.](section/53.md)
+  - [s. 54 Repeals.](section/54.md)
+  - [s. 55 Short title, commencement and extent.](section/55.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Procedural and Other Provisions Applicable on Order for Retrial
+  - Evidence
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Sentence on conviction at retrial
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Application of Provisions in Part III of Mental Health Act 1983 where Order made under Section 16(3) of this Act
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Order for continued detention under Act of 1983
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 Procedural and other Modifications for Capital Cases
+  - Appeal to Court of Appeal
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Appeal to Supreme Court
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Amendment of Enactments
+  - Part I Miscellaneous Consequential Amendments
+    - ...
+    - ...
+    - The Sentence of Death (Expectant Mothers) Act 1931 (c. 24)
+    - The Children and Young Persons Act (c. 12)
+    - The Costs in Criminal Cases Act 1952 (c. 48)
+    - The Prison Act 1952 (c. 52)
+    - The Geneva Conventions Act 1957 (c. 52)
+    - ...
+    - ...
+    - The Criminal Justice Administration Act 1962 (c. 15)
+    - ...
+  - Part II ...
+- SCHEDULE 6 Transitional Provisions
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Repeals
