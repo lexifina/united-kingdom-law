@@ -1,0 +1,169 @@
+# Leasehold Reform Act 1967
+
+1967 c. 88. Enacted 1967-10-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 169 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1967/88
+
+Source: https://www.legislation.gov.uk/ukpga/1967/88/2026-06-29
+
+## Contents
+
+- Part I Enfranchisement and Extension of Long Leaseholds
+  - Right to enfranchisement or extension
+    - [s. 1 Tenants entitled to enfranchisement or extension.](section/1.md)
+    - [s. 1A Right to enfranchisement only in case of houses whose value or rent exceeds limit under s.1 or 4.](section/1A.md)
+    - [s. 1AA Additional right to enfranchisement only in case of houses whose rent exceeds applicable limit under section 4.](section/1AA.md)
+    - [s. 1B Right to enfranchisement only in case of certain tenancies terminable after death or marriage.](section/1B.md)
+    - [s. 2 Meaning of “house” and “houses and premises”, and adjustment of boundary.](section/2.md)
+    - [s. 3 Meaning of “long tenancy”.](section/3.md)
+    - [s. 4 Meaning of “low rent”.](section/4.md)
+    - [s. 4A Alternative rent limits for purposes of section 1A(2).](section/4A.md)
+    - [s. 5 General provisions as to claims to enfranchisement or extension.](section/5.md)
+    - [s. 6 Rights of trustees.](section/6.md)
+    - [s. 6A Rights of personal representatives](section/6A.md)
+    - [s. 7 Rights of members of family succeeding to tenancy on death.](section/7.md)
+  - Enfranchisement
+    - [s. 8 Obligation to enfranchise.](section/8.md)
+    - [s. 9 Purchase price and costs of enfranchisement, and tenant’s right to withdraw.](section/9.md)
+    - [s. 9A Compensation payable in cases where right to enfranchisement arises by virtue of section 1A or 1B.](section/9A.md)
+    - [s. 10 Rights to be conveyed to tenant on enfranchisement.](section/10.md)
+    - [s. 11 Exoneration from, or redemption of, rentcharges etc.](section/11.md)
+    - [s. 12 Discharge of mortgages etc. on landlord’s estate.](section/12.md)
+    - [s. 13 Payment into court in respect of mortgages etc.](section/13.md)
+  - Extension
+    - [s. 14 Obligation to grant extended lease.](section/14.md)
+    - [s. 15 Terms of tenancy to be granted on extension.](section/15.md)
+    - [s. 16 Exclusion of further rights after extension.](section/16.md)
+  - Landlord’s overriding rights
+    - [s. 17 Redevelopment rights (exclusion or termination of extension).](section/17.md)
+    - [s. 18 Residential rights (exclusion of enfranchisement or extension).](section/18.md)
+    - [s. 19 Retention of management powers for general benefit of neighbourhood.](section/19.md)
+  - Determination of questions, procedure, etc.
+    - [s. 20 Jurisdiction and special powers of county court.](section/20.md)
+    - [s. 21 Jurisdiction of ... tribunals.](section/21.md)
+    - [s. 22 Validity of tenants’ notices, effect on Landlord and Tenant Act 1954 and on notices to quit etc., and procedure generally.](section/22.md)
+  - Supplementary
+    - [s. 23 Agreements excluding or modifying rights of tenant.](section/23.md)
+    - [s. 24 Application of price or compensation received by landlord, and charge of betterment levy on enfranchisement.](section/24.md)
+    - [s. 25 Mortgagee in possession of landlord’s interest.](section/25.md)
+    - [s. 26 Person to act where landlord is custodian trustee or under disability.](section/26.md)
+    - [s. 27 Enfranchisement where landlord cannot be found.](section/27.md)
+    - [s. 27A Compensation for postponement of termination in connection with ineffective claims.](section/27A.md)
+    - [s. 27B Modification of section 27A where change in immediate reversion.](section/27B.md)
+  - Land held for public purposes, ecclesiastical land, etc.
+    - [s. 28 Retention or resumption of land required for public purposes.](section/28.md)
+    - [s. 29 Reservation of future right to develop.](section/29.md)
+    - [s. 30 Reservation of right of pre-emption in new town or overspill area.](section/30.md)
+    - [s. 31 Ecclesiastical property.](section/31.md)
+    - [s. 32 Saving for National Trust.](section/32.md)
+    - [s. 32A Property transferred for public benefit etc.](section/32A.md)
+    - [s. 33 Crown land.](section/33.md)
+    - [s. 33A Exclusion of certain shared ownership leases.](section/33A.md)
+  - Transitional
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Relief in respect of mortgages etc. on landlord’s estate.](section/36.md)
+  - Construction
+    - [s. 37 Interpretation of Part I.](section/37.md)
+- Part II Amendments of other Acts
+  - [s. 38 Modification of right to possession under Landlord and Tenant Act 1954.](section/38.md)
+  - [s. 39 Application of Rent Acts to long tenancies and adaptation of Landlord and Tenant Act 1954.](section/39.md)
+  - [s. 40 Amendments of Places of Worship (Enfranchisement) Act 1920.](section/40.md)
+  - [s. 41 Short title, repeals, extent and commencement.](section/41.md)
+- SCHEDULE 1 Enfranchisement or Extension by Sub-Tenants
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Enfranchisement
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Extension
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Supplementary
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Provisions Supplementary to Sections 17 and 18 of this Act
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Validity of Tenants’ Notices, Effect on Landlord and Tenant Act 1954 etc. and Procedure Generally
+  - Part I
+    - Restrictions on claims by tenant, and effect of claims on other notices, forfeitures, etc.
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part II
+    - Procedural Provisions
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Special Covenants with Local Authorities etc. on Enfranchisement or Extension
+  - Part I Operation and Enforcement of Covenants
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part II Re-acquisition for Development by Welsh new towns residuary body or University Body
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 4A Exclusion of Certain Shared Ownership Leases
+  - Leases granted in pursuance of right to be granted a shared ownership lease
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Certain leases granted by certain public authorities
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Certain housing association and other leases
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - [Sch. 4A para. 3A](schedule/4A/paragraph/3A.md)
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - Certain leases in protected areas
+    - [Sch. 4A para. 4A](schedule/4A/paragraph/4A.md)
+  - Power to prescribe matters by regulations
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Interpretation
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+- SCHEDULE 5 Landlord and Tenant Act 1954 Part I (Consequential Amendments, Effect of Rent Act 1965, etc.)
+  - Consequential amendments of Landlord and Tenant Act 1954
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Regulated tenancies
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Transitional
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Supplementary
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 The Places of Worship (Enfranchisement) Act 1920, As Amended
+  - [Sch. 6 para. 1 Right or persons holding leasehold interest in place of worship or minister’s house to acquire freehold.](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Procedure for acquisition of reversionary interests.](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Effect of enfranchisement on convenants.](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 5 Definition.](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Short title and extent.](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Repeals
+  - Part I Repeals arising out of section 39 of this Act
+  - Part II Repeals arising out of section 40 of this Act
