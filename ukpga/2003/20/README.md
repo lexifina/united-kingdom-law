@@ -1,0 +1,333 @@
+# Railways and Transport Safety Act 2003
+
+2003 c. 20. Enacted 2003-07-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
+
+Source: https://www.legislation.gov.uk/ukpga/2003/20/2026-06-29
+
+## Contents
+
+- Part 1 Investigation of Railway Accidents
+  - Introduction
+    - [s. 1 Meaning of “railway” and “railway property”](section/1.md)
+    - [s. 2 Meaning of railway accident” and railway incident”](section/2.md)
+  - The Rail Accident Investigation Branch
+    - [s. 3 Establishment](section/3.md)
+    - [s. 4 General aims](section/4.md)
+    - [s. 5 Assistance to others](section/5.md)
+    - [s. 6 Annual report](section/6.md)
+  - Investigation by Branch
+    - [s. 7 Investigations](section/7.md)
+    - [s. 8 Investigator’s powers](section/8.md)
+    - [s. 9 Regulations](section/9.md)
+  - Investigation by industry
+    - [s. 10 Requirement to investigate](section/10.md)
+  - Accident regulations
+    - [s. 11 Accident regulations](section/11.md)
+  - General
+    - [s. 12 Crown application](section/12.md)
+    - [s. 13 Regulations](section/13.md)
+    - [s. 14 Extent](section/14.md)
+- Part 2 Office of Rail and Road
+  - [s. 15 Establishment](section/15.md)
+  - [s. 15A Change of name](section/15A.md)
+  - [s. 16 Transfer of functions](section/16.md)
+  - [s. 17 Extent](section/17.md)
+- Part 3 British Transport Police
+  - Police Authority
+    - [s. 18 The British Transport Police Authority](section/18.md)
+    - [s. 19 Exercise of functions](section/19.md)
+  - Police Force
+    - [s. 20 Establishment of Police Force](section/20.md)
+    - [s. 21 Chief Constable](section/21.md)
+    - [s. 22 Deputy Chief Constable](section/22.md)
+    - [s. 23 Assistant Chief Constables](section/23.md)
+    - [s. 24 Constables](section/24.md)
+    - [s. 25 Special constables](section/25.md)
+    - [s. 26 Cadets](section/26.md)
+    - [s. 27 Civilian employees](section/27.md)
+    - [s. 28 Exercise of powers by civilians](section/28.md)
+    - [s. 29 Terms of employment](section/29.md)
+    - [s. 30 Trade union membership](section/30.md)
+  - Jurisdiction
+    - [s. 31 Jurisdiction](section/31.md)
+    - [s. 31A Exercise of powers and privileges in Scotland](section/31A.md)
+    - [s. 31B Exercise of functions in relation to children under the Scottish age of criminal responsibility](section/31B.md)
+    - [s. 32 Prosecution](section/32.md)
+  - Police Services Agreements
+    - [s. 33 Police services agreement](section/33.md)
+    - [s. 34 Compulsory police services agreement](section/34.md)
+    - [s. 35 Arbitration by Secretary of State](section/35.md)
+  - Regulation of Police Force
+    - [s. 36 Police regulations: general](section/36.md)
+    - [s. 37 Police regulations: special constables](section/37.md)
+    - [s. 38 Police regulations: cadets](section/38.md)
+    - [s. 39 British Transport Police Federation](section/39.md)
+    - [s. 40 Regulations: approval in draft](section/40.md)
+    - [s. 41 Police regulations: direction to Authority](section/41.md)
+    - [s. 42 Police regulations by Secretary of State](section/42.md)
+    - [s. 43 Regulations: further appeal](section/43.md)
+    - [s. 44 Equipment regulations](section/44.md)
+    - [s. 45 Regulation of procedure and practice](section/45.md)
+    - [s. 46 Conditions of service: Transport Police Conference](section/46.md)
+    - [s. 47 Code of practice: Authority](section/47.md)
+    - [s. 48 Code of practice: Chief Constable](section/48.md)
+    - [s. 49 Service outside Police Force](section/49.md)
+  - Planning
+    - [s. 50 Policing objectives: Authority](section/50.md)
+    - [s. 51 Policing objectives: Secretary of State](section/51.md)
+    - [s. 52 Railways policing plan](section/52.md)
+    - [s. 53 Performance targets](section/53.md)
+    - [s. 54 Performance directions](section/54.md)
+    - [s. 55 Three-year strategy plan](section/55.md)
+  - Information, &c.
+    - [s. 56 Reports by Chief Constable](section/56.md)
+    - [s. 57 Annual report by Authority](section/57.md)
+    - [s. 58 Other reports to Secretary of State](section/58.md)
+    - [s. 59 Statistics](section/59.md)
+    - [s. 60 Inquiry](section/60.md)
+    - [s. 61 Inquiry: supplemental](section/61.md)
+    - [s. 62 Public consultation](section/62.md)
+  - Inspection
+    - [s. 63 Inspection](section/63.md)
+    - [s. 64 Action after adverse inspection report](section/64.md)
+    - [s. 65 Remedial direction](section/65.md)
+    - [s. 66 Action plan](section/66.md)
+    - [s. 67 Senior appointment: delegation of function](section/67.md)
+  - Miscellaneous
+    - [s. 68 Offences](section/68.md)
+    - [s. 69 Part III of the Road Traffic Offenders Act 1988 (c. 53)](section/69.md)
+    - [s. 70 International assistance](section/70.md)
+    - [s. 71 Exercise of functions by Secretary of State](section/71.md)
+  - General
+    - [s. 72 Crown application](section/72.md)
+    - [s. 73 Consequential, transitional and incidental provision](section/73.md)
+    - [s. 74 Regulations and orders](section/74.md)
+    - [s. 75 Interpretation](section/75.md)
+    - [s. 76 Index of defined expressions](section/76.md)
+    - [s. 77 Extent](section/77.md)
+- Part 4 Shipping: Alcohol and Drugs
+  - Offences
+    - [s. 78 Professional staff on duty](section/78.md)
+    - [s. 79 Professional staff off duty](section/79.md)
+    - [s. 80 Non-professionals](section/80.md)
+    - [s. 81 Prescribed limit](section/81.md)
+  - Enforcement
+    - [s. 82 Penalty](section/82.md)
+    - [s. 83 Specimens, &c.](section/83.md)
+    - [s. 84 Detention pending arrival of police](section/84.md)
+    - [s. 85 Arrest without warrant](section/85.md)
+    - [s. 86 Right of entry](section/86.md)
+  - General
+    - [s. 87 Consequential repeal](section/87.md)
+    - [s. 88 Orders and regulations](section/88.md)
+    - [s. 89 Interpretation](section/89.md)
+    - [s. 90 Crown application, &c.](section/90.md)
+    - [s. 91 Territorial application](section/91.md)
+- Part 5 Aviation: Alcohol and Drugs
+  - Offences
+    - [s. 92 Being unfit for duty](section/92.md)
+    - [s. 93 Prescribed limit](section/93.md)
+    - [s. 94 Aviation functions](section/94.md)
+  - Enforcement
+    - [s. 95 Penalty](section/95.md)
+    - [s. 96 Specimens, &c.](section/96.md)
+    - [s. 97 Arrest without warrant](section/97.md)
+    - [s. 98 Right of entry](section/98.md)
+  - General
+    - [s. 99 Regulations](section/99.md)
+    - [s. 100 Crown application](section/100.md)
+    - [s. 101 Military application](section/101.md)
+    - [s. 102 Territorial application](section/102.md)
+- Part 6 Miscellaneous
+  - [s. 103 Convention on International Carriage by Rail](section/103.md)
+  - [s. 104 Office of Rail Regulation: general duties](section/104.md)
+  - [s. 105 Railways safety levy](section/105.md)
+  - [s. 106 Railway security services](section/106.md)
+  - [s. 107 Road traffic: testing for drink and drugs](section/107.md)
+  - [s. 108 Traffic regulation on long distance routes](section/108.md)
+  - [s. 109 Road traffic: fixed penalty](section/109.md)
+  - [s. 110 Seat belts: delivery drivers](section/110.md)
+  - [s. 111 Highways: snow and ice](section/111.md)
+  - [s. 112 Shipping legislation: application to structures, craft, &c.](section/112.md)
+  - [s. 113 Maritime security services](section/113.md)
+  - [s. 114 Railways in London: transfers](section/114.md)
+  - [s. 115 Railways in London: information](section/115.md)
+- Part 7 General
+  - [s. 116 Schedules 1 and 4: sequestration, &c. in Scotland](section/116.md)
+  - [s. 117 Interpretation: enactment](section/117.md)
+  - [s. 118 Repeals](section/118.md)
+  - [s. 119 Money](section/119.md)
+  - [s. 120 Commencement](section/120.md)
+  - [s. 121 Extent](section/121.md)
+  - [s. 122 Short title](section/122.md)
+- SCHEDULE 1 Office of Rail and Road
+  - Constitution
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Staff
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Proceedings
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Money
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Conflict of interest
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Abolition of Rail Regulator: Consequential Amendments
+  - Part 1 Railways Act 1993 (c. 43)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Part 2 Other Acts
+    - General
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Channel Tunnel Rail Link Act 1996 (c. 61)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+- SCHEDULE 3 Abolition of Rail Regulator: Savings, &c.
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 British Transport Police Authority
+  - Part 1 Membership
+    - Appointment
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Tenure
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Chairman and deputy chairman
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Disqualification
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Part 2 Proceedings
+    - Standards of conduct
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Staff
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Committees
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Procedure
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Validity of proceedings
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Part 3 Money and property
+    - The British Transport Police Fund
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 17A](schedule/4/paragraph/17A.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Budget
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Members: remuneration, allowances, &c.
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - General staff: remuneration, allowances, &c.
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Constables, &c.: remuneration, allowances, &c.
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Pensions
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Income
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Property
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Financial year
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - Part 4 Miscellaneous
+    - Status
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+- SCHEDULE 5 British Transport Police: Consequential Amendments>
+  - British Transport Commission Act 1949 (c. xxix)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Railways Act 1993 (c. 43)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - General
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Convention on International Carriage by Rail
+  - PROVISION WHICH MAY BE INCLUDED IN REGULATIONS MADE UNDER OR BY VIRTUE OF SECTION 103
+    - Introduction
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - General
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Changes to Convention
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Imposition of conditions
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Sanctions
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Related legal proceedings
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Enforcement of judgments
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Special drawing rights
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Saving
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Road Traffic: Testing for Drink and Drugs
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Repeals
