@@ -1,0 +1,397 @@
+# Counter-Terrorism Act 2008
+
+2008 c. 28. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 36 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/28
+
+Source: https://www.legislation.gov.uk/ukpga/2008/28/2026-06-29
+
+## Contents
+
+- Part 1 Powers to gather and share information
+  - Power to remove documents for examination
+    - [s. 1 Power to remove documents for examination](section/1.md)
+    - [s. 2 Offence of obstruction](section/2.md)
+    - [s. 3 Items subject to legal privilege](section/3.md)
+    - [s. 4 Record of removal](section/4.md)
+    - [s. 5 Retention of documents](section/5.md)
+    - [s. 6 Access to documents](section/6.md)
+    - [s. 7 Photographing and copying of documents](section/7.md)
+    - [s. 8 Return of documents](section/8.md)
+    - [s. 9 Power to remove documents: supplementary provisions](section/9.md)
+  - Power to take fingerprints and samples from person subject to control order
+    - [s. 10 Power to take fingerprints and samples: England and Wales](section/10.md)
+    - [s. 11 Power to take fingerprints and samples: Scotland](section/11.md)
+    - [s. 12 Power to take fingerprints and samples: Northern Ireland](section/12.md)
+    - [s. 13 Power to take fingerprints and samples: transitional provision](section/13.md)
+  - Retention and use of fingerprints and samples
+    - [s. 14 Material subject to the Police and Criminal Evidence Act 1984](section/14.md)
+    - [s. 15 Material subject to the Police and Criminal Evidence (Northern Ireland) Order 1989](section/15.md)
+    - [s. 16 Material subject to the Terrorism Act 2000: England and Wales and Northern Ireland](section/16.md)
+    - [s. 17 Material subject to the Terrorism Act 2000: Scotland](section/17.md)
+    - [s. 18 Destruction of national security material not subject to existing statutory restrictions](section/18.md)
+    - [s. 18A Retention of material: general](section/18A.md)
+    - [s. 18AA Retention of material from INTERPOL](section/18AA.md)
+    - [s. 18AB Retention of material from INTERPOL: supplementary](section/18AB.md)
+    - [s. 18B Retention for purposes of national security](section/18B.md)
+    - [s. 18BA Retention of further fingerprints](section/18BA.md)
+    - [s. 18C Destruction of copies](section/18C.md)
+    - [s. 18D Use of retained material](section/18D.md)
+    - [s. 18E Sections 18 to 18E: supplementary provisions](section/18E.md)
+  - Disclosure of information and the intelligence services
+    - [s. 19 Disclosure and the intelligence services](section/19.md)
+    - [s. 20 Disclosure and the intelligence services: supplementary provisions](section/20.md)
+    - [s. 21 Disclosure and the intelligence services: interpretation](section/21.md)
+- Part 2 Post-charge questioning of terrorist suspects
+  - [s. 22 Post-charge questioning: England and Wales](section/22.md)
+  - [s. 23 Post-charge questioning: Scotland](section/23.md)
+  - [s. 24 Post-charge questioning: Northern Ireland](section/24.md)
+  - [s. 25 Recording of interviews](section/25.md)
+  - [s. 26 Issue and revision of code of practice](section/26.md)
+  - [s. 27 Meaning of “terrorism offence”](section/27.md)
+- Part 3 Prosecution and punishment of terrorist offences
+  - Jurisdiction
+    - [s. 28 Jurisdiction to try offences committed in the UK](section/28.md)
+  - Consent to prosecution
+    - [s. 29 Consent to prosecution of offence committed outside UK](section/29.md)
+  - Sentencing
+    - [s. 30](section/30.md)
+    - [s. 31 Sentences for offences with a terrorist connection: Scotland](section/31.md)
+    - [s. 32 Sentences for offences with a terrorist connection: armed forces](section/32.md)
+    - [s. 33 Power to amend list of offences where terrorist connection to be considered](section/33.md)
+  - Forfeiture
+    - [s. 34 Forfeiture: terrorist property offences](section/34.md)
+    - [s. 35 Forfeiture: other terrorism offences and offences with a terrorist connection](section/35.md)
+    - [s. 36 Forfeiture: supplementary provisions](section/36.md)
+    - [s. 37 Forfeiture: application of proceeds to compensate victims](section/37.md)
+    - [s. 38 Forfeiture: other amendments](section/38.md)
+    - [s. 39 Forfeiture: consequential amendments](section/39.md)
+- Part 4 Notification requirements
+  - Introductory
+    - [s. 40 Scheme of this Part](section/40.md)
+  - Offences to which this Part applies
+    - [s. 41 Offences to which this Part applies: terrorism offences](section/41.md)
+    - [s. 42 Offences to which this Part applies: offences having a terrorist connection](section/42.md)
+    - [s. 43 Offences dealt with before commencement](section/43.md)
+  - Persons to whom the notification requirements apply
+    - [s. 44 Persons to whom the notification requirements apply](section/44.md)
+    - [s. 45 Sentences or orders triggering notification requirements](section/45.md)
+    - [s. 46 Power to amend specified terms or periods of imprisonment or detention](section/46.md)
+  - Notification requirements
+    - [s. 47 Initial notification](section/47.md)
+    - [s. 48 Notification of changes: general](section/48.md)
+    - [s. 48A Notification of changes: financial information and information about identification documents](section/48A.md)
+    - [s. 49 Periodic re-notification](section/49.md)
+    - [s. 50 Method of notification and related matters](section/50.md)
+    - [s. 51 Meaning of “local police area”](section/51.md)
+    - [s. 52 Travel outside the United Kingdom](section/52.md)
+  - Period for which notification requirements apply
+    - [s. 53 Period for which notification requirements apply](section/53.md)
+  - Offences in relation to notification
+    - [s. 54 Offences relating to notification](section/54.md)
+    - [s. 55 Effect of absence abroad](section/55.md)
+    - [s. 56 Notification on return after absence from UK](section/56.md)
+  - Entry and search of home address
+    - [s. 56A Power to enter and search home address](section/56A.md)
+  - Supplementary provisions
+    - [s. 57 Notification orders](section/57.md)
+    - [s. 58 Foreign travel restriction orders](section/58.md)
+    - [s. 59 Application of Part to service offences and related matters](section/59.md)
+    - [s. 60 Minor definitions for Part 4](section/60.md)
+    - [s. 61 References to a person being “dealt with” for an offence](section/61.md)
+- Part 5 Terrorist financing and money laundering
+  - [s. 62 Terrorist financing and money laundering](section/62.md)
+- Part 6 Financial restrictions proceedings
+  - Chapter 1 Application to set aside financial restrictions decision
+    - [s. 63 Application to set aside financial restrictions decision](section/63.md)
+    - [s. 64 UN terrorism orders](section/64.md)
+  - Chapter 2 Financial restrictions proceedings
+    - Introductory
+      - [s. 65 Financial restrictions proceedings](section/65.md)
+    - Rules of court, disclosure and related matters
+      - [s. 66 General provisions about rules of court](section/66.md)
+      - [s. 67 Rules of court about disclosure](section/67.md)
+      - [s. 68 Appointment of special advocate](section/68.md)
+      - [s. 69 Intercept evidence](section/69.md)
+      - [s. 70 Qualification of duty to give reasons](section/70.md)
+    - Supplementary provisions
+      - [s. 71 Allocation of proceedings to Queen’s Bench Division](section/71.md)
+      - [s. 72 Initial exercise of powers by Lord Chancellor](section/72.md)
+      - [s. 73 Interpretation](section/73.md)
+- Part 7 Miscellaneous
+  - Inquiries
+    - [s. 74 Inquiries: intercept evidence](section/74.md)
+  - Amendment of definition of “terrorism” etc
+    - [s. 75 Amendment of definition of “terrorism” etc](section/75.md)
+  - Terrorist offences
+    - [s. 76 Offences relating to information about members of armed forces etc](section/76.md)
+    - [s. 77 Terrorist property: disclosure of information about possible offences](section/77.md)
+  - Control orders
+    - [s. 78 Control orders: powers of entry and search](section/78.md)
+    - [s. 79 Control orders: meaning of involvement in terrorism-related activity](section/79.md)
+    - [s. 80 Time allowed for representations by controlled person](section/80.md)
+    - [s. 81 Application for anonymity for controlled person](section/81.md)
+  - Pre-charge detention of terrorist suspects
+    - [s. 82 Pre-charge detention: minor amendments](section/82.md)
+  - Forfeiture of terrorist cash
+    - [s. 83 Forfeiture of terrorist cash: determination of period for which cash may be detained](section/83.md)
+    - [s. 84 Forfeiture of terrorist cash: appeal against decision in forfeiture proceedings](section/84.md)
+  - Costs of policing at gas facilities
+    - [s. 85 Costs of policing at gas facilities: England and Wales](section/85.md)
+    - [s. 86 Costs of policing at gas facilities: Scotland](section/86.md)
+    - [s. 87 Designated gas transporters](section/87.md)
+    - [s. 88 Costs of policing at gas facilities: recovery of costs](section/88.md)
+    - [s. 89 Costs of policing at gas facilities: supplementary provisions](section/89.md)
+    - [s. 90 Application of provisions to costs incurred before commencement](section/90.md)
+  - Appointment of special advocates in Northern Ireland
+    - [s. 91 Appointment of special advocates in Northern Ireland](section/91.md)
+- Part 8 Supplementary provisions
+  - General definitions
+    - [s. 92 Meaning of “terrorism”](section/92.md)
+    - [s. 93 Meaning of offence having a “terrorist connection”](section/93.md)
+    - [s. 94 Meaning of “ancillary offence”](section/94.md)
+    - [s. 95 Meaning of “service court” and “service offence”](section/95.md)
+  - Orders and regulations
+    - [s. 96 Orders and regulations](section/96.md)
+    - [s. 97 Orders and regulations: affirmative and negative resolution procedure](section/97.md)
+  - Financial provisions
+    - [s. 98 Financial provisions](section/98.md)
+  - Repeals and revocations
+    - [s. 99 Repeals and revocations](section/99.md)
+  - Final provisions
+    - [s. 100 Commencement](section/100.md)
+    - [s. 101 Extent](section/101.md)
+    - [s. 102 Short title](section/102.md)
+- SCHEDULE 1 Disclosure and the intelligence services: consequential amendments
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Immigration, Asylum and Nationality Act 2006 (c. 13)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Statistics and Registration Service Act 2007 (c. 18)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 1A Offences where terrorist connection not required to be considered
+  - Terrorism Act 2000
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Anti-terrorism, Crime and Security Act 2001
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Terrorism Act 2006
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Counter-Terrorism Act 2008
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Terrorism Prevention and Investigation Measures 2011
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Counter-Terrorism and Security Act 2015
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Ancillary offences
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+- SCHEDULE 3 Forfeiture: consequential amendments
+  - Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996/1299 (N.I. 9))
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 3A Notification requirements: financial information and information about identification documents
+  - Financial information
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Information about identification documents
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+- SCHEDULE 4 Notification orders
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Corresponding foreign offences
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Conditions for making a notification order
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Application for notification order
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Effect of notification order
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Adaptation of provisions of this Part in relation to foreign proceedings
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Foreign travel restriction orders
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Conditions for making a foreign travel restriction order
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Application for foreign travel restriction order
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Provisions of a foreign travel restriction order
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Duration of foreign travel restriction order
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Variation, renewal or discharge of order
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Provisions of renewed or varied order
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Appeals
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Breach of foreign travel restriction order an offence
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Meaning of “terrorism activity”
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+- SCHEDULE 6 Notification requirements: application to service offences
+  - Service offences to which this Part applies: terrorism offences
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Service offences to which this Part applies: offences having a terrorist connection
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Service offences dealt with before commencement
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Service offences: persons to whom notification requirements apply
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Service offences: sentences or orders triggering notification requirements
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Service offences: power to amend specified terms or periods of imprisonment or detention
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Service offences: period for which notification requirements apply
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Modifications in relation to service offences etc
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Application of power to make transitional modifications etc
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Terrorist financing and money laundering
+  - Part 1 Conditions for giving a direction
+    - Conditions for giving a direction
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Main definitions
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Part 2 Persons to whom a direction may be given
+    - Persons to whom a direction may be given
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Persons operating in the financial sector
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Meaning of “credit institution” and “financial institution”
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Exceptions
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Interpretation of this Part
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Power to amend
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part 3 Requirements that may be imposed by a direction
+    - Requirements that may be imposed by a direction
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Customer due diligence
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Ongoing monitoring
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Systematic reporting
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Limiting or ceasing business
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Part 4 Procedural provisions and licensing
+    - General directions to be given by order
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Specific directions: notification and duration of directions
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - General directions: publication and duration of directions
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Directions limiting or ceasing business: exemption by licence
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Part 5 Enforcement: information powers
+    - Enforcement authorities and officers
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Power to require information or documents
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Entry, inspection without a warrant etc
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Entry to premises under warrant
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Restrictions on powers
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Failure to comply with information requirement
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Powers of local enforcement officers
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Part 6 Enforcement: civil penalties
+    - Power to impose civil penalties
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+      - [Sch. 7 para. 25A](schedule/7/paragraph/25A.md)
+    - Imposition of penalty by HMRC: procedure ...
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Offer of review
+      - [Sch. 7 para. 26A](schedule/7/paragraph/26A.md)
+    - Review by HMRC
+      - [Sch. 7 para. 26B](schedule/7/paragraph/26B.md)
+    - Extensions of time
+      - [Sch. 7 para. 26C](schedule/7/paragraph/26C.md)
+    - Review out of time
+      - [Sch. 7 para. 26D](schedule/7/paragraph/26D.md)
+    - Nature of review etc
+      - [Sch. 7 para. 26E](schedule/7/paragraph/26E.md)
+    - Bringing of appeals against decisions of HMRC
+      - [Sch. 7 para. 26F](schedule/7/paragraph/26F.md)
+    - Imposition of penalty by other enforcement authority: procedure
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Appeal against imposition of civil penaltyother than by HMRC
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Payment and recovery of civil penalties
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Part 7 Enforcement: offences
+    - Offences: failure to comply with requirement imposed by direction
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Offences: relevant person circumventing requirements
+      - [Sch. 7 para. 30A](schedule/7/paragraph/30A.md)
+    - Offences in connection with licences
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Extra-territorial application of offences
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Prosecution of offences
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Jurisdiction to try offences
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - Time limit for summary proceedings
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Liability of officers of bodies corporate etc
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - Proceedings against unincorporated bodies
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+  - Part 8 Supplementary and general
+    - Report to Parliament
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - Supervision by supervisory authority
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - Assistance in preparing guidance
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - Functions of Financial Conduct Authority
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Notices
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - Crown application
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - Meaning of “United Kingdom person”
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - Interpretation
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - Index of defined expressions
+      - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+- SCHEDULE 8 Offences relating to information about members of armed forces etc: supplementary provisions
+- SCHEDULE 9 Repeals and revocations
+  - Part 1 Retention and use of fingerprints and samples
+  - Part 2 Disclosure of information and the intelligence services
+  - Part 3 Forfeiture
+  - Part 4 Financial restrictions proceedings
+  - Part 5 Control orders
+  - Part 6 Pre-charge detention
