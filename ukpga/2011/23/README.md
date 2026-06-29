@@ -1,0 +1,216 @@
+# Terrorism Prevention and Investigation Measures Act 2011
+
+2011 c. 23. Enacted 2011-12-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/23
+
+Source: https://www.legislation.gov.uk/ukpga/2011/23/2026-06-29
+
+## Contents
+
+- New regime to protect the public from terrorism
+  - [s. 1 Abolition of control orders](section/1.md)
+  - [s. 2 Imposition of terrorism prevention and investigation measures](section/2.md)
+  - [s. 3 Conditions A to E](section/3.md)
+  - [s. 4 Involvement in terrorism-related activity](section/4.md)
+- Duration of measures
+  - [s. 5 Five year limit for TPIM notices](section/5.md)
+- Court scrutiny of imposition of measures
+  - [s. 6 Prior permission of the court](section/6.md)
+  - [s. 7 Urgent cases: reference to the court etc](section/7.md)
+  - [s. 8 Directions hearing](section/8.md)
+  - [s. 9 Review hearing](section/9.md)
+- Consultation requirements
+  - [s. 10 Criminal investigations into terrorism-related activity](section/10.md)
+- Review of ongoing necessity
+  - [s. 11 Review of ongoing necessity](section/11.md)
+- Changes concerning TPIM notices
+  - [s. 12 Variation of measures](section/12.md)
+  - [s. 13 Revocation and revival of TPIM notices](section/13.md)
+  - [s. 14 Replacement of TPIM notice that is quashed etc](section/14.md)
+  - [s. 15 Other provision relating to the quashing of TPIM notices etc](section/15.md)
+- Appeals and court proceedings
+  - [s. 16 Appeals](section/16.md)
+  - [s. 17 Jurisdiction in relation to decisions under this Act](section/17.md)
+  - [s. 18 Proceedings relating to measures](section/18.md)
+- Other safeguards
+  - [s. 19 Reports on exercise of powers under Act](section/19.md)
+  - [s. 20 Reviews of operation of Act](section/20.md)
+  - [s. 21 Expiry and repeal of TPIM powers](section/21.md)
+  - [s. 22 Section 21: supplementary provision](section/22.md)
+- Enforcement
+  - [s. 23 Offence](section/23.md)
+  - [s. 24 Powers of entry etc](section/24.md)
+  - [s. 25 Fingerprints and samples](section/25.md)
+- Temporary imposition of enhanced measures
+  - [s. 26 Temporary power for imposition of enhanced measures](section/26.md)
+  - [s. 27 Section 26: supplementary provision](section/27.md)
+- Final provisions
+  - [s. 28 Notices](section/28.md)
+  - [s. 29 Financial and supplemental provision](section/29.md)
+  - [s. 30 Interpretation etc](section/30.md)
+  - [s. 31 Short title, commencement and extent](section/31.md)
+- SCHEDULE 1 Terrorism prevention and investigation measures
+  - Part 1 Measures
+    - ... Residence measure
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Travel measure
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Exclusion measure
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Movement directions measure
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Financial services measure
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Property measure
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Weapons and explosives measure
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - Electronic communication device measure
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Association measure
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Work or studies measure
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Reporting measure
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Polygraph measure
+      - [Sch. 1 para. 10ZA](schedule/1/paragraph/10ZA.md)
+    - Drug testing measure
+      - [Sch. 1 para. 10ZB](schedule/1/paragraph/10ZB.md)
+    - Appointments measure
+      - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+    - Photography measure
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Monitoring measure
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Provision of residence information measure
+      - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+  - Part 2 Permission and notices
+    - Permission
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Notices
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Power of Secretary of State to vary or revoke notices
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Urgent cases: reference to the court etc
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Statement of urgency
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Reference to court
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Decision by court
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Procedures on reference
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Interpretation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Appeals against convictions
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Proceedings relating to terrorism prevention and investigation measures
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Rules of court: general provision
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Rules of court: disclosure
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Article 6 rights
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Rules of court: anonymity
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Initial exercise of rule-making powers by Lord Chancellor
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Use of advisers
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Appointment of special advocate
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Powers of entry, search, seizure and retention
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Entry and search for purposes of serving TPIM notice
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Search of individual or premises at time of serving TPIM notice
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 6A Weapons and explosives measure](schedule/5/paragraph/6A.md)
+  - Search of premises on suspicion of absconding
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Search for compliance purposes
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Search of individual for public safety purposes
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Power to retain items
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Fingerprints and samples
+  - Taking of fingerprints and samples: England, Wales and Northern Ireland
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Taking of relevant physical data and samples: Scotland
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Checking of fingerprints, samples etc
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Requirement to destroy material
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Retention of paragraph 6 material
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 11A](schedule/6/paragraph/11A.md)
+  - Requirement to destroy samples
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Use of retained material
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Interpretation
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Part 1 General
+    - Senior Courts Act 1981
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Criminal Justice Act 1988
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Counter-Terrorism Act 2008
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Crime and Security Act 2010
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Part 2 Northern Ireland
+    - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Transitional and saving provision
+  - Saving of control orders during transitional period
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Savings during and after transitional period
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Savings etc for court proceedings
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - New powers not affected by previous control order
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Last report on exercise of powers under PTA 2005
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Last review of operation of PTA 2005
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Savings of PTA 2005 not affected by expected expiry
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - First review of operation of Act
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Interpretation
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10A Appointments measure](schedule/8/paragraph/10A.md)
