@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-11, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-06-29
 
 ## Contents
 
@@ -111,6 +111,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
         - [s. 69 Terrorist connection](section/69.md)
         - [s. 69A Offences where foreign power condition met](section/69A.md)
         - [s. 70 Using minor to mind weapon](section/70.md)
+        - [s. 70A Sexual grooming of child](section/70A.md)
         - [s. 71 Supply of controlled drug near school premises or involving child](section/71.md)
         - [s. 72 Supply of psychoactive substance in certain circumstances](section/72.md)
       - Mitigating factors
@@ -147,6 +148,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
         - [s. 95 Duty of youth offending team to arrange initial meetings of panel](section/95.md)
         - [s. 96 Agreement of youth offender contract with offender](section/96.md)
         - [s. 97 Duration of compliance period](section/97.md)
+        - [s. 97A Duty of offender to notify details to panel](section/97A.md)
         - [s. 98 Failure to agree youth offender contract](section/98.md)
         - [s. 99 Arranging progress meetings](section/99.md)
         - [s. 100 Progress meetings: conduct](section/100.md)
@@ -318,7 +320,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
       - Obligations of responsible officer and offender
         - [s. 213 The responsible officer](section/213.md)
         - [s. 214 Obligations of responsible officer](section/214.md)
-        - [s. 215 Duty of offender to keep in touch with responsible officer](section/215.md)
+        - [s. 215 Duty of offender to keep in touch with responsible officer etc](section/215.md)
         - [s. 216 Duty of offender to obtain permission before changing residence](section/216.md)
       - Review
         - [s. 217 Power to provide for court review of community orders](section/217.md)
@@ -460,7 +462,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
       - Suspended sentence order with community requirement: obligations of responsible officer and offender
         - [s. 299 Responsible officer](section/299.md)
         - [s. 300 Obligations of responsible officer](section/300.md)
-        - [s. 301 Duty of offender to keep in touch with responsible officer](section/301.md)
+        - [s. 301 Duty of offender to keep in touch with responsible officer etc](section/301.md)
         - [s. 302 Duty to obtain permission before changing residence](section/302.md)
       - Activation of sentence and amendment of order etc
         - [s. 303 Breach or amendment of suspended sentence order, and effect of further conviction](section/303.md)
@@ -1817,11 +1819,16 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-05-11
     - [Sch. 22 para. 98](schedule/22/paragraph/98.md)
     - [Sch. 22 para. 99](schedule/22/paragraph/99.md)
     - [Sch. 22 para. 100](schedule/22/paragraph/100.md)
+  - Part 7A Amendments of other Acts consequential on prospective abolition of detention in default of payment of fines etc
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 22 para. 100A](schedule/22/paragraph/100A.md)
   - PART 8 Amendments of other Acts consequential on prospective change to age limit for imposing imprisonment
     - Mental Health Act 1983 (c. 20)
       - [Sch. 22 para. 101](schedule/22/paragraph/101.md)
     - Road Traffic Offenders Act 1988 (c. 53)
       - [Sch. 22 para. 102](schedule/22/paragraph/102.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 22 para. 103](schedule/22/paragraph/103.md)
 - SCHEDULE 23 Powers to amend the Sentencing Code
   - PART 1 General provisions
     - Seriousness: list of offences in which terrorist connection to be considered
