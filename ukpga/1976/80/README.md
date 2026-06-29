@@ -1,0 +1,207 @@
+# Rent (Agriculture) Act 1976
+
+1976 c. 80. Enacted 1976-11-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1976/80
+
+Source: https://www.legislation.gov.uk/ukpga/1976/80/2026-06-29
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Interpretation and commencement.](section/1.md)
+  - Protected occupancies
+    - [s. 2 Protected occupiers in their own right.](section/2.md)
+    - [s. 3 Protected occupiers by succession.](section/3.md)
+  - Statutory tenancies
+    - [s. 4 Statutory tenants and tenancies.](section/4.md)
+    - [s. 5 No statutory tenancy where landlord’s interest belongs to Crown or to local authority, etc.](section/5.md)
+- Part II Security of Tenure
+  - Protected occupancies and statutory tenancies
+    - [s. 6 Grounds for possession.](section/6.md)
+    - [s. 7 Discretion of court in giving possession.](section/7.md)
+    - [s. 8 Restriction on levy of distress for rent.](section/8.md)
+    - [s. 9 Effect of determination of superior tenancy, etc.](section/9.md)
+  - Statutory tenancies
+    - [s. 10 Terms and conditions.](section/10.md)
+    - [s. 11 Agreed rents.](section/11.md)
+    - [s. 12 Provisional rents.](section/12.md)
+    - [s. 13 Application for registration of rent.](section/13.md)
+    - [s. 14 Registered rents.](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 Notices of increase.](section/16.md)
+  - General provisions
+    - [s. 17 Adjustment for differences in lengths of rental periods.](section/17.md)
+    - [s. 18 Regulations.](section/18.md)
+    - [s. 19 Interpretation of Part II.](section/19.md)
+- Part III Protected Occupancies and Statutory Tenancies: Supplemental
+  - Recovery of rent
+    - [s. 20 Avoidance of requirements for advance payment of rent.](section/20.md)
+    - [s. 21 Recovery from landlord of sums paid in excess of recoverable rent.](section/21.md)
+    - [s. 22 Rectification of rent books in light of determination of recoverable rent.](section/22.md)
+  - Miscellaneous
+    - [s. 23 Tenant sharing accommodation with persons other than landlord.](section/23.md)
+    - [s. 24 Certain sub-lettings not to exclude any part of sub-lessor’s premises from protection.](section/24.md)
+    - [s. 25 Service of notices on landlord’s agents.](section/25.md)
+    - [s. 26 Jurisdiction and procedure.](section/26.md)
+- Part IV Rehousing
+  - [s. 27 Applications to housing authority concerned.](section/27.md)
+  - [s. 28 Duty of housing authority concerned.](section/28.md)
+  - [s. 29 Agricultural dwelling-house advisory committees.](section/29.md)
+- Part V Power to obtain information
+  - [s. 30 Information about housing accommodation.](section/30.md)
+  - [s. 31 Kinds of information obtainable.](section/31.md)
+- Part VI Miscellaneous and Supplemental
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 Suspension of condition attached to planning permission.](section/33.md)
+  - [s. 34 Interpretation.](section/34.md)
+  - [s. 35 Isles of Scilly.](section/35.md)
+  - [s. 36 Application to Crown property.](section/36.md)
+  - [s. 37 Offences by bodies corporate.](section/37.md)
+  - [s. 38 Prosecution of offences.](section/38.md)
+  - [s. 39 Expenses.](section/39.md)
+  - [s. 40 Short title, etc.](section/40.md)
+- SCHEDULE 1 Index of General Definitions
+- SCHEDULE 2 Meaning of “Relevant Licence” and “Relevant Tenancy”
+  - Relevant licence
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Relevant tenancy
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Supplemental
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Protected Occupiers in their own right
+  - Part I Definitions
+    - Qualifying worker
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Incapable of whole-time work in agriculture, or work in agriculture as a permit worker, in consequence of a qualifying injury or disease
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Dwelling-house in qualifying ownership
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Supplemental
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Temporary Provisions as Respects Certain Forestry Workers
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part III Supplemental
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Grounds for Possession of Dwelling-House Subject to Protected Occupancy or Statutory Tenancy
+  - Part I Cases where Court has a Discretion
+    - Case I
+      - Alternative accommodation not provided or arranged by housing authority
+        - [Sch. 4 Pt. I Ch.  heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 1](schedule/4/part/I/chapter/x/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/1.md)
+        - [Sch. 4 Pt. I Ch.  heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 2](schedule/4/part/I/chapter/x/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/2.md)
+        - [Sch. 4 Pt. I Ch.  heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 3](schedule/4/part/I/chapter/x/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/3.md)
+        - [Sch. 4 Pt. I Ch.  heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 4](schedule/4/part/I/chapter/x/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/4.md)
+        - [Sch. 4 Pt. I Ch.  heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 5](schedule/4/part/I/chapter/x/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/5.md)
+        - [Sch. 4 Pt. I Ch.  heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 6](schedule/4/part/I/chapter/x/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/6.md)
+    - Case II
+      - Alternative accommodation provided or arranged by housing authority
+        - [Sch. 4 Pt. I Ch. n2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 1](schedule/4/part/I/chapter/n2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/1.md)
+        - [Sch. 4 Pt. I Ch. n2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 2](schedule/4/part/I/chapter/n2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/2.md)
+        - [Sch. 4 Pt. I Ch. n2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 3](schedule/4/part/I/chapter/n2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/3.md)
+        - [Sch. 4 Pt. I Ch. n2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 4](schedule/4/part/I/chapter/n2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/4.md)
+    - Case III
+    - Case IV
+    - Case V
+      - [Sch. 4 Pt. I Ch. n5 para. 1](schedule/4/part/I/chapter/n5/paragraph/1.md)
+      - [Sch. 4 Pt. I Ch. n5 para. 2](schedule/4/part/I/chapter/n5/paragraph/2.md)
+    - Case VI
+      - [Sch. 4 Pt. I Ch. n6 para. 1](schedule/4/part/I/chapter/n6/paragraph/1.md)
+      - [Sch. 4 Pt. I Ch. n6 para. 2](schedule/4/part/I/chapter/n6/paragraph/2.md)
+    - Case VII
+      - [Sch. 4 Pt. I Ch. n7 para. 1](schedule/4/part/I/chapter/n7/paragraph/1.md)
+      - [Sch. 4 Pt. I Ch. n7 para. 2](schedule/4/part/I/chapter/n7/paragraph/2.md)
+    - Case VIII
+      - [Sch. 4 Pt. I Ch. n8 para. 1](schedule/4/part/I/chapter/n8/paragraph/1.md)
+      - [Sch. 4 Pt. I Ch. n8 para. 2](schedule/4/part/I/chapter/n8/paragraph/2.md)
+    - Case IX
+      - [Sch. 4 Pt. I Ch. n9 para. 1](schedule/4/part/I/chapter/n9/paragraph/1.md)
+      - [Sch. 4 Pt. I Ch. n9 para. 2](schedule/4/part/I/chapter/n9/paragraph/2.md)
+    - Case X
+      - [Sch. 4 Pt. I Ch. n10 para. 1](schedule/4/part/I/chapter/n10/paragraph/1.md)
+      - [Sch. 4 Pt. I Ch. n10 para. 2](schedule/4/part/I/chapter/n10/paragraph/2.md)
+      - [Sch. 4 Pt. I Ch. n10 para. 3](schedule/4/part/I/chapter/n10/paragraph/3.md)
+  - Part II Cases in which court must order possession
+    - Case XI
+      - [Sch. 4 Pt. II Ch.  para. 1](schedule/4/part/II/chapter/x/paragraph/1.md)
+      - [Sch. 4 Pt. II Ch.  para. 2](schedule/4/part/II/chapter/x/paragraph/2.md)
+      - [Sch. 4 Pt. II Ch.  para. 3](schedule/4/part/II/chapter/x/paragraph/3.md)
+      - [Sch. 4 Pt. II Ch.  para. 4](schedule/4/part/II/chapter/x/paragraph/4.md)
+      - [Sch. 4 Pt. II Ch.  para. 5](schedule/4/part/II/chapter/x/paragraph/5.md)
+      - [Sch. 4 Pt. II Ch.  para. 6](schedule/4/part/II/chapter/x/paragraph/6.md)
+    - Case XII
+      - [Sch. 4 Pt. II Ch. n2 para. 1](schedule/4/part/II/chapter/n2/paragraph/1.md)
+      - [Sch. 4 Pt. II Ch. n2 para. 2](schedule/4/part/II/chapter/n2/paragraph/2.md)
+      - [Sch. 4 Pt. II Ch. n2 para. 3](schedule/4/part/II/chapter/n2/paragraph/3.md)
+      - [Sch. 4 Pt. II Ch. n2 para. 4](schedule/4/part/II/chapter/n2/paragraph/4.md)
+      - [Sch. 4 Pt. II Ch. n2 para. 5](schedule/4/part/II/chapter/n2/paragraph/5.md)
+    - Case XIII
+- SCHEDULE 5 Terms of the Statutory Tenancy
+  - Preliminary
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Terms derived from the original licence or tenancy
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Tenancy derived from licence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Covenant for quiet enjoyment, etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Non-contractual arrangements
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Landlord’s obligation to repair.
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Tenant’s obligations
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Access by landlord
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Access by tenant
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Notice to quit served on landlord
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Rates, water rates, etc.
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Variation of statutory tenancy
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 ...
+- SCHEDULE 7 ...
+- SCHEDULE 8 Consequential and Minor Amendments
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Matrimonial Homes Act 1967 (c. 75)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+- SCHEDULE 9 Transitional
+  - Licence or tenancy granted before operative date: resident landlord on and after that date
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Protected occupancy arising on or after operative date
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Statutory tenancy arising on operative date
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Statutory tenancy: order for possession before operative date
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Dwelling subject to Part VI contract: pending notice to quit
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Section 10A tenancy: order for possession before operative date
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Forestry workers
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
