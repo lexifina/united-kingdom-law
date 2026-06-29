@@ -1,0 +1,364 @@
+# Criminal Justice Act 1982
+
+1982 c. 48. Enacted 1982-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/48
+
+Source: https://www.legislation.gov.uk/ukpga/1982/48/2026-06-29
+
+## Contents
+
+- Part I Treatment of Young Offenders
+  - Custody and detention of persons under 21
+    - [s. 1 General restriction on custodial sentences.](section/1.md)
+    - [s. 1A ................................](section/1A.md)
+    - [s. 1B ................................](section/1B.md)
+    - [s. 1C ................................](section/1C.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 Computation of custodial sentences for young offenders.](section/10.md)
+  - Accommodation of young offenders
+    - [s. 11 Provision of premises for young offenders etc.](section/11.md)
+    - [s. 12 ................................](section/12.md)
+  - Provisions supplementary to sections 1 to 12
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15](section/15.md)
+  - Attendance centres
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+  - Supervision orders
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+  - Offences by person subject to care order owing to previous offence
+    - [s. 22 ................................](section/22.md)
+  - Care orders and children in care
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+  - Sanctions against parents and guardians
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Increase of limit on amount of recognisance to be taken from parents and guardians.](section/28.md)
+- Part II Partial Suspension of Sentences, Early Release, Release on Licence or Bail etc.
+  - Bail
+    - [s. 29 Power of Crown Court to grant bail pending appeal.](section/29.md)
+  - Suspended sentences
+    - [s. 30 Prison sentence partly served and partly suspended.](section/30.md)
+    - [s. 31 Activation of suspended sentence.](section/31.md)
+  - Early release
+    - [s. 32 Early release of prisoners.](section/32.md)
+  - Release on licence
+    - [s. 33 ................................](section/33.md)
+  - Computation of sentences
+    - [s. 34 ................................](section/34.md)
+- Part III Fines etc.
+  - Abolition of enhanced penalties
+    - [s. 35 Abolition of enhanced penalties on subsequent conviction of summary offences under Acts of Parliament.](section/35.md)
+    - [s. 36 Abolition of enhanced penalties under subordinate instruments.](section/36.md)
+  - Introduction of standard scale of fines
+    - [s. 37 The standard scale of fines for summary offences.](section/37.md)
+  - Increase of fines
+    - [s. 38 General increase of fines for summary offences under Acts of Parliament.](section/38.md)
+    - [s. 39 Special cases.](section/39.md)
+    - [s. 40 General increase of fines under subordinate instruments.](section/40.md)
+    - [s. 41 Emergency regulations.](section/41.md)
+    - [s. 42 Orders relating to spread of pests.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+  - Application of standard scale to existing enactments
+    - [s. 46 Conversion of references to amounts to references to levels on scale.](section/46.md)
+    - [s. 47 Provisions supplementary to sections 35 to 46.](section/47.md)
+  - Power to alter maximum fines etc.
+    - [s. 48 Power to alter sums.](section/48.md)
+  - Shipping and oil pollution
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 Fines for offences against regulations relating to wireless telegraphy apparatus on foreign ships and aircraft.](section/50.md)
+  - Fine enforcement
+    - [s. 51 Variation of instalments and means inquiries.](section/51.md)
+    - [s. 52 Reciprocal execution in England and Wales and Northern Ireland of warrants of commitment for non-payment of sum adjudged to be paid by conviction.](section/52.md)
+- Part IV
+  - [s. 53 Power to alter certain fines and other sums.](section/53.md)
+  - [s. 54 Revision of penalties for summary offences and of certain other sums.](section/54.md)
+  - [s. 55 Mode of trial of, and penalties for, ceRtain offences.](section/55.md)
+  - [s. 56 Schedules 7A to 7D to the Criminal Procedure (Scotland) Act 1975 and Schedules 6 and 7 to this Act.](section/56.md)
+- Part V Miscellaneous
+  - The Chief Inspectors of Prisons
+    - [s. 57 Her Majesty’s Chief Inspectors of Prisons.](section/57.md)
+  - Courts-martial etc.
+    - [s. 58 Courts-martial and Standing Civilian Courts.](section/58.md)
+  - Persons remanded in custody
+    - [s. 59 Remand in custody in absence of accused.](section/59.md)
+    - [s. 60 Applications to Crown Court for bail by persons remanded in custody.](section/60.md)
+  - Committal on written statements
+    - [s. 61 Legal representation in case of committal on written statements.](section/61.md)
+  - Requirement of social inquiry reports
+    - [s. 62 ................................](section/62.md)
+  - Deferment of sentence
+    - [s. 63 ................................](section/63.md)
+  - Persons recommended for deportation
+    - [s. 64 Persons recommended by courts for deportation.](section/64.md)
+  - Probation and after-care.
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 Right of appeal of probationer etc.](section/66.md)
+  - Compensation
+    - [s. 67 ................................](section/67.md)
+  - Community service
+    - [s. 68 Community service orders.](section/68.md)
+  - Imprisonment for fine defaulters etc.
+    - [s. 69 Maximum periods of imprisonment for defaulting on fines etc.](section/69.md)
+  - ...
+    - [s. 70 Vagrancy offences.](section/70.md)
+  - Loitering and soliciting
+    - [s. 71 Abolition of imprisonment for loitering and soliciting for purposes of prostitution.](section/71.md)
+  - Unsworn statements
+    - [s. 72 Abolition of right of accused to make unsworn statement.](section/72.md)
+  - Recall of witnesses
+    - [s. 73 Recall of witnesses.](section/73.md)
+  - Interpretation
+    - [s. 74 Construction of references to “statutory maximum".](section/74.md)
+  - Supplementary
+    - [s. 76 Financial provision.](section/76.md)
+    - [s. 77 Minor and consequential amendments.](section/77.md)
+    - [s. 78 Repeals.](section/78.md)
+    - [s. 79 Transitional.](section/79.md)
+    - [s. 80 Commencement.](section/80.md)
+    - [s. 81 Citation and extent.](section/81.md)
+- SCHEDULE 1 Offences Excluded from Section 32
+  - Part I OFFENCES MENTIONED IN SECTION 32(2)(a)
+  - Part II OFFENCES MENTIONED IN SECTION 32(2)(b)
+    - MALICIOUS DAMAGE ACT 1861 (c. 97)
+    - OFFENCES AGAINST THE PERSON ACT 1861 (c. 100)
+    - EXPLOSIVE SUBSTANCES ACT 1883 (c. 3)
+    - INFANT LIFE (PRESERVATION) ACT 1929 (c. 34)
+    - INFANTICIDE ACT 1938 (c. 36)
+    - ...
+    - FIREARMS ACT 1968 (c. 27)
+    - THEFT ACT 1968 (c. 60)
+    - MISUSE OF DRUGS ACT 1971 (c. 38)
+    - CRIMINAL DAMAGE ACT 1971 (c. 48)
+    - ROAD TRAFFIC ACT 1972 (c. 20)
+    - CUSTOMS AND EXCISE MANAGEMENT ACT 1979 (c. 2)
+    - AVIATION SECURITY ACT 1982 (c. 36)
+    - DRUG TRAFFICKING OFFENCES ACT 1986 (c. 32)
+    - PUBLIC ORDER ACT 1986
+    - CRIMINAL JUSTICE ACT 1988 (c.33)
+    - THE ROAD TRAFFIC ACT 1988 (c.52)
+    - CRIMINAL JUSTICE (INTERNATIONAL COOPERATION) ACT 1990 (c. 31)
+    - AVIATION AND MARITIME SECURITY ACT 1990 (c. 31)
+    - CHANNEL TUNNEL (SECURITY) ORDER 1994 No.570
+    - DRUG TRAFFICKING ACT 1994
+    - PROCEEDS OF CRIME ACT 2002
+    - SEXUAL OFFENCES ACT 2003
+    - DOMESTIC VIOLENCE, CRIME AND VICTIMS ACT 2004
+    - SPACE INDUSTRY ACT 2018 (c. 5)
+  - Part III OFFENCES MENTIONED IN SECTION 32(2)(c)
+- SCHEDULE 2 Fines to remain at their present level
+- SCHEDULE 3 Special Increases
+- SCHEDULE 4 Fines imposed otherwise than on conviction
+- SCHEDULE 5 ...
+- SCHEDULE 6
+- SCHEDULE 7
+- SCHEDULE 8 Courts-Martial etc.
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Amendments of Magistrates’ Courts Act 1980 relating to remands in custody
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Amendments of Schedule 3 to Immigration Act 1971
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+- SCHEDULE 11
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+- SCHEDULE 12 Community Service Orders—England and Wales
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+- SCHEDULE 13 Community Service Orders—Reciprocal Arrangements
+  - Part I ...
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Part II Reciprocal Arrangements (Scotland)—Persons Residing in England and Wales or Northern Ireland
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Part III Reciprocal Arrangements (Northern Ireland)—Persons Residing in England and Wales or Scotland
+    - Making an amendment of community service orders relating to persons residing in England and Wales
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Making and amendment of community service orders relating to persons residing in Scotland
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Community service orders relating to persons residing in England and Wales or Scotland—General
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Community service orders relating to persons residing in England and Wales: interpretation
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 Minor and Consequential Amendments
+  - ...
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Merchant Shipping Act 1894 (c. 60)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Customs and Excise Act 1952 (c. 44)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Prison Act 1952 (c. 52)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Criminal Justice Act 1961 (c. 39)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Criminal Justice Act 1967 (c. 80)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+  - Firearms Act 1968 (c. 27)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+  - Children and Young Persons Act 1969 (c. 54)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+  - Fire Precautions Act 1971 (c. 40)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+  - Powers of Criminal Courts Act 1973 (c. 62)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+  - Juries Act 1974 (c. 23)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+  - Criminal Law Act 1977 (c. 45)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+  - Customs and Excise Management Act 1979 (c. 2)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+  - Child Care Act 1980 (c. 5)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+  - Contempt of Court Act 1981 (c. 49)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+- SCHEDULE 15 Minor and Consequential Amendments Scotland
+  - Trespass (Scotland) Act 1865 (c. 56)
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Electric Lighting Act 1882 (c. 56)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Merchant Shipping Act 1894 (c. 60)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Public Health (Scotland) Act 1897 (c. 38)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Food and Drugs (Scotland) Act 1956 (c. 30)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - South of Scotland Electricity Order Confirmation Act 1956 (c. xciv)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - North of Scotland Electricity Order Confirmation Act 1958 (c. ii)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Roads (Scotland) Act 1970 (c. 20)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - Immigration Act 1971 (c. 77)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - Criminal Procedure (Scotland) Act 1975 (c. 21)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+    - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+  - Criminal Justice (Scotland)Act 1980 (c. 62)
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+- SCHEDULE 16 Repeals
+- SCHEDULE 17 Transitional Provisions
+  - Young offenders
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - Probation
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+  - Fines
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
