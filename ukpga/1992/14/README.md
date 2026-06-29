@@ -1,0 +1,743 @@
+# Local Government Finance Act 1992
+
+1992 c. 14. Enacted 1992-03-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 44 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
+
+Source: https://www.legislation.gov.uk/ukpga/1992/14/2026-06-29
+
+## Contents
+
+- Part I Council Tax: England and Wales
+  - Chapter I Main provisions
+    - Preliminary
+      - [s. 1 Council tax in respect of dwellings.](section/1.md)
+      - [s. 2 Liability to tax determined on a daily basis.](section/2.md)
+    - Chargeable dwellings
+      - [s. 3 Meaning of “dwelling".](section/3.md)
+      - [s. 4 Dwellings chargeable to council tax.](section/4.md)
+      - [s. 5 Different amounts for dwellings in different valuation bands.](section/5.md)
+    - Liability to tax
+      - [s. 6 Persons liable to pay council tax.](section/6.md)
+      - [s. 7 Liability in respect of caravans and boats.](section/7.md)
+      - [s. 8 Liability in prescribed cases.](section/8.md)
+      - [s. 9 Liability of spouses.](section/9.md)
+    - Amounts of tax payable
+      - [s. 10 Basic amounts payable.](section/10.md)
+      - [s. 11 Discounts: England.](section/11.md)
+      - [s. 11A Discounts: special provision for England](section/11A.md)
+      - [s. 11B Higher amount for long-term empty dwellings: England](section/11B.md)
+      - [s. 11C Higher amount for dwellings occupied periodically: England](section/11C.md)
+      - [s. 11D Section 11C: regulations](section/11D.md)
+      - [s. 11E Discounts: Wales](section/11E.md)
+      - [s. 11F Discounts: Wales (less discount or no discount)](section/11F.md)
+      - [s. 12 Discounts: special provision for Wales.](section/12.md)
+      - [s. 12A Higher amount for long-term empty dwellings: Wales](section/12A.md)
+      - [s. 12B Higher amount for dwellings occupied periodically: Wales](section/12B.md)
+      - [s. 13 Reduced amounts.](section/13.md)
+      - [s. 13A Reductions by billing authority](section/13A.md)
+      - [s. 13B Transitional arrangements](section/13B.md)
+    - Administration and appeals
+      - [s. 14 Administration, penalties and enforcement.](section/14.md)
+      - [s. 14A Regulations about powers to require information](section/14A.md)
+      - [s. 14B Regulations about offences](section/14B.md)
+      - [s. 14C Regulations about penalties](section/14C.md)
+      - [s. 14D Sections 14A to 14C: supplementary](section/14D.md)
+      - [s. 15 Valuation tribunals.](section/15.md)
+      - [s. 16 Appeals: general.](section/16.md)
+    - Miscellaneous
+      - [s. 17 Completion of new dwellings.](section/17.md)
+      - [s. 18 Death of persons liable.](section/18.md)
+      - [s. 19 Exclusion of Crown exemption in certain cases.](section/19.md)
+  - Chapter II Valuation Lists
+    - Preliminary
+      - [s. 20 Listing officers.](section/20.md)
+    - The lists
+      - [s. 21 Valuations for purposes of lists.](section/21.md)
+      - [s. 22 Compilation and maintenance of lists.](section/22.md)
+      - [s. 22A Amalgamated valuation lists for Welsh billing authorities.](section/22A.md)
+      - [s. 22B Compilation and maintenance of new lists](section/22B.md)
+      - [s. 23 Contents of lists.](section/23.md)
+      - [s. 24 Alteration of lists.](section/24.md)
+      - [s. 25 Compilation and maintenance of new lists.](section/25.md)
+    - Supplemental
+      - [s. 25A Powers of entry: England](section/25A.md)
+      - [s. 26 Powers of entry: Wales](section/26.md)
+      - [s. 27 Information about properties.](section/27.md)
+      - [s. 28 Information about lists.](section/28.md)
+      - [s. 29 Information about proposals and appeals.](section/29.md)
+  - Chapter III Setting of Council Tax
+    - Setting of amounts
+      - [s. 30 Amounts for different categories of dwellings.](section/30.md)
+      - [s. 31 Substituted amounts.](section/31.md)
+    - The requisite calculations
+      - [s. 31A Calculation of council tax requirement by authorities in England](section/31A.md)
+      - [s. 31B Calculation of basic amount of tax by authorities in England](section/31B.md)
+      - [s. 32 Calculation of budget requirement by authorities in Wales.](section/32.md)
+      - [s. 33 Calculation of basic amount of tax by authorities in Wales.](section/33.md)
+      - [s. 34 Additional calculations where special items relate to part only of area.](section/34.md)
+      - [s. 35 Special items for purposes of section 34.](section/35.md)
+      - [s. 36 Calculation of tax for different valuation bands.](section/36.md)
+      - [s. 36A Substitute calculations: England](section/36A.md)
+      - [s. 37 Substitute calculations.](section/37.md)
+    - Supplemental
+      - [s. 38 Information for purposes of Chapter III.](section/38.md)
+  - Chapter IV Precepts
+    - Preliminary
+      - [s. 39 Precepting and precepted authorities.](section/39.md)
+    - Issue of precepts
+      - [s. 40 Issue of precepts by major precepting authorities.](section/40.md)
+      - [s. 41 Issue of precepts by local precepting authorities.](section/41.md)
+      - [s. 42 Substituted precepts.](section/42.md)
+    - Calculations by major precepting authorities
+      - [s. 42A Calculation of council tax requirement by authorities in England](section/42A.md)
+      - [s. 42B Calculation of basic amount of tax by authorities in England](section/42B.md)
+      - [s. 43 Calculation of budget requirement by authorities in Wales.](section/43.md)
+      - [s. 44 Calculation of basic amount of tax by authorities in Wales.](section/44.md)
+      - [s. 45 Additional calculations where special items relate to part only of area.](section/45.md)
+      - [s. 46 Special items for purposes of section 45.](section/46.md)
+      - [s. 47 Calculation of tax for different valuation bands.](section/47.md)
+      - [s. 48 Calculation of amount payable by each billing authority.](section/48.md)
+      - [s. 49 Substitute calculations.](section/49.md)
+    - Calculations by local precepting authorities
+      - [s. 49A Calculation of council tax requirement by authorities in England](section/49A.md)
+      - [s. 49B Substitute calculations](section/49B.md)
+      - [s. 50 Calculation of budget requirement by authorities in Wales.](section/50.md)
+      - [s. 51 Substitute calculations.](section/51.md)
+    - Supplemental
+      - [s. 52 Information for purposes of Chapter IV.](section/52.md)
+  - CHAPTER IVZA Referendums relating to council tax increases
+    - Interpretation of Chapter
+      - [s. 52ZA Interpretation of Chapter](section/52ZA.md)
+    - Determination of whether increase excessive
+      - [s. 52ZB Duty to determine whether council tax excessive](section/52ZB.md)
+      - [s. 52ZC Determination of whether increase is excessive](section/52ZC.md)
+      - [s. 52ZD Approval of principles](section/52ZD.md)
+      - [s. 52ZE Alternative notional amounts](section/52ZE.md)
+    - Excessive increase in council tax by billing authority
+      - [s. 52ZF Billing authority’s duty to make substitute calculations](section/52ZF.md)
+      - [s. 52ZG Arrangements for referendum](section/52ZG.md)
+      - [s. 52ZH Effect of referendum](section/52ZH.md)
+      - [s. 52ZI Failure to hold referendum](section/52ZI.md)
+    - Excessive increase in council tax by precepting authority
+      - [s. 52ZJ Major precepting authority’s duty to make substitute calculations](section/52ZJ.md)
+      - [s. 52ZK Major precepting authority’s duty to notify appropriate billing authorities](section/52ZK.md)
+      - [s. 52ZL Local precepting authority’s duty to make substitute calculations](section/52ZL.md)
+      - [s. 52ZM Local precepting authority’s duty to notify appropriate billing authority](section/52ZM.md)
+      - [s. 52ZN Arrangements for referendum](section/52ZN.md)
+      - [s. 52ZO Effect of referendum](section/52ZO.md)
+      - [s. 52ZP Failure to hold referendum](section/52ZP.md)
+    - Regulations about referendums
+      - [s. 52ZQ Regulations about referendums](section/52ZQ.md)
+    - Directions that referendum provisions are not to apply
+      - [s. 52ZR Direction that referendum provisions are not to apply](section/52ZR.md)
+      - [s. 52ZS Directions to billing authorities](section/52ZS.md)
+      - [s. 52ZT Directions to major precepting authorities](section/52ZT.md)
+      - [s. 52ZU Directions to the Greater London Authority](section/52ZU.md)
+      - [s. 52ZV Directions to local precepting authorities](section/52ZV.md)
+      - [s. 52ZW Further provisions about directions](section/52ZW.md)
+    - Meaning of basic amount of council tax
+      - [s. 52ZX Meaning of relevant basic amount of council tax](section/52ZX.md)
+      - [s. 52ZY Information for purposes of Chapter 4ZA](section/52ZY.md)
+  - CHAPTER IVA LIMITATION OF COUNCIL TAX AND PRECEPTS
+    - Introduction
+      - [s. 52A Interpretation.](section/52A.md)
+    - Designation or nomination
+      - [s. 52B Power to designate or nominate authorities.](section/52B.md)
+      - [s. 52C Alternative notional amounts.](section/52C.md)
+      - [s. 52D Designation or nomination.](section/52D.md)
+    - Designation for year under consideration
+      - [s. 52E Designation.](section/52E.md)
+      - [s. 52F Challenge of maximum amount.](section/52F.md)
+      - [s. 52G Acceptance of maximum amount.](section/52G.md)
+      - [s. 52H No challenge or acceptance.](section/52H.md)
+      - [s. 52I Duty of designated billing authority.](section/52I.md)
+      - [s. 52J Duty of designated precepting authority.](section/52J.md)
+      - [s. 52K Failure to substitute.](section/52K.md)
+    - Nomination
+      - [s. 52L Nomination.](section/52L.md)
+      - [s. 52M Designation after nomination.](section/52M.md)
+      - [s. 52N No designation after nomination.](section/52N.md)
+    - Designation after previous designation
+      - [s. 52P Designation after previous designation.](section/52P.md)
+    - Position after designation under section 52M or 52P
+      - [s. 52Q Challenge of maximum amount.](section/52Q.md)
+      - [s. 52R Acceptance of maximum amount.](section/52R.md)
+      - [s. 52S No challenge or acceptance.](section/52S.md)
+      - [s. 52T Duty of designated billing authority.](section/52T.md)
+      - [s. 52U Duty of designated precepting authority.](section/52U.md)
+      - [s. 52V Failure to make or substitute calculations.](section/52V.md)
+    - Supplemental
+      - [s. 52W Meaning of budget requirement.](section/52W.md)
+      - [s. 52X Calculations to be net of precepts.](section/52X.md)
+      - [s. 52Y Information for purposes of Chapter IVA.](section/52Y.md)
+      - [s. 52Z Separate administration in England and Wales.](section/52Z.md)
+  - Chapter V
+    - Preliminary
+      - [s. 53 Authorities subject to designation.](section/53.md)
+    - Designation
+      - [s. 54 Power to designate authorities.](section/54.md)
+      - [s. 55 Special transitional provisions.](section/55.md)
+      - [s. 56 Designation of authorities.](section/56.md)
+    - Maximum amounts
+      - [s. 57 Challenge of maximum amount.](section/57.md)
+      - [s. 58 Acceptance of maximum amount.](section/58.md)
+      - [s. 59 No challenge or acceptance.](section/59.md)
+    - Substitute calculations
+      - [s. 60 Duty of designated billing authority.](section/60.md)
+      - [s. 61 Duty of designated precepting authority.](section/61.md)
+      - [s. 62 Failure to substitute.](section/62.md)
+    - Supplemental
+      - [s. 63 Separate administration in England and Wales.](section/63.md)
+      - [s. 64 Information for purposes of Chapter V.](section/64.md)
+  - Chapter VI Miscellaneous and Supplemental
+    - [s. 65 Duty to consult ratepayers.](section/65.md)
+    - [s. 66 Judicial review.](section/66.md)
+    - [s. 67 Functions to be discharged only by authority.](section/67.md)
+    - [s. 68 Information required by Secretary of State.](section/68.md)
+    - [s. 69 Interpretation etc. of Part I.](section/69.md)
+- Part II Council Tax: Scotland
+  - Preliminary
+    - [s. 70 Council tax in respect of dwellings.](section/70.md)
+    - [s. 71 Liability to be determined on a daily basis.](section/71.md)
+  - Chargeable dwellings
+    - [s. 72 Dwellings chargeable to council tax.](section/72.md)
+    - [s. 73 Alterations to valuation roll.](section/73.md)
+    - [s. 74 Different amounts for dwellings in different valuation bands.](section/74.md)
+  - Liability to tax
+    - [s. 75 Persons liable to pay council tax.](section/75.md)
+    - [s. 76 Liability in prescribed cases.](section/76.md)
+    - [s. 77 Liability of spouses.](section/77.md)
+    - [s. 77A Liability of civil partners](section/77A.md)
+  - Amounts of tax payable
+    - [s. 78 Basic amounts payable.](section/78.md)
+    - [s. 79 Discounts.](section/79.md)
+    - [s. 80 Reduced amounts.](section/80.md)
+    - [s. 80A Local authority’s power to reduce amount of tax payable](section/80A.md)
+  - Appeals
+    - [s. 81 Appeal to the First-tier Tribunal.](section/81.md)
+    - [s. 82 Appeal procedure.](section/82.md)
+  - New dwellings
+    - [s. 83 Completion of new dwellings.](section/83.md)
+  - Valuation lists
+    - [s. 84 Compilation and maintenance of valuation lists.](section/84.md)
+    - [s. 85 Distribution of lists.](section/85.md)
+    - [s. 86 Valuation of dwellings.](section/86.md)
+    - [s. 87 Alteration of lists.](section/87.md)
+    - [s. 88 Compilation and maintenance of new lists.](section/88.md)
+  - Valuation lists: supplemental
+    - [s. 89 Powers of entry.](section/89.md)
+    - [s. 90 Information about properties.](section/90.md)
+    - [s. 91 Information about lists.](section/91.md)
+    - [s. 92 Information about proposals and appeals.](section/92.md)
+  - Setting of the tax
+    - [s. 93 Setting of council tax.](section/93.md)
+    - [s. 94 Substituted and reduced settings.](section/94.md)
+    - [s. 94A Transitional provisions.](section/94A.md)
+    - [s. 95 District council tax: setting and collection.](section/95.md)
+    - [s. 96 Information.](section/96.md)
+  - Levying and collection of the tax
+    - [s. 97 Levying and collection of council tax.](section/97.md)
+  - Miscellaneous and supplemental
+    - [s. 98 Information required by Secretary of State.](section/98.md)
+    - [s. 99 Interpretation of Part II.](section/99.md)
+- Part III Community Charges
+  - [s. 100 Abolition of community charges.](section/100.md)
+  - [s. 101 Transitory exemption for school leavers.](section/101.md)
+  - [s. 102 Transitory enforcement provisions for England and Wales.](section/102.md)
+- Part IV Miscellaneous
+  - Social security
+    - [s. 103 Council tax benefit.](section/103.md)
+  - English and Welsh provisions
+    - [s. 104 Non-domestic rating, grants and funds.](section/104.md)
+    - [s. 105 Grants to voluntary organisations.](section/105.md)
+    - [s. 106 Council tax and community charges: restrictions on voting.](section/106.md)
+  - Scottish provisions
+    - [s. 107 Water and sewerage charges.](section/107.md)
+    - [s. 108 Payments to local authorities by Secretary of State.](section/108.md)
+    - [s. 108A Special grants.](section/108A.md)
+    - [s. 109 Council tax grants.](section/109.md)
+    - [s. 110 Amendments to the 1975 Act in relation to non-domestic rates.](section/110.md)
+    - [s. 111 Statutory and other references to rateable values etc.](section/111.md)
+    - [s. 112 Council tax and community charges: restrictions on voting.](section/112.md)
+- Part V Supplemental
+  - [s. 113 Orders and regulations.](section/113.md)
+  - [s. 114 Power to make supplementary provision.](section/114.md)
+  - [s. 115 Financial provisions.](section/115.md)
+  - [s. 116 Interpretation: general.](section/116.md)
+  - [s. 117 Minor and consequential amendments and repeals.](section/117.md)
+  - [s. 118 Savings and transitional provisions.](section/118.md)
+  - [s. 119 Short title, commencement and extent.](section/119.md)
+- SCHEDULE 1 Persons Disregarded for Purposes of Discount: England
+  - Persons in detention
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The severely mentally impaired
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Persons in respect of whom child benefit is payable
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Students etc.
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Hospital patients
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Patients in homes in England and Wales
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Patients in homes in Scotland
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Care workers
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Residents of certain dwellings
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Persons of other descriptions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 1A Council tax reduction schemes: England
+  - Interpretation
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Matters to be included in schemes
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Preparation of a scheme
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Default scheme
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Revisions to and replacement of scheme
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Arrangements to deal with shortfall in council tax receipts
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Provision of information to the Secretary of State
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Guidance
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Transitional provision
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+- SCHEDULE 1B Council tax reduction schemes: Wales
+  - Interpretation
+    - [Sch. 1A para. 1n1](schedule/1A/paragraph/1n1.md)
+  - Application of schemes
+    - [Sch. 1A para. 2n1](schedule/1A/paragraph/2n1.md)
+  - Persons entitled to reductions
+    - [Sch. 1A para. 3n1](schedule/1A/paragraph/3n1.md)
+  - Reductions
+    - [Sch. 1A para. 4n1](schedule/1A/paragraph/4n1.md)
+  - Other matters
+    - [Sch. 1A para. 5n1](schedule/1A/paragraph/5n1.md)
+    - [Sch. 1A para. 6n1](schedule/1A/paragraph/6n1.md)
+  - Transitional provision
+    - [Sch. 1A para. 7n1](schedule/1A/paragraph/7n1.md)
+  - Guidance
+    - [Sch. 1A para. 8n1](schedule/1A/paragraph/8n1.md)
+- SCHEDULE 2 Administration
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Collection of council tax
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Variations and increases
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Reductions for lump sum payment etc.
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Exempt dwellings etc.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Supply of information to authorities
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 15A](schedule/2/paragraph/15A.md)
+    - [Sch. 2 para. 15B](schedule/2/paragraph/15B.md)
+    - [Sch. 2 para. 15C](schedule/2/paragraph/15C.md)
+    - [Sch. 2 para. 15D](schedule/2/paragraph/15D.md)
+  - Supply of information by authorities
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Use of information by authorities
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 18A](schedule/2/paragraph/18A.md)
+  - Arrangements with Scottish housing bodies
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Supplemental
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Penalties
+  - Failure to supply information to or notify billing authority
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Failure to supply information to or notify levying authority
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - General
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Enforcement: England and Wales
+  - Regulations for recovery of sums payable
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Provision which may be made
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Liability orders
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Information
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Attachment of earnings etc.
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Deductions from income support
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Distress
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Commitment to prison
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Bankruptcy
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Winding up
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Charging orders
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 11A](schedule/4/paragraph/11A.md)
+  - Relationship between remedies
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Quashing of liability orders
+    - [Sch. 4 para. 12A](schedule/4/paragraph/12A.md)
+  - Magistrates and justices
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Admissibility of evidence
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Exclusion of certain matters
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Costs
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Termination of proceedings
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Offences
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Other enactments
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Interpretation
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+- SCHEDULE 5 Part Residential Subjects: Scotland
+  - Addition, deletion or amendment of apportionment notes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Date of coming into effect of addition, deletion or amendment of apportionment note
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Revaluation
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - General
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Noting of date on which alterations take effect
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Notification of addition, deletion or alteration of apportionment notes
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Completion of New Buildings: Scotland
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Reduction of Council Tax: Scotland
+  - Parliamentary proceedings for reduction of council tax
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Procedure prior to Parliamentary proceedings
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Effect of approval of report
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Supplementary
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Enforcement: Scotland
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Social Security: Council Tax Benefit
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+- SCHEDULE 10 Local Government Finance: England and Wales
+  - Part I Non-Domestic Rating
+    - Alteration of lists
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Multiple moorings
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Places of religious worship etc.
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Valuation
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Special authorities’ multipliers
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Contributions
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Pooling
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Part II Grants
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Part III Funds
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+- SCHEDULE 11 Water and Sewerage Charges: Scotland
+  - Part I Charges for Water Services
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Estimation and apportionment of expenditure
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Direct charges
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Council water charge
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Liability to pay council water charge
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Setting of council water charge
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Application of provisions relating to council tax
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Non-domestic water rate
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Part II Charges for Sewerage Services
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Estimation and apportionment of expenditure
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Non-domestic sewerage rate
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - Part III Miscellaneous Provisions
+    - Accounts
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - Tariff of charges
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - Part IV Amendments to the 1980 Act
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+    - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+    - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+    - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+    - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+    - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+- SCHEDULE 12 Payments to Local Authorities by Secretary of State: Scotland
+  - Part I Payments to Local Authorities
+    - General
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Payment of revenue support grant and non-domestic rate income
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Secretary of State’s power on local authority’s failure to provide information
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Part II Non-Domestic Rating Accounts
+    - The accounts
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Credits and debits
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - Distributable amount
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Part III Contribution
+    - Non-domestic rating contributions
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- SCHEDULE 13 Minor and Consequential Amendments
+  - Forged Transfers Act 1891 (c. 43)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Public Health (Scotland) Act 1897 (c. 38)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Public Health Acts Amendment Act 1907 (c. 53)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Small Holdings and Allotments Act 1908 (c. 36)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Civil Defence Act 1939 (c. 31)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Statutory Orders (Special Procedure) Act 1945 (c. 18)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Civil Defence Act 1948 (c. 5)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Valuation and Rating (Scotland) Act 1956 (c. 60)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Local Government (Financial Provisions etc.) (Scotland) Act 1962 (c. 9)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Stock Transfer Act 1963 (c. 18)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Industrial and Provident Societies Act 1965 (c. 12)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Public Works Loans Act 1965 (c. 63)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - General Rate Act 1967 (c. 9)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+  - National Loans Act 1968 (c. 13)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+  - International Organisations Act 1968 (c. 48)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+  - Development of Tourism Act 1969 (c. 51)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+  - Pensions (Increase) Act 1971 (c. 56)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+  - Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+  - Local Government (Scotland) Act 1973 (c. 65)
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+  - Local Government (Scotland) Act 1975 (c. 30)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+  - Local Government (Miscellaneous Provisions) Act 1976 (c.57)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+  - Rating (Disabled Persons) Act 1978 (c. 40)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+    - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+  - Justices of the Peace Act 1979 (c. 55)
+    - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+  - New Towns Act 1981 (c. 64)
+    - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+  - Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+  - Debtors (Scotland) Act 1987 (c. 18)
+    - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+    - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+    - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+    - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+    - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+    - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+    - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+    - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+    - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+    - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+    - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+    - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+    - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+    - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+    - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+    - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+    - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+    - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+    - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+    - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
+    - [Sch. 13 para. 77](schedule/13/paragraph/77.md)
+    - [Sch. 13 para. 78](schedule/13/paragraph/78.md)
+    - [Sch. 13 para. 79](schedule/13/paragraph/79.md)
+    - [Sch. 13 para. 80](schedule/13/paragraph/80.md)
+    - [Sch. 13 para. 81](schedule/13/paragraph/81.md)
+    - [Sch. 13 para. 82](schedule/13/paragraph/82.md)
+    - [Sch. 13 para. 83](schedule/13/paragraph/83.md)
+    - [Sch. 13 para. 84](schedule/13/paragraph/84.md)
+    - [Sch. 13 para. 85](schedule/13/paragraph/85.md)
+    - [Sch. 13 para. 86](schedule/13/paragraph/86.md)
+    - [Sch. 13 para. 87](schedule/13/paragraph/87.md)
+    - [Sch. 13 para. 88](schedule/13/paragraph/88.md)
+    - [Sch. 13 para. 89](schedule/13/paragraph/89.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 13 para. 90](schedule/13/paragraph/90.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 13 para. 91](schedule/13/paragraph/91.md)
+  - Caldey Island Act 1990 (c. 44)
+    - [Sch. 13 para. 92](schedule/13/paragraph/92.md)
+  - Natural Heritage (Scotland) Act 1991 (c. 28)
+    - [Sch. 13 para. 93](schedule/13/paragraph/93.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 13 para. 94](schedule/13/paragraph/94.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 13 para. 95](schedule/13/paragraph/95.md)
+    - [Sch. 13 para. 96](schedule/13/paragraph/96.md)
+    - [Sch. 13 para. 97](schedule/13/paragraph/97.md)
+    - [Sch. 13 para. 98](schedule/13/paragraph/98.md)
+  - Land Drainage Act 1991 (c. 59)
+    - [Sch. 13 para. 99](schedule/13/paragraph/99.md)
+    - [Sch. 13 para. 100](schedule/13/paragraph/100.md)
+- SCHEDULE 14 Repeals
