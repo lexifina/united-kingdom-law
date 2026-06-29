@@ -1,0 +1,124 @@
+# Public Order Act 1986
+
+1986 c. 64. Enacted 1986-11-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/64
+
+Source: https://www.legislation.gov.uk/ukpga/1986/64/2026-06-29
+
+## Contents
+
+- Part I New Offences
+  - [s. 1 Riot.](section/1.md)
+  - [s. 2 Violent disorder.](section/2.md)
+  - [s. 3 Affray.](section/3.md)
+  - [s. 4 Fear or provocation of violence.](section/4.md)
+  - [s. 4A Intentional harassment, alarm or distress.](section/4A.md)
+  - [s. 4B Intentional harassment, alarm or distress on account of sex](section/4B.md)
+  - [s. 5 Harassment, alarm or distress.](section/5.md)
+  - [s. 6 Mental element: miscellaneous.](section/6.md)
+  - [s. 7 Procedure: miscellaneous.](section/7.md)
+  - [s. 8 Interpretation.](section/8.md)
+  - [s. 9 Offences abolished.](section/9.md)
+  - [s. 10 Construction of other instruments.](section/10.md)
+- Part II Processions and Assemblies
+  - [s. 11 Advance notice of public processions.](section/11.md)
+  - [s. 12 Imposing conditions on public processions.](section/12.md)
+  - [s. 13 Prohibiting public processions.](section/13.md)
+  - [s. 14 Imposing conditions on public assemblies.](section/14.md)
+  - [s. 14ZA Imposing conditions on one-person protests](section/14ZA.md)
+  - [s. 14A Prohibiting trespassory assemblies.](section/14A.md)
+  - [s. 14B Offences in connection with trespassory assemblies and arrest therefor.](section/14B.md)
+  - [s. 14C Stopping persons from proceeding to trespassory assemblies.](section/14C.md)
+  - [s. 15 Delegation.](section/15.md)
+  - [s. 16 Interpretation.](section/16.md)
+- Part III Racial Hatred
+  - Meaning of “racial hatred”
+    - [s. 17 Meaning of “racial hatred”.](section/17.md)
+  - Acts intended or likely to stir up racial hatred
+    - [s. 18 Use of words or behaviour or display of written material.](section/18.md)
+    - [s. 19 Publishing or distributing written material.](section/19.md)
+    - [s. 20 Public performance of play.](section/20.md)
+    - [s. 21 Distributing, showing or playing a recording.](section/21.md)
+    - [s. 22 Broadcasting or including programme in cable programme service.](section/22.md)
+  - Racially inflammatory material
+    - [s. 23 Possession of racially inflammatory material.](section/23.md)
+    - [s. 24 Powers of entry and search.](section/24.md)
+    - [s. 25 Power to order forfeiture.](section/25.md)
+  - Supplementary provisions
+    - [s. 26 Savings for reports of parliamentary or judicial proceedings.](section/26.md)
+    - [s. 27 Procedure and punishment.](section/27.md)
+    - [s. 28 Offences by corporations.](section/28.md)
+    - [s. 29 Interpretation.](section/29.md)
+- Part 3A Hatred against persons on religious grounds or grounds of sexual orientation
+  - Meaning of “religious hatred” and “hatred on the grounds of sexual orientation”
+    - [s. 29A Meaning of “religious hatred”](section/29A.md)
+    - [s. 29AB Meaning of “hatred on the grounds of sexual orientation”](section/29AB.md)
+  - Acts intended to stir up religious hatred or hatred on the grounds of sexual orientation
+    - [s. 29B Use of words or behaviour or display of written material](section/29B.md)
+    - [s. 29C Publishing or distributing written material](section/29C.md)
+    - [s. 29D Public performance of play](section/29D.md)
+    - [s. 29E Distributing, showing or playing a recording](section/29E.md)
+    - [s. 29F Broadcasting or including programme in programme service](section/29F.md)
+  - Inflammatory material
+    - [s. 29G Possession of inflammatory material](section/29G.md)
+    - [s. 29H Powers of entry and search](section/29H.md)
+    - [s. 29I Power to order forfeiture](section/29I.md)
+    - [s. 29J Protection of freedom of expression](section/29J.md)
+    - [s. 29JA Protection of freedom of expression (sexual orientation)](section/29JA.md)
+  - Supplementary provisions
+    - [s. 29K Savings for reports of parliamentary or judicial proceedings](section/29K.md)
+    - [s. 29L Procedure and punishment](section/29L.md)
+    - [s. 29M Offences by corporations](section/29M.md)
+    - [s. 29N Interpretation](section/29N.md)
+- Part IV
+  - [s. 30 ................................](section/30.md)
+- Part V Miscellaneous and General
+  - [s. 38 Contamination of or interference with goods with intention of causing public alarm or anxiety, etc.](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 Amendments, repeals and savings.](section/40.md)
+  - [s. 41 Commencement.](section/41.md)
+  - [s. 42 Extent](section/42.md)
+  - [s. 43 Short title.](section/43.md)
+- SCHEDULE 1 Sporting Events
+  - Part I England and Wales
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Vehicles
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Fireworks etc.
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Licensing etc.
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Supplementary
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Minor amendment
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part II Scotland
+    - Introduction
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Vehicles
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Fireworks etc.
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Other Amendments
+  - Conspiracy and Protection of Property Act 1875 (c.86)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Prevention of Crime Act 1953 (c.14)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Civic Government (Scotland) Act 1982 (c.45)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Criminal Justice Act 1982 (c.48)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Police and Criminal Evidence Act 1984 (c.60)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Repeals
