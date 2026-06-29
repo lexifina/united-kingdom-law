@@ -1,0 +1,63 @@
+# Prevention of Social Housing Fraud Act 2013
+
+2013 c. 3. Enacted 2013-01-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2013/3/2026-06-29
+
+## Contents
+
+- [s. 1 Unlawful sub-letting: secure tenancies](section/1.md)
+- [s. 2 Unlawful sub-letting: assured tenancies and secure contracts](section/2.md)
+- [s. 3 Prosecution of offences](section/3.md)
+- [s. 4 Unlawful profit orders: criminal proceedings](section/4.md)
+- [s. 5 Unlawful profit orders: civil proceedings](section/5.md)
+- [s. 6 Loss of assured tenancy status](section/6.md)
+- [s. 7 Regulations about powers to require information](section/7.md)
+- [s. 8 Regulations about related offence](section/8.md)
+- [s. 9 Regulations: supplementary](section/9.md)
+- [s. 10 Consequential amendments](section/10.md)
+- [s. 11 Interpretation](section/11.md)
+- [s. 12 Extent, commencement and short title](section/12.md)
+- SCHEDULE Consequential amendments
+  - Administration of Justice Act 1970 (c. 31)
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - Family Law Act 1996 (c. 27)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - [Sch. paragraph 23](schedule/paragraph/23.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. paragraph 24](schedule/paragraph/24.md)
+    - [Sch. paragraph 25](schedule/paragraph/25.md)
+    - [Sch. paragraph 26](schedule/paragraph/26.md)
+    - [Sch. paragraph 27](schedule/paragraph/27.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. paragraph 28](schedule/paragraph/28.md)
+    - [Sch. paragraph 29](schedule/paragraph/29.md)
+    - [Sch. paragraph 30](schedule/paragraph/30.md)
+  - Armed Forces Act 2006 (c. 52)
+    - [Sch. paragraph 31](schedule/paragraph/31.md)
