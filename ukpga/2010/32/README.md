@@ -2,9 +2,9 @@
 
 2010 c. 32. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-12, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/32/2026-04-12
+Source: https://www.legislation.gov.uk/ukpga/2010/32/2026-06-29
 
 ## Contents
 
@@ -28,7 +28,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/32/2026-04-12
   - [s. 5A Consultation about identity of Academy sponsor in certain cases](section/5A.md)
   - [s. 5B Duty to facilitate conversion](section/5B.md)
   - [s. 5C Power to give directions to do with conversion](section/5C.md)
-  - [s. 5D Power to revoke Academy orders under section 4(A1) or (1)(b)](section/5D.md)
+  - [s. 5D Power to revoke Academy orders under section 4(1)(b)](section/5D.md)
   - [s. 5E Duty to communicate information about plans to improve school](section/5E.md)
   - [s. 6 Effect of Academy order](section/6.md)
   - [s. 7 Transfer of school surpluses](section/7.md)
