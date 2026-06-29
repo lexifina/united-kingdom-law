@@ -2,9 +2,9 @@
 
 2023 c. 56. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-31, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/56` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/56` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/56/2026-03-31
+Source: https://www.legislation.gov.uk/ukpga/2023/56/2026-06-29
 
 ## Contents
 
@@ -259,7 +259,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/56/2026-03-31
   - Power to strike out certain claims
     - [s. 194 Strategic litigation against public participation: requirement to make rules of court](section/194.md)
     - [s. 195 Meaning of “SLAPP” claim](section/195.md)
-  - Attributing criminal liability for economic crimes to certain bodies
+  - ...
     - [s. 196 Attributing criminal liability for economic crimes to certain bodies](section/196.md)
     - [s. 197 Power to amend list of economic crimes](section/197.md)
     - [s. 198 Offences under section 196 committed by partnerships](section/198.md)
