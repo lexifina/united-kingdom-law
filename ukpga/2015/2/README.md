@@ -2,9 +2,9 @@
 
 2015 c. 2. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-11, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/2/2026-05-11
+Source: https://www.legislation.gov.uk/ukpga/2015/2/2026-06-29
 
 ## Contents
 
