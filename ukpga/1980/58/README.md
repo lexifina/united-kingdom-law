@@ -1,0 +1,142 @@
+# Limitation Act 1980
+
+1980 c. 58. Enacted 1980-11-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/58
+
+Source: https://www.legislation.gov.uk/ukpga/1980/58/2026-06-29
+
+## Contents
+
+- Part I Ordinary Time Limits for Different Classes of Action
+  - Time limits under Part I subject to extension or exclusion under Part II
+    - [s. 1 Time limits under Part I subject to extension or exclusion under Part II.](section/1.md)
+  - Actions founded on tort
+    - [s. 2 Time limit for actions founded on tort.](section/2.md)
+    - [s. 3 Time limit in case of successive conversions and extinction of title of owner of converted goods.](section/3.md)
+    - [s. 4 Special time limit in case of theft.](section/4.md)
+    - [s. 4A Time limit for actions for defamation or malicious falsehood.](section/4A.md)
+    - [s. 4B Special time limit for certain actions in respect of damage or defects in relation to buildings](section/4B.md)
+  - Actions founded on simple contract
+    - [s. 5 Time limit for actions founded on simple contract.](section/5.md)
+    - [s. 5A Additional time limit for actions for damages for late payment of insurance claims](section/5A.md)
+    - [s. 6 Special time limit for actions in respect of certain loans.](section/6.md)
+    - [s. 7 Time limit for actions to enforce certain awards.](section/7.md)
+  - General rule for actions on a specialty
+    - [s. 8 Time limit for actions on a specialty.](section/8.md)
+  - Actions for sums recoverable by statute
+    - [s. 9 Time limit for actions for sums recoverable by statute.](section/9.md)
+    - [s. 10 Special time limit for claiming contribution.](section/10.md)
+    - [s. 10A Special time limit for actions by insurers etc in respect of automated vehicles.](section/10A.md)
+    - [s. 10B Special time limit for actions relating to construction products](section/10B.md)
+  - Actions in respect of wrongs causing personal injuries or death etc
+    - [s. 11 Special time limit for actions in respect of personal injuries.](section/11.md)
+    - [s. 11ZA Actions in respect of personal injuries attributable to child sexual abuse](section/11ZA.md)
+    - [s. 11ZB Dismissal of actions in respect of personal injuries attributable to child sexual abuse](section/11ZB.md)
+    - [s. 11A Actions in respect of defective products.](section/11A.md)
+    - [s. 11B Actions against insurers etc of automated vehicles.](section/11B.md)
+    - [s. 12 Special time limit for actions under Fatal Accidents legislation.](section/12.md)
+    - [s. 13 Operation of time limit under section 12 in relation to different dependants.](section/13.md)
+    - [s. 14 Definition of date of knowledge for purposes of sections 11 to 12.](section/14.md)
+  - Actions in respect of latent damage not involving personal injuries
+    - [s. 14A Special time limit for negligence actions where facts relevant to cause of action are not known at date of accrual.](section/14A.md)
+    - [s. 14B Overriding time limit for negligence actions not involving personal injuries.](section/14B.md)
+  - Actions to recover land and rent
+    - [s. 15 Time limit for actions to recover land.](section/15.md)
+    - [s. 16 Time limit for redemption actions.](section/16.md)
+    - [s. 17 Extinction of title to land after expiration of time limit.](section/17.md)
+    - [s. 18 Settled land and land held on trust.](section/18.md)
+    - [s. 19 Time limit for actions to recover rent.](section/19.md)
+  - Commonhold
+    - [s. 19A Actions for breach of commonhold duty](section/19A.md)
+  - Actions to recover money secured by a mortgage or charge or to recover proceeds of the sale of land
+    - [s. 20 Time limit for actions to recover money secured by a mortgage or charge or to recover proceeds of the sale of land.](section/20.md)
+  - Actions in respect of trust property or the personal estate of deceased persons
+    - [s. 21 Time limit for actions in respect of trust property.](section/21.md)
+    - [s. 22 Time limit for actions claiming personal estate of a deceased person.](section/22.md)
+  - Actions for an account
+    - [s. 23 Time limit in respect of actions for an account.](section/23.md)
+  - Miscellaneous and supplemental
+    - [s. 24 Time limit for actions to enforce judgments.](section/24.md)
+    - [s. 25 Time limit for actions to enforce advowsons and extinction of title to advowsons.](section/25.md)
+    - [s. 26 Administration to date back to death.](section/26.md)
+    - [s. 27 Cure of defective disentailing assurance.](section/27.md)
+    - [s. 27A Actions for recovery of property obtained through unlawful conduct etc.](section/27A.md)
+    - [s. 27AB Actions to prohibit dealing with property subject to an external request](section/27AB.md)
+    - [s. 27B Actions for recovery of property for purposes of an external order](section/27B.md)
+    - [s. 27C Actions for exploitation proceeds orders](section/27C.md)
+    - [s. 27D Actions relating to the Northern Ireland Troubles](section/27D.md)
+- Part II Extension or Exclusion of Ordinary Time Limits
+  - Disability
+    - [s. 28 Extension of limitation period in case of disability.](section/28.md)
+    - [s. 28A Extension for cases where the limitation period is the period under section 14A(4)(b).](section/28A.md)
+  - Acknowledgment and part payment
+    - [s. 29 Fresh accrual of action on acknowledgment or part payment.](section/29.md)
+    - [s. 30 Formal provisions as to acknowledgments and part payments.](section/30.md)
+    - [s. 31 Effect of acknowledgment or part payment on persons other than the maker or recipient.](section/31.md)
+  - Fraud, concealment and mistake
+    - [s. 32 Postponement of limitation period in case of fraud, concealment or mistake.](section/32.md)
+  - Discretionary exclusion of time limit for actions for defamation or malicious falsehood
+    - [s. 32A Discretionary exclusion of time limit for actions for defamation or malicious falsehood.](section/32A.md)
+  - Discretionary exclusion of time limit for actions in respect of personal injuries or death
+    - [s. 33 Discretionary exclusion of time limit for actions in respect of personal injuries or death.](section/33.md)
+  - Mediation in certain cross-border disputes
+    - [s. 33A Extension of time limits because of mediation in certain cross-border disputes](section/33A.md)
+  - Alternative Dispute Resolution in certain cross border or domestic contractual disputes
+    - [s. 33B Extension of time limits because of alternative dispute resolution in certain consumer contract disputes](section/33B.md)
+- Part III Miscellaneous and General
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 New claims in pending actions: rules of court.](section/35.md)
+  - [s. 36 Equitable jurisdiction and remedies.](section/36.md)
+  - [s. 37 Application to the Crown and the Duke of Cornwall.](section/37.md)
+  - [s. 38 Interpretation.](section/38.md)
+  - [s. 39 Saving for other limitation enactments.](section/39.md)
+  - [s. 40 Transitional provisions, amendments and repeals.](section/40.md)
+  - [s. 41 Short title, commencement and extent.](section/41.md)
+- SCHEDULE 1 Provisions with Respect to Actions to Recover Land
+  - Part I Accrual of Rights of Action to Recover Land
+    - Accrual of right of action in case of present interests in land
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Accrual of right of action in case of future interests
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Accrual of right of action in case of forfeiture or breach of condition
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Right of action not to accrue or continue unless there is adverse possession
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Possession of beneficiary not adverse to others interested in settled land or land held on trust for sale
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part II Modification of Section 15 where Crown or Certain Corporations Sole are involved
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Transitional Provisions
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Consequential Amendments
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Enactments Repealed
