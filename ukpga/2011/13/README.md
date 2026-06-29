@@ -2,9 +2,9 @@
 
 2011 c. 13. Enacted 2011-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-07-18, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/13/2025-07-18
+Source: https://www.legislation.gov.uk/ukpga/2011/13/2026-06-29
 
 ## Contents
 
@@ -107,6 +107,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2025-07-18
       - [s. 74 Elections: consequential amendments](section/74.md)
       - [s. 75 The appropriate officer](section/75.md)
       - [s. 76 Interpretation of Chapter 6](section/76.md)
+  - Chapter 6A Exercise of PCC functions by elected mayors
+    - [s. 76A Exercise of PCC functions by elected mayors](section/76A.md)
   - CHAPTER 7 Other provisions relating to policing and crime and disorder
     - Requirement for national policing capabilities
       - [s. 77 The strategic policing requirement](section/77.md)
@@ -488,6 +490,80 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2025-07-18
     - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
   - Local Government and Public Involvement in Health Act 2007
     - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+- Schedule 10A Exercise of PCC functions by elected mayors
+  - Part 1 Interpretation
+    - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+  - Part 2 The Area’s PCC
+    - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+  - Part 3 The Mayor’s PCC functions
+    - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+  - Part 4 Modifications of enactments in this Act
+    - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+    - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+    - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+    - [Sch. 10A para. 7](schedule/10A/paragraph/7.md)
+    - [Sch. 10A para. 8](schedule/10A/paragraph/8.md)
+    - [Sch. 10A para. 9](schedule/10A/paragraph/9.md)
+    - [Sch. 10A para. 10](schedule/10A/paragraph/10.md)
+    - [Sch. 10A para. 11](schedule/10A/paragraph/11.md)
+    - [Sch. 10A para. 12](schedule/10A/paragraph/12.md)
+    - [Sch. 10A para. 13](schedule/10A/paragraph/13.md)
+    - [Sch. 10A para. 14](schedule/10A/paragraph/14.md)
+    - [Sch. 10A para. 15](schedule/10A/paragraph/15.md)
+    - [Sch. 10A para. 16](schedule/10A/paragraph/16.md)
+    - [Sch. 10A para. 17](schedule/10A/paragraph/17.md)
+    - [Sch. 10A para. 18](schedule/10A/paragraph/18.md)
+    - [Sch. 10A para. 19](schedule/10A/paragraph/19.md)
+    - [Sch. 10A para. 20](schedule/10A/paragraph/20.md)
+    - [Sch. 10A para. 21](schedule/10A/paragraph/21.md)
+    - [Sch. 10A para. 22](schedule/10A/paragraph/22.md)
+    - [Sch. 10A para. 23](schedule/10A/paragraph/23.md)
+  - Part 5 Modifications of enactments in other Acts
+    - [Sch. 10A para. 24 Police (Property) Act 1897](schedule/10A/paragraph/24.md)
+    - [Sch. 10A para. 25 Trustee Investments Act 1961](schedule/10A/paragraph/25.md)
+    - [Sch. 10A para. 26 Pensions (Increase) Act 1971](schedule/10A/paragraph/26.md)
+    - [Sch. 10A para. 27 Local Government (Miscellaneous Provisions) Act 1976](schedule/10A/paragraph/27.md)
+    - [Sch. 10A para. 28 Local Government, Planning and Land Act 1980](schedule/10A/paragraph/28.md)
+    - [Sch. 10A para. 29 Dartford-Thurrock Crossing Act 1988](schedule/10A/paragraph/29.md)
+    - [Sch. 10A para. 30 Local Government Finance Act 1988](schedule/10A/paragraph/30.md)
+    - [Sch. 10A para. 31 Road Traffic Act 1988](schedule/10A/paragraph/31.md)
+    - [Sch. 10A para. 32 Local Government and Housing Act 1989](schedule/10A/paragraph/32.md)
+    - [Sch. 10A para. 33 Police Act 1996](schedule/10A/paragraph/33.md)
+    - [Sch. 10A para. 34 Proceeds of Crime Act 2002](schedule/10A/paragraph/34.md)
+    - [Sch. 10A para. 35 Police Reform Act 2002](schedule/10A/paragraph/35.md)
+    - [Sch. 10A para. 36 Local Government Act 2003](schedule/10A/paragraph/36.md)
+    - [Sch. 10A para. 37 Railways and Transport Safety Act 2003](schedule/10A/paragraph/37.md)
+    - [Sch. 10A para. 38 Local Government and Public Involvement in Health Act 2007](schedule/10A/paragraph/38.md)
+    - [Sch. 10A para. 39 Local Democracy, Economic Development and Construction Act 2009](schedule/10A/paragraph/39.md)
+    - [Sch. 10A para. 40 Local Audit and Accountability Act 2014](schedule/10A/paragraph/40.md)
+  - Part 6 Enactments which do not apply
+    - [Sch. 10A para. 41](schedule/10A/paragraph/41.md)
+    - [Sch. 10A para. 42](schedule/10A/paragraph/42.md)
+    - [Sch. 10A para. 43](schedule/10A/paragraph/43.md)
+    - [Sch. 10A para. 44](schedule/10A/paragraph/44.md)
+    - [Sch. 10A para. 45](schedule/10A/paragraph/45.md)
+    - [Sch. 10A para. 46](schedule/10A/paragraph/46.md)
+    - [Sch. 10A para. 47](schedule/10A/paragraph/47.md)
+    - [Sch. 10A para. 48](schedule/10A/paragraph/48.md)
+    - [Sch. 10A para. 49](schedule/10A/paragraph/49.md)
+    - [Sch. 10A para. 50](schedule/10A/paragraph/50.md)
+    - [Sch. 10A para. 51](schedule/10A/paragraph/51.md)
+    - [Sch. 10A para. 52](schedule/10A/paragraph/52.md)
+    - [Sch. 10A para. 53](schedule/10A/paragraph/53.md)
+    - [Sch. 10A para. 54](schedule/10A/paragraph/54.md)
+    - [Sch. 10A para. 55](schedule/10A/paragraph/55.md)
+    - [Sch. 10A para. 56](schedule/10A/paragraph/56.md)
+    - [Sch. 10A para. 57](schedule/10A/paragraph/57.md)
+    - [Sch. 10A para. 58](schedule/10A/paragraph/58.md)
+    - [Sch. 10A para. 59](schedule/10A/paragraph/59.md)
+    - [Sch. 10A para. 60](schedule/10A/paragraph/60.md)
+    - [Sch. 10A para. 61](schedule/10A/paragraph/61.md)
+    - [Sch. 10A para. 62](schedule/10A/paragraph/62.md)
+    - [Sch. 10A para. 63](schedule/10A/paragraph/63.md)
+  - Part 7 Enactments not contained in Acts
+    - [Sch. 10A para. 64 Power to modify or disapply enactments](schedule/10A/paragraph/64.md)
+  - Part 8 Application and modification of enactments other than police and crime commissioner enactments
+    - [Sch. 10A para. 65 Local Government Act 1972](schedule/10A/paragraph/65.md)
 - SCHEDULE 11 Crime and disorder strategies
   - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
   - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
