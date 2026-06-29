@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-29
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-06-29
 
 ## Contents
 
@@ -38,6 +38,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-29
       - [s. 19 Duties to protect journalistic content](section/19.md)
     - Duties about content reporting and complaints procedures
       - [s. 20 Duty about content reporting](section/20.md)
+      - [s. 20A Reporting of intimate image content](section/20A.md)
       - [s. 21 Duties about complaints procedures](section/21.md)
     - Cross-cutting duties
       - [s. 22 Duties about freedom of expression and privacy](section/22.md)
@@ -55,6 +56,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-29
       - [s. 30 Safety duties protecting children: interpretation](section/30.md)
     - Duties about content reporting and complaints procedures
       - [s. 31 Duty about content reporting](section/31.md)
+      - [s. 31A Reporting of intimate image content](section/31A.md)
       - [s. 32 Duties about complaints procedures](section/32.md)
     - Cross-cutting duties
       - [s. 33 Duties about freedom of expression and privacy](section/33.md)
@@ -310,6 +312,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-29
     - [s. 216A Power to amend Act in relation to illegal AI-generated content etc](section/216A.md)
   - Power to amend Act: alternative dispute resolution
     - [s. 217 Power to impose duty about alternative dispute resolution procedure](section/217.md)
+  - Power to amend Act: pornographic content
+    - [s. 217A Power to impose duties about pornographic content](section/217A.md)
   - Other powers to amend Act
     - [s. 218 Power to amend section 40](section/218.md)
     - [s. 219 Powers to amend sections 61 and 62](section/219.md)
