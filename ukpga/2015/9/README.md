@@ -1,0 +1,321 @@
+# Serious Crime Act 2015
+
+2015 c. 9. Enacted 2015-03-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
+
+Source: https://www.legislation.gov.uk/ukpga/2015/9/2026-06-29
+
+## Contents
+
+- PART 1 Proceeds of crime
+  - CHAPTER 1 England and Wales
+    - Confiscation: assets held by defendant and other
+      - [s. 1 Determination of extent of defendant’s interest in property](section/1.md)
+      - [s. 2 Provision of information](section/2.md)
+      - [s. 3 Appeals](section/3.md)
+      - [s. 4 Enforcement receivers](section/4.md)
+    - Confiscation: other amendments
+      - [s. 5 Time for payment](section/5.md)
+      - [s. 6 Confiscation and victim surcharge orders](section/6.md)
+      - [s. 7 Orders for securing compliance with confiscation order](section/7.md)
+      - [s. 8 Variation or discharge](section/8.md)
+      - [s. 9 Absconding defendants](section/9.md)
+      - [s. 10 Default sentences](section/10.md)
+      - [s. 11 Conditions for exercise of restraint order powers](section/11.md)
+      - [s. 12 Continuation of restraint order after quashed conviction](section/12.md)
+      - [s. 13 Conditions for exercise of search and seizure powers](section/13.md)
+      - [s. 14 Seized money etc](section/14.md)
+  - CHAPTER 2 Scotland
+    - Confiscation
+      - [s. 15 Restitution order and victim surcharge](section/15.md)
+      - [s. 16 Orders for securing compliance with confiscation order](section/16.md)
+      - [s. 17 Compliance orders: appeals by prosecutor](section/17.md)
+      - [s. 18 Accused persons unlawfully at large](section/18.md)
+      - [s. 19 Enforcement of confiscation orders](section/19.md)
+      - [s. 20 Conditions for exercise of restraint order powers](section/20.md)
+      - [s. 21 Continuation of restraint order after conviction quashed or verdict set aside](section/21.md)
+      - [s. 22 Conditions for exercise of search and seizure powers](section/22.md)
+    - Civil recovery
+      - [s. 23 Prohibitory property orders: PPO receivers](section/23.md)
+  - CHAPTER 3 Northern Ireland
+    - Confiscation: assets held by defendant and other
+      - [s. 24 Determination of extent of defendant’s interest in property](section/24.md)
+      - [s. 25 Provision of information](section/25.md)
+      - [s. 26 Appeals](section/26.md)
+      - [s. 27 Enforcement receivers](section/27.md)
+    - Confiscation: other amendments
+      - [s. 28 Time for payment](section/28.md)
+      - [s. 29 Orders for securing compliance with confiscation order](section/29.md)
+      - [s. 30 Variation or discharge](section/30.md)
+      - [s. 31 Absconding defendants](section/31.md)
+      - [s. 32 Default sentences](section/32.md)
+      - [s. 33 Conditions for exercise of restraint order powers](section/33.md)
+      - [s. 34 Continuation of restraint order after quashed conviction](section/34.md)
+      - [s. 35 Conditions for exercise of search and seizure powers](section/35.md)
+      - [s. 36 Seized money etc](section/36.md)
+  - CHAPTER 4 Disclosures, investigations, co-operation and enforcement
+    - [s. 37 Exemption from civil liability for money-laundering disclosures](section/37.md)
+    - [s. 38 Confiscation investigations](section/38.md)
+    - [s. 39 External orders and investigations: meaning of “obtaining property”](section/39.md)
+    - [s. 40 Confiscation orders by magistrates’ courts](section/40.md)
+- PART 2 Computer misuse
+  - [s. 41 Unauthorised acts causing, or creating risk of, serious damage](section/41.md)
+  - [s. 42 Obtaining articles for purposes relating to computer misuse](section/42.md)
+  - [s. 43 Territorial scope of computer misuse offence](section/43.md)
+  - [s. 44 Savings](section/44.md)
+- PART 3 Organised, serious and gang-related crime
+  - Organised crime groups
+    - [s. 45 Offence of participating in activities of organised crime group](section/45.md)
+  - Serious crime prevention orders
+    - [s. 46 Extension of Part 1 of Serious Crime Act 2007 to Scotland](section/46.md)
+    - [s. 47 Serious crime prevention orders: meaning of “serious offence”](section/47.md)
+    - [s. 48 Powers of Crown Court to replace orders on breach](section/48.md)
+    - [s. 49 Extension of order where person charged](section/49.md)
+    - [s. 50 Serious crime prevention orders and financial reporting etc](section/50.md)
+  - Gang injunctions
+    - [s. 51 Injunctions to prevent gang-related violence and drug-dealing activity](section/51.md)
+- PART 4 Seizure and forfeiture of drug-cutting agents
+  - Warrants
+    - [s. 52 Applications for search and seizure warrants](section/52.md)
+    - [s. 53 Further provisions about search and seizure warrants](section/53.md)
+    - [s. 54 Execution of search and seizure warrants](section/54.md)
+  - Seizure
+    - [s. 55 Seizure of substances under search and seizure warrant](section/55.md)
+    - [s. 56 Seizure of substances without search and seizure warrant](section/56.md)
+    - [s. 57 Notice to be given where substances seized](section/57.md)
+    - [s. 58 Containers](section/58.md)
+  - Retention of seized substances
+    - [s. 59 Initial retention of seized substances](section/59.md)
+    - [s. 60 Continued retention or return of seized substances](section/60.md)
+  - Forfeiture etc or return of seized substances
+    - [s. 61 Forfeiture and disposal, or return, of seized substances](section/61.md)
+    - [s. 62 Appeal against decision under section 61](section/62.md)
+    - [s. 63 Return of substance to person entitled to it, or disposal if return impracticable](section/63.md)
+  - Supplementary
+    - [s. 64 Compensation](section/64.md)
+    - [s. 65 Interpretation etc](section/65.md)
+- PART 5 Protection of children and others
+  - Protection of children
+    - [s. 66 Child cruelty offence](section/66.md)
+    - [s. 67 Sexual communication with a child](section/67.md)
+    - [s. 68 Child sexual exploitation](section/68.md)
+    - [s. 69 Possession of paedophile manual](section/69.md)
+  - Female genital mutilation
+    - [s. 70 Offence of female genital mutilation: extra-territorial acts](section/70.md)
+    - [s. 71 Anonymity for victims of female genital mutilation](section/71.md)
+    - [s. 72 Offence of failing to protect girl from risk of genital mutilation](section/72.md)
+    - [s. 73 Female genital mutilation protection orders](section/73.md)
+    - [s. 74 Duty to notify police of female genital mutilation](section/74.md)
+    - [s. 75 Guidance about female genital mutilation](section/75.md)
+  - Strangulation or suffocation
+    - [s. 75A Strangulation or suffocation](section/75A.md)
+    - [s. 75B Offences under section 75A committed outside the United Kingdom](section/75B.md)
+  - Domestic abuse
+    - [s. 76 Controlling or coercive behaviour in an intimate or family relationship](section/76.md)
+    - [s. 76A Offences under section 76 committed outside the United Kingdom](section/76A.md)
+    - [s. 77 Guidance about investigation of offences under section 76](section/77.md)
+- PART 6 Miscellaneous and general
+  - Miscellaneous
+    - [s. 78 Knives and offensive weapons in prisons](section/78.md)
+    - [s. 79 Throwing articles into prisons](section/79.md)
+    - [s. 80 Prevention or restriction of use of communication devices by prisoners etc](section/80.md)
+    - [s. 80A Prevention or restriction of use of communication devices for drug dealing](section/80A.md)
+    - [s. 81 Preparation or training abroad for terrorism](section/81.md)
+    - [s. 82 Approval of draft decisions under Article 352 of TFEU relating to serious crime](section/82.md)
+    - [s. 83 Codes of practice about investigatory powers: journalistic sources](section/83.md)
+    - [s. 84 Termination of pregnancy on grounds of sex of foetus](section/84.md)
+  - General
+    - [s. 85 Minor and consequential amendments](section/85.md)
+    - [s. 86 Transitional and saving provisions](section/86.md)
+    - [s. 87 Extent](section/87.md)
+    - [s. 88 Commencement](section/88.md)
+    - [s. 89 Short title](section/89.md)
+- SCHEDULE 1 Amendments of Serious Crime Act 2007: Scotland
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+- SCHEDULE 2 Execution of search and seizure warrants
+  - Persons who may execute warrant
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Warrant to be executed within 3 months
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - All-premises warrants
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Search of premises more than once
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Time of search
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Evidence of authority etc
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Extent of search
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Inspection of substances
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Securing premises after entry
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Endorsement of warrant
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Return and retention of warrant
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Interpretation etc
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Paedophile manuals: providers of information society services
+  - Interpretation of this Schedule
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Domestic service providers: extension of liability
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Exception for mere conduits
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Exception for caching
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Exception for hosting
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Visiting Forces Act 1952 (c. 67)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Street Offences Act 1959 (c. 57)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Senior Courts Act 1981 (c. 54)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Civil Jurisdiction and Judgments Act 1982 (c. 27)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Computer Misuse Act 1990 (c. 18)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Family Law Act 1996 (c. 27)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+  - Female Genital Mutilation Act 2003 (c. 31)
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+    - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+    - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+  - Serious Organised Crime and Police Act 2005 (c. 15)
+    - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+    - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+    - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+  - Terrorism Act 2006 (c. 11)
+    - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+  - Armed Forces Act 2006 (c. 52)
+    - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+  - Serious Crime Act 2007 (c. 27)
+    - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+    - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+    - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+    - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+    - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+    - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+    - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+  - Policing and Crime Act 2009 (c. 26)
+    - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+    - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+    - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+  - Crime and Security Act 2010 (c. 17)
+    - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+  - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+    - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+    - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+  - Prevention of Social Housing Fraud Act 2013 (c. 3)
+    - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+  - Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)
+    - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
