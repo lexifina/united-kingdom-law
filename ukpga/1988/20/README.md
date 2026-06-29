@@ -1,0 +1,227 @@
+# Dartford-Thurrock Crossing Act 1988
+
+1988 c. 20. Enacted 1988-06-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1988/20/2026-06-29
+
+## Contents
+
+- Part I Construction of New Bridge over River Thames
+  - [s. 1 Construction of the scheduled works.](section/1.md)
+  - [s. 2 Acquisition of land for the scheduled works and other authorised works.](section/2.md)
+  - [s. 3 Supplementary provision as to authorised works.](section/3.md)
+- Part II Transfer of Tunnels and Tunnel Approaches
+  - Status of tunnel highway and tunnel approaches, etc.
+    - [s. 4 Trunking of tunnel highway and tunnel approaches.](section/4.md)
+    - [s. 5 Status of roads, etc., other than the tunnel highway.](section/5.md)
+  - Transfers consequential on section 4
+    - [s. 6 Transfer of tunnel crossing and tunnel approaches to Secretary of State.](section/6.md)
+    - [s. 7 Transfer of toll undertaking to person appointed under section 11.](section/7.md)
+    - [s. 8 Supplementary provisions and transfers of staff.](section/8.md)
+  - Financial provisions
+    - [s. 9 Termination of borrowings for tunnels, etc.](section/9.md)
+    - [s. 10 Payment of transfer expenses.](section/10.md)
+- Part III Operation of the Crossing
+  - Power to levy tolls and management and maintenance, etc., of the crossing and the approach roads
+    - [s. 11 Power to levy tolls for use of the crossing.](section/11.md)
+    - [s. 12 Delegation of functions of Secretary of State in relation to the crossing and the approach roads.](section/12.md)
+    - [s. 13 Leases of crossing land, etc.: application of landlord and tenant law.](section/13.md)
+    - [s. 14 Termination of appointment under section 11 after the transfer date.](section/14.md)
+    - [s. 15 Termination: supplementary provisions.](section/15.md)
+    - [s. 16 Time limit for levy of tolls.](section/16.md)
+  - Tolls and their administration
+    - [s. 17 Classification of vehicles and level of tolls.](section/17.md)
+    - [s. 18 Temporary suspension of tolls.](section/18.md)
+    - [s. 19 Exemption from tolls.](section/19.md)
+    - [s. 20 Composition agreements.](section/20.md)
+    - [s. 21 List of tolls to be exhibited.](section/21.md)
+    - [s. 22 Refusal to pay tolls.](section/22.md)
+  - Regulation of traffic using crossing or approach roads
+    - [s. 23 Restriction on use by certain classes of traffic.](section/23.md)
+    - [s. 24 Special traffic restrictions.](section/24.md)
+    - [s. 25 Large vehicles and safety.](section/25.md)
+    - [s. 26 Removal of stationary vehicles.](section/26.md)
+    - [s. 27 Services for transporting cycles and cyclists through crossing.](section/27.md)
+    - [s. 28 Traffic officers.](section/28.md)
+    - [s. 29 Offences.](section/29.md)
+  - Miscellaneous and supplementary
+    - [s. 30 Planning permission.](section/30.md)
+    - [s. 31 Pollution controls, etc.](section/31.md)
+    - [s. 32 Recovery of tolls and charges.](section/32.md)
+    - [s. 33 Accounts of person appointed under section 11.](section/33.md)
+    - [s. 34 Accounts of Secretary of State.](section/34.md)
+    - [s. 35 Offences by bodies corporate.](section/35.md)
+    - [s. 36 Application of Part III to Crown.](section/36.md)
+- Part IV Miscellaneous and General
+  - [s. 37 Works affecting the river Thames.](section/37.md)
+  - [s. 38 Restrictions on works on crossing and approach roads.](section/38.md)
+  - [s. 39 Application of public utilities street works code to all works at the crossing.](section/39.md)
+  - [s. 40 Rating.](section/40.md)
+  - [s. 41 Protection of interests.](section/41.md)
+  - [s. 42 Correction of deposited plans.](section/42.md)
+  - [s. 43 Determination of questions referred to arbitration.](section/43.md)
+  - [s. 44 Orders and regulations.](section/44.md)
+  - [s. 45 Financial provision.](section/45.md)
+  - [s. 46 Interpretation.](section/46.md)
+  - [s. 46A Appointment of a strategic highways company](section/46A.md)
+  - [s. 47 Short title, commencement and extent.](section/47.md)
+- SCHEDULE 1 The Scheduled Works
+  - Part I The Works
+  - Part II Supplementary
+    - Limits of deviation
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Particulars of the bridge
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Acquisition of Land
+  - Part I Purposes for which Certain Land may be Acquired or Used
+  - Part II Supplementary
+    - Period of notice
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Acquisition of rights
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Subsoil and under-surface
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Minerals
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Private rights of way
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Provisions as to compensation
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Supplementary Provisions as to Authorised Works
+  - Temporary occupation of specified sites
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Stopping up of and interference with highways
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Temporary interference with highways
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Status of new highways
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Application of highways legislation
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Road traffic regulation
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Transfer of Tunnels and Tunnel Approaches: Supplementary and Transitional Provisions
+  - Connected transfers and supplementary provisions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Transitional provisions
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Transfers of Staff
+  - Part I Staff Employed at the Tunnel Crossing Before the Transfer Date
+    - Application of Employment Transfer Regulations
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Provision with respect to pensions, etc.
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part II Staff Employed by the Person Appointed to Levy Tolls
+    - Application of Employment Transfer Regulations
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Preservation of pensions, etc.
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part III Supplementary
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 The Toll Period
+  - Part I The Period Allowed for the Levy of Tolls by the Person Appointed
+    - The maximum toll period
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Early termination of the toll period
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Toll extension period
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Part II The Period Allowed for the Levy of Tolls by the Secretary of State
+    - The original maximum toll period
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Relevant receipts and assumed interest receipts
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Extension of the original maximum toll period
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Early termination of the relevant period
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - References to interest
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Assumptions as to application of relevant receipts and assumed interest receipts
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Part III Purposes Relevant to Part II
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 Protective Provisions
+  - Part I Protection of Port Authority and River Users
+    - [Sch. 7 Pt. I para. 1](schedule/7/part/I/paragraph/1.md)
+    - [Sch. 7 Pt. I para. 2](schedule/7/part/I/paragraph/2.md)
+    - [Sch. 7 Pt. I para. 3](schedule/7/part/I/paragraph/3.md)
+    - [Sch. 7 Pt. I para. 4](schedule/7/part/I/paragraph/4.md)
+    - [Sch. 7 Pt. I para. 5](schedule/7/part/I/paragraph/5.md)
+    - [Sch. 7 Pt. I para. 6](schedule/7/part/I/paragraph/6.md)
+    - [Sch. 7 Pt. I para. 7](schedule/7/part/I/paragraph/7.md)
+    - [Sch. 7 Pt. I para. 8](schedule/7/part/I/paragraph/8.md)
+    - [Sch. 7 Pt. I para. 9](schedule/7/part/I/paragraph/9.md)
+    - [Sch. 7 Pt. I para. 10](schedule/7/part/I/paragraph/10.md)
+    - [Sch. 7 Pt. I para. 11](schedule/7/part/I/paragraph/11.md)
+    - [Sch. 7 Pt. I para. 12](schedule/7/part/I/paragraph/12.md)
+    - [Sch. 7 Pt. I para. 13](schedule/7/part/I/paragraph/13.md)
+    - [Sch. 7 Pt. I para. 14](schedule/7/part/I/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Part II Protection Against Siltation or Scouring
+    - [Sch. 7 Pt. II para. 1](schedule/7/part/II/paragraph/1.md)
+    - [Sch. 7 Pt. II para. 2](schedule/7/part/II/paragraph/2.md)
+    - [Sch. 7 Pt. II para. 3](schedule/7/part/II/paragraph/3.md)
+    - [Sch. 7 Pt. II para. 4](schedule/7/part/II/paragraph/4.md)
+    - [Sch. 7 Pt. II para. 5](schedule/7/part/II/paragraph/5.md)
+    - [Sch. 7 Pt. II para. 6](schedule/7/part/II/paragraph/6.md)
+  - Part III Protection of Railways Board
+    - [Sch. 7 Pt. III para. 1](schedule/7/part/III/paragraph/1.md)
+    - [Sch. 7 Pt. III para. 2](schedule/7/part/III/paragraph/2.md)
+    - [Sch. 7 Pt. III para. 3](schedule/7/part/III/paragraph/3.md)
+    - [Sch. 7 Pt. III para. 4](schedule/7/part/III/paragraph/4.md)
+    - [Sch. 7 Pt. III para. 5](schedule/7/part/III/paragraph/5.md)
+    - [Sch. 7 Pt. III para. 6](schedule/7/part/III/paragraph/6.md)
+    - [Sch. 7 Pt. III para. 7](schedule/7/part/III/paragraph/7.md)
+    - [Sch. 7 Pt. III para. 8](schedule/7/part/III/paragraph/8.md)
+    - [Sch. 7 Pt. III para. 9](schedule/7/part/III/paragraph/9.md)
+    - [Sch. 7 Pt. III para. 10](schedule/7/part/III/paragraph/10.md)
+    - [Sch. 7 Pt. III para. 11](schedule/7/part/III/paragraph/11.md)
+    - [Sch. 7 Pt. III para. 12](schedule/7/part/III/paragraph/12.md)
+  - Part IV Protection of Sewers and Land Drainage
+    - [Sch. 7 Pt. IV para. 1](schedule/7/part/IV/paragraph/1.md)
+    - [Sch. 7 Pt. IV para. 2](schedule/7/part/IV/paragraph/2.md)
+    - [Sch. 7 Pt. IV para. 3](schedule/7/part/IV/paragraph/3.md)
+    - [Sch. 7 Pt. IV para. 4](schedule/7/part/IV/paragraph/4.md)
+    - [Sch. 7 Pt. IV para. 5](schedule/7/part/IV/paragraph/5.md)
+    - [Sch. 7 Pt. IV para. 6](schedule/7/part/IV/paragraph/6.md)
+    - [Sch. 7 Pt. IV para. 7](schedule/7/part/IV/paragraph/7.md)
+    - [Sch. 7 Pt. IV para. 8](schedule/7/part/IV/paragraph/8.md)
+    - [Sch. 7 Pt. IV para. 9](schedule/7/part/IV/paragraph/9.md)
+    - [Sch. 7 Pt. IV para. 10](schedule/7/part/IV/paragraph/10.md)
+    - [Sch. 7 Pt. IV para. 11](schedule/7/part/IV/paragraph/11.md)
+    - [Sch. 7 Pt. IV para. 12](schedule/7/part/IV/paragraph/12.md)
+    - [Sch. 7 Pt. IV para. 13](schedule/7/part/IV/paragraph/13.md)
+    - [Sch. 7 Pt. IV para. 14](schedule/7/part/IV/paragraph/14.md)
+  - Part V Protection of RTZ Estates Limited
+    - [Sch. 7 Pt. V para. 1](schedule/7/part/V/paragraph/1.md)
+    - [Sch. 7 Pt. V para. 2](schedule/7/part/V/paragraph/2.md)
+    - [Sch. 7 Pt. V para. 3](schedule/7/part/V/paragraph/3.md)
