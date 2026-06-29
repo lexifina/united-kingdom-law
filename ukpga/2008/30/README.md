@@ -1,0 +1,469 @@
+# Pensions Act 2008
+
+2008 c. 30. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 79 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
+
+Source: https://www.legislation.gov.uk/ukpga/2008/30/2026-06-29
+
+## Contents
+
+- Part 1 Pension scheme membership for jobholders
+  - Chapter 1 Employers’ duties
+    - Jobholders
+      - [s. 1 Jobholders](section/1.md)
+    - Employers’ duties
+      - [s. 2 Continuity of scheme membership](section/2.md)
+      - [s. 3 Automatic enrolment](section/3.md)
+      - [s. 4 Postponement or disapplication of automatic enrolment](section/4.md)
+      - [s. 5 Automatic re-enrolment](section/5.md)
+      - [s. 6 Timing of automatic re-enrolment](section/6.md)
+      - [s. 7 Jobholder’s right to opt in](section/7.md)
+      - [s. 8 Jobholder’s right to opt out](section/8.md)
+    - Duty in relation to workers without qualifying earnings
+      - [s. 9 Workers without qualifying earnings](section/9.md)
+    - Supplementary provision about the duties
+      - [s. 10 Information to be given to workers](section/10.md)
+      - [s. 11 Information to be given to the Pensions Regulator](section/11.md)
+      - [s. 11A Information to be given to pension schemes](section/11A.md)
+      - [s. 12 Introduction of employers’ duties](section/12.md)
+    - Qualifying earnings and earnings trigger
+      - [s. 13 Qualifying earnings](section/13.md)
+      - [s. 14 Review of earnings trigger and qualifying earnings band](section/14.md)
+      - [s. 15 Pay reference period](section/15.md)
+      - [s. 15A Power to specify rounded figures](section/15A.md)
+    - Qualifying schemes and automatic enrolment schemes
+      - [s. 16 Qualifying schemes](section/16.md)
+      - [s. 17 Automatic enrolment schemes](section/17.md)
+      - [s. 18 Occupational pension schemes](section/18.md)
+      - [s. 19 Personal pension schemes](section/19.md)
+    - Quality requirements
+      - [s. 20 Quality requirement: UK money purchase schemes](section/20.md)
+      - [s. 21 Quality requirement: UK defined benefits schemes](section/21.md)
+      - [s. 22 Test scheme standard](section/22.md)
+      - [s. 23 Test scheme](section/23.md)
+      - [s. 23A Alternative quality requirements for UK defined benefits schemes](section/23A.md)
+      - [s. 24 Quality requirement: UK hybrid schemes](section/24.md)
+      - [s. 25 Quality requirement: non-UK occupational pension schemes](section/25.md)
+      - [s. 26 Quality requirement: UK personal pension schemes](section/26.md)
+      - [s. 27 Quality requirement: other personal pension schemes](section/27.md)
+      - [s. 28 Certification that quality requirement or alternative requirement is satisfied](section/28.md)
+      - [s. 28A MSDA approval: relevant Master Trusts](section/28A.md)
+      - [s. 28B MSDA approval: group personal pension scheme](section/28B.md)
+      - [s. 28C Approvals in respect of asset allocation](section/28C.md)
+      - [s. 28D Information](section/28D.md)
+      - [s. 28E Transition pathway relief](section/28E.md)
+      - [s. 28F New entrant pathway relief](section/28F.md)
+      - [s. 28G Suspension of asset allocation requirement: savers’ interest test](section/28G.md)
+      - [s. 28H Risk notices](section/28H.md)
+      - [s. 28I Penalties](section/28I.md)
+      - [s. 28J Enforcement by the Financial Conduct Authority](section/28J.md)
+      - [s. 28K Report about effects of pension scheme consolidation](section/28K.md)
+      - [s. 28L Regulations about quality requirements](section/28L.md)
+    - Transitional
+      - [s. 29 Transitional periods for money purchase and personal pension schemes](section/29.md)
+      - [s. 30 Transitional period for defined benefits and hybrid schemes](section/30.md)
+      - [s. 30A Review of exercise of powers under section 28C](section/30A.md)
+    - Miscellaneous
+      - [s. 31 Effect of freezing order, assessment period or pause order](section/31.md)
+      - [s. 32 Power of trustees or managers to modify by resolution](section/32.md)
+      - [s. 33 Deduction of contributions](section/33.md)
+  - Chapter 2 Compliance
+    - Effect of failure to comply
+      - [s. 34 Effect of failure to comply](section/34.md)
+    - Compliance notices and unpaid contributions notices
+      - [s. 35 Compliance notices](section/35.md)
+      - [s. 36 Third party compliance notices](section/36.md)
+      - [s. 37 Unpaid contributions notices](section/37.md)
+      - [s. 38 Calculation and payment of contributions](section/38.md)
+      - [s. 39 Meaning of “relevant contributions”](section/39.md)
+    - Penalty notices
+      - [s. 40 Fixed penalty notices](section/40.md)
+      - [s. 41 Escalating penalty notices](section/41.md)
+      - [s. 42 Penalty notices: recovery](section/42.md)
+    - Reviews and references
+      - [s. 43 Review of notices](section/43.md)
+      - [s. 44 References to First-tier Tribunal or Upper Tribunal](section/44.md)
+    - Offences and monitoring
+      - [s. 45 Offences of failing to comply](section/45.md)
+      - [s. 46 Offences by bodies corporate](section/46.md)
+      - [s. 47 Offences by partnerships and unincorporated associations](section/47.md)
+      - [s. 48 Offences of providing false or misleading information](section/48.md)
+      - [s. 49 Monitoring of employers’ payments to personal pension schemes](section/49.md)
+  - Chapter 3 Safeguards: employment and pre-employment
+    - Prohibited recruitment conduct
+      - [s. 50 Prohibited recruitment conduct](section/50.md)
+      - [s. 51 Compliance notices](section/51.md)
+      - [s. 52 Penalty notices](section/52.md)
+      - [s. 53 Review of notices and references to First-tier Tribunal or Upper Tribunal](section/53.md)
+    - Inducements
+      - [s. 54 Inducements](section/54.md)
+    - Protection of employment rights
+      - [s. 55 The right not to suffer detriment](section/55.md)
+      - [s. 56 Enforcement of the right](section/56.md)
+      - [s. 57 Right of employee not to be unfairly dismissed](section/57.md)
+      - [s. 58 Restrictions on agreements to limit operation of this Part](section/58.md)
+    - Employment Appeal Tribunal
+      - [s. 59 Employment Appeal Tribunal](section/59.md)
+  - Chapter 4 Supplementary provision about compliance and information-sharing
+    - Records and information
+      - [s. 60 Requirement to keep records](section/60.md)
+      - [s. 61 Powers to require information and to enter premises](section/61.md)
+      - [s. 62 Disclosure of tax information etc](section/62.md)
+      - [s. 63 Information for private pensions policy and retirement planning](section/63.md)
+      - [s. 64 Penalty for disclosure](section/64.md)
+    - Objectives of the Regulator
+      - [s. 65 Objectives of the Regulator](section/65.md)
+    - Functions of the Pensions Ombudsman
+      - [s. 66 Functions of the Pensions Ombudsman](section/66.md)
+  - Chapter 5 Duty to establish a pension scheme
+    - Pension scheme
+      - [s. 67 Duty to establish a pension scheme](section/67.md)
+      - [s. 68 Scheme orders: general](section/68.md)
+      - [s. 69 Consultation of members and employers](section/69.md)
+      - [s. 70 Contribution limits](section/70.md)
+      - [s. 71 Procedure for scheme orders](section/71.md)
+      - [s. 72 Procedure for rules](section/72.md)
+      - [s. 73 Application of enactments](section/73.md)
+      - [s. 74 Review](section/74.md)
+    - Trustee corporation
+      - [s. 75 Trustee corporation](section/75.md)
+      - [s. 76 Functions](section/76.md)
+      - [s. 77 Application of pension trustee legislation](section/77.md)
+    - Interpretation
+      - [s. 78 Interpretation of Chapter](section/78.md)
+  - Chapter 6 Personal Accounts Delivery Authority
+    - Functions
+      - [s. 79 Functions](section/79.md)
+      - [s. 80 Principles](section/80.md)
+      - [s. 81 Directions and guidance](section/81.md)
+      - [s. 82 Finance](section/82.md)
+      - [s. 83 Disclosure of information by the Regulator](section/83.md)
+    - Constitution
+      - [s. 84 Non-executive committee](section/84.md)
+      - [s. 85 Executive members](section/85.md)
+    - Winding up
+      - [s. 86 Winding up of the Authority](section/86.md)
+  - Chapter 7 Stakeholder pension schemes
+    - [s. 87 Stakeholder pension schemes](section/87.md)
+  - Chapter 8 Application and interpretation
+    - Exceptions
+      - [s. 87A Power to create exceptions from the employer duties etc](section/87A.md)
+    - Workers
+      - [s. 88 “Employer”, “worker” and related expressions](section/88.md)
+      - [s. 89 Agency workers](section/89.md)
+      - [s. 90 Directors](section/90.md)
+      - [s. 91 Crown employment](section/91.md)
+      - [s. 92 Armed forces](section/92.md)
+      - [s. 93 House of Lords staff](section/93.md)
+      - [s. 94 House of Commons staff](section/94.md)
+      - [s. 95 Police](section/95.md)
+      - [s. 96 Persons working on vessels](section/96.md)
+      - [s. 97 Persons in offshore employment](section/97.md)
+      - [s. 98 Extension of definition of worker](section/98.md)
+    - General
+      - [s. 99 Interpretation of Part](section/99.md)
+      - [s. 99A Money purchase benefits: supplementary](section/99A.md)
+- Part 2 Simplification etc
+  - Private pensions
+    - [s. 100 Abolition of safeguarded rights](section/100.md)
+    - [s. 101 Revaluation of accrued benefits etc](section/101.md)
+  - State pensions etc
+    - [s. 102 Consolidation of additional pension](section/102.md)
+    - [s. 103 Effect of entitlement to guaranteed minimum pension](section/103.md)
+    - [s. 104 Additional pension etc: minor and consequential amendments](section/104.md)
+    - [s. 105 State pension credit: extension of assessed income period for those aged 75 or over](section/105.md)
+    - [s. 106 Contracting-out: abolition of all protected rights](section/106.md)
+- Part 3 Pension compensation
+  - Chapter 1 Pension compensation on divorce etc
+    - [s. 107 Scope of mechanism](section/107.md)
+    - [s. 108 Interpretation](section/108.md)
+    - [s. 109 Activation of pension compensation sharing](section/109.md)
+    - [s. 110 Activation of pension compensation sharing: supplementary (Scotland)](section/110.md)
+    - [s. 111 Creation of pension compensation debits and credits](section/111.md)
+    - [s. 112 Cash equivalents](section/112.md)
+    - [s. 113 Reduction of compensation](section/113.md)
+    - [s. 114 Time for discharge of liability](section/114.md)
+    - [s. 115 “Implementation period”](section/115.md)
+    - [s. 116 Discharge of liability](section/116.md)
+    - [s. 117 Charges in respect of pension compensation sharing costs](section/117.md)
+    - [s. 118 Supply of information about pension compensation in relation to divorce etc](section/118.md)
+    - [s. 119 Supply of information about pension compensation sharing](section/119.md)
+    - [s. 120 Pension compensation sharing and attachment on divorce etc](section/120.md)
+  - Chapter 2 Other provision about pension compensation
+    - [s. 121 Charges in respect of pension sharing etc](section/121.md)
+    - [s. 122 Amendments of Schedule 7 to the Pensions Act 2004](section/122.md)
+    - [s. 123 Consequential amendments](section/123.md)
+- Part 4 Financial assistance scheme
+  - [s. 124 Financial assistance scheme](section/124.md)
+  - [s. 125 Restriction on purchase of annuities](section/125.md)
+- Part 5 Miscellaneous
+  - Miscellaneous provision relating to pensions
+    - [s. 126 Amendments of provisions of Pensions Act 2004 relating to contribution notices or financial support directions](section/126.md)
+    - [s. 127 Review of the initial operation of sections 38A and 38B of Pensions Act 2004](section/127.md)
+    - [s. 128 Pension sharing: power of Court of Session to extend time limits](section/128.md)
+    - [s. 129 Interest on late payment of levies](section/129.md)
+    - [s. 130 Payments to employers](section/130.md)
+    - [s. 131 Appointment of trustees](section/131.md)
+    - [s. 132 Intervention by Regulator where scheme’s technical provisions improperly determined](section/132.md)
+    - [s. 133 Delegation of powers by the Regulator](section/133.md)
+    - [s. 134 Exclusion of transfers out in certain cases](section/134.md)
+  - State and official pensions
+    - [s. 135 Additional Class 3 contributions](section/135.md)
+    - [s. 136 Additional Class 3 contributions (Northern Ireland)](section/136.md)
+    - [s. 137 Official pensions: adjustment of increases in survivors’ pensions](section/137.md)
+    - [s. 138 War pensions: effect of later marriage or civil partnership](section/138.md)
+    - [s. 139 Polish Resettlement Act 1947: effect of residence in Poland](section/139.md)
+    - [s. 140 Pre-1948 insurance affecting German pension entitlement](section/140.md)
+    - [s. 141 Pre-1948 insurance: supplementary](section/141.md)
+  - Information relating to state pension credit recipients
+    - [s. 142 Disclosure of information relating to state pension credit recipients](section/142.md)
+- Part 6 General
+  - [s. 143 Orders and regulations](section/143.md)
+  - [s. 144 Orders and regulations: supplementary](section/144.md)
+  - [s. 144A Service of documents and electronic working](section/144A.md)
+  - [s. 145 Power to make further provision](section/145.md)
+  - [s. 146 Pre-consolidation amendments](section/146.md)
+  - [s. 147 General financial provisions](section/147.md)
+  - [s. 148 Repeals](section/148.md)
+  - [s. 149 Commencement](section/149.md)
+  - [s. 150 Extent](section/150.md)
+  - [s. 151 Short title](section/151.md)
+- SCHEDULE 1 The trustee corporation
+  - Part 1 Members and employees
+    - Members
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Conflicts of interest
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Disqualification and removal
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Tenure of office
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Remuneration etc
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Staff
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part 2 Proceedings etc
+    - Committees and advisory committees
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Proceedings
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Disqualification for acting in relation to certain matters
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Delegation
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Validity of proceedings
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Authentication of the trustee corporation’s seal
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Annual report
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part 3 Money
+    - Finance
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Accounts
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Part 4 Supplementary
+    - Disqualification
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Records and freedom of information
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Equality
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Interpretation
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+- SCHEDULE 2 Revaluation of accrued benefits etc
+  - Part 1 Revaluation of accrued pension benefits
+    - Amendments to Schedule 3 to the 1993 Act
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part 2 Revaluation of accrued amounts etc
+    - Amendments to Schedule 7 to the 2004 Act
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Part 3 Consequential amendments
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Consolidation of additional pension
+- SCHEDULE 4 Additional pension etc: minor and consequential amendments
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+- SCHEDULE 5 Pension compensation payable on discharge of pension compensation credit
+  - Part 1 Introductory
+    - Introductory
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Interpretation
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Pension compensation age
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part 2 Transferee attains pension compensation age before or on transfer day
+    - Compensation payable to transferee
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Compensation payable to widow, widower or surviving civil partner
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part 3 Transferee attains pension compensation age after transfer day
+    - Compensation payable to transferee
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Compensation payable to widow, widower or surviving civil partner
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Revaluation
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Commutation of periodic compensation
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Early payment of compensation
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Deferral of compensation
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Terminal illness lump sum: eligibility
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Terminal illness lump sum: application and evidence
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Terminal illness lump sum: determination of application
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Terminal illness lump sum: effect of successful application
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Terminal illness lump sum: information
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Part 4 Provisions applicable irrespective of age of transferee on transfer day
+    - Postponement of compensation
+      - [Sch. 5 para. 16A](schedule/5/paragraph/16A.md)
+    - Annual increase in periodic compensation
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Compensation cap
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Compensation in form of dependant’s benefits
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Board’s power to alter rates of revaluation and indexation
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 Pension compensation on divorce etc: England and Wales
+  - Part 1 Amendments of the Matrimonial Causes Act 1973
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Part 2 Amendments of the Matrimonial and Family Proceedings Act 1984
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Part 3 Amendments of the Civil Partnership Act 2004
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+- SCHEDULE 7 Pension compensation on divorce etc: Scotland
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Amendments of Schedule 7 to the Pensions Act 2004
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+- SCHEDULE 9 Contribution notices and financial support directions under Pensions Act 2004
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Contribution notices: material detriment test
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Contribution notices: acting or failing to act otherwise than in good faith
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Whether reasonable for Pensions Regulator to issue contribution notice
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Contribution notices: series of acts or failures to act
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Contribution notices and financial support directions: bulk transfers
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Financial support directions: meaning of “insufficiently resourced”
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Effect of amendments made by this Schedule
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Transitional provision
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Interest on late payment of levies
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Pensions Act 2004 (c. 35)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- SCHEDULE 11 Repeals
+  - Part 1 Pension scheme membership for jobholders
+  - Part 2 Safeguarded rights
+  - Part 3 Contracting-out: abolition of all protected rights
+  - Part 4 Pension compensation
+  - Part 5 Financial assistance scheme
+  - Part 6 Miscellaneous
