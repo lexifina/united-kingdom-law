@@ -1,0 +1,473 @@
+# Local Government Act 2000
+
+2000 c. 22. Enacted 2000-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 52 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
+
+Source: https://www.legislation.gov.uk/ukpga/2000/22/2026-06-29
+
+## Contents
+
+- Part I Promotion of economic, social or environmental well-being etc
+  - Interpretation
+    - [s. 1 Meaning of “local authority” in Part I.](section/1.md)
+  - Promotion of well-being
+    - [s. 2 Promotion of well-being by community councils.](section/2.md)
+    - [s. 3 Limits on power to promote well-being.](section/3.md)
+    - [s. 4 Strategies for promoting well-being.](section/4.md)
+    - [s. 4A Strategies: parishes](section/4A.md)
+    - [s. 5 Power to amend or repeal enactments.](section/5.md)
+  - Modification of certain enactments
+    - [s. 6 Power to modify enactments concerning plans etc.](section/6.md)
+    - [s. 7 Power to modify enactments concerning plans etc: Wales.](section/7.md)
+    - [s. 8 Modification of section 137 of the 1972 Act.](section/8.md)
+  - Procedure for orders under this Part
+    - [s. 9 Procedure for orders made by the Secretary of State under section 6.](section/9.md)
+    - [s. 9A Procedure for orders made by the Welsh Ministers under section ... 7](section/9A.md)
+- PART 1A Arrangements with respect to local authority governance in England
+  - CHAPTER 1 Permitted forms of governance
+    - [s. 9B Permitted forms of governance for local authorities in England](section/9B.md)
+    - [s. 9BA Power of Secretary of State to prescribe additional permitted governance arrangements](section/9BA.md)
+  - CHAPTER 2 Executive arrangements
+    - Local authority executives
+      - [s. 9C Local authority executives](section/9C.md)
+    - Executive functions
+      - [s. 9D Functions which are the responsibility of an executive](section/9D.md)
+      - [s. 9DA Functions of an executive: further provision](section/9DA.md)
+    - Discharge of functions
+      - [s. 9E Discharge of functions: general](section/9E.md)
+      - [s. 9EA Discharge of functions of and by another local authority](section/9EA.md)
+      - [s. 9EB Joint exercise of functions](section/9EB.md)
+    - Overview and scrutiny committees
+      - [s. 9F Overview and scrutiny committees: functions](section/9F.md)
+      - [s. 9FA Overview and scrutiny committees: supplementary provision](section/9FA.md)
+      - [s. 9FB Scrutiny officers](section/9FB.md)
+      - [s. 9FC Reference of matters to overview and scrutiny committee etc](section/9FC.md)
+      - [s. 9FD Dealing with references under section 9FC(1)(c)](section/9FD.md)
+      - [s. 9FE Duty of authority or executive to respond to overview and scrutiny committee](section/9FE.md)
+      - [s. 9FF Reports and recommendations of overview and scrutiny committees: duties of certain partner authorities](section/9FF.md)
+      - [s. 9FG Publication etc of reports, recommendations and responses: confidential and exempt information](section/9FG.md)
+      - [s. 9FH Overview and scrutiny committees: flood risk management](section/9FH.md)
+      - [s. 9FI Overview and scrutiny committees: provision of information etc by certain partner authorities](section/9FI.md)
+    - Further provision in relation to executives
+      - [s. 9G Meetings and access to information etc](section/9G.md)
+      - [s. 9GA Meetings and access to information etc: further provision and regulations](section/9GA.md)
+      - [s. 9GB Further provision](section/9GB.md)
+      - [s. 9GC Absence of requirement for political balance](section/9GC.md)
+    - Elected mayors etc
+      - [s. 9H Elected mayors etc](section/9H.md)
+      - [s. 9HA Election as elected mayor and councillor](section/9HA.md)
+      - [s. 9HB Time of elections etc](section/9HB.md)
+      - [s. 9HC Voting at elections of elected mayors](section/9HC.md)
+      - [s. 9HD Entitlement to vote](section/9HD.md)
+      - [s. 9HE Power to make provision about elections](section/9HE.md)
+      - [s. 9HF Alternative mayoral titles](section/9HF.md)
+      - [s. 9HG Alternative mayoral titles: further changes](section/9HG.md)
+    - Leader and cabinet executives (England)
+      - [s. 9I Election and term of office of leader](section/9I.md)
+      - [s. 9IA Removal of leader](section/9IA.md)
+      - [s. 9IB Leader to continue to hold office as councillor](section/9IB.md)
+      - [s. 9IC No other means of removing leader](section/9IC.md)
+      - [s. 9ID Regulations](section/9ID.md)
+  - CHAPTER 3 The committee system
+    - [s. 9J Secretary of State’s power to prohibit delegation of functions etc](section/9J.md)
+    - [s. 9JA Overview and scrutiny committee](section/9JA.md)
+    - [s. 9JB Overview and scrutiny: flood risk management](section/9JB.md)
+  - CHAPTER 4 Changing governance arrangements
+    - Changes to governance arrangements by local authorities: general provision
+      - [s. 9K Committee system: change to leader and cabinet executive](section/9K.md)
+      - [s. 9KA Mayor and cabinet executive: adoption of leader and cabinet executive](section/9KA.md)
+      - [s. 9KAA Duty to retain leader and cabinet executive](section/9KAA.md)
+      - [s. 9KB Executive arrangements: other variation of arrangements](section/9KB.md)
+      - [s. 9KC Resolution of local authority](section/9KC.md)
+    - Implementation of certain changes to governance arrangements
+      - [s. 9L Implementation: change in form of governance or change in form of executive](section/9L.md)
+    - Referendums
+      - [s. 9M Cases in which change is subject to approval in a referendum in accordance with sections 9MA and 9MB](section/9M.md)
+      - [s. 9MA Referendum: proposals by local authority](section/9MA.md)
+      - [s. 9MB Requirement to hold and give effect to referendum](section/9MB.md)
+      - [s. 9MC Referendum following petition](section/9MC.md)
+      - [s. 9MD Referendum following direction](section/9MD.md)
+      - [s. 9ME Referendum following order](section/9ME.md)
+      - [s. 9MF Further provision with respect to referendums](section/9MF.md)
+      - [s. 9MG Voting in and conduct of referendums](section/9MG.md)
+    - Further provisions as to mayor and cabinet executive
+      - [s. 9N Requiring referendum on change to mayor and cabinet executive](section/9N.md)
+      - [s. 9NA Effect of section 9N order](section/9NA.md)
+      - [s. 9NB Variation of mayoral executive](section/9NB.md)
+    - Transfer of functions: changes in governance arrangements
+      - [s. 9NC Transfer of functions: changes in governance arrangements not subject to a referendum](section/9NC.md)
+      - [s. 9ND Transfer of functions: changes in governance arrangements subject to a referendum](section/9ND.md)
+    - Miscellaneous
+      - [s. 9O General](section/9O.md)
+      - [s. 9OA Interpretation](section/9OA.md)
+  - CHAPTER 5 Supplementary
+    - Local authority constitution
+      - [s. 9P Local authority constitution](section/9P.md)
+    - Guidance
+      - [s. 9Q Guidance](section/9Q.md)
+    - Interpretation
+      - [s. 9R Interpretation of Part 1A](section/9R.md)
+- Part II Local authorities in Wales: arrangements with respect to executives etc.
+  - Executive arrangements
+    - [s. 10 Executive arrangements.](section/10.md)
+  - Local authority executives
+    - [s. 11 Local authority executives.](section/11.md)
+    - [s. 12 Additional forms of executive.](section/12.md)
+  - Executive functions
+    - [s. 13 Functions which are the responsibility of an executive.](section/13.md)
+  - Provisions with respect to executive arrangements
+    - [s. 14 Discharge of functions: mayor and cabinet executive](section/14.md)
+    - [s. 15 Discharge of functions: leader and cabinet executive (Wales)](section/15.md)
+    - [s. 16 Discharge of functions: mayor and council manager executive.](section/16.md)
+    - [s. 17 Discharge of functions: s. 11(5) executive.](section/17.md)
+    - [s. 18 Discharge of functions by area committees.](section/18.md)
+    - [s. 19 Discharge of functions of and by another local authority.](section/19.md)
+    - [s. 20 Joint exercise of functions.](section/20.md)
+    - [s. 21 Overview and scrutiny committees.](section/21.md)
+    - [s. 21ZA Scrutiny officers](section/21ZA.md)
+    - [s. 21A Reference of matters to overview and scrutiny committee etc](section/21A.md)
+    - [s. 21B Duty of authority or executive to respond to overview and scrutiny committee](section/21B.md)
+    - [s. 21C Reports and recommendations of overview and scrutiny committees: duties of certain partner authorities](section/21C.md)
+    - [s. 21D Publication etc of reports, recommendations and responses: confidential and exempt information](section/21D.md)
+    - [s. 21E Overview and scrutiny committees of certain district councils: functions with respect to partner authorities](section/21E.md)
+    - [s. 21F Overview and scrutiny committees: flood risk management](section/21F.md)
+    - [s. 21G Designated persons](section/21G.md)
+    - [s. 22 Access to information etc.](section/22.md)
+    - [s. 22A Overview and scrutiny committees of certain authorities in England: provision of information etc by certain partner authorities](section/22A.md)
+    - [s. 23 Further provision.](section/23.md)
+    - [s. 24 Absence of requirement for political balance.](section/24.md)
+  - Procedure with respect to operation of executive arrangements
+    - [s. 25 Proposals.](section/25.md)
+    - [s. 26 Proposals not requiring referendum.](section/26.md)
+    - [s. 27 Referendum in case of proposals involving elected mayor.](section/27.md)
+    - [s. 28 Approval of outline fall-back proposals.](section/28.md)
+    - [s. 29 Operation of, and publicity for, executive arrangements.](section/29.md)
+    - [s. 30 Operation of different executive arrangements.](section/30.md)
+  - Alternative arrangements.
+    - [s. 31 Alternative arrangements in case of certain local authorities.](section/31.md)
+    - [s. 32 Alternative arrangements.](section/32.md)
+    - [s. 33 Operation of alternative arrangements.](section/33.md)
+  - Changing governance arrangements: general provisions
+    - [s. 33ZA Changing governance arrangements](section/33ZA.md)
+    - [s. 33A Executive arrangements: different form of executive](section/33A.md)
+    - [s. 33B Executive arrangements: other variation of arrangements](section/33B.md)
+    - [s. 33C Alternative arrangements: move to executive arrangements](section/33C.md)
+    - [s. 33D Alternative arrangements: variation of arrangements](section/33D.md)
+    - [s. 33E Proposals by local authority](section/33E.md)
+    - [s. 33F Resolution of local authority](section/33F.md)
+    - [s. 33G Implementation: new executive or move to executive arrangements](section/33G.md)
+    - [s. 33H Implementation: other change in governance arrangements](section/33H.md)
+    - [s. 33I General](section/33I.md)
+  - ...
+    - [s. 33J New form of executive or move to executive: general requirements](section/33J.md)
+    - [s. 33K Changes subject to approval in a referendum: additional requirements](section/33K.md)
+    - [s. 33L Change not subject to approval in a referendum: additional requirements](section/33L.md)
+    - [s. 33M Cases in which change subject to approval in referendum](section/33M.md)
+    - [s. 33N Variation of mayoral executive](section/33N.md)
+  - ...
+    - [s. 33O Interpretation](section/33O.md)
+  - Referendums
+    - [s. 34 Referendum following petition.](section/34.md)
+    - [s. 35 Referendum following direction.](section/35.md)
+    - [s. 36 Referendum following order.](section/36.md)
+  - Local authority constitution
+    - [s. 37 Local authority constitution.](section/37.md)
+  - Guidance
+    - [s. 38 Guidance.](section/38.md)
+  - Elected mayors etc.
+    - [s. 39 Elected mayors etc.](section/39.md)
+    - [s. 40 Election as elected mayor and councillor.](section/40.md)
+    - [s. 41 Time of elections etc.](section/41.md)
+    - [s. 42 Voting at elections of elected mayors.](section/42.md)
+    - [s. 43 Entitlement to vote.](section/43.md)
+    - [s. 44 Power to make provision about elections.](section/44.md)
+  - ...
+    - [s. 44A Election of leader: whole-council elections](section/44A.md)
+    - [s. 44B Election of leader: partial-council elections](section/44B.md)
+    - [s. 44C Removal of leader](section/44C.md)
+    - [s. 44D Term of office of leader: whole-council elections](section/44D.md)
+    - [s. 44E Term of office of leader: partial-council elections](section/44E.md)
+    - [s. 44F Leader to continue to hold office as councillor](section/44F.md)
+    - [s. 44G No other means of electing or removing leader](section/44G.md)
+    - [s. 44H Regulations](section/44H.md)
+  - Provisions with respect to referendums
+    - [s. 45 Provisions with respect to referendums.](section/45.md)
+  - Amendments to the 1972 Act
+    - [s. 46 Amendments to the 1972 Act.](section/46.md)
+  - Power to make further provision
+    - [s. 47 Power to make incidental, consequential provision etc.](section/47.md)
+  - Interpretation
+    - [s. 48 Interpretation of Part II.](section/48.md)
+    - [s. 48A Functions of the Lord President of the Council](section/48A.md)
+- Part III Conduct of local government members and employees
+  - Chapter I Conduct of members
+    - Standards of conduct
+      - [s. 49 Principles governing conduct of members of relevant authorities.](section/49.md)
+      - [s. 50 Model code of conduct.](section/50.md)
+      - [s. 51 Duty of relevant authorities to adopt codes of conduct.](section/51.md)
+      - [s. 52 Duty to comply with code of conduct.](section/52.md)
+      - [s. 52A County and county borough councils: duties of leaders of political groups in relation to standards of conduct](section/52A.md)
+      - [s. 52ZA Duty to comply with code of conduct for corporate joint committees](section/52ZA.md)
+    - Standards committees
+      - [s. 53 Standards committees.](section/53.md)
+      - [s. 54 Functions of standards committees.](section/54.md)
+      - [s. 54A Sub-committees of standards committees](section/54A.md)
+      - [s. 55 Standards committees ... for parish councils.](section/55.md)
+      - [s. 56 Standards committees or sub-committees for community councils.](section/56.md)
+      - [s. 56A Joint committees of relevant authorities in England](section/56A.md)
+      - [s. 56B Annual reports by standards committees](section/56B.md)
+  - Chapter II Investigations etc: England
+    - Standards Board for England
+      - [s. 57 Standards Board for England.](section/57.md)
+    - Written allegations
+      - [s. 57A Written allegations: right to make, and initial assessment](section/57A.md)
+      - [s. 57B Right to request review of decision not to act](section/57B.md)
+      - [s. 57C Information to be given to subject of allegation](section/57C.md)
+      - [s. 57D Power to suspend standards committee’s functions](section/57D.md)
+      - [s. 58 Allegations referred to Standards Board](section/58.md)
+    - Functions of ethical standards officers
+      - [s. 59 Functions of ethical standards officers.](section/59.md)
+    - Investigations by ethical standards officers
+      - [s. 60 Conduct of investigations.](section/60.md)
+      - [s. 61 Procedure in respect of investigations.](section/61.md)
+      - [s. 62 Investigations: further provisions.](section/62.md)
+      - [s. 63 Restrictions on disclosure of information.](section/63.md)
+    - Reports etc. by ethical standards officers
+      - [s. 64 Reports etc.](section/64.md)
+      - [s. 65 Interim reports.](section/65.md)
+      - [s. 65A Disclosure by monitoring officers of ethical standards officers’ reports](section/65A.md)
+    - References to monitoring officers
+      - [s. 66 Matters referred to monitoring officers.](section/66.md)
+      - [s. 66A References to First-tier Tribunal for action in respect of misconduct](section/66A.md)
+    - Information to be provided to Standards Board by relevant authority
+      - [s. 66B Periodic returns](section/66B.md)
+      - [s. 66C Information requests](section/66C.md)
+    - Consultation with ombudsmen
+      - [s. 67 Consultation with ombudsmen.](section/67.md)
+  - Chapter III Investigations etc: Wales
+    - Public Services Ombudsman for Wales
+      - [s. 68 Public Services Ombudsman for Wales.](section/68.md)
+    - Investigations
+      - [s. 69 Investigations by the Public Services Ombudsman for Wales.](section/69.md)
+      - [s. 69A Possible conflict of interest in an investigation](section/69A.md)
+      - [s. 69B Investigation procedure](section/69B.md)
+      - [s. 69C Information, documents, evidence and facilities](section/69C.md)
+      - [s. 69D Obstruction and contempt](section/69D.md)
+      - [s. 69E Disclosure of information](section/69E.md)
+      - [s. 69F Power of the Welsh Ministers to amend this Chapter](section/69F.md)
+      - [s. 70 Ceasing investigations etc.](section/70.md)
+    - Reports etc.
+      - [s. 71 Reports etc.](section/71.md)
+      - [s. 72 Interim reports.](section/72.md)
+    - References to monitoring officers
+      - [s. 73 Matters referred to monitoring officers.](section/73.md)
+    - Law of defamation
+      - [s. 74n1 Law of defamation: absolute privilege](section/74n1.md)
+  - Chapter IV Adjudications
+    - The Adjudication Panel for Wales
+      - [s. 75 Adjudication Panel for Wales.](section/75.md)
+    - Case tribunals and interim case tribunals
+      - [s. 76 Case tribunals and interim case tribunals.](section/76.md)
+    - Adjudications
+      - [s. 77 Adjudications.](section/77.md)
+      - [s. 78 Decisions of ... interim case tribunals.](section/78.md)
+      - [s. 78A Decisions of First-tier Tribunal](section/78A.md)
+      - [s. 78B Section 78A: supplementary](section/78B.md)
+      - [s. 79 Decisions of case tribunals: Wales.](section/79.md)
+      - [s. 80 Recommendations by ... case tribunals.](section/80.md)
+  - Chapter V Supplementary
+    - Disclosure and registration of members’ interests etc.
+      - [s. 81 Disclosure and registration of members’ interests etc.](section/81.md)
+    - Code of conduct for local government employees
+      - [s. 82 Code of conduct for local government employees.](section/82.md)
+    - Delegation by monitoring officers
+      - [s. 82A Monitoring officers: delegation of functions under Part 3](section/82A.md)
+    - Interpretation
+      - [s. 83 Interpretation of Part III.](section/83.md)
+- Part IV Elections
+  - [s. 84 Meaning of “local authority” and “principal council” in Part IV.](section/84.md)
+  - [s. 85 Options for elections England.](section/85.md)
+  - [s. 86 Power to specify a scheme for elections.](section/86.md)
+  - [s. 87 Power to change years in which elections held.](section/87.md)
+  - [s. 88 Separate power to make incidental provisions etc.](section/88.md)
+  - [s. 89 Consequential electoral changes.](section/89.md)
+- Part V Miscellaneous
+  - Surcharge etc.
+    - [s. 90 Surcharge etc.](section/90.md)
+    - [s. 91 Advisory notices.](section/91.md)
+  - Maladministration etc.
+    - [s. 92 Payments in cases of maladministration etc.](section/92.md)
+  - Welfare services
+    - [s. 93 Grants for welfare services.](section/93.md)
+    - [s. 94 Disclosure of information.](section/94.md)
+    - [s. 95 Unauthorised disclosure of information.](section/95.md)
+    - [s. 96 Housing benefit.](section/96.md)
+  - Access to information
+    - [s. 97 Background papers.](section/97.md)
+    - [s. 98 Meetings and documents: notice etc.](section/98.md)
+  - Allowances and pensions
+    - [s. 99 Allowances and pensions for certain local authority members.](section/99.md)
+    - [s. 100 Power to make provision about allowances.](section/100.md)
+  - Indemnification of members and officers of relevant authorities
+    - [s. 101 Indemnification of members and officers of relevant authorities.](section/101.md)
+  - Social services functions
+    - [s. 102 Social services functions.](section/102.md)
+  - Recoupment by local authorities of cost of providing day care
+    - [s. 103 Recoupment by local authorities of cost of providing day care.](section/103.md)
+  - Prohibition on promoting homosexuality: bullying
+    - [s. 104 Prohibition on promoting homosexuality: bullying.](section/104.md)
+- Part VI Supplemental
+  - [s. 105 Orders and regulations.](section/105.md)
+  - [s. 106 Wales.](section/106.md)
+  - [s. 107 Minor and consequential amendments and repeals.](section/107.md)
+  - [s. 108 Commencement.](section/108.md)
+  - [s. 109 Short title and extent.](section/109.md)
+- SCHEDULE A1 Executive arrangements in England: further provision
+  - Mayor and cabinet executives
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Leader and cabinet executives (England)
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Procedure
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Meetings of executives and executive committees
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Attendance of police and crime commissioner at meetings
+    - [Sch. A1 para. 4A](schedule/A1/paragraph/4A.md)
+  - Mayor’s assistant
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Overview and scrutiny committees: education functions
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+  - Overview and scrutiny committees: voting rights of co-opted members
+    - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+- SCHEDULE 1 Executive arrangements in Wales: further provision
+  - Mayor and cabinet executives
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - ...
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - Leader and cabinet executives (Wales)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Appointment of councillors to executive to share the same position
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - Voting and quorum where members of executive share their position
+    - [Sch. 1 para. 2B](schedule/1/paragraph/2B.md)
+  - Mayor and council manager executives
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Assistants to the executive
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+  - Procedure
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Meetings of executives and executive committees
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Mayor’s assistant
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Overview and scrutiny committees: education functions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+  - ...
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Election of elected mayor
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Candidate with overall majority of first preference votes
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - No candidate with overall majority of first preference votes
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Amendments to the 1972 Act
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Standards Board for England
+  - ...
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 9A](schedule/4/paragraph/9A.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Minor and Consequential Amendments
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Adoption Act 1976 (c. 36)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - National Health Service Act 1977 (c. 49)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Registered Homes Act 1984 (c. 23)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - Local Government and Housing 1989 (c. 42)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+- SCHEDULE 6 Repeals

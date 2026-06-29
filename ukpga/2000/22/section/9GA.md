@@ -1,0 +1,61 @@
+---
+title: Local Government Act 2000, s. 9GA
+heading: Meetings and access to information etc: further provision and regulations
+status: In force
+extent:
+version: 2011-12-03
+source: https://www.legislation.gov.uk/ukpga/2000/22/section/9GA/2011-12-03
+---
+
+# 9GA Meetings and access to information etc: further provision and regulations
+
+(1) Written records under section 9G(3) and (4), together with such reports, background papers or other documents as may be prescribed, must be made available to members of the public in accordance with regulations made by the Secretary of State.
+
+(2) Regulations under subsection (1) may make provision for or in connection with preventing the whole or part of any record or document containing prescribed information from being made available to members of the public.
+
+(3) The Secretary of State may by regulations make provision—
+
+- (a) with respect to the access of the public to meetings of joint committees, or sub-committees of such committees, at which decisions are made in connection with the discharge of functions which are the responsibility of executives (including provision enabling such meetings to be held in private),
+- (b) for or in connection with requiring written records to be kept of decisions made at meetings which by virtue of paragraph (a) are held in private,
+- (c) for or in connection with requiring written records falling within paragraph (b) to include reasons,
+- (d) for or in connection with requiring any such written records to be made available to members of the public,
+- (e) for or in connection with requiring documents connected with decisions to which any such written records relate to be made available to members of the public.
+
+(4) The Secretary of State may by regulations make provision—
+
+- (a) as to the circumstances in which meetings mentioned in section 9G(2), or particular proceedings at such meetings, must be open to the public,
+- (b) as to the circumstances in which meetings mentioned in section 9G(2), or particular proceedings at such meetings, must be held in private,
+- (c) with respect to the information which is to be included in written records kept by virtue of this section or section 9G,
+- (d) with respect to the reasons which are to be included in any such written records,
+- (e) with respect to the persons who are to produce, keep or make available any such written records,
+- (f) for or in connection with requiring any such written records to be made available to members of local authorities or to overview and scrutiny committees or sub-committees,
+- (g) for or in connection with requiring documents connected with decisions to which any such written records relate to be made available to members of local authorities or to overview and scrutiny committees or sub-committees,
+- (h) for or in connection with requiring information to be made available by electronic means,
+- (i) for or in connection with conferring rights on members of the public or members of local authorities, overview and scrutiny committees or sub-committees in relation to records or documents,
+- (j) for or in connection with the creation of offences in respect of any rights or requirements conferred or imposed by virtue of this section or section 9G.
+
+(5) The Secretary of State may by regulations make provision for or in connection with requiring prescribed information about prescribed decisions made in connection with the discharge of functions which are the responsibility of a local authority executive to be made available to members of the public or members of the authority.
+
+(6) The provision which may be made under subsection (5) includes provision—
+
+- (a) requiring prescribed information to be made available in advance of the prescribed decisions mentioned in that subsection,
+- (b) as to the way or form in which prescribed information is to be made available.
+
+(7) The Secretary of State may by regulations make provision which, in relation to meetings of—
+
+- (a) local authority executives or committees of such executives, or
+- (b) joint committees, or sub-committees of such committees, falling within subsection (3)(a),
+
+applies or reproduces (with or without modifications) any provisions of Part 5A of the Local Government Act 1972.
+
+(8) The Secretary of State may by regulations make provision, in relation to—
+
+- (a) the publication by executives of local authorities under section 9FE of responses to reports or recommendations of overview and scrutiny committees and sub-committees of such committees, or
+- (b) the provision by such executives under that section of copies of such responses,
+
+which applies or reproduces (with or without modifications) any provisions of section 9FG (confidential and exempt information).
+
+(9) In this section—
+
+  “joint committee” means a joint committee falling within section 101(5)(a) of the Local Government Act 1972,
+  “prescribed” means prescribed by regulations made by the Secretary of State.
