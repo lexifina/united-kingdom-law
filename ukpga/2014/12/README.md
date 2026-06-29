@@ -2,9 +2,9 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2025-09-10
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-06-29
 
 ## Contents
 
@@ -128,6 +128,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2025-09-10
       - [s. 81 Temporary orders](section/81.md)
       - [s. 82 Extension of closure orders](section/82.md)
       - [s. 83 Discharge of closure orders](section/83.md)
+      - [s. 83A Power of Secretary of State to change maximum duration of closure orders](section/83A.md)
     - Appeals
       - [s. 84 Appeals](section/84.md)
     - Enforcement
@@ -161,6 +162,8 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2025-09-10
   - Response to complaints about anti-social behaviour
     - [s. 104 Review of response to complaints](section/104.md)
     - [s. 105 ASB case reviews: interpretation](section/105.md)
+  - Information relating to anti-social behaviour
+    - [s. 105A Provision of information to Secretary of State](section/105A.md)
 - PART 7 Dangerous dogs
   - [s. 106 Keeping dogs under proper control](section/106.md)
   - [s. 107 Whether a dog is a danger to public safety](section/107.md)
