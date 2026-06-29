@@ -1,0 +1,775 @@
+# Licensing Act 2003
+
+2003 c. 17. Enacted 2003-07-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 47 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
+
+Source: https://www.legislation.gov.uk/ukpga/2003/17/2026-06-29
+
+## Contents
+
+- Part 1 Licensable activities
+  - [s. 1 Licensable activities and qualifying club activities](section/1.md)
+  - [s. 2 Authorisation for licensable activities and qualifying club activities](section/2.md)
+- Part 2 Licensing authorities
+  - The authorities
+    - [s. 3 Licensing authorities](section/3.md)
+  - Functions of licensing authorities etc.
+    - [s. 4 General duties of licensing authorities](section/4.md)
+    - [s. 5 Statement of licensing policy](section/5.md)
+    - [s. 5A Cumulative impact assessments](section/5A.md)
+    - [s. 6 Licensing committees](section/6.md)
+    - [s. 7 Exercise and delegation of functions](section/7.md)
+    - [s. 8 Requirement to keep a register](section/8.md)
+    - [s. 8A Greater London strategic licensing policy](section/8A.md)
+  - Licensing committees
+    - [s. 9 Proceedings of licensing committee](section/9.md)
+    - [s. 10 Sub-delegation of functions by licensing committee etc.](section/10.md)
+- Part 3 Premises licences
+  - Introductory
+    - [s. 11 Premises licence](section/11.md)
+    - [s. 12 The relevant licensing authority](section/12.md)
+    - [s. 13 Authorised persons... and responsible authorities](section/13.md)
+    - [s. 14 Meaning of “supply of alcohol”](section/14.md)
+    - [s. 15 Meaning of “designated premises supervisor”](section/15.md)
+  - Grant of premises licence
+    - [s. 16 Applicant for premises licence](section/16.md)
+    - [s. 17 Application for premises licence](section/17.md)
+    - [s. 17A Licence applications of potential strategic importance: Greater London](section/17A.md)
+    - [s. 18 Determination of application for premises licence](section/18.md)
+    - [s. 19 Mandatory conditions where licence authorises supply of alcohol](section/19.md)
+    - [s. 19A Power of Secretary of State to impose section 19(4) mandatory conditions](section/19A.md)
+    - [s. 20 Mandatory condition: exhibition of films](section/20.md)
+    - [s. 21 Mandatory condition: door supervision](section/21.md)
+    - [s. 22 Prohibited conditions: plays](section/22.md)
+    - [s. 23 Grant or rejection of application](section/23.md)
+    - [s. 24 Form of licence and summary](section/24.md)
+    - [s. 25 Theft, loss, etc. of premises licence or summary](section/25.md)
+    - [s. 25A Grant of premises licence: supply of alcohol from community premises](section/25A.md)
+  - Power of Mayor of London to determine licence applications
+    - [s. 25B Power of the Mayor of London to determine applications](section/25B.md)
+    - [s. 25C Directions by the Mayor of London](section/25C.md)
+    - [s. 25D Issue of licence etc by licensing authority](section/25D.md)
+  - Duration of licence
+    - [s. 26 Period of validity of premises licence](section/26.md)
+    - [s. 27 Death, incapacity, insolvency etc. of licence holder](section/27.md)
+    - [s. 28 Surrender of premises licence](section/28.md)
+  - Provisional statement
+    - [s. 29 Application for a provisional statement where premises being built, etc.](section/29.md)
+    - [s. 30 Advertisement of application for provisional statement](section/30.md)
+    - [s. 31 Determination of application for provisional statement](section/31.md)
+    - [s. 32 Restriction on representations following provisional statement](section/32.md)
+  - Duty to notify certain changes
+    - [s. 33 Notification of change of name or address](section/33.md)
+  - Variation of licences
+    - [s. 34 Application to vary premises licence](section/34.md)
+    - [s. 34A Applications to vary of potential strategic importance: Greater London](section/34A.md)
+    - [s. 35 Determination of application under section 34](section/35.md)
+    - [s. 36 Supplementary provision about determinations under section 35](section/36.md)
+    - [s. 37 Application to vary licence to specify individual as premises supervisor](section/37.md)
+    - [s. 38 Circumstances in which section 37 application given interim effect](section/38.md)
+    - [s. 39 Determination of section 37 application](section/39.md)
+    - [s. 40 Duty of applicant following determination under section 39](section/40.md)
+    - [s. 41 Request to be removed as designated premises supervisor](section/41.md)
+  - Power of Mayor of London to determine applications to vary
+    - [s. 41ZA Power of the Mayor of London to determine applications to vary](section/41ZA.md)
+    - [s. 41ZB Directions by the Mayor of London](section/41ZB.md)
+    - [s. 41ZC Intervening decision by a London licensing authority](section/41ZC.md)
+    - [s. 41ZD Notification by the London licensing authority](section/41ZD.md)
+  - Variation of licences: minor variations
+    - [s. 41A Application for minor variation of premises licence](section/41A.md)
+    - [s. 41B Determination of application under section 41A](section/41B.md)
+    - [s. 41C Supplementary provision about determinations under section 41B](section/41C.md)
+    - [s. 41D Variation of premises licence: supply of alcohol from community premises](section/41D.md)
+  - Transfer of premises licence
+    - [s. 42 Application for transfer of premises licence](section/42.md)
+    - [s. 43 Circumstances in which transfer application given interim effect](section/43.md)
+    - [s. 44 Determination of transfer application](section/44.md)
+    - [s. 45 Notification of determination under section 44](section/45.md)
+    - [s. 46 Duty to notify designated premises supervisor of transfer](section/46.md)
+  - Interim authority notices
+    - [s. 47 Interim authority notice following death etc. of licence holder](section/47.md)
+    - [s. 48 Cancellation of interim authority notice following ... objections](section/48.md)
+    - [s. 49 Supplementary provision about interim authority notices](section/49.md)
+  - Transfer following death etc. of licence holder
+    - [s. 50 Reinstatement of licence on transfer following death etc. of holder](section/50.md)
+  - Review of licences
+    - [s. 51 Application for review of premises licence](section/51.md)
+    - [s. 52 Determination of application for review](section/52.md)
+    - [s. 52A Review: supply of alcohol from community premises](section/52A.md)
+    - [s. 53 Supplementary provision about review](section/53.md)
+  - Summary reviews in serious cases of crime or disorder
+    - [s. 53A Summary reviews on application of senior police officer](section/53A.md)
+    - [s. 53B Interim steps pending review](section/53B.md)
+    - [s. 53C Review of premises licence following review notice](section/53C.md)
+    - [s. 53D Interim steps pending section 53C decision coming into effect](section/53D.md)
+  - General provision
+    - [s. 54 Form etc. of applications and notices under Part 3](section/54.md)
+    - [s. 55 Fees](section/55.md)
+    - [s. 55A Suspension of premises licence for failing to pay annual fee](section/55A.md)
+  - Production of licence, rights of entry, etc.
+    - [s. 56 Licensing authority’s duty to update licence document](section/56.md)
+    - [s. 57 Duty to keep and produce licenceetc.](section/57.md)
+    - [s. 58 Provision supplementary to section 57](section/58.md)
+    - [s. 59 Inspection of premises before grant of licence etc.](section/59.md)
+- Part 4 Clubs
+  - Introductory
+    - [s. 60 Club premises certificate](section/60.md)
+  - Qualifying clubs
+    - [s. 61 Qualifying clubs](section/61.md)
+    - [s. 62 The general conditions](section/62.md)
+    - [s. 63 Determining whether a club is established and conducted in good faith](section/63.md)
+    - [s. 64 The additional conditions for the supply of alcohol](section/64.md)
+    - [s. 65 Registered societies, friendly societies etc.](section/65.md)
+    - [s. 66 Miners’ welfare institutes](section/66.md)
+  - Interpretation
+    - [s. 67 Associate members and their guests](section/67.md)
+    - [s. 68 The relevant licensing authority](section/68.md)
+    - [s. 69 Authorised persons... and responsible authorities](section/69.md)
+    - [s. 70 Other definitions relating to clubs](section/70.md)
+  - Grant of club premises certificate
+    - [s. 71 Application for club premises certificate](section/71.md)
+    - [s. 72 Determination of application for club premises certificate](section/72.md)
+    - [s. 73 Certificate authorising supply of alcohol for consumption off the premises](section/73.md)
+    - [s. 73A Mandatory conditions relating to the supply of alcohol to members or guests](section/73A.md)
+    - [s. 73B Power of Secretary of State to impose section 73A mandatory conditions](section/73B.md)
+    - [s. 74 Mandatory condition: exhibition of films](section/74.md)
+    - [s. 75 Prohibited conditions: associate members and their guests](section/75.md)
+    - [s. 76 Prohibited conditions: plays](section/76.md)
+    - [s. 77 Grant or rejection of application for club premises certificate](section/77.md)
+    - [s. 78 Form of certificate and summary](section/78.md)
+    - [s. 79 Theft, loss, etc. of certificate or summary](section/79.md)
+  - Duration of certificate
+    - [s. 80 Period of validity of club premises certificate](section/80.md)
+    - [s. 81 Surrender of club premises certificate](section/81.md)
+  - Duty to notify certain changes
+    - [s. 82 Notification of change of name or alteration of rules of club](section/82.md)
+    - [s. 83 Change of relevant registered address of club](section/83.md)
+  - Variation of certificates
+    - [s. 84 Application to vary club premises certificate](section/84.md)
+    - [s. 85 Determination of application under section 84](section/85.md)
+    - [s. 86 Supplementary provision about applications under section 84](section/86.md)
+  - Variation of certificates: minor variations
+    - [s. 86A Application for minor variation of club premises certificate](section/86A.md)
+    - [s. 86B Determination of application under section 86A](section/86B.md)
+    - [s. 86C Supplementary provision about determinations under section 86B](section/86C.md)
+  - Review of certificates
+    - [s. 87 Application for review of club premises certificate](section/87.md)
+    - [s. 88 Determination of application for review](section/88.md)
+    - [s. 89 Supplementary provision about review](section/89.md)
+  - Withdrawal of certificates
+    - [s. 90 Club ceasing to be a qualifying club](section/90.md)
+  - General provision
+    - [s. 91 Form etc. of applications and notices under Part 4](section/91.md)
+    - [s. 92 Fees](section/92.md)
+    - [s. 92A Suspension of club premises certificate for failing to pay annual fee](section/92A.md)
+  - Production of certificate, rights of entry, etc.
+    - [s. 93 Licensing authority’s duty to update club premises certificate](section/93.md)
+    - [s. 94 Duty to keep and produce certificateetc.](section/94.md)
+    - [s. 95 Provision supplementary to section 94](section/95.md)
+    - [s. 96 Inspection of premises before grant of certificate etc.](section/96.md)
+    - [s. 97 Other powers of entry and search](section/97.md)
+- Part 5 Permitted temporary activities
+  - Introductory
+    - [s. 98 Meaning of “permitted temporary activity”](section/98.md)
+    - [s. 99 The relevant licensing authority](section/99.md)
+    - [s. 99A Meaning of “relevant person”](section/99A.md)
+  - Temporary event notices
+    - [s. 100 Temporary event notice](section/100.md)
+    - [s. 100A Standard and late temporary event notices](section/100A.md)
+    - [s. 101 Minimum of 24 hours between event periods](section/101.md)
+    - [s. 102 Acknowledgement of notice](section/102.md)
+    - [s. 103 Withdrawal of notice](section/103.md)
+  - Objections
+    - [s. 104 Objection to notice by a relevant person](section/104.md)
+    - [s. 104A Counter notice following objection to late notice](section/104A.md)
+    - [s. 105 Counter notice following ... objection to standard temporary event notice](section/105.md)
+    - [s. 106 Modification of standard temporary event notice following ... objection](section/106.md)
+    - [s. 106A Conditions on standard temporary event notice following objection](section/106A.md)
+  - Limits on temporary event notices
+    - [s. 107 Counter notice where permitted limits exceeded](section/107.md)
+  - Rights of entry, production of notice, etc.
+    - [s. 108 Right of entry where temporary event notice given](section/108.md)
+    - [s. 109 Duty to keep and produce temporary event notice and statement of conditions](section/109.md)
+  - Miscellaneous
+    - [s. 110 Theft, loss, etc. of temporary event notice or statement of conditions](section/110.md)
+- Part 6 Personal licences
+  - Introductory
+    - [s. 111 Personal licence](section/111.md)
+    - [s. 112 The relevant licensing authority](section/112.md)
+    - [s. 113 Meaning of “relevant offence”, “immigration offence”, “foreign offence” and “immigration penalty”](section/113.md)
+    - [s. 114 Spent convictions](section/114.md)
+    - [s. 115 Period of validity of personal licence](section/115.md)
+    - [s. 116 Surrender of personal licence](section/116.md)
+  - Grant ... of licences
+    - [s. 117 Application for grant ... of personal licence](section/117.md)
+    - [s. 118 Individual permitted to hold only one personal licence](section/118.md)
+    - [s. 119 Licence continued pending renewal](section/119.md)
+    - [s. 120 Determination of application for grant](section/120.md)
+    - [s. 121 Determination of application for renewal](section/121.md)
+    - [s. 122 Notification of determinations](section/122.md)
+    - [s. 123 Duty to notify licensing authority of convictions etc during application period](section/123.md)
+    - [s. 124 Convictions coming to light after grant ...](section/124.md)
+    - [s. 125 Form of personal licence](section/125.md)
+    - [s. 126 Theft, loss, etc. of personal licence](section/126.md)
+  - Duty to notify certain changes
+    - [s. 127 Duty to notify change of name or address](section/127.md)
+  - Conviction of licence holder for relevant offence
+    - [s. 128 Duty to notify court of personal licence](section/128.md)
+    - [s. 129 Forfeiture or suspension of licence on conviction for relevant offence](section/129.md)
+    - [s. 130 Powers of appellate court to suspend order under section 129](section/130.md)
+    - [s. 131 Court’s duty to notify licensing authority of convictions](section/131.md)
+    - [s. 132 Licence holder’s duty to notify licensing authority of convictions etc](section/132.md)
+    - [s. 132A Convictions etc of licence-holder: powers of licensing authority](section/132A.md)
+  - General provision
+    - [s. 133 Form etc. of applications and notices under Part 6](section/133.md)
+    - [s. 134 Licensing authority’s duty to update licence document](section/134.md)
+  - Production of licence
+    - [s. 135 Licence holder’s duty to produce licence](section/135.md)
+- Part 7 Offences
+  - Unauthorised licensable activities
+    - [s. 136 Unauthorised licensable activities](section/136.md)
+    - [s. 137 Exposing alcohol for unauthorised sale](section/137.md)
+    - [s. 138 Keeping alcohol on premises for unauthorised sale etc.](section/138.md)
+    - [s. 139 Defence of due diligence](section/139.md)
+  - Drunkenness and disorderly conduct
+    - [s. 140 Allowing disorderly conduct on licensed premises etc.](section/140.md)
+    - [s. 141 Sale of alcohol to a person who is drunk](section/141.md)
+    - [s. 142 Obtaining alcohol for a person who is drunk](section/142.md)
+    - [s. 143 Failure to leave licensed premises etc.](section/143.md)
+  - Smuggled goods
+    - [s. 144 Keeping of smuggled goods](section/144.md)
+  - Children and alcohol
+    - [s. 145 Unaccompanied children prohibited from certain premises](section/145.md)
+    - [s. 146 Sale of alcohol to children](section/146.md)
+    - [s. 147 Allowing the sale of alcohol to children](section/147.md)
+    - [s. 147A Persistently selling alcohol to children](section/147A.md)
+    - [s. 147B Order suspending a licence in respect of offence under section 147A](section/147B.md)
+    - [s. 148 Sale of liqueur confectionery to children under 16](section/148.md)
+    - [s. 149 Purchase of alcohol by or on behalf of children](section/149.md)
+    - [s. 150 Consumption of alcohol by children](section/150.md)
+    - [s. 151 Delivering alcohol to children](section/151.md)
+    - [s. 152 Sending a child to obtain alcohol](section/152.md)
+    - [s. 153 Prohibition of unsupervised sales by children](section/153.md)
+    - [s. 154 Enforcement role for weights and measures authorities](section/154.md)
+  - Confiscation of alcohol
+    - [s. 155 Confiscation of sealed containers of alcohol](section/155.md)
+  - Vehicles and trains
+    - [s. 156 Prohibition on sale of alcohol on moving vehicles](section/156.md)
+    - [s. 157 Power to prohibit sale of alcohol on trains](section/157.md)
+  - False statement relating to licensing etc.
+    - [s. 158 False statements made for the purposes of this Act](section/158.md)
+  - Interpretation
+    - [s. 159 Interpretation of Part 7](section/159.md)
+- Part 8 Closure of premises
+  - Closure of premises in an identified area
+    - [s. 160 Orders to close premises in area experiencing disorder](section/160.md)
+  - Closure of identified premises
+    - [s. 161 Closure orders for identified premises](section/161.md)
+    - [s. 162 Extension of closure order](section/162.md)
+    - [s. 163 Cancellation of closure order](section/163.md)
+    - [s. 164 Application to magistrates’ court by police](section/164.md)
+    - [s. 165 Consideration of closure order by magistrates’ court](section/165.md)
+    - [s. 166 Appeal from decision of magistrates’ court](section/166.md)
+    - [s. 167 Review of premises licence following closure order](section/167.md)
+    - [s. 168 Provision about decisions under section 167](section/168.md)
+    - [s. 169 Enforcement of closure order](section/169.md)
+  - Closure notices
+    - [s. 169A Closure notices for persistently selling alcohol to children](section/169A.md)
+    - [s. 169B Effect of closure notices](section/169B.md)
+    - [s. 170 Exemption of police from liability for damages](section/170.md)
+  - Interpretation
+    - [s. 171 Interpretation of Part 8](section/171.md)
+- Part 9 Miscellaneous and supplementary
+  - Special occasions
+    - [s. 172 Relaxation of opening hours for special occasions](section/172.md)
+  - Early morning alcohol restriction orders
+    - [s. 172A Power to make early morning alcohol restriction order](section/172A.md)
+    - [s. 172B Procedural requirements for early morning alcohol restriction order](section/172B.md)
+    - [s. 172C Making of early morning alcohol restriction order](section/172C.md)
+    - [s. 172D Variation and revocation of early morning alcohol restriction order](section/172D.md)
+    - [s. 172E Exceptions from effect of early morning alcohol restriction order](section/172E.md)
+  - ...
+    - [s. 172F Authorisation of off-sales for limited period](section/172F.md)
+    - [s. 172G Summary off-sales reviews](section/172G.md)
+    - [s. 172H Interim steps pending off-sales review](section/172H.md)
+    - [s. 172I Off-sales review of premises licence following review application](section/172I.md)
+    - [s. 172J Interim steps pending section 172I decision coming into effect](section/172J.md)
+    - [s. 172K Procedural requirements in relation to off-sales reviews and hearings](section/172K.md)
+    - [s. 172L Sections 172F to 172K: supplementary](section/172L.md)
+  - Exemptions etc.
+    - [s. 173 Activities in certain locations not licensable](section/173.md)
+    - [s. 174 Certifying of premises on grounds of national security](section/174.md)
+    - [s. 175 Exemption for incidental ... lottery](section/175.md)
+  - Service areas and garages etc.
+    - [s. 176 Prohibition of alcohol sales at service areas, garages etc.](section/176.md)
+  - Small premises
+    - [s. 177 Dancing ... in certain small premises](section/177.md)
+    - [s. 177A Licence review for live and recorded music](section/177A.md)
+  - Rights of freeholders etc.
+    - [s. 178 Right of freeholder etc. to be notified of licensing matters](section/178.md)
+  - Rights of entry
+    - [s. 179 Rights of entry to investigate licensable activities](section/179.md)
+    - [s. 180 Right of entry to investigate offences](section/180.md)
+  - Appeals
+    - [s. 181 Appeals against decisions of licensing authorities or the Mayor of London](section/181.md)
+  - Guidance, hearings etc.
+    - [s. 182 Guidance](section/182.md)
+    - [s. 183 Hearings](section/183.md)
+    - [s. 184 Giving of notices, etc.](section/184.md)
+    - [s. 185 Provision of information](section/185.md)
+  - General provisions about offences
+    - [s. 186 Proceedings for offences](section/186.md)
+    - [s. 187 Offences by bodies corporate etc.](section/187.md)
+    - [s. 188 Jurisdiction and procedure in respect of offences](section/188.md)
+  - Vessels, vehicles and moveable structures
+    - [s. 189 Vessels, vehicles and moveable structures](section/189.md)
+  - Interpretation
+    - [s. 190 Location of sales](section/190.md)
+    - [s. 191 Meaning of “alcohol”](section/191.md)
+    - [s. 192 Meaning of “sale by retail”](section/192.md)
+    - [s. 192A Entitlement to work in the United Kingdom](section/192A.md)
+    - [s. 193 Other definitions](section/193.md)
+    - [s. 194 Index of defined expressions](section/194.md)
+  - Supplementary and general
+    - [s. 195 Crown application](section/195.md)
+    - [s. 196 Removal of privileges and exemptions](section/196.md)
+    - [s. 197 Regulations and orders](section/197.md)
+    - [s. 198 Minor and consequential amendments](section/198.md)
+    - [s. 199 Repeals](section/199.md)
+    - [s. 200 Transitional provision etc.](section/200.md)
+    - [s. 201 Short title, commencement and extent](section/201.md)
+- SCHEDULE 1 Provision of regulated entertainment
+  - Part 1 General definitions
+    - The provision of regulated entertainment
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Entertainment
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Entertainment facilities
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Power to amend Schedule
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part 2 Exemptions
+    - Film exhibitions for the purposes of advertisement, information, education, etc.
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Film exhibitions: museums and art galleries
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Film exhibitions: community premises
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - Music and film incidental to certain other activities
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Use of television or radio receivers
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Religious services, places of worship etc.
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Garden fêtes, etc.
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Morris dancing etc.
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Sexual entertainment venues
+      - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+    - Vehicles in motion
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Entertainment provided by health care providers, local authorities and school proprietors
+      - [Sch. 1 para. 12ZA](schedule/1/paragraph/12ZA.md)
+    - Music at community premises etc.
+      - [Sch. 1 para. 12ZB](schedule/1/paragraph/12ZB.md)
+    - Music in licensed venues
+      - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+    - Live music in workplaces
+      - [Sch. 1 para. 12B](schedule/1/paragraph/12B.md)
+    - Live unamplified music
+      - [Sch. 1 para. 12C](schedule/1/paragraph/12C.md)
+    - Circuses
+      - [Sch. 1 para. 12D](schedule/1/paragraph/12D.md)
+    - Boxing or wrestling entertainment: certain forms of wrestling
+      - [Sch. 1 para. 12E](schedule/1/paragraph/12E.md)
+  - Part 3 Interpretation
+    - General
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Plays
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Film exhibitions
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Indoor sporting events
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Boxing or wrestling entertainments
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Music
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Health care providers and hospitals
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Local authorities
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Schools, school proprietors and school premises
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Provision of late night refreshment
+  - The provision of late night refreshment
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Hot food or hot drink
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Exempt supplies: designated areas, descriptions of premises and times
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Exempt supplies: clubs, hotels etc. and employees
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Exempt supplies: premises licensed under certain other Acts
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Miscellaneous exempt supplies
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Clubs which are not recognised clubs: members and guests
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Matters to be entered in licensing register
+- SCHEDULE 4 Personal licence: relevant offences
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 2A](schedule/4/paragraph/2A.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 19A](schedule/4/paragraph/19A.md)
+  - [Sch. 4 para. 19B](schedule/4/paragraph/19B.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22n1](schedule/4/paragraph/22n1.md)
+  - [Sch. 4 para. 22ZA](schedule/4/paragraph/22ZA.md)
+  - [Sch. 4 para. 22n2](schedule/4/paragraph/22n2.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 23A](schedule/4/paragraph/23A.md)
+  - [Sch. 4 para. 23B](schedule/4/paragraph/23B.md)
+  - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+- SCHEDULE 5 Appeals
+  - Part 1 Premises licences
+    - Rejection of applications relating to premises licences
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 1A](schedule/5/paragraph/1A.md)
+    - Decision to grant premises licence or impose conditions etc.
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+    - Issue of provisional statement
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Variation of licence under section 35 or 41ZB
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 4A](schedule/5/paragraph/4A.md)
+    - Variation of licence to specify individual as premises supervisor
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Transfer of licence
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Interim authority notice
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Review of premises licence
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Summary review of premises licence
+      - [Sch. 5 para. 8A](schedule/5/paragraph/8A.md)
+    - Review of interim steps
+      - [Sch. 5 para. 8B](schedule/5/paragraph/8B.md)
+    - ...
+      - [Sch. 5 para. 8C](schedule/5/paragraph/8C.md)
+    - ...
+      - [Sch. 5 para. 8D](schedule/5/paragraph/8D.md)
+    - General provision about appeals under this Part
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part 2 Club premises certificates
+    - Rejection of applications relating to club premises certificates
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Decision to grant club premises certificate or impose conditions etc.
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Variation of club premises certificate
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Review of club premises certificate
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Withdrawal of club premises certificate
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - General provision about appeals under this Part
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part 3 Other appeals
+    - Temporary event notices
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Personal licences
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Closure orders
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 4 Questions about leave to enter or remain in the UK
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 Minor and consequential amendments
+  - Universities (Wine Licences) Act 1743 (c. 40)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Disorderly Houses Act 1751 (c. 36)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Sunday Observance Act 1780 (c. 49)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Town Police Clauses Act 1847 (c. 89)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Cambridge Award Act 1856 (c. xvii)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Inebriates Act 1898 (c. 60)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Licensing Act 1902 (c. 28)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Celluloid and Cinematograph Film Act 1922 (c. 35)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Sunday Entertainments Act 1932 (c. 51)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Public Health Act 1936 (c. 49)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - London Building Acts (Amendment) Act 1939 (c. xcvii)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Civic Restaurants Act 1947 (c. 22)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - London County Council (General Powers) Act 1947 (c. xlvi)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Hypnotism Act 1952 (c. 46)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - Obscene Publications Act 1959 (c. 66)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+  - Betting, Gaming and Lotteries Act 1963 (c. 2)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+  - Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+  - Offices, Shops and Railway Premises Act 1963 (c. 41)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+  - Greater London Council (General Powers) Act 1966 (c. xxviii)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+  - Finance Act 1967 (c. 54)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+  - Theatres Act 1968 (c. 54)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+  - Gaming Act 1968 (c. 65)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+    - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+  - City of London (Various Powers) Act 1968 (c. xxxvii)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+  - Finance Act 1970 (c. 24)
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+  - Sunday Theatre Act 1972 (c. 26)
+    - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+  - Lotteries and Amusements Act 1976 (c. 32)
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+    - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+    - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+    - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+    - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+  - Rent Act 1977 (c. 42)
+    - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+  - Greater London Council (General Powers) Act 1978 (c. xiii)
+    - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+    - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+    - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+  - Alcoholic Liquor Duties Act 1979 (c. 4)
+    - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+    - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+    - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+  - Licensed Premises (Exclusion of Certain Persons) Act 1980 (c. 32)
+    - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 6 para. 76](schedule/6/paragraph/76.md)
+    - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+    - [Sch. 6 para. 78](schedule/6/paragraph/78.md)
+    - [Sch. 6 para. 79](schedule/6/paragraph/79.md)
+  - Indecent Displays (Control) Act 1981 (c. 42)
+    - [Sch. 6 para. 80](schedule/6/paragraph/80.md)
+  - New Towns Act 1981 (c. 64)
+    - [Sch. 6 para. 81](schedule/6/paragraph/81.md)
+  - Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+    - [Sch. 6 para. 82](schedule/6/paragraph/82.md)
+    - [Sch. 6 para. 83](schedule/6/paragraph/83.md)
+    - [Sch. 6 para. 84](schedule/6/paragraph/84.md)
+    - [Sch. 6 para. 85](schedule/6/paragraph/85.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 6 para. 86](schedule/6/paragraph/86.md)
+    - [Sch. 6 para. 87](schedule/6/paragraph/87.md)
+    - [Sch. 6 para. 88](schedule/6/paragraph/88.md)
+  - Video Recordings Act 1984 (c. 39)
+    - [Sch. 6 para. 89](schedule/6/paragraph/89.md)
+  - Building Act 1984 (c. 55)
+    - [Sch. 6 para. 90](schedule/6/paragraph/90.md)
+    - [Sch. 6 para. 91](schedule/6/paragraph/91.md)
+    - [Sch. 6 para. 92](schedule/6/paragraph/92.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 6 para. 93](schedule/6/paragraph/93.md)
+  - Greater London Council (General Powers) Act 1984 (c. xxvii)
+    - [Sch. 6 para. 94](schedule/6/paragraph/94.md)
+  - Cinemas Act 1985 (c. 13)
+    - [Sch. 6 para. 95](schedule/6/paragraph/95.md)
+  - Sporting Events (Control of Alcohol etc.) Act 1985 (c. 57)
+    - [Sch. 6 para. 96](schedule/6/paragraph/96.md)
+    - [Sch. 6 para. 97](schedule/6/paragraph/97.md)
+    - [Sch. 6 para. 98](schedule/6/paragraph/98.md)
+    - [Sch. 6 para. 99](schedule/6/paragraph/99.md)
+    - [Sch. 6 para. 100](schedule/6/paragraph/100.md)
+    - [Sch. 6 para. 101](schedule/6/paragraph/101.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 6 para. 102](schedule/6/paragraph/102.md)
+    - [Sch. 6 para. 103](schedule/6/paragraph/103.md)
+    - [Sch. 6 para. 104](schedule/6/paragraph/104.md)
+  - Sex Discrimination Act 1986 (c. 59)
+    - [Sch. 6 para. 105](schedule/6/paragraph/105.md)
+  - Fire Safety and Safety of Places of Sport Act 1987 (c. 27)
+    - [Sch. 6 para. 106](schedule/6/paragraph/106.md)
+  - Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 6 para. 107](schedule/6/paragraph/107.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 6 para. 108](schedule/6/paragraph/108.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 6 para. 109](schedule/6/paragraph/109.md)
+  - Sunday Trading Act 1994 (c. 20)
+    - [Sch. 6 para. 110](schedule/6/paragraph/110.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 6 para. 111](schedule/6/paragraph/111.md)
+  - Deregulation and Contracting Out Act 1994 (c. 40)
+    - [Sch. 6 para. 112](schedule/6/paragraph/112.md)
+  - London Local Authorities Act 1995 (c. x)
+    - [Sch. 6 para. 113](schedule/6/paragraph/113.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 6 para. 114](schedule/6/paragraph/114.md)
+  - Confiscation of Alcohol (Young Persons) Act 1997 (c. 33)
+    - [Sch. 6 para. 115](schedule/6/paragraph/115.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 6 para. 116](schedule/6/paragraph/116.md)
+  - London Local Authorities Act 2000 (c. vii)
+    - [Sch. 6 para. 117](schedule/6/paragraph/117.md)
+  - Private Security Industry Act 2001 (c. 12)
+    - [Sch. 6 para. 118](schedule/6/paragraph/118.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 6 para. 119](schedule/6/paragraph/119.md)
+    - [Sch. 6 para. 120](schedule/6/paragraph/120.md)
+    - [Sch. 6 para. 121](schedule/6/paragraph/121.md)
+    - [Sch. 6 para. 122](schedule/6/paragraph/122.md)
+    - [Sch. 6 para. 123](schedule/6/paragraph/123.md)
+    - [Sch. 6 para. 124](schedule/6/paragraph/124.md)
+    - [Sch. 6 para. 125](schedule/6/paragraph/125.md)
+    - [Sch. 6 para. 126](schedule/6/paragraph/126.md)
+    - [Sch. 6 para. 127](schedule/6/paragraph/127.md)
+    - [Sch. 6 para. 128](schedule/6/paragraph/128.md)
+- SCHEDULE 7 Repeals
+- SCHEDULE 8 Transitional provision etc.
+  - Part 1 Premises licences
+    - Introductory
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Application for conversion of existing licence
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Police consultation
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Determination of application
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Notification of determination and issue of new licence
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - The new licence
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Variation of new licence
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Existing licence revoked after grant of new licence
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Appeals
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - False statements
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Opening hours
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Provisional licences
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Part 2 Club premises certificates
+    - Introductory
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Application for conversion of existing club certificate
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Police consultation
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Determination of application
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Notification of determination and issue of new certificate
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - The new certificate
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Variation of new certificate
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Existing club certificate revoked after grant of new certificate
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Appeals
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - False statements
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Part 3 Personal licences
+    - Introductory
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Section 120 disapplied
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - Police objections
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Determination of application
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Appeals
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Interpretation of Part 3
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - Part 4 Miscellaneous and general
+    - Consultation on licensing policy
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Meaning of “methylated spirits” (transitory provision)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - Savings
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - Interpretation
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
