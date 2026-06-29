@@ -1,0 +1,202 @@
+# Criminal Justice Act 1967
+
+1967 c. 80. Enacted 1967-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1967/80
+
+Source: https://www.legislation.gov.uk/ukpga/1967/80/2026-06-29
+
+## Contents
+
+- Part I Criminal Procedure, etc.
+  - Committal proceedings
+    - [s. 1 Committal for trial without consideration of the evidence.](section/1.md)
+    - [s. 7 ................................](section/7.md)
+  - Miscellaneous provisions as to evidence, procedure and trial
+    - [s. 8 Proof of criminal intent.](section/8.md)
+    - [s. 9 Proof by written statement.](section/9.md)
+    - [s. 10 Proof by formal admission.](section/10.md)
+    - [s. 11 Notice of alibi.](section/11.md)
+    - [s. 12 Application of sections 9 to 11 to courts-martial.](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 17 Entry of verdict of not guilty by order of a judge.](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19](section/19.md)
+    - [s. 20 Power of magistrates’ court to commit on bail for sentence.](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 Extension of power of High Court to grant, or vary conditions of, bail.](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 Restriction on issue of search warrants under Obscene Publications Act 1959.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 31](section/31.md)
+    - [s. 32 Amendments of Costs in Criminal Cases Act 1952.](section/32.md)
+    - [s. 33 Taking and use of finger-prints and palm-prints.](section/33.md)
+    - [s. 34 Committal of persons under twenty-one accused of extradition crimes, etc.](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Interpretation of Part I.](section/36.md)
+- Part II Powers of Courts to Deal with Offenders
+  - [s. 37 ................................](section/37.md)
+  - [s. 43 ................................](section/43.md)
+  - Enforcement of payment of fines, etc.
+    - [s. 44 ................................](section/44.md)
+    - [s. 44A ................................](section/44A.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 54](section/54.md)
+    - [s. 55 ................................](section/55.md)
+  - Miscellaneous
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 ................................](section/58.md)
+- Part III Treatment of Offenders
+  - Release of prisoners on licence and supervision of prisoners after release
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ...](section/60.md)
+    - [s. 61 ...](section/61.md)
+    - [s. 62 ...](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 ...](section/64.md)
+  - Miscellaneous
+    - [s. 65 Abolition of corporal punishment in prison.](section/65.md)
+    - [s. 66](section/66.md)
+    - [s. 67 Computation of sentences of imprisonment passed in England and Wales.](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Extension of enactments relating to persons sentenced to imprisonment or detention to young offenders sentenced to detention.](section/69.md)
+    - [s. 70 Prisoner transferred from Scotland to England for security.](section/70.md)
+    - [s. 71 Exercise of powers of release.](section/71.md)
+    - [s. 72 Power of magistrates to issue warrants for arrest of escaped prisoners and mental patients.](section/72.md)
+- Parts IV, V
+  - [s. 73 ................................](section/73.md)
+  - [s. 85 ................................](section/85.md)
+- Part VI Miscellaneous and General
+  - Offences
+    - [s. 89 False written statements tendered in evidence.](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 Drunkenness in a public place.](section/91.md)
+  - Increase of Fines, etc.
+    - [s. 92 Increase of fines.](section/92.md)
+    - [s. 93 Alteration of maximum periods of imprisonment in default of payment of fines, etc.](section/93.md)
+  - Fees
+    - [s. 94 ................................](section/94.md)
+  - Administration of probation and after-care services
+    - [s. 95 Probation and after-care areas and committees.](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 ................................](section/97.md)
+    - [s. 98 Amendment of enactments relating to criminal appeals.](section/98.md)
+    - [s. 99 ................................](section/99.md)
+  - Miscellaneous
+    - [s. 100 Regulations, rules and orders.](section/100.md)
+    - [s. 101 Expenses.](section/101.md)
+    - [s. 102 Transitional provisions and savings.](section/102.md)
+    - [s. 103 Minor and consequential amendments and repeals.](section/103.md)
+    - [s. 104 General provisions as to interpretation.](section/104.md)
+    - [s. 105 Northern Ireland.](section/105.md)
+    - [s. 106 Short title, extent and commencement.](section/106.md)
+- SCHEDULE 1
+- SCHEDULE 2 Provisions as to Parole Board and Local Review Committees
+  - The Parole Board
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Local Review Committees
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Increase of Fines
+  - Part I Increase of fines fixed by enactments
+  - Part II Increase of Limit on Fines which may be imposed by Subordinate Instruments
+  - Part III Amendment of Section 24 of the Public Health (Scotland) Act 1897 (c.38)
+  - Part IV Amendments Extending to Northern Ireland
+- SCHEDULE 4 Miscellaneous Amendments of Enactments relating to Criminal Appeal
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - The Administration of Justice Act 1960 (c. 65)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+- SCHEDULE 5 Transitional Provisions and Savings
+  - Juries
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Prisoners sentenced to corrective training or preventive detention
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Release of prisoners, etc. on licence
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Non-payment of fines, etc.
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Legal aid
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Criminal appeals
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Minor and Consequential Amendments
+  - The Vagrancy Act 1824 (c. 83)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - The Prison Act 1952 (c. 52)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - The Magistrates’ Courts Act 1952 (c. 55)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - The Summary Jurisdiction (Scotland) Act 1954 (c. 48)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - The Criminal Justice Act 1961 (c. 39)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - The Criminal Justice (Scotland) Act 1963 (c. 39)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - The Forestry Act 1967 (c. 10)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+- SCHEDULE 7 Enactments Repealed
+  - Part I Repeals Applying to England and Wales
+  - Part II Repeals Extending to Scotland
+  - Part III Repeals Extending to Northern Ireland
