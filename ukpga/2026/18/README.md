@@ -2,9 +2,11 @@
 
 2026 c. 18. Enacted 2026-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2026-04-29, are in the history before it: `git log -- ukpga/2026/18` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2026/18/2026-04-29
+legislation.gov.uk lists 223 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
+
+Source: https://www.legislation.gov.uk/ukpga/2026/18/2026-06-29
 
 ## Contents
 
