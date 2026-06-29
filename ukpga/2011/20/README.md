@@ -2,9 +2,9 @@
 
 2011 c. 20. Enacted 2011-11-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-04, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-06-04
+Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-06-29
 
 ## Contents
 
@@ -48,6 +48,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-06-04
     - [s. 30 Disclosure of pecuniary interests on taking office](section/30.md)
     - [s. 31 Pecuniary interests in matters considered at meetings or by a single member](section/31.md)
     - [s. 32 Sensitive interests](section/32.md)
+    - [s. 32A Residential addresses](section/32A.md)
     - [s. 33 Dispensations from section 31(4)](section/33.md)
     - [s. 34 Offences](section/34.md)
     - [s. 35 Delegation of functions by Greater London Authority](section/35.md)
