@@ -1,0 +1,372 @@
+# Pensions (No. 2) Act (Northern Ireland) 2008
+
+nia/2008/13. Enacted 2008-12-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 65 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2008/13
+
+Source: https://www.legislation.gov.uk/nia/2008/13/2026-06-29
+
+## Contents
+
+- PART 1 PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS
+  - CHAPTER 1 EMPLOYERS’ DUTIES
+    - Jobholders
+      - [s. 1 Jobholders](section/1.md)
+    - Employers’ duties
+      - [s. 2 Continuity of scheme membership](section/2.md)
+      - [s. 3 Automatic enrolment](section/3.md)
+      - [s. 4 Postponement or disapplication of automatic enrolment](section/4.md)
+      - [s. 5 Automatic re-enrolment](section/5.md)
+      - [s. 6 Timing of automatic re-enrolment](section/6.md)
+      - [s. 7 Jobholder’s right to opt in](section/7.md)
+      - [s. 8 Jobholder’s right to opt out](section/8.md)
+    - Duty in relation to workers without qualifying earnings
+      - [s. 9 Workers without qualifying earnings](section/9.md)
+    - Supplementary provision about the duties
+      - [s. 10 Information to be given to workers](section/10.md)
+      - [s. 11 Information to be given to the Pensions Regulator](section/11.md)
+      - [s. 12 Introduction of employers’ duties](section/12.md)
+    - Qualifying earnings and earnings trigger
+      - [s. 13 Qualifying earnings](section/13.md)
+      - [s. 14 Review of earnings trigger and qualifying earnings band](section/14.md)
+      - [s. 15 Pay reference period](section/15.md)
+      - [s. 15A Power to specify rounded figures](section/15A.md)
+    - Qualifying schemes and automatic enrolment schemes
+      - [s. 16 Qualifying schemes](section/16.md)
+      - [s. 17 Automatic enrolment schemes](section/17.md)
+      - [s. 18 Occupational pension schemes](section/18.md)
+      - [s. 19 Personal pension schemes](section/19.md)
+    - Quality requirements
+      - [s. 20 Quality requirement: UK money purchase schemes](section/20.md)
+      - [s. 21 Quality requirement: UK defined benefits schemes](section/21.md)
+      - [s. 22 Test scheme standard](section/22.md)
+      - [s. 23 Test scheme](section/23.md)
+      - [s. 23A Alternative quality requirements for UK defined benefits schemes](section/23A.md)
+      - [s. 24 Quality requirement: UK hybrid schemes](section/24.md)
+      - [s. 25 Quality requirement: non-UK occupational pension schemes](section/25.md)
+      - [s. 26 Quality requirement: UK personal pension schemes](section/26.md)
+      - [s. 27 Quality requirement: other personal pension schemes](section/27.md)
+      - [s. 28 Certification that quality requirement or alternative requirement is satisfied](section/28.md)
+    - Transitional
+      - [s. 29 Transitional periods for money purchase and personal pension schemes](section/29.md)
+      - [s. 30 Transitional period for defined benefits and hybrid schemes](section/30.md)
+    - Miscellaneous
+      - [s. 31 Effect of freezing order, assessment period or pause order](section/31.md)
+      - [s. 32 Power of trustees or managers to modify by resolution](section/32.md)
+      - [s. 33 Deduction of contributions](section/33.md)
+  - CHAPTER 2 COMPLIANCE
+    - Effect of failure to comply
+      - [s. 34 Effect of failure to comply](section/34.md)
+    - Compliance notices and unpaid contributions notices
+      - [s. 35 Compliance notices](section/35.md)
+      - [s. 36 Third party compliance notices](section/36.md)
+      - [s. 37 Unpaid contributions notices](section/37.md)
+      - [s. 38 Calculation and payment of contributions](section/38.md)
+      - [s. 39 Meaning of “relevant contributions”](section/39.md)
+    - Penalty notices
+      - [s. 40 Fixed penalty notices](section/40.md)
+      - [s. 41 Escalating penalty notices](section/41.md)
+      - [s. 42 Penalty notices: recovery](section/42.md)
+    - Reviews and references
+      - [s. 43 Review of notices](section/43.md)
+      - [s. 44 References to First-tier Tribunal or Upper Tribunal](section/44.md)
+    - Offences and monitoring
+      - [s. 45 Offences of failing to comply](section/45.md)
+      - [s. 46 Offences by bodies corporate](section/46.md)
+      - [s. 47 Offences by partnerships and unincorporated associations](section/47.md)
+      - [s. 48 Offences of providing false or misleading information](section/48.md)
+      - [s. 49 Monitoring of employers’ payments to personal pension schemes](section/49.md)
+  - CHAPTER 3 SAFEGUARDS: EMPLOYMENT AND PRE-EMPLOYMENT
+    - Prohibited recruitment conduct
+      - [s. 50 Prohibited recruitment conduct](section/50.md)
+      - [s. 51 Compliance notices](section/51.md)
+      - [s. 52 Penalty notices](section/52.md)
+      - [s. 53 Review of notices and references to the First-tier Tribunal or Upper Tribunal](section/53.md)
+    - Inducements
+      - [s. 54 Inducements](section/54.md)
+    - Protection of employment rights
+      - [s. 55 The right not to suffer detriment](section/55.md)
+      - [s. 56 Enforcement of the right](section/56.md)
+      - [s. 57 Right of employee not to be unfairly dismissed](section/57.md)
+      - [s. 58 Restrictions on agreements to limit operation of this Part](section/58.md)
+  - CHAPTER 4 SUPPLEMENTARY PROVISION ABOUT COMPLIANCE AND INFORMATION-SHARING
+    - Records and information
+      - [s. 59 Requirement to keep records](section/59.md)
+      - [s. 60 Powers to require information and to enter premises](section/60.md)
+      - [s. 61 Disclosure of tax information etc.](section/61.md)
+      - [s. 62 Penalty for disclosure](section/62.md)
+    - Objectives of the Regulator
+      - [s. 63 Objectives of the Regulator](section/63.md)
+    - Functions of the Pensions Ombudsman
+      - [s. 64 Functions of the Pensions Ombudsman](section/64.md)
+  - CHAPTER 5 PERSONAL ACCOUNTS DELIVERY AUTHORITY
+    - Functions
+      - [s. 65 Functions and winding up](section/65.md)
+      - [s. 66 Principles](section/66.md)
+      - [s. 67 Directions and guidance](section/67.md)
+      - [s. 68 Disclosure of information by the Regulator](section/68.md)
+  - CHAPTER 6 STAKEHOLDER PENSION SCHEMES
+    - [s. 69 Stakeholder pension schemes](section/69.md)
+  - CHAPTER 7 APPLICATION AND INTERPRETATION
+    - Exceptions
+      - [s. 69A Power to create exceptions from the employer duties etc.](section/69A.md)
+    - Workers
+      - [s. 70 “Employer”, “worker” and related expressions](section/70.md)
+      - [s. 71 Agency workers](section/71.md)
+      - [s. 72 Directors](section/72.md)
+      - [s. 73 Crown employment](section/73.md)
+      - [s. 74 Armed forces](section/74.md)
+      - [s. 75 Police](section/75.md)
+      - [s. 76 Persons working on vessels](section/76.md)
+      - [s. 77 Extension of definition of worker](section/77.md)
+    - General
+      - [s. 78 Interpretation of Part](section/78.md)
+      - [s. 78A Money purchase benefits: supplementary](section/78A.md)
+- PART 2 SIMPLIFICATION ETC.
+  - Private pensions
+    - [s. 79 Abolition of safeguarded rights](section/79.md)
+    - [s. 80 Revaluation of accrued benefits etc.](section/80.md)
+  - State pensions etc.
+    - [s. 81 Consolidation of additional pension](section/81.md)
+    - [s. 82 Effect of entitlement to guaranteed minimum pension](section/82.md)
+    - [s. 83 Additional State Pension etc.: minor and consequential amendments](section/83.md)
+    - [s. 84 State pension credit: extension of assessed income period for those aged 75 or over](section/84.md)
+    - [s. 85 Contracting-out: abolition of all protected rights](section/85.md)
+- PART 3 PENSION COMPENSATION
+  - CHAPTER 1 PENSION COMPENSATION ON DIVORCE ETC.
+    - [s. 86 Scope of mechanism](section/86.md)
+    - [s. 87 Interpretation](section/87.md)
+    - [s. 88 Activation of pension compensation sharing](section/88.md)
+    - [s. 89 Creation of pension compensation debits and credits](section/89.md)
+    - [s. 90 Cash equivalents](section/90.md)
+    - [s. 91 Reduction of compensation](section/91.md)
+    - [s. 92 Time for discharge of liability](section/92.md)
+    - [s. 93 “Implementation period”](section/93.md)
+    - [s. 94 Discharge of liability](section/94.md)
+    - [s. 95 Charges in respect of pension compensation sharing costs](section/95.md)
+    - [s. 96 Supply of information about pension compensation in relation to divorce etc.](section/96.md)
+    - [s. 97 Supply of information about pension compensation sharing](section/97.md)
+    - [s. 98 Pension compensation sharing and attachment on divorce etc.](section/98.md)
+  - CHAPTER 2 OTHER PROVISION ABOUT PENSION COMPENSATION
+    - [s. 99 Charges in respect of pension sharing etc.](section/99.md)
+    - [s. 100 Amendments of Schedule 6 to the 2005 Order](section/100.md)
+    - [s. 101 Consequential amendments](section/101.md)
+- PART 4 ADDITIONAL PENSIONS
+  - [s. 102 Additional pension: upper accrual point to replace upper earnings limit from 2009–10](section/102.md)
+- PART 5 MISCELLANEOUS
+  - Miscellaneous provisions relating to pensions
+    - [s. 103 Amendments of provisions of the 2005 Order relating to contribution notices or financial support directions](section/103.md)
+    - [s. 104 Interest on late payment of levies](section/104.md)
+    - [s. 105 Payments to employers](section/105.md)
+    - [s. 106 Appointment of trustees](section/106.md)
+    - [s. 107 Intervention by the Regulator where scheme’s technical provisions improperly determined](section/107.md)
+    - [s. 108 Delegation of powers by the Regulator](section/108.md)
+    - [s. 109 Exclusion of transfers out in certain cases](section/109.md)
+  - Official pensions
+    - [s. 110 Official pensions: adjustment of increases in survivors’ pensions](section/110.md)
+  - Information relating to state pension credit recipients
+    - [s. 111 Disclosure of information relating to state pension credit recipients](section/111.md)
+- PART 6 GENERAL
+  - [s. 112 Orders and regulations](section/112.md)
+  - [s. 113 Orders and regulations: supplementary](section/113.md)
+  - [s. 113A Service of documents and electronic working](section/113A.md)
+  - [s. 114 Further provision etc.](section/114.md)
+  - [s. 115 Pre-consolidation amendments](section/115.md)
+  - [s. 116 Repeals](section/116.md)
+  - [s. 117 Interpretation](section/117.md)
+  - [s. 118 Commencement](section/118.md)
+  - [s. 119 Short title](section/119.md)
+- SCHEDULE 1 REVALUATION OF ACCRUED BENEFITS ETC.
+  - PART 1 REVALUATION OF ACCRUED PENSION BENEFITS
+    - Amendments to Schedule 2 to the Pension Schemes (Northern Ireland) Act 1993
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - PART 2 REVALUATION OF ACCRUED AMOUNTS ETC.
+    - Amendments to Schedule 6 to the 2005 Order
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - PART 3 CONSEQUENTIAL AMENDMENTS
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 ADDITIONAL PENSION CONSOLIDATION
+- SCHEDULE 3 ADDITIONAL STATE PENSION ETC.: MINOR AND CONSEQUENTIAL AMENDMENTS
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 4 PENSION COMPENSATION PAYABLE ON DISCHARGE OF PENSION COMPENSATION CREDIT
+  - PART 1 INTRODUCTORY
+    - Introductory
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Interpretation
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Pension compensation age
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - PART 2 TRANSFEREE ATTAINS PENSION COMPENSATION AGE BEFORE OR ON TRANSFER DAY
+    - Compensation payable to transferee
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Compensation payable to widow, widower or surviving civil partner
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 3 TRANSFEREE ATTAINS PENSION COMPENSATION AGE AFTER TRANSFER DAY
+    - Compensation payable to transferee
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Compensation payable to widower, widow or surviving civil partner
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Revaluation
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Commutation of periodic compensation
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Early payment of compensation
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Deferral of compensation
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Terminal illness lump sum: eligibility
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Terminal illness lump sum: application and evidence
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Terminal illness lump sum: determination of application
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Terminal illness lump sum: effect of successful application
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Terminal illness lump sum: information
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - PART 4 PROVISIONS APPLICABLE IRRESPECTIVE OF AGE OF TRANSFEREE ON TRANSFER DAY
+    - Postponement of compensation
+      - [Sch. 4 para. 16A](schedule/4/paragraph/16A.md)
+    - Annual increase in periodic compensation
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Compensation cap
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Compensation in form of dependant’s benefits
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Board’s power to alter rates of revaluation and indexation
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+- SCHEDULE 5 PENSION COMPENSATION ON DIVORCE ETC.
+  - PART 1 AMENDMENTS OF THE MATRIMONIAL CAUSES (NORTHERN IRELAND) ORDER 1978
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - PART 2 AMENDMENTS OF THE MATRIMONIAL AND FAMILY PROCEEDINGS (NORTHERN IRELAND) ORDER 1989
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - PART 3 AMENDMENTS OF THE CIVIL PARTNERSHIP ACT 2004
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 AMENDMENTS OF SCHEDULE 6 TO THE 2005 ORDER
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 ADDITIONAL PENSION: CONSEQUENTIAL AMENDMENTS
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 CONTRIBUTION NOTICES AND FINANCIAL SUPPORT DIRECTIONS UNDER 2005 ORDER
+  - Introduction
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Contributions notices: material detriment test
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Contribution notices: acting or failing to act otherwise than in good faith
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Whether reasonable for Pensions Regulator to issue contribution notice
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Contribution notices: series of acts or failures to act
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Contribution notices and financial support directions: bulk transfers
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Financial support directions: meaning of “insufficiently resourced”
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Effect of amendments made by this Schedule
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Transitional provision
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+- SCHEDULE 9 INTEREST ON LATE PAYMENT OF LEVIES
+  - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - The Pensions (Northern Ireland) Order 2005 (NI 1)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 REPEALS
+  - PART 1 PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS
+  - PART 2 SAFEGUARDED RIGHTS
+  - PART 3 CONTRACTING-OUT: ABOLITION OF ALL PROTECTED RIGHTS
+  - PART 4 PENSION COMPENSATION
+  - PART 5 MISCELLANEOUS
+  - PART 6 ADDITIONAL PENSIONS
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
