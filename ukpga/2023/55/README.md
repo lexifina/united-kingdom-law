@@ -2,9 +2,9 @@
 
 2023 c. 55. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-18, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-18
+Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-29
 
 ## Contents
 
@@ -41,6 +41,9 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-18
       - [s. 17A The functions of CCAs](section/17A.md)
     - Collaboration
       - [s. 17B Mayoral power to convene meetings with local partners](section/17B.md)
+      - [s. 17C Request to collaborate](section/17C.md)
+      - [s. 17D Responding to a collaboration request](section/17D.md)
+      - [s. 17E Collaboration requests made by or to several mayors](section/17E.md)
     - Functions of CCAs
       - [s. 18 Local authority functions](section/18.md)
       - [s. 19 Other public authority functions](section/19.md)
@@ -65,6 +68,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-18
       - [s. 29 Deputy mayors etc](section/29.md)
       - [s. 29A Appointment of commissioners by the mayor](section/29A.md)
       - [s. 30 Functions of mayors: general](section/30.md)
+      - [s. 30A Limitation on delegation of mayoral functions](section/30A.md)
       - [s. 31 Procedure for direct conferral of general functions on mayor](section/31.md)
       - [s. 32 Joint exercise of general functions](section/32.md)
     - Mayoral CCAs: local growth plans
@@ -73,6 +77,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-18
       - [s. 32C Public authorities: duty to have regard to shared local growth priorities](section/32C.md)
     - Police and crime and fire and rescue functions
       - [s. 33 Functions of mayors: policing](section/33.md)
+      - [s. 33A The “eligibility” and “transfer” conditions](section/33A.md)
       - [s. 34 Exercise of fire and rescue functions](section/34.md)
       - [s. 35 Section 34 regulations: procedure](section/35.md)
       - [s. 36 Section 34 regulations: further provision](section/36.md)
@@ -376,6 +381,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-18
   - [Sch. 2 para. 7 Qualification and disqualification](schedule/2/paragraph/7.md)
   - [Sch. 2 para. 8 Qualification and disqualification](schedule/2/paragraph/8.md)
   - [Sch. 2 para. 9 Qualification and disqualification](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 9A Qualification and disqualification](schedule/2/paragraph/9A.md)
   - [Sch. 2 para. 10 Qualification and disqualification](schedule/2/paragraph/10.md)
   - [Sch. 2 para. 11 Qualification and disqualification](schedule/2/paragraph/11.md)
   - [Sch. 2 para. 12 Power to make further provision](schedule/2/paragraph/12.md)
