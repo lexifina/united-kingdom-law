@@ -1,0 +1,205 @@
+# Pension Schemes Act 2026
+
+2026 c. 22. Enacted 2026-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
+
+Source: https://www.legislation.gov.uk/ukpga/2026/22/2026-06-29
+
+## Contents
+
+- Part 1 Defined benefit pensions
+  - Chapter 1 Local government pension schemes
+    - [s. 1 Asset pool companies](section/1.md)
+    - [s. 2 Asset management](section/2.md)
+    - [s. 3 Additional powers for certain scheme managers](section/3.md)
+    - [s. 4 Exemption from public procurement rules](section/4.md)
+    - [s. 5 Scheme manager governance reviews](section/5.md)
+    - [s. 6 Mergers of funds](section/6.md)
+    - [s. 7 Amendments of 2013 Act relating to scheme regulations](section/7.md)
+    - [s. 8 Interpretation of Chapter 1](section/8.md)
+  - Chapter 2 Powers to pay surplus to employer
+    - [s. 9 Power to modify scheme to allow for payment of surplus to employer](section/9.md)
+    - [s. 10 Restrictions on exercise of power to pay surplus](section/10.md)
+- Part 2 Defined contribution pensions
+  - Chapter 1 Value for money
+    - [s. 11 Relevant schemes: value for money](section/11.md)
+    - [s. 12 Publication etc of metric data](section/12.md)
+    - [s. 13 VFM assessments](section/13.md)
+    - [s. 14 Member satisfaction surveys](section/14.md)
+    - [s. 15 VFM ratings](section/15.md)
+    - [s. 16 Consequences of an intermediate rating](section/16.md)
+    - [s. 17 Consequences of a “not delivering” rating](section/17.md)
+    - [s. 18 Compliance and oversight](section/18.md)
+    - [s. 19 Sharing of database where FCA makes corresponding rules](section/19.md)
+    - [s. 20 Crown application](section/20.md)
+    - [s. 21 Interpretation of Chapter](section/21.md)
+  - Chapter 2 Consolidation of small dormant pension pots
+    - Power to make small pots regulations
+      - [s. 22 Small pots regulations](section/22.md)
+    - Transfers
+      - [s. 23 Determination of destinations for small pots](section/23.md)
+      - [s. 24 Transfer notices](section/24.md)
+      - [s. 25 Exempt pots](section/25.md)
+      - [s. 26 Transfer etc of small dormant pension pots](section/26.md)
+      - [s. 27 Effect of transfer on membership of scheme etc](section/27.md)
+      - [s. 28 Timing of transfers](section/28.md)
+    - Authorisation
+      - [s. 29 Authorisation of consolidator schemes etc by the Pensions Regulator](section/29.md)
+      - [s. 30 Consolidator schemes and consolidator arrangements](section/30.md)
+    - Supplementary
+      - [s. 31 Further provision about contents of small pots regulations](section/31.md)
+      - [s. 32 Enforcement by the Pensions Regulator](section/32.md)
+      - [s. 33 Enforcement by the FCA](section/33.md)
+    - Interpretation etc
+      - [s. 34 Power to alter definition of “small”](section/34.md)
+      - [s. 35 Crown application](section/35.md)
+      - [s. 36 Interpretation of Chapter](section/36.md)
+      - [s. 37 Meaning of “pension pot”](section/37.md)
+    - Amendments of other Acts
+      - [s. 38 Amendments of the Financial Services and Markets Act 2000](section/38.md)
+      - [s. 39 Repeal of existing powers](section/39.md)
+  - Chapter 3 Scale and asset allocation
+    - [s. 40 Certain schemes providing money purchase benefits: scale and asset allocation](section/40.md)
+    - [s. 41 Amendments related to section 40](section/41.md)
+  - Chapter 4 Default arrangements
+    - [s. 42 Regulations restricting creation of new non-scale default arrangements](section/42.md)
+    - [s. 43 Review in relation to non-scale default arrangements](section/43.md)
+    - [s. 44 Regulations about consolidation of non-scale default arrangements](section/44.md)
+    - [s. 45 Regulations about default arrangements](section/45.md)
+    - [s. 46 Amendments of the Financial Services and Markets Act 2000](section/46.md)
+    - [s. 47 Crown application](section/47.md)
+    - [s. 48 Interpretation of Chapter](section/48.md)
+  - Chapter 5 FCA-regulated pension schemes: contractual override
+    - [s. 49 FCA-regulated pension schemes: contractual override](section/49.md)
+  - Chapter 6 Guided retirement
+    - [s. 50 Default pension benefit solutions](section/50.md)
+    - [s. 51 Transferable members](section/51.md)
+    - [s. 52 Provision and gathering of information](section/52.md)
+    - [s. 53 Information etc in connection with selection of benefit solution](section/53.md)
+    - [s. 54 Pension benefits strategy](section/54.md)
+    - [s. 55 Enforcement and compliance](section/55.md)
+    - [s. 56 Crown application](section/56.md)
+    - [s. 57 Interpretation of Chapter](section/57.md)
+    - [s. 58 Corresponding provision in relation to FCA-regulated schemes](section/58.md)
+- Part 3 Superfunds
+  - Chapter 1 Introductory
+    - [s. 59 Overview](section/59.md)
+    - [s. 60 Key concepts](section/60.md)
+    - [s. 61 Schemes divided into sections](section/61.md)
+  - Chapter 2 Authorisation of superfunds
+    - [s. 62 Prohibition of unauthorised superfund activity](section/62.md)
+    - [s. 63 Authorisation of superfunds](section/63.md)
+    - [s. 64 Timing of decisions about authorisation](section/64.md)
+  - Chapter 3 Approval of superfund transfers
+    - [s. 65 Prohibition of unapproved superfund transfers](section/65.md)
+    - [s. 66 Approval of superfund transfers](section/66.md)
+    - [s. 67 Special provision for certain schemes coming out of assessment period](section/67.md)
+    - [s. 68 Applications for approval](section/68.md)
+  - Chapter 4 Ongoing requirements of operating superfunds
+    - Governance and organisation
+      - [s. 69 Governance and structure](section/69.md)
+      - [s. 70 Management documents](section/70.md)
+    - Funding and investment
+      - [s. 71 Duty to monitor financial thresholds](section/71.md)
+      - [s. 72 “Financial thresholds”](section/72.md)
+      - [s. 73 Capital buffer: compulsory release to trustees](section/73.md)
+      - [s. 74 Capital buffer: permitted release to other persons](section/74.md)
+      - [s. 75 Capital buffer: investment](section/75.md)
+      - [s. 76 Capital buffer: verification of valuations](section/76.md)
+    - Approval and certification of key personnel
+      - [s. 77 Key functions](section/77.md)
+      - [s. 78 Approval of individuals responsible for key functions](section/78.md)
+      - [s. 79 Certification of staff supporting individuals responsible for key functions](section/79.md)
+      - [s. 80 Approval of superfund scheme trustees](section/80.md)
+    - Information and reporting
+      - [s. 81 Events to be notified to the Regulator](section/81.md)
+      - [s. 82 Regular reporting](section/82.md)
+      - [s. 83 Returns](section/83.md)
+      - [s. 84 Reports in relation to alleged compliance breaches](section/84.md)
+      - [s. 85 Provision of information by responsible body to trustees](section/85.md)
+  - Chapter 5 Events of concern
+    - [s. 86 “Event of concern” and “period of concern”](section/86.md)
+    - [s. 87 Notification of Regulator in respect of events of concern](section/87.md)
+    - [s. 88 Responding to events of concern](section/88.md)
+    - [s. 89 Content of response plan](section/89.md)
+    - [s. 90 Regulator’s direction-making powers during period of concern](section/90.md)
+    - [s. 91 Directions to pause payments or transfers of liabilities: supplementary provision](section/91.md)
+    - [s. 92 Fixed penalty notices](section/92.md)
+    - [s. 93 Escalating penalty notices](section/93.md)
+    - [s. 94 Withdrawal of authorisation](section/94.md)
+    - [s. 95 Release of capital buffer treated as reducing employer debt](section/95.md)
+  - Chapter 6 General provision and interpretation
+    - [s. 96 Power to extend superfunds legislation to similar structures](section/96.md)
+    - [s. 97 Construction of “occupational pension scheme” and “employer” in relation to superfund schemes](section/97.md)
+    - [s. 98 Consequential amendments](section/98.md)
+    - [s. 99 Transitional provision](section/99.md)
+    - [s. 100 Interpretation of Part](section/100.md)
+- Part 4 Miscellaneous
+  - Chapter 1 Validity of certain alterations to salary-related contracted-out pension schemes
+    - Schemes in Great Britain
+      - [s. 101 Sections 101 to 104: interpretation and scope](section/101.md)
+      - [s. 102 Validity of certain alterations to GB salary-related contracted-out pension schemes: subsisting schemes](section/102.md)
+      - [s. 103 Validity of certain alterations to GB salary-related contracted-out pension schemes: wound up schemes and other special cases](section/103.md)
+      - [s. 104 Powers to amend provisions of Chapter 1 etc: Great Britain](section/104.md)
+    - Schemes in Northern Ireland
+      - [s. 105 Sections 105 to 108: interpretation and scope](section/105.md)
+      - [s. 106 Validity of certain alterations to NI salary-related contracted-out pension schemes: subsisting schemes](section/106.md)
+      - [s. 107 Validity of certain alterations to NI salary-related contracted-out pension schemes: wound up schemes and other special cases](section/107.md)
+      - [s. 108 Powers to amend Chapter 1 etc: Northern Ireland](section/108.md)
+  - Chapter 2 Pension compensation: indexation
+    - [s. 109 Indexation of periodic compensation for pre-1997 service: Great Britain](section/109.md)
+    - [s. 110 Indexation of periodic compensation for pre-1997 service: Northern Ireland](section/110.md)
+    - [s. 111 Financial Assistance Scheme: indexation of payments for pre-1997 service](section/111.md)
+  - Chapter 3 AWE Pension Scheme
+    - New public pension schemes
+      - [s. 112 Establishment of new public schemes and transfer of rights](section/112.md)
+      - [s. 113 New public schemes: further provision](section/113.md)
+      - [s. 114 Protection against adverse treatment: transfer of rights](section/114.md)
+      - [s. 115 Protection against adverse treatment: amendment of new public schemes](section/115.md)
+      - [s. 116 Transfer of assets and liabilities](section/116.md)
+    - Supplementary
+      - [s. 117 Taxation](section/117.md)
+      - [s. 118 Information](section/118.md)
+      - [s. 119 Regulations](section/119.md)
+      - [s. 120 Interpretation](section/120.md)
+  - Chapter 4 Other miscellaneous provision
+    - [s. 121 Alienation or forfeiture of occupational pension](section/121.md)
+    - [s. 122 Terminal illness](section/122.md)
+    - [s. 123 Pension protection levies](section/123.md)
+    - [s. 124 Pensions dashboards](section/124.md)
+    - [s. 125 Information to be given to pension schemes by employers](section/125.md)
+    - [s. 126 Funding of the Board of the Pension Protection Fund](section/126.md)
+    - [s. 127 Funding of the Ombudsman for the Board of the Pension Protection Fund](section/127.md)
+    - [s. 128 Public service pension schemes](section/128.md)
+- Part 5 General
+  - [s. 129 Amendments of Pensions Act 2004](section/129.md)
+  - [s. 130 Regulations: general](section/130.md)
+  - [s. 131 Regulations: procedure](section/131.md)
+  - [s. 132 Extent](section/132.md)
+  - [s. 133 Commencement](section/133.md)
+  - [s. 134 Short title](section/134.md)
+- Schedule Amendments of Pensions Act 2004
+  - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - [Sch. paragraph 7](schedule/paragraph/7.md)
+  - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - [Sch. paragraph 9](schedule/paragraph/9.md)
+  - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - [Sch. paragraph 11](schedule/paragraph/11.md)
+  - [Sch. paragraph 12](schedule/paragraph/12.md)
+  - [Sch. paragraph 13](schedule/paragraph/13.md)
+  - [Sch. paragraph 14](schedule/paragraph/14.md)
+  - [Sch. paragraph 15](schedule/paragraph/15.md)
+  - [Sch. paragraph 16](schedule/paragraph/16.md)
+  - [Sch. paragraph 17](schedule/paragraph/17.md)
+  - [Sch. paragraph 18](schedule/paragraph/18.md)
+  - [Sch. paragraph 19](schedule/paragraph/19.md)
+  - [Sch. paragraph 20](schedule/paragraph/20.md)
+  - [Sch. paragraph 21](schedule/paragraph/21.md)
