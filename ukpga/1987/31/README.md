@@ -1,0 +1,196 @@
+# Landlord and Tenant Act 1987
+
+1987 c. 31. Enacted 1987-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 41 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1987/31
+
+Source: https://www.legislation.gov.uk/ukpga/1987/31/2026-06-29
+
+## Contents
+
+- Part I Tenants’ Rights of First Refusal
+  - Preliminary
+    - [s. 1 Qualifying tenants to have rights of first refusal on disposals by landlord.](section/1.md)
+    - [s. 2 Landlords for the purposes of Part I.](section/2.md)
+    - [s. 3 Qualifying tenants.](section/3.md)
+    - [s. 4 Relevant disposals.](section/4.md)
+    - [s. 4A Application of provisions to contracts.](section/4A.md)
+  - Rights of first refusal
+    - [s. 5 Landlord required to serve offer notice on tenants.](section/5.md)
+    - [s. 5A Offer notice: requirements in case of contract to be completed by conveyance, &c.](section/5A.md)
+    - [s. 5B Offer notice: requirements in case of sale by auction.](section/5B.md)
+    - [s. 5C Offer notice: requirements in case of grant or option or right of pre-emption.](section/5C.md)
+    - [s. 5D Offer notice: requirements in case of conveyance not preceded by contract, &c.](section/5D.md)
+    - [s. 5E Offer notice: disposal for non-monetary consideration.](section/5E.md)
+    - [s. 6 Acceptance of landlord’s offer: general provisions.](section/6.md)
+    - [s. 7 Failure to accept landlord’s offer or to make nomination.](section/7.md)
+    - [s. 8 Landlord’s obligations in case of acceptance and nomination.](section/8.md)
+    - [s. 8A Landlord’s obligation: general provisions.](section/8A.md)
+    - [s. 8B Landlord’s obligation: election in case of sale at auction.](section/8B.md)
+    - [s. 8C Election in case of disposal for non-monetary consideration.](section/8C.md)
+    - [s. 8D Disposal in pursuance of option or right of pre-emption.](section/8D.md)
+    - [s. 8E Covenant, &c affecting landlord’s power to dispose.](section/8E.md)
+    - [s. 9A Notice of withdrawal by nominated person.](section/9A.md)
+    - [s. 9B Notice of withdrawal by landlord.](section/9B.md)
+    - [s. 9 Withdrawal of either party from transaction.](section/9.md)
+    - [s. 10 Lapse of landlord’s offer.](section/10.md)
+    - [s. 10A Offence of failure to comply with requirements of Part I.](section/10A.md)
+  - Enforcement by tenants of rights against purchaser
+    - [s. 11 Circumstances in which tenants’ rights enforceable against purchaser](section/11.md)
+    - [s. 11A Right to information as to terms of disposal, &c.](section/11A.md)
+    - [s. 12A Right of qualifying tenants to take benefit of contract.](section/12A.md)
+    - [s. 12B Right of qualifying tenants to compel sale, &c. by purchaser.](section/12B.md)
+    - [s. 12C Right of qualifying tenants to compel grant of new tenancy by superior landlord](section/12C.md)
+    - [s. 12D Nominated persons: supplementary provisions.](section/12D.md)
+    - [s. 12 Right of qualifying tenants to compel sale etc. by new landlord.](section/12.md)
+    - [s. 13 Determination of questions by leasehold valuation tribunal.](section/13.md)
+    - [s. 14 Withdrawal of nominated person from transaction under s.12B or 12C.](section/14.md)
+    - [s. 15 Right of qualifying tenants to compel grant of new tenancy by superior landlord.](section/15.md)
+  - Enforcement by tenants of rights against subsequent purchasers
+    - [s. 16 Rights of qualifying tenants against subsequent purchaser.](section/16.md)
+  - Termination of rights against purchasers or subsequent purchasers
+    - [s. 17 Termination of rights against purchaser or subsequent purchaser.](section/17.md)
+  - Notices served by prospective purchasers
+    - [s. 18 Notices served by prospective purchasers to ensure that rights of first refusal do not arise.](section/18.md)
+  - Supplementary
+    - [s. 18A The requisite majority of qualifying tenants.](section/18A.md)
+    - [s. 19 Enforcement of obligations under Part I.](section/19.md)
+    - [s. 20 Construction of Part I and power of Secretary of State to prescribe modifications.](section/20.md)
+- Part II Appointment of Managers by a ... Tribunal
+  - [s. 21 Tenant’s right to apply to court for appointment of manager.](section/21.md)
+  - [s. 22 Preliminary notice by tenant.](section/22.md)
+  - [s. 23 Application to court for appointment of manager.](section/23.md)
+  - [s. 24 Appointment of manager by a ... tribunal.](section/24.md)
+  - [s. 24ZA Application for appointment of manager by special measures manager](section/24ZA.md)
+  - [s. 24A Jurisdiction of leasehold valuation tribunal.](section/24A.md)
+  - [s. 24B Leasehold valuation tribunal: applications and fees.](section/24B.md)
+- Part III Compulsory Acquisition by Tenants of their Landlord’s Interest
+  - [s. 25 Compulsory acquisition of landlord’s interest by qualifying tenants.](section/25.md)
+  - [s. 26 Qualifying tenants.](section/26.md)
+  - [s. 27 Preliminary notice by tenants.](section/27.md)
+  - [s. 28 Applications for acquisition orders.](section/28.md)
+  - [s. 29 Conditions for making acquisition orders.](section/29.md)
+  - [s. 30 Content of acquisition orders.](section/30.md)
+  - [s. 31 Determination of terms by ... tribunal.](section/31.md)
+  - [s. 32 Discharge of existing mortgages.](section/32.md)
+  - [s. 33 Acquisition order where landlord cannot be found.](section/33.md)
+  - [s. 34 Discharge of acquisition order and withdrawal by tenants.](section/34.md)
+- Part IV Variation of Leases
+  - Applications relating to flats
+    - [s. 35 Application by party to lease for variation of lease.](section/35.md)
+    - [s. 36 Application by respondent for variation of other leases.](section/36.md)
+    - [s. 37 Application by majority of parties for variation of leases.](section/37.md)
+  - Orders varying leases
+    - [s. 38 Orders ... varying leases.](section/38.md)
+    - [s. 39 Effect of orders varying leases: applications by third parties.](section/39.md)
+  - Applications relating to dwellings other than flats
+    - [s. 40 Application for variation of insurance provisions of lease of dwelling other than a flat.](section/40.md)
+- Part V Management of Leasehold Property
+  - Service charges
+    - [s. 41 Amendments relating to service charges.](section/41.md)
+    - [s. 42 Service charge contributions to be held in trust.](section/42.md)
+    - [s. 42A Service charge contributions to be held in designated account](section/42A.md)
+    - [s. 42B Failure to comply with section 42A](section/42B.md)
+  - Insurance
+    - [s. 43 Rights of tenants with respect to insurance.](section/43.md)
+  - Managing agents
+    - [s. 44 Recognised tenants’ associations to be consulted about managing agents.](section/44.md)
+    - [s. 45 ................................](section/45.md)
+- Part VI Information to be Furnished to Tenants
+  - [s. 46 Application of Part VI, etc.](section/46.md)
+  - [s. 47 Landlord’s name and address to be contained in demands for rent etc.](section/47.md)
+  - [s. 47A Building safety information to be contained in demands for rent etc: England](section/47A.md)
+  - [s. 48 Notification by landlord of address for service of notices.](section/48.md)
+  - [s. 49 Extension of circumstances in which notices are sufficiently served.](section/49.md)
+  - [s. 49A Notification by landlord of building safety information: England](section/49A.md)
+  - [s. 50 Continuation of former landlord’s liability to tenant where no notice of assignment.](section/50.md)
+  - [s. 51 ................................](section/51.md)
+- Part VII General
+  - [s. 52 Jurisdiction of county courts.](section/52.md)
+  - [s. 52A Jurisdiction of leasehold valuation tribunal under Part I or III.](section/52A.md)
+  - [s. 53 Regulations and orders.](section/53.md)
+  - [s. 54 Notices.](section/54.md)
+  - [s. 55 Application to Isles of Scilly.](section/55.md)
+  - [s. 56 Crown land.](section/56.md)
+  - [s. 57 Financial provision.](section/57.md)
+  - [s. 58 Exempt landlords and resident landlords.](section/58.md)
+  - [s. 59 Meaning of “lease”, “long lease” and related expressions.](section/59.md)
+  - [s. 60 General interpretation.](section/60.md)
+  - [s. 61 Consequential amendments and repeals.](section/61.md)
+  - [s. 62 Short title, commencement and extent.](section/62.md)
+- SCHEDULE 1 DISCHARGE OF MORTGAGES ETC.: SUPPLEMENTARY PROVISIONS
+  - Part I Discharge In Pursuance Of Purchase Notices
+    - Construction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Duty of nominated person to redeem mortgages
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Determination of amounts due in respect of mortgages
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Payments into court
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Savings
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part II Discharge In Pursuance Of Acquisition Orders
+    - Construction
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Duty of nominated person to redeem mortgages
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Determination of amounts due in respect of mortgages
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Payments into court
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Savings
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 AMENDMENTS RELATING TO SERVICE CHARGES
+  - Meaning of “service charge” and “relevant costs”
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Limitation of service charges: reasonableness
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Limitation of service charges: estimates and consultation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Additional limitations on service charges
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Request for summary of relevant costs
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Request to inspect supporting accounts etc.
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Effect of assignment on request
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Exception where rent is registered and not entered as variable
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Meaning of “qualified accountant”
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Meaning of “recognised tenants’ association”
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Definitions
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 RIGHTS OF TENANTS WITH RESPECT TO INSURANCE
+  - Construction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Request for summary of insurance cover
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Request to inspect insurance policy etc.
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Request relating to insurance effected by superior landlord
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Effect of assignment on request
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Failure to comply with paragraph 2, 3 or 4 an offence
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Tenant’s right to notify insurers of possible claim
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Right to challenge landlord’s choice of insurers
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Exception for tenants of certain public authorities
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 CONSEQUENTIAL AMENDMENTS
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 REPEALS
