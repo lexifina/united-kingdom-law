@@ -1,0 +1,193 @@
+# Pensions (Increase) Act 1971
+
+1971 c. 56. Enacted 1971-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1971/56/2026-06-29
+
+## Contents
+
+- Part I General Provisions
+  - [s. 1 Present increases.](section/1.md)
+  - [s. 2 Future reviews and increases.](section/2.md)
+  - [s. 3 Qualifying conditions.](section/3.md)
+  - [s. 4 Effect of re-employment.](section/4.md)
+  - [s. 5 Scope of Act, and general powers to extend and adapt increases.](section/5.md)
+  - [s. 6 Preservation for certain purposes of benefit of previous Acts.](section/6.md)
+  - [s. 7 Administrative provisions.](section/7.md)
+  - [s. 8 Meaning of “pension”, and other supplementary provisions.](section/8.md)
+  - [s. 8A Section 8(2): references to “service”](section/8A.md)
+  - [s. 9 Gratuities and lump sums.](section/9.md)
+- Part II Special Extensions
+  - [s. 10 Overseas government pensions (India, Pakistan and Burma).](section/10.md)
+  - [s. 11 Other overseas government pensions.](section/11.md)
+  - [s. 11A](section/11A.md)
+  - [s. 12 Other overseas pensions.](section/12.md)
+  - [s. 13 Pensions under approved pension schemes.](section/13.md)
+- Part III Supplementary
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 Adjustment of fire service pensions.](section/15.md)
+  - [s. 16 Expenses.](section/16.md)
+  - [s. 17 Interpretation.](section/17.md)
+  - [s. 18 Repeal, and transitional provisions.](section/18.md)
+  - [s. 19 Short title and extent.](section/19.md)
+- SCHEDULE 1 Table for conversion of basic rate to 1969 standard
+- SCHEDULE 2 Official Pensions
+  - Part I State Pensions
+    - Ministerial and parliamentary
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - European Assembly
+      - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+    - Civil Service
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 4ZA](schedule/2/paragraph/4ZA.md)
+      - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+      - [Sch. 2 para. 4AA](schedule/2/paragraph/4AA.md)
+      - [Sch. 2 para. 4B](schedule/2/paragraph/4B.md)
+    - Administration of justice
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Police and firemen
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 15A](schedule/2/paragraph/15A.md)
+      - [Sch. 2 para. 15B](schedule/2/paragraph/15B.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 16A](schedule/2/paragraph/16A.md)
+      - [Sch. 2 para. 16B](schedule/2/paragraph/16B.md)
+    - Teachers
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 20A](schedule/2/paragraph/20A.md)
+      - [Sch. 2 para. 20B](schedule/2/paragraph/20B.md)
+      - [Sch. 2 para. 20C](schedule/2/paragraph/20C.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - National health service
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
+      - [Sch. 2 para. 22B](schedule/2/paragraph/22B.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 23A](schedule/2/paragraph/23A.md)
+    - National insurance
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Diplomatic, colonial and overseas service
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 27A](schedule/2/paragraph/27A.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Armed forces
+      - [Sch. 2 para. 29A](schedule/2/paragraph/29A.md)
+    - Service in Ireland
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Miscellaneous
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 38A](schedule/2/paragraph/38A.md)
+  - Part II Pensions out of Local Funds
+    - Scottish Parliament and Scottish Executive
+      - [Sch. 2 para. 38AB](schedule/2/paragraph/38AB.md)
+    - National Assembly for Wales
+      - [Sch. 2 para. 38B](schedule/2/paragraph/38B.md)
+    - Local government service
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 39A](schedule/2/paragraph/39A.md)
+    - Administration of justice
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - Police and firemen
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 43A](schedule/2/paragraph/43A.md)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 44A](schedule/2/paragraph/44A.md)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - Court and police staffs
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - Probation and after-care service
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+      - [Sch. 2 para. 53A](schedule/2/paragraph/53A.md)
+      - [Sch. 2 para. 53B](schedule/2/paragraph/53B.md)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - Teachers and school staff
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+      - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+      - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+    - Miscellaneous
+      - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+      - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+      - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+      - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+      - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+      - [Sch. 2 para. 64A](schedule/2/paragraph/64A.md)
+      - [Sch. 2 para. 64B](schedule/2/paragraph/64B.md)
+      - [Sch. 2 para. 64C](schedule/2/paragraph/64C.md)
+      - [Sch. 2 para. 64D](schedule/2/paragraph/64D.md)
+  - Part III Other Pensions
+    - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+    - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+    - [Sch. 2 para. 68A](schedule/2/paragraph/68A.md)
+- SCHEDULE 3 Further Administrative, Incidental and Consequential Provisions
+  - Liability for cost of increase of certain local authority, police and fire service pensions
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Pensions of former civil servants payable by Post Office
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+  - Re-employed teachers
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Retired staff of former approved schools etc.
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Meaning of “local authority” and “local government service”
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Overseas Government Pensions (India, Pakistan and Burma)
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - List of funds
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Other Overseas Government Pensions
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Employments Relevant to Section 13(2)
+- SCHEDULE 7 Consequential Repeals
+- SCHEDULE 8 Repeals of Spent Provisions
+  - Part I Outright Repeals
+  - Part II Repeals with Saving for Existing Pensions
