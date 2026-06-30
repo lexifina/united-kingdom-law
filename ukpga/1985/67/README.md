@@ -1,0 +1,440 @@
+# Transport Act 1985
+
+1985 c. 67. Enacted 1985-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-06-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 54 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
+
+Source: https://www.legislation.gov.uk/ukpga/1985/67/2026-06-30
+
+## Contents
+
+- Part I General Provisions Relating to Road Passenger Transport
+  - Abolition of road service licensing
+    - [s. 1 Abolition of road service licensing.](section/1.md)
+  - Meaning of “local service”
+    - [s. 2 Local services.](section/2.md)
+  - Traffic commissioners
+    - [s. 3 Traffic commissioners.](section/3.md)
+    - [s. 4 Inquiries held by traffic commissioners.](section/4.md)
+    - [s. 5 Assistance for traffic commissioners in considering financial questions.](section/5.md)
+  - Registration of local services
+    - [s. 6 Registration of local services.](section/6.md)
+  - Provision of service information in Scotland
+    - [s. 6ZA Provision of service information when varying or cancelling registration](section/6ZA.md)
+    - [s. 6ZB Provision of service information: extent of permissible disclosure](section/6ZB.md)
+    - [s. 6ZC Provision of service information: further provision and consultation](section/6ZC.md)
+    - [s. 6A Applications for registration etc where restrictions are in force](section/6A.md)
+    - [s. 6B Applications for registration where quality contracts scheme in force](section/6B.md)
+    - [s. 6C Variation or cancellation of registration: service information](section/6C.md)
+    - [s. 6D Applications for registration where an enhanced partnership scheme is in operation](section/6D.md)
+    - [s. 6E Cancellation and control of registration where enhanced partnership scheme is in operation](section/6E.md)
+    - [s. 6F Enhanced partnership schemes: appeals](section/6F.md)
+    - [s. 6G Traffic commissioner functions where an enhanced partnership scheme in operation](section/6G.md)
+    - [s. 6H Fees relating to relevant registration functions](section/6H.md)
+    - [s. 6I Records of registration etc](section/6I.md)
+    - [s. 6J Contracting out of registration functions: fees](section/6J.md)
+    - [s. 6K Application for registration where service standard has effect](section/6K.md)
+    - [s. 6L Cancellation of registration when operational service standards not met](section/6L.md)
+    - [s. 6M Power to make regulations for appeals against service standards decisions](section/6M.md)
+    - [s. 6N Scrutiny of operation of bus services improvement partnership](section/6N.md)
+    - [s. 7 Application of traffic regulation conditions to local services subject to registration under section 6.](section/7.md)
+    - [s. 8 Enforcement of traffic regulation conditions, etc.](section/8.md)
+    - [s. 9 Appeals against traffic regulation conditions.](section/9.md)
+  - Taxis and hire cars
+    - [s. 10 Immediate hiring of taxis at separate fares.](section/10.md)
+    - [s. 11 Advance booking of taxis and hire cars at separate fares.](section/11.md)
+    - [s. 12 Use of taxis or hire cars in providing local services.](section/12.md)
+    - [s. 13 Provisions supplementary to sections 10 to 12.](section/13.md)
+    - [s. 13A Application of sections 10 to 13 to London](section/13A.md)
+    - [s. 14 Operation of taxis and private hire cars in Scotland for the carriage of passengers at separate fares.](section/14.md)
+    - [s. 15 Extension of taxi licensing in England and Wales.](section/15.md)
+    - [s. 16 Taxi licensing: control of numbers.](section/16.md)
+    - [s. 17 London taxi and taxi driver licensing: appeals.](section/17.md)
+  - Modification of PSV requirements in relation to vehicles used for certain purposes
+    - [s. 18 Exemption from PSV operator and driver licensing requirements of vehicles used under permits.](section/18.md)
+    - [s. 19 Permits in relation to use of public service vehicles by educational and other bodies](section/19.md)
+    - [s. 20 Further provision with respect to permits under section 19.](section/20.md)
+    - [s. 21 Permits under section 19: regulations.](section/21.md)
+    - [s. 22 Community bus permits.](section/22.md)
+    - [s. 23 Further provision with respect to community bus permits.](section/23.md)
+    - [s. 23A Power to limit permits under section 19 or 22 to 5 years](section/23A.md)
+  - Further amendments with respect to PSV operators’ licences
+    - [s. 24 Limit on number of vehicles to be used under a restricted licence.](section/24.md)
+    - [s. 25 Objections to application for PSV operator’s licence.](section/25.md)
+    - [s. 26 Conditions attached to PSV operator’s licence.](section/26.md)
+    - [s. 27 Supplementary provisions with respect to conditions attached to PSV operator’s licence under section 26.](section/27.md)
+    - [s. 27A Additional powers where service not operated as registered](section/27A.md)
+    - [s. 27B Provisions supplementing section 27A](section/27B.md)
+    - [s. 28 Power to disqualify PSV operators.](section/28.md)
+    - [s. 29 Duty to give Secretary of State information about certain matters.](section/29.md)
+    - [s. 30 Plying for hire by large public service vehicles.](section/30.md)
+    - [s. 31 Appeals under the 1981 Act.](section/31.md)
+  - Miscellaneous
+    - [s. 32 Repeal of sections 28, 47 and 48 of the 1981 Act.](section/32.md)
+    - [s. 33 Extension of safety controls to certain passenger vehicles other than public service vehicles.](section/33.md)
+- Part II Regulation of Road Passenger Transport in London
+  - London local service licences
+    - [s. 34 London local services.](section/34.md)
+    - [s. 35 London local service licences.](section/35.md)
+    - [s. 36 London bus services under control of London Regional Transport.](section/36.md)
+    - [s. 37 Grant of licences.](section/37.md)
+    - [s. 38 Conditions attached to licences.](section/38.md)
+    - [s. 39 Grant of licences for certain excursions or tours.](section/39.md)
+    - [s. 40 Revocation and suspension of licences.](section/40.md)
+    - [s. 41 Duration of licences.](section/41.md)
+  - Supplementary provisions
+    - [s. 42 Appeals to the Secretary of State.](section/42.md)
+    - [s. 43 Further appeals on points of law.](section/43.md)
+    - [s. 44 Application of provisions of the 1981 Act.](section/44.md)
+    - [s. 45 Interpretation of Part II.](section/45.md)
+  - Repeal of Part II
+    - [s. 46 Power of Secretary of State to repeal Part II.](section/46.md)
+- Part III The National Bus Company
+  - The Bus Company’s disposal programme
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+  - Powers of disposal
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+  - Miscellaneous and supplementary
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 Dissolution of the Bus Company.](section/54.md)
+    - [s. 55 Reduction of assets of National Loans Fund.](section/55.md)
+    - [s. 56 Interpretation of Part III.](section/56.md)
+- Part IV Local Passenger Transport Services
+  - Integrated Transport Areas and Passenger Transport Areas
+    - [s. 57 Areas, Authorities and Executives.](section/57.md)
+    - [s. 58 Local government reorganisation: transport functions.](section/58.md)
+    - [s. 59 Transfer of bus undertakings of Executives to companies owned by Authorities.](section/59.md)
+    - [s. 60 Exclusion of public sector co-operation requirements and bus operating powers.](section/60.md)
+    - [s. 61 Division of undertakings of companies formed under section 59.](section/61.md)
+    - [s. 62 Protection of employee benefits on transfer and division of bus undertakings.](section/62.md)
+  - Passenger transport in other areas
+    - [s. 63 Functions of local councils with respect to passenger transport in areas other than integrated transport areas and passenger transport areas.](section/63.md)
+    - [s. 64 Consultation and publicity with respect to policies as to services.](section/64.md)
+    - [s. 65 Co-operation between certain councils and London Regional Transport.](section/65.md)
+    - [s. 66 Exclusion of powers of certain councils to run bus undertakings.](section/66.md)
+    - [s. 67 Formation of companies to run council bus undertakings.](section/67.md)
+    - [s. 68 Schemes for transfer of individual council bus undertakings to companies formed under section 67.](section/68.md)
+    - [s. 69 Orders for transfer of joint undertakings to companies formed under section 67.](section/69.md)
+    - [s. 70 Supplementary provisions with respect to orders under section 69.](section/70.md)
+    - [s. 71 Exemption for councils running small bus undertakings.](section/71.md)
+  - Further provisions with respect to companies formed under Part IV
+    - [s. 72 The public transport companies and their controlling authorities.](section/72.md)
+    - [s. 73 Control over constitution and activities of public transport companies.](section/73.md)
+    - [s. 74 Disabilities of directors of public transport companies.](section/74.md)
+    - [s. 75 Powers of investment and disposal in relation to public transport companies.](section/75.md)
+    - [s. 76 Audit of accounts of public transport companies.](section/76.md)
+    - [s. 77 Local authority financial controls in Scotland.](section/77.md)
+    - [s. 78 Provision of services for public transport companies.](section/78.md)
+    - [s. 79 Financial backing for establishment and operations of public transport companies.](section/79.md)
+  - Miscellaneous and supplementary
+    - [s. 80 Duty of Integrated Transport Authority or Passenger Transport Authority not to inhibit competition.](section/80.md)
+    - [s. 81 Provision, maintenance and operation of bus stations.](section/81.md)
+    - [s. 82 Bus stations: restrictions on discriminatory practices, etc.](section/82.md)
+    - [s. 83 Provisions supplementary to sections 81 and 82.](section/83.md)
+    - [s. 84 Compensation for loss of employment, etc.](section/84.md)
+    - [s. 85 Incorporation of Passenger Transport Executives in Authorities for their area.](section/85.md)
+    - [s. 86 Amendments consequential on orders under section 85.](section/86.md)
+    - [s. 87 Interpretation of Part IV.](section/87.md)
+- Part V Financial Provisions
+  - Expenditure on public passenger transport services
+    - [s. 88 Expenditure on public passenger transport services.](section/88.md)
+    - [s. 89 Obligation to invite tenders for subsidised services.](section/89.md)
+    - [s. 90 Provisions supplementary to section 89.](section/90.md)
+    - [s. 91 Exceptions from section 89.](section/91.md)
+    - [s. 92 General provisions with respect to the exercise of service subsidy functions.](section/92.md)
+  - Travel concession schemes
+    - [s. 93 Travel concession schemes.](section/93.md)
+    - [s. 94 Administration of schemes: reimbursement, etc.](section/94.md)
+    - [s. 95 Publicity requirements for schemes and reimbursement arrangements.](section/95.md)
+    - [s. 96 Right of eligible service operators to participate in travel concession schemes.](section/96.md)
+    - [s. 97 Compulsory participation in travel concession schemes.](section/97.md)
+    - [s. 98 Further provisions with respect to participation notices.](section/98.md)
+    - [s. 99 Release from compulsory participation.](section/99.md)
+    - [s. 100 Provisions Supplementary to sections 96 to 99](section/100.md)
+    - [s. 101 Enforcement of participation in travel concession schemes.](section/101.md)
+    - [s. 102 Application of Passenger Transport Executive’s financial plan to expenditure on travel concessions under schemes.](section/102.md)
+  - Travel concessions apart from schemes
+    - [s. 103 Subsidies for travel concessions.](section/103.md)
+    - [s. 104 Travel concessions on services provided by Passenger Transport Executives.](section/104.md)
+    - [s. 105 Travel concessions on services provided by local authorities.](section/105.md)
+  - Grants for transport facilities and services
+    - [s. 106 Grants for transport facilities and services.](section/106.md)
+    - [s. 106A Grants for bus services.](section/106A.md)
+  - Grants for services for disabled people in London
+    - [s. 107 Grants by London Regional Transport.](section/107.md)
+  - Grants for services in rural areas
+    - [s. 108 Grants for establishment, etc., of rural passenger services in Walesand Scotland.](section/108.md)
+    - [s. 109 Transitional rural bus grants.](section/109.md)
+  - Miscellaneous and supplementary
+    - [s. 110 Grants towards duty charged on bus fuel.](section/110.md)
+    - [s. 111 Unregistered and unreliable local services; reduction of fuel duty grant.](section/111.md)
+    - [s. 112 Interpretation of Part V.](section/112.md)
+- PART 5A PASSENGERS’ COUNCIL: ROAD PASSENGER TRANSPORT FUNCTIONS IN ENGLAND
+  - [s. 112A Introductory](section/112A.md)
+  - [s. 112B Duty to keep road passenger transport services and facilities under review](section/112B.md)
+  - [s. 112C Duty to investigate road passenger transport services and facilities](section/112C.md)
+  - [s. 112D Power to refer matters elsewhere instead of investigating](section/112D.md)
+  - [s. 112E Investigations: power to obtain information](section/112E.md)
+  - [s. 112F Investigations: protection of confidential information](section/112F.md)
+  - [s. 112G Investigations: representations](section/112G.md)
+  - [s. 112H Referrals following investigation](section/112H.md)
+  - [s. 112I Referrals in cases where investigation identifies other failings](section/112I.md)
+  - [s. 112J Traffic commissioner’s duty following referral](section/112J.md)
+  - [s. 112K Investigation reports](section/112K.md)
+  - [s. 112L Interpretation of Part 5A](section/112L.md)
+- Part VI Miscellaneous and General
+  - Exclusion of requirement to co-ordinate services of public sector transport undertakings
+    - [s. 113 Repeal of section 24(3) of the 1968 Act.](section/113.md)
+  - Competition law: bus services and bus stations
+    - [s. 114 Monopoly references with respect to bus services.](section/114.md)
+    - [s. 115 ................................](section/115.md)
+    - [s. 116 ................................](section/116.md)
+  - Reconstitution of the Transport Tribunal
+    - [s. 117 Reconstitution of the Transport Tribunal.](section/117.md)
+  - Road passenger transport services in place of railway services
+    - [s. 118 Railways Board’s road passenger transport services.](section/118.md)
+    - [s. 119 Bus substitution services and bus service conditions.](section/119.md)
+    - [s. 120 Notice of withdrawal of bus substitution service.](section/120.md)
+    - [s. 121 Objections to withdrawal of bus substitution service.](section/121.md)
+    - [s. 122 Revocation or variation of bus service conditions.](section/122.md)
+    - [s. 123 Supplementary and consequential provisions.](section/123.md)
+    - [s. 124 Reimbursement of Board’s expenses in securing bus substitution services.](section/124.md)
+  - The Disabled Persons Transport Advisory Committee
+    - [s. 125 The Disabled Persons Transport Advisory Committee and Secretary of State’s Guidance.](section/125.md)
+  - The Public Transport Users’ Committee for England
+    - [s. 125A The Public Transport Users’ Committee for England](section/125A.md)
+    - [s. 125B Functions of the Committee](section/125B.md)
+    - [s. 125C Power to confer functions in relation to the Committee](section/125C.md)
+  - Provisions supplementary to Parts I and II
+    - [s. 126 Application of sections 52 and 56 of the 1981 Act.](section/126.md)
+    - [s. 127 Offences and legal proceedings.](section/127.md)
+    - [s. 128 Further supplementary provisions.](section/128.md)
+  - General supplementary provisions
+    - [s. 129 Transfer schemes.](section/129.md)
+    - [s. 130 Corporation tax and capital gains tax.](section/130.md)
+    - [s. 131 Stamp duty.](section/131.md)
+    - [s. 132 Operation of vehicles, etc., by partnerships.](section/132.md)
+    - [s. 133 Functions of Authorities and Executives: supplementary.](section/133.md)
+    - [s. 134 Regulations, rules and orders.](section/134.md)
+    - [s. 135 Procedure for making regulations, rules and orders.](section/135.md)
+    - [s. 136 Directions.](section/136.md)
+    - [s. 137 General interpretation.](section/137.md)
+    - [s. 138 Expenses and receipts.](section/138.md)
+    - [s. 139 Transitional provisions, savings, amendments, repeals and revocation.](section/139.md)
+    - [s. 140 Short title, commencement and extent.](section/140.md)
+- SCHEDULE 1 Amendments Consequential on the Abolition of Road Service Licensing
+  - The Transport Act 1968
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Energy Act 1976
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Public Passenger Vehicles Act 1981
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The Road Traffic Regulation Act 1984
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Amendments Consequential on Section 3
+  - Part I
+- SCHEDULE Substituted for Schedule 2 to the 1981 Act
+  - Part II Further Consequential Amendments
+    - The Transport Act 1968
+      - [Sch. n3 para. 1](schedule/n3/paragraph/1.md)
+    - The Tribunals and Inquiries Act 1971
+      - [Sch. n3 para. 2](schedule/n3/paragraph/2.md)
+      - [Sch. n3 para. 3](schedule/n3/paragraph/3.md)
+    - The Public Passenger Vehicles Act 1981
+      - [Sch. n3 para. 4](schedule/n3/paragraph/4.md)
+    - The Civic Government (Scotland) Act 1982
+      - [Sch. n3 para. 5](schedule/n3/paragraph/5.md)
+    - The Road Traffic Regulation Act 1984
+      - [Sch. n3 para. 6](schedule/n3/paragraph/6.md)
+    - The London Regional Transport Act 1984
+      - [Sch. n3 para. 7](schedule/n3/paragraph/7.md)
+- SCHEDULE 3 Amendments Consequential on Section 57
+  - The Transport Act 1968
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Post Office Act 1969
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Pensions (Increase) Act 1971
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Local Government Act 1972
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - The Local Government (Scotland) Act 1973
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - The Local Government, Planning and Land Act 1980
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - The Transport Act 1983
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - The Road Traffic Regulation Act 1984
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+- SCHEDULE 4 Constitution, Powers and Proceedings of the Transport Tribunal
+  - Constitution
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Tenure of Office
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Staff of the tribunal
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Remuneration and expenses
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Powers and proceedings
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Appeals
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Exercise of powers by Lord Chancellor
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Annual Report
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Powers of First-tier Tribunal and Upper Tribunal in relation to transport appeals
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 The Disabled Persons Transport Advisory Committee
+  - Administration, etc.
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Constitution and procedure
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Transitional Provisions and Savings
+    - Road service licensing during transitional period
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Registration of local services outside London
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Variation and cancellation of registrations during transitional period
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Duty to notify relevant authorities of applications for registrations etc.
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Publication of information by traffic commissioner
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - School buses
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Continuation of existing road service licences
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Traffic commissioners
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - PSV operators’ licences
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Appeals under section 18 of Civic Government (Scotland) Act 1982 (c.45)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - London local service licences
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Compensation for loss of employment, etc.
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Tendering
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Agreements under section 3 of the Transport Act 1978
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Travel concessions
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - The Transport Tribunal
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Transfers under section 17 of the 1968 Act
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+- SCHEDULE 7 Minor and Consequential Amendments
+  - General
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The London Hackney Carriages Act 1843
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Town Police Clauses Act 1847
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Road Traffic Act 1930
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - The Transport Charges &c. (Miscellaneous Provisions) Act 1954
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - The Transport Act 1962
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Transport Act 1968
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - The Post Office Act 1969
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - The Local Authority Social Services Act 1970
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - The Tribunals and Inquiries Act 1971
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - The Local Government (Scotland) Act 1973
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - The Licensing (Scotland) Act 1976
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - The Concessionary Travel for Handicapped Persons (Scotland) Act 1980
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - The Transport Act 1980
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - The Public Passenger Vehicles Act 1981
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - The Local Government Finance Act 1982
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - The Civic Government (Scotland) Act 1982
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - The London Regional Transport Act 1984
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+- SCHEDULE 8 Repeals
