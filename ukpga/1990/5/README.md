@@ -1,0 +1,110 @@
+# Criminal Justice (International Co-operation) Act 1990
+
+1990 c. 5. Enacted 1990-04-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1990/5/2026-07-01
+
+## Contents
+
+- Part I Criminal Proceedings and Investigations
+  - Mutual service of process
+    - [s. 1 Service of overseas process in United Kingdom.](section/1.md)
+    - [s. 2 Service of United Kingdom process overseas.](section/2.md)
+  - Mutual provision of evidence
+    - [s. 3 Overseas evidence for use in United Kingdom.](section/3.md)
+    - [s. 4 United Kingdom evidence for use overseas.](section/4.md)
+    - [s. 5 Transfer of United Kingdom prisoner to give evidence or assist investigation overseas.](section/5.md)
+    - [s. 6 Transfer of overseas prisoner to give evidence or assist investigation in the United Kingdom.](section/6.md)
+  - Additional co-operation powers
+    - [s. 7 Search etc. for material relevant to overseas investigation.](section/7.md)
+    - [s. 8 Search etc. for material relevant to overseas investigation: Scotland.](section/8.md)
+    - [s. 9 Enforcement of overseas forfeiture orders.](section/9.md)
+  - Supplementary
+    - [s. 10 Rules of court.](section/10.md)
+    - [s. 11 Application to courts-martial etc.](section/11.md)
+- Part II The Vienna Convention
+  - Substances useful for manufacture of controlled drugs
+    - [s. 12 Manufacture and supply of scheduled substances.](section/12.md)
+    - [s. 13 Regulations about scheduled substances.](section/13.md)
+  - Proceeds of drug trafficking
+    - [s. 14 Concealing or transferring proceeds of drug trafficking.](section/14.md)
+    - [s. 15 Interest on sums unpaid under confiscation orders.](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+  - Offences at sea
+    - [s. 18 Offences on British ships.](section/18.md)
+    - [s. 19 Ships used for illicit traffic.](section/19.md)
+    - [s. 20 Enforcement powers.](section/20.md)
+    - [s. 21 Jurisdiction and prosecutions.](section/21.md)
+  - Supplementary
+    - [s. 22 Extradition.](section/22.md)
+    - [s. 23 Application of ancillary provisions of Misuse of Drugs Act 1971.](section/23.md)
+    - [s. 23A Extension of certain offences to Crown servants and exemptions for regulators etc.](section/23A.md)
+    - [s. 24 Interpretation of Part II.](section/24.md)
+- Part III Drug Trafficking Money Imported or Exported in Cash
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 26A ................................](section/26A.md)
+  - [s. 26B ................................](section/26B.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+- Part IV General
+  - [s. 30 Expenses and receipts.](section/30.md)
+  - [s. 31 Consequential and other amendments, repeals and revocation.](section/31.md)
+  - [s. 32 Short title, commencement and extent.](section/32.md)
+- SCHEDULE 1 United Kingdom Evidence for Use Overseas: Proceedings of Nominated Court
+  - Securing attendance of witnesses
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Power to administer oaths
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Privilege of witnesses
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Transmission of evidence
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Supplementary
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Substances Useful for Manufacturing Controlled Drugs
+  - TABLE I
+  - TABLE II
+- SCHEDULE 3 Enforcement Powers in Respect of Ships
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Power to stop, board, divert and detain
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Power to search and obtain information
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Powers in respect of suspected offence
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Assistants
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Use of reasonable force
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Evidence of authority
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Protection of officers
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Offences
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Consequential and other Amendments
+  - The Misuse of Drugs Act 1971
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Magistrates’ Courts Act 1980
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Criminal Justice Act 1982
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Drug Trafficking Offences Act 1986
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Criminal Justice (Scotland) Act 1987
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Criminal Justice Act 1988
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Magistrates’ Courts (Northern Ireland) Order 1981
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - The Criminal Justice (Evidence, Etc.)(Northern Ireland) Order 1988
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Repeals
