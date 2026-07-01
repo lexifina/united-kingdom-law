@@ -1,0 +1,286 @@
+# Football Governance Act 2025
+
+2025 c. 21. Enacted 2025-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2025/21/2026-07-01
+
+## Contents
+
+- Part 1 Purpose, overview and key definitions
+  - [s. 1 Purpose and overview](section/1.md)
+  - [s. 2 Key definitions](section/2.md)
+  - [s. 3 Meaning of “owner” etc](section/3.md)
+  - [s. 4 Meanings of “officer” and “senior manager” etc](section/4.md)
+- Part 2 The Independent Football Regulator
+  - The Independent Football Regulator
+    - [s. 5 Establishment of the IFR](section/5.md)
+    - [s. 6 The IFR’s objectives](section/6.md)
+    - [s. 7 The IFR’s general duties etc](section/7.md)
+    - [s. 8 The IFR’s regulatory principles](section/8.md)
+    - [s. 9 Transfer schemes](section/9.md)
+  - Reports, statements and guidance
+    - [s. 10 State of the game report](section/10.md)
+    - [s. 11 Football governance statement](section/11.md)
+    - [s. 12 Guidance published by the IFR](section/12.md)
+    - [s. 13 Guidance published by the Secretary of State](section/13.md)
+    - [s. 14 Annual report](section/14.md)
+- Part 3 Operating licences
+  - Operating licences
+    - [s. 15 Operating licences](section/15.md)
+    - [s. 16 Application for provisional operating licence](section/16.md)
+    - [s. 17 Grant of provisional operating licence](section/17.md)
+    - [s. 18 Grant of full operating licence](section/18.md)
+    - [s. 19 Revocation and cessation of operating licence](section/19.md)
+  - Licence conditions
+    - [s. 20 Mandatory licence conditions](section/20.md)
+    - [s. 21 Discretionary licence conditions](section/21.md)
+    - [s. 22 Scope of powers to attach or vary discretionary licence conditions](section/22.md)
+    - [s. 23 Procedure for attaching or varying financial discretionary licence conditions](section/23.md)
+    - [s. 24 Commitments in lieu of financial discretionary licence conditions](section/24.md)
+    - [s. 25 Procedure for attaching or varying other discretionary licence conditions](section/25.md)
+- Part 4 Owners and officers of regulated clubs: suitability etc
+  - Introductory
+    - [s. 26 Part 4: overview and interpretation](section/26.md)
+  - Persons who become owners or officers of regulated clubs
+    - [s. 27 Duties to notify IFR of prospective new owner or officer](section/27.md)
+    - [s. 28 Determination of suitability required for new owner](section/28.md)
+    - [s. 29 Determination of suitability required for new officer](section/29.md)
+    - [s. 30 Becoming an owner or officer without a determination](section/30.md)
+    - [s. 31 Opportunity to make representations about proposed negative determinations](section/31.md)
+    - [s. 32 Determinations under sections 28 and 29: time limits](section/32.md)
+  - Determinations relating to incumbent owners and officers
+    - [s. 33 Duties to notify IFR of change in circumstances relating to incumbent owner or officer](section/33.md)
+    - [s. 34 Incumbent owners](section/34.md)
+    - [s. 35 Incumbent officers](section/35.md)
+    - [s. 36 Opportunity to make representations about proposed negative findings](section/36.md)
+  - Further provision about determinations
+    - [s. 37 Matters relevant to determinations](section/37.md)
+  - Disqualification orders and enforcement
+    - [s. 38 Disqualification orders](section/38.md)
+    - [s. 39 Removal directions: owners](section/39.md)
+    - [s. 40 Removal directions: officers](section/40.md)
+    - [s. 41 Directions relating to unsuitable owners and officers](section/41.md)
+    - [s. 42 Orders and directions effecting alternative officer arrangements](section/42.md)
+    - [s. 43 Ownership removal orders](section/43.md)
+    - [s. 44 Orders under section 43: procedure, costs and liabilities](section/44.md)
+- Part 5 Duties on clubs and competition organisers etc
+  - Duties on regulated clubs and formerly regulated clubs etc
+    - [s. 45 Duty not to operate a team in relation to a prohibited competition](section/45.md)
+    - [s. 46 Duty not to dispose etc of home ground without approval](section/46.md)
+    - [s. 47 Duty not to appoint administrator without approval](section/47.md)
+  - Duties on regulated clubs
+    - [s. 48 Duty not to relocate without approval](section/48.md)
+    - [s. 49 Duty not to change crest, home shirt colours or name without approval](section/49.md)
+    - [s. 50 Duty to notify of changes in circumstances relevant to the IFR’s functions](section/50.md)
+    - [s. 51 Duty to keep fans informed of insolvency proceedings](section/51.md)
+  - Duties on licensed clubs
+    - [s. 52 Duty to publish a personnel statement](section/52.md)
+    - [s. 53 Duty to pay a levy](section/53.md)
+    - [s. 54 Section 53: consultation and publication](section/54.md)
+  - Duties on specified competition organisers
+    - [s. 55 Duties to notify and consult the IFR](section/55.md)
+- Part 6 Distribution of revenue
+  - Introduction
+    - [s. 56 Part 6: overview and interpretation](section/56.md)
+  - Applications for resolution process to be triggered
+    - [s. 57 Applications for resolution process to be triggered](section/57.md)
+    - [s. 58 Applications under section 57: procedural and other requirements](section/58.md)
+    - [s. 59 Decisions by the IFR on applications under section 57](section/59.md)
+  - Resolution process
+    - [s. 60 The mediation stage](section/60.md)
+    - [s. 61 Proposal stage](section/61.md)
+    - [s. 62 Distribution orders](section/62.md)
+    - [s. 63 Duration and revocation of distribution orders](section/63.md)
+  - Miscellaneous
+    - [s. 64 Review of distribution orders, payment of costs, etc](section/64.md)
+- Part 7 Investigatory powers etc
+  - Information gathering
+    - [s. 65 Power to require information](section/65.md)
+    - [s. 66 Reports on clubs by expert reporters](section/66.md)
+  - Investigations into relevant infringements
+    - [s. 67 Meaning of “relevant infringement”](section/67.md)
+    - [s. 68 Investigations](section/68.md)
+    - [s. 69 Outcomes of investigations](section/69.md)
+    - [s. 70 Commitments in lieu of investigations](section/70.md)
+    - [s. 71 Section 70: supplementary](section/71.md)
+    - [s. 72 Duty to preserve information](section/72.md)
+  - General
+    - [s. 73 Privileged communications](section/73.md)
+    - [s. 74 Requirement to publish certain notices etc](section/74.md)
+- Part 8 Enforcement
+  - Sanctions and offences etc
+    - [s. 75 Sanctions](section/75.md)
+    - [s. 76 Warning notices](section/76.md)
+    - [s. 77 Decision notices](section/77.md)
+    - [s. 78 Offences](section/78.md)
+  - Urgent directions
+    - [s. 79 Urgent directions](section/79.md)
+  - Publication
+    - [s. 80 Requirement to publish certain notices etc](section/80.md)
+- Part 9 Reviews and appeals
+  - [s. 81 Reviewable decisions etc](section/81.md)
+  - [s. 82 Request for internal review](section/82.md)
+  - [s. 83 Internal reviews](section/83.md)
+  - [s. 84 Appeals to the Competition Appeal Tribunal](section/84.md)
+  - [s. 85 Proceedings before the Competition Appeal Tribunal](section/85.md)
+- Part 10 General
+  - Disclosure of information
+    - [s. 86 Disclosure of information by the IFR](section/86.md)
+    - [s. 87 Disclosure of information to the IFR etc](section/87.md)
+    - [s. 88 Restrictions on the disclosure of information](section/88.md)
+    - [s. 89 Information offences](section/89.md)
+  - Rules and regulations
+    - [s. 90 Rules](section/90.md)
+    - [s. 91 Regulations](section/91.md)
+  - Definitions etc
+    - [s. 92 Minor definitions etc](section/92.md)
+    - [s. 93 Index of defined terms](section/93.md)
+  - General
+    - [s. 94 Pre-commencement consultation](section/94.md)
+    - [s. 95 Offences by officers of clubs and bodies corporate](section/95.md)
+    - [s. 96 Review of Act](section/96.md)
+    - [s. 97 Payments into the Consolidated Fund](section/97.md)
+    - [s. 98 Minor and consequential amendments](section/98.md)
+    - [s. 99 Extent](section/99.md)
+    - [s. 100 Commencement](section/100.md)
+    - [s. 101 Short title](section/101.md)
+- Schedule 1 Meaning of “owner”
+  - Part 1 Conditions for being an owner
+    - [Sch. 1 para. 1 Conditions for being an owner](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Conditions for being an owner](schedule/1/paragraph/2.md)
+  - Part 2 Interpretation
+    - [Sch. 1 para. 3 Interpretation](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Joint interests](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Joint arrangements](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Calculating shareholdings](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Voting rights](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Voting rights](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Shares or rights held “indirectly”](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Shares held by nominees](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Rights treated as held by person who controls their exercise](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Rights treated as held by person who controls their exercise](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Rights exercisable only in certain circumstances etc](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Rights attached to shares held by way of security](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Significant influence or control over the activities of a club, trust or other body](schedule/1/paragraph/15.md)
+  - Part 3 Power to amend thresholds etc
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- Schedule 2 The Independent Football Regulator
+  - Part 1 Constitution of the IFR
+    - [Sch. 2 para. 1 Constitution of the IFR](schedule/2/paragraph/1.md)
+  - Part 2 The Board
+    - [Sch. 2 para. 2 Membership](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Appointments to the Board](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Appointments to the Board](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Appointments to the Board](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Appointments to the Board](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Declaration and registration of interests of members of the Board](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Tenure and remuneration of non-executive members](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Tenure and remuneration of non-executive members](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Tenure and remuneration of non-executive members](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Tenure etc and remuneration of members of the IFR’s staff (including executive members)](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Tenure etc and remuneration of members of the IFR’s staff (including executive members)](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Tenure etc and remuneration of members of the IFR’s staff (including executive members)](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Exercise of functions by the Board](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Committees and procedure of the Board](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 Committees and procedure of the Board](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Disqualification from acting in relation to certain matters](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Delegation by the Board etc](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Delegation by the Board etc](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Delegation by the Board etc](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Delegation by the Board etc](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Records of proceedings](schedule/2/paragraph/22.md)
+  - Part 3 The Expert Panel
+    - [Sch. 2 para. 23 Number of members](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Appointments to the Expert Panel](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25 Declaration and registration of interests of members of the Expert Panel](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26 Tenure and remuneration of Expert Panel members](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27 Committees and procedure of the Expert Panel](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28 Committees and procedure of the Expert Panel](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29 Committees and procedure of the Expert Panel](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30 Committees and procedure of the Expert Panel](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31 Disqualification from acting in relation to certain matters](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32 Records of Expert Panel committee proceedings](schedule/2/paragraph/32.md)
+  - Part 4 Other matters
+    - [Sch. 2 para. 33 Appointment of observer](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34 Accounts and audit](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35 Seal and evidence](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36 Status](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37 Supplementary powers](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38 Financial assistance](schedule/2/paragraph/38.md)
+- Schedule 3 Transfer schemes
+  - [Sch. 3 para. 1 Transfer schemes](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Supplementary](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Interpretation](schedule/3/paragraph/3.md)
+- Schedule 4 Threshold requirements
+  - [Sch. 4 para. 1 Threshold requirements](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Financial resources](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Non-financial resources](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Fan engagement](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Interpretation](schedule/4/paragraph/5.md)
+- Schedule 5 Mandatory licence conditions
+  - [Sch. 5 para. 1 Introduction](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Financial plans](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Financial plans](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Corporate governance statement](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Corporate governance statement](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Corporate governance statement](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Corporate governance statement](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 Fan consultation](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9 Fan consultation](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10 Annual declaration](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11 Annual declaration](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12 Interpretation](schedule/5/paragraph/12.md)
+- Schedule 6 Commitments in lieu of financial discretionary licence conditions
+  - [Sch. 6 para. 1 Application of Schedule](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Procedure for accepting a commitment or requested variation](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Procedure for accepting a commitment or requested variation](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Procedure for accepting a commitment or requested variation](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Procedure for releasing a specified competition organiser from a commitment](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Procedure for releasing a specified competition organiser from a commitment](schedule/6/paragraph/6.md)
+- Schedule 7 Meaning of “relevant infringement”
+  - [Sch. 7 para. 1 Introduction](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Relevant infringements committed by clubs](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Relevant infringements committed by owners of clubs](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 Relevant infringements committed by officers of clubs](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 Relevant infringements committed by senior managers of clubs](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Relevant infringements committed by specified competition organisers](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7 Relevant infringements committed by other persons](schedule/7/paragraph/7.md)
+- Schedule 8 Investigatory powers
+  - [Sch. 8 para. 1 Application of this Schedule](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Power to ask questions](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Power to enter business premises under a warrant](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Power to enter business premises under a warrant](schedule/8/paragraph/4.md)
+- Schedule 9 Sanctions
+  - Part 1 Sanctions relating to information etc
+    - [Sch. 9 para. 1 Introduction](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2 Censure statements](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3 Financial penalties](schedule/9/paragraph/3.md)
+  - Part 2 Sanctions relating to relevant infringements
+    - [Sch. 9 para. 4 Censure statements](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5 Appointment of a skilled person](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6 Financial penalties](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7 Injunctive relief](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8 Suspension or revocation of operating licence](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9 Suspension or revocation of operating licence](schedule/9/paragraph/9.md)
+  - Part 3 Further provision about financial penalties
+    - [Sch. 9 para. 10 Interpretation](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11 Penalties imposed by reference to a daily rate](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12 Revenue and remuneration](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13 Interest](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14 Recovery as a civil debt](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15 Power to amend figures](schedule/9/paragraph/15.md)
+- Schedule 10 Reviews
+- Schedule 11 Index of defined terms
+- Schedule 12 Minor and consequential amendments
+  - [Sch. 12 para. 1 Public Records Act 1958](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Parliamentary Commissioner Act 1967](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 House of Commons Disqualification Act 1975](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Freedom of Information Act 2000](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Criminal Justice and Police Act 2001](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Enterprise Act 2002](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Enterprise Act 2002](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8 Enterprise Act 2002](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9 Equality Act 2010](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10 Competition Appeal Tribunal Rules 2015 (S.I. 2015/1648)](schedule/12/paragraph/10.md)
