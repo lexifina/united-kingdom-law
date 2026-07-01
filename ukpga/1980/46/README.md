@@ -1,0 +1,286 @@
+# Solicitors (Scotland) Act 1980
+
+1980 c. 46. Enacted 1980-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 349 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/46
+
+Source: https://www.legislation.gov.uk/ukpga/1980/46/2026-07-01
+
+## Contents
+
+- Part I Organisation
+  - The Law Society of Scotland
+    - [s. 1 Establishment and objects of Law Society of Scotland.](section/1.md)
+    - [s. 1A Power to act as statutory regulator](section/1A.md)
+    - [s. 2 Membership of Society.](section/2.md)
+  - The Council of the Law Society
+    - [s. 3 Establishment and functions of Council of Law Society.](section/3.md)
+    - [s. 3A Discharge of functions of Council of the Law Society](section/3A.md)
+    - [s. 3B Regulatory committee](section/3B.md)
+    - [s. 3C Particular rules applying](section/3C.md)
+    - [s. 3D Resolving regulatory disputes](section/3D.md)
+    - [s. 3E Further provision for section 3B etc.](section/3E.md)
+    - [s. 3F Meaning of “regulatory functions”](section/3F.md)
+    - [s. 3G Extended meaning under section 3F](section/3G.md)
+- Part II Right to Practise as a Solicitor
+  - Qualifications and Training
+    - [s. 4 Qualifications for practising as a solicitor.](section/4.md)
+    - [s. 5 Training regulations.](section/5.md)
+  - Admission
+    - [s. 6 Admission as solicitor.](section/6.md)
+  - The Roll
+    - [s. 7 Keeping the roll.](section/7.md)
+    - [s. 8 Entry in the roll.](section/8.md)
+    - [s. 9 Removal of name from roll on request.](section/9.md)
+    - [s. 10 Restoration of name to roll on request.](section/10.md)
+    - [s. 11 Directions by Lord President.](section/11.md)
+    - [s. 12 ................................](section/12.md)
+  - Register of European lawyers
+    - [s. 12A Keeping the register](section/12A.md)
+    - [s. 12B Information to be provided by registered European lawyers](section/12B.md)
+    - [s. 12C Removal of name from register on request](section/12C.md)
+    - [s. 12D Restoration of name to register on request](section/12D.md)
+  - Practising Certificates
+    - [s. 13 Applications for practising certificates.](section/13.md)
+    - [s. 14 Issue of practising certificate.](section/14.md)
+    - [s. 15 Discretion of Council in special cases.](section/15.md)
+    - [s. 16 Appeals from decisions of Council.](section/16.md)
+    - [s. 17 Date and expiry of practising certificates.](section/17.md)
+    - [s. 18 Suspension of practising certificates.](section/18.md)
+    - [s. 19 Further provisions relating to suspension of practising certificates.](section/19.md)
+    - [s. 20 Council’s duty to supply lists of solicitors holding practising certificates.](section/20.md)
+    - [s. 21 Consultants to hold practising certificates.](section/21.md)
+    - [s. 22 Evidence as to holding of practising certificates.](section/22.md)
+    - [s. 23 Offence to practise without practising certificate.](section/23.md)
+    - [s. 23A Professional misconduct for registered European lawyer to practise without a registration certificate](section/23A.md)
+    - [s. 23B](section/23B.md)
+    - [s. 24 Saving of public officials.](section/24.md)
+  - Registration certificates for registered European Lawyers
+    - [s. 24A Applications for registration certificates](section/24A.md)
+    - [s. 24B Issue of registration certificates](section/24B.md)
+    - [s. 24C Discretion of Council in special cases](section/24C.md)
+    - [s. 24D Appeals from decisions of Council](section/24D.md)
+    - [s. 24E Date and expiry of registration certificate](section/24E.md)
+    - [s. 24F Suspension of registration certificate](section/24F.md)
+    - [s. 24G Further provisions relating to suspension of registration certificate](section/24G.md)
+  - Rights of Solicitors
+    - [s. 25 Rights of practising.](section/25.md)
+    - [s. 25A Rights of audience in the Court of Session, the Supreme Court, the Judicial Committee of the Privy Council and the High Court of Justiciary.](section/25A.md)
+  - Restriction on rights of practising
+    - [s. 26 Offence for solicitors to act as agents for unqualified persons.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Offence for solicitors who are disqualified to seek employment without informing employer.](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 Liability for fees of other solicitor.](section/30.md)
+  - Unqualified persons acting as solicitors
+    - [s. 31 Offence for unqualified persons to pretend to be solicitor or notary public.](section/31.md)
+    - [s. 32 Offence for unqualified persons to prepare certain documents.](section/32.md)
+    - [s. 33 Unqualified persons not entitled to fees, etc.](section/33.md)
+    - [s. 33A Privilege of incorporated practices from disclosure etc.](section/33A.md)
+    - [s. 33B](section/33B.md)
+    - [s. 33BA Privilege of law centres, citizens advice bodies and charities from disclosure etc.](section/33BA.md)
+    - [s. 33C Licensed legal services providers](section/33C.md)
+    - [s. 33D Practice rules relating to law centres, citizens advice bodies and charities](section/33D.md)
+- Part III Professional Practice, Conduct and Discipline of Solicitors
+  - Practice Rules
+    - [s. 34 Rules as to professional practice, conduct and discipline.](section/34.md)
+  - Accounts rules and fees
+    - [s. 35 Accounts rules.](section/35.md)
+    - [s. 36 Interest on client’s money.](section/36.md)
+    - [s. 37 Accountant’s certificates.](section/37.md)
+    - [s. 37A Accounts and anti-money laundering fees](section/37A.md)
+  - Powers of Council to intervene
+    - [s. 38 Powers where dishonesty alleged.](section/38.md)
+    - [s. 39 Powers where delay alleged.](section/39.md)
+    - [s. 39A Powers where excessive fees etc charged.](section/39A.md)
+    - [s. 40 Powers where failure to comply with accounts rules etc.](section/40.md)
+    - [s. 41 Appointment of judicial factor.](section/41.md)
+    - [s. 42 Distribution of sums in client bank account.](section/42.md)
+    - [s. 42ZA Unsatisfactory professional conduct: Council’s powers](section/42ZA.md)
+    - [s. 42ZB Unsatisfactory professional conduct: Council’s powers to monitor compliance with direction under section 42ZA(4)](section/42ZB.md)
+    - [s. 42ZC Report by Commission to Council under section 10(2)(e) of the 2007 Act: Council’s powers](section/42ZC.md)
+    - [s. 42ZD Direction under section 42ZC(2): appeal by practitioner](section/42ZD.md)
+    - [s. 42A Powers where inadequate professional services alleged.](section/42A.md)
+    - [s. 42B Inadequate professional services: Council’s powers to monitor compliance with directions.](section/42B.md)
+    - [s. 42C Powers to examine documents and demand explanations in connection with complaints.](section/42C.md)
+  - Protection of clients
+    - [s. 43 Guarantee Fund](section/43.md)
+    - [s. 44 Professional indemnity.](section/44.md)
+    - [s. 45 Safeguarding interests of clients of solicitor struck off or suspended.](section/45.md)
+    - [s. 45A Safeguarding interests of clients of an authorised legal business where authorisation suspended or withdrawn](section/45A.md)
+    - [s. 46 Safeguarding interests of clients in certain other cases.](section/46.md)
+    - [s. 46A Safeguarding interests of clients in certain other cases](section/46A.md)
+    - [s. 47 Restriction on employing solicitor struck off or suspended.](section/47.md)
+    - [s. 48 ................................](section/48.md)
+- Part IV Complaints and Disciplinary Proceedings
+  - Lay Observer
+    - [s. 49 ................................](section/49.md)
+  - The Scottish Solicitors’ Discipline Tribunal
+    - [s. 50 The Tribunal.](section/50.md)
+    - [s. 51 Complaints to Tribunal.](section/51.md)
+    - [s. 52 Procedure on complaints and appeals to Tribunal.](section/52.md)
+    - [s. 53 Powers of Tribunal.](section/53.md)
+    - [s. 53ZA Remission of complaint by Tribunal to Council](section/53ZA.md)
+    - [s. 53ZB Powers of Tribunal on appeal: unsatisfactory professional conduct](section/53ZB.md)
+    - [s. 53ZC Enforcement of Council direction: unsatisfactory professional conduct](section/53ZC.md)
+    - [s. 53A Inadequate professional services: powers of Tribunal.](section/53A.md)
+    - [s. 53B Inadequate professional services: appeal to Tribunal against Council determination or direction.](section/53B.md)
+    - [s. 53C Inadequate professional services: enforcement by Tribunal of Council direction.](section/53C.md)
+    - [s. 53D Suspension etc. of investment business certificates: appeal to Tribunal.](section/53D.md)
+    - [s. 54 Appeals from decisions of Tribunal.](section/54.md)
+    - [s. 54A Appeals from decisions of Tribunal: unsatisfactory professional conduct](section/54A.md)
+  - The Court
+    - [s. 55 Powers of Court](section/55.md)
+    - [s. 55A Powers of Court: unsatisfactory professional conduct](section/55A.md)
+    - [s. 56 Saving for jurisdiction of courts.](section/56.md)
+    - [s. 56A Further provision as to compensation awards.](section/56A.md)
+- PART V Notaries Public
+  - [s. 57 Admission and enrolment of solicitors as notaries public.](section/57.md)
+  - [s. 58 Removal from and restoration to register of names of notaries public.](section/58.md)
+  - [s. 59 Authority of notaries public to administer oaths, etc.](section/59.md)
+  - [s. 59A Rules regarding notaries public](section/59A.md)
+  - [s. 60 ................................](section/60.md)
+- PART VI Miscellaneous And General
+  - Miscellaneous
+    - [s. 60A Registered foreign lawyers](section/60A.md)
+    - [s. 61 Protection of banks.](section/61.md)
+    - [s. 61A Solicitors fees.](section/61A.md)
+    - [s. 62 Charge for expenses out of property recovered.](section/62.md)
+    - [s. 62A Council’s power to recover expenses incurred under section... 45 or 46.](section/62A.md)
+  - General
+    - [s. 63 Penalties and time limit for prosecution of offences](section/63.md)
+    - [s. 64 Service of notices etc.](section/64.md)
+    - [s. 64A Advisory and supervisory functions of the Competition and Markets Authority.](section/64A.md)
+    - [s. 64B Duty of Secretary of State.](section/64B.md)
+    - [s. 64C Investigatory powers of the Competition and Markets Authority.](section/64C.md)
+    - [s. 64CA Enforcement of notices under section 64C](section/64CA.md)
+    - [s. 64CB Altering, etc. documents required to be produced under section 64C](section/64CB.md)
+    - [s. 64D Review of rules approved by the Secretary of State.](section/64D.md)
+    - [s. 65 Interpretation.](section/65.md)
+    - [s. 66 Transitional and savings provisions, and repeals.](section/66.md)
+    - [s. 67 Citation, extent and commencement.](section/67.md)
+- SCHEDULE 1 The Law Society of Scotland
+  - Constitution and Proceedings
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Revenue
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - [Sch. 1 para. 6B](schedule/1/paragraph/6B.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+    - [Sch. 1 para. 7B](schedule/1/paragraph/7B.md)
+    - [Sch. 1 para. 7C](schedule/1/paragraph/7C.md)
+    - [Sch. 1 para. 7D](schedule/1/paragraph/7D.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Powers
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Exemption from liability for damages
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+  - Attestation
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 The Roll: Powers of the Council and Ancillary Provisions
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3
+  - PART 1 The Scottish Solicitors Guarantee Fund
+    - Contributions by Solicitors
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Contributions by registered European lawyers
+      - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+    - Contributions by registered foreign lawyers
+      - [Sch. 3 para. 1B](schedule/3/paragraph/1B.md)
+      - [Sch. 3 para. 1C](schedule/3/paragraph/1C.md)
+    - Investment etc.
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Insurance
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Grants
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part II
+    - Power of Council to investigate
+      - [Sch. 3 para. 5n1](schedule/3/paragraph/5n1.md)
+- SCHEDULE 4 Constitution, Procedure and Powers of Tribunal
+  - Part I
+    - Constitution
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 1A](schedule/4/paragraph/1A.md)
+      - [Sch. 4 para. 1B](schedule/4/paragraph/1B.md)
+      - [Sch. 4 para. 1C](schedule/4/paragraph/1C.md)
+      - [Sch. 4 para. 1D](schedule/4/paragraph/1D.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part II Procedure and Powers of Tribunal
+    - Complaints
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 8A](schedule/4/paragraph/8A.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Decisions
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 14A](schedule/4/paragraph/14A.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 18A](schedule/4/paragraph/18A.md)
+    - Expenses
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Appeals
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+- SCHEDULE 5
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Transitional and Savings Provisions
+  - General
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Admission of enrolled law agent
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Restriction of grant under Guarantee Fund
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Rights of banks
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Admission to societies
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Powers of societies
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Saving for non-qualified person to conduct certain proceedings
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Register of Law Agents
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Certificate of admission
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Repeals
