@@ -1,0 +1,166 @@
+# Legal Complaints and Regulation Act (Northern Ireland) 2016
+
+nia/2016/14. Enacted 2016-04-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2016/14/2026-07-01
+
+## Contents
+
+- PART 1 THE LEGAL SERVICES OVERSIGHT COMMISSIONER FOR NORTHERN IRELAND
+  - [s. 1 The Legal Services Oversight Commissioner for Northern Ireland](section/1.md)
+  - [s. 2 General powers of the Commissioner](section/2.md)
+  - [s. 3 Duty of certain bodies to consult Commissioner](section/3.md)
+  - [s. 4 Duty of Commissioner to review certain matters](section/4.md)
+  - [s. 5 The levy](section/5.md)
+  - [s. 6 The levy: supplementary provisions](section/6.md)
+  - [s. 7 Payments by Department](section/7.md)
+  - [s. 8 Privilege for certain publications](section/8.md)
+  - [s. 9 Lay observer](section/9.md)
+  - [s. 10 Interpretation of Part 1](section/10.md)
+- PART 2 COMPLAINTS AGAINST BARRISTERS
+  - Complaints procedures for barristers
+    - [s. 11 Complaints procedures for barristers](section/11.md)
+  - Bar Complaints Committee
+    - [s. 12 Bar Complaints Committee](section/12.md)
+    - [s. 13 Jurisdiction of the Bar Complaints Committee](section/13.md)
+    - [s. 14 Excluded complaints](section/14.md)
+    - [s. 15 Complainants](section/15.md)
+    - [s. 16 Orders under section 15](section/16.md)
+    - [s. 17 Procedure for complaints](section/17.md)
+    - [s. 18 Notification requirements](section/18.md)
+  - Determinations by Bar Complaints Committee
+    - [s. 19 Determination of complaints](section/19.md)
+    - [s. 20 Alteration of compensation limit](section/20.md)
+  - Appeals
+    - [s. 21 Appeals](section/21.md)
+  - Information
+    - [s. 22 Information and documents](section/22.md)
+    - [s. 23 Reporting failures to provide information or produce documents](section/23.md)
+    - [s. 24 Enforcement of requirements to provide information or produce documents](section/24.md)
+    - [s. 25 Reports of investigations](section/25.md)
+  - Defamation
+    - [s. 26 Protection from defamation claims](section/26.md)
+  - Rules
+    - [s. 27 Consultation requirements for Bar Complaints Committee rules](section/27.md)
+  - Interpretation
+    - [s. 28 Interpretation of Part 2](section/28.md)
+- PART 3 COMPLAINTS AGAINST SOLICITORS
+  - Complaints procedures for solicitors
+    - [s. 29 Complaints procedures for solicitors](section/29.md)
+  - Solicitors Complaints Committee
+    - [s. 30 Solicitors Complaints Committee](section/30.md)
+    - [s. 31 Jurisdiction of the Solicitors Complaints Committee](section/31.md)
+    - [s. 32 Excluded complaints](section/32.md)
+    - [s. 33 Complainants](section/33.md)
+    - [s. 34 Orders under section 33](section/34.md)
+    - [s. 35 Continuity of complaints](section/35.md)
+    - [s. 36 Procedure for complaints](section/36.md)
+    - [s. 37 Notification requirements](section/37.md)
+  - Determinations by Solicitors Complaints Committee
+    - [s. 38 Determination of complaints](section/38.md)
+    - [s. 39 Alteration of compensation limits](section/39.md)
+  - Appeals
+    - [s. 40 Appeals](section/40.md)
+  - Information
+    - [s. 41 Information and documents](section/41.md)
+    - [s. 42 Reporting failures to provide information or produce documents](section/42.md)
+    - [s. 43 Enforcement of requirements to provide information or produce documents](section/43.md)
+    - [s. 44 Reports of investigation](section/44.md)
+  - Defamation
+    - [s. 45 Protection from defamation claims](section/45.md)
+  - Rules
+    - [s. 46 Consultation requirements for Solicitors Complaints Committee rules](section/46.md)
+  - The Solicitors Disciplinary Tribunal
+    - [s. 47 The Solicitors Disciplinary Tribunal](section/47.md)
+  - Interpretation
+    - [s. 48 Recognised bodies](section/48.md)
+    - [s. 49 Interpretation of Part 3](section/49.md)
+- PART 4 GENERAL
+  - [s. 50 Interpretation](section/50.md)
+  - [s. 51 Review](section/51.md)
+  - [s. 52 Further provision](section/52.md)
+  - [s. 53 Minor and consequential amendments](section/53.md)
+  - [s. 54 Repeals](section/54.md)
+  - [s. 55 Commencement](section/55.md)
+  - [s. 56 Short title](section/56.md)
+- SCHEDULE 1 THE LEGAL SERVICES OVERSIGHT COMMISSIONER FOR NORTHERN IRELAND
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Acting Commissioner
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Salary, etc.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Staff
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Exercise of functions of Commissioner
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Seal
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Evidence
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Property
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Accounts
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Annual report
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - The Freedom of Information Act 2000 (c. 36)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 THE BAR COMPLAINTS COMMITTEE
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Terms of office
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Remuneration, etc. of members
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Arrangements for assistance
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Sub-committees
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Proceedings
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 THE SOLICITORS COMPLAINTS COMMITTEE
+  - Membership
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Terms of office
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Remuneration, etc. of members
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Arrangements for assistance
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Sub-committees
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Proceedings
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Solicitors (Northern Ireland) Order 1976 (NI 12)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Solicitors (Amendment) (Northern Ireland) Order 1989 (NI 14)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Freedom of Information Act 2000 (c. 36)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 REPEALS
