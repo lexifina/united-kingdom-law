@@ -1,0 +1,304 @@
+# Public Service Pensions Act 2013
+
+2013 c. 25. Enacted 2013-04-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2013/25/2026-07-01
+
+## Contents
+
+- Establishment of new schemes
+  - [s. 1 Schemes for persons in public service](section/1.md)
+  - [s. 2 Responsible authority for schemes](section/2.md)
+  - [s. 3 Scheme regulations](section/3.md)
+- Governance
+  - [s. 4 Scheme manager](section/4.md)
+  - [s. 5 Pension board](section/5.md)
+  - [s. 6 Pension board: information](section/6.md)
+  - [s. 7 Scheme advisory board](section/7.md)
+- Design
+  - [s. 8 Types of scheme](section/8.md)
+  - [s. 9 Revaluation](section/9.md)
+  - [s. 10 Pension age](section/10.md)
+- Cost control
+  - [s. 11 Valuations](section/11.md)
+  - [s. 12 Employer cost cap](section/12.md)
+  - [s. 12A Sections 11 and 12: restricted schemes](section/12A.md)
+  - [s. 13 Employer contributions in funded schemes](section/13.md)
+- Administration
+  - [s. 14 Information about benefits](section/14.md)
+  - [s. 15 Information about schemes](section/15.md)
+  - [s. 16 Records](section/16.md)
+  - [s. 17 Regulatory oversight](section/17.md)
+- Transitional
+  - [s. 18 Restriction of existing pension schemes](section/18.md)
+  - [s. 19 Closure of existing injury and compensation schemes](section/19.md)
+  - [s. 20 Final salary link](section/20.md)
+- Procedure for scheme regulations
+  - [s. 21 Consultation](section/21.md)
+  - [s. 22 Procedure for protected elements](section/22.md)
+  - [s. 23 Procedure for retrospective provision](section/23.md)
+  - [s. 24 Other procedure](section/24.md)
+- New schemes: supplementary
+  - [s. 25 Extension of schemes](section/25.md)
+  - [s. 25A Extension of schemes where definition of “the judiciary” expanded](section/25A.md)
+  - [s. 26 Non-scheme benefits](section/26.md)
+  - [s. 27 Consequential and minor amendments](section/27.md)
+- Existing schemes: supplementary
+  - [s. 28 Existing local government schemes](section/28.md)
+  - [s. 29 Existing schemes for civil servants: extension of access](section/29.md)
+- Public body pension schemes
+  - [s. 30 New public body pension schemes](section/30.md)
+  - [s. 31 Restriction of certain existing public body pension schemes](section/31.md)
+  - [s. 32 Existing public body pension schemes: pension age](section/32.md)
+- Parliamentary and other pension schemes
+  - [s. 33 Great offices of state](section/33.md)
+  - [s. 34 Parliamentary and other pension schemes: pension age](section/34.md)
+  - [s. 35 Members of the European Parliament](section/35.md)
+- Review
+  - [s. 36 Defence Fire and Rescue Service and Ministry of Defence Police: review](section/36.md)
+- General
+  - [s. 37 General interpretation](section/37.md)
+  - [s. 38 Regulations, orders and directions](section/38.md)
+- Final
+  - [s. 39 Financial provision](section/39.md)
+  - [s. 40 Extent](section/40.md)
+  - [s. 41 Commencement](section/41.md)
+  - [s. 42 Short title](section/42.md)
+- SCHEDULE 1 Persons in public service: definitions
+  - Civil servants
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Judiciary
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Local government workers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Teachers
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Health service workers
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Fire and rescue workers
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Police forces
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Armed forces
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Transitional provision
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Responsible authorities
+  - Civil servants and judiciary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Local government workers
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Teachers
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Health service workers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Fire and rescue workers
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Police forces
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Armed forces
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Scope of scheme regulations: supplementary matters
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Regulatory oversight
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+- SCHEDULE 5 Existing pension schemes
+  - Civil servants
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Judiciary
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Local government workers
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Teachers
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Health service workers
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Fire and rescue workers
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - Members of police forces
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - Armed forces
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+- SCHEDULE 6 Existing injury and compensation schemes
+  - Civil servants
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Judiciary
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Local government workers
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Teachers
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Health service workers
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Fire and rescue workers
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Members of police forces
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Armed forces
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Compensation schemes for loss of office etc
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 Final salary link
+  - Persons who remain in an old scheme for past service
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Persons whose benefits under an old scheme are transferred to another closed scheme
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Continuity of employment
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Movement between new schemes
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Final salary link not to apply again to a pension in payment
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Consequential and minor amendments
+  - County Courts Act (Northern Ireland) 1959 (c. 25 (N.I.))
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - District Judges (Magistrates’ Courts) Pensions Act (Northern Ireland) 1960 (c. 2 (N.I.))
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Sheriffs’ Pensions (Scotland) Act 1961 (c. 2)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Pensions (Increase) Act 1971 (c. 56)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Police Pensions Act 1976 (c. 35)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - House of Commons (Administration) Act 1978 (c. 36)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Judicial Pensions Act 1981 (c. 20)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Merchant Shipping Act 1995 (c. 21)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Human Rights Act 1998 (c. 42)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Fire and Rescue Services Act 2004 (c. 21)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - Armed Forces (Pensions and Compensation) Act 2004 (c. 32)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - Parliament (Joint Departments) Act 2007 (c. 16)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+- SCHEDULE 9 Existing schemes for civil servants: extension of access
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Public bodies whose pension schemes must be restricted
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+- SCHEDULE 11 Prime Minister, Lord Chancellor and Commons Speaker
+  - Extension of MPs’ and Ministerial pension schemes
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Lord Chancellor’s salary
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Closure of existing arrangements
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Saving and transitional
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
