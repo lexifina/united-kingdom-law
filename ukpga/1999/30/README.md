@@ -1,0 +1,508 @@
+# Welfare Reform and Pensions Act 1999
+
+1999 c. 30. Enacted 1999-11-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 41 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/30
+
+Source: https://www.legislation.gov.uk/ukpga/1999/30/2026-07-01
+
+## Contents
+
+- Part I Stakeholder pension schemes
+  - [s. 1 Meaning of “stakeholder pension scheme”.](section/1.md)
+  - [s. 2 Registration of stakeholder pension schemes.](section/2.md)
+  - [s. 3 Duty of employers to facilitate access to stakeholder pension schemes.](section/3.md)
+  - [s. 4 Obtaining information with respect to compliance with section 3 and corresponding Northern Ireland legislation.](section/4.md)
+  - [s. 5 Powers of inspection for securing compliance with section 3 and corresponding Northern Ireland legislation.](section/5.md)
+  - [s. 6 Application of certain enactments.](section/6.md)
+  - [s. 7 Reduced rates of contributions etc: power to specify different percentages.](section/7.md)
+  - [s. 8 Interpretation and application of Part I.](section/8.md)
+- Part II Pensions: general
+  - Payments by employers to pension schemes
+    - [s. 9 Monitoring of employers’ payments to personal pension schemes.](section/9.md)
+    - [s. 10 Late payments by employers to occupational pension schemes.](section/10.md)
+  - Pensions and bankruptcy
+    - [s. 11 Effect of bankruptcy on pension rights: approved arrangements.](section/11.md)
+    - [s. 12 Effect of bankruptcy on pension rights: unapproved arrangements.](section/12.md)
+    - [s. 13 Sections 11 and 12: application to Scotland.](section/13.md)
+    - [s. 14 No forfeiture on bankruptcy of rights under pension schemes.](section/14.md)
+    - [s. 15 Excessive pension contributions made by persons who have become bankrupt.](section/15.md)
+    - [s. 16 Excessive pension contributions made by persons who have become bankrupt: Scotland.](section/16.md)
+  - Miscellaneous
+    - [s. 17 Compensating occupational pension schemes.](section/17.md)
+    - [s. 18 Miscellaneous amendments.](section/18.md)
+- Part III Pensions on divorce etc.
+  - Pension sharing orders
+    - [s. 19 Orders in England and Wales.](section/19.md)
+    - [s. 20 Orders in Scotland.](section/20.md)
+  - Sections 25B to 25D of the Matrimonial Causes Act 1973
+    - [s. 21 Amendments.](section/21.md)
+    - [s. 22 Extension to overseas divorces etc.](section/22.md)
+  - Miscellaneous
+    - [s. 23 Supply of pension information in connection with divorce etc.](section/23.md)
+    - [s. 24 Charges by pension arrangements in relation to earmarking orders.](section/24.md)
+  - Supplementary
+    - [s. 25 Power to make consequential amendments of Part III.](section/25.md)
+    - [s. 26 Interpretation of Part III.](section/26.md)
+- Part IV Pension sharing
+  - Chapter I Sharing of rights under pension arrangements
+    - Pension sharing mechanism
+      - [s. 27 Scope of mechanism.](section/27.md)
+      - [s. 28 Activation of pension sharing.](section/28.md)
+      - [s. 29 Creation of pension debits and credits.](section/29.md)
+      - [s. 30 Cash equivalents.](section/30.md)
+    - Pension debits
+      - [s. 31 Reduction of benefit.](section/31.md)
+      - [s. 32 Effect on contracted-out rights.](section/32.md)
+    - Pension credits
+      - [s. 33 Time for discharge of liability.](section/33.md)
+      - [s. 34 “Implementation period”.](section/34.md)
+      - [s. 35 Mode of discharge of liability.](section/35.md)
+    - Treatment of pension credit rights under schemes
+      - [s. 36 Safeguarded rights.](section/36.md)
+      - [s. 37 Requirements relating to pension credit benefit.](section/37.md)
+      - [s. 38 Treatment in winding up.](section/38.md)
+    - Indexation
+      - [s. 39 Public service pension schemes.](section/39.md)
+      - [s. 40 Other pension schemes.](section/40.md)
+    - Charges by pension arrangements
+      - [s. 41 Charges in respect of pension sharing costs.](section/41.md)
+    - Adaptation of statutory schemes
+      - [s. 42 Extension of scheme-making powers.](section/42.md)
+      - [s. 43 Power to extend judicial pension schemes.](section/43.md)
+    - Supplementary
+      - [s. 44 Disapplication of restrictions on alienation.](section/44.md)
+      - [s. 45 Information.](section/45.md)
+      - [s. 46 Interpretation of Chapter I.](section/46.md)
+  - Chapter II Sharing of state scheme rights
+    - [s. 47 Shareable state scheme rights.](section/47.md)
+    - [s. 48 Activation of benefit sharing.](section/48.md)
+    - [s. 49 Creation of state scheme pension debits and credits.](section/49.md)
+    - [s. 49A Creation of debits and credits: transferor in new state pension system and sharing activated on or after 6 April 2016](section/49A.md)
+    - [s. 50 Effect of state scheme pension debits and credits.](section/50.md)
+    - [s. 51 Interpretation of Chapter II.](section/51.md)
+- Part V Welfare
+  - Chapter I Social security benefits
+    - Additional pensions
+      - [s. 52 Preservation of rights in respect of additional pensions.](section/52.md)
+    - State maternity allowance
+      - [s. 53 Extension of entitlement to state maternity allowance.](section/53.md)
+    - Benefits for widows and widowers
+      - [s. 54 Bereavement payments.](section/54.md)
+      - [s. 55 New allowances for bereaved spouses.](section/55.md)
+      - [s. 56 Entitlement to Category B retirement pension by reference to new allowances.](section/56.md)
+    - Work-focused interviews
+      - [s. 57 Claim or full entitlement to certain benefits conditional on work-focused interview.](section/57.md)
+      - [s. 58 Optional work-focused interviews.](section/58.md)
+    - Jobseeker’s allowance
+      - [s. 59 Couples to make joint claim for allowance.](section/59.md)
+      - [s. 60 Special schemes for claimants for jobseeker’s allowance.](section/60.md)
+    - Incapacity for work
+      - [s. 61 Incapacity for work: personal capability assessments.](section/61.md)
+    - Incapacity benefits
+      - [s. 62 Incapacity benefit: restriction to recent contributors.](section/62.md)
+      - [s. 63 Incapacity benefit: reduction for pension payments.](section/63.md)
+      - [s. 64 Incapacity benefit: persons incapacitated in youth.](section/64.md)
+      - [s. 65 Abolition of severe disablement allowance.](section/65.md)
+    - Disability benefits
+      - [s. 66 Attendance allowance.](section/66.md)
+      - [s. 67 Disability living allowance.](section/67.md)
+    - Miscellaneous
+      - [s. 68 Certain overpayments of benefit not to be recoverable.](section/68.md)
+      - [s. 69 Child benefit: claimant to state national insurance number.](section/69.md)
+      - [s. 70 Welfare benefits: miscellaneous amendments.](section/70.md)
+    - Supplementary
+      - [s. 71 Sharing of functions as regards claims and information.](section/71.md)
+      - [s. 72 Supply of information for certain purposes.](section/72.md)
+  - Chapter II National Insurance contributions
+    - [s. 73 New threshold for primary Class 1 contributions.](section/73.md)
+    - [s. 74 New threshold for primary Class 1 contributions: Northern Ireland.](section/74.md)
+    - [s. 75 Earnings of workers supplied by service companies etc.](section/75.md)
+    - [s. 76 Earnings of workers supplied by service companies etc: Northern Ireland.](section/76.md)
+    - [s. 77 Class 1B contributions.](section/77.md)
+    - [s. 78 Class 1B contributions: Northern Ireland.](section/78.md)
+  - Chapter III Other welfare provisions
+    - [s. 79 Measures to reduce under-occupation by housing benefit claimants.](section/79.md)
+    - [s. 80 Supply of information for child support purposes.](section/80.md)
+- Part VI General
+  - Miscellaneous
+    - [s. 81 Contributions and pensions administration.](section/81.md)
+    - [s. 82 Authorisation of certain expenditure.](section/82.md)
+  - Supplementary
+    - [s. 83 Regulations and orders.](section/83.md)
+    - [s. 84 Consequential amendments etc.](section/84.md)
+    - [s. 85 Transitional provisions.](section/85.md)
+    - [s. 86 General financial provisions.](section/86.md)
+    - [s. 87 Corresponding provisions for Northern Ireland.](section/87.md)
+    - [s. 88 Repeals.](section/88.md)
+    - [s. 89 Commencement.](section/89.md)
+    - [s. 90 Extent.](section/90.md)
+    - [s. 91 Short title, general interpretation and Scottish devolution.](section/91.md)
+- SCHEDULE 1 Application of 1993 and 1995 Acts to registered schemes
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Pensions: miscellaneous amendments
+  - Income payments orders against pension payments
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Extended meaning of “personal pension scheme”
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Revaluation of earnings factors: meaning of “relevant year”
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Interim arrangements
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Effect of certain orders on guaranteed minimum pensions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Mandatory payment of contributions equivalent premiums
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Payment by Secretary of State of unpaid pension contributions
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Supervision by the Occupational Pensions Regulatory Authority
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Occupational pension schemes: institutions who may hold money deposited by trustees etc.
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Annual increase in rate of pension
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Occupational pension schemes: certificates etc. relating to minimum funding requirement
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Excess assets of wound-up schemes
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Pensions Compensation Board
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Diligence against pensions: Scotland
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Pensionable service
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Occupational pension schemes: rights of employee who is director of corporate trustee
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Pension sharing orders: England and Wales
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Amendments of sections 25B to 25D of the Matrimonial Causes Act 1973
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Pension credits: mode of discharge
+  - Funded pension schemes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Unfunded public service pension schemes
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Other unfunded occupational pension schemes
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Other pension arrangements
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Appropriate rights
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Qualifying arrangements
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Disqualification as destination for pension credit
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Adjustments to amount of pension credit
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - General
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 13A](schedule/5/paragraph/13A.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Effect of state scheme pension debits and credits
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Joint claims for jobseeker’s allowance
+  - Jobseekers Act 1995 (c.18)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Social Security Act 1998 (c.14)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+- SCHEDULE 8 Welfare benefits: minor and consequential amendments
+  - Part I Bereavement benefits
+    - Income and Corporation Taxes Act 1988 (c.1)
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Social Security Administration Act 1992 (c.5)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Pension Schemes Act 1993 (c.48)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Pensions Act 1995 (c.26)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Part II Incapacity
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Part III Abolition of severe disablement allowance
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Criminal Justice Act 1991 (c.53)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - Part IV Income support
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - Part V Jobseeker’s allowance
+    - Jobseekers Act 1995 (c.18)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - Part VI Maternity allowance
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - Part VII Retirement pensions
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - Part VIII Administration of benefits
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+- SCHEDULE 9 New threshold for primary Class 1 contributions
+  - Part I New primary threshold
+    - Earnings limits and thresholds for Class 1 contributions
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Liability for Class 1 contributions
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Notional payment of primary Class 1 contribution where earnings not less than lower earnings limit
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Calculation of primary Class 1 contributions
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Calculation of secondary Class 1 contributions
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Part II Reduced contributions in respect of members of contracted-out schemes
+    - Reduced rates for members of salary related contracted-out schemes
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Reduced rates for members of money purchase contracted-out schemes
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Payments by Inland Revenue out of and into National Insurance Fund
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Part III National Health Service allocation
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+- SCHEDULE 10 New threshold for primary Class 1 contributions: Northern Ireland
+  - Part I New primary threshold
+    - Earnings limits and thresholds for Class 1 contributions
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Liability for Class 1 contributions
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Notional payment of primary Class 1 contribution where earnings not less than lower earnings limit
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Calculation of primary Class 1 contributions
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Calculation of secondary Class 1 contributions
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Part II Reduced contributions in respect of members of contracted-out schemes
+    - Reduced rates for members of salary related contracted-out schemes
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Reduced rates for members of money purchase contracted-out schemes
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Payments by Inland Revenue out of and into National Insurance Fund
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Part III Health Service allocation
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- SCHEDULE 11 Contributions and pensions administration
+  - Social Security Contributions and Benefits Act 1992 (c.4)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Social Security Administration Act 1992 (c.5)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Social Security Administration (Northern Ireland) Act 1992 (c.8)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Pension Schemes Act 1993 (c.48)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - Pension Schemes (Northern Ireland) Act 1993 (c.49)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+  - Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)
+    - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+  - Transfer of certain functions under subordinate legislation: Great Britain
+    - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+  - Transfer of certain functions under subordinate legislation: Northern Ireland
+    - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+  - Savings
+    - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+    - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+- SCHEDULE 12 Consequential amendments
+  - Part I Amendments consequential on Parts III and IV
+    - Senior Courts Act 1981 (c.54)
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Matrimonial and Family Proceedings Act 1984 (c.42)
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Family Law (Scotland) Act 1985 (c.37)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - Income and Corporation Taxes Act 1988 (c.1)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - Social Security Administration Act 1992 (c.5)
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - Pension Schemes Act 1993 (c.48)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+      - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+      - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+      - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+      - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+      - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+      - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+      - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - Pensions Act 1995 (c.26)
+      - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+      - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+      - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+      - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+      - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+      - [Sch. 12 para. 48](schedule/12/paragraph/48.md)
+      - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+      - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+      - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+      - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+      - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+      - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+      - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+      - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+      - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+      - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+      - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+      - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+      - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+      - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+      - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+    - Family Law Act 1996 (c.27)
+      - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+      - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+      - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+  - Part II Other consequential amendments
+    - Bankruptcy (Scotland) Act 1985 (c.66)
+      - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+      - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+      - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+    - Insolvency Act 1986 (c.45)
+      - [Sch. 12 para. 70](schedule/12/paragraph/70.md)
+      - [Sch. 12 para. 71](schedule/12/paragraph/71.md)
+      - [Sch. 12 para. 72](schedule/12/paragraph/72.md)
+    - Income and Corporation Taxes Act 1988 (c.1)
+      - [Sch. 12 para. 73](schedule/12/paragraph/73.md)
+      - [Sch. 12 para. 74](schedule/12/paragraph/74.md)
+      - [Sch. 12 para. 75](schedule/12/paragraph/75.md)
+    - Social Security Contributions and Benefits Act 1992 (c.4)
+      - [Sch. 12 para. 76](schedule/12/paragraph/76.md)
+      - [Sch. 12 para. 77](schedule/12/paragraph/77.md)
+      - [Sch. 12 para. 78](schedule/12/paragraph/78.md)
+    - Social Security Administration Act 1992 (c.5)
+      - [Sch. 12 para. 79](schedule/12/paragraph/79.md)
+      - [Sch. 12 para. 80](schedule/12/paragraph/80.md)
+      - [Sch. 12 para. 81](schedule/12/paragraph/81.md)
+      - [Sch. 12 para. 82](schedule/12/paragraph/82.md)
+      - [Sch. 12 para. 83](schedule/12/paragraph/83.md)
+    - Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c.7)
+      - [Sch. 12 para. 84](schedule/12/paragraph/84.md)
+      - [Sch. 12 para. 85](schedule/12/paragraph/85.md)
+      - [Sch. 12 para. 86](schedule/12/paragraph/86.md)
+    - Social Security Act 1998 (c.14)
+      - [Sch. 12 para. 87](schedule/12/paragraph/87.md)
+- SCHEDULE 13 Repeals
+  - Part I Pensions: miscellaneous
+  - Part II Pensions on divorce etc
+  - Part III Pension sharing
+  - Part IV Abolition of severe disablement allowance
+  - Part V Benefits: miscellaneous
+  - Part VI National Insurance contributions etc
+  - Part VII National Insurance contributions etc: Northern Ireland
