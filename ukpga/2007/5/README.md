@@ -1,0 +1,272 @@
+# Welfare Reform Act 2007
+
+2007 c. 5. Enacted 2007-05-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 62 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
+
+Source: https://www.legislation.gov.uk/ukpga/2007/5/2026-07-01
+
+## Contents
+
+- Part 1 Employment and support allowance
+  - Entitlement
+    - [s. 1 Employment and support allowance](section/1.md)
+    - [s. 1A Duration of allowance](section/1A.md)
+    - [s. 1B Further entitlement after time-limiting](section/1B.md)
+    - [s. 2 Amount of allowance](section/2.md)
+    - [s. 3 Deductions from allowance: supplementary](section/3.md)
+    - [s. 4 Amount of income-related allowance](section/4.md)
+    - [s. 5 Advance award of income-related allowance](section/5.md)
+    - [s. 6 Amount payable where claimant entitled to both forms of allowance](section/6.md)
+    - [s. 7 Exclusion of payments below prescribed minimum](section/7.md)
+  - Assessments relating to entitlement
+    - [s. 8 Limited capability for work](section/8.md)
+    - [s. 9 Limited capability for work-related activity](section/9.md)
+    - [s. 10 Report](section/10.md)
+    - [s. 11](section/11.md)
+    - [s. 11A Claimant commitment](section/11A.md)
+    - [s. 11B Work-focused interview requirement](section/11B.md)
+    - [s. 11C Work preparation requirement](section/11C.md)
+    - [s. 11D Persons subject to no work-related requirements](section/11D.md)
+    - [s. 11E Persons subject to work-focused interview requirement only](section/11E.md)
+    - [s. 11F Persons subject to work preparation and work-focused interview requirement](section/11F.md)
+    - [s. 11G Connected requirements](section/11G.md)
+    - [s. 11H Imposition of requirements](section/11H.md)
+    - [s. 11I Compliance with requirements](section/11I.md)
+    - [s. 11J Sanctions](section/11J.md)
+    - [s. 11K Delegation and contracting out](section/11K.md)
+    - [s. 12 Work-focused interviews](section/12.md)
+    - [s. 13 Work-related activity](section/13.md)
+    - [s. 14 Action plans in connection with work-focused interviews](section/14.md)
+    - [s. 15 Directions about work-related activity](section/15.md)
+    - [s. 15A Persons dependent on drugs etc.](section/15A.md)
+    - [s. 16 Contracting out](section/16.md)
+    - [s. 16A Hardship payments](section/16A.md)
+  - Miscellaneous
+    - [s. 17 Income and capital: general](section/17.md)
+    - [s. 18 Disqualification](section/18.md)
+    - [s. 19 Pilot schemes](section/19.md)
+    - [s. 20 Relationship with statutory payments](section/20.md)
+    - [s. 21 Deemed entitlement for other purposes](section/21.md)
+    - [s. 22 Supplementary provisions](section/22.md)
+    - [s. 23 Recovery of sums in respect of maintenance](section/23.md)
+  - General
+    - [s. 24 Interpretation of Part 1](section/24.md)
+    - [s. 25 Regulations and orders](section/25.md)
+    - [s. 26 Parliamentary control](section/26.md)
+    - [s. 27 Financial provisions relating to Part 1](section/27.md)
+    - [s. 28 Consequential amendments relating to Part 1](section/28.md)
+    - [s. 29 Transition relating to Part 1](section/29.md)
+- Part 2 Housing benefit and council tax benefit
+  - [s. 30 Local housing allowance](section/30.md)
+  - [s. 31 Loss of housing benefit following eviction for anti-social behaviour, etc.](section/31.md)
+  - [s. 32 Housing benefit and council tax benefit for persons taking up employment](section/32.md)
+  - [s. 33 Section 32: supplemental](section/33.md)
+  - [s. 34 Sections 32 and 33: interpretation](section/34.md)
+  - [s. 35 Information relating to housing benefit](section/35.md)
+  - [s. 36 Supply of information by rent officers](section/36.md)
+  - [s. 37 Payment of housing benefit](section/37.md)
+  - [s. 38 Duty to send inspection reports to the Secretary of State](section/38.md)
+  - [s. 39 Directions by Secretary of State](section/39.md)
+  - [s. 40 Minor and consequential amendments relating to Part 2](section/40.md)
+- Part 3 Social security administration: general
+  - Sharing of social security information
+    - [s. 41 Social security information](section/41.md)
+    - [s. 42 Information relating to certain benefits](section/42.md)
+    - [s. 43 Unlawful disclosure of certain information](section/43.md)
+  - Overpayment recovery
+    - [s. 44 Recovery of overpaid benefit: Great Britain](section/44.md)
+    - [s. 45 Recovery of overpaid child benefit and guardian’s allowance: Northern Ireland](section/45.md)
+  - Benefit fraud
+    - [s. 46 Local authority powers to investigate benefit fraud](section/46.md)
+    - [s. 47 Local authority powers to prosecute benefit fraud](section/47.md)
+    - [s. 48 Local authority functions relating to benefit: information](section/48.md)
+    - [s. 49 Loss of benefit for commission of benefit offences](section/49.md)
+- Part 4 Miscellaneous
+  - Benefits for bereaved persons
+    - [s. 50 Widowed mother’s allowance](section/50.md)
+    - [s. 51 Widowed parent’s allowance](section/51.md)
+  - Disability living allowance: age conditions
+    - [s. 52 Care component of disability living allowance: persons under the age of 16](section/52.md)
+    - [s. 53 Mobility component of disability living allowance: persons under the age of 16](section/53.md)
+  - Social fund
+    - [s. 54 Matters to which regard must be had in awarding budgeting loans](section/54.md)
+    - [s. 55 Allocations from Social Fund](section/55.md)
+  - Vaccine Damage Payments Act 1979
+    - [s. 56 Overseas vaccinations](section/56.md)
+    - [s. 57 Appeals to appeal tribunal in Northern Ireland](section/57.md)
+  - Compensation for pneumoconiosis etc.
+    - [s. 58 “Relevant employer”](section/58.md)
+    - [s. 59 “Dependant”](section/59.md)
+  - Other
+    - [s. 60 Power to stop payment of allowances to care home residents](section/60.md)
+    - [s. 61 Independent Living Funds](section/61.md)
+    - [s. 62 Medical examinations](section/62.md)
+    - [s. 63 Minor and consequential amendments relating to Part 4](section/63.md)
+- Part 5 General
+  - [s. 64 Northern Ireland](section/64.md)
+  - [s. 65 General interpretation](section/65.md)
+  - [s. 66 Financial provisions: general](section/66.md)
+  - [s. 67 Repeals](section/67.md)
+  - [s. 68 Transition](section/68.md)
+  - [s. 69 Extent](section/69.md)
+  - [s. 70 Commencement](section/70.md)
+  - [s. 71 Short title](section/71.md)
+- SCHEDULE 1 Employment and support allowance: additional conditions
+  - Part 1 ...
+    - Conditions relating to national insurance
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Condition relating to youth
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - “Relevant benefit week”
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 1A Persons dependent on drugs etc.
+  - [Sch. 1A para. 1 Requirements imposed in relation to use of drugs](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Requirements imposed in relation to use of drugs](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Requirements imposed in relation to use of drugs](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Paragraphs 1 to 3: supplementary](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Voluntary and mandatory rehabilitation plans](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Voluntary and mandatory rehabilitation plans](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Sanctions](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Information](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Interpretation](schedule/1A/paragraph/9.md)
+  - [Sch. 1A para. 10 Power to extend provisions to alcohol](schedule/1A/paragraph/10.md)
+- SCHEDULE 2 Employment and support allowance: supplementary provisions
+  - Limited capability for work
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Waiting days
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Periods of less than a week
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Linking periods
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - Presence in Great Britain
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - entitlement in case of absence from Great Britain
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - modification in relation to employment on ships etc.
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Income-related allowance: entitlement in case of absence from Great Britain
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Limited capability for work-related activity
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Effect of work
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Treatment of allowance as “benefit”
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Attribution of reductions in cases where allowance taken to consist of two elements
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Treatment of information supplied as information relating to social security
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Advance claims
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Members of the forces
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Consequential amendments relating to Part 1
+  - Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Education (Scotland) Act 1980 (c. 41)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Transport Act 1982 (c. 49)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Jobseekers Act 1995 (c. 18)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Children (Scotland) Act 1995 (c. 36)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Employment Tribunals Act 1996 (c. 17)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Welfare Reform and Pensions Act 1999 (c. 30)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Child Support, Pensions and Social Security Act 2000 (c. 19)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Adults with Incapacity (Scotland) Act 2000 (asp 4)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Social Security Fraud Act 2001 (c. 11)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+- SCHEDULE 4 Transition relating to Part 1
+  - General power to provide for transition relating to Part 1
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Pre-commencement claims
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Post-commencement claims
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Award of employment and support allowance for pre-commencement period
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Matching of awards of employment and support allowance
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Treatment of existing awards
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Transitional allowances
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Post-commencement up-rating of incapacity benefit and severe disablement allowance
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Interpretation
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Minor and consequential amendments relating to Part 2
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Local Government etc. (Scotland) Act 1994 (c. 39)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Child Support, Pensions and Social Security Act 2000 (c. 19)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Civil Partnership Act 2004 (c. 33)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Schedule to be inserted in the Pneumoconiosis etc. (Workers’ Compensation) Act 1979
+- SCHEDULE 7 Minor and consequential amendments relating to Part 4
+  - Vaccine Damage Payments Act 1979 (c. 17)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Repeals
