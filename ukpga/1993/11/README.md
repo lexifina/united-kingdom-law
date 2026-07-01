@@ -1,0 +1,207 @@
+# Clean Air Act 1993
+
+1993 c. 11. Enacted 1993-05-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1993/11/2026-07-01
+
+## Contents
+
+- Part I Dark Smoke
+  - [s. 1 Prohibition of dark smoke from chimneys.](section/1.md)
+  - [s. 2 Prohibition of dark smoke from industrial or trade premises.](section/2.md)
+  - [s. 3 Meaning of “dark smoke”.](section/3.md)
+- Part II Smoke, grit, dust and fumes
+  - Installation of furnaces
+    - [s. 4 Requirement that new furnaces shall be so far as practicable smokeless.](section/4.md)
+  - Limits on rate of emission of grit and dust
+    - [s. 5 Emission of grit and dust from furnaces.](section/5.md)
+  - Arrestment plant for furnaces
+    - [s. 6 Arrestment plant for new non-domestic furnaces.](section/6.md)
+    - [s. 7 Exemptions from section 6.](section/7.md)
+    - [s. 8 Requirement to fit arrestment plant for burning solid fuel in other cases.](section/8.md)
+    - [s. 9 Appeal to Secretary of State against refusal of approval.](section/9.md)
+  - Measurement of grit, dust and fumes
+    - [s. 10 Measurement of grit, dust and fumes by occupiers.](section/10.md)
+    - [s. 11 Measurement of grit, dust and fumes by local authorities.](section/11.md)
+    - [s. 12 Information about furnaces and fuel consumed.](section/12.md)
+  - Outdoor furnaces
+    - [s. 13 Grit and dust from outdoor furnaces, etc.](section/13.md)
+  - Height of chimneys
+    - [s. 14 Height of chimneys for furnaces.](section/14.md)
+    - [s. 15 Applications for approval of height of chimneys of furnaces.](section/15.md)
+    - [s. 16 Height of other chimneys.](section/16.md)
+  - Smoke nuisances in Scotland
+    - [s. 17 ................................](section/17.md)
+- Part III Smoke control areas
+  - Creation of smoke control areas
+    - [s. 18 Declaration of smoke control area by local authority.](section/18.md)
+    - [s. 19 Power of Secretary of State to require creation of smoke control areas.](section/19.md)
+  - Regulation of smoke and fuel in smoke control areas in England
+    - [s. 19A Penalty for emission of smoke in smoke control area in England](section/19A.md)
+    - [s. 19B Acquisition and sale of controlled solid fuel in England](section/19B.md)
+    - [s. 19C Exemptions relating to particular areas in England](section/19C.md)
+    - [s. 19D Interpretation: “approved fireplace” and “controlled solid fuel”](section/19D.md)
+  - Regulation of smoke and fuel in smoke control areas in Wales
+    - [s. 19E Penalty for emission of smoke in smoke control area in Wales](section/19E.md)
+    - [s. 19F Acquisition and sale of unauthorised fuel: Wales](section/19F.md)
+    - [s. 19G Section 19F: interpretation](section/19G.md)
+    - [s. 19H Exemptions relating to particular areas in Wales](section/19H.md)
+    - [s. 20 Prohibition on emission of smoke in smoke control area.](section/20.md)
+    - [s. 21 Power ... to exempt certain fireplaces.](section/21.md)
+    - [s. 22 Exemptions relating to particular areas.](section/22.md)
+    - [s. 23 Acquisition and sale of unauthorised fuel in a smoke control area.](section/23.md)
+  - Adaptation of fireplaces
+    - [s. 24 Power of local authority to require adaptation of fireplaces in private dwellings.](section/24.md)
+    - [s. 25 Expenditure incurred in relation to adaptations in private dwellings.](section/25.md)
+    - [s. 26 Power of local authority to make grants towards adaptations to fireplaces in churches, chapels, buildings used by charities etc.](section/26.md)
+    - [s. 26A Duty of local authority to reimburse for adaptations of vessels in England](section/26A.md)
+  - Supplementary provisions
+    - [s. 27 References to adaptations for avoiding contraventions of ... Schedule 1A.](section/27.md)
+    - [s. 28 Cases where expenditure is taken to be incurred on execution of works.](section/28.md)
+    - [s. 28A Guidance for local authorities in England](section/28A.md)
+    - [s. 28B Guidance for local authorities in Wales](section/28B.md)
+    - [s. 29 Interpretation of Part III.](section/29.md)
+- Part IV Control of certain forms of air pollution
+  - [s. 30 Regulations about motor fuel.](section/30.md)
+  - [s. 31 Regulations about sulphur content of oil fuel for furnaces or engines.](section/31.md)
+  - [s. 32 Provisions supplementary to sections 30 and 31.](section/32.md)
+  - [s. 33 Cable burning.](section/33.md)
+- Part V Information about air pollution
+  - [s. 34 Research and publicity.](section/34.md)
+  - [s. 35 Obtaining information.](section/35.md)
+  - [s. 36 Notices requiring information about air pollution.](section/36.md)
+  - [s. 37 Appeals against notices under section 36.](section/37.md)
+  - [s. 38 Regulations about local authority functions under sections 34, 35 and 36.](section/38.md)
+  - [s. 39 Provision by local authorities of information for Secretary of State.](section/39.md)
+  - [s. 40 Interpretation of Part V.](section/40.md)
+- Part VI Special Cases
+  - [s. 41 Relation to Environmental Protection Act 1990.](section/41.md)
+  - [s. 41A Relation to the Pollution Prevention and Control Act 1999 and Regulatory Reform (Scotland) Act 2014.](section/41A.md)
+  - [s. 42 Colliery spoilbanks.](section/42.md)
+  - [s. 43 Railway engines.](section/43.md)
+  - [s. 44 Vessels.](section/44.md)
+  - [s. 45 Exemption for purposes of investigations and research.](section/45.md)
+  - [s. 46 Crown premises, etc.](section/46.md)
+- Part VII Miscellaneous and general
+  - Power to apply certain provisions to fumes and gases
+    - [s. 47 Application to fumes and gases of certain provisions as to grit, dust and smoke.](section/47.md)
+  - Power to give effect to international agreements
+    - [s. 48 Power to give effect to international agreements.](section/48.md)
+  - Administration and enforcement
+    - [s. 49 Unjustified disclosures of information.](section/49.md)
+    - [s. 50 Cumulative penalties on continuance of certain offences.](section/50.md)
+    - [s. 51 Duty to notify occupiers of offences.](section/51.md)
+    - [s. 52 Offences committed by bodies corporate.](section/52.md)
+    - [s. 53 Offence due to act or default of another.](section/53.md)
+    - [s. 54 Power of county court to authorise works and order payments.](section/54.md)
+    - [s. 55 General provisions as to enforcement.](section/55.md)
+    - [s. 56 Rights of entry and inspection etc.](section/56.md)
+    - [s. 57 Provisions supplementary to section 56.](section/57.md)
+    - [s. 58 Power of local authorities to obtain information.](section/58.md)
+    - [s. 59 Inquiries.](section/59.md)
+    - [s. 60 Default powers.](section/60.md)
+    - [s. 61 Joint exercise of local authority functions.](section/61.md)
+    - [s. 62 Application of certain provisions of Part XII of Public Health Act 1936 and corresponding Scottish legislation.](section/62.md)
+  - General
+    - [s. 63 Regulations and orders.](section/63.md)
+    - [s. 64 General provisions as to interpretation.](section/64.md)
+    - [s. 65 Application to Isles of Scilly.](section/65.md)
+    - [s. 66 Transitory provisions relating to Alkali, &c. Works Regulation Act 1906.](section/66.md)
+    - [s. 67 Consequential amendments, transitional provisions and repeals.](section/67.md)
+    - [s. 68 Short title, commencement and extent.](section/68.md)
+- SCHEDULE 1 Coming into Operation of Smoke Control Orders
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - [Sch. 1 para. 1B](schedule/1/paragraph/1B.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - [Sch. 1 para. 6B](schedule/1/paragraph/6B.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 1A Penalty for emission of smoke in smoke control area in England or Wales
+  - [Sch. 1A para. 1 Key definitions](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Notice of intent](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Amount of penalty](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Right to object to proposed financial penalty](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Decision regarding a final notice](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Final notice](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Withdrawal or amendment of notices](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Appeals](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Recovery of penalties](schedule/1A/paragraph/9.md)
+  - [Sch. 1A para. 10 Delegation](schedule/1A/paragraph/10.md)
+  - [Sch. 1A para. 11 Notices](schedule/1A/paragraph/11.md)
+  - [Sch. 1A para. 12 Notices: vessels which are moored](schedule/1A/paragraph/12.md)
+- SCHEDULE 2 Smoke control orders: expenditure on old private dwellings
+  - Grants for expenditure incurred in adaptation of fireplaces
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Exclusion of grants in case of unsuitable appliances
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Exchequer contributions to certain expenditure
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Provisions having effect until repeal of Alkali, &c Works Regulation Act 1906
+  - Part I Relation of this Act to Alkali, &c. Works Regulation Act 1906
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part II Modifications of this Act
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Consequential amendments
+  - The Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Control of Pollution Act 1974 (c. 40)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Public Health (Control of Disease) Act 1984 (c. 22)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Environmental Protection Act 1990 (c. 43)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Atomic Weapons Establishment Act 1991 (c. 46)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Radioactive Substances Act 1993 (c. 12)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Transitional provisions
+  - Part I General transitional provisions and savings
+    - Continuity of the law
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - General saving for old transitional provisions and savings
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part II Exclusion and modification of certain provisions of this Act
+    - Requirements to fit arrestment plant: sections 6 & 8
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Height of chimneys for furnaces: section 14
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Smoke control orders
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Colliery spoilbanks: section 42
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Part III Confirmation and coming into operation of certain smoke control orders
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 12A](schedule/5/paragraph/12A.md)
+    - [Sch. 5 para. 12B](schedule/5/paragraph/12B.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 Repeals
+  - TABLE OF DERIVATIONS
