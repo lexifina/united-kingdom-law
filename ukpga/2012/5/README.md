@@ -1,0 +1,578 @@
+# Welfare Reform Act 2012
+
+2012 c. 5. Enacted 2012-03-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 68 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
+
+Source: https://www.legislation.gov.uk/ukpga/2012/5/2026-07-01
+
+## Contents
+
+- Part 1 Universal credit
+  - CHAPTER 1 Entitlement and awards
+    - Introductory
+      - [s. 1 Universal credit](section/1.md)
+      - [s. 2 Claims](section/2.md)
+    - Entitlement
+      - [s. 3 Entitlement](section/3.md)
+      - [s. 4 Basic conditions](section/4.md)
+      - [s. 5 Financial conditions](section/5.md)
+      - [s. 6 Restrictions on entitlement](section/6.md)
+    - Awards
+      - [s. 7 Basis of awards](section/7.md)
+      - [s. 8 Calculation of awards](section/8.md)
+    - Elements of an award
+      - [s. 9 Standard allowance](section/9.md)
+      - [s. 10 Responsibility for children and young persons](section/10.md)
+      - [s. 11 Housing costs](section/11.md)
+      - [s. 12 Other particular needs or circumstances](section/12.md)
+  - CHAPTER 2 Claimant responsibilities
+    - Introductory
+      - [s. 13 Work-related requirements: introductory](section/13.md)
+      - [s. 14 Claimant commitment](section/14.md)
+    - Work-related requirements
+      - [s. 15 Work-focused interview requirement](section/15.md)
+      - [s. 16 Work preparation requirement](section/16.md)
+      - [s. 17 Work search requirement](section/17.md)
+      - [s. 18 Work availability requirement](section/18.md)
+    - Application of work-related requirements
+      - [s. 19 Claimants subject to no work-related requirements](section/19.md)
+      - [s. 20 Claimants subject to work-focused interview requirement only](section/20.md)
+      - [s. 21 Claimants subject to work preparation requirement](section/21.md)
+      - [s. 22 Claimants subject to all work-related requirements](section/22.md)
+    - Work-related requirements: supplementary
+      - [s. 23 Connected requirements](section/23.md)
+      - [s. 24 Imposition of requirements](section/24.md)
+      - [s. 25 Compliance with requirements](section/25.md)
+    - Reduction of benefit
+      - [s. 26 Higher-level sanctions](section/26.md)
+      - [s. 27 Other sanctions](section/27.md)
+      - [s. 28 Hardship payments](section/28.md)
+    - Administration
+      - [s. 29 Delegation and contracting out](section/29.md)
+  - CHAPTER 3 Supplementary and general
+    - Supplementary and consequential
+      - [s. 30 Supplementary regulation-making powers](section/30.md)
+      - [s. 31 Supplementary and consequential amendments](section/31.md)
+      - [s. 32 Power to make supplementary and consequential provision etc](section/32.md)
+    - Universal credit and other benefits
+      - [s. 33 Abolition of benefits](section/33.md)
+      - [s. 34 Universal credit and state pension credit](section/34.md)
+      - [s. 35 Universal credit and working-age benefits](section/35.md)
+      - [s. 36 Migration to universal credit](section/36.md)
+    - General
+      - [s. 37 Capability for work or work-related activity](section/37.md)
+      - [s. 38 Information](section/38.md)
+      - [s. 39 Couples](section/39.md)
+      - [s. 40 Interpretation of Part 1](section/40.md)
+    - Regulations
+      - [s. 41 Pilot schemes](section/41.md)
+      - [s. 42 Regulations: general](section/42.md)
+      - [s. 43 Regulations: procedure](section/43.md)
+- Part 2 Working-age benefits
+  - CHAPTER 1 Jobseeker’s allowance
+    - Claimant responsibilities for interim period
+      - [s. 44 Claimant commitment for jobseeker’s allowance](section/44.md)
+      - [s. 45 Interviews](section/45.md)
+      - [s. 46 Sanctions](section/46.md)
+      - [s. 47 Procedure for regulation-making powers](section/47.md)
+      - [s. 48 Consequential amendments](section/48.md)
+    - Claimant responsibilities after introduction of universal credit
+      - [s. 49 Claimant responsibilities for jobseeker’s allowance](section/49.md)
+  - CHAPTER 2 Employment and support allowance
+    - Conditions of entitlement
+      - [s. 50 Dual entitlement](section/50.md)
+      - [s. 51 Period of entitlement to contributory allowance](section/51.md)
+      - [s. 52 Further entitlement after time-limiting](section/52.md)
+      - [s. 53 Condition relating to youth](section/53.md)
+    - Claimant responsibilities for interim period
+      - [s. 54 Claimant commitment for employment and support allowance](section/54.md)
+      - [s. 55 Work experience etc](section/55.md)
+      - [s. 56 Hardship payments](section/56.md)
+    - Claimant responsibilities after introduction of universal credit
+      - [s. 57 Claimant responsibilities for employment and support allowance](section/57.md)
+  - CHAPTER 3 Income support
+    - [s. 58 Entitlement of lone parents to income support etc](section/58.md)
+    - [s. 59 Claimant commitment for income support](section/59.md)
+  - CHAPTER 4 Miscellaneous
+    - Claimants dependent on drugs etc
+      - [s. 60 Claimants dependent on drugs etc](section/60.md)
+    - Entitlement to work
+      - [s. 61 Entitlement to work: jobseeker’s allowance](section/61.md)
+      - [s. 62 Entitlement to work: employment and support allowance](section/62.md)
+      - [s. 63 Entitlement to work: maternity allowance and statutory payments](section/63.md)
+- Part 3 Other benefit changes
+  - Industrial injuries benefit
+    - [s. 64 Injuries arising before 5 July 1948](section/64.md)
+    - [s. 65 Persons under 18](section/65.md)
+    - [s. 66 Trainees](section/66.md)
+    - [s. 67 Restriction on new claims for industrial death benefit](section/67.md)
+    - [s. 68 Determinations](section/68.md)
+  - Housing benefit
+    - [s. 69 Housing benefit: determination of appropriate maximum](section/69.md)
+  - Social fund
+    - [s. 70 Ending of discretionary payments](section/70.md)
+    - [s. 71 Purposes of discretionary payments](section/71.md)
+    - [s. 72 Determination of amount or value of budgeting loan](section/72.md)
+    - [s. 73 External provider social loans and community care grants](section/73.md)
+  - State pension credit
+    - [s. 74 State pension credit: carers](section/74.md)
+    - [s. 75 State pension credit: capital limit](section/75.md)
+  - Working tax credit
+    - [s. 76 Calculation of working tax credit](section/76.md)
+- Part 4 Personal independence payment
+  - Personal independence payment
+    - [s. 77 Personal independence payment](section/77.md)
+    - [s. 78 Daily living component](section/78.md)
+    - [s. 79 Mobility component](section/79.md)
+    - [s. 80 Ability to carry out daily living activities or mobility activities](section/80.md)
+    - [s. 81 Required period condition: further provision](section/81.md)
+  - Entitlement and payability: further provision
+    - [s. 82 Terminal illness](section/82.md)
+    - [s. 83 Persons of pensionable age](section/83.md)
+    - [s. 84 No entitlement to daily living component where UK is not competent state](section/84.md)
+    - [s. 85 Care home residents](section/85.md)
+    - [s. 86 Hospital in-patients](section/86.md)
+    - [s. 87 Prisoners and detainees](section/87.md)
+  - Supplementary
+    - [s. 88 Claims, awards and information](section/88.md)
+    - [s. 89 Report to Parliament](section/89.md)
+  - General
+    - [s. 90 Abolition of disability living allowance](section/90.md)
+    - [s. 91 Amendments](section/91.md)
+    - [s. 92 Power to make supplementary and consequential provision](section/92.md)
+    - [s. 93 Transitional](section/93.md)
+    - [s. 94 Regulations](section/94.md)
+    - [s. 95 Interpretation of Part 4](section/95.md)
+- Part 5 Social security: general
+  - Benefit cap
+    - [s. 96 Benefit cap](section/96.md)
+    - [s. 96A Benefit cap: review](section/96A.md)
+    - [s. 97 Benefit cap: supplementary](section/97.md)
+  - Claims and awards
+    - [s. 98 Claims and awards](section/98.md)
+    - [s. 99 Powers to require information relating to claims and awards](section/99.md)
+  - Payments
+    - [s. 100 Payments to joint claimants](section/100.md)
+    - [s. 101 Payments on account](section/101.md)
+  - Appeals
+    - [s. 102 Power to require consideration of revision before appeal](section/102.md)
+    - [s. 103 Supersession of decisions of former appellate bodies](section/103.md)
+  - Electronic communications
+    - [s. 104 Electronic communications](section/104.md)
+  - Recovery of benefits
+    - [s. 105 Recovery of benefit payments](section/105.md)
+    - [s. 106 Deduction from earnings: other cases](section/106.md)
+    - [s. 107 Recovery of child benefit and guardian’s allowance](section/107.md)
+    - [s. 108 Application of Limitation Act 1980](section/108.md)
+  - Recovery of fines from benefit
+    - [s. 109 Recovery of fines etc by deductions from employment and support allowance](section/109.md)
+  - Investigation and prosecution of offences
+    - [s. 110 Powers to require information relating to investigations](section/110.md)
+    - [s. 111 Time limits for legal proceedings](section/111.md)
+    - [s. 112 Prosecution powers of local authorities](section/112.md)
+  - Penalties as alternative to prosecution
+    - [s. 113 Penalty in respect of benefit fraud not resulting in overpayment](section/113.md)
+    - [s. 114 Amount of penalty](section/114.md)
+    - [s. 115 Period for withdrawal of agreement to pay penalty](section/115.md)
+  - Civil penalties
+    - [s. 116 Civil penalties for incorrect statements and failures to disclose information](section/116.md)
+  - Loss of benefit
+    - [s. 117 Benefit offences: disqualifying and sanctionable benefits](section/117.md)
+    - [s. 118 Benefit offences: period of sanction](section/118.md)
+    - [s. 119 Benefit offences: sanctions for repeated benefit fraud](section/119.md)
+    - [s. 120 Loss of tax credits](section/120.md)
+    - [s. 121 Cautions](section/121.md)
+  - Administration of tax credits
+    - [s. 122 Tax credit fraud: investigation](section/122.md)
+    - [s. 123 Information-sharing for prevention etc of tax credit fraud](section/123.md)
+    - [s. 124 Tax credit fraud: prosecution and penalties](section/124.md)
+    - [s. 125 Unauthorised disclosure of information relating to tax credit offences](section/125.md)
+    - [s. 126 Tax credits: transfer of functions etc](section/126.md)
+  - Information-sharing: Secretary of State and HMRC
+    - [s. 127 Information-sharing between Secretary of State and HMRC](section/127.md)
+  - Information-sharing: Secretary of State and DPP
+    - [s. 128 Information-sharing between Secretary of State and DPP](section/128.md)
+    - [s. 129 Unlawful disclosure of information supplied under section 128](section/129.md)
+  - Information-sharing involving local authorities etc
+    - [s. 130 Information-sharing in relation to provision of overnight care etc](section/130.md)
+    - [s. 131 Information-sharing in relation to welfare services etc](section/131.md)
+    - [s. 132 Unlawful disclosure of information supplied under section 131](section/132.md)
+    - [s. 133 Sections 130 to 132: supplementary](section/133.md)
+  - Information-sharing: miscellaneous
+    - [s. 134 Information-sharing for social security or employment purposes etc](section/134.md)
+- Part 6 Miscellaneous
+  - Tell Us Once
+    - [s. 135 Functions of registration service](section/135.md)
+  - Child support maintenance
+    - [s. 136 Supporting maintenance agreements](section/136.md)
+    - [s. 137 Collection of child support maintenance](section/137.md)
+    - [s. 138 Indicative maintenance calculations](section/138.md)
+    - [s. 139 Recovery of child support maintenance by deduction from benefit](section/139.md)
+    - [s. 140 Fees](section/140.md)
+    - [s. 141 Review of fees regulations](section/141.md)
+    - [s. 142 Exclusion from individual voluntary arrangements](section/142.md)
+  - Reports on decision-making
+    - [s. 143 Standards of decision-making](section/143.md)
+  - Employment and training
+    - [s. 144 Use of jobcentres by sex industry](section/144.md)
+  - Child poverty
+    - [s. 145 Social Mobility and Child Poverty Commission](section/145.md)
+    - [s. 146 UK child poverty strategies](section/146.md)
+- Part 7 Final
+  - [s. 147 Repeals](section/147.md)
+  - [s. 148 Financial provision](section/148.md)
+  - [s. 149 Extent](section/149.md)
+  - [s. 150 Commencement](section/150.md)
+  - [s. 151 Short title](section/151.md)
+- SCHEDULE 1 Universal credit: supplementary regulation-making powers
+  - Entitlement of joint claimants
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Linking periods
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Couples
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Calculation of capital and income
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Responsibility for children etc
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Vouchers
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Work-related requirements
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Good reason
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Universal credit: amendments
+  - Children Act 1989 (c. 41)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+  - Jobseekers Act 1995 (c. 18)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+  - Child Support, Pensions and Social Security Act 2000 (c. 19)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+  - Social Security Fraud Act 2001 (c. 11)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+    - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+  - State Pension Credit Act 2002 (c. 16)
+    - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+  - Welfare Reform Act 2007 (c. 5)
+    - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+- SCHEDULE 3 Abolition of benefits: consequential amendments
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Child Support, Pensions and Social Security Act 2000 (c. 19)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Capital Allowances Act 2001 (c. 2)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Social Security Fraud Act 2001 (c. 11)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Commissioners for Revenue and Customs Act 2005 (c. 11)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Welfare Reform Act 2007 (c. 5)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Corporation Tax Act 2009 (c. 4)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Housing credit element of state pension credit
+  - Part 1 Amendments to State Pension Credit Act 2002
+    - State Pension Credit Act 2002 (c. 16)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Part 2 Amendments to other Acts
+    - Social Security Administration Act 1992 (c. 5)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Housing Act 1996 (c. 52)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Child Support, Pensions and Social Security Act 2000 (c. 19)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 Universal credit and other working-age benefits
+  - General
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Dual entitlement
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Movement between working-age benefits
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Hardship payments
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Earnings tapers
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Migration to universal credit
+  - General
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Claims before the appointed day
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Claims after the appointed day
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Awards
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Work-related requirements and sanctions
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Tax credits
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Supplementary
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Jobseeker’s allowance in interim period: consequential amendments
+  - Jobseekers Act 1995 (c. 18)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Social Security Fraud Act 2001 (c. 11)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Welfare Reform Act 2009 (c. 24)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+- SCHEDULE 8 Social fund discretionary payments: consequential amendments
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Personal independence payment: amendments
+  - Transport Act 1982 (c. 49)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+  - Social Security Fraud Act 2001 (c. 11)
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+    - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+    - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+  - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+    - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+    - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+    - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+- SCHEDULE 10 Personal independence payment: transitional
+  - General
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Claims before the appointed day
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Claims after the appointed day
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Awards
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Supplementary
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 Power to require consideration of revision before appeal
+  - Vaccine Damage Payments Act 1979 (c. 17)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Child Support, Pensions and Social Security Act 2000 (c. 19)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Child Maintenance and Other Payments Act 2008 (c. 6)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+- SCHEDULE 12 Supersession of decisions of former appellate bodies
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Child Support, Pensions and Social Security Act 2000 (c. 19)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Social Mobility and Child Poverty Commission
+  - Part 1 Establishment of Social Mobility and Child Poverty Commission
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Part 2 Supplementary amendments to Child Poverty Act 2010
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Part 3 Supplementary amendments to other Acts
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+- SCHEDULE 14 Repeals
+  - Part 1 Abolition of benefits superseded by universal credit
+  - Part 2 Entitlement to jobseeker’s allowance without seeking employment
+  - Part 3 Jobseeker’s allowance: responsibilities for interim period
+  - Part 4 Jobseeker’s allowance: responsibilities after introduction of universal credit
+  - Part 5 Employment and support allowance: responsibilities after introduction of universal credit
+  - Part 6 Claimants dependent on drugs etc
+  - Part 7 Industrial injuries arising before 5 July 1948
+  - Part 8 Social fund: ending of discretionary payments
+  - Part 9 Disability living allowance
+  - Part 10 Powers to require information relating to claims and awards
+  - Part 11 Recovery of benefit payments
+  - Part 12 Loss of benefit: cautions
+  - Part 13 Information-sharing between Secretary of State and HMRC
+  - Part 14 Standards of decision-making
