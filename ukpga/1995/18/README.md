@@ -1,0 +1,255 @@
+# Jobseekers Act 1995
+
+1995 c. 18. Enacted 1995-06-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 125 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/18
+
+Source: https://www.legislation.gov.uk/ukpga/1995/18/2026-07-01
+
+## Contents
+
+- Part I The Jobseeker’s Allowance
+  - Entitlement
+    - [s. 1 The jobseeker’s allowance.](section/1.md)
+    - [s. 2 The contribution-based conditions.](section/2.md)
+    - [s. 3 The income-based conditions.](section/3.md)
+    - [s. 3A The conditions for claims by joint-claim couples.](section/3A.md)
+    - [s. 3B Joint-claim couples: the nominated member.](section/3B.md)
+    - [s. 4 Amount payable by way of a jobseeker’s allowance.](section/4.md)
+    - [s. 4A Amount payable in respect of joint-claim couple.](section/4A.md)
+    - [s. 5 Duration of a jobseeker’s allowance.](section/5.md)
+  - Work-related requirements
+    - [s. 6 Work-related requirements](section/6.md)
+    - [s. 6A Claimant commitment](section/6A.md)
+    - [s. 6B Work-focused interview requirement](section/6B.md)
+    - [s. 6C Work preparation requirement](section/6C.md)
+    - [s. 6D Work search requirement](section/6D.md)
+    - [s. 6E Work availability requirement](section/6E.md)
+    - [s. 6F Imposition of work-related requirements](section/6F.md)
+    - [s. 6G Connected requirements](section/6G.md)
+    - [s. 6H Imposition of work-related and connected requirements: supplementary](section/6H.md)
+    - [s. 6I Compliance with work-related and connected requirements](section/6I.md)
+    - [s. 6J Higher-level sanctions](section/6J.md)
+    - [s. 6K Other sanctions](section/6K.md)
+    - [s. 6L Delegation and contracting out](section/6L.md)
+    - [s. 7 Actively seeking employment.](section/7.md)
+    - [s. 8 Attendance, information and evidence.](section/8.md)
+    - [s. 9 The jobseeker’s agreement.](section/9.md)
+    - [s. 10 Variation of jobseeker’s agreement.](section/10.md)
+    - [s. 11 Jobseeker’s agreement: reviews and appeals.](section/11.md)
+  - Income and capital
+    - [s. 12 Income and capital: general.](section/12.md)
+    - [s. 13 Income and capital: income-based jobseeker’s allowance.](section/13.md)
+  - Trade disputes
+    - [s. 14 Trade disputes.](section/14.md)
+    - [s. 15 Effect on other claimants.](section/15.md)
+    - [s. 15A Trade disputes: joint-claim couples.](section/15A.md)
+  - Persons under 18
+    - [s. 16 Severe hardship.](section/16.md)
+    - [s. 17 Reduced payments.](section/17.md)
+    - [Pt. I heading persons-under-18 s. 18 Recovery of overpayments.](part/I/crossheading/persons-under-18/section/18.md)
+  - “Work for your benefit” schemes etc.
+    - [s. 17A Schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.](section/17A.md)
+    - [s. 17B Section 17A: supplemental](section/17B.md)
+  - Persons dependent on drugs etc.
+    - [s. 17C Persons dependent on drugs etc.](section/17C.md)
+    - [Pt. I heading persons-dependent-on-drugs-etc s. 18 Recovery of overpayments.](part/I/crossheading/persons-dependent-on-drugs-etc/section/18.md)
+  - Denial of jobseeker’s allowance
+    - [s. 19 Higher-level sanctions](section/19.md)
+    - [s. 19A Other sanctions](section/19A.md)
+    - [s. 19B Claimants ceasing to be available for employment etc](section/19B.md)
+    - [s. 19C Hardship payments](section/19C.md)
+    - [s. 20 Exemptions from section 19 and 19A.](section/20.md)
+    - [s. 20A ................................](section/20A.md)
+    - [s. 20B ................................](section/20B.md)
+  - Miscellaneous
+    - [s. 20E Contracting out](section/20E.md)
+    - [s. 21 Supplementary provisions.](section/21.md)
+    - [s. 22 Members of the forces.](section/22.md)
+    - [s. 23 Recovery of sums in respect of maintenance.](section/23.md)
+    - [s. 24 Effect of alteration of rates.](section/24.md)
+    - [s. 25 Age increases.](section/25.md)
+- Part II Back to Work Schemes
+  - [s. 26 The back to work bonus.](section/26.md)
+  - [s. 27 Employment of long-term unemployed: deductions by employers.](section/27.md)
+  - [s. 28 Expedited claims for housing benefit and council tax benefit.](section/28.md)
+  - [s. 29 Pilot schemes.](section/29.md)
+- Part III Miscellaneous and Supplemental
+  - [s. 30 Grants for resettlement places.](section/30.md)
+  - [s. 31 Termination of awards.](section/31.md)
+  - [s. 32 Insolvency.](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34](section/34.md)
+  - [s. 35 Interpretation.](section/35.md)
+  - [s. 36 Regulations and orders.](section/36.md)
+  - [s. 37 Parliamentary control.](section/37.md)
+  - [s. 38 General financial arrangements.](section/38.md)
+  - [s. 39 Provision for Northern Ireland.](section/39.md)
+  - [s. 40 Transitional provisions.](section/40.md)
+  - [s. 41 Short title, commencement, extent etc.](section/41.md)
+- Schedule A1
+  - Requirements imposed in relation to use of drugs
+    - [Sch. A1 para. 1 ................................](schedule/A1/paragraph/1.md)
+    - [Sch. A1 para. 2 ................................](schedule/A1/paragraph/2.md)
+    - [Sch. A1 para. 3 ................................](schedule/A1/paragraph/3.md)
+  - Paragraphs 1 to 3: supplementary
+    - [Sch. A1 para. 4 ................................](schedule/A1/paragraph/4.md)
+  - Voluntary and mandatory rehabilitation plans
+    - [Sch. A1 para. 5 ................................](schedule/A1/paragraph/5.md)
+    - [Sch. A1 para. 6 ................................](schedule/A1/paragraph/6.md)
+  - Sanctions
+    - [Sch. A1 para. 7 ................................](schedule/A1/paragraph/7.md)
+  - Information
+    - [Sch. A1 para. 8 ................................](schedule/A1/paragraph/8.md)
+  - Interpretation
+    - [Sch. A1 para. 9 ................................](schedule/A1/paragraph/9.md)
+  - Power to extend provisions to alcohol
+    - [Sch. A1 para. 10 ................................](schedule/A1/paragraph/10.md)
+- SCHEDULE 1 Supplementary Provisions
+  - Remunerative work
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Limited capability for work
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Linking periods
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Waiting days
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Periods of less than a week
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Employment protection sums
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Pension payments
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Exemptions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+    - [Sch. 1 para. 8B](schedule/1/paragraph/8B.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Continuity of claims and awards: persons ceasing to be a joint-claim couple
+    - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+  - Continuity of claims and awards: persons again becoming a joint-claim couple
+    - [Sch. 1 para. 9B](schedule/1/paragraph/9B.md)
+  - Continuity of claims and awards: couple becoming a joint-claim couple
+    - [Sch. 1 para. 9C](schedule/1/paragraph/9C.md)
+  - Paragraphs 9A to 9C: supplementary
+    - [Sch. 1 para. 9D](schedule/1/paragraph/9D.md)
+  - Claims yet to be determined and suspended payments
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Presence in and absence from Great Britain
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Households
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Responsibility for another person
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Relevant education
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 14AA](schedule/1/paragraph/14AA.md)
+  - Calculation of periods
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Employment on ships etc.
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Additional conditions
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Benefits Act purposes
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Treatment of information supplied as information relating to social security
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Consequential Amendments
+  - The Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - The Education Act 1980 (c. 20)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - The Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - The Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Administration of Justice Act 1982 (c. 53)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - The Transport Act 1982 (c. 49)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - The Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - The Legal Aid (Scotland) Act 1986 (c.47)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - The Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - The Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - The Education Reform Act 1988 (c. 40)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - The Local Government Finance Act 1988 (c. 41)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - The Children Act 1989 (c. 41)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - The Child Support Act 1991 (c. 48)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - The Criminal Justice Act 1991 (c. 53)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - The Social Security Contributions and Benefits Act 1992 (c.4)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - The Social Security Administration Act 1992 (c.5)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+    - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+    - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+    - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+    - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+    - [Sch. 2 para. 69](schedule/2/paragraph/69.md)
+    - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+    - [Sch. 2 para. 71](schedule/2/paragraph/71.md)
+    - [Sch. 2 para. 72](schedule/2/paragraph/72.md)
+    - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+    - [Sch. 2 para. 74](schedule/2/paragraph/74.md)
+  - The Local Government Finance Act 1992 (c.14)
+    - [Sch. 2 para. 75](schedule/2/paragraph/75.md)
+    - [Sch. 2 para. 76](schedule/2/paragraph/76.md)
+- SCHEDULE 3 Repeals
