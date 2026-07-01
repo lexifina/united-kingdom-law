@@ -1,0 +1,325 @@
+# Legal Services (Scotland) Act 2010
+
+asp/2010/16. Enacted 2010-11-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 68 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/16
+
+Source: https://www.legislation.gov.uk/asp/2010/16/2026-07-01
+
+## Contents
+
+- Part 1 The regulatory objectives etc.
+  - Introduction
+    - [s. 1 Regulatory objectives](section/1.md)
+    - [s. 2 Professional principles](section/2.md)
+    - [s. 3 Legal services](section/3.md)
+  - Role of Ministers
+    - [s. 4 Ministerial oversight](section/4.md)
+    - [s. 5 Consultation by Ministers](section/5.md)
+- Part 2 Regulation of licensed legal services
+  - Chapter 1 Approved regulators
+    - Approved regulators
+      - [s. 6 Approved regulators](section/6.md)
+      - [s. 7 Approval of regulators](section/7.md)
+      - [s. 8 Pre-approval consideration](section/8.md)
+      - [s. 9 Lord President’s agreement](section/9.md)
+      - [s. 10 Authorisation to act](section/10.md)
+      - [s. 11 Request for authorisation](section/11.md)
+    - Regulatory schemes
+      - [s. 12 Regulatory schemes](section/12.md)
+      - [s. 13 Reconciling different rules](section/13.md)
+    - Licensing rules
+      - [s. 14 Licensing rules: general](section/14.md)
+      - [s. 15 Initial considerations](section/15.md)
+      - [s. 16 Other licensing rules](section/16.md)
+      - [s. 17 Licensing appeals](section/17.md)
+    - Practice rules
+      - [s. 18 Practice rules: general](section/18.md)
+      - [s. 19 Financial sanctions](section/19.md)
+      - [s. 20 Enforcement of duties](section/20.md)
+      - [s. 21 Performance report](section/21.md)
+      - [s. 22 Accounting and auditing](section/22.md)
+      - [s. 23 Professional indemnity](section/23.md)
+    - Compensation arrangements
+      - [s. 24 Choice of arrangements](section/24.md)
+      - [s. 25 Compensation rules: general](section/25.md)
+      - [s. 26 More about compensation arrangements](section/26.md)
+    - Internal governance
+      - [s. 27 Internal governance arrangements](section/27.md)
+      - [s. 28 Communicating outside](section/28.md)
+      - [s. 29 More about governance](section/29.md)
+    - Regulatory functions etc.
+      - [s. 30 Regulatory and representative functions](section/30.md)
+      - [s. 31 Assessment of licensed providers](section/31.md)
+    - Relationship with other bodies
+      - [s. 32 Giving information to SLAB](section/32.md)
+      - [s. 33 Reporting to Law Society](section/33.md)
+      - [s. 34 Steps open to Society](section/34.md)
+      - [s. 35 Financial inspection by Society](section/35.md)
+    - Performance and measures
+      - [s. 36 Review of own performance](section/36.md)
+      - [s. 37 Monitoring by Ministers](section/37.md)
+      - [s. 38 Measures open to Ministers](section/38.md)
+    - Ceasing to regulate
+      - [s. 39 Surrender of authorisation](section/39.md)
+      - [s. 40 Cessation directions](section/40.md)
+      - [s. 41 Transfer arrangements](section/41.md)
+      - [s. 42 Extra arrangements](section/42.md)
+    - Change of regulator
+      - [s. 43 Change of approved regulator](section/43.md)
+      - [s. 44 Step-in by Ministers](section/44.md)
+    - Additional functions etc.
+      - [s. 45 Additional powers and duties](section/45.md)
+      - [s. 46 Guidance on functions](section/46.md)
+  - Chapter 2 Licensed legal services providers
+    - Licensed providers
+      - [s. 47 Licensed providers](section/47.md)
+      - [s. 48 Eligibility criteria](section/48.md)
+      - [s. 49 Majority ownership](section/49.md)
+    - Key duties and positions
+      - [s. 50 Key duties](section/50.md)
+      - [s. 51 Head of Legal Services](section/51.md)
+      - [s. 52 Head of Practice](section/52.md)
+      - [s. 53 Practice Committee](section/53.md)
+    - Appointment to position etc.
+      - [s. 54 Notice of appointment](section/54.md)
+      - [s. 55 Challenge to appointment](section/55.md)
+      - [s. 56 Disqualification from position](section/56.md)
+      - [s. 57 Effect of disqualification](section/57.md)
+      - [s. 58 Conditions for disqualification](section/58.md)
+    - Designated persons
+      - [s. 59 Designated persons](section/59.md)
+      - [s. 60 Working context](section/60.md)
+      - [s. 61 Listing and information](section/61.md)
+    - Non-solicitor investors
+      - [s. 62 Fitness for involvement](section/62.md)
+      - [s. 63 Exemption from fitness test](section/63.md)
+      - [s. 64 Factors as to fitness](section/64.md)
+      - [s. 65 Ban for improper behaviour](section/65.md)
+      - [s. 66 Behaving properly](section/66.md)
+      - [s. 67 More about investors](section/67.md)
+    - Discontinuance of services
+      - [s. 68 Duty to warn](section/68.md)
+      - [s. 69 Inability to operate](section/69.md)
+      - [s. 70 Safeguarding clients](section/70.md)
+      - [s. 71 Distribution of client account](section/71.md)
+    - Professional practice etc.
+      - [s. 72 Employing disqualified lawyer](section/72.md)
+      - [s. 73 Concealing disqualification](section/73.md)
+      - [s. 74 Pretending to be licensed](section/74.md)
+      - [s. 75 Professional privilege](section/75.md)
+  - Chapter 3 Further provision
+    - Achieving regulatory aims
+      - [s. 76 Input by the CMA](section/76.md)
+      - [s. 77 Role of approved regulators](section/77.md)
+      - [s. 78 Policy statement](section/78.md)
+    - Complaints
+      - [s. 79 Complaints about regulators](section/79.md)
+      - [s. 80 Levy payable by regulators](section/80.md)
+      - [s. 81 Complaints about providers](section/81.md)
+    - Registers and lists
+      - [s. 82 Register of approved regulators](section/82.md)
+      - [s. 83 Registers of licensed providers](section/83.md)
+      - [s. 84 Lists of disqualified persons](section/84.md)
+    - Miscellaneous
+      - [s. 85 Privileged material](section/85.md)
+      - [s. 86 Immunity from damages](section/86.md)
+      - [s. 87 Appeal procedure](section/87.md)
+      - [s. 88 Corporate offences](section/88.md)
+      - [s. 89 Effect of professional or other rules](section/89.md)
+- Part 3 Confirmation and will writing services
+  - Chapter 1 Confirmation services
+    - Regulation of confirmation agents
+      - [s. 90 Confirmation agents and services](section/90.md)
+      - [s. 91 Approving bodies](section/91.md)
+      - [s. 92 Certification of bodies](section/92.md)
+      - [s. 93 Regulatory schemes](section/93.md)
+      - [s. 94 Financial sanctions](section/94.md)
+      - [s. 95 Review of own performance](section/95.md)
+      - [s. 96 Pretending to be authorised](section/96.md)
+    - Other regulatory matters
+      - [s. 97 Revocation of certification](section/97.md)
+      - [s. 98 Surrender of certification](section/98.md)
+      - [s. 99 Register and list](section/99.md)
+    - Ministerial functions
+      - [s. 100 Ministerial intervention](section/100.md)
+  - Chapter 2 Will writing services
+    - Regulation of will writers
+      - [s. 101 Will writers and services](section/101.md)
+      - [s. 102 Approving bodies](section/102.md)
+      - [s. 103 Certification of bodies](section/103.md)
+      - [s. 104 Regulatory schemes](section/104.md)
+      - [s. 105 Financial sanctions](section/105.md)
+      - [s. 106 Review of own performance](section/106.md)
+      - [s. 107 Pretending to be authorised](section/107.md)
+    - Other regulatory matters
+      - [s. 108 Revocation of certification](section/108.md)
+      - [s. 109 Surrender of certification](section/109.md)
+      - [s. 110 Register and list](section/110.md)
+    - Ministerial functions
+      - [s. 111 Ministerial intervention](section/111.md)
+      - [s. 112 Step-in by Ministers](section/112.md)
+  - Chapter 3 Further provision
+    - [s. 113 Regard to CMA input](section/113.md)
+    - [s. 114 Complaints about services](section/114.md)
+    - [s. 115 Privilege and immunity](section/115.md)
+    - [s. 116 Appeal procedure](section/116.md)
+    - [s. 117 Corporate offences](section/117.md)
+    - [s. 118 Consequential modification](section/118.md)
+- Part 4 The legal profession
+  - Chapter 1 Applying the regulatory objectives
+    - [s. 119 Application by the profession](section/119.md)
+  - Chapter 2 Faculty of Advocates
+    - [s. 120 Regulation of the Faculty](section/120.md)
+    - [s. 121 Professional rules](section/121.md)
+    - [s. 122 Particular rules](section/122.md)
+  - Chapter 3 Solicitors and other representatives
+    - Removal of practising restrictions
+      - [s. 123 Licensed providers as qualified persons](section/123.md)
+      - [s. 124 Practice rules for licensed providers](section/124.md)
+      - [s. 125 Citizens advice bodies](section/125.md)
+    - Lay representation
+      - [s. 126 Court of Session rules](section/126.md)
+      - [s. 127 Sheriff court rules](section/127.md)
+    - Guarantee Fund
+      - [s. 128 Use of Guarantee Fund](section/128.md)
+      - [s. 129 Contributions to the Fund](section/129.md)
+      - [s. 130 Cap on individual claims](section/130.md)
+    - The Law Society
+      - [s. 131 Acting as approved regulator](section/131.md)
+      - [s. 132 Council membership](section/132.md)
+      - [s. 133 Regulatory committee](section/133.md)
+    - The 1980 Act: further modification
+      - [s. 134 Keeping the solicitors roll etc.](section/134.md)
+      - [s. 135 Removal from the roll etc.](section/135.md)
+      - [s. 136 Restoration to the roll](section/136.md)
+      - [s. 137 Suspension from practice](section/137.md)
+      - [s. 138 Accounts rules fee](section/138.md)
+      - [s. 139 Powers of Tribunal](section/139.md)
+  - Chapter 4 Other bodies
+    - Scottish Legal Aid Board
+      - [s. 140 Exclusion from giving legal assistance](section/140.md)
+      - [s. 141 Availability of legal services](section/141.md)
+      - [s. 142 Information about legal services](section/142.md)
+    - Scottish Legal Complaints Commission
+      - [s. 143 Relevant practitioners](section/143.md)
+      - [s. 144 Minor amendments](section/144.md)
+      - [s. 145 The 2007 Act: further provision](section/145.md)
+- Part 5 General
+  - [s. 146 Regulations](section/146.md)
+  - [s. 147 Further modification](section/147.md)
+  - [s. 148 Ancillary provision](section/148.md)
+  - [s. 149 Definitions](section/149.md)
+  - [s. 150 Commencement and short title](section/150.md)
+- SCHEDULE 1 Performance targets
+  - Application
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Power to set targets
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Notice of intention
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Consultation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Decision
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Directions
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Power to direct
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Notice of intention
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Consultation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Decision
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Extension of time to comply
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Enforcement
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Censure
+  - Application
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Power to censure
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Preliminary advice
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Notice of intention
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Consultation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Decision
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Financial penalties
+  - Application
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Power to impose penalty
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Amount of penalty
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Notice of intention
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Consultation
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Decision
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Variation of penalty
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Appeal
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Appeal grounds
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Time for appeal
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Interest
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Default
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Amendment of authorisation
+  - Application
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Power to amend
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Notice of intention
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Consultation
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Decision
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Rescission of authorisation
+  - Application
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Power to rescind
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Notice of intention
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Consultation
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Decision
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Surrender of authorisation
+  - Application
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Surrender notice
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Consultation
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Decision
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Date of surrender
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Investors in licensed providers
+  - Initial notification requirements
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Continuing notification requirements
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Exemption from notification requirements
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Requirement to notify investors
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Approved regulator may obtain information
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Index of expressions used
