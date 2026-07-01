@@ -1,0 +1,438 @@
+# Building Act 1984
+
+1984 c. 55. Enacted 1984-10-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/55
+
+Source: https://www.legislation.gov.uk/ukpga/1984/55/2026-07-01
+
+## Contents
+
+- Part I Building Regulations
+  - Power to make building regulations
+    - [s. 1 Power to make building regulations.](section/1.md)
+    - [s. 1A Buildings of special historical or architectural interest](section/1A.md)
+    - [s. 2 Continuing requirements.](section/2.md)
+    - [s. 2A Continuing requirements in relation to fuel, power and emissions](section/2A.md)
+    - [s. 2B Optional requirements](section/2B.md)
+  - Duty to review minimum energy performance requirements
+    - [s. 2C Review of minimum energy performance requirements](section/2C.md)
+  - Exemption from building regulations
+    - [s. 3 Exemption of particular classes of buildings etc.](section/3.md)
+    - [s. 4 Exemption of educational buildings and buildings of statutory undertakers.](section/4.md)
+    - [s. 5 Exemption of public bodies from procedural requirements of building regulations.](section/5.md)
+  - Approved documents
+    - [s. 6 Approval of documents for purposes of building regulations.](section/6.md)
+    - [s. 7 Compliance or non-compliance with approved documents.](section/7.md)
+  - Relaxation of building regulations
+    - [s. 8 Relaxation of building regulations.](section/8.md)
+    - [s. 9 Application for relaxation.](section/9.md)
+    - [s. 10 Advertisement of proposal for relaxation of building regulations.](section/10.md)
+    - [s. 11 Type relaxation of building regulations.](section/11.md)
+  - Type approval of building matter
+    - [s. 12 Power of appropriate national authority to approve type of building matter.](section/12.md)
+    - [s. 13 Delegation of power to approve.](section/13.md)
+  - Consultation
+    - [s. 14 Consultation with Building Regulations Advisory Committee and other bodies: Wales](section/14.md)
+    - [s. 15 Consultation with fire authority.](section/15.md)
+  - Building control approval
+    - [s. 16 Passing or rejection of plans.](section/16.md)
+    - [s. 17 Approval of persons to give certificates etc.](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Use of short-lived materials.](section/19.md)
+    - [s. 20 Use of materials unsuitable for permanent building.](section/20.md)
+    - [s. 21 Provision of drainage.](section/21.md)
+    - [s. 22 Drainage of buildings in combination.](section/22.md)
+    - [s. 23 Provision of facilities for refuse.](section/23.md)
+    - [s. 24 Provision of exits etc.](section/24.md)
+    - [s. 25 Provision of water supply.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+  - Determination of questions
+    - [s. 30 ................................](section/30.md)
+  - Determination by appropriate national authority
+    - [s. 30A Determination of certain applications by appropriate national authority](section/30A.md)
+  - ...
+    - [s. 31 Proposed departure from plans.](section/31.md)
+  - Lapse of building control approval
+    - [s. 32 Lapse of building control approval](section/32.md)
+  - Tests for conformity with building regulations
+    - [s. 33 Tests for conformity with building regulations.](section/33.md)
+  - Classification of buildings
+    - [s. 34 Classification of buildings.](section/34.md)
+  - Breach of building regulations
+    - [s. 35 Offence of contravening building regulations etc](section/35.md)
+    - [s. 35A Time limit for prosecution for contravention of ... building regulations](section/35A.md)
+  - Notices in respect of contraventions
+    - [s. 35B Compliance notices](section/35B.md)
+    - [s. 35C Stop notices](section/35C.md)
+    - [s. 35D Compliance and stop notices: supplementary](section/35D.md)
+    - [s. 36 Removal or alteration of offending work.](section/36.md)
+    - [s. 37 Obtaining of report where section 36 notice given.](section/37.md)
+    - [s. 38 Civil liability.](section/38.md)
+  - Appeals in certain cases
+    - [s. 39 Appeal against refusal etc. to relax building regulations.](section/39.md)
+    - [s. 39A Appeals against compliance notices and stop notices etc](section/39A.md)
+    - [s. 40 Appeal against section 36 notice.](section/40.md)
+    - [s. 41 Appeal to Crown Court.](section/41.md)
+    - [s. 42 Appeal and statement of case to High Court in certain cases.](section/42.md)
+    - [s. 43 Procedure on appeal to Secretary of State on certain matters.](section/43.md)
+    - [s. 43A Appeals under sections 20, 39 and 50: England](section/43A.md)
+  - Application of building regulations to Crown etc.
+    - [s. 44 Application to Crown.](section/44.md)
+    - [s. 45 Application to United Kingdom Atomic Energy Authority.](section/45.md)
+  - Inner London
+    - [s. 46 Inner London.](section/46.md)
+  - Building control authorities: restricted activities and functions
+    - [s. 46A Building control authorities: restricted activities and functions](section/46A.md)
+- Part II Supervision of Building Work etc. otherwise than by building control authorities
+  - Supervision of plans and work by registered building control approvers
+    - [s. 47 Giving and acceptance of initial notice.](section/47.md)
+    - [s. 48 Effect of initial notice.](section/48.md)
+    - [s. 49 Approved inspectors.](section/49.md)
+    - [s. 50 Plans certificates.](section/50.md)
+    - [s. 51 Final certificates.](section/51.md)
+    - [s. 51A Variation of work to which initial notice relates.](section/51A.md)
+    - [s. 51B Effect of amendment notice](section/51B.md)
+    - [s. 51C Change of person intending to carry out work](section/51C.md)
+    - [s. 52 Cancellation of initial notice.](section/52.md)
+    - [s. 52A Cancellation of initial notice when work becomes higher-risk building work](section/52A.md)
+    - [s. 52B Effect of initial notice ceasing to be in force where work becomes higher-risk building work](section/52B.md)
+    - [s. 53 Effect of initial notice ceasing to be in force.](section/53.md)
+    - [s. 53A Lapse of initial notice](section/53A.md)
+    - [s. 53B New initial notice: change of registered building control approver](section/53B.md)
+    - [s. 53C Consideration of transfer certificate and report](section/53C.md)
+    - [s. 53D Cancellation of initial notice: change of registered building control approver](section/53D.md)
+    - [s. 53E Restriction on functions of registered building control approvers](section/53E.md)
+  - Supervision of their own work by public bodies
+    - [s. 54 Giving, acceptance and effect of public body’s notice.](section/54.md)
+    - [s. 54A Public bodies and higher-risk building work](section/54A.md)
+  - Registered building control approvers: restricted activities and functions
+    - [s. 54B Registered building control approvers: restricted activities and functions](section/54B.md)
+  - Supplementary
+    - [s. 55 Appeals.](section/55.md)
+    - [s. 56 Recording and furnishing of information.](section/56.md)
+    - [s. 56A Giving information by electronic means: England](section/56A.md)
+    - [s. 56B Requirement to keep register: England](section/56B.md)
+    - [s. 56C Delegation of functions](section/56C.md)
+    - [s. 57 Offences.](section/57.md)
+    - [s. 58 Construction of Part II.](section/58.md)
+- Part 2A REGULATION OF BUILDING CONTROL PROFESSION
+  - Interpretation
+    - [s. 58A “Regulatory authority”](section/58A.md)
+  - Registered building inspectors
+    - [s. 58B “Registered building inspector”](section/58B.md)
+    - [s. 58C Register of building inspectors](section/58C.md)
+    - [s. 58D Application for registration as building inspector](section/58D.md)
+    - [s. 58E Variation or cancellation of registration as building inspector](section/58E.md)
+    - [s. 58F Code of conduct](section/58F.md)
+    - [s. 58G Registered building inspectors: information notices](section/58G.md)
+    - [s. 58H Professional misconduct investigations](section/58H.md)
+    - [s. 58I Sanctions for professional misconduct](section/58I.md)
+    - [s. 58J Interim suspension for suspected serious professional misconduct](section/58J.md)
+    - [s. 58K Suspension orders: further provision](section/58K.md)
+    - [s. 58L Offences relating to registration](section/58L.md)
+    - [s. 58M Offence of acting as, or pretending to be, a registered building inspector](section/58M.md)
+  - Registered building control approvers
+    - [s. 58N “Registered building control approver”](section/58N.md)
+    - [s. 58O Register of building control approvers](section/58O.md)
+    - [s. 58P Application for registration as building control approver](section/58P.md)
+    - [s. 58Q Variation or cancellation of registration as building control approver](section/58Q.md)
+    - [s. 58R Professional conduct rules](section/58R.md)
+    - [s. 58S Registered building control approvers: information notices](section/58S.md)
+    - [s. 58T Investigations into contraventions of professional conduct rules](section/58T.md)
+    - [s. 58U Sanctions for contravention of professional conduct rules](section/58U.md)
+    - [s. 58V Interim suspension for suspected serious contravention](section/58V.md)
+    - [s. 58W Offence of registered building control approver acting outside scope of registration](section/58W.md)
+    - [s. 58X Offence of pretending to be a registered building control approver](section/58X.md)
+  - Delegation of registration functions
+    - [s. 58Y Delegation of registration functions](section/58Y.md)
+  - Operational standards rules
+    - [s. 58Z Operational standards rules](section/58Z.md)
+    - [s. 58Z1 Reporting requirements](section/58Z1.md)
+    - [s. 58Z2 Information: Wales](section/58Z2.md)
+    - [s. 58Z3 Investigations](section/58Z3.md)
+    - [s. 58Z4 Improvement notice](section/58Z4.md)
+    - [s. 58Z5 Serious contravention notices](section/58Z5.md)
+    - [s. 58Z6 Continuing failure to meet standards: registered building control approvers](section/58Z6.md)
+    - [s. 58Z7 Continuing failure to meet standards: local authorities in England](section/58Z7.md)
+  - Inspection of local authorities and registered building control approvers
+    - [s. 58Z8 Inspections](section/58Z8.md)
+  - Information sharing
+    - [s. 58Z9 Sharing of information between regulatory authorities](section/58Z9.md)
+  - Appeals
+    - [s. 58Z10 Appeal to Crown Court](section/58Z10.md)
+- Part III Other Provisions about Buildings
+  - Drainage
+    - [s. 59 Drainage of building.](section/59.md)
+    - [s. 60 Use and ventilation of soil pipes.](section/60.md)
+    - [s. 61 Repair etc, of drain.](section/61.md)
+    - [s. 62 Disconnection of drain.](section/62.md)
+    - [s. 63 Improper construction or repair of water-closet or drain.](section/63.md)
+  - Provision of sanitary conveniences
+    - [s. 64 Provision of closets in building.](section/64.md)
+    - [s. 65 Provision of sanitary conveniences in workplace.](section/65.md)
+    - [s. 66 Replacement of earth-closets etc.](section/66.md)
+    - [s. 67 Loan of temporary sanitary conveniences.](section/67.md)
+    - [s. 68 Erection of public conveniences.](section/68.md)
+  - Buildings
+    - [s. 69 Provision of water supply in occupied house.](section/69.md)
+    - [s. 70 Provision of food storage accommodation in house.](section/70.md)
+    - [s. 71 Entrances, exits etc. to be required in certain cases.](section/71.md)
+    - [s. 72 Means of escape from fire.](section/72.md)
+    - [s. 73 Raising of chimney.](section/73.md)
+    - [s. 74 Cellars and rooms below subsoil water level.](section/74.md)
+    - [s. 75 Consents under s. 74.](section/75.md)
+  - Defective premises, demolition etc.
+    - [s. 76 Defective premises.](section/76.md)
+    - [s. 77 Dangerous building.](section/77.md)
+    - [s. 78 Dangerous building—emergency measures.](section/78.md)
+    - [s. 79 Ruinous and dilapidated buildings and neglected sites.](section/79.md)
+    - [s. 79A Wales: exercise of powers under sections 77 and 79 in relation to listed buildings, buildings in conservation areas etc.](section/79A.md)
+    - [s. 80 Notice to local authority of intended demolition.](section/80.md)
+    - [s. 81 Local authority’s power to serve notice about demolition.](section/81.md)
+    - [s. 82 Notices under section 81.](section/82.md)
+    - [s. 83 Appeal against notice under s. 81.](section/83.md)
+  - Yards and passages
+    - [s. 84 Paving and drainage of yards and passages.](section/84.md)
+    - [s. 85 Maintenance of entrances to courtyards.](section/85.md)
+  - Appeal to Crown Court
+    - [s. 86 Appeal to Crown Court.](section/86.md)
+  - Application of provisions to Crown property
+    - [s. 87 Application of provisions to Crown property.](section/87.md)
+  - Inner London
+    - [s. 88 Inner London.](section/88.md)
+  - Miscellaneous
+    - [s. 89 References in Acts to building byelaws.](section/89.md)
+    - [s. 90 Facilities for inspecting local Acts.](section/90.md)
+    - [s. 90A Functions under this Part: the regulator etc](section/90A.md)
+- Part IV General
+  - Duties of local authorities etc
+    - [s. 91 Duties of local authorities and the regulator.](section/91.md)
+    - [s. 91ZA The regulator: building control authority for higher-risk buildings in England](section/91ZA.md)
+    - [s. 91ZB The regulator: building control authority for other work](section/91ZB.md)
+    - [s. 91ZC Section 91ZB: supplementary](section/91ZC.md)
+    - [s. 91ZD Higher-risk buildings in Wales: local authority work](section/91ZD.md)
+    - [s. 91A Registers to be kept by local authorities and the regulator](section/91A.md)
+    - [s. 91B Cooperation and the sharing of information: Wales](section/91B.md)
+  - Documents
+    - [s. 92 Form of documents.](section/92.md)
+    - [s. 93 Authentication of documents.](section/93.md)
+    - [s. 94 Service of documents.](section/94.md)
+    - [s. 94A Electronic service of documents](section/94A.md)
+  - Entry on premises
+    - [s. 95 Power to enter premises.](section/95.md)
+    - [s. 96 Supplementary provisions as to entry.](section/96.md)
+  - Execution of works
+    - [s. 97 Power to execute work.](section/97.md)
+    - [s. 98 Power to require occupier to permit work.](section/98.md)
+    - [s. 99 Content and enforcement of notice requiring works.](section/99.md)
+    - [s. 100 Sale of materials.](section/100.md)
+    - [s. 101 Breaking open of streets.](section/101.md)
+  - Appeal against refusal to consider application etc
+    - [s. 101A Appeal: refusal to consider application etc on ground is higher-risk building work](section/101A.md)
+  - Appeal against notice requiring works
+    - [s. 102 Appeal against notice requiring works.](section/102.md)
+  - General provisions about appeals and applications
+    - [s. 103 Procedure on appeal or application to appropriate court or tribunal.](section/103.md)
+    - [s. 104 Local authority or regulator to give effect to appeal.](section/104.md)
+    - [s. 105 Judge not disqualified by liability to rates.](section/105.md)
+    - [s. 105A Enforcement of decisions of the First-tier and Upper Tribunal](section/105A.md)
+  - Fees, charges and levies
+    - [s. 105B Fees and charges](section/105B.md)
+    - [s. 105C Levy on certain applications for building control approval etc](section/105C.md)
+  - Compensation, and recovery of sums
+    - [s. 106 Compensation for damage.](section/106.md)
+    - [s. 107 Recovery of expenses etc.](section/107.md)
+    - [s. 108 Payment by instalments.](section/108.md)
+    - [s. 109 ................................](section/109.md)
+    - [s. 110 Liability of agent or trustee.](section/110.md)
+    - [s. 111 Arbitration.](section/111.md)
+  - Obstruction
+    - [s. 112 Obstruction](section/112.md)
+  - Prosecutions
+    - [s. 112A Liability of officers of body corporate etc](section/112A.md)
+    - [s. 113 Prosecution of offences.](section/113.md)
+    - [s. 114 Continuing offences.](section/114.md)
+  - Protection of members etc. of authorities
+    - [s. 115 Protection of members etc. of authorities.](section/115.md)
+  - Default powers
+    - [s. 116 Default powers of appropriate national authority.](section/116.md)
+    - [s. 117 Expenses of appropriate national authority.](section/117.md)
+    - [s. 118 Variations or revocation of order transferring powers.](section/118.md)
+  - Local inquiries
+    - [s. 119 Local inquiries.](section/119.md)
+  - Orders and regulations
+    - [s. 120 Orders.](section/120.md)
+    - [s. 120A Regulations](section/120A.md)
+    - [s. 120B Proposals and consultation relating to regulations made by the Secretary of State](section/120B.md)
+    - [s. 120C Consultation relating to regulations made by the Welsh Ministers](section/120C.md)
+  - Higher-risk buildings etc
+    - [s. 120D Meaning of “higher-risk building”: England](section/120D.md)
+    - [s. 120E Regulations under section 120D: procedure](section/120E.md)
+    - [s. 120F Regulations under section 120D: additional procedure in certain cases](section/120F.md)
+    - [s. 120G Recommendations about regulations under section 120D](section/120G.md)
+    - [s. 120H Advice about regulations under section 120D](section/120H.md)
+    - [s. 120I Higher-risk buildings and higher-risk building work: Wales](section/120I.md)
+  - Interpretation
+    - [s. 121 Meaning of “building”.](section/121.md)
+    - [s. 121A Meaning of “building control authority”](section/121A.md)
+    - [s. 122 Meaning of “building regulations”.](section/122.md)
+    - [s. 123 Meaning of “construct”and “erect”.](section/123.md)
+    - [s. 124 Meaning of deposit of plans](section/124.md)
+    - [s. 125 Construction and availability of sewers.](section/125.md)
+    - [s. 125A Meaning of work](section/125A.md)
+    - [s. 126 General interpretation.](section/126.md)
+    - [s. 127 Construction of certain references concerning Temples.](section/127.md)
+  - Savings
+    - [s. 128 Protection for dock and railway undertakings.](section/128.md)
+    - [s. 129 Saving for Local Land Charges Act 1975.](section/129.md)
+    - [s. 130 Saving for other laws.](section/130.md)
+    - [s. 131 Restriction of application of Part IV to Schedule 3.](section/131.md)
+- Part V Supplementary
+  - [s. 132 Transitional provisions.](section/132.md)
+  - [s. 133 Consequential amendments and repeals.](section/133.md)
+  - [s. 134 Commencement.](section/134.md)
+  - [s. 135 Short title and extent.](section/135.md)
+- SCHEDULE 1 Building Regulations
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Procedural requirements etc: general
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - Applications for building control approval
+    - [Sch. 1 para. 1B](schedule/1/paragraph/1B.md)
+  - Certificates: approved schemes
+    - [Sch. 1 para. 1C](schedule/1/paragraph/1C.md)
+  - Obtaining, keeping and giving information and documents
+    - [Sch. 1 para. 1D](schedule/1/paragraph/1D.md)
+  - Reporting requirements: duty to establish and operate system
+    - [Sch. 1 para. 1E](schedule/1/paragraph/1E.md)
+  - Form and content of documents etc
+    - [Sch. 1 para. 1F](schedule/1/paragraph/1F.md)
+  - Inspection, testing etc
+    - [Sch. 1 para. 1G](schedule/1/paragraph/1G.md)
+  - Applications to building control authorities: extension of period by agreement
+    - [Sch. 1 para. 1H](schedule/1/paragraph/1H.md)
+  - Appeals
+    - [Sch. 1 para. 1I](schedule/1/paragraph/1I.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+    - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Appointed persons
+    - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+  - General duties
+    - [Sch. 1 para. 5B](schedule/1/paragraph/5B.md)
+  - Competence requirements
+    - [Sch. 1 para. 5C](schedule/1/paragraph/5C.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Relaxation of Building Regulations for Existing Work
+  - Application of schedule
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Cases where no direction may be given
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Suspension of certain provisions while application pending
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Saving for criminal liability incurred before making of application
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Termination of proceedings under section 36 on giving of direction
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Inner London
+  - Part I Application of Part I of this Act
+    - [Sch. 3 para. 1 Application to inner London.](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Application of provisions by building regulations.](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Repeal and modification of Acts.](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Consultation.](schedule/3/paragraph/4.md)
+  - Part II Application of Part III of this Act
+    - [Sch. 3 para. 5 Application to inner London.](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Application to Temples.](schedule/3/paragraph/6.md)
+  - Part III Building and Drainage of Buildings
+    - [Sch. 3 para. 7 Drainage of new building.](schedule/3/paragraph/7.md)
+  - Part IV Byelaws
+    - [Sch. 3 para. 10 Byelaws about demolition.](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Restriction of application of Part IV of Act.](schedule/3/paragraph/13.md)
+  - Part V Enforcement of Building Regulations
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Provisions Consequential Upon Public Body’s Notice
+  - Duration of notice
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Cancellation of a public body’s notice where work to a building in England becomes higher-risk building work
+    - [Sch. 4 para. 1A](schedule/4/paragraph/1A.md)
+  - Effect of public body’s notice ceasing to be in force where work becomes higher-risk building work
+    - [Sch. 4 para. 1B](schedule/4/paragraph/1B.md)
+  - Appeals against cancellation of a public body’s notice by a local authority
+    - [Sch. 4 para. 1C](schedule/4/paragraph/1C.md)
+  - Public body’s plans certificates
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Public body’s final certificates
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Effects of public body’s notice ceasing to be in force
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Lapse of public body’s notice
+    - [Sch. 4 para. 4A](schedule/4/paragraph/4A.md)
+  - Consultation
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Transitional Provisions
+  - Joint application to the Secretary of State for the determination of certain questions relating to building regulations
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Clean Air Act 1956 and the Housing Act 1957
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Repeal and amendment of Acts etc.
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Consequential Amendments
+  - The Restriction of Ribbon Development Act 1935
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - The Public Health Act 1936
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - The Atomic Energy Authority Act 1954
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The Clean Air Act 1956
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - The Housisng Act 1957
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - The Radioactive Substances Act 1960
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - The Public Health Act 1961
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - The London Government Act 1963
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - The Offices, Shops and Railway Premises Act 1963
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - The Faculty Jurisdiction Measure 1964
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - The Fire Precautions Act 1971
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - The Local Government Act 1972
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - The Safety of Sports Grounds Act 1975
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - The Local Land Charges Act 1975
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - The Development of Rural Wales Act 1976
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - The Interpretation Act 1978
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - The Highways Act 1980
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - New Towns Act 1981
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - The Public Health (Control of Disease) Act 1984
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+- SCHEDULE 7 Repeals
