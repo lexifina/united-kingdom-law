@@ -1,0 +1,271 @@
+# Regulation of Legal Services (Scotland) Act 2025
+
+asp/2025/8. Enacted 2025-06-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2025/8
+
+Source: https://www.legislation.gov.uk/asp/2025/8/2026-07-01
+
+## Contents
+
+- Part 1 Regulatory framework
+  - Chapter 1 Objectives, principles and key definitions
+    - Overview of Part
+      - [s. 1 Overview of the regulatory framework](section/1.md)
+    - Regulatory objectives
+      - [s. 2 Regulatory objectives](section/2.md)
+      - [s. 3 Application of the regulatory objectives](section/3.md)
+    - Professional principles
+      - [s. 4 Professional principles](section/4.md)
+    - Meaning of key expressions
+      - [s. 5 Meaning of “legal services” and “legal services provider”](section/5.md)
+      - [s. 6 Meaning of regulatory functions](section/6.md)
+  - Chapter 2 regulators
+    - Regulatory categories
+      - [s. 7 Regulatory categories](section/7.md)
+    - Requirements of category 1 regulators
+      - [s. 8 Exercise of regulatory functions](section/8.md)
+      - [s. 9 Regulatory committee: composition and membership](section/9.md)
+      - [s. 10 Regulatory committee: lay and legal members](section/10.md)
+      - [s. 11 Regulatory committee: convener, sub-committees and minutes](section/11.md)
+      - [s. 12 Annual reports of category 1 regulators](section/12.md)
+      - [s. 13 Compensation funds](section/13.md)
+    - Requirements of category 2 regulators
+      - [s. 14 Exercise of regulatory functions](section/14.md)
+      - [s. 15 Annual reports of category 2 regulators](section/15.md)
+    - Requirements of both category 1 and category 2 regulators
+      - [s. 16 Register of regulated legal services providers](section/16.md)
+      - [s. 17 Professional indemnity insurance](section/17.md)
+    - Powers of the Lord President in relation to regulators
+      - [s. 18 Review of regulatory performance by the Lord President](section/18.md)
+      - [s. 19 Measures open to the Lord President](section/19.md)
+    - Special rule changes
+      - [s. 20 Power to direct special rule changes](section/20.md)
+      - [s. 21 Powers to amend or revoke directions](section/21.md)
+      - [s. 22 Register of directions](section/22.md)
+  - Chapter 3 New regulators of legal services
+    - Applications
+      - [s. 23 Right to provide legal services](section/23.md)
+      - [s. 24 Regulatory scheme](section/24.md)
+      - [s. 25 Regulatory scheme - additional matters to be included: further provision](section/25.md)
+      - [s. 26 Publication of draft regulatory scheme and representations](section/26.md)
+    - Consideration and grant
+      - [s. 27 Consideration of applications](section/27.md)
+      - [s. 28 Approval of application and giving effect to the regulatory scheme](section/28.md)
+    - Exercise of the acquired rights
+      - [s. 29 Exercise of rights to provide legal services](section/29.md)
+      - [s. 30 Surrender of rights](section/30.md)
+      - [s. 31 Offence of pretending to have acquired rights](section/31.md)
+    - Review of regulatory scheme
+      - [s. 32 Review of regulatory scheme on initiative of accredited regulator](section/32.md)
+      - [s. 33 Review of regulatory schemes](section/33.md)
+      - [s. 34 Revocation of acquired rights](section/34.md)
+    - Miscellaneous
+      - [s. 35 Replacement regulatory arrangements for authorised providers](section/35.md)
+      - [s. 36 Consequential amendments and repeals](section/36.md)
+      - [s. 37 Transitional and saving provision for regulators approved under the 1990 Act](section/37.md)
+- Part 2 Regulation of legal businesses
+  - Introductory
+    - [s. 38 Overview of Part](section/38.md)
+  - Requirement to be authorised to provide legal services
+    - [s. 39 Requirement for legal businesses to be authorised to provide legal services](section/39.md)
+    - [s. 40 Offence of pretending to be an authorised legal business](section/40.md)
+  - Regulation of authorised legal businesses
+    - [s. 41 Rules for authorised legal businesses](section/41.md)
+    - [s. 42 Authorisation rules](section/42.md)
+    - [s. 43 Appeals in relation to authorisation decisions](section/43.md)
+    - [s. 44 Practice rules](section/44.md)
+    - [s. 45 Financial sanctions](section/45.md)
+    - [s. 46 Reconciling different rules](section/46.md)
+    - [s. 47 Monitoring of performance of authorised legal businesses](section/47.md)
+  - Miscellaneous
+    - [s. 48 Law Society of Scotland](section/48.md)
+    - [s. 49 Entities changing regulatory regime](section/49.md)
+- Part 3 Complaints
+  - [s. 50 Receipt of complaints: preliminary steps](section/50.md)
+  - [s. 51 Complaints initiated by, or continued by, the Commission](section/51.md)
+  - [s. 52 Ineligible or premature complaints](section/52.md)
+  - [s. 53 Commission process relating to complaints](section/53.md)
+  - [s. 54 Commission’s duty to investigate and determine services complaints](section/54.md)
+  - [s. 55 Regulatory complaints against authorised legal businesses](section/55.md)
+  - [s. 56 Services complaint: sanctions](section/56.md)
+  - [s. 57 Commission decision making and delegation](section/57.md)
+  - [s. 58 Commission review committee](section/58.md)
+  - [s. 59 Disclosure of information by practitioners etc. to the Commission and relevant professional organisations](section/59.md)
+  - [s. 60 Power of Commission to request practitioner’s details in connection with complaints](section/60.md)
+  - [s. 61 Services complaints: special provision for complaints against unregulated persons](section/61.md)
+  - [s. 62 Handling complaints](section/62.md)
+  - [s. 63 Annual general levy and complaints levy](section/63.md)
+  - [s. 64 Unregulated providers of legal services: register, annual contributions and complaints contributions](section/64.md)
+  - [s. 65 Commission rules as to practice and procedure](section/65.md)
+  - [s. 66 Conduct or regulatory complaint raised by relevant professional organisation](section/66.md)
+  - [s. 67 Conduct or regulatory complaint appears to relevant professional organisation during investigation to be services complaint](section/67.md)
+  - [s. 68 Conduct complaints: consideration by relevant professional organisations](section/68.md)
+  - [s. 69 Complaints: monitoring and setting of minimum standards by the Commission](section/69.md)
+  - [s. 70 Compensation funds: setting of minimum standards by the Commission](section/70.md)
+  - [s. 71 Enforcement of minimum standards](section/71.md)
+  - [s. 72 Obtaining information from practitioners](section/72.md)
+  - [s. 73 Power to disclose information about complaints: Commission](section/73.md)
+  - [s. 74 Restriction on disclosure of information: Commission](section/74.md)
+  - [s. 75 Power to disclose information about complaints: relevant professional organisations](section/75.md)
+  - [s. 76 Restriction on disclosure of information: relevant professional organisations](section/76.md)
+  - [s. 77 Conduct complaints: power to impose unlimited fine and removal of power to award compensation](section/77.md)
+  - [s. 78 Faculty of Advocates: complaint of professional misconduct and publication of decision](section/78.md)
+  - [s. 79 Commission membership](section/79.md)
+  - [s. 80 Role of the independent advisory panel](section/80.md)
+  - [s. 81 Commission reports](section/81.md)
+  - [s. 82 Minor and consequential amendments](section/82.md)
+- Part 4 Miscellaneous
+  - Financial sanctions
+    - [s. 83 Financial sanctions](section/83.md)
+  - Licensed legal services providers
+    - [s. 84 Licensing rules: fees](section/84.md)
+    - [s. 85 Removal of requirement to act for fee, gain or reward](section/85.md)
+    - [s. 86 Eligibility criteria: law centres](section/86.md)
+    - [s. 87 Majority ownership](section/87.md)
+    - [s. 88 Non-solicitor investors: factors as to fitness](section/88.md)
+  - Removal of certain practising restrictions
+    - [s. 89 Removal of practising restrictions: law centres, citizens advice bodies and charities](section/89.md)
+  - Offences relating to pretending to be a regulated provider of legal services
+    - [s. 90 Offence of taking or using the title of lawyer](section/90.md)
+    - [s. 91 Offence of pretending to be a regulated legal services provider](section/91.md)
+    - [s. 92 Offence of pretending to be a member of Faculty of Advocates](section/92.md)
+    - [s. 93 Time limit for prosecution of offences](section/93.md)
+  - Power of the Scottish Ministers to adjust restricted legal services
+    - [s. 94 Power of the Scottish Ministers to adjust restricted legal services](section/94.md)
+  - Lord President’s functions under Parts 1 and 2: rule-making power
+    - [s. 95 Lord President’s functions under Parts 1 and 2: rule-making making power](section/95.md)
+  - Minor and consequential modifications
+    - [s. 96 Modification of other enactments](section/96.md)
+  - Review of Act
+    - [s. 97 Review of Act](section/97.md)
+- Part 5 General
+  - [s. 98 Individual culpability for offending by an organisation](section/98.md)
+  - [s. 99 Civil enforcement in relation to offences](section/99.md)
+  - [s. 100 Regulations](section/100.md)
+  - [s. 101 Ancillary provision](section/101.md)
+  - [s. 102 Interpretation](section/102.md)
+  - [s. 103 Commencement](section/103.md)
+  - [s. 104 Short title](section/104.md)
+- Schedule 1 Law Society of Scotland
+  - Part 1 Category 1 regulator
+    - [Sch. 1 para. 1 Exercise of regulatory functions](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Exercise of regulatory functions](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Exercise of regulatory functions](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Exercise of regulatory functions](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Exercise of regulatory functions](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Client Protection Fund](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Client Protection Fund](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Client Protection Fund](schedule/1/paragraph/8.md)
+  - Part 2 Regulation of legal businesses
+    - [Sch. 1 para. 9 Regulatory functions](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Suspension of authorisation](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Consultants](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Offence of disqualified solicitors dishonestly seeking employment](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Rules as to professional practice, conduct and discipline](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Rules as to accounts etc.](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Rules as to accounts etc.](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Rules as to accounts etc.](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Rules as to accounts etc.](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Powers where excessive fees etc. charged](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Powers where failure to comply with rules](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Judicial factors](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 Distribution of sums in client bank account](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22 Client Protection Fund](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Client Protection Fund](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 Client Protection Fund](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25 Professional indemnity](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26 Safeguarding interests of clients](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27 Recovery of expenses of intervention](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28 Restrictions on employing a struck off or suspended solicitor](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29 Complaints](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30 Complaints](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31 Complaints](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32 Complaints](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33 Complaints](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34 Protection of banks](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35 Recovery of Council’s expenses](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36 Service of notices](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37 Interpretation](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38 Revenue powers in respect of authorised legal businesses](schedule/1/paragraph/38.md)
+- Schedule 2 Further provision about measures open to the Lord President
+  - Part 1 Performance targets
+    - [Sch. 2 para. 1 Application](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Power to set targets](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Decision](schedule/2/paragraph/3.md)
+  - Part 2 Directions
+    - [Sch. 2 para. 4 Application](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Power to direct](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Decision](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Extension of time to comply](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Enforcement](schedule/2/paragraph/8.md)
+  - Part 3 Censure
+    - [Sch. 2 para. 9 Application](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Power to censure](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Decision](schedule/2/paragraph/11.md)
+  - Part 4 Making changes to regulatory functions
+    - [Sch. 2 para. 12 Application](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Power to make changes](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Decision](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Parliamentary procedure for regulations](schedule/2/paragraph/15.md)
+  - Part 5 Procedure for imposing a measure
+    - [Sch. 2 para. 16 Application](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Notice of intention](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Consultation](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Decision](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Meaning of relevant persons or bodies](schedule/2/paragraph/20.md)
+- Schedule 3 Minor and consequential modifications of enactments
+  - Part 1 Regulatory framework
+    - [Sch. 3 para. 1 Regulatory objectives and professional principles](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Regulatory objectives and professional principles](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 New regulators](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 New regulators](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 New regulators](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 New regulators](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 New regulators](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Renaming etc. of Association of Commercial Attorneys](schedule/3/paragraph/8.md)
+  - Part 2 Modification of the 1980 Act in relation to complaints
+    - [Sch. 3 para. 9 Conduct complaints suggesting unsatisfactory professional conduct](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Regulatory complaints](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Procedure relating to complaints](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Publication of decisions](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Other modifications](schedule/3/paragraph/13.md)
+  - Part 3 Modification of other enactments in relation to complaints
+    - [Sch. 3 para. 14 Legal Aid (Scotland) Act 1986](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Law Reform (Miscellaneous Provisions) (Scotland) Act 1990](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16 Legal Profession and Legal Aid (Scotland) Act 2007](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17 Legal Services (Scotland) Act 2010](schedule/3/paragraph/17.md)
+  - Part 4 Miscellaneous modifications of the 1980 Act etc.
+    - [Sch. 3 para. 18 The roll and other registers](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19 The roll and other registers](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20 Restoration of name to roll: appeals](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21 Restoration of name to register of European lawyers: appeals](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22 Restoration of name to register of foreign lawyers: appeals](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23 Restoration of name to roll or register: expenses](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24 Practising certificates](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25 Registration certificates](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26 Powers where excessive fees etc. charged](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27 Powers where failure to comply with rules](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28 Previous findings of record](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29 The Client Protection Fund](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30 The Client Protection Fund](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31 The Client Protection Fund](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32 Investment business certificates](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33 Appeals from decisions of Tribunal](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34 Constitution of Tribunal](schedule/3/paragraph/34.md)
+    - [Sch. 3 para. 35 Procedure of Tribunal](schedule/3/paragraph/35.md)
+    - [Sch. 3 para. 36 Communicating and giving effect to Tribunal decisions](schedule/3/paragraph/36.md)
+    - [Sch. 3 para. 37 Appeal against decision of Tribunal to dismiss before enquiry](schedule/3/paragraph/37.md)
+    - [Sch. 3 para. 38 Finality of decisions](schedule/3/paragraph/38.md)
+    - [Sch. 3 para. 39 Other modifications](schedule/3/paragraph/39.md)
+  - Part 5 Miscellaneous modifications of other enactments
+    - [Sch. 3 para. 40 Freedom of information](schedule/3/paragraph/40.md)
+    - [Sch. 3 para. 41 Removal of special provision for confirmation agents and will writers etc.](schedule/3/paragraph/41.md)
+    - [Sch. 3 para. 42 Removal of special provision for confirmation agents and will writers etc.](schedule/3/paragraph/42.md)
+    - [Sch. 3 para. 43 Removal of special provision for confirmation agents and will writers etc.](schedule/3/paragraph/43.md)
+    - [Sch. 3 para. 44 Civil enforcement of certain offences](schedule/3/paragraph/44.md)
+    - [Sch. 3 para. 45 Civil enforcement of certain offences](schedule/3/paragraph/45.md)
+    - [Sch. 3 para. 46 Disclosure requirements in connection with new offences](schedule/3/paragraph/46.md)
+    - [Sch. 3 para. 47 Disclosure requirements in connection with new offences](schedule/3/paragraph/47.md)
