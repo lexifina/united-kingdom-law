@@ -1,0 +1,184 @@
+# Legal Profession and Legal Aid (Scotland) Act 2007
+
+asp/2007/5. Enacted 2007-01-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 237 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/5
+
+Source: https://www.legislation.gov.uk/asp/2007/5/2026-07-01
+
+## Contents
+
+- Part 1 The Scottish Legal Complaints Commission
+  - Establishment
+    - [s. 1 The Scottish Legal Complaints Commission](section/1.md)
+  - Conduct or services complaints against practitioners
+    - [s. 2 Receipt of complaints: preliminary steps](section/2.md)
+    - [s. 3 Existence of specified regulatory scheme](section/3.md)
+    - [s. 4 Complaint not made timeously or made prematurely](section/4.md)
+    - [s. 5 Determining nature of complaint](section/5.md)
+    - [s. 6 Complaint determined to be conduct complaint](section/6.md)
+    - [s. 7 Services complaint: notice](section/7.md)
+    - [s. 8 Services complaint: local resolution or mediation](section/8.md)
+    - [s. 9 Services complaint: Commission’s duty to investigate and determine](section/9.md)
+    - [s. 9A Services complaint: further provision](section/9A.md)
+    - [s. 10 Commission upholds services complaint](section/10.md)
+    - [s. 11 Fair and reasonable: matters to be taken into account by Commission](section/11.md)
+    - [s. 12 Services complaint: notice where not upheld or upheld](section/12.md)
+    - [s. 13 Services complaint: reports](section/13.md)
+    - [s. 14 Determination under section 9(1) or taking of steps under section 10(2): effect in relation to proceedings](section/14.md)
+    - [s. 15 Complaint appears during mediation or investigation to fall within different category](section/15.md)
+    - [s. 16 Power to monitor compliance with directions under section 10(2)](section/16.md)
+    - [s. 17 Power to examine documents and demand explanations in connection with conduct or services complaints](section/17.md)
+    - [s. 18 Power of Commission to recover certain expenses](section/18.md)
+    - [s. 19 Documents and information from third parties](section/19.md)
+    - [s. 20 Enforcement of Commission direction under section 10(2)](section/20.md)
+  - Appeals
+    - [s. 21 Appeal against Commission decisions](section/21.md)
+    - [s. 22 Appeal: supplementary provision](section/22.md)
+  - Handling by relevant professional organisations of conduct complaints
+    - [s. 23 Handling by relevant professional organisations of conduct complaints: investigation by Commission](section/23.md)
+    - [s. 24 Investigation under section 23: final report and recommendations](section/24.md)
+    - [s. 25 Failure to comply with recommendation](section/25.md)
+    - [s. 26 Abolition of Scottish legal services ombudsman](section/26.md)
+  - Finance
+    - [s. 27 Annual general levy](section/27.md)
+    - [s. 28 Complaints levy](section/28.md)
+    - [s. 29 Amount of levies and consultation](section/29.md)
+    - [s. 30 Grants or loans by the Scottish Ministers](section/30.md)
+    - [s. 31 Guarantees](section/31.md)
+  - Rules as to Commission’s practice and procedure
+    - [s. 32 Duty of Commission to make rules as to practice and procedure](section/32.md)
+  - Forwarding complaints, advice, monitoring etc.
+    - [s. 33 Duty of relevant professional organisations to forward complaints to Commission](section/33.md)
+    - [s. 34 Commission’s duty to provide advice](section/34.md)
+    - [s. 35 Services complaints: monitoring, reports, protocols and information sharing](section/35.md)
+    - [s. 36 Conduct complaints: monitoring, reports, guidance and recommendations](section/36.md)
+    - [s. 37 Obtaining of information from relevant professional organisations](section/37.md)
+    - [s. 38 Efficient and effective working](section/38.md)
+    - [s. 39 Monitoring effectiveness of guarantee funds etc.](section/39.md)
+    - [s. 40 How practitioners deal with complaints: best practice notes](section/40.md)
+  - Miscellaneous
+    - [s. 41 Power by regulations to amend duties and powers of Commission](section/41.md)
+    - [s. 42 Reports: privilege](section/42.md)
+    - [s. 43 Restriction upon disclosure of information: Commission](section/43.md)
+    - [s. 44 Exemption from liability in damages](section/44.md)
+    - [s. 45 Giving of notices etc. under Part 1](section/45.md)
+    - [s. 46 Interpretation of Part 1](section/46.md)
+- Part 2 Conduct and services complaints etc.: other matters
+  - [s. 47 Conduct complaints: duty of relevant professional organisations to investigate etc.](section/47.md)
+  - [s. 48 Conduct complaints and reviews: power of relevant professional organisations to examine documents and demand explanations](section/48.md)
+  - [s. 49 Conduct complaints: financial impropriety](section/49.md)
+  - [s. 50 Power of relevant professional organisations to recover certain expenses](section/50.md)
+  - [s. 51 Powers in relation to documents and information from third parties](section/51.md)
+  - [s. 52 Restriction upon disclosure of information: relevant professional organisations](section/52.md)
+  - [s. 53 Unsatisfactory professional conduct: solicitors](section/53.md)
+  - [s. 54 Unsatisfactory professional conduct: conveyancing or executry practitioners](section/54.md)
+  - [s. 55 Report by Commission to Council under section 10(2)(e)](section/55.md)
+  - [s. 56 Powers to fine and award compensation for professional misconduct etc.](section/56.md)
+  - [s. 57 Review of and appeal against decisions on remitted conduct complaints: cases other than unsatisfactory professional conduct](section/57.md)
+- Part 2A Special provision for licensed providers
+  - [s. 57A Complaints about licensed providers](section/57A.md)
+  - [s. 57B Regulatory complaints](section/57B.md)
+  - [s. 57C Levy, advice and guidance](section/57C.md)
+  - [s. 57D Recovery of levy](section/57D.md)
+  - [s. 57E Handling complaints](section/57E.md)
+  - [s. 57F Effectiveness of compensation fund](section/57F.md)
+  - [s. 57G Interpretation of Part 2A](section/57G.md)
+- Part 2B Special provision for confirmation agents and will writers
+  - [s. 57H Complaints about agents and writers](section/57H.md)
+  - [s. 57I Handling complaints](section/57I.md)
+  - [s. 57J Levy payable](section/57J.md)
+  - [s. 57K Recovery of levy](section/57K.md)
+  - [s. 57L Interpretation of Part 2B](section/57L.md)
+- Part 3 Legal profession: other matters
+  - [s. 58 Constitution of Scottish Solicitors’ Discipline Tribunal](section/58.md)
+  - [s. 59 Scottish Solicitors Guarantee Fund: borrowing limit](section/59.md)
+  - [s. 60 Safeguarding interests of clients](section/60.md)
+  - [s. 61 Offence for unqualified persons to prepare certain documents](section/61.md)
+  - [s. 62 Notaries public to be practising solicitors](section/62.md)
+  - [s. 63 Regulation of notaries public](section/63.md)
+- Part 4 Legal aid
+  - [s. 64 Criminal legal aid in solemn proceedings](section/64.md)
+  - [s. 65 Criminal legal aid: conditions and reviews](section/65.md)
+  - [s. 66 Criminal Legal Assistance Register: removal of name following failure to comply with code](section/66.md)
+  - [s. 67 Register of advice organisations: advice and assistance](section/67.md)
+  - [s. 68 Scottish Legal Aid Board: grants for certain purposes](section/68.md)
+  - [s. 69 Financial limit: advice and assistance](section/69.md)
+  - [s. 70 Further provision in relation to the Fund: advice and assistance](section/70.md)
+  - [s. 71 Availability of civil legal aid for defamation or verbal injury](section/71.md)
+  - [s. 72 Civil legal aid: conditions and reviews](section/72.md)
+  - [s. 73 Availability of legal aid: Judicial Committee of the Privy Council](section/73.md)
+  - [s. 74 Solicitors employed by the Scottish Legal Aid Board](section/74.md)
+  - [s. 75 Contributions, and payments out of property recovered](section/75.md)
+  - [s. 76 Regulations under section 36 of the 1986 Act](section/76.md)
+- Part 5 General
+  - [s. 77 Advice, services or activities to which Act does not apply](section/77.md)
+  - [s. 78 Ancillary provision](section/78.md)
+  - [s. 79 Regulations or orders](section/79.md)
+  - [s. 80 Interpretation](section/80.md)
+  - [s. 81 Minor and consequential modifications](section/81.md)
+  - [s. 82 Short title and commencement](section/82.md)
+- SCHEDULE 1 The Scottish Legal Complaints Commission
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership of the Commission
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Terms of appointment etc.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Removal of members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Disqualification from membership
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration, allowances and pensions for members
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Chief executive and other employees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Accountable officer
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Procedure
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Committees
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+  - General powers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Delegation of functions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Location of office
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Accounts
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Reports
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Further powers of Commission under section 17 or 37
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Rules as to Commission’s practice and procedure
+  - Provision which must be included
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Provision which may in particular be included
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Further powers of relevant professional organisations under section 48
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Minor and consequential modifications
+  - Solicitors (Scotland) Act 1980 (c. 46)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
