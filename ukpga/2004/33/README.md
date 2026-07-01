@@ -1,0 +1,2299 @@
+# Civil Partnership Act 2004
+
+2004 c. 33. Enacted 2004-11-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 57 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
+
+Source: https://www.legislation.gov.uk/ukpga/2004/33/2026-07-01
+
+## Contents
+
+- Part 1 Introduction
+  - [s. 1 Civil partnership](section/1.md)
+- Part 2 Civil partnership: England and Wales
+  - Chapter 1 Registration
+    - Formation, eligibility and parental etc. consent
+      - [s. 2 Formation of civil partnership by registration](section/2.md)
+      - [s. 3 Eligibility](section/3.md)
+      - [s. 4 Parental etc. consent where proposed civil partner under 18](section/4.md)
+    - Registration procedure: general
+      - [s. 5 Types of pre-registration procedure](section/5.md)
+      - [s. 6 Place of registration](section/6.md)
+      - [s. 6A Power to approve premises](section/6A.md)
+      - [s. 7 The civil partnership document](section/7.md)
+    - The standard procedure
+      - [s. 8 Notice of proposed civil partnership and declaration](section/8.md)
+      - [s. 8A Additional information if party not relevant national](section/8A.md)
+      - [s. 9 Evidence](section/9.md)
+      - [s. 9A Additional evidence if party not relevant national](section/9A.md)
+      - [s. 9B Change of usual address or UK contact address](section/9B.md)
+      - [s. 9C Rejection of false information or evidence](section/9C.md)
+      - [s. 9D Amendment of notice and evidence provisions](section/9D.md)
+      - [s. 9E Specified evidence](section/9E.md)
+      - [s. 9F Recording of information in the register: compliance with requirements](section/9F.md)
+      - [s. 10 Proposed civil partnership to be publicised](section/10.md)
+      - [s. 11 Meaning of “the waiting period”](section/11.md)
+      - [s. 12 Power to shorten the waiting period](section/12.md)
+      - [s. 12A Referral of proposed civil partnership to Secretary of State](section/12A.md)
+      - [s. 13 Objection to proposed civil partnership](section/13.md)
+      - [s. 14 Issue of civil partnership schedule](section/14.md)
+      - [s. 14A Notice of proposed civil partnership: false information or evidence](section/14A.md)
+      - [s. 15 Appeal against refusal to issue civil partnership schedule](section/15.md)
+      - [s. 16 Frivolous objections and representations and appeals: liability for costs etc.](section/16.md)
+      - [s. 17 Period during which registration may take place](section/17.md)
+    - The procedures for house-bound and detained persons
+      - [s. 18 House-bound persons](section/18.md)
+      - [s. 19 Detained persons](section/19.md)
+    - Modified procedures for certain non-residents
+      - [s. 20 Modified procedures for certain non-residents](section/20.md)
+    - The special procedure
+      - [s. 21 Notice of proposed civil partnership](section/21.md)
+      - [s. 22 Evidence to be produced](section/22.md)
+      - [s. 23 Application to be reported to Registrar General](section/23.md)
+      - [s. 24 Objection to issue of Registrar General’s licence](section/24.md)
+      - [s. 25 Issue of Registrar General’s licence](section/25.md)
+      - [s. 26 Frivolous objections: liability for costs](section/26.md)
+      - [s. 27 Period during which registration may take place](section/27.md)
+    - Supplementary
+      - [s. 28 Registration authorities](section/28.md)
+      - [s. 29 Civil partnership registrars](section/29.md)
+      - [s. 30 The Registrar General and the register](section/30.md)
+      - [s. 30ZA Religious involvement: protection against compulsion](section/30ZA.md)
+      - [s. 30A Relevant nationals](section/30A.md)
+      - [s. 31 Offences relating to civil partnership schedule](section/31.md)
+      - [s. 32 Offences relating to Registrar General’s licence](section/32.md)
+      - [s. 33 Offences relating to the recording of civil partnerships](section/33.md)
+      - [s. 34 Fees](section/34.md)
+      - [s. 35 Power to assimilate provisions relating to civil registration](section/35.md)
+      - [s. 36 Regulations and orders](section/36.md)
+  - Chapter 2 Dissolution, nullity and other proceedings
+    - Introduction
+      - [s. 37 Powers to make orders and effect of orders](section/37.md)
+      - [s. 37A Dissolution on ground of breakdown: conditional and final orders](section/37A.md)
+      - [s. 38 Annulment and presumption of death: conditional and final orders](section/38.md)
+      - [s. 39 Intervention of the Queen’s Proctor](section/39.md)
+      - [s. 40 Proceedings before order has been made final](section/40.md)
+      - [s. 41 Time bar on applications for dissolution orders](section/41.md)
+      - [s. 42 Attempts at reconciliation of civil partners](section/42.md)
+      - [s. 43 Consideration by the court of certain agreements or arrangements](section/43.md)
+    - Dissolution of civil partnership
+      - [s. 44 Dissolution of civil partnership which has broken down irretrievably](section/44.md)
+      - [s. 45 Supplemental provisions as to facts raising presumption of breakdown](section/45.md)
+      - [s. 46 Dissolution order not precluded by previous separation order etc.](section/46.md)
+      - [s. 47 Refusal of dissolution in 5 year separation cases on ground of grave hardship](section/47.md)
+      - [s. 48 Proceedings before order made final: protection for respondent ...](section/48.md)
+    - Nullity
+      - [s. 49 Grounds on which civil partnership is void](section/49.md)
+      - [s. 50 Grounds on which civil partnership is voidable](section/50.md)
+      - [s. 51 Bars to relief where civil partnership is voidable](section/51.md)
+      - [s. 52 Proof of certain matters not necessary to validity of civil partnership](section/52.md)
+      - [s. 53 Power to validate civil partnership](section/53.md)
+      - [s. 54 Validity of civil partnerships registered outside England and Wales](section/54.md)
+    - Presumption of death orders
+      - [s. 55 Presumption of death orders](section/55.md)
+    - Separation orders
+      - [s. 56 Separation orders](section/56.md)
+      - [s. 57 Effect of separation order](section/57.md)
+    - Declarations
+      - [s. 58 Declarations](section/58.md)
+      - [s. 59 General provisions as to making and effect of declarations](section/59.md)
+      - [s. 60 The Attorney General and proceedings for declarations](section/60.md)
+      - [s. 61 Supplementary provisions as to declarations](section/61.md)
+    - General provisions
+      - [s. 62 Relief for respondent in dissolution proceedings](section/62.md)
+      - [s. 63 Restrictions on making of orders affecting children](section/63.md)
+      - [s. 64 Parties to proceedings under this Chapter](section/64.md)
+  - Chapter 3 Property and financial arrangements
+    - [s. 65 Contribution by civil partner to property improvement](section/65.md)
+    - [s. 66 Disputes between civil partners about property](section/66.md)
+    - [s. 67 Applications under section 66 where property not in possession etc.](section/67.md)
+    - [s. 68 Applications under section 66 by former civil partners](section/68.md)
+    - [s. 69 Actions in tort between civil partners](section/69.md)
+    - [s. 70 Assurance policy by civil partner for benefit of other civil partner etc.](section/70.md)
+    - [s. 71 Wills, administration of estates and family provision](section/71.md)
+    - [s. 72 Financial relief for civil partners and children of family](section/72.md)
+  - Chapter 4 Civil partnership agreements
+    - [s. 73 Civil partnership agreements unenforceable](section/73.md)
+    - [s. 74 Property where civil partnership agreement is terminated](section/74.md)
+  - Chapter 5 Children
+    - [s. 75 Parental responsibility, children of the family and relatives](section/75.md)
+    - [s. 76 Guardianship](section/76.md)
+    - [s. 77 Entitlement to apply for residence or contact order](section/77.md)
+    - [s. 78 Financial provision for children](section/78.md)
+    - [s. 79 Adoption](section/79.md)
+  - Chapter 6 Miscellaneous
+    - [s. 80 False statements etc. with reference to civil partnerships](section/80.md)
+    - [s. 81 Housing and tenancies](section/81.md)
+    - [s. 82 Family homes and domestic violence](section/82.md)
+    - [s. 83 Fatal accidents claims](section/83.md)
+    - [s. 84 Evidence](section/84.md)
+- Part 3 Civil partnership: Scotland
+  - Chapter 1 Formation and eligibility
+    - [s. 85 Formation of civil partnership by registration](section/85.md)
+    - [s. 86 Eligibility](section/86.md)
+  - Chapter 2 Registration
+    - [s. 87 Appointment of authorised registrars](section/87.md)
+    - [s. 88 Notice of proposed civil partnership](section/88.md)
+    - [s. 88A Additional information if party not relevant national](section/88A.md)
+    - [s. 88B Additional evidence if party not relevant national](section/88B.md)
+    - [s. 88C Declaration to accompany information and evidence](section/88C.md)
+    - [s. 88D Rejection of false information or evidence](section/88D.md)
+    - [s. 88E Notice of proposed civil partnership: treated as not given](section/88E.md)
+    - [s. 88F Referral of proposed civil partnership to the Secretary of State](section/88F.md)
+    - [s. 89 Civil partnership notice book](section/89.md)
+    - [s. 90 Publicisation](section/90.md)
+    - [s. 91 Early registration](section/91.md)
+    - [s. 92 Objections to registration](section/92.md)
+    - [s. 93 Place of civil registration of civil partnerships](section/93.md)
+    - [s. 93A Date and place of registration of religious or belief civil partnerships](section/93A.md)
+    - [s. 94 The civil partnership schedule](section/94.md)
+    - [s. 94A Persons who may register civil partnerships](section/94A.md)
+    - [s. 94B Registration of nominated persons as celebrants](section/94B.md)
+    - [s. 94C Removal of celebrant’s name from register](section/94C.md)
+    - [s. 94D Alterations to register maintained under section 94B](section/94D.md)
+    - [s. 94E Temporary authorisation of celebrants](section/94E.md)
+    - [s. 95 Further provision as to registration](section/95.md)
+    - [s. 95ZA Registrar’s power to require delivery of civil partnership schedule](section/95ZA.md)
+    - [s. 95A Validity following entry in civil partnership register](section/95A.md)
+    - [s. 96 Civil partnership with former spouse](section/96.md)
+    - [s. 97 Certificates of no impediment for Part 2 purposes](section/97.md)
+    - [s. 97A Second civil partnership registration](section/97A.md)
+    - [s. 98 Application of certain provisions to civil partnerships](section/98.md)
+    - [s. 99 Correction of errors in civil partnership register](section/99.md)
+    - [s. 100 Offences](section/100.md)
+  - Chapter 3 Occupancy rights and tenancies
+    - Occupancy rights
+      - [s. 101 Occupancy rights](section/101.md)
+      - [s. 102 Occupancy: subsidiary and consequential rights](section/102.md)
+      - [s. 103 Regulation by court of rights of occupancy of family home](section/103.md)
+      - [s. 104 Exclusion orders](section/104.md)
+      - [s. 105 Duration of orders under sections 103 and 104](section/105.md)
+      - [s. 106 Continued exercise of occupancy rights after dealing](section/106.md)
+      - [s. 107 Dispensation with civil partner’s consent to dealing](section/107.md)
+      - [s. 108 Interests of creditors](section/108.md)
+      - [s. 109 Provisions where both civil partners have title](section/109.md)
+      - [s. 110 Rights of occupancy in relation to division and sale](section/110.md)
+      - [s. 111 Adjudication](section/111.md)
+      - [s. 111A Effect of court action under section 103, 104 or 105 on reckoning of periods in sections 101 and 106](section/111A.md)
+    - Transfer of tenancy
+      - [s. 112 Transfer of tenancy](section/112.md)
+  - Chapter 4 Interdicts
+    - [s. 113 Civil partners: competency of interdict](section/113.md)
+    - [s. 114 ................................](section/114.md)
+    - [s. 115 ................................](section/115.md)
+    - [s. 116 ................................](section/116.md)
+  - Chapter 5 Dissolution, separation and nullity
+    - Dissolution and separation
+      - [s. 117 Dissolution](section/117.md)
+      - [s. 118 Encouragement of reconciliation](section/118.md)
+      - [s. 119 Effect of resumption of cohabitation](section/119.md)
+      - [s. 120 Separation](section/120.md)
+      - [s. 121 Dissolution following on decree of separation](section/121.md)
+      - [s. 121A Postponement of decree of dissolution where religious impediment to marry exists](section/121A.md)
+      - [s. 122 Registration of dissolutions and declarators of nullity of civil partnerships](section/122.md)
+    - Nullity
+      - [s. 123 Nullity](section/123.md)
+      - [s. 124 Validity of civil partnerships registered outside Scotland](section/124.md)
+    - Special destinations: revocation on dissolution or annulment
+      - [s. 124A Special destination: revocation on dissolution or annulment](section/124A.md)
+    - Financial provision after overseas proceedings
+      - [s. 125 Financial provision after overseas dissolution or annulment](section/125.md)
+  - Chapter 6 Miscellaneous and interpretation
+    - Miscellaneous
+      - [s. 126 Regulations](section/126.md)
+      - [s. 127 Attachment](section/127.md)
+      - [s. 128 Promise or agreement to enter into civil partnership](section/128.md)
+      - [s. 129 Lord Advocate as party to action for nullity or dissolution of civil partnership](section/129.md)
+      - [s. 130 Civil partner of accused a competent witness](section/130.md)
+      - [s. 131 Succession: legal rights arising by virtue of civil partnership](section/131.md)
+      - [s. 132 Assurance policies](section/132.md)
+      - [s. 133 Council Tax: liability of civil partners](section/133.md)
+      - [s. 134 General provisions as to fees](section/134.md)
+    - Interpretation
+      - [s. 135 Interpretation of this Part](section/135.md)
+      - [s. 136 The expression “relative” in the 1965 Act](section/136.md)
+- Part 4 Civil partnership: Northern Ireland
+  - Chapter 1 Registration
+    - Formation and eligibility
+      - [s. 137 Formation of civil partnership by registration](section/137.md)
+      - [s. 138 Eligibility](section/138.md)
+    - Preliminaries to registration
+      - [s. 139 Notice of proposed civil partnership](section/139.md)
+      - [s. 139A Additional information if party not relevant national](section/139A.md)
+      - [s. 139B Additional evidence if party not relevant national](section/139B.md)
+      - [s. 139C Declaration to accompany information and evidence](section/139C.md)
+      - [s. 139D Rejection of false information or evidence](section/139D.md)
+      - [s. 139E Referral of proposed civil partnership to the Secretary of State](section/139E.md)
+      - [s. 140 Civil partnership notice book and list of intended civil partnerships](section/140.md)
+      - [s. 141 Power to require evidence of name etc.](section/141.md)
+      - [s. 142 Objections](section/142.md)
+      - [s. 143 Civil partnership schedule](section/143.md)
+      - [s. 143A Civil partnership notice: false information or evidence](section/143A.md)
+      - [s. 144 Place of registration](section/144.md)
+    - Young persons
+      - [s. 145 Parental etc. consent where proposed civil partner under 18](section/145.md)
+    - Supplementary
+      - [s. 146 Validity of registration](section/146.md)
+      - [s. 147 Corrections and cancellations](section/147.md)
+      - [s. 148 Interpreters](section/148.md)
+      - [s. 149 Detained persons](section/149.md)
+      - [s. 150 Certificates of no impediment for Part 2 purposes](section/150.md)
+      - [s. 151 Registration districts and registration authorities](section/151.md)
+      - [s. 152 Registrars and other staff](section/152.md)
+      - [s. 153 Records and documents to be sent to Registrar General](section/153.md)
+      - [s. 154 Annual report](section/154.md)
+      - [s. 155 Searches](section/155.md)
+      - [s. 155A Notification of registration](section/155A.md)
+      - [s. 156 Proof of civil partnership for purposes of certain statutory provisions](section/156.md)
+      - [s. 157 Fees](section/157.md)
+      - [s. 158 Offences](section/158.md)
+      - [s. 159 Regulations](section/159.md)
+      - [s. 160 Interpretation](section/160.md)
+  - Chapter 2 Dissolution, nullity and other proceedings
+    - Introduction
+      - [s. 161 Powers to make orders and effect of orders](section/161.md)
+      - [s. 162 The period before conditional orders may be made final](section/162.md)
+      - [s. 163 Intervention by the Crown Solicitor](section/163.md)
+      - [s. 164 Proceedings before order has been made final](section/164.md)
+      - [s. 165 Time bar on applications for dissolution orders](section/165.md)
+      - [s. 166 Attempts at reconciliation of civil partners](section/166.md)
+      - [s. 167 Consideration by the court of certain agreements or arrangements](section/167.md)
+    - Dissolution of civil partnership
+      - [s. 168 Dissolution of civil partnership which has broken down irretrievably](section/168.md)
+      - [s. 169 Supplemental provisions as to facts raising presumption of breakdown](section/169.md)
+      - [s. 170 Dissolution order not precluded by previous separation order etc.](section/170.md)
+      - [s. 171 Refusal of dissolution in 5 year separation cases on ground of grave hardship](section/171.md)
+      - [s. 172 Proceedings before order made final: protection for respondent in separation cases](section/172.md)
+    - Nullity
+      - [s. 173 Grounds on which civil partnership is void](section/173.md)
+      - [s. 174 Grounds on which civil partnership is voidable](section/174.md)
+      - [s. 174A Civil partnership converted from a marriage: when voidable](section/174A.md)
+      - [s. 175 Bars to relief where civil partnership is voidable](section/175.md)
+      - [s. 176 Proof of certain matters not necessary to validity of civil partnership](section/176.md)
+      - [s. 177 Validity of civil partnerships registered outside Northern Ireland](section/177.md)
+    - Presumption of death orders
+      - [s. 178 Presumption of death orders](section/178.md)
+    - Separation orders
+      - [s. 179 Separation orders](section/179.md)
+      - [s. 180 Effect of separation order](section/180.md)
+    - Declarations
+      - [s. 181 Declarations](section/181.md)
+      - [s. 182 General provisions as to making and effect of declarations](section/182.md)
+      - [s. 183 The Attorney General and proceedings for declarations](section/183.md)
+      - [s. 184 Supplementary provisions as to declarations](section/184.md)
+    - General provisions
+      - [s. 185 Relief for respondent in dissolution proceedings](section/185.md)
+      - [s. 186 Restrictions on making of orders affecting children](section/186.md)
+      - [s. 187 Parties to proceedings under this Chapter](section/187.md)
+    - The court
+      - [s. 188 The court](section/188.md)
+      - [s. 189 Appeals](section/189.md)
+      - [s. 190 Transfer of proceedings](section/190.md)
+  - Chapter 3 Property and financial arrangements
+    - [s. 191 Disputes between civil partners about property](section/191.md)
+    - [s. 192 Applications under section 191 where property not in possession etc.](section/192.md)
+    - [s. 193 Applications under section 191 by former civil partners](section/193.md)
+    - [s. 194 Assurance policy by civil partner for benefit of other civil partner etc.](section/194.md)
+    - [s. 195 Wills, administration of estates and family provision](section/195.md)
+    - [s. 196 Financial relief for civil partners and children of family](section/196.md)
+  - Chapter 4 Civil partnership agreements
+    - [s. 197 Civil partnership agreements unenforceable](section/197.md)
+    - [s. 198 Property where civil partnership agreement is terminated](section/198.md)
+  - Chapter 5 Children
+    - [s. 199 Parental responsibility, children of the family and relatives](section/199.md)
+    - [s. 200 Guardianship](section/200.md)
+    - [s. 201 Entitlement to apply for residence or contact order](section/201.md)
+    - [s. 202 Financial provision for children](section/202.md)
+    - [s. 203 Adoption](section/203.md)
+  - Chapter 6 Miscellaneous
+    - [s. 204 False statements etc. with reference to civil partnerships](section/204.md)
+    - [s. 204A Ceremonies and events to mark civil partnerships: protection from compulsion](section/204A.md)
+    - [s. 205 Housing and tenancies](section/205.md)
+    - [s. 206 Family homes and domestic violence](section/206.md)
+    - [s. 207 Fatal accidents claims](section/207.md)
+    - [s. 208 Evidence](section/208.md)
+    - [s. 209 Restriction on publicity of reports of proceedings](section/209.md)
+- Part 5 Civil partnership formed or dissolved abroad etc.
+  - Chapter 1 Registration outside UK under Order in Council
+    - [s. 210 Registration at British consulates etc.](section/210.md)
+    - [s. 211 Registration by armed forces personnel](section/211.md)
+  - Chapter 2 Overseas relationships treated as civil partnerships
+    - [s. 212 Meaning of “overseas relationship”](section/212.md)
+    - [s. 213 Specified relationships](section/213.md)
+    - [s. 214 The general conditions](section/214.md)
+    - [s. 215 Overseas relationships treated as civil partnerships: the general rule](section/215.md)
+    - [s. 216 The same-sex requirement](section/216.md)
+    - [s. 217 Person domiciled in a part of the United Kingdom](section/217.md)
+    - [s. 218 The public policy exception](section/218.md)
+  - Chapter 3 Dissolution etc.: jurisdiction and recognition
+    - Introduction
+      - [s. 219 Power to make provision as to jurisdiction in relation to civil partnerships](section/219.md)
+    - Jurisdiction of courts in England and Wales
+      - [s. 220 Meaning of “the court”](section/220.md)
+      - [s. 221 Proceedings for dissolution, separation or nullity order](section/221.md)
+      - [s. 222 Proceedings for presumption of death order](section/222.md)
+      - [s. 223 Proceedings for dissolution, nullity or separation order: supplementary](section/223.md)
+      - [s. 224 Applications for declarations as to validity etc.](section/224.md)
+    - Jurisdiction of Scottish courts
+      - [s. 225 Jurisdiction of Scottish courts](section/225.md)
+      - [s. 226 Sisting of proceedings](section/226.md)
+      - [s. 227 Scottish ancillary and collateral orders](section/227.md)
+    - Jurisdiction of courts in Northern Ireland
+      - [s. 228 Meaning of “the court”](section/228.md)
+      - [s. 229 Proceedings for dissolution, separation or nullity order](section/229.md)
+      - [s. 230 ................................](section/230.md)
+      - [s. 231 Proceedings for dissolution, nullity or separation order: supplementary](section/231.md)
+      - [s. 232 Applications for declarations as to validity etc.](section/232.md)
+    - Recognition of dissolution, annulment and separation
+      - [s. 233 Effect of dissolution, annulment or separation obtained in the UK](section/233.md)
+      - [s. 234 Recognition in the UK of overseas dissolution, annulment or separation](section/234.md)
+      - [s. 235 Grounds for recognition](section/235.md)
+      - [s. 236 Refusal of recognition](section/236.md)
+      - [s. 237 Supplementary provisions relating to recognition of dissolution etc.](section/237.md)
+      - [s. 238 Non-recognition elsewhere of dissolution or annulment](section/238.md)
+  - Chapter 4 Miscellaneous and supplementary
+    - [s. 239 Commanding officers’ certificates for Part 2 purposes](section/239.md)
+    - [s. 240 Certificates of no impediment to overseas relationships](section/240.md)
+    - [s. 241 Transmission of certificates of registration of overseas relationships](section/241.md)
+    - [s. 242 Power to make provision relating to certain Commonwealth forces](section/242.md)
+    - [s. 243 Fees](section/243.md)
+    - [s. 244 Orders in Council: supplementary](section/244.md)
+    - [s. 245 Interpretation](section/245.md)
+- Part 6 Relationships arising through civil partnership
+  - [s. 246 Interpretation of statutory references to stepchildren etc.](section/246.md)
+  - [s. 247 Provisions to which section 246 applies: Acts of Parliament etc.](section/247.md)
+  - [s. 248 Provisions to which section 246 applies: Northern Ireland](section/248.md)
+- Part 7 Miscellaneous
+  - [s. 249 Immigration control and formation of civil partnerships](section/249.md)
+  - [s. 250 Gender recognition where applicant a civil partner](section/250.md)
+  - [s. 251 Discrimination against civil partners in employment field](section/251.md)
+  - [s. 252 Discrimination against civil partners in employment field: Northern Ireland](section/252.md)
+  - [s. 253 Civil partners to have unlimited insurable interest in each other](section/253.md)
+  - [s. 254 Social security, child support and tax credits](section/254.md)
+  - [s. 255 Power to amend enactments relating to pensions](section/255.md)
+  - [s. 256 Amendment of certain enactments relating to pensions](section/256.md)
+  - [s. 257 Amendment of certain enactments relating to the armed forces](section/257.md)
+- Part 8 Supplementary
+  - [s. 258 Regulations and orders](section/258.md)
+  - [s. 259 Power to make further provision in connection with civil partnership](section/259.md)
+  - [s. 260 EU obligations and civil partners](section/260.md)
+  - [s. 261 Minor and consequential amendments, repeals and revocations](section/261.md)
+  - [s. 262 Extent](section/262.md)
+  - [s. 263 Commencement](section/263.md)
+  - [s. 264 Short title](section/264.md)
+- SCHEDULE 1 Prohibited degrees of relationship: England and Wales
+  - Part 1 The prohibitions
+    - Absolute prohibitions
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Qualified prohibitions
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part 2 Special provisions relating to qualified prohibitions
+    - Provisions relating to paragraph 2
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Provisions relating to paragraph 3
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Civil partnerships of persons under 18: England and Wales
+  - Part 1 Appropriate persons
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Part 2 Obtaining consent: general
+    - Consent of appropriate person unobtainable
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Consent of appropriate person refused
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Declaration
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Forbidding proposed civil partnership
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Evidence
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Issue of civil partnership schedule
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part 3 Obtaining consent: special procedure
+    - Consent of appropriate person unobtainable or refused
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Declaration
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Forbidding proposed civil partnership
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Evidence
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Issue of Registrar General’s licence
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Part 4 Provisions relating to the court
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Registration by former spouses one of whom has changed sex
+  - Application of Schedule
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The relevant period
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Modifications of standard procedure and procedures for house-bound and detained persons
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Modified procedures for certain non-residents
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 3A Modifications if proposed civil partnership referred under section 12A
+  - Introduction
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - No civil partnership schedule to be issued until decision about investigation etc
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Civil partnership to be investigated: extension of waiting period to 70 days
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Effect of shortening waiting period
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+- SCHEDULE 4 Wills, administration of estates and family provision
+  - Part 1 Wills
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 2 Administration of estates and family provision
+    - Public Trustee Act 1906 (c. 55)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Administration of Estates Act 1925 (c. 23)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Intestates’ Estates Act 1952 (c. 64)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Family Provision Act 1966 (c. 35)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Inheritance (Provision for Family and Dependants) Act 1975 (c. 63)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+- SCHEDULE 5 Financial relief: provision corresponding to provision made by Part 2 of the Matrimonial Causes Act 1973
+  - Part 1 Financial provision in connection with dissolution, nullity or separation
+    - Circumstances in which orders under this Part may be made
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - The orders: periodical and secured periodical payments and lump sums
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Particular provision that may be made by lump sum orders
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - When orders under this Part may take effect
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Restrictions on making of orders under this Part
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part 2 Property adjustment on or after dissolution, nullity or separation
+    - Circumstances in which property adjustment orders may be made
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Property adjustment orders
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - When property adjustment orders may take effect
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Restrictions on making property adjustment orders
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part 3 Sale of property orders
+    - Circumstances in which sale of property orders may be made
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Sale of property orders
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - When sale of property orders may take effect
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - When sale of property orders cease to have effect
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Protection of third parties
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Part 4 Pension sharing orders on or after dissolution or nullity order
+    - Circumstances in which pension sharing orders may be made
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Pension sharing orders
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Pension sharing orders: apportionment of charges
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Restrictions on making of pension sharing orders
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - When pension sharing orders may take effect
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Part 4A Pension compensation sharing orders on or after dissolution or nullity order
+    - [Sch. 5 para. 19A Circumstances in which pension compensation sharing orders may be made](schedule/5/paragraph/19A.md)
+    - [Sch. 5 para. 19B Pension compensation sharing orders](schedule/5/paragraph/19B.md)
+    - [Sch. 5 para. 19C Pension compensation sharing orders: apportionment of charges](schedule/5/paragraph/19C.md)
+    - [Sch. 5 para. 19D Restrictions on making pension compensation sharing orders](schedule/5/paragraph/19D.md)
+    - [Sch. 5 para. 19E When pension compensation sharing orders may take effect](schedule/5/paragraph/19E.md)
+    - [Sch. 5 para. 19F Interpretation](schedule/5/paragraph/19F.md)
+  - Part 5 Matters to which court is to have regard under Parts 1 to 4A
+    - General
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Particular matters to be taken into account when exercising powers in relation to civil partners
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Particular matters to be taken into account when exercising powers in relation to children
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Terminating financial obligations
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - Part 6 Making of Part 1 orders having regard to pension benefits
+    - Pension benefits to be included in matters to which court is to have regard
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Provisions applying where pension benefits taken into account in decision to make Part 1 order
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Pensions: lump sums
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Pensions: supplementary
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Regulations
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Interpretation of provisions relating to pensions
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - Part 7 Pension protection fund compensation etc.
+    - PPF compensation to be included in matters to which court is to have regard
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - Assumption of responsibility by PPF Board in paragraph 25(2) cases
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Assumption of responsibility by PPF Board in paragraph 25(5) cases
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Lump sums: power to modify paragraph 26 in respect of assessment period
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Assumption of responsibility by the Board not to affect power of court to vary order etc.
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - Attachment of PPF compensation
+      - [Sch. 5 para. 34A](schedule/5/paragraph/34A.md)
+      - [Sch. 5 para. 34B](schedule/5/paragraph/34B.md)
+    - Regulations
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - Interpretation
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+  - Part 8 Maintenance and other payments pending outcome of dissolution, nullity or separation proceedings
+    - Maintenance orders
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - Orders in respect of legal services
+      - [Sch. 5 para. 38A](schedule/5/paragraph/38A.md)
+      - [Sch. 5 para. 38B](schedule/5/paragraph/38B.md)
+  - Part 9 Failure to maintain: financial provision (and interim orders)
+    - Circumstances in which orders under this Part may be made
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - Interim orders
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - Orders that may be made where failure to maintain established
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - Particular provision that may be made by lump sum orders
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - Matters to which the court is to have regard on application under paragraph 39(1)(a)
+      - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - Matters to which the court is to have regard on application under paragraph 39(1)(b)
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - Restrictions on making orders under this Part
+      - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+  - Part 10 Commencement of certain proceedings and duration of certain orders
+    - Commencement of proceedings for ancillary relief, etc.
+      - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+    - Duration of periodical and secured periodical payments orders for a civil partner
+      - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+    - Subsequent civil partnership or marriage
+      - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+    - Duration of continuing orders in favour of children, and age limit on making certain orders in their favour
+      - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+  - Part 11 Variation, discharge etc. of certain orders for financial relief
+    - Orders etc. to which this Part applies
+      - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+    - Powers to vary, discharge, suspend or revive order
+      - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+    - Power to remit arrears
+      - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+    - Additional powers on discharging or varying a periodical or secured periodical payments order after dissolution of civil partnership
+      - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+      - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+    - Variation etc. of periodical or secured periodical payments orders made in cases of failure to maintain
+      - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
+    - Variation etc. of property adjustment, pension sharing and pension compensation sharing orders
+      - [Sch. 5 para. 56](schedule/5/paragraph/56.md)
+      - [Sch. 5 para. 57](schedule/5/paragraph/57.md)
+      - [Sch. 5 para. 58](schedule/5/paragraph/58.md)
+    - Matters to which court is to have regard in exercising powers under this Part
+      - [Sch. 5 para. 59](schedule/5/paragraph/59.md)
+    - Variation of secured periodical payments order where person liable has died
+      - [Sch. 5 para. 60](schedule/5/paragraph/60.md)
+    - Power to direct when variation etc. is to take effect
+      - [Sch. 5 para. 61](schedule/5/paragraph/61.md)
+      - [Sch. 5 para. 62](schedule/5/paragraph/62.md)
+  - Part 12 Arrears and repayments
+    - Payment of certain arrears unenforceable without the leave of the court
+      - [Sch. 5 para. 63](schedule/5/paragraph/63.md)
+    - Orders for repayment in certain cases of sums paid under certain orders
+      - [Sch. 5 para. 64](schedule/5/paragraph/64.md)
+    - Orders for repayment after cessation of order because of subsequent civil partnership etc.
+      - [Sch. 5 para. 65](schedule/5/paragraph/65.md)
+  - Part 13 Consent orders and maintenance agreements
+    - Consent orders for financial relief
+      - [Sch. 5 para. 66](schedule/5/paragraph/66.md)
+    - Meaning of “maintenance agreement” and “financial arrangements”
+      - [Sch. 5 para. 67](schedule/5/paragraph/67.md)
+    - Validity of maintenance agreements
+      - [Sch. 5 para. 68](schedule/5/paragraph/68.md)
+    - Alteration of agreements by court during lives of parties
+      - [Sch. 5 para. 69](schedule/5/paragraph/69.md)
+    - Restrictions on applications to and orders by magistrates’ courts under paragraph 69
+      - [Sch. 5 para. 70](schedule/5/paragraph/70.md)
+    - Provisions relating to periodical and secured periodical payments: duration
+      - [Sch. 5 para. 71](schedule/5/paragraph/71.md)
+    - Saving
+      - [Sch. 5 para. 72](schedule/5/paragraph/72.md)
+    - Alteration of agreements by court after death of one party
+      - [Sch. 5 para. 73](schedule/5/paragraph/73.md)
+  - Part 14 Miscellaneous and supplementary
+    - Avoidance of transactions intended to prevent or reduce financial relief
+      - [Sch. 5 para. 74](schedule/5/paragraph/74.md)
+      - [Sch. 5 para. 75](schedule/5/paragraph/75.md)
+    - Direction for settlement of instrument for securing payments or effecting property adjustment
+      - [Sch. 5 para. 76](schedule/5/paragraph/76.md)
+    - Settlement, etc., made in compliance with a property adjustment order may be avoided on bankruptcy of settlor
+      - [Sch. 5 para. 77](schedule/5/paragraph/77.md)
+    - Payments, etc., under order made in favour of person suffering from mental disorder
+      - [Sch. 5 para. 78](schedule/5/paragraph/78.md)
+    - Appeals relating to pension sharing orders which have taken effect
+      - [Sch. 5 para. 79](schedule/5/paragraph/79.md)
+    - Appeals relating to pension compensation sharing orders which have taken effect
+      - [Sch. 5 para. 79A](schedule/5/paragraph/79A.md)
+    - Interpretation
+      - [Sch. 5 para. 80](schedule/5/paragraph/80.md)
+- SCHEDULE 6 Financial relief: provision corresponding to provision made by the Domestic Proceedings and Magistrates’ Courts Act 1978
+  - Part 1 Failure to maintain etc.: financial provision
+    - Circumstances in which orders under this Part may be made
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - The orders: periodical and secured periodical payments and lump sums
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Particular provision that may be made by lump sum orders
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Matters to which court is to have regard in exercising its powers under this Part—general
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Particular matters to be taken into account when exercising powers in relation to civil partners
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Particular matters to be taken into account when exercising powers in relation to children
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Reconciliation
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Refusal of order in case more suitable for High Court
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Part 2 Orders for agreed financial provision
+    - Orders for payments which have been agreed by the parties
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Meaning of “financial provision” and of references to specified financial provision
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Evidence to be produced where respondent not present etc.
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Exercise of powers in relation to children
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Power to make alternative orders
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Relationship between this Part and Part 1
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Part 3 Orders of court where civil partners living apart by agreement
+    - Powers of court where civil partners are living apart by agreement
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - The orders that may be made under this Part
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Restrictions on orders under this Part
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Relationship with powers under Part 1
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Matters to be taken into consideration
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Part 4 Interim orders
+    - Circumstances in which interim orders may be made
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Meaning of interim order
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - When interim order may start
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Payments which can be treated as having been paid on account
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - When interim order ceases to have effect
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Supplementary
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - Part 5 Commencement and duration of orders under Parts 1, 2 and 3
+    - Duration of periodical payments order for a civil partner
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - Age limit on making orders for financial provision for children and duration of such orders
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Application of paragraphs 26 and 27 to Part 2 orders
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Effect on certain orders of parties living together
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+  - Part 6 Variation etc. of orders
+    - Power to vary, revoke, suspend or revive order
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - Powers to order lump sum on variation
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - Power to specify when order as varied is to take effect
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - Matters to which court is to have regard in exercising powers under this Part
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - Variation of orders for periodical payments: further provisions
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - Persons who may apply under this Part
+      - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - Revival of orders for periodical payments
+      - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - Variation of instalments of lump sum
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - Supplementary provisions with respect to variation and revocation of orders
+      - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+  - Part 7 Arrears and repayments
+    - Enforcement etc. of orders for payment of money
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - Orders for repayment after cessation of order because of subsequent civil partnership etc.
+      - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+  - Part 8 Supplementary
+    - Restrictions on making of orders under this Schedule: welfare of children
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - Constitution of courts, powers of High Court and county court in relation to orders and appeals
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - Provisions as to jurisdiction and procedure
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - Meaning of “child of the family”
+      - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+- SCHEDULE 7 Financial relief in England and Wales after overseas dissolution etc. of a civil partnership
+  - Part 1 Financial relief
+    - Part applies where civil partnership has been dissolved etc. overseas
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Either civil partner may make application for financial relief
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - No application after formation of subsequent civil partnership or marriage
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Leave of court required for making of application
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Interim orders for maintenance
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Paragraphs 7 and 8 apply where application made for relief under paragraph 9 or 13
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Jurisdiction of the court
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Duty of the court to consider whether England and Wales is appropriate venue for application
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Orders for financial provision, property adjustment, pension sharing and pension compensation sharing
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Matters to which court is to have regard in exercising its powers under paragraph 9
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Restriction of powers under paragraph 9 where jurisdiction depends on civil partnership home in England or Wales
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Consent orders under paragraph 9
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Orders for transfers of tenancies of dwelling-houses
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Application to orders under paragraphs 5 and 9 of provisions of Schedule 5
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Avoidance of transactions designed to defeat claims under paragraphs 5 and 9
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Presumptions for the purposes of paragraph 15
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Part 2 Steps to prevent avoidance prior to application for leave under paragraph 4
+    - Prevention of transactions intended to defeat prospective claims under paragraphs 5 and 9
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Part 3 Supplementary
+    - Paragraphs 15 to 17: meaning of “disposition” and saving
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Interpretation of Schedule
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+- SCHEDULE 8 Housing and tenancies
+  - Law of Property Act 1925 (c. 20)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Caravan Sites Act 1968 (c. 52)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Rent Act 1977 (c. 42)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Protection from Eviction Act 1977 (c. 43)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Housing Act 1980 (c. 51)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - Agricultural Holdings Act 1986 (c. 5)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - Landlord and Tenant Act 1987 (c. 31)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+  - Agricultural Tenancies Act 1995 (c. 8)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+    - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+    - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+    - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+    - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+  - Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+    - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+  - Commonhold and Leasehold Reform Act 2002 (c. 15)
+    - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+    - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+- SCHEDULE 9 Family homes and domestic violence
+  - Part 1 Amendments of the Family Law Act 1996 (c. 27)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Part 2 Consequential amendments
+    - Land Compensation Act 1973 (c. 26)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - Insolvency Act 1986 (c. 45)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Housing Act 1988 (c. 50)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Commonhold and Leasehold Reform Act 2002 (c. 15)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+  - Part 3 Transitional provision
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+- SCHEDULE 10 FORBIDDEN DEGREES OF RELATIONSHIP: SCOTLAND
+- SCHEDULE 10A Modifications if proposed civil partnership referred under section 88F
+  - [Sch. 10A para. 1 Introduction](schedule/10A/paragraph/1.md)
+  - [Sch. 10A para. 2 No civil partnership schedule to be completed until decision about investigation etc](schedule/10A/paragraph/2.md)
+  - [Sch. 10A para. 3 Civil partnership to be investigated: extension of 28 day period to 70 days](schedule/10A/paragraph/3.md)
+  - [Sch. 10A para. 4 Effect of reducing statutory period](schedule/10A/paragraph/4.md)
+- SCHEDULE 11 Financial provision in Scotland after overseas proceedings
+  - Part 1 Introductory
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Part 2 Circumstances in which court may entertain application for financial provision
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Part 3 Disposal of applications
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Part 4 The expression “order for financial provision”
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+- SCHEDULE 12 Prohibited degrees of relationship: Northern Ireland
+  - Absolute prohibitions
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Qualified prohibitions
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+- SCHEDULE 13 Civil partnerships of persons under 18: Northern Ireland
+  - Part 1 Appropriate persons
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Part 2 Dispensing with consent
+    - Order dispensing with consent
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Part 3 Recording consents and orders
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+- SCHEDULE13A Modifications if proposed civil partnership referred under section 139E
+  - [Sch. 13A para. 1 Introduction](schedule/13A/paragraph/1.md)
+  - [Sch. 13A para. 2 No civil partnership schedule to be issued until decision about investigation etc](schedule/13A/paragraph/2.md)
+  - [Sch. 13A para. 3 Civil partnership to be investigated: completion of civil partnership schedule](schedule/13A/paragraph/3.md)
+  - [Sch. 13A para. 4 Requests to complete the civil partnership schedule before expiry of 70 day period](schedule/13A/paragraph/4.md)
+  - [Sch. 13A para. 5 Effect of reducing statutory period](schedule/13A/paragraph/5.md)
+- SCHEDULE 14 Wills, administration of estates and family provision: Northern Ireland
+  - Part 1 Wills
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Part 2 Administration of estates and family provision
+    - Administration of Estates Act (Northern Ireland) 1955 (c. 24 (N.I.))
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+      - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+      - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979 (S.I. 1979/ 924 (N.I. 8))
+      - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+      - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+      - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+      - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+      - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+      - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+      - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+      - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+      - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+      - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+      - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+      - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+      - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+- SCHEDULE 15 Financial relief in the High Court or a county court etc.: Northern Ireland
+  - Part 1 Financial provision in connection with dissolution, nullity or separation
+    - Circumstances in which orders under this Part may be made
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - The orders: periodical and secured periodical payments and lump sums
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Particular provision that may be made by lump sum orders
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - When orders under this Part may take effect
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Restrictions on making of orders under this Part
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Part 2 Property adjustment on or after dissolution, nullity or separation
+    - Circumstances in which property adjustment orders may be made
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Property adjustment orders
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - When property adjustment orders may take effect
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Restrictions on making property adjustment orders
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Part 3 Pension sharing orders on or after dissolution or nullity order
+    - Circumstances in which pension sharing orders may be made
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - Pension sharing orders
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - Pension sharing orders: apportionment of charges
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - Restrictions on making of pension sharing orders
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - When pension sharing orders may take effect
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - PART 3A PENSION COMPENSATION SHARING ORDERS ON OR AFTER DISSOLUTION OR NULLITY ORDER
+    - Circumstances in which pension compensation sharing orders may be made
+      - [Sch. 15 para. 14A](schedule/15/paragraph/14A.md)
+    - Pension compensation sharing orders
+      - [Sch. 15 para. 14B](schedule/15/paragraph/14B.md)
+    - Pension compensation sharing orders: apportionment of charges
+      - [Sch. 15 para. 14C](schedule/15/paragraph/14C.md)
+    - Restrictions on making pension compensation sharing orders
+      - [Sch. 15 para. 14D](schedule/15/paragraph/14D.md)
+    - When pension compensation sharing orders may take effect
+      - [Sch. 15 para. 14E](schedule/15/paragraph/14E.md)
+    - Interpretation
+      - [Sch. 15 para. 14F](schedule/15/paragraph/14F.md)
+  - Part 4 Matters to which court is to have regard under Parts 1 to 3A
+    - General
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - Particular matters to be taken into account when exercising powers in relation to civil partners
+      - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Particular matters to be taken into account when exercising powers in relation to children
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - Terminating considerations
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - Part 5 Making of Part 1 orders having regard to pension benefits
+    - Pension benefits to be included in matters to which court is to have regard
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - Provisions applying where pension benefits taken into account in decision to make Part 1 order
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - Pensions: lump sums
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - Pensions: supplementary
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - Regulations
+      - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - Interpretation of provisions relating to pensions
+      - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - Part 6 Pension protection fund compensation etc.
+    - PPF compensation to be included in matters to which court is to have regard
+      - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - Assumption of responsibility by PPF Board in paragraph 20(2) cases
+      - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+    - Assumption of responsibility by PPF Board in paragraph 20(5) cases
+      - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+    - Lump sums: power to modify paragraph 21 in respect of assessment period
+      - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+    - Assumption of responsibility by the Board not to affect power of court to vary order etc.
+      - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - Attachment of PPF compensation
+      - [Sch. 15 para. 29A](schedule/15/paragraph/29A.md)
+      - [Sch. 15 para. 29B](schedule/15/paragraph/29B.md)
+    - Regulations
+      - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+      - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+    - Interpretation
+      - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+  - Part 7 Maintenance pending outcome of dissolution, nullity or separation proceedings
+    - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+  - Part 8 Failure to maintain: financial provision (and interim orders)
+    - Circumstances in which orders under this Part may be made
+      - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+    - Interim orders
+      - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+    - Orders that may be made where failure to maintain established
+      - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+    - Particular provision that may be made by lump sum orders
+      - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+    - Matters to which the court is to have regard on application under paragraph 34(1)(a)
+      - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+    - Matters to which the court is to have regard on application under paragraph 34(1)(b)
+      - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+    - Restrictions on making orders under this Part
+      - [Sch. 15 para. 40](schedule/15/paragraph/40.md)
+  - Part 9 Commencement of certain proceedings and duration of certain orders
+    - Commencement of proceedings for ancillary relief, etc.
+      - [Sch. 15 para. 41](schedule/15/paragraph/41.md)
+    - Duration of periodical and secured periodical payments orders for a civil partner
+      - [Sch. 15 para. 42](schedule/15/paragraph/42.md)
+    - Subsequent civil partnership or marriage
+      - [Sch. 15 para. 43](schedule/15/paragraph/43.md)
+    - Duration of continuing orders in favour of children, and age limit on making certain orders in their favour
+      - [Sch. 15 para. 44](schedule/15/paragraph/44.md)
+  - Part 10 Variation, discharge etc. of certain orders for financial relief
+    - Orders etc. to which this Part applies
+      - [Sch. 15 para. 45](schedule/15/paragraph/45.md)
+    - Powers to vary, discharge, suspend or revive order
+      - [Sch. 15 para. 46](schedule/15/paragraph/46.md)
+    - Power to remit arrears
+      - [Sch. 15 para. 47](schedule/15/paragraph/47.md)
+    - Variation etc. of periodical or secured periodical payments orders made in cases of failure to maintain
+      - [Sch. 15 para. 48](schedule/15/paragraph/48.md)
+    - Variation etc. of property adjustment, pension sharing and pension compensation sharing orders
+      - [Sch. 15 para. 49](schedule/15/paragraph/49.md)
+      - [Sch. 15 para. 50](schedule/15/paragraph/50.md)
+      - [Sch. 15 para. 51](schedule/15/paragraph/51.md)
+    - Matters to which court is to have regard in exercising powers under this Part
+      - [Sch. 15 para. 52](schedule/15/paragraph/52.md)
+    - Variation of secured periodical payments order where person liable has died
+      - [Sch. 15 para. 53](schedule/15/paragraph/53.md)
+    - Power to direct when variation etc. is to take effect
+      - [Sch. 15 para. 54](schedule/15/paragraph/54.md)
+      - [Sch. 15 para. 55](schedule/15/paragraph/55.md)
+  - Part 11 Arrears and repayments
+    - Payment of certain arrears unenforceable without the leave of the court
+      - [Sch. 15 para. 56](schedule/15/paragraph/56.md)
+    - Orders for repayment in certain cases of sums paid under certain orders
+      - [Sch. 15 para. 57](schedule/15/paragraph/57.md)
+    - Orders for repayment after cessation of order because of subsequent civil partnership etc.
+      - [Sch. 15 para. 58](schedule/15/paragraph/58.md)
+  - Part 12 Consent orders and maintenance agreements
+    - Consent orders for financial relief
+      - [Sch. 15 para. 59](schedule/15/paragraph/59.md)
+    - Meaning of “maintenance agreement” and “financial arrangements”
+      - [Sch. 15 para. 60](schedule/15/paragraph/60.md)
+    - Validity of maintenance agreements
+      - [Sch. 15 para. 61](schedule/15/paragraph/61.md)
+    - Alteration of agreements by court during lives of parties
+      - [Sch. 15 para. 62](schedule/15/paragraph/62.md)
+    - Restrictions on applications to and orders by courts of summary jurisdiction under paragraph 62
+      - [Sch. 15 para. 63](schedule/15/paragraph/63.md)
+    - Provisions relating to periodical and secured periodical payments: duration
+      - [Sch. 15 para. 64](schedule/15/paragraph/64.md)
+    - Saving
+      - [Sch. 15 para. 65](schedule/15/paragraph/65.md)
+    - Alteration of agreements by court after death of one party
+      - [Sch. 15 para. 66](schedule/15/paragraph/66.md)
+  - Part 13 Miscellaneous and supplementary
+    - Avoidance of transactions intended to prevent or reduce financial relief
+      - [Sch. 15 para. 67](schedule/15/paragraph/67.md)
+      - [Sch. 15 para. 68](schedule/15/paragraph/68.md)
+      - [Sch. 15 para. 69](schedule/15/paragraph/69.md)
+      - [Sch. 15 para. 70](schedule/15/paragraph/70.md)
+    - Direction for settlement of instrument for securing payments or effecting property adjustment
+      - [Sch. 15 para. 71](schedule/15/paragraph/71.md)
+    - Settlement, etc., made in compliance with a property adjustment order may be avoided on bankruptcy of settlor
+      - [Sch. 15 para. 72](schedule/15/paragraph/72.md)
+    - Payments, etc., under order made in favour of person suffering from mental disorder
+      - [Sch. 15 para. 73](schedule/15/paragraph/73.md)
+    - Appeals relating to pension sharing orders which have taken effect
+      - [Sch. 15 para. 74](schedule/15/paragraph/74.md)
+    - Appeals relating to pension compensation sharing orders which have taken effect
+      - [Sch. 15 para. 74A](schedule/15/paragraph/74A.md)
+    - Interpretation
+      - [Sch. 15 para. 75](schedule/15/paragraph/75.md)
+- SCHEDULE 16 Financial relief in court of summary jurisdiction etc.: Northern Ireland
+  - Part 1 Failure to maintain etc.: financial provision
+    - Circumstances in which orders under this Part may be made
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - The orders: periodical and secured periodical payments and lump sums
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - Particular provision that may be made by lump sum orders
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - Matters to which court is to have regard in exercising its powers under this Part – general
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - Particular matters to be taken into account when exercising powers in relation to civil partners
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - Particular matters to be taken into account when exercising powers in relation to children
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - Reconciliation
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - Refusal of order in case more suitable for High Court
+      - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Part 2 Orders for agreed financial provision
+    - Orders for payments which have been agreed by the parties
+      - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - Meaning of “financial provision” and of references to specified financial provision
+      - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - Evidence to be produced where respondent not present etc.
+      - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - Exercise of powers in relation to children
+      - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - Power to make alternative orders
+      - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - Request for order under this Part in proceedings under Part 1
+      - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - Part 3 Orders of court where civil partners living apart by agreement
+    - Powers of court where civil partners are living apart by agreement
+      - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - The orders that may be made under this Part
+      - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - Restrictions on orders under this Part
+      - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - Relationship with powers under Part 1
+      - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - Matters to be taken into consideration
+      - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - Part 4 Interim orders
+    - Circumstances in which interim orders may be made
+      - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - Meaning of interim order
+      - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - When interim order may start
+      - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - Payments which can be treated as having been paid on account
+      - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - When interim order ceases to have effect
+      - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - Supplementary
+      - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+  - Part 5 Commencement and duration of orders under Parts 1, 2 and 3
+    - Duration of periodical payments order for a civil partner
+      - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - Age limit on making orders for financial provision for children and duration of such orders
+      - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - Application of paragraphs 26 and 27 to Part 2 orders
+      - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - Effect on certain orders of parties living together
+      - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+  - Part 6 Variation etc. of orders
+    - Power to vary, revoke, suspend or revive order
+      - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - Powers to order lump sum on variation
+      - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - Power to specify when order as varied is to take effect
+      - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+      - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - Matters to which court is to have regard in exercising powers under this Part
+      - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - Variation of orders for periodical payments: further provisions
+      - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+      - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+      - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+      - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+    - Persons who may apply under this Part
+      - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - Revival of orders for periodical payments
+      - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - Variation of instalments or remission of lump sum
+      - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - Supplementary provisions with respect to variation and revocation of orders
+      - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+  - Part 7 Arrears and repayments
+    - Enforcement etc. of orders for payment of money
+      - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+    - Orders for repayment after cessation of order because of subsequent civil partnership etc.
+      - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+  - Part 8 Supplementary
+    - Restrictions on making of orders under this Schedule: welfare of children
+      - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+    - Application of certain provisions of the Domestic Proceedings (Northern Ireland) Order 1980
+      - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - Interpretation
+      - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+- SCHEDULE 17 Financial relief in Northern Ireland after overseas dissolution etc. of a civil partnership
+  - Part 1 Financial relief
+    - Part applies where civil partnership has been dissolved etc. overseas
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Either civil partner may make application for financial relief
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - No application after formation of subsequent civil partnership or marriage
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Leave of court required for making of application
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Interim orders for maintenance
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Paragraphs 7 and 8 apply where application made for relief under paragraph 9 or 13
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Jurisdiction of the court
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Duty of the court to consider whether Northern Ireland is appropriate venue for application
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Orders for financial provision, property adjustment, pension sharing and pension compensation sharing
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Matters to which court is to have regard in exercising its powers under paragraph 9
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Restriction of powers under paragraph 9 where jurisdiction depends on civil partnership home in Northern Ireland
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Consent orders under paragraph 9
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Orders for transfers of tenancies of dwelling-houses
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Application to orders under paragraphs 5 and 9 of provisions of Schedule 15
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Avoidance of transactions designed to defeat claims under paragraphs 5 and 9
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - Presumptions for the purposes of paragraph 15
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+  - Part 2 Steps to prevent avoidance prior to application for leave under paragraph 4
+    - Prevention of transactions intended to defeat prospective claims under paragraphs 5 and 9
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+  - Part 3 Supplementary
+    - Paragraphs 15 to 17: meaning of “disposition” and saving
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - Interpretation of Schedule
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+- SCHEDULE 18 Housing and tenancies: Northern Ireland
+  - Rent (Northern Ireland) Order 1978 (S.I. 1978/1050 (N.I. 20))
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Housing (Northern Ireland) Order 1981 (S.I. 1981/156 (N.I. 3))
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Housing (Northern Ireland) Order 1983 (S.I. 1983/1118 (N.I. 15))
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - Housing (Northern Ireland) Order 2003 (S.I. 2003/412 (N.I. 2))
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+- SCHEDULE 19 Family homes and domestic violence: Northern Ireland
+  - Part 1 Amendments of the Family Homes and Domestic Violence (Northern Ireland) Order (SI 1998/1071 (NI 6))
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+    - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+    - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+  - Part 2 Consequential amendments
+    - Land Registration Act (Northern Ireland) 1970 (c. 18)
+      - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
+    - Registration of Deeds Act (Northern Ireland) 1970 (c. 25)
+      - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+    - Land Acquisition and Compensation (Northern Ireland) Order 1973 (S.I. 1973/1896 (N.I. 21))
+      - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
+    - Rent (Northern Ireland) Order 1978 (S.I. 1978/1050 (N.I. 20))
+      - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
+    - Housing (Northern Ireland) Order 1983 (S.I. 1983/1118 (N.I. 15))
+      - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
+      - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+    - Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))
+      - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
+      - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
+  - Part 3 Transitional provision
+    - [Sch. 19 para. 30](schedule/19/paragraph/30.md)
+- SCHEDULE 20 Meaning of overseas relationship: specified relationships
+  - Part 1
+  - PART 2 Opposite-sex relationships
+- SCHEDULE 21 References to stepchildren etc. in existing Acts
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 2A](schedule/21/paragraph/2A.md)
+  - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+  - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - [Sch. 21 para. 11A](schedule/21/paragraph/11A.md)
+  - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+  - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+  - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+  - [Sch. 21 para. 15A](schedule/21/paragraph/15A.md)
+  - [Sch. 21 para. 15B](schedule/21/paragraph/15B.md)
+  - [Sch. 21 para. 15C](schedule/21/paragraph/15C.md)
+  - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+  - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+  - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+  - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+  - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+  - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+  - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+  - [Sch. 21 para. 22A](schedule/21/paragraph/22A.md)
+  - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+  - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+  - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+  - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+  - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+  - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+  - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+  - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+  - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+  - [Sch. 21 para. 31A](schedule/21/paragraph/31A.md)
+  - [Sch. 21 para. 32](schedule/21/paragraph/32.md)
+  - [Sch. 21 para. 33](schedule/21/paragraph/33.md)
+  - [Sch. 21 para. 34](schedule/21/paragraph/34.md)
+  - [Sch. 21 para. 35](schedule/21/paragraph/35.md)
+  - [Sch. 21 para. 35A](schedule/21/paragraph/35A.md)
+  - [Sch. 21 para. 36](schedule/21/paragraph/36.md)
+  - [Sch. 21 para. 37](schedule/21/paragraph/37.md)
+  - [Sch. 21 para. 38](schedule/21/paragraph/38.md)
+  - [Sch. 21 para. 39](schedule/21/paragraph/39.md)
+  - [Sch. 21 para. 40](schedule/21/paragraph/40.md)
+  - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
+  - [Sch. 21 para. 42](schedule/21/paragraph/42.md)
+  - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
+  - [Sch. 21 para. 44](schedule/21/paragraph/44.md)
+  - [Sch. 21 para. 45](schedule/21/paragraph/45.md)
+  - [Sch. 21 para. 46](schedule/21/paragraph/46.md)
+  - [Sch. 21 para. 47](schedule/21/paragraph/47.md)
+  - [Sch. 21 para. 48](schedule/21/paragraph/48.md)
+  - [Sch. 21 para. 49](schedule/21/paragraph/49.md)
+  - [Sch. 21 para. 49A](schedule/21/paragraph/49A.md)
+  - [Sch. 21 para. 50](schedule/21/paragraph/50.md)
+  - [Sch. 21 para. 51](schedule/21/paragraph/51.md)
+  - [Sch. 21 para. 52](schedule/21/paragraph/52.md)
+  - [Sch. 21 para. 53](schedule/21/paragraph/53.md)
+  - [Sch. 21 para. 54](schedule/21/paragraph/54.md)
+  - [Sch. 21 para. 55](schedule/21/paragraph/55.md)
+  - [Sch. 21 para. 56](schedule/21/paragraph/56.md)
+  - [Sch. 21 para. 57](schedule/21/paragraph/57.md)
+  - [Sch. 21 para. 58](schedule/21/paragraph/58.md)
+  - [Sch. 21 para. 59](schedule/21/paragraph/59.md)
+  - [Sch. 21 para. 60](schedule/21/paragraph/60.md)
+  - [Sch. 21 para. 61](schedule/21/paragraph/61.md)
+  - [Sch. 21 para. 62](schedule/21/paragraph/62.md)
+  - [Sch. 21 para. 63](schedule/21/paragraph/63.md)
+- SCHEDULE 22 References to stepchildren etc. in existing Northern Ireland legislation
+  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - [Sch. 22 para. 6A](schedule/22/paragraph/6A.md)
+  - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+  - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+  - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+  - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+  - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+  - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+  - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+  - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+  - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+  - [Sch. 22 para. 19](schedule/22/paragraph/19.md)
+  - [Sch. 22 para. 20](schedule/22/paragraph/20.md)
+  - [Sch. 22 para. 21](schedule/22/paragraph/21.md)
+  - [Sch. 22 para. 22](schedule/22/paragraph/22.md)
+  - [Sch. 22 para. 23](schedule/22/paragraph/23.md)
+  - [Sch. 22 para. 24](schedule/22/paragraph/24.md)
+  - [Sch. 22 para. 25](schedule/22/paragraph/25.md)
+  - [Sch. 22 para. 26](schedule/22/paragraph/26.md)
+- SCHEDULE 23 Immigration control and formation of civil partnerships
+  - Part 1 Introduction
+    - Application of Schedule
+      - [Sch. 23 para. A1](schedule/23/paragraph/A1.md)
+      - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - The qualifying condition
+      - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - Part 2 England and Wales
+    - Application of this Part
+      - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - Procedure for giving notice of proposed civil partnership
+      - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - Declaration
+      - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - Recording of notice
+      - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - Supplementary
+      - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - Part 3 Scotland
+    - Application of this Part
+      - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - Procedure for giving notice of proposed civil partnership
+      - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - Pre-condition for making entry in civil partnership notice book etc.
+      - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - Supplementary
+      - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+  - Part 4 Northern Ireland
+    - Application of this Part
+      - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - Procedure for giving civil partnership notices
+      - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - Accompanying statement as to the qualifying condition
+      - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+    - Civil partnership notice book and civil partnership schedule
+      - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+    - Supplementary
+      - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+  - Part 5 Regulations
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+- SCHEDULE 24 Social security, child support and tax credits
+  - Part 1 Amendments of the Child Support Act 1991 (c. 48)
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+    - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+    - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+    - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+  - Part 2 Amendments of the Child Support (Northern Ireland) Order 1991 (S.I. 1991/ 2628 (N.I. 23))
+    - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+    - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
+    - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
+  - Part 3 Amendments of the Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
+    - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
+    - [Sch. 24 para. 15](schedule/24/paragraph/15.md)
+    - [Sch. 24 para. 16](schedule/24/paragraph/16.md)
+    - [Sch. 24 para. 17](schedule/24/paragraph/17.md)
+    - [Sch. 24 para. 18](schedule/24/paragraph/18.md)
+    - [Sch. 24 para. 19](schedule/24/paragraph/19.md)
+    - [Sch. 24 para. 20](schedule/24/paragraph/20.md)
+    - [Sch. 24 para. 21](schedule/24/paragraph/21.md)
+    - [Sch. 24 para. 22](schedule/24/paragraph/22.md)
+    - [Sch. 24 para. 23](schedule/24/paragraph/23.md)
+    - [Sch. 24 para. 24](schedule/24/paragraph/24.md)
+    - [Sch. 24 para. 25](schedule/24/paragraph/25.md)
+    - [Sch. 24 para. 26](schedule/24/paragraph/26.md)
+    - [Sch. 24 para. 27](schedule/24/paragraph/27.md)
+    - [Sch. 24 para. 28](schedule/24/paragraph/28.md)
+    - [Sch. 24 para. 29](schedule/24/paragraph/29.md)
+    - [Sch. 24 para. 30](schedule/24/paragraph/30.md)
+    - [Sch. 24 para. 31](schedule/24/paragraph/31.md)
+    - [Sch. 24 para. 32](schedule/24/paragraph/32.md)
+    - [Sch. 24 para. 33](schedule/24/paragraph/33.md)
+    - [Sch. 24 para. 34](schedule/24/paragraph/34.md)
+    - [Sch. 24 para. 35](schedule/24/paragraph/35.md)
+    - [Sch. 24 para. 36](schedule/24/paragraph/36.md)
+    - [Sch. 24 para. 37](schedule/24/paragraph/37.md)
+    - [Sch. 24 para. 38](schedule/24/paragraph/38.md)
+    - [Sch. 24 para. 39](schedule/24/paragraph/39.md)
+    - [Sch. 24 para. 40](schedule/24/paragraph/40.md)
+    - [Sch. 24 para. 41](schedule/24/paragraph/41.md)
+    - [Sch. 24 para. 42](schedule/24/paragraph/42.md)
+    - [Sch. 24 para. 43](schedule/24/paragraph/43.md)
+    - [Sch. 24 para. 44](schedule/24/paragraph/44.md)
+    - [Sch. 24 para. 45](schedule/24/paragraph/45.md)
+    - [Sch. 24 para. 46](schedule/24/paragraph/46.md)
+    - [Sch. 24 para. 47](schedule/24/paragraph/47.md)
+    - [Sch. 24 para. 48](schedule/24/paragraph/48.md)
+    - [Sch. 24 para. 49](schedule/24/paragraph/49.md)
+    - [Sch. 24 para. 50](schedule/24/paragraph/50.md)
+    - [Sch. 24 para. 51](schedule/24/paragraph/51.md)
+    - [Sch. 24 para. 52](schedule/24/paragraph/52.md)
+    - [Sch. 24 para. 53](schedule/24/paragraph/53.md)
+    - [Sch. 24 para. 54](schedule/24/paragraph/54.md)
+  - Part 4 Amendments of the Social Security Administration Act 1992 (c. 5)
+    - [Sch. 24 para. 55](schedule/24/paragraph/55.md)
+    - [Sch. 24 para. 56](schedule/24/paragraph/56.md)
+    - [Sch. 24 para. 57](schedule/24/paragraph/57.md)
+    - [Sch. 24 para. 58](schedule/24/paragraph/58.md)
+    - [Sch. 24 para. 59](schedule/24/paragraph/59.md)
+    - [Sch. 24 para. 60](schedule/24/paragraph/60.md)
+    - [Sch. 24 para. 61](schedule/24/paragraph/61.md)
+    - [Sch. 24 para. 62](schedule/24/paragraph/62.md)
+    - [Sch. 24 para. 63](schedule/24/paragraph/63.md)
+    - [Sch. 24 para. 64](schedule/24/paragraph/64.md)
+    - [Sch. 24 para. 65](schedule/24/paragraph/65.md)
+    - [Sch. 24 para. 66](schedule/24/paragraph/66.md)
+  - Part 5 Amendments of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 24 para. 67](schedule/24/paragraph/67.md)
+    - [Sch. 24 para. 68](schedule/24/paragraph/68.md)
+    - [Sch. 24 para. 69](schedule/24/paragraph/69.md)
+    - [Sch. 24 para. 70](schedule/24/paragraph/70.md)
+    - [Sch. 24 para. 71](schedule/24/paragraph/71.md)
+    - [Sch. 24 para. 72](schedule/24/paragraph/72.md)
+    - [Sch. 24 para. 73](schedule/24/paragraph/73.md)
+    - [Sch. 24 para. 74](schedule/24/paragraph/74.md)
+    - [Sch. 24 para. 75](schedule/24/paragraph/75.md)
+    - [Sch. 24 para. 76](schedule/24/paragraph/76.md)
+    - [Sch. 24 para. 77](schedule/24/paragraph/77.md)
+    - [Sch. 24 para. 78](schedule/24/paragraph/78.md)
+    - [Sch. 24 para. 79](schedule/24/paragraph/79.md)
+    - [Sch. 24 para. 80](schedule/24/paragraph/80.md)
+    - [Sch. 24 para. 81](schedule/24/paragraph/81.md)
+    - [Sch. 24 para. 82](schedule/24/paragraph/82.md)
+    - [Sch. 24 para. 83](schedule/24/paragraph/83.md)
+    - [Sch. 24 para. 84](schedule/24/paragraph/84.md)
+    - [Sch. 24 para. 85](schedule/24/paragraph/85.md)
+    - [Sch. 24 para. 86](schedule/24/paragraph/86.md)
+    - [Sch. 24 para. 87](schedule/24/paragraph/87.md)
+    - [Sch. 24 para. 88](schedule/24/paragraph/88.md)
+    - [Sch. 24 para. 89](schedule/24/paragraph/89.md)
+    - [Sch. 24 para. 90](schedule/24/paragraph/90.md)
+    - [Sch. 24 para. 91](schedule/24/paragraph/91.md)
+    - [Sch. 24 para. 92](schedule/24/paragraph/92.md)
+    - [Sch. 24 para. 93](schedule/24/paragraph/93.md)
+    - [Sch. 24 para. 94](schedule/24/paragraph/94.md)
+    - [Sch. 24 para. 95](schedule/24/paragraph/95.md)
+    - [Sch. 24 para. 96](schedule/24/paragraph/96.md)
+    - [Sch. 24 para. 97](schedule/24/paragraph/97.md)
+    - [Sch. 24 para. 98](schedule/24/paragraph/98.md)
+    - [Sch. 24 para. 99](schedule/24/paragraph/99.md)
+    - [Sch. 24 para. 100](schedule/24/paragraph/100.md)
+    - [Sch. 24 para. 101](schedule/24/paragraph/101.md)
+    - [Sch. 24 para. 102](schedule/24/paragraph/102.md)
+    - [Sch. 24 para. 103](schedule/24/paragraph/103.md)
+    - [Sch. 24 para. 104](schedule/24/paragraph/104.md)
+    - [Sch. 24 para. 105](schedule/24/paragraph/105.md)
+    - [Sch. 24 para. 106](schedule/24/paragraph/106.md)
+  - Part 6 Amendments of the Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 24 para. 107](schedule/24/paragraph/107.md)
+    - [Sch. 24 para. 108](schedule/24/paragraph/108.md)
+    - [Sch. 24 para. 109](schedule/24/paragraph/109.md)
+    - [Sch. 24 para. 110](schedule/24/paragraph/110.md)
+    - [Sch. 24 para. 111](schedule/24/paragraph/111.md)
+    - [Sch. 24 para. 112](schedule/24/paragraph/112.md)
+    - [Sch. 24 para. 113](schedule/24/paragraph/113.md)
+    - [Sch. 24 para. 114](schedule/24/paragraph/114.md)
+    - [Sch. 24 para. 115](schedule/24/paragraph/115.md)
+    - [Sch. 24 para. 116](schedule/24/paragraph/116.md)
+    - [Sch. 24 para. 117](schedule/24/paragraph/117.md)
+  - Part 7 Amendments of the Jobseekers Act 1995 (c. 18)
+    - [Sch. 24 para. 118](schedule/24/paragraph/118.md)
+    - [Sch. 24 para. 119](schedule/24/paragraph/119.md)
+    - [Sch. 24 para. 120](schedule/24/paragraph/120.md)
+    - [Sch. 24 para. 121](schedule/24/paragraph/121.md)
+    - [Sch. 24 para. 122](schedule/24/paragraph/122.md)
+    - [Sch. 24 para. 123](schedule/24/paragraph/123.md)
+    - [Sch. 24 para. 124](schedule/24/paragraph/124.md)
+    - [Sch. 24 para. 125](schedule/24/paragraph/125.md)
+  - Part 8 Amendments of the Child Support Act 1995 (c. 34)
+    - [Sch. 24 para. 126](schedule/24/paragraph/126.md)
+    - [Sch. 24 para. 127](schedule/24/paragraph/127.md)
+  - Part 9 Amendments of the Child Support (Northern Ireland) Order 1995 (S.I. 1995/ 2702 (N.I. 13))
+    - [Sch. 24 para. 128](schedule/24/paragraph/128.md)
+    - [Sch. 24 para. 129](schedule/24/paragraph/129.md)
+  - Part 10 Amendments of the Jobseekers (Northern Ireland) Order 1995 (S.I. 1995/2705 (N.I. 15))
+    - [Sch. 24 para. 130](schedule/24/paragraph/130.md)
+    - [Sch. 24 para. 131](schedule/24/paragraph/131.md)
+    - [Sch. 24 para. 132](schedule/24/paragraph/132.md)
+    - [Sch. 24 para. 133](schedule/24/paragraph/133.md)
+    - [Sch. 24 para. 134](schedule/24/paragraph/134.md)
+    - [Sch. 24 para. 135](schedule/24/paragraph/135.md)
+    - [Sch. 24 para. 136](schedule/24/paragraph/136.md)
+    - [Sch. 24 para. 137](schedule/24/paragraph/137.md)
+  - Part 11 Amendments of the Social Security Act 1998 (c. 14)
+    - [Sch. 24 para. 138](schedule/24/paragraph/138.md)
+  - Part 12 Amendments of the Social Security (Northern Ireland) Order 1998 (S.I. 1998/ 1506 (N.I. 10))
+    - [Sch. 24 para. 139](schedule/24/paragraph/139.md)
+  - Part 13 Amendments of the State Pension Credit Act 2002 (c. 16)
+    - [Sch. 24 para. 140](schedule/24/paragraph/140.md)
+    - [Sch. 24 para. 141](schedule/24/paragraph/141.md)
+    - [Sch. 24 para. 142](schedule/24/paragraph/142.md)
+    - [Sch. 24 para. 143](schedule/24/paragraph/143.md)
+  - Part 14 Amendments of the Tax Credits Act 2002 (c. 21)
+    - [Sch. 24 para. 144](schedule/24/paragraph/144.md)
+    - [Sch. 24 para. 145](schedule/24/paragraph/145.md)
+    - [Sch. 24 para. 146](schedule/24/paragraph/146.md)
+    - [Sch. 24 para. 147](schedule/24/paragraph/147.md)
+  - Part 15 Amendments of the State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))
+    - [Sch. 24 para. 148](schedule/24/paragraph/148.md)
+    - [Sch. 24 para. 149](schedule/24/paragraph/149.md)
+    - [Sch. 24 para. 150](schedule/24/paragraph/150.md)
+    - [Sch. 24 para. 151](schedule/24/paragraph/151.md)
+- SCHEDULE 25 Amendment of certain enactments relating to pensions
+  - Fire Services Act 1947 (c. 41)
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - House of Commons Members’ Fund Act 1948 (c. 36)
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+  - Parliamentary and other Pensions Act 1972 (c. 48)
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+  - Theatres Trust Act 1976 (c. 27)
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+- SCHEDULE 26 Amendment of certain enactments relating to the armed forces
+  - Greenwich Hospital Act 1865 (c. 89)
+    - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+  - Navy and Marines (Property of Deceased) Act 1865 (c. 111)
+    - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+  - Pensions Commutation Act 1871 (c. 36)
+    - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+  - Greenwich Hospital Act 1883 (c. 32)
+    - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+  - Pensions and Yeomanry Pay Act 1884 (c. 55)
+    - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+  - Regimental Debts Act 1893 (c. 5)
+    - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+    - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+  - Naval Medical Compassionate Fund Act 1915 (c. 28)
+    - [Sch. 26 para. 8](schedule/26/paragraph/8.md)
+  - Naval and Military War Pensions, &c., (Administrative Expenses) Act 1917 (c. 14)
+    - [Sch. 26 para. 9](schedule/26/paragraph/9.md)
+  - War Pensions (Administrative Provisions) Act 1919 (c. 53)
+    - [Sch. 26 para. 10](schedule/26/paragraph/10.md)
+  - War Pensions Act 1920 (c. 23)
+    - [Sch. 26 para. 11](schedule/26/paragraph/11.md)
+    - [Sch. 26 para. 12](schedule/26/paragraph/12.md)
+  - Admiralty Pensions Act 1921 (c. 39)
+    - [Sch. 26 para. 13](schedule/26/paragraph/13.md)
+  - Greenwich Hospital Act 1942 (c. 35)
+    - [Sch. 26 para. 14](schedule/26/paragraph/14.md)
+  - Pensions Appeal Tribunals Act 1943 (c. 39)
+    - [Sch. 26 para. 15](schedule/26/paragraph/15.md)
+  - Greenwich Hospital Act 1947 (10 & 11 Geo. 6 c. 5)
+    - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
+  - Polish Resettlement Act 1947 (c. 19)
+    - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+    - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
+  - Naval Forces (Enforcement of Maintenance Liabilities) Act 1947 (c. 24)
+    - [Sch. 26 para. 19](schedule/26/paragraph/19.md)
+  - Royal Patriotic Fund Corporation Act 1950 (c. 10)
+    - [Sch. 26 para. 20](schedule/26/paragraph/20.md)
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 26 para. 21](schedule/26/paragraph/21.md)
+    - [Sch. 26 para. 22](schedule/26/paragraph/22.md)
+    - [Sch. 26 para. 23](schedule/26/paragraph/23.md)
+    - [Sch. 26 para. 24](schedule/26/paragraph/24.md)
+    - [Sch. 26 para. 25](schedule/26/paragraph/25.md)
+    - [Sch. 26 para. 26](schedule/26/paragraph/26.md)
+    - [Sch. 26 para. 27](schedule/26/paragraph/27.md)
+  - Army Act 1955 (3 & 4 Eliz. 2 c. 18)
+    - [Sch. 26 para. 28](schedule/26/paragraph/28.md)
+    - [Sch. 26 para. 29](schedule/26/paragraph/29.md)
+  - Air Force Act 1955 (3 & 4 Eliz. 2 c. 19)
+    - [Sch. 26 para. 30](schedule/26/paragraph/30.md)
+    - [Sch. 26 para. 31](schedule/26/paragraph/31.md)
+  - Naval Discipline Act 1957 (c. 53)
+    - [Sch. 26 para. 32](schedule/26/paragraph/32.md)
+  - Courts-Martial (Appeals) Act 1968 (c. 20)
+    - [Sch. 26 para. 33](schedule/26/paragraph/33.md)
+- SCHEDULE 27 Minor and consequential amendments: general
+  - Explosive Substances Act 1883 (c. 3)
+    - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - Partnership Act 1890 (c. 39)
+    - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+  - Law of Distress Amendment Act 1908 (c. 53)
+    - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+  - Census Act 1920 (c. 41)
+    - [Sch. 27 para. 4](schedule/27/paragraph/4.md)
+  - Trustee Act 1925 (c. 19)
+    - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+    - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+  - Law of Property Act 1925 (c. 20)
+    - [Sch. 27 para. 7](schedule/27/paragraph/7.md)
+  - Judicial Proceedings (Regulation of Reports) Act 1926 (c. 61)
+    - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+  - Population (Statistics) Act 1938 (c. 12)
+    - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+  - Landlord and Tenant (Requisitioned Land) Act 1942 (c. 13)
+    - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+  - Limitation (Enemies and War Prisoners) Act 1945 (c. 16)
+    - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+  - Statistics of Trade Act 1947 (c. 39)
+    - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+  - Marriage Act 1949 (c. 76)
+    - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
+    - [Sch. 27 para. 14](schedule/27/paragraph/14.md)
+    - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
+    - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+    - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+  - Maintenance Orders Act 1950 (c. 37)
+    - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+  - Births and Deaths Registration Act 1953 (c. 20)
+    - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+  - Pharmacy Act 1954 (c. 61)
+    - [Sch. 27 para. 20](schedule/27/paragraph/20.md)
+  - Registration of Births, Deaths and Marriages (Special Provisions) Act 1957 (c. 58)
+    - [Sch. 27 para. 21](schedule/27/paragraph/21.md)
+  - Maintenance Orders Act 1958 (c. 39)
+    - [Sch. 27 para. 22](schedule/27/paragraph/22.md)
+  - Offices, Shops and Railway Premises Act 1963 (c. 41)
+    - [Sch. 27 para. 23](schedule/27/paragraph/23.md)
+  - Industrial and Provident Societies Act 1965 (c. 12)
+    - [Sch. 27 para. 24](schedule/27/paragraph/24.md)
+    - [Sch. 27 para. 25](schedule/27/paragraph/25.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 27 para. 26](schedule/27/paragraph/26.md)
+  - Theft Act 1968 (c. 60)
+    - [Sch. 27 para. 27](schedule/27/paragraph/27.md)
+    - [Sch. 27 para. 28](schedule/27/paragraph/28.md)
+  - Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (c. 63)
+    - [Sch. 27 para. 29](schedule/27/paragraph/29.md)
+  - Civil Evidence Act 1968 (c. 64)
+    - [Sch. 27 para. 30](schedule/27/paragraph/30.md)
+  - Gaming Act 1968 (c. 65)
+    - [Sch. 27 para. 31](schedule/27/paragraph/31.md)
+  - Medicines Act 1968 (c. 67)
+    - [Sch. 27 para. 32](schedule/27/paragraph/32.md)
+  - Employers’ Liability (Compulsory Insurance) Act 1969 (c. 57)
+    - [Sch. 27 para. 33](schedule/27/paragraph/33.md)
+  - Administration of Justice Act 1970 (c. 31)
+    - [Sch. 27 para. 34](schedule/27/paragraph/34.md)
+  - Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 27 para. 35](schedule/27/paragraph/35.md)
+  - Criminal Damage Act 1971 (c. 48)
+    - [Sch. 27 para. 36](schedule/27/paragraph/36.md)
+  - Immigration Act 1971 (c. 77)
+    - [Sch. 27 para. 37](schedule/27/paragraph/37.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 27 para. 38](schedule/27/paragraph/38.md)
+    - [Sch. 27 para. 39](schedule/27/paragraph/39.md)
+  - Matrimonial Causes Act 1973 (c. 18)
+    - [Sch. 27 para. 40](schedule/27/paragraph/40.md)
+    - [Sch. 27 para. 41](schedule/27/paragraph/41.md)
+    - [Sch. 27 para. 42](schedule/27/paragraph/42.md)
+    - [Sch. 27 para. 43](schedule/27/paragraph/43.md)
+    - [Sch. 27 para. 44](schedule/27/paragraph/44.md)
+    - [Sch. 27 para. 45](schedule/27/paragraph/45.md)
+    - [Sch. 27 para. 46](schedule/27/paragraph/46.md)
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 27 para. 47](schedule/27/paragraph/47.md)
+  - Slaughterhouses Act 1974 (c. 3)
+    - [Sch. 27 para. 48](schedule/27/paragraph/48.md)
+  - Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 27 para. 49](schedule/27/paragraph/49.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 27 para. 50](schedule/27/paragraph/50.md)
+    - [Sch. 27 para. 51](schedule/27/paragraph/51.md)
+  - Friendly Societies Act 1974 (c. 46)
+    - [Sch. 27 para. 52](schedule/27/paragraph/52.md)
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 27 para. 53](schedule/27/paragraph/53.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 27 para. 54](schedule/27/paragraph/54.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 27 para. 55](schedule/27/paragraph/55.md)
+  - Criminal Law Act 1977 (c. 45)
+    - [Sch. 27 para. 56](schedule/27/paragraph/56.md)
+  - Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+    - [Sch. 27 para. 57](schedule/27/paragraph/57.md)
+    - [Sch. 27 para. 58](schedule/27/paragraph/58.md)
+  - Interpretation Act 1978 (c. 30)
+    - [Sch. 27 para. 59](schedule/27/paragraph/59.md)
+  - Protection of Children Act 1978 (c. 37)
+    - [Sch. 27 para. 60](schedule/27/paragraph/60.md)
+  - Credit Unions Act 1979 (c. 34)
+    - [Sch. 27 para. 61](schedule/27/paragraph/61.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 27 para. 62](schedule/27/paragraph/62.md)
+    - [Sch. 27 para. 63](schedule/27/paragraph/63.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 27 para. 64](schedule/27/paragraph/64.md)
+    - [Sch. 27 para. 65](schedule/27/paragraph/65.md)
+  - Disused Burial Grounds (Amendment) Act 1981 (c. 18)
+    - [Sch. 27 para. 66](schedule/27/paragraph/66.md)
+  - Forgery and Counterfeiting Act 1981 (c. 45)
+    - [Sch. 27 para. 67](schedule/27/paragraph/67.md)
+  - Senior Courts Act 1981(c. 54)
+    - [Sch. 27 para. 68](schedule/27/paragraph/68.md)
+    - [Sch. 27 para. 69](schedule/27/paragraph/69.md)
+    - [Sch. 27 para. 70](schedule/27/paragraph/70.md)
+  - British Nationality Act 1981 (c. 61)
+    - [Sch. 27 para. 71](schedule/27/paragraph/71.md)
+    - [Sch. 27 para. 72](schedule/27/paragraph/72.md)
+    - [Sch. 27 para. 73](schedule/27/paragraph/73.md)
+    - [Sch. 27 para. 74](schedule/27/paragraph/74.md)
+    - [Sch. 27 para. 75](schedule/27/paragraph/75.md)
+    - [Sch. 27 para. 76](schedule/27/paragraph/76.md)
+    - [Sch. 27 para. 77](schedule/27/paragraph/77.md)
+    - [Sch. 27 para. 78](schedule/27/paragraph/78.md)
+  - Forfeiture Act 1982 (c. 34)
+    - [Sch. 27 para. 79](schedule/27/paragraph/79.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 27 para. 80](schedule/27/paragraph/80.md)
+    - [Sch. 27 para. 81](schedule/27/paragraph/81.md)
+    - [Sch. 27 para. 82](schedule/27/paragraph/82.md)
+    - [Sch. 27 para. 83](schedule/27/paragraph/83.md)
+    - [Sch. 27 para. 84](schedule/27/paragraph/84.md)
+    - [Sch. 27 para. 85](schedule/27/paragraph/85.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 27 para. 86](schedule/27/paragraph/86.md)
+  - Mobile Homes Act 1983 (c. 34)
+    - [Sch. 27 para. 87](schedule/27/paragraph/87.md)
+    - [Sch. 27 para. 88](schedule/27/paragraph/88.md)
+  - Dentists Act 1984 (c. 24)
+    - [Sch. 27 para. 89](schedule/27/paragraph/89.md)
+  - Matrimonial and Family Proceedings Act 1984 (c. 42)
+    - [Sch. 27 para. 90](schedule/27/paragraph/90.md)
+    - [Sch. 27 para. 91](schedule/27/paragraph/91.md)
+    - [Sch. 27 para. 92](schedule/27/paragraph/92.md)
+    - [Sch. 27 para. 93](schedule/27/paragraph/93.md)
+    - [Sch. 27 para. 94](schedule/27/paragraph/94.md)
+    - [Sch. 27 para. 95](schedule/27/paragraph/95.md)
+    - [Sch. 27 para. 96](schedule/27/paragraph/96.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 27 para. 97](schedule/27/paragraph/97.md)
+    - [Sch. 27 para. 98](schedule/27/paragraph/98.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 27 para. 99](schedule/27/paragraph/99.md)
+    - [Sch. 27 para. 100](schedule/27/paragraph/100.md)
+    - [Sch. 27 para. 101](schedule/27/paragraph/101.md)
+    - [Sch. 27 para. 102](schedule/27/paragraph/102.md)
+    - [Sch. 27 para. 103](schedule/27/paragraph/103.md)
+    - [Sch. 27 para. 104](schedule/27/paragraph/104.md)
+    - [Sch. 27 para. 105](schedule/27/paragraph/105.md)
+  - Enduring Powers of Attorney Act 1985 (c. 29)
+    - [Sch. 27 para. 106](schedule/27/paragraph/106.md)
+    - [Sch. 27 para. 107](schedule/27/paragraph/107.md)
+    - [Sch. 27 para. 108](schedule/27/paragraph/108.md)
+  - Food and Environment Protection Act 1985 (c. 48)
+    - [Sch. 27 para. 109](schedule/27/paragraph/109.md)
+  - Child Abduction and Custody Act 1985 (c. 60)
+    - [Sch. 27 para. 110](schedule/27/paragraph/110.md)
+  - Airports Act 1986 (c. 31)
+    - [Sch. 27 para. 111](schedule/27/paragraph/111.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 27 para. 112](schedule/27/paragraph/112.md)
+    - [Sch. 27 para. 113](schedule/27/paragraph/113.md)
+    - [Sch. 27 para. 114](schedule/27/paragraph/114.md)
+    - [Sch. 27 para. 115](schedule/27/paragraph/115.md)
+    - [Sch. 27 para. 116](schedule/27/paragraph/116.md)
+    - [Sch. 27 para. 117](schedule/27/paragraph/117.md)
+    - [Sch. 27 para. 118](schedule/27/paragraph/118.md)
+    - [Sch. 27 para. 119](schedule/27/paragraph/119.md)
+    - [Sch. 27 para. 120](schedule/27/paragraph/120.md)
+    - [Sch. 27 para. 121](schedule/27/paragraph/121.md)
+    - [Sch. 27 para. 122](schedule/27/paragraph/122.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 27 para. 123](schedule/27/paragraph/123.md)
+  - Family Law Act 1986 (c. 55)
+    - [Sch. 27 para. 124](schedule/27/paragraph/124.md)
+    - [Sch. 27 para. 125](schedule/27/paragraph/125.md)
+  - Consumer Protection Act 1987 (c. 43)
+    - [Sch. 27 para. 126](schedule/27/paragraph/126.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 27 para. 127](schedule/27/paragraph/127.md)
+  - Companies Act 1989 (c. 40)
+    - [Sch. 27 para. 128](schedule/27/paragraph/128.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 27 para. 129](schedule/27/paragraph/129.md)
+    - [Sch. 27 para. 130](schedule/27/paragraph/130.md)
+    - [Sch. 27 para. 131](schedule/27/paragraph/131.md)
+    - [Sch. 27 para. 132](schedule/27/paragraph/132.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 27 para. 133](schedule/27/paragraph/133.md)
+    - [Sch. 27 para. 134](schedule/27/paragraph/134.md)
+  - Opticians Act 1989 (c. 44)
+    - [Sch. 27 para. 135](schedule/27/paragraph/135.md)
+  - Food Safety Act 1990 (c. 16)
+    - [Sch. 27 para. 136](schedule/27/paragraph/136.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 27 para. 137](schedule/27/paragraph/137.md)
+    - [Sch. 27 para. 138](schedule/27/paragraph/138.md)
+  - Broadcasting Act 1990 (c. 42)
+    - [Sch. 27 para. 139](schedule/27/paragraph/139.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 27 para. 140](schedule/27/paragraph/140.md)
+  - Friendly Societies Act 1992 (c. 40)
+    - [Sch. 27 para. 141](schedule/27/paragraph/141.md)
+    - [Sch. 27 para. 142](schedule/27/paragraph/142.md)
+    - [Sch. 27 para. 143](schedule/27/paragraph/143.md)
+  - Trade Union and Labour Relations Act 1992 (c. 52)
+    - [Sch. 27 para. 144](schedule/27/paragraph/144.md)
+    - [Sch. 27 para. 145](schedule/27/paragraph/145.md)
+    - [Sch. 27 para. 146](schedule/27/paragraph/146.md)
+  - Charities Act 1993 (c. 10)
+    - [Sch. 27 para. 147](schedule/27/paragraph/147.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 27 para. 148](schedule/27/paragraph/148.md)
+  - Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 27 para. 149](schedule/27/paragraph/149.md)
+  - Disability Discrimination Act 1995 (c. 50)
+    - [Sch. 27 para. 150](schedule/27/paragraph/150.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 27 para. 151](schedule/27/paragraph/151.md)
+  - Family Law Act 1996 (c. 27)
+    - [Sch. 27 para. 152](schedule/27/paragraph/152.md)
+  - Trusts of Land and Appointment of Trustees Act 1996 (c. 47)
+    - [Sch. 27 para. 153](schedule/27/paragraph/153.md)
+  - Civil Procedure Act 1997 (c. 12)
+    - [Sch. 27 para. 154](schedule/27/paragraph/154.md)
+  - National Minimum Wage Act 1998 (c. 39)
+    - [Sch. 27 para. 155](schedule/27/paragraph/155.md)
+  - Access to Justice Act 1999 (c. 22)
+    - [Sch. 27 para. 156](schedule/27/paragraph/156.md)
+  - Welfare Reform and Pensions Act 1999 (c. 30)
+    - [Sch. 27 para. 157](schedule/27/paragraph/157.md)
+    - [Sch. 27 para. 158](schedule/27/paragraph/158.md)
+    - [Sch. 27 para. 159](schedule/27/paragraph/159.md)
+    - [Sch. 27 para. 160](schedule/27/paragraph/160.md)
+    - [Sch. 27 para. 161](schedule/27/paragraph/161.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 27 para. 162](schedule/27/paragraph/162.md)
+    - [Sch. 27 para. 163](schedule/27/paragraph/163.md)
+  - Representation of the People Act 2000 (c. 2)
+    - [Sch. 27 para. 164](schedule/27/paragraph/164.md)
+  - Financial Services and Markets Act 2000 (c. 8)
+    - [Sch. 27 para. 165](schedule/27/paragraph/165.md)
+    - [Sch. 27 para. 166](schedule/27/paragraph/166.md)
+  - Land Registration Act 2002 (c. 9)
+    - [Sch. 27 para. 167](schedule/27/paragraph/167.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 27 para. 168](schedule/27/paragraph/168.md)
+    - [Sch. 27 para. 169](schedule/27/paragraph/169.md)
+  - Licensing Act 2003 (c. 17)
+    - [Sch. 27 para. 170](schedule/27/paragraph/170.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 27 para. 171](schedule/27/paragraph/171.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 27 para. 172](schedule/27/paragraph/172.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 27 para. 173](schedule/27/paragraph/173.md)
+    - [Sch. 27 para. 174](schedule/27/paragraph/174.md)
+    - [Sch. 27 para. 175](schedule/27/paragraph/175.md)
+- SCHEDULE 28 Consequential amendments: Scotland
+  - Part 1 Amendments of the Succession (Scotland) Act 1964 (c. 41)
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+    - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+    - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+  - Part 2 Amendments of the Family Law (Scotland) Act 1985 (c. 37)
+    - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+    - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+    - [Sch. 28 para. 15](schedule/28/paragraph/15.md)
+    - [Sch. 28 para. 16](schedule/28/paragraph/16.md)
+    - [Sch. 28 para. 17](schedule/28/paragraph/17.md)
+    - [Sch. 28 para. 18](schedule/28/paragraph/18.md)
+    - [Sch. 28 para. 19](schedule/28/paragraph/19.md)
+    - [Sch. 28 para. 20](schedule/28/paragraph/20.md)
+    - [Sch. 28 para. 21](schedule/28/paragraph/21.md)
+    - [Sch. 28 para. 22](schedule/28/paragraph/22.md)
+    - [Sch. 28 para. 23](schedule/28/paragraph/23.md)
+    - [Sch. 28 para. 24](schedule/28/paragraph/24.md)
+    - [Sch. 28 para. 25](schedule/28/paragraph/25.md)
+    - [Sch. 28 para. 26](schedule/28/paragraph/26.md)
+    - [Sch. 28 para. 27](schedule/28/paragraph/27.md)
+    - [Sch. 28 para. 28](schedule/28/paragraph/28.md)
+    - [Sch. 28 para. 29](schedule/28/paragraph/29.md)
+    - [Sch. 28 para. 30](schedule/28/paragraph/30.md)
+  - Part 3 Amendments of the Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 28 para. 31](schedule/28/paragraph/31.md)
+    - [Sch. 28 para. 32](schedule/28/paragraph/32.md)
+    - [Sch. 28 para. 33](schedule/28/paragraph/33.md)
+    - [Sch. 28 para. 34](schedule/28/paragraph/34.md)
+    - [Sch. 28 para. 35](schedule/28/paragraph/35.md)
+    - [Sch. 28 para. 36](schedule/28/paragraph/36.md)
+    - [Sch. 28 para. 37](schedule/28/paragraph/37.md)
+    - [Sch. 28 para. 38](schedule/28/paragraph/38.md)
+    - [Sch. 28 para. 39](schedule/28/paragraph/39.md)
+    - [Sch. 28 para. 40](schedule/28/paragraph/40.md)
+    - [Sch. 28 para. 41](schedule/28/paragraph/41.md)
+  - Part 4 Miscellaneous amendments
+    - Damages (Scotland) Act 1976 (c. 13)
+      - [Sch. 28 para. 42](schedule/28/paragraph/42.md)
+    - Marriage (Scotland) Act 1977 (c. 15)
+      - [Sch. 28 para. 43](schedule/28/paragraph/43.md)
+      - [Sch. 28 para. 44](schedule/28/paragraph/44.md)
+    - Presumption of Death (Scotland) Act 1977 (c. 27)
+      - [Sch. 28 para. 45](schedule/28/paragraph/45.md)
+      - [Sch. 28 para. 46](schedule/28/paragraph/46.md)
+    - Administration of Justice Act 1982 (c. 53)
+      - [Sch. 28 para. 47](schedule/28/paragraph/47.md)
+    - Rent (Scotland) Act 1984 (c. 58)
+      - [Sch. 28 para. 48](schedule/28/paragraph/48.md)
+      - [Sch. 28 para. 49](schedule/28/paragraph/49.md)
+    - Mental Health (Scotland) Act 1984 (c. 36)
+      - [Sch. 28 para. 50](schedule/28/paragraph/50.md)
+      - [Sch. 28 para. 51](schedule/28/paragraph/51.md)
+    - Housing Associations Act 1985 (c. 69)
+      - [Sch. 28 para. 52](schedule/28/paragraph/52.md)
+    - Debtors (Scotland) Act 1987 (c. 18)
+      - [Sch. 28 para. 53](schedule/28/paragraph/53.md)
+    - Housing (Scotland) Act 1987 (c. 26)
+      - [Sch. 28 para. 54](schedule/28/paragraph/54.md)
+    - Civil Evidence (Scotland) Act 1988 (c. 32)
+      - [Sch. 28 para. 55](schedule/28/paragraph/55.md)
+    - Housing (Scotland) Act 1988 (c. 43)
+      - [Sch. 28 para. 56](schedule/28/paragraph/56.md)
+      - [Sch. 28 para. 57](schedule/28/paragraph/57.md)
+    - Crofters (Scotland) Act 1993 (c. 44)
+      - [Sch. 28 para. 58](schedule/28/paragraph/58.md)
+    - Civil Evidence (Family Mediation) (Scotland) Act 1995 (c. 6)
+      - [Sch. 28 para. 59](schedule/28/paragraph/59.md)
+    - Children (Scotland) Act 1995 (c. 36)
+      - [Sch. 28 para. 60](schedule/28/paragraph/60.md)
+      - [Sch. 28 para. 61](schedule/28/paragraph/61.md)
+    - Sexual Offences (Amendment) Act 2000 (c. 44)
+      - [Sch. 28 para. 62](schedule/28/paragraph/62.md)
+    - Housing (Scotland) Act 2001 (asp 10)
+      - [Sch. 28 para. 63](schedule/28/paragraph/63.md)
+      - [Sch. 28 para. 64](schedule/28/paragraph/64.md)
+      - [Sch. 28 para. 65](schedule/28/paragraph/65.md)
+      - [Sch. 28 para. 66](schedule/28/paragraph/66.md)
+    - Criminal Justice (Scotland) Act 2003 (asp 7)
+      - [Sch. 28 para. 67](schedule/28/paragraph/67.md)
+    - Agricultural Holdings (Scotland) Act 2003 (asp 11)
+      - [Sch. 28 para. 68](schedule/28/paragraph/68.md)
+    - Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+      - [Sch. 28 para. 69](schedule/28/paragraph/69.md)
+      - [Sch. 28 para. 70](schedule/28/paragraph/70.md)
+- SCHEDULE 29 Minor and consequential amendments: Northern Ireland
+  - Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))
+    - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+  - Trustee Act (Northern Ireland) 1958 (c. 23 (N.I.))
+    - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+    - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
+  - Perpetuities Act (Northern Ireland) 1966 (c. 2 (N.I.))
+    - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+    - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+  - Office and Shop Premises Act (Northern Ireland) 1966 (c. 26 (N.I.))
+    - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
+  - Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35 (N.I.))
+    - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
+    - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
+  - Census Act (Northern Ireland) 1969 (c. 8 (N.I.))
+    - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
+  - Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))
+    - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
+  - Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24 (N.I.))
+    - [Sch. 29 para. 11](schedule/29/paragraph/11.md)
+    - [Sch. 29 para. 12](schedule/29/paragraph/12.md)
+  - Land Registration Act (Northern Ireland) 1970 (c. 18 (N.I.))
+    - [Sch. 29 para. 13](schedule/29/paragraph/13.md)
+  - Leasehold (Enlargement and Extension) Act (Northern Ireland) 1971 (c. 7 (N.I.))
+    - [Sch. 29 para. 14](schedule/29/paragraph/14.md)
+    - [Sch. 29 para. 15](schedule/29/paragraph/15.md)
+  - Civil Evidence Act (Northern Ireland) 1971 (c. 36 (N.I.))
+    - [Sch. 29 para. 16](schedule/29/paragraph/16.md)
+  - Local Government Act (Northern Ireland) 1972 (c. 9 (N.I.))
+    - [Sch. 29 para. 17](schedule/29/paragraph/17.md)
+    - [Sch. 29 para. 18](schedule/29/paragraph/18.md)
+  - Employer’s Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972 (S.I. 1972/963 (N.I. 6))
+    - [Sch. 29 para. 19](schedule/29/paragraph/19.md)
+  - Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041 (N.I. 14))
+    - [Sch. 29 para. 20](schedule/29/paragraph/20.md)
+  - Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+    - [Sch. 29 para. 21](schedule/29/paragraph/21.md)
+  - Pharmacy (Northern Ireland) Order 1976 (S.I. 1976/1213 (N.I. 22))
+    - [Sch. 29 para. 22](schedule/29/paragraph/22.md)
+  - Criminal Damage (Northern Ireland) Order 1977 (S.I. 1977/426 (N.I. 4))
+    - [Sch. 29 para. 23](schedule/29/paragraph/23.md)
+  - Judicature (Northern Ireland) Act 1978 (c. 23)
+    - [Sch. 29 para. 24](schedule/29/paragraph/24.md)
+    - [Sch. 29 para. 25](schedule/29/paragraph/25.md)
+    - [Sch. 29 para. 26](schedule/29/paragraph/26.md)
+  - Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9))
+    - [Sch. 29 para. 27](schedule/29/paragraph/27.md)
+  - Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15))
+    - [Sch. 29 para. 28](schedule/29/paragraph/28.md)
+    - [Sch. 29 para. 29](schedule/29/paragraph/29.md)
+    - [Sch. 29 para. 30](schedule/29/paragraph/30.md)
+    - [Sch. 29 para. 31](schedule/29/paragraph/31.md)
+    - [Sch. 29 para. 32](schedule/29/paragraph/32.md)
+    - [Sch. 29 para. 33](schedule/29/paragraph/33.md)
+  - Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+    - [Sch. 29 para. 34](schedule/29/paragraph/34.md)
+  - Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+    - [Sch. 29 para. 35](schedule/29/paragraph/35.md)
+  - County Courts (Northern Ireland) Order 1980 (S.I. 1980/397 (N.I. 3))
+    - [Sch. 29 para. 36](schedule/29/paragraph/36.md)
+    - [Sch. 29 para. 37](schedule/29/paragraph/37.md)
+    - [Sch. 29 para. 38](schedule/29/paragraph/38.md)
+  - Domestic Proceedings (Northern Ireland) Order 1980 (S.I. 1980/563 (N.I. 5))
+    - [Sch. 29 para. 39](schedule/29/paragraph/39.md)
+    - [Sch. 29 para. 40](schedule/29/paragraph/40.md)
+  - Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (N.I. 6)
+    - [Sch. 29 para. 41](schedule/29/paragraph/41.md)
+    - [Sch. 29 para. 42](schedule/29/paragraph/42.md)
+    - [Sch. 29 para. 43](schedule/29/paragraph/43.md)
+    - [Sch. 29 para. 44](schedule/29/paragraph/44.md)
+    - [Sch. 29 para. 45](schedule/29/paragraph/45.md)
+    - [Sch. 29 para. 46](schedule/29/paragraph/46.md)
+    - [Sch. 29 para. 47](schedule/29/paragraph/47.md)
+    - [Sch. 29 para. 48](schedule/29/paragraph/48.md)
+    - [Sch. 29 para. 49](schedule/29/paragraph/49.md)
+    - [Sch. 29 para. 50](schedule/29/paragraph/50.md)
+    - [Sch. 29 para. 51](schedule/29/paragraph/51.md)
+    - [Sch. 29 para. 52](schedule/29/paragraph/52.md)
+  - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8))
+    - [Sch. 29 para. 53](schedule/29/paragraph/53.md)
+    - [Sch. 29 para. 54](schedule/29/paragraph/54.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26))
+    - [Sch. 29 para. 55](schedule/29/paragraph/55.md)
+    - [Sch. 29 para. 56](schedule/29/paragraph/56.md)
+    - [Sch. 29 para. 57](schedule/29/paragraph/57.md)
+    - [Sch. 29 para. 58](schedule/29/paragraph/58.md)
+    - [Sch. 29 para. 59](schedule/29/paragraph/59.md)
+    - [Sch. 29 para. 60](schedule/29/paragraph/60.md)
+    - [Sch. 29 para. 61](schedule/29/paragraph/61.md)
+  - Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I. 13))
+    - [Sch. 29 para. 62](schedule/29/paragraph/62.md)
+  - Forfeiture (Northern Ireland) Order 1982 (S.I. 1982/1082 (N.I. 14))
+    - [Sch. 29 para. 63](schedule/29/paragraph/63.md)
+  - Family Law (Miscellaneous Provisions) (Northern Ireland) Order 1984 (S.I. 1984/1984 (N.I. 14))
+    - [Sch. 29 para. 64](schedule/29/paragraph/64.md)
+  - Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (N.I. 12))
+    - [Sch. 29 para. 65](schedule/29/paragraph/65.md)
+    - [Sch. 29 para. 66](schedule/29/paragraph/66.md)
+  - Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4))
+    - [Sch. 29 para. 67](schedule/29/paragraph/67.md)
+  - Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
+    - [Sch. 29 para. 68](schedule/29/paragraph/68.md)
+    - [Sch. 29 para. 69](schedule/29/paragraph/69.md)
+    - [Sch. 29 para. 70](schedule/29/paragraph/70.md)
+    - [Sch. 29 para. 71](schedule/29/paragraph/71.md)
+    - [Sch. 29 para. 72](schedule/29/paragraph/72.md)
+    - [Sch. 29 para. 73](schedule/29/paragraph/73.md)
+    - [Sch. 29 para. 74](schedule/29/paragraph/74.md)
+    - [Sch. 29 para. 75](schedule/29/paragraph/75.md)
+  - Enduring Powers of Attorney (Northern Ireland) Order 1987 (S.I. 1987/1627 (N.I. 16))
+    - [Sch. 29 para. 76](schedule/29/paragraph/76.md)
+    - [Sch. 29 para. 77](schedule/29/paragraph/77.md)
+    - [Sch. 29 para. 78](schedule/29/paragraph/78.md)
+  - Matrimonial and Family Proceedings (Northern Ireland) Order 1989 (S.I. 1989/677 (N.I. 4))
+    - [Sch. 29 para. 79](schedule/29/paragraph/79.md)
+  - Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))
+    - [Sch. 29 para. 80](schedule/29/paragraph/80.md)
+    - [Sch. 29 para. 81](schedule/29/paragraph/81.md)
+    - [Sch. 29 para. 82](schedule/29/paragraph/82.md)
+    - [Sch. 29 para. 83](schedule/29/paragraph/83.md)
+    - [Sch. 29 para. 84](schedule/29/paragraph/84.md)
+    - [Sch. 29 para. 85](schedule/29/paragraph/85.md)
+    - [Sch. 29 para. 86](schedule/29/paragraph/86.md)
+    - [Sch. 29 para. 87](schedule/29/paragraph/87.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 29 para. 88](schedule/29/paragraph/88.md)
+    - [Sch. 29 para. 89](schedule/29/paragraph/89.md)
+  - Companies (Northern Ireland) Order 1990 (S.I. 1990/593 (N.I. 5))
+    - [Sch. 29 para. 90](schedule/29/paragraph/90.md)
+  - Food Safety (Northern Ireland) Order 1991 (S.I. 1991/762 (N.I. 7))
+    - [Sch. 29 para. 91](schedule/29/paragraph/91.md)
+  - Industrial Relations (Northern Ireland) Order 1992 (S.I.1992/807 (N.I.5))
+    - [Sch. 29 para. 92](schedule/29/paragraph/92.md)
+  - Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 29 para. 93](schedule/29/paragraph/93.md)
+  - Family Law (Northern Ireland) Order 1993 (S.I. 1993/1576 (N.I. 6))
+    - [Sch. 29 para. 94](schedule/29/paragraph/94.md)
+  - Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2))
+    - [Sch. 29 para. 95](schedule/29/paragraph/95.md)
+    - [Sch. 29 para. 96](schedule/29/paragraph/96.md)
+    - [Sch. 29 para. 97](schedule/29/paragraph/97.md)
+    - [Sch. 29 para. 98](schedule/29/paragraph/98.md)
+    - [Sch. 29 para. 99](schedule/29/paragraph/99.md)
+    - [Sch. 29 para. 100](schedule/29/paragraph/100.md)
+  - Trade Union and Labour Relations (Northern Ireland) Order 1995(S.I.1995/1980 (N.I.12))
+    - [Sch. 29 para. 101](schedule/29/paragraph/101.md)
+  - Employment Rights (Northern Ireland) Order 1996 (S.I. 1996/1919 (N.I. 16))
+    - [Sch. 29 para. 102](schedule/29/paragraph/102.md)
+    - [Sch. 29 para. 103](schedule/29/paragraph/103.md)
+  - Registration of Clubs (Northern Ireland) Order 1996 (S.I. 1996/3159 (N.I. 23))
+    - [Sch. 29 para. 104](schedule/29/paragraph/104.md)
+  - Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6))
+    - [Sch. 29 para. 105](schedule/29/paragraph/105.md)
+  - Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 21))
+    - [Sch. 29 para. 106](schedule/29/paragraph/106.md)
+    - [Sch. 29 para. 107](schedule/29/paragraph/107.md)
+  - Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))
+    - [Sch. 29 para. 108](schedule/29/paragraph/108.md)
+    - [Sch. 29 para. 109](schedule/29/paragraph/109.md)
+    - [Sch. 29 para. 110](schedule/29/paragraph/110.md)
+    - [Sch. 29 para. 111](schedule/29/paragraph/111.md)
+    - [Sch. 29 para. 112](schedule/29/paragraph/112.md)
+  - Housing (Northern Ireland) Order 2003 (S.I. 2003/412 (N.I. 2))
+    - [Sch. 29 para. 113](schedule/29/paragraph/113.md)
+  - Marriage (Northern Ireland) Order 2003 (S.I. 2003/413 (N.I. 3))
+    - [Sch. 29 para. 114](schedule/29/paragraph/114.md)
+    - [Sch. 29 para. 115](schedule/29/paragraph/115.md)
+  - Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))
+    - [Sch. 29 para. 116](schedule/29/paragraph/116.md)
+  - Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3))
+    - [Sch. 29 para. 117](schedule/29/paragraph/117.md)
+- SCHEDULE 30 Repeals and revocations
