@@ -1,0 +1,249 @@
+# Welfare Reform Act 2009
+
+2009 c. 24. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 25 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
+
+Source: https://www.legislation.gov.uk/ukpga/2009/24/2026-07-01
+
+## Contents
+
+- Part 1 Social security
+  - “Work for your benefit” schemes etc.
+    - [s. 1 Schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.](section/1.md)
+  - Revised system of working-age benefits
+    - [s. 2 Work-related activity: income support claimants and partners of claimants](section/2.md)
+    - [s. 3 Lone parents](section/3.md)
+    - [s. 4 Entitlement to jobseeker’s allowance without seeking employment etc.](section/4.md)
+    - [s. 5 Couples where at least one member capable of work](section/5.md)
+    - [s. 6 Statutory sick pay and employment and support allowance](section/6.md)
+    - [s. 7 Transitional provision relating to sections 4 to 6](section/7.md)
+    - [s. 8 Parliamentary procedure: regulations imposing work-related activity requirements on lone parents of children under 7](section/8.md)
+  - Abolition of income support
+    - [s. 9 Abolition of income support](section/9.md)
+  - Work-related activity for claimants of employment and support allowance
+    - [s. 10 Power to direct claimant to undertake specific work-related activity](section/10.md)
+  - Jobseeker’s allowance and employment and support allowance: drugs
+    - [s. 11 Claimants dependent on drugs etc.](section/11.md)
+  - Contributory jobseeker’s allowance and employment and support allowance
+    - [s. 12 Conditions for contributory jobseeker’s allowance](section/12.md)
+    - [s. 13 Conditions for contributory employment and support allowance](section/13.md)
+  - Disability living allowance
+    - [s. 14 Mobility component](section/14.md)
+  - Abolition of adult dependency increases
+    - [s. 15 Maternity allowance and carer’s allowance](section/15.md)
+  - External provider social loans and community care grants
+    - [s. 16 External provider social loans](section/16.md)
+    - [s. 17 Power to restrict availability of social fund loans](section/17.md)
+    - [s. 18 Supply of information to or by lenders making external provider social loans](section/18.md)
+    - [s. 19 Community care grants relating to specified goods or services](section/19.md)
+    - [s. 20 Community care grants: reviews and information](section/20.md)
+    - [s. 21 Regulations relating to information: parliamentary control](section/21.md)
+  - Payments on account
+    - [s. 22 Payments on account](section/22.md)
+  - Up-rating of benefits
+    - [s. 23 Power to up-rate benefits following review in tax year 2009-10](section/23.md)
+  - Benefit sanctions for offenders
+    - [s. 24 Loss of benefit provisions](section/24.md)
+    - [s. 25 Jobseeker’s allowance: sanctions for violent conduct etc. in connection with claim](section/25.md)
+    - [s. 26 Repeal of sections 62 to 66 of the Child Support, Pensions and Social Security Act 2000](section/26.md)
+  - Pilot schemes
+    - [s. 27 State pension credit: pilot schemes](section/27.md)
+    - [s. 28 Period for which pilot schemes have effect etc.](section/28.md)
+  - Miscellaneous
+    - [s. 29 Exemption from jobseeking conditions for victims of domestic violence](section/29.md)
+    - [s. 30 Good cause for failure to comply with regulations etc.](section/30.md)
+    - [s. 31 Jobseekers’ agreements and action plans: well-being of children](section/31.md)
+    - [s. 32 Contracting out functions under Jobseekers Act 1995](section/32.md)
+    - [s. 33 Attendance in connection with jobseeker’s allowance: sanctions](section/33.md)
+    - [s. 34 Social security information and employment or training information](section/34.md)
+    - [s. 35 Persons under pensionable age to take part in work-focused interviews etc.](section/35.md)
+    - [s. 36 Power to rename council tax benefit](section/36.md)
+    - [s. 37 Minor amendments](section/37.md)
+- Part 2 Disabled people: right to control provision of services
+  - Introductory
+    - [s. 38 Purpose of Part 2](section/38.md)
+    - [s. 39 Relevant services](section/39.md)
+    - [s. 40 Relevant authority](section/40.md)
+  - Power to make regulations
+    - [s. 41 Power to make provision enabling exercise of greater choice and control](section/41.md)
+    - [s. 42 Provision that may be made about direct payments](section/42.md)
+    - [s. 43 Exercise of rights on behalf of persons who lack capacity](section/43.md)
+    - [s. 44 Pilot schemes](section/44.md)
+  - Supplementary
+    - [s. 45 The appropriate authority by which regulations under section 41 are made](section/45.md)
+    - [s. 46 Regulations under section 41: supplementary provisions](section/46.md)
+    - [s. 47 Consultation](section/47.md)
+    - [s. 48 Power to repeal exclusion of community care services](section/48.md)
+    - [s. 49 Regulations and orders: control by Parliament or other legislature](section/49.md)
+    - [s. 50 Interpretation of Part 2](section/50.md)
+- Part 3 Child maintenance
+  - [s. 51 Disqualification for holding etc. driving licence or travel authorisation](section/51.md)
+  - [s. 52 Report on operation of driving licence amendments](section/52.md)
+  - [s. 53 Report on operation of passport amendments](section/53.md)
+  - [s. 54 Payments of child support maintenance](section/54.md)
+  - [s. 55 Child support maintenance: offences relating to information](section/55.md)
+- Part 4 Birth registration
+  - [s. 56 Registration of births](section/56.md)
+- Part 5 General
+  - [s. 57 Consequential amendments of subordinate legislation](section/57.md)
+  - [s. 58 Repeals and revocations](section/58.md)
+  - [s. 59 Financial provisions](section/59.md)
+  - [s. 60 Extent](section/60.md)
+  - [s. 61 Commencement](section/61.md)
+  - [s. 62 Short title](section/62.md)
+- Schedule 1 Amendments connected to section 4
+  - Part 1 Amendments of Jobseekers Act 1995
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Work-focused interviews etc.
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Directions given by officers of the Secretary of State etc.
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Other amendments
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Part 2 Amendments of other Acts
+    - Social Security Administration Act 1992 (c. 5)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Social Security Act 1998 (c. 14)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Welfare Reform Act 2007 (c. 5)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+- Schedule 2 Abolition of income support: consequential amendments
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Jobseekers Act 1995 (c. 18)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Social Security Fraud Act 2001 (c. 11)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Child Trust Funds Act 2004 (c. 6)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Age-Related Payments Act 2004 (c. 10)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Welfare Reform Act 2007 (c. 5)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- Schedule 3 Claimants dependent on drugs etc.
+  - Part 1 Jobseeker’s allowance
+    - Requirements imposed on claimants dependent on drugs etc.
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Consequential amendments
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Report on initial operation of drugs provisions
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part 2 Employment and support allowance
+    - Requirements imposed on persons dependent on drugs etc.
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Consequential amendments
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Report on the initial operation of drugs provisions
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- Schedule 4 Loss of benefit provisions: further amendments
+  - Part 1 Further amendments of Social Security Fraud Act 2001
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Part 2 Related amendments of other Acts
+    - Social Security Administration Act 1992 (c. 5)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Social Security Act 1998 (c. 14)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- Schedule 5 Section 51: consequential amendments etc.
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Child Maintenance and Other Payments Act 2008 (c. 6)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- Schedule 6 Registration of births
+  - Part 1 Amendments of Births and Deaths Registration Act 1953
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Part 2 Other amendments
+    - Perjury Act 1911 (c. 6)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Population (Statistics) Act 1938 (c. 12)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Child Support Act 1991 (c. 48)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Child Support (Northern Ireland) Order 1991 (S.I. 1991/2628 (N.I. 23))
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Children (Scotland) Act 1995 (c. 36)
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2))
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+- Schedule 7 Repeals and revocations
+  - Part 1 Abolition of income support
+  - Part 2 Abolition of adult dependency increases
+  - Part 3 Social security: other repeals and revocations
+  - Part 4 Child maintenance
+  - Part 5 Birth registration
