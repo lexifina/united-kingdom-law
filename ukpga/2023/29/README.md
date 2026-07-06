@@ -2,9 +2,9 @@
 
 2023 c. 29. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-06, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-01
+Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-06
 
 ## Contents
 
@@ -180,10 +180,10 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-01
   - PART 4 Amendments to the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017
     - [Sch. 2 para. 44 Introductory](schedule/2/paragraph/44.md)
     - [Sch. 2 para. 45 Position limits for commodity derivatives](schedule/2/paragraph/45.md)
-    - [Sch. 2 para. 46 Position limits for commodity derivatives](schedule/2/paragraph/46.md)
-    - [Sch. 2 para. 47 Position limits for commodity derivatives](schedule/2/paragraph/47.md)
-    - [Sch. 2 para. 48 Position limits for commodity derivatives](schedule/2/paragraph/48.md)
-    - [Sch. 2 para. 49 Position limits for commodity derivatives](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
     - [Sch. 2 para. 50 Consequential revocations relating to this Part](schedule/2/paragraph/50.md)
   - PART 5 Amendments to the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018
     - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
