@@ -1,0 +1,723 @@
+# Local Government and Public Involvement in Health Act 2007
+
+2007 c. 28. Enacted 2007-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
+
+Source: https://www.legislation.gov.uk/ukpga/2007/28/2026-07-07
+
+## Contents
+
+- Part 1 Structural and boundary change in England
+  - Chapter 1 Structural and boundary change
+    - Change from two tiers to single tier of local government
+      - [s. 1 “Principal authority” and “single tier of local government”](section/1.md)
+      - [s. 2 Invitations and directions for proposals for single tier of local government](section/2.md)
+      - [s. 2A Proposals for merger of single tiers of local government](section/2A.md)
+      - [s. 3 Invitations, directions and proposals: supplementary](section/3.md)
+      - [s. 4 Request for Local Government Boundary Commission’s advice](section/4.md)
+      - [s. 5 Local Government Boundary Commission’s powers](section/5.md)
+      - [s. 6 Local Government Boundary Commission’s procedure](section/6.md)
+      - [s. 7 Implementation of proposals by order](section/7.md)
+    - Boundary change
+      - [s. 8 Review by Local Government Boundary Commission of local government areas](section/8.md)
+      - [s. 9 Local Government Boundary Commission’s review: consultation etc](section/9.md)
+      - [s. 10 Implementation of recommendations by order](section/10.md)
+    - Implementation of changes
+      - [s. 11 Implementation orders: provision that may be included](section/11.md)
+      - [s. 11A Implementation orders: conversion of combined county authorities](section/11A.md)
+      - [s. 12 Provision relating to membership etc of authorities](section/12.md)
+      - [s. 13 Implementation orders: further provision](section/13.md)
+      - [s. 14 Regulations for supplementing orders](section/14.md)
+      - [s. 15 Incidental etc provision in orders or regulations](section/15.md)
+      - [s. 16 Agreements about incidental matters](section/16.md)
+      - [s. 17 Residuary bodies](section/17.md)
+      - [s. 18 Staff commissions](section/18.md)
+      - [s. 19 Certain county councils to be billing authorities](section/19.md)
+    - Supplementary
+      - [s. 20 Correction of orders](section/20.md)
+      - [s. 21 Pre-commencement invitations etc](section/21.md)
+      - [s. 22 Consequential amendments](section/22.md)
+      - [s. 23 Definitions for purposes of Chapter 1](section/23.md)
+  - Chapter 2 Control of disposals etc
+    - [s. 24 Authorities dissolved by orders: control of disposals, contracts and reserves](section/24.md)
+    - [s. 25 Directions: further provision about reserves](section/25.md)
+    - [s. 26 Directions: supplementary](section/26.md)
+    - [s. 27 Consideration to be taken into account for purposes of direction](section/27.md)
+    - [s. 28 Contraventions of direction](section/28.md)
+    - [s. 29 Power to amend](section/29.md)
+    - [s. 30 Definitions for purposes of Chapter 2](section/30.md)
+- Part 2 Electoral arrangements
+  - Chapter 1 Power of district councils in England to change electoral scheme
+    - Introductory
+      - [s. 31 Schemes for elections](section/31.md)
+      - [s. 31A Minimum period between resolutions to change electoral schemes](section/31A.md)
+    - Power of district councils to change to whole-council elections
+      - [s. 32 Resolution for whole-council elections](section/32.md)
+      - [s. 33 Resolution for whole-council elections: requirements](section/33.md)
+      - [s. 34 Scheme for whole-council elections](section/34.md)
+      - [s. 35 Publicity](section/35.md)
+      - [s. 36 Notice to Local Government Boundary Commission for England](section/36.md)
+    - Power of district councils to revert to partial-council elections
+      - [s. 37 Resolution for elections by halves](section/37.md)
+      - [s. 38 Resolution for elections by halves: requirements](section/38.md)
+      - [s. 39 Resolution for elections by thirds](section/39.md)
+      - [s. 40 Resolution for elections by thirds: requirements](section/40.md)
+      - [s. 41 Publicity for resolution](section/41.md)
+      - [s. 42 Notice to Local Government Boundary Commission](section/42.md)
+      - [s. 43 Local Government Boundary Commission to consider whether electoral review is necessary](section/43.md)
+      - [s. 44 Local Government Boundary Commission to make order for new electoral scheme](section/44.md)
+      - [s. 45 Order for elections by halves: years in which elections are to be held](section/45.md)
+      - [s. 46 Orders for elections by halves: councillors to be elected at ordinary elections](section/46.md)
+      - [s. 47 Order for elections by thirds: years in which elections are to be held](section/47.md)
+      - [s. 48 Order for elections by thirds: councillors to be elected at ordinary elections](section/48.md)
+      - [s. 49 Order for elections by halves or elections by thirds: transitional provision](section/49.md)
+      - [s. 50 Power of Local Government Boundary Commission to make incidental etc provision](section/50.md)
+      - [s. 51 Position if Local Government Boundary Commission act under existing powers](section/51.md)
+      - [s. 52 Publicity for order by Local Government Boundary Commission](section/52.md)
+    - Power of district councils to alter years of ordinary elections of parish councillors
+      - [s. 53 Power of council to alter years of ordinary elections of parish councillors](section/53.md)
+    - Amendment of existing provisions about schemes for ordinary elections
+      - [s. 54 Amendment of existing provisions about schemes for ordinary elections](section/54.md)
+  - Chapter 2 Miscellaneous
+    - Requests for single-member electoral areas in England
+      - [s. 55 Requests for single-member electoral areas](section/55.md)
+    - Electoral Commission and Boundary Committee: reviews and recommendations
+      - [s. 56 Electoral Commission and Boundary Committee: reviews and recommendations](section/56.md)
+      - [s. 57 Procedure in connection with reviews](section/57.md)
+    - Electoral areas in England
+      - [s. 58 Metropolitan districts: councillors per ward](section/58.md)
+      - [s. 59 Change of name of electoral area](section/59.md)
+    - Election dates
+      - [s. 60 Power to change date of local elections to date of European Parliamentary general election](section/60.md)
+  - Chapter 3 Consequential amendments
+    - [s. 61 Consequential amendments](section/61.md)
+- Part 3 Executive arrangements for England
+  - [s. 62 Executive arrangements for England](section/62.md)
+  - [s. 63 Discharge of functions](section/63.md)
+  - [s. 64 Changing governance arrangements](section/64.md)
+  - [s. 65 Referendum following petition](section/65.md)
+  - [s. 66 Elected mayors](section/66.md)
+  - [s. 67 Leader and cabinet executives (England)](section/67.md)
+  - [s. 68 Power to make incidental, consequential provision etc](section/68.md)
+  - [s. 69 Time limit for holding further referendum](section/69.md)
+  - [s. 70 Interpretation](section/70.md)
+  - [s. 71 Larger authorities to cease operating alternative arrangements](section/71.md)
+  - [s. 72 Failure to cease operating alternative arrangements](section/72.md)
+  - [s. 73 Sections 71 and 72: supplementary](section/73.md)
+  - [s. 74 Further amendments & transitional provision](section/74.md)
+- Part 4 Parishes
+  - Chapter 1 Parishes
+    - [s. 75 Parishes: alternative styles](section/75.md)
+    - [s. 76 Appointed councillors](section/76.md)
+  - Chapter 2 Power to promote well-being
+    - [s. 77 Extension of power to certain parish councils](section/77.md)
+    - [s. 78 Community strategies](section/78.md)
+  - Chapter 3 Reorganisation
+    - Key terms used
+      - [s. 79 Community governance reviews](section/79.md)
+      - [s. 80 Community governance petitions](section/80.md)
+      - [s. 80A Community governance applications](section/80A.md)
+      - [s. 81 Terms of reference of review](section/81.md)
+    - Undertaking community governance reviews
+      - [s. 82 Council’s power to undertake review](section/82.md)
+      - [s. 83 No review being undertaken: duty to respond to petition or application](section/83.md)
+      - [s. 84 Review being undertaken: duty to respond to petition or application](section/84.md)
+      - [s. 85 Power to respond to petition or application](section/85.md)
+    - Reorganisation of community governance
+      - [s. 86 Reorganisation of community governance](section/86.md)
+    - Recommendations of review
+      - [s. 87 Constitution of new parish](section/87.md)
+      - [s. 88 Existing parishes under review](section/88.md)
+      - [s. 89 New council: consequential recommendations](section/89.md)
+      - [s. 90 Council retained: consequential recommendations](section/90.md)
+      - [s. 91 Grouping or de-grouping parishes](section/91.md)
+      - [s. 92 County, district or London borough: consequential recommendations](section/92.md)
+    - Duties of council undertaking review
+      - [s. 93 Duties when undertaking a review](section/93.md)
+      - [s. 94 Recommendations to create parish councils](section/94.md)
+      - [s. 95 Electoral recommendations: general considerations](section/95.md)
+    - Publicising outcome of review
+      - [s. 96 Publicising outcome](section/96.md)
+    - Miscellaneous
+      - [s. 97 Supplementary regulations](section/97.md)
+      - [s. 98 Orders and regulations under this Chapter](section/98.md)
+      - [s. 99 Agreements about incidental matters](section/99.md)
+      - [s. 100 Guidance](section/100.md)
+      - [s. 101 Consequential amendments](section/101.md)
+      - [s. 102 Interpretation](section/102.md)
+- Part 5 Co-operation of English authorities with local partners, etc
+  - Chapter 1 ...Community strategies
+    - [s. 103 Application of Chapter: responsible local authorities](section/103.md)
+    - [s. 104 Application of Chapter: partner authorities](section/104.md)
+    - [s. 105 “Local improvement targets”: interpretation](section/105.md)
+    - [s. 106 Duty to prepare and submit draft of a local area agreement](section/106.md)
+    - [s. 107 Approval of draft local area agreement by Secretary of State](section/107.md)
+    - [s. 108 Duty to have regard to local improvement targets](section/108.md)
+    - [s. 109 Designated targets](section/109.md)
+    - [s. 110 Revision and addition of targets](section/110.md)
+    - [s. 111 Designated targets: revision proposals](section/111.md)
+    - [s. 112 Approval of revision proposal](section/112.md)
+    - [s. 113 Duty to publish information about local area agreement](section/113.md)
+    - [s. 114 Preparation of community strategy](section/114.md)
+    - [s. 115 Orders under Part 1 of Local Government Act 2000: Wales](section/115.md)
+    - [s. 116 Health and social care: joint strategic needs assessments](section/116.md)
+    - [s. 116ZA Integrated care partnerships](section/116ZA.md)
+    - [s. 116ZB Integrated care strategies](section/116ZB.md)
+    - [s. 116A Health and social care: joint local health and wellbeing strategies](section/116A.md)
+    - [s. 116B Duty to have regard to assessments and strategies](section/116B.md)
+    - [s. 116C Sections 116 to 116B: references to functions](section/116C.md)
+    - [s. 117 Interpretation of Chapter](section/117.md)
+    - [s. 118 Transitional provision](section/118.md)
+  - Chapter 2 Overview and scrutiny committees
+    - [s. 119 Reference of matter by councillor to overview and scrutiny committee](section/119.md)
+    - [s. 120 Power of overview and scrutiny committee to question members of authority](section/120.md)
+    - [s. 121 Powers to require information from partner authorities](section/121.md)
+    - [s. 122 Overview and scrutiny committees: reports and recommendations](section/122.md)
+    - [s. 123 Joint overview and scrutiny committees](section/123.md)
+    - [s. 124 Overview and scrutiny committees of district councils: local improvement targets](section/124.md)
+    - [s. 125 Guidance](section/125.md)
+    - [s. 126 Reference of local crime and disorder matters to crime and disorder committees etc](section/126.md)
+    - [s. 127 Overview and scrutiny committees: consequential amendments](section/127.md)
+    - [s. 128 Transitional provision](section/128.md)
+- Part 6 Byelaws
+  - [s. 129 Alternative procedure for byelaws](section/129.md)
+  - [s. 130 Fixed penalties for breach of byelaws](section/130.md)
+  - [s. 131 Use of fixed penalty receipts](section/131.md)
+  - [s. 132 Guidance](section/132.md)
+  - [s. 133 Community support officers etc](section/133.md)
+  - [s. 134 Revocation of byelaws](section/134.md)
+  - [s. 135 Further amendments relating to byelaws](section/135.md)
+- Part 7 Best value
+  - Best value authorities
+    - [s. 136 Parish councils and community councils etc not to be best value authorities](section/136.md)
+  - Duties of best value authorities
+    - [s. 137 Guidance about general best value duty](section/137.md)
+    - [s. 138 Involvement of local representatives](section/138.md)
+    - [s. 139 Abolition of performance indicators etc except for Welsh authorities](section/139.md)
+    - [s. 140 Abolition of best value performance reviews](section/140.md)
+  - Powers to modify enactments etc
+    - [s. 141 Consultation with and consent of Welsh Ministers](section/141.md)
+    - [s. 142 Power of Welsh Ministers to modify enactments obstructing best value etc](section/142.md)
+  - Other
+    - [s. 143 Grants to promote or facilitate exercise of functions by best value authorities](section/143.md)
+    - [s. 144 Best value: minor and consequential amendments](section/144.md)
+- Part 8 Local services: inspection and audit
+  - Chapter 1 Constitution of the Audit Commission
+    - [s. 145 Membership](section/145.md)
+    - [s. 146 Change of name](section/146.md)
+  - Chapter 2 Audit Commission and auditors: functions and procedure
+    - Benefits inspections
+      - [s. 147 Powers of the Audit Commission relating to benefits](section/147.md)
+      - [s. 148 Benefit Fraud Inspectorate: transfers to the Audit Commission](section/148.md)
+    - Interaction with other authorities
+      - [s. 149 Interaction of the Audit Commission with other authorities](section/149.md)
+      - [s. 150 Interaction of benefits inspectors with the Audit Commission](section/150.md)
+    - Inspections and audit
+      - [s. 151 Powers of auditors and inspectors to obtain information](section/151.md)
+      - [s. 152 Inspections of best value authorities](section/152.md)
+    - Studies and reports etc
+      - [s. 153 National studies](section/153.md)
+      - [s. 154 Studies at request of particular bodies](section/154.md)
+      - [s. 155 Registered social landlords](section/155.md)
+      - [s. 156 Information about performance standards of local authorities etc](section/156.md)
+      - [s. 157 Reports on English local authorities](section/157.md)
+      - [s. 158 Reports categorising English local authorities](section/158.md)
+    - Miscellaneous
+      - [s. 159 Appointment of auditors](section/159.md)
+      - [s. 160 Inspection and disclosure of personal information](section/160.md)
+      - [s. 161 Right to make objections at audit](section/161.md)
+      - [s. 162 Appointment of auditor to carry out agreed audits](section/162.md)
+      - [s. 163 Consent for the purposes of agreed audit](section/163.md)
+      - [s. 164 Disclosure of information obtained by the Audit Commission or an auditor](section/164.md)
+      - [s. 165 Publication of information by the Audit Commission](section/165.md)
+  - Chapter 3 Auditor General for Wales and auditors
+    - [s. 166 Registered social landlords in Wales](section/166.md)
+    - [s. 167 Disclosure of information obtained by the Auditor General for Wales or an auditor](section/167.md)
+- Part 9 The Commission for Local Administration in England
+  - [s. 168 Appointment and removal of Commissioners](section/168.md)
+  - [s. 169 Responsibilities of Commissioners](section/169.md)
+  - [s. 170 Annual reports](section/170.md)
+  - [s. 171 Power to investigate](section/171.md)
+  - [s. 172 Authorities subject to investigation](section/172.md)
+  - [s. 173 Matters subject to investigation](section/173.md)
+  - [s. 174 Complaints and matters coming to Commissioners’ attention](section/174.md)
+  - [s. 175 Reports and statements of reasons](section/175.md)
+  - [s. 176 Power of Commissioners to make recommendations etc](section/176.md)
+  - [s. 177 Publication of reports etc by Commissioners](section/177.md)
+  - [s. 178 Making complaints etc electronically](section/178.md)
+  - [s. 179 Disqualifications](section/179.md)
+  - [s. 180 Expenses of the Commission](section/180.md)
+  - [s. 181 Delegation](section/181.md)
+  - [s. 182 Minor and consequential amendments](section/182.md)
+- Part 10 Ethical standards
+  - Chapter 1 Conduct of local authority members
+    - Codes of conduct
+      - [s. 183 Conduct that may be covered by code](section/183.md)
+      - [s. 184 Certain references to code of conduct to include default code](section/184.md)
+    - Conduct of members of authorities in England: assessment of allegations
+      - [s. 185 Assessment of allegations](section/185.md)
+      - [s. 186 Information to be provided to Standards Board by relevant authority](section/186.md)
+    - Conduct of local authority members: miscellaneous amendments
+      - [s. 187 Chairmen of standards committees](section/187.md)
+      - [s. 188 Sub-committees of standards committees](section/188.md)
+      - [s. 189 Joint committees of relevant authorities in England](section/189.md)
+      - [s. 190 Standards Board for England: functions](section/190.md)
+      - [s. 191 Ethical standards officers: investigations and findings](section/191.md)
+      - [s. 192 Ethical standards officers: reports etc](section/192.md)
+      - [s. 193 Disclosure by monitoring officers of ethical standards officers’ reports](section/193.md)
+      - [s. 194 Matters referred to monitoring officers](section/194.md)
+      - [s. 195 References to Adjudication Panel for action in respect of misconduct](section/195.md)
+      - [s. 196 Consultation with ombudsmen](section/196.md)
+      - [s. 197 Interim case tribunals](section/197.md)
+      - [s. 198 Case tribunals: England](section/198.md)
+      - [s. 199 Case tribunals: Wales](section/199.md)
+      - [s. 200 Exemption from Data Protection Act 1998](section/200.md)
+      - [s. 201 Supplementary and consequential provision](section/201.md)
+  - Chapter 2 Employees
+    - [s. 202 Politically restricted posts: grant and supervision of exemptions](section/202.md)
+    - [s. 203 Politically restricted posts: consequential amendments](section/203.md)
+    - [s. 204 Political assistants’ pay](section/204.md)
+- Part 11 Joint Waste Authorities
+  - [s. 205 Proposals for joint waste authorities in England](section/205.md)
+  - [s. 206 Consultation](section/206.md)
+  - [s. 207 Implementation of proposals by order](section/207.md)
+  - [s. 208 Membership of joint waste authorities](section/208.md)
+  - [s. 209 Consequential amendments](section/209.md)
+  - [s. 210 Joint waste authorities in Wales](section/210.md)
+  - [s. 211 Interpretation](section/211.md)
+- Part 12 Entities controlled etc by local authorities
+  - [s. 212 Entities controlled etc by local authorities](section/212.md)
+  - [s. 213 Trusts](section/213.md)
+  - [s. 214 Further provision about orders](section/214.md)
+  - [s. 215 Exemptions from orders](section/215.md)
+  - [s. 216 Consequential amendments](section/216.md)
+  - [s. 217 Definition of certain terms in amended enactments: England](section/217.md)
+  - [s. 218 Definition of certain terms in amended enactments: Wales](section/218.md)
+- Part 13 The Valuation Tribunal for England
+  - [s. 219 Establishment of the Tribunal](section/219.md)
+  - [s. 220 Consequential and transitional provision etc](section/220.md)
+- Part 14 Patient and public involvement in health and social care
+  - Local arrangements
+    - [s. 221 Health services and social services...](section/221.md)
+    - [s. 222 Local Healthwatch organisations](section/222.md)
+    - [s. 222A Local authority arrangements: conflicts of interest](section/222A.md)
+    - [s. 223 Arrangements: power to make further provision](section/223.md)
+    - [s. 223A Independent advocacy services](section/223A.md)
+    - [s. 224 Duties of responsible persons to respond to Local Healthwatch organisations or contractors](section/224.md)
+    - [s. 225 Duties of services-providers to allow entry by Local Healthwatch organisations or contractors](section/225.md)
+    - [s. 226 Referrals of social care matters](section/226.md)
+    - [s. 227 Local Healthwatch organisations: annual reports](section/227.md)
+    - [s. 228 Transitional arrangements](section/228.md)
+    - [s. 229 Sections 221 to 228: interpretation and supplementary](section/229.md)
+  - Abolition of Patients’ Forums etc
+    - [s. 230 Abolition of functions of Patients’ Forums](section/230.md)
+    - [s. 231 Abolition of Patients’ Forums](section/231.md)
+    - [s. 232 Abolition of Commission for Patient and Public Involvement in Health](section/232.md)
+  - Consultation about health services
+    - [s. 233 Duty to involve users of health services](section/233.md)
+    - [s. 234 Reports on consultation](section/234.md)
+- Part 15 Powers of National Assembly for Wales
+  - [s. 235 Powers of National Assembly for Wales](section/235.md)
+- Part 16 Miscellaneous
+  - Exercise of functions by members of local authorities in England
+    - [s. 236 Exercise of functions by local councillors in England](section/236.md)
+    - [s. 237 Exercise of functions under section 236: records](section/237.md)
+  - Accounting
+    - [s. 238 Amendments relating to capital finance and accounting practices](section/238.md)
+  - Contracting out
+    - [s. 239 Contracting out](section/239.md)
+- Part 17 Final provisions
+  - [s. 240 Orders, regulations and guidance](section/240.md)
+  - [s. 241 Repeals](section/241.md)
+  - [s. 242 Financial provisions](section/242.md)
+  - [s. 243 Power to make further amendments and repeals](section/243.md)
+  - [s. 244 Extent](section/244.md)
+  - [s. 245 Commencement](section/245.md)
+  - [s. 246 Short title](section/246.md)
+- SCHEDULE 1 Structural and boundary change: consequential amendments
+  - Part 1 Amendments of Local Government Act 1992
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part 2 Other amendments
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Rent Act 1977 (c. 42)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Interpretation Act 1978 (c. 30)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Coroners Act 1988 (c. 13)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Local Government Finance Act 1988 (c. 41)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Food Safety Act 1990 (c. 16)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Police Act 1996 (c. 16)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Regional Assemblies (Preparations) Act 2003 (c. 10)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Fire and Rescue Services Act 2004 (c. 21)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 Electoral arrangements: consequential amendments
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Executives: further amendments
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Local Government Act 1985 (c. 51)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 New arrangements for executives: transitional provision
+  - Part 1 Old-style leader and cabinet executive
+    - Application of Part
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Continued operation of existing executive
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Change in form of executive
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Failure to change form of executive: automatic change
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Interpretation
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 2 Mayor and council manager executive
+    - Application of Part
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Continued operation of existing executive
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Change in form of executive
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Failure to change form of executive: automatic change
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Interpretation
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Part 3 Other transitional provision
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Parishes: further amendments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Byelaws: further amendments
+  - Public Health Acts Amendment Act 1907 (c. 53)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Public Health Act 1936 (c. 49)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Public Health (Control of Disease) Act 1984 (c. 22)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Police Reform Act 2002 (c. 30)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Amendments consequential on removing parish councils etc from best value duties
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Local Government Act 1999 (c. 27)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Best value: minor and consequential amendments
+  - Part 1 Part 1 of Local Government Act 1999
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Part 2 Other minor and consequential amendments
+    - Housing Associations Act 1985 (c. 69)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Railways and Transport Safety Act 2003 (c. 20)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - Local Government Act 2003 (c. 26)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Fire and Rescue Services Act 2004 (c. 21)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Public Audit (Wales) Act 2004 (c. 23)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+- SCHEDULE 9 Consequential amendments relating to change of name of the Audit Commission
+  - Amendment of references to the current name of the Commission
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Amendment of references to the old name of the Commission
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Repeal of provision in the Audit Commission Act 1998 (c. 18) relating to the previous change of name of the Commission
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Benefit Fraud Inspectorate: transfer schemes
+  - Transfer of staff
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Property, rights and liabilities etc.
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 Schedule to be inserted in Audit Commission Act 1998
+- SCHEDULE 12 The Commission for Local Administration in England: minor and consequential amendments
+  - Part 1 Amendments of Part 3 of Local Government Act 1974
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Part 2 Other amendments
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - Local Government and Housing Act 1989 (c. 42)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - Health Service Commissioners Act 1993 (c. 46)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+- SCHEDULE 13 Consequential amendments relating to joint waste authorities
+  - Part 1 Amendments of Local Government Act 1972
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+  - Part 2 Other amendments
+    - Landlord and Tenant Act 1954 (c. 56)
+      - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - Trustee Investments Act 1961 (c. 62)
+      - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - Leasehold Reform Act 1967 (c. 88)
+      - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - Employers’ Liability (Compulsory Insurance) Act 1969 (c. 57)
+      - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - Local Authorities (Goods and Services) Act 1970 (c. 39)
+      - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+    - Employment Agencies Act 1973 (c. 35)
+      - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - Local Government Act 1974 (c. 7)
+      - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+    - Health and Safety at Work etc Act 1974 (c. 37)
+      - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+      - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - Rent (Agriculture) Act 1976 (c. 80)
+      - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+    - Rent Act 1977 (c. 42)
+      - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - Local Government, Planning and Land Act 1980 (c. 65)
+      - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - Acquisition of Land Act 1981 (c. 67)
+      - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+      - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - Stock Transfer Act 1982 (c. 41)
+      - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - County Courts Act 1984 (c. 28)
+      - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - Landlord and Tenant Act 1985 (c. 70)
+      - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - Local Government Act 1988 (c. 9)
+      - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+    - Housing Act 1988 (c. 50)
+      - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - Local Government and Housing Act 1989 (c. 42)
+      - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+      - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+      - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+    - Environmental Protection Act 1990 (c. 43)
+      - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+    - Local Government (Overseas Assistance) Act 1993 (c. 25)
+      - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+    - Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+      - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+    - Audit Commission Act 1998 (c. 18)
+      - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+    - Local Government Act 1999 (c. 27)
+      - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+    - Local Government Act 2003 (c. 26)
+      - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+- SCHEDULE 14 Consequential amendments relating to entities controlled etc by local authorities
+  - Prevention of Corruption Act 1916 (c. 64)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Public Audit (Wales) Act 2004 (c. 23)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+- SCHEDULE 15 The Valuation Tribunal for England
+  - Introduction
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Establishment of the Tribunal
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Schedule 11 to be divided into Parts
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Retention of existing arrangements for Wales
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Amendment of provisions relating to England and to Wales
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+- SCHEDULE 16 Consequential amendments relating to the creation of the Valuation Tribunal for England
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Land Drainage Act 1991 (c. 59)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Finance Act 2003 (c. 14)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+- SCHEDULE 17 Powers of National Assembly for Wales
+  - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+- SCHEDULE 18 Repeals
+  - Part 1 Structural and boundary change
+  - Part 2 Electoral arrangements
+  - Part 3 Executive arrangements
+  - Part 4 Parishes
+  - Part 5 Community strategies
+  - Part 6 Overview and scrutiny committees
+  - Part 7 Byelaws
+  - Part 8 Best value
+  - Part 9 Change of name of the Audit Commission
+  - Part 10 Interaction of the Audit Commission with other authorities
+  - Part 11 Studies and reports etc of the Audit Commission
+  - Part 12 Audit Commission and auditors: miscellaneous
+  - Part 13 Auditor General for Wales and auditors
+  - Part 14 The Commission for Local Administration in England
+  - Part 15 Ethical standards
+  - Part 16 Entities controlled etc by local authorities
+  - Part 17 Valuation tribunals
+  - Part 18 Patient and public involvement in health
+  - Part 19 Contracting out
