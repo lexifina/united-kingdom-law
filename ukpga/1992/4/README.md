@@ -1,0 +1,701 @@
+# Social Security Contributions and Benefits Act 1992
+
+1992 c. 4. Enacted 1992-02-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 224 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
+
+Source: https://www.legislation.gov.uk/ukpga/1992/4/2026-07-08
+
+## Contents
+
+- Part I Contributions
+  - Preliminary
+    - [s. 1 Outline of contributory system.](section/1.md)
+    - [s. 2 Categories of earners.](section/2.md)
+    - [s. 3 “Earnings" and “earner".](section/3.md)
+    - [s. 4 Payments treated as remuneration and earnings.](section/4.md)
+    - [s. 4A Earnings of workers supplied by service companies etc.](section/4A.md)
+    - [s. 4AA Limited liability partnerships](section/4AA.md)
+    - [s. 4B Earnings: power to make retrospective provision in consequence of retrospective tax legislation](section/4B.md)
+    - [s. 4C Power to make provision in consequence of provision made by or by virtue of section 4B(2) etc](section/4C.md)
+  - Class 1 contributions
+    - [s. 5 Earnings limits and thresholds for Class 1 contributions.](section/5.md)
+    - [s. 6 Liability for Class 1 contributions.](section/6.md)
+    - [s. 6A Notional payment of primary Class 1 contribution where earnings not less than lower earnings limit.](section/6A.md)
+    - [s. 7 “Secondary contributor".](section/7.md)
+    - [s. 8 Calculation of primary Class 1 contributions.](section/8.md)
+    - [s. 9 Calculation of secondary Class 1 contributions.](section/9.md)
+    - [s. 9A The age-related secondary percentage](section/9A.md)
+    - [s. 9B Zero-rate secondary Class 1 contributions for certain apprentices](section/9B.md)
+  - Class 1A contributions
+    - [s. 10 Class 1A contributions ...](section/10.md)
+    - [s. 10ZA Liability of third party provider of benefits in kind.](section/10ZA.md)
+    - [s. 10ZB Non-cash vouchers provided by third parties.](section/10ZB.md)
+    - [s. 10ZBA Liability of third party controller of sporting testimonial](section/10ZBA.md)
+    - [s. 10ZC Class 1A contributions: power to make provision in consequence of retrospective tax legislation](section/10ZC.md)
+  - Class 1B contributions
+    - [s. 10A Class 1B contributions](section/10A.md)
+  - Class 2 contributions
+    - [s. 11 Class 2 contributions](section/11.md)
+    - [s. 11An1 Relevant profits to be included in self assessment tax return](section/11An1.md)
+    - [s. 12 Late paid Class 2 contributions.](section/12.md)
+  - Class 3 contributions
+    - [s. 13 Class 3 contributions.](section/13.md)
+    - [s. 13A Right to pay additional Class 3 contributions in certain cases](section/13A.md)
+    - [s. 14 Restriction on right to pay Class 3 contributions.](section/14.md)
+  - Class 3A contributions
+    - [s. 14A Class 3A contributions in return for units of additional pension](section/14A.md)
+    - [s. 14B Class 3A contributions: repayment](section/14B.md)
+    - [s. 14C Class 3A contributions: power to change eligibility or remove the option to pay](section/14C.md)
+  - Class 4 contributions
+    - [s. 15 Class 4 contributions recoverable under the Income Tax Acts.](section/15.md)
+    - [s. 16 Application of Income Tax Acts and destination of Class 4 contributions.](section/16.md)
+    - [s. 17 Exceptions, deferment and incidental matters relating to Class 4 contributions.](section/17.md)
+    - [s. 18 Class 4 contributions recoverable under regulations.](section/18.md)
+    - [s. 18A Class 4 contributions: partnerships](section/18A.md)
+  - General
+    - [s. 19 General power to regulate liability for contributions.](section/19.md)
+    - [s. 19A Class 1, 1A or 1B contributions paid in error](section/19A.md)
+    - [s. 19B Extended meaning of “benefit” etc in Part 1](section/19B.md)
+- Part II Contributory Benefits
+  - Preliminary
+    - [s. 20 Descriptions of contributory benefits.](section/20.md)
+    - [s. 21 Contribution conditions.](section/21.md)
+    - [s. 22 Earnings factors.](section/22.md)
+    - [s. 23 Provisions supplemental to sections 21 and 22.](section/23.md)
+    - [s. 23A Contributions credits for relevant parents and carers](section/23A.md)
+    - [s. 24 Records of earnings and calculation of earnings factors in absence of records.](section/24.md)
+  - Unemployment benefit
+    - [s. 25 Unemployment benefit.](section/25.md)
+    - [s. 25A Determination of days for which unemployment benefit is payable.](section/25A.md)
+    - [s. 25B Power to amend provisions as to days of entitlement.](section/25B.md)
+    - [s. 26 Duration of unemployment benefit.](section/26.md)
+    - [s. 27 Interruption of employment in connection with trade dispute.](section/27.md)
+    - [s. 28 Unemployment benefit - other disqualifications etc.](section/28.md)
+    - [s. 29 Exemptions from disqualification for unemployment benefit.](section/29.md)
+    - [s. 30 Abatement of unemployment benefit on account of payments of occupational or personal pension.](section/30.md)
+  - Incapacity benefit
+    - [s. 30A Incapacity benefit: entitlement.](section/30A.md)
+    - [s. 30B Incapacity benefit: rate.](section/30B.md)
+    - [s. 30C Incapacity benefit: days and periods of incapacity for work.](section/30C.md)
+    - [s. 30D Incapacity benefit: construction of references to days of entitlement.](section/30D.md)
+    - [s. 30DD Incapacity benefit: reduction for pension payments and PPF periodic payments.](section/30DD.md)
+    - [s. 30E Incapacity benefit: reduction for councillor’s allowance.](section/30E.md)
+  - Sickness benefit
+    - [s. 31 Sickness benefit.](section/31.md)
+    - [s. 32 Sickness benefit - disqualifications etc.](section/32.md)
+  - Invalidity benefits
+    - [s. 33 Invalidity pension.](section/33.md)
+    - [s. 34 Invalidity allowance.](section/34.md)
+  - Maternity
+    - [s. 35 State maternity allowance for employed or self-employed earner.](section/35.md)
+    - [s. 35A Appropriate weekly rate of maternity allowance under section 35.](section/35A.md)
+    - [s. 35B State maternity allowance for participating wife or civil partner of self-employed earner](section/35B.md)
+  - Bereavement benefits: deaths before the day on which section 30 of the Pensions Act 2014 comes into force
+    - [s. 36 Bereavement payment.](section/36.md)
+    - [s. 36A Cases in which sections 37 to 41 apply.](section/36A.md)
+    - [s. 37 Widowed mother’s allowance: deaths before 9 April 2001.](section/37.md)
+    - [s. 38 Widow’s pension: deaths before 9 April 2001.](section/38.md)
+    - [s. 39 Rate of widowed mother’s allowance and widow’s pension.](section/39.md)
+    - [s. 39A Widowed parent’s allowance.](section/39A.md)
+    - [s. 39B Bereavement allowance where no dependent children.](section/39B.md)
+    - [s. 39C Rate of widowed parent’s allowance ...](section/39C.md)
+    - [s. 40 Long-term incapacity benefit for widows.](section/40.md)
+    - [s. 41 Long-term incapacity benefit for widowers.](section/41.md)
+    - [s. 42 Entitlement under s. 40 or 41 after period of employment or training for work.](section/42.md)
+  - Retirement pensions (Categories A and B)
+    - [s. 43 Persons entitled to more than one retirement pension.](section/43.md)
+    - [s. 44 Category A retirement pension.](section/44.md)
+    - [s. 44A Deemed earnings factors.](section/44A.md)
+    - [s. 44B Deemed earnings factors: 2010-11 onwards](section/44B.md)
+    - [s. 44C Earnings factor credits](section/44C.md)
+    - [s. 45 The additional pension in a Category A retirement pension.](section/45.md)
+    - [s. 45AA Effect of working families’ tax credit and disabled person’s tax credit on earnings factor](section/45AA.md)
+    - [s. 45A Effect of family credit and disability working allowance on earnings factor](section/45A.md)
+    - [s. 45B Reduction of additional pension in Category A retirement pension: pension sharing.](section/45B.md)
+    - [s. 46 Modifications of section 45 for calculating the additional pension in certain benefits.](section/46.md)
+    - [s. 47 Increase of Category A retirement pension for invalidity.](section/47.md)
+    - [s. 48 Use of former spouse’s contributions.](section/48.md)
+    - [s. 48A Category B retirement pension for married person or civil partner](section/48A.md)
+    - [s. 48AA Category B retirement pension for divorcee or former civil partner](section/48AA.md)
+    - [s. 48B Category B retirement pension for widows and widowers.](section/48B.md)
+    - [s. 48BB Category B retirement pension: entitlement by reference to benefits under section 39A or 39B.](section/48BB.md)
+    - [s. 48C Category B retirement pension: general.](section/48C.md)
+    - [s. 49 Category B retirement pension for women.](section/49.md)
+    - [s. 50 Rate of Category B retirement pension for women.](section/50.md)
+    - [s. 51 Category B retirement pension for widows, widowers and surviving civil partners who attained pensionable age before 6 April 2010](section/51.md)
+    - [s. 51ZA Special provision for married person whose spouse changed gender](section/51ZA.md)
+    - [s. 51A Special provision for married people.](section/51A.md)
+    - [s. 52 Special provision for surviving spouses.](section/52.md)
+    - [s. 53 Special provision for married women.](section/53.md)
+    - [s. 54 Category A and Category B retirement pensions: supplemental provisions.](section/54.md)
+    - [s. 55 Pension increase or lump sum where entitlement to retirement pension is deferred](section/55.md)
+  - Shared additional pension
+    - [s. 55A Shared additional pension because of an old state scheme pension credit](section/55A.md)
+    - [s. 55AA Shared additional pension because of a new state scheme pension credit](section/55AA.md)
+    - [s. 55B Reduction of shared additional pension: pension sharing.](section/55B.md)
+    - [s. 55C Pension increase or lump sum where entitlement to shared additional pension is deferred](section/55C.md)
+  - Child’s special allowance
+    - [s. 56 Child’s special allowance - existing beneficiaries.](section/56.md)
+  - Provisions relating to unemployment benefit, sickness benefit and invalidity benefit
+    - [s. 57 Determination of days for which benefit is payable.](section/57.md)
+    - [s. 58 Incapacity for work: work as councillor to be disregarded.](section/58.md)
+  - Invalidity benefit—disqualifications etc.
+    - [s. 59 Invalidity benefit— disqualifications etc.](section/59.md)
+  - Complete or partial failure to satisfy contribution conditions
+    - [s. 60 Complete or partial failure to satisfy contribution conditions.](section/60.md)
+    - [s. 60A Failure to satisfy contribution condition in paragraph 5A of Schedule 3](section/60A.md)
+    - [s. 61 Exclusion of increase of benefit for failure to satisfy contribution condition.](section/61.md)
+    - [s. 61ZA Shortfall in contributions: people with units of additional pension](section/61ZA.md)
+    - [s. 61ZB Shortfall in contributions: people whose dead spouse had units of additional pension](section/61ZB.md)
+    - [s. 61ZC Entitlement to more than one pension: sections 61ZA and 61ZB](section/61ZC.md)
+    - [s. 61A Contributions paid in error](section/61A.md)
+  - Graduated retirement benefit
+    - [s. 62 Graduated retirement benefit.](section/62.md)
+- Part III Non-Contributory Benefits
+  - [s. 63 Descriptions of non-contributory benefits.](section/63.md)
+  - Attendance allowance
+    - [s. 64 Entitlement.](section/64.md)
+    - [s. 65 Period and rate of allowance.](section/65.md)
+    - [s. 66 Attendance allowance for the terminally ill.](section/66.md)
+    - [s. 67 Exclusions by regulation.](section/67.md)
+  - Severe disablement allowance
+    - [s. 68 Entitlement and rate.](section/68.md)
+    - [s. 69 Severe disablement allowance: age related addition.](section/69.md)
+  - Carer’s allowance
+    - [s. 70 Carer’s allowance.](section/70.md)
+  - Disability living allowance
+    - [s. 71 Disability living allowance.](section/71.md)
+    - [s. 72 The care component.](section/72.md)
+    - [s. 73 The mobility component.](section/73.md)
+    - [s. 74 Mobility component for certain persons eligible for invalid carriages.](section/74.md)
+    - [s. 75 Persons who have attained pensionable age](section/75.md)
+    - [s. 76 Disability living allowance - supplementary.](section/76.md)
+  - Guardian’s allowance
+    - [s. 77 Guardian’s allowance.](section/77.md)
+  - Benefits for the aged
+    - [s. 78 Category C and Category D retirement pensions and other benefits for the aged.](section/78.md)
+    - [s. 79 Age addition.](section/79.md)
+- Part IV Increases for dependants
+  - Child dependants
+    - [s. 80 Beneficiary’s dependent children.](section/80.md)
+    - [s. 81 Restrictions on increase - child not living with beneficiary etc.](section/81.md)
+  - Adult dependants
+    - [s. 82 Short-term benefit: increase for adult dependants.](section/82.md)
+    - [s. 83 Pension increase (wife)](section/83.md)
+    - [s. 84 Pension increase (husband).](section/84.md)
+    - [s. 85 Pension increase (person with care of children).](section/85.md)
+    - [s. 86 Increase of woman’s invalidity pension (husband).](section/86.md)
+    - [s. 86A Incapacity benefit: increase for adult dependants.](section/86A.md)
+    - [s. 87 Rate of increase where associated retirement pension is attributable to reduced contributions.](section/87.md)
+    - [s. 88 Increases to be in respect of only one adult dependant.](section/88.md)
+  - Miscellaneous
+    - [s. 89 Earnings to include occupational and personal pensions etc. for purposes of provisions relating to increases of benefits in respect of ... adult dependants.](section/89.md)
+    - [s. 90 Beneficiaries under sections 68 and 70.](section/90.md)
+    - [s. 91 Effect of trade disputes on entitlement to increases.](section/91.md)
+    - [s. 92 Dependency increases: continuation of awards in cases of fluctuating earnings.](section/92.md)
+    - [s. 93 Dependency increases on termination of employment after period of entitlement to disability working allowance.](section/93.md)
+- Part V Benefit for Industrial Injuries
+  - General provisions
+    - [s. 94 Right to industrial injuries benefit.](section/94.md)
+    - [s. 95 Relevant employments.](section/95.md)
+    - [s. 95A Employment training schemes etc](section/95A.md)
+    - [s. 96 Persons treated as employers for certain purposes.](section/96.md)
+    - [s. 97 Accidents in course of illegal employments.](section/97.md)
+    - [s. 98 Earner acting in breach of regulations, etc.](section/98.md)
+    - [s. 99 Earner travelling in employer’s transport.](section/99.md)
+    - [s. 100 Accidents happening while meeting emergency.](section/100.md)
+    - [s. 101 Accident caused by another’s misconduct etc.](section/101.md)
+  - Sickness benefit
+    - [s. 102 Sickness benefit in respect of industrial injury.](section/102.md)
+  - Disablement pension
+    - [s. 103 Disablement pension.](section/103.md)
+    - [s. 104 Increase where constant attendance needed.](section/104.md)
+    - [s. 105 Increase for exceptionally severe disablement.](section/105.md)
+  - Other benefits and increases
+    - [s. 106 Benefits and increases subject to qualifications as to time.](section/106.md)
+  - Successive accidents
+    - [s. 107 Adjustments for successive accidents.](section/107.md)
+  - Prescribed industrial diseases etc.
+    - [s. 108 Benefit in respect of prescribed industrial diseases, etc.](section/108.md)
+    - [s. 109 General provisions relating to benefit under section 108.](section/109.md)
+    - [s. 110 Respiratory diseases.](section/110.md)
+  - Old cases
+    - [s. 111 Workmen’s compensation etc.](section/111.md)
+- Part VI Miscellaneous Provisions relating to Parts I to V
+  - Earnings
+    - [s. 112 Certain sums to be earnings.](section/112.md)
+  - Disqualification and suspension
+    - [s. 113 General provisions as to disqualification and suspension.](section/113.md)
+  - Persons maintaining dependants etc.
+    - [s. 114 Persons maintaining dependants, etc.](section/114.md)
+  - Special cases
+    - [s. 115 Crown employment - Parts I to VI.](section/115.md)
+    - [s. 116 Her Majesty’s forces.](section/116.md)
+    - [s. 117 Mariners, airmen, etc.](section/117.md)
+    - [s. 118 Married women and widows.](section/118.md)
+    - [s. 119 Persons outside Great Britain.](section/119.md)
+    - [s. 120 Employment at sea (continental shelf operations).](section/120.md)
+    - [s. 121 Treatment of certain marriages.](section/121.md)
+  - Interpretation
+    - [s. 122 Interpretation of Parts I to VI and supplementary provisions.](section/122.md)
+- Part VII Income-Related Benefits
+  - General
+    - [s. 123](section/123.md)
+    - [s. 124](section/124.md)
+    - [s. 125 Severe hardship cases.](section/125.md)
+    - [s. 126](section/126.md)
+    - [s. 127](section/127.md)
+  - Family credit
+    - [s. 128 Family credit.](section/128.md)
+  - Disability working allowance
+    - [s. 129 Disability working allowance.](section/129.md)
+  - Housing benefit
+    - [s. 130](section/130.md)
+    - [s. 130A Appropriate maximum housing benefit](section/130A.md)
+    - [s. 130B Loss of housing benefit following eviction on certain grounds](section/130B.md)
+    - [s. 130C Relevant orders for possession](section/130C.md)
+    - [s. 130D Loss of housing benefit: supplementary](section/130D.md)
+    - [s. 130E Couples](section/130E.md)
+    - [s. 130F Information provision](section/130F.md)
+    - [s. 130G Pilot schemes relating to loss of housing benefit](section/130G.md)
+  - Council tax benefit
+    - [s. 131 Council tax benefit.](section/131.md)
+    - [s. 132 Couples.](section/132.md)
+    - [s. 133 Polygamous marriages.](section/133.md)
+  - General
+    - [s. 134](section/134.md)
+    - [s. 135](section/135.md)
+    - [s. 136](section/136.md)
+    - [s. 136A](section/136A.md)
+    - [s. 137](section/137.md)
+- Part VIII The Social Fund
+  - [s. 138 Payments out of the social fund.](section/138.md)
+  - [s. 139](section/139.md)
+  - [s. 140](section/140.md)
+- Part 8A Health in pregnancy grant
+  - [s. 140A Entitlement](section/140A.md)
+  - [s. 140B Amount](section/140B.md)
+- Part IX Child Benefit
+  - [s. 141 Child benefit.](section/141.md)
+  - [s. 142 “Child” and “qualifying young person”](section/142.md)
+  - [s. 143 Meaning of “person responsible for child or qualifying young person".](section/143.md)
+  - [s. 144 Exclusions and priority.](section/144.md)
+  - [s. 145 Rate of child benefit.](section/145.md)
+  - [s. 145A Entitlement after death of child or qualifying young person](section/145A.md)
+  - [s. 146 Presence in Great Britain](section/146.md)
+  - [s. 146A Persons subject to immigration control](section/146A.md)
+  - [s. 147 Interpretation of Part IX and supplementary provisions.](section/147.md)
+- Part X Christmas bonus for pensioners
+  - [s. 148 Entitlement of pensioners to Christmas bonus.](section/148.md)
+  - [s. 149 Provisions supplementary to section 148.](section/149.md)
+  - [s. 150 Interpretation of Part X.](section/150.md)
+- Part XI Statutory Sick Pay
+  - Employer’s liability
+    - [s. 151 Employer’s liability.](section/151.md)
+  - The qualifying conditions
+    - [s. 152 Period of incapacity for work.](section/152.md)
+    - [s. 153 Period of entitlement.](section/153.md)
+    - [s. 154 Qualifying days.](section/154.md)
+  - Limitations on entitlement, etc.
+    - [s. 155 Limitations on entitlement.](section/155.md)
+    - [s. 156 Notification of incapacity for work.](section/156.md)
+  - Rates of payment, etc.
+    - [s. 157 Rates of payment.](section/157.md)
+    - [s. 158 Recovery by employers of amounts paid by way of statutory sick pay.](section/158.md)
+    - [s. 159 Power to substitute provisions for s. 158(2).](section/159.md)
+    - [s. 159A Power to provide for recovery by employers of sums paid by way of statutory sick pay.](section/159A.md)
+    - [s. 159B Funding of employers’ statutory sick pay liabilities in relation to coronavirus](section/159B.md)
+  - Miscellaneous
+    - [s. 160 Relationship with benefits and other payments, etc.](section/160.md)
+    - [s. 161 Crown employment - Part XI.](section/161.md)
+    - [s. 162 Special classes of persons.](section/162.md)
+    - [s. 163 Interpretation of Part XI and supplementary provisions.](section/163.md)
+- Part XII Statutory Maternity Pay
+  - [s. 164 Statutory maternity pay - entitlement and liability to pay.](section/164.md)
+  - [s. 165 The maternity pay period.](section/165.md)
+  - [s. 166 Rate of statutory maternity pay](section/166.md)
+  - [s. 167 Funding of employers’ liabilities in respect of statutory maternity pay](section/167.md)
+  - [s. 168 Relationship with benefits and other payments etc.](section/168.md)
+  - [s. 169 Crown employment - Part XII.](section/169.md)
+  - [s. 170 Special classes of persons.](section/170.md)
+  - [s. 171 Interpretation of Part XII and supplementary provisions.](section/171.md)
+- Part 12ZA ... Statutory Paternity Pay
+  - ...
+    - [s. 171ZA Entitlement: birth](section/171ZA.md)
+    - [s. 171ZB Entitlement: adoption](section/171ZB.md)
+    - [s. 171ZC Entitlement: general](section/171ZC.md)
+    - [s. 171ZD Liability to make payments](section/171ZD.md)
+    - [s. 171ZE Rate and period of pay](section/171ZE.md)
+  - ...
+    - [s. 171ZEA Entitlement to additional statutory paternity pay: birth](section/171ZEA.md)
+    - [s. 171ZEB Entitlement to additional statutory paternity pay: adoption](section/171ZEB.md)
+    - [s. 171ZEC Entitlement to additional statutory paternity pay: general](section/171ZEC.md)
+    - [s. 171ZED Liability to make payments of additional statutory paternity pay](section/171ZED.md)
+    - [s. 171ZEE Rate and period of pay: additional statutory paternity pay](section/171ZEE.md)
+  - ...
+    - [s. 171ZF Restrictions on contracting out](section/171ZF.md)
+    - [s. 171ZG Relationship with contractual remuneration](section/171ZG.md)
+    - [s. 171ZH Crown employment-Part 12ZA](section/171ZH.md)
+    - [s. 171ZI Special classes of person](section/171ZI.md)
+    - [s. 171ZJ Part 12ZA: supplementary](section/171ZJ.md)
+    - [s. 171ZK Power to apply Part 12ZA ...](section/171ZK.md)
+- Part 12ZB Statutory Adoption pay
+  - [s. 171ZL Entitlement](section/171ZL.md)
+  - [s. 171ZM Liability to make payments](section/171ZM.md)
+  - [s. 171ZN Rate and period of pay](section/171ZN.md)
+  - [s. 171ZO Restrictions on contracting out](section/171ZO.md)
+  - [s. 171ZP Relationship with benefits and other payments etc](section/171ZP.md)
+  - [s. 171ZQ Crown employment-Part 12ZB](section/171ZQ.md)
+  - [s. 171ZR Special classes of person](section/171ZR.md)
+  - [s. 171ZS Part 12ZB: supplementary](section/171ZS.md)
+  - [s. 171ZT Power to apply Part 12ZB ...](section/171ZT.md)
+- PART 12ZC Statutory shared parental pay
+  - [s. 171ZU Entitlement: birth](section/171ZU.md)
+  - [s. 171ZV Entitlement: adoption](section/171ZV.md)
+  - [s. 171ZW Entitlement: general](section/171ZW.md)
+  - [s. 171ZX Liability to make payments](section/171ZX.md)
+  - [s. 171ZY Rate and period of pay](section/171ZY.md)
+  - [s. 171ZZ Restrictions on contracting out](section/171ZZ.md)
+  - [s. 171ZZ1 Relationship with contractual remuneration](section/171ZZ1.md)
+  - [s. 171ZZ2 Crown employment](section/171ZZ2.md)
+  - [s. 171ZZ3 Special classes of person](section/171ZZ3.md)
+  - [s. 171ZZ4 Part 12ZC: supplementary](section/171ZZ4.md)
+  - [s. 171ZZ5 Power to apply Part 12ZC](section/171ZZ5.md)
+- PART 12ZD Statutory parental bereavement pay
+  - [s. 171ZZ6 Entitlement](section/171ZZ6.md)
+  - [s. 171ZZ7 Entitlement: supplementary](section/171ZZ7.md)
+  - [s. 171ZZ8 Liability to make payments](section/171ZZ8.md)
+  - [s. 171ZZ9 Rate and period of pay](section/171ZZ9.md)
+  - [s. 171ZZ10 Restrictions on contracting out](section/171ZZ10.md)
+  - [s. 171ZZ11 Relationship with contractual remuneration](section/171ZZ11.md)
+  - [s. 171ZZ12 Crown employment](section/171ZZ12.md)
+  - [s. 171ZZ13 Special classes of person](section/171ZZ13.md)
+  - [s. 171ZZ14 Supplementary](section/171ZZ14.md)
+  - [s. 171ZZ15 Application in relation to stillbirths](section/171ZZ15.md)
+- PART 12ZE Statutory neonatal care pay
+  - [s. 171ZZ16 Entitlement](section/171ZZ16.md)
+  - [s. 171ZZ17 Entitlement: supplementary](section/171ZZ17.md)
+  - [s. 171ZZ18 Liability to make payments](section/171ZZ18.md)
+  - [s. 171ZZ19 Rate and period of pay](section/171ZZ19.md)
+  - [s. 171ZZ20 Restrictions on contracting out](section/171ZZ20.md)
+  - [s. 171ZZ21 Relationship with contractual remuneration](section/171ZZ21.md)
+  - [s. 171ZZ22 Crown employment](section/171ZZ22.md)
+  - [s. 171ZZ23 Special classes of person](section/171ZZ23.md)
+  - [s. 171ZZ24 Supplementary](section/171ZZ24.md)
+- Part XIIA Incapacity for work
+  - [s. 171A Test of incapacity for work.](section/171A.md)
+  - [s. 171B The own occupation test.](section/171B.md)
+  - [s. 171C Personal capability assessments.](section/171C.md)
+  - [s. 171D Incapacity for work: persons to be treated as incapable or capable of work.](section/171D.md)
+  - [s. 171E Incapacity for work: disqualification, &c.](section/171E.md)
+  - [s. 171F Incapacity for work: work as councillor to be disregarded.](section/171F.md)
+  - [s. 171G Incapacity for work: supplementary provisions.](section/171G.md)
+- Part XIII General
+  - Interpretation
+    - [s. 172 Application of Act in relation to territorial waters.](section/172.md)
+    - [s. 173 Age.](section/173.md)
+    - [s. 174 References to Acts.](section/174.md)
+  - Subordinate legislation
+    - [s. 175 Regulations, orders and schemes.](section/175.md)
+    - [s. 176 Parliamentary control.](section/176.md)
+  - Short title, commencement and extent
+    - [s. 177 Short title, commencement and extent.](section/177.md)
+- SCHEDULE 1 Supplementary provisions relating to contributions of Classes 1, 1A, 1B, 2, 3 and 3A
+  - Class 1 contributions where earner employed in more than one employment
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Earnings not paid at normal intervals
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Method of paying Class 1 contributions
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Prohibition on recovery of employer’s contributions
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+  - Transfer of liability to be borne by earner
+    - [Sch. 1 para. 3B](schedule/1/paragraph/3B.md)
+  - General provisions as to Class 1 contributions
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Class 1A contributions
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Class 1B contributions
+    - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+  - Power to combine collection of contributions with tax
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Special penalties in the case of certain returns
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+  - Collection of contributions otherwise than through PAYE system
+    - [Sch. 1 para. 7B](schedule/1/paragraph/7B.md)
+    - [Sch. 1 para. 7BZA](schedule/1/paragraph/7BZA.md)
+    - [Sch. 1 para. 7BA](schedule/1/paragraph/7BA.md)
+    - [Sch. 1 para. 7BB](schedule/1/paragraph/7BB.md)
+  - General regulation - making powers
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Deduction of contributions from pension, etc.
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Sickness payments counting as remuneration
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Levy of Class 4 contributions with income tax
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Method of computing profits or gains
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Reliefs
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Partnerships
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Trustees, etc.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Other provisions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - ...
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Contribution conditions for entitlement to benefit
+  - Part I The conditions
+    - Unemployment benefit
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Short-term incapacity benefit
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Maternity allowance
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - ...
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Widowed mother’s allowance, widowed parent’s allowance, bereavement allowance and widow’s pension; retirement pensions (Categories A and B)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 5A](schedule/3/paragraph/5A.md)
+    - Child’s special allowance
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part II Satisfaction of conditions in early years of contribution
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Rates of benefits, etc
+  - PART I CONTRIBUTORY PERIODICAL BENEFITS
+  - PART II BEREAVEMENT PAYMENT
+  - PART III NON-CONTRIBUTORY PERIODICAL BENEFITS
+  - PART IV INCREASES FOR DEPENDANTS
+  - PART V RATES OF INDUSTRIAL INJURIES BENEFIT
+- SCHEDULE 4A Additional pension: accrual rates for purposes of section 45(2)(c)
+  - Part I The amount
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Part II Surplus earnings factor
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Part III Contracted-out employment etc
+    - Introduction
+      - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - The amount
+      - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+    - Amount A
+      - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - Amount B (first case)
+      - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - Amount B (second case)
+      - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+    - Interpretation
+      - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - Part IV Other cases
+    - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+- SCHEDULE 4B Additional pension: accrual rates for purposes of section 45(2)(d)
+  - Part 1 Amount for purposes of section 45(2)(d)
+    - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+  - Part 2 Normal rules: employment not contracted-out
+    - Application
+      - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+    - Appropriate amount for year
+      - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+      - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+      - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+  - Part 3 Contracted-out employment
+    - Application
+      - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+    - Appropriate amount for year
+      - [Sch. 4B para. 7](schedule/4B/paragraph/7.md)
+    - Amount A: assumed earnings factor not exceeding LET
+      - [Sch. 4B para. 8](schedule/4B/paragraph/8.md)
+    - Amount A: assumed earnings factor exceeding LET
+      - [Sch. 4B para. 9](schedule/4B/paragraph/9.md)
+    - Amount B
+      - [Sch. 4B para. 10](schedule/4B/paragraph/10.md)
+  - Part 4 Other cases
+    - [Sch. 4B para. 11](schedule/4B/paragraph/11.md)
+  - Part 5 Interpretation
+    - [Sch. 4B para. 12](schedule/4B/paragraph/12.md)
+    - [Sch. 4B para. 13](schedule/4B/paragraph/13.md)
+- SCHEDULE 5 PENSION INCREASE OR LUMP SUM WHERE ENTITLEMENT TO RETIREMENT PENSION IS DEFERRED
+  - Choice between increase of pension and lump sum where pensioner’s entitlement is deferred
+    - [Sch. 5 para. A1](schedule/5/paragraph/A1.md)
+  - Increase of pension where pensioner’s entitlement is deferred
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Lump sum where pensioner’s entitlement is deferred
+    - [Sch. 5 para. 3A](schedule/5/paragraph/3A.md)
+  - Calculation of lump sum
+    - [Sch. 5 para. 3B](schedule/5/paragraph/3B.md)
+  - Choice between increase of pension and lump sum where pensioner’s deceased spouse or civil partner has deferred entitlement
+    - [Sch. 5 para. 3C](schedule/5/paragraph/3C.md)
+  - Increase of pension where pensioner’s deceased spouse or civil partner has deferred entitlement
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 6n1](schedule/5/paragraph/6n1.md)
+    - [Sch. 5 para. 6A](schedule/5/paragraph/6A.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 7ZA](schedule/5/paragraph/7ZA.md)
+  - Entitlement to lump sum where pensioner’s deceased spouse or civil partner has deferred entitlement
+    - [Sch. 5 para. 7A](schedule/5/paragraph/7A.md)
+  - Calculation of widowed person’s or surviving civil partner’s lump sum
+    - [Sch. 5 para. 7B](schedule/5/paragraph/7B.md)
+  - Supplementary
+    - [Sch. 5 para. 7C](schedule/5/paragraph/7C.md)
+  - Married couples and civil partners
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Uprating
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 5A Pension increase or lump sum where entitlement to shared additional pension is deferred
+  - Choice between pension increase and lump sum where entitlement to shared additional pension is deferred
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - Increase of pension where entitlement deferred
+    - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - Calculation of increment
+    - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - Lump sum where entitlement to shared additional pension is deferred
+    - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+  - Calculation of lump sum
+    - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+- SCHEDULE 6 Assessment of extent of disablement
+  - General provisions as to method of assessment
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Severe disablement allowance
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Disablement benefit
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Special provision as to entitlement to constant attendance allowance, etc.
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Industrial injuries benefits
+  - Part I Unemployability supplement
+    - Availability
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Rate and duration
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Increase of unemployability supplement
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Increase for beneficiary’s dependent children and qualifying young persons
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Additional provisions as to increase under paragraph 4
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Increase for adult dependants
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Earnings to include occupational and personal pensions for purposes of disablement pension
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Dependency increases: continuation of awards in cases of fluctuating earnings
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part II Disablement gratuity
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part III Increase of disablement pension during hospital treatment
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Part IV Reduced earnings allowance
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Supplementary
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Part V Retirement allowance
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Part VI Industrial death benefit
+    - Introductory
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Widow’s benefit (entitlement)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Widow’s benefit (rate)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Widower’s benefit (entitlement and rate)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Deceased’s family
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Limits of entitlement to industrial death benefit in respect of children and qualifying young persons
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Death of person with constant attendance allowance
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Pulmonary disease
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+- SCHEDULE 8 Industrial injuries and diseases (Old Cases)
+  - Part I Workmen’s compensation and industrial diseases benefit in respect of employment before 5th July 1948
+    - Continuation of workmen’s compensation
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Schemes for supplementing workmen’s compensation
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Provisions supplementary to paragraph 2
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Industrial diseases benefit schemes
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Restrictions on scope of schemes under paragraph 4
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Nature and amount of benefit under paragraph 4
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Part II Regulations providing for benefit
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part III Interpretation
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 Exclusions from entitlement to child benefit
+  - Children and qualifying young persons in detention, care, etc.
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - ...
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Married children and qualifying young persons
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Persons exempt from tax
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Children entitled to severe disablement allowance
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Priority between persons entitled to child benefit
+  - Person with prior award
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Person having child or qualifying young person living with him
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Opposite-sex spouses or civil partners
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Parents
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Other cases
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Supplementary
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 Circumstances in which periods of entitlement to statutory sick pay do not arise
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 1A](schedule/11/paragraph/1A.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 5A](schedule/11/paragraph/5A.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+- SCHEDULE 12 Relationship of statutory sick pay with benefits and other payments, etc
+  - The general principle
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Contractual remuneration
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Incapacity benefit
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Incapacity benefit for widows and widowers
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Unemployability supplement
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+- SCHEDULE 13 Relationship of statutory maternity pay with benefits and other payments etc
+  - The general principle
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Incapacity benefit
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Contractual remuneration
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+- TABLE OF DERIVATIONS
