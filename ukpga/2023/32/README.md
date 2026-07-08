@@ -2,9 +2,9 @@
 
 2023 c. 32. Enacted 2023-07-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-08, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-07-08
 
 ## Contents
 
@@ -31,12 +31,16 @@ Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-06-29
     - [s. 16 Foreign interference in elections](section/16.md)
   - Obtaining benefits from a foreign intelligence service
     - [s. 17 Obtaining etc material benefits from a foreign intelligence service](section/17.md)
+  - Offences relating to designated bodies
+    - [s. 17A Supporting a designated body](section/17A.md)
+    - [s. 17B Assisting a designated body](section/17B.md)
+    - [s. 17C Obtaining etc material benefits from a designated body](section/17C.md)
   - Preparatory conduct
     - [s. 18 Preparatory conduct](section/18.md)
-  - Acting for foreign power as aggravating factor in sentencing
+  - Acting for foreign power or designated body as aggravating factor in sentencing
     - [s. 19 Aggravating factor where foreign power condition met: England and Wales](section/19.md)
-    - [s. 20 Aggravating factor where foreign power condition met: Northern Ireland](section/20.md)
-    - [s. 21 Aggravating factor where foreign power condition met: Scotland](section/21.md)
+    - [s. 20 Aggravating factor where foreign power or designated body condition met: Northern Ireland](section/20.md)
+    - [s. 21 Aggravating factor where foreign power or designated body condition met: Scotland](section/21.md)
     - [s. 22 Aggravating factor where foreign power condition met: armed forces](section/22.md)
   - Powers of investigation etc
     - [s. 23 Powers of search etc](section/23.md)
@@ -51,6 +55,16 @@ Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-06-29
     - [s. 31 The foreign power condition](section/31.md)
     - [s. 32 Meaning of “foreign power”](section/32.md)
     - [s. 33 Foreign power threat activity and involvement in that activity](section/33.md)
+  - Designation of bodies involved in foreign power threat activity
+    - [s. 33A Power to designate bodies involved in foreign power threat activity](section/33A.md)
+    - [s. 33B The designated body condition](section/33B.md)
+  - Removal of designation
+    - [s. 33C Removal of designation: application](section/33C.md)
+    - [s. 33D Removal of designation: appeal](section/33D.md)
+    - [s. 33E Further appeal](section/33E.md)
+    - [s. 33F Appeal: effect on conviction etc.](section/33F.md)
+    - [s. 33G Proceedings under the Human Rights Act 1998](section/33G.md)
+    - [s. 33H Immunity](section/33H.md)
   - Supplementary provision
     - [s. 34 Interpretation](section/34.md)
     - [s. 35 Offences by bodies corporate etc](section/35.md)
