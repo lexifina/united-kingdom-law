@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-08, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-07-08
 
 ## Contents
 
@@ -109,7 +109,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-06-29
         - [s. 68 Emergency workers for the purposes of section 67](section/68.md)
         - [s. 68A Assaults on those providing a public service etc](section/68A.md)
         - [s. 69 Terrorist connection](section/69.md)
-        - [s. 69A Offences where foreign power condition met](section/69A.md)
+        - [s. 69A Offences where foreign power or designated body condition met](section/69A.md)
         - [s. 70 Using minor to mind weapon](section/70.md)
         - [s. 70A Sexual grooming of child](section/70A.md)
         - [s. 71 Supply of controlled drug near school premises or involving child](section/71.md)
