@@ -1,0 +1,486 @@
+# Social Security Administration (Northern Ireland) Act 1992
+
+1992 c. 8. Enacted 1992-02-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 196 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
+
+Source: https://www.legislation.gov.uk/ukpga/1992/8/2026-07-09
+
+## Contents
+
+- Part I Claims for and Payments and General Administration of Benefit
+  - Necessity of claim
+    - [s. 1 Entitlement to benefit dependent on claim.](section/1.md)
+    - [s. 2 Retrospective effect of provisions making entitlement to benefit dependent on claim.](section/2.md)
+  - Work-focused interviews and work-related activity
+    - [s. 2A Claim or full entitlement to certain benefits conditional on work-focused interview.](section/2A.md)
+    - [s. 2AA Full entitlement to certain benefits conditional on work-focused interview for partner](section/2AA.md)
+    - [s. 2B Supplementary provisions relating to work-focused interviews.](section/2B.md)
+    - [s. 2C Optional work-focused interviews.](section/2C.md)
+    - [s. 2D Work-related activity](section/2D.md)
+    - [s. 2E Action plans in connection with work-focused interviews](section/2E.md)
+    - [s. 2F Directions about work-related activity](section/2F.md)
+    - [s. 2G Contracting-out](section/2G.md)
+    - [s. 2H Good cause for failure to comply with regulations](section/2H.md)
+  - Bereavement benefits
+    - [s. 3 Late claims for bereavement benefit where death is difficult to establish.](section/3.md)
+    - [s. 4 Treatment of payments of benefit to certain widows.](section/4.md)
+  - Claims and payments regulations
+    - [s. 5 Regulations about claims for and payments of benefit.](section/5.md)
+  - Sharing of functions as regards certain claims and information
+    - [s. 5A Sharing of functions as regards certain claims and information.](section/5A.md)
+    - [s. 5B Use of social security information](section/5B.md)
+  - Industrial injuries benefit
+    - [s. 6 Notification of accidents, etc.](section/6.md)
+    - [s. 7 Medical examination and treatment of claimants.](section/7.md)
+    - [s. 8 Obligations of claimants.](section/8.md)
+  - Disability working allowance
+    - [s. 9 Initial claims and repeat claims.](section/9.md)
+  - The social fund
+    - [s. 10 Necessity of application for certain payments.](section/10.md)
+  - Health in pregnancy grant
+    - [s. 10A Necessity of application for health in pregnancy grant](section/10A.md)
+  - Child benefit
+    - [s. 11 Necessity of application for child benefit.](section/11.md)
+    - [s. 11A Election not to receive child benefit](section/11A.md)
+  - Statutory sick pay
+    - [s. 12 Duties of employees etc. in relation to statutory sick pay.](section/12.md)
+  - Statutory maternity pay
+    - [s. 13 Duties of women etc. in relation to statutory maternity pay.](section/13.md)
+  - Payments in respect of mortgage interest, etc.
+    - [s. 13A Payment out of benefit of sums in respect of mortgage interest, etc.](section/13A.md)
+    - [s. 13B Expenses in respect of vehicle hire, etc.](section/13B.md)
+  - Emergency payments
+    - [s. 14 Emergency payments by Health and Social Care trusts and other bodies.](section/14.md)
+- Part II Adjudication
+  - Adjudication by the Department
+    - [s. 15 Questions for the Department.](section/15.md)
+    - [s. 16 Appeal on question of law.](section/16.md)
+    - [s. 17 Review of decisions.](section/17.md)
+  - Adjudication by adjudication officers
+    - [s. 18 Claims and questions to be submitted to adjudication officer.](section/18.md)
+    - [s. 19 Decision of adjudication officer.](section/19.md)
+  - Appeals from adjudication officers - general
+    - [s. 20 Appeal to social security appeal tribunal.](section/20.md)
+    - [s. 21 Appeal from social security appeal tribunal to Commissioner.](section/21.md)
+    - [s. 22 Appeal from Commissioners on point of law.](section/22.md)
+  - Reviews - general
+    - [s. 23 Review of decisions.](section/23.md)
+    - [s. 24 Procedure for reviews.](section/24.md)
+    - [s. 25 Reviews under s. 23 - supplementary.](section/25.md)
+    - [s. 26 Appeals following reviews or refusals to review.](section/26.md)
+    - [s. 27 Review after claimant appeals.](section/27.md)
+  - Attendance allowance, disability living allowance and disability working allowance
+    - [s. 28 Reviews of decisions of adjudication officers.](section/28.md)
+    - [s. 29 Further reviews.](section/29.md)
+    - [s. 30 Reviews of decisions as to attendance allowance, disability living allowance or disability working allowance - supplementary.](section/30.md)
+    - [s. 31 Appeals following reviews.](section/31.md)
+    - [s. 32 Appeal from social security appeal tribunals or disability appeal tribunals to Commissioners and appeals from Commissioners.](section/32.md)
+    - [s. 33 Reviews of decisions on appeal.](section/33.md)
+  - Questions first arising on appeal
+    - [s. 34 Questions first arising on appeal.](section/34.md)
+  - Reference of special questions
+    - [s. 35 Reference of special questions.](section/35.md)
+  - Adjudication officers and the Chief Adjudication Officer
+    - [s. 36 Adjudication officers.](section/36.md)
+    - [s. 37 The Chief Adjudication Officer.](section/37.md)
+  - Social security appeal tribunals
+    - [s. 38 Panels for appointment to social security appeal tribunals.](section/38.md)
+    - [s. 39 Constitution of social security appeal tribunals.](section/39.md)
+  - Disability appeal tribunals
+    - [s. 40 Panels for appointment to disability appeal tribunals.](section/40.md)
+    - [s. 41 Constitution of disability appeal tribunals.](section/41.md)
+  - Adjudication in relation to industrial injuries and disablement benefit
+    - [s. 42 Declaration that accident is an industrial accident.](section/42.md)
+    - [s. 43 Disablement questions.](section/43.md)
+    - [s. 44 Medical appeals and references.](section/44.md)
+    - [s. 45 Review of medical decisions.](section/45.md)
+    - [s. 46 Appeal etc. on question of law to Commissioner.](section/46.md)
+  - Adjudicating medical practitioners and medical appeal tribunals
+    - [s. 47 Adjudicating medical practitioners.](section/47.md)
+    - [s. 48 Constitution of medical appeal tribunals.](section/48.md)
+  - The President and chairmen of tribunals
+    - [s. 49 The President of social security appeal tribunals, medical appeal tribunals and disability appeal tribunals and chairmen.](section/49.md)
+  - Social Security Commissioners
+    - [s. 50 Appointment of Commissioners.](section/50.md)
+  - References to medical practitioners, the Disability Living Allowance Advisory Board etc.
+    - [s. 51 Power of adjudicating authorities to refer matters to experts.](section/51.md)
+    - [s. 52 Claims relating to attendance allowance, disability living allowance and disability working allowance.](section/52.md)
+    - [s. 53 Medical examination etc. in relation to appeals to disability appeal tribunals.](section/53.md)
+  - Determination of questions of special difficulty
+    - [s. 54 Assessors.](section/54.md)
+    - [s. 55 Tribunal of 2 or 3 Commissioners.](section/55.md)
+  - Medical examinations
+    - [s. 55A Medical examinations of persons awarded attendance allowance or disability living allowance.](section/55A.md)
+  - Regulations
+    - [s. 56 Regulations as to determination of questions and matters arising out of, or pending, reviews and appeals.](section/56.md)
+    - [s. 57 Procedure.](section/57.md)
+    - [s. 58 Finality of decisions.](section/58.md)
+    - [s. 59 Regulations about supplementary matters relating to determinations.](section/59.md)
+  - Incapacity for work
+    - [s. 59A Adjudication: incapacity for work.](section/59A.md)
+  - Industrial diseases
+    - [s. 60 Adjudication as to industrial diseases.](section/60.md)
+  - Housing benefit
+    - [s. 61 Adjudication.](section/61.md)
+  - Social fund officers and inspectors and the social fund Commissioner
+    - [s. 62 Social fund officers.](section/62.md)
+    - [s. 63 The social fund Commissioner and inspectors.](section/63.md)
+    - [s. 64 Reviews.](section/64.md)
+  - Christmas bonus
+    - [s. 65 Determination of questions.](section/65.md)
+  - Restrictions on entitlement to benefit following erroneous decision
+    - [s. 66 Restrictions on entitlement to benefit in certain cases of error.](section/66.md)
+    - [s. 67 Determination of questions on review following erroneous decisions.](section/67.md)
+  - Correction of errors
+    - [s. 68 Regulations as to correction of errors.](section/68.md)
+- Part III Overpayments and Adjustments of Benefit
+  - Misrepresentation etc.
+    - [s. 69 Overpayments - general.](section/69.md)
+    - [s. 69ZA Overpayments out of the social fund.](section/69ZA.md)
+  - Recovery of benefit payments
+    - [s. 69ZB Recovery of overpayments of certain benefits](section/69ZB.md)
+    - [s. 69ZC Deduction from benefit](section/69ZC.md)
+    - [s. 69ZD Deduction from earnings](section/69ZD.md)
+    - [s. 69ZE Court action etc.](section/69ZE.md)
+    - [s. 69ZF Adjustment of benefit](section/69ZF.md)
+    - [s. 69ZG Recovery of payments on account](section/69ZG.md)
+    - [s. 69ZH Recovery of hardship payments etc.](section/69ZH.md)
+  - Jobseeker’s Allowance
+    - [s. 69A Recovery of jobseeker’s allowance: severe hardship cases.](section/69A.md)
+    - [s. 70 ................................](section/70.md)
+  - Adjustments of benefits
+    - [s. 71 Overlapping benefits - general.](section/71.md)
+    - [s. 72 Income support and other payments.](section/72.md)
+    - [s. 72A Payment of benefit where maintenance payments collected by Department.](section/72A.md)
+  - Housing benefit
+    - [s. 73 Overpayments of housing benefit.](section/73.md)
+  - Social fund awards
+    - [s. 74 Recovery of social fund awards.](section/74.md)
+  - Great Britain payments
+    - [s. 75 Recovery of Great Britain payments.](section/75.md)
+  - Adjustment of child benefit
+    - [s. 76 Child benefit - overlap with benefits under legislation of ... member States.](section/76.md)
+- Part IV
+  - [s. 77 Interpretation of Part IV.](section/77.md)
+  - Recovery from damages, etc. of sums equivalent to benefit
+    - [s. 78 Recovery of sums equivalent to benefit from compensation payments in respect of accidents, injuries and diseases.](section/78.md)
+  - Payments, deductions and certificates
+    - [s. 79 Time for making payment to Department.](section/79.md)
+    - [s. 80 The certificate of total benefit.](section/80.md)
+    - [s. 81 Exemption from deduction in cases involving small payments.](section/81.md)
+    - [s. 82 Multiple compensation payments.](section/82.md)
+    - [s. 83 Collaboration between compensators.](section/83.md)
+    - [s. 84 Structured settlements.](section/84.md)
+    - [s. 85 Insolvency.](section/85.md)
+    - [s. 86 Protection of legal aid charges.](section/86.md)
+    - [s. 87 Overpaid benefits.](section/87.md)
+    - [s. 88 Death.](section/88.md)
+    - [s. 89 Payments into court.](section/89.md)
+  - Administration and adjudication
+    - [s. 90 Provision of information.](section/90.md)
+    - [s. 91 Applications for certificates of total benefit.](section/91.md)
+    - [s. 92 Liability of compensator unenforceable if certificate not issued within time limit.](section/92.md)
+    - [s. 93 Review of certificates of total benefit.](section/93.md)
+    - [s. 94 Appeals.](section/94.md)
+    - [s. 95 Recovery in consequence of an appeal.](section/95.md)
+    - [s. 96 Recovery of relevant payment in cases of default.](section/96.md)
+  - Miscellaneous
+    - [s. 97 Foreign compensators: duties of intended recipient.](section/97.md)
+    - [s. 98 Interest on damages: reductions in respect of relevant payments.](section/98.md)
+    - [s. 99 The Crown.](section/99.md)
+- Part V Income Support And The Duty To Maintain
+  - [s. 100 Failure to maintain - general.](section/100.md)
+  - [s. 101 Recovery of expenditure on benefit from person liable for maintenance.](section/101.md)
+  - [s. 102 Recovery of expenditure on income support: additional amounts and transfer of orders.](section/102.md)
+  - [s. 103 Reduction of expenditure on income support: certain maintenance orders to be enforceable by the Department.](section/103.md)
+- Part VI Enforcement
+  - Inspection
+    - [s. 103A Authorisations for investigators](section/103A.md)
+    - [s. 103B Power to require information](section/103B.md)
+    - [s. 103BA Power of Department to require electronic access to information](section/103BA.md)
+    - [s. 103C Powers of entry](section/103C.md)
+    - [s. 104 Appointment and powers of inspectors.](section/104.md)
+    - [s. 104ZA Class 1, 1A, 1B or 2 contributions: powers to call for documents etc](section/104ZA.md)
+    - [s. 104A Authorisations by the Housing Executive](section/104A.md)
+    - [s. 104AA Power of Housing Executive to require electronic access to information](section/104AA.md)
+    - [s. 104B Powers of inspectors appointed under section 104A.](section/104B.md)
+    - [s. 105 Delay, obstruction etc. of inspector.](section/105.md)
+    - [s. 105A Dishonest representations for obtaining benefit etc.](section/105A.md)
+    - [s. 106 False representations for obtaining benefit etc.](section/106.md)
+    - [s. 107 Breach of regulations.](section/107.md)
+    - [s. 107A Statutory sick pay and statutory maternity pay: breach of regulations](section/107A.md)
+    - [s. 107B Statutory sick pay and statutory maternity pay: fraud and negligence](section/107B.md)
+    - [s. 107C Health in pregnancy grant: civil penalty for fraud, etc.](section/107C.md)
+    - [s. 108 Offences relating to contributions.](section/108.md)
+    - [s. 108A Penalties relating to contributions.](section/108A.md)
+    - [s. 109 Offences by bodies corporate.](section/109.md)
+    - [s. 109A Penalty as alternative to prosecution.](section/109A.md)
+    - [s. 109B Penalty as alternative to prosecution: colluding employers, etc.](section/109B.md)
+  - Legal proceedings
+    - [s. 110 Legal proceedings.](section/110.md)
+    - [s. 111 Issues arising in proceedings.](section/111.md)
+    - [s. 111A Issues arising in proceedings: contributions, etc.](section/111A.md)
+  - Unpaid contributions etc.
+    - [s. 112 Evidence of non-payment.](section/112.md)
+    - [s. 113 Recovery of unpaid contributions on prosecution.](section/113.md)
+    - [s. 114 Proof of previous offences.](section/114.md)
+    - [s. 115 Unpaid contributions - supplementary.](section/115.md)
+    - [s. 115A Recovery of contributions, etc.](section/115A.md)
+    - [s. 115B Liability of directors, etc. for company’s contributions.](section/115B.md)
+    - [s. 115C Appeals in relation to personal liability notices.](section/115C.md)
+    - [s. 115CA Interpretation of Part VI](section/115CA.md)
+- Part VII Information
+  - Information relating to, or required for purposes of, contributions, statutory sick pay or statutory maternity pay
+    - [s. 115D Supply of contributions, etc. information held by Inland Revenue.](section/115D.md)
+    - [s. 115E Supply to Inland Revenue for purposes of contributions, etc. of information held by Department or Secretary of State.](section/115E.md)
+  - Information held by tax authorities
+    - [s. 116 Supply of information held by tax authorities for fraud prevention and verification.](section/116.md)
+    - [s. 116ZA Supply of tax information to assess certain employment or training schemes](section/116ZA.md)
+    - [s. 116AA Disclosure of contributions, etc. information by Her Majesty’s Revenue and Customs.](section/116AA.md)
+    - [s. 116A ................................](section/116A.md)
+  - Other government information
+    - [s. 116B Supply of other government information for fraud prevention and verification.](section/116B.md)
+  - The Housing Executive
+    - [s. 116C Supply of information to the Housing Executive.](section/116C.md)
+    - [s. 116D Supply of information by the Housing Executive.](section/116D.md)
+  - Persons employed or formerly employed in social security administration or adjudication
+    - [s. 117 Unauthorised disclosure of information relating to particular persons.](section/117.md)
+  - Notification of deaths
+    - [s. 118 Regulations as to notification of deaths.](section/118.md)
+  - Personal representatives - income support and supplementary benefit
+    - [s. 119 Personal representatives to give information about the estate of a deceased person who was in receipt of income support or supplementary benefit.](section/119.md)
+  - Landlords and agents
+    - [s. 119A Power to require information from landlords and agents.](section/119A.md)
+  - Housing benefit
+    - [s. 120 ................................](section/120.md)
+  - Statutory sick pay and other benefits
+    - [s. 121 Disclosure by the Department for purpose of determination of period of entitlement to statutory sick pay.](section/121.md)
+    - [s. 122 Duties of employers - statutory sick pay and claims for other benefits.](section/122.md)
+  - Statutory maternity pay and other benefits
+    - [s. 123 Disclosure by the Department for purpose of determination of period of entitlement to statutory maternity pay.](section/123.md)
+    - [s. 124 Duties of employers - statutory maternity pay and claims for other benefits.](section/124.md)
+  - Maintenance proceedings
+    - [s. 125 Furnishing of addresses for maintenance proceedings, etc.](section/125.md)
+- Part VIII Arrangements for Housing Benefit
+  - Housing benefit
+    - [s. 126 Arrangements for housing benefit.](section/126.md)
+    - [s. 127 Housing benefit finance.](section/127.md)
+    - [s. 128 Claims etc.](section/128.md)
+  - Reports
+    - [s. 128A Persons to report on administration.](section/128A.md)
+    - [s. 128B Powers of investigation.](section/128B.md)
+    - [s. 128C Reports.](section/128C.md)
+  - Directions by Department
+    - [s. 128D Directions.](section/128D.md)
+    - [s. 128DA Directions: variations and revocation](section/128DA.md)
+    - [s. 128E Information about attainment of standards.](section/128E.md)
+    - [s. 128EE Financing of other expenditure.](section/128EE.md)
+    - [s. 128F Enforcement notices.](section/128F.md)
+    - [s. 128G Enforcement determinations.](section/128G.md)
+    - [s. 128H Enforcement determinations: supplementary.](section/128H.md)
+- Part IX Alteration of Contributions and Benefits
+  - Alteration of contributions, etc.
+    - [s. 129 Amendments following alterations in Great Britain.](section/129.md)
+    - [s. 130 Revaluation of earnings factors.](section/130.md)
+    - [s. 130A Revaluation of low earnings threshold](section/130A.md)
+    - [s. 130AA Revaluation of flat rate accrual amount](section/130AA.md)
+    - [s. 130AC Revaluation for transitional pensions under Pensions Act (Northern Ireland) 2015](section/130AC.md)
+    - [s. 130AD Revaluation of new state scheme pension debits and credits](section/130AD.md)
+    - [s. 131 Statutory sick pay - power to alter limit for small employers’ relief.](section/131.md)
+  - Review and alteration of benefits
+    - [s. 132 Annual up-rating of benefits.](section/132.md)
+    - [s. 132A Annual up-rating of basic pension etc. and standard minimum guarantee](section/132A.md)
+    - [s. 132B Up-rating of transitional state pensions under Pensions Act (Northern Ireland) 2015](section/132B.md)
+    - [s. 133 Rectification of mistakes in up-rating orders.](section/133.md)
+    - [s. 134 Social security benefits in respect of children.](section/134.md)
+- Part X Computation of Benefits
+  - [s. 135 Effect of alteration of rates of benefit under Parts II to V of Contributions and Benefits Act.](section/135.md)
+  - [s. 135A Power to anticipate pensions up-rating order.](section/135A.md)
+  - [s. 136 Up-rating under section 132 of pensions increased under section 52(3) of Contributions and Benefits Act.](section/136.md)
+  - [s. 137 Effect of alteration of rates of child benefit.](section/137.md)
+  - [s. 138 Treatment of excess benefit as paid on account of child benefit.](section/138.md)
+  - [s. 139 Effect of alteration in the component rates of income support.](section/139.md)
+  - [s. 139A Effect of alteration of rates of a jobseeker’s allowance.](section/139A.md)
+  - [s. 139B Effect of alterations affecting state pension credit](section/139B.md)
+  - [s. 139C Effect of alteration of rates of an employment and support allowance](section/139C.md)
+  - [s. 139D Effect of alterations affecting universal credit](section/139D.md)
+  - [s. 139E Effect of alteration of rates of personal independence payment](section/139E.md)
+  - [s. 140 Implementation of increases in income support due to attainment of particular ages.](section/140.md)
+  - [s. 140A Implementation of increases in income-based jobseeker’s allowance due to attainment of particular ages.](section/140A.md)
+  - [s. 140B Implementation of increases in employment and support allowance due to attainment of particular ages](section/140B.md)
+- Part XI Finance
+  - [s. 141 National Insurance Fund.](section/141.md)
+  - [s. 142 Destination of contributions.](section/142.md)
+  - [s. 143 General financial arrangements.](section/143.md)
+  - [s. 144 Destination of repayments, etc.](section/144.md)
+  - [s. 145 Adjustments between National Insurance Fund and Consolidated Fund.](section/145.md)
+  - [s. 146 The social fund.](section/146.md)
+  - [s. 147 Allocations from social fund.](section/147.md)
+  - [s. 148 Adjustments between social fund and other sources of finance.](section/148.md)
+- Part XII Advisory Bodies and the Duty to Consult
+  - Consultation with the Social Security Advisory Committee
+    - [s. 149 Functions of Social Security Advisory Committee in relation to legislation and regulations.](section/149.md)
+    - [s. 150 Cases in which consultation with Committee is not required.](section/150.md)
+    - [s. 151 Committee’s report on regulations and Department’s duties.](section/151.md)
+  - The Disability Living Allowance Advisory Board
+    - [s. 152 The Disability Living Allowance Advisory Board.](section/152.md)
+- Part XIII Social Security Systems Outside Northern Ireland
+  - Co-ordination
+    - [s. 153 ................................](section/153.md)
+  - Reciprocity
+    - [s. 154 ................................](section/154.md)
+    - [s. 155 Reciprocal agreements with countries outside the United Kingdom.](section/155.md)
+    - [s. 155A Exchange of information with overseas authorities](section/155A.md)
+- Part XIV Miscellaneous
+  - Travelling expenses
+    - [s. 156 Payment of travelling expenses by Department.](section/156.md)
+    - [s. 156A Payment of travelling expenses by the Commissioners of Inland Revenue](section/156A.md)
+  - Offences
+    - [s. 157 Impersonation of officers.](section/157.md)
+    - [s. 158 Illegal possession of documents.](section/158.md)
+  - Redirection of post
+    - [s. 158A Return of social security post.](section/158A.md)
+    - [s. 158B Requirement to supply information about redirection of post.](section/158B.md)
+  - National insurance numbers
+    - [s. 158C Requirement to apply for national insurance number.](section/158C.md)
+  - Industrial injuries and diseases
+    - [s. 159 Research on industrial injuries, etc.](section/159.md)
+    - [s. 160 Control of pneumoconiosis.](section/160.md)
+  - Workmen’s compensation, etc.
+    - [s. 161 Administration of workmen’s compensation etc.](section/161.md)
+  - Supplementary benefit etc.
+    - [s. 162 Application of provisions of Act to supplementary benefit, etc.](section/162.md)
+  - Miscellaneous
+    - [s. 163 Certain benefit to be inalienable.](section/163.md)
+    - [s. 164 Exemption from stamp duty.](section/164.md)
+- Part XV General
+  - Subordinate legislation
+    - [s. 165 Regulations and orders - general.](section/165.md)
+    - [s. 166 Assembly, etc. control of orders and regulations.](section/166.md)
+  - Supplementary
+    - [s. 167 Interpretation.](section/167.md)
+    - [s. 168 Short title, commencement and extent.](section/168.md)
+- SCHEDULE 1 CLAIMS FOR BENEFIT MADE OR TREATED BEFORE 1ST OCTOBER 1990
+  - Claims made or treated as made on or after 2nd September 1985 and before 19th November 1986
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Claims made or treated as made on or after 19th November 1986 and before 6th April 1987
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Claims made or treated as made on or after 6th April 1987 and before 23rd August 1989
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Claims made or treated as made on or after 23rd August 1989 and before 14th August 1990
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Claims made or treated as made on or after 14th August 1990 and before 1st October 1990
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 COMMISSIONERS – SUPPLEMENTARY PROVISIONS
+  - Tenure of offices
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Remuneration etc. for President and chairmen
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Officers and staff
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Clerks to social security appeal tribunals and disability appeal tribunals
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Miscellaneous administrative duties of President
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Remuneration etc.
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Certificates of decisions
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 REGULATIONS AS TO PROCEDURE
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Provision which may be made
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 3A Health in pregnancy grant: Civil penalty for fraud, etc.
+  - Penalty
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Appeal
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Mitigation
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Time limit
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Recovery
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+- SCHEDULE 4 PERSONS EMPLOYED IN SOCIAL SECURITY ADMINISTRATION OR ADJUDICATION
+  - Part I The Specified Persons
+    - Government departments
+    - ...
+    - The Housing Executive etc.
+    - Adjudication officers
+    - Adjudicating bodies
+    - The Disability Living Allowance Advisory Board for Northern Ireland
+    - ...
+    - ...
+    - Discretionary support officers
+    - Former statutory bodies
+  - Part II Construction of References to Government Departments Etc.
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 REGULATIONS NOT REQUIRING PRIOR SUBMISSION TO SOCIAL SECURITY ADVISORY COMMITTEE
+  - Personal independence payment
+    - [Sch. 5 para. A1](schedule/5/paragraph/A1.md)
+  - Disability living allowance
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Industrial injuries
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Up-rating, etc.
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Benefit cap
+    - [Sch. 5 para. 3A](schedule/5/paragraph/3A.md)
+  - Earnings limits
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Married women and widows—reduced rate contributions
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Child benefit
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Statutory maternity pay and statutory sick pay
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Consolidation, etc.
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 5A Regulations not requiring prior submission to Industrial Injuries Advisory Council
+  - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+  - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+  - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+  - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+- SCHEDULE 6 OLD CASES PAYMENTS ADMINISTRATION
+  - Provisions ancillary to paragraph 2 of Schedule 8 to Contributions and Benefits Act
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Adjustment of benefit in certain cases
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Overpayments
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 SUPPLEMENTARY BENEFITS, ETC.
+  - Claims and payments
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Adjudication
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Overpayments etc.
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Inspection
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Legal proceedings
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- TABLE OF DERIVATIONS
