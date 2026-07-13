@@ -1,0 +1,106 @@
+# Financial Services Act 2010
+
+2010 c. 28. Enacted 2010-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2010/28/2026-07-13
+
+## Contents
+
+- Objectives of FSA etc
+  - [s. 1 Financial stability objective](section/1.md)
+  - [s. 2 Enhancing public understanding of financial matters etc](section/2.md)
+  - [s. 3 Meeting FSA’s regulatory objectives](section/3.md)
+- Remuneration of executives of authorised persons
+  - [s. 4 Executives’ remuneration reports](section/4.md)
+  - [s. 5 Executives’ remuneration reports: supplementary](section/5.md)
+  - [s. 6 Rules made by FSA about remuneration](section/6.md)
+- Recovery and resolution plans
+  - [s. 7 Rules made by FSA about recovery and resolution plans](section/7.md)
+- Short selling
+  - [s. 8 Power of FSA to prohibit, or require disclosure of, short selling](section/8.md)
+- FSA’s disciplinary powers
+  - [s. 9 Suspending permission to carry on regulated activities etc](section/9.md)
+  - [s. 10 Removal of restriction on imposing a penalty and cancelling authorisation](section/10.md)
+  - [s. 11 Performance of controlled function without approval](section/11.md)
+  - [s. 12 Approved persons guilty of misconduct](section/12.md)
+  - [s. 13 Publication of decision notices](section/13.md)
+- Measures to protect consumers
+  - [s. 14 Consumer redress schemes](section/14.md)
+  - [s. 15 Restrictions on provision of credit card cheques](section/15.md)
+- Financial Services Compensation Scheme
+  - [s. 16 Contribution to costs of special resolution regime](section/16.md)
+  - [s. 17 Power to require FSCS manager to act in relation to other schemes](section/17.md)
+- Powers to require information
+  - [s. 18 Information relating to financial stability](section/18.md)
+  - [s. 19 Asset protection scheme etc](section/19.md)
+- Banking Act 2009
+  - [s. 20 Services forming part of recognised inter-bank payment systems](section/20.md)
+  - [s. 21 Minor amendments of provision made by Banking Act 2009](section/21.md)
+- Director of Savings
+  - [s. 22 Administration of court funds by Director of Savings](section/22.md)
+- General
+  - [s. 23 Orders or regulations](section/23.md)
+  - [s. 24 Minor and consequential amendments](section/24.md)
+  - [s. 25 Extent](section/25.md)
+  - [s. 26 Commencement](section/26.md)
+  - [s. 27 Short title](section/27.md)
+- SCHEDULE 1 Further provision about the consumer financial education body
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Minor and consequential amendments
+  - Part 1 Amendments of Financial Services and Markets Act 2000
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - Part 2 Amendments of other legislation
+    - Consumer Credit Act 1974
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Contracting Out (Functions Relating to National Savings) Order 1998
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - Financial Services and Markets Act 2000 (Markets in Financial Instruments) (Modification of Powers) Regulations 2006
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Banking Act 2009
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
