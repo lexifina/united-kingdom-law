@@ -2,9 +2,9 @@
 
 2023 c. 55. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-07-15
 
 ## Contents
 
@@ -55,6 +55,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-06-29
       - [s. 23B Contraventions of section 23A](section/23B.md)
       - [s. 24 Designation of key route network roads](section/24.md)
       - [s. 24A Health improvement and health inequalities duty](section/24A.md)
+      - [s. 24B Co-operation with local government pension scheme managers](section/24B.md)
       - [s. 24C Powers not limited by other provision or powers](section/24C.md)
       - [s. 24D Non-mayoral CCA: consent to budget](section/24D.md)
       - [s. 24E Non-mayoral CCA: functions imposing financial liability](section/24E.md)
