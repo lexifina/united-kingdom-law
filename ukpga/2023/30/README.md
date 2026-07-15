@@ -1,0 +1,960 @@
+# Finance (No. 2) Act 2023
+
+2023 c. 30. Enacted 2023-07-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-07-15
+
+## Contents
+
+- Part 1 Income tax, corporation tax and capital gains tax
+  - Income tax charge, rates etc
+    - [s. 1 Income tax charge for tax year 2023-24](section/1.md)
+    - [s. 2 Main rates of income tax for tax year 2023-24](section/2.md)
+    - [s. 3 Default and savings rates of income tax for tax year 2023-24](section/3.md)
+    - [s. 4 Freezing starting rate limit for savings for tax year 2023-24](section/4.md)
+  - Corporation tax charge and rates
+    - [s. 5 Charge and main rate for financial year 2024](section/5.md)
+    - [s. 6 Standard small profits rate and fraction for financial year 2024](section/6.md)
+  - Capital allowances
+    - [s. 7 Temporary full expensing etc for expenditure on plant or machinery](section/7.md)
+    - [s. 8 Annual investment allowance to remain at £1M beyond temporary period](section/8.md)
+    - [s. 9 First-year allowance for expenditure on electric vehicle charge points](section/9.md)
+  - Other reliefs relating to businesses
+    - [s. 10 Relief for research and development](section/10.md)
+    - [s. 11 Treatment of profits from patents etc: small profits rate of corporation tax](section/11.md)
+    - [s. 12 Energy (oil and gas) profits levy: de-carbonisation allowance](section/12.md)
+    - [s. 13 Museums and galleries exhibition tax relief: extension of sunset date](section/13.md)
+    - [s. 14 Extension of the temporary increase in theatre tax credit etc](section/14.md)
+    - [s. 15 Seed enterprise investment scheme: increase of limits etc.](section/15.md)
+  - Reliefs for employees
+    - [s. 16 CSOP schemes: share value limit and share class](section/16.md)
+    - [s. 17 Enterprise management incentives: restricted shares and declarations](section/17.md)
+  - Pensions
+    - [s. 18 Lifetime allowance charge abolished](section/18.md)
+    - [s. 19 Certain lump sums to be taxed at marginal rate](section/19.md)
+    - [s. 20 Annual allowance increased](section/20.md)
+    - [s. 21 Money purchase annual allowance](section/21.md)
+    - [s. 22 Annual allowance: tapering](section/22.md)
+    - [s. 23 Modification of certain existing transitional protections](section/23.md)
+    - [s. 24 Collective money purchase arrangements](section/24.md)
+    - [s. 25 Relief relating to net pay arrangements](section/25.md)
+  - Social security
+    - [s. 26 Payments under Jobs Growth Wales Plus](section/26.md)
+    - [s. 27 Power to clarify tax treatment of devolved social security benefits](section/27.md)
+  - Foster carers etc
+    - [s. 28 Qualifying care relief: increase in individual’s limit](section/28.md)
+  - Estates in administration and trusts
+    - [s. 29 Estates in administration and trusts](section/29.md)
+  - Provisions relating to insurance
+    - [s. 30 Transfer of basic life assurance and general annuity business](section/30.md)
+    - [s. 31 Certain re-insurance sums not to count as deemed I-E receipts](section/31.md)
+    - [s. 32 Insurers in difficulties: write-down orders for corporation tax purposes](section/32.md)
+    - [s. 33 Insurers in difficulties: write-down orders in case of pension schemes](section/33.md)
+  - Miscellaneous corporation tax matters
+    - [s. 34 Corporate interest restriction](section/34.md)
+    - [s. 35 Investment vehicles](section/35.md)
+  - International matters
+    - [s. 36 Share exchanges involving non-UK incorporated close companies](section/36.md)
+    - [s. 37 Records relating to transfer pricing](section/37.md)
+    - [s. 38 Double taxation relief: foreign nominal rates](section/38.md)
+  - Chargeable gains
+    - [s. 39 Payments to farmers under the lump sum exit scheme etc](section/39.md)
+    - [s. 40 Contracts completed after ordinary notification period](section/40.md)
+    - [s. 41 Separated spouses and civil partners](section/41.md)
+    - [s. 42 Carried interest: election to pay tax as scheme profits arise](section/42.md)
+    - [s. 43 Relief on disposal of joint interests in land](section/43.md)
+- Part 2 Alcohol Duty
+  - Chapter 1 Charge to alcohol duty
+    - Alcoholic products
+      - [s. 44 Meaning of “alcoholic product”](section/44.md)
+      - [s. 45 Alcoholic strength](section/45.md)
+      - [s. 46 Categories of alcoholic products: regulations](section/46.md)
+    - Charge and rates
+      - [s. 47 Alcohol duty: charge](section/47.md)
+      - [s. 48 Rates](section/48.md)
+      - [s. 49 Excise duty point and payment](section/49.md)
+  - Chapter 2 Draught relief
+    - [s. 50 Qualifying draught products: reduced rates](section/50.md)
+    - [s. 51 Alcoholic products qualifying for draught relief](section/51.md)
+    - [s. 52 Repackaging qualifying draught products](section/52.md)
+    - [s. 53 Repackaging in contravention of section 52 (2)](section/53.md)
+  - Chapter 3 Small producer relief
+    - Main provisions
+      - [s. 54 Small producer relief: discounted rates](section/54.md)
+      - [s. 55 Small producer alcoholic products](section/55.md)
+      - [s. 56 Small production premises](section/56.md)
+      - [s. 57 “Alcohol production amount” etc](section/57.md)
+      - [s. 58 Exclusions](section/58.md)
+      - [s. 59 Duty discount for small producer alcoholic products](section/59.md)
+      - [s. 60 Assessments where incorrectly low rate of alcohol duty applied](section/60.md)
+    - Mergers and demergers
+      - [s. 61 Mergers: general provisions](section/61.md)
+      - [s. 62 Modified “small production premises” test](section/62.md)
+      - [s. 63 Modified duty discount](section/63.md)
+      - [s. 64 Adjusted post-merger amount](section/64.md)
+      - [s. 65 Early termination of merger transition period](section/65.md)
+      - [s. 66 Subsequent mergers](section/66.md)
+      - [s. 67 Simultaneous mergers](section/67.md)
+      - [s. 68 Demergers](section/68.md)
+    - Interpretation of Chapter 3
+      - [s. 69 “Producer”, “production premises”, “group premises” etc](section/69.md)
+      - [s. 70 Connected persons](section/70.md)
+      - [s. 71 Index of defined expressions: Chapter 3](section/71.md)
+  - Chapter 4 Other reliefs and exemptions
+    - General
+      - [s. 72 Exemption: production for personal consumption](section/72.md)
+      - [s. 73 Research and experiments](section/73.md)
+      - [s. 74 Spoilt alcoholic products](section/74.md)
+      - [s. 75 Alcoholic ingredients](section/75.md)
+    - Spirits
+      - [s. 76 Imported medical articles](section/76.md)
+      - [s. 77 Flavourings](section/77.md)
+      - [s. 78 Authorised use for certain purposes](section/78.md)
+      - [s. 79 Imported goods not for human consumption](section/79.md)
+      - [s. 80 Restrictions on use of certain articles](section/80.md)
+    - Remission and repayment
+      - [s. 81 Further provision about remission and repayment](section/81.md)
+  - Chapter 5 Regulated activities and approvals
+    - [s. 82 Approval requirement: producers](section/82.md)
+    - [s. 83 Supplementary provision about approvals](section/83.md)
+    - [s. 84 Exemption: production for personal consumption](section/84.md)
+    - [s. 85 Exemption: research and experiments](section/85.md)
+    - [s. 86 Mixing alcoholic products](section/86.md)
+    - [s. 87 Post-duty point dilution of alcoholic products](section/87.md)
+    - [s. 88 Alcoholic products regulations](section/88.md)
+    - [s. 89 Penalties and forfeiture](section/89.md)
+  - Chapter 6 Denatured alcohol
+    - [s. 90 Denatured alcohol](section/90.md)
+    - [s. 91 Licence to manufacture and deal wholesale in denatured alcohol](section/91.md)
+    - [s. 92 Regulations relating to denatured alcohol](section/92.md)
+    - [s. 93 Penalties and forfeiture](section/93.md)
+    - [s. 94 Defaults in respect of denatured alcohol: possession of excess alcoholic products](section/94.md)
+    - [s. 95 Defaults in respect of denatured alcohol: supply and use of denatured alcohol](section/95.md)
+    - [s. 96 Inspection of premises etc](section/96.md)
+    - [s. 97 Prohibition of use of denatured alcohol etc as beverage or medicine](section/97.md)
+  - Chapter 7 Wholesaling of controlled alcoholic products
+    - [s. 98 Definitions](section/98.md)
+    - [s. 99 Further provision relating to definitions](section/99.md)
+    - [s. 100 Approval to carry on controlled activity](section/100.md)
+    - [s. 101 The register of approved wholesalers](section/101.md)
+    - [s. 102 Regulations relating to approval, registration and controlled activities](section/102.md)
+    - [s. 103 Restriction on buying controlled alcoholic products wholesale](section/103.md)
+    - [s. 104 Offences](section/104.md)
+    - [s. 105 Penalties](section/105.md)
+    - [s. 106 Groups](section/106.md)
+    - [s. 107 Index of defined expressions: Chapter 7](section/107.md)
+  - Chapter 8 Supplementary
+    - [s. 108 Reviews and appeals](section/108.md)
+    - [s. 109 Forfeiture: supplementary provision](section/109.md)
+    - [s. 110 Removal of goods: application of section 95 of CEMA 1979](section/110.md)
+    - [s. 111 Drawback](section/111.md)
+    - [s. 112 Duty stamps](section/112.md)
+  - Chapter 9 repeals, further amendments and transitional provisions
+    - Repeals and further amendments
+      - [s. 113 Repeals](section/113.md)
+      - [s. 114 Minor and consequential amendments](section/114.md)
+    - Transitional provision
+      - [s. 115 Temporary provision: wine](section/115.md)
+      - [s. 116 Temporary provision: cider](section/116.md)
+  - Chapter 10 Final provisions
+    - [s. 117 Interpretation of this Part](section/117.md)
+    - [s. 118 Regulations: supplementary and general](section/118.md)
+    - [s. 119 Regulations: procedure](section/119.md)
+    - [s. 120 Commencement](section/120.md)
+- Part 3 Multinational top-up tax
+  - Chapter 1 Introduction and charge
+    - [s. 121 Introduction to multinational top-up tax](section/121.md)
+    - [s. 122 Chargeable persons](section/122.md)
+    - [s. 123 Charge to multinational top-up tax](section/123.md)
+    - [s. 124 How to calculate top-up amounts etc](section/124.md)
+    - [s. 125 Administration of multinational top-up tax](section/125.md)
+  - Chapter 2 Qualifying multinational groups and their members
+    - Multinational groups
+      - [s. 126 Meaning of “multinational group” and “ultimate parent”](section/126.md)
+      - [s. 127 Excluded entities](section/127.md)
+    - Responsible members
+      - [s. 128 Responsible members](section/128.md)
+    - Qualifying multinational groups
+      - [s. 129 Qualifying multinational groups](section/129.md)
+      - [s. 130 Change in composition of multinational group](section/130.md)
+      - [s. 131 Whether de-merged groups meet the revenue threshold](section/131.md)
+  - Chapter 3 Effective tax rate of members of a multinational group in a territory
+    - [s. 132 Effective tax rate](section/132.md)
+  - Chapter 4 Calculation of adjusted profits of members of a multinational group
+    - Adjusted profits of a member of a multinational group
+      - [s. 133 Adjusted profits of a member of a multinational group](section/133.md)
+      - [s. 134 Underlying profits as determined for statements of ultimate parent](section/134.md)
+      - [s. 135 Underlying profits of permanent establishments](section/135.md)
+      - [s. 136 Underlying profits accounts](section/136.md)
+      - [s. 137 No amounts outside of profit and loss account to be included](section/137.md)
+      - [s. 137A Use of substituted values](section/137A.md)
+    - Adjustments of underlying profits
+      - [s. 138 Profits adjusted to be before tax](section/138.md)
+      - [s. 139 Profits adjusted to be profits before consolidation adjustments to eliminate intragroup transactions](section/139.md)
+      - [s. 140 Profits adjusted to be profits before certain purchase accounting adjustments](section/140.md)
+      - [s. 141 General exclusion of dividends](section/141.md)
+      - [s. 142 Excluded equity gain or loss](section/142.md)
+      - [s. 143 Included revaluation method gain or loss](section/143.md)
+      - [s. 144 Adjustments for asymmetric foreign currency income and losses](section/144.md)
+      - [s. 145 Exclusion of expenses for illegal payments, fines and penalties](section/145.md)
+      - [s. 146 Adjustment for changes in accounting policies and prior period errors](section/146.md)
+      - [s. 147 Accrued pension expense](section/147.md)
+      - [s. 147A Treatment of tax credits](section/147A.md)
+      - [s. 148 Meaning of qualifying refundable tax credits](section/148.md)
+      - [s. 148A Transferable tax credits](section/148A.md)
+      - [s. 148B Value of marketable transferable tax credits: originator](section/148B.md)
+      - [s. 148C Value of marketable transferable tax credits: purchaser](section/148C.md)
+      - [s. 149 Arm’s length requirement for certain transactions](section/149.md)
+      - [s. 150 Transactions between members of a multinational group: differences with accounting for tax](section/150.md)
+      - [s. 150A Instruments held intragroup: issuer’s accounting treatment to prevail](section/150A.md)
+      - [s. 151 Adjustments for companies in distress](section/151.md)
+      - [s. 152 Adjustments where life assurance business carried on](section/152.md)
+      - [s. 153 Exclusion of certain insurance reserve movement expense](section/153.md)
+      - [s. 154 Exclusion of qualifying intra-group financing arrangement expenses](section/154.md)
+      - [s. 155 Qualifying tier one capital](section/155.md)
+      - [s. 156 Exclusion of international shipping profits](section/156.md)
+      - [s. 157 Core international shipping profits](section/157.md)
+      - [s. 158 Ancillary international shipping profits](section/158.md)
+    - Adjustments only applicable to permanent establishments
+      - [s. 159 Permanent establishment income and expense attribution](section/159.md)
+      - [s. 160 Attribution of losses between permanent establishment and main entity](section/160.md)
+    - Elections to treat certain amounts differently
+      - [s. 161 Election to use realisation principle](section/161.md)
+      - [s. 162 Election to reflect deductions for stock-based compensation](section/162.md)
+      - [s. 163 Election to spread certain capital gains over five years](section/163.md)
+      - [s. 164 Election to exclude intra-group transactions](section/164.md)
+      - [s. 165 Election to have excluded equity gains and losses included](section/165.md)
+      - [s. 166 Election in relation to hedging currency risk in ownership interests](section/166.md)
+    - Dealing with transparency and entities subject to qualifying dividend regime
+      - [s. 167 Underlying profits of hybrids](section/167.md)
+      - [s. 168 Underlying profits of transparent ... entities](section/168.md)
+      - [s. 169 Certain non tax resident entities to be treated as flow-through entities](section/169.md)
+      - [s. 170 Adjustments for ultimate parent that is a flow-through entity](section/170.md)
+      - [s. 171 Ultimate parent subject to qualifying dividend regime](section/171.md)
+      - [s. 172 Application of section 171 to members in the same territory as the ultimate parent](section/172.md)
+  - Chapter 5 Covered tax balance
+    - Amount of covered taxes
+      - [s. 173 Covered taxes](section/173.md)
+      - [s. 174 Amount of covered tax balance](section/174.md)
+      - [s. 175 Amounts excluded from qualifying current tax expense](section/175.md)
+      - [s. 176 Amounts to be reflected in qualifying current tax expense](section/176.md)
+    - Transferable tax credits
+      - [s. 176A Meaning of “non-marketable transferable tax credits”](section/176A.md)
+      - [s. 176B Value of non-marketable transferable tax credits: originator](section/176B.md)
+      - [s. 176C Value of non-marketable transferable tax credits: purchaser](section/176C.md)
+    - Tax equity partnerships
+      - [s. 176D Tax credits etc allocated under tax equity partnerships](section/176D.md)
+      - [s. 176E Flow-through tax benefits: proportional amortisation method](section/176E.md)
+      - [s. 176F Flow-through tax benefits: subtraction method](section/176F.md)
+      - [s. 176G Clawback of earlier qualifying flow-through tax benefits](section/176G.md)
+    - Allocation of covered taxes
+      - [s. 177 Permanent establishments](section/177.md)
+      - [s. 178 Reallocation of tax expense](section/178.md)
+      - [s. 179 Controlled foreign company tax regimes](section/179.md)
+      - [s. 180 Blended CFC regimes](section/180.md)
+      - [s. 180A Section 180: further provision](section/180A.md)
+      - [s. 181 Distributions from other members of a group](section/181.md)
+      - [s. 181A Cross-border allocation of current tax under cross-crediting regime](section/181A.md)
+    - Cross-border allocation of deferred tax expense
+      - [s. 181B Cross-border allocation of deferred tax assets and liabilities](section/181B.md)
+    - Dealing with deferred tax assets etc
+      - [s. 182 Total deferred tax adjustment amount](section/182.md)
+      - [s. 183 Qualifying foreign tax credits (substitute loss carry forward assets)](section/183.md)
+      - [s. 183A Alternative to section 183 where carry forward of credits not permitted](section/183A.md)
+      - [s. 184 Recaptured deferred tax liabilities](section/184.md)
+      - [s. 185 Inclusion of existing deferred tax assets and liabilities on entry into regime](section/185.md)
+      - [s. 186 Deferred tax assets recorded at less than minimum rate](section/186.md)
+      - [s. 187 Election for losses to be treated as special loss deferred tax assets](section/187.md)
+      - [s. 188 Further provision about elections under section 187](section/188.md)
+    - Eligible distribution tax systems: deemed taxes
+      - [s. 189 Deemed distribution tax election](section/189.md)
+      - [s. 190 Deemed distribution tax amount](section/190.md)
+      - [s. 191 Reduction of recapture amount](section/191.md)
+      - [s. 192 Recalculation where member leaves the group](section/192.md)
+  - Chapter 6 Calculation of top-up amounts
+    - [s. 193 Calculation of top-up amounts](section/193.md)
+    - [s. 194 Total top-up amount for a territory](section/194.md)
+    - [s. 195 Substance based income exclusion](section/195.md)
+    - [s. 196 Eligible payroll costs](section/196.md)
+    - [s. 197 Eligible tangible asset amount](section/197.md)
+    - [s. 197A Operating leases](section/197A.md)
+    - [s. 198 Eligible payroll costs and eligible tangible asset amount: permanent establishments](section/198.md)
+    - [s. 198ZA Eligible payroll costs: flow-through entities](section/198ZA.md)
+    - [s. 198ZB Eligible tangible asset amount: flow-through entities](section/198ZB.md)
+    - [s. 198ZC Eligible payroll costs and eligible tangible asset amount: flow-through ultimate parent](section/198ZC.md)
+    - [s. 198A Power to make provision about treatment of payroll costs and assets](section/198A.md)
+    - [s. 199 Election to treat certain top-up amounts as nil](section/199.md)
+  - Chapter 7 Allocating top-up amounts to responsible members
+    - [s. 200 Top-up amounts multiplied by inclusion ratio](section/200.md)
+    - [s. 201 Inclusion ratio](section/201.md)
+  - Chapter 8 Further adjustments
+    - Covered taxes less than nil
+      - [s. 202 Covered taxes balance less than nil when members in a territory have a profit](section/202.md)
+      - [s. 203 Additional top-up amounts where covered taxes less than expected](section/203.md)
+      - [s. 204 Allocation of collective additional amount under section 203 to members](section/204.md)
+      - [s. 205 Election to carry forward and reduce collective additional amount](section/205.md)
+    - Additional top-up amounts on recalculations
+      - [s. 206 Additional top-up amounts where recalculations required](section/206.md)
+      - [s. 207 Allocation of collective additional amounts under section 206 to members](section/207.md)
+    - Restructuring of groups
+      - [s. 208 Member joining or leaving multinational group](section/208.md)
+      - [s. 209 When transfer of controlling interest treated as acquisition of assets and liabilities](section/209.md)
+      - [s. 210 Transfer of assets or liabilities from a member of a multinational group](section/210.md)
+      - [s. 211 Transfer of assets or liabilities to a member of a multinational group](section/211.md)
+      - [s. 212 Meaning of “qualifying reorganisation”](section/212.md)
+    - Elections in relation to investment entities
+      - [s. 213 Investment entity tax transparency election](section/213.md)
+      - [s. 214 Taxable distribution method election](section/214.md)
+      - [s. 215 Undistributed income amount](section/215.md)
+    - Other adjustments
+      - [s. 216 Election where assets and liabilities adjusted to fair value for tax purposes](section/216.md)
+      - [s. 217 Post filing adjustments of covered taxes](section/217.md)
+      - [s. 218 Effect of rate changes to deferred tax expense](section/218.md)
+      - [s. 219 Adjustment where covered taxes not paid](section/219.md)
+  - Chapter 9 Special provision for investment entities, joint venture groups and minority-owned members
+    - Investment entities
+      - [s. 220 Top-up amount of investment entity](section/220.md)
+      - [s. 221 Substance based income exclusion for investment entity](section/221.md)
+      - [s. 222 Investment entity effective tax rate](section/222.md)
+      - [s. 223 Adjustments](section/223.md)
+      - [s. 224 Additional top-up amounts of investment entities](section/224.md)
+      - [s. 225 Attribution of top-up amounts and additional top-up amounts to responsible member](section/225.md)
+    - Joint venture group
+      - [s. 226 Joint venture group](section/226.md)
+      - [s. 227 Application of Part to joint venture groups](section/227.md)
+    - Minority owned members
+      - [s. 228 Minority owned members](section/228.md)
+    - Application to multi-parent groups
+      - [s. 229 Multi-parent groups](section/229.md)
+  - Chapter 9A Untaxed amounts
+    - Introduction
+      - [s. 229A Meaning of potentially undertaxed](section/229A.md)
+      - [s. 229B Untaxed amounts](section/229B.md)
+    - Allocation of untaxed amounts
+      - [s. 229C Allocation of untaxed amount to members](section/229C.md)
+      - [s. 229D Amount allocated to the United Kingdom](section/229D.md)
+      - [s. 229E Allocation to qualifying members](section/229E.md)
+      - [s. 229F Election to make one member of a group liable for untaxed amounts](section/229F.md)
+    - How to determine number of employees and tangible fixed assets values
+      - [s. 229G Number of employees](section/229G.md)
+      - [s. 229H Value of tangible fixed assets](section/229H.md)
+    - Joint ventures
+      - [s. 229I Joint ventures](section/229I.md)
+    - References to responsible members
+      - [s. 229J References to responsible members](section/229J.md)
+  - Chapter 10 Definitions etc
+    - Introduction
+      - [s. 230 Meaning of terms and concepts used in this Part](section/230.md)
+    - Meaning of “entity” etc
+      - [s. 231 Meaning of entity](section/231.md)
+      - [s. 232 Permanent establishments ...](section/232.md)
+      - [s. 232ZA Legal main entity distinct from main entity](section/232ZA.md)
+      - [s. 232A Partnerships](section/232A.md)
+      - [s. 233 Treatment of protected cell companies](section/233.md)
+      - [s. 234 Governmental, international and non-profit entities](section/234.md)
+      - [s. 235 Pension funds and pension services entities](section/235.md)
+      - [s. 236 Investment funds and investment entities](section/236.md)
+      - [s. 237 Intermediate and partially-owned parent members](section/237.md)
+      - [s. 238 Tax transparency of entities](section/238.md)
+    - Provision relating to location of entities
+      - [s. 239 Location of entities](section/239.md)
+      - [s. 240 Location of flow-through entities and permanent establishments](section/240.md)
+      - [s. 241 Pillar Two territories](section/241.md)
+    - Ownership of entities
+      - [s. 242 Ownership interests and controlling interests](section/242.md)
+      - [s. 243 Calculating percentage ownership interests of a specific entity or individual](section/243.md)
+      - [s. 244 Calculating percentage ownership interests of a class](section/244.md)
+      - [s. 245 Calculating percentage ownership interests: excluded entities](section/245.md)
+      - [s. 246 Calculating percentage direct and indirect ownership interests](section/246.md)
+      - [s. 247 Timing of transfers of interests](section/247.md)
+      - [s. 248 Exclusion of indirect interests held through ultimate parent](section/248.md)
+    - Financial statements and accounting period
+      - [s. 249 Consolidated financial statements](section/249.md)
+      - [s. 250 Acceptable accounting standards](section/250.md)
+      - [s. 251 Accounting periods](section/251.md)
+      - [s. 251A Meaning of country-by-country report](section/251A.md)
+    - Miscellaneous
+      - [s. 252 Application to sovereign wealth funds](section/252.md)
+      - [s. 253 Disqualified and qualified refundable imputation taxes](section/253.md)
+      - [s. 254 Use of currency](section/254.md)
+      - [s. 255 Pillar Two rules](section/255.md)
+      - [s. 256 Qualifying domestic top-up tax](section/256.md)
+      - [s. 256A Qualifying domestic top-up tax treated as not accruing where contested etc](section/256A.md)
+      - [s. 257 Qualifying undertaxed profits tax](section/257.md)
+      - [s. 258 Meaning of “connected”](section/258.md)
+      - [s. 259 Other definitions](section/259.md)
+  - Chapter 11 General and miscellaneous provision
+    - [s. 260 Transitional provision and safe harbours](section/260.md)
+    - [s. 261 Index of defined expressions](section/261.md)
+    - [s. 262 Power to amend to ensure consistency with Pillar Two](section/262.md)
+    - [s. 263 Regulations](section/263.md)
+    - [s. 264 Multinational top-up tax to apply from 31 December 2023](section/264.md)
+- Part 4 Domestic top-up tax
+  - Chapter 1 Introduction
+    - [s. 265 Introduction to domestic top-up tax](section/265.md)
+    - [s. 266 Qualifying entities](section/266.md)
+    - [s. 267 DTT excluded entities](section/267.md)
+    - [s. 267A Securitisation companies in a group treated as not consolidated](section/267A.md)
+    - [s. 268 Permanent establishments](section/268.md)
+    - [s. 268A Partnerships](section/268A.md)
+  - Chapter 2 Charge to domestic top-up tax
+    - [s. 269 Chargeable persons](section/269.md)
+    - [s. 270 Amount charged](section/270.md)
+    - [s. 271 Election to make one member of a group liable for amounts charged](section/271.md)
+  - Chapter 3 Application of multinational top-up tax provisions
+    - [s. 272 Determining top-up amounts of entity that is a member of a group](section/272.md)
+    - [s. 272A Treatment of covered bond vehicles](section/272A.md)
+    - [s. 273 Determining top-up amounts of entity that is not a member of a group](section/273.md)
+    - [s. 273A References to Pillar Two rules](section/273A.md)
+    - [s. 273B Effect of becoming subject to Pillar Two rules](section/273B.md)
+    - [s. 273C Dividends from protected cell companies](section/273C.md)
+    - [s. 274 Application of section 262](section/274.md)
+    - [s. 275 Application of Schedule 14](section/275.md)
+    - [s. 276 Application of transitional provision](section/276.md)
+    - [s. 277 Index of defined expressions](section/277.md)
+    - [s. 278 Domestic top-up tax to apply from 31 December 2023](section/278.md)
+- Part 5 Electricity generator levy
+  - Introduction and charge
+    - [s. 279 Charge on exceptional generation receipts](section/279.md)
+    - [s. 280 Key concepts (generating undertaking etc)](section/280.md)
+    - [s. 281 Benchmark amount](section/281.md)
+  - Calculation of exceptional generation receipts
+    - [s. 282 Attribution of generation](section/282.md)
+    - [s. 283 Generation receipts](section/283.md)
+    - [s. 284 Allowable costs](section/284.md)
+    - [s. 285 Exceptional generation fuel costs](section/285.md)
+    - [s. 286 Exceptional revenue sharing costs](section/286.md)
+  - Groups, partnerships and joint ventures
+    - [s. 287 Groups](section/287.md)
+    - [s. 288 Lead member of a group and its qualifying periods](section/288.md)
+    - [s. 289 Liability of members of groups](section/289.md)
+    - [s. 290 Election for members with significant minority shareholding to pay levy](section/290.md)
+    - [s. 291 Qualifying partnerships](section/291.md)
+    - [s. 292 Qualifying joint ventures](section/292.md)
+  - Attribution and surrender of amounts: joint ventures and significant minority shareholders
+    - [s. 293 Non-chargeable amounts of joint venture to be attributed to participants](section/293.md)
+    - [s. 294 Generation acquired and supplied by JV participants](section/294.md)
+    - [s. 295 Arrangements that reflect receipts (JV participants)](section/295.md)
+    - [s. 296 Generation acquired and supplied by significant minority shareholders](section/296.md)
+    - [s. 297 Arrangements that reflect receipts (significant minority shareholders)](section/297.md)
+    - [s. 298 Surrender of shortfalls](section/298.md)
+    - [s. 299 Amount that may be surrendered and use of that amount](section/299.md)
+  - Treatment of company as transparent as alternative to attribution and surrender
+    - [s. 300 Election to treat certain companies as transparent](section/300.md)
+    - [s. 301 Effect of company being transparent](section/301.md)
+  - Management and administration
+    - [s. 302 General application of corporation tax administration](section/302.md)
+    - [s. 303 Company tax returns](section/303.md)
+    - [s. 304 Requirement to provide information about payments](section/304.md)
+    - [s. 305 Claims to shortfall amounts](section/305.md)
+    - [s. 306 Application of Part 5A of TMA 1970 and Instalment Payments Regulations](section/306.md)
+  - Supplemental
+    - [s. 307 Application of Part 5 of CTA 2010 for the purposes of determining interests](section/307.md)
+    - [s. 308 Anti-avoidance](section/308.md)
+    - [s. 309 Information sharing](section/309.md)
+    - [s. 310 Interaction of electricity generator levy with corporation tax](section/310.md)
+    - [s. 311 Regulations under this Part](section/311.md)
+    - [s. 311A Meaning of “qualifying new generating plant”](section/311A.md)
+    - [s. 312 Minor definitions relating to electricity market](section/312.md)
+    - [s. 313 Definitions in this Part](section/313.md)
+- Part 6 Other taxes
+  - Stamp duty land tax
+    - [s. 314 Transactions funded with the assistance of a public subsidy](section/314.md)
+  - Value added tax
+    - [s. 315 Deposit schemes](section/315.md)
+  - Import duty
+    - [s. 316 Dumping, subsidisation and safeguarding remedies](section/316.md)
+    - [s. 317 Rulings as to method of valuation of goods](section/317.md)
+    - [s. 318 Discharging goods from free-circulation procedure subject to guarantee](section/318.md)
+  - Fuel duties
+    - [s. 319 Excepted machines etc](section/319.md)
+  - Tobacco products duty
+    - [s. 320 Rates of tobacco products duty](section/320.md)
+  - Soft drinks industry levy
+    - [s. 321 Flavour concentrates](section/321.md)
+  - Air passenger duty
+    - [s. 322 New bands and rates](section/322.md)
+    - [s. 323 Northern Ireland rates](section/323.md)
+  - Vehicle taxes
+    - [s. 324 Rates of vehicle excise duty](section/324.md)
+    - [s. 325 Reform of HGV road user levy](section/325.md)
+    - [s. 326 End of exempt period for HGV road user levy](section/326.md)
+  - Environmental taxes
+    - [s. 327 Rates of landfill tax](section/327.md)
+    - [s. 328 Rates of climate change levy](section/328.md)
+    - [s. 329 Rate of plastic packaging tax](section/329.md)
+    - [s. 330 Aggregates levy: exemptions and exploitation](section/330.md)
+- Part 7 Miscellaneous and final
+  - Freeports and investment zones
+    - [s. 331 Designation of sites](section/331.md)
+    - [s. 332 Sunset date for reliefs](section/332.md)
+  - Administration
+    - [s. 333 Right to repayment of income tax to be inalienable](section/333.md)
+    - [s. 334 Late payment interest on value added tax](section/334.md)
+    - [s. 335 Penalties for failure to pay value added tax](section/335.md)
+    - [s. 336 VAT credits: repayment interest due where evidence not provided](section/336.md)
+    - [s. 337 Insurance premium tax: power to make regulations about notifications](section/337.md)
+    - [s. 338 Penalties for failure to make payments of plastic packaging tax on time](section/338.md)
+  - Management of customs and excise
+    - [s. 339 Approval of aerodromes](section/339.md)
+    - [s. 340 Approved aerodromes: minor and consequential amendments](section/340.md)
+    - [s. 341 Temporary approvals etc](section/341.md)
+  - Conditionality
+    - [s. 342 Licensing authorities: requirements to give or obtain tax information](section/342.md)
+    - [s. 343 Section 342: consequential amendments](section/343.md)
+  - Charities and community amateur sports clubs
+    - [s. 344 Definition of “charity” restricted to UK charities](section/344.md)
+    - [s. 345 Definition of “community amateur sports club” restricted to UK clubs](section/345.md)
+  - Homes for Ukraine Sponsorship Scheme
+    - [s. 346 Exemptions from tax](section/346.md)
+  - Office of Tax Simplification
+    - [s. 347 Abolition of the Office of Tax Simplification](section/347.md)
+  - The dormant assets scheme
+    - [s. 348 Pension benefits and inheritance tax](section/348.md)
+  - Other
+    - [s. 349 International arrangements for exchanging information](section/349.md)
+    - [s. 350 Payment of unclaimed money in court into the Consolidated Fund](section/350.md)
+    - [s. 351 Financial sanctions regulations: prohibition on certain payments by HMRC](section/351.md)
+    - [s. 352 Communications data](section/352.md)
+  - Final
+    - [s. 353 Interpretation](section/353.md)
+    - [s. 354 Short title](section/354.md)
+- Schedule 1 Relief for research and development
+  - Part 1 Claim notifications
+    - [Sch. 1 para. 1 Requirement to make claim notifications in relation to certain R&D claims](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Requirement to make claim notifications in relation to certain R&D claims](schedule/1/paragraph/2.md)
+  - Part 2 R&D expenditure on data and cloud computing
+    - [Sch. 1 para. 3 Relief for R&D expenditure on data and cloud computing](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Relief for R&D expenditure on data and cloud computing: consequential amendments](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Relief for R&D expenditure on data and cloud computing: consequential amendments](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Relief for R&D expenditure on data and cloud computing: consequential amendments](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Relief for R&D expenditure on data and cloud computing: consequential amendments](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Relief for R&D expenditure on data and cloud computing: consequential amendments](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Relief for R&D expenditure on data and cloud computing: consequential amendments](schedule/1/paragraph/9.md)
+  - Part 3 Amendments to Schedule 18 to FA 1998
+    - [Sch. 1 para. 10 Introduction](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Power of HMRC to collect overpaid R&D tax relief or expenditure credit](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Time limits for R&D claims](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Requirement to provide additional information in relation to R&D claims](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Power of HMRC to remove R&D claims made in error from return](schedule/1/paragraph/14.md)
+  - Part 4 Miscellaneous amendments
+    - [Sch. 1 para. 15 Amendment of CTA 2009](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 R&D tax relief: circumstances in which enterprises are treated as SMEs](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Accounts treated as prepared on going concern basis](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Meaning of expenditure incurred on payments](schedule/1/paragraph/18.md)
+  - Part 5 Commencement
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- Schedule 2 Estates in administration and trusts
+  - Part 1 Estates in administration
+    - Chapter 1 Income tax
+      - [Sch. 2 para. 1 The applicable rate for grossing up basic amounts of estate income](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2 The applicable rate for grossing up for determining shares in an estate in the final tax year](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3 Income from stock dividends etc treated as bearing income tax at 0%](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4 Income treated as dividend income and savings income](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5 Order in which basic amounts are treated as paid from aggregate income](schedule/2/paragraph/5.md)
+    - Chapter 2 Corporation tax
+      - [Sch. 2 para. 6 The applicable rate for grossing up basic amounts of estate income](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7 The applicable rate for grossing up for determining shares in an estate in the final tax year](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8 Income from stock dividends etc treated as bearing income tax at 0%](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9 Order in which basic amounts are treated as paid from aggregate income](schedule/2/paragraph/9.md)
+  - Part 2 Low income trusts and estates
+    - Chapter 1 Income tax
+      - [Sch. 2 para. 10 Low income estates and trusts: tax liability of personal representatives and trustees](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11 Low income estates: tax liability of beneficiaries](schedule/2/paragraph/11.md)
+    - Chapter 2 Corporation tax
+      - [Sch. 2 para. 12 Low income estates: tax liability of beneficiaries](schedule/2/paragraph/12.md)
+  - Part 3 Rate of tax charged on trustees’ first slice of trust rate income: income tax
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Part 4 Commencement
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- Schedule 3 Corporate interest restriction etc.
+  - Part 1 Amendments to TIOPA 2010
+    - [Sch. 3 para. 1 Introduction](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Tax-interest expense amounts of a company: charities](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 First period of account where new holding company](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 First period of account where new holding company](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Amounts not brought into account in determining a company’s tax-EBITDA](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 “Relevant expense amount” and “relevant income amount”](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 “Relevant expense amount” and “relevant income amount”](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Adjusted net group-interest expense: debits referable to times before UK property business etc carried on](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Adjusted net group-interest expense: debits in respect of pre-trading expenditure](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Qualifying net group-interest expense: meaning of “equity notes”](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Qualifying net group-interest expense: meaning of “equity notes”](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Capitalised interest brought into account for tax purposes in accordance with GAAP](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Interest allowance (non-consolidated investment) election: “non-consolidated associate”](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 Public infrastructure](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Public infrastructure](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16 Public infrastructure](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17 Partnerships and other transparent entities](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18 Investments held by investment managers](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19 Determining the worldwide group: “non-consolidated subsidiary” and “consolidated subsidiary”](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20 Appointment of a reporting company by Revenue and Customs](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21 Revised interest restriction return](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22 Revised interest restriction return](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23 Enquiry into interest restriction return](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24 Determinations by officers of Revenue and Customs](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25 Consequential claims to company tax returns](schedule/3/paragraph/25.md)
+  - Part 2 Other amendments
+    - [Sch. 3 para. 26 Penalties for errors: CIR alterations to be ignored in calculating potential lost revenue](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27 Disapplication of carry forward rule for deficits](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28 Defined expressions used in Part 10 of TIOPA 2010: “insurance company”](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29 Determining the worldwide group: consequential amendment](schedule/3/paragraph/29.md)
+  - Part 3 Parts 1 and 2: commencement and transitional provision
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - Part 4 Tax treatment of financing costs and income
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+- Schedule 4 Investment vehicles
+  - Part 1 UK property rich collective investment vehicles etc
+    - [Sch. 4 para. 1 Genuine diversity of ownership](schedule/4/paragraph/1.md)
+  - Part 2 Real estate investment trusts
+    - [Sch. 4 para. 2 Amendment of CTA 2010](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 REITs involving single commercial property](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 3-year development rule](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Genuine diversity of ownership](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Amendment of the Real Estate Investment Trusts (Assessment and Recovery of Tax) Regulations 2006](schedule/4/paragraph/6.md)
+  - Part 3 Qualifying asset holding companies
+    - [Sch. 4 para. 7 Amendment of Schedule 2 to FA 2022](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Securitisation companies unable to be QAHCs](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Beneficial entitlement held only through QAHCs](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Determining relevant interests](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Dealing with bodies corporate without share capital](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Genuine diversity of ownership](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Investment strategy condition](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Disposal of derivatives where underlying subject matter is shares](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Alternative finance arrangements](schedule/4/paragraph/15.md)
+- Schedule 5 Records relating to transfer pricing
+  - Part 1 Amendments relating to corporation tax
+    - [Sch. 5 para. 1 Records to be kept for the purposes of corporation tax](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Assessments relating to corporation tax](schedule/5/paragraph/2.md)
+  - Part 2 Amendments relating to income tax
+    - [Sch. 5 para. 3 Records to be kept for the purposes of income tax](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Assessments relating to income tax](schedule/5/paragraph/4.md)
+  - Part 3 Amendments relating to corporation tax and income tax
+    - [Sch. 5 para. 5 Penalties for errors](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Information and inspection powers](schedule/5/paragraph/6.md)
+  - Part 4 Commencement
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- Schedule 6 Categories of alcoholic products: interpretation
+  - [Sch. 6 para. 1 Spirits](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Spirits](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Beer](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Beer](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Cider](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Cider](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Cider](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Cider](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Cider](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Cider](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Wine](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12 Other fermented products](schedule/6/paragraph/12.md)
+- Schedule 7 Rates of alcohol duty
+- Schedule 8 Qualifying draught products: reduced rates
+- Schedule 9 Small producer alcoholic products: duty discount
+  - Part 1 Alcoholic products, other than qualifying draught products, of an alcoholic strength of less than 8.5%
+  - Part 2 Qualifying draught products of an alcoholic strength of less than 8.5%
+- Schedule 10 Penalties for contraventions of alcohol wholesaling provisions
+  - [Sch. 10 para. 1 Liability to penalty](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Amount of penalty](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Reductions for disclosure](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Reductions for disclosure](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 Special reduction](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 Assessment](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 Reasonable excuse](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8 Companies: officer’s liability](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9 Double jeopardy](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10 The maximum amount](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11 Appeal tribunal](schedule/10/paragraph/11.md)
+- Schedule 11 Alcohol duty: reviews and appeals
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+- Schedule 12 Alcohol duty: duty stamps
+  - [Sch. 12 para. 1 Retail containers to be stamped](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Power to alter alcoholic products, and capacity of containers, to which this Schedule applies](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Acquisition of, and payment for, duty stamps](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Regulations](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Offences of possession, sale etc of unstamped containers](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Offence of using premises for sale of alcoholic products in or from unstamped containers](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Alcohol sales ban following conviction for an offence under paragraph 6](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8 Penalty for altering duty stamps](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9 Penalty for affixing wrong, altered or forged stamps, or over-labelling](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10 Penalty for failing to comply with regulations](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11 Forfeiture of forged, altered or stolen duty stamps](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12 Interpretation](schedule/12/paragraph/12.md)
+- Schedule 13 Alcohol duty: minor and consequential amendments
+  - Part 1 General
+    - [Sch. 13 para. 1 CEMA 1979](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2 CEMA 1979](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3 CEMA 1979](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4 CEMA 1979](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5 CEMA 1979](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6 Customs and Excise Duties (General Reliefs) Act 1979](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7 Excise Duties (Surcharges or Rebates) Act 1979](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8 FA 1994](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9 FA 1994](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10 FA 1994](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11 FA 1994](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12 FA 1994](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13 FA 1994](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14 FA 1994](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15 VATA 1994](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16 FA 2001](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17 FA 2007](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18 FA 2008](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19 TCTA 2018](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20 Taxation (Post-transition Period) Act 2020](schedule/13/paragraph/20.md)
+  - Part 2 Approvals etc.
+    - [Sch. 13 para. 21 CEMA 1979](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22 CEMA 1979](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23 CEMA 1979](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24 CEMA 1979](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25 CEMA 1979](schedule/13/paragraph/25.md)
+    - [Sch. 13 para. 26 CEMA 1979](schedule/13/paragraph/26.md)
+    - [Sch. 13 para. 27 CEMA 1979](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28 FA 1994](schedule/13/paragraph/28.md)
+    - [Sch. 13 para. 29 FA 2007](schedule/13/paragraph/29.md)
+    - [Sch. 13 para. 30 FA 2008](schedule/13/paragraph/30.md)
+    - [Sch. 13 para. 31 FA 2009](schedule/13/paragraph/31.md)
+    - [Sch. 13 para. 32 FA 2009](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33 FA 2009](schedule/13/paragraph/33.md)
+- Schedule 14 Administration of multinational top-up tax
+  - Part 1 Overview
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Part 2 Meaning of “filing member”
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Part 3 Registration
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Part 4 Information returns
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Part 5 Self-assessment returns
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Part 6 Enquiries into a self-assessment return
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+  - Part 7 Determinations where self-assessment return not submitted
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+  - Part 8 Discovery assessments
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+  - Part 9 Record-keeping requirements
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+  - Part 10 Payments of multinational top-up tax
+    - [Sch. 14 para. 32 Timing of payments](schedule/14/paragraph/32.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 33A](schedule/14/paragraph/33A.md)
+    - [Sch. 14 para. 34 Group payment notices](schedule/14/paragraph/34.md)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+    - [Sch. 14 para. 37 Effect of group payment for tax purposes](schedule/14/paragraph/37.md)
+    - [Sch. 14 para. 37A Partnership payment notices](schedule/14/paragraph/37A.md)
+    - [Sch. 14 para. 37B Recovery of partnership payment and effect for tax purposes etc](schedule/14/paragraph/37B.md)
+    - [Sch. 14 para. 38 Recovery](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39 Power to make regulations](schedule/14/paragraph/39.md)
+  - Part 11 Penalties
+    - [Sch. 14 para. 40 Penalties payable in connection with this Schedule](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+    - [Sch. 14 para. 47 Penalties under paragraphs 42, 43 and 46: administration and supplemental provision](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50 Multiple tax-geared penalties in respect of same accounting period](schedule/14/paragraph/50.md)
+  - Part 12 Appeals and claims
+    - [Sch. 14 para. 51 Claims in relation to overpaid tax](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 55 Appeals of decisions: general](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57 Reviews by HMRC](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+    - [Sch. 14 para. 61 Settlement agreements](schedule/14/paragraph/61.md)
+    - [Sch. 14 para. 62 Determination by tribunal](schedule/14/paragraph/62.md)
+    - [Sch. 14 para. 63 Postponement of payment pending appeal](schedule/14/paragraph/63.md)
+    - [Sch. 14 para. 64](schedule/14/paragraph/64.md)
+    - [Sch. 14 para. 65](schedule/14/paragraph/65.md)
+    - [Sch. 14 para. 66](schedule/14/paragraph/66.md)
+    - [Sch. 14 para. 67 Special provisions as to penalties](schedule/14/paragraph/67.md)
+  - Part 13 Other amendments
+    - [Sch. 14 para. 68](schedule/14/paragraph/68.md)
+- Schedule 15 Multinational top-up tax: elections
+  - [Sch. 15 para. 1 Long term elections](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2 Annual elections](schedule/15/paragraph/2.md)
+- Schedule 16 Multinational top-up tax: transitional provision
+  - Part 1 General transitional measures
+    - [Sch. 16 para. 1 Transitional relief for substance-based income exclusion](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2 Intra-group transfers before entry into regime](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 2A Transitional extension to deadline for elections](schedule/16/paragraph/2A.md)
+  - Part 2 Transitional safe harbour
+    - Chapter 1 General transitional safe harbour election
+      - [Sch. 16 para. 3 Election](schedule/16/paragraph/3.md)
+      - [Sch. 16 para. 4 Qualified financial statements and basis of calculations](schedule/16/paragraph/4.md)
+      - [Sch. 16 para. 4A Accounts or statements reflecting purchase price accounting adjustments](schedule/16/paragraph/4A.md)
+      - [Sch. 16 para. 5 Qualifying income tax expense](schedule/16/paragraph/5.md)
+      - [Sch. 16 para. 6 Adjustments](schedule/16/paragraph/6.md)
+      - [Sch. 16 para. 6A Deduction and non-inclusion arrangements and duplicate loss arrangements](schedule/16/paragraph/6A.md)
+      - [Sch. 16 para. 6B Duplicate tax recognition arrangements](schedule/16/paragraph/6B.md)
+      - [Sch. 16 para. 7 Threshold test](schedule/16/paragraph/7.md)
+      - [Sch. 16 para. 8 Simplified effective tax rate test](schedule/16/paragraph/8.md)
+      - [Sch. 16 para. 9 Routine profits test](schedule/16/paragraph/9.md)
+    - Chapter 2 Application of Chapter 1 to joint ventures etc
+      - [Sch. 16 para. 10 Application in the case of joint venture group](schedule/16/paragraph/10.md)
+      - [Sch. 16 para. 11 Application to investment entities in same territory as owners](schedule/16/paragraph/11.md)
+      - [Sch. 16 para. 12 Minority owned members](schedule/16/paragraph/12.md)
+  - Part 2A UTPR transitional safe harbour election
+    - [Sch. 16 para. 12A Election](schedule/16/paragraph/12A.md)
+  - Part 3 Transitional reporting election
+    - [Sch. 16 para. 13 Transitional reporting election](schedule/16/paragraph/13.md)
+  - Part 4 Pre-entry deferred tax assets and liabilities
+    - [Sch. 16 para. 14 Straddle periods](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15 Grace period](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16 General](schedule/16/paragraph/16.md)
+- Schedule 16A Multinational top-up tax: safe harbours
+  - Part 1 Qualifying domestic top-up tax safe harbour
+    - Chapter 1 Qualifying domestic top-up tax safe harbour election
+      - [Sch. 16A para. 1 Election for qualifying domestic top-up tax safe harbour](schedule/16A/paragraph/1.md)
+      - [Sch. 16A para. 2 Accredited qualifying domestic top-up tax](schedule/16A/paragraph/2.md)
+      - [Sch. 16A para. 3 Disqualifying conditions](schedule/16A/paragraph/3.md)
+    - Chapter 2 Application to non-standard members of a multinational group
+      - [Sch. 16A para. 4 Application in the case of joint venture group](schedule/16A/paragraph/4.md)
+      - [Sch. 16A para. 5 Application in the case of investment entities](schedule/16A/paragraph/5.md)
+      - [Sch. 16A para. 6 Application in the case of minority owned members](schedule/16A/paragraph/6.md)
+  - Part 2 Untaxed amounts: international expansion of groups
+    - [Sch. 16A para. 7 No untaxed amounts for groups in initial phase of international expansion](schedule/16A/paragraph/7.md)
+  - Part 3 Simplified calculations for non-material members of group
+    - [Sch. 16A para. 8 Election in respect of non-material members](schedule/16A/paragraph/8.md)
+    - [Sch. 16A para. 9 “Non-material member”](schedule/16A/paragraph/9.md)
+    - [Sch. 16A para. 10 Accounting conditions](schedule/16A/paragraph/10.md)
+    - [Sch. 16A para. 11 Routine profits test](schedule/16A/paragraph/11.md)
+    - [Sch. 16A para. 12 De minimis test](schedule/16A/paragraph/12.md)
+    - [Sch. 16A para. 13 Effective tax rate test](schedule/16A/paragraph/13.md)
+    - [Sch. 16A para. 14 Interpretation etc](schedule/16A/paragraph/14.md)
+    - [Sch. 16A para. 15 Interpretation etc](schedule/16A/paragraph/15.md)
+- Schedule 17 Index of expressions defined or explained in Parts 3 and 4
+- Schedule 18 Administration of domestic top-up tax
+  - [Sch. 18 para. 1 Introduction](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2 Meaning of “filing member”](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3 Registration](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4 Other administrative provisions](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5 Other administrative provisions](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6 Amendments: penalties](schedule/18/paragraph/6.md)
+  - [Sch. 18 para. 7 Other amendments](schedule/18/paragraph/7.md)
+- Schedule 19 Dumping, subsidisation and safeguarding remedies
+  - Part 1 Dumping and subsidisation remedies
+    - [Sch. 19 para. 1 Introduction](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2 Notification etc](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3 Provisional remedies](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4 Definitive remedies](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5 Reviews etc](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6 Revocation in the public interest](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7 Power to request assistance etc](schedule/19/paragraph/7.md)
+  - Part 2 Safeguarding remedies
+    - [Sch. 19 para. 8 Introduction](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9 Notification etc](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10 Provisional remedies](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11 Definitive remedies](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12 Reviews etc](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13 Revocation in the public interest](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14 Power to request assistance etc](schedule/19/paragraph/14.md)
+  - Part 3 Consequential and related provision
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+  - Part 4 Commencement
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+- Schedule 20 Bilateral safeguarding remedies
+  - Part 1 Amendments to TCTA 2018
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Part 2 Commencement
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+- Schedule 21 Soft drinks industry levy: flavour concentrates
+  - [Sch. 21 para. 1 Introduction](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2 Meaning of “soft drink” and “package”](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 3 Meaning of “prepared drinks”](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 4 Sugar content condition](schedule/21/paragraph/4.md)
+  - [Sch. 21 para. 5 Exempt soft drinks](schedule/21/paragraph/5.md)
+  - [Sch. 21 para. 6 Levy rates](schedule/21/paragraph/6.md)
+  - [Sch. 21 para. 7 Tax credits](schedule/21/paragraph/7.md)
+  - [Sch. 21 para. 8 Commencement](schedule/21/paragraph/8.md)
+- Schedule 22 Reforms of HGV road user levy
+  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+  - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+  - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+- Schedule 23 Freeports and investment zones: consequential amendments
+  - [Sch. 23 para. 1 FA 2003](schedule/23/paragraph/1.md)
+  - [Sch. 23 para. 2 FA 2003](schedule/23/paragraph/2.md)
+  - [Sch. 23 para. 3 FA 2003](schedule/23/paragraph/3.md)
+  - [Sch. 23 para. 4 FA 2003](schedule/23/paragraph/4.md)
+  - [Sch. 23 para. 5 FA 2003](schedule/23/paragraph/5.md)
+  - [Sch. 23 para. 6 FA 2003](schedule/23/paragraph/6.md)
+  - [Sch. 23 para. 7 FA 2003](schedule/23/paragraph/7.md)
+  - [Sch. 23 para. 8 FA 2003](schedule/23/paragraph/8.md)
+  - [Sch. 23 para. 9 CAA 2001](schedule/23/paragraph/9.md)
+  - [Sch. 23 para. 10 CAA 2001](schedule/23/paragraph/10.md)
+  - [Sch. 23 para. 11 CAA 2001](schedule/23/paragraph/11.md)
+  - [Sch. 23 para. 12 CAA 2001](schedule/23/paragraph/12.md)
+  - [Sch. 23 para. 13 CAA 2001](schedule/23/paragraph/13.md)
+  - [Sch. 23 para. 14 CAA 2001](schedule/23/paragraph/14.md)
+  - [Sch. 23 para. 15 CAA 2001](schedule/23/paragraph/15.md)
+  - [Sch. 23 para. 16 CAA 2001](schedule/23/paragraph/16.md)
+  - [Sch. 23 para. 17 FA 2021](schedule/23/paragraph/17.md)
+  - [Sch. 23 para. 18 FA 2021](schedule/23/paragraph/18.md)
+  - [Sch. 23 para. 19 FA 2021](schedule/23/paragraph/19.md)
+  - [Sch. 23 para. 20 National Insurance Contributions Act 2022](schedule/23/paragraph/20.md)
+  - [Sch. 23 para. 21 National Insurance Contributions Act 2022](schedule/23/paragraph/21.md)
+  - [Sch. 23 para. 22 National Insurance Contributions Act 2022](schedule/23/paragraph/22.md)
+  - [Sch. 23 para. 23 National Insurance Contributions Act 2022](schedule/23/paragraph/23.md)
+  - [Sch. 23 para. 24 National Insurance Contributions Act 2022](schedule/23/paragraph/24.md)
+  - [Sch. 23 para. 25 National Insurance Contributions Act 2022](schedule/23/paragraph/25.md)
+  - [Sch. 23 para. 26 National Insurance Contributions Act 2022](schedule/23/paragraph/26.md)
+  - [Sch. 23 para. 27 National Insurance Contributions Act 2022](schedule/23/paragraph/27.md)
+- Schedule 24 Homes for Ukraine Sponsorship Scheme: exemptions from tax
+  - [Sch. 24 para. 1 Income tax and corporation tax](schedule/24/paragraph/1.md)
+  - [Sch. 24 para. 2 Annual tax on enveloped dwellings](schedule/24/paragraph/2.md)
+  - [Sch. 24 para. 3 Stamp duty land tax](schedule/24/paragraph/3.md)
+  - [Sch. 24 para. 4 Regulations](schedule/24/paragraph/4.md)
