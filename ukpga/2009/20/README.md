@@ -1,0 +1,678 @@
+# Local Democracy, Economic Development and Construction Act 2009
+
+2009 c. 20. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 46 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
+
+Source: https://www.legislation.gov.uk/ukpga/2009/20/2026-07-15
+
+## Contents
+
+- Part 1 Democracy and involvement
+  - Chapter 1 Duties relating to promotion of democracy
+    - Duties of principal local authorities
+      - [s. 1 Democratic arrangements of principal local authorities](section/1.md)
+      - [s. 2 Democratic arrangements of connected authorities](section/2.md)
+      - [s. 3 Monitoring boards, courts boards and youth offending teams](section/3.md)
+      - [s. 4 Lay justices](section/4.md)
+    - Supplementary
+      - [s. 5 Provision of information](section/5.md)
+      - [s. 6 Guidance](section/6.md)
+      - [s. 7 Isles of Scilly](section/7.md)
+    - General
+      - [s. 8 Orders](section/8.md)
+      - [s. 9 Interpretation](section/9.md)
+  - Chapter 2 Petitions to local authorities
+    - Electronic petitions
+      - [s. 10 Electronic petitions](section/10.md)
+    - Petition schemes
+      - [s. 11 Petition schemes](section/11.md)
+      - [s. 12 Petitions to which a scheme must apply](section/12.md)
+      - [s. 13 Requirement to acknowledge](section/13.md)
+      - [s. 14 Requirement to take steps](section/14.md)
+      - [s. 15 Requirement to debate](section/15.md)
+      - [s. 16 Requirement to call officer to account](section/16.md)
+      - [s. 17 Review of steps](section/17.md)
+      - [s. 18 Supplementary scheme provision](section/18.md)
+    - Supplementary
+      - [s. 19 Powers of appropriate national authority](section/19.md)
+      - [s. 20 Handling of petitions by other bodies](section/20.md)
+    - General
+      - [s. 21 Orders](section/21.md)
+      - [s. 22 Interpretation](section/22.md)
+  - Chapter 3 Involvement in functions of public authorities
+    - [s. 23 Duty of public authorities to secure involvement](section/23.md)
+    - [s. 24 Duty of public authorities to secure involvement: guidance](section/24.md)
+  - Chapter 4 Housing
+    - [s. 25 Establishment and assistance of bodies representing tenants etc](section/25.md)
+    - [s. 26 Consultation of bodies representing tenants etc](section/26.md)
+  - Chapter 5 Local freedoms and honorary titles
+    - [s. 27 Local freedoms](section/27.md)
+    - [s. 28 Power to amend law relating to local freedoms](section/28.md)
+    - [s. 29 Honorary titles](section/29.md)
+  - Chapter 6 Politically restricted posts
+    - [s. 30 Politically restricted posts](section/30.md)
+- Part 2 Local authorities: governance and audit
+  - Chapter 1 Governance
+    - [s. 31 Scrutiny officers](section/31.md)
+    - [s. 32 Joint overview and scrutiny committees](section/32.md)
+    - [s. 33 Powers of National Assembly for Wales](section/33.md)
+  - Chapter 2 Mutual insurance
+    - [s. 34 Mutual insurance](section/34.md)
+    - [s. 35 Mutual insurance: supplementary](section/35.md)
+  - Chapter 3 Audit of entities connected with local authorities
+    - Preliminary
+      - [s. 36 Overview](section/36.md)
+      - [s. 37 Notification duties of local authorities](section/37.md)
+    - Power to appoint auditor
+      - [s. 38 Power to appoint auditor](section/38.md)
+      - [s. 39 Power to appoint replacement auditor](section/39.md)
+      - [s. 40 Exclusions](section/40.md)
+    - Auditors
+      - [s. 41 Eligibility for appointment](section/41.md)
+      - [s. 42 Terms of appointment](section/42.md)
+    - Audit of accounts
+      - [s. 43 Right of entity to appoint auditor to conduct statutory audit](section/43.md)
+      - [s. 44 Functions of auditor not appointed to conduct statutory audit](section/44.md)
+    - Public interest reports
+      - [s. 45 Public interest reports](section/45.md)
+      - [s. 46 Codes of practice](section/46.md)
+      - [s. 47 Access to information](section/47.md)
+      - [s. 48 Consideration of report by entity](section/48.md)
+      - [s. 49 Consideration of report by local authority](section/49.md)
+    - Supplementary
+      - [s. 50 Fees](section/50.md)
+      - [s. 51 Power of Auditor General for Wales to require information](section/51.md)
+      - [s. 52 Subsidiaries of Passenger Transport Executives](section/52.md)
+    - General
+      - [s. 53 Regulations](section/53.md)
+      - [s. 54 Interpretation](section/54.md)
+- Part 3 Local government boundary and electoral change
+  - Establishment of the Local Government Boundary Commission for England
+    - [s. 55 Local Government Boundary Commission for England](section/55.md)
+  - Local Government Boundary Commission for England: functions relating to electoral change
+    - [s. 56 Review of electoral arrangements](section/56.md)
+    - [s. 57 Requests for review of single-member electoral areas](section/57.md)
+    - [s. 58 Review procedure](section/58.md)
+    - [s. 59 Implementation of review recommendations](section/59.md)
+  - Local Government Boundary Commission for England: functions relating to boundary change
+    - [s. 60 Transfer of functions relating to boundary change](section/60.md)
+  - Termination of involvement of Electoral Commission
+    - [s. 61 Removal of functions relating to boundary and electoral change](section/61.md)
+    - [s. 62 Transfer schemes](section/62.md)
+  - Transitional
+    - [s. 63 Continuity of functions](section/63.md)
+    - [s. 64 Interim provision](section/64.md)
+  - Miscellaneous
+    - [s. 65 Electoral changes consequential on boundary change in England](section/65.md)
+    - [s. 66 Repeal of redundant provisions](section/66.md)
+  - General
+    - [s. 67 Consequential and supplementary provision](section/67.md)
+    - [s. 68 Interpretation](section/68.md)
+- Part 4 Local authority and strategic authority economic assessments
+  - [s. 69 Local authority and strategic authority economic assessments](section/69.md)
+- Part 5 Regional strategy
+  - Regional strategy
+    - [s. 70 Regional strategy](section/70.md)
+  - Authorities relevant to this Part
+    - [s. 71 Leaders’ Boards](section/71.md)
+    - [s. 72 Responsible regional authorities](section/72.md)
+  - Sustainable development
+    - [s. 73 Sustainable development](section/73.md)
+  - Revisions of regional strategy
+    - [s. 74 Review and revision by responsible regional authorities](section/74.md)
+    - [s. 75 Community involvement](section/75.md)
+    - [s. 76 Examination in public](section/76.md)
+    - [s. 77 Matters to be taken into account in revision](section/77.md)
+    - [s. 78 Approval of revision by Secretary of State](section/78.md)
+    - [s. 79 Reserve powers of Secretary of State](section/79.md)
+    - [s. 80 Revision: supplementary](section/80.md)
+  - Implementation of strategy
+    - [s. 81 Implementation](section/81.md)
+  - Effect of strategy
+    - [s. 82 Regional strategy as part of the development plan](section/82.md)
+    - [s. 83 Duties of regional development agencies](section/83.md)
+  - Supplementary
+    - [s. 84 Guidance and directions](section/84.md)
+    - [s. 85 Consequential provision](section/85.md)
+  - General
+    - [s. 86 Regulations](section/86.md)
+    - [s. 87 Interpretation](section/87.md)
+- Part 6 Economic prosperity boards and combined authorities
+  - Chapter 1 Economic prosperity boards
+    - EPBs and their areas
+      - [s. 88 EPBs and their areas](section/88.md)
+    - Constitution and functions of EPBs
+      - [s. 89 Constitution](section/89.md)
+      - [s. 90 Constitution: membership and voting](section/90.md)
+      - [s. 91 Exercise of local authority functions](section/91.md)
+      - [s. 92 Funding](section/92.md)
+      - [s. 93 Accounts](section/93.md)
+      - [s. 94 Change of name](section/94.md)
+    - Changes to and dissolution of an EPB’s area
+      - [s. 95 Changes to boundaries of an EPB’s area](section/95.md)
+      - [s. 96 Dissolution of an EPB’s area](section/96.md)
+    - Requirements in connection with orders about EPBs
+      - [s. 97 Review by authorities: new EPB](section/97.md)
+      - [s. 98 Preparation and publication of scheme: new EPB](section/98.md)
+      - [s. 99 Requirements in connection with establishment of EPB](section/99.md)
+      - [s. 100 Review by authorities: existing EPB](section/100.md)
+      - [s. 101 Preparation and publication of scheme: existing EPB](section/101.md)
+      - [s. 101A Application in respect of change to constitution, functions or funding: existing EPB](section/101A.md)
+      - [s. 102 Requirements in connection with changes to existing EPB arrangements](section/102.md)
+  - Chapter 2 Combined authorities
+    - Combined authorities and their areas
+      - [s. 103 Combined authorities and their areas](section/103.md)
+    - Functions of combined authorities
+      - [s. 103A The functions of combined authorities](section/103A.md)
+      - [s. 103B Mayoral power to convene meetings with local partners](section/103B.md)
+      - [s. 103C Request to collaborate](section/103C.md)
+      - [s. 103D Responding to a collaboration request](section/103D.md)
+      - [s. 103E Collaboration requests made by or to several mayors](section/103E.md)
+      - [s. 104 Constitution and functions: transport](section/104.md)
+      - [s. 104A Non-constituent members of a combined authority](section/104A.md)
+      - [s. 104B Associate members of a combined authority](section/104B.md)
+      - [s. 104C Regulations about members](section/104C.md)
+      - [s. 104CA Decision-making](section/104CA.md)
+      - [s. 104CB Validity of proceedings](section/104CB.md)
+      - [s. 104CC Powers not limited by other provision or powers](section/104CC.md)
+      - [s. 104D Review of combined authority’s constitutional arrangements](section/104D.md)
+      - [s. 105 Constitution and functions: local authority functions generally](section/105.md)
+      - [s. 105A Other public authority functions](section/105A.md)
+      - [s. 105B Section 105A orders: procedure](section/105B.md)
+      - [s. 105C Non-mayoral combined authority: consent to budget](section/105C.md)
+      - [s. 105D Non-mayoral combined authority: functions imposing financial liability](section/105D.md)
+    - Changes to combined authorities
+      - [s. 106 Changes to boundaries of a combined authority’s area](section/106.md)
+      - [s. 106A Section 106(1)(a) orders: consent requirements under other powers](section/106A.md)
+      - [s. 106B Designation as an established mayoral strategic authority](section/106B.md)
+      - [s. 107 Dissolution of a combined authority’s area](section/107.md)
+    - Combined authorities: key route network roads
+      - [s. 107ZA Designation of key route network roads](section/107ZA.md)
+    - Combined authorities: health
+      - [s. 107ZB Health improvement and health inequalities duty](section/107ZB.md)
+    - Combined authorities: co-operation with local government pension scheme managers
+      - [s. 107ZC Co-operation with local government pension scheme managers](section/107ZC.md)
+    - Mayors for combined authority areas
+      - [s. 107A Power to provide for election of mayor](section/107A.md)
+      - [s. 107B Requirements in connection with orders under section 107A](section/107B.md)
+      - [s. 107C Deputy mayors etc](section/107C.md)
+      - [s. 107CA Appointment of commissioners by the mayor](section/107CA.md)
+      - [s. 107D Functions of mayors: general](section/107D.md)
+      - [s. 107DZA Limitation on delegation of mayoral functions](section/107DZA.md)
+      - [s. 107DA Procedure for direct conferral of general functions on mayor](section/107DA.md)
+      - [s. 107E Joint exercise of general functions](section/107E.md)
+      - [s. 107EA Exercise of fire and rescue functions](section/107EA.md)
+      - [s. 107EB Section 107EA orders: procedure](section/107EB.md)
+      - [s. 107EC Section 107EA orders: further provision](section/107EC.md)
+      - [s. 107ED Section 107EA orders: exercise of fire and rescue functions](section/107ED.md)
+      - [s. 107EE Section 107EA orders: complaints and conduct matters etc](section/107EE.md)
+      - [s. 107EF Section 107EA orders: application of fire and rescue provisions](section/107EF.md)
+      - [s. 107EG Section 107EA orders: application of local policing provisions](section/107EG.md)
+      - [s. 107F Functions of mayors: policing](section/107F.md)
+      - [s. 107FA The “eligibility” and “transfer” conditions](section/107FA.md)
+      - [s. 107G Mayors for combined authority areas: financial matters](section/107G.md)
+      - [s. 107H Alternative mayoral titles: new mayoral combined authorities](section/107H.md)
+      - [s. 107I Alternative mayoral titles: existing mayoral combined authorities](section/107I.md)
+      - [s. 107J Alternative mayoral titles: further changes](section/107J.md)
+      - [s. 107K Power to amend list of alternative titles](section/107K.md)
+    - Mayoral combined authorities: local growth plans
+      - [s. 107L Local growth plans](section/107L.md)
+      - [s. 107M Secretary of State guidance on local growth plans](section/107M.md)
+      - [s. 107N Public authorities: duty to have regard to shared local growth priorities](section/107N.md)
+    - Requirements in connection with orders about combined authorities
+      - [s. 108 Review by authorities: new combined authority](section/108.md)
+      - [s. 109 Preparation and publication of scheme: new combined authority](section/109.md)
+      - [s. 109A Proposal for new combined authority (locally led)](section/109A.md)
+      - [s. 110 Requirements in connection with establishment of combined authority](section/110.md)
+      - [s. 111 Review by authorities: existing combined authority](section/111.md)
+      - [s. 112 Preparation and publication of scheme: existing combined authority](section/112.md)
+      - [s. 112A Proposal for changes to existing combined arrangements (locally led)](section/112A.md)
+      - [s. 113 Requirements in connection with changes to existing combined arrangements](section/113.md)
+      - [s. 113ZA Requirements in connection with boundary changes or dissolution of combined authority](section/113ZA.md)
+      - [s. 113ZB Relevant consenting authorities in relation to orders under section 106](section/113ZB.md)
+      - [s. 113ZC Relevant consenting authorities in relation to orders under section 107](section/113ZC.md)
+  - Chapter 3 General provision
+    - General powers of EPBs and combined authorities
+      - [s. 113A General power of EPB or combined authority](section/113A.md)
+      - [s. 113B Boundaries of power under section 113A](section/113B.md)
+      - [s. 113C Power to make provision supplemental to section 113A](section/113C.md)
+      - [s. 113D General power of competence](section/113D.md)
+      - [s. 113E Allowances for members with special responsibilities](section/113E.md)
+    - Supplementary
+      - [s. 114 Incidental etc provision](section/114.md)
+      - [s. 115 Transfer of property, rights and liabilities](section/115.md)
+      - [s. 116 Consequential amendments](section/116.md)
+      - [s. 117 Orders and regulations](section/117.md)
+      - [s. 118 Guidance](section/118.md)
+      - [s. 119 Amendments relating to EPBs and combined authorities](section/119.md)
+      - [s. 120 Interpretation](section/120.md)
+- Part 7 Multi-area agreements
+  - Basic concepts
+    - [s. 121 Multi-area agreements](section/121.md)
+    - [s. 122 Local authorities](section/122.md)
+    - [s. 123 Partner authorities](section/123.md)
+  - Preparation and approval of multi-area agreements
+    - [s. 124 Proposal for multi-area agreement](section/124.md)
+    - [s. 125 Direction to prepare and submit draft multi-area agreement](section/125.md)
+    - [s. 126 Preparation of draft multi-area agreement](section/126.md)
+    - [s. 127 Approval of draft multi-area agreement](section/127.md)
+    - [s. 128 Submission of existing multi-area agreement](section/128.md)
+    - [s. 129 Approval of existing multi-area agreement](section/129.md)
+  - Effect of multi-area agreements
+    - [s. 130 Duty to have regard to improvement targets](section/130.md)
+  - Revision of multi-area agreements
+    - [s. 131 Responsible authorities](section/131.md)
+    - [s. 132 Revision proposals](section/132.md)
+    - [s. 133 Preparation of revision proposal](section/133.md)
+    - [s. 134 Approval of revision proposal](section/134.md)
+  - Information about multi-area agreements
+    - [s. 135 Duty to publish information about multi-area agreement](section/135.md)
+  - Supplementary and general
+    - [s. 136 Consultation on guidance](section/136.md)
+    - [s. 137 Interpretation](section/137.md)
+- Part 8 Construction contracts
+  - [s. 138 Application of construction contracts legislation](section/138.md)
+  - [s. 139 Requirement for construction contracts to be in writing](section/139.md)
+  - [s. 140 Adjudicator’s power to make corrections](section/140.md)
+  - [s. 141 Adjudication costs](section/141.md)
+  - [s. 142 Determination of payments due](section/142.md)
+  - [s. 143 Notices relating to payment](section/143.md)
+  - [s. 144 Requirement to pay notified sum](section/144.md)
+  - [s. 145 Suspension of performance for non-payment](section/145.md)
+- Part 9 Final
+  - [s. 146 Repeals](section/146.md)
+  - [s. 147 Extent](section/147.md)
+  - [s. 148 Commencement: general](section/148.md)
+  - [s. 149 Commencement: construction contracts](section/149.md)
+  - [s. 150 Short title](section/150.md)
+- Schedule 1 Local Government Boundary Commission for England
+  - Members
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Chair
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Deputy chair
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Committees
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Proceedings
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Chief executive and other employees
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Superannuation: supplementary
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Delegations
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Financial year
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Funding
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Five-year plan
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Examination by Comptroller and Auditor General
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Accounts
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Audit
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Accounting officer
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Annual report
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Instruments and authentication
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Records
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Investigation
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Freedom of information
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - House of Commons disqualification
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Transitional
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Interpretation
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- Schedule 2 Electoral change in England: considerations on review
+  - County councils
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - District councils
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - London borough councils
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Parish councils
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Interpretation
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- Schedule 3 Electoral change in England: interim modifications of the Local Government Act 1992
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Interim modifications of Part 2 of the Local Government Act 1992
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- Schedule 4 Boundary and electoral change: amendments
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Local Government and Public Involvement in Health Act 2007 (c. 28)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+- Schedule 5 Regional strategy: amendments
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Regional Development Agencies Act 1998 (c. 45)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 5A COMBINED AUTHORITIES: OVERVIEW AND SCRUTINY COMMITTEES AND AUDIT COMMITTEES
+  - Functions of overview and scrutiny committee
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - Overview and scrutiny committees: supplementary provision
+    - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - Power to make further provision about overview and scrutiny committees
+    - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - Audit committees
+    - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+- SCHEDULE 5B MAYORS FOR COMBINED AUTHORITY AREAS: FURTHER PROVISION ABOUT ELECTIONS
+  - Interpretation
+    - [Sch. 5B para. 1](schedule/5B/paragraph/1.md)
+  - Timing of elections
+    - [Sch. 5B para. 2](schedule/5B/paragraph/2.md)
+    - [Sch. 5B para. 3](schedule/5B/paragraph/3.md)
+  - Voting at elections of mayors
+    - [Sch. 5B para. 4](schedule/5B/paragraph/4.md)
+    - [Sch. 5B para. 5](schedule/5B/paragraph/5.md)
+  - Entitlement to vote
+    - [Sch. 5B para. 6](schedule/5B/paragraph/6.md)
+  - Election as mayor and councillor
+    - [Sch. 5B para. 7](schedule/5B/paragraph/7.md)
+  - Qualification and disqualification
+    - [Sch. 5B para. 8](schedule/5B/paragraph/8.md)
+    - [Sch. 5B para. 9](schedule/5B/paragraph/9.md)
+    - [Sch. 5B para. 9A](schedule/5B/paragraph/9A.md)
+    - [Sch. 5B para. 9B](schedule/5B/paragraph/9B.md)
+    - [Sch. 5B para. 10](schedule/5B/paragraph/10.md)
+    - [Sch. 5B para. 11](schedule/5B/paragraph/11.md)
+  - Power to make further provision
+    - [Sch. 5B para. 12](schedule/5B/paragraph/12.md)
+- Schedule 5BA Commissioners
+  - [Sch. 5BA para. 1 Application of Schedule](schedule/5BA/paragraph/1.md)
+  - [Sch. 5BA para. 2 Persons ineligible for appointment](schedule/5BA/paragraph/2.md)
+  - [Sch. 5BA para. 3 Terms and conditions of appointment](schedule/5BA/paragraph/3.md)
+  - [Sch. 5BA para. 4 Commissioner to work in only one area of competence](schedule/5BA/paragraph/4.md)
+  - [Sch. 5BA para. 5 Duration of appointment](schedule/5BA/paragraph/5.md)
+  - [Sch. 5BA para. 6 Limitation on delegation of functions](schedule/5BA/paragraph/6.md)
+  - [Sch. 5BA para. 7 Allowances](schedule/5BA/paragraph/7.md)
+  - [Sch. 5BA para. 8 Ending of appointment](schedule/5BA/paragraph/8.md)
+  - [Sch. 5BA para. 9 Role of overview and scrutiny committees](schedule/5BA/paragraph/9.md)
+  - [Sch. 5BA para. 10 Powers of appointment and termination exercisable on behalf of the combined authority](schedule/5BA/paragraph/10.md)
+  - [Sch. 5BA para. 11 Guidance](schedule/5BA/paragraph/11.md)
+- SCHEDULE 5C MAYORS FOR COMBINED AUTHORITY AREAS: PCC FUNCTIONS
+  - Introductory
+    - [Sch. 5C para. 1](schedule/5C/paragraph/1.md)
+  - PCC functions exercisable by the mayor
+    - [Sch. 5C para. 2](schedule/5C/paragraph/2.md)
+  - Delegation of functions
+    - [Sch. 5C para. 3](schedule/5C/paragraph/3.md)
+  - Police and crime panels
+    - [Sch. 5C para. 4](schedule/5C/paragraph/4.md)
+    - [Sch. 5C para. 5](schedule/5C/paragraph/5.md)
+    - [Sch. 5C para. 5A](schedule/5C/paragraph/5A.md)
+  - Financial matters
+    - [Sch. 5C para. 6](schedule/5C/paragraph/6.md)
+  - Suspension
+    - [Sch. 5C para. 7](schedule/5C/paragraph/7.md)
+  - Conduct
+    - [Sch. 5C para. 8](schedule/5C/paragraph/8.md)
+  - Disqualification
+    - [Sch. 5C para. 9](schedule/5C/paragraph/9.md)
+  - Policing protocol
+    - [Sch. 5C para. 10](schedule/5C/paragraph/10.md)
+  - Application of certain enactments
+    - [Sch. 5C para. 11](schedule/5C/paragraph/11.md)
+  - Supplementary
+    - [Sch. 5C para. 12](schedule/5C/paragraph/12.md)
+- Schedule 6 EPBs and combined authorities: amendments
+  - Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Trustee Investments Act 1961 (c. 62)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Local Government (Records) Act 1962 (c. 56)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Local Government Act 1966 (c. 42)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Transport Act 1968 (c. 73)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Local Government Grants (Social Need) Act 1969 (c. 2)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Employers’ Liability (Compulsory Insurance) Act 1969 (c. 57)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Local Authorities (Goods and Services) Act 1970 (c. 39)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+  - Employment Agencies Act 1973 (c. 35)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+  - Health and Safety at Work etc Act 1974 (c. 37)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+  - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+  - Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+  - Rent Act 1977 (c. 42)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+  - Protection from Eviction Act 1977 (c. 43)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+    - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+  - Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+  - Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+  - Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+  - Stock Transfer Act 1982 (c. 41)
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+  - Local Government Act 1985 (c. 51)
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+    - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+    - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+    - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+    - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+    - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+  - Housing Associations Act 1985 (c. 69)
+    - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+  - Landlord and Tenant Act 1985 (c. 70)
+    - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+  - Local Government Act 1986 (c. 10)
+    - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+  - Landlord and Tenant Act 1987 (c. 31)
+    - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+  - Local Government Act 1988 (c. 9)
+    - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+    - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+    - [Sch. 6 para. 76](schedule/6/paragraph/76.md)
+    - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+    - [Sch. 6 para. 78](schedule/6/paragraph/78.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 6 para. 79](schedule/6/paragraph/79.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 6 para. 80](schedule/6/paragraph/80.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 6 para. 81](schedule/6/paragraph/81.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 6 para. 82](schedule/6/paragraph/82.md)
+  - Local Government (Overseas Assistance) Act 1993 (c. 25)
+    - [Sch. 6 para. 83](schedule/6/paragraph/83.md)
+  - Railways Act 1993 (c. 43)
+    - [Sch. 6 para. 84](schedule/6/paragraph/84.md)
+    - [Sch. 6 para. 85](schedule/6/paragraph/85.md)
+    - [Sch. 6 para. 86](schedule/6/paragraph/86.md)
+  - Deregulation and Contracting Out Act 1994 (c. 40)
+    - [Sch. 6 para. 87](schedule/6/paragraph/87.md)
+  - Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+    - [Sch. 6 para. 88](schedule/6/paragraph/88.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 6 para. 89](schedule/6/paragraph/89.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 6 para. 90](schedule/6/paragraph/90.md)
+  - Local Government Act 1999 (c. 27)
+    - [Sch. 6 para. 91](schedule/6/paragraph/91.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 6 para. 92](schedule/6/paragraph/92.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 6 para. 93](schedule/6/paragraph/93.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 6 para. 94](schedule/6/paragraph/94.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 6 para. 95](schedule/6/paragraph/95.md)
+    - [Sch. 6 para. 96](schedule/6/paragraph/96.md)
+    - [Sch. 6 para. 97](schedule/6/paragraph/97.md)
+    - [Sch. 6 para. 98](schedule/6/paragraph/98.md)
+    - [Sch. 6 para. 99](schedule/6/paragraph/99.md)
+    - [Sch. 6 para. 100](schedule/6/paragraph/100.md)
+    - [Sch. 6 para. 101](schedule/6/paragraph/101.md)
+    - [Sch. 6 para. 102](schedule/6/paragraph/102.md)
+    - [Sch. 6 para. 103](schedule/6/paragraph/103.md)
+    - [Sch. 6 para. 104](schedule/6/paragraph/104.md)
+    - [Sch. 6 para. 105](schedule/6/paragraph/105.md)
+    - [Sch. 6 para. 106](schedule/6/paragraph/106.md)
+    - [Sch. 6 para. 107](schedule/6/paragraph/107.md)
+    - [Sch. 6 para. 108](schedule/6/paragraph/108.md)
+    - [Sch. 6 para. 109](schedule/6/paragraph/109.md)
+    - [Sch. 6 para. 110](schedule/6/paragraph/110.md)
+    - [Sch. 6 para. 111](schedule/6/paragraph/111.md)
+    - [Sch. 6 para. 112](schedule/6/paragraph/112.md)
+    - [Sch. 6 para. 113](schedule/6/paragraph/113.md)
+    - [Sch. 6 para. 114](schedule/6/paragraph/114.md)
+    - [Sch. 6 para. 115](schedule/6/paragraph/115.md)
+  - Police Reform Act 2002 (c. 30)
+    - [Sch. 6 para. 116](schedule/6/paragraph/116.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 6 para. 117](schedule/6/paragraph/117.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 6 para. 118](schedule/6/paragraph/118.md)
+  - Railways Act 2005 (c. 14)
+    - [Sch. 6 para. 119](schedule/6/paragraph/119.md)
+  - Concessionary Bus Travel Act 2007 (c. 13)
+    - [Sch. 6 para. 120](schedule/6/paragraph/120.md)
+  - Local Government and Public Involvement in Health Act 2007 (c. 28)
+    - [Sch. 6 para. 121](schedule/6/paragraph/121.md)
+  - Local Transport Act 2008 (c. 26)
+    - [Sch. 6 para. 122](schedule/6/paragraph/122.md)
+    - [Sch. 6 para. 123](schedule/6/paragraph/123.md)
+    - [Sch. 6 para. 124](schedule/6/paragraph/124.md)
+    - [Sch. 6 para. 125](schedule/6/paragraph/125.md)
+    - [Sch. 6 para. 126](schedule/6/paragraph/126.md)
+    - [Sch. 6 para. 127](schedule/6/paragraph/127.md)
+    - [Sch. 6 para. 128](schedule/6/paragraph/128.md)
+    - [Sch. 6 para. 129](schedule/6/paragraph/129.md)
+    - [Sch. 6 para. 130](schedule/6/paragraph/130.md)
+- Schedule 7 Repeals
+  - Part 1 Politically restricted posts
+  - Part 2 Audit of entities connected with local authorities
+  - Part 3 Local government boundary and electoral change
+  - Part 4 Regional strategy
+  - Part 5 Construction contracts
