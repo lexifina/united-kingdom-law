@@ -2,9 +2,11 @@
 
 2014 c. 23. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-04-01
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
+
+Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
 
 ## Contents
 
@@ -78,6 +80,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-04-01
     - [s. 54 Determining whether criteria apply to care provider](section/54.md)
     - [s. 55 Assessment of financial sustainability of care provider](section/55.md)
     - [s. 56 Informing local authorities where failure of care provider likely](section/56.md)
+    - [s. 56A Provision of information to the Secretary of State](section/56A.md)
     - [s. 57 Sections 54 to 56: supplementary](section/57.md)
   - Transition for children to adult care and support, etc.
     - [s. 58 Assessment of a child’s needs for care and support](section/58.md)
