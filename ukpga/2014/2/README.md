@@ -2,20 +2,25 @@
 
 2014 c. 2. Enacted 2014-01-30.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-07-15
 
 ## Contents
 
 - Part 1 Abolition of existing audit regime
   - [s. 1 Abolition of existing audit regime](section/1.md)
+- Part 1A The Local Audit Office
+  - [s. 1A Establishment and constitution](section/1A.md)
+  - [s. 1B Main objective](section/1B.md)
+  - [s. 1C Financial matters](section/1C.md)
+  - [s. 1D Oversight and intervention by Secretary of State](section/1D.md)
 - Part 2 Basic concepts and requirements
   - [s. 2 Relevant authorities](section/2.md)
   - [s. 3 General requirements for accounts](section/3.md)
   - [s. 4 General requirements for audit](section/4.md)
-  - [s. 5 Modification of Act in relation to smaller authorities](section/5.md)
-  - [s. 6 Meaning of “smaller authority”](section/6.md)
+  - [s. 5 Modification of Act in relation to category 2 authorities](section/5.md)
+  - [s. 6 Meaning of “category 2 authority”](section/6.md)
 - Part 2A Providers of audit services
   - [s. 6A Local audit register](section/6A.md)
   - [s. 6B External registration bodies](section/6B.md)
@@ -112,6 +117,22 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-06-29
     - Meaning of “the abolition date”
       - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
   - Part 2 Repeal of Audit Commission Act 1998: consequential repeals and revocations
+- Schedule 1A Local Audit Office: constitution, proceedings etc
+  - [Sch. 1A para. 1 Composition](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Non-executive members: appointment and tenure](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Non-executive members: remuneration](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Controller of Local Audit](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Other executive members](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Staff](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Committees](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Delegation](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Procedure](schedule/1A/paragraph/9.md)
+  - [Sch. 1A para. 10 General power](schedule/1A/paragraph/10.md)
+  - [Sch. 1A para. 11 Status](schedule/1A/paragraph/11.md)
+  - [Sch. 1A para. 12 Seal and evidence](schedule/1A/paragraph/12.md)
+  - [Sch. 1A para. 13 Accounts](schedule/1A/paragraph/13.md)
+  - [Sch. 1A para. 14 Business planning](schedule/1A/paragraph/14.md)
+  - [Sch. 1A para. 15 Annual report](schedule/1A/paragraph/15.md)
 - Schedule 1B External registration bodies
   - [Sch. 1B para. 1 Provision of information to the Local Audit Office](schedule/1B/paragraph/1.md)
   - [Sch. 1B para. 2 Directions to secure compliance](schedule/1B/paragraph/2.md)
