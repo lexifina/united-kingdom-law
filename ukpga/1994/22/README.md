@@ -1,0 +1,409 @@
+# Vehicle Excise and Registration Act 1994
+
+1994 c. 22. Enacted 1994-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/22
+
+Source: https://www.legislation.gov.uk/ukpga/1994/22/2026-07-15
+
+## Contents
+
+- Part I Vehicle excise duty and licences
+  - Main provisions
+    - [s. 1 Duty and licences.](section/1.md)
+    - [s. 2 Annual rates of duty.](section/2.md)
+    - [s. 3 Duration of licences.](section/3.md)
+    - [s. 4 Amount of duty.](section/4.md)
+    - [s. 5 Exempt vehicles.](section/5.md)
+    - [s. 5A Additional power to exempt foreign vehicles](section/5A.md)
+    - [s. 6 Collection etc. of duty.](section/6.md)
+  - Vehicle licences
+    - [s. 7 Issue of vehicle licences.](section/7.md)
+    - [s. 7A Supplement payable on vehicle ceasing to be appropriately covered](section/7A.md)
+    - [s. 7B Section 7A supplements: further provisions](section/7B.md)
+    - [s. 7C Recovery of section 7A supplements: Scotland](section/7C.md)
+    - [s. 8 Vehicles removed into UK.](section/8.md)
+    - [s. 9 Temporary vehicle licences.](section/9.md)
+    - [s. 10 Transfer ... of vehicle licences.](section/10.md)
+  - Trade licences
+    - [s. 11 Issue of trade licences.](section/11.md)
+    - [s. 12 Use of vehicles by holders of trade licences.](section/12.md)
+    - [s. 13 Trade licences: duration and amount of duty.](section/13.md)
+    - [s. 14 Trade licences: supplementary.](section/14.md)
+  - Additional duty, rebates etc.
+    - [s. 15 Vehicles becoming chargeable to duty at higher rate.](section/15.md)
+    - [s. 15A Exception for tractive units from charge at higher rate](section/15A.md)
+    - [s. 16 Exceptions from charge at higher rate in case of tractive units.](section/16.md)
+    - [s. 17 Other exceptions from charge at higher rate.](section/17.md)
+    - [s. 18 Vehicles for export becoming liable to VAT.](section/18.md)
+    - [s. 19 Rebates](section/19.md)
+    - [s. 19A Payment for licences by cheque.](section/19A.md)
+    - [s. 19B Issue of licences before payment of duty.](section/19B.md)
+    - [s. 19C Fee for payment of duty by credit card](section/19C.md)
+    - [s. 20 Combined road-rail transport of goods.](section/20.md)
+- Part II Registration of vehicles
+  - Registration
+    - [s. 21 Registration of vehicles.](section/21.md)
+    - [s. 22 Registration regulations.](section/22.md)
+    - [s. 22ZA ... Licences for vehicles for disabled persons: information](section/22ZA.md)
+    - [s. 22A Vehicle identity checks](section/22A.md)
+    - [s. 22B Registration of vehicles: certificates of conformity etc.](section/22B.md)
+  - Registration marks
+    - [s. 23 Registration marks.](section/23.md)
+    - [s. 24 Assignment of registration marks by motor dealers.](section/24.md)
+    - [s. 25 Charge on request for registration mark.](section/25.md)
+    - [s. 26 Retention of registration mark pending transfer.](section/26.md)
+    - [s. 27 Sale of rights to particular registration marks.](section/27.md)
+  - Registration plates
+    - [s. 27A Registration plates](section/27A.md)
+  - Marking
+    - [s. 28 Marking of engines and bodies.](section/28.md)
+  - Power of constables etc. to require production of documents
+    - [s. 28A Power of constables etc. to require production of registration documents](section/28A.md)
+- Part III Offences
+  - Offence of using or keeping unlicensed vehicle
+    - [s. 29 Penalty for using or keeping unlicensed vehicle.](section/29.md)
+    - [s. 30 Additional liability for keeper of unlicensed vehicle.](section/30.md)
+    - [s. 31 Relevant period for purposes of section 30.](section/31.md)
+  - Offence of being registered keeper of unlicensed vehicle
+    - [s. 31A Offence by registered keeper where vehicle unlicensed](section/31A.md)
+    - [s. 31B Exceptions to section 31A](section/31B.md)
+    - [s. 31C Penalties for offences under section 31A](section/31C.md)
+  - Offences under sections 29 and 31A: supplementary
+    - [s. 32 Sections 29 to 31C: supplementary.](section/32.md)
+    - [s. 32A Immobilisation, removal and disposal of vehicles.](section/32A.md)
+  - Other offences relating to licences
+    - [s. 33 Not exhibiting licence.](section/33.md)
+    - [s. 33A Not exhibiting licence: period of grace](section/33A.md)
+    - [s. 34 Trade licences: penalties.](section/34.md)
+    - [s. 35 Failure to return licence.](section/35.md)
+    - [s. 35A Failed payments.](section/35A.md)
+    - [s. 36 Failed payments: additional liability.](section/36.md)
+  - Offence of not paying duty chargeable at higher rate
+    - [s. 37 Penalty for not paying duty chargeable at higher rate.](section/37.md)
+    - [s. 38 Additional liability for keeper of vehicle chargeable at higher rate.](section/38.md)
+    - [s. 39 Relevant higher rate of duty for purposes of section 38.](section/39.md)
+    - [s. 40 Relevant period for purposes of section 38.](section/40.md)
+    - [s. 41 Sections 37 to 40: supplementary.](section/41.md)
+  - Offences relating to registration marks
+    - [s. 42 Not fixing registration mark.](section/42.md)
+    - [s. 43 Obscured registration mark.](section/43.md)
+  - Other offences
+    - [s. 43A Failure to have nil licence for exempt vehicle.](section/43A.md)
+    - [s. 43B Vehicle identity checks: impersonation of authorised examiners](section/43B.md)
+  - Offence in respect of incorrectly registered vehicles
+    - [s. 43C Offence of using an incorrectly registered vehicle](section/43C.md)
+    - [s. 44 Forgery and fraud.](section/44.md)
+    - [s. 45 False or misleading declarations and information.](section/45.md)
+    - [s. 46 Duty to give information.](section/46.md)
+    - [s. 46A Duty to give information: offences under regulations.](section/46A.md)
+- Part IV Legal proceedings
+  - Institution and conduct of proceedings
+    - [s. 47 Proceedings in England and Wales or Northern Ireland.](section/47.md)
+    - [s. 48 Proceedings in Scotland.](section/48.md)
+    - [s. 49 Authorised persons.](section/49.md)
+    - [s. 50 Time-limit for recovery of underpayments and overpayments.](section/50.md)
+  - Evidence
+    - [s. 51 Admissions.](section/51.md)
+    - [s. 51A Admissions: offences under regulations.](section/51A.md)
+    - [s. 52 Records.](section/52.md)
+    - [s. 53 Burden of proof.](section/53.md)
+    - [s. 54 Single witness sufficient in certain Scottish proceedings.](section/54.md)
+    - [s. 55 Guilty plea by absent accused.](section/55.md)
+  - Penalties etc.
+    - [s. 56 Penalties and fines.](section/56.md)
+- Part V Supplementary
+  - Regulations and orders
+    - [s. 57 Regulations.](section/57.md)
+    - [s. 58 Fees prescribed by regulations.](section/58.md)
+    - [s. 59 Regulations: offences.](section/59.md)
+    - [s. 60 Orders.](section/60.md)
+  - Interpretation
+    - [s. 60A Meaning of “revenue weight”.](section/60A.md)
+    - [s. 61 Vehicle weights.](section/61.md)
+    - [s. 61A Certificates etc. as to vehicle weight.](section/61A.md)
+    - [s. 61B Certificates as to reduced pollution.](section/61B.md)
+    - [s. 62 Other definitions.](section/62.md)
+  - Other supplementary provisions
+    - [s. 63 Consequential amendments.](section/63.md)
+    - [s. 64 Transitionals etc.](section/64.md)
+    - [s. 65 Repeals and revocations.](section/65.md)
+    - [s. 66 Commencement.](section/66.md)
+    - [s. 67 Extent.](section/67.md)
+    - [s. 68 Short title.](section/68.md)
+- SCHEDULE 1 Annual rates of duty
+  - Part I General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 1ZA](schedule/1/paragraph/1ZA.md)
+  - Part IA Light passenger vehicles registered before 1 April 2017: graduated rates of duty
+    - Vehicles to which this Part applies
+      - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+    - Graduated rates of duty
+      - [Sch. 1 para. 1B](schedule/1/paragraph/1B.md)
+    - ...
+      - [Sch. 1 para. 1C](schedule/1/paragraph/1C.md)
+    - The standard rate
+      - [Sch. 1 para. 1D](schedule/1/paragraph/1D.md)
+    - The premium rate
+      - [Sch. 1 para. 1E](schedule/1/paragraph/1E.md)
+    - Meaning of “prescribed”
+      - [Sch. 1 para. 1F](schedule/1/paragraph/1F.md)
+    - Meaning of “EC certificate of conformity” and “UK approval certificate”
+      - [Sch. 1 para. 1G](schedule/1/paragraph/1G.md)
+  - PART 1AA Light Passenger Vehicles Registered On or After 1 April 2017
+    - Vehicles to which this Part applies etc
+      - [Sch. 1 para. 1GA](schedule/1/paragraph/1GA.md)
+    - ...
+      - [Sch. 1 para. 1GB](schedule/1/paragraph/1GB.md)
+    - Graduated rates of duty payable on first vehicle licence
+      - [Sch. 1 para. 1GC](schedule/1/paragraph/1GC.md)
+    - Rates of duty payable on any other vehicle licence for vehicle
+      - [Sch. 1 para. 1GD](schedule/1/paragraph/1GD.md)
+    - Higher rates of duty: vehicles with a price exceeding £40,000
+      - [Sch. 1 para. 1GE](schedule/1/paragraph/1GE.md)
+    - Calculating the price of a vehicle
+      - [Sch. 1 para. 1GF](schedule/1/paragraph/1GF.md)
+    - Meaning of “taxi capable of zero emissions”
+      - [Sch. 1 para. 1GG](schedule/1/paragraph/1GG.md)
+  - Part IB Light goods vehicles
+    - Vehicles to which this Part applies
+      - [Sch. 1 para. 1H](schedule/1/paragraph/1H.md)
+    - Annual rate of duty
+      - [Sch. 1 para. 1J](schedule/1/paragraph/1J.md)
+      - [Sch. 1 para. 1K](schedule/1/paragraph/1K.md)
+      - [Sch. 1 para. 1L](schedule/1/paragraph/1L.md)
+      - [Sch. 1 para. 1M](schedule/1/paragraph/1M.md)
+      - [Sch. 1 para. 1N](schedule/1/paragraph/1N.md)
+  - Part II Motorcycles
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part III Buses
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part IV SPECIAL VEHICLES
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part IVA
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+    - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+    - [Sch. 1 para. 4C](schedule/1/paragraph/4C.md)
+    - [Sch. 1 para. 4D](schedule/1/paragraph/4D.md)
+    - [Sch. 1 para. 4E](schedule/1/paragraph/4E.md)
+    - [Sch. 1 para. 4EE](schedule/1/paragraph/4EE.md)
+    - [Sch. 1 para. 4F](schedule/1/paragraph/4F.md)
+    - [Sch. 1 para. 4G](schedule/1/paragraph/4G.md)
+    - [Sch. 1 para. 4H](schedule/1/paragraph/4H.md)
+  - Part V Recovery vehicles
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part VI Vehicles used for exceptional loads
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part VII Haulage vehicles
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Part VIII Goods vehicles
+    - Basic rate
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Rigid goods vehicles exceeding 3,500 kgs revenue weight
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+      - [Sch. 1 para. 9B](schedule/1/paragraph/9B.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Tractive units exceeding 7,500 kilograms train weight
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+      - [Sch. 1 para. 11B](schedule/1/paragraph/11B.md)
+      - [Sch. 1 para. 11C](schedule/1/paragraph/11C.md)
+    - ................................
+      - [Sch. 1 para. 11D](schedule/1/paragraph/11D.md)
+    - Farmers’ goods vehicles and showmen’s goods vehicles
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Vehicles with reduced plated weights
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Vehicles for conveying machines
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Goods vehicles used partly for private purposes
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Exceptions
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Meaning of “trailer”
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Meaning of “island goods vehicle”
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Other expressions
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Exempt vehicles
+  - Electrically propelled vehicles
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Old vehicles
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Trams
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Electrically assisted pedal cycles
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Vehicles not for carriage
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Police vehicles
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - Fire engines etc.
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Ambulances, medical courier vehicles and health service vehicles
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Mine rescue vehicles etc.
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Lifeboat vehicles
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Road construction and maintenance vehicles
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Vehicles for disabled people
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Vehicles used between different parts of land
+    - [Sch. 2 para. 20A](schedule/2/paragraph/20A.md)
+  - Tractors
+    - [Sch. 2 para. 20B](schedule/2/paragraph/20B.md)
+  - Light agricultural vehicles
+    - [Sch. 2 para. 20C](schedule/2/paragraph/20C.md)
+  - Agricultural engines
+    - [Sch. 2 para. 20D](schedule/2/paragraph/20D.md)
+  - Mowing machines
+    - [Sch. 2 para. 20E](schedule/2/paragraph/20E.md)
+  - Steam powered vehicles
+    - [Sch. 2 para. 20F](schedule/2/paragraph/20F.md)
+  - Electrically propelled vehicles etc
+    - [Sch. 2 para. 20G](schedule/2/paragraph/20G.md)
+  - Snow ploughs
+    - [Sch. 2 para. 20H](schedule/2/paragraph/20H.md)
+  - Gritters
+    - [Sch. 2 para. 20J](schedule/2/paragraph/20J.md)
+  - Vehicles used for short journeys between different parts of person’s land
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Vehicle testing etc.
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Vehicles for export
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Vehicles imported by members of foreign armed forces etc.
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - ...
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+- SCHEDULE 2A Immobilisation, removal and disposal of vehicles
+  - Immobilisation
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Offences connected with immobilisation
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Removal and disposal of vehicles
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Offences as to securing possession of vehicles
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Payment of sum where licence not produced
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Offences relating to vouchers
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Vouchers: general
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Disputes
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Authorised persons
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Application of provisions
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Interpretation
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+- SCHEDULE 3 Consequential amendments
+  - The Scrap Metal Dealers Act 1964 (c. 69)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Finance Act 1966 (c. 18)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Wireless Telegraphy Act 1967 (c. 72)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Port of London Act 1968 (c. xxxii)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Road Traffic (Foreign Vehicles) Act 1972 (c. 27)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I. 14))
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Control of Pollution Act 1974 (c. 40)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The International Road Haulage Permits Act 1975 (c. 46)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The International Carriage of Perishable Foodstuffs Act 1976 (c. 58)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The National Health Service Act 1977 (c. 49)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Criminal Damage (Compensation) (Northern Ireland) Order 1977 (S.I. 1977/1247 (N.I.14))
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Refuse Disposal (Amenity) Act 1978 (c. 3)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Pollution Control and Local Government (Northern Ireland) Order 1978 (S.I. 1978/1049 (N.I.19))
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Customs and Excise Management Act 1979 (c. 2)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - The Hydrocarbon Oil Duties Act 1979 (c. 5)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I.1))
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Sporting Events (Control of Alcohol etc.) Act 1985 (c. 57)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Finance Act 1986 (c. 41)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Dartford-Thurrock Crossing Act 1988 (c. 20)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Road Traffic Act 1988 (c. 52)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - The Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - The Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I.12))
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - The Environmental Protection Act 1990 (c. 43)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - The New Roads and Street Works Act 1991 (c. 22)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - The Road Traffic Act 1991 (c. 40)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - The Criminal Justice Act 1991 (c. 53)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - The Severn Bridges Act 1992 (c. 3)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - The Finance Act 1994 (c. 9)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+- SCHEDULE 4 Transitionals etc
+  - General transitionals and savings
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Preservation of old transitionals and savings
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Exemption for disabled passengers
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Trade licences
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Combined road-rail transport of goods
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Regulations about registration and licensing
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Assignment of registration marks
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Repeals and revocations
+  - Part I Repeals
+  - Part II Revocations
+- TABLE OF DERIVATIONS
