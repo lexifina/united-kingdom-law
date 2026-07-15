@@ -1,0 +1,2840 @@
+# Financial Services and Markets Act 2000
+
+2000 c. 8. Enacted 2000-06-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 192 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/8
+
+Source: https://www.legislation.gov.uk/ukpga/2000/8/2026-07-15
+
+## Contents
+
+- Part I The Regulator
+  - [s. 1 The Financial Services Authority.](section/1.md)
+  - The Authority’s general duties
+    - [s. 2 The Authority’s general duties.](section/2.md)
+  - The regulatory objectives
+    - [s. 3 Market confidence.](section/3.md)
+    - [s. 3An Financial stability](section/3An.md)
+    - [s. 4 Public awareness.](section/4.md)
+    - [s. 5 The protection of consumers.](section/5.md)
+    - [s. 6 The reduction of financial crime.](section/6.md)
+  - Enhancing public understanding of financial matters etc
+    - [s. 6A Enhancing public understanding of financial matters etc](section/6A.md)
+  - Corporate governance
+    - [s. 7 Duty of Authority to follow principles of good governance.](section/7.md)
+  - Arrangements for consulting practitioners and consumers
+    - [s. 8 The Authority’s general duty to consult.](section/8.md)
+    - [s. 9 The Practitioner Panel.](section/9.md)
+    - [s. 10 The Consumer Panel.](section/10.md)
+    - [s. 11 Duty to consider representations by the Panels.](section/11.md)
+  - Reviews
+    - [s. 12 Reviews.](section/12.md)
+    - [s. 13 Right to obtain documents and information.](section/13.md)
+  - Inquiries
+    - [s. 14 Cases in which the Treasury may arrange independent inquiries.](section/14.md)
+    - [s. 15 Power to appoint person to hold an inquiry.](section/15.md)
+    - [s. 16 Powers of appointed person and procedure.](section/16.md)
+    - [s. 17 Conclusion of inquiry.](section/17.md)
+    - [s. 18 Obstruction and contempt.](section/18.md)
+- PART 1A The Regulators
+  - CHAPTER 1 The Financial Conduct Authority
+    - The Financial Conduct Authority
+      - [s. 1A The Financial Conduct Authority](section/1A.md)
+    - The FCA’s general duties
+      - [s. 1B The FCA’s general duties](section/1B.md)
+      - [s. 1C The consumer protection objective](section/1C.md)
+      - [s. 1D The integrity objective](section/1D.md)
+      - [s. 1E The competition objective](section/1E.md)
+      - [s. 1EB Competitiveness and growth objective](section/1EB.md)
+    - Interpretation of terms used in relation to FCA’s general duties
+      - [s. 1F Meaning of “relevant markets” in strategic objective](section/1F.md)
+      - [s. 1G Meaning of “consumer”](section/1G.md)
+      - [s. 1H Further interpretative provisions for sections 1B to 1G](section/1H.md)
+      - [s. 1I Meaning of “the UK financial system”](section/1I.md)
+    - Modifications applying if core activity not regulated by PRA
+      - [s. 1IA Modifications applying if core activity not regulated by PRA](section/1IA.md)
+    - Power to amend objectives
+      - [s. 1J Power to amend objectives](section/1J.md)
+    - Recommendations
+      - [s. 1JA Recommendations by Treasury in connection with general duties](section/1JA.md)
+    - Guidance about objectives
+      - [s. 1K Guidance about objectives](section/1K.md)
+    - Supervision, monitoring and enforcement
+      - [s. 1L Supervision, monitoring and enforcement](section/1L.md)
+    - Arrangements for consulting practitioners and consumers
+      - [s. 1M The FCA’s general duty to consult](section/1M.md)
+      - [s. 1MA Composition of Panels](section/1MA.md)
+      - [s. 1N The FCA Practitioner Panel](section/1N.md)
+      - [s. 1O The Smaller Business Practitioner Panel](section/1O.md)
+      - [s. 1P The Markets Practitioner Panel](section/1P.md)
+      - [s. 1Q The Consumer Panel](section/1Q.md)
+      - [s. 1QA The Listing Authority Advisory Panel](section/1QA.md)
+      - [s. 1R Duty to consider representations made by the Panels](section/1R.md)
+      - [s. 1RA Statement of policy on panel appointments](section/1RA.md)
+    - Requirements for public consultation
+      - [s. 1RB Requirements in connection with public consultations](section/1RB.md)
+    - Reviews
+      - [s. 1S Reviews](section/1S.md)
+      - [s. 1T Right to obtain documents and information](section/1T.md)
+  - CHAPTER 2 The Prudential Regulation Authority
+    - The Prudential Regulation Authority
+      - [s. 2A The Prudential Regulation Authority](section/2A.md)
+      - [s. 2AB Functions of the PRA](section/2AB.md)
+    - The PRA’s general duties
+      - [s. 2B The PRA’s general objective](section/2B.md)
+      - [s. 2C Insurance objective](section/2C.md)
+      - [s. 2D Power to provide for additional objectives](section/2D.md)
+      - [s. 2E Strategy](section/2E.md)
+      - [s. 2F Interpretation of references to objectives](section/2F.md)
+      - [s. 2G Limit on effect of sections 2B to 2D](section/2G.md)
+      - [s. 2H Secondary objectives and duty to have regard to regulatory principles](section/2H.md)
+      - [s. 2I Guidance about objectives](section/2I.md)
+      - [s. 2J Interpretation of Chapter 2](section/2J.md)
+    - Supervision
+      - [s. 2K Arrangements for supervision of PRA-authorised persons](section/2K.md)
+    - Arrangements for consulting practitioners
+      - [s. 2L The PRA’s general duty to consult](section/2L.md)
+      - [s. 2LA Composition of Panels](section/2LA.md)
+      - [s. 2M The PRA Practitioner Panel](section/2M.md)
+      - [s. 2MA The Insurance Practitioner Panel](section/2MA.md)
+      - [s. 2N Duty to consider representations](section/2N.md)
+      - [s. 2NA Statement of policy on panel appointments](section/2NA.md)
+    - Requirements for public consultation
+      - [s. 2NB Requirements in connection with public consultations](section/2NB.md)
+    - Reviews
+      - [s. 2O Reviews](section/2O.md)
+      - [s. 2P Right to obtain documents and information](section/2P.md)
+  - CHAPTER 3 Further provisions relating to FCA and PRA
+    - Introductory
+      - [s. 3A Meaning of “regulator”](section/3A.md)
+    - Regulatory principles
+      - [s. 3B Regulatory principles to be applied by both regulators](section/3B.md)
+    - Corporate governance
+      - [s. 3C Duty to follow principles of good governance](section/3C.md)
+    - Relationship between FCA and PRA
+      - [s. 3D Duty of FCA and PRA to ensure co-ordinated exercise of functions](section/3D.md)
+      - [s. 3E Memorandum of understanding](section/3E.md)
+      - [s. 3F With-profits insurance policies](section/3F.md)
+      - [s. 3G Power to establish boundary between FCA and PRA responsibilities](section/3G.md)
+      - [s. 3H Parliamentary control of orders under section 3G](section/3H.md)
+    - Power of PRA to restrain proposed action by FCA
+      - [s. 3I Power of PRA to require FCA to refrain from specified action](section/3I.md)
+      - [s. 3J Power of PRA in relation to with-profits policies](section/3J.md)
+      - [s. 3K Revocation of directions under section 3I or 3J](section/3K.md)
+      - [s. 3L Further provisions about directions under section 3I or 3J](section/3L.md)
+    - Directions relating to consolidated supervision
+      - [s. 3M Directions relating to consolidated supervision of groups](section/3M.md)
+      - [s. 3N Revocation of directions under section 3M](section/3N.md)
+      - [s. 3O Further provisions about directions under section 3M](section/3O.md)
+      - [s. 3P Consultation by regulator complying with direction](section/3P.md)
+    - Co-operation with Bank of England
+      - [s. 3Q Co-operation by FCA ... with Bank of England](section/3Q.md)
+    - Arrangements for provision of services
+      - [s. 3R Arrangements for provision of services](section/3R.md)
+    - Rules
+      - [s. 3RA Duty of FCA and PRA to review rules](section/3RA.md)
+      - [s. 3RB Statement of policy relating to review of rules](section/3RB.md)
+      - [s. 3RC Requirement to review specified rules](section/3RC.md)
+      - [s. 3RD Report on certain reviews](section/3RD.md)
+      - [s. 3RE Power of Treasury to require making of rules by regulations](section/3RE.md)
+    - Enhancing public understanding of financial matters etc.
+      - [s. 3S The consumer financial education body](section/3S.md)
+    - Interpretation
+      - [s. 3T Interpretation](section/3T.md)
+- Part II Regulated And Prohibited Activities
+  - The general prohibition
+    - [s. 19 The general prohibition.](section/19.md)
+  - Requirement for permission
+    - [s. 20 Authorised persons acting without permission.](section/20.md)
+  - Financial promotion
+    - [s. 21 Restrictions on financial promotion.](section/21.md)
+  - Regulated activities
+    - [s. 22 Regulated activities](section/22.md)
+    - [s. 22A Designation of activities requiring prudential regulation by PRA](section/22A.md)
+    - [s. 22B Parliamentary control in relation to certain orders under section 22A](section/22B.md)
+  - Offences
+    - [s. 23 Contravention of the general prohibition or section 20(1) or (1A).](section/23.md)
+    - [s. 23A Parliamentary control in relation to certain orders under section 23](section/23A.md)
+    - [s. 24 False claims to be authorised or exempt.](section/24.md)
+    - [s. 25 Contravention of section 21.](section/25.md)
+  - Enforceability of agreements
+    - [s. 26 Agreements made by unauthorised persons.](section/26.md)
+    - [s. 26A Agreements relating to credit](section/26A.md)
+    - [s. 27 Agreements made through unauthorised persons.](section/27.md)
+    - [s. 28 Agreements made unenforceable by section 26 or 27: general cases.](section/28.md)
+    - [s. 28A Credit-related agreements made unenforceable by section 26, 26A or 27](section/28A.md)
+    - [s. 28B Decisions under section 28A: procedure](section/28B.md)
+    - [s. 29 Accepting deposits in breach of general prohibition.](section/29.md)
+    - [s. 30 Enforceability of agreements resulting from unlawful communications.](section/30.md)
+- Part III Authorisation and Exemption
+  - Authorisation
+    - [s. 31 Authorised persons.](section/31.md)
+    - [s. 32 Partnerships and unincorporated associations.](section/32.md)
+  - Ending of authorisation
+    - [s. 33 Withdrawal of authorisation ....](section/33.md)
+    - [s. 34 EEA firms.](section/34.md)
+    - [s. 35 Treaty firms.](section/35.md)
+    - [s. 36 Authorised open-ended investment companies](section/36.md)
+  - Exercise of EEA rights by UK firms
+    - [s. 37 Exercise of EEA rights by UK firms.](section/37.md)
+  - Exemption
+    - [s. 38 Exemption orders.](section/38.md)
+    - [s. 39 Exemption of appointed representatives.](section/39.md)
+    - [s. 39A Certain tied agents operating outside United Kingdom](section/39A.md)
+- Part IV Permission to Carry on Regulated Activities
+  - Application for permission
+    - [s. 40 Application for permission.](section/40.md)
+    - [s. 41 The threshold conditions.](section/41.md)
+  - Permission
+    - [s. 42 Giving permission.](section/42.md)
+    - [s. 43 Imposition of requirements.](section/43.md)
+  - Variation and cancellation of Part IV permission
+    - [s. 44 Variation etc. at request of authorised person.](section/44.md)
+    - [s. 45 Variation etc. on the Authority’s own initiative.](section/45.md)
+    - [s. 46 Variation of permission on acquisition of control.](section/46.md)
+    - [s. 47 Exercise of power in support of overseas regulator.](section/47.md)
+    - [s. 48 Prohibitions and restrictions.](section/48.md)
+  - Connected persons
+    - [s. 49 Persons connected with an applicant.](section/49.md)
+  - Additional permissions
+    - [s. 50 Authority’s duty to consider other permissions etc.](section/50.md)
+  - Procedure
+    - [s. 51 Applications under this Part.](section/51.md)
+    - [s. 52 Determination of applications.](section/52.md)
+    - [s. 53 Exercise of own-initiative power: procedure.](section/53.md)
+    - [s. 54 Cancellation of Part IV permission: procedure.](section/54.md)
+  - Notification
+    - [s. 54A Notification of ESMA](section/54A.md)
+    - [s. 54B Notification of EBA](section/54B.md)
+  - References to the Tribunal
+    - [s. 55 Right to refer matters to the Tribunal.](section/55.md)
+- PART 4A Permission to carry on regulated activities
+  - Application for permission
+    - [s. 55A Application for permission](section/55A.md)
+    - [s. 55B The threshold conditions](section/55B.md)
+    - [s. 55C Power to amend Schedule 6](section/55C.md)
+    - [s. 55D Firms based outside the United Kingdom](section/55D.md)
+    - [s. 55E Giving permission: the FCA](section/55E.md)
+    - [s. 55F Giving permission: the PRA](section/55F.md)
+    - [s. 55G Giving permission: special cases](section/55G.md)
+  - Variation and cancellation of Part 4A permission
+    - [s. 55H Variation by FCA at request of authorised person](section/55H.md)
+    - [s. 55I Variation by PRA at request of authorised person](section/55I.md)
+    - [s. 55J Variation or cancellation on initiative of regulator](section/55J.md)
+    - [s. 55JA Variation or cancellation on initiative of FCA: additional power](section/55JA.md)
+    - [s. 55K Investment firms: particular conditions that enable cancellation](section/55K.md)
+    - [s. 55KA Insurance undertakings, reinsurance undertakings and third-country insurance undertakings: particular conditions that enable cancellation](section/55KA.md)
+  - Imposition and variation of requirements
+    - [s. 55L Imposition of requirements by FCA](section/55L.md)
+    - [s. 55M Imposition of requirements by PRA](section/55M.md)
+    - [s. 55N Requirements under section 55L or 55M: further provisions](section/55N.md)
+    - [s. 55NA General requirement relating to financial promotion approval](section/55NA.md)
+    - [s. 55NB Section 55NA: power to provide for exemptions](section/55NB.md)
+    - [s. 55O Imposition of requirements on acquisition of control](section/55O.md)
+    - [s. 55P Prohibitions and restrictions](section/55P.md)
+    - [s. 55PA Assets requirements imposed on insurance undertakings or reinsurance undertakings](section/55PA.md)
+    - [s. 55PB Requirements relating to general meetings](section/55PB.md)
+  - Exercise of power in support of overseas regulator
+    - [s. 55Q Exercise of power in support of overseas regulator](section/55Q.md)
+  - Connected persons
+    - [s. 55R Persons connected with an applicant](section/55R.md)
+  - Additional permissions
+    - [s. 55S Duty of FCA or PRA to consider other permissions](section/55S.md)
+  - Persons whose interests are protected
+    - [s. 55T Persons whose interests are protected](section/55T.md)
+  - Procedure
+    - [s. 55U Applications under this Part](section/55U.md)
+    - [s. 55V Determination of applications](section/55V.md)
+    - [s. 55W Applications under this Part: communications between regulators](section/55W.md)
+    - [s. 55X Determination of applications: warning notices and decision notices](section/55X.md)
+    - [s. 55XA Applications relating to administering a benchmark](section/55XA.md)
+    - [s. 55Y Exercise of own-initiative power: procedure](section/55Y.md)
+    - [s. 55Z Cancellation of Part 4A permission or permission under section 55NA: procedure](section/55Z.md)
+  - Notification
+    - [s. 55Z1 Notification of ESMA](section/55Z1.md)
+    - [s. 55Z2 Notification of EBA](section/55Z2.md)
+    - [s. 55Z2A Notification of the European bodies](section/55Z2A.md)
+  - References to the Tribunal
+    - [s. 55Z3 Right to refer matters to the Tribunal](section/55Z3.md)
+  - Interpretation
+    - [s. 55Z4 Interpretation of Part 4A](section/55Z4.md)
+- Part V Performance of Regulated Activities
+  - Prohibition orders
+    - [s. 56 Prohibition orders.](section/56.md)
+    - [s. 57 Prohibition orders: procedure and right to refer to Tribunal.](section/57.md)
+    - [s. 58 Applications relating to prohibitions: procedure and right to refer to Tribunal.](section/58.md)
+  - Approval
+    - [s. 59 Approval for particular arrangements.](section/59.md)
+    - [s. 59ZA Senior management functions](section/59ZA.md)
+    - [s. 59ZB Designated senior management functions](section/59ZB.md)
+    - [s. 59A Specifying functions as controlled functions: supplementary](section/59A.md)
+    - [s. 59AB Specifying functions as controlled functions: transitional provision](section/59AB.md)
+    - [s. 59B Role of FCA in relation to PRA decisions](section/59B.md)
+    - [s. 60 Applications for approval.](section/60.md)
+    - [s. 60A Vetting of candidates by ... authorised persons](section/60A.md)
+    - [s. 61 Determination of applications.](section/61.md)
+    - [s. 62 Applications for approval: procedure and right to refer to Tribunal.](section/62.md)
+    - [s. 62A Changes in responsibilities of senior managers](section/62A.md)
+    - [s. 63 Withdrawal of approval.](section/63.md)
+    - [s. 63ZA Variation of senior manager’s approval at request of ... authorised person](section/63ZA.md)
+    - [s. 63ZB Variation of senior manager’s approval on initiative of regulator](section/63ZB.md)
+    - [s. 63ZC Exercise of power under section 63ZB: procedure](section/63ZC.md)
+    - [s. 63ZD Statement of policy relating to conditional approval and variation](section/63ZD.md)
+    - [s. 63ZE Statement of policy: procedure](section/63ZE.md)
+  - Performance of controlled functions without approval
+    - [s. 63A Power to impose penalties](section/63A.md)
+    - [s. 63B Procedure and right to refer to Tribunal](section/63B.md)
+    - [s. 63C Statement of policy](section/63C.md)
+    - [s. 63D Statement of policy: procedure](section/63D.md)
+  - Certification of employees
+    - [s. 63E Certification of employees by ... authorised persons](section/63E.md)
+    - [s. 63F Issuing of certificates](section/63F.md)
+  - ...
+    - [s. 64 Conduct: statements and codes.](section/64.md)
+    - [s. 65 Statements and codes: procedure.](section/65.md)
+  - Conduct of approved persons and others
+    - [s. 64A Rules of conduct](section/64A.md)
+    - [s. 64B Rules of conduct: responsibilities of ... authorised persons](section/64B.md)
+    - [s. 64C Requirement for ... authorised persons to notify regulator of disciplinary action](section/64C.md)
+    - [s. 66 Disciplinary powers.](section/66.md)
+    - [s. 66A Misconduct: action by the FCA](section/66A.md)
+    - [s. 66B Misconduct: action by the PRA](section/66B.md)
+    - [s. 67 Disciplinary measures: procedure and right to refer to Tribunal.](section/67.md)
+    - [s. 68 Publication.](section/68.md)
+    - [s. 69 Statement of policy.](section/69.md)
+    - [s. 70 Statements of policy: procedure.](section/70.md)
+  - Breach of statutory duty
+    - [s. 71 Actions for damages.](section/71.md)
+  - “Relevant authorised person”
+    - [s. 71A Meaning of “relevant authorised person”](section/71A.md)
+  - Removal of directors and senior executives and appointment of temporary manager
+    - [s. 71B Removal of directors and senior executives](section/71B.md)
+    - [s. 71C Temporary manager](section/71C.md)
+    - [s. 71D Sections 71B and 71C: conditions](section/71D.md)
+    - [s. 71E Temporary manager: further provisions in relation to the appointment](section/71E.md)
+    - [s. 71F Temporary manager: instrument of appointment](section/71F.md)
+    - [s. 71G Right to refer matters to the Tribunal](section/71G.md)
+    - [s. 71H Removal of directors and senior executives and appointment of temporary manager: procedure](section/71H.md)
+    - [s. 71I Sections 71B to 71H: interpretation](section/71I.md)
+- PART 5A Designated activities
+  - CHAPTER 1 GENERAL PROVISIONS
+    - [s. 71K Designated activities](section/71K.md)
+    - [s. 71L Restrictions on carrying on of designated activities](section/71L.md)
+    - [s. 71M Designated activity regulations: general](section/71M.md)
+    - [s. 71N Designated activities: rules](section/71N.md)
+    - [s. 71O Designated activities: directions](section/71O.md)
+    - [s. 71P Designated activities: liability](section/71P.md)
+    - [s. 71Q Designated activities: enforcement](section/71Q.md)
+    - [s. 71R Designated activities and rules: connected amendments](section/71R.md)
+    - [s. 71S Designated activities regulations: Parliamentary control](section/71S.md)
+  - CHAPTER 2 PROVISIONS RELATING TO PARTICULAR DESIGNATED ACTIVITIES
+    - “Relevant designated activity” and “relevant Part 5A requirement”
+      - [s. 71T Meaning of “relevant designated activity” and “relevant Part 5A requirement”](section/71T.md)
+    - Procedure relating to relevant Part 5A directions
+      - [s. 71U Meaning of “relevant Part 5A direction” for purposes of this Chapter](section/71U.md)
+      - [s. 71V Procedure for giving, varying or revoking relevant Part 5A direction](section/71V.md)
+      - [s. 71W Application for variation or revocation of relevant Part 5A direction](section/71W.md)
+      - [s. 71X Determination of application under section 71W](section/71X.md)
+      - [s. 71Y Relevant Part 5A direction: right to refer to Tribunal](section/71Y.md)
+- Part VI Official Listing
+  - ...
+    - [s. 72 The competent authority.](section/72.md)
+    - [s. 73 General duty of the competent authority.](section/73.md)
+  - Rules
+    - [s. 73A Part 6 Rules](section/73A.md)
+  - The official list
+    - [s. 74 The official list.](section/74.md)
+  - Listing
+    - [s. 75 Applications for listing.](section/75.md)
+    - [s. 76 Decision on application.](section/76.md)
+    - [s. 77 Discontinuance and suspension of listing.](section/77.md)
+    - [s. 78 Discontinuance or suspension: procedure.](section/78.md)
+    - [s. 78A Discontinuance or suspension at the request of the issuer: procedure](section/78A.md)
+  - Listing particulars
+    - [s. 79 Listing particulars and other documents.](section/79.md)
+    - [s. 80 General duty of disclosure in listing particulars.](section/80.md)
+    - [s. 81 Supplementary listing particulars.](section/81.md)
+    - [s. 82 Exemptions from disclosure.](section/82.md)
+    - [s. 83 Registration of listing particulars.](section/83.md)
+  - Contravention of prohibition relating to public offer of securities
+    - [s. 84 Matters which may be dealt with by prospectus rules](section/84.md)
+    - [s. 85 Contravention of prohibition relating to public offer of securities](section/85.md)
+    - [s. 86 Exempt offers to the public and admissions to trading](section/86.md)
+    - [s. 87 Election to have prospectus](section/87.md)
+  - Approval of prospectus
+    - [s. 87A Criteria for approval of prospectus by FCA](section/87A.md)
+    - [s. 87B Exemptions from disclosure](section/87B.md)
+    - [s. 87C Consideration of application for approval](section/87C.md)
+    - [s. 87D Procedure for decision to refuse an application for approval](section/87D.md)
+  - Transfer of application for approval of a prospectus
+    - [s. 87E Transfer by FCA of application for approval](section/87E.md)
+    - [s. 87F Transfer to FCA of application for approval](section/87F.md)
+  - Final terms
+    - [s. 87FA Final terms](section/87FA.md)
+    - [s. 87FB Communication of final terms by FCA](section/87FB.md)
+  - Supplementary prospectus
+    - [s. 87G Supplementary prospectus](section/87G.md)
+  - Passporting
+    - [s. 87H Prospectus approved in another EEA State](section/87H.md)
+    - [s. 87I Provision of information to host Member State](section/87I.md)
+  - Transferable securities: powers of FCA
+    - [s. 87J Requirements imposed as condition of approval](section/87J.md)
+    - [s. 87JA Power to suspend scrutiny of prospectus](section/87JA.md)
+    - [s. 87JB Power to refuse approval of a prospectus](section/87JB.md)
+    - [s. 87K Power to suspend, restrict or prohibit offer to the public](section/87K.md)
+    - [s. 87L Power to suspend, restrict or prohibit admission to trading on a regulated market](section/87L.md)
+    - [s. 87LA Power of FCA to suspend or prohibit trading on a trading facility](section/87LA.md)
+    - [s. 87M Public censure of issuer](section/87M.md)
+    - [s. 87N Right to refer matters to the Tribunal](section/87N.md)
+    - [s. 87O Procedure under sections 87JA, 87K, 87L and 87LA](section/87O.md)
+    - [s. 87P Exercise of powers at request of competent authority of another EEA State](section/87P.md)
+  - Rights of investors
+    - [s. 87Q Right of investor to withdraw](section/87Q.md)
+  - Registered investors
+    - [s. 87R Register of investors](section/87R.md)
+  - Sponsors
+    - [s. 88 Sponsors.](section/88.md)
+    - [s. 89 Public censure of sponsor.](section/89.md)
+    - [s. 88A Disciplinary powers: contravention of s.88(3)(c) or (e)](section/88A.md)
+    - [s. 88B Action under s.88A: procedure and right to refer to Tribunal](section/88B.md)
+    - [s. 88C Action under s.88A: statement of policy](section/88C.md)
+    - [s. 88D Statement of policy under s.88C: procedure](section/88D.md)
+    - [s. 88E Powers exercisable to advance operational objectives](section/88E.md)
+    - [s. 88F Action under s.88E: procedure](section/88F.md)
+  - Transparency obligations
+    - [s. 89A Transparency rules](section/89A.md)
+    - [s. 89B Provision of voteholder information](section/89B.md)
+    - [s. 89C Provision of information by issuers of transferable securities](section/89C.md)
+    - [s. 89D Notification of voting rights held by issuer](section/89D.md)
+    - [s. 89E Notification of proposed amendment of issuer’s constitution](section/89E.md)
+    - [s. 89F Transparency rules: interpretation etc](section/89F.md)
+    - [s. 89G Transparency rules: other supplementary provisions](section/89G.md)
+  - Power of FCA to call for information
+    - [s. 89H FCA’s power to call for information](section/89H.md)
+    - [s. 89I Requirements in connection with call for information](section/89I.md)
+    - [s. 89J Power to call for information: supplementary provisions](section/89J.md)
+  - Powers exercisable in case of infringement of transparency obligation
+    - [s. 89K Public censure of issuer](section/89K.md)
+    - [s. 89L Power to suspend or prohibit trading of securities](section/89L.md)
+    - [s. 89M Procedure under section 89L](section/89M.md)
+    - [s. 89N Right to refer matters to the Tribunal](section/89N.md)
+    - [s. 89NA Voting rights suspension orders](section/89NA.md)
+  - Corporate governance
+    - [s. 89O Corporate governance rules](section/89O.md)
+  - Primary information providers
+    - [s. 89P Primary information providers](section/89P.md)
+    - [s. 89Q Disciplinary powers: contravention of s.89P(4)(b) or (d)](section/89Q.md)
+    - [s. 89R Action under s.89Q: procedure and right to refer to Tribunal](section/89R.md)
+    - [s. 89S Action under s.89Q: statement of policy](section/89S.md)
+    - [s. 89T Statement of policy under s.89S: procedure](section/89T.md)
+    - [s. 89U Powers exercisable to advance operational objectives](section/89U.md)
+    - [s. 89V Action under s.89U: procedure](section/89V.md)
+    - [s. 89W Storage of regulated information](section/89W.md)
+  - Compensation for false or misleading statements etc
+    - [s. 90 Compensation for statements in listing particulars ...](section/90.md)
+    - [s. 90ZA Liability for key investor information](section/90ZA.md)
+    - [s. 90A Liability of issuers in connection with published information](section/90A.md)
+    - [s. 90B Power to make further provision about liability for published information](section/90B.md)
+  - Penalties
+    - [s. 91 Penalties for breach of Part 6 rules](section/91.md)
+    - [s. 92 Procedure.](section/92.md)
+    - [s. 93 Statement of policy.](section/93.md)
+    - [s. 94 Statements of policy: procedure.](section/94.md)
+  - Competition
+    - [s. 95 Competition scrutiny.](section/95.md)
+  - Miscellaneous
+    - [s. 96 Obligations of issuers of listed securities.](section/96.md)
+    - [s. 96A Disclosure of information requirements](section/96A.md)
+    - [s. 96B Disclosure rules: persons responsible for compliance](section/96B.md)
+    - [s. 96C Suspension of trading](section/96C.md)
+    - [s. 97 Appointment by FCA of persons to carry out investigations.](section/97.md)
+    - [s. 97A Reporting of infringements](section/97A.md)
+    - [s. 98 Advertisements etc. in connection with listing applications.](section/98.md)
+    - [s. 99 Fees.](section/99.md)
+    - [s. 100 Penalties.](section/100.md)
+    - [s. 100A Exercise of powers where UK is host member state](section/100A.md)
+    - [s. 101 Listing rules: general provisions.](section/101.md)
+    - [s. 102 Exemption from liability in damages.](section/102.md)
+  - Interpretative provisions
+    - [s. 102A Meaning of “securities” etc.](section/102A.md)
+    - [s. 102B Meaning of “offer of transferable securities to the public” etc.](section/102B.md)
+    - [s. 102C Meaning of “home State” in relation to transferable securities](section/102C.md)
+    - [s. 103 Interpretation of this Part](section/103.md)
+- Part VII Control of Business Transfers
+  - [s. 103A Meaning of “the appropriate regulator”](section/103A.md)
+  - [s. 104 Control of business transfers.](section/104.md)
+  - [s. 105 Insurance business transfer schemes.](section/105.md)
+  - [s. 106 Banking business transfer schemes.](section/106.md)
+  - [s. 106A Reclaim fund business transfer scheme](section/106A.md)
+  - [s. 106B Ring-fencing transfer scheme](section/106B.md)
+  - [s. 107 Application for order sanctioning transfer scheme.](section/107.md)
+  - [s. 108 Requirements on applicants.](section/108.md)
+  - [s. 109 Scheme reports: insurance business transfer schemes](section/109.md)
+  - [s. 109A Scheme reports: ring-fencing transfer schemes](section/109A.md)
+  - [s. 110 Right to participate in proceedings.](section/110.md)
+  - [s. 111 Sanction of the court for business transfer schemes.](section/111.md)
+  - [s. 112 Effect of order sanctioning business transfer scheme.](section/112.md)
+  - [s. 112ZA Duty of regulator to provide copy of order](section/112ZA.md)
+  - [s. 112A Rights to terminate etc.](section/112A.md)
+  - [s. 113 Appointment of actuary in relation to reduction of benefits.](section/113.md)
+  - [s. 114 Rights of certain policyholders.](section/114.md)
+  - [s. 114A Notice of transfer of reinsurance contracts](section/114A.md)
+  - Business transfers outside the United Kingdom
+    - [s. 115 Certificates for purposes of insurance business transfers overseas.](section/115.md)
+    - [s. 116 Effect of insurance business transfers authorised in other EEA States.](section/116.md)
+  - Modifications
+    - [s. 117 Power to modify this Part.](section/117.md)
+- Part 7A Unilateral changes to pension schemes
+  - [s. 117A Pension schemes to which this Part applies](section/117A.md)
+  - [s. 117B Unilateral changes](section/117B.md)
+  - [s. 117C Effect of transfer of pension pot on membership of scheme etc](section/117C.md)
+  - [s. 117D Best interests test](section/117D.md)
+  - [s. 117E Certification by independent person](section/117E.md)
+  - [s. 117F Unilateral change notice](section/117F.md)
+  - [s. 117G Further duties to make FCA general rules](section/117G.md)
+  - [s. 117H Treasury regulations](section/117H.md)
+  - [s. 117I Interpretation of Part](section/117I.md)
+- Part VIII Provisions relating to market abuse
+  - ...
+    - [s. 118 Market abuse.](section/118.md)
+    - [s. 118A Supplementary provision about certain behaviour](section/118A.md)
+    - [s. 118B Insiders](section/118B.md)
+    - [s. 118C Inside information](section/118C.md)
+  - ...
+    - [s. 119 The code.](section/119.md)
+    - [s. 120 Provisions included in the FCA’s code by reference to the City Code.](section/120.md)
+    - [s. 121 Codes: procedure.](section/121.md)
+    - [s. 122 Effect of the code.](section/122.md)
+  - Powers to require information and supplemental provisions
+    - [s. 122A Power to require information from issuers](section/122A.md)
+    - [s. 122B General power to require information](section/122B.md)
+    - [s. 122C Power to require information: supplementary](section/122C.md)
+    - [s. 122D Entry of premises under warrant](section/122D.md)
+    - [s. 122E Retention of documents taken under section 122D](section/122E.md)
+    - [s. 122F Offences](section/122F.md)
+  - Other administrative powers
+    - [s. 122G Publication of information and corrective statements by issuers](section/122G.md)
+    - [s. 122H Publication of corrective statements generally](section/122H.md)
+    - [s. 122HA Publication of corrective statements relating to benchmarks](section/122HA.md)
+    - [s. 122I Power to suspend trading in financial instruments](section/122I.md)
+    - [s. 122IA Power to suspend auctioning of auctioned products on a recognised auction platform](section/122IA.md)
+  - Administrative sanctions
+    - [s. 123 Power to impose penalties or issue censure](section/123.md)
+    - [s. 123A Power to prohibit individuals from managing or dealing](section/123A.md)
+    - [s. 123B Suspending permission to carry on regulated activities etc](section/123B.md)
+    - [s. 123C Exercise of administrative sanctions](section/123C.md)
+  - Statement of policy
+    - [s. 124 Statement of policy.](section/124.md)
+    - [s. 125 Statement of policy: procedure.](section/125.md)
+  - Procedure
+    - [s. 126 Warning notices.](section/126.md)
+    - [s. 127 Decision notices and right to refer to Tribunal.](section/127.md)
+    - [s. 127A Consultation with the PRA in relation to administrative sanctions](section/127A.md)
+  - Miscellaneous
+    - [s. 128 Suspension of investigations.](section/128.md)
+    - [s. 129 Power of court to impose administrative sanctions in cases of market abuse](section/129.md)
+    - [s. 130 Guidance.](section/130.md)
+    - [s. 130A Interpretation and supplementary provision](section/130A.md)
+    - [s. 131 Effect on transactions.](section/131.md)
+    - [s. 131A Protected Disclosures](section/131A.md)
+    - [s. 131AA Reporting of infringements](section/131AA.md)
+    - [s. 131AB Interpretation](section/131AB.md)
+    - [s. 131AC Meaning of “persons closely associated” in the market abuse regulation](section/131AC.md)
+    - [s. 131AD Individual liability in respect of legal persons under Articles 8 and 12 of the market abuse regulation](section/131AD.md)
+    - [s. 131AE Liability for contraventions of Article 14 or 15 of the market abuse regulation](section/131AE.md)
+- Part 8A Short selling
+  - Short selling rules
+    - [s. 131B Short selling rules](section/131B.md)
+    - [s. 131C Short selling rules: definitions etc](section/131C.md)
+    - [s. 131D Short selling rules: procedure in urgent cases](section/131D.md)
+  - Power to require information
+    - [s. 131E Power to require information](section/131E.md)
+    - [s. 131F Power to require information: supplementary](section/131F.md)
+    - [s. 131FA Investigations in support of overseas regulator](section/131FA.md)
+    - [s. 131FB Entry of premises under warrant](section/131FB.md)
+    - [s. 131FC Retention of documents taken under section 131FB](section/131FC.md)
+  - Breach of short selling regulation etc
+    - [s. 131G Power to impose penalty or issue censure](section/131G.md)
+    - [s. 131H Procedure and right to refer to Tribunal](section/131H.md)
+    - [s. 131I Duty on publication of statement](section/131I.md)
+    - [s. 131J Imposition of penalties under section 131G: statement of policy](section/131J.md)
+    - [s. 131K Statement of policy: procedure](section/131K.md)
+    - [s. 131L Offences](section/131L.md)
+- PART 8B Cash access services
+  - Introductory
+    - [s. 131M Overview](section/131M.md)
+    - [s. 131N Cash access services and coordination arrangements](section/131N.md)
+    - [s. 131O Current accounts and relevant current account providers](section/131O.md)
+  - Cash access policy statement
+    - [s. 131P Cash access policy statement](section/131P.md)
+    - [s. 131Q Provision of reports to assist the Treasury](section/131Q.md)
+  - Designation
+    - [s. 131R Designation](section/131R.md)
+    - [s. 131S Designation criteria](section/131S.md)
+    - [s. 131T Cancellation or variation of a designation notice](section/131T.md)
+  - Supervision of designated persons
+    - [s. 131U Purpose for which FCA must exercise functions under this Part](section/131U.md)
+    - [s. 131V FCA rules](section/131V.md)
+    - [s. 131W Power to direct designated persons](section/131W.md)
+    - [s. 131X Procedure for directions](section/131X.md)
+    - [s. 131Y Information gathering and investigations](section/131Y.md)
+    - [s. 131Z Disciplinary measures](section/131Z.md)
+    - [s. 131Z1 Costs of supervision](section/131Z1.md)
+    - [s. 131Z2 Exclusion and modification of other FCA duties](section/131Z2.md)
+- Part IX Hearings and Appeals
+  - [s. 132 The Financial Services and Markets Tribunal.](section/132.md)
+  - [s. 133 Proceedings before Tribunal: general provision](section/133.md)
+  - [s. 133A Proceedings before Tribunal: decision and supervisory notices, etc.](section/133A.md)
+  - [s. 133B Offences](section/133B.md)
+  - Legal assistance before the Tribunal
+    - [s. 134 Legal assistance scheme.](section/134.md)
+    - [s. 135 Provisions of the legal assistance scheme.](section/135.md)
+    - [s. 136 Funding of the legal assistance scheme.](section/136.md)
+    - [s. 137 Appeal on a point of law.](section/137.md)
+- PART 9A Rules and Guidance
+  - CHAPTER 1 Rule-making powers
+    - General rule-making powers of the FCA and the PRA
+      - [s. 137A The FCA’s general rules](section/137A.md)
+      - [s. 137AA The FCA’s general rules: Gibraltar](section/137AA.md)
+      - [s. 137B FCA general rules: clients’ money, right to rescind etc.](section/137B.md)
+      - [s. 137C FCA general rules: cost of credit and duration of credit agreements](section/137C.md)
+      - [s. 137D FCA general rules: product intervention](section/137D.md)
+      - [s. 137E Orders under s.137D(1)(b)](section/137E.md)
+      - [s. 137F Rules requiring participation in benchmark](section/137F.md)
+      - [s. 137FA FCA general rules: disclosure of information about pension scheme transaction costs etc](section/137FA.md)
+      - [s. 137FAA FCA general rules: pensions dashboards](section/137FAA.md)
+      - [s. 137FAB Pensions dashboards: further provision](section/137FAB.md)
+      - [s. 137FAC Sections 137FAA and 137FAB: supplementary](section/137FAC.md)
+      - [s. 137FB FCA general rules: disclosure of information about the availability of pensions guidance](section/137FB.md)
+      - [s. 137FBA FCA general rules: advice about transferring or otherwise dealing with annuity payments](section/137FBA.md)
+      - [s. 137FBB FCA general rules: early exit pension charges](section/137FBB.md)
+      - [s. 137FBC FCA general rules: regulation of consolidator pension schemes](section/137FBC.md)
+      - [s. 137FC FCA rules: disclosure of information about the availability of financial guidance](section/137FC.md)
+      - [s. 137FD FCA general rules: charges for claims management services](section/137FD.md)
+      - [s. 137G The PRA’s general rules](section/137G.md)
+      - [s. 137GA The PRA’s general rules: Gibraltar](section/137GA.md)
+      - [s. 137H General rules about remuneration](section/137H.md)
+      - [s. 137I Remuneration policies: Treasury direction to consider compliance](section/137I.md)
+      - [s. 137J Rules about recovery plans: duty to consult](section/137J.md)
+      - [s. 137K Rules about resolution packs: duty to consult](section/137K.md)
+      - [s. 137L Interpretation of sections 137J and 137K](section/137L.md)
+      - [s. 137M Special provision relating to adequacy of resolution plans](section/137M.md)
+      - [s. 137N Recovery plans and resolution packs: restriction on duty of confidence](section/137N.md)
+    - Specific rule-making powers
+      - [s. 137O Threshold condition code](section/137O.md)
+      - [s. 137P Control of information rules](section/137P.md)
+      - [s. 137Q Price stabilising rules](section/137Q.md)
+      - [s. 137R Financial promotion rules](section/137R.md)
+      - [s. 137S Financial promotion rules: directions given by FCA](section/137S.md)
+      - [s. 137SA Rules to recover expenses relating to the Money and Pensions Service](section/137SA.md)
+      - [s. 137SB Rules to recover debt advice expenses incurred by the devolved authorities](section/137SB.md)
+    - Supplementary powers
+      - [s. 137T General supplementary powers](section/137T.md)
+  - CHAPTER 2 Rules: modification, waiver, contravention and procedural provisions
+    - Modification or waiver of rules
+      - [s. 138A Modification or waiver of rules](section/138A.md)
+      - [s. 138B Publication of directions under section 138A](section/138B.md)
+      - [s. 138BA Disapplication or modification of rules in individual cases](section/138BA.md)
+    - Contravention of rules
+      - [s. 138C Evidential provisions](section/138C.md)
+      - [s. 138D Actions for damages](section/138D.md)
+      - [s. 138E Limits on effect of contravening rules](section/138E.md)
+    - Procedural provisions
+      - [s. 138EA Matters to consider when making rules](section/138EA.md)
+      - [s. 138F Notification of rules](section/138F.md)
+      - [s. 138G Rule-making instruments](section/138G.md)
+      - [s. 138H Verification of rules](section/138H.md)
+      - [s. 138I Consultation by the FCA](section/138I.md)
+      - [s. 138IA FCA Cost Benefit Analysis Panel](section/138IA.md)
+      - [s. 138IB Statement of policy in relation to cost benefit analyses](section/138IB.md)
+      - [s. 138J Consultation by the PRA](section/138J.md)
+      - [s. 138JA PRA Cost Benefit Analysis Panel](section/138JA.md)
+      - [s. 138JB Statement of policy in relation to cost benefit analyses](section/138JB.md)
+      - [s. 138K Consultation: mutual societies](section/138K.md)
+      - [s. 138L Consultation: general exemptions](section/138L.md)
+      - [s. 138M Consultation: exemptions for temporary product intervention rules](section/138M.md)
+      - [s. 138N Temporary product intervention rules: statement of policy](section/138N.md)
+      - [s. 138O Statement of policy under section 138N: procedure](section/138O.md)
+  - CHAPTER 2A Technical Standards
+    - [s. 138P Technical standards](section/138P.md)
+    - [s. 138Q Standards instruments](section/138Q.md)
+    - [s. 138R Treasury approval](section/138R.md)
+    - [s. 138S Application of Chapters 1 and 2](section/138S.md)
+  - CHAPTER 3 Guidance
+    - [s. 139A Power of the FCA to give guidance](section/139A.md)
+    - [s. 139B Notification of FCA guidance to the Treasury](section/139B.md)
+  - CHAPTER 4 Competition scrutiny
+    - [s. 140A Interpretation](section/140A.md)
+    - [s. 140B Advice about effect of regulating provision or practice](section/140B.md)
+    - [s. 140C Consultation with regulator](section/140C.md)
+    - [s. 140D Investigation powers of CMA](section/140D.md)
+    - [s. 140E Publication by CMA of section 140B advice](section/140E.md)
+    - [s. 140F Duty of CMA to send report to regulator](section/140F.md)
+    - [s. 140G Duty of regulator to publish response](section/140G.md)
+    - [s. 140H Role of the Treasury](section/140H.md)
+  - CHAPTER 5 Power to make consequential amendments
+    - [s. 141A Power to make consequential amendments of references to rules etc.](section/141A.md)
+    - [s. 141B Power to consequentially amend enactments](section/141B.md)
+- PART 9B Ring-fencing
+  - Introductory
+    - [s. 142A “Ring-fenced body”](section/142A.md)
+    - [s. 142B Core activities](section/142B.md)
+    - [s. 142C Core services](section/142C.md)
+    - [s. 142D Excluded activities](section/142D.md)
+    - [s. 142E Power of Treasury to impose prohibitions](section/142E.md)
+    - [s. 142F Orders under section 142A, 142B, 142D or 142E](section/142F.md)
+  - Ring-fenced bodies not to carry on excluded activities or contravene prohibitions
+    - [s. 142G Ring-fenced bodies not to carry on excluded activities or contravene prohibitions](section/142G.md)
+  - Ring-fencing rules
+    - [s. 142H Ring-fencing rules](section/142H.md)
+    - [s. 142I Powers of Treasury in relation to ring-fencing rules](section/142I.md)
+    - [s. 142J Review of ring-fencing rules etc](section/142J.md)
+  - Group restructuring powers
+    - [s. 142K Cases in which group restructuring powers become exercisable](section/142K.md)
+    - [s. 142L Group restructuring powers](section/142L.md)
+    - [s. 142M Procedure: preliminary notices](section/142M.md)
+    - [s. 142N Procedure: warning notice and decision notice](section/142N.md)
+    - [s. 142O References to Tribunal](section/142O.md)
+    - [s. 142P Subsequent variation of requirement or direction](section/142P.md)
+    - [s. 142Q Consultation etc. between regulators](section/142Q.md)
+    - [s. 142R Relationship with regulators’ powers under Parts 4A and 12A](section/142R.md)
+  - Failure of parent undertaking to comply with direction
+    - [s. 142S Power to impose penalty or issue censure](section/142S.md)
+    - [s. 142T Procedure and right to refer to Tribunal](section/142T.md)
+    - [s. 142U Duty on publication of statement](section/142U.md)
+    - [s. 142V Imposition of penalties under section 142S: statement of policy](section/142V.md)
+  - Pension liabilities
+    - [s. 142W Pension liabilities](section/142W.md)
+    - [s. 142X Further interpretative provisions for section 142W](section/142X.md)
+  - Loss-absorbency requirements
+    - [s. 142Y Power of Treasury in relation to loss-absorbency requirements](section/142Y.md)
+  - General
+    - [s. 142Z Affirmative procedure in relation to certain orders under Part 9B](section/142Z.md)
+    - [s. 142Z1 Interpretation of Part 9B](section/142Z1.md)
+- PART 9C Prudential regulation of FCA investment firms
+  - Interpretation
+    - [s. 143A FCA investment firms](section/143A.md)
+    - [s. 143B Other terms used in this Part](section/143B.md)
+  - Rules
+    - [s. 143C Duty to make rules applying to FCA investment firms](section/143C.md)
+    - [s. 143D Duty to make rules applying to parent undertakings](section/143D.md)
+    - [s. 143E Powers to make rules applying to parent undertakings](section/143E.md)
+    - [s. 143F Part 9C rules](section/143F.md)
+    - [s. 143G Matters to consider when making Part 9C rules](section/143G.md)
+    - [s. 143H Explanation to accompany consultation on rules](section/143H.md)
+    - [s. 143I Exceptions from sections 143G and 143H](section/143I.md)
+  - Requirement to have UK parent undertaking
+    - [s. 143J Requirement to have UK parent undertaking](section/143J.md)
+  - Imposition of requirements on non-authorised parent undertakings
+    - [s. 143K Imposition of requirements on non-authorised parent undertakings](section/143K.md)
+    - [s. 143L Applications under section 143K](section/143L.md)
+    - [s. 143M Determination of applications under section 143K](section/143M.md)
+    - [s. 143N Refusal of applications under section 143K](section/143N.md)
+    - [s. 143O Exercise of own-initiative power under section 143K](section/143O.md)
+    - [s. 143P Right to refer matters to the Tribunal](section/143P.md)
+    - [s. 143Q Assets requirements](section/143Q.md)
+  - Control of managers etc of non-authorised parent undertakings
+    - [s. 143R Managers of non-authorised parent undertakings](section/143R.md)
+    - [s. 143S Part 9C prohibition orders](section/143S.md)
+    - [s. 143T Procedure for making a Part 9C prohibition order](section/143T.md)
+    - [s. 143U Varying and withdrawing a Part 9C prohibition order](section/143U.md)
+    - [s. 143V Offence of breaching a Part 9C prohibition order](section/143V.md)
+  - Disciplinary measures for non-authorised parent undertakings
+    - [s. 143W Disciplinary measures](section/143W.md)
+    - [s. 143X Procedure for disciplinary measures](section/143X.md)
+    - [s. 143Y Statement of policy for penalties under section 143W](section/143Y.md)
+    - [s. 143Z Procedure for statement of policy](section/143Z.md)
+- PART 9D Prudential regulation of credit institutions etc
+  - Interpretation
+    - [s. 144A CRR rules](section/144A.md)
+    - [s. 144B Terms used in this Part](section/144B.md)
+  - Making CRR rules
+    - [s. 144C Matters to consider when making CRR rules](section/144C.md)
+    - [s. 144D Explanation to accompany consultation on CRR rules](section/144D.md)
+    - [s. 144E Exceptions from sections 144C and 144D etc](section/144E.md)
+    - [s. 144F Power to consequentially amend enactments](section/144F.md)
+  - Content of CRR rules
+    - [s. 144G Disapplication or modification of CRR rules in individual cases](section/144G.md)
+    - [s. 144H Relationship with the capital requirements regulation](section/144H.md)
+- Part X Rules and Guidance
+  - Chapter I Rule-making Powers
+    - [s. 138 General rule-making power.](section/138.md)
+    - [s. 139 Miscellaneous ancillary matters.](section/139.md)
+    - [s. 139An1 General rules about remuneration](section/139An1.md)
+    - [s. 139Bn1 Rules about recovery plans](section/139Bn1.md)
+    - [s. 139C Rules about resolution plans](section/139C.md)
+    - [s. 139D Sections 139B and 139C: interpretation](section/139D.md)
+    - [s. 139E Rules about recovery and resolution plans: supplementary provision](section/139E.md)
+    - [s. 139F Special provision in relation to resolution plans](section/139F.md)
+    - [s. 140 Restriction on managers of certain collective investment schemes.](section/140.md)
+    - [s. 141 Insurance business rules.](section/141.md)
+    - [s. 142 Insurance business: regulations supplementing Authority’s rules.](section/142.md)
+    - [s. 143 Endorsement of codes etc.](section/143.md)
+    - Specific rules
+      - [s. 144 Price stabilising rules.](section/144.md)
+      - [s. 145 Financial promotion rules.](section/145.md)
+      - [s. 146 Money laundering rules.](section/146.md)
+      - [s. 147 Control of information rules.](section/147.md)
+    - Modification or waiver
+      - [s. 148 Modification or waiver of rules.](section/148.md)
+    - Contravention of rules
+      - [s. 149 Evidential provisions.](section/149.md)
+      - [s. 150 Actions for damages.](section/150.md)
+      - [s. 151 Limits on effect of contravening rules.](section/151.md)
+    - Procedural provisions
+      - [s. 152 Notification of rules to the Treasury.](section/152.md)
+      - [s. 153 Rule-making instruments.](section/153.md)
+      - [s. 154 Verification of rules.](section/154.md)
+      - [s. 155 Consultation.](section/155.md)
+      - [s. 156 General supplementary powers.](section/156.md)
+  - Chapter II Guidance
+    - [s. 157 Guidance.](section/157.md)
+    - [s. 158 Notification of guidance to the Treasury.](section/158.md)
+    - [s. 158A Guidance on outsourcing by investment firms and credit institutions](section/158A.md)
+  - Chapter III Competition Scrutiny
+    - [s. 159 Interpretation.](section/159.md)
+    - [s. 160 Reports by OFT.](section/160.md)
+    - [s. 161 Power of OFT to request information.](section/161.md)
+    - [s. 162 Consideration by Competition Commission.](section/162.md)
+    - [s. 163 Role of the Treasury.](section/163.md)
+    - [s. 164 The Competition Act 1998.](section/164.md)
+- Part XI Information Gathering and Investigations
+  - Powers to gather information
+    - [s. 165 Regulators power to require information: authorised persons etc.](section/165.md)
+    - [s. 165A PRA’s power to require information: financial stability](section/165A.md)
+    - [s. 165B Safeguards etc in relation to exercise of power under section 165A](section/165B.md)
+    - [s. 165C Orders under section 165A(2)(d)](section/165C.md)
+    - [s. 166 Reports by skilled persons.](section/166.md)
+    - [s. 166A Appointment of skilled person to collect and update information](section/166A.md)
+  - Appointment of investigators
+    - [s. 167 Appointment of persons to carry out general investigations.](section/167.md)
+    - [s. 168 Appointment of persons to carry out investigations in particular cases.](section/168.md)
+  - Assistance to overseas regulators
+    - [s. 169 Investigations etc. in support of overseas regulator.](section/169.md)
+    - [s. 169A Support of overseas regulator with respect to financial stability](section/169A.md)
+  - Conduct of investigations
+    - [s. 170 Investigations: general.](section/170.md)
+    - [s. 171 Powers of persons appointed under section 167.](section/171.md)
+    - [s. 172 Additional power of persons appointed as a result of section 168(1), (4) or (4B).](section/172.md)
+    - [s. 173 Powers of persons appointed as a result of section 168(2).](section/173.md)
+    - [s. 174 Admissibility of statements made to investigators.](section/174.md)
+    - [s. 175 Information and documents: supplemental provisions.](section/175.md)
+    - [s. 176 Entry of premises under warrant.](section/176.md)
+    - [s. 176A Retention of documents taken under section 176](section/176A.md)
+  - Offences
+    - [s. 177 Offences.](section/177.md)
+  - Interpretation
+    - [s. 177A Interpretation of Part 11](section/177A.md)
+- Part XII Control Over Authorised Persons
+  - Notices of acquisitions of control over UK authorised persons
+    - [s. 178 Obligation to notify the appropriate regulator: acquisitions of control](section/178.md)
+    - [s. 179 Requirements for section 178 notices](section/179.md)
+    - [s. 180 Acknowledgment of receipt](section/180.md)
+  - Acquiring control and other changes of holding
+    - [s. 181 Acquiring control](section/181.md)
+    - [s. 182 Increasing control](section/182.md)
+    - [s. 183 Reducing or ceasing to have control](section/183.md)
+    - [s. 184 Disregarded holdings](section/184.md)
+  - Assessment procedure
+    - [s. 185 Assessment: general](section/185.md)
+    - [s. 186 Assessment criteria](section/186.md)
+    - [s. 187 Approval with conditions](section/187.md)
+    - [s. 187A Assessment: consultation by PRA with FCA](section/187A.md)
+    - [s. 187B Assessment: consultation by FCA with PRA](section/187B.md)
+    - [s. 187C Variation etc of conditions](section/187C.md)
+    - [s. 188 Assessment: consultation with EC competent authorities](section/188.md)
+    - [s. 189 Assessment: Procedure](section/189.md)
+    - [s. 190 Requests for further information](section/190.md)
+    - [s. 190A Assessment and resolution](section/190A.md)
+    - [s. 191 Duration of approval](section/191.md)
+  - Enforcement procedures
+    - [s. 191A Objection by the appropriate regulator](section/191A.md)
+    - [s. 191B Restriction notices](section/191B.md)
+    - [s. 191C Orders for sale of shares](section/191C.md)
+  - Notice of reductions of control of UK authorised persons
+    - [s. 191D Obligation to notify the appropriate regulator: dispositions of control](section/191D.md)
+    - [s. 191E Requirements for notices under section 191D](section/191E.md)
+  - Offences
+    - [s. 191F Offences under this Part](section/191F.md)
+  - Interpretation
+    - [s. 191G Interpretation](section/191G.md)
+  - Miscellaneous
+    - [s. 192 Power to change definitions of control etc.](section/192.md)
+- PART 12A Powers exercisable in relation to parent undertakings
+  - Introductory
+    - [s. 192A Meaning of “qualifying authorised person”](section/192A.md)
+    - [s. 192B Meaning of “qualifying parent undertaking”](section/192B.md)
+  - Power of direction
+    - [s. 192C Power to direct qualifying parent undertaking](section/192C.md)
+    - [s. 192D Requirements that may be imposed](section/192D.md)
+    - [s. 192E Direction: procedure](section/192E.md)
+    - [s. 192F Consultation between regulators](section/192F.md)
+    - [s. 192G References to Tribunal](section/192G.md)
+    - [s. 192H Statement of policy: directions under section 192C](section/192H.md)
+    - [s. 192I Statement of policy relating to directions: procedure](section/192I.md)
+  - Rules requiring provision of information by parent undertakings
+    - [s. 192J Rules requiring provision of information by parent undertakings](section/192J.md)
+  - Rules applying to parent undertakings of ring-fenced bodies
+    - [s. 192JA Rules applying to parent undertakings of ring-fenced bodies](section/192JA.md)
+  - Rules requiring parent undertakings to facilitate resolution
+    - [s. 192JB Rules requiring parent undertakings to facilitate resolution](section/192JB.md)
+  - Failure to comply with direction or breach of rules
+    - [s. 192K Power to impose penalty or issue censure](section/192K.md)
+    - [s. 192L Procedure and right to refer to Tribunal](section/192L.md)
+    - [s. 192M Duty on publication of statement](section/192M.md)
+    - [s. 192N Imposition of penalties under section 192K: statement of policy](section/192N.md)
+- PART12B Approval of certain holding companies
+  - Interpretation
+    - [s. 192O Interpretation](section/192O.md)
+  - Approval
+    - [s. 192P Requirement for approval](section/192P.md)
+    - [s. 192Q Application for approval or exemption](section/192Q.md)
+    - [s. 192R Grant of approval](section/192R.md)
+    - [s. 192S Regulator’s duty to monitor](section/192S.md)
+    - [s. 192T Measures](section/192T.md)
+    - [s. 192U Directions: procedure](section/192U.md)
+    - [s. 192V Rules imposing consolidated or sub-consolidated requirements](section/192V.md)
+    - [s. 192W Consultation between regulators](section/192W.md)
+    - [s. 192X References to Tribunal](section/192X.md)
+  - Rules
+    - [s. 192XA Rules applying to holding companies](section/192XA.md)
+    - [s. 192XB Procedural provision](section/192XB.md)
+    - [s. 192XC Disapplication or modification of rules in individual cases](section/192XC.md)
+    - [s. 192Y Power to impose penalty or issue censure](section/192Y.md)
+    - [s. 192Z Procedure and right to refer to Tribunal](section/192Z.md)
+    - [s. 192Z1 Duty on publication of statement](section/192Z1.md)
+    - [s. 192Z2 Directions and penalties: statement of policy](section/192Z2.md)
+    - [s. 192Z3 Statement of policy relating to directions: procedure](section/192Z3.md)
+- Part XIII Incoming Firms: Intervention by FCA or PRA
+  - Interpretation
+    - [s. 193 Interpretation of this Part.](section/193.md)
+    - [s. 194 General grounds on which power of intervention is exercisable.](section/194.md)
+    - [s. 194A Contravention by relevant EEA firm with UK branch of requirement under markets in financial instruments directive: appropriate regulator primarily responsible for securing compliance](section/194A.md)
+    - [s. 194B Contravention by relevant EEA firm of requirement in capital requirements directive or capital requirements regulation](section/194B.md)
+    - [s. 194C Contravention by relevant EEA firm with UK branch of requirement in mortgages directive: appropriate regulator primarily responsible for securing compliance](section/194C.md)
+    - [s. 194D Contravention by relevant EEA firm of requirement in insurance distribution directive: appropriate regulator primarily responsible for securing compliance](section/194D.md)
+    - [s. 195 Exercise of power in support of overseas regulator.](section/195.md)
+    - [s. 195A Contravention by relevant EEA firm, EEAUCITS or EEAAIFM of directive requirements: home state regulator primarily responsible for securing compliance](section/195A.md)
+    - [s. 195B Contravention by relevant EEA firm of requirement in mortgages directive: home state regulator primarily responsible for securing compliance](section/195B.md)
+    - [s. 195C Contravention by relevant EEA firm of requirement in insurance distribution directive: home state regulator primarily responsible for securing compliance](section/195C.md)
+    - [s. 196 The power of intervention.](section/196.md)
+  - Exercise of power of intervention
+    - [s. 197 Procedure on exercise of power of intervention.](section/197.md)
+    - [s. 198 Power to apply to court for injunction in respect of certain overseas insurance companies.](section/198.md)
+    - [s. 199 Additional procedure for EEA firms in certain cases.](section/199.md)
+    - [s. 199A Management companies: loss of authorisation](section/199A.md)
+  - Supplemental
+    - [s. 200 Rescission and variation of requirements.](section/200.md)
+    - [s. 201 Effect of certain requirements on other persons](section/201.md)
+    - [s. 202 Contravention of requirement imposed under this Part.](section/202.md)
+  - Powers of Office of Fair Trading
+    - [s. 203 Power to prohibit the carrying on of Consumer Credit Act business.](section/203.md)
+    - [s. 204 Power to restrict the carrying on of Consumer Credit Act business.](section/204.md)
+- PART 13A Enhanced supervision of firms exercising rights under the Insurance Distribution Directive
+  - [s. 203A Insurance distribution directive: enhanced supervision of EEA firms by UK regulators](section/203A.md)
+  - [s. 203B Insurance distribution directive: enhanced supervision of UK firms by an EEA regulator](section/203B.md)
+  - [s. 203C Modification or waiver of rules where firm subject to enhanced supervision](section/203C.md)
+  - [s. 203D Publication of directions under section 203C](section/203D.md)
+- Part XIV Disciplinary Measures
+  - [s. 204A Meaning of “relevant requirement” and “appropriate regulator”](section/204A.md)
+  - [s. 205 Public censure.](section/205.md)
+  - [s. 206 Financial penalties.](section/206.md)
+  - [s. 206A Suspending permission to carry on regulated activities etc](section/206A.md)
+  - [s. 206B Prohibition or restriction on carrying on of relevant designated activities](section/206B.md)
+  - [s. 207 Proposal to take disciplinary measures.](section/207.md)
+  - [s. 208 Decision notice.](section/208.md)
+  - [s. 208A Applications under section 206B(4): procedure and right to refer to Tribunal](section/208A.md)
+  - [s. 209 Publication.](section/209.md)
+  - [s. 210 Statements of policy.](section/210.md)
+  - [s. 211 Statements of policy: procedure.](section/211.md)
+- Part XV The Financial Services Compensation Scheme
+  - The scheme manager
+    - [s. 212 The scheme manager.](section/212.md)
+  - The scheme
+    - [s. 213 The compensation scheme.](section/213.md)
+  - Provisions of the scheme
+    - [s. 214 General.](section/214.md)
+    - [s. 214A Contingency funding](section/214A.md)
+    - [s. 214B Contribution to costs of special resolution regime](section/214B.md)
+    - [s. 214C Limit on amount of special resolution regime payments](section/214C.md)
+    - [s. 214D Contributions under section 214B: supplementary](section/214D.md)
+    - [s. 214E Recapitalisation payments](section/214E.md)
+    - [s. 214F Recapitalisation payment: report](section/214F.md)
+    - [s. 214G Notification to Parliamentary Committees](section/214G.md)
+    - [s. 214H Reimbursement in respect of a recapitalisation payment](section/214H.md)
+    - [s. 215 Rights of the scheme in insolvency](section/215.md)
+    - [s. 215A Continuity etc. of funeral plan contracts](section/215A.md)
+    - [s. 215B Scheme manager’s power to require assistance from liquidator etc. in relation to funeral plan contracts](section/215B.md)
+    - [s. 216 Continuity of long-term insurance policies.](section/216.md)
+    - [s. 217 Insurers in financial difficulties.](section/217.md)
+    - [s. 217ZA Insurers subject to write-down orders](section/217ZA.md)
+    - [s. 217ZB Recovery of financial assistance under section 217ZA](section/217ZB.md)
+  - Relationship with the regulators
+    - [s. 217A Co-operation](section/217A.md)
+  - Annual plan and report
+    - [s. 217B Annual plan](section/217B.md)
+    - [s. 218 Annual report.](section/218.md)
+    - [s. 218ZA Audit of accounts](section/218ZA.md)
+  - Information and documents
+    - [s. 218A Regulators’ power to require information](section/218A.md)
+    - [s. 218B Treasury’s power to require information from scheme manager](section/218B.md)
+    - [s. 219 Scheme manager’s power to require information.](section/219.md)
+    - [s. 220 Scheme manager’s power to inspect information held by liquidator etc.](section/220.md)
+    - [s. 220A Power to inspect information held by write-down manager](section/220A.md)
+    - [s. 221 Powers of court where information required.](section/221.md)
+  - Miscellaneous
+    - [s. 221A Delegation of functions](section/221A.md)
+    - [s. 222 Statutory immunity.](section/222.md)
+    - [s. 223 Management expenses.](section/223.md)
+    - [s. 223A Investing in National Loans Fund](section/223A.md)
+    - [s. 223B Borrowing from National Loans Fund](section/223B.md)
+    - [s. 223C Payments in error](section/223C.md)
+    - [s. 224 Scheme manager’s power to inspect documents held by Official Receiver etc.](section/224.md)
+    - [s. 224ZA Discharge of functions](section/224ZA.md)
+    - [s. 224A Functions under the Banking Act 2009](section/224A.md)
+- Part 15A Power to require FSCS manager to act in relation to other schemes
+  - Introduction
+    - [s. 224B Meaning of “relevant scheme” etc](section/224B.md)
+  - Power to require FSCS manager to act
+    - [s. 224C Power to require FSCS manager to act on behalf of manager of relevant scheme](section/224C.md)
+    - [s. 224D Cases where FSCS manager may decline to act](section/224D.md)
+    - [s. 224E Grounds for declining to act](section/224E.md)
+  - Rules
+    - [s. 224F Rules about relevant schemes](section/224F.md)
+- Part XVI The Ombudsman Scheme
+  - The scheme
+    - [s. 225 The scheme and the scheme operator.](section/225.md)
+    - [s. 226 Compulsory jurisdiction.](section/226.md)
+    - [s. 226A Consumer credit jurisdiction](section/226A.md)
+    - [s. 227 Voluntary jurisdiction.](section/227.md)
+  - Determination of complaints
+    - [s. 228 Determination under the compulsory jurisdiction.](section/228.md)
+    - [s. 229 Awards.](section/229.md)
+    - [s. 230 Costs.](section/230.md)
+    - [s. 230A Reports of determinations](section/230A.md)
+  - Information
+    - [s. 231 Ombudsman’s power to require information.](section/231.md)
+    - [s. 232 Powers of court where information required.](section/232.md)
+    - [s. 232A Scheme operator’s duty to provide information to FCA](section/232A.md)
+    - [s. 233 Data protection.](section/233.md)
+  - Funding
+    - [s. 234 Industry funding.](section/234.md)
+    - [s. 234A Funding by consumer credit licensees etc.](section/234A.md)
+  - Successors to businesses
+    - [s. 234B Transfers of liability](section/234B.md)
+- PART 16A Consumer protection and competition
+  - Super-complaints and references to FCA
+    - [s. 234C Complaints by consumer bodies](section/234C.md)
+    - [s. 234D Reference by scheme operator or regulated person](section/234D.md)
+    - [s. 234E Response by FCA](section/234E.md)
+    - [s. 234F Section 234E: exceptions](section/234F.md)
+    - [s. 234G Guidance](section/234G.md)
+  - Competition
+    - [s. 234H Power of FCA to make request to Competition and Markets Authority](section/234H.md)
+    - [s. 234I The FCA’s functions under Part 4 of the Enterprise Act 2002](section/234I.md)
+    - [s. 234J The FCA’s functions under the Competition Act 1998](section/234J.md)
+    - [s. 234K Duty to consider exercise of powers under Competition Act 1998](section/234K.md)
+    - [s. 234L Provision of information and assistance to a CMA group](section/234L.md)
+    - [s. 234M Function of keeping market under review](section/234M.md)
+    - [s. 234N Exclusion of general duties](section/234N.md)
+    - [s. 234O Supplementary provision](section/234O.md)
+- Part XVII Collective Investment Schemes
+  - Chapter I Interpretation
+    - [s. 235 Collective investment schemes.](section/235.md)
+    - [s. 235A Contractual schemes](section/235A.md)
+    - [s. 236 Open-ended investment companies.](section/236.md)
+    - [s. 236A Meaning of “UCITS”](section/236A.md)
+    - [s. 237 Other definitions.](section/237.md)
+  - Chapter II Restrictions on Promotion
+    - [s. 238 Restrictions on promotion.](section/238.md)
+    - [s. 239 Single property schemes.](section/239.md)
+    - [s. 240 Restriction on approval of promotion.](section/240.md)
+    - [s. 241 Actions for damages.](section/241.md)
+  - CHAPTER 2A PROHIBITION ON ISSUE OF BEARER UNITS
+    - [s. 241A Bearer units no longer to be issued](section/241A.md)
+  - Chapter III Authorised Unit Trust Schemes
+    - Applications for authorisation
+      - [s. 242 Applications for authorisation of unit trust schemes.](section/242.md)
+      - [s. 243 Authorisation orders: authorised unit trust schemes.](section/243.md)
+      - [s. 243A Authorisation orders: authorised money market funds](section/243A.md)
+      - [s. 244 Determination of applications.](section/244.md)
+    - Applications refused
+      - [s. 245 Procedure when refusing an application.](section/245.md)
+    - Certificates
+      - [s. 246 Certificates.](section/246.md)
+    - Rules
+      - [s. 247 Trust scheme rules.](section/247.md)
+      - [s. 248 Scheme particulars rules.](section/248.md)
+      - [s. 249 Disciplinary measures](section/249.md)
+      - [s. 250 Modification or waiver of rules.](section/250.md)
+    - Alterations
+      - [s. 251 Alteration of schemes and changes of manager or trustee.](section/251.md)
+      - [s. 252 Procedure when refusing approval of a proposal under section 251.](section/252.md)
+      - [s. 252A Proposal to convert to a non-feeder UCITS](section/252A.md)
+    - Exclusion clauses
+      - [s. 253 Avoidance of exclusion clauses.](section/253.md)
+    - Ending of authorisation
+      - [s. 254 Revocation of authorisation order otherwise than by consent.](section/254.md)
+      - [s. 255 Procedure.](section/255.md)
+      - [s. 256 Requests for revocation of authorisation order.](section/256.md)
+    - Powers of intervention
+      - [s. 257 Directions.](section/257.md)
+      - [s. 258 Applications to the court.](section/258.md)
+      - [s. 258A Winding up or merger of master UCITS](section/258A.md)
+      - [s. 259 Procedure on giving directions under section 257 or 258A and varying them on FCA’s own initiative.](section/259.md)
+      - [s. 260 Procedure: refusal to revoke or vary direction.](section/260.md)
+      - [s. 261 Procedure: revocation of direction and grant of request for variation.](section/261.md)
+      - [s. 261A Information for home state regulator](section/261A.md)
+      - [s. 261B Information for feeder UCITS](section/261B.md)
+  - CHAPTER3A AUTHORISED CONTRACTUAL SCHEMES
+    - Applications for authorisation
+      - [s. 261C Applications for authorisation of contractual schemes](section/261C.md)
+      - [s. 261D Authorisation orders: authorised contractual schemes](section/261D.md)
+      - [s. 261E Authorised contractual schemes: holding of units](section/261E.md)
+      - [s. 261EA Authorisation orders: authorised money market funds](section/261EA.md)
+      - [s. 261F Determination of applications](section/261F.md)
+    - Applications refused
+      - [s. 261G Procedure when refusing an application](section/261G.md)
+    - Certificates
+      - [s. 261H Certificates](section/261H.md)
+    - Rules
+      - [s. 261I Contractual scheme rules](section/261I.md)
+      - [s. 261J Contractual scheme particulars rules](section/261J.md)
+      - [s. 261K Disciplinary measures](section/261K.md)
+      - [s. 261L Modification or waiver of rules](section/261L.md)
+    - Co-ownership schemes: rights and liabilities of participants
+      - [s. 261M Contracts](section/261M.md)
+      - [s. 261N Effect of becoming or ceasing to be a participant](section/261N.md)
+      - [s. 261O Limited liability](section/261O.md)
+      - [s. 261P Segregated liability in relation to umbrella co-ownership schemes](section/261P.md)
+    - Alterations
+      - [s. 261Q Alteration of contractual schemes and changes of operator or depositary](section/261Q.md)
+      - [s. 261R Procedure when refusing approval of a proposal under section 261Q](section/261R.md)
+      - [s. 261S Proposal to convert to a non-feeder UCITS](section/261S.md)
+    - Exclusion clauses
+      - [s. 261T Avoidance of exclusion clauses](section/261T.md)
+    - Ending of authorisation
+      - [s. 261U Revocation of authorisation order otherwise than by consent](section/261U.md)
+      - [s. 261V Procedure for revoking authorisation order](section/261V.md)
+      - [s. 261W Requests for revocation of authorisation order](section/261W.md)
+    - Powers of intervention
+      - [s. 261X Directions](section/261X.md)
+      - [s. 261Y Applications to the court](section/261Y.md)
+      - [s. 261Z Winding up or merger of master UCITS](section/261Z.md)
+      - [s. 261Z1 Procedure on giving directions under section 261X or 261Z and varying them on FCA’s own initiative](section/261Z1.md)
+      - [s. 261Z2 Procedure: refusal to revoke or vary direction](section/261Z2.md)
+      - [s. 261Z3 Procedure: revocation of direction and grant of request for variation](section/261Z3.md)
+      - [s. 261Z4 Information for home state regulator](section/261Z4.md)
+      - [s. 261Z5 Information for feeder UCITS](section/261Z5.md)
+  - CHAPTER 3B Unauthorised co-ownership AIFs
+    - [s. 261Z6 Power to make provision about unauthorised co-ownership AIFs](section/261Z6.md)
+  - Chapter IV Open-ended Investment Companies
+    - [s. 262 Open-ended investment companies.](section/262.md)
+    - [s. 263 Amendment of section 716 Companies Act 1985.](section/263.md)
+  - Chapter V Recognised Overseas Schemes
+    - Schemes constituted in other EEA States
+      - [s. 264 Schemes constituted in other EEA States.](section/264.md)
+      - [s. 265 Representations and references to the Tribunal.](section/265.md)
+      - [s. 266 Disapplication of rules.](section/266.md)
+      - [s. 267 Power of FCA to suspend promotion of scheme.](section/267.md)
+      - [s. 268 Procedure on giving directions under section 267 and varying them on FCA’s own initiative.](section/268.md)
+      - [s. 269 Procedure on application for variation or revocation of direction.](section/269.md)
+    - ...
+      - [s. 270 Schemes authorised in designated countries or territories.](section/270.md)
+      - [s. 271 Procedure.](section/271.md)
+    - Schemes authorised in approved countries
+      - [s. 271A Schemes authorised in approved countries](section/271A.md)
+      - [s. 271B Approval of country: equivalent protection afforded to participants](section/271B.md)
+      - [s. 271C Approval of country: regulatory co-operation](section/271C.md)
+      - [s. 271D Report by the FCA in relation to approval](section/271D.md)
+      - [s. 271E Power to impose requirements on schemes](section/271E.md)
+      - [s. 271F Application for recognition to the FCA](section/271F.md)
+      - [s. 271G Determination of applications](section/271G.md)
+      - [s. 271H Procedure when determining an application](section/271H.md)
+      - [s. 271I Obligations on operator of a section 271A scheme](section/271I.md)
+      - [s. 271J Provision of information to the FCA](section/271J.md)
+      - [s. 271K Rules as to scheme particulars](section/271K.md)
+      - [s. 271L Suspension of recognition](section/271L.md)
+      - [s. 271M Procedure when suspending recognition](section/271M.md)
+      - [s. 271N Revocation of recognition on the FCA’s initiative](section/271N.md)
+      - [s. 271O Requests for revocation of recognition](section/271O.md)
+      - [s. 271P Obligations on operator where recognition is revoked or suspended](section/271P.md)
+      - [s. 271Q Effect of variation or revocation of Treasury regulations](section/271Q.md)
+      - [s. 271R Public censure](section/271R.md)
+      - [s. 271S Recognition of parts of schemes under section 271A](section/271S.md)
+    - Individually recognised overseas schemes
+      - [s. 272 Individually recognised overseas schemes.](section/272.md)
+      - [s. 273 Matters that may be taken into account.](section/273.md)
+      - [s. 274 Applications for recognition of individual schemes.](section/274.md)
+      - [s. 275 Determination of applications.](section/275.md)
+      - [s. 276 Procedure when refusing an application.](section/276.md)
+      - [s. 277 Alteration of schemes and changes of operator, trustee or depositary.](section/277.md)
+      - [s. 277A Regular provision of information relating to compliance with requirements for recognition](section/277A.md)
+    - ...
+      - [s. 278 Rules as to scheme particulars.](section/278.md)
+      - [s. 279 Revocation of recognition.](section/279.md)
+      - [s. 280 Procedure.](section/280.md)
+      - [s. 281 Directions.](section/281.md)
+      - [s. 282 Procedure on giving directions under section 281 and varying them otherwise than as requested.](section/282.md)
+      - [s. 282A Obligations on operator where recognition is revoked or suspended](section/282A.md)
+      - [s. 282B Public censure](section/282B.md)
+      - [s. 282C Recognition of parts of schemes under section 272](section/282C.md)
+    - Facilities and information in UK
+      - [s. 283 Facilities and information in UK.](section/283.md)
+  - CHAPTER 5A MASTER-FEEDER STRUCTURES
+    - [s. 283A Master-feeder structures](section/283A.md)
+    - [s. 283B Reports on derivative instruments](section/283B.md)
+  - Chapter VI Investigations
+    - [s. 284 Power to investigate.](section/284.md)
+- PART 17A Transformer Vehicles
+  - [s. 284A Transformer vehicles](section/284A.md)
+- Part XVIII Recognised investment exchanges, clearing houses, CSDs and other parties
+  - Chapter I Exemption
+    - General
+      - [s. 285 Exemption for recognised bodies etc.](section/285.md)
+      - [s. 285A Powers exercisable in relation to recognised bodies etc](section/285A.md)
+      - [s. 286 Qualification for recognition.](section/286.md)
+    - Applications for recognition
+      - [s. 287 Application by an investment exchange.](section/287.md)
+      - [s. 287A Application by an investment exchange: persons connected with an applicant](section/287A.md)
+      - [s. 288 Application by a clearing house.](section/288.md)
+      - [s. 288A Application by a central securities depository](section/288A.md)
+      - [s. 289 Applications: supplementary.](section/289.md)
+      - [s. 290 Recognition orders.](section/290.md)
+      - [s. 290ZA Variation of central counterparty recognition order](section/290ZA.md)
+      - [s. 290ZB Variation of CSD recognition order](section/290ZB.md)
+      - [s. 290A Refusal of recognition on ground of excessive regulatory provision](section/290A.md)
+      - [s. 291 Liability in relation to recognised body’s regulatory functions.](section/291.md)
+      - [s. 292 Overseas investment exchanges and overseas clearing houses.](section/292.md)
+    - Publication of information by recognised investment exchange
+      - [s. 292A Publication of information by recognised investment exchange](section/292A.md)
+    - Supervision
+      - [s. 293 Notification requirements.](section/293.md)
+      - [s. 293A Information: compliance with specified requirements](section/293A.md)
+      - [s. 294 Modification or waiver of rules.](section/294.md)
+      - [s. 295 Notification: overseas investment exchanges and overseas clearing houses.](section/295.md)
+      - [s. 295A On-site inspection of United Kingdom branches of third country CSDs](section/295A.md)
+      - [s. 296 Appropriate regulator’s power to give directions.](section/296.md)
+      - [s. 296A Additional power to direct recognised central counterparties](section/296A.md)
+      - [s. 297 Revoking recognition.](section/297.md)
+      - [s. 298 Directions and revocation: procedure.](section/298.md)
+      - [s. 299 Complaints about recognised bodies.](section/299.md)
+      - [s. 300 Extension of functions of Tribunal.](section/300.md)
+    - Power to disallow excessive regulatory provision
+      - [s. 300A Power of appropriate regulator to disallow excessive regulatory provision](section/300A.md)
+      - [s. 300B Duty to notify proposal to make regulatory provision](section/300B.md)
+      - [s. 300C Restriction on making provision before appropriate regulator decides whether to act](section/300C.md)
+      - [s. 300D Consideration by appropriate regulator whether to disallow proposed provision](section/300D.md)
+      - [s. 300E Power to disallow excessive regulatory provision: supplementary](section/300E.md)
+    - General rule-making powers
+      - [s. 300F Rules relating to central counterparties and central securities depositories](section/300F.md)
+      - [s. 300G Section 300F: rules in relation to overseas FMI entities](section/300G.md)
+      - [s. 300H Rules relating to investment exchanges and data reporting service providers](section/300H.md)
+    - Bank of England rules
+      - [s. 300I Duty of Bank of England to review rules](section/300I.md)
+      - [s. 300J Statement of policy relating to review of rules](section/300J.md)
+      - [s. 300K Requirement to review specified rules](section/300K.md)
+      - [s. 300L Report on certain reviews](section/300L.md)
+      - [s. 300M Power of Treasury to require making of rules by regulations](section/300M.md)
+    - Other matters
+      - [s. 301 Supervision of certain contracts.](section/301.md)
+  - CHAPTER 1A CONTROL OVER RECOGNISED INVESTMENT EXCHANGE
+    - Notices of acquisitions of control over recognised investment exchanges
+      - [s. 301A Obligation to notify the FCA: acquisitions of control](section/301A.md)
+      - [s. 301B Requirements for section 301A notices](section/301B.md)
+      - [s. 301C Acknowledgment of receipt](section/301C.md)
+    - Acquiring and increasing control
+      - [s. 301D Acquiring and increasing control](section/301D.md)
+      - [s. 301E Disregarded holdings](section/301E.md)
+    - Assessment procedure
+      - [s. 301F Assessment: general](section/301F.md)
+      - [s. 301G Assessment: Procedure](section/301G.md)
+      - [s. 301H Duration of approval](section/301H.md)
+    - Enforcement procedures
+      - [s. 301I Objections by the FCA](section/301I.md)
+      - [s. 301J Restriction notices](section/301J.md)
+      - [s. 301K Orders for sale of shares](section/301K.md)
+    - Offences
+      - [s. 301L Offences under this Chapter](section/301L.md)
+    - Interpretation
+      - [s. 301M Interpretation](section/301M.md)
+  - Chapter II Competition Scrutiny
+    - [s. 302 Interpretation.](section/302.md)
+    - Role of Office of Fair Trading
+      - [s. 303 Initial report by OFT.](section/303.md)
+      - [s. 304 Further reports by OFT.](section/304.md)
+      - [s. 305 Investigations by OFT.](section/305.md)
+    - Role of Competition Commission
+      - [s. 306 Consideration by Competition Commission.](section/306.md)
+    - Role of the Treasury
+      - [s. 307 Recognition orders: role of the Treasury.](section/307.md)
+      - [s. 308 Directions by the Treasury.](section/308.md)
+      - [s. 309 Statements by the Treasury.](section/309.md)
+      - [s. 310 Procedure on exercise of certain powers by the Treasury.](section/310.md)
+  - CHAPTER 2A Performance of functions of recognised bodies
+    - Relevant recognised bodies
+      - [s. 309A Recognised bodies to which this Chapter applies](section/309A.md)
+    - Prohibition
+      - [s. 309B Part 18 prohibition orders](section/309B.md)
+      - [s. 309C Procedure for making Part 18 prohibition orders](section/309C.md)
+      - [s. 309D Varying and withdrawing Part 18 prohibition orders](section/309D.md)
+      - [s. 309E Offence of breaching prohibition](section/309E.md)
+      - [s. 309F Duty in relation to prohibited individuals](section/309F.md)
+    - Approval
+      - [s. 309G Requirement for approval](section/309G.md)
+      - [s. 309H Rules under section 309G(3): transitional provision](section/309H.md)
+      - [s. 309I Applications for approval](section/309I.md)
+      - [s. 309J Vetting by relevant recognised bodies](section/309J.md)
+      - [s. 309K Determining applications: power to grant approval](section/309K.md)
+      - [s. 309L Determining applications: period for approval](section/309L.md)
+      - [s. 309M Determining applications: further procedure](section/309M.md)
+      - [s. 309N Changes in responsibilities](section/309N.md)
+      - [s. 309O Withdrawing approval](section/309O.md)
+      - [s. 309P Procedure for withdrawing approval](section/309P.md)
+      - [s. 309Q Varying approval at request of relevant recognised body](section/309Q.md)
+      - [s. 309R Varying approval on the appropriate regulator’s initiative](section/309R.md)
+      - [s. 309S Statement of policy on approval](section/309S.md)
+      - [s. 309T Breach of statutory duty by relevant recognised bodies](section/309T.md)
+      - [s. 309U Power to impose penalties](section/309U.md)
+      - [s. 309V Procedure for imposing penalties](section/309V.md)
+      - [s. 309W Statement of policy on penalties](section/309W.md)
+      - [s. 309X Procedure for statement of policy on penalties](section/309X.md)
+    - Certification of employees
+      - [s. 309Y Certification of employees by relevant recognised bodies](section/309Y.md)
+      - [s. 309Z Issuing certificates](section/309Z.md)
+    - Rules of conduct
+      - [s. 309Z1 Rules of conduct](section/309Z1.md)
+    - Disciplinary action by appropriate regulator
+      - [s. 309Z2 Power to take disciplinary action for misconduct](section/309Z2.md)
+      - [s. 309Z3 Meaning of “misconduct”](section/309Z3.md)
+      - [s. 309Z4 Procedure for disciplinary action](section/309Z4.md)
+      - [s. 309Z5 Statement of policy about disciplinary action](section/309Z5.md)
+      - [s. 309Z6 Procedure for statement of policy about disciplinary action](section/309Z6.md)
+    - Interpretation
+      - [s. 309Z7 Interpretation of Chapter 2A](section/309Z7.md)
+    - Application of this Chapter to credit rating agencies
+      - [s. 309Z8 Power to apply this Chapter to credit rating agencies](section/309Z8.md)
+  - Chapter III Exclusion from the Competition Act 1998
+    - [s. 311 The Chapter I prohibition.](section/311.md)
+    - [s. 312 The Chapter II prohibition.](section/312.md)
+  - CHAPTER 3A PASSPORT RIGHTS
+    - EEA market operators in United Kingdom
+      - [s. 312A Exercise of passport rights by EEA market operator](section/312A.md)
+      - [s. 312B Removal of passport rights from EEA market operator](section/312B.md)
+    - Recognised investment exchanges operating in EEA States (other than the United Kingdom)
+      - [s. 312C Exercise of passport rights by recognised investment exchange](section/312C.md)
+    - Interpretation
+      - [s. 312D Interpretation of Chapter 3A](section/312D.md)
+  - CHAPTER 3B Disciplinary measures in respect of recognised bodies
+    - [s. 312E Public censure](section/312E.md)
+    - [s. 312F Financial penalties](section/312F.md)
+    - [s. 312FA Central securities depositories: further disciplinary measures](section/312FA.md)
+    - [s. 312G Proposal to take disciplinary measures](section/312G.md)
+    - [s. 312H Decision notice](section/312H.md)
+    - [s. 312I Publication](section/312I.md)
+    - [s. 312J Statement of policy](section/312J.md)
+    - [s. 312K Statement of policy: procedure](section/312K.md)
+  - CHAPTER 3C Critical third parties
+    - [s. 312L Critical third parties](section/312L.md)
+    - [s. 312M Power to make rules](section/312M.md)
+    - [s. 312N Power of direction](section/312N.md)
+    - [s. 312O Directions: procedure](section/312O.md)
+    - [s. 312P Information gathering and investigations](section/312P.md)
+    - [s. 312Q Power of censure](section/312Q.md)
+    - [s. 312R Disciplinary measures](section/312R.md)
+    - [s. 312S Procedure and right to refer to Tribunal](section/312S.md)
+    - [s. 312T Statement of policy relating to disciplinary measures](section/312T.md)
+    - [s. 312U Duty to ensure co-ordinated exercise of functions etc](section/312U.md)
+    - [s. 312V Memorandum of understanding](section/312V.md)
+    - [s. 312W Application of provisions of this Act to this Chapter](section/312W.md)
+  - Chapter IV
+    - Interpretation
+      - [s. 313 Interpretation of Part XVIII.](section/313.md)
+- Part 18A SUSPENSION AND REMOVAL OF FINANCIAL INSTRUMENTS FROM TRADING
+  - [s. 313A FCA’s power to require suspension or removal of financial instruments from trading](section/313A.md)
+  - [s. 313B Suspension or removal of financial instruments from trading: procedure](section/313B.md)
+  - [s. 313BA Procedure following consideration of representations](section/313BA.md)
+  - [s. 313BB Revocation of requirements: applications by institutions](section/313BB.md)
+  - [s. 313BC Decisions on applications for revocation by institutions](section/313BC.md)
+  - [s. 313BD Revocation of requirements: applications by issuers](section/313BD.md)
+  - [s. 313BE Decisions on applications for revocation by issuers](section/313BE.md)
+  - [s. 313C Notification in relation to suspension or removal of a financial instrument from trading](section/313C.md)
+  - [s. 313CA Suspension or removal of financial instruments from trading: notification and trading on other venues](section/313CA.md)
+  - [s. 313CB Suspension or removal of a financial instrument from a trading by a trading venue: FCA duties](section/313CB.md)
+  - [s. 313CBA Significant damage to investors’ interests or orderly functioning of market](section/313CBA.md)
+  - [s. 313CC Suspension or removal of a financial instrument from trading in another EEA state: FCA duties](section/313CC.md)
+  - [s. 313D Interpretation of Part 18A](section/313D.md)
+- Part XIX Lloyd’s
+  - General
+    - [s. 314 Regulators’ general duty.](section/314.md)
+    - [s. 314A The PRA’s objectives in relation to Lloyd’s etc](section/314A.md)
+  - The Society
+    - [s. 315 The Society: regulated activities](section/315.md)
+  - Power to apply Act to Lloyd’s underwriting
+    - [s. 316 Direction by a regulator](section/316.md)
+    - [s. 317 The core provisions.](section/317.md)
+    - [s. 318 Exercise of powers through Council.](section/318.md)
+    - [s. 319 Consultation.](section/319.md)
+  - Former underwriting members
+    - [s. 320 Former underwriting members.](section/320.md)
+    - [s. 321 Requirements imposed under section 320.](section/321.md)
+    - [s. 322 Rules applicable to former underwriting members.](section/322.md)
+  - Transfers of business done at Lloyd’s
+    - [s. 323 Transfer schemes.](section/323.md)
+  - Supplemental
+    - [s. 324 Interpretation of this Part.](section/324.md)
+- Part XX Provision of Financial Services by Members of the Professions
+  - [s. 325 FCA’s general duty.](section/325.md)
+  - [s. 326 Designation of professional bodies.](section/326.md)
+  - [s. 327 Exemption from the general prohibition.](section/327.md)
+  - [s. 328 Directions in relation to the general prohibition.](section/328.md)
+  - [s. 329 Orders in relation to the general prohibition.](section/329.md)
+  - [s. 330 Consultation.](section/330.md)
+  - [s. 331 Procedure on making or varying orders under section 329.](section/331.md)
+  - [s. 332 Rules in relation to persons to whom the general prohibition does not apply.](section/332.md)
+  - [s. 333 False claims to be a person to whom the general prohibition does not apply.](section/333.md)
+- PART 20A PENSIONS GUIDANCE
+  - [s. 333A Introduction and definitions](section/333A.md)
+  - Giving of pensions guidance
+    - [s. 333B Secretary of State’s role in relation to pensions guidance](section/333B.md)
+    - [s. 333C Giving of pensions guidance](section/333C.md)
+    - [s. 333D Financial assistance to bodies involved in giving pensions guidance](section/333D.md)
+  - Designation of guidance providers
+    - [s. 333E Designation of providers of pensions guidance](section/333E.md)
+  - Co-operation and information sharing
+    - [s. 333F Co-operation and information sharing](section/333F.md)
+  - False claims when giving pensions guidance
+    - [s. 333G Offence of falsely claiming to be giving pensions guidance under arrangements made with Secretary of State](section/333G.md)
+  - Standards for giving of pensions guidance by designated guidance providers
+    - [s. 333H Standards for giving of pensions guidance by designated guidance providers](section/333H.md)
+    - [s. 333I Monitoring of compliance with standards by designated guidance providers](section/333I.md)
+    - [s. 333J Failure by designated guidance providers to comply with standards: FCA recommendations](section/333J.md)
+    - [s. 333K FCA policy on making recommendations under section 333J](section/333K.md)
+    - [s. 333L FCA policy on making recommendations under section 333J: procedure](section/333L.md)
+    - [s. 333M Failure by designated guidance providers to comply with standards: ... directions](section/333M.md)
+    - [s. 333N Directions to designated guidance providers under section 333M: relationship with power to revoke a designation](section/333N.md)
+  - FCA’s duties and power to give guidance
+    - [s. 333O FCA’s duties](section/333O.md)
+    - [s. 333P Power of the FCA to give guidance](section/333P.md)
+  - Funding of pensions guidance
+    - [s. 333Q Funding of FCA’s pensions guidance costs](section/333Q.md)
+    - [s. 333R Funding of Secretary of State’s pensions guidance costs](section/333R.md)
+- PART 20B Illegal Money Lending
+  - [s. 333S Financial assistance for action against illegal money lending](section/333S.md)
+  - [s. 333T Funding of action against illegal money lending](section/333T.md)
+- Part XXI Mutual Societies
+  - Friendly societies
+    - [s. 334 The Friendly Societies Commission.](section/334.md)
+    - [s. 335 The Registry of Friendly Societies.](section/335.md)
+  - Building societies
+    - [s. 336 The Building Societies Commission.](section/336.md)
+    - [s. 337 The Building Societies Investor Protection Board.](section/337.md)
+  - Industrial and provident societies and credit unions
+    - [s. 338 Industrial and provident societies and credit unions.](section/338.md)
+  - Supplemental
+    - [s. 339 Supplemental provisions.](section/339.md)
+- Part XXII Auditors and Actuaries
+  - General duties of regulator
+    - [s. 339A General duties of PRA in relation to auditors](section/339A.md)
+    - [s. 339B Duty to meet auditors of certain institutions](section/339B.md)
+    - [s. 339C PRA-authorised persons to which this section applies](section/339C.md)
+  - Appointment
+    - [s. 340 Appointment.](section/340.md)
+  - Information
+    - [s. 341 Access to books etc.](section/341.md)
+    - [s. 342 Information given by auditor or actuary to a regulator.](section/342.md)
+    - [s. 343 Information given by auditor or actuary to a regulator: persons with close links.](section/343.md)
+    - [s. 344 Duty of auditor or actuary resigning etc. to give notice.](section/344.md)
+  - Disciplinary measures
+    - [s. 345 Disciplinary measures: FCA](section/345.md)
+    - [s. 345A Disciplinary measures: PRA](section/345A.md)
+    - [s. 345B Procedure and right to refer to Tribunal](section/345B.md)
+    - [s. 345C Duty on publication of statement](section/345C.md)
+    - [s. 345D Imposition of penalties on auditors or actuaries: statement of policy](section/345D.md)
+    - [s. 345E Statements of policy: procedure](section/345E.md)
+  - Offence
+    - [s. 346 Provision of false or misleading information to auditor or actuary.](section/346.md)
+- Part XXIII Public Record, Disclosure of Information and Co-operation
+  - The public record
+    - [s. 347 The record of authorised persons etc.](section/347.md)
+    - [s. 347A Duty of PRA to disclose information relevant to the record](section/347A.md)
+  - Disclosure of information
+    - [s. 348 Restrictions on disclosure of confidential information by FCA, PRA etc.](section/348.md)
+    - [s. 349 Exceptions from section 348.](section/349.md)
+    - [s. 350 Disclosure of information by the Inland Revenue.](section/350.md)
+    - [s. 351 Competition information.](section/351.md)
+    - [s. 351A Disclosure under the UCITS directive](section/351A.md)
+    - [s. 352 Offences.](section/352.md)
+    - [s. 353 Removal of other restrictions on disclosure.](section/353.md)
+  - Information received from Bank of England
+    - [s. 353A Information received from Bank of England](section/353A.md)
+  - Co-operation
+    - [s. 354 Authority’s duty to co-operate with others.](section/354.md)
+    - [s. 354A FCA’s duty to co-operate with others](section/354A.md)
+    - [s. 354B PRA’s duty to co-operate with others](section/354B.md)
+    - [s. 354C PRA’s duty to provide information to Bank of England](section/354C.md)
+  - Provision of information to ESMA, the Commission and other EEA States
+    - [s. 354D Information under the markets in financial instruments directive](section/354D.md)
+    - [s. 354E Competent authorities under the markets in financial instruments directive: designation and co-operation](section/354E.md)
+    - [s. 354F Information under the transparency obligations directive](section/354F.md)
+    - [s. 354G Information under the UCITS directive](section/354G.md)
+    - [s. 354H Information under the Insurance Distribution Directive](section/354H.md)
+- Part XXIV Insolvency
+  - Interpretation
+    - [s. 355 Interpretation of this Part.](section/355.md)
+  - Arrangements and reconstructions: companies in financial difficulty
+    - [s. 355A Powers of FCA and PRA to participate in proceedings](section/355A.md)
+    - [s. 355B Enforcement of requirements imposed by section 355A](section/355B.md)
+  - Voluntary arrangements
+    - [s. 356 Powers of FCA and PRA to participate in proceedings: company voluntary arrangements.](section/356.md)
+    - [s. 357 Powers of FCA and PRA to participate in proceedings: individual voluntary arrangements.](section/357.md)
+    - [s. 358 Powers of FCA and PRA to participate in proceedings: trust deeds for creditors in Scotland.](section/358.md)
+  - Administration orders
+    - [s. 359 Administration order](section/359.md)
+    - [s. 360 Insurers.](section/360.md)
+    - [s. 361 Administrator’s duty to report to FCA and PRA](section/361.md)
+    - [s. 362 Powers of FCA and PRA to participate in proceedings.](section/362.md)
+    - [s. 362A Administrator appointed by company or directors](section/362A.md)
+  - Receivership
+    - [s. 363 Powers of FCA and PRA to participate in proceedings.](section/363.md)
+    - [s. 364 Receiver’s duty to report to FCA and PRA](section/364.md)
+  - Voluntary winding up
+    - [s. 365 Powers of FCA and PRA to participate in proceedings.](section/365.md)
+    - [s. 366 Insurers effecting or carrying out long-term contracts or insurance.](section/366.md)
+  - Winding up by the court
+    - [s. 367 Winding-up petitions.](section/367.md)
+    - [s. 368 Winding-up petitions: EEA and Treaty firms.](section/368.md)
+    - [s. 369 Insurers: service of petition etc. on FCA and PRA.](section/369.md)
+    - [s. 369A Reclaim funds: service of petition etc on FCA and PRA](section/369A.md)
+    - [s. 370 Liquidator’s duty to report to FCA and PRA](section/370.md)
+    - [s. 371 Powers of FCA and PRA to participate in proceedings.](section/371.md)
+  - Bankruptcy
+    - [s. 372 Petitions.](section/372.md)
+    - [s. 373 Insolvency practitioner’s duty to report to FCA and PRA.](section/373.md)
+    - [s. 374 Powers of FCA or PRA to participate in proceedings.](section/374.md)
+  - Provisions against debt avoidance
+    - [s. 375 Right of FCA and PRA to apply for an order.](section/375.md)
+  - Supplemental provisions concerning insurers
+    - [s. 376 Continuation of contracts of long-term insurance where insurer in liquidation.](section/376.md)
+    - [s. 377 Reducing the value of contracts instead of winding up.](section/377.md)
+    - [s. 377A Write-down orders](section/377A.md)
+    - [s. 377B Excluded liabilities](section/377B.md)
+    - [s. 377C Application for a write-down order](section/377C.md)
+    - [s. 377D Powers of the FCA and PRA to participate in proceedings](section/377D.md)
+    - [s. 377E Powers of the court](section/377E.md)
+    - [s. 377F Duty to notify creditors](section/377F.md)
+    - [s. 377G The manager](section/377G.md)
+    - [s. 377H Write-down order ceasing to have effect](section/377H.md)
+    - [s. 377I Variation or revocation of a write-down order](section/377I.md)
+    - [s. 377J Further provision about write-down orders](section/377J.md)
+    - [s. 377K Insurers in financial difficulties: enforcement of contracts](section/377K.md)
+    - [s. 378 Treatment of assets on winding up.](section/378.md)
+    - [s. 379 Winding-up rules.](section/379.md)
+  - Settlement finality
+    - [s. 379A Power to apply settlement finality regime to payment institutions](section/379A.md)
+- Part XXV Injunctions and Restitution
+  - Injunctions
+    - [s. 380 Injunctions.](section/380.md)
+    - [s. 381 Injunctions in cases of market abuse.](section/381.md)
+  - Restitution orders
+    - [s. 382 Restitution orders.](section/382.md)
+    - [s. 383 Restitution orders in cases of market abuse.](section/383.md)
+  - Restitution required by FCA or PRA
+    - [s. 384 Power of FCA or PRA to require restitution.](section/384.md)
+    - [s. 385 Warning notices.](section/385.md)
+    - [s. 386 Decision notices.](section/386.md)
+- Part XXVI Notices
+  - Warning notices
+    - [s. 387 Warning notices.](section/387.md)
+  - Decision notices
+    - [s. 388 Decision notices.](section/388.md)
+  - Conclusion of proceedings
+    - [s. 389 Notices of discontinuance.](section/389.md)
+    - [s. 390 Final notices.](section/390.md)
+  - Publication
+    - [s. 391 Publication.](section/391.md)
+    - [s. 391A Publication: special provisions relating to capital requirements](section/391A.md)
+    - [s. 391B Publication: special provisions relating to transparency obligations](section/391B.md)
+    - [s. 391C Publication: special provisions relating to UCITS](section/391C.md)
+    - [s. 391D Publication: special provisions relating to markets in financial instruments](section/391D.md)
+    - [s. 391E Publication: special provisions relating to insurance distribution](section/391E.md)
+    - [s. 391F Publication: special provisions relating to the prospectus regulation](section/391F.md)
+  - Third party rights and access to evidence
+    - [s. 392 Application of sections 393 and 394.](section/392.md)
+    - [s. 393 Third party rights.](section/393.md)
+    - [s. 394 Access to FCA or PRA material.](section/394.md)
+  - The FCA’s and PRA’s procedures
+    - [s. 395 The FCA’s and PRA’s procedures.](section/395.md)
+    - [s. 396 Statements under section 395: consultation.](section/396.md)
+- Part XXVII Offences
+  - Miscellaneous offences
+    - [s. 397 Misleading statements and practices.](section/397.md)
+    - [s. 398 Misleading FCA or PRA: residual cases.](section/398.md)
+    - [s. 399 Misleading the CMA.](section/399.md)
+  - Bodies corporate and partnerships
+    - [s. 400 Offences by bodies corporate etc.](section/400.md)
+  - Institution of proceedings
+    - [s. 401 Proceedings for offences.](section/401.md)
+    - [s. 402 Power of FCA to institute proceedings for certain other offences.](section/402.md)
+    - [s. 403 Jurisdiction and procedure in respect of offences.](section/403.md)
+- Part XXVIII Miscellaneous
+  - Consumer redress schemes
+    - [s. 404 Consumer redress schemes](section/404.md)
+    - [s. 404A Rules under s.404: supplementary](section/404A.md)
+    - [s. 404B Complaints to the ombudsman scheme](section/404B.md)
+    - [s. 404C Enforcement](section/404C.md)
+    - [s. 404D Applications to Tribunal to quash rules or provision of rules](section/404D.md)
+    - [s. 404E Meaning of “consumers”](section/404E.md)
+    - [s. 404F Other definitions etc](section/404F.md)
+    - [s. 404G Power to widen the scope of consumer redress schemes](section/404G.md)
+  - Third countries
+    - [s. 405 Directions.](section/405.md)
+    - [s. 406 Interpretation of section 405.](section/406.md)
+    - [s. 407 Consequences of a direction under section 405.](section/407.md)
+    - [s. 408 EFTA firms.](section/408.md)
+    - [s. 409 Gibraltar.](section/409.md)
+  - International powers and obligations
+    - [s. 409A Consultation in relation to deference decisions](section/409A.md)
+    - [s. 409B Notification in relation to international trade obligations](section/409B.md)
+    - [s. 410 International obligations.](section/410.md)
+  - Fees to meet Treasury expenses
+    - [s. 410A Fees to meet certain expenses of the Treasury](section/410A.md)
+    - [s. 410B Directions in pursuance of section 410A](section/410B.md)
+  - Tax treatment of levies and repayments
+    - [s. 411 Tax treatment of levies and repayments.](section/411.md)
+  - Gaming contracts
+    - [s. 412 Gaming contracts.](section/412.md)
+  - Trade-matching and reporting systems
+    - [s. 412A Approval and monitoring of trade-matching and reporting systems](section/412A.md)
+    - [s. 412B Procedure for approval and suspension or withdrawal of approval](section/412B.md)
+  - Limitation on powers to require documents
+    - [s. 413 Protected items.](section/413.md)
+  - Service of notices
+    - [s. 414 Service of notices.](section/414.md)
+  - Jurisdiction
+    - [s. 415 Jurisdiction in civil proceedings.](section/415.md)
+  - Powers under the Act
+    - [s. 415A Powers under the Act](section/415A.md)
+    - [s. 415AA Application of powers to formerly authorised persons](section/415AA.md)
+  - Consultation and co-operation
+    - [s. 415B Consultation in relation to taking certain enforcement action](section/415B.md)
+    - [s. 415C Co-operation and consultation in relation to exercise of functions](section/415C.md)
+  - Removal of certain unnecessary provisions
+    - [s. 416 Provisions relating to industrial assurance and certain other enactments.](section/416.md)
+  - Sustainability disclosure requirements
+    - [s. 416A SDR policy statement](section/416A.md)
+    - [s. 416B FCA and PRA rules etc](section/416B.md)
+- Part XXIX Interpretation
+  - [s. 417 Definitions.](section/417.md)
+  - [s. 418 Carrying on regulated activities in the United Kingdom.](section/418.md)
+  - [s. 419 Carrying on regulated activities by way of business.](section/419.md)
+  - [s. 419A Claims management services](section/419A.md)
+  - [s. 419B Carrying on claims management activity in Great Britain](section/419B.md)
+  - [s. 420 Parent and subsidiary undertaking.](section/420.md)
+  - [s. 421 Group.](section/421.md)
+  - [s. 421ZA Immediate group](section/421ZA.md)
+  - [s. 421A Meaning of “participating interest”](section/421A.md)
+  - [s. 422 Controller.](section/422.md)
+  - [s. 422A Disregarded holdings](section/422A.md)
+  - [s. 423 Manager.](section/423.md)
+  - [s. 423A Mortgage agreements etc](section/423A.md)
+  - [s. 424 Insurance.](section/424.md)
+  - [s. 424A Investment firm](section/424A.md)
+  - [s. 425 Expressions relating to authorisation ... in the single market.](section/425.md)
+  - [s. 425A Consumers: regulated activities etc carried on by authorised persons](section/425A.md)
+  - [s. 425B Consumers: regulated activities carried on by others](section/425B.md)
+  - [s. 425C “Qualifying provision”](section/425C.md)
+- Part XXX Supplemental
+  - [s. 426 Consequential and supplementary provision.](section/426.md)
+  - [s. 427 Transitional provisions.](section/427.md)
+  - [s. 428 Regulations and orders.](section/428.md)
+  - [s. 429 Parliamentary control of statutory instruments.](section/429.md)
+  - [s. 430 Extent.](section/430.md)
+  - [s. 431 Commencement.](section/431.md)
+  - [s. 432 Minor and consequential amendments, transitional provisions and repeals.](section/432.md)
+  - [s. 433 Short title.](section/433.md)
+- SCHEDULE 1 The Financial Services Authority
+  - Part I General
+    - Interpretation
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Constitution
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Non-executive members of the governing body
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Functions of the non-executive committee
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Arrangements for discharging functions
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Monitoring and enforcement
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Arrangements for the investigation of complaints
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Investigation of complaints
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Records
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Annual report
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Annual public meeting
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Report of annual meeting
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part II Status
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Exemption from requirement of “limited” in Authority’s name
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Part III Penalties and Fees
+    - Penalties
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Fees
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Services for which fees may not be charged
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part IV Miscellaneous
+    - Exemption from liability in damages
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+    - Amounts required by rules to be paid to the Authority
+      - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+    - Disqualification for membership of House of Commons
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Disqualification for membership of Northern Ireland Assembly
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 1ZA The Financial Conduct Authority
+  - PART 1 General
+    - Interpretation
+      - [Sch. 1ZA para. 1](schedule/1ZA/paragraph/1.md)
+    - Constitution
+      - [Sch. 1ZA para. 2](schedule/1ZA/paragraph/2.md)
+      - [Sch. 1ZA para. 2A](schedule/1ZA/paragraph/2A.md)
+      - [Sch. 1ZA para. 2B](schedule/1ZA/paragraph/2B.md)
+      - [Sch. 1ZA para. 3](schedule/1ZA/paragraph/3.md)
+      - [Sch. 1ZA para. 4](schedule/1ZA/paragraph/4.md)
+      - [Sch. 1ZA para. 5](schedule/1ZA/paragraph/5.md)
+      - [Sch. 1ZA para. 6](schedule/1ZA/paragraph/6.md)
+      - [Sch. 1ZA para. 6A](schedule/1ZA/paragraph/6A.md)
+    - Remuneration
+      - [Sch. 1ZA para. 7](schedule/1ZA/paragraph/7.md)
+    - Arrangements for discharging functions
+      - [Sch. 1ZA para. 8](schedule/1ZA/paragraph/8.md)
+    - Records
+      - [Sch. 1ZA para. 9](schedule/1ZA/paragraph/9.md)
+    - Publication of record of meetings of governing body
+      - [Sch. 1ZA para. 10](schedule/1ZA/paragraph/10.md)
+    - Annual report
+      - [Sch. 1ZA para. 11](schedule/1ZA/paragraph/11.md)
+    - Other reports
+      - [Sch. 1ZA para. 11A](schedule/1ZA/paragraph/11A.md)
+    - Annual public meeting
+      - [Sch. 1ZA para. 12](schedule/1ZA/paragraph/12.md)
+    - Report of annual meeting
+      - [Sch. 1ZA para. 13](schedule/1ZA/paragraph/13.md)
+    - Accounts and audit
+      - [Sch. 1ZA para. 14](schedule/1ZA/paragraph/14.md)
+      - [Sch. 1ZA para. 15](schedule/1ZA/paragraph/15.md)
+  - PART 2 Status
+    - Status
+      - [Sch. 1ZA para. 16](schedule/1ZA/paragraph/16.md)
+    - Exemption from requirement for use of “limited” in name of FCA
+      - [Sch. 1ZA para. 17](schedule/1ZA/paragraph/17.md)
+      - [Sch. 1ZA para. 18](schedule/1ZA/paragraph/18.md)
+  - PART 3 Penalties and fees
+    - Penalties
+      - [Sch. 1ZA para. 19](schedule/1ZA/paragraph/19.md)
+      - [Sch. 1ZA para. 20](schedule/1ZA/paragraph/20.md)
+      - [Sch. 1ZA para. 21](schedule/1ZA/paragraph/21.md)
+      - [Sch. 1ZA para. 22](schedule/1ZA/paragraph/22.md)
+    - Fees
+      - [Sch. 1ZA para. 23](schedule/1ZA/paragraph/23.md)
+    - Services for which fees may not be charged
+      - [Sch. 1ZA para. 24](schedule/1ZA/paragraph/24.md)
+  - PART 4 Miscellaneous
+    - Exemption from liability in damages
+      - [Sch. 1ZA para. 25](schedule/1ZA/paragraph/25.md)
+    - Accredited financial investigators
+      - [Sch. 1ZA para. 26](schedule/1ZA/paragraph/26.md)
+    - Amounts required by rules to be paid to the FCA
+      - [Sch. 1ZA para. 27](schedule/1ZA/paragraph/27.md)
+    - Engagement with Parliamentary Committees
+      - [Sch. 1ZA para. 28](schedule/1ZA/paragraph/28.md)
+      - [Sch. 1ZA para. 29](schedule/1ZA/paragraph/29.md)
+- SCHEDULE 1ZB The Prudential Regulation Authority
+  - PART 1 General
+    - Interpretation
+      - [Sch. 1ZB para. 1](schedule/1ZB/paragraph/1.md)
+    - Constitution
+      - [Sch. 1ZB para. 2](schedule/1ZB/paragraph/2.md)
+      - [Sch. 1ZB para. 3](schedule/1ZB/paragraph/3.md)
+      - [Sch. 1ZB para. 4](schedule/1ZB/paragraph/4.md)
+      - [Sch. 1ZB para. 5](schedule/1ZB/paragraph/5.md)
+    - Appointed members of governing body
+      - [Sch. 1ZB para. 6](schedule/1ZB/paragraph/6.md)
+      - [Sch. 1ZB para. 7](schedule/1ZB/paragraph/7.md)
+      - [Sch. 1ZB para. 8](schedule/1ZB/paragraph/8.md)
+      - [Sch. 1ZB para. 9](schedule/1ZB/paragraph/9.md)
+      - [Sch. 1ZB para. 10](schedule/1ZB/paragraph/10.md)
+      - [Sch. 1ZB para. 11](schedule/1ZB/paragraph/11.md)
+      - [Sch. 1ZB para. 12](schedule/1ZB/paragraph/12.md)
+      - [Sch. 1ZB para. 13](schedule/1ZB/paragraph/13.md)
+      - [Sch. 1ZB para. 14](schedule/1ZB/paragraph/14.md)
+    - Terms of service
+      - [Sch. 1ZB para. 15](schedule/1ZB/paragraph/15.md)
+    - Arrangements for discharging functions
+      - [Sch. 1ZB para. 16](schedule/1ZB/paragraph/16.md)
+    - Records
+      - [Sch. 1ZB para. 17](schedule/1ZB/paragraph/17.md)
+    - Budget
+      - [Sch. 1ZB para. 18](schedule/1ZB/paragraph/18.md)
+    - Annual report
+      - [Sch. 1ZB para. 19](schedule/1ZB/paragraph/19.md)
+    - Consultation about annual report
+      - [Sch. 1ZB para. 20](schedule/1ZB/paragraph/20.md)
+    - Report on consultation
+      - [Sch. 1ZB para. 21](schedule/1ZB/paragraph/21.md)
+    - Other reports
+      - [Sch. 1ZB para. 21A](schedule/1ZB/paragraph/21A.md)
+    - Accounts and audit
+      - [Sch. 1ZB para. 22](schedule/1ZB/paragraph/22.md)
+      - [Sch. 1ZB para. 23](schedule/1ZB/paragraph/23.md)
+  - PART 2 Status
+    - Status
+      - [Sch. 1ZB para. 24](schedule/1ZB/paragraph/24.md)
+    - Exemption from requirement for use of “limited” in name of PRA
+      - [Sch. 1ZB para. 25](schedule/1ZB/paragraph/25.md)
+      - [Sch. 1ZB para. 26](schedule/1ZB/paragraph/26.md)
+  - PART 3 Penalties and fees
+    - Penalties
+      - [Sch. 1ZB para. 27](schedule/1ZB/paragraph/27.md)
+      - [Sch. 1ZB para. 28](schedule/1ZB/paragraph/28.md)
+      - [Sch. 1ZB para. 29](schedule/1ZB/paragraph/29.md)
+      - [Sch. 1ZB para. 30](schedule/1ZB/paragraph/30.md)
+    - Fees
+      - [Sch. 1ZB para. 31](schedule/1ZB/paragraph/31.md)
+    - Services for which fees may not be charged
+      - [Sch. 1ZB para. 32](schedule/1ZB/paragraph/32.md)
+  - PART 4 Miscellaneous
+    - Exemption from liability in damages
+      - [Sch. 1ZB para. 33](schedule/1ZB/paragraph/33.md)
+    - Accredited financial investigators
+      - [Sch. 1ZB para. 34](schedule/1ZB/paragraph/34.md)
+    - Amounts required by rules to be paid to the PRA
+      - [Sch. 1ZB para. 35](schedule/1ZB/paragraph/35.md)
+    - Engagement with Parliamentary Committees
+      - [Sch. 1ZB para. 36](schedule/1ZB/paragraph/36.md)
+      - [Sch. 1ZB para. 37](schedule/1ZB/paragraph/37.md)
+- SCHEDULE 1A Further provision about the consumer financial education body
+  - Part 1 General
+    - Ensuring exercise of consumer financial education function etc
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - Constitution
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - Status
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - Discharge of function by others
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Discharge of functions: considerations
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Relationship with the FCA
+      - [Sch. 1A para. 6A](schedule/1A/paragraph/6A.md)
+      - [Sch. 1A para. 6B](schedule/1A/paragraph/6B.md)
+    - Budget
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - Annual plan
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Annual reports
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - Audit of accounts
+      - [Sch. 1A para. 9A](schedule/1A/paragraph/9A.md)
+    - ...
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Part 2 Funding
+    - Meaning of “the relevant costs”
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - Funding of the relevant costs by authorised persons, payment service providers or electronic money issuers
+      - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - Funding of the relevant costs by consumer credit licensees etc
+      - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - Funding by grants or loans etc made by Treasury or Secretary of State
+      - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+  - Part 3 Reviews
+    - Reviews of economy etc of the consumer financial education body
+      - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - Right to obtain documents and information
+      - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+- SCHEDULE 2 Regulated Activities
+  - Part I Regulated activities: general
+    - General
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Dealing in investments
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Arranging deals in investments
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Deposit taking
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Safekeeping and administration of assets
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Managing investments
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Investment advice
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Establishing collective investment schemes
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Using computer-based systems for giving investment instructions
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part 1A Regulated activities: reclaim funds
+    - [Sch. 2 para. 9A Activities of reclaim funds](schedule/2/paragraph/9A.md)
+  - Part II Investments
+    - General
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Securities
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Instruments creating or acknowledging indebtedness
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Government and public securities
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Instruments giving entitlement to investments
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Certificates representing securities
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Units in collective investment schemes
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Options
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Futures
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Contracts for differences
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Contracts of insurance
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Participation in Lloyd’s syndicates
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Deposits
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Loans and other forms of credit
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Other finance arrangements involving land
+      - [Sch. 2 para. 23A](schedule/2/paragraph/23A.md)
+    - Contracts for hire of goods
+      - [Sch. 2 para. 23n1](schedule/2/paragraph/23n1.md)
+    - Rights in investments
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - PART 2A Regulated activities relating to information about persons’ financial standing
+    - [Sch. 2 para. 24A General](schedule/2/paragraph/24A.md)
+    - [Sch. 2 para. 24B Providing credit reference services](schedule/2/paragraph/24B.md)
+    - [Sch. 2 para. 24C Providing credit information services](schedule/2/paragraph/24C.md)
+    - [Sch. 2 para. 24D Providing credit information services](schedule/2/paragraph/24D.md)
+  - PART 2B Regulated activities relating to the setting of benchmarks
+    - [Sch. 2 para. 24E General](schedule/2/paragraph/24E.md)
+    - [Sch. 2 para. 24F Providing information](schedule/2/paragraph/24F.md)
+    - [Sch. 2 para. 24G Administration](schedule/2/paragraph/24G.md)
+    - [Sch. 2 para. 24H Determining or publishing benchmark or publishing connected information](schedule/2/paragraph/24H.md)
+  - Part III Supplemental Provisions
+    - The order-making power
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Parliamentary control
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Interpretation
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 2A Gibraltar-based persons carrying on activities in the UK
+  - PART 1 Interpretation etc
+    - Gibraltar-based person
+      - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - Regulators
+      - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - Activities and branches
+      - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+    - UK regulators’ objectives
+      - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - PART 2 Approved activities
+    - Approval of regulated activities
+      - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - Corresponding activities regulated in Gibraltar
+      - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - Objectives
+      - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+    - Alignment of law and practice
+      - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - Co-operation
+      - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - Consultation
+      - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+    - Withdrawal of approval
+      - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - PART 3 Permission to carry on an approved activity
+    - Obtaining permission to carry on an approved activity
+      - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - Schedule 2A permission
+      - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+    - The appropriate UK regulator
+      - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+    - Notifying the appropriate UK regulator
+      - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+    - Considering a notification
+      - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+    - Rejecting a notification
+      - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+    - Duties to reject
+      - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+    - Power to reject: prohibition order in respect of senior manager
+      - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+    - Power to reject: loss of access right and serious threat to the UK
+      - [Sch. 2A para. 20](schedule/2A/paragraph/20.md)
+  - PART 4 Variation of permission
+    - Variation of permission
+      - [Sch. 2A para. 21](schedule/2A/paragraph/21.md)
+    - Gibraltar regulator’s initiative: notification
+      - [Sch. 2A para. 22](schedule/2A/paragraph/22.md)
+    - Gibraltar regulator’s initiative: the appropriate UK regulator
+      - [Sch. 2A para. 23](schedule/2A/paragraph/23.md)
+    - Gibraltar regulator’s initiative: notifying the UK regulator
+      - [Sch. 2A para. 24](schedule/2A/paragraph/24.md)
+    - Gibraltar regulator’s initiative: considering a notification
+      - [Sch. 2A para. 25](schedule/2A/paragraph/25.md)
+    - Gibraltar regulator’s initiative: rejecting a notification
+      - [Sch. 2A para. 26](schedule/2A/paragraph/26.md)
+    - UK regulator’s initiative
+      - [Sch. 2A para. 27](schedule/2A/paragraph/27.md)
+    - Own-initiative conditions
+      - [Sch. 2A para. 28](schedule/2A/paragraph/28.md)
+    - UK regulator’s initiative: procedure
+      - [Sch. 2A para. 29](schedule/2A/paragraph/29.md)
+    - Right to refer matters to the Tribunal
+      - [Sch. 2A para. 30](schedule/2A/paragraph/30.md)
+  - PART 5 Cancellation of permission
+    - Cancellation of permission
+      - [Sch. 2A para. 31](schedule/2A/paragraph/31.md)
+    - Gibraltar regulator’s initiative: notification
+      - [Sch. 2A para. 32](schedule/2A/paragraph/32.md)
+    - Gibraltar regulator’s initiative: the appropriate UK regulator
+      - [Sch. 2A para. 33](schedule/2A/paragraph/33.md)
+    - Gibraltar regulator’s initiative: notifying the UK regulator
+      - [Sch. 2A para. 34](schedule/2A/paragraph/34.md)
+    - Gibraltar regulator’s initiative: considering a notification
+      - [Sch. 2A para. 35](schedule/2A/paragraph/35.md)
+    - Gibraltar regulator’s initiative: rejecting a notification
+      - [Sch. 2A para. 36](schedule/2A/paragraph/36.md)
+    - UK regulator’s initiative
+      - [Sch. 2A para. 37](schedule/2A/paragraph/37.md)
+    - UK regulator’s initiative: procedure
+      - [Sch. 2A para. 38](schedule/2A/paragraph/38.md)
+    - Right to refer matters to the Tribunal
+      - [Sch. 2A para. 39](schedule/2A/paragraph/39.md)
+  - PART 6 Requirements
+    - Requirements
+      - [Sch. 2A para. 40](schedule/2A/paragraph/40.md)
+    - Imposing requirements in connection with Part 3 or 4 notification
+      - [Sch. 2A para. 41](schedule/2A/paragraph/41.md)
+    - Imposing requirements in connection with Part 3 or 4 notification: procedure
+      - [Sch. 2A para. 42](schedule/2A/paragraph/42.md)
+    - Right to refer matters to the Tribunal
+      - [Sch. 2A para. 43](schedule/2A/paragraph/43.md)
+    - Gibraltar regulator’s initiative: notification
+      - [Sch. 2A para. 44](schedule/2A/paragraph/44.md)
+    - Gibraltar regulator’s initiative: the appropriate UK regulator
+      - [Sch. 2A para. 45](schedule/2A/paragraph/45.md)
+    - Gibraltar regulator’s initiative: notifying the UK regulator
+      - [Sch. 2A para. 46](schedule/2A/paragraph/46.md)
+    - Gibraltar regulator’s initiative: considering a notification
+      - [Sch. 2A para. 47](schedule/2A/paragraph/47.md)
+    - Gibraltar regulator’s initiative: rejecting a notification
+      - [Sch. 2A para. 48](schedule/2A/paragraph/48.md)
+    - UK regulator’s initiative: imposing, varying and cancelling requirements
+      - [Sch. 2A para. 49](schedule/2A/paragraph/49.md)
+    - UK regulator’s initiative: procedure for imposing or varying requirements
+      - [Sch. 2A para. 50](schedule/2A/paragraph/50.md)
+    - UK regulator’s initiative: procedure for cancellation
+      - [Sch. 2A para. 51](schedule/2A/paragraph/51.md)
+    - Right to refer matters to the Tribunal
+      - [Sch. 2A para. 52](schedule/2A/paragraph/52.md)
+    - Assets requirements
+      - [Sch. 2A para. 53](schedule/2A/paragraph/53.md)
+    - Further provision about requirements
+      - [Sch. 2A para. 54](schedule/2A/paragraph/54.md)
+    - Contravention of requirement imposed under this Part
+      - [Sch. 2A para. 55](schedule/2A/paragraph/55.md)
+  - PART 7 Changes
+    - Duty to notify UK regulators of changes
+      - [Sch. 2A para. 56](schedule/2A/paragraph/56.md)
+  - PART 8 UK regulators’ directions about information
+    - Directions about information to be included in notifications
+      - [Sch. 2A para. 57](schedule/2A/paragraph/57.md)
+  - PART 9 Transition on withdrawal of approval of regulated activity etc
+    - Transition on withdrawal of approval of regulated activity
+      - [Sch. 2A para. 58](schedule/2A/paragraph/58.md)
+    - Transition on Gibraltar activity ceasing to be corresponding activity
+      - [Sch. 2A para. 59](schedule/2A/paragraph/59.md)
+    - Restricting transitional permission
+      - [Sch. 2A para. 60](schedule/2A/paragraph/60.md)
+    - Directions about protected contracts
+      - [Sch. 2A para. 61](schedule/2A/paragraph/61.md)
+    - Right to refer matters to the Tribunal
+      - [Sch. 2A para. 62](schedule/2A/paragraph/62.md)
+    - Further powers
+      - [Sch. 2A para. 63](schedule/2A/paragraph/63.md)
+  - PART 10 Transition on cancellation of UK or Gibraltar permission
+    - Transition on cancellation of Schedule 2A permission
+      - [Sch. 2A para. 64](schedule/2A/paragraph/64.md)
+    - Transition on cancellation of Gibraltar permission
+      - [Sch. 2A para. 65](schedule/2A/paragraph/65.md)
+    - The appropriate UK regulator
+      - [Sch. 2A para. 66](schedule/2A/paragraph/66.md)
+    - Directions about protected contracts
+      - [Sch. 2A para. 67](schedule/2A/paragraph/67.md)
+    - End of transition
+      - [Sch. 2A para. 68](schedule/2A/paragraph/68.md)
+    - End of transition: procedure
+      - [Sch. 2A para. 69](schedule/2A/paragraph/69.md)
+    - Right to refer matters to the Tribunal
+      - [Sch. 2A para. 70](schedule/2A/paragraph/70.md)
+  - PART 11 Policy statements
+    - Policy statements
+      - [Sch. 2A para. 71](schedule/2A/paragraph/71.md)
+    - Policy statements: procedure
+      - [Sch. 2A para. 72](schedule/2A/paragraph/72.md)
+  - PART 12 Consultation etc by UK regulators
+    - FCA’s duties to consult the PRA
+      - [Sch. 2A para. 73](schedule/2A/paragraph/73.md)
+    - FCA’s duties to obtain consent from the PRA
+      - [Sch. 2A para. 74](schedule/2A/paragraph/74.md)
+    - FCA’s duties to inform the PRA
+      - [Sch. 2A para. 75](schedule/2A/paragraph/75.md)
+    - PRA’s duties to consult the FCA
+      - [Sch. 2A para. 76](schedule/2A/paragraph/76.md)
+    - PRA’s duty to obtain consent from the FCA
+      - [Sch. 2A para. 77](schedule/2A/paragraph/77.md)
+    - PRA’s duties to inform the FCA
+      - [Sch. 2A para. 78](schedule/2A/paragraph/78.md)
+    - UK regulators’ duties to inform the Gibraltar regulator
+      - [Sch. 2A para. 79](schedule/2A/paragraph/79.md)
+  - PART 13 Co-operation and Assistance
+    - Duties to co-operate
+      - [Sch. 2A para. 80](schedule/2A/paragraph/80.md)
+    - Publication and review of arrangements for co-operation
+      - [Sch. 2A para. 81](schedule/2A/paragraph/81.md)
+    - Provision of reports to assist the Treasury
+      - [Sch. 2A para. 82](schedule/2A/paragraph/82.md)
+  - PART 14 Special cases
+    - Gibraltar-based individuals carrying on insurance distribution activities
+      - [Sch. 2A para. 83](schedule/2A/paragraph/83.md)
+- SCHEDULE 3 EEA Passport Rights
+  - Part I Defined terms
+    - The single market directives
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The banking co-ordination directives
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - The Solvency 2 Directive
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - The reinsurance directive
+      - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+    - The investment services directive
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - The insurance distribution directive
+      - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+    - The UCITS directive
+      - [Sch. 3 para. 4B](schedule/3/paragraph/4B.md)
+    - The markets in financial instruments directive
+      - [Sch. 3 para. 4C](schedule/3/paragraph/4C.md)
+      - [Sch. 3 para. 4D The emission allowance auctioning regulation](schedule/3/paragraph/4D.md)
+    - The alternative investment fund managers directive
+      - [Sch. 3 para. 4E](schedule/3/paragraph/4E.md)
+    - The mortgages directive
+      - [Sch. 3 para. 4F](schedule/3/paragraph/4F.md)
+    - EEA firm
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 5A](schedule/3/paragraph/5A.md)
+    - EEA authorisation
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - EEA right
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+    - EEA State
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Home state regulator
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - UK firm
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 10A](schedule/3/paragraph/10A.md)
+    - UK investment firm
+      - [Sch. 3 para. 10B](schedule/3/paragraph/10B.md)
+    - Host state regulator
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Tied agent
+      - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+    - Management company
+      - [Sch. 3 para. 11B](schedule/3/paragraph/11B.md)
+    - UCITS
+      - [Sch. 3 para. 11C](schedule/3/paragraph/11C.md)
+    - EEAAIFM
+      - [Sch. 3 para. 11D](schedule/3/paragraph/11D.md)
+  - Part II Exercise of Passport Rights by EEA Firms
+    - Firms qualifying for authorisation
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Establishment
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Services
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Grant of permission
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 15ZA Grant of permission: bidding for emission allowances](schedule/3/paragraph/15ZA.md)
+    - Power to restrict permission of management companies
+      - [Sch. 3 para. 15A Application for approval to manage UCITS](schedule/3/paragraph/15A.md)
+      - [Sch. 3 para. 15B Representations and references to the Tribunal](schedule/3/paragraph/15B.md)
+      - [Sch. 3 para. 15C Information to home state regulator](schedule/3/paragraph/15C.md)
+    - Effect of carrying on regulated activity when not qualified for authorisation
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Continuing regulation of European Economic AreaEEA firms
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Giving up right to authorisation
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Part III Exercise of Passport Rights by UK Firms
+    - Meaning of “the appropriate UK regulator”
+      - [Sch. 3 para. 18A](schedule/3/paragraph/18A.md)
+    - Establishment
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Services
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 20ZA Information for host state regulator](schedule/3/paragraph/20ZA.md)
+    - Tied agents
+      - [Sch. 3 para. 20A](schedule/3/paragraph/20A.md)
+      - [Sch. 3 para. 20B Notice of intention to market a UCITS](schedule/3/paragraph/20B.md)
+    - Notice of intention to market an Alternative Investment FundAIF
+      - [Sch. 3 para. 20C](schedule/3/paragraph/20C.md)
+    - Offence relating to exercise of passport rights
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Continuing regulation of United KingdomUK firms
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Arrangements between FCA and PRA
+      - [Sch. 3 para. 24A](schedule/3/paragraph/24A.md)
+    - Information to be included in the public record
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26 UK management companies: delegation of functions](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27 UK management companies: withdrawal of authorisation](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28 Management companies: request for information](schedule/3/paragraph/28.md)
+    - Full-scope United KingdomUKAlternative Investment Fund ManagersAIFMs: notification of breach by host state regulator
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Treaty Rights
+  - Definitions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Firms qualifying for authorisation
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Exercise of Treaty rights
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Notification between UK regulators
+    - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - Permission
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Notice to United KingdomUK regulator
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Offences
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Persons Concerned in Collective Investment Schemes
+  - Authorisation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Permission
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 Threshold Conditions
+  - PART 1 Introduction
+    - [Sch. 6 para. 1A](schedule/6/paragraph/1A.md)
+  - PART 1B Part 4A permission: authorised persons who are not PRA-authorised persons
+    - [Sch. 6 para. 2A Introduction](schedule/6/paragraph/2A.md)
+    - [Sch. 6 para. 2B Location of offices](schedule/6/paragraph/2B.md)
+    - [Sch. 6 para. 2C Effective supervision](schedule/6/paragraph/2C.md)
+    - [Sch. 6 para. 2D Appropriate resources](schedule/6/paragraph/2D.md)
+    - [Sch. 6 para. 2E Suitability](schedule/6/paragraph/2E.md)
+    - [Sch. 6 para. 2F Business model](schedule/6/paragraph/2F.md)
+    - [Sch. 6 para. 2G Interpretation](schedule/6/paragraph/2G.md)
+  - PART 1C Part 4A permission: conditions for which FCA is responsible in relation to PRA-authorised persons
+    - [Sch. 6 para. 3A Introduction](schedule/6/paragraph/3A.md)
+    - [Sch. 6 para. 3B Effective supervision](schedule/6/paragraph/3B.md)
+    - [Sch. 6 para. 3C Appropriate non-financial resources](schedule/6/paragraph/3C.md)
+    - [Sch. 6 para. 3D Suitability](schedule/6/paragraph/3D.md)
+    - [Sch. 6 para. 3E Business model](schedule/6/paragraph/3E.md)
+  - PART 1D Part 4A permission: conditions for which the PRA is responsible in relation to insurers etc.
+    - [Sch. 6 para. 4A Introduction](schedule/6/paragraph/4A.md)
+    - [Sch. 6 para. 4B Legal status](schedule/6/paragraph/4B.md)
+    - [Sch. 6 para. 4C Location of offices](schedule/6/paragraph/4C.md)
+    - [Sch. 6 para. 4D Business to be conducted in a prudent manner](schedule/6/paragraph/4D.md)
+    - [Sch. 6 para. 4E Suitability](schedule/6/paragraph/4E.md)
+    - [Sch. 6 para. 4F Effective supervision](schedule/6/paragraph/4F.md)
+  - PART 1E Part 4A permission: conditions for which the PRA is responsible in relation to other PRA-authorised persons
+    - [Sch. 6 para. 5A Introduction](schedule/6/paragraph/5A.md)
+    - [Sch. 6 para. 5B Legal status](schedule/6/paragraph/5B.md)
+    - [Sch. 6 para. 5C Location of offices](schedule/6/paragraph/5C.md)
+    - [Sch. 6 para. 5D Business to be conducted in a prudent manner](schedule/6/paragraph/5D.md)
+    - [Sch. 6 para. 5E Suitability](schedule/6/paragraph/5E.md)
+    - [Sch. 6 para. 5F Effective supervision](schedule/6/paragraph/5F.md)
+  - PART 1F Authorisation under Schedule 3
+    - [Sch. 6 para. 6A](schedule/6/paragraph/6A.md)
+  - PART 1G Authorisation under Schedule 4
+    - [Sch. 6 para. 7A](schedule/6/paragraph/7A.md)
+  - Part II Authorisation
+    - Authorisation under Schedule 3
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Part III Additional Conditions
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 6A Variation or cancellation of Part 4A permission on initiative of FCA: additional power
+  - Additional power
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Procedure etc
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - Notice of decision
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+  - Application for decision to be annulled
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+  - Annulment etc
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+  - Effect
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+  - Right to refer matter to Tribunal
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+  - Supplementary
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+- SCHEDULE 6B Designated activities
+  - [Sch. 6B para. 1 Introductory](schedule/6B/paragraph/1.md)
+  - [Sch. 6B para. 2 Derivatives](schedule/6B/paragraph/2.md)
+  - [Sch. 6B para. 3 Derivatives](schedule/6B/paragraph/3.md)
+  - [Sch. 6B para. 4 Short selling](schedule/6B/paragraph/4.md)
+  - [Sch. 6B para. 5 Securitisation](schedule/6B/paragraph/5.md)
+  - [Sch. 6B para. 6 Securitisation](schedule/6B/paragraph/6.md)
+  - [Sch. 6B para. 7 Financial markets](schedule/6B/paragraph/7.md)
+  - [Sch. 6B para. 8 Financial markets](schedule/6B/paragraph/8.md)
+  - [Sch. 6B para. 9 Using a benchmark](schedule/6B/paragraph/9.md)
+  - [Sch. 6B para. 10 Using a benchmark](schedule/6B/paragraph/10.md)
+  - [Sch. 6B para. 11 Using a benchmark](schedule/6B/paragraph/11.md)
+  - [Sch. 6B para. 12 Contributing to a benchmark](schedule/6B/paragraph/12.md)
+  - [Sch. 6B para. 13 Contributing to a benchmark](schedule/6B/paragraph/13.md)
+- SCHEDULE 6C LISTED DESIGNATED ACTIVITY REGULATIONS AND REQUIREMENTS FOR PURPOSES OF CERTAIN PROVISIONS
+  - PART 1 PROVISIONS DESIGNATING RELEVANT DESIGNATED ACTIVITIES
+  - PART2 RELEVANT PART 5A REQUIREMENTS FOR PURPOSES OF SPECIFIED PROVISIONS
+  - PART 3 RELEVANT PART 5A DIRECTIONS FOR PURPOSES OF CHAPTER 2 OF PART 5A
+- SCHEDULE 7
+  - The Authority as Competent Authority for Part VI
+    - General
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - The Authority’s general functions
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Duty to consult
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Rules
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Statements of policy
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Penalties
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Fees
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Exemption from liability in damages
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8
+  - Transfer of functions under Part VI
+    - The power to transfer
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Supplemental
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9
+  - General application of Part VI
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - References to listing particulars
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - General duty of disclosure
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Supplementary prospectuses
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Exemption from liability for compensation
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Advertisements
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Fees
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Compensation: Exemptions
+  - Statements believed to be true
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Statements by experts
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Corrections of statements
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Corrections of statements by experts
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Official statements
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - False or misleading information known about
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Belief that supplementary listing particulars not called for
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Meaning of “expert”
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+- SCHEDULE 10A LIABILITY OF ISSUERS IN CONNECTION WITH PUBLISHED INFORMATION
+  - PART 1 SCOPE OF THIS SCHEDULE
+    - [Sch. 10A para. 1 Securities to which this Schedule applies](schedule/10A/paragraph/1.md)
+    - [Sch. 10A para. 2 Published information to which this Schedule applies](schedule/10A/paragraph/2.md)
+  - PART 2 LIABILITY IN CONNECTION WITH PUBLISHED INFORMATION
+    - [Sch. 10A para. 3 Liability of issuer for misleading statement or dishonest omission](schedule/10A/paragraph/3.md)
+    - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+    - [Sch. 10A para. 5 Liability of issuer for dishonest delay in publishing information](schedule/10A/paragraph/5.md)
+    - [Sch. 10A para. 6 Meaning of dishonesty](schedule/10A/paragraph/6.md)
+    - [Sch. 10A para. 7 Exclusion of certain other liabilities](schedule/10A/paragraph/7.md)
+  - PART 3 SUPPLEMENTARY PROVISIONS
+    - [Sch. 10A para. 8 Interpretation](schedule/10A/paragraph/8.md)
+- SCHEDULE 11
+  - The general rule
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Exempt offers
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Offers for business purposes
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Offers to limited numbers
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Clubs and associations
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Restricted circles
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Underwriting agreements
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Offers to public authorities
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Maximum consideration
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Minimum consideration
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Securities denominated in euros
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Takeovers
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Mergers
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Free shares
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Exchange of shares
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Qualifying persons
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - Convertible securities
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Charities
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - Building societies etc.
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Euro-securities
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Same class securities
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - Short date securities
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Government and public securities
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - Non-transferable securities
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 24A Units in a collective investment scheme](schedule/11/paragraph/24A.md)
+  - General definitions
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+- SCHEDULE 11A TRANSFERABLE SECURITIES
+  - PART 1
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+    - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+    - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+    - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+    - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+    - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+  - PART 2
+    - [Sch. 11A para. 7](schedule/11A/paragraph/7.md)
+    - [Sch. 11A para. 8](schedule/11A/paragraph/8.md)
+    - [Sch. 11A para. 9](schedule/11A/paragraph/9.md)
+- SCHEDULE 11B CONNECTED PERSONS
+  - PART 1 MEANING OF “CONNECTED PERSON”
+    - [Sch. 11B para. 1 Introduction](schedule/11B/paragraph/1.md)
+    - [Sch. 11B para. 2 Meaning of “connected person”](schedule/11B/paragraph/2.md)
+    - [Sch. 11B para. 3 Family members](schedule/11B/paragraph/3.md)
+    - [Sch. 11B para. 4 Associated bodies corporate](schedule/11B/paragraph/4.md)
+    - [Sch. 11B para. 5 Control of a body corporate](schedule/11B/paragraph/5.md)
+    - [Sch. 11B para. 6 Supplementary provisions](schedule/11B/paragraph/6.md)
+  - PART 2 CONNECTED PERSONS: REFERENCES TO AN INTEREST IN SHARES OR DEBENTURES
+    - [Sch. 11B para. 7 Introduction](schedule/11B/paragraph/7.md)
+    - [Sch. 11B para. 8 General provisions](schedule/11B/paragraph/8.md)
+    - [Sch. 11B para. 9 Rights to acquire shares](schedule/11B/paragraph/9.md)
+    - [Sch. 11B para. 10 Right to exercise or control exercise of rights](schedule/11B/paragraph/10.md)
+    - [Sch. 11B para. 11 Bodies corporate](schedule/11B/paragraph/11.md)
+    - [Sch. 11B para. 12 Trusts](schedule/11B/paragraph/12.md)
+- SCHEDULE 12 Transfer schemes: certificates
+  - Part I Insurance Business Transfer Schemes
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Certificates as to margin of solvency
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Certificates as to consultation
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Certificates as to consent
+      - [Sch. 12 para. 3A](schedule/12/paragraph/3A.md)
+    - Certificates as to long-term business
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Certificates as to general business
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Certificates as to legality and as to consent
+      - [Sch. 12 para. 5A](schedule/12/paragraph/5A.md)
+    - Interpretation of Part I
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Part II Banking Business Transfer Schemes
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Certificates as to financial resources
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - Certificates as to consent of home state regulator
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Part 2A Reclaim fund business transfer schemes
+    - [Sch. 12 para. 9A Certificate as to financial resources](schedule/12/paragraph/9A.md)
+  - PART 2B Ring-fencing transfer schemes
+    - [Sch. 12 para. 9B Appropriate certificates](schedule/12/paragraph/9B.md)
+    - [Sch. 12 para. 9C Certificate as to financial resources](schedule/12/paragraph/9C.md)
+    - [Sch. 12 para. 9D Certificate as to consent of home state regulator](schedule/12/paragraph/9D.md)
+  - Part III Insurance business transfers effected outside the United Kingdom
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+- SCHEDULE 13
+  - Part I General
+    - Interpretation
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Part II The Tribunal
+    - President
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Panels
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Terms of office etc
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Remuneration and expenses
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Staff
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Part III Constitution of Tribunal
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Part IV Tribunal Procedure
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Practice directions
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Evidence
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Decisions of Tribunal
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - Costs
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+- SCHEDULE 14 Role of the Competition Commission
+  - Provision of information by Treasury
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Consideration of matters arising on a report
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 2A](schedule/14/paragraph/2A.md)
+    - [Sch. 14 para. 2B](schedule/14/paragraph/2B.md)
+    - [Sch. 14 para. 2C](schedule/14/paragraph/2C.md)
+  - Applied provisions
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Publication of reports
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+- SCHEDULE 15 Information and Investigations: Connected Persons
+  - Part I Rules for Specific Bodies
+    - Corporate bodies
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Partnerships
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Unincorporated associations
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Friendly societies
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Building societies
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Individuals
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Application to sections 171 and 172
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Part II Additional Rules
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+- SCHEDULE 16 Prohibitions and Restrictions imposed by OFFICE OF FAIR TRADING
+  - Preliminary
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Notice of prohibition or restriction
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Application to revoke prohibition or restriction
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Representations to Office of Fair TradingOFT
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Appeals
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+- SCHEDULE 17 The Ombudsman Scheme
+  - Part I General
+    - Interpretation
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Part II The Scheme Operator
+    - Duty of FCA
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Constitution
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Relationship with FCA
+      - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
+    - The panel of ombudsmen
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - The Chief Ombudsman
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Status
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Annual reports
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Audit of accounts
+      - [Sch. 17 para. 7A](schedule/17/paragraph/7A.md)
+    - Information, advice and guidance
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Budget
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Annual plan
+      - [Sch. 17 para. 9A](schedule/17/paragraph/9A.md)
+    - Exemption from liability in damages
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Privilege
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+  - Part III The Compulsory Jurisdiction
+    - Introduction
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - FCA’s ... rules
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - The scheme operator’s rules
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Fees
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - Enforcement of money awards
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+  - Part 3A The consumer credit jurisdiction
+    - Introduction
+      - [Sch. 17 para. 16A](schedule/17/paragraph/16A.md)
+    - Procedure for complaints etc.
+      - [Sch. 17 para. 16B](schedule/17/paragraph/16B.md)
+    - Fees
+      - [Sch. 17 para. 16C](schedule/17/paragraph/16C.md)
+    - Enforcement of money awards
+      - [Sch. 17 para. 16D](schedule/17/paragraph/16D.md)
+    - Procedure for consumer credit rules
+      - [Sch. 17 para. 16E](schedule/17/paragraph/16E.md)
+    - Verification of consumer credit rules
+      - [Sch. 17 para. 16F](schedule/17/paragraph/16F.md)
+    - Consultation
+      - [Sch. 17 para. 16G](schedule/17/paragraph/16G.md)
+  - Part IV The Voluntary Jurisdiction
+    - Introduction
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - Terms of reference to the scheme
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - Delegation by and to other schemes
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - Voluntary jurisdiction rules: procedure
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - Verification of the rules
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - Consultation
+      - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+- SCHEDULE 17A Further provision in relation to exercise of Part 18 functions, or other FMI functions, by Bank of England
+  - Part 1 Co-operation between appropriate regulators
+    - Memorandum of understanding between appropriate regulators and PRA
+      - [Sch. 17A para. 1](schedule/17A/paragraph/1.md)
+      - [Sch. 17A para. 2](schedule/17A/paragraph/2.md)
+      - [Sch. 17A para. 3](schedule/17A/paragraph/3.md)
+      - [Sch. 17A para. 4](schedule/17A/paragraph/4.md)
+      - [Sch. 17A para. 5](schedule/17A/paragraph/5.md)
+      - [Sch. 17A para. 6](schedule/17A/paragraph/6.md)
+      - [Sch. 17A para. 6A](schedule/17A/paragraph/6A.md)
+    - Notification by FCA of action in relation to recognised clearing houses
+      - [Sch. 17A para. 7](schedule/17A/paragraph/7.md)
+      - [Sch. 17A para. 8](schedule/17A/paragraph/8.md)
+  - Part 2 Application of provisions of this Act in relation to Bank of England
+    - Introduction
+      - [Sch. 17A para. 9](schedule/17A/paragraph/9.md)
+    - Public consultations
+      - [Sch. 17A para. 9A](schedule/17A/paragraph/9A.md)
+    - Requirements
+      - [Sch. 17A para. 9B](schedule/17A/paragraph/9B.md)
+    - Rules
+      - [Sch. 17A para. 10](schedule/17A/paragraph/10.md)
+      - [Sch. 17A para. 10A](schedule/17A/paragraph/10A.md)
+    - Information gathering and investigations
+      - [Sch. 17A para. 11](schedule/17A/paragraph/11.md)
+      - [Sch. 17A para. 12](schedule/17A/paragraph/12.md)
+      - [Sch. 17A para. 12A](schedule/17A/paragraph/12A.md)
+      - [Sch. 17A para. 13](schedule/17A/paragraph/13.md)
+      - [Sch. 17A para. 14](schedule/17A/paragraph/14.md)
+      - [Sch. 17A para. 15](schedule/17A/paragraph/15.md)
+      - [Sch. 17A para. 16](schedule/17A/paragraph/16.md)
+    - Powers in relation to parent undertakings
+      - [Sch. 17A para. 17](schedule/17A/paragraph/17.md)
+    - Auditors
+      - [Sch. 17A para. 18](schedule/17A/paragraph/18.md)
+      - [Sch. 17A para. 19](schedule/17A/paragraph/19.md)
+      - [Sch. 17A para. 20](schedule/17A/paragraph/20.md)
+      - [Sch. 17A para. 21](schedule/17A/paragraph/21.md)
+    - Public record and disclosure of information
+      - [Sch. 17A para. 22](schedule/17A/paragraph/22.md)
+      - [Sch. 17A para. 23](schedule/17A/paragraph/23.md)
+    - Co-operation
+      - [Sch. 17A para. 23A](schedule/17A/paragraph/23A.md)
+    - Insolvency
+      - [Sch. 17A para. 24](schedule/17A/paragraph/24.md)
+      - [Sch. 17A para. 25](schedule/17A/paragraph/25.md)
+    - Injunctions and restitution
+      - [Sch. 17A para. 26](schedule/17A/paragraph/26.md)
+      - [Sch. 17A para. 27](schedule/17A/paragraph/27.md)
+      - [Sch. 17A para. 28](schedule/17A/paragraph/28.md)
+    - Notices
+      - [Sch. 17A para. 29](schedule/17A/paragraph/29.md)
+    - Offences
+      - [Sch. 17A para. 30](schedule/17A/paragraph/30.md)
+      - [Sch. 17A para. 31](schedule/17A/paragraph/31.md)
+    - International obligations
+      - [Sch. 17A para. 31A](schedule/17A/paragraph/31A.md)
+    - Transitional provisions
+      - [Sch. 17A para. 31B](schedule/17A/paragraph/31B.md)
+    - Records
+      - [Sch. 17A para. 32](schedule/17A/paragraph/32.md)
+    - Annual report
+      - [Sch. 17A para. 33](schedule/17A/paragraph/33.md)
+    - Other reports
+      - [Sch. 17A para. 33A](schedule/17A/paragraph/33A.md)
+    - Engagement with Parliamentary Committees
+      - [Sch. 17A para. 33B](schedule/17A/paragraph/33B.md)
+  - Part 3 Winding up, administration or insolvency of recognised clearing houses
+    - Notice to Bank of England of preliminary steps
+      - [Sch. 17A para. 34](schedule/17A/paragraph/34.md)
+    - Power to give directions to insolvency practitioner
+      - [Sch. 17A para. 35](schedule/17A/paragraph/35.md)
+  - Part 4 Fees
+    - [Sch. 17A para. 36](schedule/17A/paragraph/36.md)
+    - [Sch. 17A para. 37](schedule/17A/paragraph/37.md)
+- SCHEDULE 18 Mutuals
+  - Part I Friendly Societies
+    - The Friendly Societies Act 1974 (c.46)
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - The Friendly Societies Act 1992 (c.40)
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Part II Friendly Societies: Subsidiaries and Controlled Bodies
+    - Interpretation
+      - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - Qualifying bodies
+      - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - Bodies controlled by societies
+      - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - Joint control by societies
+      - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - Acquisition of joint control
+      - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - Amendment of Schedule 8 to the 1992 Act
+      - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - Consequential amendments
+      - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - References in other enactments
+      - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+  - Part III Building Societies
+    - The Building Societies Act 1986 (c.53)
+      - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+      - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - Part IV Industrial and Provident Societies
+    - The Industrial and Provident Societies Act 1965 (c.12)
+      - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+      - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+  - Part V Credit Unions
+    - The Credit Unions Act 1979 (c.34)
+      - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+      - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+      - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+      - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+      - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+      - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+- SCHEDULE 19
+  - Part I Persons and functions for the purposes of section 351
+    - [Sch. 19 Pt. I para. 1](schedule/19/part/I/paragraph/1.md)
+  - Part II The enactments
+    - [Sch. 19 Pt. II para. 1](schedule/19/part/II/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+- SCHEDULE 19A The manager of a write-down order
+  - [Sch. 19A para. 1 Application of Schedule](schedule/19A/paragraph/1.md)
+  - [Sch. 19A para. 2 Status of the manager](schedule/19A/paragraph/2.md)
+  - [Sch. 19A para. 3 Monitoring the insurer’s affairs](schedule/19A/paragraph/3.md)
+  - [Sch. 19A para. 4 Application by manager to revoke or vary a write-down order](schedule/19A/paragraph/4.md)
+  - [Sch. 19A para. 5 Provision of information and assistance to the manager](schedule/19A/paragraph/5.md)
+  - [Sch. 19A para. 6 Application by manager for directions](schedule/19A/paragraph/6.md)
+  - [Sch. 19A para. 7 Challenges to the manager’s actions](schedule/19A/paragraph/7.md)
+- SCHEDULE 19B Further provision about write-down orders
+  - PART 1 Restrictions on enforcement
+    - [Sch. 19B para. 1 Application of this Part of this Schedule](schedule/19B/paragraph/1.md)
+    - [Sch. 19B para. 2 Moratorium on proceedings](schedule/19B/paragraph/2.md)
+    - [Sch. 19B para. 3 Exceptions](schedule/19B/paragraph/3.md)
+  - PART 2 Dealing with assets etc
+    - [Sch. 19B para. 4 Application of this Part of this Schedule](schedule/19B/paragraph/4.md)
+    - [Sch. 19B para. 5 Dealing with assets](schedule/19B/paragraph/5.md)
+    - [Sch. 19B para. 6 Paying variable remuneration](schedule/19B/paragraph/6.md)
+    - [Sch. 19B para. 7 Distributions](schedule/19B/paragraph/7.md)
+  - PART 3 Treatment of written-down liabilities for certain purposes
+    - [Sch. 19B para. 8 Application of this Part of this Schedule](schedule/19B/paragraph/8.md)
+    - [Sch. 19B para. 9 Relevant insolvency provisions](schedule/19B/paragraph/9.md)
+    - [Sch. 19B para. 10 Reinsurance contracts](schedule/19B/paragraph/10.md)
+  - PART 4 Interest
+    - [Sch. 19B para. 11](schedule/19B/paragraph/11.md)
+- SCHEDULE 19C Insurers in financial difficulties: enforcement of contracts
+  - PART 1 Introductory
+    - [Sch. 19C para. 1 Application of this Schedule](schedule/19C/paragraph/1.md)
+    - [Sch. 19C para. 2 “Financial difficulties”](schedule/19C/paragraph/2.md)
+  - PART 2 Policyholder surrender rights
+    - [Sch. 19C para. 3 Restriction on policyholder surrender rights](schedule/19C/paragraph/3.md)
+    - [Sch. 19C para. 4 Switching rights](schedule/19C/paragraph/4.md)
+    - [Sch. 19C para. 5 Consent to exceed surrender limit](schedule/19C/paragraph/5.md)
+  - PART 3 Termination etc of relevant contracts
+    - [Sch. 19C para. 6 Relevant contracts](schedule/19C/paragraph/6.md)
+    - [Sch. 19C para. 7 Restriction on termination etc](schedule/19C/paragraph/7.md)
+    - [Sch. 19C para. 8 Consent to terminate relevant contracts](schedule/19C/paragraph/8.md)
+  - PART 4 Exclusions and disapplication of this Schedule
+    - [Sch. 19C para. 9 Exclusions](schedule/19C/paragraph/9.md)
+    - [Sch. 19C para. 10 Disapplication of this Schedule by the court](schedule/19C/paragraph/10.md)
+    - [Sch. 19C para. 11 Procedure](schedule/19C/paragraph/11.md)
+  - PART 5 Powers to amend this Schedule
+    - [Sch. 19C para. 12](schedule/19C/paragraph/12.md)
+- SCHEDULE 20 Minor and Consequential Amendments
+  - The House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - The Civil Jurisdiction and Judgments Act 1982 (c. 27)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - The Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - The Finance Act 1991 (c. 31)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - The Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - The Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+- SCHEDULE 21 Transitional Provisions and Savings
+  - Self-regulating organisations
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Self-regulating organisations for friendly societies
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+- SCHEDULE 22 Repeals
