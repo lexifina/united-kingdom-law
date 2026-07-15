@@ -1,0 +1,414 @@
+# Care Act 2014
+
+2014 c. 23. Enacted 2014-05-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
+
+Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
+
+## Contents
+
+- PART 1 Care and support
+  - General responsibilities of local authorities
+    - [s. 1 Promoting individual well-being](section/1.md)
+    - [s. 2 Preventing needs for care and support](section/2.md)
+    - [s. 3 Promoting integration of care and support with health services etc.](section/3.md)
+    - [s. 4 Providing information and advice](section/4.md)
+    - [s. 5 Promoting diversity and quality in provision of services](section/5.md)
+    - [s. 6 Co-operating generally](section/6.md)
+    - [s. 7 Co-operating in specific cases](section/7.md)
+  - Meeting needs for care etc.
+    - [s. 8 How to meet needs](section/8.md)
+  - Assessing needs
+    - [s. 9 Assessment of an adult’s needs for care and support](section/9.md)
+    - [s. 10 Assessment of a carer’s needs for support](section/10.md)
+    - [s. 11 Refusal of assessment](section/11.md)
+    - [s. 12 Assessments under sections 9 and 10: further provision](section/12.md)
+    - [s. 13 The eligibility criteria](section/13.md)
+  - Charging and assessing financial resources
+    - [s. 14 Power of local authority to charge](section/14.md)
+    - [s. 15 Cap on care costs](section/15.md)
+    - [s. 16 Cap on care costs: annual adjustment](section/16.md)
+    - [s. 17 Assessment of financial resources](section/17.md)
+  - Duties and powers to meet needs
+    - [s. 18 Duty to meet needs for care and support](section/18.md)
+    - [s. 19 Power to meet needs for care and support](section/19.md)
+    - [s. 20 Duty and power to meet a carer’s needs for support](section/20.md)
+    - [s. 21 Exception for persons subject to immigration control](section/21.md)
+    - [s. 22 Exception for provision of health services](section/22.md)
+    - [s. 23 Exception for provision of housing etc.](section/23.md)
+  - Next steps after assessments
+    - [s. 24 The steps for the local authority to take](section/24.md)
+    - [s. 25 Care and support plan, support plan](section/25.md)
+    - [s. 26 Personal budget](section/26.md)
+    - [s. 27 Review of care and support plan or of support plan](section/27.md)
+    - [s. 28 Independent personal budget](section/28.md)
+    - [s. 29 Care account](section/29.md)
+    - [s. 30 Cases where adult expresses preference for particular accommodation](section/30.md)
+  - Direct payments
+    - [s. 31 Adults with capacity to request direct payments](section/31.md)
+    - [s. 32 Adults without capacity to request direct payments](section/32.md)
+    - [s. 33 Direct payments: further provision](section/33.md)
+  - Deferred payment agreements, etc.
+    - [s. 34 Deferred payment agreements and loans](section/34.md)
+    - [s. 35 Deferred payment agreements and loans: further provision](section/35.md)
+    - [s. 36 Alternative financial arrangements](section/36.md)
+  - Continuity of care and support when adult moves
+    - [s. 37 Notification, assessment, etc.](section/37.md)
+    - [s. 38 Case where assessments not complete on day of move](section/38.md)
+  - Establishing where a person lives, etc.
+    - [s. 39 Where a person’s ordinary residence is](section/39.md)
+    - [s. 40 Disputes about ordinary residence or continuity of care](section/40.md)
+    - [s. 41 Financial adjustments between local authorities](section/41.md)
+  - Safeguarding adults at risk of abuse or neglect
+    - [s. 42 Enquiry by local authority](section/42.md)
+    - [s. 43 Safeguarding Adults Boards](section/43.md)
+    - [s. 44 Safeguarding adults reviews](section/44.md)
+    - [s. 45 Supply of information](section/45.md)
+    - [s. 46 Abolition of local authority’s power to remove persons in need of care](section/46.md)
+    - [s. 47 Protecting property of adults being cared for away from home](section/47.md)
+  - Provider failure
+    - [s. 48 Temporary duty on local authority](section/48.md)
+    - [s. 49 Section 48: cross-border cases](section/49.md)
+    - [s. 50 Temporary duty on local authority in Wales](section/50.md)
+    - [s. 51 Temporary duty on Health and Social Care trust in Northern Ireland](section/51.md)
+    - [s. 52 Sections 48 to 51: supplementary](section/52.md)
+  - Market oversight
+    - [s. 53 Specifying criteria for application of market oversight regime](section/53.md)
+    - [s. 54 Determining whether criteria apply to care provider](section/54.md)
+    - [s. 55 Assessment of financial sustainability of care provider](section/55.md)
+    - [s. 56 Informing local authorities where failure of care provider likely](section/56.md)
+    - [s. 56A Provision of information to the Secretary of State](section/56A.md)
+    - [s. 57 Sections 54 to 56: supplementary](section/57.md)
+  - Transition for children to adult care and support, etc.
+    - [s. 58 Assessment of a child’s needs for care and support](section/58.md)
+    - [s. 59 Child’s needs assessment: requirements etc.](section/59.md)
+    - [s. 60 Assessment of a child’s carer’s needs for support](section/60.md)
+    - [s. 61 Child’s carer’s assessment: requirements etc.](section/61.md)
+    - [s. 62 Power to meet child’s carer’s needs for support](section/62.md)
+    - [s. 63 Assessment of a young carer’s needs for support](section/63.md)
+    - [s. 64 Young carer’s assessment: requirements etc.](section/64.md)
+    - [s. 65 Assessments under sections 58 to 64: further provision](section/65.md)
+    - [s. 66 Continuity of services under other legislation](section/66.md)
+  - Independent advocacy support
+    - [s. 67 Involvement in assessments, plans etc.](section/67.md)
+    - [s. 68 Safeguarding enquiries and reviews](section/68.md)
+  - Enforcement of debts
+    - [s. 69 Recovery of charges, interest etc.](section/69.md)
+    - [s. 70 Transfer of assets to avoid charges](section/70.md)
+  - Review of funding provisions
+    - [s. 71 Five-yearly review by Secretary of State](section/71.md)
+  - Appeals
+    - [s. 72 Part 1 appeals](section/72.md)
+  - Default by local authority
+    - [s. 72A Default power of Secretary of State](section/72A.md)
+    - [s. 72B Default power of Secretary of State: supplementary](section/72B.md)
+  - Miscellaneous
+    - [s. 73 Human Rights Act 1998: provision of regulated care or support etc a public function](section/73.md)
+    - [s. 74 Discharge of hospital patients with care and support needs](section/74.md)
+    - [s. 75 After-care under the Mental Health Act 1983](section/75.md)
+    - [s. 76 Prisoners and persons in approved premises etc.](section/76.md)
+    - [s. 77 Registers of sight-impaired adults, disabled adults, etc.](section/77.md)
+    - [s. 78 Guidance, etc.](section/78.md)
+    - [s. 79 Delegation of local authority functions](section/79.md)
+  - General
+    - [s. 80 Part 1: interpretation](section/80.md)
+- PART 2 Care standards
+  - Quality of services
+    - [s. 81 Duty of candour](section/81.md)
+    - [s. 82 Warning notice](section/82.md)
+    - [s. 83 Imposition of licence conditions on NHS foundation trusts](section/83.md)
+    - [s. 84 Trust special administration: appointment of administrator](section/84.md)
+    - [s. 85 Trust special administration: objective, consultation and reports](section/85.md)
+  - Care Quality Commission
+    - [s. 86 Restriction on applications for variation or removal of conditions](section/86.md)
+    - [s. 87 Rights of appeal](section/87.md)
+    - [s. 88 Unitary board](section/88.md)
+  - Increasing the independence of the Care Quality Commission
+    - [s. 89 Chief Inspectors](section/89.md)
+    - [s. 90 Independence of the Care Quality Commission](section/90.md)
+  - Performance ratings
+    - [s. 91 Reviews and performance assessments](section/91.md)
+  - False or misleading information
+    - [s. 92 Offence](section/92.md)
+    - [s. 93 Penalties](section/93.md)
+    - [s. 94 Offences by bodies](section/94.md)
+  - Regulated activities
+    - [s. 95 Training for persons working in regulated activity](section/95.md)
+- PART 3 Health
+  - CHAPTER 1 The Education and Training Functions of NHS England
+    - Establishment
+      - [s. 96 Health Education England](section/96.md)
+    - National functions
+      - [s. 97 Planning education and training for health care workers etc.](section/97.md)
+      - [s. 98 Ensuring sufficient skilled health care workers for the health service](section/98.md)
+      - [s. 99 Quality improvement in education and training, etc.](section/99.md)
+      - [s. 100 Objectives, priorities and outcomes](section/100.md)
+      - [s. 101 Sections 98 and 100: matters to which NHS England must have regard](section/101.md)
+      - [s. 102 Advice](section/102.md)
+    - ...
+      - [s. 103 Local Education and Training Boards](section/103.md)
+      - [s. 104 LETBs: appointment etc.](section/104.md)
+      - [s. 105 LETBs: co-operation by providers of health services](section/105.md)
+      - [s. 106 Education and training plans](section/106.md)
+      - [s. 107 Commissioning education and training](section/107.md)
+    - Tariffs
+      - [s. 108 Tariffs](section/108.md)
+  - CHAPTER 2 Health Research Authority
+    - Establishment
+      - [s. 109 The Health Research Authority](section/109.md)
+    - General functions
+      - [s. 110 The HRA’s functions](section/110.md)
+    - Regulatory practice
+      - [s. 111 Co-ordinating and promoting regulatory practice etc.](section/111.md)
+    - Research ethics committees
+      - [s. 112 The HRA’s policy on research ethics committees](section/112.md)
+      - [s. 113 Approval of research](section/113.md)
+      - [s. 114 Recognition by the HRA](section/114.md)
+      - [s. 115 Establishment by the HRA](section/115.md)
+      - [s. 116 Membership of the United Kingdom Ethics Committee Authority](section/116.md)
+    - Patient information
+      - [s. 117 Approval for processing confidential patient information](section/117.md)
+  - CHAPTER 3 Chapters 1 and 2: supplementary
+    - Miscellaneous
+      - [s. 118 Transfer orders](section/118.md)
+    - General
+      - [s. 119 Chapters 1 and 2: interpretation and supplementary provision](section/119.md)
+  - CHAPTER 4 Trust special administration
+    - [s. 120 Powers of administrator etc.](section/120.md)
+- PART 4 Health and social care
+  - Integration fund
+    - [s. 121 Integration of care and support with health services etc: integration fund](section/121.md)
+  - Information
+    - [s. 122 The Health and Social Care Information Centre: restrictions on dissemination of information](section/122.md)
+- PART 5 General
+  - [s. 123 Power to make consequential provision](section/123.md)
+  - [s. 124 Power to make transitional etc. provision](section/124.md)
+  - [s. 125 Regulations and orders](section/125.md)
+  - [s. 126 General interpretation](section/126.md)
+  - [s. 127 Commencement](section/127.md)
+  - [s. 128 Extent and application](section/128.md)
+  - [s. 129 Short title](section/129.md)
+- SCHEDULE 1 Cross-border placements
+  - Placements from England to Wales, Scotland or Northern Ireland
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Placements from Wales to England, Scotland or Northern Ireland
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Placements from Scotland to England, Wales or Northern Ireland
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Placements from Northern Ireland to England, Wales or Scotland
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Dispute resolution
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Financial adjustments
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Provision of NHS accommodation not to affect deemed ordinary residence etc.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Direct payments
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Particular types of accommodation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Regulations
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Interpretation
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Consequential provision
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Transitory provision
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Safeguarding Adults Boards
+  - Membership, etc.
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Funding and other resources
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Strategic plan
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Annual report
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Discharge of hospital patients with care and support needs
+  - Cases where hospital patient is likely to have care and support needs after discharge
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Assessment notice given by responsible NHS body to local authority
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Cases where discharge of the patient is delayed
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Delegation to management of independent hospital
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Adjustments between local authorities
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Meaning of “hospital patient”, “NHS hospital, “NHS body”, etc.
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Further provision about assessment notices, discharge notices, etc.
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Direct payments: after-care under the Mental Health Act 1983
+  - PART 1 After-care under the Mental Health Act 1983: direct payments
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Provision to be inserted in Social Services and Well-Being (Wales) Act 2014
+- SCHEDULE 5 Health Education England
+  - PART 1 Constitution
+    - Membership
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Non-executive members: terms of office
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Non-executive members: suspension from office
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Non-executive members: pay
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Employees: terms of office
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Employees: pay
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Committees and sub-committees
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Procedure
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Seal and evidence
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Status of HEE
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - PART 2 Functions
+    - Exercise of functions
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Help or advice for other public authorities
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Co-operation
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - NHS contracts
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Arrangements with devolved authorities
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Failure to exercise functions
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 3 Finance and reports
+    - Funding
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Financial duties: expenditure
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Financial duties: use of generated income
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Financial duties: controls on total resource use
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Financial duties: additional controls on resource use
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Losses and liabilities etc
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Accounts
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Annual accounts
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Interim accounts
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Annual report
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - PART 4 Consequential amendments
+    - Public Records Act 1958
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Public Bodies (Admission to Meetings) Act 1960
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - Parliamentary Commissioner Act 1967
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - House of Commons Disqualification Act 1975
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Copyright, Designs and Patents Act 1988
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Freedom of Information Act 2000
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - Equality Act 2010
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+- SCHEDULE 6 Local Education and Training Boards
+  - The area for which an LETB is appointed
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Assessment of whether the appointment criteria are being met in relation to LETBs
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Publication and review of the appointment criteria
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Exercise of functions
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 The Health Research Authority
+  - PART 1 Constitution
+    - Membership
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Non-executive members: terms of office
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Non-executive members: suspension from office
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Non-executive members: pay
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Employees: terms of office
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Employees: pay
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Committees and sub-committees
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Procedure
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Seal and evidence
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Status of the HRA
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - PART 2 Functions
+    - Exercise of functions
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Help or advice for other public authorities
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Arrangements with devolved authorities
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Failure to exercise functions
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - PART 3 Finance and reports
+    - Funding
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Fees and indemnities
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Accounts
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Annual report
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - PART 4 Consequential amendments
+    - Public Records Act 1958
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Public Bodies (Admission to Meetings) Act 1960
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Parliamentary Commissioner Act 1967
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - House of Commons Disqualification Act 1975
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Copyright, Designs and Patents Act 1988
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Freedom of Information Act 2000
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Equality Act 2010
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+- SCHEDULE 8 Research ethics committees: amendments
+  - Ionising Radiation (Medical Exposure) Regulations 2000 (S.I. 2000/1059)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2000 (S.R. 2000/194)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Health Service (Control of Patient Information) Regulations 2002 (S.I. 2002/1438)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Nursing Homes Regulations (Northern Ireland) 2005 (S.R. 2005/160)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Residential Care Homes Regulations (Northern Ireland) 2005 (S.R. 2005/161)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Independent Health Care Regulations (Northern Ireland) 2005 (S.R. 2005/174)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Approval of Research on Organs No Longer Required for Procurator Fiscal Purposes (Specified Purposes) (Scotland) Order 2006 (S.S.I. 2006/310)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Human Tissue Act 2004 (Ethical Approval, Exceptions from Licensing and Supply of Information about Transplants) Regulations 2006 (S.I. 2006/1260)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Mental Capacity Act 2005 (Appropriate Body) (England) Regulations 2006 (S.I. 2006/2810)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Mental Capacity Act 2005 (Appropriate Body) (Wales) Regulations 2007 (S.I. 2007/833)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Human Fertilisation and Embryology (Disclosure of Information for Research Purposes) Regulations 2010 (S.I. 2010/995)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Independent Health Care (Wales) Regulations 2011 (S.I. 2011/734)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
