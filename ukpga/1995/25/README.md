@@ -1,0 +1,1035 @@
+# Environment Act 1995
+
+1995 c. 25. Enacted 1995-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 42 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
+
+Source: https://www.legislation.gov.uk/ukpga/1995/25/2026-07-16
+
+## Contents
+
+- Part I The Environment Agency and the Scottish Environment Protection Agency
+  - Chapter I The Environment Agency
+    - Establishment of the Agency
+      - [s. 1 The Environment Agency.](section/1.md)
+    - Transfer of functions, property etc. to the Agency
+      - [s. 2 Transfer of functions to the Agency.](section/2.md)
+      - [s. 3 Transfer of property, rights and liabilities to the Agency.](section/3.md)
+      - [s. 4 Principal aim and objectives of the Agency.](section/4.md)
+  - Chapter 1A General functions of the Agency and the Natural Resources Body for Wales
+    - [s. 5 General functions with respect to pollution control.](section/5.md)
+    - [s. 6 General provisions with respect to water.](section/6.md)
+    - [s. 7 General environmental and recreational duties.](section/7.md)
+    - [s. 8 Environmental duties with respect to sites of special interest.](section/8.md)
+    - [s. 9 Codes of practice with respect to environmental and recreational duties.](section/9.md)
+    - [s. 9A Duty of the Agency to cooperate with the Natural Resources Body for Wales](section/9A.md)
+    - [s. 10 Incidental functions of the Agency and the Natural Resources Body for Wales.](section/10.md)
+    - Advisory committees
+      - [s. 11 Advisory committee for Wales.](section/11.md)
+      - [s. 12 Environment protection advisory committees.](section/12.md)
+      - [s. 13 Regional and local fisheries advisory committees.](section/13.md)
+    - Flood defence committees
+      - [s. 14 Regional flood defence committees.](section/14.md)
+      - [s. 15 Composition of regional flood defence committees.](section/15.md)
+      - [s. 16 Change of composition of regional flood defence committee.](section/16.md)
+      - [s. 16A Power to alter composition of regional flood defence committees in Wales](section/16A.md)
+      - [s. 16B Effect of order under section 16A](section/16B.md)
+      - [s. 17 Local flood defence schemes and local flood defence committees.](section/17.md)
+      - [s. 18 Composition of local flood defence committees.](section/18.md)
+      - [s. 18A Power to revoke local flood defence schemes](section/18A.md)
+      - [s. 19 Membership and proceedings of flood defence committees.](section/19.md)
+  - Chapter II The Scottish Environment Protection Agency
+    - Establishment of SEPA
+      - [s. 20 The Scottish Environment Protection Agency.](section/20.md)
+      - [s. 20A General purpose of SEPA](section/20A.md)
+    - Transfer of functions, property etc. to SEPA
+      - [s. 21 Transfer of functions to SEPA.](section/21.md)
+      - [s. 22 Transfer of property, rights and liabilities to SEPA.](section/22.md)
+      - [s. 23 Functions of staff commission.](section/23.md)
+    - Other functions etc. of SEPA
+      - [s. 24 Consultation with respect to drainage works.](section/24.md)
+      - [s. 25 Assessing flood risk.](section/25.md)
+      - [s. 26 Power of SEPA to purchase land compulsorily.](section/26.md)
+      - [s. 27 Power of SEPA to obtain information about land.](section/27.md)
+      - [s. 28 Power of SEPA to promote or oppose private legislation.](section/28.md)
+      - [s. 29 Procedure relating to making of byelaws.](section/29.md)
+      - [s. 30 Records held by SEPA.](section/30.md)
+    - General powers and duties
+      - [s. 31 Guidance on SEPA’s general purpose and on sustainable development and other aims and objectives.](section/31.md)
+      - [s. 32 General environmental and recreational duties.](section/32.md)
+      - [s. 33 General duties as respects the state of the environment and effects of pollution.](section/33.md)
+      - [s. 34 General duties with respect to water.](section/34.md)
+      - [s. 35 Environmental duties as respects Natural Heritage Areas and sites of special interest.](section/35.md)
+      - [s. 36 Codes of practice with respect to environmental and recreational duties.](section/36.md)
+  - Chapter III Miscellaneous, General and Supplemental Provisions Relating to the New Agencies and the Natural Resources Body for Wales
+    - Additional general powers and duties
+      - [s. 37 Incidental general functions.](section/37.md)
+      - [s. 38 Delegation of functions by Ministers etc. to the new Agencies.](section/38.md)
+      - [s. 39 General duty of the Agency to have regard to costs and benefits in exercising powers.](section/39.md)
+      - [s. 40 Ministerial directions to the new Agencies.](section/40.md)
+    - Charging schemes
+      - [s. 41 Power to make schemes imposing charges.](section/41.md)
+      - [s. 41A Charges in respect of the EU greenhouse gas emissions trading scheme](section/41A.md)
+      - [s. 41B Charging schemes in respect of abstraction and impounding licences: joint charging schemes](section/41B.md)
+      - [s. 41C Charging schemes in respect of abstraction and impounding licences: cross-border arrangements](section/41C.md)
+      - [s. 42 Approval of charging schemes.](section/42.md)
+    - Incidental power to impose charges
+      - [s. 43 Incidental power of the new Agencies to impose charges.](section/43.md)
+    - General financial provisions
+      - [s. 44 General financial duties.](section/44.md)
+      - [s. 45 Accounts and records.](section/45.md)
+      - [s. 46 Audit.](section/46.md)
+      - [s. 46A Audit: SEPA](section/46A.md)
+      - [s. 47 Grants to the new Agencies.](section/47.md)
+      - [s. 48 Borrowing powers.](section/48.md)
+      - [s. 49 Government loans to the new Agencies.](section/49.md)
+      - [s. 50 Government guarantees of a new Agency’s borrowing.](section/50.md)
+    - Information
+      - [s. 51 Provision of information by the new Agencies.](section/51.md)
+      - [s. 52 Annual report.](section/52.md)
+    - Supplemental provisions
+      - [s. 53 Inquiries and other hearings.](section/53.md)
+      - [s. 54 Appearance in legal proceedings.](section/54.md)
+      - [s. 55 Continuity of exercise of functions: the new Agencies.](section/55.md)
+      - [s. 56 Interpretation of Part I.](section/56.md)
+- Part II Contaminated Land and Abandoned Mines
+  - [s. 57 Contaminated land.](section/57.md)
+  - [s. 58 Abandoned mines: England and Wales.](section/58.md)
+  - [s. 59 Abandoned mines: Scotland.](section/59.md)
+  - [s. 60 Amendments to sections 89 and 161 of the Water Resources Act 1991.](section/60.md)
+- Part III National Parks
+  - Purposes of National Parks
+    - [s. 61 Purposes of National Parks.](section/61.md)
+    - [s. 62 Duty of certain bodies and persons to have regard to the purposes for which National Parks are designated.](section/62.md)
+  - Establishment of National Park authorities
+    - [s. 63 Establishment of National Park authorities.](section/63.md)
+    - [s. 64 National Park authorities in Wales.](section/64.md)
+  - Functions of National Park authorities
+    - [s. 65 General purposes and powers.](section/65.md)
+    - [s. 65A English National Park authorities: general powers](section/65A.md)
+    - [s. 65B Boundaries of powers under section 65A](section/65B.md)
+    - [s. 65C Power to make provision supplemental to section 65A](section/65C.md)
+    - [s. 65D Procedure etc for regulations under section 65C](section/65D.md)
+    - [s. 66 National Park Management Plans.](section/66.md)
+    - [s. 66A National Park Management Plans (England): further provision](section/66A.md)
+    - [s. 66B Regulations under section 66A: procedure etc](section/66B.md)
+    - [s. 67 National Park authority to be local planning authority.](section/67.md)
+    - [s. 68 Planning authority functions under National Parks legislation etc.](section/68.md)
+    - [s. 69 Planning authority functions under the Wildlife and Countryside Act 1981.](section/69.md)
+    - [s. 70 Other statutory functions.](section/70.md)
+  - Finances of National Park authorities
+    - [s. 71 National Park authorities to be levying bodies.](section/71.md)
+    - [s. 72 National Park grant.](section/72.md)
+    - [s. 73 Capital finances and borrowing.](section/73.md)
+    - [s. 74 Validation of certain grants paid to local authorities in respect of expenditure relating to National Parks.](section/74.md)
+  - Supplemental provisions
+    - [s. 75 Powers to make orders.](section/75.md)
+    - [s. 76 Agreements as to incidental matters.](section/76.md)
+    - [s. 77 Isles of Scilly.](section/77.md)
+    - [s. 78 Minor and consequential amendments relating to National Parks.](section/78.md)
+    - [s. 79 Interpretation of Part III.](section/79.md)
+- Part IV Air Quality
+  - [s. 80 National air quality strategy.](section/80.md)
+  - [s. 80A Duty to report on air quality in England](section/80A.md)
+  - [s. 81 Functions of the new Agencies.](section/81.md)
+  - [s. 81A Functions of relevant public authorities etc](section/81A.md)
+  - [s. 81B Functions of relevant Welsh public authorities etc.](section/81B.md)
+  - [s. 82 Local authority reviews.](section/82.md)
+  - [s. 83 Designation of air quality management areas.](section/83.md)
+  - [s. 83A Duties of English local authorities in relation to designated areas](section/83A.md)
+  - [s. 83B Duties of Welsh local authorities in relation to designated areas](section/83B.md)
+  - [s. 84 Duties of Scottish ... local authorities in relation to designated areas.](section/84.md)
+  - [s. 85 Reserve powers of the Secretary of State or SEPA.](section/85.md)
+  - [s. 85A Duty of air quality partners to co-operate](section/85A.md)
+  - [s. 85B Role of air quality partners in relation to action plans](section/85B.md)
+  - [s. 86 Functions of county councils for areas for which there are district councils.](section/86.md)
+  - [s. 86A Role of the Mayor of London in relation to action plans.](section/86A.md)
+  - [s. 86B Role of combined authorities in relation to action plans](section/86B.md)
+  - [s. 86C Role of combined county authorities in relation to action plans](section/86C.md)
+  - [s. 87 Regulations for the purposes of Part IV.](section/87.md)
+  - [s. 88](section/88.md)
+  - [s. 89](section/89.md)
+  - [s. 90 Supplemental provisions.](section/90.md)
+  - [s. 91 Interpretation of Part IV.](section/91.md)
+- Part V Miscellaneous, General and Supplemental Provisions
+  - Waste
+    - [s. 92 National waste strategy.](section/92.md)
+    - [s. 93 Producer responsibility: general.](section/93.md)
+    - [s. 94 Producer responsibility: supplementary provisions.](section/94.md)
+    - [s. 94A Producer responsibility: competition matters.](section/94A.md)
+    - [s. 95 Producer responsibility: offences.](section/95.md)
+    - [s. 96 Mineral planning permissions](section/96.md)
+  - Hedgerows etc.
+    - [s. 97 Hedgerows.](section/97.md)
+    - [s. 98 Grants for purposes conducive to conservation.](section/98.md)
+    - [s. 99 Consultation before making or modifying certain subordinate legislation for England.](section/99.md)
+  - Drainage
+    - [s. 100 Meaning of “drainage” in certain enactments.](section/100.md)
+    - [s. 101 Grants in connection with drainage works.](section/101.md)
+  - Fisheries
+    - [s. 102 Sea fisheries.](section/102.md)
+    - [s. 103 Other marine or aquatic environmental conservation powers.](section/103.md)
+    - [s. 104 Fixed penalty system for certain fisheries offences.](section/104.md)
+    - [s. 105 Minor and consequential amendments relating to fisheries.](section/105.md)
+  - New provisions for Scotland
+    - [s. 106 Control of pollution of water in Scotland.](section/106.md)
+    - [s. 107 Statutory nuisances: Scotland.](section/107.md)
+  - Enforcement
+    - [s. 108 Powers of enforcing authorities and persons authorised by them.](section/108.md)
+    - [s. 108A Procedure where documents removed](section/108A.md)
+    - [s. 109 Power to deal with cause of imminent danger of serious pollution etc.](section/109.md)
+    - [s. 109A Power to issue restriction notices: England and Wales](section/109A.md)
+    - [s. 109B Cancellation or variation of restriction notices](section/109B.md)
+    - [s. 109C Service of restriction notices etc.](section/109C.md)
+    - [s. 109D Power of court to make restriction orders: England and Wales](section/109D.md)
+    - [s. 109E Temporary orders](section/109E.md)
+    - [s. 109F Extension of restriction orders](section/109F.md)
+    - [s. 109G Variation or discharge of restriction orders](section/109G.md)
+    - [s. 109H Enforcement of restriction orders](section/109H.md)
+    - [s. 109I Appeals against decisions on restriction orders](section/109I.md)
+    - [s. 109J Access to other premises](section/109J.md)
+    - [s. 109K Recovery of costs](section/109K.md)
+    - [s. 109L Exemption from liability](section/109L.md)
+    - [s. 109M Compensation](section/109M.md)
+    - [s. 109N Interpretation](section/109N.md)
+    - [s. 110 Offences.](section/110.md)
+  - Further enforcement powers: Scotland
+    - [s. 110A Search and seizure of vehicles, etc.](section/110A.md)
+    - [s. 110B Offences of obstructing, not co-operating, etc.](section/110B.md)
+    - [s. 110C Handling of seized property](section/110C.md)
+    - [s. 110D Power to apply enforcement powers in respect of offences](section/110D.md)
+  - Evidence
+    - [s. 111 Evidence in connection with certain pollution offences.](section/111.md)
+  - Offences
+    - [s. 112 Amendment of certain offences relating to false or misleading statements or false entries.](section/112.md)
+  - Information
+    - [s. 113 Disclosure of information.](section/113.md)
+  - Appeals
+    - [s. 114 Power of Secretary of State to delegate his functions of determining, or to refer matters involved in, appeals.](section/114.md)
+  - Crown application
+    - [s. 115 Application of this Act to the Crown.](section/115.md)
+    - [s. 116 Application of certain other enactments to the Crown.](section/116.md)
+  - Isles of Scilly
+    - [s. 117 Application of this Act to the Isles of Scilly.](section/117.md)
+    - [s. 118 Application of certain other enactments to the Isles of Scilly.](section/118.md)
+  - Miscellaneous and supplemental
+    - [s. 119 Stamp duty.](section/119.md)
+    - [s. 120 Minor and consequential amendments, transitional and transitory provisions, savings and repeals.](section/120.md)
+    - [s. 121 Local statutory provisions: consequential amendments etc.](section/121.md)
+    - [s. 122 Directions.](section/122.md)
+    - [s. 123 Service of documents.](section/123.md)
+    - [s. 124 General interpretation.](section/124.md)
+    - [s. 125 Short title, commencement, extent, etc.](section/125.md)
+- SCHEDULE 1 The Environment Agency
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Chairman and deputy chairman
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Remuneration, pensions, etc.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Staff
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Proceedings of the Agency
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Delegation of powers
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Members’ interests
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Vacancies and defective appointments
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Minutes
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Application of seal and proof of instruments
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Documents served etc. by or on the Agency
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Interpretation
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Transfers of property etc: supplemental provisions
+  - Part I Introductory
+    - Interpretation
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - The property etc. which may be transferred
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Contracts of employment
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part II Transfer schemes
+    - Description of the property etc. to be transferred by scheme
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Division of property etc. to be transferred by scheme: creation of new rights and interests
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Transfer schemes: incidental, supplemental and consequential provision
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Modification of transfer schemes
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Provision of information and assistance to the Secretary of State and the new Agencies in connection with transfer schemes
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Part III General provisions with respect to transfers by or under section 3 or 22
+    - Consideration
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Continuity
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Remedies
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Perfection of vesting of foreign property, rights and liabilities
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Environment protection advisory committees
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Duty of Agency to prepare and submit schemes for each region
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Approval of schemes
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Replacement and variation of approved membership schemes
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Appointment of members
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Vacancies, defective appointments et ceteralaetc.
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Remuneration and allowances
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Boundaries of regional flood defence areas
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Membership and proceedings of regional and local flood defence committees
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+- SCHEDULE 6 The Scottish Environment Protection Agency
+  - Status
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Membership
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Chairman and deputy chairman
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Remuneration, pensions, etc.
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Staff
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Proceedings
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Committees
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Delegation of powers
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Regional Boards
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Members’ interests
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Minutes
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 National Park authorities
+  - Status and constitution of authorities
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Local authority members
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Parish members of English National Park authorities
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Members (other than parish members) appointed by the Secretary of State
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Chairman and deputy chairman
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Removal of members
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Disqualification of members
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Vacation of office for failure to attend meetings
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Code of conduct for members
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Restrictions on voting on account of interests etc.
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Allowances and time off for members
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Meetings and proceedings of the authority
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Committees and sub-committees and officers
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - National Park Officer
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Personal liability of members and officers
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Liaison with parish and community councils
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Documents, notices, records, byelaws etc.
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Investigation in connection with maladministration etc.
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Audit by Audit Commission auditor etc.
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Meaning of “relevant order”
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+- SCHEDULE 8 Supplemental and incidental powers of National Park authorities
+  - Powers in relation to land etc.
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Miscellaneous transactions and powers
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Transfer of securities on alteration of area
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - The Local Authorities (Goods and Services) Act 1970
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Power to execute works outside Park
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Power to promote Bills
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Competitive tendering etc.
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Restrictions on publicity
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Provisions applying in relation to companies in which authorities have interests
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Provisions as to charges
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Service agency agreements
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Contracting out
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+- SCHEDULE 9 Miscellaneous statutory functions of National Park authorities
+  - Common land etc.
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Open spaces
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Nature reserves
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Caravan sites
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 4A](schedule/9/paragraph/4A.md)
+  - Country Parks
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Provision of information and encouragement of visitors
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Derelict land etc.
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Recreational facilities
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Refuse Disposal
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Ancient Monuments and Archaeological Areas
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Footpaths and bridleways
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Litter
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Listed and historic buildings
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Hazardous substances
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Local Charities
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Overseas Assistance
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Minor and consequential amendments relating to National Parks
+  - The Finance Act 1931 (c. 28)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - The National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - The Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - The Land Compensation Act 1961 (c. 33)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - The Trustee Investments Act 1961 (c. 62)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - The Agriculture Act 1967 (c. 22)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - The Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - The Countryside Act 1968 (c. 41)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - The Employers Liability (Compulsory Insurance) Act 1969 (c. 57)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - The 1972 Act
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - The Employment Agencies Act 1973 (c. 35)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - The Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - The Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Local Land Charges Act 1975 (c. 76)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - The Race Relations Act 1976 (c. 74)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - The Development of Rural Wales Act 1976 (c. 75)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - The Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - The Rent Act 1977 (c. 42)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - The Justices of the Peace Act 1979 (c. 55)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - The Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - The Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - The Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - The County Courts Act 1984 (c. 28)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - The Housing Act 1985 (c. 68)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - The Landlord and Tenant Act 1985 (c. 70)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+  - The Landlord and Tenant Act 1987 (c. 31)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+  - The Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - The Housing Act 1988 (c. 50)
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+  - The Road Traffic Act 1988 (c. 52)
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+  - The Electricity Act 1989 (c. 29)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+  - The Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - The Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+  - The Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Water consolidation legislation
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+  - The Local Government Finance Act 1992 (c. 14)
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+  - The Local Government (Overseas Assistance) Act 1993 (c. 25)
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+  - The Welsh Language Act 1993 (c. 38)
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+  - The Local Government (Wales) Act 1994 (c. 19)
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+- SCHEDULE 11 Air Quality: Supplemental Provisions
+  - Consultation requirements
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Exchange of information with county councils in England
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Joint exercise of local authority functions
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Public access to information about air quality
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Fixed penalty offences
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+- SCHEDULE 12 Schedule 2A to the Environmental Protection Act 1990
+- SCHEDULE 13 Review of Old Mineral Planning Permissions
+  - Interpretation
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Phase I and II sites
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - The “first list”
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - The “second list”
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Advertisement of the first and second lists
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Applications for inclusion in the first list of sites not included in that list as originally prepared and appeals from decisions upon such applications
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Postponement of the date specified in the first or second list for review of the permissions relating to a Phase I or II site in cases where the existing conditions are satisfactory
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Service on owners etc. of notice of preparation of the first and second lists
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Applications for approval of conditions and appeals in cases where the conditions approved are not those proposed
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Notice of determination of conditions to be accompanied by additional information in certain cases
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Right to appeal against mineral planning authority’s determination of conditions etc.
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Permissions ceasing to have effect
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Reference of applications to the Secretary of State
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Two or more applicants
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Compensation
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Appeals: general procedural provisions
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+- SCHEDULE 14 Periodic Review of Mineral Planning Permissions
+  - Power to carry out periodic reviews
+    - [Sch. 14 para. A1](schedule/14/paragraph/A1.md)
+  - Duty to carry out periodic reviews
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Interpretation
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - The first review date: mineral planning authorities in England
+    - [Sch. 14 para. 2A](schedule/14/paragraph/2A.md)
+  - The first review date: mineral planning authorities in Wales
+    - [Sch. 14 para. 2B](schedule/14/paragraph/2B.md)
+  - The relevant date for the purposes of a first periodic review
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 3A](schedule/14/paragraph/3A.md)
+  - Service of notice of first periodic review
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Application for postponement of the first review date
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Application to determine the conditions to which the mineral permissions relating to a mining site are to be subject
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Permissions ceasing to have effect
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Reference of applications to the Secretary of State
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Appeals
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Time from which conditions determined under this Schedule are to take effect
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Two or more applicants
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Second and subsequent periodic reviews
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Compensation
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- SCHEDULE 15 Minor and consequential amendments relating to fisheries
+  - Interpretation
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - General modifications of references to the National Rivers Authority
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Power to amend subordinate legislation etc.
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - The Diseases of Fish Act 1937
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - The Sea Fisheries Regulation Act 1966
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - The Sea Fish (Conservation) Act 1967
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - The Salmon and Freshwater Fisheries Act 1975
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - The Diseases of Fish Act 1983
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - The Salmon Act 1986
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - The Water Resources Act 1991
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+- SCHEDULE 16 Pollution of rivers and coastal waters in Scotland: amendment of the Control of Pollution Act 1974
+  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+- SCHEDULE 17 Statutory nuisances: Scotland
+  - Amendments of the Environmental Protection Act 1990
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - Amendments of the Radioactive Substances Act 1993
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+- SCHEDULE 18 Supplemental provisions with respect to powers of entry
+  - Interpretation
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Issue of warrants
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Manner of exercise of powers
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Information obtained to be admissible in evidence
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Duty to secure premises
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Compensation
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+- SCHEDULE 19 Offences relating to false or misleading statements or false entries
+  - The Control of Pollution Act 1974
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - The Water (Scotland) Act 1980
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - The Control of Pollution (Amendment) Act 1989
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - The Environmental Protection Act 1990
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - The Water Resources Act 1991
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - The Radioactive Substances Act 1993
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+- SCHEDULE 20 Delegation of appellate functions of the Secretary of State
+  - Interpretation
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Appointments
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Powers of appointed person
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Holding of local inquiries and other hearings by appointed persons
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Local inquiries under this Schedule: evidence and costs
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Revocation of appointments and making of new appointments
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Certain acts and omissions of appointed person to be treated as those of the Secretary of State
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+- SCHEDULE 21 Application of certain enactments to the Crown
+  - Part I Enactments Relating to England and Wales
+    - The Water Industry Act 1991
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - The Water Resources Act 1991
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Part II Enactments Relating to Scotland
+    - The Sewerage (Scotland) Act 1968
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - The Control of Pollution Act 1974
+      - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - The Water (Scotland) Act 1980
+      - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - The Local Government etc. (Scotland) Act 1994
+      - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+- SCHEDULE 22 Minor and consequential amendments
+  - The Alkali, &c., Works Regulation Act 1906
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - The Statistics of Trade Act 1947
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - The Rivers (Prevention of Pollution) (Scotland) Act 1951
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - The Public Records Act 1958
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - The Opencast Coal Act 1958
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - The Rivers (Prevention of Pollution) (Scotland) Act 1965
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - The Nuclear Installations Act 1965
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - The Parliamentary Commissioner Act 1967
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+  - The Sewerage (Scotland) Act 1968
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+  - The Local Authorities (Goods and Services) Act 1970
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+  - The Agriculture Act 1970
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+  - The Prevention of Oil Pollution Act 1971
+    - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+  - The Town and Country Planning (Scotland) Act 1972
+    - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+  - The Local Government Act 1972
+    - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+  - The Local Government Act 1974
+    - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+  - The Control of Pollution Act 1974
+    - [Sch. 22 para. 19](schedule/22/paragraph/19.md)
+    - [Sch. 22 para. 20](schedule/22/paragraph/20.md)
+    - [Sch. 22 para. 21](schedule/22/paragraph/21.md)
+    - [Sch. 22 para. 22](schedule/22/paragraph/22.md)
+    - [Sch. 22 para. 23](schedule/22/paragraph/23.md)
+    - [Sch. 22 para. 24](schedule/22/paragraph/24.md)
+    - [Sch. 22 para. 25](schedule/22/paragraph/25.md)
+    - [Sch. 22 para. 26](schedule/22/paragraph/26.md)
+    - [Sch. 22 para. 27](schedule/22/paragraph/27.md)
+    - [Sch. 22 para. 28](schedule/22/paragraph/28.md)
+    - [Sch. 22 para. 29](schedule/22/paragraph/29.md)
+  - The Health and Safety at Work etc. Act 1974
+    - [Sch. 22 para. 30](schedule/22/paragraph/30.md)
+  - The House of Commons Disqualification Act 1975 and the Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 22 para. 31](schedule/22/paragraph/31.md)
+  - The Local Government (Scotland) Act 1975
+    - [Sch. 22 para. 32](schedule/22/paragraph/32.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 22 para. 33](schedule/22/paragraph/33.md)
+  - The Water (Scotland) Act 1980
+    - [Sch. 22 para. 34](schedule/22/paragraph/34.md)
+  - The Criminal Justice (Scotland) Act 1980
+    - [Sch. 22 para. 35](schedule/22/paragraph/35.md)
+  - The Road Traffic Regulation Act 1984
+    - [Sch. 22 para. 36](schedule/22/paragraph/36.md)
+  - The Control of Pollution (Amendment) Act 1989
+    - [Sch. 22 para. 37](schedule/22/paragraph/37.md)
+  - The Electricity Act 1989
+    - [Sch. 22 para. 38](schedule/22/paragraph/38.md)
+    - [Sch. 22 para. 39](schedule/22/paragraph/39.md)
+    - [Sch. 22 para. 40](schedule/22/paragraph/40.md)
+    - [Sch. 22 para. 41](schedule/22/paragraph/41.md)
+  - The Town and Country Planning Act 1990
+    - [Sch. 22 para. 42](schedule/22/paragraph/42.md)
+    - [Sch. 22 para. 43](schedule/22/paragraph/43.md)
+    - [Sch. 22 para. 44](schedule/22/paragraph/44.md)
+  - The Environmental Protection Act 1990
+    - [Sch. 22 para. 45](schedule/22/paragraph/45.md)
+    - [Sch. 22 para. 46](schedule/22/paragraph/46.md)
+    - [Sch. 22 para. 47](schedule/22/paragraph/47.md)
+    - [Sch. 22 para. 48](schedule/22/paragraph/48.md)
+    - [Sch. 22 para. 49](schedule/22/paragraph/49.md)
+    - [Sch. 22 para. 50](schedule/22/paragraph/50.md)
+    - [Sch. 22 para. 51](schedule/22/paragraph/51.md)
+    - [Sch. 22 para. 52](schedule/22/paragraph/52.md)
+    - [Sch. 22 para. 53](schedule/22/paragraph/53.md)
+    - [Sch. 22 para. 54](schedule/22/paragraph/54.md)
+    - [Sch. 22 para. 55](schedule/22/paragraph/55.md)
+    - [Sch. 22 para. 56](schedule/22/paragraph/56.md)
+    - [Sch. 22 para. 57](schedule/22/paragraph/57.md)
+    - [Sch. 22 para. 58](schedule/22/paragraph/58.md)
+    - [Sch. 22 para. 59](schedule/22/paragraph/59.md)
+    - [Sch. 22 para. 60](schedule/22/paragraph/60.md)
+    - [Sch. 22 para. 61](schedule/22/paragraph/61.md)
+    - [Sch. 22 para. 62](schedule/22/paragraph/62.md)
+    - [Sch. 22 para. 63](schedule/22/paragraph/63.md)
+    - [Sch. 22 para. 64](schedule/22/paragraph/64.md)
+    - [Sch. 22 para. 65](schedule/22/paragraph/65.md)
+    - [Sch. 22 para. 66](schedule/22/paragraph/66.md)
+    - [Sch. 22 para. 67](schedule/22/paragraph/67.md)
+    - [Sch. 22 para. 68](schedule/22/paragraph/68.md)
+    - [Sch. 22 para. 69](schedule/22/paragraph/69.md)
+    - [Sch. 22 para. 70](schedule/22/paragraph/70.md)
+    - [Sch. 22 para. 71](schedule/22/paragraph/71.md)
+    - [Sch. 22 para. 72](schedule/22/paragraph/72.md)
+    - [Sch. 22 para. 73](schedule/22/paragraph/73.md)
+    - [Sch. 22 para. 74](schedule/22/paragraph/74.md)
+    - [Sch. 22 para. 75](schedule/22/paragraph/75.md)
+    - [Sch. 22 para. 76](schedule/22/paragraph/76.md)
+    - [Sch. 22 para. 77](schedule/22/paragraph/77.md)
+    - [Sch. 22 para. 78](schedule/22/paragraph/78.md)
+    - [Sch. 22 para. 79](schedule/22/paragraph/79.md)
+    - [Sch. 22 para. 80](schedule/22/paragraph/80.md)
+    - [Sch. 22 para. 81](schedule/22/paragraph/81.md)
+    - [Sch. 22 para. 82](schedule/22/paragraph/82.md)
+    - [Sch. 22 para. 83](schedule/22/paragraph/83.md)
+    - [Sch. 22 para. 84](schedule/22/paragraph/84.md)
+    - [Sch. 22 para. 85](schedule/22/paragraph/85.md)
+    - [Sch. 22 para. 86](schedule/22/paragraph/86.md)
+    - [Sch. 22 para. 87](schedule/22/paragraph/87.md)
+    - [Sch. 22 para. 88](schedule/22/paragraph/88.md)
+    - [Sch. 22 para. 89](schedule/22/paragraph/89.md)
+    - [Sch. 22 para. 90](schedule/22/paragraph/90.md)
+    - [Sch. 22 para. 91](schedule/22/paragraph/91.md)
+    - [Sch. 22 para. 92](schedule/22/paragraph/92.md)
+    - [Sch. 22 para. 93](schedule/22/paragraph/93.md)
+    - [Sch. 22 para. 94](schedule/22/paragraph/94.md)
+    - [Sch. 22 para. 95](schedule/22/paragraph/95.md)
+  - The Natural Heritage (Scotland) Act 1991
+    - [Sch. 22 para. 96](schedule/22/paragraph/96.md)
+  - The Water Industry Act 1991
+    - [Sch. 22 para. 97](schedule/22/paragraph/97.md)
+    - [Sch. 22 para. 98](schedule/22/paragraph/98.md)
+    - [Sch. 22 para. 99](schedule/22/paragraph/99.md)
+    - [Sch. 22 para. 100](schedule/22/paragraph/100.md)
+    - [Sch. 22 para. 101](schedule/22/paragraph/101.md)
+    - [Sch. 22 para. 102](schedule/22/paragraph/102.md)
+    - [Sch. 22 para. 103](schedule/22/paragraph/103.md)
+    - [Sch. 22 para. 104](schedule/22/paragraph/104.md)
+    - [Sch. 22 para. 105](schedule/22/paragraph/105.md)
+    - [Sch. 22 para. 106](schedule/22/paragraph/106.md)
+    - [Sch. 22 para. 107](schedule/22/paragraph/107.md)
+    - [Sch. 22 para. 108](schedule/22/paragraph/108.md)
+    - [Sch. 22 para. 109](schedule/22/paragraph/109.md)
+    - [Sch. 22 para. 110](schedule/22/paragraph/110.md)
+    - [Sch. 22 para. 111](schedule/22/paragraph/111.md)
+    - [Sch. 22 para. 112](schedule/22/paragraph/112.md)
+    - [Sch. 22 para. 113](schedule/22/paragraph/113.md)
+    - [Sch. 22 para. 114](schedule/22/paragraph/114.md)
+    - [Sch. 22 para. 115](schedule/22/paragraph/115.md)
+    - [Sch. 22 para. 116](schedule/22/paragraph/116.md)
+    - [Sch. 22 para. 117](schedule/22/paragraph/117.md)
+    - [Sch. 22 para. 118](schedule/22/paragraph/118.md)
+    - [Sch. 22 para. 119](schedule/22/paragraph/119.md)
+    - [Sch. 22 para. 120](schedule/22/paragraph/120.md)
+    - [Sch. 22 para. 121](schedule/22/paragraph/121.md)
+    - [Sch. 22 para. 122](schedule/22/paragraph/122.md)
+    - [Sch. 22 para. 123](schedule/22/paragraph/123.md)
+    - [Sch. 22 para. 124](schedule/22/paragraph/124.md)
+    - [Sch. 22 para. 125](schedule/22/paragraph/125.md)
+    - [Sch. 22 para. 126](schedule/22/paragraph/126.md)
+    - [Sch. 22 para. 127](schedule/22/paragraph/127.md)
+  - The Water Resources Act 1991
+    - [Sch. 22 para. 128](schedule/22/paragraph/128.md)
+    - [Sch. 22 para. 129](schedule/22/paragraph/129.md)
+    - [Sch. 22 para. 130](schedule/22/paragraph/130.md)
+    - [Sch. 22 para. 131](schedule/22/paragraph/131.md)
+    - [Sch. 22 para. 132](schedule/22/paragraph/132.md)
+    - [Sch. 22 para. 133](schedule/22/paragraph/133.md)
+    - [Sch. 22 para. 134](schedule/22/paragraph/134.md)
+    - [Sch. 22 para. 135](schedule/22/paragraph/135.md)
+    - [Sch. 22 para. 136](schedule/22/paragraph/136.md)
+    - [Sch. 22 para. 137](schedule/22/paragraph/137.md)
+    - [Sch. 22 para. 138](schedule/22/paragraph/138.md)
+    - [Sch. 22 para. 139](schedule/22/paragraph/139.md)
+    - [Sch. 22 para. 140](schedule/22/paragraph/140.md)
+    - [Sch. 22 para. 141](schedule/22/paragraph/141.md)
+    - [Sch. 22 para. 142](schedule/22/paragraph/142.md)
+    - [Sch. 22 para. 143](schedule/22/paragraph/143.md)
+    - [Sch. 22 para. 144](schedule/22/paragraph/144.md)
+    - [Sch. 22 para. 145](schedule/22/paragraph/145.md)
+    - [Sch. 22 para. 146](schedule/22/paragraph/146.md)
+    - [Sch. 22 para. 147](schedule/22/paragraph/147.md)
+    - [Sch. 22 para. 148](schedule/22/paragraph/148.md)
+    - [Sch. 22 para. 149](schedule/22/paragraph/149.md)
+    - [Sch. 22 para. 150](schedule/22/paragraph/150.md)
+    - [Sch. 22 para. 151](schedule/22/paragraph/151.md)
+    - [Sch. 22 para. 152](schedule/22/paragraph/152.md)
+    - [Sch. 22 para. 153](schedule/22/paragraph/153.md)
+    - [Sch. 22 para. 154](schedule/22/paragraph/154.md)
+    - [Sch. 22 para. 155](schedule/22/paragraph/155.md)
+    - [Sch. 22 para. 156](schedule/22/paragraph/156.md)
+    - [Sch. 22 para. 157](schedule/22/paragraph/157.md)
+    - [Sch. 22 para. 158](schedule/22/paragraph/158.md)
+    - [Sch. 22 para. 159](schedule/22/paragraph/159.md)
+    - [Sch. 22 para. 160](schedule/22/paragraph/160.md)
+    - [Sch. 22 para. 161](schedule/22/paragraph/161.md)
+    - [Sch. 22 para. 162](schedule/22/paragraph/162.md)
+    - [Sch. 22 para. 163](schedule/22/paragraph/163.md)
+    - [Sch. 22 para. 164](schedule/22/paragraph/164.md)
+    - [Sch. 22 para. 165](schedule/22/paragraph/165.md)
+    - [Sch. 22 para. 166](schedule/22/paragraph/166.md)
+    - [Sch. 22 para. 167](schedule/22/paragraph/167.md)
+    - [Sch. 22 para. 168](schedule/22/paragraph/168.md)
+    - [Sch. 22 para. 169](schedule/22/paragraph/169.md)
+    - [Sch. 22 para. 170](schedule/22/paragraph/170.md)
+    - [Sch. 22 para. 171](schedule/22/paragraph/171.md)
+    - [Sch. 22 para. 172](schedule/22/paragraph/172.md)
+    - [Sch. 22 para. 173](schedule/22/paragraph/173.md)
+    - [Sch. 22 para. 174](schedule/22/paragraph/174.md)
+    - [Sch. 22 para. 175](schedule/22/paragraph/175.md)
+    - [Sch. 22 para. 176](schedule/22/paragraph/176.md)
+    - [Sch. 22 para. 177](schedule/22/paragraph/177.md)
+    - [Sch. 22 para. 178](schedule/22/paragraph/178.md)
+    - [Sch. 22 para. 179](schedule/22/paragraph/179.md)
+    - [Sch. 22 para. 180](schedule/22/paragraph/180.md)
+    - [Sch. 22 para. 181](schedule/22/paragraph/181.md)
+    - [Sch. 22 para. 182](schedule/22/paragraph/182.md)
+    - [Sch. 22 para. 183](schedule/22/paragraph/183.md)
+    - [Sch. 22 para. 184](schedule/22/paragraph/184.md)
+    - [Sch. 22 para. 185](schedule/22/paragraph/185.md)
+    - [Sch. 22 para. 186](schedule/22/paragraph/186.md)
+    - [Sch. 22 para. 187](schedule/22/paragraph/187.md)
+    - [Sch. 22 para. 188](schedule/22/paragraph/188.md)
+    - [Sch. 22 para. 189](schedule/22/paragraph/189.md)
+    - [Sch. 22 para. 190](schedule/22/paragraph/190.md)
+  - The Land Drainage Act 1991
+    - [Sch. 22 para. 191](schedule/22/paragraph/191.md)
+    - [Sch. 22 para. 192](schedule/22/paragraph/192.md)
+    - [Sch. 22 para. 193](schedule/22/paragraph/193.md)
+    - [Sch. 22 para. 194](schedule/22/paragraph/194.md)
+  - The Clean Air Act 1993
+    - [Sch. 22 para. 195](schedule/22/paragraph/195.md)
+    - [Sch. 22 para. 196](schedule/22/paragraph/196.md)
+    - [Sch. 22 para. 197](schedule/22/paragraph/197.md)
+    - [Sch. 22 para. 198](schedule/22/paragraph/198.md)
+    - [Sch. 22 para. 199](schedule/22/paragraph/199.md)
+  - The Radioactive Substances Act 1993
+    - [Sch. 22 para. 200](schedule/22/paragraph/200.md)
+    - [Sch. 22 para. 201](schedule/22/paragraph/201.md)
+    - [Sch. 22 para. 202](schedule/22/paragraph/202.md)
+    - [Sch. 22 para. 203](schedule/22/paragraph/203.md)
+    - [Sch. 22 para. 204](schedule/22/paragraph/204.md)
+    - [Sch. 22 para. 205](schedule/22/paragraph/205.md)
+    - [Sch. 22 para. 206](schedule/22/paragraph/206.md)
+    - [Sch. 22 para. 207](schedule/22/paragraph/207.md)
+    - [Sch. 22 para. 208](schedule/22/paragraph/208.md)
+    - [Sch. 22 para. 209](schedule/22/paragraph/209.md)
+    - [Sch. 22 para. 210](schedule/22/paragraph/210.md)
+    - [Sch. 22 para. 211](schedule/22/paragraph/211.md)
+    - [Sch. 22 para. 212](schedule/22/paragraph/212.md)
+    - [Sch. 22 para. 213](schedule/22/paragraph/213.md)
+    - [Sch. 22 para. 214](schedule/22/paragraph/214.md)
+    - [Sch. 22 para. 215](schedule/22/paragraph/215.md)
+    - [Sch. 22 para. 216](schedule/22/paragraph/216.md)
+    - [Sch. 22 para. 217](schedule/22/paragraph/217.md)
+    - [Sch. 22 para. 218](schedule/22/paragraph/218.md)
+    - [Sch. 22 para. 219](schedule/22/paragraph/219.md)
+    - [Sch. 22 para. 220](schedule/22/paragraph/220.md)
+    - [Sch. 22 para. 221](schedule/22/paragraph/221.md)
+    - [Sch. 22 para. 222](schedule/22/paragraph/222.md)
+    - [Sch. 22 para. 223](schedule/22/paragraph/223.md)
+    - [Sch. 22 para. 224](schedule/22/paragraph/224.md)
+    - [Sch. 22 para. 225](schedule/22/paragraph/225.md)
+    - [Sch. 22 para. 226](schedule/22/paragraph/226.md)
+    - [Sch. 22 para. 227](schedule/22/paragraph/227.md)
+    - [Sch. 22 para. 228](schedule/22/paragraph/228.md)
+    - [Sch. 22 para. 229](schedule/22/paragraph/229.md)
+    - [Sch. 22 para. 230](schedule/22/paragraph/230.md)
+  - The Local Government (Wales) Act 1994
+    - [Sch. 22 para. 231](schedule/22/paragraph/231.md)
+  - The Local Government etc. (Scotland) Act 1994
+    - [Sch. 22 para. 232](schedule/22/paragraph/232.md)
+  - Subordinate legislation and local statutory provisions
+    - [Sch. 22 para. 233](schedule/22/paragraph/233.md)
+- SCHEDULE 23 Transitional and transitory provisions and savings
+  - Part I General transitional provisions and savings
+    - Interpretation of Part I
+      - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - Directions
+      - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - Regional and local fisheries advisory committees
+      - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - Charging schemes
+      - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - Preparation of reports
+      - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - Preparation of accounts
+      - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - ...
+      - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - The Alkali, &c., Works Regulation Act 1906
+      - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - The Public Records Act 1958
+      - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - The Parliamentary Commissioner Act 1967
+      - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - The Local Government Act 1974
+      - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+      - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - The Control of Pollution Act 1974
+      - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - The Salmon and Freshwater Fisheries Act 1975
+      - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+    - ...
+      - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+    - The Environmental Protection Act 1990
+      - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+      - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+      - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - The Water Industry Act 1991
+      - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - The Water Resources Act 1991
+      - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+      - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+  - Part II Transitory provisions in respect of flood defence
+    - Disqualification for membership of regional flood defence committee
+      - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+    - Savings in relation to local flood defence schemes
+      - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+    - Interpretation
+      - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+- SCHEDULE 24 Repeals and revocations
