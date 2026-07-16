@@ -1,0 +1,2908 @@
+# Companies Act 2006
+
+2006 c. 46. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 45 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
+
+Source: https://www.legislation.gov.uk/ukpga/2006/46/2026-07-16
+
+## Contents
+
+- Part 1 General introductory provisions
+  - Companies and Companies Acts
+    - [s. 1 Companies](section/1.md)
+    - [s. 2 The Companies Acts](section/2.md)
+  - Types of company
+    - [s. 3 Limited and unlimited companies](section/3.md)
+    - [s. 4 Private and public companies](section/4.md)
+    - [s. 5 Companies limited by guarantee and having share capital](section/5.md)
+    - [s. 6 Community interest companies](section/6.md)
+- Part 2 Company formation
+  - General
+    - [s. 7 Method of forming company](section/7.md)
+    - [s. 8 Memorandum of association](section/8.md)
+  - Requirements for registration
+    - [s. 9 Registration documents](section/9.md)
+    - [s. 9A Required information about the subscribers](section/9A.md)
+    - [s. 10 Statement of capital and initial shareholdings](section/10.md)
+    - [s. 11 Statement of guarantee](section/11.md)
+    - [s. 12 Statement of proposed officers](section/12.md)
+    - [s. 12A Statement of initial significant control](section/12A.md)
+    - [s. 12B Option to provide ID verification information about PSCs](section/12B.md)
+    - [s. 13 Statement of compliance](section/13.md)
+  - Registration and its effect
+    - [s. 14 Registration](section/14.md)
+    - [s. 15 Issue of certificate of incorporation](section/15.md)
+    - [s. 16 Effect of registration](section/16.md)
+- Part 3 A company’s constitution
+  - Chapter 1 Introductory
+    - [s. 17 A company’s constitution](section/17.md)
+  - Chapter 2 Articles of association
+    - General
+      - [s. 18 Articles of association](section/18.md)
+      - [s. 19 Power of Secretary of State to prescribe model articles](section/19.md)
+      - [s. 20 Default application of model articles](section/20.md)
+    - Alteration of articles
+      - [s. 21 Amendment of articles](section/21.md)
+      - [s. 22 Entrenched provisions of the articles](section/22.md)
+      - [s. 23 Notice to registrar of existence of restriction on amendment of articles](section/23.md)
+      - [s. 24 Statement of compliance where amendment of articles restricted](section/24.md)
+      - [s. 25 Effect of alteration of articles on company’s members](section/25.md)
+      - [s. 26 Registrar to be sent copy of amended articles](section/26.md)
+      - [s. 27 Registrar’s notice to comply in case of failure with respect to amended articles](section/27.md)
+    - Supplementary
+      - [s. 28 Existing companies: provisions of memorandum treated as provisions of articles](section/28.md)
+  - Chapter 3 Resolutions and agreements affecting a company’s constitution
+    - [s. 29 Resolutions and agreements affecting a company’s constitution](section/29.md)
+    - [s. 30 Copies of resolutions or agreements to be forwarded to registrar](section/30.md)
+  - Chapter 4 Miscellaneous and supplementary provisions
+    - Statement of company’s objects
+      - [s. 31 Statement of company’s objects](section/31.md)
+    - Other provisions with respect to a company’s constitution
+      - [s. 32 Constitutional documents to be provided to members](section/32.md)
+      - [s. 33 Effect of company’s constitution](section/33.md)
+      - [s. 34 Notice to registrar where company’s constitution altered by enactment](section/34.md)
+      - [s. 35 Notice to registrar where company’s constitution altered by order](section/35.md)
+      - [s. 36 Documents to be incorporated in or accompany copies of articles issued by company](section/36.md)
+    - Supplementary provisions
+      - [s. 37 Right to participate in profits otherwise than as member void](section/37.md)
+      - [s. 38 Application to single member companies of enactments and rules of law](section/38.md)
+- Part 4 A company’s capacity and related matters
+  - Capacity of company and power of directors to bind it
+    - [s. 39 A company’s capacity](section/39.md)
+    - [s. 40 Power of directors to bind the company](section/40.md)
+    - [s. 41 Constitutional limitations: transactions involving directors or their associates](section/41.md)
+    - [s. 42 Constitutional limitations: companies that are charities](section/42.md)
+  - Formalities of doing business under the law of England and Wales or Northern Ireland
+    - [s. 43 Company contracts](section/43.md)
+    - [s. 44 Execution of documents](section/44.md)
+    - [s. 45 Common seal](section/45.md)
+    - [s. 46 Execution of deeds](section/46.md)
+    - [s. 47 Execution of deeds or other documents by attorney](section/47.md)
+  - Formalities of doing business under the law of Scotland
+    - [s. 48 Execution of documents by companies](section/48.md)
+  - Other matters
+    - [s. 49 Official seal for use abroad](section/49.md)
+    - [s. 50 Official seal for share certificates etc](section/50.md)
+    - [s. 51 Pre-incorporation contracts, deeds and obligations](section/51.md)
+    - [s. 52 Bills of exchange and promissory notes](section/52.md)
+- Part 5 A company’s name
+  - Chapter 1 General requirements
+    - Prohibited names
+      - [s. 53 Prohibited names](section/53.md)
+      - [s. 53A Names for criminal purposes](section/53A.md)
+    - Sensitive words and expressions
+      - [s. 54 Names suggesting connection with government or public authority](section/54.md)
+      - [s. 55 Other sensitive words or expressions](section/55.md)
+      - [s. 56 Duty to seek comments of government department or other specified body](section/56.md)
+      - [s. 56A Names suggesting connection with foreign governments etc](section/56A.md)
+    - Permitted characters etc
+      - [s. 57 Permitted characters etc](section/57.md)
+    - Computer code
+      - [s. 57A Names containing computer code](section/57A.md)
+    - Prohibitions where a company has been required to change a name
+      - [s. 57B Prohibition on re-registering name following direction](section/57B.md)
+      - [s. 57C Name that another company has been directed to change](section/57C.md)
+  - Chapter 2 Indications of company type or legal form
+    - Required indications for limited companies
+      - [s. 58 Public limited companies](section/58.md)
+      - [s. 59 Private limited companies](section/59.md)
+      - [s. 60 Exemption from requirement as to use of “limited”](section/60.md)
+      - [s. 61 Continuation of existing exemption: companies limited by shares](section/61.md)
+      - [s. 62 Continuation of existing exemption: companies limited by guarantee](section/62.md)
+      - [s. 63 Exempt company: restriction on amendment of articles](section/63.md)
+      - [s. 64 Power to direct change of name in case of company ceasing to be entitled to exemption](section/64.md)
+    - Inappropriate use of indications of company type or legal form
+      - [s. 65 Inappropriate use of indications of company type or legal form](section/65.md)
+  - Chapter 3 Similarity to other names
+    - Similarity to other name on registrar’s index
+      - [s. 66 Name not to be the same as another in the index](section/66.md)
+      - [s. 67 Power to direct change of name in case of similarity to existing name](section/67.md)
+      - [s. 68 Direction to change name: supplementary provisions](section/68.md)
+    - Similarity to other name in which person has goodwill
+      - [s. 69 Objection to company’s registered name](section/69.md)
+      - [s. 70 Company names adjudicators](section/70.md)
+      - [s. 71 Procedural rules](section/71.md)
+      - [s. 72 Decision of adjudicator to be made available to public](section/72.md)
+      - [s. 73 Order requiring name to be changed](section/73.md)
+      - [s. 74 Appeal from adjudicator’s decision](section/74.md)
+  - Chapter 4 Other powers of the Secretary of State and the registrar
+    - Provision of misleading information
+      - [s. 75 Provision of misleading information etc](section/75.md)
+    - Misleading indication of activities and names used for criminal purposes
+      - [s. 76 Misleading indication of activities](section/76.md)
+      - [s. 76A Power to direct change of name used for criminal purposes](section/76A.md)
+    - Direction to change name wrongly registered
+      - [s. 76B Direction to change name wrongly registered](section/76B.md)
+    - Registrar’s powers to change names
+      - [s. 76C Registrar’s power to change name containing computer code](section/76C.md)
+      - [s. 76D Registrar’s power to change name for failure to comply with direction](section/76D.md)
+  - CHAPTER 4A Exceptions
+    - [s. 76E Exceptions based on national security etc](section/76E.md)
+  - Chapter 5 Change of name
+    - [s. 77 Change of name](section/77.md)
+    - [s. 78 Change of name by special resolution](section/78.md)
+    - [s. 79 Change of name by means provided for in company’s articles](section/79.md)
+    - [s. 80 Change of name: registration and issue of new certificate of incorporation](section/80.md)
+    - [s. 81 Change of name: effect](section/81.md)
+  - Chapter 6 Trading disclosures
+    - [s. 82 Requirement to disclose company name etc](section/82.md)
+    - [s. 83 Civil consequences of failure to make required disclosure](section/83.md)
+    - [s. 84 Criminal consequences of failure to make required disclosures](section/84.md)
+    - [s. 85 Minor variations in form of name to be left out of account](section/85.md)
+- Part 6 A company’s registered office and email address
+  - General
+    - [s. 86 Duty to ensure registered office at appropriate address](section/86.md)
+    - [s. 87 Change of address of registered office](section/87.md)
+  - Welsh companies
+    - [s. 88 Welsh companies](section/88.md)
+  - Registered email address
+    - [s. 88A Duty to maintain a registered email address](section/88A.md)
+    - [s. 88B Change of registered email address](section/88B.md)
+- Part 7 Re-registration as a means of altering a company’s status
+  - Introductory
+    - [s. 89 Alteration of status by re-registration](section/89.md)
+  - Private company becoming public
+    - [s. 90 Re-registration of private company as public](section/90.md)
+    - [s. 91 Requirements as to share capital](section/91.md)
+    - [s. 92 Requirements as to net assets](section/92.md)
+    - [s. 93 Recent allotment of shares for non-cash consideration](section/93.md)
+    - [s. 94 Application and accompanying documents](section/94.md)
+    - [s. 95 Statement of proposed secretary](section/95.md)
+    - [s. 96 Issue of certificate of incorporation on re-registration](section/96.md)
+  - Public company becoming private
+    - [s. 97 Re-registration of public company as private limited company](section/97.md)
+    - [s. 98 Application to court to cancel resolution](section/98.md)
+    - [s. 99 Notice to registrar of court application or order](section/99.md)
+    - [s. 100 Application and accompanying documents](section/100.md)
+    - [s. 101 Issue of certificate of incorporation on re-registration](section/101.md)
+  - Private limited company becoming unlimited
+    - [s. 102 Re-registration of private limited company as unlimited](section/102.md)
+    - [s. 103 Application and accompanying documents](section/103.md)
+    - [s. 104 Issue of certificate of incorporation on re-registration](section/104.md)
+  - Unlimited private company becoming limited
+    - [s. 105 Re-registration of unlimited company as limited](section/105.md)
+    - [s. 106 Application and accompanying documents](section/106.md)
+    - [s. 107 Issue of certificate of incorporation on re-registration](section/107.md)
+    - [s. 108 Statement of capital required where company already has share capital](section/108.md)
+  - Public company becoming private and unlimited
+    - [s. 109 Re-registration of public company as private and unlimited](section/109.md)
+    - [s. 110 Application and accompanying documents](section/110.md)
+    - [s. 111 Issue of certificate of incorporation on re-registration](section/111.md)
+- Part 8 A company’s members
+  - Chapter 1 The members of a company
+    - [s. 112 The members of a company](section/112.md)
+  - Chapter 2 Register of members
+    - Duty to keep register
+      - [s. 112A Alternative method of record-keeping](section/112A.md)
+      - [s. 113 Register of members](section/113.md)
+      - [s. 113A Required information about members: individuals](section/113A.md)
+      - [s. 113B Required information about members: corporate members and firms](section/113B.md)
+      - [s. 113C Power to amend the required information](section/113C.md)
+      - [s. 113D Duty on new members to notify required information](section/113D.md)
+      - [s. 113E Duty on member to notify changes to required information](section/113E.md)
+      - [s. 113F Power for company to require information from members](section/113F.md)
+      - [s. 113G Failure to comply with section 113D, 113E or 113F](section/113G.md)
+      - [s. 113H Basic false statement offences in connection with sections 113D to 113F](section/113H.md)
+      - [s. 113I Aggravated false statement offences in connection with sections 113D to 113F](section/113I.md)
+    - Duty to keep index of members
+      - [s. 113J Index of members](section/113J.md)
+    - Inspection etc of register and index of members
+      - [s. 114 Register to be kept available for inspection](section/114.md)
+      - [s. 115 Index of members](section/115.md)
+      - [s. 116 Rights to inspect and require copies](section/116.md)
+      - [s. 117 Register of members: response to request for inspection or copy](section/117.md)
+      - [s. 118 Register of members: refusal of inspection or default in providing copy](section/118.md)
+      - [s. 119 Register of members: offences in connection with request for or disclosure of information](section/119.md)
+      - [s. 120 Information as to state of register and index](section/120.md)
+      - [s. 120A Power to make regulations protecting material](section/120A.md)
+      - [s. 120B Offence of failing to comply with regulations under section 120A](section/120B.md)
+    - Removal of entries from register of members
+      - [s. 121 Removal of entries relating to former members](section/121.md)
+    - Special cases
+      - [s. 122 Share warrants](section/122.md)
+      - [s. 123 Single member companies](section/123.md)
+      - [s. 124 Company holding its own shares as treasury shares](section/124.md)
+    - Supplementary
+      - [s. 125 Power of court to rectify register](section/125.md)
+      - [s. 126 Trusts not to be entered on register](section/126.md)
+      - [s. 127 Register to be evidence](section/127.md)
+      - [s. 128 Time limit for claims arising from entry in register](section/128.md)
+      - [s. 128ZA Transitional provision where information kept on central register](section/128ZA.md)
+  - CHAPTER 2A Option to keep information on central register
+    - [s. 128A Introduction](section/128A.md)
+    - [s. 128B Right to make an election](section/128B.md)
+    - [s. 128C Effective date of election](section/128C.md)
+    - [s. 128D Effect of election on obligations under Chapter 2](section/128D.md)
+    - [s. 128E Duty to notify registrar of changes](section/128E.md)
+    - [s. 128F Information as to state of central register](section/128F.md)
+    - [s. 128G Power of court to order company to remedy default or delay](section/128G.md)
+    - [s. 128H Central register to be evidence](section/128H.md)
+    - [s. 128I Time limits for claims arising from delivery to registrar](section/128I.md)
+    - [s. 128J Withdrawing the election](section/128J.md)
+    - [s. 128K Power to extend option to public companies](section/128K.md)
+  - Chapter 3 Overseas branch registers
+    - [s. 129 Overseas branch registers](section/129.md)
+    - [s. 130 Notice of opening of overseas branch register](section/130.md)
+    - [s. 131 Keeping of overseas branch register](section/131.md)
+    - [s. 132 Register or duplicate to be kept available for inspection in UK](section/132.md)
+    - [s. 133 Transactions in shares registered in overseas branch register](section/133.md)
+    - [s. 134 Jurisdiction of local courts](section/134.md)
+    - [s. 135 Discontinuance of overseas branch register](section/135.md)
+  - Chapter 4 Prohibition on subsidiary being member of its holding company
+    - General prohibition
+      - [s. 136 Prohibition on subsidiary being a member of its holding company](section/136.md)
+      - [s. 137 Shares acquired before prohibition became applicable](section/137.md)
+    - Subsidiary acting as personal representative or trustee
+      - [s. 138 Subsidiary acting as personal representative or trustee](section/138.md)
+      - [s. 139 Interests to be disregarded: residual interest under pension scheme or employees’ share scheme](section/139.md)
+      - [s. 140 Interests to be disregarded: employer’s rights of recovery under pension scheme or employees’ share scheme](section/140.md)
+    - Subsidiary acting as dealer in securities
+      - [s. 141 Subsidiary acting as authorised dealer in securities](section/141.md)
+      - [s. 142 Protection of third parties in other cases where subsidiary acting as dealer in securities](section/142.md)
+    - Supplementary
+      - [s. 143 Application of provisions to companies not limited by shares](section/143.md)
+      - [s. 144 Application of provisions to nominees](section/144.md)
+- Part 9 Exercise of members’ rights
+  - Effect of provisions in company’s articles
+    - [s. 145 Effect of provisions of articles as to enjoyment or exercise of members’ rights](section/145.md)
+  - Information rights
+    - [s. 146 Traded companies: nomination of persons to enjoy information rights](section/146.md)
+    - [s. 147 Information rights: form in which copies to be provided](section/147.md)
+    - [s. 148 Termination or suspension of nomination](section/148.md)
+    - [s. 149 Information as to possible rights in relation to voting](section/149.md)
+    - [s. 150 Information rights: status of rights](section/150.md)
+    - [s. 151 Information rights: power to amend](section/151.md)
+  - Exercise of rights where shares held on behalf of others
+    - [s. 152 Exercise of rights where shares held on behalf of others: exercise in different ways](section/152.md)
+    - [s. 153 Exercise of rights where shares held on behalf of others: members’ requests](section/153.md)
+- Part 10 A company’s directors
+  - Chapter 1 Appointment and removal of directors
+    - Requirement to have directors
+      - [s. 154 Companies required to have directors](section/154.md)
+      - [s. 155 Companies required to have at least one director who is a natural person](section/155.md)
+      - [s. 156 Direction requiring company to make appointment](section/156.md)
+    - Appointment
+      - [s. 156A Each director to be a natural person](section/156A.md)
+      - [s. 156B Power to provide for exceptions from requirement that each director be a natural person](section/156B.md)
+      - [s. 156C Existing director who is not a natural person](section/156C.md)
+      - [s. 157 Minimum age for appointment as director](section/157.md)
+      - [s. 158 Power to provide for exceptions from minimum age requirement](section/158.md)
+      - [s. 159 Existing under-age directors](section/159.md)
+      - [s. 159A Disqualified person not to be appointed as director](section/159A.md)
+      - [s. 160 Appointment of directors of public company to be voted on individually](section/160.md)
+      - [s. 161 Validity of acts of directors](section/161.md)
+    - ...
+      - [s. 161A Alternative method of record-keeping](section/161A.md)
+      - [s. 162 Register of directors](section/162.md)
+      - [s. 163 Particulars of directors to be registered: individuals](section/163.md)
+      - [s. 164 Particulars of directors to be registered: corporate directors and firms](section/164.md)
+      - [s. 165 Register of directors’ residential addresses](section/165.md)
+      - [s. 166 Particulars of directors to be registered: power to make regulations](section/166.md)
+      - [s. 167 Duty to notify registrar of changes](section/167.md)
+    - Option to keep information on the central register
+      - [s. 167A Right to make an election](section/167A.md)
+      - [s. 167B Effective date of election](section/167B.md)
+      - [s. 167C Effect of election on obligations under sections 162 to 167](section/167C.md)
+      - [s. 167D Duty to notify registrar of changes](section/167D.md)
+      - [s. 167E Withdrawing the election](section/167E.md)
+      - [s. 167F Power to extend option to public companies](section/167F.md)
+    - Notification of information about directors
+      - [s. 167G Duty to notify registrar of change in directors](section/167G.md)
+      - [s. 167H Duty to notify registrar of changes of information](section/167H.md)
+      - [s. 167I Notification of changes occurring before company’s incorporation](section/167I.md)
+      - [s. 167J Required information about a director: individuals](section/167J.md)
+      - [s. 167K Required information about a director: corporate directors and firms](section/167K.md)
+      - [s. 167L Directors: offence of failure to notify of changes](section/167L.md)
+    - Directors: duties relating to ID verification and notification
+      - [s. 167M Prohibition on director acting unless ID verified](section/167M.md)
+      - [s. 167N Prohibition on acting unless directorship notified](section/167N.md)
+    - Removal
+      - [s. 168 Resolution to remove director](section/168.md)
+      - [s. 169 Director’s right to protest against removal](section/169.md)
+      - [s. 169A Removal from office of disqualified directors](section/169A.md)
+  - Chapter 2 General duties of directors
+    - Introductory
+      - [s. 170 Scope and nature of general duties](section/170.md)
+    - The general duties
+      - [s. 171 Duty to act within powers](section/171.md)
+      - [s. 172 Duty to promote the success of the company](section/172.md)
+      - [s. 173 Duty to exercise independent judgment](section/173.md)
+      - [s. 174 Duty to exercise reasonable care, skill and diligence](section/174.md)
+      - [s. 175 Duty to avoid conflicts of interest](section/175.md)
+      - [s. 176 Duty not to accept benefits from third parties](section/176.md)
+      - [s. 177 Duty to declare interest in proposed transaction or arrangement](section/177.md)
+    - Supplementary provisions
+      - [s. 178 Civil consequences of breach of general duties](section/178.md)
+      - [s. 179 Cases within more than one of the general duties](section/179.md)
+      - [s. 180 Consent, approval or authorisation by members](section/180.md)
+      - [s. 181 Modification of provisions in relation to charitable companies](section/181.md)
+  - Chapter 3 Declaration of interest in existing transaction or arrangement
+    - [s. 182 Declaration of interest in existing transaction or arrangement](section/182.md)
+    - [s. 183 Offence of failure to declare interest](section/183.md)
+    - [s. 184 Declaration made by notice in writing](section/184.md)
+    - [s. 185 General notice treated as sufficient declaration](section/185.md)
+    - [s. 186 Declaration of interest in case of company with sole director](section/186.md)
+    - [s. 187 Declaration of interest in existing transaction by shadow director](section/187.md)
+  - Chapter 4 Transactions with directors requiring approval of members
+    - Service contracts
+      - [s. 188 Directors’ long-term service contracts: requirement of members’ approval](section/188.md)
+      - [s. 189 Directors’ long-term service contracts: civil consequences of contravention](section/189.md)
+    - Substantial property transactions
+      - [s. 190 Substantial property transactions: requirement of members’ approval](section/190.md)
+      - [s. 191 Meaning of “substantial”](section/191.md)
+      - [s. 192 Exception for transactions with members or other group companies](section/192.md)
+      - [s. 193 Exception in case of company in winding up or administration](section/193.md)
+      - [s. 194 Exception for transactions on recognised investment exchange](section/194.md)
+      - [s. 195 Property transactions: civil consequences of contravention](section/195.md)
+      - [s. 196 Property transactions: effect of subsequent affirmation](section/196.md)
+    - Loans, quasi-loans and credit transactions
+      - [s. 197 Loans to directors: requirement of members’ approval](section/197.md)
+      - [s. 198 Quasi-loans to directors: requirement of members’ approval](section/198.md)
+      - [s. 199 Meaning of “quasi-loan” and related expressions](section/199.md)
+      - [s. 200 Loans or quasi-loans to persons connected with directors: requirement of members’ approval](section/200.md)
+      - [s. 201 Credit transactions: requirement of members’ approval](section/201.md)
+      - [s. 202 Meaning of “credit transaction”](section/202.md)
+      - [s. 203 Related arrangements: requirement of members’ approval](section/203.md)
+      - [s. 204 Exception for expenditure on company business](section/204.md)
+      - [s. 205 Exception for expenditure on defending proceedings etc](section/205.md)
+      - [s. 206 Exception for expenditure in connection with regulatory action or investigation](section/206.md)
+      - [s. 207 Exceptions for minor and business transactions](section/207.md)
+      - [s. 208 Exceptions for intra-group transactions](section/208.md)
+      - [s. 209 Exceptions for money-lending companies](section/209.md)
+      - [s. 210 Other relevant transactions or arrangements](section/210.md)
+      - [s. 211 The value of transactions and arrangements](section/211.md)
+      - [s. 212 The person for whom a transaction or arrangement is entered into](section/212.md)
+      - [s. 213 Loans etc: civil consequences of contravention](section/213.md)
+      - [s. 214 Loans etc: effect of subsequent affirmation](section/214.md)
+    - Payments for loss of office
+      - [s. 215 Payments for loss of office](section/215.md)
+      - [s. 216 Amounts taken to be payments for loss of office](section/216.md)
+      - [s. 217 Payment by company: requirement of members’ approval](section/217.md)
+      - [s. 218 Payment in connection with transfer of undertaking etc: requirement of members’ approval](section/218.md)
+      - [s. 219 Payment in connection with share transfer: requirement of members’ approval](section/219.md)
+      - [s. 220 Exception for payments in discharge of legal obligations etc](section/220.md)
+      - [s. 221 Exception for small payments](section/221.md)
+      - [s. 222 Payments made without approval: civil consequences](section/222.md)
+    - Supplementary
+      - [s. 223 Transactions requiring members’ approval: application of provisions to shadow directors](section/223.md)
+      - [s. 224 Approval by written resolution: accidental failure to send memorandum](section/224.md)
+      - [s. 225 Cases where approval is required under more than one provision](section/225.md)
+      - [s. 226 Requirement of consent of Charity Commission: companies that are charities](section/226.md)
+  - CHAPTER 4A Directors of quoted companies ...: special provision
+    - Interpretation
+      - [s. 226A Key definitions](section/226A.md)
+    - Restrictions relating to remuneration or loss of office payments
+      - [s. 226B Remuneration payments](section/226B.md)
+      - [s. 226C Loss of office payments](section/226C.md)
+      - [s. 226D Sections 226B and 226C: supplementary](section/226D.md)
+    - Supplementary
+      - [s. 226E Payments made without approval: civil consequences](section/226E.md)
+      - [s. 226F Relationship with requirements under Chapter 4](section/226F.md)
+  - Chapter 5 Directors’ service contracts
+    - [s. 227 Directors’ service contracts](section/227.md)
+    - [s. 228 Copy of contract or memorandum of terms to be available for inspection](section/228.md)
+    - [s. 229 Right of member to inspect and request copy](section/229.md)
+    - [s. 230 Directors’ service contracts: application of provisions to shadow directors](section/230.md)
+  - Chapter 6 Contracts with sole members who are directors
+    - [s. 231 Contract with sole member who is also a director](section/231.md)
+  - Chapter 7 Directors’ liabilities
+    - Provision protecting directors from liability
+      - [s. 232 Provisions protecting directors from liability](section/232.md)
+      - [s. 233 Provision of insurance](section/233.md)
+      - [s. 234 Qualifying third party indemnity provision](section/234.md)
+      - [s. 235 Qualifying pension scheme indemnity provision](section/235.md)
+      - [s. 236 Qualifying indemnity provision to be disclosed in directors’ report](section/236.md)
+      - [s. 237 Copy of qualifying indemnity provision to be available for inspection](section/237.md)
+      - [s. 238 Right of member to inspect and request copy](section/238.md)
+    - Ratification of acts giving rise to liability
+      - [s. 239 Ratification of acts of directors](section/239.md)
+  - Chapter 8 Directors’ residential addresses: protection from disclosure
+    - [s. 240 Protected information](section/240.md)
+    - [s. 241 Protected information: restriction on use or disclosure by company](section/241.md)
+    - [s. 242 Protected information: restriction on ... disclosure by registrar](section/242.md)
+    - [s. 243 Permitted ... disclosure by the registrar](section/243.md)
+    - [s. 244 Disclosure under court order](section/244.md)
+    - [s. 245 Circumstances in which registrar may put address on the public record](section/245.md)
+    - [s. 246 Putting the address on the public record](section/246.md)
+  - Chapter 9 Supplementary provisions
+    - Provision for employees on cessation or transfer of business
+      - [s. 247 Power to make provision for employees on cessation or transfer of business](section/247.md)
+    - Records of meetings of directors
+      - [s. 248 Minutes of directors’ meetings](section/248.md)
+      - [s. 249 Minutes as evidence](section/249.md)
+    - Meaning of “director” and “shadow director”
+      - [s. 250 “Director”](section/250.md)
+      - [s. 251 “Shadow director”](section/251.md)
+    - Other definitions
+      - [s. 252 Persons connected with a director](section/252.md)
+      - [s. 253 Members of a director’s family](section/253.md)
+      - [s. 254 Director “connected with” a body corporate](section/254.md)
+      - [s. 255 Director “controlling” a body corporate](section/255.md)
+      - [s. 256 Associated bodies corporate](section/256.md)
+      - [s. 257 References to company’s constitution](section/257.md)
+    - General
+      - [s. 258 Power to increase financial limits](section/258.md)
+      - [s. 259 Transactions under foreign law](section/259.md)
+- Part 11 Derivative claims and proceedings by members
+  - Chapter 1 Derivative claims in England and Wales or Northern Ireland
+    - [s. 260 Derivative claims](section/260.md)
+    - [s. 261 Application for permission to continue derivative claim](section/261.md)
+    - [s. 262 Application for permission to continue claim as a derivative claim](section/262.md)
+    - [s. 263 Whether permission to be given](section/263.md)
+    - [s. 264 Application for permission to continue derivative claim brought by another member](section/264.md)
+  - Chapter 2 Derivative proceedings in Scotland
+    - [s. 265 Derivative proceedings](section/265.md)
+    - [s. 266 Requirement for leave and notice](section/266.md)
+    - [s. 267 Application to continue proceedings as derivative proceedings](section/267.md)
+    - [s. 268 Granting of leave](section/268.md)
+    - [s. 269 Application by member to be substituted for member pursuing derivative proceedings](section/269.md)
+- Part 12 Company secretaries
+  - Private companies
+    - [s. 270 Private company not required to have secretary](section/270.md)
+  - Public companies
+    - [s. 271 Public company required to have secretary](section/271.md)
+    - [s. 272 Direction requiring public company to appoint secretary](section/272.md)
+    - [s. 273 Qualifications of secretaries of public companies](section/273.md)
+  - Provisions applying to private companies with a secretary and to public companies
+    - [s. 274 Discharge of functions where office vacant or secretary unable to act](section/274.md)
+    - [s. 274A Alternative method of record-keeping](section/274A.md)
+    - [s. 275 Duty to keep register of secretaries](section/275.md)
+    - [s. 276 Duty to notify registrar of changes](section/276.md)
+    - [s. 277 Particulars of secretaries to be registered: individuals](section/277.md)
+    - [s. 278 Particulars of secretaries to be registered: corporate secretaries and firms](section/278.md)
+    - [s. 279 Particulars of secretaries to be registered: power to make regulations](section/279.md)
+  - ...
+    - [s. 279A Right to make an election](section/279A.md)
+    - [s. 279B Effective date of election](section/279B.md)
+    - [s. 279C Effect of election on obligations under sections 275 and 276](section/279C.md)
+    - [s. 279D Duty to notify registrar of changes](section/279D.md)
+    - [s. 279E Withdrawing the election](section/279E.md)
+    - [s. 279F Power to extend option to public companies](section/279F.md)
+  - Notification of information about secretaries
+    - [s. 279G Duty to notify registrar of change in secretary or joint secretary](section/279G.md)
+    - [s. 279H Duty to notify registrar of changes of information](section/279H.md)
+    - [s. 279I Notification of changes occurring before company’s incorporation](section/279I.md)
+    - [s. 279J Required information about a secretary etc: individuals](section/279J.md)
+    - [s. 279K Required information about a secretary etc: corporate secretaries and firms](section/279K.md)
+    - [s. 279L Firms all of whose partners are joint secretaries](section/279L.md)
+    - [s. 279M Secretary or joint secretary: offence of failure to notify of changes](section/279M.md)
+  - Person acting in dual capacity
+    - [s. 280 Acts done by person in dual capacity](section/280.md)
+- Part 13 Resolutions and meetings
+  - Chapter 1 General provisions about resolutions
+    - [s. 281 Resolutions](section/281.md)
+    - [s. 282 Ordinary resolutions](section/282.md)
+    - [s. 283 Special resolutions](section/283.md)
+    - [s. 284 Votes: general rules](section/284.md)
+    - [s. 285 Voting by proxy](section/285.md)
+    - [s. 285A Voting rights on poll or written resolution](section/285A.md)
+    - [s. 286 Votes of joint holders of shares](section/286.md)
+    - [s. 287 Saving for provisions of articles as to determination of entitlement to vote](section/287.md)
+  - Chapter 2 Written resolutions
+    - General provisions about written resolutions
+      - [s. 288 Written resolutions of private companies](section/288.md)
+      - [s. 289 Eligible members](section/289.md)
+    - Circulation of written resolutions
+      - [s. 290 Circulation date](section/290.md)
+      - [s. 291 Circulation of written resolutions proposed by directors](section/291.md)
+      - [s. 292 Members’ power to require circulation of written resolution](section/292.md)
+      - [s. 293 Circulation of written resolution proposed by members](section/293.md)
+      - [s. 294 Expenses of circulation](section/294.md)
+      - [s. 295 Application not to circulate members’ statement](section/295.md)
+    - Agreeing to written resolutions
+      - [s. 296 Procedure for signifying agreement to written resolution](section/296.md)
+      - [s. 297 Period for agreeing to written resolution](section/297.md)
+    - Supplementary
+      - [s. 298 Sending documents relating to written resolutions by electronic means](section/298.md)
+      - [s. 299 Publication of written resolution on website](section/299.md)
+      - [s. 300 Relationship between this Chapter and provisions of company’s articles](section/300.md)
+  - Chapter 3 Resolutions at meetings
+    - General provisions about resolutions at meetings
+      - [s. 301 Resolutions at general meetings](section/301.md)
+    - Calling meetings
+      - [s. 302 Directors’ power to call general meetings](section/302.md)
+      - [s. 303 Members’ power to require directors to call general meeting](section/303.md)
+      - [s. 304 Directors’ duty to call meetings required by members](section/304.md)
+      - [s. 305 Power of members to call meeting at company’s expense](section/305.md)
+      - [s. 306 Power of court to order meeting](section/306.md)
+    - Notice of meetings
+      - [s. 307 Notice required of general meeting](section/307.md)
+      - [s. 307A Notice required of general meeting: certain meetings of traded companies](section/307A.md)
+      - [s. 308 Manner in which notice to be given](section/308.md)
+      - [s. 309 Publication of notice of meeting on website](section/309.md)
+      - [s. 310 Persons entitled to receive notice of meetings](section/310.md)
+      - [s. 311 Contents of notices of meetings](section/311.md)
+      - [s. 311A Traded companies: publication of information in advance of general meeting](section/311A.md)
+      - [s. 312 Resolution requiring special notice](section/312.md)
+      - [s. 313 Accidental failure to give notice of resolution or meeting](section/313.md)
+    - Members’ statements
+      - [s. 314 Members’ power to require circulation of statements](section/314.md)
+      - [s. 315 Company’s duty to circulate members’ statement](section/315.md)
+      - [s. 316 Expenses of circulating members’ statement](section/316.md)
+      - [s. 317 Application not to circulate members’ statement](section/317.md)
+    - Procedure at meetings
+      - [s. 318 Quorum at meetings](section/318.md)
+      - [s. 319 Chairman of meeting](section/319.md)
+      - [s. 319A Traded companies: questions at meetings](section/319A.md)
+      - [s. 320 Declaration by chairman on a show of hands](section/320.md)
+      - [s. 321 Right to demand a poll](section/321.md)
+      - [s. 322 Voting on a poll](section/322.md)
+      - [s. 322A Voting on a poll: votes cast in advance](section/322A.md)
+      - [s. 323 Representation of corporations at meetings](section/323.md)
+    - Proxies
+      - [s. 324 Rights to appoint proxies](section/324.md)
+      - [s. 324A Obligation of proxy to vote in accordance with instructions](section/324A.md)
+      - [s. 325 Notice of meeting to contain statement of rights](section/325.md)
+      - [s. 326 Company-sponsored invitations to appoint proxies](section/326.md)
+      - [s. 327 Notice required of appointment of proxy etc](section/327.md)
+      - [s. 328 Chairing meetings](section/328.md)
+      - [s. 329 Right of proxy to demand a poll](section/329.md)
+      - [s. 330 Notice required of termination of proxy’s authority](section/330.md)
+      - [s. 331 Saving for more extensive rights conferred by articles](section/331.md)
+    - Adjourned meetings
+      - [s. 332 Resolution passed at adjourned meeting](section/332.md)
+    - Electronic communications
+      - [s. 333 Sending documents relating to meetings etc in electronic form](section/333.md)
+      - [s. 333A Traded company: duty to provide electronic address for receipt of proxies etc](section/333A.md)
+    - Application to class meetings
+      - [s. 334 Application to class meetings](section/334.md)
+      - [s. 335 Application to class meetings: companies without a share capital](section/335.md)
+  - Chapter 4 Public companies and traded companies: additional requirements for AGMs
+    - [s. 336 Public companies and traded companies: annual general meeting](section/336.md)
+    - [s. 337 Public companies and traded companies: notice of AGM](section/337.md)
+    - [s. 338 Public companies: members’ power to require circulation of resolutions for AGMs](section/338.md)
+    - [s. 338A Traded companies: members’ power to include other matters in business dealt with at AGM](section/338A.md)
+    - [s. 339 Public companies: company’s duty to circulate members’ resolutions for AGMs](section/339.md)
+    - [s. 340 Public companies: expenses of circulating members’ resolutions for AGM](section/340.md)
+    - [s. 340A Traded companies: duty to circulate members’ matters for AGM](section/340A.md)
+    - [s. 340B Traded companies: expenses of circulating members’ matters to be dealt with at AGM](section/340B.md)
+  - Chapter 5 Additional requirements for quoted companies AND TRADED COMPANIES
+    - Website publication of poll results
+      - [s. 341 Results of poll to be made available on website](section/341.md)
+    - Independent report on poll
+      - [s. 342 Members’ power to require independent report on poll](section/342.md)
+      - [s. 343 Appointment of independent assessor](section/343.md)
+      - [s. 344 Independence requirement](section/344.md)
+      - [s. 345 Meaning of “associate”](section/345.md)
+      - [s. 346 Effect of appointment of a partnership](section/346.md)
+      - [s. 347 The independent assessor’s report](section/347.md)
+      - [s. 348 Rights of independent assessor: right to attend meeting etc](section/348.md)
+      - [s. 349 Rights of independent assessor: right to information](section/349.md)
+      - [s. 350 Offences relating to provision of information](section/350.md)
+      - [s. 351 Information to be made available on website](section/351.md)
+    - Supplementary
+      - [s. 352 Application of provisions to class meetings](section/352.md)
+      - [s. 353 Requirements as to website availability](section/353.md)
+      - [s. 354 Power to limit or extend the types of company to which provisions of this Chapter apply](section/354.md)
+  - Chapter 6 Records of resolutions and meetings
+    - [s. 355 Records of resolutions and meetings etc](section/355.md)
+    - [s. 356 Records as evidence of resolutions etc](section/356.md)
+    - [s. 357 Records of decisions by sole member](section/357.md)
+    - [s. 358 Inspection of records of resolutions and meetings](section/358.md)
+    - [s. 359 Records of resolutions and meetings of class of members](section/359.md)
+  - Chapter 7 Supplementary provisions
+    - [s. 360 Computation of periods of notice etc: clear day rule](section/360.md)
+    - [s. 360A Electronic meetings and voting](section/360A.md)
+    - [s. 360AA Traded companies: confirmation of receipt of electronic voting](section/360AA.md)
+    - [s. 360B Traded companies: requirements for participating in and voting at general meetings](section/360B.md)
+    - [s. 360BA Traded companies: right to confirmation of vote after a general meeting](section/360BA.md)
+    - [s. 360C Meaning of “traded company”](section/360C.md)
+    - [s. 361 Meaning of “quoted company”](section/361.md)
+- Part 14 Control of political donations and expenditure
+  - Introductory
+    - [s. 362 Introductory](section/362.md)
+  - Donations and expenditure to which this Part applies
+    - [s. 363 Political parties, organisations etc to which this Part applies](section/363.md)
+    - [s. 364 Meaning of “political donation”](section/364.md)
+    - [s. 365 Meaning of “political expenditure”](section/365.md)
+  - Authorisation required for donations or expenditure
+    - [s. 366 Authorisation required for donations or expenditure](section/366.md)
+    - [s. 367 Form of authorising resolution](section/367.md)
+    - [s. 368 Period for which resolution has effect](section/368.md)
+  - Remedies in case of unauthorised donations or expenditure
+    - [s. 369 Liability of directors in case of unauthorised donation or expenditure](section/369.md)
+    - [s. 370 Enforcement of directors’ liabilities by shareholder action](section/370.md)
+    - [s. 371 Enforcement of directors’ liabilities by shareholder action: supplementary](section/371.md)
+    - [s. 372 Costs of shareholder action](section/372.md)
+    - [s. 373 Information for purposes of shareholder action](section/373.md)
+  - Exemptions
+    - [s. 374 Trade unions](section/374.md)
+    - [s. 375 Subscription for membership of trade association](section/375.md)
+    - [s. 376 All-party parliamentary groups](section/376.md)
+    - [s. 377 Political expenditure exempted by order](section/377.md)
+    - [s. 378 Donations not amounting to more than £5,000 in any twelve month period](section/378.md)
+  - Supplementary provisions
+    - [s. 379 Minor definitions](section/379.md)
+- Part 15 Accounts and reports
+  - Chapter 1 Introduction
+    - General
+      - [s. 380 Scheme of this Part](section/380.md)
+    - Companies subject to the small companies regime
+      - [s. 381 Companies subject to the small companies regime](section/381.md)
+      - [s. 382 Companies qualifying as small: general](section/382.md)
+      - [s. 383 Companies qualifying as small: parent companies](section/383.md)
+      - [s. 384 Companies excluded from the small companies regime](section/384.md)
+      - [s. 384A Companies qualifying as micro-entities](section/384A.md)
+      - [s. 384B Companies excluded from being treated as micro-entities](section/384B.md)
+    - Quoted and unquoted companies
+      - [s. 385 Quoted and unquoted companies](section/385.md)
+  - Chapter 2 Accounting records
+    - [s. 386 Duty to keep accounting records](section/386.md)
+    - [s. 387 Duty to keep accounting records: offence](section/387.md)
+    - [s. 388 Where and for how long records to be kept](section/388.md)
+    - [s. 389 Where and for how long records to be kept: offences](section/389.md)
+  - Chapter 3 A company’s financial year
+    - [s. 390 A company’s financial year](section/390.md)
+    - [s. 391 Accounting reference periods and accounting reference date](section/391.md)
+    - [s. 392 Alteration of accounting reference date](section/392.md)
+  - Chapter 4 Annual accounts
+    - General
+      - [s. 393 Accounts to give true and fair view](section/393.md)
+    - Individual accounts
+      - [s. 394 Duty to prepare individual accounts](section/394.md)
+      - [s. 394A Individual accounts: exemption for dormant subsidiaries](section/394A.md)
+      - [s. 394B Companies excluded from the dormant subsidiaries exemption](section/394B.md)
+      - [s. 394C Dormant subsidiaries exemption: parent undertaking declaration of guarantee](section/394C.md)
+      - [s. 395 Individual accounts: applicable accounting framework](section/395.md)
+      - [s. 396 Companies Act individual accounts](section/396.md)
+      - [s. 397 IAS individual accounts](section/397.md)
+    - ...
+      - [s. 398 Option to prepare group accounts](section/398.md)
+    - Group accounts ...
+      - [s. 399 Duty to prepare group accounts](section/399.md)
+      - [s. 400 Exemption for company included in UK group accounts of larger group](section/400.md)
+      - [s. 401 Exemption for company included in non-UK group accounts of larger group](section/401.md)
+      - [s. 402 Exemption if no subsidiary undertakings need be included in the consolidation](section/402.md)
+    - Group accounts: general
+      - [s. 403 Group accounts: applicable accounting framework](section/403.md)
+      - [s. 404 Companies Act group accounts](section/404.md)
+      - [s. 405 Companies Act group accounts: subsidiary undertakings included in the consolidation](section/405.md)
+      - [s. 406 IAS group accounts](section/406.md)
+      - [s. 407 Consistency of financial reporting within group](section/407.md)
+      - [s. 408 Individual profit and loss account where group accounts prepared](section/408.md)
+    - Information to be given in notes to the accounts
+      - [s. 409 Information about related undertakings](section/409.md)
+      - [s. 410 Information about related undertakings: alternative compliance](section/410.md)
+      - [s. 410A Information about off-balance sheet arrangements](section/410A.md)
+      - [s. 411 Information about employee numbers and costs](section/411.md)
+      - [s. 412 Information about directors’ benefits: remuneration](section/412.md)
+      - [s. 413 Information about directors’ benefits: advances, credit and guarantees](section/413.md)
+    - Approval and signing of accounts
+      - [s. 414 Approval and signing of accounts](section/414.md)
+  - CHAPTER 4A STRATEGIC REPORT
+    - [s. 414A Duty to prepare strategic report](section/414A.md)
+    - [s. 414B Strategic report: small companies exemption](section/414B.md)
+    - [s. 414C Contents of strategic report](section/414C.md)
+    - [s. 414CZA Section 172(1) statement](section/414CZA.md)
+    - [s. 414CA Non-financial and sustainability information statement](section/414CA.md)
+    - [s. 414CB Contents of non-financial and sustainability information statement](section/414CB.md)
+    - [s. 414D Approval and signing of strategic report](section/414D.md)
+  - Chapter 5 Directors’ report
+    - Directors’ report
+      - [s. 415 Duty to prepare directors’ report](section/415.md)
+      - [s. 415A Directors’ report: small companies exemption](section/415A.md)
+      - [s. 416 Contents of directors’ report: general](section/416.md)
+      - [s. 417 Contents of directors’ report: business review](section/417.md)
+      - [s. 418 Contents of directors’ report: statement as to disclosure to auditors](section/418.md)
+      - [s. 419 Approval and signing of directors’ report](section/419.md)
+      - [s. 419A Approval and signing of separate corporate governance statement](section/419A.md)
+  - Chapter 6 Quoted companies ...: directors’ remuneration report
+    - [s. 420 Duty to prepare directors’ remuneration report](section/420.md)
+    - [s. 421 Contents of directors’ remuneration report](section/421.md)
+    - [s. 422 Approval and signing of directors’ remuneration report](section/422.md)
+    - [s. 422A Revisions to directors’ remuneration policy](section/422A.md)
+  - Chapter 7 Publication of accounts and reports
+    - Duty to circulate copies of accounts and reports
+      - [s. 423 Duty to circulate copies of annual accounts and reports](section/423.md)
+      - [s. 424 Time allowed for sending out copies of accounts and reports](section/424.md)
+      - [s. 425 Default in sending out copies of accounts and reports: offences](section/425.md)
+    - Option to provide strategic report with supplementary material
+      - [s. 426 Option to provide strategic report with supplementary material](section/426.md)
+      - [s. 426A Supplementary material](section/426A.md)
+    - Section 172(1) statement: requirements as to website publication
+      - [s. 426B Section 172(1) statement to be made available on website](section/426B.md)
+      - [s. 427 Form and contents of summary financial statement: unquoted companies](section/427.md)
+      - [s. 428 Form and contents of summary financial statement: quoted companies](section/428.md)
+      - [s. 429 Summary financial statements: offences](section/429.md)
+    - Quoted companies ...: requirements as to website publication
+      - [s. 430 Quoted companies ...: annual accounts and reports to be made available on website](section/430.md)
+    - Right of member or debenture holder to demand copies of accounts and reports
+      - [s. 431 Right of member or debenture holder to copies of accounts and reports: unquoted companies](section/431.md)
+      - [s. 432 Right of member or debenture holder to copies of accounts and reports: quoted companies](section/432.md)
+    - Requirements in connection with publication of accounts and reports
+      - [s. 433 Name of signatory to be stated in published copies of accounts and reports](section/433.md)
+      - [s. 434 Requirements in connection with publication of statutory accounts](section/434.md)
+      - [s. 435 Requirements in connection with publication of non-statutory accounts](section/435.md)
+      - [s. 436 Meaning of “publication” in relation to accounts and reports](section/436.md)
+  - Chapter 8 Public companies: laying of accounts and reports before general meeting
+    - [s. 437 Public companies: laying of accounts and reports before general meeting](section/437.md)
+    - [s. 438 Public companies: offence of failure to lay accounts and reports](section/438.md)
+  - Chapter 9 Quoted companies ...: members’ approval of directors’ remuneration report
+    - [s. 439 Quoted companies ...: members’ approval of directors’ remuneration report](section/439.md)
+    - [s. 439A Quoted companies ...: members’ approval of directors’ remuneration policy](section/439A.md)
+    - [s. 440 Quoted companies ...: offences in connection with procedure for approval](section/440.md)
+  - Chapter 10 Filing of accounts and reports
+    - Duty to file accounts and reports
+      - [s. 441 Duty to file accounts and reports with the registrar](section/441.md)
+      - [s. 442 Period allowed for filing accounts](section/442.md)
+      - [s. 443 Calculation of period allowed](section/443.md)
+    - Filing obligations of different descriptions of company
+      - [s. 443A Filing obligations of micro-entities](section/443A.md)
+      - [s. 444 Filing obligations of small companies other than micro-entities](section/444.md)
+      - [s. 444A](section/444A.md)
+      - [s. 445 Filing obligations of medium-sized companies](section/445.md)
+      - [s. 446 Filing obligations of unquoted companies](section/446.md)
+      - [s. 447 Filing obligations of quoted companies](section/447.md)
+      - [s. 448 Unlimited companies exempt from obligation to file accounts](section/448.md)
+      - [s. 448A Dormant subsidiaries exempt from obligation to file accounts](section/448A.md)
+      - [s. 448B Companies excluded from the dormant subsidiaries exemption](section/448B.md)
+      - [s. 448C Dormant subsidiaries filing exemption: parent undertaking declaration of guarantee](section/448C.md)
+    - Requirements where abbreviated accounts delivered
+      - [s. 449 Special auditor’s report where abbreviated accounts delivered](section/449.md)
+      - [s. 450 Approval and signing of abbreviated accounts](section/450.md)
+    - Failure to file accounts and reports
+      - [s. 451 Default in filing accounts and reports: offences](section/451.md)
+      - [s. 452 Default in filing accounts and reports: court order](section/452.md)
+      - [s. 453 Civil penalty for failure to file accounts and reports](section/453.md)
+  - Chapter 11 Revision of defective accounts and reports
+    - Voluntary revision
+      - [s. 454 Voluntary revision of accounts etc](section/454.md)
+    - Secretary of State’s notice
+      - [s. 455 Secretary of State’s notice in respect of accounts or reports](section/455.md)
+    - Application to court
+      - [s. 456 Application to court in respect of defective accounts or reports](section/456.md)
+      - [s. 457 Other persons authorised to apply to the court](section/457.md)
+      - [s. 458 Disclosure of information by tax authorities](section/458.md)
+    - Power of authorised person to require documents etc
+      - [s. 459 Power of authorised person to require documents, information and explanations](section/459.md)
+      - [s. 460 Restrictions on disclosure of information obtained under compulsory powers](section/460.md)
+      - [s. 461 Permitted disclosure of information obtained under compulsory powers](section/461.md)
+      - [s. 462 Power to amend categories of permitted disclosure](section/462.md)
+  - Chapter 12 Supplementary provisions
+    - Liability for false or misleading statements in reports and statements
+      - [s. 463 Liability for false or misleading statements in reports and statements](section/463.md)
+    - Accounting and reporting standards
+      - [s. 464 Accounting standards](section/464.md)
+    - Companies qualifying as medium-sized
+      - [s. 465 Companies qualifying as medium-sized: general](section/465.md)
+      - [s. 466 Companies qualifying as medium-sized: parent companies](section/466.md)
+      - [s. 467 Companies excluded from being treated as medium-sized](section/467.md)
+    - General power to make further provision about accounts and reports
+      - [s. 468 General power to make further provision about accounts and reports](section/468.md)
+      - [s. 468A Use or disclosure of profit and loss accounts for certain companies](section/468A.md)
+    - Other supplementary provisions
+      - [s. 469 Preparation and filing of accounts in euros](section/469.md)
+      - [s. 470 Power to apply provisions to banking partnerships](section/470.md)
+      - [s. 471 Meaning of “annual accounts” and related expressions](section/471.md)
+      - [s. 472 Notes to the accounts](section/472.md)
+      - [s. 472A Meaning of “corporate governance statement” etc](section/472A.md)
+      - [s. 473 Parliamentary procedure for certain regulations under this Part](section/473.md)
+      - [s. 474 Minor definitions](section/474.md)
+- Part 16 Audit
+  - Chapter 1 Requirement for audited accounts
+    - Requirement for audited accounts
+      - [s. 475 Requirement for audited accounts](section/475.md)
+      - [s. 476 Right of members to require audit](section/476.md)
+    - Exemption from audit: small companies
+      - [s. 477 Small companies: conditions for exemption from audit](section/477.md)
+      - [s. 478 Companies excluded from small companies exemption](section/478.md)
+      - [s. 479 Availability of small companies exemption in case of group company](section/479.md)
+    - Exemption from audit: qualifying subsidiaries
+      - [s. 479A Subsidiary companies: conditions for exemption from audit](section/479A.md)
+      - [s. 479B Companies excluded from the subsidiary companies audit exemption](section/479B.md)
+      - [s. 479C Subsidiary companies audit exemption: parent undertaking declaration of guarantee](section/479C.md)
+    - Exemption from audit: dormant companies
+      - [s. 480 Dormant companies: conditions for exemption from audit](section/480.md)
+      - [s. 481 Companies excluded from dormant companies exemption](section/481.md)
+    - Companies subject to public sector audit
+      - [s. 482 Non-profit-making companies subject to public sector audit](section/482.md)
+      - [s. 483 Scottish public sector companies: audit by Auditor General for Scotland](section/483.md)
+    - General power of amendment by regulations
+      - [s. 484 General power of amendment by regulations](section/484.md)
+  - Chapter 2 Appointment of auditors
+    - Private companies
+      - [s. 485 Appointment of auditors of private company: general](section/485.md)
+      - [s. 485A Appointment of auditors of private company: additional requirements for public interest entities with audit committees](section/485A.md)
+      - [s. 485B Appointment of auditors of private company: additional requirements for public interest entities without audit committees](section/485B.md)
+      - [s. 485C Restriction on appointment of auditor of private company which is a public interest entity](section/485C.md)
+      - [s. 486 Appointment of auditors of private company: default power of Secretary of State](section/486.md)
+      - [s. 486A Defective appointments: default power of Secretary of State](section/486A.md)
+      - [s. 487 Term of office of auditors of private company](section/487.md)
+      - [s. 487A Maximum engagement period: transitional arrangements](section/487A.md)
+      - [s. 488 Prevention by members of deemed re-appointment of auditor](section/488.md)
+    - Public companies
+      - [s. 489 Appointment of auditors of public company: general](section/489.md)
+      - [s. 489A Appointment of auditors of public company: additional requirements for public interest entities with audit committees](section/489A.md)
+      - [s. 489B Appointment of auditors of public company: additional requirements for public interest entities without audit committees](section/489B.md)
+      - [s. 489C Restriction on appointment of auditor of public company which is a public interest entity](section/489C.md)
+      - [s. 490 Appointment of auditors of public company: default power of Secretary of State](section/490.md)
+      - [s. 490A Defective appointments: default power of Secretary of State](section/490A.md)
+      - [s. 491 Term of office of auditors of public company](section/491.md)
+      - [s. 491A Maximum engagement period: transitional arrangements](section/491A.md)
+    - General provisions
+      - [s. 492 Fixing of auditor’s remuneration](section/492.md)
+      - [s. 493 Disclosure of terms of audit appointment](section/493.md)
+      - [s. 494 Disclosure of services provided by auditor or associates and related remuneration](section/494.md)
+      - [s. 494ZA The maximum engagement period](section/494ZA.md)
+      - [s. 494A Interpretation](section/494A.md)
+  - Chapter 3 Functions of auditor
+    - Auditor’s report
+      - [s. 495 Auditor’s report on company’s annual accounts](section/495.md)
+      - [s. 496 Auditor’s report on strategic report and on directors’ report](section/496.md)
+      - [s. 497 Auditor’s report on auditable part of directors’ remuneration report](section/497.md)
+      - [s. 497A Auditor’s report on separate corporate governance statement](section/497A.md)
+    - Duties and rights of auditors
+      - [s. 498 Duties of auditor](section/498.md)
+      - [s. 498A Auditor’s duties in relation to separate corporate governance statement](section/498A.md)
+      - [s. 499 Auditor’s general right to information](section/499.md)
+      - [s. 500 Auditor’s right to information from overseas subsidiaries](section/500.md)
+      - [s. 501 Auditor’s rights to information: offences](section/501.md)
+      - [s. 502 Auditor’s rights in relation to resolutions and meetings](section/502.md)
+    - Signature of auditor’s report
+      - [s. 503 Signature of auditor’s report](section/503.md)
+      - [s. 504 Senior statutory auditor](section/504.md)
+      - [s. 505 Names to be stated in published copies of auditor’s report](section/505.md)
+      - [s. 506 Circumstances in which names may be omitted](section/506.md)
+    - Offences in connection with auditor’s report
+      - [s. 507 Offences in connection with auditor’s report](section/507.md)
+      - [s. 508 Guidance for regulatory and prosecuting authorities: England, Wales and Northern Ireland](section/508.md)
+      - [s. 509 Guidance for regulatory authorities: Scotland](section/509.md)
+  - Chapter 4 Removal, resignation, etc of auditors
+    - Removal of auditor
+      - [s. 510 Resolution removing auditor from office](section/510.md)
+      - [s. 511 Special notice required for resolution removing auditor from office](section/511.md)
+      - [s. 511A Public interest companies: application to court to remove auditor from office](section/511A.md)
+      - [s. 512 Notice to registrar of resolution removing auditor from office](section/512.md)
+      - [s. 513 Rights of auditor who has been removed from office](section/513.md)
+    - Failure to re-appoint auditor
+      - [s. 514 Failure to re-appoint auditor: special procedure required for written resolution](section/514.md)
+      - [s. 515 Failure to re-appoint auditor: special notice required for resolution at general meeting](section/515.md)
+    - Resignation of auditor
+      - [s. 516 Resignation of auditor](section/516.md)
+      - [s. 517 Notice to registrar of resignation of auditor](section/517.md)
+      - [s. 518 Rights of resigning auditor](section/518.md)
+    - Statement by auditor on ceasing to hold office
+      - [s. 519 Statement by auditor to be sent to company](section/519.md)
+      - [s. 519A Meaning of “public interest company”, “non-public interest company” and “exempt reasons”](section/519A.md)
+      - [s. 520 Company’s duties in relation to statement](section/520.md)
+      - [s. 521 Copy of statement to be sent to registrar](section/521.md)
+      - [s. 522 Duty of auditor to send statement to appropriate audit authority](section/522.md)
+      - [s. 523 Duty of company to notify appropriate audit authority](section/523.md)
+      - [s. 524 Provision of information to accounting authorities](section/524.md)
+      - [s. 525 Meaning of “appropriate audit authority” ...](section/525.md)
+    - Supplementary
+      - [s. 526 Effect of casual vacancies](section/526.md)
+  - Chapter 5 Quoted companies: right of members to raise audit concerns at accounts meeting
+    - [s. 527 Members’ power to require website publication of audit concerns](section/527.md)
+    - [s. 528 Requirements as to website availability](section/528.md)
+    - [s. 529 Website publication: company’s supplementary duties](section/529.md)
+    - [s. 530 Website publication: offences](section/530.md)
+    - [s. 531 Meaning of “quoted company”](section/531.md)
+  - Chapter 6 Auditors’ liability
+    - Voidness of provisions protecting auditors from liability
+      - [s. 532 Voidness of provisions protecting auditors from liability](section/532.md)
+    - Indemnity for costs of defending proceedings
+      - [s. 533 Indemnity for costs of successfully defending proceedings](section/533.md)
+    - Liability limitation agreements
+      - [s. 534 Liability limitation agreements](section/534.md)
+      - [s. 535 Terms of liability limitation agreement](section/535.md)
+      - [s. 536 Authorisation of agreement by members of the company](section/536.md)
+      - [s. 537 Effect of liability limitation agreement](section/537.md)
+      - [s. 538 Disclosure of agreement by company](section/538.md)
+      - [s. 538A Meaning of “corporate governance statement” etc](section/538A.md)
+  - Chapter 7 Supplementary provisions
+    - [s. 539 Minor definitions](section/539.md)
+- Part 17 A company’s share capital
+  - Chapter 1 Shares and share capital of a company
+    - Shares
+      - [s. 540 Shares](section/540.md)
+      - [s. 541 Nature of shares](section/541.md)
+      - [s. 542 Nominal value of shares](section/542.md)
+      - [s. 543 Numbering of shares](section/543.md)
+      - [s. 544 Transferability of shares](section/544.md)
+      - [s. 545 Companies having a share capital](section/545.md)
+      - [s. 546 Issued and allotted share capital](section/546.md)
+    - Share capital
+      - [s. 547 Called-up share capital](section/547.md)
+      - [s. 548 Equity share capital](section/548.md)
+  - Chapter 2 Allotment of shares: general provisions
+    - Power of directors to allot shares
+      - [s. 549 Exercise by directors of power to allot shares etc](section/549.md)
+      - [s. 550 Power of directors to allot shares etc: private company with only one class of shares](section/550.md)
+      - [s. 551 Power of directors to allot shares etc: authorisation by company](section/551.md)
+    - Prohibition of commissions, discounts and allowances
+      - [s. 552 General prohibition of commissions, discounts and allowances](section/552.md)
+      - [s. 553 Permitted commission](section/553.md)
+    - Registration of allotment
+      - [s. 554 Registration of allotment](section/554.md)
+    - Return of allotment
+      - [s. 555 Return of allotment by limited company](section/555.md)
+      - [s. 556 Return of allotment by unlimited company allotting new class of shares](section/556.md)
+      - [s. 557 Offence of failure to make return](section/557.md)
+    - Supplementary provisions
+      - [s. 558 When shares are allotted](section/558.md)
+      - [s. 559 Provisions about allotment not applicable to shares taken on formation](section/559.md)
+  - Chapter 3 Allotment of equity securities: existing shareholders’ right of pre-emption
+    - Introductory
+      - [s. 560 Meaning of “equity securities” and related expressions](section/560.md)
+    - Existing shareholders’ right of pre-emption
+      - [s. 561 Existing shareholders’ right of pre-emption](section/561.md)
+      - [s. 562 Communication of pre-emption offers to shareholders](section/562.md)
+      - [s. 563 Liability of company and officers in case of contravention](section/563.md)
+    - Exceptions to right of pre-emption
+      - [s. 564 Exception to pre-emption right: bonus shares](section/564.md)
+      - [s. 565 Exception to pre-emption right: issue for non-cash consideration](section/565.md)
+      - [s. 566 Exceptions to pre-emption right: employees’ share schemes](section/566.md)
+      - [s. 566A Exception to pre-emption right: companies in financial difficulty](section/566A.md)
+    - Exclusion of right of pre-emption
+      - [s. 567 Exclusion of requirements by private companies](section/567.md)
+      - [s. 568 Exclusion of pre-emption right: articles conferring corresponding right](section/568.md)
+    - Disapplication of pre-emption rights
+      - [s. 569 Disapplication of pre-emption rights: private company with only one class of shares](section/569.md)
+      - [s. 570 Disapplication of pre-emption rights: directors acting under general authorisation](section/570.md)
+      - [s. 571 Disapplication of pre-emption rights by special resolution](section/571.md)
+      - [s. 572 Liability for false statement in directors’ statement](section/572.md)
+      - [s. 573 Disapplication of pre-emption rights: sale of treasury shares](section/573.md)
+    - Supplementary
+      - [s. 574 References to holder of shares in relation to offer](section/574.md)
+      - [s. 575 Saving for other restrictions on offer or allotment](section/575.md)
+      - [s. 576 Saving for certain older pre-emption requirements](section/576.md)
+      - [s. 577 Provisions about pre-emption not applicable to shares taken on formation](section/577.md)
+  - Chapter 4 Public companies: allotment where issue not fully subscribed
+    - [s. 578 Public companies: allotment where issue not fully subscribed](section/578.md)
+    - [s. 579 Public companies: effect of irregular allotment where issue not fully subscribed](section/579.md)
+  - Chapter 5 Payment for shares
+    - General rules
+      - [s. 580 Shares not to be allotted at a discount](section/580.md)
+      - [s. 581 Provision for different amounts to be paid on shares](section/581.md)
+      - [s. 582 General rule as to means of payment](section/582.md)
+      - [s. 583 Meaning of payment in cash](section/583.md)
+    - Additional rules for public companies
+      - [s. 584 Public companies: shares taken by subscribers of memorandum](section/584.md)
+      - [s. 585 Public companies: must not accept undertaking to do work or perform services](section/585.md)
+      - [s. 586 Public companies: shares must be at least one-quarter paid up](section/586.md)
+      - [s. 587 Public companies: payment by long-term undertaking](section/587.md)
+    - Supplementary provisions
+      - [s. 588 Liability of subsequent holders of shares](section/588.md)
+      - [s. 589 Power of court to grant relief](section/589.md)
+      - [s. 590 Penalty for contravention of this Chapter](section/590.md)
+      - [s. 591 Enforceability of undertakings to do work etc](section/591.md)
+      - [s. 592 The appropriate rate of interest](section/592.md)
+  - Chapter 6 Public companies: independent valuation of non-cash consideration
+    - Non-cash consideration for shares
+      - [s. 593 Public company: valuation of non-cash consideration for shares](section/593.md)
+      - [s. 594 Exception to valuation requirement: arrangement with another company](section/594.md)
+      - [s. 595 Exception to valuation requirement: merger or division](section/595.md)
+      - [s. 596 Non-cash consideration for shares: requirements as to valuation and report](section/596.md)
+      - [s. 597 Copy of report to be delivered to registrar](section/597.md)
+    - Transfer of non-cash asset in initial period
+      - [s. 598 Public company: agreement for transfer of non-cash asset in initial period](section/598.md)
+      - [s. 599 Agreement for transfer of non-cash asset: requirement of independent valuation](section/599.md)
+      - [s. 600 Agreement for transfer of non-cash asset: requirements as to valuation and report](section/600.md)
+      - [s. 601 Agreement for transfer of non-cash asset: requirement of approval by members](section/601.md)
+      - [s. 602 Copy of resolution to be delivered to registrar](section/602.md)
+      - [s. 603 Adaptation of provisions in relation to company re-registering as public](section/603.md)
+      - [s. 604 Agreement for transfer of non-cash asset: effect of contravention](section/604.md)
+    - Supplementary provisions
+      - [s. 605 Liability of subsequent holders of shares](section/605.md)
+      - [s. 606 Power of court to grant relief](section/606.md)
+      - [s. 607 Penalty for contravention of this Chapter](section/607.md)
+      - [s. 608 Enforceability of undertakings to do work etc](section/608.md)
+      - [s. 609 The appropriate rate of interest](section/609.md)
+  - Chapter 7 Share premiums
+    - The share premium account
+      - [s. 610 Application of share premiums](section/610.md)
+    - Relief from requirements as to share premiums
+      - [s. 611 Group reconstruction relief](section/611.md)
+      - [s. 612 Merger relief](section/612.md)
+      - [s. 613 Merger relief: meaning of 90% equity holding](section/613.md)
+      - [s. 614 Power to make further provision by regulations](section/614.md)
+      - [s. 615 Relief may be reflected in company’s balance sheet](section/615.md)
+    - Supplementary provisions
+      - [s. 616 Interpretation of this Chapter](section/616.md)
+  - Chapter 8 Alteration of share capital
+    - How share capital may be altered
+      - [s. 617 Alteration of share capital of limited company](section/617.md)
+    - Subdivision or consolidation of shares
+      - [s. 618 Sub-division or consolidation of shares](section/618.md)
+      - [s. 619 Notice to registrar of sub-division or consolidation](section/619.md)
+    - Reconversion of stock into shares
+      - [s. 620 Reconversion of stock into shares](section/620.md)
+      - [s. 621 Notice to registrar of reconversion of stock into shares](section/621.md)
+    - Redenomination of share capital
+      - [s. 622 Redenomination of share capital](section/622.md)
+      - [s. 623 Calculation of new nominal values](section/623.md)
+      - [s. 624 Effect of redenomination](section/624.md)
+      - [s. 625 Notice to registrar of redenomination](section/625.md)
+      - [s. 626 Reduction of capital in connection with redenomination](section/626.md)
+      - [s. 627 Notice to registrar of reduction of capital in connection with redenomination](section/627.md)
+      - [s. 628 Redenomination reserve](section/628.md)
+  - Chapter 9 Classes of share and class rights
+    - Introductory
+      - [s. 629 Classes of shares](section/629.md)
+    - Variation of class rights
+      - [s. 630 Variation of class rights: companies having a share capital](section/630.md)
+      - [s. 631 Variation of class rights: companies without a share capital](section/631.md)
+      - [s. 632 Variation of class rights: saving for court’s powers under other provisions](section/632.md)
+      - [s. 633 Right to object to variation: companies having a share capital](section/633.md)
+      - [s. 634 Right to object to variation: companies without a share capital](section/634.md)
+      - [s. 635 Copy of court order to be forwarded to the registrar](section/635.md)
+    - Matters to be notified to the registrar
+      - [s. 636 Notice of name or other designation of class of shares](section/636.md)
+      - [s. 637 Notice of particulars of variation of rights attached to shares](section/637.md)
+      - [s. 638 Notice of new class of members](section/638.md)
+      - [s. 639 Notice of name or other designation of class of members](section/639.md)
+      - [s. 640 Notice of particulars of variation of class rights](section/640.md)
+  - Chapter 10 Reduction of share capital
+    - Introductory
+      - [s. 641 Circumstances in which a company may reduce its share capital](section/641.md)
+    - Private companies: reduction of capital supported by solvency statement
+      - [s. 642 Reduction of capital supported by solvency statement](section/642.md)
+      - [s. 643 Solvency statement](section/643.md)
+      - [s. 644 Registration of resolution and supporting documents](section/644.md)
+    - Reduction of capital confirmed by the court
+      - [s. 645 Application to court for order of confirmation](section/645.md)
+      - [s. 646 Creditors entitled to object to reduction](section/646.md)
+      - [s. 647 Offences in connection with list of creditors](section/647.md)
+      - [s. 648 Court order confirming reduction](section/648.md)
+      - [s. 649 Registration of order and statement of capital](section/649.md)
+    - Public company reducing capital below authorised minimum
+      - [s. 650 Public company reducing capital below authorised minimum](section/650.md)
+      - [s. 651 Expedited procedure for re-registration as a private company](section/651.md)
+    - Effect of reduction of capital
+      - [s. 652 Liability of members following reduction of capital](section/652.md)
+      - [s. 653 Liability to creditor in case of omission from list of creditors](section/653.md)
+  - Chapter 11 Miscellaneous and supplementary provisions
+    - [s. 654 Treatment of reserve arising from reduction of capital](section/654.md)
+    - [s. 655 Shares no bar to damages against company](section/655.md)
+    - [s. 656 Public companies: duty of directors to call meeting on serious loss of capital](section/656.md)
+    - [s. 657 General power to make further provision by regulations](section/657.md)
+- Part 18 Acquisition by limited company of its own shares
+  - Chapter 1 General provisions
+    - Introductory
+      - [s. 658 General rule against limited company acquiring its own shares](section/658.md)
+      - [s. 659 Exceptions to general rule](section/659.md)
+    - Shares held by company’s nominee
+      - [s. 660 Treatment of shares held by nominee](section/660.md)
+      - [s. 661 Liability of others where nominee fails to make payment in respect of shares](section/661.md)
+    - Shares held by or for public company
+      - [s. 662 Duty to cancel shares in public company held by or for the company](section/662.md)
+      - [s. 663 Notice of cancellation of shares](section/663.md)
+      - [s. 664 Re-registration as private company in consequence of cancellation](section/664.md)
+      - [s. 665 Issue of certificate of incorporation on re-registration](section/665.md)
+      - [s. 666 Effect of failure to re-register](section/666.md)
+      - [s. 667 Offence in case of failure to cancel shares or re-register](section/667.md)
+      - [s. 668 Application of provisions to company re-registering as public company](section/668.md)
+      - [s. 669 Transfer to reserve on acquisition of shares by public company or nominee](section/669.md)
+    - Charges of public company on own shares
+      - [s. 670 Public companies: general rule against lien or charge on own shares](section/670.md)
+    - Supplementary provisions
+      - [s. 671 Interests to be disregarded in determining whether company has beneficial interest](section/671.md)
+      - [s. 672 Residual interest under pension scheme or employees’ share scheme](section/672.md)
+      - [s. 673 Employer’s charges and other rights of recovery](section/673.md)
+      - [s. 674 Rights as personal representative or trustee](section/674.md)
+      - [s. 675 Meaning of “pension scheme”](section/675.md)
+      - [s. 676 Application of provisions to directors](section/676.md)
+  - Chapter 2 Financial assistance for purchase of own shares
+    - Introductory
+      - [s. 677 Meaning of “financial assistance”](section/677.md)
+    - Circumstances in which financial assistance prohibited
+      - [s. 678 Assistance for acquisition of shares in public company](section/678.md)
+      - [s. 679 Assistance by public company for acquisition of shares in its private holding company](section/679.md)
+      - [s. 680 Prohibited financial assistance an offence](section/680.md)
+    - Exceptions from prohibition
+      - [s. 681 Unconditional exceptions](section/681.md)
+      - [s. 682 Conditional exceptions](section/682.md)
+    - Supplementary
+      - [s. 683 Definitions for this Chapter](section/683.md)
+  - Chapter 3 Redeemable shares
+    - [s. 684 Power of limited company to issue redeemable shares](section/684.md)
+    - [s. 685 Terms and manner of redemption](section/685.md)
+    - [s. 686 Payment for redeemable shares](section/686.md)
+    - [s. 687 Financing of redemption](section/687.md)
+    - [s. 688 Redeemed shares treated as cancelled](section/688.md)
+    - [s. 689 Notice to registrar of redemption](section/689.md)
+  - Chapter 4 Purchase of own shares
+    - General provisions
+      - [s. 690 Power of limited company to purchase own shares](section/690.md)
+      - [s. 691 Payment for purchase of own shares](section/691.md)
+      - [s. 692 Financing of purchase of own shares](section/692.md)
+    - Authority for purchase of own shares
+      - [s. 693 Authority for purchase of own shares](section/693.md)
+      - [s. 693A Authority for off-market purchase for the purposes of or pursuant to an employees’ share scheme](section/693A.md)
+    - Authority for off-market purchase
+      - [s. 694 Authority for off-market purchase](section/694.md)
+      - [s. 695 Resolution authorising off-market purchase: exercise of voting rights](section/695.md)
+      - [s. 696 Resolution authorising off-market purchase: disclosure of details of contract](section/696.md)
+      - [s. 697 Variation of contract for off-market purchase](section/697.md)
+      - [s. 698 Resolution authorising variation: exercise of voting rights](section/698.md)
+      - [s. 699 Resolution authorising variation: disclosure of details of variation](section/699.md)
+      - [s. 700 Release of company’s rights under contract for off-market purchase](section/700.md)
+    - Authority for market purchase
+      - [s. 701 Authority for market purchase](section/701.md)
+    - Supplementary provisions
+      - [s. 702 Copy of contract or memorandum to be available for inspection](section/702.md)
+      - [s. 703 Enforcement of right to inspect copy or memorandum](section/703.md)
+      - [s. 704 No assignment of company’s right to purchase own shares](section/704.md)
+      - [s. 705 Payments apart from purchase price to be made out of distributable profits](section/705.md)
+      - [s. 706 Treatment of shares purchased](section/706.md)
+      - [s. 707 Return to registrar of purchase of own shares](section/707.md)
+      - [s. 708 Notice to registrar of cancellation of shares](section/708.md)
+  - Chapter 5 Redemption or purchase by private company out of capital
+    - Introductory
+      - [s. 709 Power of private limited company to redeem or purchase own shares out of capital](section/709.md)
+    - The permissible capital payment
+      - [s. 710 The permissible capital payment](section/710.md)
+      - [s. 711 Available profits](section/711.md)
+      - [s. 712 Determination of available profits](section/712.md)
+    - Requirements for payment out of capital
+      - [s. 713 Requirements for payment out of capital](section/713.md)
+      - [s. 714 Directors’ statement and auditor’s report](section/714.md)
+      - [s. 715 Directors’ statement: offence if no reasonable grounds for opinion](section/715.md)
+      - [s. 716 Payment to be approved by special resolution](section/716.md)
+      - [s. 717 Resolution authorising payment: exercise of voting rights](section/717.md)
+      - [s. 718 Resolution authorising payment: disclosure of directors’ statement and auditor’s report](section/718.md)
+      - [s. 719 Public notice of proposed payment](section/719.md)
+      - [s. 720 Directors’ statement and auditor’s report to be available for inspection](section/720.md)
+    - Requirements for payment out of capital: employees’ share schemes
+      - [s. 720A Reduced requirements for payment out of capital for purchase of own shares for the purposes of or pursuant to an employees’ share scheme](section/720A.md)
+      - [s. 720B Registration of resolution and supporting documents for purchase of own shares for the purposes of or pursuant to an employees’ share scheme](section/720B.md)
+    - Objection to payment by members or creditors
+      - [s. 721 Application to court to cancel resolution](section/721.md)
+      - [s. 722 Notice to registrar of court application or order](section/722.md)
+    - Supplementary provisions
+      - [s. 723 Time when payment out of capital to be made or shares to be surrendered](section/723.md)
+  - Chapter 6 Treasury shares
+    - [s. 724 Treasury shares](section/724.md)
+    - [s. 725 Treasury shares: maximum holdings](section/725.md)
+    - [s. 726 Treasury shares: exercise of rights](section/726.md)
+    - [s. 727 Treasury shares: disposal](section/727.md)
+    - [s. 728 Treasury shares: notice of disposal](section/728.md)
+    - [s. 729 Treasury shares: cancellation](section/729.md)
+    - [s. 730 Treasury shares: notice of cancellation](section/730.md)
+    - [s. 731 Treasury shares: treatment of proceeds of sale](section/731.md)
+    - [s. 732 Treasury shares: offences](section/732.md)
+  - Chapter 7 Supplementary provisions
+    - [s. 733 The capital redemption reserve](section/733.md)
+    - [s. 734 Accounting consequences of payment out of capital](section/734.md)
+    - [s. 735 Effect of company’s failure to redeem or purchase](section/735.md)
+    - [s. 736 Meaning of “distributable profits”](section/736.md)
+    - [s. 737 General power to make further provision by regulations](section/737.md)
+- Part 19 Debentures
+  - General provisions
+    - [s. 738 Meaning of “debenture”](section/738.md)
+    - [s. 739 Perpetual debentures](section/739.md)
+    - [s. 740 Enforcement of contract to subscribe for debentures](section/740.md)
+    - [s. 741 Registration of allotment of debentures](section/741.md)
+    - [s. 742 Debentures to bearer (Scotland)](section/742.md)
+  - Register of debenture holders
+    - [s. 743 Register of debenture holders](section/743.md)
+    - [s. 744 Register of debenture holders: right to inspect and require copy](section/744.md)
+    - [s. 745 Register of debenture holders: response to request for inspection or copy](section/745.md)
+    - [s. 746 Register of debenture holders: refusal of inspection or default in providing copy](section/746.md)
+    - [s. 747 Register of debenture holders: offences in connection with request for or disclosure of information](section/747.md)
+    - [s. 748 Time limit for claims arising from entry in register](section/748.md)
+  - Supplementary provisions
+    - [s. 749 Right of debenture holder to copy of deed](section/749.md)
+    - [s. 750 Liability of trustees of debentures](section/750.md)
+    - [s. 751 Liability of trustees of debentures: saving for certain older provisions](section/751.md)
+    - [s. 752 Power to re-issue redeemed debentures](section/752.md)
+    - [s. 753 Deposit of debentures to secure advances](section/753.md)
+    - [s. 754 Priorities where debentures secured by floating charge](section/754.md)
+- Part 20 Private and public companies
+  - Chapter 1 Prohibition of public offers by private companies
+    - [s. 755 Prohibition of public offers by private company](section/755.md)
+    - [s. 756 Meaning of “offer to the public”](section/756.md)
+    - [s. 757 Enforcement of prohibition: order restraining proposed contravention](section/757.md)
+    - [s. 758 Enforcement of prohibition: orders available to the court after contravention](section/758.md)
+    - [s. 759 Enforcement of prohibition: remedial order](section/759.md)
+    - [s. 760 Validity of allotment etc not affected](section/760.md)
+  - Chapter 2 Minimum share capital requirement for public companies
+    - [s. 761 Public company: requirement as to minimum share capital](section/761.md)
+    - [s. 762 Procedure for obtaining certificate](section/762.md)
+    - [s. 763 The authorised minimum](section/763.md)
+    - [s. 764 Power to alter authorised minimum](section/764.md)
+    - [s. 765 Authorised minimum: application of initial requirement](section/765.md)
+    - [s. 766 Authorised minimum: application where shares denominated in different currencies etc](section/766.md)
+    - [s. 767 Consequences of doing business etc without a trading certificate](section/767.md)
+- Part 21 Certification and transfer of securities
+  - Chapter 1 Certification and transfer of securities: general
+    - Share certificates
+      - [s. 768 Share certificate to be evidence of title](section/768.md)
+    - Issue of certificates etc on allotment
+      - [s. 769 Duty of company as to issue of certificates etc on allotment](section/769.md)
+    - Transfer of securities
+      - [s. 770 Registration of transfer](section/770.md)
+      - [s. 771 Procedure on transfer being lodged](section/771.md)
+      - [s. 772 Transfer of shares on application of transferor](section/772.md)
+      - [s. 773 Execution of share transfer by personal representative](section/773.md)
+      - [s. 774 Evidence of grant of probate etc](section/774.md)
+      - [s. 775 Certification of instrument of transfer](section/775.md)
+    - Issue of certificates etc on transfer
+      - [s. 776 Duty of company as to issue of certificates etc on transfer](section/776.md)
+      - [s. 777 Issue of certificates etc: cases within the Stock Transfer Act 1982](section/777.md)
+    - Issue of certificates etc on allotment or transfer to financial institution
+      - [s. 778 Issue of certificates etc: allotment or transfer to financial institution](section/778.md)
+    - Share warrants
+      - [s. 779 Prohibition on issue of new share warrants and effect of existing share warrants](section/779.md)
+      - [s. 780 Duty of company as to issue of certificates on surrender of share warrant](section/780.md)
+      - [s. 781 Offences in connection with share warrants (Scotland)](section/781.md)
+    - Supplementary provisions
+      - [s. 782 Issue of certificates etc: court order to make good default](section/782.md)
+  - Chapter 2 Evidencing and transfer of title to securities without written instrument
+    - Introductory
+      - [s. 783 Scope of this Chapter](section/783.md)
+      - [s. 784 Power to make regulations](section/784.md)
+    - Powers exercisable
+      - [s. 785 Provision enabling procedures for evidencing and transferring title](section/785.md)
+      - [s. 786 Provision enabling or requiring arrangements to be adopted](section/786.md)
+      - [s. 787 Provision enabling or requiring arrangements to be adopted: order-making powers](section/787.md)
+    - Supplementary
+      - [s. 788 Provision that may be included in regulations](section/788.md)
+      - [s. 789 Duty to consult](section/789.md)
+      - [s. 790 Resolutions to be forwarded to registrar](section/790.md)
+- PART 21A Information about people with significant control
+  - CHAPTER 1 Introduction
+    - [s. 790A Overview](section/790A.md)
+    - [s. 790B Companies to which this Part applies](section/790B.md)
+    - [s. 790C Key terms](section/790C.md)
+    - [s. 790CA References to “confirmation” etc of information](section/790CA.md)
+  - CHAPTER 2 Information-gathering
+    - Duty on companies
+      - [s. 790CB Duty to find out about persons with significant control](section/790CB.md)
+      - [s. 790D Company’s duty to give notices to persons with significant control](section/790D.md)
+      - [s. 790DA Obtaining information from third parties](section/790DA.md)
+      - [s. 790E Company’s duty to find out about changes in PSC information](section/790E.md)
+      - [s. 790EA Company’s duty to find out about persons ceasing to be PSCs](section/790EA.md)
+      - [s. 790EB Company’s duty to notify failure to comply with notices](section/790EB.md)
+      - [s. 790EC Company’s duty to notify of late compliance with notices](section/790EC.md)
+      - [s. 790ED Company’s duty to notify that it has given a restrictions notice](section/790ED.md)
+      - [s. 790EE Company’s duty to notify that it has withdrawn a restrictions notice](section/790EE.md)
+      - [s. 790EF Company’s duty to notify that court has ended restrictions](section/790EF.md)
+      - [s. 790F Failure by company to comply with information duties](section/790F.md)
+    - Duty on others
+      - [s. 790G Duty to notify company on becoming PSC](section/790G.md)
+      - [s. 790H Duty to notify company of changes in PSC information](section/790H.md)
+      - [s. 790HA Duty to notify company of ceasing to be a PSC](section/790HA.md)
+    - Compliance
+      - [s. 790I Enforcement of disclosure requirements](section/790I.md)
+    - Power to impose further duties
+      - [s. 790IA Power to impose further duties involving nominee shareholders](section/790IA.md)
+    - Exemption from information and registration requirements
+      - [s. 790J Power to make exemptions](section/790J.md)
+    - Required particulars
+      - [s. 790K Required particulars](section/790K.md)
+      - [s. 790L Required particulars: power to amend](section/790L.md)
+  - CHAPTER 2A Duty to notify registrar of persons with significant control and ID verification
+    - Duty to notify registrar of persons with significant control
+      - [s. 790LA Duty to notify registrar of confirmed persons with significant control](section/790LA.md)
+      - [s. 790LB Option to provide ID verification information in notice of change](section/790LB.md)
+      - [s. 790LC Duty to notify registrar of unconfirmed persons with significant control](section/790LC.md)
+    - Duty to notify registrar of changes in required particulars
+      - [s. 790LD Duties to notify of changes in required particulars](section/790LD.md)
+      - [s. 790LE Duty to notify of pre-incorporation changes in required particulars](section/790LE.md)
+    - Duty to notify registrar of person ceasing to be person with significant control etc
+      - [s. 790LF Duty to notify registrar when person ceases to have significant control](section/790LF.md)
+      - [s. 790LG Notification of someone not becoming person with significant control on incorporation](section/790LG.md)
+      - [s. 790LH Duty to notify registrar if company has no persons with significant control](section/790LH.md)
+      - [s. 790LI Power to create further duties to notify information](section/790LI.md)
+      - [s. 790LJ Persons with significant control: offence of failure to notify](section/790LJ.md)
+      - [s. 790LK Power of court to order company to remedy defaults or delay](section/790LK.md)
+      - [s. 790LL Information as to whether information has been delivered](section/790LL.md)
+    - Identity verification obligations for persons with significant control
+      - [s. 790LM Initial identity verification: registrable persons](section/790LM.md)
+      - [s. 790LN Initial identity verification for registrable persons: transitional cases](section/790LN.md)
+      - [s. 790LO Initial identity verification: registrable relevant legal entities](section/790LO.md)
+      - [s. 790LP Initial identity verification in respect of registrable relevant legal entities: transitional cases](section/790LP.md)
+      - [s. 790LQ Registrable persons: duty to maintain verified identity status](section/790LQ.md)
+      - [s. 790LR Registrable relevant legal entities: duty to maintain registered officer whose identity is verified](section/790LR.md)
+      - [s. 790LS Registrable relevant legal entities: change of registered relevant officer](section/790LS.md)
+      - [s. 790LT Offence of failing to comply with sections 790LM to 790LR](section/790LT.md)
+  - CHAPTER 3 Register of people with significant control
+    - [s. 790M Duty to keep register](section/790M.md)
+    - [s. 790N Register to be kept available for inspection](section/790N.md)
+    - [s. 790O Rights to inspect and require copies](section/790O.md)
+    - [s. 790P PSC register: response to request for inspection or copy](section/790P.md)
+    - [s. 790Q PSC register: refusal of inspection or default in providing copy](section/790Q.md)
+    - [s. 790R PSC register: offences in connection with request for or disclosure of information](section/790R.md)
+    - [s. 790S Information as to state of register](section/790S.md)
+    - [s. 790T Protected information](section/790T.md)
+    - [s. 790U Removal of entries from the register](section/790U.md)
+    - [s. 790V Power of court to rectify register](section/790V.md)
+    - [s. 790VA Notification of changes to the registrar](section/790VA.md)
+  - CHAPTER 4 Alternative method of record-keeping
+    - [s. 790W Introductory](section/790W.md)
+    - [s. 790X Right to make an election](section/790X.md)
+    - [s. 790Y Effective date of election](section/790Y.md)
+    - [s. 790Z Effect of election on obligations under Chapter 3](section/790Z.md)
+    - [s. 790ZA Duty to notify registrar of changes](section/790ZA.md)
+    - [s. 790ZB Information as to state of central register](section/790ZB.md)
+    - [s. 790ZC Power of court to order company to remedy default or delay](section/790ZC.md)
+    - [s. 790ZD Withdrawing the election](section/790ZD.md)
+    - [s. 790ZE Power to extend option to public companies](section/790ZE.md)
+  - CHAPTER 5 Protection from disclosure
+    - [s. 790ZF Protection of information as to usual residential address](section/790ZF.md)
+    - [s. 790ZG Power to make regulations protecting material](section/790ZG.md)
+    - [s. 790ZH Offence of failing to comply with regulations under section 790ZG](section/790ZH.md)
+- Part 22 Information about interests in a company’s shares
+  - Introductory
+    - [s. 791 Companies to which this Part applies](section/791.md)
+    - [s. 792 Shares to which this Part applies](section/792.md)
+  - Notice requiring information about interests in shares
+    - [s. 793 Notice by company requiring information about interests in its shares](section/793.md)
+    - [s. 794 Notice requiring information: order imposing restrictions on shares](section/794.md)
+    - [s. 795 Notice requiring information: offences](section/795.md)
+    - [s. 796 Notice requiring information: persons exempted from obligation to comply](section/796.md)
+  - Orders imposing restrictions on shares
+    - [s. 797 Consequences of order imposing restrictions](section/797.md)
+    - [s. 798 Penalty for attempted evasion of restrictions](section/798.md)
+    - [s. 799 Relaxation of restrictions](section/799.md)
+    - [s. 800 Removal of restrictions](section/800.md)
+    - [s. 801 Order for sale of shares](section/801.md)
+    - [s. 802 Application of proceeds of sale under court order](section/802.md)
+  - Power of members to require company to act
+    - [s. 803 Power of members to require company to act](section/803.md)
+    - [s. 804 Duty of company to comply with requirement](section/804.md)
+    - [s. 805 Report to members on outcome of investigation](section/805.md)
+    - [s. 806 Report to members: offences](section/806.md)
+    - [s. 807 Right to inspect and request copy of reports](section/807.md)
+  - Register of interests disclosed
+    - [s. 808 Register of interests disclosed](section/808.md)
+    - [s. 809 Register to be kept available for inspection](section/809.md)
+    - [s. 810 Associated index](section/810.md)
+    - [s. 811 Rights to inspect and require copy of entries](section/811.md)
+    - [s. 812 Court supervision of purpose for which rights may be exercised](section/812.md)
+    - [s. 813 Register of interests disclosed: refusal of inspection or default in providing copy](section/813.md)
+    - [s. 814 Register of interests disclosed: offences in connection with request for or disclosure of information](section/814.md)
+    - [s. 815 Entries not to be removed from register](section/815.md)
+    - [s. 816 Removal of entries from register: old entries](section/816.md)
+    - [s. 817 Removal of entries from register: incorrect entry relating to third party](section/817.md)
+    - [s. 818 Adjustment of entry relating to share acquisition agreement](section/818.md)
+    - [s. 819 Duty of company ceasing to be public company](section/819.md)
+  - Meaning of interest in shares
+    - [s. 820 Interest in shares: general](section/820.md)
+    - [s. 821 Interest in shares: right to subscribe for shares](section/821.md)
+    - [s. 822 Interest in shares: family interests](section/822.md)
+    - [s. 823 Interest in shares: corporate interests](section/823.md)
+    - [s. 824 Interest in shares: agreement to acquire interests in a particular company](section/824.md)
+    - [s. 825 Extent of obligation in case of share acquisition agreement](section/825.md)
+  - Other supplementary provisions
+    - [s. 826 Information protected from wider disclosure](section/826.md)
+    - [s. 827 Reckoning of periods for fulfilling obligations](section/827.md)
+    - [s. 828 Power to make further provision by regulations](section/828.md)
+- Part 23 Distributions
+  - Chapter 1 Restrictions on when distributions may be made
+    - Introductory
+      - [s. 829 Meaning of “distribution”](section/829.md)
+    - General rules
+      - [s. 830 Distributions to be made only out of profits available for the purpose](section/830.md)
+      - [s. 831 Net asset restriction on distributions by public companies](section/831.md)
+    - Distributions by investment companies or Solvency 2 insurance companies
+      - [s. 832 Distributions by investment companies out of accumulated revenue profits](section/832.md)
+      - [s. 833 Meaning of “investment company”](section/833.md)
+      - [s. 833A Distributions by insurance companies authorised under the Solvency 2 Directive](section/833A.md)
+      - [s. 834 Investment company: condition as to holdings in other companies](section/834.md)
+      - [s. 835 Power to extend provisions relating to investment companies](section/835.md)
+  - Chapter 2 Justification of distribution by reference to accounts
+    - Justification of distribution by reference to accounts
+      - [s. 836 Justification of distribution by reference to relevant accounts](section/836.md)
+    - Requirements applicable in relation to relevant accounts
+      - [s. 837 Requirements where last annual accounts used](section/837.md)
+      - [s. 838 Requirements where interim accounts used](section/838.md)
+      - [s. 839 Requirements where initial accounts used](section/839.md)
+    - Application of provisions to successive distributions etc
+      - [s. 840 Successive distributions etc by reference to the same accounts](section/840.md)
+  - Chapter 3 Supplementary provisions
+    - Accounting matters
+      - [s. 841 Realised losses and profits and revaluation of fixed assets](section/841.md)
+      - [s. 842 Determination of profit or loss in respect of asset where records incomplete](section/842.md)
+      - [s. 843 Realised profits and losses of long-term insurance business of certain insurance companies](section/843.md)
+      - [s. 844 Treatment of development costs](section/844.md)
+    - Distributions in kind
+      - [s. 845 Distributions in kind: determination of amount](section/845.md)
+      - [s. 846 Distributions in kind: treatment of unrealised profits](section/846.md)
+    - Consequences of unlawful distribution
+      - [s. 847 Consequences of unlawful distribution](section/847.md)
+    - Other matters
+      - [s. 848 Saving for certain older provisions in articles](section/848.md)
+      - [s. 849 Restriction on application of unrealised profits](section/849.md)
+      - [s. 850 Treatment of certain older profits or losses](section/850.md)
+      - [s. 851 Application of rules of law restricting distributions](section/851.md)
+      - [s. 852 Saving for other restrictions on distributions](section/852.md)
+      - [s. 853 Minor definitions](section/853.md)
+- PART 24 Annual confirmation of accuracy of information on register
+  - [s. 853A Duty to deliver confirmation statements](section/853A.md)
+  - [s. 853B Duties to notify a relevant event](section/853B.md)
+  - [s. 853BA Duty to confirm lawful purpose](section/853BA.md)
+  - [s. 853C Duty to notify a change in company’s principal business activities](section/853C.md)
+  - [s. 853CA Duty to notify a change in registered office](section/853CA.md)
+  - [s. 853CB Duty to notify a change in registered email address](section/853CB.md)
+  - [s. 853D Duty to deliver statement of capital](section/853D.md)
+  - [s. 853E Duty to notify trading status of shares](section/853E.md)
+  - [s. 853F Duty to deliver shareholder information: non-traded companies](section/853F.md)
+  - [s. 853G Duty to deliver shareholder information: certain traded companies](section/853G.md)
+  - [s. 853H Duty to deliver information about exemption from Part 21A](section/853H.md)
+  - [s. 853I Duty to deliver information about people with significant control](section/853I.md)
+  - [s. 853J Power to amend duties to deliver certain information](section/853J.md)
+  - [s. 853K Confirmation statements: power to make further provision by regulations](section/853K.md)
+  - [s. 853L Failure to deliver confirmation statement](section/853L.md)
+  - [s. 854 Duty to deliver annual returns](section/854.md)
+  - [s. 855 Contents of annual return: general](section/855.md)
+  - [s. 855A Required particulars of directors and secretaries](section/855A.md)
+  - [s. 856 Contents of annual return: information about shares and share capital](section/856.md)
+  - [s. 856A Contents of annual return: information about shareholders: non-traded companies](section/856A.md)
+  - [s. 856B Contents of annual return: information about shareholders: certain traded companies](section/856B.md)
+  - [s. 857 Contents of annual return: power to make further provision by regulations](section/857.md)
+  - [s. 858 Failure to deliver annual return](section/858.md)
+  - [s. 859 Application of provisions to shadow directors](section/859.md)
+- Part 25 Company charges
+  - CHAPTER A1 Registration of company charges
+    - Company charges
+      - [s. 859A Charges created by a company](section/859A.md)
+      - [s. 859B Charge in series of debentures](section/859B.md)
+      - [s. 859C Charges existing on property or undertaking acquired](section/859C.md)
+      - [s. 859D Particulars to be delivered to registrar](section/859D.md)
+      - [s. 859E Date of creation of charge](section/859E.md)
+      - [s. 859F Extension of period allowed for delivery](section/859F.md)
+      - [s. 859G Personal information etc in certified copies](section/859G.md)
+    - Consequence of non-delivery
+      - [s. 859H Consequence of failure to deliver charges](section/859H.md)
+    - The register
+      - [s. 859I Entries on the register](section/859I.md)
+      - [s. 859J Company holding property or undertaking as trustee](section/859J.md)
+      - [s. 859K Registration of enforcement of security](section/859K.md)
+      - [s. 859L Entries of satisfaction and release](section/859L.md)
+      - [s. 859M Rectification of register](section/859M.md)
+      - [s. 859N Replacement of instrument or debenture](section/859N.md)
+      - [s. 859O Notification of addition to or amendment of charge](section/859O.md)
+    - Companies’ records and registers
+      - [s. 859P Companies to keep copies of instruments creating and amending charges](section/859P.md)
+      - [s. 859Q Instruments creating charges to be available for inspection](section/859Q.md)
+  - Chapter 1 Companies registered in England and Wales or in Northern Ireland
+    - Requirement to register company charges
+      - [s. 860 Charges created by a company](section/860.md)
+      - [s. 861 Charges which have to be registered: supplementary](section/861.md)
+      - [s. 862 Charges existing on property acquired](section/862.md)
+    - Special rules about debentures
+      - [s. 863 Charge in series of debentures](section/863.md)
+      - [s. 864 Additional registration requirement for commission etc in relation to debentures](section/864.md)
+      - [s. 865 Endorsement of certificate on debentures](section/865.md)
+    - Charges in other jurisdictions
+      - [s. 866 Charges created in, or over property in, jurisdictions outside the United Kingdom](section/866.md)
+      - [s. 867 Charges created in, or over property in, another United Kingdom jurisdiction](section/867.md)
+    - Orders charging land: Northern Ireland
+      - [s. 868 Northern Ireland: registration of certain charges etc. affecting land](section/868.md)
+    - The register of charges
+      - [s. 869 Register of charges to be kept by registrar](section/869.md)
+      - [s. 870 The period allowed for registration](section/870.md)
+      - [s. 871 Registration of enforcement of security](section/871.md)
+      - [s. 872 Entries of satisfaction and release](section/872.md)
+      - [s. 873 Rectification of register of charges](section/873.md)
+    - Avoidance of certain charges
+      - [s. 874 Consequence of failure to register charges created by a company](section/874.md)
+    - Companies’ records and registers
+      - [s. 875 Companies to keep copies of instruments creating charges](section/875.md)
+      - [s. 876 Company’s register of charges](section/876.md)
+      - [s. 877 Instruments creating charges and register of charges to be available for inspection](section/877.md)
+  - Chapter 2 Companies registered in Scotland
+    - Charges requiring registration
+      - [s. 878 Charges created by a company](section/878.md)
+      - [s. 879 Charges which have to be registered: supplementary](section/879.md)
+      - [s. 880 Duty to register charges existing on property acquired](section/880.md)
+      - [s. 881 Charge by way of ex facie absolute disposition, etc](section/881.md)
+    - Special rules about debentures
+      - [s. 882 Charge in series of debentures](section/882.md)
+      - [s. 883 Additional registration requirement for commission etc in relation to debentures](section/883.md)
+    - Charges on property outside the United Kingdom
+      - [s. 884 Charges on property outside United Kingdom](section/884.md)
+    - The register of charges
+      - [s. 885 Register of charges to be kept by registrar](section/885.md)
+      - [s. 886 The period allowed for registration](section/886.md)
+      - [s. 887 Entries of satisfaction and relief](section/887.md)
+      - [s. 888 Rectification of register of charges](section/888.md)
+    - Avoidance of certain charges
+      - [s. 889 Charges void unless registered](section/889.md)
+    - Companies’ records and registers
+      - [s. 890 Copies of instruments creating charges to be kept by company](section/890.md)
+      - [s. 891 Company’s register of charges](section/891.md)
+      - [s. 892 Instruments creating charges and register of charges to be available for inspection](section/892.md)
+  - Chapter 3 Powers of the Secretary of State
+    - [s. 893 Power to make provision for effect of registration in special register](section/893.md)
+    - [s. 894 General power to make amendments to this Part](section/894.md)
+- Part 26 Arrangements and reconstructions: general
+  - Application of this Part
+    - [s. 895 Application of this Part](section/895.md)
+  - Meeting of creditors or members
+    - [s. 896 Court order for holding of meeting](section/896.md)
+    - [s. 897 Statement to be circulated or made available](section/897.md)
+    - [s. 898 Duty of directors and trustees to provide information](section/898.md)
+  - Court sanction for compromise or arrangement
+    - [s. 899 Court sanction for compromise or arrangement](section/899.md)
+  - Special cases
+    - [s. 899A Moratorium debts, etc](section/899A.md)
+  - Reconstructions and amalgamations
+    - [s. 900 Powers of court to facilitate reconstruction or amalgamation](section/900.md)
+  - Obligations of company with respect to articles etc
+    - [s. 901 Obligations of company with respect to articles etc](section/901.md)
+- PART 26A Arrangements and reconstructions: companies in financial difficulty
+  - Application of this Part
+    - [s. 901A Application of this Part](section/901A.md)
+    - [s. 901B Power to exclude companies providing financial services, etc](section/901B.md)
+  - Meeting of creditors or members
+    - [s. 901C Court order for holding of meeting](section/901C.md)
+    - [s. 901D Statement to be circulated or made available](section/901D.md)
+    - [s. 901E Duty of directors and trustees to provide information](section/901E.md)
+  - Court sanction for compromise or arrangement
+    - [s. 901F Court sanction for compromise or arrangement](section/901F.md)
+    - [s. 901G Sanction for compromise or arrangement where one or more classes dissent](section/901G.md)
+  - Special cases
+    - [s. 901H Moratorium debts, etc](section/901H.md)
+    - [s. 901I Pension schemes](section/901I.md)
+  - Reconstructions and amalgamations
+    - [s. 901J Powers of court to facilitate reconstruction or amalgamation](section/901J.md)
+  - Obligations of company with respect to articles etc
+    - [s. 901K Obligations of company with respect to articles etc](section/901K.md)
+  - Power to amend Act
+    - [s. 901L Power to amend Act](section/901L.md)
+- Part 27 Mergers and divisions of public companies
+  - Chapter 1 Introductory
+    - [s. 902 Application of this Part](section/902.md)
+    - [s. 903 Relationship of this Part to Parts 26 and 26A](section/903.md)
+  - Chapter 2 Merger
+    - Introductory
+      - [s. 904 Mergers and merging companies](section/904.md)
+    - Requirements applicable to merger
+      - [s. 905 Draft terms of scheme (merger)](section/905.md)
+      - [s. 906 Publication of draft terms by registrar(merger)](section/906.md)
+      - [s. 906A Publication of draft terms on company website (merger)](section/906A.md)
+      - [s. 907 Approval of members of merging companies](section/907.md)
+      - [s. 908 Directors’ explanatory report (merger)](section/908.md)
+      - [s. 909 Expert’s report (merger)](section/909.md)
+      - [s. 910 Supplementary accounting statement (merger)](section/910.md)
+      - [s. 911 Inspection of documents (merger)](section/911.md)
+      - [s. 911A Publication of documents on company website (merger)](section/911A.md)
+      - [s. 911B Report on material changes of assets of merging companies](section/911B.md)
+      - [s. 912 Approval of articles of new transferee company (merger)](section/912.md)
+      - [s. 913 Protection of holders of securities to which special rights attached (merger)](section/913.md)
+      - [s. 914 No allotment of shares to transferor company or its nominee (merger)](section/914.md)
+    - Exceptions where shares of transferor company held by transferee company
+      - [s. 915 Circumstances in which certain particulars and reports not required (merger)](section/915.md)
+      - [s. 915A Other circumstances in which reports and inspection not required (merger)](section/915A.md)
+      - [s. 916 Circumstances in which meeting of members of transferee company not required (merger)](section/916.md)
+      - [s. 917 Circumstances in which no meetings required (merger)](section/917.md)
+    - Other exceptions
+      - [s. 917A Other circumstances in which meeting of members of transferor company not required (merger)](section/917A.md)
+      - [s. 918 Other circumstances in which meeting of members of transferee company not required (merger)](section/918.md)
+      - [s. 918A Agreement to dispense with reports etc (merger)](section/918A.md)
+  - Chapter 3 Division
+    - Introductory
+      - [s. 919 Divisions and companies involved in a division](section/919.md)
+    - Requirements to be complied with in case of division
+      - [s. 920 Draft terms of scheme (division)](section/920.md)
+      - [s. 921 Publication of draft terms by registrar(division)](section/921.md)
+      - [s. 921A Publication of draft terms on company website (division)](section/921A.md)
+      - [s. 922 Approval of members of companies involved in the division](section/922.md)
+      - [s. 923 Directors’ explanatory report (division)](section/923.md)
+      - [s. 924 Expert’s report (division)](section/924.md)
+      - [s. 925 Supplementary accounting statement (division)](section/925.md)
+      - [s. 926 Inspection of documents (division)](section/926.md)
+      - [s. 926A Publication of documents on company website (division)](section/926A.md)
+      - [s. 927 Report on material changes of assets of transferor company (division)](section/927.md)
+      - [s. 928 Approval of articles of new transferee company (division)](section/928.md)
+      - [s. 929 Protection of holders of securities to which special rights attached (division)](section/929.md)
+      - [s. 930 No allotment of shares to transferor company or its nominee (division)](section/930.md)
+    - Exceptions where shares of transferor company held by transferee company
+      - [s. 931 Circumstances in which meeting of members of transferor company not required (division)](section/931.md)
+    - Other exceptions
+      - [s. 931A Other circumstances in which meeting of members of transferor company not required (division)](section/931A.md)
+      - [s. 932 Circumstances in which meeting of members of transferee company not required (division)](section/932.md)
+      - [s. 933 Agreement to dispense with reports etc (division)](section/933.md)
+      - [s. 933A Certain requirements excluded where shareholders given proportional rights (division)](section/933A.md)
+      - [s. 934 Power of court to exclude certain requirements (division)](section/934.md)
+  - Chapter 4 Supplementary provisions
+    - Expert’s report and related matters
+      - [s. 935 Expert’s report: valuation by another person](section/935.md)
+      - [s. 936 Experts and valuers: independence requirement](section/936.md)
+      - [s. 937 Experts and valuers: meaning of “associate”](section/937.md)
+    - Powers of the court
+      - [s. 938 Power of court to summon meeting of members or creditors of existing transferee company](section/938.md)
+      - [s. 939 Court to fix date for transfer of undertaking etc of transferor company](section/939.md)
+    - Liability of transferee companies
+      - [s. 940 Liability of transferee companies for each other’s defaults](section/940.md)
+    - Disruption of websites
+      - [s. 940A Disregard of website failures beyond control of company](section/940A.md)
+    - Interpretation
+      - [s. 941 Meaning of “liabilities” and “property”](section/941.md)
+- Part 28 Takeovers etc
+  - Chapter 1 The Takeover Panel
+    - The Panel and its rules
+      - [s. 942 The Panel](section/942.md)
+      - [s. 943 Rules](section/943.md)
+      - [s. 944 Further provisions about rules](section/944.md)
+      - [s. 945 Rulings](section/945.md)
+      - [s. 946 Directions](section/946.md)
+    - Information
+      - [s. 947 Power to require documents and information](section/947.md)
+      - [s. 948 Restrictions on disclosure](section/948.md)
+      - [s. 949 Offence of disclosure in contravention of section 948](section/949.md)
+    - Co-operation
+      - [s. 950 Panel’s duty of co-operation](section/950.md)
+    - Hearings and appeals
+      - [s. 951 Hearings and appeals](section/951.md)
+    - Contravention of rules etc
+      - [s. 952 Sanctions](section/952.md)
+      - [s. 953 Failure to comply with rules about bid documentation](section/953.md)
+      - [s. 954 Compensation](section/954.md)
+      - [s. 955 Enforcement by the court](section/955.md)
+      - [s. 956 No action for breach of statutory duty etc](section/956.md)
+    - Funding
+      - [s. 957 Fees and charges](section/957.md)
+      - [s. 958 Levy](section/958.md)
+      - [s. 959 Recovery of fees, charges or levy](section/959.md)
+    - Miscellaneous and supplementary
+      - [s. 960 Panel as party to proceedings](section/960.md)
+      - [s. 961 Exemption from liability in damages](section/961.md)
+      - [s. 962 Privilege against self-incrimination](section/962.md)
+      - [s. 963 Annual reports](section/963.md)
+      - [s. 964 Amendments to Financial Services and Markets Act 2000](section/964.md)
+      - [s. 965 Power to extend to Isle of Man and Channel Islands](section/965.md)
+  - Chapter 2 Impediments to takeovers
+    - Opting in and opting out
+      - [s. 966 Opting in and opting out](section/966.md)
+      - [s. 967 Further provision about opting-in and opting-out resolutions](section/967.md)
+    - Consequences of opting in
+      - [s. 968 Effect on contractual restrictions](section/968.md)
+      - [s. 969 Power of offeror to require general meeting to be called](section/969.md)
+    - Supplementary
+      - [s. 970 Communication of decisions](section/970.md)
+      - [s. 971 Interpretation of this Chapter](section/971.md)
+      - [s. 972 Transitory provision](section/972.md)
+      - [s. 973 Power to extend to Isle of Man and Channel Islands](section/973.md)
+  - Chapter 3 “Squeeze-out” and “Sell-out”
+    - Takeover offers
+      - [s. 974 Meaning of “takeover offer”](section/974.md)
+      - [s. 975 Shares already held by the offeror etc](section/975.md)
+      - [s. 976 Cases where offer treated as being on same terms](section/976.md)
+      - [s. 977 Shares to which an offer relates](section/977.md)
+      - [s. 978 Effect of impossibility etc of communicating or accepting offer](section/978.md)
+    - “Squeeze-out”
+      - [s. 979 Right of offeror to buy out minority shareholder](section/979.md)
+      - [s. 980 Further provision about notices given under section 979](section/980.md)
+      - [s. 981 Effect of notice under section 979](section/981.md)
+      - [s. 982 Further provision about consideration held on trust under section 981(9)](section/982.md)
+    - “Sell-out”
+      - [s. 983 Right of minority shareholder to be bought out by offeror](section/983.md)
+      - [s. 984 Further provision about rights conferred by section 983](section/984.md)
+      - [s. 985 Effect of requirement under section 983](section/985.md)
+    - Supplementary
+      - [s. 986 Applications to the court](section/986.md)
+      - [s. 987 Joint offers](section/987.md)
+    - Interpretation
+      - [s. 988 Associates](section/988.md)
+      - [s. 989 Convertible securities](section/989.md)
+      - [s. 990 Debentures carrying voting rights](section/990.md)
+      - [s. 991 Interpretation](section/991.md)
+  - Chapter 4 Amendments to Part 7 of the Companies Act 1985
+    - [s. 992 Matters to be dealt with in directors’ report](section/992.md)
+- Part 29 Fraudulent trading
+  - [s. 993 Offence of fraudulent trading](section/993.md)
+- Part 30 Protection of members against unfair prejudice
+  - Main provisions
+    - [s. 994 Petition by company member](section/994.md)
+    - [s. 995 Petition by Secretary of State](section/995.md)
+    - [s. 996 Powers of the court under this Part](section/996.md)
+  - Supplementary provisions
+    - [s. 997 Application of general rule-making powers](section/997.md)
+    - [s. 998 Copy of order affecting company’s constitution to be delivered to registrar](section/998.md)
+    - [s. 999 Supplementary provisions where company’s constitution altered](section/999.md)
+- Part 31 Dissolution and restoration to the register
+  - Chapter 1 Striking off
+    - Registrar’s power to strike off defunct company
+      - [s. 1000 Power to strike off company not carrying on business or in operation](section/1000.md)
+      - [s. 1001 Duty to act in case of company being wound up](section/1001.md)
+      - [s. 1002 Supplementary provisions as to service of communication or notice](section/1002.md)
+    - Registrar’s power to strike off company registered on false basis
+      - [s. 1002A Power to strike off company registered on false basis](section/1002A.md)
+    - Voluntary striking off
+      - [s. 1003 Striking off on application by company](section/1003.md)
+      - [s. 1004 Circumstances in which application not to be made: activities of company](section/1004.md)
+      - [s. 1005 Circumstances in which application not to be made: other proceedings not concluded](section/1005.md)
+      - [s. 1006 Copy of application to be given to members, employees, etc](section/1006.md)
+      - [s. 1007 Copy of application to be given to new members, employees, etc](section/1007.md)
+      - [s. 1008 Copy of application: provisions as to service of documents](section/1008.md)
+      - [s. 1009 Circumstances in which application to be withdrawn](section/1009.md)
+      - [s. 1010 Withdrawal of application](section/1010.md)
+      - [s. 1011 Meaning of “creditor”](section/1011.md)
+  - Chapter 2 Property of dissolved company
+    - Property vesting as bona vacantia
+      - [s. 1012 Property of dissolved company to be bona vacantia](section/1012.md)
+      - [s. 1013 Crown disclaimer of property vesting as bona vacantia](section/1013.md)
+      - [s. 1014 Effect of Crown disclaimer](section/1014.md)
+    - Effect of Crown disclaimer: England and Wales and Northern Ireland
+      - [s. 1015 General effect of disclaimer](section/1015.md)
+      - [s. 1016 Disclaimer of leaseholds](section/1016.md)
+      - [s. 1017 Power of court to make vesting order](section/1017.md)
+      - [s. 1018 Protection of persons holding under a lease](section/1018.md)
+      - [s. 1019 Land subject to rentcharge](section/1019.md)
+    - Effect of Crown disclaimer: Scotland
+      - [s. 1020 General effect of disclaimer](section/1020.md)
+      - [s. 1021 Power of court to make vesting order](section/1021.md)
+      - [s. 1022 Protection of persons holding under a lease](section/1022.md)
+    - Supplementary provisions
+      - [s. 1023 Liability for rentcharge on company’s land after dissolution](section/1023.md)
+  - Chapter 3 Restoration to the register
+    - Administrative restoration to the register
+      - [s. 1024 Application for administrative restoration to the register](section/1024.md)
+      - [s. 1025 Requirements for administrative restoration](section/1025.md)
+      - [s. 1026 Application to be accompanied by statement of compliance](section/1026.md)
+      - [s. 1027 Registrar’s decision on application for administrative restoration](section/1027.md)
+      - [s. 1028 Effect of administrative restoration](section/1028.md)
+      - [s. 1028A Administrative restoration of company with share warrants](section/1028A.md)
+    - Restoration to the register by the court
+      - [s. 1029 Application to court for restoration to the register](section/1029.md)
+      - [s. 1030 When application to the court may be made](section/1030.md)
+      - [s. 1031 Decision on application for restoration by the court](section/1031.md)
+      - [s. 1032 Effect of court order for restoration to the register](section/1032.md)
+      - [s. 1032A Restoration by court of company with share warrants](section/1032A.md)
+    - Supplementary provisions
+      - [s. 1033 Company’s name on restoration](section/1033.md)
+      - [s. 1034 Effect of restoration to the register where property has vested as bona vacantia](section/1034.md)
+- Part 32 Company investigations: amendments
+  - [s. 1035 Powers of Secretary of State to give directions to inspectors](section/1035.md)
+  - [s. 1036 Resignation, removal and replacement of inspectors](section/1036.md)
+  - [s. 1037 Power to obtain information from former inspectors etc](section/1037.md)
+  - [s. 1038 Power to require production of documents](section/1038.md)
+  - [s. 1039 Disqualification orders: consequential amendments](section/1039.md)
+- Part 33 UK companies not formed under companies legislation
+  - Chapter 1 Companies not formed under companies legislation but authorised to register
+    - [s. 1040 Companies authorised to register under this Act](section/1040.md)
+    - [s. 1041 Definition of “joint stock company”](section/1041.md)
+    - [s. 1042 Power to make provision by regulations](section/1042.md)
+  - Chapter 2 Unregistered companies
+    - [s. 1043 Unregistered companies](section/1043.md)
+- Part 34 Overseas companies
+  - Introductory
+    - [s. 1044 Overseas companies](section/1044.md)
+    - [s. 1045 Company contracts and execution of documents by companies](section/1045.md)
+  - Registration of particulars
+    - [s. 1046 Duty to register particulars](section/1046.md)
+    - [s. 1047 Registered name of overseas company](section/1047.md)
+    - [s. 1048 Registration under alternative name](section/1048.md)
+    - [s. 1048A Registered addresses of an overseas company](section/1048A.md)
+    - [s. 1048B Identity verification of directors](section/1048B.md)
+  - Other requirements
+    - [s. 1049 Accounts and reports: general](section/1049.md)
+    - [s. 1050 Accounts and reports: credit or financial institutions](section/1050.md)
+    - [s. 1051 Trading disclosures](section/1051.md)
+    - [s. 1052 Company charges](section/1052.md)
+    - [s. 1053 Other returns etc](section/1053.md)
+  - Supplementary
+    - [s. 1054 Offences](section/1054.md)
+    - [s. 1055 Disclosure of individual’s residential address: protection from disclosure](section/1055.md)
+    - [s. 1056 Requirement to identify persons authorised to accept service of documents](section/1056.md)
+    - [s. 1057 Registrar to whom returns, notices etc to be delivered](section/1057.md)
+    - [s. 1058 Duty to give notice of ceasing to have registrable presence](section/1058.md)
+    - [s. 1059 Application of provisions in case of relocation of branch](section/1059.md)
+- Part 35 The registrar of companies
+    - Scheme of this Part
+      - [s. 1059A Scheme of this Part](section/1059A.md)
+  - The registrar
+    - [s. 1060 The registrar](section/1060.md)
+    - [s. 1061 The registrar’s functions](section/1061.md)
+    - [s. 1062 The registrar’s official seal](section/1062.md)
+    - [s. 1062A Analysis of information for the purposes of crime prevention or detection](section/1062A.md)
+    - [s. 1063 Fees payable to registrar](section/1063.md)
+  - Certificates of incorporation
+    - [s. 1064 Public notice of issue of certificate of incorporation](section/1064.md)
+    - [s. 1065 Right to certificate of incorporation](section/1065.md)
+  - Registered numbers
+    - [s. 1066 Company’s registered numbers](section/1066.md)
+    - [s. 1067 Registered numbers of UK establishments of overseas company](section/1067.md)
+  - Who may deliver documents to the registrar
+    - [s. 1067A Delivery of documents: identity verification requirements etc](section/1067A.md)
+    - [s. 1067B Disqualification from delivering documents](section/1067B.md)
+  - Delivery of documents to the registrar
+    - [s. 1068 Registrar’s requirements as to form, authentication and manner of delivery](section/1068.md)
+    - [s. 1068A Registrar’s rules requiring documents to be delivered together](section/1068A.md)
+    - [s. 1069 Power to require delivery by electronic means](section/1069.md)
+    - [s. 1070 Agreement for delivery by electronic means](section/1070.md)
+    - [s. 1071 Document not delivered until received](section/1071.md)
+  - Requirements for proper delivery
+    - [s. 1072 Requirements for proper delivery](section/1072.md)
+    - [s. 1073 Power to accept documents not meeting requirements for proper delivery](section/1073.md)
+    - [s. 1073A Power to reject documents for discrepancies](section/1073A.md)
+    - [s. 1074 Documents containing unnecessary material](section/1074.md)
+    - [s. 1075 Informal correction of document](section/1075.md)
+    - [s. 1076 Replacement of document not meeting requirements for proper delivery](section/1076.md)
+  - Public notice of receipt of certain documents
+    - [s. 1077 Public notice of receipt of certain documents](section/1077.md)
+    - [s. 1078 Enhanced disclosure documents](section/1078.md)
+    - [s. 1079 Effect of failure to give public notice](section/1079.md)
+    - [s. 1079A Provision of information for publication on European e-Justice portal](section/1079A.md)
+  - Notice of receipt of documents about new directors
+    - [s. 1079B Duty to notify directors](section/1079B.md)
+  - The register
+    - [s. 1080 The register](section/1080.md)
+    - [s. 1081 Annotation of the register](section/1081.md)
+    - [s. 1081A Registrar’s objectives to promote integrity of registers etc](section/1081A.md)
+    - [s. 1082 Allocation of unique identifiers](section/1082.md)
+    - [s. 1083 Preservation of original documents](section/1083.md)
+    - [s. 1084 Records relating to companies that have been dissolved etc](section/1084.md)
+    - [s. 1084A Recording of optional information on register](section/1084A.md)
+  - Inspection etc of the register
+    - [s. 1085 Inspection of the register](section/1085.md)
+    - [s. 1086 Right to copy of material on the register](section/1086.md)
+    - [s. 1087 Material not available for public inspection](section/1087.md)
+    - [s. 1087ZA Required particulars available for public inspection for limited period](section/1087ZA.md)
+    - [s. 1087A Protection of date of birth information](section/1087A.md)
+    - [s. 1087B Protection of date of birth information in old documents](section/1087B.md)
+    - [s. 1087C Disclosure of date of birth information](section/1087C.md)
+    - [s. 1088 Power to make regulations protecting material](section/1088.md)
+    - [s. 1089 Form of application for inspection or copy](section/1089.md)
+    - [s. 1090 Form and manner in which copies to be provided](section/1090.md)
+    - [s. 1091 Certification of copies as accurate](section/1091.md)
+    - [s. 1092 Issue of process for production of records kept by the registrar](section/1092.md)
+  - Additional information
+    - [s. 1092A Power to require information](section/1092A.md)
+    - [s. 1092B Offence relating to provision of information](section/1092B.md)
+    - [s. 1092C Privilege against self-incrimination](section/1092C.md)
+  - Correction or removal of material on the register
+    - [s. 1093 Registrar’s notice to resolve inconsistency ...](section/1093.md)
+    - [s. 1094 Removal of material from the register](section/1094.md)
+    - [s. 1094A Further provision about removal of material from the register](section/1094A.md)
+    - [s. 1094AB Power of court to make consequential orders following removal](section/1094AB.md)
+    - [s. 1095 Rectification of register on application to registrar](section/1095.md)
+    - [s. 1095A Rectification of register to resolve a discrepancy](section/1095A.md)
+    - [s. 1096 Rectification of the register under court order](section/1096.md)
+    - [s. 1097 Powers of court on ordering removal of material from the register](section/1097.md)
+    - [s. 1097A Rectification of register relating to company registered office](section/1097A.md)
+    - [s. 1097B Rectification of register: service addresses](section/1097B.md)
+    - [s. 1097C Rectification of register: principal office addresses](section/1097C.md)
+    - [s. 1098 Public notice of removal of certain material from the register](section/1098.md)
+  - Authorised corporate service providers
+    - [s. 1098A Meaning of “authorised corporate service provider”](section/1098A.md)
+    - [s. 1098B Application to become authorised corporate service provider](section/1098B.md)
+    - [s. 1098C The required information about an applicant](section/1098C.md)
+    - [s. 1098D Delivery of applications under section 1098B on behalf of a firm](section/1098D.md)
+    - [s. 1098E Updating duties of authorised corporate service providers](section/1098E.md)
+    - [s. 1098F Ceasing to be an authorised corporate service provider](section/1098F.md)
+    - [s. 1098G Power to impose duties to provide information](section/1098G.md)
+    - [s. 1098H Power to enable authorisation of foreign corporate service providers](section/1098H.md)
+  - The registrar’s index of company names
+    - [s. 1099 The registrar’s index of company names](section/1099.md)
+    - [s. 1100 Right to inspect index](section/1100.md)
+    - [s. 1101 Power to amend enactments relating to bodies other than companies](section/1101.md)
+  - Language requirements: translation
+    - [s. 1102 Application of language requirements](section/1102.md)
+    - [s. 1103 Documents to be drawn up and delivered in English](section/1103.md)
+    - [s. 1104 Documents relating to Welsh companies](section/1104.md)
+    - [s. 1105 Documents that may be drawn up and delivered in other languages](section/1105.md)
+    - [s. 1106 Voluntary filing of translations](section/1106.md)
+    - [s. 1107 Certified translations](section/1107.md)
+  - Language requirements: transliteration
+    - [s. 1108 Transliteration of names and addresses: permitted characters](section/1108.md)
+    - [s. 1109 Transliteration of names and addresses: voluntary transliteration into Roman characters](section/1109.md)
+    - [s. 1110 Transliteration of names and addresses: certification](section/1110.md)
+  - Identity verification
+    - [s. 1110A Meaning of “identity is verified”](section/1110A.md)
+    - [s. 1110B Verification requirements](section/1110B.md)
+    - [s. 1110C Identity verification: exemption on national security grounds etc](section/1110C.md)
+  - Discrepancy reporting
+    - [s. 1110D Power to require businesses to report discrepancies](section/1110D.md)
+  - Disclosure of information
+    - [s. 1110E Disclosure to the registrar](section/1110E.md)
+    - [s. 1110F Disclosure by the registrar](section/1110F.md)
+    - [s. 1110G Disclosure: supplementary](section/1110G.md)
+  - Supplementary provisions
+    - [s. 1111 Registrar’s requirements as to certification or verification](section/1111.md)
+    - [s. 1112 False statements: basic offence](section/1112.md)
+    - [s. 1112A False statements: aggravated offence](section/1112A.md)
+    - [s. 1112B False statements offences: national security etc defence](section/1112B.md)
+    - [s. 1113 Enforcement of company’s filing obligations](section/1113.md)
+    - [s. 1114 Application of provisions about documents and delivery](section/1114.md)
+    - [s. 1115 Supplementary provisions relating to electronic communications](section/1115.md)
+    - [s. 1116 Alternative to publication in the Gazette](section/1116.md)
+    - [s. 1117 Registrar’s rules](section/1117.md)
+    - [s. 1118 Payments into the Consolidated Fund](section/1118.md)
+    - [s. 1119 Contracting out of registrar’s functions](section/1119.md)
+    - [s. 1120 Application of this Part to overseas companies](section/1120.md)
+- Part 36 Offences under the Companies Acts and financial penalties
+  - Liability of officer in default
+    - [s. 1121 Liability of officer in default](section/1121.md)
+    - [s. 1122 Liability of company as officer in default](section/1122.md)
+    - [s. 1123 Application to bodies other than companies](section/1123.md)
+  - Offences under the Companies Act 1985
+    - [s. 1124 Amendments of the Companies Act 1985](section/1124.md)
+  - General provisions
+    - [s. 1125 Meaning of “daily default fine”](section/1125.md)
+    - [s. 1126 Consents required for certain prosecutions](section/1126.md)
+    - [s. 1127 Summary proceedings: venue](section/1127.md)
+    - [s. 1128 Summary proceedings: time limit for proceedings](section/1128.md)
+    - [s. 1129 Legal professional privilege](section/1129.md)
+    - [s. 1130 Proceedings against unincorporated bodies](section/1130.md)
+    - [s. 1131 Imprisonment on summary conviction in England and Wales: transitory provision](section/1131.md)
+  - Production and inspection of documents
+    - [s. 1132 Production and inspection of documents where offence suspected](section/1132.md)
+  - Financial penalties
+    - [s. 1132A Power to make provision for financial penalties](section/1132A.md)
+  - Supplementary
+    - [s. 1133 Transitional provision](section/1133.md)
+- Part 37 Companies: supplementary provisions
+  - Company records
+    - [s. 1134 Meaning of “company records”](section/1134.md)
+    - [s. 1135 Form of company records](section/1135.md)
+    - [s. 1136 Regulations about where certain company records to be kept available for inspection](section/1136.md)
+    - [s. 1137 Regulations about inspection of records and provision of copies](section/1137.md)
+    - [s. 1138 Duty to take precautions against falsification](section/1138.md)
+  - Service addresses
+    - [s. 1139 Service of documents on company](section/1139.md)
+    - [s. 1140 Service of documents on directors, secretaries and others](section/1140.md)
+    - [s. 1141 Service addresses](section/1141.md)
+    - [s. 1142 Requirement to give service address](section/1142.md)
+  - Sending or supplying documents or information
+    - [s. 1143 The company communications provisions](section/1143.md)
+    - [s. 1144 Sending or supplying documents or information](section/1144.md)
+    - [s. 1145 Right to hard copy version](section/1145.md)
+    - [s. 1146 Requirement of authentication](section/1146.md)
+    - [s. 1147 Deemed delivery of documents and information](section/1147.md)
+    - [s. 1148 Interpretation of company communications provisions](section/1148.md)
+  - Requirements as to independent valuation
+    - [s. 1149 Application of valuation requirements](section/1149.md)
+    - [s. 1150 Valuation by qualified independent person](section/1150.md)
+    - [s. 1151 The independence requirement](section/1151.md)
+    - [s. 1152 Meaning of “associate”](section/1152.md)
+    - [s. 1153 Valuer entitled to full disclosure](section/1153.md)
+  - Notice of appointment of certain officers
+    - [s. 1154 Duty to notify registrar of certain appointments etc](section/1154.md)
+    - [s. 1155 Offence of failure to give notice](section/1155.md)
+  - Courts and legal proceedings
+    - [s. 1156 Meaning of “the court”](section/1156.md)
+    - [s. 1157 Power of court to grant relief in certain cases](section/1157.md)
+- Part 38 Companies: interpretation
+  - Meaning of “UK-registered company”
+    - [s. 1158 Meaning of “UK-registered company”](section/1158.md)
+  - Meaning of “subsidiary” and related expressions
+    - [s. 1159 Meaning of “subsidiary” etc](section/1159.md)
+    - [s. 1160 Meaning of “subsidiary” etc: power to amend](section/1160.md)
+  - Meaning of “undertaking” and related expressions
+    - [s. 1161 Meaning of “undertaking” and related expressions](section/1161.md)
+    - [s. 1162 Parent and subsidiary undertakings](section/1162.md)
+  - Other definitions
+    - [s. 1163 “Non-cash asset”](section/1163.md)
+    - [s. 1164 Meaning of “banking company” and “banking group”](section/1164.md)
+    - [s. 1165 Meaning of “insurance company” and related expressions](section/1165.md)
+    - [s. 1166 “Employees’ share scheme”](section/1166.md)
+    - [s. 1167 Meaning of “prescribed”](section/1167.md)
+    - [s. 1168 Hard copy and electronic form and related expressions](section/1168.md)
+    - [s. 1169 Dormant companies](section/1169.md)
+    - [s. 1170 Meaning of “EEA State” and related expressions](section/1170.md)
+    - [s. 1170A Receiver or manager and certain related references](section/1170A.md)
+    - [s. 1170B Meaning of “contributory”](section/1170B.md)
+    - [s. 1171 The former Companies Acts](section/1171.md)
+  - General
+    - [s. 1172 References to requirements of this Act](section/1172.md)
+    - [s. 1173 Minor definitions: general](section/1173.md)
+    - [s. 1174 Index of defined expressions](section/1174.md)
+- Part 39 Companies: minor amendments
+  - [s. 1175 Removal of special provisions about accounts and audit of charitable companies](section/1175.md)
+  - [s. 1176 Power of Secretary of State to bring civil proceedings on company’s behalf](section/1176.md)
+  - [s. 1177 Repeal of certain provisions about company directors](section/1177.md)
+  - [s. 1178 Repeal of requirement that certain companies publish periodical statement](section/1178.md)
+  - [s. 1179 Repeal of requirement that Secretary of State prepare annual report](section/1179.md)
+  - [s. 1180 Repeal of certain provisions about company charges](section/1180.md)
+  - [s. 1181 Access to constitutional documents of RTE and RTM companies](section/1181.md)
+- Part 40 Company directors: foreign disqualification etc
+  - Introductory
+    - [s. 1182 Persons subject to foreign restrictions](section/1182.md)
+    - [s. 1183 Meaning of “the court” and “UK company”](section/1183.md)
+  - Power to disqualify
+    - [s. 1184 Disqualification of persons subject to foreign restrictions](section/1184.md)
+    - [s. 1185 Disqualification regulations: supplementary](section/1185.md)
+    - [s. 1186 Offence of breach of disqualification](section/1186.md)
+  - Power to make persons liable for company’s debts
+    - [s. 1187 Personal liability for debts of company](section/1187.md)
+  - Power to require statements to be sent to the registrar of companies
+    - [s. 1188 Statements from persons subject to foreign restrictions](section/1188.md)
+    - [s. 1189 Statements from persons disqualified](section/1189.md)
+    - [s. 1190 Statements: whether to be made public](section/1190.md)
+    - [s. 1191 Offences](section/1191.md)
+- Part 41 Business names
+  - Chapter 1 Restricted or prohibited names
+    - Introductory
+      - [s. 1192 Application of this Chapter](section/1192.md)
+    - Sensitive words or expressions
+      - [s. 1193 Name suggesting connection with government or public authority](section/1193.md)
+      - [s. 1194 Other sensitive words or expressions](section/1194.md)
+      - [s. 1195 Requirement to seek comments of government department or other relevant body](section/1195.md)
+      - [s. 1196 Withdrawal of Secretary of State’s approval](section/1196.md)
+      - [s. 1196A Names suggesting connection with foreign governments etc](section/1196A.md)
+    - Misleading names
+      - [s. 1197 Name containing inappropriate indication of company type or legal form](section/1197.md)
+      - [s. 1198 Name giving misleading indication of activities](section/1198.md)
+    - Restrictions where a company has been required to change a name
+      - [s. 1198A Name that a company has been required to change](section/1198A.md)
+      - [s. 1198B Name that another company has been required to change](section/1198B.md)
+    - Supplementary
+      - [s. 1199 Savings for existing lawful business names](section/1199.md)
+      - [s. 1199A Exceptions based on national security etc](section/1199A.md)
+  - Chapter 2 Disclosure required in case of individual or partnership
+    - Introductory
+      - [s. 1200 Application of this Chapter](section/1200.md)
+      - [s. 1201 Information required to be disclosed](section/1201.md)
+    - Disclosure requirements
+      - [s. 1202 Disclosure required: business documents etc](section/1202.md)
+      - [s. 1203 Exemption for large partnerships if certain conditions met](section/1203.md)
+      - [s. 1204 Disclosure required: business premises](section/1204.md)
+    - Consequences of failure to make required disclosure
+      - [s. 1205 Criminal consequences of failure to make required disclosure](section/1205.md)
+      - [s. 1206 Civil consequences of failure to make required disclosure](section/1206.md)
+  - Chapter 3 Supplementary
+    - [s. 1207 Application of general provisions about offences](section/1207.md)
+    - [s. 1208 Interpretation](section/1208.md)
+- Part 42 Statutory Auditors
+  - Chapter 1 Introductory
+    - [s. 1209 Main purposes of Part](section/1209.md)
+    - [s. 1210 Meaning of “statutory auditor” etc](section/1210.md)
+    - [s. 1211 Eligibility for appointment as a statutory auditor: overview](section/1211.md)
+  - Chapter 2 Individuals and firms
+    - Eligibility for appointment
+      - [s. 1212 Individuals and firms: eligibility for appointment as a statutory auditor](section/1212.md)
+      - [s. 1213 Effect of ineligibility](section/1213.md)
+    - Independence requirement
+      - [s. 1214 Independence requirement](section/1214.md)
+      - [s. 1215 Effect of lack of independence](section/1215.md)
+    - Effect of appointment of a partnership
+      - [s. 1216 Effect of appointment of a partnership](section/1216.md)
+    - Supervisory bodies
+      - [s. 1217 Supervisory bodies](section/1217.md)
+      - [s. 1218 Exemption from liability for damages](section/1218.md)
+    - Professional qualifications
+      - [s. 1219 Appropriate qualifications](section/1219.md)
+      - [s. 1220 Qualifying bodies and recognised professional qualifications](section/1220.md)
+      - [s. 1221 Approval of third country qualifications](section/1221.md)
+      - [s. 1222 Eligibility of individuals retaining only 1967 Act authorisation](section/1222.md)
+    - Information
+      - [s. 1223 Matters to be notified to the Secretary of State](section/1223.md)
+      - [s. 1223ZA Matters to be notified to the competent authority](section/1223ZA.md)
+      - [s. 1223A Notification of matters relevant to approved third country competent authorities](section/1223A.md)
+      - [s. 1224 The Secretary of State’s power to call for information](section/1224.md)
+      - [s. 1224ZA The competent authority’s power to call for information](section/1224ZA.md)
+      - [s. 1224A Restrictions on disclosure](section/1224A.md)
+      - [s. 1224B Offence of disclosure in contravention of section 1224A](section/1224B.md)
+    - Enforcement
+      - [s. 1225 Enforcement: general](section/1225.md)
+      - [s. 1225A Directions: general](section/1225A.md)
+      - [s. 1225B Directions: supplementary](section/1225B.md)
+      - [s. 1225C Compliance orders](section/1225C.md)
+      - [s. 1225D Financial penalties: general](section/1225D.md)
+      - [s. 1225E Financial penalties: supplementary](section/1225E.md)
+      - [s. 1225F Appeals against financial penalties](section/1225F.md)
+      - [s. 1225G Recovery of financial penalties](section/1225G.md)
+  - Chapter 3 Auditors General
+    - Eligibility for appointment
+      - [s. 1226 Auditors General: eligibility for appointment as a statutory auditor](section/1226.md)
+    - Conduct of audits
+      - [s. 1227 Individuals responsible for audit work on behalf of Auditors General](section/1227.md)
+    - The Independent Supervisor
+      - [s. 1228 Appointment of the Independent Supervisor](section/1228.md)
+    - Supervision of Auditors General
+      - [s. 1229 Supervision of Auditors General by the Independent Supervisor](section/1229.md)
+      - [s. 1230 Duties of Auditors General in relation to supervision arrangements](section/1230.md)
+    - Reporting requirement
+      - [s. 1231 Reports by the Independent Supervisor](section/1231.md)
+    - Information
+      - [s. 1232 Matters to be notified to the Independent Supervisor](section/1232.md)
+      - [s. 1233 The Independent Supervisor’s power to call for information](section/1233.md)
+    - Enforcement
+      - [s. 1234 Suspension notices](section/1234.md)
+      - [s. 1235 Effect of suspension notices](section/1235.md)
+      - [s. 1236 Compliance orders](section/1236.md)
+    - Proceedings
+      - [s. 1237 Proceedings involving the Independent Supervisor](section/1237.md)
+    - Grants
+      - [s. 1238 Grants to the Independent Supervisor](section/1238.md)
+  - Chapter 4 The register of auditors etc
+    - [s. 1239 The register of auditors](section/1239.md)
+    - [s. 1240 Information to be made available to public](section/1240.md)
+  - CHAPTER4A Equivalent Third Countries and Transitional Third Countries
+    - [s. 1240A Power to approve third countries as equivalent or transitional third countries](section/1240A.md)
+  - CHAPTER4B Approved Third Country Competent Authorities
+    - [s. 1240B Power to approve third country competent authorities](section/1240B.md)
+  - Chapter 5 Registered third country auditors
+    - Introductory
+      - [s. 1241 Meaning of “registered third country auditor” and “UK-traded third country company”](section/1241.md)
+    - Duties
+      - [s. 1242 Duties of registered third country auditors](section/1242.md)
+    - Information
+      - [s. 1243 Matters to be notified to the Secretary of State](section/1243.md)
+      - [s. 1244 The Secretary of State’s power to call for information](section/1244.md)
+    - Enforcement
+      - [s. 1245 Compliance orders](section/1245.md)
+      - [s. 1246 Removal of third country auditors from the register of auditors](section/1246.md)
+      - [s. 1247 Grants to bodies concerned with arrangements under Schedule 12](section/1247.md)
+  - Chapter 6 Supplementary and general
+    - Power to require second company audit
+      - [s. 1248 Secretary of State’s power to require second audit of a company](section/1248.md)
+      - [s. 1249 Supplementary provision about second audits](section/1249.md)
+    - False and misleading statements
+      - [s. 1250 Misleading, false and deceptive statements](section/1250.md)
+    - Fees
+      - [s. 1251 Fees](section/1251.md)
+    - Duty of Secretary of State to report on inspections
+      - [s. 1251A Duty of the Secretary of State to report on inspections](section/1251A.md)
+    - Delegation of Secretary of State’s functions
+      - [s. 1252 Delegation of the Secretary of State’s functions](section/1252.md)
+      - [s. 1253 Delegation of functions to an existing body](section/1253.md)
+    - Cooperation with foreign competent authorities
+      - [s. 1253A Requests to foreign competent authorities](section/1253A.md)
+      - [s. 1253B Requests from approved third country competent authorities](section/1253B.md)
+      - [s. 1253C Notification to approved third country competent authorities...](section/1253C.md)
+    - Transfer of papers to third countries
+      - [s. 1253D Restriction on transfer of audit working papers to third countries](section/1253D.md)
+      - [s. 1253DA Transfer by Secretary of State](section/1253DA.md)
+      - [s. 1253DB Transfer by statutory auditor with approval of Secretary of State](section/1253DB.md)
+      - [s. 1253DC Transfer by statutory auditor for purposes of investigation of auditor](section/1253DC.md)
+      - [s. 1253DD Agreement of third country competent authority](section/1253DD.md)
+      - [s. 1253DE Transfer by means of inspection](section/1253DE.md)
+      - [s. 1253E Working arrangements for transfer of papers](section/1253E.md)
+      - [s. 1253F Publication of working arrangements](section/1253F.md)
+    - International obligations
+      - [s. 1254 Directions to comply with international obligations](section/1254.md)
+    - General provision relating to offences
+      - [s. 1255 Offences by bodies corporate, partnerships and unincorporated associations](section/1255.md)
+      - [s. 1256 Time limits for prosecution of offences](section/1256.md)
+      - [s. 1257 Jurisdiction and procedure in respect of offences](section/1257.md)
+    - Notices etc
+      - [s. 1258 Service of notices](section/1258.md)
+      - [s. 1259 Documents in electronic form](section/1259.md)
+    - Interpretation
+      - [s. 1260 Meaning of “associate”](section/1260.md)
+      - [s. 1261 Minor definitions](section/1261.md)
+      - [s. 1262 Index of defined expressions](section/1262.md)
+    - Miscellaneous and general
+      - [s. 1263 Power to make provision in consequence of changes affecting accountancy bodies](section/1263.md)
+      - [s. 1264 Consequential amendments](section/1264.md)
+- Part 43 Transparency obligations and related matters
+  - Introductory
+    - [s. 1265 The transparency obligations directive](section/1265.md)
+  - Transparency obligations
+    - [s. 1266 Transparency rules](section/1266.md)
+    - [s. 1267 Competent authority’s power to call for information](section/1267.md)
+    - [s. 1268 Powers exercisable in case of infringement of transparency obligation](section/1268.md)
+  - Other matters
+    - [s. 1269 Corporate governance rules](section/1269.md)
+    - [s. 1270 Liability for false or misleading statements in certain publications](section/1270.md)
+    - [s. 1271 Exercise of powers where UK is host member State](section/1271.md)
+    - [s. 1272 Transparency obligations and related matters: minor and consequential amendments](section/1272.md)
+    - [s. 1273 Corporate governance regulations](section/1273.md)
+- Part 44 Miscellaneous provisions
+  - Regulation of actuaries etc
+    - [s. 1274 Grants to bodies concerned with actuarial standards etc](section/1274.md)
+    - [s. 1275 Levy to pay expenses of bodies concerned with actuarial standards etc](section/1275.md)
+    - [s. 1276 Application of provisions to Scotland and Northern Ireland](section/1276.md)
+  - Information as to exercise of voting rights by institutional investors
+    - [s. 1277 Power to require information about exercise of voting rights](section/1277.md)
+    - [s. 1278 Institutions to which information provisions apply](section/1278.md)
+    - [s. 1279 Shares to which information provisions apply](section/1279.md)
+    - [s. 1280 Obligations with respect to provision of information](section/1280.md)
+  - Disclosure of information under the Enterprise Act 2002
+    - [s. 1281 Disclosure of information under the Enterprise Act 2002](section/1281.md)
+  - Expenses of winding up
+    - [s. 1282 Payment of expenses of winding up](section/1282.md)
+  - Commonhold associations
+    - [s. 1283 Amendment of memorandum or articles of commonhold association](section/1283.md)
+- Part 45 Northern Ireland
+  - [s. 1284 Extension of Companies Acts to Northern Ireland](section/1284.md)
+  - [s. 1285 Extension of GB enactments relating to UK Societas](section/1285.md)
+  - [s. 1286 Extension of GB enactments relating to certain other forms of business organisation](section/1286.md)
+  - [s. 1287 Extension of enactments relating to business names](section/1287.md)
+- Part 46 General supplementary provisions
+  - Regulations and orders
+    - [s. 1288 Regulations and orders: statutory instrument](section/1288.md)
+    - [s. 1289 Regulations and orders: negative resolution procedure](section/1289.md)
+    - [s. 1290 Regulations and orders: affirmative resolution procedure](section/1290.md)
+    - [s. 1291 Regulations and orders: approval after being made](section/1291.md)
+    - [s. 1292 Regulations and orders: supplementary](section/1292.md)
+  - “Bank of England”
+    - [s. 1292A “Bank of England”](section/1292A.md)
+  - Meaning of “enactment”
+    - [s. 1293 Meaning of “enactment”](section/1293.md)
+  - Consequential and transitional provisions
+    - [s. 1294 Power to make consequential amendments etc](section/1294.md)
+    - [s. 1295 Repeals](section/1295.md)
+    - [s. 1296 Power to make transitional provision and savings](section/1296.md)
+    - [s. 1297 Continuity of the law](section/1297.md)
+- Part 47 Final provisions
+  - [s. 1298 Short title](section/1298.md)
+  - [s. 1299 Extent](section/1299.md)
+  - [s. 1300 Commencement](section/1300.md)
+- SCHEDULE 1 Connected persons: references to an interest in shares or debentures
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General provisions
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Rights to acquire shares
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Right to exercise or control exercise of rights
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Bodies corporate
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Trusts
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 1A References to people with significant control over a company
+  - PART 1 The specified conditions
+    - Introduction
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - Ownership of shares
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - Ownership of voting rights
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - Ownership of right to appoint or remove directors
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - Significant influence or control
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Trusts, partnerships etc
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - PART 2 Holding an interest in a company etc
+    - Introduction
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - Holding an interest
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Interests held through a legal entity
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - PART 3 Supplementary provision
+    - Introduction
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - Joint interests
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - Joint arrangements
+      - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - Calculating shareholdings
+      - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - Voting rights
+      - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+      - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - Rights to appoint or remove members of the board
+      - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+      - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+    - Shares or rights held “indirectly”
+      - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+    - Shares held by nominees
+      - [Sch. 1A para. 19](schedule/1A/paragraph/19.md)
+    - Rights treated as held by person who controls their exercise
+      - [Sch. 1A para. 20](schedule/1A/paragraph/20.md)
+      - [Sch. 1A para. 21](schedule/1A/paragraph/21.md)
+    - Rights exercisable only in certain circumstances etc
+      - [Sch. 1A para. 22](schedule/1A/paragraph/22.md)
+    - Rights attached to shares held by way of security
+      - [Sch. 1A para. 23](schedule/1A/paragraph/23.md)
+    - Significant influence or control
+      - [Sch. 1A para. 24](schedule/1A/paragraph/24.md)
+    - Limited partnerships
+      - [Sch. 1A para. 25](schedule/1A/paragraph/25.md)
+  - PART 4 Power to amend thresholds etc
+    - [Sch. 1A para. 26](schedule/1A/paragraph/26.md)
+- SCHEDULE 1B Enforcement of disclosure requirements
+  - Right to issue restrictions notice
+    - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+  - Relevant interests
+    - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - Effect of restrictions notice
+    - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+  - Protection of third party rights
+    - [Sch. 1B para. 4](schedule/1B/paragraph/4.md)
+  - Breach of restrictions
+    - [Sch. 1B para. 5](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+    - [Sch. 1B para. 7](schedule/1B/paragraph/7.md)
+  - Relaxation of restrictions
+    - [Sch. 1B para. 8](schedule/1B/paragraph/8.md)
+  - Orders for sale
+    - [Sch. 1B para. 9](schedule/1B/paragraph/9.md)
+    - [Sch. 1B para. 10](schedule/1B/paragraph/10.md)
+  - Company’s power to withdraw restrictions notice
+    - [Sch. 1B para. 11](schedule/1B/paragraph/11.md)
+  - Supplementary provision
+    - [Sch. 1B para. 12](schedule/1B/paragraph/12.md)
+  - Offence of failing to comply with notices
+    - [Sch. 1B para. 13](schedule/1B/paragraph/13.md)
+  - Offence of failing to provide information
+    - [Sch. 1B para. 14](schedule/1B/paragraph/14.md)
+  - False statements: basic offence
+    - [Sch. 1B para. 14A](schedule/1B/paragraph/14A.md)
+  - False statements: aggravated offence
+    - [Sch. 1B para. 14B](schedule/1B/paragraph/14B.md)
+- SCHEDULE 1C Rules of the Takeover Panel: general principles and other provision
+  - PART 1 General principles
+    - [Sch. 1C para. 1](schedule/1C/paragraph/1.md)
+    - [Sch. 1C para. 2](schedule/1C/paragraph/2.md)
+    - [Sch. 1C para. 3](schedule/1C/paragraph/3.md)
+    - [Sch. 1C para. 4](schedule/1C/paragraph/4.md)
+    - [Sch. 1C para. 5](schedule/1C/paragraph/5.md)
+    - [Sch. 1C para. 6](schedule/1C/paragraph/6.md)
+  - PART2 Other provision
+    - Protection of minority shareholders, the mandatory takeover bid and the equitable price
+      - [Sch. 1C para. 7](schedule/1C/paragraph/7.md)
+      - [Sch. 1C para. 8](schedule/1C/paragraph/8.md)
+      - [Sch. 1C para. 9](schedule/1C/paragraph/9.md)
+      - [Sch. 1C para. 10](schedule/1C/paragraph/10.md)
+    - Information concerning takeover bids
+      - [Sch. 1C para. 11](schedule/1C/paragraph/11.md)
+      - [Sch. 1C para. 12](schedule/1C/paragraph/12.md)
+    - Time allowed for acceptance
+      - [Sch. 1C para. 13](schedule/1C/paragraph/13.md)
+      - [Sch. 1C para. 14](schedule/1C/paragraph/14.md)
+    - Disclosure
+      - [Sch. 1C para. 15](schedule/1C/paragraph/15.md)
+      - [Sch. 1C para. 16](schedule/1C/paragraph/16.md)
+    - Obligations of the board of directors of the offeree company
+      - [Sch. 1C para. 17](schedule/1C/paragraph/17.md)
+      - [Sch. 1C para. 18](schedule/1C/paragraph/18.md)
+    - Other rules applicable to the conduct of takeover bids
+      - [Sch. 1C para. 19](schedule/1C/paragraph/19.md)
+    - Interpretation
+      - [Sch. 1C para. 20](schedule/1C/paragraph/20.md)
+      - [Sch. 1C para. 21](schedule/1C/paragraph/21.md)
+- SCHEDULE 2 Specified persons, descriptions of disclosures etc for the purposes of section 948
+  - PART 1 SPECIFIED PERSONS
+    - (A) UNITED KINGDOM
+      - [Sch. 2 Pt. 1 Ch. 1 para. 1](schedule/2/part/1/chapter/1/paragraph/1.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 2](schedule/2/part/1/chapter/1/paragraph/2.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 3](schedule/2/part/1/chapter/1/paragraph/3.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 4](schedule/2/part/1/chapter/1/paragraph/4.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 5](schedule/2/part/1/chapter/1/paragraph/5.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 6](schedule/2/part/1/chapter/1/paragraph/6.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 7](schedule/2/part/1/chapter/1/paragraph/7.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 8](schedule/2/part/1/chapter/1/paragraph/8.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 9](schedule/2/part/1/chapter/1/paragraph/9.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 10](schedule/2/part/1/chapter/1/paragraph/10.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 11](schedule/2/part/1/chapter/1/paragraph/11.md)
+      - [Sch. 2 Pt. 1 Ch. 1 para. 12](schedule/2/part/1/chapter/1/paragraph/12.md)
+    - (B) JERSEY
+      - [Sch. 2 Pt. 1 Ch. 2 para. 1](schedule/2/part/1/chapter/2/paragraph/1.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 2](schedule/2/part/1/chapter/2/paragraph/2.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 3](schedule/2/part/1/chapter/2/paragraph/3.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 4](schedule/2/part/1/chapter/2/paragraph/4.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 5](schedule/2/part/1/chapter/2/paragraph/5.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 6](schedule/2/part/1/chapter/2/paragraph/6.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 7](schedule/2/part/1/chapter/2/paragraph/7.md)
+      - [Sch. 2 Pt. 1 Ch. 2 para. 8](schedule/2/part/1/chapter/2/paragraph/8.md)
+    - (C) GUERNSEY
+      - [Sch. 2 Pt. 1 Ch. 3 para. 1](schedule/2/part/1/chapter/3/paragraph/1.md)
+      - [Sch. 2 Pt. 1 Ch. 3 para. 2](schedule/2/part/1/chapter/3/paragraph/2.md)
+      - [Sch. 2 Pt. 1 Ch. 3 para. 3](schedule/2/part/1/chapter/3/paragraph/3.md)
+      - [Sch. 2 Pt. 1 Ch. 3 para. 4](schedule/2/part/1/chapter/3/paragraph/4.md)
+      - [Sch. 2 Pt. 1 Ch. 3 para. 5](schedule/2/part/1/chapter/3/paragraph/5.md)
+      - [Sch. 2 Pt. 1 Ch. 3 para. 6](schedule/2/part/1/chapter/3/paragraph/6.md)
+      - [Sch. 2 Pt. 1 Ch. 3 para. 7](schedule/2/part/1/chapter/3/paragraph/7.md)
+    - (D) ISLE OF MAN
+      - [Sch. 2 Pt. 1 Ch. 4 para. 1](schedule/2/part/1/chapter/4/paragraph/1.md)
+      - [Sch. 2 Pt. 1 Ch. 4 para. 2](schedule/2/part/1/chapter/4/paragraph/2.md)
+      - [Sch. 2 Pt. 1 Ch. 4 para. 3](schedule/2/part/1/chapter/4/paragraph/3.md)
+      - [Sch. 2 Pt. 1 Ch. 4 para. 4](schedule/2/part/1/chapter/4/paragraph/4.md)
+      - [Sch. 2 Pt. 1 Ch. 4 para. 5](schedule/2/part/1/chapter/4/paragraph/5.md)
+  - PART 2 SPECIFIED DESCRIPTIONS OF DISCLOSURES
+    - (A) UNITED KINGDOM
+      - [Sch. 2 Pt. 2 Ch. 1 para. 1](schedule/2/part/2/chapter/1/paragraph/1.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 2](schedule/2/part/2/chapter/1/paragraph/2.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 3](schedule/2/part/2/chapter/1/paragraph/3.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 4](schedule/2/part/2/chapter/1/paragraph/4.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 5](schedule/2/part/2/chapter/1/paragraph/5.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 6](schedule/2/part/2/chapter/1/paragraph/6.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 7](schedule/2/part/2/chapter/1/paragraph/7.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 8](schedule/2/part/2/chapter/1/paragraph/8.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 9](schedule/2/part/2/chapter/1/paragraph/9.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 10](schedule/2/part/2/chapter/1/paragraph/10.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 11](schedule/2/part/2/chapter/1/paragraph/11.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 12](schedule/2/part/2/chapter/1/paragraph/12.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 13](schedule/2/part/2/chapter/1/paragraph/13.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 14](schedule/2/part/2/chapter/1/paragraph/14.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 15](schedule/2/part/2/chapter/1/paragraph/15.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 16](schedule/2/part/2/chapter/1/paragraph/16.md)
+      - [Sch. 2 Pt. 2 Ch. 1 para. 17](schedule/2/part/2/chapter/1/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 36A](schedule/2/paragraph/36A.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - (B) JERSEY
+      - [Sch. 2 Pt. 2 Ch. 2 para. 1](schedule/2/part/2/chapter/2/paragraph/1.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 2](schedule/2/part/2/chapter/2/paragraph/2.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 3](schedule/2/part/2/chapter/2/paragraph/3.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 4](schedule/2/part/2/chapter/2/paragraph/4.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 5](schedule/2/part/2/chapter/2/paragraph/5.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 6](schedule/2/part/2/chapter/2/paragraph/6.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 7](schedule/2/part/2/chapter/2/paragraph/7.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 8](schedule/2/part/2/chapter/2/paragraph/8.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 9](schedule/2/part/2/chapter/2/paragraph/9.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 10](schedule/2/part/2/chapter/2/paragraph/10.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 11](schedule/2/part/2/chapter/2/paragraph/11.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 12](schedule/2/part/2/chapter/2/paragraph/12.md)
+      - [Sch. 2 Pt. 2 Ch. 2 para. 13](schedule/2/part/2/chapter/2/paragraph/13.md)
+    - (C) GUERNSEY
+      - [Sch. 2 Pt. 2 Ch. 3 para. 1](schedule/2/part/2/chapter/3/paragraph/1.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 2](schedule/2/part/2/chapter/3/paragraph/2.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 3](schedule/2/part/2/chapter/3/paragraph/3.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 4](schedule/2/part/2/chapter/3/paragraph/4.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 5](schedule/2/part/2/chapter/3/paragraph/5.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 6](schedule/2/part/2/chapter/3/paragraph/6.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 7](schedule/2/part/2/chapter/3/paragraph/7.md)
+      - [Sch. 2 Pt. 2 Ch. 3 para. 8](schedule/2/part/2/chapter/3/paragraph/8.md)
+    - (D) ISLE OF MAN
+      - [Sch. 2 Pt. 2 Ch. 4 para. 1](schedule/2/part/2/chapter/4/paragraph/1.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 2](schedule/2/part/2/chapter/4/paragraph/2.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 3](schedule/2/part/2/chapter/4/paragraph/3.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 4](schedule/2/part/2/chapter/4/paragraph/4.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 5](schedule/2/part/2/chapter/4/paragraph/5.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 6](schedule/2/part/2/chapter/4/paragraph/6.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 7](schedule/2/part/2/chapter/4/paragraph/7.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 8](schedule/2/part/2/chapter/4/paragraph/8.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 9](schedule/2/part/2/chapter/4/paragraph/9.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 10](schedule/2/part/2/chapter/4/paragraph/10.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 11](schedule/2/part/2/chapter/4/paragraph/11.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 12](schedule/2/part/2/chapter/4/paragraph/12.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 13](schedule/2/part/2/chapter/4/paragraph/13.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 14](schedule/2/part/2/chapter/4/paragraph/14.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 15](schedule/2/part/2/chapter/4/paragraph/15.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 16](schedule/2/part/2/chapter/4/paragraph/16.md)
+      - [Sch. 2 Pt. 2 Ch. 4 para. 17](schedule/2/part/2/chapter/4/paragraph/17.md)
+    - (E) GENERAL
+      - [Sch. 2 Pt. 2 Ch. 5 para. 1](schedule/2/part/2/chapter/5/paragraph/1.md)
+      - [Sch. 2 Pt. 2 Ch. 5 para. 2](schedule/2/part/2/chapter/5/paragraph/2.md)
+      - [Sch. 2 Pt. 2 Ch. 5 para. 3](schedule/2/part/2/chapter/5/paragraph/3.md)
+      - [Sch. 2 Pt. 2 Ch. 5 para. 4](schedule/2/part/2/chapter/5/paragraph/4.md)
+      - [Sch. 2 Pt. 2 Ch. 5 para. 5](schedule/2/part/2/chapter/5/paragraph/5.md)
+  - PART 3 OVERSEAS REGULATORY BODIES
+    - [Sch. 2 Pt. 3 para. 1](schedule/2/part/3/paragraph/1.md)
+    - [Sch. 2 Pt. 3 para. 2](schedule/2/part/3/paragraph/2.md)
+- SCHEDULE 3 Amendments of remaining provisions of the Companies Act 1985 relating to offences
+  - Failure to give information about interests in shares etc
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Obstruction of rights conferred by a warrant or failure to comply with requirement under section 448
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Wrongful disclosure of information to which section 449 applies
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Destruction, mutilation etc of company documents
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Provision of false information in purported compliance with section 447
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Obstruction of inspector, etc exercising power to enter and remain on premises
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Attempted evasion of restrictions under Part 15
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Documents and information sent or supplied to a company
+  - Part 1 Introduction
+    - Application of Schedule
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part 2 Communications in hard copy form
+    - Introduction
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Method of communication in hard copy form
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Address for communications in hard copy form
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - PART 2A Communications in electronic form from the registrar or the Secretary of State
+    - [Sch. 4 para. 4A](schedule/4/paragraph/4A.md)
+  - Part 3 Communications in electronic form in other cases
+    - Introduction
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Conditions for use of communications in electronic form
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Address for communications in electronic form
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Part 4 Other agreed forms of communication
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Communications by a company
+  - Part 1 Introduction
+    - Application of this Schedule
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Part 2 Communications in hard copy form
+    - Introduction
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Method of communication in hard copy form
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Address for communications in hard copy form
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part 3 Communications in electronic form
+    - Introduction
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Agreement to communications in electronic form
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Address for communications in electronic form
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Part 4 Communications by means of a website
+    - Use of website
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Agreement to use of website
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Deemed agreement of members of company etc to use of website
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Deemed agreement of debenture holders to use of website
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Availability of document or information
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Notification of availability
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Period of availability on website
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Part 5 Other agreed forms of communication
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part 6 Supplementary provisions
+    - Joint holders of shares or debentures
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Death or bankruptcy of holder of shares
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Meaning of “subsidiary” etc: supplementary provisions
+  - Introduction
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Voting rights in a company
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Right to appoint or remove a majority of the directors
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Rights exercisable only in certain circumstances or temporarily incapable of exercise
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Rights held by one person on behalf of another
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Rights attached to shares held by way of security
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Rights attributed to holding company
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Disregard of certain rights
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Supplementary
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Parent and subsidiary undertakings: supplementary provisions
+  - Introduction
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Voting rights in an undertaking
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Right to appoint or remove a majority of the directors
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Right to exercise dominant influence
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Rights exercisable only in certain circumstances or temporarily incapable of exercise
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Rights held by one person on behalf of another
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Rights attached to shares held by way of security
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Rights attributed to parent undertaking
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Disregard of certain rights
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Supplementary
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+- SCHEDULE 8 Index of defined expressions
+- SCHEDULE 9 Removal of special provisions about accounts and audit of charitable companies
+  - Part 1 The Companies Act 1985 (c. 6)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Part 2 The Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Recognised supervisory bodies
+  - Part 1 Grant and revocation of recognition of a supervisory body
+    - Application for recognition of supervisory body
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Grant and refusal of recognition
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Revocation of recognition
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Transitional provision
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Orders not statutory instruments
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Part 2 Requirements for recognition of a supervisory body
+    - Delegation etc. of tasks by competent authority
+      - [Sch. 10 para. 5A](schedule/10/paragraph/5A.md)
+    - Consultation
+      - [Sch. 10 para. 5B](schedule/10/paragraph/5B.md)
+    - Holding of appropriate qualification
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 7A](schedule/10/paragraph/7A.md)
+    - Auditors to be fit and proper persons
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Professional integrity and independence
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Technical standards
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Technical standards for group audits
+      - [Sch. 10 para. 10A](schedule/10/paragraph/10A.md)
+    - Public interest entity reporting requirements
+      - [Sch. 10 para. 10B](schedule/10/paragraph/10B.md)
+    - Public interest entity independence requirements
+      - [Sch. 10 para. 10C](schedule/10/paragraph/10C.md)
+    - Procedures for maintaining competence
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Monitoring and enforcement
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Monitoring of audits
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Membership, eligibility and enforcement
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Investigation of complaints
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Independent investigation for enforcement purposes
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Transfer of papers to third countries
+      - [Sch. 10 para. 16A](schedule/10/paragraph/16A.md)
+    - Transfer to approved third country competent authority
+      - [Sch. 10 para. 16AA](schedule/10/paragraph/16AA.md)
+    - Transfer for purposes of investigation of auditor
+      - [Sch. 10 para. 16AB](schedule/10/paragraph/16AB.md)
+    - Meeting of claims arising out of audit work
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Register of auditors and other information to be made available
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Taking account of costs of compliance
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Promotion and maintenance of standards
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Supplementary: funding of arrangements
+      - [Sch. 10 para. 20ZA](schedule/10/paragraph/20ZA.md)
+    - Interpretation
+      - [Sch. 10 para. 20A](schedule/10/paragraph/20A.md)
+  - Part 3 Arrangements in which recognised supervisory bodies are required to participate
+    - Arrangements for setting standards relating to professional integrity and independence
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Arrangements for setting technical standards
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Arrangements for setting standards relating to public interest entity reporting requirements
+      - [Sch. 10 para. 22A](schedule/10/paragraph/22A.md)
+    - Arrangements for setting standards relating to public interest entity independence requirements
+      - [Sch. 10 para. 22B](schedule/10/paragraph/22B.md)
+    - Arrangements for independent monitoring of audits of listed companies and other major bodies
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - Arrangements for independent monitoring of third country audits
+      - [Sch. 10 para. 23A](schedule/10/paragraph/23A.md)
+    - Arrangements for independent investigation for disciplinary purposes of public interest cases
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - Supplementary: arrangements to operate independently of body
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Supplementary: funding of arrangements
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - Supplementary: scope of arrangement
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+- SCHEDULE 11 Recognised professional qualifications
+  - Part 1 Grant and revocation of recognition of a professional qualification
+    - Application for recognition of professional qualification
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Grant and refusal of recognition
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Revocation of recognition
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Transitional provision
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Orders not statutory instruments
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Part 2 Requirements for recognition of a professional qualification
+    - Entry requirements
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Requirement for theoretical instruction or professional experience
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Examination
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Practical training
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Supplementary provision with respect to a sufficient period of professional experience
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - The body offering the qualification
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 11A Specified persons, descriptions, disclosures etc for the purposes of section 1224A
+  - PART 1 Specified persons
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+    - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+    - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+    - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+    - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+    - [Sch. 11A para. 5A](schedule/11A/paragraph/5A.md)
+    - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+    - [Sch. 11A para. 7](schedule/11A/paragraph/7.md)
+    - [Sch. 11A para. 8](schedule/11A/paragraph/8.md)
+    - [Sch. 11A para. 9](schedule/11A/paragraph/9.md)
+    - [Sch. 11A para. 10](schedule/11A/paragraph/10.md)
+    - [Sch. 11A para. 11](schedule/11A/paragraph/11.md)
+    - [Sch. 11A para. 12](schedule/11A/paragraph/12.md)
+    - [Sch. 11A para. 13](schedule/11A/paragraph/13.md)
+    - [Sch. 11A para. 14](schedule/11A/paragraph/14.md)
+    - [Sch. 11A para. 15](schedule/11A/paragraph/15.md)
+    - [Sch. 11A para. 16](schedule/11A/paragraph/16.md)
+    - [Sch. 11A para. 17](schedule/11A/paragraph/17.md)
+    - [Sch. 11A para. 17A](schedule/11A/paragraph/17A.md)
+    - [Sch. 11A para. 17B](schedule/11A/paragraph/17B.md)
+    - [Sch. 11A para. 17C](schedule/11A/paragraph/17C.md)
+    - [Sch. 11A para. 17D](schedule/11A/paragraph/17D.md)
+  - PART 2 Specified descriptions of disclosures
+    - [Sch. 11A para. 18](schedule/11A/paragraph/18.md)
+    - [Sch. 11A para. 19](schedule/11A/paragraph/19.md)
+    - [Sch. 11A para. 20](schedule/11A/paragraph/20.md)
+    - [Sch. 11A para. 21](schedule/11A/paragraph/21.md)
+    - [Sch. 11A para. 22](schedule/11A/paragraph/22.md)
+    - [Sch. 11A para. 23](schedule/11A/paragraph/23.md)
+    - [Sch. 11A para. 24](schedule/11A/paragraph/24.md)
+    - [Sch. 11A para. 25](schedule/11A/paragraph/25.md)
+    - [Sch. 11A para. 26](schedule/11A/paragraph/26.md)
+    - [Sch. 11A para. 27](schedule/11A/paragraph/27.md)
+    - [Sch. 11A para. 28](schedule/11A/paragraph/28.md)
+    - [Sch. 11A para. 29](schedule/11A/paragraph/29.md)
+    - [Sch. 11A para. 30](schedule/11A/paragraph/30.md)
+    - [Sch. 11A para. 31](schedule/11A/paragraph/31.md)
+    - [Sch. 11A para. 32](schedule/11A/paragraph/32.md)
+    - [Sch. 11A para. 33](schedule/11A/paragraph/33.md)
+    - [Sch. 11A para. 34](schedule/11A/paragraph/34.md)
+    - [Sch. 11A para. 35](schedule/11A/paragraph/35.md)
+    - [Sch. 11A para. 36](schedule/11A/paragraph/36.md)
+    - [Sch. 11A para. 37](schedule/11A/paragraph/37.md)
+    - [Sch. 11A para. 38](schedule/11A/paragraph/38.md)
+    - [Sch. 11A para. 39](schedule/11A/paragraph/39.md)
+    - [Sch. 11A para. 40](schedule/11A/paragraph/40.md)
+    - [Sch. 11A para. 41](schedule/11A/paragraph/41.md)
+    - [Sch. 11A para. 42](schedule/11A/paragraph/42.md)
+    - [Sch. 11A para. 43](schedule/11A/paragraph/43.md)
+    - [Sch. 11A para. 44](schedule/11A/paragraph/44.md)
+    - [Sch. 11A para. 45](schedule/11A/paragraph/45.md)
+    - [Sch. 11A para. 46](schedule/11A/paragraph/46.md)
+    - [Sch. 11A para. 47](schedule/11A/paragraph/47.md)
+    - [Sch. 11A para. 48](schedule/11A/paragraph/48.md)
+    - [Sch. 11A para. 49](schedule/11A/paragraph/49.md)
+    - [Sch. 11A para. 50](schedule/11A/paragraph/50.md)
+    - [Sch. 11A para. 51](schedule/11A/paragraph/51.md)
+    - [Sch. 11A para. 51A](schedule/11A/paragraph/51A.md)
+    - [Sch. 11A para. 52](schedule/11A/paragraph/52.md)
+    - [Sch. 11A para. 53](schedule/11A/paragraph/53.md)
+    - [Sch. 11A para. 54](schedule/11A/paragraph/54.md)
+    - [Sch. 11A para. 55](schedule/11A/paragraph/55.md)
+    - [Sch. 11A para. 56](schedule/11A/paragraph/56.md)
+    - [Sch. 11A para. 57](schedule/11A/paragraph/57.md)
+    - [Sch. 11A para. 58](schedule/11A/paragraph/58.md)
+    - [Sch. 11A para. 59](schedule/11A/paragraph/59.md)
+    - [Sch. 11A para. 60](schedule/11A/paragraph/60.md)
+    - [Sch. 11A para. 61](schedule/11A/paragraph/61.md)
+    - [Sch. 11A para. 62](schedule/11A/paragraph/62.md)
+    - [Sch. 11A para. 63](schedule/11A/paragraph/63.md)
+    - [Sch. 11A para. 64](schedule/11A/paragraph/64.md)
+    - [Sch. 11A para. 65](schedule/11A/paragraph/65.md)
+    - [Sch. 11A para. 66](schedule/11A/paragraph/66.md)
+    - [Sch. 11A para. 67](schedule/11A/paragraph/67.md)
+    - [Sch. 11A para. 68](schedule/11A/paragraph/68.md)
+    - [Sch. 11A para. 69](schedule/11A/paragraph/69.md)
+    - [Sch. 11A para. 70](schedule/11A/paragraph/70.md)
+    - [Sch. 11A para. 71](schedule/11A/paragraph/71.md)
+    - [Sch. 11A para. 72](schedule/11A/paragraph/72.md)
+    - [Sch. 11A para. 73](schedule/11A/paragraph/73.md)
+    - [Sch. 11A para. 74](schedule/11A/paragraph/74.md)
+    - [Sch. 11A para. 75](schedule/11A/paragraph/75.md)
+    - [Sch. 11A para. 76](schedule/11A/paragraph/76.md)
+    - [Sch. 11A para. 77](schedule/11A/paragraph/77.md)
+    - [Sch. 11A para. 78](schedule/11A/paragraph/78.md)
+  - PART 3 Overseas regulatory bodies
+    - [Sch. 11A para. 79](schedule/11A/paragraph/79.md)
+    - [Sch. 11A para. 80](schedule/11A/paragraph/80.md)
+- SCHEDULE 12 Arrangements in which registered third country auditors are required to participate
+  - Arrangements for independent monitoring of audits of UK-traded third country companies
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Arrangements for independent investigations for disciplinary purposes
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Supplementary: arrangements to operate independently of third country auditor
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Supplementary: funding of arrangements
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Supplementary: scope of arrangements
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Specification of particular arrangements by the Secretary of State
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+- SCHEDULE 13 Supplementary provisions with respect to delegation order
+  - Operation of this Schedule
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Status
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Name, members and chairman
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Financial provisions
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Proceedings
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Fees
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Legislative functions
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Report and accounts
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Other supplementary provisions
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+- SCHEDULE 14 Statutory auditors: consequential amendments
+  - Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+- SCHEDULE 15 Transparency obligations and related matters: minor and consequential amendments
+  - Part 1 Amendments of the Financial Services and Markets Act 2000
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Part 2 Amendments of the Companies (Audit, Investigations and Community Enterprise) Act 2004
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+- SCHEDULE 16 Repeals
