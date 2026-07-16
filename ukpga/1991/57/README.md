@@ -1,0 +1,800 @@
+# Water Resources Act 1991
+
+1991 c. 57. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 20 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
+
+Source: https://www.legislation.gov.uk/ukpga/1991/57/2026-07-16
+
+## Contents
+
+- Part I PRELIMINARY
+  - CHAPTER I THE NATIONAL RIVERS AUTHORITY
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+  - CHAPTER II COMMITTEES WITH FUNCTIONS IN RELATION TO THE AUTHORITY
+    - Advisory committees
+      - [s. 6 ................................](section/6.md)
+      - [s. 7 ................................](section/7.md)
+      - [s. 8 ................................](section/8.md)
+    - Flood defence committees
+      - [s. 9 ................................](section/9.md)
+      - [s. 10 ................................](section/10.md)
+      - [s. 11 ................................](section/11.md)
+      - [s. 12 ................................](section/12.md)
+      - [s. 13 ................................](section/13.md)
+      - [s. 14 ................................](section/14.md)
+  - CHAPTER III GENERAL DUTIES
+    - [s. 15 General duties with respect to the water industry.](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+- Part II Water Resources Management
+  - CHAPTER I General Management Functions
+    - [s. 19 General management of resources by the Agency.](section/19.md)
+    - [s. 20 Water resources management schemes.](section/20.md)
+    - [s. 20A Water resources management schemes: other abstractors](section/20A.md)
+    - [s. 20B Water resources management schemes: referral to Secretary of State](section/20B.md)
+    - [s. 20C Proposals for bulk supply arrangements](section/20C.md)
+    - [s. 21 Minimum acceptable flows.](section/21.md)
+    - [s. 22 Directions to the appropriate agency to consider minimum acceptable flow.](section/22.md)
+    - [s. 23 Minimum acceptable level or volume of inland waters.](section/23.md)
+  - Chapter II ABSTRACTION AND IMPOUNDING
+    - Restrictions on abstraction and impounding
+      - [s. 24 Restrictions on abstraction.](section/24.md)
+      - [s. 24A Abstraction licences](section/24A.md)
+      - [s. 25 Restrictions on impounding.](section/25.md)
+      - [s. 25A Enforcement notices](section/25A.md)
+      - [s. 25B Rights of entry and appeals](section/25B.md)
+      - [s. 25C Consequences of not complying with an enforcement notice](section/25C.md)
+    - Rights to abstract or impound
+      - [s. 26 Rights of navigation, harbour and conservancy authorities.](section/26.md)
+      - [s. 27 Rights to abstract small quantities.](section/27.md)
+      - [s. 27A Variation of small quantity threshold](section/27A.md)
+      - [s. 28 Curtailment of rights under section 27.](section/28.md)
+      - [s. 29 Rights to abstract for drainage purposes etc.](section/29.md)
+      - [s. 30 Notices with respect to borings not requiring licences.](section/30.md)
+      - [s. 31 Appeals against conservation notices under section 30.](section/31.md)
+      - [s. 32 Miscellaneous rights to abstract.](section/32.md)
+      - [s. 33 Power to provide for further rights to abstract.](section/33.md)
+      - [s. 33A Power to provide for further exemptions](section/33A.md)
+    - Applications for a licence
+      - [s. 34 Regulations with respect to applications.](section/34.md)
+      - [s. 35 Restrictions on persons who may make applications for abstraction licences.](section/35.md)
+      - [s. 36 Application for combined abstraction and impounding licence.](section/36.md)
+      - [s. 36A Applications: types of abstraction licence](section/36A.md)
+      - [s. 37 Publication of application for licence.](section/37.md)
+      - [s. 37A Power to dispense with publication requirements](section/37A.md)
+    - Consideration of licence applications
+      - [s. 38 General consideration of applications.](section/38.md)
+      - [s. 39 Obligation to have regard to existing rights and privileges.](section/39.md)
+      - [s. 39A Protected rights for the purposes of this Chapter](section/39A.md)
+      - [s. 39B Register of certain protected rights](section/39B.md)
+      - [s. 40 Obligation to take river flow etc. into account.](section/40.md)
+    - Call-in of applications
+      - [s. 41 Secretary of State’s power to call in applications](section/41.md)
+      - [s. 42 Consideration of called-in applications.](section/42.md)
+    - Appeals with respect to decisions on licence applications
+      - [s. 43 Appeals to the Secretary of State.](section/43.md)
+      - [s. 44 Determination of appeals.](section/44.md)
+      - [s. 45 Regulations with respect to appeals.](section/45.md)
+    - Form, contents and effect of licences
+      - [s. 46 Form and contents of licences.](section/46.md)
+      - [s. 46A Limited extension of abstraction licence validity](section/46A.md)
+      - [s. 46B Power to impose general conditions with respect to licensed activity by water companies](section/46B.md)
+      - [s. 47 Holders of licence.](section/47.md)
+      - [s. 48 General effect of licence.](section/48.md)
+      - [s. 48A Civil remedies for loss or damage due to water abstraction](section/48A.md)
+    - Succession to licences
+      - [s. 49 Succession to licences to abstract where person ceases to occupy the relevant land.](section/49.md)
+      - [s. 50 Succession where person becomes occupier of part of the relevant land.](section/50.md)
+    - Modification of licences
+      - [s. 51 Modification on application of licence holder.](section/51.md)
+      - [s. 52 Proposals for modification at instance of the appropriate agency or Secretary of State.](section/52.md)
+      - [s. 53 Modification in pursuance of proposals under section 52.](section/53.md)
+      - [s. 54 Reference of modification proposals to the Secretary of State.](section/54.md)
+      - [s. 55 Application for modification of licence by owner of fishing rights.](section/55.md)
+      - [s. 56 Determination of application under section 55.](section/56.md)
+      - [s. 57 Emergency variation of licences for spray irrigation purposes.](section/57.md)
+      - [s. 58](section/58.md)
+      - [s. 59 Regulations with respect to modification applications.](section/59.md)
+    - Transfer and apportionment of licences
+      - [s. 59A Transfer of licence](section/59A.md)
+      - [s. 59B Vesting of licence on death or bankruptcy of holder](section/59B.md)
+      - [s. 59C Apportionment of licence to abstract](section/59C.md)
+      - [s. 59D Apportionment of licence to abstract: supplementary](section/59D.md)
+    - Remedies and compensation in respect of infringement of protected rights etc.
+      - [s. 60 Liability of the appropriate agency for derogation from protected right.](section/60.md)
+      - [s. 61 Compensation where licence modified on direction of the Secretary of State.](section/61.md)
+      - [s. 61ZA No compensation where modification to protect environment: England](section/61ZA.md)
+      - [s. 61ZB No compensation where variation to remove excess headroom: England](section/61ZB.md)
+      - [s. 61A Recovery of compensation from new licence-holder](section/61A.md)
+      - [s. 62 Compensation for owner of fishing rights applying under section 55.](section/62.md)
+      - [s. 63 Secretary of State to indemnify appropriate agency in certain cases.](section/63.md)
+    - Supplemental provisions of Chapter II
+      - [s. 64 Abstracting and impounding by the appropriate agency.](section/64.md)
+      - [s. 65 Licences of right.](section/65.md)
+      - [s. 66 Inland waters owned or managed by Canal & River Trust.](section/66.md)
+      - [s. 67 Ecclesiastical property.](section/67.md)
+      - [s. 68](section/68.md)
+      - [s. 69 Validity of decisions of Secretary of State and related proceedings.](section/69.md)
+      - [s. 70 Civil liability under Chapter II.](section/70.md)
+      - [s. 71 Modification of local enactments.](section/71.md)
+      - [s. 72 Interpretation of Chapter II.](section/72.md)
+  - chapter III DROUGHT
+    - [s. 73 Power to make ordinary and emergency drought orders.](section/73.md)
+    - [s. 74 Provisions and duration of ordinary drought order.](section/74.md)
+    - [s. 75 Provisions and duration of emergency drought order.](section/75.md)
+    - [s. 76 Provisions of drought order restricting use of water.](section/76.md)
+    - [s. 77 Provisions of drought order with respect to abstractions and discharges.](section/77.md)
+    - [s. 78 Works under drought orders.](section/78.md)
+    - [s. 79 Compensation and charges where drought order made.](section/79.md)
+    - [s. 79A Drought permits.](section/79A.md)
+    - [s. 80 Offences against drought order.](section/80.md)
+    - [s. 81 Interpretation of Chapter III.](section/81.md)
+- Part III Control of Pollution of Water Resources
+  - chapter I QUALITY OBJECTIVES
+    - [s. 82 Classification of quality of waters.](section/82.md)
+    - [s. 83 Water quality objectives.](section/83.md)
+    - [s. 84 General duties to achieve and maintain objectives etc.](section/84.md)
+  - CHAPTER II POLLUTION OFFENCES
+    - Principal offences
+      - [s. 85 Offences of polluting controlled waters.](section/85.md)
+      - [s. 86 Prohibition of certain discharges by notice or regulations.](section/86.md)
+      - [s. 87 Discharges into and from public sewers etc.](section/87.md)
+      - [s. 88 Defence to principal offences in respect of authorised discharges.](section/88.md)
+      - [s. 89 Other defences to principal offences.](section/89.md)
+    - Offences in connection with deposits and vegetation in rivers
+      - [s. 90 Offences in connection with deposits and vegetation in rivers.](section/90.md)
+    - Consents for the purposes of sections 88 to 90
+      - [s. 90A Applications for consent under section 89 or 90.](section/90A.md)
+      - [s. 90B Enforcement notices.](section/90B.md)
+    - Appeals in respect of consents under Chapter II
+      - [s. 91 Appeals in respect of consents under Chapter II.](section/91.md)
+  - Chapter IIA Abandoned Mines
+    - [s. 91A Introductory.](section/91A.md)
+    - [s. 91B Mine operators to give the appropriate agency six months’ notice of any proposed abandonment.](section/91B.md)
+  - chapter iii POWERS TO PREVENT AND CONTROL POLLUTION
+    - [s. 92 Requirements to take precautions against pollution.](section/92.md)
+    - [s. 93 Water protection zones.](section/93.md)
+    - [s. 94 Nitrate sensitive areas.](section/94.md)
+    - [s. 95 Agreements in nitrate sensitive areas.](section/95.md)
+    - [s. 96 Regulations with respect to consents required by virtue of section 93 or 94.](section/96.md)
+    - [s. 97 Codes of good agricultural practice.](section/97.md)
+  - chapter IV SUPPLEMENTAL PROVISIONS WITH RESPECT TO WATER POLLUTIONS
+    - [s. 98 Radioactive substances.](section/98.md)
+    - [s. 99 Consents required by the Agency.](section/99.md)
+    - [s. 100 Civil liability in respect of pollution and savings.](section/100.md)
+    - [s. 101 Limitation for summary offences under Part III.](section/101.md)
+    - [s. 102 Power to give effect to international obligations etc.](section/102.md)
+    - [s. 103 Transitional pollution provisions.](section/103.md)
+    - [s. 104 Meaning of “controlled waters" etc. in Part III.](section/104.md)
+- Part IV FLOOD DEFENCE
+  - General
+    - [s. 105 General functions with respect to flood defence.](section/105.md)
+    - [s. 106 Obligation to carry out flood defence functions through committees.](section/106.md)
+  - Main river functions
+    - [s. 107 Main river functions under the Land Drainage Act 1991.](section/107.md)
+    - [s. 108 Schemes for transfer to the appropriate agency of functions in relation to main river.](section/108.md)
+    - [s. 109 Structures in, over or under a main river.](section/109.md)
+    - [s. 110 Applications for consents and approvals under section 109.](section/110.md)
+  - Arrangements with certain authorities
+    - [s. 111 Arrangements with navigation and conservancy authorities.](section/111.md)
+  - Supplemental
+    - [s. 112 Flood defence regulations.](section/112.md)
+    - [s. 113 Interpretation of Part IV.](section/113.md)
+- Part V GENERAL CONTROL OF FISHERIES
+  - [s. 114 ................................](section/114.md)
+  - [s. 115 Fisheries orders.](section/115.md)
+  - [s. 116 Power to give effect to international obligations etc.](section/116.md)
+- Part VI FINANCIAL PROVISIONS IN RELATION TO THE APPROPRIATE AGENCY
+  - chapter I GENERAL FINANCIAL PROVISIONS
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 Special duties with respect to flood defence revenue.](section/118.md)
+    - [s. 119 Duties with respect to certain funds raised under local enactments.](section/119.md)
+    - [s. 120 Contributions between the appropriate agency and certain other authorities.](section/120.md)
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 ................................](section/122.md)
+  - chapter II REVENUE PROVISIONS
+    - Water resources charges
+      - [s. 123 ................................](section/123.md)
+      - [s. 124 ................................](section/124.md)
+      - [s. 125 Specific exemptions from water resources charges.](section/125.md)
+      - [s. 126 Agreements containing exemptions from charges.](section/126.md)
+      - [s. 127 Special charges in respect of spray irrigation.](section/127.md)
+      - [s. 128 Duration of agreement under section 127.](section/128.md)
+      - [s. 129 Directions and appeals with respect to exercise of powers under sections 127 and 128.](section/129.md)
+      - [s. 130 Charges in respect of abstraction from waters of Canal & River Trust.](section/130.md)
+    - Charges in connection with control of pollution
+      - [s. 131 ................................](section/131.md)
+      - [s. 132 ................................](section/132.md)
+    - Levies by the Agency on local authorities
+      - [s. 133 Power to authorise the Agency to issue levies.](section/133.md)
+    - General drainage charges
+      - [s. 134 Raising of general drainage charges.](section/134.md)
+      - [s. 135 Amount, assessment etc. of general drainage charge.](section/135.md)
+      - [s. 136 ................................](section/136.md)
+    - Special drainage charges
+      - [s. 137 Special drainage charges in interests of agriculture.](section/137.md)
+      - [s. 138 Levying and amount of special drainage charge.](section/138.md)
+    - Revenue from internal drainage boards
+      - [s. 139 Contributions from internal drainage boards.](section/139.md)
+      - [s. 140 Appeals in respect of resolutions under section 139.](section/140.md)
+      - [s. 141 Precepts for recovery of contributions from internal drainage boards.](section/141.md)
+    - Fisheries contributions
+      - [s. 142 Fisheries contributions.](section/142.md)
+    - Navigation tolls
+      - [s. 143 Power of appropriate agency to levy navigation tolls.](section/143.md)
+    - Incidental power of the Authority to impose charges
+      - [s. 144 Incidental power of the Authority to impose charges.](section/144.md)
+    - Interpretation of Chapter II
+      - [s. 145 Interpretation of Chapter II.](section/145.md)
+  - chapter III GRANTS AND LOANS
+    - Grants to the Agency
+      - [s. 146 ................................](section/146.md)
+      - [s. 147 Grants for drainage works.](section/147.md)
+      - [s. 148 Grants towards cost of flood warning systems.](section/148.md)
+      - [s. 149 Other grants in respect of exercise of powers under Part VII for drainage purposes.](section/149.md)
+      - [s. 150 ................................](section/150.md)
+    - Borrowing by the Authority
+      - [s. 151 ................................](section/151.md)
+      - [s. 152 ................................](section/152.md)
+      - [s. 153 ................................](section/153.md)
+- Part VII Land and Works Powers
+  - chapter I POWERS OF THE APPROPRIATE AGENCY
+    - Provisions in relation to land
+      - [s. 154 Compulsory purchase etc.](section/154.md)
+      - [s. 155 Accretions of land resulting from drainage works.](section/155.md)
+      - [s. 156 Acquisition of land etc. for fisheries purposes.](section/156.md)
+      - [s. 157 Restriction on disposals of compulsorily acquired land.](section/157.md)
+    - Works agreements for water resources purposes
+      - [s. 158 Works agreements for water resources purposes.](section/158.md)
+    - General pipe-laying powers
+      - [s. 159 Powers to lay pipes in streets.](section/159.md)
+      - [s. 160 Power to lay pipes in other land.](section/160.md)
+    - Restoration and improvement works for controlled waters
+      - [s. 161 Anti-pollution works and operations](section/161.md)
+      - [s. 161ZA Other works and operations in respect of harm to controlled waters](section/161ZA.md)
+      - [s. 161ZB Works and operations for improving controlled waters](section/161ZB.md)
+      - [s. 161ZC Sections 161 to 161ZB: supplementary](section/161ZC.md)
+      - [s. 161A Notices requiring persons to carry out works and operations](section/161A.md)
+      - [s. 161AA Works notices: form etc](section/161AA.md)
+      - [s. 161AB Works notices: exceptions etc](section/161AB.md)
+      - [s. 161B Grant of, and compensation for, rights of entry etc.](section/161B.md)
+      - [s. 161C Appeals against works notices.](section/161C.md)
+      - [s. 161D Consequences of not complying with a works notice.](section/161D.md)
+      - [s. 162 Other powers to deal with foul water and pollution.](section/162.md)
+    - Powers to discharge water
+      - [s. 163 Discharges for works purposes.](section/163.md)
+      - [s. 164 Consents for certain discharges under section 163.](section/164.md)
+    - Flood defence and drainage works
+      - [s. 165 General powers to carry out works](section/165.md)
+      - [s. 166 Power to carry out works for purpose of providing flood warning system.](section/166.md)
+      - [s. 167 Power to dispose of spoil in connection with flood defence works.](section/167.md)
+      - [s. 167A](section/167A.md)
+    - Compulsory works orders
+      - [s. 168 Compulsory works orders.](section/168.md)
+  - CHAPTER II POWERS OF ENTRY
+    - [s. 169 Powers of entry for enforcement purposes.](section/169.md)
+    - [s. 170 Power of entry for certain works purposes.](section/170.md)
+    - [s. 171 Power to carry out surveys and to search for water.](section/171.md)
+    - [s. 172 Powers of entry for other purposes.](section/172.md)
+    - [s. 173 Powers of entry: supplemental provisions.](section/173.md)
+    - [s. 174 Impersonation of persons exercising powers of entry.](section/174.md)
+  - chapter III PROVISIONS SUPPLEMENTAL TO LAND AND WORK POWERS
+    - Vesting of pipes in the appropriate agency
+      - [s. 175 Vesting of pipes in the appropriate agency.](section/175.md)
+    - Offence of interference with works etc.
+      - [s. 176 Offence of interference with works etc.](section/176.md)
+    - Compensation etc. in respect of exercise of works powers
+      - [s. 177 Compensation etc. in respect of exercise of works powers.](section/177.md)
+    - Protective provisions
+      - [s. 178 Protection for particular undertakings.](section/178.md)
+      - [s. 179 Protective provisions in respect of flood defence works and watercourses etc.](section/179.md)
+      - [s. 180 Power of navigation authorities etc to divert the appropriate agency’s watercourses.](section/180.md)
+      - [s. 181 Works in tidal lands etc.](section/181.md)
+      - [s. 182 Mineral rights.](section/182.md)
+      - [s. 183 Saving for planning controls etc.](section/183.md)
+      - [s. 184 Duties to make recreational facilities available when building reservoirs in Wales.](section/184.md)
+    - Savings in respect of existing drainage obligations
+      - [s. 185 Savings in respect of existing drainage obligations.](section/185.md)
+    - Interpretation of Part VII
+      - [s. 186 Interpretation of Part VII.](section/186.md)
+- Part VIII INFORMATION PROVISIONS
+  - Annual report and publication of information
+    - [s. 187 ................................](section/187.md)
+    - [s. 188 Duty of the Agency and NRBW to publish information](section/188.md)
+  - Registers etc. to be kept by the appropriate agency
+    - [s. 189 Register of abstraction and impounding licences.](section/189.md)
+    - [s. 190 Pollution control register.](section/190.md)
+    - [s. 191 Register for the purposes of works discharges.](section/191.md)
+    - [s. 191A Exclusion from registers of information affecting national security.](section/191A.md)
+    - [s. 191B Exclusion from registers of certain confidential information.](section/191B.md)
+    - [s. 192 Maps of fresh-water limits.](section/192.md)
+  - Main river map for England
+    - [s. 193 The main river map for England](section/193.md)
+    - [s. 193A Inspection and copies](section/193A.md)
+    - [s. 193B Replacing the main river map for England](section/193B.md)
+    - [s. 193C Determinations as to main rivers](section/193C.md)
+    - [s. 193D Appeals](section/193D.md)
+    - [s. 193E Guidance](section/193E.md)
+  - Main river map for Wales
+    - [s. 194 The main river map for Wales](section/194.md)
+    - [s. 194A Inspection and copies](section/194A.md)
+    - [s. 194B Replacing the main river map for Wales](section/194B.md)
+    - [s. 194C Determinations as to main rivers](section/194C.md)
+    - [s. 194D Appeals](section/194D.md)
+    - [s. 194E Guidance](section/194E.md)
+    - [s. 195 Maps of waterworks.](section/195.md)
+  - Provision and acquisition of information etc.
+    - [s. 196 ................................](section/196.md)
+    - [s. 197 Provision of information about water flow etc.](section/197.md)
+    - [s. 198 Information about underground water.](section/198.md)
+    - [s. 199 Notice etc. of mining operations which may affect water conservation.](section/199.md)
+    - [s. 199A Appeals against conservation notices under section 199](section/199A.md)
+    - [s. 200 Gauges and records kept by other persons.](section/200.md)
+    - [s. 201 Power to require information with respect to abstraction.](section/201.md)
+    - [s. 202 Information and assistance required in connection with the control of pollution.](section/202.md)
+    - [s. 203 Exchange of information with respect to pollution incidents etc.](section/203.md)
+  - Restriction on disclosure of information
+    - [s. 204 Restriction on disclosure of information.](section/204.md)
+    - [s. 205 Confidentiality of information relating to underground water etc.](section/205.md)
+  - Making of false statements etc.
+    - [s. 206 Making of false statements etc.](section/206.md)
+- Part IX MISCELLANEOUS AND SUPPLEMENTAL
+  - Miscellaneous
+    - [s. 207 Directions in the interests of national security etc.](section/207.md)
+    - [s. 208 Civil liability of the Agency or NRBW for escapes of water etc](section/208.md)
+    - [s. 209 Evidence of samples and abstractions.](section/209.md)
+  - Byelaws
+    - [s. 210 Byelaw-making powers of the appropriate agency.](section/210.md)
+    - [s. 211 Enforcement of byelaws.](section/211.md)
+    - [s. 212 Compensation in respect of certain fisheries byelaws.](section/212.md)
+  - Local inquiries
+    - [s. 213 ................................](section/213.md)
+    - [s. 214 ................................](section/214.md)
+    - [s. 215 ................................](section/215.md)
+  - Offences etc.
+    - [s. 216 Enforcement: powers and duties.](section/216.md)
+    - [s. 217 Criminal liabilities of directors and other third parties.](section/217.md)
+  - Judicial disqualification
+    - [s. 218 ................................](section/218.md)
+  - Powers to make regulations
+    - [s. 219 Powers to make regulations.](section/219.md)
+  - Construction of Act
+    - [s. 220 Provisions relating to service of documents.](section/220.md)
+    - [s. 221 General interpretation.](section/221.md)
+  - Other supplemental provisions
+    - [s. 222 Crown application.](section/222.md)
+    - [s. 223 Exemption for visiting forces.](section/223.md)
+    - [s. 224 Application to the Isles of Scilly.](section/224.md)
+    - [s. 225 Short title, commencement and extent.](section/225.md)
+- SCHEDULE 1
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Remuneration, pensions etc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Staff
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proceedings of Authority
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Delegation of powers
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Interests of members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Vacancies and defective appointments
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Minutes
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Application of seal and proof of instruments
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Documents served etc. by or on the Authority
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Interpretation
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 ORDERS AND AGREEMENTS FOR TRANFER OF OF NAVIGATION, HARBOUR AND CONSERVANCY FUNCTIONS
+  - Powers to transfer functions or property
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Consultation with affected body
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Public consultation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Supplemental provisions of order
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Objection to final order by affected bodies
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Public notice of order
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Challenge of order
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Effect of order or agreement
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Ministers’ expenses
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Compensation for officers and staff
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Power to amend local enactments
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Interpretation
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3
+  - Power to make order
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Consultation and notice of intention to make order
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Objections to draft order and making of order
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Procedure for making of order
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Notice after making of order
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Questioning of order in courts
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4
+  - Part I MEMBERSHIP OF FLOOD DEFENCE COMMITTEES
+    - Terms of membership
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Membership of constituent council as qualification for membership of committee
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Disqualification for membership of committee
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Vacation of office by disqualifying event
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Resignation of office by members of regional committee
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Resignation of office by members of local committee
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Appointments to fill casual vacancies
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Eligibility of previous members for re-appointment
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Appointment of deputies
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Payments to past and present chairmen and to members
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Part II PROCEEDINGS OF FLOOD DEFENCE COMMITTEES
+    - Appointment of sub-committees, joint sub-committees etc.
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Delegation of functions to sub-committees etc.
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Rules of procedure
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Declarations of interest etc.
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Authentication of documents
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Proof and validity of proceedings
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 PROCEDURE RELATING TO STATEMENTS ON MINIMUM ACCEPTABLE FLOW
+  - Application of Schedule
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Notice of proposed statement
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Duty to provide copy of draft statement
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Approval of draft statement
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Notice and inspection of approved statement
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Orders relating to abstraction of small quantities and compulsory registration of protected rights
+  - Notice of draft order
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Duty to provide copy of draft order
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Making of order
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Notice and inspection of final order
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 LICENCES OF RIGHT
+  - Applications for licences of right under paragraph 30 or 31 of Schedule 26 to the Water Act 1989
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Section 48 of this Act
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Section 55 of this Act
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Section 60 of this Act
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Section 61 of this Act
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Licences of right
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 PROCEEDINGS ON APPLICATIONS FOR DROUGHT ORDERS
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Objections to and making of orders
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Notice after making of order
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9 COMPENSATION IN RESPECT OF DROUGHT ORDERS
+  - Compensation to be made in the case of all drought orders
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Compensation to be made in the case of ordinary orders only
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Claims for compensation: general
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Claims for compensation under paragraph 2
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- Schedule 10 Discharge consents
+  - Application for consent
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Consultation in connection with applications
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Consideration and determination of applications
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Reference to Secretary of State of certain applications for consent
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Consents without applications
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Revocation of consents and alteration and imposition of conditions
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Restriction on variation and revocation of consent and previous variation
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - General review of consents
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Applications for variation
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Transfer of consents
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 WATER PROTECTION ZONE ORDERS
+  - Application for consent
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Supply of copies of draft orders
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Modifications of proposals
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Consideration of objections etc.
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+- SCHEDULE 12 NITRATE SENSITIVE AREA ORDERS
+  - Part I APPLICATIONS BY THE AGENCY FOR DESIGNATIONS ORDERS
+    - Orders made only on application
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Procedure for applications
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Part II ORDERS CONTAINING MANDATORY PROVISIONS
+    - Publication of proposal for order containing mandatory provisions
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Supply of copies of proposed orders
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Modifications of proposals
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Consideration of objections et ceteralaetc.
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Consent of Treasury for payment provisions
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+- SCHEDULE 13 TRANSITIONAL WATER POLLUTION PROVISIONS
+  - Transitional power to transfer power of determination with respect to water pollution matters to the Agency
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Order under section 32(3) of the 1974 Act
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Pre-1989 transitional provisions
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Discharge consents on application of undertakers et ceteralaetc.
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+- SCHEDULE 14 ORDERS TRANSFERRING MAIN RIVER FUNCTIONS TO THE APPROPRIATE AGENCY
+  - Procedure on application for order
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Order making procedure etc.
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Determination of whether to make order
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Notice of orders
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Challenge to orders
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Power to make regulations for purposes of Schedule etc.
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+- SCHEDULE 15 SUPPLEMENTAL PROVISIONS WITH RESPECT TO DRAINAGE CHARGES
+  - Raising of drainage charge
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Publication of drainage charge
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Occupiers liable for drainage charge
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Cases where identity of occupiers in doubt
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Arrangements for owner of land to pay drainage charge
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Power of occupier to prevent arrangements under paragraph 5
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Assessment of chargeable land to drainage charge
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Partial exemption of commercial woodlands
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Returns with respect to land
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Power to correct erroneous assessments etc.
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Appeals against demands for drainage charges
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Recovery of drainage charges
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Use of certain authorities as agents for assessment, collection etc. of drainage charges
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- SCHEDULE 16 SCHEMES IMPOSING SPECIAL DRAINAGE CHARGES
+  - Submission of scheme
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Confirmation of scheme
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Notice of proposed order
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Determination of whether to make order
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Procedure and other matters after the making of an order
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Orders subject to special parliamentary procedure
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Notice of unconfirmed orders
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Challenge to unconfirmed orders
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Power to make regulations for purposes of Schedule
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Interpretation
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+- SCHEDULE 17 ORDERS WITH RESPECT TO NAVIGATION TOLLS
+  - Orders to be made by statutory instrument
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Inquiries
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Notice of order
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Orders subject to special parliamentary procedure
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+- SCHEDULE 18 MODIFICATION OF COMPENSATION PROVISION ETC IN RELATION TO THE CREATION OF NEW RIGHTS
+  - Compensation enactments
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Adaptation of the Compulsory Purchase Act 1965
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Section 7 of the 1965 Act
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Section 8 of the 1965 Act
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Effect of deed poll
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Section 11 of the 1965 Act
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Section 20 of the 1965 Act
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Section 22 of the 1965 Act
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+- SCHEDULE 19 ORDERS CONFERRING COMPULSORY WORKS POWERS
+  - Applications for orders
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Supply of copies of draft orders
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Powers on an application
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Consideration of objections etc.
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - Notice after making of order
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - Compulsory acquisition provisions
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - Compensation in certain cases of compulsory acquisition
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - Compensation in respect of powers other than acquisition powers
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+  - Protection of public undertakings
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - Interpretation
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+- SCHEDULE 20 Supplemental Provisions with respect to Powers of Entry
+  - Notice of entry
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Warrant to exercise power
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Manner of exercise of powers
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Supplementary powers of person making entry etc.
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Duty to secure premises
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Compensation
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Obstruction of person exercising power
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Interpretation
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+- SCHEDULE 21 CCOMPENSATION ETC. IN RESPECT OF CERTAIN WORKS POWER
+  - Compensation in respect of street works powers
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Compensation in respect of pipe-laying works on private land
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Assessment of compensation under paragraph 2
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Compensation in respect of discharges for works purposes
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Compensation in respect of flood defence and drainage works
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+- SCHEDULE 22 PROCTECTION FOR PARTICULAR UNDERTAKINGS
+  - General provisions protecting undertakings
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Protection for statutory powers and jurisdiction
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Special protection for certain undertakings in respect of street works
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Protection for railways in connection with carrying out of flood defence functions
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Protection for electronic communications networks
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Interpretation
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+- SCHEDULE 23 MINERAL RIGHTS
+  - Acquisition of mineral rights
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Notice required for the working of underlying mines
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - Mining communications
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - Compensation relating to severance
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - Powers of entry
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - No exemption for injury to mines and minerals
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - Interpretation
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+- SCHEDULE 24 DISCLOSURE OF INFORMATION
+  - Part I PERSONS IN RESPECT OF WHOSE FUNCTIONS DISCLOSURE MAY BE MADE
+  - Part II ENACTMENTS ETC. IN RESPECT OF WHICH DISCLOSURE MAY BE MADE
+- SCHEDULE 25 BYELAW - MAKING POWERS OF THE APPROPRIATE AGENCY
+  - Byelaws for regulating use of inland waters
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - Byelaws for regulating the use of navigable waters etc.
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+  - Byelaws for regulating the use of the appropriate agency’s waterways etc.
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+  - Byelaws for controlling certain forms of pollution
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+  - Byelaws for flood defence and drainage purposes
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - Byelaws for purposes of fisheries functions
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+  - Fisheries byelaws for marine or aquatic environmental purposes
+    - [Sch. 25 para. 6A](schedule/25/paragraph/6A.md)
+  - Restrictions on powers to make byelaws for fisheries purposes
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+- SCHEDULE 26 PROCEDURE RELATING TO BYELAWS MADE BY THE APPROPRIATE AGENCY
+  - Confirmation of byelaws
+    - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+  - Confirmation with or without modifications
+    - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+  - Commencement of byelaw
+    - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+  - Availability of confirmed byelaws
+    - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+  - Revocation of byelaws
+    - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+  - Proof of byelaws
+    - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+  - Meaning of “the relevant Minister"
+    - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+- Schedule 27 Emergency fisheries byelaws
+  - Emergency fisheries byelaws
+    - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - Commencement
+    - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+  - Notification of the appropriate national authority
+    - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+  - Publication
+    - [Sch. 27 para. 4](schedule/27/paragraph/4.md)
+  - Amendment and revocation
+    - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+  - Expiry and extension
+    - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+    - [Sch. 27 para. 7](schedule/27/paragraph/7.md)
+  - Availability
+    - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+  - Proof
+    - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+  - “Appropriate national authority”
+    - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+- Table of Derivations
+  - [Sch. n27 para. 1](schedule/n27/paragraph/1.md)
+  - [Sch. n27 para. 2](schedule/n27/paragraph/2.md)
+  - [Sch. n27 para. 3](schedule/n27/paragraph/3.md)
