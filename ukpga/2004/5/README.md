@@ -1,0 +1,643 @@
+# Planning and Compulsory Purchase Act 2004
+
+2004 c. 5. Enacted 2004-05-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 93 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
+
+Source: https://www.legislation.gov.uk/ukpga/2004/5/2026-07-16
+
+## Contents
+
+- Part 1 Regional functions
+  - Spatial strategy
+    - [s. 1 Regional Spatial Strategy](section/1.md)
+  - Planning bodies
+    - [s. 2 Regional planning bodies](section/2.md)
+    - [s. 3 RPB: general functions](section/3.md)
+    - [s. 4 Assistance from certain local authorities](section/4.md)
+    - [s. 4A Delegation of RPB functions to regional development agencies](section/4A.md)
+  - RSS revision
+    - [s. 5 RSS: revision](section/5.md)
+    - [s. 6 RSS: community involvement](section/6.md)
+    - [s. 7 RSS: Secretary of State’s functions](section/7.md)
+    - [s. 8 RSS: examination in public](section/8.md)
+    - [s. 9 RSS: further procedure](section/9.md)
+    - [s. 10 Secretary of State: additional powers](section/10.md)
+  - Supplementary
+    - [s. 11 Regulations](section/11.md)
+    - [s. 12 Supplementary](section/12.md)
+- Part 1A Strategic plan-making
+  - Strategic planning authorities and strategic planning boards
+    - [s. 12A Spatial development strategy to be produced by strategic planning authorities](section/12A.md)
+    - [s. 12B Strategic planning boards](section/12B.md)
+    - [s. 12C Regulations about strategic planning boards](section/12C.md)
+  - Contents of spatial development strategy
+    - [s. 12D Contents of spatial development strategy](section/12D.md)
+  - Spatial development strategy timetable
+    - [s. 12E Timetable for preparing spatial development strategy](section/12E.md)
+    - [s. 12F Spatial development strategy timetable: further provision](section/12F.md)
+  - Preparation and adoption of spatial development strategy
+    - [s. 12G Preparation of draft spatial development strategy](section/12G.md)
+    - [s. 12H Consultation and representations](section/12H.md)
+    - [s. 12I Public examination](section/12I.md)
+    - [s. 12J Withdrawal before adoption](section/12J.md)
+    - [s. 12K Submission to Secretary of State before adoption](section/12K.md)
+    - [s. 12L Adoption of spatial development strategy](section/12L.md)
+  - Review, alteration and replacement of spatial development strategy
+    - [s. 12M Review and monitoring](section/12M.md)
+    - [s. 12N Alterations](section/12N.md)
+    - [s. 12O Replacement](section/12O.md)
+  - Secretary of State’s intervention powers in relation to spatial development strategy
+    - [s. 12P Powers where strategic planning authority is failing etc](section/12P.md)
+    - [s. 12Q Power to approve strategy where adoption resolution not passed](section/12Q.md)
+    - [s. 12R Liability for Secretary of State’s costs of intervention](section/12R.md)
+    - [s. 12S Temporary direction pending possible use of intervention powers](section/12S.md)
+  - Supplementary
+    - [s. 12T Supplementary etc provision in connection with regulations about strategic planning boards](section/12T.md)
+    - [s. 12U Regulations](section/12U.md)
+    - [s. 12V Directions](section/12V.md)
+    - [s. 12W Meaning of “spatial development strategy” etc](section/12W.md)
+    - [s. 12X Interpretation](section/12X.md)
+- Part 2 Local development
+  - Survey
+    - [s. 13 Survey of area](section/13.md)
+    - [s. 14 Survey of area: minerals and waste planning authorities and county councils](section/14.md)
+  - Register
+    - [s. 14A Register of land](section/14A.md)
+    - [s. 15](section/15.md)
+    - [s. 16](section/16.md)
+  - Plan timetables
+    - [s. 15B Local plan timetable](section/15B.md)
+    - [s. 15BA Local plan timetable: further provision about directions under section 15B](section/15BA.md)
+    - [s. 15BB Minerals and waste plan timetable](section/15BB.md)
+  - Local, minerals and waste and supplementary plans
+    - [s. 15C Local plans](section/15C.md)
+    - [s. 15CA Local plans: preparation and further provision](section/15CA.md)
+    - [s. 15CB Minerals and waste plan](section/15CB.md)
+    - [s. 15CC Supplementary plans](section/15CC.md)
+  - Examination of plans
+    - [s. 15D Independent examination: local plans](section/15D.md)
+    - [s. 15DA Pause of independent examination for further work](section/15DA.md)
+    - [s. 15DB Independent examination: supplementary plans](section/15DB.md)
+  - Withdrawal and adoption of plans
+    - [s. 15E Withdrawal of a local plan](section/15E.md)
+    - [s. 15EA Adoption of local plan or supplementary plan](section/15EA.md)
+  - Requirement in relation to design code
+    - [s. 15F Design code for whole area](section/15F.md)
+  - Revocation and revision of plans
+    - [s. 15G Revocation of local plans and supplementary plans](section/15G.md)
+    - [s. 15GA Revision of local plan](section/15GA.md)
+  - Intervention powers in relation to plans
+    - [s. 15H Power to require Secretary of State approval](section/15H.md)
+    - [s. 15HA Secretary of State powers where local planning authority are failing etc](section/15HA.md)
+    - [s. 15HB Secretary of State powers where local planning authority fails to ensure design code](section/15HB.md)
+    - [s. 15HC Liability for Secretary of State’s costs of intervention](section/15HC.md)
+    - [s. 15HD Default powers exercisable by Mayor of London, combined authority, combined county authority or county council](section/15HD.md)
+    - [s. 15HE Temporary direction pending possible use of intervention or default powers](section/15HE.md)
+  - Joint plans
+    - [s. 15I Joint local plans by agreement or direction](section/15I.md)
+    - [s. 15IA Joint local plans: application of Part](section/15IA.md)
+    - [s. 15IB Joint local plan agreement or direction: withdrawal or modification](section/15IB.md)
+    - [s. 15IC Joint supplementary plans by agreement](section/15IC.md)
+  - Joint committees
+    - [s. 15J Joint committees](section/15J.md)
+    - [s. 15JA Joint committees: additional functions](section/15JA.md)
+    - [s. 15JB Dissolution of joint committee](section/15JB.md)
+  - General
+    - [s. 15L Exclusion of certain representations](section/15L.md)
+    - [s. 15LA Development corporations: power to disapply provisions](section/15LA.md)
+    - [s. 15LB Guidance](section/15LB.md)
+    - [s. 15LC Monitoring information](section/15LC.md)
+    - [s. 15LD Policies map](section/15LD.md)
+    - [s. 15LE Regulations](section/15LE.md)
+    - [s. 15LF Meaning of “local planning authority” etc](section/15LF.md)
+    - [s. 15LG Meaning of “minerals and waste planning authority” etc](section/15LG.md)
+    - [s. 15LH Interpretation](section/15LH.md)
+    - [s. 17](section/17.md)
+    - [s. 18](section/18.md)
+    - [s. 19](section/19.md)
+    - [s. 20](section/20.md)
+    - [s. 21](section/21.md)
+    - [s. 21A](section/21A.md)
+    - [s. 22](section/22.md)
+    - [s. 23](section/23.md)
+    - [s. 24](section/24.md)
+    - [s. 25](section/25.md)
+    - [s. 26](section/26.md)
+    - [s. 27](section/27.md)
+    - [s. 27A](section/27A.md)
+    - [s. 28](section/28.md)
+    - [s. 28A](section/28A.md)
+    - [s. 28B](section/28B.md)
+    - [s. 28C](section/28C.md)
+    - [s. 29](section/29.md)
+    - [s. 30](section/30.md)
+    - [s. 31](section/31.md)
+    - [s. 32](section/32.md)
+    - [s. 33](section/33.md)
+    - [s. 33A](section/33A.md)
+    - [s. 34](section/34.md)
+    - [s. 35](section/35.md)
+    - [s. 36](section/36.md)
+    - [s. 37](section/37.md)
+- Part 3 Development
+  - Development plan
+    - [s. 38 Development plan](section/38.md)
+    - [s. 38ZA Meaning of “national development management policy”](section/38ZA.md)
+    - [s. 38A Meaning of “neighbourhood development plan”](section/38A.md)
+    - [s. 38B Provision that may be made by neighbourhood development plans](section/38B.md)
+    - [s. 38C Supplementary provisions](section/38C.md)
+  - Sustainable development
+    - [s. 39 Sustainable development](section/39.md)
+  - Assistance with certain parts of development plan etc
+    - [s. 39A Power to require assistance with certain plan making](section/39A.md)
+- Part 4 Development control
+  - Local development orders
+    - [s. 40 Local development orders](section/40.md)
+  - Revision of development orders
+    - [s. 41 Effect of revision or revocation of development order on incomplete development](section/41.md)
+  - Applications
+    - [s. 42 Applications for planning permission and certain consents](section/42.md)
+    - [s. 43 Power to decline to determine applications](section/43.md)
+  - Major infrastructure projects
+    - [s. 44 Major infrastructure projects](section/44.md)
+  - Simplified planning zones
+    - [s. 45 Simplified planning zones](section/45.md)
+  - Planning contribution
+    - [s. 46 Planning contribution](section/46.md)
+    - [s. 47 Planning contribution: regulations](section/47.md)
+    - [s. 48 Planning contribution: Wales](section/48.md)
+  - Miscellaneous
+    - [s. 49 Development to include certain internal operations](section/49.md)
+    - [s. 50 Appeal made: functions of local planning authority](section/50.md)
+    - [s. 51 Duration of permission and consent](section/51.md)
+    - [s. 52 Temporary stop notice](section/52.md)
+    - [s. 53 Fees and charges](section/53.md)
+    - [s. 54 Duty to respond to consultation](section/54.md)
+    - [s. 55 Time in which Secretary of State to take decisions](section/55.md)
+- Part 5 Correction of errors
+  - [s. 56 Correction of errors in decisions](section/56.md)
+  - [s. 57 Correction notice](section/57.md)
+  - [s. 58 Effect of correction](section/58.md)
+  - [s. 59 Supplementary](section/59.md)
+- Part 6 Wales
+  - National Development Framework
+    - [s. 60 National Development Framework for Wales](section/60.md)
+    - [s. 60A Preparation of Framework: statement of public participation](section/60A.md)
+    - [s. 60B Procedure for preparation and publication of Framework](section/60B.md)
+    - [s. 60C Review and revision of Framework](section/60C.md)
+  - ...
+    - [s. 60D ...](section/60D.md)
+    - [s. 60E ...](section/60E.md)
+    - [s. 60F ...](section/60F.md)
+    - [s. 60G ...](section/60G.md)
+    - [s. 60H ...](section/60H.md)
+    - [s. 60I ...](section/60I.md)
+    - [s. 60J ...](section/60J.md)
+  - Strategic planning by corporate joint committees
+    - [s. 60K Corporate joint committees to which this Part applies](section/60K.md)
+    - [s. 60L Corporate joint committees: area survey](section/60L.md)
+    - [s. 60M Corporate joint committee areas: strategic development plans](section/60M.md)
+    - [s. 60N Strategic development plans: application of provisions of this Part](section/60N.md)
+  - Survey
+    - [s. 61 Survey](section/61.md)
+  - Plans
+    - [s. 62 Local development plan](section/62.md)
+    - [s. 63 Preparation requirements](section/63.md)
+    - [s. 64 Independent examination](section/64.md)
+    - [s. 65 Intervention by Assembly](section/65.md)
+    - [s. 66 Withdrawal of local development plan in accordance with direction](section/66.md)
+    - [s. 66A Withdrawal of local development plan in absence of direction](section/66A.md)
+    - [s. 67 Adoption of local development plan](section/67.md)
+    - [s. 68 Revocation of local development plan](section/68.md)
+    - [s. 68A Duty to consider whether to review local development plan](section/68A.md)
+    - [s. 69 Review of local development plan](section/69.md)
+    - [s. 70 Revision of local development plan](section/70.md)
+    - [s. 71 Assembly’s default power](section/71.md)
+    - [s. 72 Joint local development plans](section/72.md)
+  - Miscellaneous
+    - [s. 73 Exclusion of certain representations](section/73.md)
+    - [s. 74 Urban development corporations](section/74.md)
+    - [s. 75 Guidance](section/75.md)
+    - [s. 76 Annual monitoring report](section/76.md)
+  - General
+    - [s. 77 Regulations](section/77.md)
+    - [s. 78 Interpretation](section/78.md)
+- Part 7 Crown application of planning Acts
+  - Chapter 1 England and Wales
+    - Crown application
+      - [s. 79 Crown application of planning Acts](section/79.md)
+    - National security
+      - [s. 80 Special provision relating to national security](section/80.md)
+      - [s. 81 Special provision relating to national security: Wales](section/81.md)
+    - Urgent development and works
+      - [s. 82 Urgent Crown development](section/82.md)
+      - [s. 83 Urgent works relating to Crown land](section/83.md)
+    - Enforcement
+      - [s. 84 Enforcement in relation to Crown land](section/84.md)
+    - Trees
+      - [s. 85 Tree preservation orders: Forestry Commissioners](section/85.md)
+      - [s. 86 Trees in conservation areas: acts of Crown](section/86.md)
+    - Miscellaneous
+      - [s. 87 Old mining permissions](section/87.md)
+      - [s. 88 Subordinate legislation](section/88.md)
+      - [s. 89 Crown application: transitional](section/89.md)
+  - Chapter 2 Scotland
+    - Crown application
+      - [s. 90 Crown application of Scottish planning Acts](section/90.md)
+    - National security
+      - [s. 91 Special provision for certain circumstances where disclosure of information as to national security may occur: Scotland](section/91.md)
+    - Urgent development and works
+      - [s. 92 Urgent Crown development: Scotland](section/92.md)
+      - [s. 93 Urgent works relating to Crown land: Scotland](section/93.md)
+    - Enforcement
+      - [s. 94 Enforcement in relation to Crown land: Scotland](section/94.md)
+    - Trees
+      - [s. 95 Tree preservation orders: Scotland](section/95.md)
+      - [s. 96 Trees in conservation areas in Scotland: acts of Crown](section/96.md)
+    - Miscellaneous
+      - [s. 97 Old mining permissions: Scotland](section/97.md)
+      - [s. 98 Subordinate legislation: Scotland](section/98.md)
+- Part 8 Compulsory purchase
+  - Acquisition of land for development
+    - [s. 99 Compulsory acquisition of land for development etc](section/99.md)
+  - Authorisation of compulsory acquisition
+    - [s. 100 Procedure for authorisation by authority other than a Minister](section/100.md)
+    - [s. 101 Procedure for authorisation by a Minister](section/101.md)
+    - [s. 102 Confirmation by acquiring authority](section/102.md)
+  - Valuation date
+    - [s. 103 Assessment of compensation: valuation date](section/103.md)
+  - Advance payments
+    - [s. 104 Compensation: advance payments to mortgagees](section/104.md)
+  - Information
+    - [s. 105 Power to require information](section/105.md)
+  - Loss payments
+    - [s. 106 Basic loss payment](section/106.md)
+    - [s. 107 Occupier’s loss payment](section/107.md)
+    - [s. 108 Loss payments: exclusions](section/108.md)
+    - [s. 109 Loss payments: supplementary](section/109.md)
+  - Corresponding amendments of other enactments
+    - [s. 110 Corresponding amendments of other enactments](section/110.md)
+- Part 9 Miscellaneous and general
+  - Crown
+    - [s. 111 Crown](section/111.md)
+  - Parliament
+    - [s. 112 Parliament](section/112.md)
+  - Miscellaneous
+    - [s. 113 Validity of strategies, plans and documents](section/113.md)
+    - [s. 114 Examinations](section/114.md)
+    - [s. 115 Grants for advice and assistance](section/115.md)
+    - [s. 116 Isles of Scilly](section/116.md)
+    - [s. 117 Interpretation](section/117.md)
+  - General
+    - [s. 118 Amendments](section/118.md)
+    - [s. 119 Transitionals](section/119.md)
+    - [s. 120 Repeals](section/120.md)
+    - [s. 121 Commencement](section/121.md)
+    - [s. 122 Regulations and orders](section/122.md)
+    - [s. 123 Finance](section/123.md)
+    - [s. 124 Extent](section/124.md)
+    - [s. 125 Short Title](section/125.md)
+- SCHEDULE A1 Default powers exercisable by Mayor of London, combined authority, combined county authority or county council
+  - Default powers exercisable by Mayor of London
+    - [Sch. a1 para. 1](schedule/a1/paragraph/1.md)
+    - [Sch. a1 para. 2](schedule/a1/paragraph/2.md)
+    - [Sch. a1 para. 3](schedule/a1/paragraph/3.md)
+  - Default powers exercisable by combined authority
+    - [Sch. a1 para. 4](schedule/a1/paragraph/4.md)
+    - [Sch. a1 para. 5](schedule/a1/paragraph/5.md)
+    - [Sch. a1 para. 6](schedule/a1/paragraph/6.md)
+    - [Sch. a1 para. 7](schedule/a1/paragraph/7.md)
+  - Default powers exercisable by combined county authority
+    - [Sch. A1 para. 7ZA](schedule/A1/paragraph/7ZA.md)
+    - [Sch. A1 para. 7ZB](schedule/A1/paragraph/7ZB.md)
+    - [Sch. A1 para. 7ZC](schedule/A1/paragraph/7ZC.md)
+    - [Sch. A1 para. 7ZD](schedule/A1/paragraph/7ZD.md)
+  - Default powers exercisable by county council
+    - [Sch. a1 para. 7A](schedule/a1/paragraph/7A.md)
+    - [Sch. a1 para. 7B](schedule/a1/paragraph/7B.md)
+    - [Sch. a1 para. 7C](schedule/a1/paragraph/7C.md)
+    - [Sch. a1 para. 7D](schedule/a1/paragraph/7D.md)
+  - Intervention by Secretary of State
+    - [Sch. a1 para. 8](schedule/a1/paragraph/8.md)
+    - [Sch. a1 para. 9](schedule/a1/paragraph/9.md)
+    - [Sch. a1 para. 10](schedule/a1/paragraph/10.md)
+    - [Sch. a1 para. 11](schedule/a1/paragraph/11.md)
+    - [Sch. a1 para. 12](schedule/a1/paragraph/12.md)
+  - Temporary direction pending possible use of intervention powers
+    - [Sch. a1 para. 13](schedule/a1/paragraph/13.md)
+- SCHEDULE A2 Modification of neighbourhood development plans
+  - Proposals for modification of neighbourhood development plan
+    - [Sch. a2 para. 1](schedule/a2/paragraph/1.md)
+    - [Sch. a2 para. 2](schedule/a2/paragraph/2.md)
+  - Advice and assistance in connection with proposals
+    - [Sch. a2 para. 3](schedule/a2/paragraph/3.md)
+  - Requirements to be complied with before proposals made or considered
+    - [Sch. a2 para. 4](schedule/a2/paragraph/4.md)
+  - Consideration of proposals by authority
+    - [Sch. a2 para. 5](schedule/a2/paragraph/5.md)
+    - [Sch. a2 para. 6](schedule/a2/paragraph/6.md)
+    - [Sch. a2 para. 7](schedule/a2/paragraph/7.md)
+    - [Sch. a2 para. 8](schedule/a2/paragraph/8.md)
+  - Requirement to appoint examiner
+    - [Sch. a2 para. 9](schedule/a2/paragraph/9.md)
+  - What examiner must consider
+    - [Sch. a2 para. 10](schedule/a2/paragraph/10.md)
+    - [Sch. a2 para. 11](schedule/a2/paragraph/11.md)
+  - Procedure for examination
+    - [Sch. a2 para. 12](schedule/a2/paragraph/12.md)
+  - Recommendation by examiner
+    - [Sch. a2 para. 13](schedule/a2/paragraph/13.md)
+  - Functions of authority: modifications proposed by qualifying body
+    - [Sch. a2 para. 14](schedule/a2/paragraph/14.md)
+  - Regulations about examinations
+    - [Sch. a2 para. 15](schedule/a2/paragraph/15.md)
+  - Interpretation
+    - [Sch. a2 para. 16](schedule/a2/paragraph/16.md)
+- SCHEDULE 1 Local development orders: procedure
+- SCHEDULE 2 Timetable for decisions
+  - Decisions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Timetable
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Notice
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Variation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Written reasons
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Annual report
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 2A STRATEGIC PLANNING PANELS
+  - PART 1 STATUS AND MEMBERSHIP
+    - Status
+      - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - Membership
+      - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - Appointment of local planning authority members
+      - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+    - Appointment of nominated members
+      - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - Composition of strategic planning panels: further provision
+      - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - Terms and notice of appointments
+      - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - Members’ allowances
+      - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+    - Termination of membership
+      - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - Termination of membership: further provision about local planning authority members
+      - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - Chair and deputy chair
+      - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - PART 2 ADMINISTRATION
+    - Staff
+      - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+    - Delegation
+      - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - Voting rights
+      - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+    - Procedure
+      - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+    - Access to meetings
+      - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - PART 3 FINANCIAL ARRANGEMENTS
+    - Qualifying expenditure
+      - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+    - Apportionment of qualifying expenditure
+      - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+    - Annual work programme and estimate of qualifying expenditure
+      - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+    - Payments by constituent local planning authorities
+      - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+    - Payments by Welsh Ministers
+      - [Sch. 2A para. 20](schedule/2A/paragraph/20.md)
+    - Accounts and audit
+      - [Sch. 2A para. 21](schedule/2A/paragraph/21.md)
+    - Annual report
+      - [Sch. 2A para. 22](schedule/2A/paragraph/22.md)
+    - Financial year
+      - [Sch. 2A para. 23](schedule/2A/paragraph/23.md)
+  - PART 4 SUPPLEMENTARY
+    - Guidance
+      - [Sch. 2A para. 24](schedule/2A/paragraph/24.md)
+    - Default powers of Welsh Ministers
+      - [Sch. 2A para. 25](schedule/2A/paragraph/25.md)
+    - Provision in connection with establishment etc of strategic planning panel
+      - [Sch. 2A para. 26](schedule/2A/paragraph/26.md)
+    - Interpretation
+      - [Sch. 2A para. 27](schedule/2A/paragraph/27.md)
+    - Power to amend provisions about strategic planning panels
+      - [Sch. 2A para. 28](schedule/2A/paragraph/28.md)
+- SCHEDULE 3 Crown application
+  - Purchase notices
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Compulsory acquisition
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Definitions
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Special enforcement notices
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Applications for planning permission, etc.
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Rights of entry
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Service of notices
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Information as to interests in land
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Listed buildings and conservation areas
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Hazardous substances
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Miscellaneous
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+- SCHEDULE 4 Transitional provisions: Crown application
+  - Part 1 The principal Act
+    - Introduction
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Acceptable development
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Referred proposals
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Pending proposals
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 The listed buildings Act
+    - Introduction
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Acceptable works
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Referred proposals
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Pending proposals
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Crown application: Scotland
+  - Purchase notices
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Compulsory acquisition
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Definitions
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Special enforcement notices
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Applications for planning permission, etc.
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Rights of entry
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Service of notices
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Information as to interests in land
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Listed buildings and conservation areas
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Hazardous substances
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - Miscellaneous
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+- SCHEDULE 6 Amendments of the planning Acts
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Planning (Hazardous Substances) Act 1990 (c. 10)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+- SCHEDULE 7 Amendments of other enactments
+  - Gas Act 1965 (c. 36)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Finance Act 1969 (c. 32)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Agriculture (Miscellaneous Provisions) Act 1968 (c. 34)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Greater London Council (General Powers) Act 1969 (c lii)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Land Compensation Act 1973 (c. 26)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Greater London Council (General Powers) Act 1973 (c xxx)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Planning and Compensation Act 1991 (c. 34)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Local Government Act 1992 (c. 19)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - ...
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Town and Country Planning (Scotland) Act 1997 (c. 8)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Regional Development Agencies Act 1998 (c. 45)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Countryside and Rights of Way Act 2000 (c. 37)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+- SCHEDULE 8 Transitional provisions: Parts 1 and 2
+  - Development plan
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Structure plans
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Unitary development plan
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Local plan
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Minerals and waste local plans
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Schemes
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Savings
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Regulations and orders
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Interpretation
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+- SCHEDULE 9 Repeals
