@@ -1,0 +1,180 @@
+# Health and Safety at Work etc. Act 1974
+
+1974 c. 37. Enacted 1974-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
+
+Source: https://www.legislation.gov.uk/ukpga/1974/37/2026-07-16
+
+## Contents
+
+- Part I Health, Safety and Welfare in connection with Work, and Control of Dangerous Substances and Certain Emissions into the Atmosphere
+  - Preliminary
+    - [s. 1 Preliminary.](section/1.md)
+  - General duties
+    - [s. 2 General duties of employers to their employees.](section/2.md)
+    - [s. 3 General duties of employers and self-employed to persons other than their employees.](section/3.md)
+    - [s. 4 General duties of persons concerned with premises to persons other than their employees.](section/4.md)
+    - [s. 5 General duty of persons in control of certain premises in relation to harmful emissions into atmosphere.](section/5.md)
+    - [s. 6 General duties of manufacturers etc. as regards articles and substances for use at work.](section/6.md)
+    - [s. 7 General duties of employees at work.](section/7.md)
+    - [s. 8 Duty not to interfere with or misuse things provided pursuant to certain provisions.](section/8.md)
+    - [s. 9 Duty not to charge employees for things done or provided pursuant to certain specific requirements.](section/9.md)
+  - The Health and Safety Commission and the Health and Safety Executive
+    - [s. 10 Establishment of the Executive.](section/10.md)
+    - [s. 11 Functions of the Executive.](section/11.md)
+    - [s. 11A Powers of the Executive: buildings in England](section/11A.md)
+    - [s. 12 Control of the Executive by the Secretary of State.](section/12.md)
+    - [s. 13 Powers of the Executive.](section/13.md)
+    - [s. 14 Power of the Commission to direct investigations and inquiries.](section/14.md)
+  - Health and safety regulations and approved codes of practice
+    - [s. 15 Health and safety regulations.](section/15.md)
+    - [s. 16 Approval of codes of practice by the Executive.](section/16.md)
+    - [s. 17 Use of approved codes of practice in criminal proceedings.](section/17.md)
+  - Enforcement
+    - [s. 18 Authorities responsible for enforcement of the relevant statutory provisions.](section/18.md)
+    - [s. 19 Appointment of inspectors.](section/19.md)
+    - [s. 20 Powers of inspectors.](section/20.md)
+    - [s. 21 Improvement notices.](section/21.md)
+    - [s. 22 Prohibition notices.](section/22.md)
+    - [s. 23 Provisions supplementary to ss. 21 and 22.](section/23.md)
+    - [s. 24 Appeal against improvement or prohibition notice.](section/24.md)
+    - [s. 25 Power to deal with cause of imminent danger.](section/25.md)
+    - [s. 25A Power of customs officer to detain articles and substances.](section/25A.md)
+    - [s. 26 Power of enforcing authorities to indemnify their inspectors.](section/26.md)
+  - Obtaining and disclosure of information
+    - [s. 27 Obtaining of information by the Commission, the Executive, enforcing authorities etc.](section/27.md)
+    - [s. 27A Information communicated by Commissioners for Revenue and Customs.](section/27A.md)
+    - [s. 28 Restrictions on disclosure of information.](section/28.md)
+  - Special provisions relating to agriculture
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 Agricultural health and safety regulations.](section/30.md)
+    - [s. 31 ................................](section/31.md)
+  - Provisions as to offences
+    - [s. 33 Offences](section/33.md)
+    - [s. 34 Extension of time for bringing summary proceedings.](section/34.md)
+    - [s. 35 Venue.](section/35.md)
+    - [s. 36 Offences due to fault of other person.](section/36.md)
+    - [s. 37 Offences by bodies corporate.](section/37.md)
+    - [s. 38 Restrictions on institution of proceedings in England and Wales.](section/38.md)
+    - [s. 39 Prosecutions by inspectors.](section/39.md)
+    - [s. 40 Onus of proving limits of what is practicable etc.](section/40.md)
+    - [s. 41 Evidence.](section/41.md)
+    - [s. 42 Power of court to order cause of offence to be remedied or, in certain cases, forfeiture.](section/42.md)
+  - Financial provisions
+    - [s. 43 Financial provisions.](section/43.md)
+    - [s. 43A Railway safety levy](section/43A.md)
+  - Miscellaneous and supplementary
+    - [s. 44 Appeals in connection with licensing provisions in the relevant statutory provisions.](section/44.md)
+    - [s. 45 Default powers.](section/45.md)
+    - [s. 46 Service of notices.](section/46.md)
+    - [s. 47 Civil liability.](section/47.md)
+    - [s. 48 Application to Crown.](section/48.md)
+    - [s. 49 Adaptation of enactments to metric units or appropriate metric units.](section/49.md)
+    - [s. 50 Regulations under the relevant statutory provisions.](section/50.md)
+    - [s. 51 Exclusion of application to domestic employment.](section/51.md)
+    - [s. 51A Application of Part to police.](section/51A.md)
+    - [s. 52 Meaning of work and at work.](section/52.md)
+    - [s. 53 General interpretation of Part I.](section/53.md)
+    - [s. 54 Application of Part I to Isles of Scilly.](section/54.md)
+- Part II The Employment Medical Advisory Service
+  - [s. 55 Functions of, and responsibility for maintaining, employment medical advisory service.](section/55.md)
+  - [s. 56 Functions of authority responsible for maintaining the service.](section/56.md)
+  - [s. 57 Fees.](section/57.md)
+  - [s. 58 Other financial provisions.](section/58.md)
+  - [s. 59 Duty of responsible authority to keep accounts and to report.](section/59.md)
+  - [s. 60 Supplementary.](section/60.md)
+- Part III Building Regulations, and Amendment of Building (Scotland) Act 1959
+  - [s. 61 ................................](section/61.md)
+  - [s. 63 Miscellaneous provisions as to the approval of plans.](section/63.md)
+  - [s. 64 ................................](section/64.md)
+  - [s. 70 Power to make building regulations for Inner London.](section/70.md)
+  - [s. 71 ................................](section/71.md)
+  - [s. 75 Amendment of Building (Scotland) Act 1959.](section/75.md)
+  - [s. 76 ................................](section/76.md)
+- Part IV Miscellaneous and General
+  - [s. 77 Amendment of Radiological Protection Act 1970.](section/77.md)
+  - [s. 78 Amendment of Fire Precautions Act 1971.](section/78.md)
+  - [s. 79 ................................](section/79.md)
+  - [s. 80 General power to repeal or modify Acts and instruments.](section/80.md)
+  - [s. 81 Expenses and receipts.](section/81.md)
+  - [s. 82 General provisions as to interpretation and regulations.](section/82.md)
+  - [s. 83 ................................](section/83.md)
+  - [s. 84 Extent, and application of Act.](section/84.md)
+  - [s. 85 Short title and commencement.](section/85.md)
+- SCHEDULE 1 Existing Enactments which are Relevant Statutory Provisions
+- SCHEDULE 2 Additional Provisions Relating to the Constitution etc. of the Health and Safety Executive
+  - The Health and Safety Executive
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Terms of Appointment of the Executive
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Remuneration of Members
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Proceedings of the Executive
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Staff
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Performance of functions
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Accounts and Reports
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Supplemental
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Subject-Matter of Health and Safety Regulations
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Interpretation
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+- SCHEDULE 3A OFFENCES: MODE OF TRIAL AND MAXIMUM PENALTY
+  - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+- SCHEDULE 4
+- SCHEDULE 5
+- SCHEDULE 6
+- SCHEDULE 7
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- Transitional Provisions with respect to Fire Certificates under Factories Act 1961 or Offices, Shops and Railway Premises Act 1963
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9
+  - The Coroners (Amendment) Act 1926
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2 ................................](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3 ................................](schedule/9/paragraph/3.md)
+- SCHEDULE 10
