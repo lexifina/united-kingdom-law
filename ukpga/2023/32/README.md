@@ -1,0 +1,452 @@
+# National Security Act 2023
+
+2023 c. 32. Enacted 2023-07-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2023/32
+
+Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-07-17
+
+## Contents
+
+- Part 1 Espionage, sabotage and persons acting for foreign powers
+  - Espionage etc
+    - [s. 1 Obtaining or disclosing protected information](section/1.md)
+    - [s. 2 Obtaining or disclosing trade secrets](section/2.md)
+    - [s. 3 Assisting a foreign intelligence service](section/3.md)
+  - Entering and inspecting places used for defence etc
+    - [s. 4 Entering etc a prohibited place for a purpose prejudicial to the UK](section/4.md)
+    - [s. 5 Unauthorised entry etc to a prohibited place](section/5.md)
+    - [s. 6 Powers of police officers in relation to a prohibited place](section/6.md)
+    - [s. 7 Meaning of “prohibited place”](section/7.md)
+    - [s. 8 Power to designate additional sites as prohibited places](section/8.md)
+    - [s. 9 Power to designate a cordoned area to secure defence aircraft](section/9.md)
+    - [s. 10 Duration of cordon](section/10.md)
+    - [s. 11 Powers of police in relation to a cordoned area](section/11.md)
+  - Sabotage
+    - [s. 12 Sabotage](section/12.md)
+  - Foreign interference
+    - [s. 13 Foreign interference: general](section/13.md)
+    - [s. 14 Foreign interference: meaning of “interference effect”](section/14.md)
+    - [s. 15 Foreign interference: meaning of “prohibited conduct”](section/15.md)
+    - [s. 16 Foreign interference in elections](section/16.md)
+  - Obtaining benefits from a foreign intelligence service
+    - [s. 17 Obtaining etc material benefits from a foreign intelligence service](section/17.md)
+  - Offences relating to designated bodies
+    - [s. 17A Supporting a designated body](section/17A.md)
+    - [s. 17B Assisting a designated body](section/17B.md)
+    - [s. 17C Obtaining etc material benefits from a designated body](section/17C.md)
+  - Preparatory conduct
+    - [s. 18 Preparatory conduct](section/18.md)
+  - Acting for foreign power or designated body as aggravating factor in sentencing
+    - [s. 19 Aggravating factor where foreign power condition met: England and Wales](section/19.md)
+    - [s. 20 Aggravating factor where foreign power or designated body condition met: Northern Ireland](section/20.md)
+    - [s. 21 Aggravating factor where foreign power or designated body condition met: Scotland](section/21.md)
+    - [s. 22 Aggravating factor where foreign power condition met: armed forces](section/22.md)
+  - Powers of investigation etc
+    - [s. 23 Powers of search etc](section/23.md)
+    - [s. 24 Disclosure orders](section/24.md)
+    - [s. 25 Customer information orders](section/25.md)
+    - [s. 26 Account monitoring orders](section/26.md)
+    - [s. 27 Arrest without warrant](section/27.md)
+    - [s. 28 Use of reasonable force](section/28.md)
+    - [s. 29 Border security](section/29.md)
+    - [s. 30 Offences under Part 2 of the Serious Crime Act 2007](section/30.md)
+  - Foreign power condition and foreign power threat activity
+    - [s. 31 The foreign power condition](section/31.md)
+    - [s. 32 Meaning of “foreign power”](section/32.md)
+    - [s. 33 Foreign power threat activity and involvement in that activity](section/33.md)
+  - Designation of bodies involved in foreign power threat activity
+    - [s. 33A Power to designate bodies involved in foreign power threat activity](section/33A.md)
+    - [s. 33B The designated body condition](section/33B.md)
+  - Removal of designation
+    - [s. 33C Removal of designation: application](section/33C.md)
+    - [s. 33D Removal of designation: appeal](section/33D.md)
+    - [s. 33E Further appeal](section/33E.md)
+    - [s. 33F Appeal: effect on conviction etc.](section/33F.md)
+    - [s. 33G Proceedings under the Human Rights Act 1998](section/33G.md)
+    - [s. 33H Immunity](section/33H.md)
+  - Supplementary provision
+    - [s. 34 Interpretation](section/34.md)
+    - [s. 35 Offences by bodies corporate etc](section/35.md)
+    - [s. 36 Offences committed outside the United Kingdom](section/36.md)
+    - [s. 37 Consents to prosecutions](section/37.md)
+    - [s. 38 Power to exclude the public from proceedings](section/38.md)
+- Part 2 Prevention and investigation measures
+  - Imposition of prevention and investigation measures
+    - [s. 39 Power to impose prevention and investigation measures](section/39.md)
+    - [s. 40 Conditions A to E](section/40.md)
+  - Five year limit on imposition of measures
+    - [s. 41 Five year limit for Part 2 notices](section/41.md)
+  - Court scrutiny of imposition of measures
+    - [s. 42 Prior permission of the court](section/42.md)
+    - [s. 43 Urgent cases: reference to the court etc](section/43.md)
+    - [s. 44 Directions hearing](section/44.md)
+    - [s. 45 Review hearing](section/45.md)
+  - Consultation requirements
+    - [s. 46 Criminal investigations into foreign power threat activity](section/46.md)
+  - Review of ongoing necessity
+    - [s. 47 Review of ongoing necessity](section/47.md)
+  - Changes concerning Part 2 notices
+    - [s. 48 Variation of measures](section/48.md)
+    - [s. 49 Revocation and revival of Part 2 notices](section/49.md)
+    - [s. 50 Replacement of a Part 2 notice that is quashed etc](section/50.md)
+    - [s. 51 Other provision relating to the quashing of Part 2 notice](section/51.md)
+  - Appeals and court proceedings
+    - [s. 52 Appeals](section/52.md)
+    - [s. 53 Jurisdiction in relation to decisions under this Part](section/53.md)
+    - [s. 54 Proceedings relating to measures](section/54.md)
+  - Other safeguards
+    - [s. 55 Reports on exercise of powers under this Part](section/55.md)
+  - Enforcement
+    - [s. 56 Offence](section/56.md)
+    - [s. 57 Powers of entry etc](section/57.md)
+    - [s. 58 Fingerprints and samples](section/58.md)
+  - Supplementary provisions
+    - [s. 59 Notices](section/59.md)
+    - [s. 60 Contracts](section/60.md)
+    - [s. 61 Legal aid in relation to Part 2 notices](section/61.md)
+    - [s. 62 Interpretation etc](section/62.md)
+- Part 3 Review of the operation of Parts 1 and 2 etc
+  - [s. 63 Reviews: general](section/63.md)
+  - [s. 64 Reviews of detention under Part 1](section/64.md)
+- Part 4 Foreign activities and foreign influence registration scheme
+  - Activities of specified persons
+    - [s. 65 Requirement to register foreign activity arrangements](section/65.md)
+    - [s. 66 Meaning of “specified person”](section/66.md)
+    - [s. 67 Offence of carrying out etc relevant activities pursuant to unregistered foreign activity arrangement](section/67.md)
+    - [s. 68 Requirement to register relevant activities of specified persons](section/68.md)
+  - Political influence activities of foreign powers
+    - [s. 69 Requirement to register foreign influence arrangements](section/69.md)
+    - [s. 70 Meaning of “political influence activity”](section/70.md)
+    - [s. 71 Offence of carrying out etc political influence activities pursuant to unregistered foreign influence arrangement](section/71.md)
+    - [s. 72 Requirement to register political influence activities of foreign powers](section/72.md)
+  - Exemptions
+    - [s. 73 Exemptions](section/73.md)
+  - Information
+    - [s. 74 Registration information](section/74.md)
+    - [s. 75 Information notices](section/75.md)
+    - [s. 76 Confidential material](section/76.md)
+    - [s. 77 Offence of providing false information](section/77.md)
+    - [s. 78 Offence of carrying out activities under arrangements tainted by false information](section/78.md)
+    - [s. 79 Publication and disclosure of information](section/79.md)
+  - Offences: penalties etc
+    - [s. 80 Offences: penalties](section/80.md)
+    - [s. 81 Offences: supplementary provision](section/81.md)
+  - Supplementary
+    - [s. 82 Annual report](section/82.md)
+    - [s. 83 Interpretation](section/83.md)
+- Part 5 Terrorism
+  - Damages in national security proceedings
+    - [s. 84 National security proceedings](section/84.md)
+    - [s. 85 Duty to consider reduction in damages payable by the Crown](section/85.md)
+    - [s. 86 Section 85: supplementary](section/86.md)
+    - [s. 87 Sections 84 to 86: interpretation](section/87.md)
+  - Freezing and forfeiture of damages
+    - [s. 88 Damages at risk of being used for the purposes of terrorism](section/88.md)
+  - Legal aid
+    - [s. 89 Legal aid for individuals convicted of terrorism offences](section/89.md)
+    - [s. 90 Legal aid for individuals convicted of terrorism offences: data sharing](section/90.md)
+    - [s. 91 Legal aid in relation to terrorism prevention and investigation measures](section/91.md)
+  - Amendments of the Terrorism Act 2000
+    - [s. 92 Amendments of the Terrorism Act 2000](section/92.md)
+- Part 6 Miscellaneous and general provisions
+  - Intelligence and Security Committee
+    - [s. 93 Intelligence and Security Committee: memorandum of understanding](section/93.md)
+  - General provisions
+    - [s. 94 Minor and consequential amendments](section/94.md)
+    - [s. 95 Power to make consequential amendments](section/95.md)
+    - [s. 96 Regulations](section/96.md)
+    - [s. 97 Crown application](section/97.md)
+    - [s. 98 Extent in the United Kingdom](section/98.md)
+    - [s. 99 Extent outside the United Kingdom](section/99.md)
+    - [s. 100 Commencement](section/100.md)
+    - [s. 101 Transitional and saving provision](section/101.md)
+    - [s. 102 Short title](section/102.md)
+- Schedule 1 Foreign interference in elections
+  - Part 1 Relevant electoral offences
+  - Part 2 Amendments
+    - [Sch. 1 para. 1 Electoral Law Act (Northern Ireland) 1962 (c.14 (N.I.))](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Representation of the People Act 1983 (c. 2)](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Political Parties, Elections and Referendums Act 2000 (c. 41)](schedule/1/paragraph/3.md)
+- Schedule 2 Powers of entry, search and seizure
+  - Part 1 England and Wales and Northern Ireland
+    - [Sch. 2 para. 1 Introductory](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Material other than confidential material: search, seizure and retention](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Confidential material: production orders](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Confidential material: production orders](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Production orders: supplementary provision](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Production orders: supplementary provision](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Production orders: supplementary provision](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Production orders: supplementary provision](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Confidential material: search, seizure and retention](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Explanations](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Explanations](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Urgent cases](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Urgent cases](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Urgent cases](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Application of PACE](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 Procedure rules](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Interpretation](schedule/2/paragraph/17.md)
+  - Part 2 Scotland
+    - [Sch. 2 para. 18 Introductory](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Production orders](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Production orders](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Production orders: supplementary](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Production orders: supplementary](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23 Production orders: supplementary](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Production orders: supplementary](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25 Search, seizure and retention](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26 Explanations](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27 Urgent cases](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28 Urgent cases](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29 Urgent cases](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30 Supplementary](schedule/2/paragraph/30.md)
+- Schedule 3 Disclosure orders
+  - Part 1 England and Wales and Northern Ireland
+    - [Sch. 3 para. 1 Introductory](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Disclosure orders](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Supplementary provision](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Applications](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Discharge or variation](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Rules of court](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Offences](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Statements](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Interpretation](schedule/3/paragraph/9.md)
+  - Part 2 Scotland
+    - [Sch. 3 para. 10 Introductory](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Disclosure orders](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Supplementary provision](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Applications](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 Discharge or variation](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Rules of court](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16 Offences](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17 Statements](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18 Interpretation](schedule/3/paragraph/18.md)
+- Schedule 4 Customer information orders
+  - [Sch. 4 para. 1 Customer information orders](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Supplementary provision](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Applications](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Discharge or variation](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Rules of court](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Offences](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Statements](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Interpretation](schedule/4/paragraph/8.md)
+- Schedule 5 Account monitoring orders
+  - [Sch. 5 para. 1 Account monitoring orders](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Applications](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Discharge or variation](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Rules of court](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Effect of orders](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Statements](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Interpretation](schedule/5/paragraph/7.md)
+- Schedule 6 Detention under section 27
+  - Part 1 Treatment of persons detained under section 27
+    - [Sch. 6 para. 1 Place of detention](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2 Identification](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3 Video recording of interviews](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4 Video recording of interviews](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5 Status](schedule/6/paragraph/5.md)
+  - Part 2 Rights of persons detained under section 27: England, Wales and Northern Ireland
+    - [Sch. 6 para. 6 Right to have named person informed of detention](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7 Right to consult a solicitor](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8 Right to consult a solicitor](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9 Delay in exercise of rights](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10 Taking of intimate and non-intimate samples](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11 Taking of intimate and non-intimate samples](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12 Taking of intimate and non-intimate samples](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13 Taking of intimate and non-intimate samples](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14 Taking of intimate and non-intimate samples](schedule/6/paragraph/14.md)
+  - Part 3 Rights of persons detained under section 27: Scotland
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Part 4 Dealing with fingerprints and samples etc: United Kingdom
+    - [Sch. 6 para. 19 Retention of fingerprints and samples etc: general](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20 Retention of fingerprints and samples etc: general](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21 Retention of fingerprints and samples etc: general](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22 Retention of material covered by a national security determination](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23 Fingerprints and relevant physical data: further provision](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24 Fingerprints and relevant physical data: further provision](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25 Samples: further provision](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26 Restrictions on use of retained material](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27 Material disclosable in connection with a criminal investigation](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28 Interpretation](schedule/6/paragraph/28.md)
+  - Part 5 Review of detention under section 27
+    - [Sch. 6 para. 29 Requirement](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30 Postponement](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31 Grounds for continued detention](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32 Review officer](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33 Review officer](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34 Representations](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35 Rights](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36 Record](schedule/6/paragraph/36.md)
+  - Part 6 Extension of detention under section 27
+    - [Sch. 6 para. 37 Warrants of further detention](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38 Time limit](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39 Notice](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40 Grounds for extension](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41 Representation](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42 Information](schedule/6/paragraph/42.md)
+    - [Sch. 6 para. 43 Adjournments](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44 Extensions of warrants](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45 Detention - conditions](schedule/6/paragraph/45.md)
+  - Part 7 Emergency power when Parliament dissolved etc. for temporary extension of maximum period for detention under section 27
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+- Schedule 6A DESIGNATED BODIES
+  - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+- Schedule 7 Prevention and investigation measures
+  - Part 1 Measures
+    - [Sch. 7 para. 1 Residence measure](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2 Travel measure](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3 Exclusion measure](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4 Movement directions measure](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5 Financial services measure](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6 Property measure](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7 Weapons and explosives measure](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8 Electronic communication device measure](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9 Association measure](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10 Work or studies measure](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11 Reporting measure](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12 Polygraph measure](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13 Appointments measure](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14 Photography measure](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15 Monitoring measure](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16 Provision of residence information measure](schedule/7/paragraph/16.md)
+  - Part 2 Permission and notices
+    - [Sch. 7 para. 17 Permission](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18 Notices](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19 Power of Secretary of State to vary or revoke notices](schedule/7/paragraph/19.md)
+- Schedule 8 Urgent cases: reference to the court etc
+  - [Sch. 8 para. 1 Application](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Statement of urgency](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Reference to court](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Decision by court](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5 Procedures on reference](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6 Interpretation](schedule/8/paragraph/6.md)
+- Schedule 9 Appeals against convictions
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- Schedule 10 Proceedings relating to prevention and investigation measures
+  - [Sch. 10 para. 1 Introductory](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Rules of court: general provision](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Rules of court: disclosure](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Rules of court: disclosure](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 Article 6 rights](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 Rules of court: anonymity](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 Initial exercise of rule-making powers by Lord Chancellor](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8 Use of advisers](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9 Use of advisers](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10 Appointment of special advocate](schedule/10/paragraph/10.md)
+- Schedule 11 Powers of entry, search, seizure and retention
+  - [Sch. 11 para. 1 Introductory](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2 Introductory](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3 Introductory](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4 Introductory](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 Entry and search for purposes of serving a Part 2 notice](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 Search of individual or premises at time of serving a Part 2 notice](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7 Search of premises on suspicion of absconding](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8 Search for compliance purposes](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9 Search for compliance purposes](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10 Search of individual for public safety purposes](schedule/11/paragraph/10.md)
+  - [Sch. 11 para. 11 Power to retain items](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12 Power to retain items](schedule/11/paragraph/12.md)
+- Schedule 12 Fingerprints and samples
+  - [Sch. 12 para. 1 Taking of fingerprints and samples: England, Wales and Northern Ireland](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Taking of fingerprints and samples: England, Wales and Northern Ireland](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Taking of fingerprints and samples: England, Wales and Northern Ireland](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Taking of relevant physical data and samples: Scotland](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Checking of fingerprints, samples etc](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Requirement to destroy material](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Requirement to destroy material](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8 Retention of paragraph 6 material](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9 Retention of paragraph 6 material](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10 Retention of paragraph 6 material](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11 Retention of paragraph 6 material](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12 Retention of paragraph 6 material](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13 Requirement to destroy samples](schedule/12/paragraph/13.md)
+  - [Sch. 12 para. 14 Use of retained material](schedule/12/paragraph/14.md)
+  - [Sch. 12 para. 15 Interpretation](schedule/12/paragraph/15.md)
+- Schedule 13 Control of a person by a foreign power
+  - Part 1 Conditions for control
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Part 2 Interpretation of Part 1
+    - [Sch. 13 para. 3 Interpretation](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4 Joint interests](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5 Joint arrangements](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6 Calculating shareholdings](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7 Voting rights](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8 Voting rights](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9 Shares or rights held “indirectly”](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10 Shares held by nominees](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11 Rights treated as held by person who controls their exercise](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12 Rights treated as held by person who controls their exercise](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13 Rights exercisable only in certain circumstances etc](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14 Rights attached to shares held by way of security](schedule/13/paragraph/14.md)
+  - Part 3 Power to amend thresholds etc
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+- Schedule 14 Public officials
+  - [Sch. 14 para. 1 Ministers](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2 Ministers](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3 Ministers](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4 Ministers](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5 MPs etc](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6 MPs etc](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7 MPs etc](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8 MPs etc](schedule/14/paragraph/8.md)
+  - [Sch. 14 para. 9 MPs etc](schedule/14/paragraph/9.md)
+  - [Sch. 14 para. 10 Local government](schedule/14/paragraph/10.md)
+  - [Sch. 14 para. 11 Local government](schedule/14/paragraph/11.md)
+  - [Sch. 14 para. 12 Political parties](schedule/14/paragraph/12.md)
+  - [Sch. 14 para. 13 Political parties](schedule/14/paragraph/13.md)
+  - [Sch. 14 para. 14 Election candidates](schedule/14/paragraph/14.md)
+  - [Sch. 14 para. 15 Election candidates](schedule/14/paragraph/15.md)
+  - [Sch. 14 para. 16 Civil servants](schedule/14/paragraph/16.md)
+  - [Sch. 14 para. 17 Military personnel](schedule/14/paragraph/17.md)
+  - [Sch. 14 para. 18 Police](schedule/14/paragraph/18.md)
+  - [Sch. 14 para. 19 Police](schedule/14/paragraph/19.md)
+  - [Sch. 14 para. 20 Police](schedule/14/paragraph/20.md)
+  - [Sch. 14 para. 21 Police](schedule/14/paragraph/21.md)
+  - [Sch. 14 para. 22 Police](schedule/14/paragraph/22.md)
+  - [Sch. 14 para. 23 Police](schedule/14/paragraph/23.md)
+  - [Sch. 14 para. 24 Police](schedule/14/paragraph/24.md)
+  - [Sch. 14 para. 25 Police](schedule/14/paragraph/25.md)
+  - [Sch. 14 para. 26 Police](schedule/14/paragraph/26.md)
+  - [Sch. 14 para. 27 Persons exercising public functions](schedule/14/paragraph/27.md)
+- Schedule 15 Exemptions
+  - [Sch. 15 para. 1 UK arrangements](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2 Foreign powers](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3 Diplomatic missions etc](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4 Recognised news publishers](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5 Recognised news publishers](schedule/15/paragraph/5.md)
+  - [Sch. 15 para. 6 Legal activities](schedule/15/paragraph/6.md)
+  - [Sch. 15 para. 7 Employees etc](schedule/15/paragraph/7.md)
+  - [Sch. 15 para. 8 Power to provide for further exemptions](schedule/15/paragraph/8.md)
+- Schedule 16 Damages at risk of being used for the purposes of terrorism
+  - [Sch. 16 para. 1 Freezing orders](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 2 Extension of freezing order](schedule/16/paragraph/2.md)
+  - [Sch. 16 para. 3 Forfeiture](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4 Interpretation](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5 Interpretation](schedule/16/paragraph/5.md)
+- Schedule 17 Amendments of Terrorism Act 2000
+  - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+- Schedule 18 Minor and consequential amendments
+  - [Sch. 18 para. 1 Official Secrets Act 1911 (c. 28)](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2 Official Secrets Act 1920 (c. 75)](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3 Official Secrets Act 1939 (c. 121)](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4 Police and Criminal Evidence Act 1984 (c. 60)](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5 Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6 Official Secrets Act 1989 (c. 6)](schedule/18/paragraph/6.md)
+  - [Sch. 18 para. 7 Criminal Procedure (Scotland) Act 1995 (c. 46)](schedule/18/paragraph/7.md)
+  - [Sch. 18 para. 8 Protection of Freedoms Act 2012 (c. 9)](schedule/18/paragraph/8.md)
+  - [Sch. 18 para. 9 Modern Slavery Act 2015 (c. 30)](schedule/18/paragraph/9.md)
+  - [Sch. 18 para. 10 Investigatory Powers Act 2016 (c. 25)](schedule/18/paragraph/10.md)
+  - [Sch. 18 para. 11 Counter-Terrorism and Border Security Act 2019 (c. 3)](schedule/18/paragraph/11.md)
