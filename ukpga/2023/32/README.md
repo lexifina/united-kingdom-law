@@ -2,9 +2,11 @@
 
 2023 c. 32. Enacted 2023-07-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-08, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-17, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-07-08
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2023/32
+
+Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-07-17
 
 ## Contents
 
@@ -293,6 +295,10 @@ Source: https://www.legislation.gov.uk/ukpga/2023/32/2026-07-08
     - [Sch. 6 para. 45 Detention - conditions](schedule/6/paragraph/45.md)
   - Part 7 Emergency power when Parliament dissolved etc. for temporary extension of maximum period for detention under section 27
     - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+- Schedule 6A DESIGNATED BODIES
+  - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
 - Schedule 7 Prevention and investigation measures
   - Part 1 Measures
     - [Sch. 7 para. 1 Residence measure](schedule/7/paragraph/1.md)
