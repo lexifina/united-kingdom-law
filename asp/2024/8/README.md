@@ -1,0 +1,129 @@
+# Visitor Levy (Scotland) Act 2024
+
+asp/2024/8. Enacted 2024-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2024/8/2026-07-22
+
+## Contents
+
+- Part 1 Visitor levy
+  - [s. 1 Power for local authorities to impose levy](section/1.md)
+  - [s. 2 Overview](section/2.md)
+- Part 2 Key concepts
+  - Basis and calculation of levy
+    - [s. 3 Levy to be charged on purchase of overnight accommodation](section/3.md)
+    - [s. 4 Meaning of overnight accommodation](section/4.md)
+    - [s. 4A Basis on which levy is to be charged](section/4A.md)
+    - [s. 5 Calculation of levy based on a percentage rate](section/5.md)
+    - [s. 6 Setting percentage rate for levy](section/6.md)
+    - [s. 6A Setting fixed amount of levy](section/6A.md)
+    - [s. 7 Maximum number of nights of overnight accommodation](section/7.md)
+    - [s. 8 Person liable to pay levy](section/8.md)
+    - [s. 9 Third party arrangements](section/9.md)
+    - [s. 10 Billing of overnight accommodation](section/10.md)
+  - Exemptions and rebates
+    - [s. 11 Exemptions and rebates](section/11.md)
+- Part 3 Introduction and administration of the levy
+  - Process
+    - [s. 12 Scheme to impose levy](section/12.md)
+    - [s. 12A Permitted deduction by liable persons from levy payable](section/12A.md)
+    - [s. 12B Regulations: further provision about deductions by liable persons from levy payable](section/12B.md)
+    - [s. 13 Prior consultation on scheme](section/13.md)
+    - [s. 14 Required content of a scheme](section/14.md)
+    - [s. 15 Publicity for introduction of scheme](section/15.md)
+    - [s. 16 Visitor levy forum](section/16.md)
+    - [s. 17 Transitional provision](section/17.md)
+  - Finances
+    - [s. 18 Duty to keep separate account for scheme](section/18.md)
+    - [s. 19 Use of net proceeds of scheme](section/19.md)
+  - Performance
+    - [s. 20 Annual reporting on scheme](section/20.md)
+    - [s. 21 Review of scheme](section/21.md)
+    - [s. 22 Scottish Ministers’ power to regulate process](section/22.md)
+    - [s. 23 Guidance on visitor levy scheme](section/23.md)
+- Part 4 Returns and payment
+  - Chapter 1 Delegation of functions
+    - [s. 24 Delegation of collection and enforcement functions](section/24.md)
+  - Chapter 2 Returns
+    - [s. 25 Interpretation](section/25.md)
+    - [s. 26 Duty to make returns](section/26.md)
+    - [s. 27 Form and content of return](section/27.md)
+    - [s. 28 Duty to keep and preserve records](section/28.md)
+    - [s. 28A Amendment of returns: regulations](section/28A.md)
+  - Chapter 3 Payment
+    - [s. 29 Payment of levy](section/29.md)
+    - [s. 29A Disallowance of deduction by liable persons from levy payable](section/29A.md)
+- Part 5 Enforcement of the levy and penalties
+  - Chapter 1 Investigatory powers
+    - Information notices
+      - [s. 30 Power to obtain information and documents from the liable person](section/30.md)
+      - [s. 31 Power to obtain information and documents from third parties](section/31.md)
+      - [s. 32 Complying with information notices](section/32.md)
+      - [s. 33 Producing copies of documents](section/33.md)
+      - [s. 34 Further provision about powers relating to information notices](section/34.md)
+      - [s. 35 Information notices: general restrictions](section/35.md)
+      - [s. 36 Types of information](section/36.md)
+      - [s. 37 Protection for privileged communications between legal advisers and clients](section/37.md)
+    - Inspection powers
+      - [s. 38 Power to inspect business premises](section/38.md)
+      - [s. 39 Power to inspect business premises of third parties](section/39.md)
+      - [s. 40 Carrying out inspections under section 38 and 39](section/40.md)
+      - [s. 41 Carrying out inspections under section 38 or 39: further provision](section/41.md)
+      - [s. 42 Power to copy and remove documents](section/42.md)
+      - [s. 43 Restriction on inspection of documents](section/43.md)
+      - [s. 44 Electronic records](section/44.md)
+  - Chapter 2 Assessments where no return or incorrect return
+    - [s. 45 Power to allow a local authority to make or substitute an assessment](section/45.md)
+  - Chapter 3 Penalties
+    - Power to impose penalties
+      - [s. 46 Power of local authorities to impose penalties](section/46.md)
+    - Penalty for failure to make returns
+      - [s. 47 Penalty for failure to make returns](section/47.md)
+      - [s. 48 Three month penalty for failure to make return](section/48.md)
+      - [s. 49 Six month penalty for failure to make return](section/49.md)
+      - [s. 50 Twelve month penalty for failure to make return](section/50.md)
+      - [s. 51 Reasonable excuse for failure to make return](section/51.md)
+    - Penalty for failure to pay levy
+      - [s. 52 Penalty for failure to pay levy](section/52.md)
+      - [s. 53 Reasonable excuse for failure to pay levy](section/53.md)
+    - Penalty for failure to keep and preserve records
+      - [s. 54 Penalty for failure to keep and preserve records](section/54.md)
+      - [s. 55 Reasonable excuse for failure to keep and preserve records](section/55.md)
+    - Penalties for failure to comply or obstruction
+      - [s. 56 Penalties for failure to comply or obstruction](section/56.md)
+      - [s. 57 Daily default penalties for failure to comply or obstruction](section/57.md)
+      - [s. 58 Reasonable excuse for failure to comply or obstruction](section/58.md)
+    - Penalties for inaccurate information or documents
+      - [s. 59 Penalties for inaccurate information or documents](section/59.md)
+    - Concealing, destroying etc. documents
+      - [s. 60 Concealing, destroying etc. documents following information notice](section/60.md)
+      - [s. 61 Concealing, destroying etc. documents following information notification](section/61.md)
+    - Assessment and enforcement of penalties
+      - [s. 62 Assessment of penalties](section/62.md)
+      - [s. 63 Enforcement of penalties](section/63.md)
+      - [s. 64 Failure to comply with time limit](section/64.md)
+      - [s. 65 Power of local authorities to reduce, suspend or waive penalties](section/65.md)
+    - Interest
+      - [s. 66 Interest on unpaid levy](section/66.md)
+      - [s. 67 Interest on penalties](section/67.md)
+      - [s. 68 Rate of interest](section/68.md)
+    - Power to change penalty provisions
+      - [s. 69 Power to change penalty provisions](section/69.md)
+  - Chapter 4 Recovery of unpaid amounts
+    - [s. 70 Summary warrant](section/70.md)
+  - Chapter 5 Reviews and appeals
+    - [s. 71 Reviews](section/71.md)
+    - [s. 72 Appeals](section/72.md)
+- Part 6 Registers of Liable Persons and Information Sharing
+  - [s. 73 Registers of liable persons](section/73.md)
+  - [s. 74 Power to share information](section/74.md)
+- Part 7 Final provisions
+  - [s. 75 Report on operation of Act](section/75.md)
+  - [s. 75A Power to make further provision about the operation of Parts 2 and 3](section/75A.md)
+  - [s. 76 Interpretation of Act](section/76.md)
+  - [s. 77 Regulation-making powers](section/77.md)
+  - [s. 78 Ancillary provision](section/78.md)
+  - [s. 79 Commencement](section/79.md)
+  - [s. 80 Short title](section/80.md)
