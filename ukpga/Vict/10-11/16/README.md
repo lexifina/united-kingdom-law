@@ -1,0 +1,143 @@
+# Commissioners Clauses Act 1847
+
+1847 c. 16. Enacted 1847-04-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-23, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/16
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/10-11/16/2026-07-23
+
+## Contents
+
+- [s. 1 Extent of Act.](section/1.md)
+- Interpretations in this Act
+  - [heading interpretations-in-this-act s. 2 The special Act: Prescribed: The undertaking: The commissioners.](crossheading/interpretations-in-this-act/section/2.md)
+  - [s. 3 Interpretations in this and the special Act: Number: Gender: Person: Lands: Month: Superior courts: Justice: Two justices: Sheriff: Clerk: The town.](section/3.md)
+  - [s. 4 Short title of this Act.](section/4.md)
+  - [s. 5 ................................](section/5.md)
+- Commissioners
+  - [s. 6 Joint owners or occupiers when qualified eligible as commissioners.](section/6.md)
+  - [s. 7 Same property not to give two qualifications.](section/7.md)
+  - [s. 8 No bankrupt or insolvent to be a commissioner.](section/8.md)
+  - [s. 9 No person holding office or concerned in a contract to be a commissioner.](section/9.md)
+  - [s. 10 Shareholders in companies established by Act of Parliament not disqualified by reason of contracts.](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 Declaration to be made by commissioners before acting.](section/12.md)
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 Declaration to be taken at the first meeting.](section/14.md)
+  - [s. 15 Penalty on commissioner, not being qualified, acting.](section/15.md)
+  - [s. 16 Commissioners neglecting to act to cease to be one.](section/16.md)
+- Election and rotation of commissioners
+  - [s. 17 One-third of commissioners elected by Ratepayers and owners to go out of office every three years.](section/17.md)
+  - [s. 18 Commissioners eligible to be re-elected.](section/18.md)
+  - [s. 19 Mode of supplying occasional vacancies.](section/19.md)
+  - [s. 20 Manner of making the rotation list.](section/20.md)
+  - [s. 21 Annual meeting for election of commissioners.](section/21.md)
+  - [s. 22 Returning officer at elections.](section/22.md)
+  - [s. 23 Returning officer to appoint poll clerks.](section/23.md)
+  - [s. 24 Scale of votes of owners and occupiers.](section/24.md)
+  - [s. 25 Electors to vote in ward where their property qualification is situate but not to vote for more than one ward.](section/25.md)
+  - [s. 26 Commissioners may cause alphabetical list of voters to be made, and may defray the expence out of the rates.](section/26.md)
+  - [s. 27 Returning officer may summon rate collectors, &c. to attend the election. Penalty on rate collector, &c. for neglect.](section/27.md)
+  - [s. 28 Mode of voting at elections.](section/28.md)
+  - [heading election-and-rotation-of-commissioners s. 1](crossheading/election-and-rotation-of-commissioners/section/1.md)
+  - [heading election-and-rotation-of-commissioners s. 2](crossheading/election-and-rotation-of-commissioners/section/2.md)
+  - [s. 29 Poll may be closed if no voting paper be tendered for one hour.](section/29.md)
+  - [s. 30 Returning officer to examine poll books and declare the poll.](section/30.md)
+  - [s. 31 Voting papers and poll books to be open to inspection for six months after election.](section/31.md)
+  - [s. 32 Manner of proceeding if any person is elected a commissioner in more than one ward.](section/32.md)
+  - [s. 33 If no election day appointed, it may be made on a subsequent day.](section/33.md)
+  - [s. 34 Election not to be void for want of title in presiding officer.](section/34.md)
+  - [s. 35 Expences of presiding officer to be paid out of rates levied.](section/35.md)
+- Meetings of commissioners
+  - [s. 36 First meeting of the commissioners.](section/36.md)
+  - [s. 37 Election of chairmen of meetings.](section/37.md)
+  - [s. 38 Manner of voting.](section/38.md)
+  - [s. 39 Quorum of commissioners.](section/39.md)
+  - [s. 40 Commissioners to hold annual and monthly meetings.](section/40.md)
+  - [s. 41 Meetings of commissioners may be adjourned from time to time.](section/41.md)
+  - [s. 42 Monthly meetings to be held for transacting the ordinary business under this and the special Act.](section/42.md)
+  - [s. 43 No extraordinary business shall be transacted at monthly meetings, unless notice be given.](section/43.md)
+  - [s. 44 No resolution of commissioners to be revoked at a subsequent meeting unless under certain circumstances.](section/44.md)
+  - [s. 45 As to the holding of special meetings.](section/45.md)
+  - [s. 46 Notice to be given of things to be done by the commissioners by special order only.](section/46.md)
+  - [s. 47 How notices of meetings of commissioners are to be given.](section/47.md)
+  - [s. 48 Expences of meetings.](section/48.md)
+  - [s. 49 Power of commissioners to appoint committees.](section/49.md)
+  - [s. 50 Quorum of committee.](section/50.md)
+  - [s. 51 Acts of the commissioners not to be invalidated by reason of vacancies.](section/51.md)
+  - [s. 52 Informalities in appointment of commissioners not to invalidate proceedings.](section/52.md)
+  - [s. 53 Commissioners may provide public offices, &c.](section/53.md)
+  - [s. 54 Commissioners to provide daily attendance at their office to receive notices, &c.](section/54.md)
+  - [s. 55 Proceedings to be entered in a book, and, when signed, shall be received in evidence.](section/55.md)
+- Contracts
+  - [s. 56 Power to commissioners to enter into contracts.](section/56.md)
+  - [s. 57 Notice to be given of contracts to the amount of 100 l. or upwards](section/57.md)
+  - [s. 58 Commissioners may compound for breach of contract.](section/58.md)
+  - [s. 59 As to the conveyance of lands by the commissioners. Receipt under seal to be a sufficient discharge.](section/59.md)
+- Legal proceedings
+  - [s. 60 Commissioners not to be personally liable for acts done in the capacity of a commissioner. Commissioners to be indemnified for acts done in the execution of their office.](section/60.md)
+  - [s. 61 Actions or suits to be brought in the name of any two commissioners or their clerk.](section/61.md)
+  - [s. 62 Executions to be levied on the goods belonging to commissioners by virtue of their office only.](section/62.md)
+  - [s. 63 Commissioners and clerk to be reimbursed all damages, &c.](section/63.md)
+  - [s. 64 How indictments to be preferred.](section/64.md)
+- Officers
+  - [s. 65 Power to commissioners to appoint clerk and other officers, and remove them from time to time.](section/65.md)
+  - [s. 66 Offices of clerk and treasurer not to be held by same person.](section/66.md)
+  - [s. 67 Officer taking fees other than those allowed to lose his office, and forfeit 50 l.](section/67.md)
+  - [s. 68 Security to be taken from all officers intrusted with money.](section/68.md)
+  - [s. 69 Collectors to pay over monies within seven days to the treasurer.](section/69.md)
+  - [s. 70 Officers to account.](section/70.md)
+  - [s. 71 Summary recovery against parties failing to account.](section/71.md)
+  - [s. 72 Officers refusing to make out account and deliver up documents, &c. may be committed to prison.](section/72.md)
+  - [s. 73 Where officer about to abscond, a warrant may be issued in the first instance.](section/73.md)
+  - [s. 74 Proceedings against officers not to discharge sureties.](section/74.md)
+- Mortgages
+  - [s. 75 Form of mortgage.](section/75.md)
+  - [s. 76 Register of mortgages to be kept and to be open to inspection.](section/76.md)
+  - [s. 77 Transfer of mortgages.](section/77.md)
+  - [s. 78 Register of transfers to be kept.](section/78.md)
+  - [s. 79 Interest on mortgages to be paid half-yearly.](section/79.md)
+  - [s. 80 Power to borrow money at a lower rate of interest to pay off securities at a higher rate.](section/80.md)
+  - [s. 81 Repayment of money borrowed at a time and place agreed upon.](section/81.md)
+  - [s. 82 Repayment of money borrowed when no time or place has been agreed upon.](section/82.md)
+  - [s. 83 Interest to cease on expiration of notice to pay off a mortgage debt.](section/83.md)
+  - [s. 84 Monies borrowed on security of rates to be paid off in a limited period.](section/84.md)
+  - [s. 85 Mode of paying off mortgages.](section/85.md)
+  - [s. 86 Arrears of interest, when to be enforced by appointment of a receiver. Arrears of principal and interest.](section/86.md)
+  - [s. 87 As to the appointment of receiver.](section/87.md)
+  - [s. 88 Account books to be open to the inspection of mortgagees.](section/88.md)
+- Accounts
+  - [s. 89 Accounts to be kept of receipts and disbursements, which shall be open for inspection. Penalty for refusal.](section/89.md)
+  - [s. 90 Statement of accounts to be prepared and to be open for inspection. Copies of such statement to be furnished.](section/90.md)
+  - [s. 91 Accounts to be examined and settled at the annual meeting.](section/91.md)
+  - [s. 92 Auditors to be appointed. Qualifications of auditors.](section/92.md)
+  - [s. 93 Auditors to inspect accounts, and may appeal against part of the same, if they think fit.](section/93.md)
+  - [s. 94 The court may order payment of the costs of the appeal.](section/94.md)
+  - [s. 95 Annual account to be made up and transmitted to the clerk of the peace in England or Ireland, or to the sheriff clerk in Scotland, and to be open to inspection.](section/95.md)
+- Byelaws
+  - [s. 96 Power to make byelaws for regulating the conduct of the officers, &c. of the commissioners.](section/96.md)
+  - [s. 97 Fines for breach of such byelaws.](section/97.md)
+  - [s. 98 ................................](section/98.md)
+- Notices
+  - [s. 99 Service of notices upon commissioners.](section/99.md)
+  - [s. 100 Notices by advertisement.](section/100.md)
+  - [s. 101 Authentication of notices and orders.](section/101.md)
+  - [s. 102 Proof of debts in bankruptcy.](section/102.md)
+  - [s. 103 ................................](section/103.md)
+- Recovery of damages and penalties
+  - [s. 104 Railways Clauses Consolidation Acts 1845, as to damages, &c. to be incorporated with this and the special Act.](section/104.md)
+  - [s. 105 ................................](section/105.md)
+  - [s. 106 ................................](section/106.md)
+  - [s. 107 ................................](section/107.md)
+  - [s. 108 ................................](section/108.md)
+  - [s. 109 Nothing in this or the special Act to affect the rights of the crown.](section/109.md)
+- Access to special Act
+  - [s. 110 Copies of special Act, to be kept by commissioners at their office, and deposited with the clerks of the peace, &c. and to be open to inspection.](section/110.md)
+  - [s. 111 Penalty on commissioners failing to keep or deposit such copies.](section/111.md)
+  - [s. 112 ................................](section/112.md)
+- SCHEDULE (A) Voting paper
+- SCHEDULE (B) Form of Mortgage
+- SCHEDULE (C) Form of Transfer of Mortgage
+- SCHEDULE (D)
