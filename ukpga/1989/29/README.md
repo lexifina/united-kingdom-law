@@ -1,0 +1,893 @@
+# Electricity Act 1989
+
+1989 c. 29. Enacted 1989-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 77 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
+
+Source: https://www.legislation.gov.uk/ukpga/1989/29/2026-07-24
+
+## Contents
+
+- Part I ELECTRICITY SUPPLY
+  - Introductory
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 General duties of Secretary of State and Director.](section/3.md)
+    - [s. 3A The principal objective and general duties of the Secretary of State and the Authority.](section/3A.md)
+    - [s. 3B Guidance on social and environmental matters.](section/3B.md)
+    - [s. 3C Health and safety.](section/3C.md)
+    - [s. 3D Exceptions from sections 3A to 3C.](section/3D.md)
+    - [s. 3E Binding decisions of the Agency for the Cooperation of Energy Regulators and of the European Commission](section/3E.md)
+    - [s. 3F Authority to consult and cooperate with other authorities](section/3F.md)
+  - Licensing of supply etc.
+    - [s. 4 Prohibition on unlicensed supply etc.](section/4.md)
+    - [s. 5 Exemptions from prohibition.](section/5.md)
+    - [s. 5A Duties of distribution exemption holders](section/5A.md)
+    - [s. 5B Duties of supply exemption holders](section/5B.md)
+    - [s. 6 Licences authorising supply, etc.](section/6.md)
+    - [s. 6A Procedure for licence applications.](section/6A.md)
+    - [s. 6B Applications for transmission licences.](section/6B.md)
+    - [s. 6BA Meaning of “relevant electricity project”, “relevant licence” and “relevant contract”](section/6BA.md)
+    - [s. 6BB Designation of a delivery body](section/6BB.md)
+    - [s. 6C Competitive tenders](section/6C.md)
+    - [s. 6CA Power to require information](section/6CA.md)
+    - [s. 6CB Recovery of tender costs](section/6CB.md)
+    - [s. 6CC Competitive tenders: supplementary](section/6CC.md)
+    - [s. 6CD Sections 6C to 6CC: further definitions](section/6CD.md)
+    - [s. 6D Section 6C: supplemental provision](section/6D.md)
+    - [s. 6E Property schemes in respect of relevant licences and contracts](section/6E.md)
+    - [s. 6F ... Transmission during commissioning period](section/6F.md)
+    - [s. 6G Section 6F: meaning of “commissioning period”](section/6G.md)
+    - [s. 6H Sections 6C, 6F and 6G: modification of codes or agreements](section/6H.md)
+    - [s. 7 Conditions of licences: general.](section/7.md)
+    - [s. 7A Transfer of licences.](section/7A.md)
+    - [s. 7B Uniform prices etc. in certain areas of Scotland.](section/7B.md)
+    - [s. 8 Conditions for funding certain companies engaged in nuclear generation in Scotland.](section/8.md)
+    - [s. 8A Standard conditions of licences.](section/8A.md)
+    - [s. 9 General duties of licence holders.](section/9.md)
+    - [s. 10 Powers etc. of licence holders.](section/10.md)
+  - Electricity transmission and the operation of electricity interconnectors: independence
+    - [s. 10A Electricity transmission and the operation of electricity interconnectors: requirement for certain participants to be certified as independent](section/10A.md)
+    - [s. 10B Application for certification](section/10B.md)
+    - [s. 10C Report where applicant connected with a country outside the United Kingdom](section/10C.md)
+    - [s. 10D Certification](section/10D.md)
+    - [s. 10E Grounds for certification](section/10E.md)
+    - [s. 10F The ownership unbundling requirement](section/10F.md)
+    - [s. 10G The ownership unbundling requirement: supplementary](section/10G.md)
+    - [s. 10H Designation for the purposes of the Electricity Regulation](section/10H.md)
+    - [s. 10I Monitoring and review of certification](section/10I.md)
+    - [s. 10J Review of certification: requirement to provide information etc](section/10J.md)
+    - [s. 10K Report as to any connection of certified person with a country outside the United Kingdom](section/10K.md)
+    - [s. 10L Continuation or withdrawal of certification](section/10L.md)
+    - [s. 10M Prohibition on the exercise of certain shareholder rights and rights of appointment](section/10M.md)
+    - [s. 10N Validity of acts infringing section 10M](section/10N.md)
+    - [s. 10O Interpretation](section/10O.md)
+  - Long duration electricity storage
+    - [s. 10P Long duration electricity storage](section/10P.md)
+  - Modification of licences
+    - [s. 11 Modification by agreement.](section/11.md)
+    - [s. 11A Modification of conditions of licences](section/11A.md)
+    - [s. 11AA Modification of conditions under section 11A: early effective date](section/11AA.md)
+    - [s. 11B Modification of conditions under section 11A: supplementary](section/11B.md)
+  - Appeal from decisions of the Authority
+    - [s. 11C Appeal to the CMA](section/11C.md)
+    - [s. 11D Procedure on appeal to CMA](section/11D.md)
+    - [s. 11E Determination by CMA of appeal](section/11E.md)
+    - [s. 11F CMA’s powers on allowing appeal](section/11F.md)
+    - [s. 11G Time limits for CMA to determine an appeal](section/11G.md)
+    - [s. 11H Determination of appeal by CMA: supplementary](section/11H.md)
+    - [s. 12 Modification references to Monopolies Commission.](section/12.md)
+    - [s. 12A References under section 12: time limits](section/12A.md)
+    - [s. 12B References under section 12: powers of investigation](section/12B.md)
+    - [s. 13 Reports on modification references.](section/13.md)
+    - [s. 14 Modification following report.](section/14.md)
+    - [s. 14A Competition Commission’s power to veto modifications following report.](section/14A.md)
+    - [s. 15 Modification by order under other enactments.](section/15.md)
+    - [s. 15A Licence modifications relating to new electricity trading arrangements.](section/15A.md)
+  - Duties of electricity distributors
+    - [s. 16 Duty to connect on request.](section/16.md)
+    - [s. 16A Procedure for requiring a connection.](section/16A.md)
+    - [s. 17 Exceptions from duty to connect.](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Power to recover expenditure.](section/19.md)
+    - [s. 20 Power to require security.](section/20.md)
+    - [s. 21 Additional terms of connection.](section/21.md)
+    - [s. 22 Special agreements with respect to connection.](section/22.md)
+    - [s. 23 Determination of disputes.](section/23.md)
+    - [s. 24 The public electricity supply code.](section/24.md)
+  - Enforcement of obligations of regulated persons
+    - [s. 25 Orders for securing compliance.](section/25.md)
+    - [s. 26 Procedural requirements.](section/26.md)
+    - [s. 27 Validity and effect of orders.](section/27.md)
+    - [s. 27A Penalties.](section/27A.md)
+    - [s. 27B Statement of policy with respect to penalties.](section/27B.md)
+    - [s. 27C Time limits on the imposition of financial penalties.](section/27C.md)
+    - [s. 27D Interest and payment of instalments.](section/27D.md)
+    - [s. 27E Appeals against penalties.](section/27E.md)
+    - [s. 27F Recovery of penalties.](section/27F.md)
+    - [s. 27G Consumer redress orders](section/27G.md)
+    - [s. 27H Remedial action under a consumer redress order](section/27H.md)
+    - [s. 27I Other procedural requirements in relation to consumer redress orders](section/27I.md)
+    - [s. 27J Statement of policy with respect to consumer redress orders](section/27J.md)
+    - [s. 27K Time limits for making consumer redress orders](section/27K.md)
+    - [s. 27L Enforcement of consumer redress orders](section/27L.md)
+    - [s. 27M Appeals against consumer redress orders](section/27M.md)
+    - [s. 27N Consumer redress orders: miscellaneous](section/27N.md)
+    - [s. 27O Maximum amount of penalty or compensation](section/27O.md)
+    - [s. 28 Power to require information etc.](section/28.md)
+  - Provisions with respect to supply generally
+    - [s. 29 Regulations relating to supply and safety.](section/29.md)
+    - [s. 30 Electrical inspectors.](section/30.md)
+    - [s. 31 Use etc. of meters.](section/31.md)
+  - Protection of public interest
+    - [s. 32 The renewables obligation](section/32.md)
+    - [s. 32A Further provision about the renewables obligation](section/32A.md)
+    - [s. 32B Renewables obligation certificates](section/32B.md)
+    - [s. 32C Section 32B: supplemental provision](section/32C.md)
+    - [s. 32D Amounts of electricity specified in certificates](section/32D.md)
+    - [s. 32E Section 32D: transitional provision and savings](section/32E.md)
+    - [s. 32F Use of renewables obligation certificates issued in Northern Ireland](section/32F.md)
+    - [s. 32G Payment as alternative to complying with renewables obligation order](section/32G.md)
+    - [s. 32H Allocation of amounts to electricity suppliers](section/32H.md)
+    - [s. 32I Costs of the Authority and the Northern Ireland authority](section/32I.md)
+    - [s. 32J Information](section/32J.md)
+    - [s. 32K Renewables obligation order: general provision](section/32K.md)
+    - [s. 32L Renewables obligation orders: procedure](section/32L.md)
+    - [s. 32LA Renewables obligation closure order](section/32LA.md)
+    - [s. 32LB Renewables obligation closure orders: procedure](section/32LB.md)
+    - [s. 32LC Onshore wind generating stations: closure of renewables obligation](section/32LC.md)
+    - [s. 32LD Onshore wind generating stations accredited, or additional capacity added, on or before the onshore wind closure date](section/32LD.md)
+    - [s. 32LE Onshore wind generating stations accredited, or additional capacity added, in the year after the onshore wind closure date: grid or radar delay condition met](section/32LE.md)
+    - [s. 32LF Onshore wind generating stations accredited, or additional capacity added, on or before 31 March 2017: approved development condition met](section/32LF.md)
+    - [s. 32LG Onshore wind generating stations accredited, or additional capacity added, between 1 April 2017 and 31 March 2018: grid or radar delay condition met](section/32LG.md)
+    - [s. 32LH Onshore wind generating stations accredited, or additional capacity added, between 1 April 2017 and 31 January 2018: investment freezing condition met](section/32LH.md)
+    - [s. 32LI Onshore wind generating stations accredited, or additional capacity added, between 1 February 2018 and 31 January 2019: grid or radar delay condition met](section/32LI.md)
+    - [s. 32LJ The approved development condition](section/32LJ.md)
+    - [s. 32LK The investment freezing condition](section/32LK.md)
+    - [s. 32LL The grid or radar delay condition](section/32LL.md)
+    - [s. 32LM Use of Northern Ireland certificates: onshore wind power](section/32LM.md)
+    - [s. 32M Interpretation of sections 32 to 32M](section/32M.md)
+    - [s. 32N The certificate purchase obligation](section/32N.md)
+    - [s. 32O Further provision about the certificate purchase obligation](section/32O.md)
+    - [s. 32P Certificate purchase levy](section/32P.md)
+    - [s. 32Q Use of levy payments](section/32Q.md)
+    - [s. 32R Designation of a CFD counterparty as purchasing body or administrator](section/32R.md)
+    - [s. 32S GB certificates](section/32S.md)
+    - [s. 32T NI certificates](section/32T.md)
+    - [s. 32U Sections 32S and 32T: supplemental provision](section/32U.md)
+    - [s. 32V Certificate purchase orders: amounts of electricity stated in certificates](section/32V.md)
+    - [s. 32W Section 32V: transitional provision and savings](section/32W.md)
+    - [s. 32X Certificate purchase orders: information](section/32X.md)
+    - [s. 32Y Certificate purchase orders: corresponding provision](section/32Y.md)
+    - [s. 32Z Certificate purchase orders: general provision](section/32Z.md)
+    - [s. 32Z1 Certificate purchase orders: procedure](section/32Z1.md)
+    - [s. 32Z2 Interpretation of sections 32N to 32Z2](section/32Z2.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Fuel stocks etc. at generating stations.](section/34.md)
+    - [s. 35 Provisions supplementary to section 34.](section/35.md)
+    - [s. 36 Consent required for construction etc. of generating stations.](section/36.md)
+    - [s. 36A Declarations extinguishing etc. public rights of navigation](section/36A.md)
+    - [s. 36B Duties in relation to navigation](section/36B.md)
+    - [s. 36C Variation of consents under section 36](section/36C.md)
+    - [s. 36D Proceedings for questioning certain decisions of the Scottish Ministers](section/36D.md)
+    - [s. 36E Applications under section 36D: requirement for permission](section/36E.md)
+    - [s. 37 Consent required for overhead lines.](section/37.md)
+    - [s. 37A Application for variation of section 37 consent: Scotland](section/37A.md)
+    - [s. 37B Variation of section 36 and 37 consents on change of circumstances: Scotland](section/37B.md)
+    - [s. 37C Correction of errors in consent documents: Scotland](section/37C.md)
+    - [s. 38 Preservation of amenity and fisheries.](section/38.md)
+  - Benefits resulting from proximity to new or upgraded transmission infrastructure
+    - [s. 38A Power to establish scheme for giving of benefits](section/38A.md)
+    - [s. 38B Passing of benefits to ultimate consumer](section/38B.md)
+    - [s. 38C Enforcement of benefit scheme](section/38C.md)
+    - [s. 38D Disclosure and use of information in connection with benefit scheme](section/38D.md)
+  - Consumer protection: standards of performance
+    - [s. 39 Electricity supply: performance in individual cases.](section/39.md)
+    - [s. 39A Standards of performance in individual cases: electricity distributors.](section/39A.md)
+    - [s. 39B Standards of performance in individual cases: disputes.](section/39B.md)
+    - [s. 40 Electricity supply: overall performance.](section/40.md)
+    - [s. 40A Overall standards of performance: electricity distributors.](section/40A.md)
+    - [s. 40B Procedures for prescribing or determining standards of performance.](section/40B.md)
+    - [s. 41A Promotion of reductions in carbon emissions: ... electricity distributors and electricity suppliers](section/41A.md)
+    - [s. 41AA Scottish Ministers’ promotion of reductions in carbon emissions: electricity suppliers](section/41AA.md)
+    - [s. 41B Promotion of reductions in home-heating costs: electricity distributors and electricity suppliers](section/41B.md)
+    - [s. 41BA Scottish Ministers’ promotion of reductions in home-heating costs: electricity suppliers](section/41BA.md)
+    - [s. 42 Information with respect to levels of performance.](section/42.md)
+    - [s. 42A Information to be given to customers about overall performance.](section/42A.md)
+    - [s. 42AA Publication of statistical information about standards of performance.](section/42AA.md)
+    - [s. 42AB Information relating to complaints handling standards](section/42AB.md)
+    - [s. 42B Procedures for dealing with complaints.](section/42B.md)
+    - [s. 42C Remuneration and service standards.](section/42C.md)
+  - Consumer protection: miscellaneous
+    - [s. 43 Functions with respect to competition.](section/43.md)
+    - [s. 43A Adjustment of charges to help disadvantaged groups of customers.](section/43A.md)
+    - [s. 43B Orders: supplementary.](section/43B.md)
+    - [s. 44 Maximum prices for reselling electricity.](section/44.md)
+  - Section 44B disputes
+    - [s. 44B Meaning of “section 44B dispute”](section/44B.md)
+    - [s. 44C Determination of disputes](section/44C.md)
+    - [s. 44D Time limit for determinations](section/44D.md)
+  - Investigation of complaints
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 Consumer complaints.](section/46.md)
+    - [s. 46A Power of Council to investigate other matters.](section/46A.md)
+  - Other functions of Director
+    - [s. 47ZA Annual report by Authority on security of electricity supply](section/47ZA.md)
+    - [s. 47 General functions.](section/47.md)
+    - [s. 47A Power to require information etc for the purpose of monitoring](section/47A.md)
+    - [s. 48 Publication of information and advice.](section/48.md)
+    - [s. 49 Keeping of register.](section/49.md)
+    - [s. 49A Reasons for decisions.](section/49A.md)
+    - [s. 50 ................................](section/50.md)
+  - Provisions with respect to committees
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 53 ................................](section/53.md)
+  - Provisions with respect to Consumers’ etc. Councils
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 Continuity of employment of officers of abolished Councils.](section/56.md)
+  - Alteration of activities requiring licence
+    - [s. 56A Power to alter activities requiring licence.](section/56A.md)
+    - [s. 56B Application by Authority for order including new activities.](section/56B.md)
+    - [s. 56C References to CMA.](section/56C.md)
+    - [s. 56CA References under section 56C: time limits](section/56CA.md)
+    - [s. 56CB References under section 56C: application of Enterprise Act 2002](section/56CB.md)
+    - [s. 56D Reports on references.](section/56D.md)
+    - [s. 56E Application by Authority for order excluding activities.](section/56E.md)
+    - [s. 56F Consultation by Secretary of State about order excluding activities.](section/56F.md)
+    - [s. 56FA New licensable activities: smart meters](section/56FA.md)
+    - [s. 56FB Section 56FA: supplemental](section/56FB.md)
+    - [s. 56FBA New licensable activities: load control of energy smart appliances](section/56FBA.md)
+    - [s. 56FBB Regulations under section 56FBA](section/56FBB.md)
+    - [s. 56FC Competitive tenders for licences for new licensable activities](section/56FC.md)
+  - Miscellaneous
+    - [s. 56G Service by Authority of certain notices on Citizens Advice and Consumer Scotland.](section/56G.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 Directions restricting the use of certain information.](section/58.md)
+    - [s. 59 Making of false statements etc.](section/59.md)
+  - Supplemental
+    - [s. 60 Powers to make regulations.](section/60.md)
+    - [s. 61 Concurrent proceedings.](section/61.md)
+    - [s. 62 Public inquiries.](section/62.md)
+    - [s. 63 Application to Crown land.](section/63.md)
+    - [s. 64 Interpretation etc. of Part I.](section/64.md)
+- PART II REORGANISATION OF THE INDUSTRY
+  - Transfers to successor companies
+    - [s. 65 Transfer of property etc. of Area Boards.](section/65.md)
+    - [s. 66 Transfer of property etc. of Generating Board and Electricity Council.](section/66.md)
+    - [s. 67 Transfer of property etc. of Scottish Boards.](section/67.md)
+    - [s. 68 Transfer schemes under sections 66 and 67.](section/68.md)
+    - [s. 69 Functions of Secretary of State in relation to transfer schemes.](section/69.md)
+    - [s. 70 Supplementary provisions as to transfers under sections 66 and 67.](section/70.md)
+  - Ownership of successor companies
+    - [s. 71 Initial Government holding in the companies.](section/71.md)
+    - [s. 72 Government investment in securities of the companies.](section/72.md)
+    - [s. 73 Exercise of functions through nominees.](section/73.md)
+    - [s. 74 Target investment limit for Government shareholding.](section/74.md)
+  - Finances of successor companies
+    - [s. 75 Statutory reserves.](section/75.md)
+    - [s. 76 Statutory accounts.](section/76.md)
+    - [s. 77 Temporary restrictions on borrowings etc.](section/77.md)
+    - [s. 78 Government lending to the companies.](section/78.md)
+    - [s. 79 Treasury guarentees for loans made to the companies.](section/79.md)
+    - [s. 80 Conversion of certain loans etc. to the Scottish companies.](section/80.md)
+    - [s. 81 Financial limits on borrowing etc.](section/81.md)
+  - Provisions with respect to floatation
+    - [s. 82 Responsibility for composite listing particulars.](section/82.md)
+    - [s. 83 Application of Trustee Investments Act 1961 in relation to investment in operating companies.](section/83.md)
+  - Provisions with respect to existing bodies
+    - [s. 84 Dissolution etc. of existing bodies.](section/84.md)
+    - [s. 85 Compensation to members and employees of existing bodies.](section/85.md)
+    - [s. 86 Discharge of certain advances and loans made to existing bodies.](section/86.md)
+    - [s. 87 Expenditure and receipts of Electricity Council.](section/87.md)
+    - [s. 88 Grants towards expenditure during transitional period.](section/88.md)
+  - Miscellaneous
+    - [s. 89 Payments for the use of tax losses.](section/89.md)
+    - [s. 90 Taxation provisions.](section/90.md)
+    - [s. 91 Electricity Stock.](section/91.md)
+    - [s. 92 Abolition of central guarantee fund.](section/92.md)
+  - Supplemental
+    - [s. 93 Parliamentary disqualification.](section/93.md)
+    - [s. 94 Construction of references to property, rights and liabilities.](section/94.md)
+    - [s. 95 Other interpretation of Part II.](section/95.md)
+- Part III MISCELLANEOUS AND SUPPLEMENTAL
+  - Miscellaneous
+    - [s. 96 Directions for preserving security of electricity supplies etc.](section/96.md)
+    - [s. 97 Financial assistance for discharge of nuclear liabilities.](section/97.md)
+    - [s. 98 Provision of statistical information.](section/98.md)
+    - [s. 99 Promotion of new techniques in national interest.](section/99.md)
+  - Amendment of enactments
+    - [s. 100 Competition and restrictive trade practices.](section/100.md)
+    - [s. 101 Rights of entry.](section/101.md)
+    - [s. 102 Production and supply of heat or electricity etc. by Scottish local authorities.](section/102.md)
+    - [s. 103 Stamp duty exemption for certain contracts.](section/103.md)
+  - Amendment etc. of pension schemes
+    - [s. 104 Amendment etc. of Electricity Supply Pension Scheme.](section/104.md)
+    - [s. 105 Amendment etc. of Scottish Pension Schemes.](section/105.md)
+  - Supplemental
+    - [s. 106 Regulations and orders.](section/106.md)
+    - [s. 107 Directions.](section/107.md)
+    - [s. 108 Offences by bodies corporate.](section/108.md)
+    - [s. 108A Extraterritorial operation of Act](section/108A.md)
+    - [s. 109 Service of documents.](section/109.md)
+    - [s. 110 Financial provisions.](section/110.md)
+    - [s. 111 General interpretation.](section/111.md)
+    - [s. 112 Amendments, transitional provisions, savings and repeals.](section/112.md)
+    - [s. 113 Short title, commencement and extent.](section/113.md)
+- SCHEDULE 1
+  - Remuneration, pensions etc.
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Staff
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Expenses of the Director and his staff
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Official seal
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Performance of functions
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Documentary evidence
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The Parliamentary Commissioner
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Parliamentary disqualification etc.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2
+  - Preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Remuneration, pensions etc. of chairman
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Allowances for other members
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Administration etc.
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Proceedings
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Sub-committees
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Financial provisions
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Amendment of other Acts
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 2ZA Duties of distribution exemption holders
+  - Third party access
+    - [Sch. 2ZA para. 1](schedule/2ZA/paragraph/1.md)
+    - [Sch. 2ZA para. 2](schedule/2ZA/paragraph/2.md)
+    - [Sch. 2ZA para. 3](schedule/2ZA/paragraph/3.md)
+    - [Sch. 2ZA para. 4](schedule/2ZA/paragraph/4.md)
+  - Charges for use of system
+    - [Sch. 2ZA para. 5](schedule/2ZA/paragraph/5.md)
+    - [Sch. 2ZA para. 6](schedule/2ZA/paragraph/6.md)
+  - Connection
+    - [Sch. 2ZA para. 7](schedule/2ZA/paragraph/7.md)
+    - [Sch. 2ZA para. 8](schedule/2ZA/paragraph/8.md)
+    - [Sch. 2ZA para. 9](schedule/2ZA/paragraph/9.md)
+    - [Sch. 2ZA para. 10](schedule/2ZA/paragraph/10.md)
+    - [Sch. 2ZA para. 11](schedule/2ZA/paragraph/11.md)
+  - Closed distribution systems
+    - [Sch. 2ZA para. 12](schedule/2ZA/paragraph/12.md)
+    - [Sch. 2ZA para. 13](schedule/2ZA/paragraph/13.md)
+    - [Sch. 2ZA para. 14](schedule/2ZA/paragraph/14.md)
+  - Change of circumstance in respect of a closed distribution system
+    - [Sch. 2ZA para. 15](schedule/2ZA/paragraph/15.md)
+  - Interpretation
+    - [Sch. 2ZA para. 16](schedule/2ZA/paragraph/16.md)
+- SCHEDULE 2ZB Duties of supply exemption holders
+  - Change of supplier
+    - [Sch. 2ZB para. 1](schedule/2ZB/paragraph/1.md)
+    - [Sch. 2ZB para. 2](schedule/2ZB/paragraph/2.md)
+    - [Sch. 2ZB para. 3](schedule/2ZB/paragraph/3.md)
+  - Customer contracts
+    - [Sch. 2ZB para. 4](schedule/2ZB/paragraph/4.md)
+  - Customer information
+    - [Sch. 2ZB para. 5](schedule/2ZB/paragraph/5.md)
+    - [Sch. 2ZB para. 6](schedule/2ZB/paragraph/6.md)
+    - [Sch. 2ZB para. 7](schedule/2ZB/paragraph/7.md)
+  - Determination of disputes
+    - [Sch. 2ZB para. 8](schedule/2ZB/paragraph/8.md)
+  - Interpretation
+    - [Sch. 2ZB para. 9](schedule/2ZB/paragraph/9.md)
+- SCHEDULE 2A Property Schemes
+  - Scheme-making power
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Further provision about the content of a scheme
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Applications for schemes
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Timing of applications
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Notifying the non-applicant party
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Notifying third parties
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Publishing the application
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Supplementing the application
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Restricting or withdrawing the application
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - The Authority’s functions in relation to applications
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+  - Terms of a property scheme
+    - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+    - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - Additional powers of the Authority
+    - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+    - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+  - Notification of property scheme
+    - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+  - Refusal of application or part of application
+    - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+  - Effect of property scheme
+    - [Sch. 2A para. 20](schedule/2A/paragraph/20.md)
+    - [Sch. 2A para. 21](schedule/2A/paragraph/21.md)
+    - [Sch. 2A para. 22](schedule/2A/paragraph/22.md)
+  - Review of determinations
+    - [Sch. 2A para. 23](schedule/2A/paragraph/23.md)
+    - [Sch. 2A para. 24](schedule/2A/paragraph/24.md)
+    - [Sch. 2A para. 25](schedule/2A/paragraph/25.md)
+    - [Sch. 2A para. 26](schedule/2A/paragraph/26.md)
+    - [Sch. 2A para. 27](schedule/2A/paragraph/27.md)
+  - Interim arrangements pending review of determination
+    - [Sch. 2A para. 28](schedule/2A/paragraph/28.md)
+    - [Sch. 2A para. 29](schedule/2A/paragraph/29.md)
+    - [Sch. 2A para. 30](schedule/2A/paragraph/30.md)
+    - [Sch. 2A para. 31](schedule/2A/paragraph/31.md)
+    - [Sch. 2A para. 32](schedule/2A/paragraph/32.md)
+  - Appeal on a point of law
+    - [Sch. 2A para. 33](schedule/2A/paragraph/33.md)
+  - Change of asset owner during application process
+    - [Sch. 2A para. 34](schedule/2A/paragraph/34.md)
+  - The preferred bidder
+    - [Sch. 2A para. 35](schedule/2A/paragraph/35.md)
+  - The successful bidder
+    - [Sch. 2A para. 36](schedule/2A/paragraph/36.md)
+  - Transmission owner and distribution network owner of last resort
+    - [Sch. 2A para. 36A](schedule/2A/paragraph/36A.md)
+    - [Sch. 2A para. 36B](schedule/2A/paragraph/36B.md)
+  - Associated bodies corporate
+    - [Sch. 2A para. 37](schedule/2A/paragraph/37.md)
+  - Interpretation
+    - [Sch. 2A para. 38](schedule/2A/paragraph/38.md)
+- SCHEDULE 3 Compulsory Acquisition of Land etc. by Licence Holders
+  - Part I Powers of Acquisition
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part II Procedure, Compensation etc. (England and Wales)
+    - Application of Acquisition of Land Act 1981 generally
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - New rights: general adaptation of Compulsory Purchase Act 1965
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - New rights: specific adaptations of Act of 1965
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - New rights: compensation
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part III Procedure, Compensation etc. (Scotland)
+    - Application of Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 generally
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - New rights: general application of Act of 1947 and incorporated enactments
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - New rights: specific adaptations of Act of 1947
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - New rights: specific adaptations of Lands Clauses Consolidation (Scotland) Act 1845
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - New rights: compensation
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Other Powers etc. of Licence Holders
+  - Street works etc. in England and Wales
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Road works etc. in Scotland
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Alteration of works
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Protection from interference
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Acquisition of wayleaves
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Fees for applications under paragraph 6(3) to the Scottish Ministers
+    - [Sch. 4 para. 6A](schedule/4/paragraph/6A.md)
+  - Provisions supplementary to paragraph 6
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Temporary continuation of wayleaves
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Felling and lopping of trees etc.
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Entry on land for purposes of exploration
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Provisions supplementary to paragraphs 9 and 10
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Interpretation
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Water Rights for Hydro-Electric Generating Stations in Scotland
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+  - [Sch. 5 para. 5B](schedule/5/paragraph/5B.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 5A Procedure for appeals under section 11C
+  - Application for permission to bring appeal
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - Suspension of decision
+    - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - Time limit for representations and observations by the Authority
+    - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - Consideration and determination of appeal by group
+    - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+  - Matters to be considered on appeal
+    - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+  - Production of documents etc.
+    - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+  - Oral hearings
+    - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+  - Written statements
+    - [Sch. 5A para. 8](schedule/5A/paragraph/8.md)
+  - Expert advice
+    - [Sch. 5A para. 9](schedule/5A/paragraph/9.md)
+  - Defaults in relation to evidence
+    - [Sch. 5A para. 10](schedule/5A/paragraph/10.md)
+  - Appeal rules
+    - [Sch. 5A para. 11](schedule/5A/paragraph/11.md)
+  - Costs
+    - [Sch. 5A para. 12](schedule/5A/paragraph/12.md)
+  - Interpretation of Schedule
+    - [Sch. 5A para. 13](schedule/5A/paragraph/13.md)
+- SCHEDULE 5B Reimbursement of persons who have met expenses
+  - Power to make regulations
+    - [Sch. 5b para. 1](schedule/5b/paragraph/1.md)
+  - The reimbursement powers
+    - [Sch. 5b para. 2](schedule/5b/paragraph/2.md)
+  - Other provision about regulations under this Schedule
+    - [Sch. 5b para. 3](schedule/5b/paragraph/3.md)
+  - Interpretation
+    - [Sch. 5b para. 4](schedule/5b/paragraph/4.md)
+- Schedule 6 The electricity code
+  - Suppliers’ charges relating to meters for disabled persons
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Non-payment of suppliers’ charges
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Deemed contracts in certain cases
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Supplies of electricity illegally taken
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Restoration of connection without consent
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Damage to electrical plant etc.
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Entry during continuance of connection or supply
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Entry on discontinuance of supply or connection
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Entry for replacing, repairing or altering lines or plant
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Provisions as to powers of entry
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Electrical plant etc. not to be subject to distress
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 6A Provisions imposing obligations enforceable as relevant requirements
+  - All licence holders
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Generation licence holders
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - Transmission licence holders
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+  - Persons required to be certified as to independence
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+  - Electricity System Operator
+    - [Sch. 6A para. 4A](schedule/6A/paragraph/4A.md)
+  - Distribution licence holders
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+  - Supply licence holders
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+  - Distribution exemption holders
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+  - Supply exemption holders
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+  - Electricity undertakings which are relevant producers or suppliers
+    - [Sch. 6A para. 9](schedule/6A/paragraph/9.md)
+  - Responsible bodies for central systems
+    - [Sch. 6A para. 9ZA](schedule/6A/paragraph/9ZA.md)
+  - Smart meter communication licence holders and code manager licence holders
+    - [Sch. 6A para. 9A](schedule/6A/paragraph/9A.md)
+  - Nominated electricity market operators
+    - [Sch. 6A para. 9B](schedule/6A/paragraph/9B.md)
+  - Interpretation
+    - [Sch. 6A para. 10](schedule/6A/paragraph/10.md)
+    - [Sch. 6A para. 11](schedule/6A/paragraph/11.md)
+- SCHEDULE 7 Use etc. of Electricity Meters
+  - Consumption to be ascertained by appropriate meter
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Restrictions on use of meters
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Meter examiners
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Certification of meters
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Apparatus for testing etc. of meters
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Testing etc. of meters
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Presumptions and evidence
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Meters to be kept in proper order
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Interference with meters
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Special provision for pre-payment meters
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Interpretation
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Consents of the Secretary of State and the Scottish Ministers under Sections 36 and 37
+  - Applications for consent
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Applications made to the Scottish Ministers for consent
+    - [Sch. 8 para. 1A](schedule/8/paragraph/1A.md)
+  - Objections by relevant planning authority
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Procedure following objection by relevant planning authority: Scotland
+    - [Sch. 8 para. 2A](schedule/8/paragraph/2A.md)
+  - Objections by other persons
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Public inquiries
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Provisions supplementary to paragraphs 2 to 4
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Additional inspectors
+    - [Sch. 8 para. 5A](schedule/8/paragraph/5A.md)
+    - [Sch. 8 para. 5B Proceedings for questioning certain decisions under paragraph 3(2)](schedule/8/paragraph/5B.md)
+    - [Sch. 8 para. 5C Applications under paragraph 5B: requirement for permission](schedule/8/paragraph/5C.md)
+  - Special provisions as to consents under section 37
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Deemed planning permission etc.
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Generating stations not within areas of relevant planning authorities
+    - [Sch. 8 para. 7A](schedule/8/paragraph/7A.md)
+  - Applications to the Scottish Ministers: time limits
+    - [Sch. 8 para. 7B](schedule/8/paragraph/7B.md)
+  - Supplemental
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 PRESERVATION OF AMENITY AND FISHERIES.
+  - Preservation of amenity: England and Wales
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Preservation of amenity and fisheries: Scotland
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Fisheries Committee: Scotland
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Transfers under Sections 66 and 67
+  - Allocation of property, rights and liabilities: general
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Allocation of rights and liabilities: contracts of employment
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Variation of transfers by agreement
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Right to production of documents of title
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Proof of title by certificate
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Restrictions on dealing with certain land
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Third parties affected by vesting provisions
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Interpretation
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 11 TAXATION PROVISIONS
+  - General
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Chargeable gains
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 2A](schedule/11/paragraph/2A.md)
+  - Roll-over relief
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Unallowed capital losses
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Transaction in pursuance of section 68(2)(c)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Transfers in pursuance of Schedule 10
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Apportionments etc.
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Securities of successor companies
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Extinguishment of liabilities: restriction of tax losses
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Income tax exemption for certain interests
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Stamp Duty
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Stamp duty reserve tax
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Interpretation etc.
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+- SCHEDULE 12 Nuclear Liabilities: Financial Assistance
+  - Grants by Secretary of State
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Loans by Secretary of State
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Guarantees by Secretary of State
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 3A](schedule/12/paragraph/3A.md)
+  - Financial limits
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Interpretation
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Production and Supply of Heat or Electricity etc. by Scottish Local Authorities
+- SCHEDULE 14 The Electricity Supply Pension Scheme
+  - Power to amend scheme
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Protection for certain persons
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Interpretation
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+- SCHEDULE 15 The Scottish Pension Schemes
+  - Power to amend schemes
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Protection for certain persons
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Interpretation
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+- SCHEDULE 16 Minor and Consequential Amendments
+  - Enactments relating to statutory undertakers etc.
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - The Civil Defence Act 1939 (c.31)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - The Water Act 1945 (c.42)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - The Wireless Telegraphy Act 1949 (c.54)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - The Public Utilities Street Works Act 1950 (c.39)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - The Rights of Entry (Gas and Electricity Boards) Act 1954 (c.21)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - The Land Powers (Defence) Act 1958 (c.30)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - The Water Resources Act 1963 (c.38)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - The Nuclear Installations Act 1965 (c.57)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - The Building Control Act 1966 (c.27)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - The Forestry Act 1967 (c.10)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - The Transport Act 1968 (c. 73)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - The Post Office Act 1969 (c.48)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+  - The Fair Trading Act 1973 (c.41)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+  - The Consumer Credit Act 1974 (c. 39)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+  - The Control of Pollution Act 1974 (c. 40)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+  - The Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+  - The Land Drainage Act 1976 (c. 70)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+  - The Energy Act 1976 (c. 76)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+  - The Land Registration (Scotland) Act 1979 (c. 33)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+  - The Estate Agents Act 1979 (c. 38)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+  - The Competition Act 1980 (c. 21)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+  - The Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+  - The Highways Act 1980 (c. 66)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+  - The Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+  - The Telecommunications Act 1984 (c. 12)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+  - The Roads (Scotland) Act 1984 (c. 54)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+  - The Building Act 1984 (c. 55)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+  - The Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+  - The Airports Act 1986 (c. 31)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+  - The Gas Act 1986 (c. 44)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+  - The Insolvency Act 1986 (c. 45)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+  - The Consumer Protection Act 1987 (c. 43)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+  - The Water Act 1989 (c. 15)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+  - Interpretation
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+- SCHEDULE 17 Transitional Provisions and Savings
+  - Part I Provisions and Savings for Part I of Act
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+  - Part II Provisions and Savings for Part II of Act
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+    - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+    - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+    - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+    - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+    - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+    - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+    - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+    - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+    - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+    - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+    - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+    - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+    - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+    - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
+- SCHEDULE 18 Repeals
