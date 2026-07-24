@@ -1,0 +1,314 @@
+# Animal Health Act 1981
+
+1981 c. 22. Enacted 1981-06-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
+
+Source: https://www.legislation.gov.uk/ukpga/1981/22/2026-07-24
+
+## Contents
+
+- Part I General
+  - General powers of Ministers to make orders and to authorise regulations
+    - [s. 1 General powers of Ministers to make orders.](section/1.md)
+    - [s. 2 Local authority regulations.](section/2.md)
+  - Eradication and prevention of disease
+    - [s. 3 Expenditure for eradication.](section/3.md)
+    - [s. 4 Offences as to s. 3.](section/4.md)
+    - [s. 5 Veterinary services and therapeutic substances.](section/5.md)
+    - [s. 6 Eradication areas and attested areas.](section/6.md)
+    - [s. 6A Biosecurity guidance](section/6A.md)
+    - [s. 6B Biosecurity compliance](section/6B.md)
+    - [s. 6C Biosecurity codes: Scotland](section/6C.md)
+    - [s. 6D Emergency biosecurity orders: Scotland](section/6D.md)
+    - [s. 6E Tests and samples: Scotland](section/6E.md)
+    - [s. 6F Samples: further testing](section/6F.md)
+  - Cleansing and movement
+    - [s. 7 Cleansing and disinfection.](section/7.md)
+    - [s. 8 Movement generally.](section/8.md)
+    - [s. 8A Animal gatherings: Scotland](section/8A.md)
+  - Transport by sea and air
+    - [s. 9 Prohibition in specific cases.](section/9.md)
+    - [s. 10 Importation.](section/10.md)
+    - [s. 10A Annual review of import controls](section/10A.md)
+    - [s. 11 Export to member States.](section/11.md)
+    - [s. 12 Export quarantine stations.](section/12.md)
+  - Control of dogs, and preventive treatment of sheep
+    - [s. 13 Orders as to dogs.](section/13.md)
+    - [s. 14 Prevention of sheep scab.](section/14.md)
+- Part II Disease
+  - Outbreak
+    - [s. 14A National contingency plan](section/14A.md)
+    - [s. 14B Duty to consider vaccination](section/14B.md)
+    - [s. 15 Separation and notice.](section/15.md)
+    - [s. 16 Treatment after exposure to infection.](section/16.md)
+    - [s. 16A Slaughter of vaccinated animals](section/16A.md)
+    - [s. 16B Slaughter of treated animals: Scotland](section/16B.md)
+  - Infection
+    - [s. 17 Powers as to infected places and areas.](section/17.md)
+    - [s. 18 Other provisions as to infected places and areas.](section/18.md)
+    - [s. 19 Destruction of foxes etc. on rabies infection.](section/19.md)
+    - [s. 20 Additional provisions under s. 17 on rabies infection.](section/20.md)
+    - [s. 21 Destruction of wild life on infection other than rabies.](section/21.md)
+    - [s. 22 Powers of entry etc. for s. 21.](section/22.md)
+    - [s. 23 Orders as to infected places and areas.](section/23.md)
+    - [s. 24 Rabies: quarantine and virus control.](section/24.md)
+    - [s. 25 Movement of diseased or suspected animals.](section/25.md)
+    - [s. 26 Pleuro-pneumonia or foot-and-mouth disease found in transit.](section/26.md)
+    - [s. 27 Exclusion of strangers.](section/27.md)
+    - [s. 28 Seizure of diseased or suspected animals.](section/28.md)
+    - [s. 28A Deliberate infection](section/28A.md)
+    - [s. 28B Deliberate infection: disqualification](section/28B.md)
+    - [s. 28C Deliberate infection: Scotland](section/28C.md)
+    - [s. 28D Deliberate infection: deprivation of entitlement to compensation](section/28D.md)
+    - [s. 28E Deliberate infection: deprivation orders](section/28E.md)
+    - [s. 28F Deliberate infection: disqualification orders](section/28F.md)
+    - [s. 28G Seizure orders where disqualification breached](section/28G.md)
+    - [s. 28H Suspension of orders pending appeal](section/28H.md)
+    - [s. 28I Specified diseases: Scotland](section/28I.md)
+  - Risk to human health
+    - [s. 29 Control of zoonoses.](section/29.md)
+    - [s. 30 Provisions supplemental to s. 29.](section/30.md)
+  - Slaughter
+    - [s. 31 Slaughter in certain diseases.](section/31.md)
+    - [s. 32 Slaughter in other diseases.](section/32.md)
+    - [s. 32A Slaughter to prevent spread of disease](section/32A.md)
+    - [s. 32B Disease control (slaughter) protocol](section/32B.md)
+    - [s. 32C Protocol: exercise of powers](section/32C.md)
+    - [s. 32D Explanation of preventive slaughter](section/32D.md)
+    - [s. 32E Slaughter for preventing spread of disease: Scotland](section/32E.md)
+    - [s. 32F Disease control (slaughter) statement: Scotland](section/32F.md)
+    - [s. 33 Additional staff and expenses.](section/33.md)
+    - [s. 34 Slaughter and compensation generally.](section/34.md)
+  - Carcases etc. liable to spread disease
+    - [s. 35 Seizure and disposal of carcases etc.](section/35.md)
+    - [s. 36 Compensation for seizure.](section/36.md)
+    - [s. 36ZA Seizure of carcases etc.: further provision for Scotland](section/36ZA.md)
+    - [s. 36ZB Compensation for seizure](section/36ZB.md)
+- Part 2A Scrapie
+  - Sheep genotypes
+    - [s. 36A Power of Secretary of State to specify sheep genotypes](section/36A.md)
+  - Genetically susceptible sheep
+    - [s. 36B Identification of genetically susceptible sheep](section/36B.md)
+    - [s. 36C Restrictions on breeding from genetically susceptible sheep](section/36C.md)
+    - [s. 36D Appeals](section/36D.md)
+  - Enforcement
+    - [s. 36E Secretary of State’s powers of enforcement](section/36E.md)
+    - [s. 36F Offences](section/36F.md)
+  - Power of entry
+    - [s. 36G Power of entry](section/36G.md)
+    - [s. 36H Warrants](section/36H.md)
+    - [s. 36I Supplementary](section/36I.md)
+    - [s. 36J Offences](section/36J.md)
+  - General
+    - [s. 36K Compensation](section/36K.md)
+    - [s. 36L Orders and Regulations](section/36L.md)
+    - [s. 36M Interpretation](section/36M.md)
+- Part 2B TSE: Scotland
+  - Livestock genotypes
+    - [s. 36N Power to specify livestock genotypes and TSEs](section/36N.md)
+    - [s. 36O Ascertaining genotypes and identifying livestock](section/36O.md)
+    - [s. 36P Restrictions on breeding](section/36P.md)
+    - [s. 36Q Review](section/36Q.md)
+  - Enforcement
+    - [s. 36R Scottish Ministers’ powers of enforcement](section/36R.md)
+    - [s. 36S Offences](section/36S.md)
+  - Powers of slaughter
+    - [s. 36T Powers of slaughter: TSE](section/36T.md)
+  - Powers of entry
+    - [s. 36U Powers of entry](section/36U.md)
+  - Compensation
+    - [s. 36V Compensation](section/36V.md)
+  - General
+    - [s. 36W Orders and regulations](section/36W.md)
+    - [s. 36X Interpretation](section/36X.md)
+- Part III Welfare and Export
+  - Care
+    - [s. 37 Prevention of suffering.](section/37.md)
+    - [s. 38 Food and water.](section/38.md)
+  - Export
+    - [s. 39 Export of animals generally.](section/39.md)
+  - Export of horses other than those defined as ponies
+    - [s. 40 Restriction on export of horses.](section/40.md)
+  - Export of horses defined as ponies
+    - [s. 41 Restriction on export of ponies.](section/41.md)
+    - [s. 42 Restriction on export of registered ponies.](section/42.md)
+    - [s. 43 Regulation of export of ponies.](section/43.md)
+  - Other provisions as to export of horses
+    - [s. 44 Slaughter on examination of inspection.](section/44.md)
+    - [s. 45 Marking of horses certified for export.](section/45.md)
+    - [s. 46 Slaughter of injured horses.](section/46.md)
+    - [s. 47 Exemption of thoroughbreds in transit.](section/47.md)
+    - [s. 48 Certificates.](section/48.md)
+    - [s. 49 Enforcement and interpretation.](section/49.md)
+- Part IV Local Authorities
+  - [s. 50 Local authorities for purposes of this Act.](section/50.md)
+  - [s. 51 Local authorities and their districts.](section/51.md)
+  - [s. 52 Inspectors and other officers.](section/52.md)
+  - [s. 53 Borrowing powers.](section/53.md)
+  - [s. 54 Provision of wharves etc.](section/54.md)
+  - [s. 55 Power to acquire land.](section/55.md)
+  - [s. 56 Public facilities for sheep dipping.](section/56.md)
+  - [s. 57 Burial of carcases washed ashore.](section/57.md)
+  - [s. 58 Regulations.](section/58.md)
+  - [s. 59 Default.](section/59.md)
+- Part V Enforcement, Offences and Proceedings
+  - Enforcement
+    - [s. 60 Duties and authorities of constables.](section/60.md)
+    - [s. 61 Powers of entry and search in relation to rabies offences](section/61.md)
+    - [s. 62 Entry and search in exercise of powers to seize animals](section/62.md)
+    - [s. 62A Slaughter: power of entry](section/62A.md)
+    - [s. 62B Slaughter: warrants](section/62B.md)
+    - [s. 62C Slaughter: supplementary](section/62C.md)
+    - [s. 62D Tests and samples: power of entry](section/62D.md)
+    - [s. 62E Tests and samples: warrants](section/62E.md)
+    - [s. 62F Tests and samples: supplementary](section/62F.md)
+    - [s. 62G Powers of entry etc.: Scotland](section/62G.md)
+    - [s. 62H Warrants](section/62H.md)
+    - [s. 62I Entry and warrants: supplementary](section/62I.md)
+    - [s. 63 General powers of inspectors.](section/63.md)
+    - [s. 64 Powers of inspectors as to poultry.](section/64.md)
+    - [s. 64A Powers of inspectors relating to assimilated law](section/64A.md)
+    - [s. 65 Power to detain vessels and aircraft.](section/65.md)
+    - [s. 65A Inspection of vehicles](section/65A.md)
+    - [s. 65B Inspection of vehicles: Scotland](section/65B.md)
+    - [s. 66 Refusal and obstruction.](section/66.md)
+    - [s. 66A Refusal and obstruction of inspector](section/66A.md)
+  - Offences as to licences, declarations, certificates and instruments
+    - [s. 67 Issue of false licences etc.](section/67.md)
+    - [s. 68 Issue of licences etc. in blank.](section/68.md)
+    - [s. 69 Falsely obtaining licences etc.](section/69.md)
+    - [s. 70 Alteration of licences etc.](section/70.md)
+    - [s. 71 Other offences as to licences.](section/71.md)
+  - Offences generally
+    - [s. 71A Prosecutions: time limit](section/71A.md)
+    - [s. 72 Offences made and declared by and under this Act.](section/72.md)
+    - [s. 73 General offences.](section/73.md)
+  - Further provisions as to punishment of offences
+    - [s. 74 Liability under the customs and excise Acts.](section/74.md)
+    - [s. 75 Penalties for certain summary offences](section/75.md)
+    - [s. 76 Certain importation offences triable either summarily or on indictment.](section/76.md)
+    - [s. 76A Fixed penalty notices](section/76A.md)
+  - Proceedings
+    - [s. 77 Money recoverable summarily.](section/77.md)
+    - [s. 78 Appeal.](section/78.md)
+    - [s. 79 Evidence and procedure.](section/79.md)
+- Part VI Supplemental
+  - Reports and information
+    - [s. 80 Yearly return to Parliament.](section/80.md)
+    - [s. 81 Reports to Minister.](section/81.md)
+    - [s. 82 Information from Agricultural Marketing Boards.](section/82.md)
+  - Notices, fees, and exemption from stamp duty
+    - [s. 83 Form and service of instruments.](section/83.md)
+    - [s. 83A Electronic communication: Scotland](section/83A.md)
+    - [s. 84 Fees.](section/84.md)
+    - [s. 85 Exemption from stamp duty.](section/85.md)
+  - Interpretation, functions, and orders etc.
+    - [s. 86 Ministers and their functions.](section/86.md)
+    - [s. 87 Meaning of “animals” and “poultry”.](section/87.md)
+    - [s. 88 Meaning of “disease”.](section/88.md)
+    - [s. 89 Other interpretation provisions.](section/89.md)
+    - [s. 90 Application to hovercraft.](section/90.md)
+    - [s. 91 Orders etc.](section/91.md)
+  - Scotland and Northern Ireland
+    - [s. 92 General application to Scotland.](section/92.md)
+    - [s. 93 Communications to and from Northern Ireland.](section/93.md)
+  - Miscellaneous provisions as to operation
+    - [s. 94 Transitional.](section/94.md)
+    - [s. 95 Savings.](section/95.md)
+    - [s. 96 Consequential amendments and repeals.](section/96.md)
+    - [s. 97 Short title, extent, and commencement.](section/97.md)
+- SCHEDULE 1 Regulation of Manufacture of and Other Matters Connected with Veterinary Therapeutic Substances
+  - Substances to which this Schedule applies
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Power to make orders as to substances to which this Schedule applies
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Licences to manufacture
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Licences to import
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Therapeutic substances to which this Schedule applies
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Offences under this Schedule
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Specific Matters with Respect to Which Provision may be made in Orders Under Section 10
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 2A Specified diseases
+- SCHEDULE 2B Specified diseases: Scotland
+- SCHEDULE 3 Power to Slaughter in Relation to Certain Diseases
+  - Cattle plague
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Pleuro-pneumonia
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Foot-and-mouth disease
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Swine-fever
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Diseases of poultry
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 3A Power of slaughter for preventing spread of disease: Scotland
+  - Cattle plague
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Pleuro-pneumonia
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Foot-and-mouth disease
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Swine-fever
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Diseases of poultry
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Additional power of slaughter
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Exercise of powers of slaughter
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Compensation
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Orders
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+- SCHEDULE 4 Additional Provisions as to Food and Water at Railway Stations
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Consequential Amendments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Food and Drugs Act 1955
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Food and Drugs (Scotland) Act 1956
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Agriculture (Miscellaneous Provisions) Act 1963
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - London Government Act 1963
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Animal Boarding Establishments Act 1963
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Agriculture Act I967
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Agriculture (Miscellaneous Provisions) Act 1968
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Transport Act 1968
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Agriculture Act 1970
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Slaughterhouses Act 1974
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Slaughter of Animals (Scotland) Act 1980
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- Schedule 6 Repeals
