@@ -1,0 +1,224 @@
+# Land Drainage Act 1991
+
+1991 c. 59. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/59
+
+Source: https://www.legislation.gov.uk/ukpga/1991/59/2026-07-30
+
+## Contents
+
+- Part I INTERNAL DRAINAGE BOARDS
+  - Constitution etc. of boards
+    - [s. 1 Internal drainage districts and boards.](section/1.md)
+    - [s. 2 Review of boundaries of internal drainage districts.](section/2.md)
+    - [s. 3 Schemes for reorganisation of internal drainage districts etc.](section/3.md)
+    - [s. 4 Powers to make the appropriate supervisory body a drainage board.](section/4.md)
+    - [s. 5 Transfer of functions etc. back from the appropriate supervisory body.](section/5.md)
+    - [s. 6 Schemes and orders under sections 3 to 5: compensation for loss of office.](section/6.md)
+  - General provision with respect to functions of drainage boards
+    - [s. 7 Supervision of drainage boards by the appropriate supervisory body.](section/7.md)
+    - [s. 8 Concurrent powers of Agency.](section/8.md)
+    - [s. 9 Default powers of the appropriate supervisory body.](section/9.md)
+    - [s. 10 Exercise of default powers by local authorities.](section/10.md)
+    - [s. 11 Arrangements between drainage authorities.](section/11.md)
+  - Duties with respect to the environment and recreation
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+- Part II PROVISIONS FOR FACILITATING OR SECURING THE DRAINAGE OF LAND
+  - General powers
+    - [s. 14 General drainage powers of boards and local authorities.](section/14.md)
+    - [s. 14A General powers: flood risk management works](section/14A.md)
+    - [s. 15 Disposal of spoil by boards and local authorities.](section/15.md)
+    - [s. 16 Exercise of local authority powers under sections 14 and 15.](section/16.md)
+    - [s. 17 Supervision of local authority powers under sections 14 to 16.](section/17.md)
+    - [s. 18 Drainage of small areas.](section/18.md)
+    - [s. 19 Arrangements as to works etc. with navigation and conservancy authorities.](section/19.md)
+    - [s. 20 Arrangements with other persons for carrying out drainage works.](section/20.md)
+    - [s. 21 Enforcement of obligations to repair watercourses, bridges, etc.](section/21.md)
+    - [s. 22 Powers of Ministers to authorise landowners to carry out drainage works.](section/22.md)
+  - Control of flow of watercourses etc.
+    - [s. 23 Prohibition on obstructions etc. in watercourses](section/23.md)
+    - [s. 24 Contraventions of prohibition on obstructions etc.](section/24.md)
+    - [s. 25 Powers to require works for maintaining flow of watercourse.](section/25.md)
+    - [s. 26 Competing jurisdictions under section 25.](section/26.md)
+    - [s. 27 Appeals against notices under section 25.](section/27.md)
+  - Restoration and improvement of ditches
+    - [s. 28 Orders requiring the cleansing of ditches etc.](section/28.md)
+    - [s. 29 Effect of order under section 28.](section/29.md)
+    - [s. 30 Authorisation of drainage works in connection with a ditch.](section/30.md)
+    - [s. 31 Composition and incidental powers ....](section/31.md)
+- Part III POWERS TO MODIFY EXISTING OBLIGATIONS
+  - [s. 32 Variation of awards.](section/32.md)
+  - [s. 33 Commutation of obligations.](section/33.md)
+  - [s. 34 Financial consequences of commutation.](section/34.md)
+  - [s. 35 Powers to vary navigation rights.](section/35.md)
+- Part IV FINANCIAL PROVISIONS
+  - CHAPTER I PROVISION FOR THE EXPENSES OF INTERNAL DRAINAGE BOARDS
+    - Raising and apportionment of expenses
+      - [s. 36 Raising of the expenses of internal drainage boards.](section/36.md)
+      - [s. 37 Apportionment of drainage expenses.](section/37.md)
+    - Disclosure of Revenue and Customs information
+      - [s. 37A Disclosure of Revenue and Customs information](section/37A.md)
+      - [s. 37B Restrictions on onward disclosure of Revenue and Customs information](section/37B.md)
+      - [s. 37C Further provisions about disclosure under section 37A or 37B](section/37C.md)
+    - Division of district for purposes of drainage rates and special levies
+      - [s. 38 Orders sub-dividing a district for the purposes of raising expenses.](section/38.md)
+      - [s. 39 Petition for sub-division of internal drainage district.](section/39.md)
+  - CHAPTER II DRAINAGE RATES
+    - Levying of drainage rates
+      - [s. 40 Levying of drainage rates.](section/40.md)
+      - [s. 41 Rates charged by reference to annual value of agricultural land and buildings.](section/41.md)
+      - [s. 41A Alternative method of calculating annual value of agricultural land and buildings](section/41A.md)
+    - Determination and modification of annual value
+      - [s. 42 Determination of annual value.](section/42.md)
+      - [s. 43 Adjustment of annual values to secure fair distribution of rating burden.](section/43.md)
+      - [s. 44 Effect of determinations under section 43.](section/44.md)
+      - [s. 45 Appeals against determinations of annual value.](section/45.md)
+      - [s. 46 Hearing and determination of appeals under section 45.](section/46.md)
+    - Power to grant exemptions from rating
+      - [s. 47 Power to grant exemptions from rating.](section/47.md)
+    - Making and assessment of rates
+      - [s. 48 Procedure for making of rate.](section/48.md)
+      - [s. 49 Assessment for rating.](section/49.md)
+      - [s. 50 Amendments as respects drainage rates.](section/50.md)
+      - [s. 51 Other appeals against drainage rates.](section/51.md)
+    - Supplemental and enforcement provisions
+      - [s. 52 Registers of drainage hereditaments.](section/52.md)
+      - [s. 53 Power to require information.](section/53.md)
+      - [s. 54 Powers for enforcing payment.](section/54.md)
+  - CHAPTER III FURTHER FINANCIAL PROVISIONS
+    - [s. 55 Powers of internal drainage boards and local authorities to borrow etc.](section/55.md)
+    - [s. 56 Concurrent power of boards to impose navigation tolls.](section/56.md)
+    - [s. 57 Contributions by the appropriate agency to expenses of internal drainage boards.](section/57.md)
+    - [s. 58 Allocation of appropriate agency revenue for its functions as an internal drainage board](section/58.md)
+    - [s. 59 Grants to drainage bodies.](section/59.md)
+    - [s. 60 Power of local authority to contribute to expenses of drainage works.](section/60.md)
+    - [s. 61 Land drainage expenses of local authorities.](section/61.md)
+- Part IVA Duties with respect to the environment and recreation
+  - [s. 61A Duties in relation to drainage boards.](section/61A.md)
+  - [s. 61B Duties in relation to local authorities.](section/61B.md)
+  - [s. 61C Duties with respect to sites of special scientific interest.](section/61C.md)
+  - [s. 61D Ministerial directions to drainage boards.](section/61D.md)
+  - [s. 61E Codes of practice.](section/61E.md)
+- Part V MISCELLANEOUS AND SUPPLEMENTAL
+  - Powers to acquire and dispose of land
+    - [s. 61F Powers of internal drainage boards and local authorities to facilitate spray irrigation.](section/61F.md)
+    - [s. 62 Powers of internal drainage boards and local authorities to acquire land.](section/62.md)
+    - [s. 63 Power of internal drainage boards to dispose of land.](section/63.md)
+    - [s. 64 Powers of entry for internal drainage boards and local authorities.](section/64.md)
+  - Subordinate legislation
+    - [s. 65 Land drainage regulations.](section/65.md)
+    - [s. 66 Powers to make byelaws.](section/66.md)
+    - [s. 66A Alternative procedure for byelaws made by internal drainage boards](section/66A.md)
+  - Protective provisions
+    - [s. 67 Protection for particular undertakings and savings in respect of works.](section/67.md)
+    - [s. 68 Power of navigation authorities etc to divert sewers.](section/68.md)
+  - Information provisions
+    - [s. 69 Power to hold inquiries for land drainage purposes etc.](section/69.md)
+    - [s. 70 Confidentiality of information obtained by Agency and Natural Resources Body for Wales etc.](section/70.md)
+  - Construction of Act
+    - [s. 71 Service of documents.](section/71.md)
+    - [s. 72 Interpretation.](section/72.md)
+    - [s. 73 Disputes as to whether works connected with main river.](section/73.md)
+  - Other supplemental provisions
+    - [s. 74 Application to Crown.](section/74.md)
+    - [s. 75 Application to the Isles of Scilly.](section/75.md)
+    - [s. 76 Short title, commencement and extent.](section/76.md)
+- SCHEDULE 1 MEMBERS OF INTERNAL DRAINAGE BOARDS
+  - Part I ELECTION OF MEMBERS
+    - Election rules
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Eligiblity of electors
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Number of votes for each elector
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Qualification for election
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part II MEMBERS APPOINTED BY CHARGING AUTHORITIES
+    - Appointment of members by charging authorities
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Numbers of members appointed by charging authorities
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part III SUPPLEMENTAL PROVISIONS WITH RESPECT TO MEMBERS
+    - Terms of office etc. of members
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Resignation etc. of elected members
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Insolvency of members or candidates
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Filling casual vacancies
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Eligibility of vacating member of board
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Meaning of “elected member”
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 EXPENSES AND PROCEEDINGS ETC. OF INTERNAL DRAINAGE BOARDS
+  - Payment of expenses etc. of members and officers
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Payments etc. to staff
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Proceedings of internal drainage board
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Annual report
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Accounts
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 PROCEDURE WITH RESPECT TO CERTAIN ORDERS
+  - Application and interpretation of Schedule
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Notice of proposed order
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Determination of whether to make order
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Procedure and other matters after the making of an order.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Orders subject to special parliamentary procedure
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Notice of unconfirmed orders
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Challenge to unconfirmed orders
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Power to make regulations for purposes of Schedule etc.
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 SCHEMES FOR SMALL DRAINAGE WORKS
+  - Consultation and notice with respect to proposed scheme
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Objections to scheme
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Notice of scheme after it is made
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 BYELAWS
+  - Publicity for application for confirmation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Confirmation
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Commencement of byelaw
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Publicity for confirmed byelaw
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Revocation of byelaw
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Proof of byelaws
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Interpretation
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 PROTECTION FOR PARTICULAR UNDERTAKINGS
+  - Undertakings protected by Schedule
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Protection for statutory powers and jurisdiction
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - General provisions protecting undertakings
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Special protection for railways etc.
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Conditions of consent and grounds for refusal
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Determination of disputes
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- Table of Derivations
+  - [Sch. n7 para. 1](schedule/n7/paragraph/1.md)
+  - [Sch. n7 para. 2](schedule/n7/paragraph/2.md)
+  - [Sch. n7 para. 3](schedule/n7/paragraph/3.md)
