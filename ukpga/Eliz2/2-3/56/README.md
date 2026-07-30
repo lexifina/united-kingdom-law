@@ -1,0 +1,249 @@
+# Landlord and Tenant Act 1954
+
+1954 c. 56. Enacted 1954-07-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/2-3/56
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/2026-07-30
+
+## Contents
+
+- Part I Security of Tenure for Residential Tenants
+  - Security of tenure for tenants under ground leases, etc.
+    - [s. 1 Protection of residential tenants on termination of long tenancies at low rents.](section/1.md)
+    - [s. 2 Tenancies to which s. 1 applies.](section/2.md)
+  - Continuation and termination of tenancies to which s. 1 applies
+    - [s. 3 Continuation of tenancies to which s. 1 applies.](section/3.md)
+    - [s. 4 Termination of tenancy by the landlord.](section/4.md)
+    - [s. 5 Termination of tenancy by the tenant.](section/5.md)
+  - Statutory tenancies arising under Part I
+    - [s. 6 Application of Rent Acts where tenant retains possession.](section/6.md)
+    - [s. 7 Settlement of terms of statutory tenancy.](section/7.md)
+    - [s. 8 Provisions as to repairs during period of statutory tenancy.](section/8.md)
+    - [s. 9 Principles to be observed in determining terms of statutory tenancy as to repairs and rent.](section/9.md)
+    - [s. 10 Provisions as to liabilities under tenant’s covenants in former lease.](section/10.md)
+    - [s. 11 ................................](section/11.md)
+  - Provisions as to possession on termination of long tenancy
+    - [s. 12 Grounds for resumption of possession by landlord.](section/12.md)
+    - [s. 13 Landlord’s application for possession.](section/13.md)
+    - [s. 14 Provisions where tenant not ordered to give up possession.](section/14.md)
+    - [s. 14A Compensation for possession obtained by misrepresentation](section/14A.md)
+    - [s. 15 ................................](section/15.md)
+  - General and supplementary provisions
+    - [s. 16 Relief for tenant where landlord proceeding to enforce covenants.](section/16.md)
+    - [s. 17 Prohibition of agreements excluding Part I.](section/17.md)
+    - [s. 18 Duty of tenants of residential property to give information to landlords or superior landlords.](section/18.md)
+    - [s. 19 Application of Part I to tenancies granted in continuation of long tenancies.](section/19.md)
+    - [s. 20 Assumptions on which court to determine future questions.](section/20.md)
+    - [s. 21 Meaning of “the landlord” in Part I and provisions as to mesne landlords, etc.](section/21.md)
+    - [s. 22 Interpretation of Part I.](section/22.md)
+- Part II Security of Tenure for Business, Professional and other Tenants
+  - Tenancies to which Part II applies
+    - [s. 23 Tenancies to which Part II applies.](section/23.md)
+  - Continuation and renewal of tenancies
+    - [s. 24 Continuation of tenancies to which Part II applies and grant of new tenancies.](section/24.md)
+    - [s. 24A Applications for determination of interim rent while tenancy continues](section/24A.md)
+    - [s. 24B Date from which interim rent is payable](section/24B.md)
+    - [s. 24C Amount of interim rent where new tenancy of whole premises granted and landlord not opposed](section/24C.md)
+    - [s. 24D Amount of interim rent in any other case](section/24D.md)
+    - [s. 25 Termination of tenancy by the landlord.](section/25.md)
+    - [s. 26 Tenant’s request for a new tenancy.](section/26.md)
+    - [s. 27 Termination by tenant of tenancy for fixed term.](section/27.md)
+    - [s. 28 Renewal of tenancies by agreement.](section/28.md)
+  - Application to court for new tenancies
+    - [s. 29 Order by court for grant of new tenancy or termination of current tenancy](section/29.md)
+    - [s. 29A Time limits for applications to court](section/29A.md)
+    - [s. 29B Agreements extending time limits](section/29B.md)
+    - [s. 30 Opposition by landlord to application for new tenancy.](section/30.md)
+    - [s. 31 Dismissal of application for new tenancy where landlord successfully opposes.](section/31.md)
+    - [s. 31A Grant of new tenancy in some cases where s. 30(1)(f) applies.](section/31A.md)
+    - [s. 32 Property to be comprised in new tenancy.](section/32.md)
+    - [s. 33 Duration of new tenancy.](section/33.md)
+    - [s. 34 Rent under new tenancy.](section/34.md)
+    - [s. 34A Rent under new tenancy conferring code rights](section/34A.md)
+    - [s. 34B Compensation for exercise of code rights](section/34B.md)
+    - [s. 34C Further provision about compensation under section 34B](section/34C.md)
+    - [s. 35 Other terms of new tenancy.](section/35.md)
+    - [s. 36 Carrying out of order for new tenancy.](section/36.md)
+    - [s. 37 Compensation where order for new tenancy precluded on certain grounds.](section/37.md)
+    - [s. 37A Compensation for possession obtained by misrepresentation](section/37A.md)
+    - [s. 38 Restriction on agreements excluding provisions of Part II.](section/38.md)
+    - [s. 38A Agreements to exclude provisions of Part 2](section/38A.md)
+  - General and supplementary provisions
+    - [s. 39 Saving for compulsory acquisitions.](section/39.md)
+    - [s. 40 Duty of tenants and landlords of business premises to give information to each other.](section/40.md)
+    - [s. 40A Duties in transfer cases](section/40A.md)
+    - [s. 40B Proceedings for breach of duties to give information](section/40B.md)
+    - [s. 41 Trusts.](section/41.md)
+    - [s. 41A Partnerships.](section/41A.md)
+    - [s. 42 Groups of companies.](section/42.md)
+    - [s. 43 Tenancies excluded from Part II.](section/43.md)
+    - [s. 43ZA Further exclusion of home business tenancies from Part 2](section/43ZA.md)
+    - [s. 43A Jurisdiction of county court to make declaration.](section/43A.md)
+    - [s. 44 Meaning of the landlord in Part II, and provisions as to mesne landlords, etc.](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 Interpretation of Part II.](section/46.md)
+- Part III Compensation for Improvements
+  - [s. 47 Time for making claims for compensation for improvements.](section/47.md)
+  - [s. 48 Amendments as to limitations on tenant’s right to compensation.](section/48.md)
+  - [s. 49 Restrictions on contracting out.](section/49.md)
+  - [s. 50 Interpretation of Part III.](section/50.md)
+- Part IV Miscellaneous and Supplementary
+  - [s. 51 Extension of Leasehold Property (Repairs) Act 1938.](section/51.md)
+  - [s. 52 Amendment of Law of Property Act 1925, s. 84.](section/52.md)
+  - [s. 53 Jurisdiction of county court where lessor refuses licence or consent.](section/53.md)
+  - [s. 54 Determination of tenancies of derelict land.](section/54.md)
+  - [s. 54A Rent reviews and arrangements for new tenancies](section/54A.md)
+  - [s. 55 Compensation for possession obtained by misrepresentation.](section/55.md)
+  - [s. 56 Application to Crown.](section/56.md)
+  - [s. 57 Modification on grounds of public interest of rights under Part II.](section/57.md)
+  - [s. 58 Termination on special grounds of tenancies to which Part II applies.](section/58.md)
+  - [s. 59 Compensation for exercise of powers under ss. 57 and 58.](section/59.md)
+  - [s. 60 †Special provisions as to premises provided under Distribution of Industry Acts 1945 and 1950, etc.](section/60.md)
+  - [s. 60A Welsh Development Agency premises.](section/60A.md)
+  - [s. 60B ................................](section/60B.md)
+  - [s. 61 ................................](section/61.md)
+  - [s. 62](section/62.md)
+  - [s. 63 Jurisdiction of court for purposes of Parts I and II and of Part I of Landlord and Tenant Act 1927.](section/63.md)
+  - [s. 64 Interim continuation of tenancies pending determination by court.](section/64.md)
+  - [s. 65 Provisions as to reversions.](section/65.md)
+  - [s. 66 Provisions as to notices.](section/66.md)
+  - [s. 67 Provisions as to mortgagees in possession.](section/67.md)
+  - [s. 68 †Repeal of enactments and transitional provisions.](section/68.md)
+  - [s. 69 Interpretation.](section/69.md)
+  - [s. 70 Short title and citation, commencement and extent.](section/70.md)
+- FIRST SCHEDULE Supplementary Provisions as to Payments for Accrued Tenant’s Repairs
+  - Part I Provisions as to making of payment in lump sum
+    - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+    - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+    - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+    - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+    - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+  - Part II Provisions as to making of payment by instalments
+    - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+    - [Sch. FIRST para. 7](schedule/FIRST/paragraph/7.md)
+    - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+    - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+    - [Sch. FIRST para. 10](schedule/FIRST/paragraph/10.md)
+    - [Sch. FIRST para. 11](schedule/FIRST/paragraph/11.md)
+    - [Sch. FIRST para. 12](schedule/FIRST/paragraph/12.md)
+  - Part III Variation of agreement or determination as to time for making payment
+    - [Sch. FIRST para. 13](schedule/FIRST/paragraph/13.md)
+    - [Sch. FIRST para. 14](schedule/FIRST/paragraph/14.md)
+    - [Sch. FIRST para. 15](schedule/FIRST/paragraph/15.md)
+    - [Sch. FIRST para. 16](schedule/FIRST/paragraph/16.md)
+  - Part IV Supplementary
+    - [Sch. FIRST para. 17](schedule/FIRST/paragraph/17.md)
+    - [Sch. FIRST para. 18](schedule/FIRST/paragraph/18.md)
+    - [Sch. FIRST para. 19](schedule/FIRST/paragraph/19.md)
+- SECOND SCHEDULE Further Provisions as to Repair where Tenant retains Possession
+  - Failure of landlord to carry out initial repairs
+    - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+    - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+    - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+  - Failure of tenant to carry out initial repairs
+    - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+  - Expenses and receipts: mortgages, settlements, etc.
+    - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+    - [Sch. SECOND para. 6](schedule/SECOND/paragraph/6.md)
+  - Record of state of repair of dwelling-house
+    - [Sch. SECOND para. 7](schedule/SECOND/paragraph/7.md)
+    - [Sch. SECOND para. 8](schedule/SECOND/paragraph/8.md)
+    - [Sch. SECOND para. 9](schedule/SECOND/paragraph/9.md)
+    - [Sch. SECOND para. 10](schedule/SECOND/paragraph/10.md)
+    - [Sch. SECOND para. 11](schedule/SECOND/paragraph/11.md)
+- THIRD SCHEDULE Grounds for Possession on Termination of Tenancy
+  - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+  - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+- FOURTH SCHEDULE Modifications of Part I in relation to Periodical Tenancies
+  - [Sch. FOURTH para. 1](schedule/FOURTH/paragraph/1.md)
+  - [Sch. FOURTH para. 2](schedule/FOURTH/paragraph/2.md)
+  - [Sch. FOURTH para. 3](schedule/FOURTH/paragraph/3.md)
+  - [Sch. FOURTH para. 4](schedule/FOURTH/paragraph/4.md)
+  - [Sch. FOURTH para. 5](schedule/FOURTH/paragraph/5.md)
+- FIFTH SCHEDULE Provisions for purposes of Part I where Immediate Landlord is not the Freeholder
+  - Definitions
+    - [Sch. FIFTH para. 1](schedule/FIFTH/paragraph/1.md)
+  - Acts of competent landlord binding on other landlords
+    - [Sch. FIFTH para. 2](schedule/FIFTH/paragraph/2.md)
+  - Provisions as to consent of other landlords to acts of competent landlord
+    - [Sch. FIFTH para. 3](schedule/FIFTH/paragraph/3.md)
+    - [Sch. FIFTH para. 4](schedule/FIFTH/paragraph/4.md)
+    - [Sch. FIFTH para. 5](schedule/FIFTH/paragraph/5.md)
+    - [Sch. FIFTH para. 6](schedule/FIFTH/paragraph/6.md)
+    - [Sch. FIFTH para. 7](schedule/FIFTH/paragraph/7.md)
+  - Failure of competent landlord to carry out initial repairs
+    - [Sch. FIFTH para. 8](schedule/FIFTH/paragraph/8.md)
+  - Relief in proceedings by superior landlord
+    - [Sch. FIFTH para. 9](schedule/FIFTH/paragraph/9.md)
+  - Relief for mesne landlord against damages for breach of covenant
+    - [Sch. FIFTH para. 10](schedule/FIFTH/paragraph/10.md)
+  - Provisions as to liabilities under tenants’ covenants in superior leases
+    - [Sch. FIFTH para. 11](schedule/FIFTH/paragraph/11.md)
+- SIXTH SCHEDULE Provisions for Purposes of Part II where Immediate Landlord is not the Freeholder
+  - Definitions
+    - [Sch. SIXTH para. 1](schedule/SIXTH/paragraph/1.md)
+  - Power of court to order reversionary tenancies
+    - [Sch. SIXTH para. 2](schedule/SIXTH/paragraph/2.md)
+  - Acts of competent landlord binding on other landlords
+    - [Sch. SIXTH para. 3](schedule/SIXTH/paragraph/3.md)
+  - Provisions as to consent of mesne landlord to acts of competent landlord
+    - [Sch. SIXTH para. 4](schedule/SIXTH/paragraph/4.md)
+  - Consent of superior landlord required for agreements affecting his interest
+    - [Sch. SIXTH para. 5](schedule/SIXTH/paragraph/5.md)
+  - Withdrawal by competent landlord of notice given by mesne landlord
+    - [Sch. SIXTH para. 6](schedule/SIXTH/paragraph/6.md)
+  - Duty to inform superior landlords
+    - [Sch. SIXTH para. 7](schedule/SIXTH/paragraph/7.md)
+- SEVENTH SCHEDULE ...
+- Schedule 7A Rent reviews
+  - Part 1 Key terms
+    - [Sch. 7A para. 1 “Business tenancy”](schedule/7A/paragraph/1.md)
+    - [Sch. 7A para. 2 “Business tenancy with a rent review”](schedule/7A/paragraph/2.md)
+  - Part 2 Triggering and operation of rent reviews
+    - [Sch. 7A para. 3 Application of this Part](schedule/7A/paragraph/3.md)
+    - [Sch. 7A para. 4 Tenant to have power to trigger a rent review](schedule/7A/paragraph/4.md)
+    - [Sch. 7A para. 5 Tenant to have power to take action to enable rent review to operate effectively](schedule/7A/paragraph/5.md)
+  - Part 3 Rent review terms that are of no effect
+    - [Sch. 7A para. 6 Application of this Part](schedule/7A/paragraph/6.md)
+    - [Sch. 7A para. 7 Rent review terms that “do not specify new passing rent”](schedule/7A/paragraph/7.md)
+    - [Sch. 7A para. 8 Elements 1 and 2](schedule/7A/paragraph/8.md)
+    - [Sch. 7A para. 9 Amount of new passing rent to be larger than reference amount](schedule/7A/paragraph/9.md)
+    - [Sch. 7A para. 10 Exceptions](schedule/7A/paragraph/10.md)
+  - Part 4 Sub-tenancy required to include rent review terms that would be of no effect
+    - [Sch. 7A para. 11 Application of this Part](schedule/7A/paragraph/11.md)
+    - [Sch. 7A para. 12 Modification of terms of superior tenancy](schedule/7A/paragraph/12.md)
+    - [Sch. 7A para. 13 Interpretation](schedule/7A/paragraph/13.md)
+  - Part 5 General provision
+    - [Sch. 7A para. 14 Anti-avoidance](schedule/7A/paragraph/14.md)
+    - [Sch. 7A para. 15 Interpretation](schedule/7A/paragraph/15.md)
+- Schedule 7B Arrangements for renewal of tenancies: prohibited terms
+  - [Sch. 7B para. 1 Application of this Schedule](schedule/7B/paragraph/1.md)
+  - [Sch. 7B para. 2 Condition A: a business tenancy](schedule/7B/paragraph/2.md)
+  - [Sch. 7B para. 3 Condition B: a tenancy renewal arrangement](schedule/7B/paragraph/3.md)
+  - [Sch. 7B para. 4 Condition C: tenancy renewal arrangement on or after 17 March 2026](schedule/7B/paragraph/4.md)
+  - [Sch. 7B para. 5 Condition D: initial rent not known](schedule/7B/paragraph/5.md)
+  - [Sch. 7B para. 6 Condition E: terms for determining the initial rent](schedule/7B/paragraph/6.md)
+  - [Sch. 7B para. 7 Condition F: method for determining the initial rent](schedule/7B/paragraph/7.md)
+  - [Sch. 7B para. 8 Amount of initial rent to be larger than reference amount](schedule/7B/paragraph/8.md)
+  - [Sch. 7B para. 9 Exceptions](schedule/7B/paragraph/9.md)
+  - [Sch. 7B para. 10 Anti-avoidance](schedule/7B/paragraph/10.md)
+  - [Sch. 7B para. 11 Interpretation](schedule/7B/paragraph/11.md)
+- EIGHTH SCHEDULE Application of Part II to land belonging to Crown and Duchies of Lancaster and Cornwall
+  - [Sch. EIGHTH para. 1](schedule/EIGHTH/paragraph/1.md)
+  - [Sch. EIGHTH para. 2](schedule/EIGHTH/paragraph/2.md)
+  - [Sch. EIGHTH para. 3](schedule/EIGHTH/paragraph/3.md)
+  - [Sch. EIGHTH para. 4](schedule/EIGHTH/paragraph/4.md)
+  - [Sch. EIGHTH para. 5](schedule/EIGHTH/paragraph/5.md)
+- NINTH SCHEDULE Transitional Provisions
+  - [Sch. NINTH para. 12.](schedule/NINTH/paragraph/12.md)
+  - [Sch. NINTH para. 3](schedule/NINTH/paragraph/3.md)
+  - [Sch. NINTH para. 4](schedule/NINTH/paragraph/4.md)
+  - [Sch. NINTH para. 5](schedule/NINTH/paragraph/5.md)
+  - [Sch. NINTH para. 6](schedule/NINTH/paragraph/6.md)
+  - [Sch. NINTH para. 7](schedule/NINTH/paragraph/7.md)
+  - [Sch. NINTH para. 8](schedule/NINTH/paragraph/8.md)
+  - [Sch. NINTH para. 910.](schedule/NINTH/paragraph/910.md)
+  - [Sch. NINTH para. 11](schedule/NINTH/paragraph/11.md)
