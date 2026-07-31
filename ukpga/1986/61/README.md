@@ -1,0 +1,217 @@
+# Education (No. 2) Act 1986
+
+1986 c. 61. Enacted 1986-11-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1986/61/2026-07-31
+
+## Contents
+
+- Part I
+  - [s. 1 Instruments of government and articles of government.](section/1.md)
+  - [s. 2 Procedure in relation to making etc. of instruments and articles.](section/2.md)
+- Part II
+  - Governing bodies
+    - [s. 3 Governing bodies for county, controlled and maintained special schools.](section/3.md)
+    - [s. 4 Governing bodies for aided and special agreement schools.](section/4.md)
+    - [s. 4A Sponsor governors for aided secondary schools.](section/4A.md)
+  - Governors
+    - [s. 5 Appointment of parent governors by governing body.](section/5.md)
+    - [s. 6 Connection with local business community.](section/6.md)
+    - [s. 7 Appointment of representative governors in place of co-opted governors.](section/7.md)
+    - [s. 8 Governors’ proceedings and tenure of office.](section/8.md)
+  - Grouping of schools
+    - [s. 9 Grouping of schools under single governing body.](section/9.md)
+    - [s. 10 Requirements as to consent to grouping.](section/10.md)
+  - Reviews
+    - [s. 11 Review of constitution of governing bodies of county, controlled and maintained special schools.](section/11.md)
+  - Temporary governing bodies
+    - [s. 12 Temporary governing bodies for new schools.](section/12.md)
+  - Miscellaneous and supplemental
+    - [s. 13 Effect of change of circumstances on instrument of government.](section/13.md)
+    - [s. 14 Adjustment in number of governors.](section/14.md)
+    - [s. 15 Miscellaneous.](section/15.md)
+- Part III
+  - General
+    - [s. 16 General responsibility for conduct of certain schools.](section/16.md)
+    - [s. 16A Provision of further education.](section/16A.md)
+  - School curriculum
+    - [s. 17 Duty of local education authority to state policy.](section/17.md)
+    - [s. 18 County, controlled and maintained special schools.](section/18.md)
+    - [s. 19 Aided and special agreement schools.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+  - School terms etc.
+    - [s. 21 Terms, holidays and sessions.](section/21.md)
+  - Discipline
+    - [s. 22 Discipline: general duties.](section/22.md)
+    - [s. 23 Exclusion of pupils: duty to inform parents etc.](section/23.md)
+    - [s. 24 Reinstatement of excluded pupils: county, controlled and maintained special schools.](section/24.md)
+    - [s. 25 Reinstatement of excluded pupils: aided and special agreement schools.](section/25.md)
+    - [s. 26 Appeals.](section/26.md)
+    - [s. 27 Exclusion: additional provision for appeals.](section/27.md)
+    - [s. 28 Local education authority’s reserve power.](section/28.md)
+  - Finance
+    - [s. 29 ................................](section/29.md)
+  - Reports and meetings
+    - [s. 30 Governors’ annual report to parents.](section/30.md)
+    - [s. 31 Annual parents’ meetings.](section/31.md)
+    - [s. 32 Reports by governing body and head teacher.](section/32.md)
+  - Admissions
+    - [s. 33 Admissions.](section/33.md)
+  - Appointment and dismissal of staff
+    - [s. 34 Determination of staff complement for schools.](section/34.md)
+    - [s. 35 Appointment and dismissal of staff: introductory.](section/35.md)
+    - [s. 36 The selection panel.](section/36.md)
+    - [s. 37 Appointment of head teacher.](section/37.md)
+    - [s. 38 Appointment of certain other staff.](section/38.md)
+    - [s. 39 Appointment of deputy head teacher.](section/39.md)
+    - [s. 40 Appointment and dismissal of clerk to governing body.](section/40.md)
+    - [s. 41 Dismissal, etc. of staff.](section/41.md)
+  - School premises
+    - [s. 42 Control of use of premises outside school hours.](section/42.md)
+- Part IV Miscellaneous
+  - [s. 43 Freedom of speech in universities, polytechnics and colleges.](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 46A ................................](section/46A.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 Abolition of corporal punishment: Scotland.](section/48.md)
+  - [s. 49 Appraisal of performance of teachers.](section/49.md)
+  - [s. 50 Grants for teacher training, etc.](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 ................................](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 60 ................................](section/60.md)
+  - [s. 61 Minimum age for governors of establishments of further education.](section/61.md)
+  - [s. 62 Access to papers etc. of governing bodies.](section/62.md)
+- Part V Supplemental
+  - [s. 63 Orders and regulations.](section/63.md)
+  - [s. 64 Expenses.](section/64.md)
+  - [s. 65 Interpretation.](section/65.md)
+  - [s. 66 Commencement.](section/66.md)
+  - [s. 67 Short title etc.](section/67.md)
+- Schedule 1
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Procedure in relation to making etc. of instrument of government
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Election of parent and teacher governors
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Governors’ annual report to parents
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Annual parents’ meeting
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2
+  - Part I General
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Constitution of temporary governing body
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II School Government
+    - Transition from temporary governing body to governing body
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Duration of arrangement for temporary governing body
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Composition of temporary governing body
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Appointment of temporary parent and teacher governors
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Temporary teacher governors
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Duty to appoint suitably experienced members
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Proceedings etc.
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Miscellaneous
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part III Organisation and Functions
+    - General
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Reports and information to be provided by temporary governing body
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Head teacher’s reports
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Preparation of curriculum
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - School terms etc.
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Discipline
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Finance
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Admission of pupils
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Appointment of staff etc. at new aided schools
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Determination of staff complement
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - The selection panel
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Appointment of head teacher and acting head teacher
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Appointment of certain other staff
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Appointment of deputy head teacher
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Appointment of clerk to temporary governing body
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Part IV Miscellaneous
+    - Travelling and subsistence allowances etc.
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Expenses of temporary governing bodies, etc.
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Powers of Secretary of State
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Provision of information for temporary governing bodies
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+- SCHEDULE 3
+  - General
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Procedure
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 Consequential Amendments
+  - The Education Act 1944 (c.31)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Education Act 1962 (c.12)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Local Government Act 1974 (c.7)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5
+  - Instruments of government for certain existing schools
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Grouping
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Recommendations by outgoing governing bodies
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6
+  - Part I Enactments Repealed
+  - Part II Instruments Revoked
