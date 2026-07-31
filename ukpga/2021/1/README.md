@@ -1,0 +1,517 @@
+# Pension Schemes Act 2021
+
+2021 c. 1. Enacted 2021-02-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/1/2026-07-31
+
+## Contents
+
+- PART 1 Collective money purchase benefits
+  - Definitions
+    - [s. 1 Collective money purchase benefits and schemes](section/1.md)
+    - [s. 2 Qualifying benefits](section/2.md)
+    - [s. 3 Qualifying schemes](section/3.md)
+    - [s. 4 Qualifying schemes: supplementary](section/4.md)
+    - [s. 5 Schemes divided into sections](section/5.md)
+    - [s. 6 Amendment of definitions of “money purchase benefits” etc](section/6.md)
+  - Authorisation
+    - [s. 7 Authorisation of collective money purchase schemes](section/7.md)
+    - [s. 8 Application for authorisation](section/8.md)
+    - [s. 9 Decision on application](section/9.md)
+    - [s. 9A Commencement of operation of an unconnected multiple employer scheme](section/9A.md)
+    - [s. 10 Reference to Tribunal of refusal to grant authorisation](section/10.md)
+  - Authorisation criteria
+    - [s. 11 Fit and proper persons requirement](section/11.md)
+    - [s. 12 Scheme design requirement](section/12.md)
+    - [s. 13 Viability report](section/13.md)
+    - [s. 14 Financial sustainability requirement](section/14.md)
+    - [s. 14A Unconnected multiple employer schemes: financial sustainability requirement - business plan](section/14A.md)
+    - [s. 14B Unconnected multiple employer schemes: scheme proprietor](section/14B.md)
+    - [s. 14C Unconnected multiple employer schemes: scheme proprietor requirements](section/14C.md)
+    - [s. 14D Unconnected multiple employer schemes: promotion or marketing requirement](section/14D.md)
+    - [s. 15 Communication requirement](section/15.md)
+    - [s. 16 Systems and processes requirements](section/16.md)
+    - [s. 17 Continuity strategy requirement](section/17.md)
+    - [s. 17A Unconnected multiple employer schemes: ability to pursue continuity option 3](section/17A.md)
+  - Valuation and benefit adjustment
+    - [s. 18 Calculation of benefits](section/18.md)
+    - [s. 19 Advice of scheme actuary](section/19.md)
+    - [s. 20 Actuarial valuations](section/20.md)
+    - [s. 21 Certificate that actuarial valuation prepared in accordance with scheme rules](section/21.md)
+    - [s. 22 Benefits adjustments](section/22.md)
+    - [s. 23 Powers of the Pensions Regulator](section/23.md)
+  - Members’ rights
+    - [s. 24 Rules about modifying schemes](section/24.md)
+    - [s. 25 Transfer rights](section/25.md)
+  - Ongoing supervision
+    - [s. 26 List of authorised schemes](section/26.md)
+    - [s. 26A Unconnected multiple employer schemes: requirement to submit annual accounts](section/26A.md)
+    - [s. 27 Requirement to submit supervisory return](section/27.md)
+    - [s. 28 Duty to notify the Pensions Regulator of significant events](section/28.md)
+    - [s. 29 Risk notices](section/29.md)
+    - [s. 30 Withdrawal of authorisation](section/30.md)
+  - Triggering events and continuity options
+    - [s. 31 Triggering events](section/31.md)
+    - [s. 32 Triggering event periods](section/32.md)
+    - [s. 33 Notification of triggering events](section/33.md)
+    - [s. 34 Continuity options](section/34.md)
+    - [s. 35 When a decision to withdraw authorisation becomes final](section/35.md)
+    - [s. 36 Continuity option 1: discharge of liabilities and winding up](section/36.md)
+    - [s. 37 Continuity option 2: resolving triggering event](section/37.md)
+    - [s. 38 Continuity option 3: conversion to closed scheme](section/38.md)
+    - [s. 39 Implementation strategy](section/39.md)
+    - [s. 40 Approval of implementation strategy](section/40.md)
+    - [s. 41 Trustees’ duties once implementation strategy approved](section/41.md)
+    - [s. 42 Prohibition on winding up except in accordance with continuity option 1](section/42.md)
+    - [s. 43 Periodic reporting requirements](section/43.md)
+    - [s. 44 Pause orders](section/44.md)
+    - [s. 45 Prohibition on increasing charges etc during triggering event period](section/45.md)
+  - Publication of information
+    - [s. 46 Publication of information](section/46.md)
+  - Powers to make further provision
+    - [s. 47 Powers to extend definition of qualifying schemes](section/47.md)
+  - Supplementary
+    - [s. 48 Minor and consequential amendments](section/48.md)
+    - [s. 49 Interpretation of Part 1](section/49.md)
+    - [s. 50 Index of defined expressions](section/50.md)
+    - [s. 51 Regulations](section/51.md)
+- PART 2 Collective money purchase benefits: Northern Ireland
+  - Definitions
+    - [s. 52 Collective money purchase benefits and schemes](section/52.md)
+    - [s. 53 Qualifying benefits](section/53.md)
+    - [s. 54 Qualifying schemes](section/54.md)
+    - [s. 55 Qualifying schemes: supplementary](section/55.md)
+    - [s. 56 Schemes divided into sections](section/56.md)
+    - [s. 57 Amendment of definitions of “money purchase benefits” etc](section/57.md)
+  - Authorisation
+    - [s. 58 Authorisation of collective money purchase schemes](section/58.md)
+    - [s. 59 Application for authorisation](section/59.md)
+    - [s. 60 Decision on application](section/60.md)
+    - [s. 60A Failure of unconnected multiple employer schemes to commence operation](section/60A.md)
+    - [s. 61 Reference to Tribunal of refusal to grant authorisation](section/61.md)
+  - Authorisation criteria
+    - [s. 62 Fit and proper persons requirement](section/62.md)
+    - [s. 63 Scheme design requirement](section/63.md)
+    - [s. 64 Viability report](section/64.md)
+    - [s. 65 Financial sustainability requirement](section/65.md)
+    - [s. 65A Unconnected multiple employer schemes: business plan](section/65A.md)
+    - [s. 65B Unconnected multiple employer schemes: single scheme proprietor](section/65B.md)
+    - [s. 65C Unconnected multiple employer schemes: scheme proprietor requirements](section/65C.md)
+    - [s. 65D Unconnected multiple employer schemes: promotion or marketing requirement](section/65D.md)
+    - [s. 66 Communication requirement](section/66.md)
+    - [s. 67 Systems and processes requirements](section/67.md)
+    - [s. 68 Continuity strategy requirement](section/68.md)
+    - [s. 68A Unconnected multiple employer schemes: ability to pursue continuity option 3](section/68A.md)
+  - Valuation and benefit adjustment
+    - [s. 69 Calculation of benefits](section/69.md)
+    - [s. 70 Advice of scheme actuary](section/70.md)
+    - [s. 71 Actuarial valuations](section/71.md)
+    - [s. 72 Certificate that actuarial valuation prepared in accordance with scheme rules](section/72.md)
+    - [s. 73 Benefits adjustments](section/73.md)
+    - [s. 74 Powers of the Pensions Regulator](section/74.md)
+  - Members’ rights
+    - [s. 75 Rules about modifying schemes](section/75.md)
+    - [s. 76 Transfer rights](section/76.md)
+  - Ongoing supervision
+    - [s. 77 List of authorised schemes](section/77.md)
+    - [s. 77A Unconnected multiple employer schemes: annual accounts](section/77A.md)
+    - [s. 78 Requirement to submit supervisory return](section/78.md)
+    - [s. 79 Duty to notify the Pensions Regulator of significant events](section/79.md)
+    - [s. 80 Risk notices](section/80.md)
+    - [s. 81 Withdrawal of authorisation](section/81.md)
+  - Triggering events and continuity options
+    - [s. 82 Triggering events](section/82.md)
+    - [s. 83 Triggering event periods](section/83.md)
+    - [s. 84 Notification of triggering events](section/84.md)
+    - [s. 85 Continuity options](section/85.md)
+    - [s. 86 When a decision to withdraw authorisation becomes final](section/86.md)
+    - [s. 87 Continuity option 1: discharge of liabilities and winding up](section/87.md)
+    - [s. 88 Continuity option 2: resolving triggering event](section/88.md)
+    - [s. 89 Continuity option 3: conversion to closed scheme](section/89.md)
+    - [s. 90 Implementation strategy](section/90.md)
+    - [s. 91 Approval of implementation strategy](section/91.md)
+    - [s. 92 Trustees’ duties once implementation strategy approved](section/92.md)
+    - [s. 93 Prohibition on winding up except in accordance with continuity option 1](section/93.md)
+    - [s. 94 Periodic reporting requirements](section/94.md)
+    - [s. 95 Pause orders](section/95.md)
+    - [s. 96 Prohibition on increasing charges etc during triggering event period](section/96.md)
+  - Publication of information
+    - [s. 97 Publication of information](section/97.md)
+  - Powers to make further provision
+    - [s. 98 Powers to extend definition of qualifying schemes](section/98.md)
+  - Supplementary
+    - [s. 99 Minor and consequential amendments](section/99.md)
+    - [s. 100 Interpretation of Part 2](section/100.md)
+    - [s. 101 Index of defined expressions](section/101.md)
+    - [s. 102 Regulations](section/102.md)
+- PART 3 The Pensions Regulator
+  - Contribution notices where avoidance of employer debt etc
+    - [s. 103 Grounds for issuing a section 38 contribution notice](section/103.md)
+    - [s. 104 Reasonableness of issuing a contribution notice](section/104.md)
+    - [s. 105 Determination of sum specified in a contribution notice](section/105.md)
+    - [s. 106 Sanctions for failure to comply with a contribution notice](section/106.md)
+  - Sanctions for avoidance of employer debt etc
+    - [s. 107 Sanctions for avoidance of employer debt etc](section/107.md)
+  - Collecting information
+    - [s. 108 Duty to notify the Regulator of certain events](section/108.md)
+    - [s. 109 Duty to give notices and statements to the Regulator in respect of certain events](section/109.md)
+  - Gathering information
+    - [s. 110 Interviews](section/110.md)
+    - [s. 111 Inspection of premises](section/111.md)
+    - [s. 112 Fixed penalty notices and escalating penalty notices](section/112.md)
+  - Provision of false or misleading information
+    - [s. 113 Provision of false or misleading information to Regulator](section/113.md)
+    - [s. 114 Provision of false or misleading information to trustees or managers](section/114.md)
+  - Financial penalties
+    - [s. 115 Financial penalties](section/115.md)
+  - Supplementary
+    - [s. 116 Minor and consequential amendments](section/116.md)
+  - Northern Ireland
+    - [s. 117 The Pensions Regulator: Northern Ireland](section/117.md)
+- PART 4 Pensions dashboards
+  - [s. 118 Qualifying pensions dashboard service](section/118.md)
+  - [s. 119 Information from occupational pension schemes](section/119.md)
+  - [s. 120 Pensions dashboards: Northern Ireland](section/120.md)
+  - [s. 121 Information from personal and stakeholder pension schemes](section/121.md)
+  - [s. 122 The Money and Pensions Service: the pensions guidance function](section/122.md)
+- PART 5 Further provision relating to pension schemes
+  - Scheme funding
+    - [s. 123 Funding of defined benefit schemes](section/123.md)
+  - Climate change risk
+    - [s. 124 Climate change risk](section/124.md)
+  - Transfer rights
+    - [s. 125 Exercise of right to cash equivalent](section/125.md)
+  - The Pension Protection Fund
+    - [s. 126 Modification of provisions relating to pensionable service](section/126.md)
+  - Administration charges
+    - [s. 127 Administration charges](section/127.md)
+  - Categories of pension schemes
+    - [s. 128 Pension Schemes Act 2015: repeals](section/128.md)
+  - Northern Ireland
+    - [s. 129 Further provision relating to pension schemes: Northern Ireland](section/129.md)
+- PART 6 Final
+  - [s. 130 Extent](section/130.md)
+  - [s. 131 Commencement](section/131.md)
+  - [s. 132 Short title](section/132.md)
+- SCHEDULE 1 Money purchase benefits
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Pensions Act 2008 (c. 30)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- Schedule 1A Unconnected Multiple Employer Schemes: Business Strategy
+  - Part 1 Information which must be taken into account
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Part 2 Matters which must be taken into account
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Part 3 Information which may be taken into account
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+- Schedule 1B Unconnected Multiple Employer Schemes: Business Plan - Information and Requirements
+  - Part 1 Information which must be included in a business plan
+    - [Sch. 1B para. 1 General](schedule/1B/paragraph/1.md)
+    - [Sch. 1B para. 2 General](schedule/1B/paragraph/2.md)
+    - [Sch. 1B para. 3 General](schedule/1B/paragraph/3.md)
+    - [Sch. 1B para. 4 General](schedule/1B/paragraph/4.md)
+    - [Sch. 1B para. 5 General](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6 Information about the scheme](schedule/1B/paragraph/6.md)
+    - [Sch. 1B para. 7 Information about the scheme](schedule/1B/paragraph/7.md)
+    - [Sch. 1B para. 8 Information about the scheme](schedule/1B/paragraph/8.md)
+    - [Sch. 1B para. 9 Information about the scheme](schedule/1B/paragraph/9.md)
+    - [Sch. 1B para. 10 Information about the scheme](schedule/1B/paragraph/10.md)
+    - [Sch. 1B para. 11 Information about the scheme](schedule/1B/paragraph/11.md)
+    - [Sch. 1B para. 12 Information about the scheme](schedule/1B/paragraph/12.md)
+    - [Sch. 1B para. 13 Information about the scheme](schedule/1B/paragraph/13.md)
+    - [Sch. 1B para. 14 Information about the scheme](schedule/1B/paragraph/14.md)
+    - [Sch. 1B para. 15 Information about the scheme](schedule/1B/paragraph/15.md)
+    - [Sch. 1B para. 16 Information about the scheme](schedule/1B/paragraph/16.md)
+    - [Sch. 1B para. 17 Information about the scheme](schedule/1B/paragraph/17.md)
+    - [Sch. 1B para. 18 Information about the scheme](schedule/1B/paragraph/18.md)
+    - [Sch. 1B para. 19 Information about the scheme proprietor](schedule/1B/paragraph/19.md)
+    - [Sch. 1B para. 20 Information about the scheme proprietor](schedule/1B/paragraph/20.md)
+    - [Sch. 1B para. 21 Information about the scheme proprietor](schedule/1B/paragraph/21.md)
+    - [Sch. 1B para. 22 Information about the scheme proprietor](schedule/1B/paragraph/22.md)
+    - [Sch. 1B para. 23 Information about the scheme proprietor](schedule/1B/paragraph/23.md)
+    - [Sch. 1B para. 24 Information following a triggering event](schedule/1B/paragraph/24.md)
+  - Part 2 Requirements relating to a business plan
+    - [Sch. 1B para. 25](schedule/1B/paragraph/25.md)
+    - [Sch. 1B para. 26](schedule/1B/paragraph/26.md)
+    - [Sch. 1B para. 27](schedule/1B/paragraph/27.md)
+    - [Sch. 1B para. 28](schedule/1B/paragraph/28.md)
+    - [Sch. 1B para. 29](schedule/1B/paragraph/29.md)
+- Schedule 1C Unconnected Multiple Employer Schemes: Promotion or Marketing Requirement
+  - Part 1 No promotion or marketing that is unclear or misleading without rectification
+    - [Sch. 1C para. 1 Consistency](schedule/1C/paragraph/1.md)
+    - [Sch. 1C para. 2 Transparency](schedule/1C/paragraph/2.md)
+  - Part 2 Promotion or marketing: systems and processes
+    - [Sch. 1C para. 3 Quality assurance](schedule/1C/paragraph/3.md)
+    - [Sch. 1C para. 4 Resource planning](schedule/1C/paragraph/4.md)
+    - [Sch. 1C para. 5 Feedback and complaints](schedule/1C/paragraph/5.md)
+    - [Sch. 1C para. 6 Functionality of IT systems](schedule/1C/paragraph/6.md)
+    - [Sch. 1C para. 7 Risk management](schedule/1C/paragraph/7.md)
+    - [Sch. 1C para. 8 Governance](schedule/1C/paragraph/8.md)
+    - [Sch. 1C para. 9 Interpretation of Part 2](schedule/1C/paragraph/9.md)
+- SCHEDULE 2 Pause orders
+  - Consequences of a pause order
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Period of effect etc of pause order
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Validation of action in contravention of pause order
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Notification of trustees, employers and members
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Supplementary
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Collective money purchase benefits: minor and consequential amendments
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Pensions Act 2004 (c. 35)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Pensions Act 2008 (c. 30)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Pensions Act 2014 (c. 19)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 Money purchase benefits: Northern Ireland
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE4A UNCONNECTED MULTIPLE EMPLOYER SCHEMES: BUSINESS STRATEGY
+  - PART1 Information which must be taken into account
+  - PART2 Matters which must be taken into account
+  - PART3 Information which may be taken into account
+- SCHEDULE4B UNCONNECTED MULTIPLE EMPLOYER SCHEMES: BUSINESS PLAN - INFORMATION AND REQUIREMENTS
+  - PART1 Information which must be included in a business plan
+    - General
+    - Information about the scheme
+    - Information about the scheme proprietor
+    - Information following a triggering event
+  - PART2 Requirements relating to a business plan
+- SCHEDULE4C UNCONNECTED MULTIPLE EMPLOYER SCHEMES: PROMOTION OR MARKETING REQUIREMENT
+  - PART1 No promotion or marketing that is unclear or misleading without rectification
+    - Consistency
+    - Transparency
+  - PART2 Promotion or marketing: systems and processes
+    - Quality assurance
+    - Resource planning
+    - Feedback and complaints
+    - Functionality of IT systems
+    - Risk management
+    - Governance
+    - Interpretation of Part 2
+- SCHEDULE 5 Pause orders: Northern Ireland
+  - Consequences of a pause order
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Period of effect etc of pause order
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Validation of action in contravention of pause order
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Notification of trustees, employers and members
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Supplementary
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Collective money purchase benefits: minor and consequential amendments for Northern Ireland
+  - Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Pensions Act (Northern Ireland) 2015 (c. 5 (N.I.))
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+- SCHEDULE 7 The Pensions Regulator: minor and consequential amendments
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Pensions Act 2004 (c. 35)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Pensions Act 2008 (c. 30)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Pension Schemes Act 2017 (c. 17)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+- SCHEDULE 8 The Pensions Regulator: Northern Ireland
+  - PART 1 Amendments of the Pensions (Northern Ireland) Order 2005
+    - Introductory
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Grounds for issuing an Article 34 contribution notice
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Reasonableness of issuing contribution notice
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Determination of sum specified in a contribution notice
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Sanctions for failure to comply with a contribution notice
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Sanctions for avoidance of employer debt etc
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Duty to notify the Regulator of certain events
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Duty to give notices and statements to the Regulator in respect of certain events
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Interviews
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Inspection of premises
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Fixed penalty notices and escalating penalty notices
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Provision of false or misleading information to Regulator
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Provision of false or misleading information to trustees or managers
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Financial penalties
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - PART 2 Minor and consequential amendments
+    - Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+- SCHEDULE 9 Pensions dashboards: Northern Ireland
+  - Introductory
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Qualifying pensions dashboard service
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Information from occupational pension schemes
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Admissibility of statements
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Assembly control of regulations
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - The Pensions Regulator: delegation
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Funding of defined benefit schemes
+  - PART 1 Amendments of Part 3 of the Pensions Act 2004
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - PART 2 Minor and consequential amendments
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 Further provision relating to pension schemes: Northern Ireland
+  - PART 1 Funding of defined benefit schemes
+    - Amendments of Part 4 of the Pensions (Northern Ireland) Order 2005
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Minor and consequential amendments
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - PART 2 Other provision
+    - Climate change risk
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Transfer rights: exercise of right to cash equivalent
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - The Pension Protection Fund: modification of provisions relating to pensionable service
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Administration charges
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Categories of pension schemes: repeal of provisions of Pension Schemes Act (Northern Ireland) 2016
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
