@@ -1,0 +1,406 @@
+# Care Standards Act 2000
+
+2000 c. 14. Enacted 2000-07-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
+
+Source: https://www.legislation.gov.uk/ukpga/2000/14/2026-07-31
+
+## Contents
+
+- Part I Introductory
+  - Preliminary
+    - [s. 1 Children’s homes in England.](section/1.md)
+    - [s. 2 Independent hospitals etc.](section/2.md)
+    - [s. 3 Care homes in England](section/3.md)
+    - [s. 4 Other basic definitions.](section/4.md)
+  - Registration authorities
+    - [s. 5 Registration authorities.](section/5.md)
+    - [s. 5A General duties of Commission for Healthcare Audit and Inspection](section/5A.md)
+    - [s. 5B General duties of Commission for Social Care Inspection](section/5B.md)
+    - [s. 6 National Care Standards Commission.](section/6.md)
+    - [s. 7 General duties of the Commission.](section/7.md)
+    - [s. 8 General functions of the Assembly.](section/8.md)
+    - [s. 9 Co-operative working.](section/9.md)
+    - [s. 10 Inquiries.](section/10.md)
+- Part II Establishments and agencies
+  - Registration
+    - [s. 11 Requirement to register.](section/11.md)
+    - [s. 12 Applications for registration.](section/12.md)
+    - [s. 13 Grant or refusal of registration.](section/13.md)
+    - [s. 14 Cancellation of registration.](section/14.md)
+    - [s. 14A Suspension of registration](section/14A.md)
+    - [s. 15 Applications by registered persons.](section/15.md)
+    - [s. 16 Regulations about registration.](section/16.md)
+  - Registration procedure
+    - [s. 17 Notice of proposals.](section/17.md)
+    - [s. 18 Right to make representations.](section/18.md)
+    - [s. 19 Notice of decisions.](section/19.md)
+    - [s. 20 Urgent procedure for cancellation, variation etc: England](section/20.md)
+    - [s. 20A Urgent procedure for cancellation: Wales](section/20A.md)
+    - [s. 20B Urgent procedure for suspension or variation etc...](section/20B.md)
+    - [s. 21 Appeals to the Tribunal.](section/21.md)
+  - Regulations and standards
+    - [s. 22 Regulation of establishments and agencies.](section/22.md)
+    - [s. 22A Power of CIECSS to serve notice where person is failing to comply with regulations](section/22A.md)
+    - [s. 22B Notice restricting accommodation at certain establishments](section/22B.md)
+    - [s. 23 National minimum standards.](section/23.md)
+  - Offences
+    - [s. 24 Failure to comply with conditions.](section/24.md)
+    - [s. 24A Offences relating to suspension](section/24A.md)
+    - [s. 25 Contravention of regulations.](section/25.md)
+    - [s. 26 False descriptions of establishments and agencies.](section/26.md)
+    - [s. 27 False statements in applications.](section/27.md)
+    - [s. 28 Failure to display certificate of registration.](section/28.md)
+    - [s. 29 Proceedings for offences.](section/29.md)
+    - [s. 30 Offences by bodies corporate.](section/30.md)
+  - Penalty notices (Wales)
+    - [s. 30ZA Penalty notices](section/30ZA.md)
+    - [s. 30ZB Penalty notices: supplementary provision](section/30ZB.md)
+  - Power of CIECSS to impose monetary penalties
+    - [s. 30ZC Power of CIECSS to impose monetary penalties](section/30ZC.md)
+    - [s. 30ZD CIECSS monetary penalties: publication of information](section/30ZD.md)
+  - Financial regulation (England)
+    - [s. 30ZE Persons who are subject to financial oversight](section/30ZE.md)
+    - [s. 30ZF Financial oversight period](section/30ZF.md)
+    - [s. 30ZG Power to require provision of recovery and resolution plan](section/30ZG.md)
+    - [s. 30ZH Power to require information](section/30ZH.md)
+    - [s. 30ZI Power to arrange for independent business review](section/30ZI.md)
+    - [s. 30ZJ Duty to issue advance warning notice](section/30ZJ.md)
+    - [s. 30ZK Power to limit profits of relevant providers](section/30ZK.md)
+    - [s. 30ZL Power to limit profits of relevant providers: supplementary provision](section/30ZL.md)
+    - [s. 30ZM Power of Secretary of State to impose monetary penalties](section/30ZM.md)
+  - Monetary penalties: procedure etc
+    - [s. 30ZN Monetary penalties: procedure etc](section/30ZN.md)
+  - Information sharing
+    - [s. 30ZO Information sharing](section/30ZO.md)
+  - Miscellaneous and supplemental
+    - [s. 30A Notification of matters relating to persons carrying on or managing certain establishments or agencies](section/30A.md)
+    - [s. 31 Inspections by persons authorised by registration authority.](section/31.md)
+    - [s. 32 Inspections: supplementary.](section/32.md)
+    - [s. 33 Annual returns.](section/33.md)
+    - [s. 34 Liquidators etc.](section/34.md)
+    - [s. 35 Death of registered person.](section/35.md)
+    - [s. 36 Provision of copies of registers.](section/36.md)
+    - [s. 36A Voluntary adoption agencies: distribution of functions](section/36A.md)
+    - [s. 37 Service of documents.](section/37.md)
+    - [s. 38 Transfers of staff under Part II.](section/38.md)
+    - [s. 39 Temporary extension of meaning of “nursing home”.](section/39.md)
+    - [s. 40 Temporary extension of meaning of “children’s home”.](section/40.md)
+    - [s. 41 Children’s homes: temporary provision about cancellation of registration.](section/41.md)
+    - [s. 42 Power to extend the application of Part II.](section/42.md)
+- Part III Local Authority Services
+  - [s. 43 Introductory.](section/43.md)
+  - [s. 44 General powers of the Commission.](section/44.md)
+  - [s. 45 Inspection by registration authority of adoption and fostering services.](section/45.md)
+  - [s. 46 Inspections: supplementary.](section/46.md)
+  - [s. 47 Action following inspection.](section/47.md)
+  - [s. 48 Regulation of the exercise of relevant fostering functions.](section/48.md)
+  - [s. 49 National minimum standards.](section/49.md)
+  - [s. 50 Annual returns.](section/50.md)
+  - [s. 51 Annual fee.](section/51.md)
+  - [s. 52 Contravention of regulations.](section/52.md)
+  - [s. 53 Offences: general provisions.](section/53.md)
+- Part IV Social care workers
+  - Preliminary
+    - [s. 54 The Care Council for Wales](section/54.md)
+    - [s. 55 Interpretation.](section/55.md)
+  - Registration
+    - [s. 56 The register.](section/56.md)
+    - [s. 57 Applications for registration.](section/57.md)
+    - [s. 58 Grant or refusal of registration.](section/58.md)
+    - [s. 58A Visiting social workers from relevant European States](section/58A.md)
+    - [s. 58B Visiting social care managers from relevant European States](section/58B.md)
+    - [s. 59 Removal etc. from register.](section/59.md)
+    - [s. 60 Rules about registration.](section/60.md)
+    - [s. 61 Use of title “social worker” etc.](section/61.md)
+  - Codes of practice
+    - [s. 62 Codes of practice.](section/62.md)
+  - Training
+    - [s. 63 Approval of courses etc.](section/63.md)
+    - [s. 64 Qualifications gained outside the Welsh Council’s area– social workers](section/64.md)
+    - [s. 64A Qualifications gained outside the Welsh Council’s area – social care managers](section/64A.md)
+    - [s. 65 Post registration training.](section/65.md)
+    - [s. 66 Visitors for certain social work courses.](section/66.md)
+    - [s. 67 Functions of the Secretary of State.](section/67.md)
+    - [s. 67A Exercise by Special Health Authority of functions under s. 67(4)(a)](section/67A.md)
+  - Miscellaneous and supplemental
+    - [s. 68 Appeals to the Tribunal.](section/68.md)
+    - [s. 69 Publication etc. of register.](section/69.md)
+    - [s. 70 Abolition of Central Council for Education and Training in Social Work.](section/70.md)
+    - [s. 71 Rules.](section/71.md)
+- Part V The Children’s Commissioner for Wales
+  - [s. 72 Children’s Commissioner for Wales.](section/72.md)
+  - [s. 72A Principal aim of the Commissioner](section/72A.md)
+  - [s. 72B Review of exercise of functions of Welsh Ministers and other persons](section/72B.md)
+  - [s. 73 Review and monitoring of arrangements.](section/73.md)
+  - [s. 74 Examination of cases.](section/74.md)
+  - [s. 75 Obstruction etc.](section/75.md)
+  - [s. 75ZA Working with other Commissioners](section/75ZA.md)
+  - [s. 75ZB Working jointly with the Public Services Ombudsman for Wales](section/75ZB.md)
+  - [s. 75ZC Working jointly with the Public Services Ombudsman for Wales](section/75ZC.md)
+  - [s. 75A Additional power of consideration and representation](section/75A.md)
+  - [s. 76 Further functions.](section/76.md)
+  - [s. 77 Restrictions.](section/77.md)
+  - [s. 78 Interpretation.](section/78.md)
+- Part VI Child minding and day care
+  - [s. 79 Amendment of Children Act 1989.](section/79.md)
+- Part VII Protection of children and vulnerable adults
+  - Protection of vulnerable adults
+    - [s. 80 Basic definitions.](section/80.md)
+    - [s. 81 Duty of Secretary of State to keep list.](section/81.md)
+    - [s. 82 Persons who provide care for vulnerable adults: duty to refer.](section/82.md)
+    - [s. 83 Employment agencies and businesses: duty to refer.](section/83.md)
+    - [s. 84 Power of registration authority to refer.](section/84.md)
+    - [s. 85 Individuals named in the findings of certain inquiries.](section/85.md)
+    - [s. 86 Appeals against inclusion in list.](section/86.md)
+    - [s. 87 Applications for removal from list.](section/87.md)
+    - [s. 88 Conditions for application under section 87.](section/88.md)
+    - [s. 89 Effect of inclusion in list.](section/89.md)
+    - [s. 90 Searches of list under Part V of Police Act 1997.](section/90.md)
+    - [s. 91 Access to list before commencement of section 90.](section/91.md)
+    - [s. 92 Persons referred for inclusion in list under Protection of Children Act 1999.](section/92.md)
+    - [s. 93 Power to extend Part VII.](section/93.md)
+  - The list kept under section 1 of the 1999 Act
+    - [s. 94 Employment agencies and businesses.](section/94.md)
+    - [s. 95 Inclusion in 1999 Act list on reference by certain authorities.](section/95.md)
+    - [s. 96 Inclusion in 1999 Act list of individuals named in findings of certain inquiries.](section/96.md)
+    - [s. 97 Inclusion in 1999 Act list on reference under this Part.](section/97.md)
+    - [s. 98 Individuals providing care funded by direct payments.](section/98.md)
+    - [s. 99 Transfer from Consultancy Service Index of individuals named in past inquiries.](section/99.md)
+  - Restrictions on working with children in independent schools
+    - [s. 100 Additional ground of complaint.](section/100.md)
+    - [s. 101 Effect of inclusion in 1996 Act list.](section/101.md)
+    - [s. 102 Searches of 1996 Act list.](section/102.md)
+  - General
+    - [s. 103 Temporary provision for access to lists.](section/103.md)
+    - [s. 104 Suitability to adopt a child: searches of lists.](section/104.md)
+- Part VIII Miscellaneous
+  - Boarding schools and colleges
+    - [s. 105 Welfare of children in boarding schools and colleges.](section/105.md)
+    - [s. 106 Suspension of duty under section 87(3) of the 1989 Act.](section/106.md)
+    - [s. 107 Boarding schools: national minimum standards.](section/107.md)
+    - [s. 108 Annual fee for boarding school inspections.](section/108.md)
+    - [s. 109 Inspection of schools etc. by persons authorised by Secretary of State.](section/109.md)
+  - Fostering
+    - [s. 110 Extension of Part IX to school children during holidays.](section/110.md)
+  - Employment agencies
+    - [s. 111 Nurses Agencies.](section/111.md)
+  - Charges for local authority welfare services
+    - [s. 112 Charges for local authority welfare services.](section/112.md)
+- Part IX General and supplemental
+  - Chapter I General
+    - [s. 113 Default powers of appropriate Minister.](section/113.md)
+    - [s. 113A Fees payable under Part 2](section/113A.md)
+    - [s. 114 Schemes for the transfer of staff.](section/114.md)
+    - [s. 115 Effect of schemes.](section/115.md)
+    - [s. 116 Minor and consequential amendments.](section/116.md)
+    - [s. 117 Transitional provisions, savings and repeals.](section/117.md)
+  - Chapter II Supplemental
+    - [s. 118 Orders and regulations.](section/118.md)
+    - [s. 118A Regulations: Wales](section/118A.md)
+    - [s. 119 Supplementary and consequential provision etc.](section/119.md)
+    - [s. 120 Wales.](section/120.md)
+    - [s. 121 General interpretation etc.](section/121.md)
+    - [s. 122 Commencement.](section/122.md)
+    - [s. 123 Short title and extent.](section/123.md)
+- SCHEDULE 1 The Welsh Council
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Status
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - General powers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - General duty
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Membership
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Appointment, procedure et ceteralaetc.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration and allowances
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Chief officer
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Regional directors
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Children’s rights director
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Director of private and voluntary health care
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Staff
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Delegation of functions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Arrangements for the use of staff
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Training
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Payments to authorities
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Fees
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Accounts
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Reports and other information
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Application of seal and evidence
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - General
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+- Schedule 1A Monetary penalties under Part 2
+  - [Sch. 1A para. 1 Interpretation](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Notice of intention to impose monetary penalty](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Imposition of monetary penalty](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Amount of monetary penalty](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Interest and recovery](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Right of appeal against imposition of monetary penalty](schedule/1A/paragraph/6.md)
+- SCHEDULE 2 The Children’s Commissioner for Wales
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Appointment and tenure of office
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Remuneration
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Staff
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - General powers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Estimates
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Accounts
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Reports
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Audit
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Accounting officer
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Examinations into use of resources
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Examinations by the Comptroller and Auditor General
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Evidence
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Payments
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - General
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 2A Persons subject to review by the Commissioner under section 72B.
+  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 2A](schedule/2A/paragraph/2A.md)
+  - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - [Sch. 2A para. 8A](schedule/2A/paragraph/8A.md)
+  - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - [Sch. 2A para. 10A](schedule/2A/paragraph/10A.md)
+  - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+  - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+  - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+  - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+  - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+  - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+  - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+  - [Sch. 2A para. 20](schedule/2A/paragraph/20.md)
+  - [Sch. 2A para. 21](schedule/2A/paragraph/21.md)
+  - [Sch. 2A para. 22](schedule/2A/paragraph/22.md)
+  - [Sch. 2A para. 23](schedule/2A/paragraph/23.md)
+  - [Sch. 2A para. 24](schedule/2A/paragraph/24.md)
+- SCHEDULE 2B Persons whose arrangements are subject to review by the Commissioner under section 73.
+  - [Sch. 2B para. 1](schedule/2B/paragraph/1.md)
+  - [Sch. 2B para. 2](schedule/2B/paragraph/2.md)
+  - [Sch. 2B para. 3](schedule/2B/paragraph/3.md)
+  - [Sch. 2B para. 4](schedule/2B/paragraph/4.md)
+  - [Sch. 2B para. 5](schedule/2B/paragraph/5.md)
+  - [Sch. 2B para. 6](schedule/2B/paragraph/6.md)
+  - [Sch. 2B para. 7](schedule/2B/paragraph/7.md)
+  - [Sch. 2B para. 8](schedule/2B/paragraph/8.md)
+  - [Sch. 2B para. 9](schedule/2B/paragraph/9.md)
+  - [Sch. 2B para. 10](schedule/2B/paragraph/10.md)
+  - [Sch. 2B para. 11](schedule/2B/paragraph/11.md)
+- SCHEDULE 3 Child minding and day care for young children
+- SCHEDULE 4 Minor and consequential amendments
+  - National Assistance Act 1948 (c.29)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Mental Health Act 1959 (c.72)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Children and Young Persons Act 1969 (c.54)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Local Authority Social Services Act 1970 (c.42)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Adoption Act 1976 (c.36)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Adoption (Scotland) Act 1978 (c.28)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Magistrates’ Court Act 1980 (c. 43)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Limitation Act 1980 (c.58)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Mental Health Act 1983 (c.20)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Public Health (Control of Disease) Act 1984 (c.22)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I.22))
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Income and Corporation Taxes Act 1988 (c.40)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Children Act 1989 (c.41)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - National Health Service and Community Care Act 1990 (c.19)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c.25)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Criminal Justice Act 1991 (c.53)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Water Industry Act 1991 (c.56)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Local Government Finance Act 1992 (c.14)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Children (Scotland) Act 1995 (c.36)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Education Act 1996 (c.56)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Police Act 1997 (c.50)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Protection of Children Act 1999 (c.14)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - Adoption (Intercountry Aspects) Act 1999 (c.18)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c.6)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Amendments of local Acts
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+- SCHEDULE 5 Transitional provisions and savings
+  - Fostering agencies
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Voluntary adoption agencies
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Children’s Commissioner for Wales
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Repeals
