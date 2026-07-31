@@ -1,0 +1,123 @@
+# Pension Schemes Act (Northern Ireland) 2021
+
+nia/2021/6. Enacted 2021-08-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2021/6/2026-07-31
+
+## Contents
+
+- PART 1 Master Trusts
+  - Definition of a Master Trust scheme
+    - [s. 1 Master Trust schemes: definition](section/1.md)
+    - [s. 2 Relevant public service pension schemes](section/2.md)
+  - Authorisation: applications etc
+    - [s. 3 Prohibition on operating a scheme unless authorised](section/3.md)
+    - [s. 4 Application for authorisation](section/4.md)
+    - [s. 5 Decision on application](section/5.md)
+    - [s. 6 Referral to Tribunal of refusal to grant authorisation](section/6.md)
+  - Authorisation criteria
+    - [s. 7 Fit and proper persons requirement](section/7.md)
+    - [s. 8 Financial sustainability requirement](section/8.md)
+    - [s. 9 Financial sustainability requirement: business plan](section/9.md)
+    - [s. 10 Scheme funder requirements](section/10.md)
+    - [s. 11 Systems and processes requirements](section/11.md)
+    - [s. 12 Continuity strategy requirement](section/12.md)
+  - Ongoing supervision of Master Trust schemes
+    - [s. 13 List of authorised schemes](section/13.md)
+    - [s. 14 Requirement to submit annual accounts](section/14.md)
+    - [s. 15 Requirement to submit supervisory return](section/15.md)
+    - [s. 16 Duty to notify Regulator of significant events](section/16.md)
+    - [s. 17 Fixed penalty notice for failure to comply with request for information etc](section/17.md)
+    - [s. 18 Escalating penalty notice for failure to comply with request for information etc](section/18.md)
+    - [s. 19 Withdrawal of authorisation](section/19.md)
+  - Triggering events: continuity
+    - [s. 20 Triggering event: duties of trustees](section/20.md)
+    - [s. 21 Triggering events](section/21.md)
+    - [s. 22 Notification requirements](section/22.md)
+    - [s. 23 Continuity options](section/23.md)
+    - [s. 24 Continuity option 1: transfer out and winding up](section/24.md)
+    - [s. 25 Continuity option 2: resolving triggering event](section/25.md)
+    - [s. 26 Approval of implementation strategy](section/26.md)
+    - [s. 27 Content of implementation strategy](section/27.md)
+    - [s. 28 Duty to pursue continuity option](section/28.md)
+    - [s. 29 Prohibition on winding up except in accordance with continuity option 1](section/29.md)
+    - [s. 30 Periodic reporting requirement](section/30.md)
+    - [s. 31 Pause orders](section/31.md)
+    - [s. 32 Prohibition on new employers during triggering event period](section/32.md)
+    - [s. 33 Prohibition on increasing charges etc during triggering event period](section/33.md)
+  - Decisions on withdrawal of authorisation: timing
+    - [s. 34 When it becomes clear that authorisation not to be withdrawn](section/34.md)
+    - [s. 35 When a decision to withdraw authorisation becomes final](section/35.md)
+  - Supplementary
+    - [s. 36 Fraud compensation](section/36.md)
+    - [s. 37 Master trusts in operation on commencement: transitional provision](section/37.md)
+    - [s. 38 Minor and consequential amendments](section/38.md)
+    - [s. 39 Interpretation of Part 1](section/39.md)
+    - [s. 40 Regulations modifying application of Part 1](section/40.md)
+- PART 2 Administration Charges
+  - [s. 41 Power to override contract terms](section/41.md)
+- PART 3 General
+  - [s. 42 Regulations: general provisions](section/42.md)
+  - [s. 43 General interpretation](section/43.md)
+  - [s. 44 Commencement](section/44.md)
+  - [s. 45 Short title](section/45.md)
+- SCHEDULE 1 Pause orders
+  - Consequences of a pause order
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Period of effect etc of a pause order
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Validation of action in contravention of pause order
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Notification of trustees, scheme funders, scheme strategists, employers and members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Supplementary provision
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Master Trusts operating before commencement: Transitional provision
+  - Overview of Schedule
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Modifications having effect from the date on which this Act is passed
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Modifications having effect from the commencement date
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Pensions (Northern Ireland) Order 1995 (NI 22)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Pensions (Northern Ireland) Order 2005 (NI 1)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Pension Schemes Act (Northern Ireland) 2021
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
