@@ -2,9 +2,9 @@
 
 2021 c. 1. Enacted 2021-02-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-06, one file per provision. Earlier versions, from 2021-02-11, are in the history before it: `git log -- ukpga/2021/1` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-07-31, one file per provision. Earlier versions, from 2021-02-11, are in the history before it: `git log -- ukpga/2021/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
+Source: https://www.legislation.gov.uk/ukpga/2021/1/2026-07-31
 
 ## Contents
 
@@ -20,15 +20,21 @@ Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
     - [s. 7 Authorisation of collective money purchase schemes](section/7.md)
     - [s. 8 Application for authorisation](section/8.md)
     - [s. 9 Decision on application](section/9.md)
+    - [s. 9A Commencement of operation of an unconnected multiple employer scheme](section/9A.md)
     - [s. 10 Reference to Tribunal of refusal to grant authorisation](section/10.md)
   - Authorisation criteria
     - [s. 11 Fit and proper persons requirement](section/11.md)
     - [s. 12 Scheme design requirement](section/12.md)
     - [s. 13 Viability report](section/13.md)
     - [s. 14 Financial sustainability requirement](section/14.md)
+    - [s. 14A Unconnected multiple employer schemes: financial sustainability requirement - business plan](section/14A.md)
+    - [s. 14B Unconnected multiple employer schemes: scheme proprietor](section/14B.md)
+    - [s. 14C Unconnected multiple employer schemes: scheme proprietor requirements](section/14C.md)
+    - [s. 14D Unconnected multiple employer schemes: promotion or marketing requirement](section/14D.md)
     - [s. 15 Communication requirement](section/15.md)
     - [s. 16 Systems and processes requirements](section/16.md)
     - [s. 17 Continuity strategy requirement](section/17.md)
+    - [s. 17A Unconnected multiple employer schemes: ability to pursue continuity option 3](section/17A.md)
   - Valuation and benefit adjustment
     - [s. 18 Calculation of benefits](section/18.md)
     - [s. 19 Advice of scheme actuary](section/19.md)
@@ -41,6 +47,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
     - [s. 25 Transfer rights](section/25.md)
   - Ongoing supervision
     - [s. 26 List of authorised schemes](section/26.md)
+    - [s. 26A Unconnected multiple employer schemes: requirement to submit annual accounts](section/26A.md)
     - [s. 27 Requirement to submit supervisory return](section/27.md)
     - [s. 28 Duty to notify the Pensions Regulator of significant events](section/28.md)
     - [s. 29 Risk notices](section/29.md)
@@ -82,15 +89,21 @@ Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
     - [s. 58 Authorisation of collective money purchase schemes](section/58.md)
     - [s. 59 Application for authorisation](section/59.md)
     - [s. 60 Decision on application](section/60.md)
+    - [s. 60A Failure of unconnected multiple employer schemes to commence operation](section/60A.md)
     - [s. 61 Reference to Tribunal of refusal to grant authorisation](section/61.md)
   - Authorisation criteria
     - [s. 62 Fit and proper persons requirement](section/62.md)
     - [s. 63 Scheme design requirement](section/63.md)
     - [s. 64 Viability report](section/64.md)
     - [s. 65 Financial sustainability requirement](section/65.md)
+    - [s. 65A Unconnected multiple employer schemes: business plan](section/65A.md)
+    - [s. 65B Unconnected multiple employer schemes: single scheme proprietor](section/65B.md)
+    - [s. 65C Unconnected multiple employer schemes: scheme proprietor requirements](section/65C.md)
+    - [s. 65D Unconnected multiple employer schemes: promotion or marketing requirement](section/65D.md)
     - [s. 66 Communication requirement](section/66.md)
     - [s. 67 Systems and processes requirements](section/67.md)
     - [s. 68 Continuity strategy requirement](section/68.md)
+    - [s. 68A Unconnected multiple employer schemes: ability to pursue continuity option 3](section/68A.md)
   - Valuation and benefit adjustment
     - [s. 69 Calculation of benefits](section/69.md)
     - [s. 70 Advice of scheme actuary](section/70.md)
@@ -103,6 +116,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
     - [s. 76 Transfer rights](section/76.md)
   - Ongoing supervision
     - [s. 77 List of authorised schemes](section/77.md)
+    - [s. 77A Unconnected multiple employer schemes: annual accounts](section/77A.md)
     - [s. 78 Requirement to submit supervisory return](section/78.md)
     - [s. 79 Duty to notify the Pensions Regulator of significant events](section/79.md)
     - [s. 80 Risk notices](section/80.md)
@@ -192,6 +206,68 @@ Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
     - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
     - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
     - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- Schedule 1A Unconnected Multiple Employer Schemes: Business Strategy
+  - Part 1 Information which must be taken into account
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Part 2 Matters which must be taken into account
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Part 3 Information which may be taken into account
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+- Schedule 1B Unconnected Multiple Employer Schemes: Business Plan - Information and Requirements
+  - Part 1 Information which must be included in a business plan
+    - [Sch. 1B para. 1 General](schedule/1B/paragraph/1.md)
+    - [Sch. 1B para. 2 General](schedule/1B/paragraph/2.md)
+    - [Sch. 1B para. 3 General](schedule/1B/paragraph/3.md)
+    - [Sch. 1B para. 4 General](schedule/1B/paragraph/4.md)
+    - [Sch. 1B para. 5 General](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6 Information about the scheme](schedule/1B/paragraph/6.md)
+    - [Sch. 1B para. 7 Information about the scheme](schedule/1B/paragraph/7.md)
+    - [Sch. 1B para. 8 Information about the scheme](schedule/1B/paragraph/8.md)
+    - [Sch. 1B para. 9 Information about the scheme](schedule/1B/paragraph/9.md)
+    - [Sch. 1B para. 10 Information about the scheme](schedule/1B/paragraph/10.md)
+    - [Sch. 1B para. 11 Information about the scheme](schedule/1B/paragraph/11.md)
+    - [Sch. 1B para. 12 Information about the scheme](schedule/1B/paragraph/12.md)
+    - [Sch. 1B para. 13 Information about the scheme](schedule/1B/paragraph/13.md)
+    - [Sch. 1B para. 14 Information about the scheme](schedule/1B/paragraph/14.md)
+    - [Sch. 1B para. 15 Information about the scheme](schedule/1B/paragraph/15.md)
+    - [Sch. 1B para. 16 Information about the scheme](schedule/1B/paragraph/16.md)
+    - [Sch. 1B para. 17 Information about the scheme](schedule/1B/paragraph/17.md)
+    - [Sch. 1B para. 18 Information about the scheme](schedule/1B/paragraph/18.md)
+    - [Sch. 1B para. 19 Information about the scheme proprietor](schedule/1B/paragraph/19.md)
+    - [Sch. 1B para. 20 Information about the scheme proprietor](schedule/1B/paragraph/20.md)
+    - [Sch. 1B para. 21 Information about the scheme proprietor](schedule/1B/paragraph/21.md)
+    - [Sch. 1B para. 22 Information about the scheme proprietor](schedule/1B/paragraph/22.md)
+    - [Sch. 1B para. 23 Information about the scheme proprietor](schedule/1B/paragraph/23.md)
+    - [Sch. 1B para. 24 Information following a triggering event](schedule/1B/paragraph/24.md)
+  - Part 2 Requirements relating to a business plan
+    - [Sch. 1B para. 25](schedule/1B/paragraph/25.md)
+    - [Sch. 1B para. 26](schedule/1B/paragraph/26.md)
+    - [Sch. 1B para. 27](schedule/1B/paragraph/27.md)
+    - [Sch. 1B para. 28](schedule/1B/paragraph/28.md)
+    - [Sch. 1B para. 29](schedule/1B/paragraph/29.md)
+- Schedule 1C Unconnected Multiple Employer Schemes: Promotion or Marketing Requirement
+  - Part 1 No promotion or marketing that is unclear or misleading without rectification
+    - [Sch. 1C para. 1 Consistency](schedule/1C/paragraph/1.md)
+    - [Sch. 1C para. 2 Transparency](schedule/1C/paragraph/2.md)
+  - Part 2 Promotion or marketing: systems and processes
+    - [Sch. 1C para. 3 Quality assurance](schedule/1C/paragraph/3.md)
+    - [Sch. 1C para. 4 Resource planning](schedule/1C/paragraph/4.md)
+    - [Sch. 1C para. 5 Feedback and complaints](schedule/1C/paragraph/5.md)
+    - [Sch. 1C para. 6 Functionality of IT systems](schedule/1C/paragraph/6.md)
+    - [Sch. 1C para. 7 Risk management](schedule/1C/paragraph/7.md)
+    - [Sch. 1C para. 8 Governance](schedule/1C/paragraph/8.md)
+    - [Sch. 1C para. 9 Interpretation of Part 2](schedule/1C/paragraph/9.md)
 - SCHEDULE 2 Pause orders
   - Consequences of a pause order
     - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
@@ -245,6 +321,29 @@ Source: https://www.legislation.gov.uk/ukpga/2021/1/2024-04-06
     - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
     - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
     - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE4A UNCONNECTED MULTIPLE EMPLOYER SCHEMES: BUSINESS STRATEGY
+  - PART1 Information which must be taken into account
+  - PART2 Matters which must be taken into account
+  - PART3 Information which may be taken into account
+- SCHEDULE4B UNCONNECTED MULTIPLE EMPLOYER SCHEMES: BUSINESS PLAN - INFORMATION AND REQUIREMENTS
+  - PART1 Information which must be included in a business plan
+    - General
+    - Information about the scheme
+    - Information about the scheme proprietor
+    - Information following a triggering event
+  - PART2 Requirements relating to a business plan
+- SCHEDULE4C UNCONNECTED MULTIPLE EMPLOYER SCHEMES: PROMOTION OR MARKETING REQUIREMENT
+  - PART1 No promotion or marketing that is unclear or misleading without rectification
+    - Consistency
+    - Transparency
+  - PART2 Promotion or marketing: systems and processes
+    - Quality assurance
+    - Resource planning
+    - Feedback and complaints
+    - Functionality of IT systems
+    - Risk management
+    - Governance
+    - Interpretation of Part 2
 - SCHEDULE 5 Pause orders: Northern Ireland
   - Consequences of a pause order
     - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
