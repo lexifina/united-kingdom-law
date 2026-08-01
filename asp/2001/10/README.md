@@ -1,0 +1,340 @@
+# Housing (Scotland) Act 2001
+
+asp/2001/10. Enacted 2001-07-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2001/10
+
+Source: https://www.legislation.gov.uk/asp/2001/10/2026-08-01
+
+## Contents
+
+- PART 1 HOMELESSNESS AND ALLOCATION OF HOUSING
+  - [s. 1 Homelessness strategies](section/1.md)
+  - [s. 2 Advice on homelessness etc.](section/2.md)
+  - [s. 3 Homeless persons and persons threatened with homelessness](section/3.md)
+  - [s. 4 Review of decisions](section/4.md)
+  - [s. 5 Duty of registered social landlord to provide accommodation](section/5.md)
+  - [s. 6 Duty of registered social landlord: further provision](section/6.md)
+  - [s. 7 Persons living in hostel and other short-term accommodation](section/7.md)
+  - [s. 8 Common housing registers](section/8.md)
+  - [s. 9 Housing lists](section/9.md)
+  - [s. 10 Allocation of housing](section/10.md)
+- PART 2 TENANTS OF SOCIAL LANDLORDS
+  - CHAPTER 1 SCOTTISH SECURE TENANCIES
+    - Creation and termination of tenancy
+      - [s. 11 Scottish secure tenancy](section/11.md)
+      - [s. 12 Restriction on termination of tenancy](section/12.md)
+      - [s. 13 Termination of joint tenant’s interest in tenancy](section/13.md)
+      - [s. 14 Proceedings for recovery of possession or termination of joint tenant’s interest](section/14.md)
+      - [s. 14A Pre-action requirements where grounds for possession include rent arrears](section/14A.md)
+      - [s. 15 Rights of qualifying occupiers in possession proceedings](section/15.md)
+      - [s. 16 Powers of court in proceedings for recovery of possession or termination of joint tenant’s interest](section/16.md)
+      - [s. 17 Abandoned tenancies](section/17.md)
+      - [s. 18 Repossession](section/18.md)
+      - [s. 19 Tenant’s recourse to court](section/19.md)
+      - [s. 20 Abandonment by joint tenant](section/20.md)
+      - [s. 21 Joint tenancies: abandoning tenant’s recourse to court](section/21.md)
+    - Succession
+      - [s. 22 Succession to Scottish secure tenancy](section/22.md)
+    - Tenancy agreement and information
+      - [s. 23 Tenant’s right to written tenancy agreement and information](section/23.md)
+    - Variation
+      - [s. 24 Restriction on variation of tenancy](section/24.md)
+      - [s. 25 Increase in rent or charges](section/25.md)
+      - [s. 26 Variation of tenancy by court order](section/26.md)
+    - Repairs and improvements
+      - [s. 27 Repairs](section/27.md)
+      - [s. 28 Landlord’s consent to work](section/28.md)
+      - [s. 29 Reimbursement of cost of work](section/29.md)
+      - [s. 30 Right to compensation for improvements](section/30.md)
+      - [s. 31 Effect of work on rent](section/31.md)
+    - Keeping pets
+      - [s. 31A Tenant’s right to keep a pet](section/31A.md)
+      - [s. 31B Power to make provision about when a consent condition for keeping a pet is reasonable](section/31B.md)
+      - [s. 31C Power to make provision about when it is reasonable to refuse consent to keep a pet](section/31C.md)
+      - [s. 31D Regulations under sections 31B and 31C: consultation](section/31D.md)
+    - Assignation, subletting and exchanges
+      - [s. 32 Assignation, subletting etc.](section/32.md)
+      - [s. 33 Exchange of house](section/33.md)
+    - Short Scottish secure tenancies
+      - [s. 34 Short Scottish secure tenancies](section/34.md)
+      - [s. 35 Conversion to short Scottish secure tenancy](section/35.md)
+      - [s. 35A Extension of term of short Scottish secure tenancy](section/35A.md)
+      - [s. 36 Recovery of possession](section/36.md)
+      - [s. 37 Conversion to Scottish secure tenancy](section/37.md)
+    - Miscellaneous and general
+      - [s. 38 Appeals](section/38.md)
+      - [s. 39 Application of sections 23 to 33 to other tenancies](section/39.md)
+      - [s. 40 Notices](section/40.md)
+      - [s. 41 Interpretation of Chapter 1](section/41.md)
+  - CHAPTER 2 RIGHT TO BUY
+    - [s. 42 The qualifying conditions](section/42.md)
+    - [s. 43 Exemptions from right to buy](section/43.md)
+    - [s. 44 Limitation on right to buy: registered social landlords](section/44.md)
+    - [s. 45 Limitation on right to buy: pressured areas](section/45.md)
+    - [s. 46 Limitation on right to buy: arrears of rent, council tax etc.](section/46.md)
+    - [s. 47 Limitation on right to buy: conduct](section/47.md)
+    - [s. 48 Houses liable to demolition](section/48.md)
+    - [s. 49 Discounts](section/49.md)
+    - [s. 50 Assistance to tenants to obtain other accommodation](section/50.md)
+    - [s. 51 Right to buy: miscellaneous repeals](section/51.md)
+    - [s. 52 Reports on right to buy](section/52.md)
+  - CHAPTER 3 TENANT PARTICIPATION
+    - [s. 53 Tenant participation](section/53.md)
+    - [s. 54 Consultation with tenants and registered tenant organisations](section/54.md)
+    - [s. 55 Tenant management agreements](section/55.md)
+    - [s. 56 Tenant management agreements: further provision](section/56.md)
+- PART 3 REGULATION OF SOCIAL LANDLORDS
+  - CHAPTER 1 REGISTERED SOCIAL LANDLORDS
+    - Registration
+      - [s. 57 The register of social landlords](section/57.md)
+      - [s. 58 Eligibility for registration](section/58.md)
+      - [s. 59 Registration](section/59.md)
+      - [s. 60 Removal from the register](section/60.md)
+      - [s. 61 Criteria for registration or removal from register](section/61.md)
+      - [s. 62 Appeal against decision on registration or removal](section/62.md)
+    - Regulation
+      - [s. 63 Regulation of registered social landlords](section/63.md)
+      - [s. 64 Insolvency etc. of registered social landlords](section/64.md)
+    - Disposal of land and related matters
+      - [s. 65 Power of registered social landlord to dispose of land](section/65.md)
+      - [s. 66 Consent required for disposal of land by registered social landlord](section/66.md)
+      - [s. 67 Disposals not requiring consent](section/67.md)
+      - [s. 68 Disposals of land: consultation with tenants](section/68.md)
+    - Delegation of functions
+      - [s. 68A Power to direct certain registered social landlords to delegate functions](section/68A.md)
+    - Housing management
+      - [s. 69 Inspections](section/69.md)
+      - [s. 70 Inspection reports](section/70.md)
+      - [s. 71 Appointment of manager](section/71.md)
+  - CHAPTER 2 LOCAL AUTHORITY HOUSING MANAGEMENT
+    - [s. 72 Inspections](section/72.md)
+    - [s. 73 Inspection reports](section/73.md)
+    - [s. 74 Remedial plans](section/74.md)
+    - [s. 75 Remedial plans: appointment of manager](section/75.md)
+  - CHAPTER 3 COMMON PROVISIONS
+    - Disposals of tenanted houses: consultation and consent
+      - [s. 76 Disposals of tenanted houses: consultation and consent](section/76.md)
+    - Information
+      - [s. 77 Power to obtain information](section/77.md)
+      - [s. 78 Power to obtain information: further provision](section/78.md)
+    - Guidance
+      - [s. 79 Issue of guidance by the Scottish Ministers](section/79.md)
+    - Code of good practice
+      - [s. 80 Code of good practice](section/80.md)
+    - Charges for regulatory functions
+      - [s. 81 Charges for regulatory functions of the Scottish Ministers](section/81.md)
+  - CHAPTER 4 INTERPRETATION OF PART 3
+    - [s. 82 Meaning of “subsidiary” and “associate”](section/82.md)
+    - [s. 83 Interpretation of Part 3](section/83.md)
+- PART 4 SCOTTISH HOMES
+  - [s. 84 Transfer of functions to the Scottish Ministers](section/84.md)
+  - [s. 85 Property and liabilities](section/85.md)
+  - [s. 86 Transfer of staff](section/86.md)
+  - [s. 87 Dissolution etc.](section/87.md)
+- PART 5 STRATEGIC HOUSING FUNCTIONS
+  - ...
+    - [s. 88 Statement on fuel poverty](section/88.md)
+  - Local authorities
+    - [s. 89 Local housing strategies](section/89.md)
+    - [s. 90 Grants for housing purposes](section/90.md)
+    - [s. 91 Grants for housing support services](section/91.md)
+    - [s. 92 Assistance for housing purposes](section/92.md)
+    - [s. 93 Assistance for housing purposes: further provision](section/93.md)
+    - [s. 94 Alteration of housing finance arrangements](section/94.md)
+  - Meaning of “fuel poverty”
+    - [s. 95 Meaning of “fuel poverty”](section/95.md)
+- PART 6 GRANTS FOR IMPROVEMENT, REPAIRS ETC.
+  - Improvement grants
+    - [s. 96 Extension of power to make improvement grants](section/96.md)
+    - [s. 97 Application for grant](section/97.md)
+    - [s. 98 Age of buildings eligible for grant](section/98.md)
+    - [s. 99 Applicant’s contribution to expense of works](section/99.md)
+    - [s. 100 Approval of application](section/100.md)
+    - [s. 101 Amount of grant](section/101.md)
+    - [s. 102 Improvement grants: the tolerable standard and standard amenities](section/102.md)
+  - Repairs grants
+    - [s. 103 Amount of repairs grant](section/103.md)
+  - Fire escape grants
+    - [s. 104 Grants for means of escape from fire](section/104.md)
+  - Improvement of energy efficiency and safety
+    - [s. 105 Improvement of energy efficiency and safety](section/105.md)
+- PART 7 MISCELLANEOUS AND GENERAL
+  - Miscellaneous
+    - [s. 106 Equal opportunities](section/106.md)
+    - [s. 107 Local authority maintenance of houses etc. of registered social landlord](section/107.md)
+    - [s. 108 Meaning of “family” and “spouse”: cohabitation](section/108.md)
+  - General
+    - [s. 109 Orders and regulations](section/109.md)
+    - [s. 110 Ancillary provision](section/110.md)
+    - [s. 111 Interpretation](section/111.md)
+    - [s. 112 Modification of enactments](section/112.md)
+    - [s. 113 Commencement and short title](section/113.md)
+- SCHEDULE 1 TENANCIES WHICH ARE NOT SCOTTISH SECURE TENANCIES
+  - [Sch. 1 para. 1 Premises occupied under contract of employment](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Police and fire service accommodation](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Lettings to students](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Temporary accommodation during work](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Accommodation for homeless persons](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Accommodation for offenders](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Shared ownership agreements](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Agricultural and business premises](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Houses part of, or within curtilage of, certain other buildings](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Accommodation in property not owned by landlord](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 ...](schedule/1/paragraph/11.md)
+- SCHEDULE 2 SCOTTISH SECURE TENANCY: GROUNDS FOR RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT’S INTEREST
+  - PART 1 GROUNDS ON WHICH COURT MAY ORDER RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT’S INTEREST
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 15A](schedule/2/paragraph/15A.md)
+  - PART 2 SUITABILITY OF ACCOMMODATION
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 SUCCESSION TO SCOTTISH SECURE TENANCY: QUALIFIED PERSONS
+  - [Sch. 3 para. 1 Qualified persons](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 4A Only or principal home](schedule/3/paragraph/4A.md)
+  - [Sch. 3 para. 5 Special rule: specially adapted house](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Order of succession](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Notification of right to succeed to tenancy](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Declining a tenancy](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Qualified persons: co-operative housing associations](schedule/3/paragraph/12.md)
+- SCHEDULE 4 SCOTTISH SECURE TENANCY: LANDLORD’S REPAIRING OBLIGATIONS
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 SCOTTISH SECURE TENANCY: ALTERATIONS, KEEPING PETS, ASSIGNATION, SUBLETTING, EXCHANGE ETC.
+  - PART 1 ALTERATIONS ETC. TO HOUSE
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Part 1A Keeping pets
+    - [Sch. 5 para. 8A](schedule/5/paragraph/8A.md)
+    - [Sch. 5 para. 8B](schedule/5/paragraph/8B.md)
+    - [Sch. 5 para. 8C](schedule/5/paragraph/8C.md)
+    - [Sch. 5 para. 8D](schedule/5/paragraph/8D.md)
+    - [Sch. 5 para. 8E](schedule/5/paragraph/8E.md)
+    - [Sch. 5 para. 8F](schedule/5/paragraph/8F.md)
+    - [Sch. 5 para. 8G](schedule/5/paragraph/8G.md)
+    - [Sch. 5 para. 8H](schedule/5/paragraph/8H.md)
+  - PART 2 ASSIGNATION, SUBLETTING, EXCHANGE ETC.
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 GROUNDS FOR GRANTING SHORT SCOTTISH SECURE TENANCY
+  - [Sch. 6 para. 1 Previous anti-social behaviour](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Anti-social behaviour order](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 2A Other antisocial behaviour](schedule/6/paragraph/2A.md)
+  - [Sch. 6 para. 3 Temporary letting to person seeking accommodation](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Temporary letting pending development](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Accommodation for homeless persons](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Accommodation for person in receipt of housing support](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Accommodation in property not owned by landlord](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 7A Temporary letting where other property owned](schedule/6/paragraph/7A.md)
+- SCHEDULE 7 REGULATION OF REGISTERED SOCIAL LANDLORDS
+  - PART 1 CONTROL OF PAYMENTS TO MEMBERS ETC.
+    - [Sch. 7 para. 1 Payments by way of gift, dividend or bonus](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2 Payments and benefits to officers and employees etc.](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3 Maximum amounts payable by way of fees, expenses, etc.](schedule/7/paragraph/3.md)
+  - PART 2 CONSTITUTION, CHANGE OF RULES, AMALGAMATION AND DISSOLUTION
+    - [Sch. 7 para. 4 General power to remove director, trustee etc.](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5 Industrial and provident society: power to appoint new committee member](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6 Company: power to appoint new director](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7 Change of rules etc. by industrial and provident society](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8 Change of articles of association of company](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9 Amalgamation and dissolution etc. of industrial and provident society](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10 Arrangement, reconstruction etc. of company](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11 Power of the Scottish Ministers to petition for winding up](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12 Transfer of net assets on dissolution or winding up](schedule/7/paragraph/12.md)
+  - PART 3 ACCOUNTS AND AUDIT
+    - [Sch. 7 para. 13 General requirements as to accounts and audit](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14 Appointment of auditors by industrial and provident societies](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15 Responsibility for securing compliance with accounting requirements](schedule/7/paragraph/15.md)
+  - PART 4 INQUIRY INTO AFFAIRS OF REGISTERED SOCIAL LANDLORDS
+    - [Sch. 7 para. 16 Inquiry](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17 Extraordinary audit for purposes of inquiry](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18 General powers exercisable as a result of inquiry or audit](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19 Power to direct transfer of land](schedule/7/paragraph/19.md)
+- SCHEDULE 8 INSOLVENCY ETC. OF REGISTERED SOCIAL LANDLORDS
+  - [Sch. 8 para. 1 Interpretation](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Initial notice to be given to the Scottish Ministers](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Further notice to be given to the Scottish Ministers](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Moratorium on disposal of land etc.](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5 Period of moratorium](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6 Proposals as to ownership and management of landlord’s land](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7 Effect of agreed proposals](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8 Appointment of manager to implement agreed proposals](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9 Powers of the manager](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10 Powers of the manager: transfer of engagements](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11 Assistance by the Scottish Ministers](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12 Application to court to secure compliance with agreed proposals](schedule/8/paragraph/12.md)
+- SCHEDULE 9 CONSULTATION BEFORE CERTAIN DISPOSALS BY LOCAL AUTHORITY LANDLORD OR REGISTERED SOCIAL LANDLORD
+  - [Sch. 9 para. 1 Disposals to which this schedule applies](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 Application for consent of the Scottish Ministers](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Requirements as to consultation](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Power to require further consultation](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5 Consent to be withheld unless majority of tenants in favour](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 Protection of purchasers](schedule/9/paragraph/6.md)
+- SCHEDULE 10 MODIFICATION OF ENACTMENTS
+  - [Sch. 10 para. 1 New Towns (Scotland) Act 1968 (c.16)](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Friendly and Industrial and Provident Societies Act 1968 (c.55)](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Land Compensation (Scotland) Act 1973 (c.56)](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Land Tenure Reform (Scotland) Act 1974 (c.38)](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 House of Commons Disqualification Act 1975 (c.24)](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 Local Government (Scotland) Act 1975 (c.30)](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8 Finance Act 1981 (c.35)](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9 Rent (Scotland) Act 1984 (c.58)](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10 Bankruptcy (Scotland) Act 1985 (c.66)](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11 Housing Associations Act 1985 (c.69)](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12 Housing (Scotland) Act 1986 (c.65)](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13 Housing (Scotland) Act 1987 (c.26)](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14 Housing (Scotland) Act 1988 (c.43)](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15 Housing Act 1988 (c.50)](schedule/10/paragraph/15.md)
+  - [Sch. 10 para. 16 Local Government and Housing Act 1989 (c.42)](schedule/10/paragraph/16.md)
+  - [Sch. 10 para. 17 Social Security Administration Act 1992 (c.5)](schedule/10/paragraph/17.md)
+  - [Sch. 10 para. 18 Taxation of Chargeable Gains Act 1992 (c.12)](schedule/10/paragraph/18.md)
+  - [Sch. 10 para. 19 Local Government Finance Act 1992 (c.14)](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 20 Leasehold Reform, Housing and Urban Development Act 1993 (c.28)](schedule/10/paragraph/20.md)
+  - [Sch. 10 para. 21 Local Government etc. (Scotland) Act 1994 (c.39)](schedule/10/paragraph/21.md)
+  - [Sch. 10 para. 22 Requirements of Writing (Scotland) Act 1995 (c.7)](schedule/10/paragraph/22.md)
+  - [Sch. 10 para. 23 Children (Scotland) Act 1995 (c.36)](schedule/10/paragraph/23.md)
+  - [Sch. 10 para. 24 Housing Act 1996 (c.52)](schedule/10/paragraph/24.md)
+  - [Sch. 10 para. 25 Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](schedule/10/paragraph/25.md)
+  - [Sch. 10 para. 26 Data Protection Act 1998 (c.29)](schedule/10/paragraph/26.md)
+  - [Sch. 10 para. 27 Crime and Disorder Act 1998 (c.37)](schedule/10/paragraph/27.md)
+  - [Sch. 10 para. 28 Public Finance and Accountability (Scotland) Act 2000 (asp 1)](schedule/10/paragraph/28.md)
+  - [Sch. 10 para. 29 Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](schedule/10/paragraph/29.md)
