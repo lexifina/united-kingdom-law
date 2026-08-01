@@ -1,0 +1,298 @@
+# Tertiary Education and Research (Wales) Act 2022
+
+asc/2022/1. Enacted 2022-09-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2022/1
+
+Source: https://www.legislation.gov.uk/asc/2022/1/2026-08-01
+
+## Contents
+
+- PART 1 STRATEGIC FRAMEWORK FOR TERTIARY EDUCATION AND RESEARCH
+  - The Commission
+    - [s. 1 Establishment of the Commission for Tertiary Education and Research](section/1.md)
+  - The Commission’s strategic duties
+    - [s. 2 Promoting life-long learning](section/2.md)
+    - [s. 3 Promoting equality of opportunity](section/3.md)
+    - [s. 4 Encouraging participation in tertiary education](section/4.md)
+    - [s. 5 Promoting continuous improvement in tertiary education](section/5.md)
+    - [s. 6 Promotion of research and innovation](section/6.md)
+    - [s. 7 Promoting collaboration and coherence in tertiary education and research](section/7.md)
+    - [s. 8 Contributing to a sustainable and innovative economy](section/8.md)
+    - [s. 9 Promoting tertiary education through the medium of Welsh](section/9.md)
+    - [s. 10 Promoting a civic mission](section/10.md)
+    - [s. 11 Promoting a global outlook](section/11.md)
+    - [s. 12 Promoting collaboration between providers of tertiary education and trade unions](section/12.md)
+  - Strategy for tertiary education and research
+    - [s. 13 Statement of strategic priorities](section/13.md)
+    - [s. 14 Strategic plan for the Commission](section/14.md)
+    - [s. 15 Approval, publication and implementation of strategic plan](section/15.md)
+    - [s. 16 Review of strategic plan](section/16.md)
+  - Academic freedom and institutional autonomy
+    - [s. 17 Academic freedom of higher education providers and staff](section/17.md)
+    - [s. 18 Institutional autonomy of tertiary education providers](section/18.md)
+  - Compatibility with charity law
+    - [s. 19 Compatibility with charity law and governing documents of tertiary education providers](section/19.md)
+  - Welsh Ministers’ guidance and directions
+    - [s. 20 Guidance](section/20.md)
+    - [s. 21 The Welsh Ministers’ power to give general directions](section/21.md)
+  - Additional functions
+    - [s. 22 Additional functions of the Commission](section/22.md)
+  - Dissolution of Higher Education Funding Council for Wales
+    - [s. 23 Dissolution of the Higher Education Funding Council for Wales](section/23.md)
+    - [s. 24 Transfer schemes](section/24.md)
+- PART 2 REGISTRATION AND REGULATION OF TERTIARY EDUCATION PROVIDERS
+  - CHAPTER 1 REGISTRATION OF TERTIARY EDUCATION PROVIDERS
+    - The register and registration procedure
+      - [s. 25 The register](section/25.md)
+      - [s. 26 Registration procedure](section/26.md)
+    - Registration conditions
+      - [s. 27 Initial registration conditions](section/27.md)
+      - [s. 28 General ongoing registration conditions](section/28.md)
+      - [s. 29 Specific ongoing registration conditions](section/29.md)
+      - [s. 30 Proportionate conditions etc.](section/30.md)
+      - [s. 31 Mandatory ongoing registration conditions for each registered provider](section/31.md)
+      - [s. 32 Mandatory ongoing registration condition on fee limits](section/32.md)
+      - [s. 33 Mandatory ongoing registration conditions on equal opportunity](section/33.md)
+      - [s. 34 Power to provide for further mandatory ongoing registration conditions](section/34.md)
+      - [s. 35 Commission duty to give guidance about ongoing registration conditions](section/35.md)
+    - Monitoring and enforcement of registration conditions
+      - [s. 36 Commission duty to monitor compliance with ongoing registration conditions](section/36.md)
+      - [s. 37 Advice and assistance in respect of compliance with ongoing registration conditions](section/37.md)
+      - [s. 38 Reviews relevant to compliance with ongoing registration conditions](section/38.md)
+      - [s. 39 Directions in respect of failure to comply with ongoing registration conditions](section/39.md)
+      - [s. 40 Supplementary provision about directions under section 39](section/40.md)
+    - De-registration
+      - [s. 41 De-registration](section/41.md)
+      - [s. 42 De-registration: procedure](section/42.md)
+      - [s. 43 Voluntary de-registration and de-registration with consent](section/43.md)
+      - [s. 44 Change of registration category without application](section/44.md)
+    - Registration decision reviews
+      - [s. 45 Registration decision reviews](section/45.md)
+    - Fee limit statements
+      - [s. 46 Requirements of a fee limit statement](section/46.md)
+      - [s. 47 Approval of fee limit statement](section/47.md)
+      - [s. 48 Publication of approved fee limit statement](section/48.md)
+      - [s. 49 Validity of contracts](section/49.md)
+  - CHAPTER 2 QUALITY ASSURANCE AND IMPROVING QUALITY
+    - General quality assurance functions
+      - [s. 50 Quality assurance frameworks](section/50.md)
+      - [s. 51 Duty to monitor, and promote improvement in, the quality of regulated tertiary education](section/51.md)
+      - [s. 52 Advice and assistance in respect of quality of tertiary education](section/52.md)
+      - [s. 53 Reviews relevant to quality of tertiary education](section/53.md)
+    - Assessment of quality in higher education
+      - [s. 54 Assessment of quality of higher education](section/54.md)
+      - [s. 55 Action plans following assessments under section 54](section/55.md)
+      - [s. 56 Exercise of higher education assessment functions by a designated body](section/56.md)
+    - Inspection of further education or training etc.
+      - [s. 57 Duty of the Chief Inspector to inspect and report](section/57.md)
+      - [s. 58 Power of the Chief Inspector to inspect and report](section/58.md)
+      - [s. 59 Duty to provide information and advice to the Commission](section/59.md)
+      - [s. 60 Duty to provide information and advice to the Welsh Ministers](section/60.md)
+      - [s. 61 Additional functions of the Chief Inspector](section/61.md)
+      - [s. 62 Action plans following inspections by the Chief Inspector](section/62.md)
+      - [s. 63 Area inspections](section/63.md)
+      - [s. 64 Right of entry and offences](section/64.md)
+      - [s. 65 Surveys and studies](section/65.md)
+      - [s. 66 Annual reports](section/66.md)
+      - [s. 67 Annual plan of the Chief Inspector](section/67.md)
+      - [s. 68 Funding of inspections and reports on further education and training etc.](section/68.md)
+  - CHAPTER 3 FURTHER ENFORCEMENT AND PROCEDURAL PROVISIONS
+    - Intervention in the conduct of further education institutions
+      - [s. 69 Grounds for intervention](section/69.md)
+      - [s. 70 Powers to intervene](section/70.md)
+      - [s. 71 Notification by the Commission of grounds for intervention](section/71.md)
+      - [s. 72 Welsh Ministers’ statement on intervention powers](section/72.md)
+    - Access to information and facilities
+      - [s. 73 Duty to co-operate](section/73.md)
+      - [s. 74 Powers of entry and inspection](section/74.md)
+    - Warning and review procedure
+      - [s. 75 Application of sections 76 to 78](section/75.md)
+      - [s. 76 Proposed notices and directions: requirement to give warning notice](section/76.md)
+      - [s. 77 Information to be given with notices and directions and effect pending review](section/77.md)
+      - [s. 78 Review of notices and directions](section/78.md)
+      - [s. 79 Decision reviewer](section/79.md)
+    - Miscellaneous duties
+      - [s. 80 Duty to monitor and report on financial sustainability](section/80.md)
+      - [s. 81 Commission’s statement on intervention functions](section/81.md)
+    - Directions
+      - [s. 82 Effect and enforcement of directions](section/82.md)
+  - CHAPTER 4 GENERAL
+    - [s. 83 Designation of other providers of tertiary education](section/83.md)
+    - [s. 84 Interpretation of Part 2](section/84.md)
+- PART 3 SECURING AND FUNDING TERTIARY EDUCATION AND RESEARCH
+  - Funding the Commission
+    - [s. 85 Power of the Welsh Ministers to fund the Commission](section/85.md)
+    - [s. 86 Funding the Commission: limitations on terms and conditions](section/86.md)
+  - Commission’s funding policy
+    - [s. 87 Policy on funding powers](section/87.md)
+  - Funding of higher education
+    - [s. 88 Financial support to specified providers for higher education](section/88.md)
+    - [s. 89 Financial support for higher education courses specified in regulations](section/89.md)
+    - [s. 90 Financial support under sections 88 and 89: terms and conditions](section/90.md)
+    - [s. 91 Financial support under sections 88 and 89: supplementary](section/91.md)
+    - [s. 92 Financial support by Welsh Ministers for certain higher education courses](section/92.md)
+  - Further education and training
+    - [s. 93 Education and training for persons aged 16 to 19](section/93.md)
+    - [s. 94 Education and training for eligible persons over 19](section/94.md)
+    - [s. 95 Education and training for persons over 19](section/95.md)
+    - [s. 96 Requirements on Commission when securing further education and training](section/96.md)
+    - [s. 97 Financial support for further education or training](section/97.md)
+    - [s. 98 Financial support for further education or training: further provision](section/98.md)
+    - [s. 99 Financial resources for further education or training: terms and conditions](section/99.md)
+    - [s. 100 Means tests](section/100.md)
+    - [s. 101 School sixth-forms](section/101.md)
+    - [s. 102 Persons with additional learning needs](section/102.md)
+  - Financial support for other activities connected to tertiary education
+    - [s. 103 Financial support for other activities connected to tertiary education](section/103.md)
+  - Financial support for apprenticeships
+    - [s. 104 Financial support for apprenticeships](section/104.md)
+  - Research and innovation
+    - [s. 105 Financial support for research and innovation](section/105.md)
+    - [s. 106 Financial support for research and innovation: terms and conditions](section/106.md)
+    - [s. 107 The Commission’s other functions in relation to research and innovation](section/107.md)
+  - Terms and conditions: quality, governance etc., welfare and equal opportunities
+    - [s. 108 Financial support under sections 89, 97 and 104: further provision about terms and conditions](section/108.md)
+  - Collaborating bodies: consent
+    - [s. 109 Consent for payments to collaborating bodies‍](section/109.md)
+  - Financial support directions
+    - [s. 110 Financial support directions](section/110.md)
+- PART 4 APPRENTICESHIPS
+  - Introductory
+    - [s. 111 Meaning of “approved Welsh apprenticeship”](section/111.md)
+    - [s. 112 Meaning of “approved Welsh apprenticeship agreement”](section/112.md)
+    - [s. 113 Meaning of “alternative Welsh apprenticeship”](section/113.md)
+    - [s. 114 Meaning of “apprenticeship framework”](section/114.md)
+  - Functions of the Welsh Ministers
+    - [s. 115 Specification of requirements in relation to approved Welsh apprenticeship](section/115.md)
+    - [s. 116 Consultation by Welsh Ministers about specifications](section/116.md)
+  - Functions of the Commission
+    - [s. 117 Preparation and publication of apprenticeship frameworks](section/117.md)
+    - [s. 118 Register of apprenticeship frameworks](section/118.md)
+    - [s. 119 Power to issue apprenticeship certificates](section/119.md)
+    - [s. 120 Delegation of Commission functions](section/120.md)
+  - Supplementary provisions about apprenticeship agreements
+    - [s. 121 Ineffective provisions of approved Welsh apprenticeship agreements](section/121.md)
+    - [s. 122 Status of approved Welsh apprenticeship agreements](section/122.md)
+    - [s. 123 Transfer of copyright in apprenticeship frameworks](section/123.md)
+    - [s. 124 Crown servants](section/124.md)
+  - General
+    - [s. 125 Interpretation of Part 4](section/125.md)
+- PART 5 LEARNER PROTECTION, COMPLAINTS PROCEDURES AND LEARNER ENGAGEMENT
+  - [s. 126 Learner protection plans](section/126.md)
+  - [s. 127 Complaints procedures](section/127.md)
+  - [s. 128 Qualifying institutions for student complaints scheme](section/128.md)
+  - [s. 129 Learner Engagement Code](section/129.md)
+- PART 6 INFORMATION, ADVICE AND GUIDANCE
+  - [s. 130 Information and advice from the Commission and information from the Welsh Ministers](section/130.md)
+  - [s. 131 Persons required to provide information to the Commission](section/131.md)
+  - [s. 132 Powers to share information](section/132.md)
+  - [s. 133 Power to require application-to-acceptance information](section/133.md)
+  - [s. 134 Use of application-to-acceptance information for research purposes](section/134.md)
+  - [s. 135 Other information, advice and guidance](section/135.md)
+  - [s. 136 Research by the Commission or the Welsh Ministers](section/136.md)
+- PART 7 MISCELLANEOUS AND GENERAL
+  - Higher education corporations
+    - [s. 137 Instruments of government of higher education corporations in Wales](section/137.md)
+    - [s. 138 Articles of government of higher education corporations in Wales](section/138.md)
+    - [s. 139 Dissolution of higher education corporations in Wales](section/139.md)
+  - Consultation about careers services
+    - [s. 140 Duty to consult the Commission on careers services](section/140.md)
+  - General
+    - [s. 141 Data Protection](section/141.md)
+    - [s. 142 Publication](section/142.md)
+    - [s. 143 Regulations](section/143.md)
+    - [s. 144 General interpretation](section/144.md)
+    - [s. 145 Power to provide for the Open University to be treated as a tertiary education provider in Wales](section/145.md)
+    - [s. 146 Power to make consequential and transitional provision etc.](section/146.md)
+    - [s. 147 Minor and consequential amendments](section/147.md)
+    - [s. 148 Coming into force](section/148.md)
+    - [s. 149 Short title](section/149.md)
+- SCHEDULE 1 COMMISSION FOR TERTIARY EDUCATION AND RESEARCH
+  - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Membership](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 The chair and ordinary members](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Associate membership](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Appointment of associate workforce members](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Appointment of associate Commission staff member](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Appointment of associate learner member](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Terms of associate membership etc.](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Removal of associate member from office](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Chief executive and other staff](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Research and Innovation Committee, Quality Committee and other committees](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Chair of the RIC](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Joint committees](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Duty to ensure good value](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Accounts and audit](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Annual reports](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Meaning of “financial year” and “academic year”](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Delegation by the Commission](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19 Delegation by committees](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20 Proceedings](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21 Register of interests](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22 Supplementary powers](schedule/1/paragraph/22.md)
+- SCHEDULE 2 TRANSFERS OF PROPERTY AND STAFF TO THE COMMISSION
+  - [Sch. 2 para. 1 Power to make transfer schemes](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Modification of transfer schemes](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Duty to lay transfer schemes before Senedd Cymru](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Interpretation](schedule/2/paragraph/4.md)
+- SCHEDULE 3 ASSESSING HIGHER EDUCATION: DESIGNATED BODY
+  - PART 1 DESIGNATION
+    - [Sch. 3 para. 1 Designation](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Bodies suitable to exercise assessment functions](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Removal of designation](schedule/3/paragraph/3.md)
+  - PART 2 OVERSIGHT BY THE COMMISSION
+    - [Sch. 3 para. 4 Application](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Power to provide funding](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Oversight arrangements](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Annual report by the designated body](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Power of the Commission to give directions](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Duty of the Commission to inform the Welsh Ministers about significant concerns](schedule/3/paragraph/9.md)
+  - PART 3 POWER TO CHARGE FEES
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - PART 4 INTERPRETATION
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - [Sch. 4 para. 1 Employment and Training Act 1973 (c. 50)](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Education (Fees and Awards) Act 1983 (c. 40)](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Education (No. 2) Act 1986 (c. 61)](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Employment Act 1988 (c. 19)](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Education Reform Act 1988 (c. 40)](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Further and Higher Education Act 1992 (c. 13)](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Education Act 1994 (c. 30)](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Education Act 1996 (c. 56)](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9 Education Act 1997 (c. 44)](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10 Teaching and Higher Education Act 1998 (c. 30)](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11 School Standards and Framework Act 1998 (c. 31)](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12 Government of Wales Act 1998 (c.38)](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13 Care Standards Act 2000 (c. 14)](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14 Learning and Skills Act 2000 (c. 21)](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15 Education Act 2002 (c. 32)](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16 Higher Education Act 2004 (c. 8)](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17 Children Act 2004 (c. 31)](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18 Education Act 2005 (c. 18)](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19 Commissioner for Older People (Wales) Act 2006 (c. 30)‍](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20 Government of Wales Act 2006 (c. 32)](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21 Safeguarding Vulnerable Groups Act 2006 (c. 47)](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22 Education and Skills Act 2008 (c. 25)](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23 Learner Travel (Wales) Measure 2008 (nawm 2)](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 24 Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](schedule/4/paragraph/24.md)
+  - [Sch. 4 para. 25 Learning and Skills (Wales) Measure 2009 (nawm 1)](schedule/4/paragraph/25.md)
+  - [Sch. 4 para. 26 Equality Act 2010 (c. 15)](schedule/4/paragraph/26.md)
+  - [Sch. 4 para. 27 Children and Families (Wales) Measure 2010 (nawm 1)](schedule/4/paragraph/27.md)
+  - [Sch. 4 para. 28 Welsh Language (Wales) Measure 2011 (nawm 1)](schedule/4/paragraph/28.md)
+  - [Sch. 4 para. 29 School Standards and Organisation (Wales) Act 2013 (anaw 1)](schedule/4/paragraph/29.md)
+  - [Sch. 4 para. 30 Social Services and Well-being (Wales) Act 2014 (anaw 4)](schedule/4/paragraph/30.md)
+  - [Sch. 4 para. 31 Higher Education (Wales) Act 2015 (anaw 1)](schedule/4/paragraph/31.md)
+  - [Sch. 4 para. 32 Well-being of Future Generations (Wales) Act 2015 (anaw 2)](schedule/4/paragraph/32.md)
+  - [Sch. 4 para. 33 Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 (anaw 3)](schedule/4/paragraph/33.md)
+  - [Sch. 4 para. 34 Qualifications Wales Act 2015 (anaw 5)](schedule/4/paragraph/34.md)
+  - [Sch. 4 para. 35 Deregulation Act 2015 (c. 20)](schedule/4/paragraph/35.md)
+  - [Sch. 4 para. 36 Environment (Wales) Act 2016 (anaw 3)](schedule/4/paragraph/36.md)
+  - [Sch. 4 para. 37 Public Health (Wales) Act 2017 (anaw 2)](schedule/4/paragraph/37.md)
+  - [Sch. 4 para. 38 Higher Education and Research Act 2017 (c. 29)](schedule/4/paragraph/38.md)
+  - [Sch. 4 para. 39 Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](schedule/4/paragraph/39.md)
+  - [Sch. 4 para. 40 The Welsh Language Standards (No. 6) Regulations 2017 (S.I. 2017/90)](schedule/4/paragraph/40.md)
+  - [Sch. 4 para. 41 Public Services Ombudsman (Wales) Act 2019 (anaw 3)](schedule/4/paragraph/41.md)
