@@ -1,0 +1,262 @@
+# Prisoners and Criminal Proceedings (Scotland) Act 1993
+
+1993 c. 9. Enacted 1993-03-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 45 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
+
+Source: https://www.legislation.gov.uk/ukpga/1993/9/2026-08-01
+
+## Contents
+
+- Part I Detention, Transfer and Release of Offenders
+  - Early release
+    - [s. 1 Release of short-term, long-term and life prisoners.](section/1.md)
+    - [s. 1AA Release of certain sexual offenders](section/1AA.md)
+    - [s. 1AB Restricted eligibility for release on licence of terrorist prisoners and other prisoners serving a sentence imposed under section 205ZC of the 1995 Act](section/1AB.md)
+    - [s. 1A Application to certain persons serving more than one sentence.](section/1A.md)
+    - [s. 1B Prisoners serving consecutive sentences including at least one terrorism or national security-related sentence](section/1B.md)
+    - [s. 2 Duty to release discretionary life prisoners.](section/2.md)
+    - [s. 2A Rules for section 2(2)(d) cases](section/2A.md)
+    - [s. 2B Assessment under section 2A(1)(a) and (b)](section/2B.md)
+    - [s. 3 Power to release prisoners on compassionate grounds.](section/3.md)
+    - [s. 3AA Further powers to release prisoners](section/3AA.md)
+    - [s. 3A Re-release of prisoners serving serious terrorism sentences, sentences with a fixed licence period and extended sentences.](section/3A.md)
+    - [s. 3C Power to release early](section/3C.md)
+    - [s. 3D Parliamentary scrutiny of regulations made under section 3C](section/3D.md)
+    - [s. 3E Effect of early release from prison or young offenders institution by virtue of regulations](section/3E.md)
+    - [s. 4 Persons detained under Mental Health (Scotland) Act 1984.](section/4.md)
+    - [s. 5 Fine defaulters and persons in contempt of court.](section/5.md)
+    - [s. 6 Application to young offenders and to children detained without limit of time.](section/6.md)
+    - [s. 7 Children detained in solemn proceedings.](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 Persons liable to removal from the United Kingdom.](section/9.md)
+    - [s. 10 Life prisoners transferred to Scotland.](section/10.md)
+    - [s. 10A Transfer of supervision of life prisoners](section/10A.md)
+    - [s. 11 Duration of licence.](section/11.md)
+    - [s. 12 Conditions in licence.](section/12.md)
+    - [s. 12ZA Conditions for persons released on licence under section 3C(3)](section/12ZA.md)
+    - [s. 12AA Conditions for persons released on licence under section 3AA](section/12AA.md)
+    - [s. 12AB Curfew condition](section/12AB.md)
+    - [s. 12A Suspension of licence conditions](section/12A.md)
+    - [s. 12B Certain licences to be replaced by one](section/12B.md)
+    - [s. 13 Supervision of persons released on licence.](section/13.md)
+    - [s. 14 Supervised release of short-term prisoners.](section/14.md)
+    - [s. 15 Variation of supervised release order etc.](section/15.md)
+    - [s. 16 Commission of offence by released prisoner.](section/16.md)
+    - [s. 17 Revocation of licence.](section/17.md)
+    - [s. 17A Recall of prisoners released under section 3AA](section/17A.md)
+    - [s. 18 Breach of supervised release order.](section/18.md)
+    - [s. 19 Appeals in respect of decisions relating to supervised release orders.](section/19.md)
+    - [s. 20 The Parole Board for Scotland.](section/20.md)
+    - [s. 21 Parole advisers.](section/21.md)
+    - [s. 21A Operating protocol for release on licence under section 3AA](section/21A.md)
+  - Miscellaneous
+    - [s. 22 Place of confinement of prisoners.](section/22.md)
+    - [s. 23 Transfer of young offenders to prison or remand centre.](section/23.md)
+    - [s. 24 Additional days for disciplinary offences.](section/24.md)
+    - [s. 25 Provision in prison rules for directions.](section/25.md)
+    - [s. 26 Further amendment of Mental Health (Scotland) Act 1984.](section/26.md)
+  - Terrorism and national security-related sentences
+    - [s. 26ZA Terrorism and national security-related sentences](section/26ZA.md)
+  - Extended sentences
+    - [s. 26A Extended sentences.](section/26A.md)
+    - [s. 26B Parole Board to have regard to risk management plans](section/26B.md)
+  - Timing of release
+    - [s. 26C Release timed to benefit re-integration](section/26C.md)
+  - Interpretation and powers to amend
+    - [s. 27 Interpretation of Part I.](section/27.md)
+    - [s. 27A Power to modify timing of automatic early release](section/27A.md)
+    - [s. 27B Power to make determinations in relation to persons transferred to Scotland](section/27B.md)
+- Part II Criminal Proceedings
+  - Evidence
+    - [s. 28 ................................](section/28.md)
+    - [s. 28A Prints, samples etc. in criminal investigations: supplementary provisions.](section/28A.md)
+    - [s. 28B Use of prints, samples etc.](section/28B.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Evidence as to taking or destruction of eggs.](section/36.md)
+    - [s. 37 ................................](section/37.md)
+  - Procedure
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 ................................](section/43.md)
+- Part III General
+  - [s. 44 Expenses.](section/44.md)
+  - [s. 45 Rules and orders.](section/45.md)
+  - [s. 46 Interpretation.](section/46.md)
+  - [s. 47 Minor and consequential amendments, transitional provisions, savings and repeals.](section/47.md)
+  - [s. 48 Short title, commencement and extent.](section/48.md)
+- SCHEDULE 1 Consecutive and Concurrent Terms of Imprisonment
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Consecutive terms of imprisonment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Concurrent terms of imprisonment
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - Wholly concurrent terms of imprisonment
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Partly concurrent terms of imprisonment
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 1A Offences carrying restricted eligibility of terrorist prisoners for release on licence
+  - PART 1 Terrorism offences punishable with imprisonment for life
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - PART 2 Terrorism offences punishable with imprisonment for more than two years (but not life)
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - PART 3 Other offences punishable with imprisonment for life
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+    - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+    - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+    - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+    - [Sch. 1A para. 19](schedule/1A/paragraph/19.md)
+    - [Sch. 1A para. 20](schedule/1A/paragraph/20.md)
+    - [Sch. 1A para. 21](schedule/1A/paragraph/21.md)
+    - [Sch. 1A para. 22](schedule/1A/paragraph/22.md)
+    - [Sch. 1A para. 23](schedule/1A/paragraph/23.md)
+    - [Sch. 1A para. 24](schedule/1A/paragraph/24.md)
+    - [Sch. 1A para. 25](schedule/1A/paragraph/25.md)
+    - [Sch. 1A para. 26](schedule/1A/paragraph/26.md)
+    - [Sch. 1A para. 27](schedule/1A/paragraph/27.md)
+    - [Sch. 1A para. 28](schedule/1A/paragraph/28.md)
+    - [Sch. 1A para. 29](schedule/1A/paragraph/29.md)
+    - [Sch. 1A para. 30](schedule/1A/paragraph/30.md)
+    - [Sch. 1A para. 31](schedule/1A/paragraph/31.md)
+    - [Sch. 1A para. 32](schedule/1A/paragraph/32.md)
+    - [Sch. 1A para. 33](schedule/1A/paragraph/33.md)
+    - [Sch. 1A para. 34](schedule/1A/paragraph/34.md)
+    - [Sch. 1A para. 35](schedule/1A/paragraph/35.md)
+    - [Sch. 1A para. 36](schedule/1A/paragraph/36.md)
+    - [Sch. 1A para. 37](schedule/1A/paragraph/37.md)
+    - [Sch. 1A para. 38](schedule/1A/paragraph/38.md)
+    - [Sch. 1A para. 39](schedule/1A/paragraph/39.md)
+    - [Sch. 1A para. 40](schedule/1A/paragraph/40.md)
+    - [Sch. 1A para. 41](schedule/1A/paragraph/41.md)
+    - [Sch. 1A para. 42](schedule/1A/paragraph/42.md)
+    - [Sch. 1A para. 43](schedule/1A/paragraph/43.md)
+    - [Sch. 1A para. 44](schedule/1A/paragraph/44.md)
+    - [Sch. 1A para. 45](schedule/1A/paragraph/45.md)
+    - [Sch. 1A para. 46](schedule/1A/paragraph/46.md)
+    - [Sch. 1A para. 47](schedule/1A/paragraph/47.md)
+    - [Sch. 1A para. 48](schedule/1A/paragraph/48.md)
+    - [Sch. 1A para. 49](schedule/1A/paragraph/49.md)
+    - [Sch. 1A para. 50](schedule/1A/paragraph/50.md)
+    - [Sch. 1A para. 51](schedule/1A/paragraph/51.md)
+    - [Sch. 1A para. 52](schedule/1A/paragraph/52.md)
+    - [Sch. 1A para. 53](schedule/1A/paragraph/53.md)
+    - [Sch. 1A para. 54](schedule/1A/paragraph/54.md)
+    - [Sch. 1A para. 55](schedule/1A/paragraph/55.md)
+    - [Sch. 1A para. 56](schedule/1A/paragraph/56.md)
+    - [Sch. 1A para. 57](schedule/1A/paragraph/57.md)
+- SCHEDULE 2 The Parole Board
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+    - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Limitation, termination etc. of appointment of members
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+    - [Sch. 2 para. 2B](schedule/2/paragraph/2B.md)
+    - [Sch. 2 para. 2C](schedule/2/paragraph/2C.md)
+    - [Sch. 2 para. 2D](schedule/2/paragraph/2D.md)
+    - [Sch. 2 para. 2DA](schedule/2/paragraph/2DA.md)
+    - [Sch. 2 para. 2E](schedule/2/paragraph/2E.md)
+    - [Sch. 2 para. 2F](schedule/2/paragraph/2F.md)
+    - [Sch. 2 para. 2G](schedule/2/paragraph/2G.md)
+    - [Sch. 2 para. 2H](schedule/2/paragraph/2H.md)
+  - Automatic reappointment
+    - [Sch. 2 para. 2HA](schedule/2/paragraph/2HA.md)
+    - [Sch. 2 para. 2HB](schedule/2/paragraph/2HB.md)
+  - Performance of duties
+    - [Sch. 2 para. 2J](schedule/2/paragraph/2J.md)
+  - Exercise of chairperson’s functions by other members
+    - [Sch. 2 para. 2K](schedule/2/paragraph/2K.md)
+    - [Sch. 2 para. 2L](schedule/2/paragraph/2L.md)
+  - Removal of members from office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+    - [Sch. 2 para. 3C](schedule/2/paragraph/3C.md)
+    - [Sch. 2 para. 3D](schedule/2/paragraph/3D.md)
+  - Remuneration and allowances
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Reports
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Regulations
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+    - [Sch. 2 para. 6B](schedule/2/paragraph/6B.md)
+- SCHEDULE 3
+  - Production of copy documents
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Statements in business documents
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Documents kept by businesses etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Statements not contained in business documents
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Additional evidence where evidence from business documents challenged
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - General
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Minor and Consequential Amendments
+  - Criminal Procedure (Scotland) Act 1975 (c. 21)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Mental Health (Scotland) Act 1984 (c. 36)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Repatriation of Prisoners Act 1984 (c. 47)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Prisons (Scotland) Act 1989 (c. 45)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Transitional Provisions and Savings
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 6A](schedule/6/paragraph/6A.md)
+  - [Sch. 6 para. 6B](schedule/6/paragraph/6B.md)
+  - [Sch. 6 para. 6C](schedule/6/paragraph/6C.md)
+  - [Sch. 6 para. 6D](schedule/6/paragraph/6D.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Repeals and Revocations
+  - Part I Repeals
+  - Part II Revocations
