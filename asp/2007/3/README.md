@@ -1,0 +1,533 @@
+# Bankruptcy and Diligence etc. (Scotland) Act 2007
+
+asp/2007/3. Enacted 2007-01-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/3
+
+Source: https://www.legislation.gov.uk/asp/2007/3/2026-08-01
+
+## Contents
+
+- Part 1 Bankruptcy
+  - Duration of bankruptcy
+    - [s. 1 Discharge of debtor](section/1.md)
+  - Bankruptcy restrictions orders and undertakings
+    - [s. 2 Bankruptcy restrictions orders and undertakings](section/2.md)
+  - Effect of bankruptcy restrictions orders and undertakings
+    - [s. 3 Disqualification from being appointed as receiver](section/3.md)
+    - [s. 4 Disqualification for nomination, election and holding office as member of local authority](section/4.md)
+    - [s. 5 Orders relating to disqualification](section/5.md)
+  - The trustee in the sequestration
+    - [s. 6 Amalgamation of offices of interim trustee and permanent trustee](section/6.md)
+    - [s. 7 Repeal of trustee’s residence requirement](section/7.md)
+    - [s. 8 Duties of trustee](section/8.md)
+    - [s. 9 Grounds for resignation or removal of trustee](section/9.md)
+    - [s. 10 Termination of interim trustee’s functions](section/10.md)
+    - [s. 11 Statutory meeting and election of trustee](section/11.md)
+    - [s. 12 Replacement of trustee acting in more than one sequestration](section/12.md)
+    - [s. 13 Requirement to hold money in interest bearing account](section/13.md)
+  - Debtor applications
+    - [s. 14 Debtor applications](section/14.md)
+    - [s. 15 Debtor applications by low income, low asset debtors](section/15.md)
+  - Jurisdiction
+    - [s. 16 Sequestration proceedings to be competent only before sheriff](section/16.md)
+  - Vesting of estate and dealings of debtor
+    - [s. 17 Vesting of estate and dealings of debtor](section/17.md)
+  - Income received by debtor after sequestration
+    - [s. 18 Income received by debtor after sequestration](section/18.md)
+  - Debtor’s home and other heritable property
+    - [s. 19 Debtor’s home and other heritable property](section/19.md)
+  - Protected trust deeds
+    - [s. 20 Modification of provisions relating to protected trust deeds](section/20.md)
+  - ...
+    - [s. 21 Modification of composition procedure](section/21.md)
+  - Status and powers of Accountant in Bankruptcy
+    - [s. 22 Status of Accountant in Bankruptcy as officer of the court](section/22.md)
+    - [s. 23 Accountant in Bankruptcy’s power to investigate trustees under protected trust deeds](section/23.md)
+  - Offences
+    - [s. 24 Modification of offences under section 67 of the 1985 Act](section/24.md)
+  - Miscellaneous and general
+    - [s. 25 Debt limits in sequestrations](section/25.md)
+    - [s. 26 Creditor to provide debt advice and information package](section/26.md)
+    - [s. 27 Continuation of sequestration proceedings](section/27.md)
+    - [s. 28 Abolition of summary administration](section/28.md)
+    - [s. 29 Non-vested contingent interest reinvested in debtor](section/29.md)
+    - [s. 30 Debtor’s requirement to give account of state of affairs](section/30.md)
+    - [s. 31 Restriction of debtor’s right to appeal under sections 49(6) and 53(6) of the 1985 Act](section/31.md)
+    - [s. 32 Status of order on petition to convert protected trust deed into sequestration](section/32.md)
+    - [s. 33 Power to provide for lay representation in sequestration proceedings](section/33.md)
+    - [s. 34 Treatment of student loans on sequestration](section/34.md)
+    - [s. 35 Certain regulations under the 1985 Act: procedure](section/35.md)
+    - [s. 36 Minor and consequential amendments of the 1985 Act](section/36.md)
+- Part 2 Floating charges
+  - Registration and creation etc.
+    - [s. 37 Register of Floating Charges](section/37.md)
+    - [s. 38 Creation of floating charges](section/38.md)
+    - [s. 39 Advance notice of floating charges](section/39.md)
+    - [s. 40 Ranking of floating charges](section/40.md)
+    - [s. 41 Ranking clauses](section/41.md)
+    - [s. 42 Assignation of floating charges](section/42.md)
+    - [s. 43 Alteration of floating charges](section/43.md)
+    - [s. 44 Discharge of floating charges](section/44.md)
+    - [s. 45 Effect of floating charges on winding up](section/45.md)
+    - [s. 46 Repeals, savings and transitional arrangements](section/46.md)
+    - [s. 47 Interpretation](section/47.md)
+  - Related further provision
+    - [s. 48 Formalities as to documents](section/48.md)
+    - [s. 49 Industrial and provident societies](section/49.md)
+- Part 3 Officers of court
+  - Scottish Civil Enforcement Commission
+    - [s. 50 Scottish Civil Enforcement Commission](section/50.md)
+  - Advisory Council on Messengers-at-Arms and Sheriff Officers
+    - [s. 51 Advisory Council’s annual report](section/51.md)
+    - [s. 52 Publication of guidance and other information](section/52.md)
+    - [s. 53 Published information not to enable identification](section/53.md)
+    - [s. 54 Register of judicial officers](section/54.md)
+    - [s. 55 Code of practice](section/55.md)
+    - [s. 56 Publication of information relating to informal debt collection](section/56.md)
+  - Judicial officers
+    - [s. 57 Judicial officers](section/57.md)
+    - [s. 58 Appointment of judicial officer](section/58.md)
+    - [s. 59 Annual fee](section/59.md)
+  - Abolition of offices of messenger-at-arms and sheriff officer
+    - [s. 60 Abolition of offices of messenger-at-arms and sheriff officer](section/60.md)
+  - Regulation of officers of court
+    - [s. 61 Regulation of officers of court](section/61.md)
+    - [s. 62 Duty to notify Lord President and sheriff principal of bankruptcy etc.](section/62.md)
+  - Officers of court’s professional association
+    - [s. 63 Officers of court’s professional association](section/63.md)
+    - [s. 63A Code of practice](section/63A.md)
+    - [s. 64 Duty of professional association to forward complaints ...](section/64.md)
+    - [s. 65 Information from professional association](section/65.md)
+  - Annual fee for officers of court
+    - [s. 65A Annual fee](section/65A.md)
+  - Investigation of officers of court
+    - [s. 66 Inspection of officer of court](section/66.md)
+    - [s. 67 Investigation of alleged misconduct by judicial officer](section/67.md)
+    - [s. 68 Suspension of judicial officer pending outcome of disciplinary or criminal proceedings](section/68.md)
+    - [s. 69 Commission’s duty in relation to offences or misconduct by judicial officer](section/69.md)
+    - [s. 70 Commission’s power in relation to judicial officer’s bankruptcy etc.](section/70.md)
+  - Disciplinary proceedings
+    - [s. 71 Referrals to the disciplinary committee](section/71.md)
+    - [s. 72 Disciplinary committee’s powers](section/72.md)
+    - [s. 73 Orders under sections 68 and 72: supplementary provision](section/73.md)
+  - Appeals
+    - [s. 74 Appeals from decisions under sections 58, 68 and 72](section/74.md)
+  - Miscellaneous
+    - [s. 75 Officer of court’s actions void where officer has interest](section/75.md)
+    - [s. 76 Measure of damages payable by judicial officer for negligence or other fault](section/76.md)
+    - [s. 77 Effect of code of practice](section/77.md)
+    - [s. 78 Electronic publications and communications](section/78.md)
+- Part 4 Land attachment and residual attachment
+  - Chapter 1 Abolition of adjudication for debt
+    - [s. 79 Abolition of adjudication for debt](section/79.md)
+    - [s. 80 Renaming of the Register of Inhibitions and Adjudications](section/80.md)
+  - Chapter 2 Attachment of land
+    - Land attachment
+      - [s. 81 Land attachment](section/81.md)
+      - [s. 82 Attachable land](section/82.md)
+      - [s. 83 Notice of land attachment](section/83.md)
+    - Consequences of land attachment
+      - [s. 84 Debts secured by land attachment not rendered heritable](section/84.md)
+      - [s. 85 Restriction on priority of ranking of certain securities](section/85.md)
+      - [s. 86 Lease granted after registration of notice of land attachment](section/86.md)
+      - [s. 87 Assignation of title deeds etc.](section/87.md)
+      - [s. 88 Acquisition of right to execute land attachment](section/88.md)
+      - [s. 89 Effect of debtor’s death before land attachment created](section/89.md)
+      - [s. 90 Effect of debtor’s death after land attachment created](section/90.md)
+      - [s. 91 Caveat by purchaser under missives](section/91.md)
+    - Preparations for sale of attached land
+      - [s. 92 Application for warrant to sell attached land](section/92.md)
+      - [s. 93 Notice to local authority of application for warrant for sale](section/93.md)
+      - [s. 94 Preliminary hearing on application for warrant to sell](section/94.md)
+      - [s. 95 Valuation report](section/95.md)
+      - [s. 96 Creditor’s duties prior to full hearing on application for warrant for sale](section/96.md)
+      - [s. 97 Full hearing on application for warrant for sale](section/97.md)
+      - [s. 98 Application for warrant for sale of sole or main residence](section/98.md)
+      - [s. 99 Protection of purchaser under contract where creditor applies for warrant for sale](section/99.md)
+      - [s. 100 Protection of purchaser under contract where warrant for sale granted](section/100.md)
+      - [s. 101 Provision supplementary to sections 99 and 100](section/101.md)
+      - [s. 102 Warrant for sale of attached land owned in common](section/102.md)
+      - [s. 103 Intimation of sheriff’s decision at full hearing](section/103.md)
+      - [s. 104 Supplementary orders as respects sale](section/104.md)
+      - [s. 105 Effect of certain refusals of application for warrant for sale under section 97(5)](section/105.md)
+      - [s. 106 Termination of debtor’s right to occupy land](section/106.md)
+      - [s. 107 Consequences of giving notice under section 106(1)](section/107.md)
+    - The sale
+      - [s. 108 Appointed person](section/108.md)
+      - [s. 109 Method of sale](section/109.md)
+      - [s. 110 Legal incapacity or disability of debtor not to affect title of purchaser](section/110.md)
+      - [s. 111 Title of purchaser not to be affected by certain irregularities](section/111.md)
+      - [s. 112 Effect of registration of disposition on securities](section/112.md)
+      - [s. 113 Report of sale](section/113.md)
+      - [s. 114 Audit of report of sale](section/114.md)
+      - [s. 115 Sheriff’s consideration of report](section/115.md)
+      - [s. 116 Proceeds of sale](section/116.md)
+    - Foreclosure
+      - [s. 117 Foreclosure](section/117.md)
+      - [s. 118 Registration of decree of foreclosure](section/118.md)
+    - Payments to account and expenses
+      - [s. 119 Ascription](section/119.md)
+      - [s. 120 Expenses of land attachment](section/120.md)
+    - Termination, discharge etc. of land attachment
+      - [s. 121 Termination by payment etc.](section/121.md)
+      - [s. 122 Discharge](section/122.md)
+      - [s. 123 Recall and restriction of land attachment](section/123.md)
+      - [s. 124 Duration of land attachment](section/124.md)
+    - Land attachment subsequent to reduction of deed granted in breach of inhibition
+      - [s. 125 Land attachment subsequent to reduction of deed granted in breach of inhibition](section/125.md)
+    - General and miscellaneous
+      - [s. 126 Land attachment as heritable security](section/126.md)
+      - [s. 127 Statement on impact of land attachment](section/127.md)
+      - [s. 127A Amendment of Bankruptcy (Scotland) Act 2016](section/127A.md)
+      - [s. 128 Interpretation](section/128.md)
+  - Chapter 3 Residual attachment
+    - Residual attachment
+      - [s. 129 Residual attachment](section/129.md)
+    - Application for residual attachment order
+      - [s. 130 Application for residual attachment order](section/130.md)
+      - [s. 131 Effect of application for residual attachment order](section/131.md)
+    - Residual attachment order
+      - [s. 132 Residual attachment order](section/132.md)
+      - [s. 133 Schedule of residual attachment](section/133.md)
+      - [s. 134 Creation and effect of residual attachment](section/134.md)
+    - Satisfaction order
+      - [s. 135 Application for satisfaction order](section/135.md)
+      - [s. 136 Satisfaction order](section/136.md)
+      - [s. 137 Intimation of court’s decision](section/137.md)
+      - [s. 138 Effect of certain refusals of application for satisfaction order](section/138.md)
+    - Termination, discharge etc. of residual attachment
+      - [s. 139 Termination by payment etc.](section/139.md)
+      - [s. 140 Recall](section/140.md)
+      - [s. 141 Duration of residual attachment](section/141.md)
+      - [s. 142 Effect of death of debtor](section/142.md)
+    - General and miscellaneous
+      - [s. 143 Expenses of residual attachment](section/143.md)
+      - [s. 144 Ascription](section/144.md)
+      - [s. 145 Interpretation](section/145.md)
+- Part 5 Inhibition
+  - Creation
+    - [s. 146 Certain decrees and documents of debt to authorise inhibition without need for letters of inhibition](section/146.md)
+    - [s. 147 Provision of debt advice and information package when executing inhibition](section/147.md)
+    - [s. 148 Registration of inhibition](section/148.md)
+    - [s. 148A Register of Inhibitions: electronic signature of documents](section/148A.md)
+    - [s. 149 Date on which inhibition takes effect](section/149.md)
+  - Effect
+    - [s. 150 Property affected by inhibition](section/150.md)
+    - [s. 151 Effect on inhibition to enforce obligation when alternative decree granted](section/151.md)
+    - [s. 152 Effect of conversion of limited inhibition on the dependence to inhibition in execution](section/152.md)
+    - [s. 153 Property affected by inhibition to enforce obligation to convey heritable property](section/153.md)
+    - [s. 154 Inhibition not to confer a preference in ranking](section/154.md)
+    - [s. 155 Power of receiver or liquidator in creditors’ voluntary winding up to dispose of property affected by inhibition](section/155.md)
+  - Termination
+    - [s. 156 Termination of effect of inhibition](section/156.md)
+    - [s. 157 Inhibition terminated by payment of full amount owing](section/157.md)
+    - [s. 158 Inhibition terminated by compliance with obligation to perform](section/158.md)
+    - [s. 159 Termination of inhibition when property acquired by third party](section/159.md)
+  - Breach
+    - [s. 160 Breach of inhibition](section/160.md)
+    - [s. 161 Prescription of right to reduce transactions in breach of inhibition](section/161.md)
+    - [s. 162 Registration of notice of litigiosity and discharge of notice](section/162.md)
+    - [s. 163 Reduction of lease granted in breach of inhibition](section/163.md)
+  - General and miscellaneous
+    - [s. 164 Power to prescribe forms in the 1868 Act](section/164.md)
+    - [s. 165 Expenses of inhibition](section/165.md)
+    - [s. 166 Ascription](section/166.md)
+    - [s. 167 Keeper’s duty to enter inhibition on title sheet](section/167.md)
+    - [s. 168 Inhibition effective against judicial factor](section/168.md)
+- Part 6 Diligence on the dependence
+  - [s. 169 Diligence on the dependence](section/169.md)
+  - [s. 170 Prescription of arrestment](section/170.md)
+  - [s. 171 Abolition of letters of loosing](section/171.md)
+  - [s. 172 Abolition of adjudication in security](section/172.md)
+- Part 7 Interim attachment
+  - [s. 173 Interim attachment](section/173.md)
+- Part 8 Attachment of money
+  - Money attachment
+    - [s. 174 Money attachment](section/174.md)
+    - [s. 175 Meaning of “money” and related expressions](section/175.md)
+    - [s. 176 When money attachment not competent](section/176.md)
+  - Execution of money attachment
+    - [s. 177 Removal of money attached](section/177.md)
+    - [s. 178 Presumption of ownership](section/178.md)
+    - [s. 179 Schedule of money attachment](section/179.md)
+    - [s. 180 Valuation of banking instruments](section/180.md)
+    - [s. 181 Order for realisation of money likely to deteriorate in value](section/181.md)
+    - [s. 182 Report of money attachment](section/182.md)
+  - Release of money attached
+    - [s. 183 Creditor’s application for payment order](section/183.md)
+    - [s. 184 Effect of payment order](section/184.md)
+    - [s. 185 Release of money where attachment unduly harsh](section/185.md)
+    - [s. 186 Invalidity and cessation of money attachment](section/186.md)
+    - [s. 187 Termination of money attachment](section/187.md)
+    - [s. 188 Redemption of banking instrument](section/188.md)
+  - Statement of money attachment
+    - [s. 189 Final statement of money attachment](section/189.md)
+    - [s. 190 Audit of final statement under section 189(1)](section/190.md)
+  - General and miscellaneous
+    - [s. 191 Money in common ownership](section/191.md)
+    - [s. 192 Procedure where money owned in common is disposed of](section/192.md)
+    - [s. 193 Unlawful acts after money attachment](section/193.md)
+    - [s. 194 Appeals](section/194.md)
+    - [s. 195 Recovery from debtor of expenses of money attachment](section/195.md)
+    - [s. 196 Liability for expenses of money attachment](section/196.md)
+    - [s. 197 Ascription](section/197.md)
+    - [s. 198 Interpretation](section/198.md)
+- Part 9 Diligence against earnings
+  - [s. 199 Simultaneous operation of arrestments against earnings where net earnings insufficient](section/199.md)
+  - [s. 200 Arrestment of earnings: deductions from holiday pay](section/200.md)
+  - [s. 201 Provision of debt advice and information package](section/201.md)
+  - [s. 202 Intimation of arrestment schedule](section/202.md)
+  - [s. 203 Provision of information](section/203.md)
+  - [s. 204 Conjoined arrestment orders: jurisdiction](section/204.md)
+  - [s. 205 Arrestment of seamen’s wages](section/205.md)
+- Part 10 Arrestment in execution and action of furthcoming
+  - [s. 206 Arrestment in execution](section/206.md)
+- Part 11 Maills and duties, sequestration for rent and landlord’s hypothec
+  - Abolition of maills and duties
+    - [s. 207 Abolition of maills and duties](section/207.md)
+  - Landlord’s hypothec and sequestration for rent
+    - [s. 208 Abolition of sequestration for rent and restriction of landlord’s hypothec](section/208.md)
+- Part 12 Summary warrants, time to pay and charges to pay
+  - [s. 209 Summary warrants, time to pay and charges to pay](section/209.md)
+  - [s. 210 Time to pay directions and time to pay orders](section/210.md)
+- Part 13 Amendments of the Debt Arrangement and Attachment (Scotland) Act 2002
+  - [s. 211 Debt payment programmes with debt relief](section/211.md)
+  - [s. 212 Further amendments of the Debt Arrangement and Attachment (Scotland) Act 2002](section/212.md)
+- Part 14 Admiralty actions and arrestment of ships
+  - [s. 213 Admiralty actions and the arrestment of ships: modification of enactments](section/213.md)
+- Part 15 Actions for removing from heritable property
+  - [s. 214 Expressions used in this Part](section/214.md)
+  - [s. 215 Procedure for execution of removing](section/215.md)
+  - [s. 216 Service of charge before removing](section/216.md)
+  - [s. 217 When removing not competent](section/217.md)
+  - [s. 218 Preservation of property left in premises](section/218.md)
+  - [s. 219 Caution for pecuniary claims](section/219.md)
+- Part 16 Disclosure of information
+  - [s. 220 Information disclosure](section/220.md)
+- Part 17 General and miscellaneous
+  - [s. 221 Interpretation](section/221.md)
+  - Execution of diligence: electronic standard securities
+    - [s. 222 Registration and execution of electronic standard securities](section/222.md)
+  - General
+    - [s. 223 Crown application](section/223.md)
+    - [s. 224 Orders and regulations](section/224.md)
+    - [s. 225 Ancillary provision](section/225.md)
+    - [s. 226 Minor and consequential amendments and repeals](section/226.md)
+    - [s. 227 Short title and commencement](section/227.md)
+- SCHEDULE 1 Minor and consequential amendments of the 1985 Act
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+  - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+  - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+  - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+  - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+  - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+  - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+  - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+  - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+  - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+  - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+  - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+  - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+  - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+  - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+  - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+  - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+  - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+  - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+- SCHEDULE 2 The Scottish Civil Enforcement Commission
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Membership
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Tenure of office
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Filling vacancies
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Chairperson
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Disciplinary Committee
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Remuneration
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - General powers
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Quorum
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Structure and procedures
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Chief executive officer and other staff
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Location of office
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - Financing by the Scottish Ministers
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Accounts and audit
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+- SCHEDULE 3 Expenses of money attachment
+  - Expenses chargeable against the debtor
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Circumstances where no expenses are due to or by either party
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Modifications of enactments relating to admiralty actions and the arrestment of ships
+  - Definition of “maritime lien”
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The term “admiralty action”
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Arrestment in rem granted by the sheriff
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Arrestment on the dependence
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Liability for losses and expenses
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Factors affecting arrestments
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Cargo on board a ship exempt from attachment
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Location of a ship when arrestment executed
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Demise charters
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - The Companies Clauses Consolidation (Scotland) Act 1845 (c. 17)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Harbours, Docks and Piers Clauses Act 1847 (c. 27)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Titles to Land Consolidation (Scotland) Act 1868 (c. 101)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - The Writs Execution (Scotland) Act 1877 (c. 40)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Judicial Factors (Scotland) Act 1889 (c. 39)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - The Sheriff Courts (Scotland) Extracts Act 1892 (c. 17)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Execution of Diligence (Scotland) Act 1926 (c. 16)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - The Local Government (Scotland) Act 1947 (c. 43)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - The Taxes Management Act 1970 (c. 9)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - The Sheriff Courts (Scotland) Act 1971 (c. 58)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - The Animal Health Act 1981 (c. 22)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - The Civil Jurisdiction and Judgments Act 1982 (c. 27)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - The Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - The Insolvency Act 1986 (c. 45)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - The Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - The Debtors (Scotland) Act 1987 (c. 18)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - The Abolition of Domestic Rates etc. (Scotland) Act 1987 (c. 47)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - The Child Support Act 1991 (c. 48)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - The Social Security Administration Act 1992 (c. 5)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - The Local Government Finance Act 1992 (c. 14)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - The Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - The Proceeds of Crime (Scotland) Act 1995 (c. 43)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - The Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - The Finance Act 1997 (c. 16)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - The Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - The Water Industry (Scotland) Act 2002 (asp 3)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - The Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - The Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - The Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - The Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - The Finance Act 2003 (c. 14)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+  - The Civil Partnership Act 2004 (c. 33)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+- SCHEDULE 6 Repeals and revocation
+  - Part 1 Repeals
+  - Part 2 Revocation
