@@ -1,0 +1,1650 @@
+# Transport Act 2000
+
+2000 c. 38. Enacted 2000-11-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 91 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
+
+Source: https://www.legislation.gov.uk/ukpga/2000/38/2026-08-05
+
+## Contents
+
+- Part I Air traffic
+  - Chapter I Air traffic services
+    - General duties
+      - [s. 1 Secretary of State’s general duty.](section/1.md)
+      - [s. 2 CAA’s general duty.](section/2.md)
+    - Restrictions
+      - [s. 3 Restrictions on providing services.](section/3.md)
+      - [s. 4 Exemptions.](section/4.md)
+      - [s. 5 Licences: general.](section/5.md)
+      - [s. 6 Licences: grant.](section/6.md)
+      - [s. 7 Licences: provisions.](section/7.md)
+      - [s. 8 Duties of licence holders.](section/8.md)
+      - [s. 9 Power to exclude services from effect of section 8.](section/9.md)
+      - [s. 10 Breach of duties or conditions.](section/10.md)
+    - Modification of licences
+      - [s. 11 Modification of a licence](section/11.md)
+      - [s. 11A Modification of licence: procedure](section/11A.md)
+      - [s. 11B Restrictions on power to modify licence conditions](section/11B.md)
+      - [s. 12 References to Competition and Markets Authority.](section/12.md)
+      - [s. 12A References under section 12: time limits](section/12A.md)
+      - [s. 12B References under section 12: application of Enterprise Act 2002](section/12B.md)
+      - [s. 13 Reports on references.](section/13.md)
+      - [s. 14 Modification following report.](section/14.md)
+      - [s. 15 CMA’s power to give direction.](section/15.md)
+      - [s. 16 Position where CMA gives direction.](section/16.md)
+      - [s. 17 CMA’s duty as to modifications under section 16.](section/17.md)
+      - [s. 18 Sections 15 and 16: general.](section/18.md)
+      - [s. 19 Modification by order under other enactments.](section/19.md)
+    - Appeal against modification of licence conditions
+      - [s. 19A Appeal to Competition and Markets Authority](section/19A.md)
+      - [s. 19B When appeals may be allowed](section/19B.md)
+      - [s. 19C Determination of appeal](section/19C.md)
+      - [s. 19D Determination of appeal: time limits](section/19D.md)
+      - [s. 19E Determination of appeal: publication etc](section/19E.md)
+      - [s. 19F Procedure on appeals](section/19F.md)
+    - Enforcement
+      - [s. 20 Enforcement](section/20.md)
+      - [s. 21 Exceptions.](section/21.md)
+      - [s. 22 Procedural requirements.](section/22.md)
+      - [s. 23 Validity of orders.](section/23.md)
+      - [s. 24 Effect of orders.](section/24.md)
+      - [s. 25 Power to obtain information](section/25.md)
+    - Penalties
+      - [s. 25A Imposing penalties](section/25A.md)
+      - [s. 25B Recovering penalties](section/25B.md)
+      - [s. 25C Statement of policy on penalties](section/25C.md)
+    - Administration orders etc.
+      - [s. 26 Protection of licence companies etc.](section/26.md)
+      - [s. 27 Duty to make order.](section/27.md)
+      - [s. 28 Power to make order.](section/28.md)
+      - [s. 29 Air traffic administration orders.](section/29.md)
+      - [s. 30 Petitions and orders: supplementary.](section/30.md)
+      - [s. 31 Government financial help.](section/31.md)
+      - [s. 32 Guarantees under section 31.](section/32.md)
+      - [s. 33 Northern Ireland.](section/33.md)
+    - Miscellaneous
+      - [s. 34 Investigations.](section/34.md)
+      - [s. 35 Register.](section/35.md)
+      - [s. 36 Land.](section/36.md)
+      - [s. 37 Licence holders as statutory undertakers.](section/37.md)
+      - [s. 38 Directions in interests of national security etc.](section/38.md)
+      - [s. 39 Directions relating to the environment.](section/39.md)
+    - Interpretation
+      - [s. 40 Interpretation.](section/40.md)
+      - [s. 40A Connected persons](section/40A.md)
+  - Chapter II Transfer schemes
+    - Introduction
+      - [s. 41 Meaning of transfer scheme.](section/41.md)
+      - [s. 42 Transfer schemes: supplementary.](section/42.md)
+    - CAA’s schemes
+      - [s. 43 Transfer schemes made by CAA.](section/43.md)
+      - [s. 44 Effect of scheme made by CAA.](section/44.md)
+    - Secretary of State’s schemes
+      - [s. 45 Transfer schemes made by Secretary of State.](section/45.md)
+      - [s. 46 Information for purposes of section 45.](section/46.md)
+    - Accounting provisions
+      - [s. 47 Accounting provisions.](section/47.md)
+      - [s. 48 Accounting provisions: interpretation.](section/48.md)
+    - Ownership of transferee companies
+      - [s. 49 Issue of securities.](section/49.md)
+      - [s. 50 Government investment in securities.](section/50.md)
+      - [s. 51 Crown shareholding.](section/51.md)
+    - Transferee companies: other provisions
+      - [s. 52 Loans.](section/52.md)
+      - [s. 53 Guarantees.](section/53.md)
+      - [s. 54 Grants.](section/54.md)
+      - [s. 55 Trustee investments.](section/55.md)
+      - [s. 56 Shadow directors.](section/56.md)
+    - Extinguishment of liabilities
+      - [s. 57 Extinguishment of liabilities.](section/57.md)
+      - [s. 58 Securities to be issued.](section/58.md)
+      - [s. 59 Securities: other provisions.](section/59.md)
+    - Miscellaneous
+      - [s. 60 Enforcement of certain obligations.](section/60.md)
+      - [s. 61 Special provisions about land.](section/61.md)
+      - [s. 62 Exercise of functions through nominees.](section/62.md)
+      - [s. 63 Further provisions about transfer schemes.](section/63.md)
+      - [s. 64 Tax.](section/64.md)
+    - Interpretation
+      - [s. 65 Interpretation.](section/65.md)
+  - Chapter III Air navigation
+    - [s. 66 Air navigation: directions.](section/66.md)
+    - [s. 67 National security.](section/67.md)
+    - [s. 68 Directions: further provision.](section/68.md)
+    - [s. 69 Directions: supplementary.](section/69.md)
+    - [s. 70 General duty.](section/70.md)
+    - [s. 71 Information for purposes of Chapter III.](section/71.md)
+    - [s. 72 Interpretation.](section/72.md)
+  - Chapter IV Charges for air services
+    - Charges
+      - [s. 73 Charges for services.](section/73.md)
+      - [s. 74 Publication, commencement, amendment and revocation.](section/74.md)
+      - [s. 75 Specifications: supplementary.](section/75.md)
+      - [s. 76 Liability, recovery etc.](section/76.md)
+      - [s. 77 Chargeable air services.](section/77.md)
+      - [s. 78 Amounts for recovery etc.](section/78.md)
+      - [s. 79 Further duties of the CAA.](section/79.md)
+      - [s. 80 Secretary of State’s duties.](section/80.md)
+    - Miscellaneous
+      - [s. 81 Records.](section/81.md)
+      - [s. 82 Offences.](section/82.md)
+      - [s. 83 Detention and sale.](section/83.md)
+    - Interpretation
+      - [s. 84 Interpretation.](section/84.md)
+  - Chapter V Competition
+    - [s. 85 Interpretation of Chapter V.](section/85.md)
+    - [s. 86 Functions exercisable by CAA and CMA](section/86.md)
+    - [s. 87 CAA’s 2002 Act functions.](section/87.md)
+    - [s. 88 CAA’s 1998 Act functions.](section/88.md)
+    - [s. 89 Carrying out functions.](section/89.md)
+  - Chapter VI Miscellaneous and general
+    - Miscellaneous
+      - [s. 90 Publication of information and advice.](section/90.md)
+      - [s. 91 Review and information.](section/91.md)
+      - [s. 92 Secretary of State’s directions to CAA.](section/92.md)
+      - [s. 93 Control in time of hostilities etc.](section/93.md)
+      - [s. 94 Orders for possession of aerodromes etc.](section/94.md)
+      - [s. 95 Sections 93 and 94: interpretation.](section/95.md)
+      - [s. 96 Civil Aviation Authority Pension Scheme.](section/96.md)
+      - [s. 97 Amendments.](section/97.md)
+    - General interpretation
+      - [s. 98 Air traffic services.](section/98.md)
+      - [s. 99 The CAA.](section/99.md)
+    - Other general provisions
+      - [s. 100 Service of documents.](section/100.md)
+      - [s. 101 Making of false statements etc.](section/101.md)
+      - [s. 102 Disclosure of information.](section/102.md)
+      - [s. 103 Orders and regulations.](section/103.md)
+      - [s. 104 Directions.](section/104.md)
+      - [s. 105 Crown application.](section/105.md)
+      - [s. 106 The Crown: other provisions.](section/106.md)
+      - [s. 107 Extension outside United Kingdom.](section/107.md)
+- Part II Local transport
+  - Local transport plans and bus strategies
+    - [s. 108 Local transport plans.](section/108.md)
+    - [s. 109 Further provision about plans: England](section/109.md)
+    - [s. 109ZA Combined authorities and combined county authorities: adoption of local transport plans](section/109ZA.md)
+    - [s. 109A Approval of plans: Wales](section/109A.md)
+    - [s. 109B Further provision about plans: Wales](section/109B.md)
+    - [s. 109C Transitional provisions: Wales](section/109C.md)
+    - [s. 110 Bus strategies.](section/110.md)
+    - [s. 111 Consultation and publicity about bus strategies.](section/111.md)
+    - [s. 112 Plans and strategies: supplementary.](section/112.md)
+    - [s. 113 Role of councils in relation to policies etc of ITAs, combined authorities & CCAs](section/113.md)
+    - [s. 113A Modification of provisions about plans and strategies: Wales](section/113A.md)
+    - [s. 113B Directions concerning plans and strategies: Wales](section/113B.md)
+  - Bus network accessibility plans: England
+    - [s. 113BA Bus network accessibility plans](section/113BA.md)
+  - Bus services: advanced quality partnership schemes
+    - [s. 113C Advanced quality partnership schemes](section/113C.md)
+    - [s. 113D Advanced quality partnership schemes: registration restrictions](section/113D.md)
+    - [s. 113E Advanced quality partnership schemes: facilities, measures and standards](section/113E.md)
+    - [s. 113F Advanced quality partnership schemes: traffic regulation orders](section/113F.md)
+    - [s. 113G Notice and consultation requirements](section/113G.md)
+    - [s. 113H Making of scheme](section/113H.md)
+    - [s. 113I Postponement of scheme or of provision of particular facilities, taking of particular measures or provision of particular standards of service](section/113I.md)
+    - [s. 113J Effect of scheme](section/113J.md)
+    - [s. 113K Regulations about schemes involving existing facilities or measures which are already in effect](section/113K.md)
+    - [s. 113L Variation or revocation of schemes](section/113L.md)
+    - [s. 113M Variation: supplementary](section/113M.md)
+    - [s. 113N Regulations about schemes](section/113N.md)
+    - [s. 113O Guidance about schemes](section/113O.md)
+  - Bus services: quality partnership schemes
+    - [s. 114 Quality partnership schemes.](section/114.md)
+    - [s. 115 Notice and consultation requirements.](section/115.md)
+    - [s. 116 Making of scheme.](section/116.md)
+    - [s. 117 Postponement of scheme or of provision of particular facilities or standards of service](section/117.md)
+    - [s. 118 Effect of scheme.](section/118.md)
+    - [s. 119 Regulations about schemes involving existing facilities.](section/119.md)
+    - [s. 120 Variation or revocation of schemes.](section/120.md)
+    - [s. 121 Variation: supplementary.](section/121.md)
+    - [s. 122 Regulations about schemes.](section/122.md)
+    - [s. 123 Guidance about schemes.](section/123.md)
+  - Bus services: franchising schemes
+    - [s. 123A Franchising schemes](section/123A.md)
+    - [s. 123B Assessment of proposed scheme](section/123B.md)
+    - [s. 123C Notice of assessment](section/123C.md)
+    - [s. 123D Audit](section/123D.md)
+    - [s. 123E Consultation](section/123E.md)
+    - [s. 123F Consultation document](section/123F.md)
+    - [s. 123G Response to consultation](section/123G.md)
+    - [s. 123H Making and publication of scheme](section/123H.md)
+    - [s. 123I Postponement of local service contracts](section/123I.md)
+    - [s. 123J Effect of local service contracts: registration requirements and provision of services](section/123J.md)
+    - [s. 123K Local service contracts](section/123K.md)
+    - [s. 123L Exceptions to section 123K](section/123L.md)
+    - [s. 123M Variation of scheme](section/123M.md)
+    - [s. 123MA Variation of scheme: supplementary](section/123MA.md)
+    - [s. 123N Revocation of scheme](section/123N.md)
+    - [s. 123O Interim services and replacement services](section/123O.md)
+    - [s. 123P Service permits](section/123P.md)
+    - [s. 123Q Application for service permit](section/123Q.md)
+    - [s. 123R Conditions](section/123R.md)
+    - [s. 123S Revocation and suspension](section/123S.md)
+    - [s. 123T Appeals](section/123T.md)
+    - [s. 123U Regulations about schemes](section/123U.md)
+    - [s. 123V Transitional provision about schemes](section/123V.md)
+    - [s. 123W Guidance about schemes](section/123W.md)
+    - [s. 123X Local service contracts: application of TUPE](section/123X.md)
+  - Bus services: quality contracts schemes in Wales
+    - [s. 124 Quality contracts schemes.](section/124.md)
+    - [s. 125 Notice and consultation requirements.](section/125.md)
+    - [s. 126 Approval of proposed schemes for areas in Wales](section/126.md)
+    - [s. 126A Boards for proposed schemes for areas in England](section/126A.md)
+    - [s. 126B Advice by boards or their Commissioners](section/126B.md)
+    - [s. 126C Requests for boards to begin consideration etc of proposed schemes](section/126C.md)
+    - [s. 126D Consideration of proposed schemes by boards](section/126D.md)
+    - [s. 126E Practice and procedure of boards](section/126E.md)
+    - [s. 127 Making of scheme.](section/127.md)
+    - [s. 127A Appeals against the making of schemes for areas in England](section/127A.md)
+    - [s. 127B Powers of the Transport Tribunal on an appeal under section 127A](section/127B.md)
+    - [s. 128 Postponement of scheme.](section/128.md)
+    - [s. 129 Effect of scheme.](section/129.md)
+    - [s. 130 Tendering for quality contracts.](section/130.md)
+    - [s. 131 Exceptions from section 130.](section/131.md)
+    - [s. 131A Continuation of schemes for further periods](section/131A.md)
+    - [s. 131B Meaning of “exempt continuation proposal”](section/131B.md)
+    - [s. 131C Continuation of schemes for areas in England: procedure](section/131C.md)
+    - [s. 131D Continuation of schemes for areas in Wales: procedure](section/131D.md)
+    - [s. 131E Appeals where proposed continuation considered exempt](section/131E.md)
+    - [s. 131F Appeals where proposed continuation considered non-exempt](section/131F.md)
+    - [s. 132 Variation or revocation of scheme.](section/132.md)
+    - [s. 132A Appeals where proposed variation considered exempt](section/132A.md)
+    - [s. 132B Exemption from s.132 for specific variations directed by Tribunal](section/132B.md)
+    - [s. 132C Power of authorities to provide services in exceptional circumstances](section/132C.md)
+    - [s. 132D Period for which interim service may be provided](section/132D.md)
+    - [s. 133 Regulations about schemes.](section/133.md)
+    - [s. 134 Transitional provision about schemes.](section/134.md)
+    - [s. 134A Guidance about schemes](section/134A.md)
+    - [s. 134B Quality contracts: application of TUPE](section/134B.md)
+  - Bus services: advanced ticketing schemes
+    - [s. 134C Advanced ticketing schemes](section/134C.md)
+    - [s. 134D Notice and consultation requirements](section/134D.md)
+    - [s. 134E Making of scheme](section/134E.md)
+    - [s. 134F Effect of scheme](section/134F.md)
+    - [s. 134G Guidance](section/134G.md)
+  - Bus services: ticketing schemes
+    - [s. 135 Joint and through ticketing schemes.](section/135.md)
+    - [s. 136 Notice and consultation requirements.](section/136.md)
+    - [s. 137 Making of scheme.](section/137.md)
+    - [s. 138 Effect of scheme.](section/138.md)
+  - Bus services: enhanced partnership plans and schemes
+    - [s. 138A Enhanced partnership plans and schemes](section/138A.md)
+    - [s. 138B Further parties to a scheme](section/138B.md)
+    - [s. 138C Requirements in respect of local services](section/138C.md)
+    - [s. 138CA Requirements enabling travel by persons with disabilities](section/138CA.md)
+    - [s. 138D Facilities and measures](section/138D.md)
+    - [s. 138E Provision relating to variation or revocation](section/138E.md)
+    - [s. 138F Preparation, notice and consultation](section/138F.md)
+    - [s. 138G Making of plans and schemes](section/138G.md)
+    - [s. 138H Content of scheme](section/138H.md)
+    - [s. 138I Postponement of scheme or part of scheme](section/138I.md)
+    - [s. 138J Effect of plans and schemes](section/138J.md)
+    - [s. 138K Variation](section/138K.md)
+    - [s. 138KA Variation where scheme includes provision under section 138E](section/138KA.md)
+    - [s. 138L Variation: preparation, notice and consultation](section/138L.md)
+    - [s. 138M Variation: making the variation](section/138M.md)
+    - [s. 138N Variation: supplementary](section/138N.md)
+    - [s. 138O Revocation](section/138O.md)
+    - [s. 138P Regulations about plans and schemes](section/138P.md)
+    - [s. 138Q Transitional provision about schemes](section/138Q.md)
+    - [s. 138R Guidance about plans and schemes](section/138R.md)
+    - [s. 138S Application of TUPE](section/138S.md)
+  - Bus services: provision of information
+    - [s. 139 Information about bus services.](section/139.md)
+    - [s. 140 Duty of authority to make information available.](section/140.md)
+    - [s. 141 Bus information: supplementary.](section/141.md)
+    - [s. 141A Power to require provision of information about English bus services](section/141A.md)
+  - Bus services: miscellaneous
+    - [s. 142 Traffic regulation conditions to reduce or limit pollution.](section/142.md)
+    - [s. 143 Power to obtain information about local services.](section/143.md)
+    - [s. 143A Power to obtain information: franchising schemes](section/143A.md)
+    - [s. 143B Power to obtain information about local services: enhanced partnership schemes](section/143B.md)
+    - [s. 144 Civil penalties for bus lane contraventions.](section/144.md)
+  - Local transport authority byelaws
+    - [s. 144A Power of local transport authorities to make bus byelaws](section/144A.md)
+    - [s. 144B Byelaws: procedure](section/144B.md)
+    - [s. 144C Byelaws: copies and evidence](section/144C.md)
+    - [s. 144D Powers of authorised persons in relation to byelaws](section/144D.md)
+    - [s. 144E Fixed penalty notices](section/144E.md)
+  - Training of staff
+    - [s. 144F Training about crime and anti-social behaviour](section/144F.md)
+    - [s. 144G Application of training requirement: services in Wales](section/144G.md)
+  - Mandatory travel concessions for journeys not beginning on the London bus network
+    - [s. 145 Mandatory concessions outside Greater London.](section/145.md)
+    - [s. 145A England: mandatory concessions for journeys not beginning on the London bus network](section/145A.md)
+    - [s. 145B Wales: mandatory concessions](section/145B.md)
+    - [s. 146 Mandatory concessions: supplementary.](section/146.md)
+    - [s. 147 Wales: variation of mandatory concessions](section/147.md)
+    - [s. 148 Enforcement.](section/148.md)
+    - [s. 149 Reimbursement of operators.](section/149.md)
+    - [s. 150 Procedure for reimbursement arrangements determined by authority.](section/150.md)
+  - Travel concessions in Greater London
+    - [s. 151 Concessions in Greater London.](section/151.md)
+  - Zero-emission vehicles
+    - [s. 151A Use of zero-emission vehicles for local services in England](section/151A.md)
+  - Financial and competition provisions
+    - [s. 152 Agreements providing for service subsidies.](section/152.md)
+    - [s. 153 Competition test: functions and agreements relating to buses](section/153.md)
+    - [s. 154 Grants to bus service operators.](section/154.md)
+    - [s. 154A Grants by local transport authorities in England](section/154A.md)
+    - [s. 155 Sanctions](section/155.md)
+    - [s. 156 Non-metropolitan transport grants.](section/156.md)
+    - [s. 157 Grants to Integrated Transport Authorities, combined authorities and combined county authorities](section/157.md)
+    - [s. 158 Repayment of grants towards bus fuel duty.](section/158.md)
+    - [s. 159 Abolition of financial plans of Passenger Transport Executives.](section/159.md)
+  - Supplementary
+    - [s. 160 Part II: regulations and orders.](section/160.md)
+    - [s. 161 Part II: minor and consequential amendments.](section/161.md)
+    - [s. 162 Interpretation of Part II.](section/162.md)
+- Part III Road user charging and workplace parking levy
+  - Chapter I Road user charging
+    - Charging schemes
+      - [s. 163 Preliminary.](section/163.md)
+      - [s. 164 Local charging schemes.](section/164.md)
+      - [s. 165 Joint local charging schemes.](section/165.md)
+      - [s. 165A Joint local-ITA charging schemes](section/165A.md)
+      - [s. 166 Joint local-London charging schemes.](section/166.md)
+      - [s. 166A Joint ITA-London charging schemes](section/166A.md)
+      - [s. 167 Trunk road charging schemes.](section/167.md)
+    - Making of charging schemes
+      - [s. 168 Charging schemes to be made by order.](section/168.md)
+      - [s. 169 Confirmation of charging schemes.](section/169.md)
+      - [s. 170 Charging schemes: consultation and inquiries.](section/170.md)
+    - Contents of charging schemes
+      - [s. 171 Matters to be dealt with in charging schemes.](section/171.md)
+      - [s. 172 Charging schemes: supplementary provision as to contents](section/172.md)
+    - Suspension of charging schemes
+      - [s. 172A Suspension of charging schemes](section/172A.md)
+    - Enforcement of charging schemes
+      - [s. 173 Penalty charges.](section/173.md)
+      - [s. 174 Examination, entry, search and seizure.](section/174.md)
+      - [s. 175 Immobilisation etc.](section/175.md)
+    - Supplementary
+      - [s. 176 Equipment etc.](section/176.md)
+      - [s. 177 Traffic signs.](section/177.md)
+      - [s. 177A Power to require information](section/177A.md)
+  - Chapter II Workplace parking levy
+    - Licensing schemes
+      - [s. 178 Preliminary.](section/178.md)
+      - [s. 179 Local licensing schemes.](section/179.md)
+      - [s. 180 Joint local licensing schemes.](section/180.md)
+      - [s. 181 Joint local-London licensing schemes.](section/181.md)
+      - [s. 182 Workplace parking places.](section/182.md)
+    - Making of licensing schemes
+      - [s. 183 Licensing schemes to be made by order.](section/183.md)
+      - [s. 184 Confirmation of licensing schemes.](section/184.md)
+      - [s. 185 Licensing schemes: consultation and inquiries.](section/185.md)
+    - Contents of licensing schemes and licences
+      - [s. 186 Matters to be dealt with in licensing schemes.](section/186.md)
+      - [s. 187 Licensing schemes: exemptions etc.](section/187.md)
+      - [s. 188 Licences.](section/188.md)
+    - Enforcement of licensing schemes
+      - [s. 189 Penalty charges.](section/189.md)
+      - [s. 190 Rights of entry.](section/190.md)
+  - Chapter III General and supplementary
+    - [s. 191 Financial provisions about schemes.](section/191.md)
+    - [s. 192 Powers of authorities.](section/192.md)
+    - [s. 193 Guidance.](section/193.md)
+    - [s. 194 Information.](section/194.md)
+    - [s. 195 Determination of disputes, appeals and evidence.](section/195.md)
+    - [s. 196 Crown application.](section/196.md)
+    - [s. 197 Part III: regulations and orders.](section/197.md)
+    - [s. 198 Interpretation of Part III.](section/198.md)
+    - [s. 199 Amendments of Greater London Authority Act.](section/199.md)
+    - [s. 200 Exemption from local non-domestic rating.](section/200.md)
+- Part IV Railways
+  - Chapter I The Strategic Rail Authority
+    - The Authority
+      - [s. 201 The Authority.](section/201.md)
+      - [s. 202 Membership and chairing.](section/202.md)
+      - [s. 203 Other senior appointments.](section/203.md)
+      - [s. 204 Further provisions.](section/204.md)
+    - Purposes, strategies and exercise of functions
+      - [s. 205 Purposes.](section/205.md)
+      - [s. 206 Strategies.](section/206.md)
+      - [s. 207 Manner of exercise of functions.](section/207.md)
+      - [s. 208 Directions, guidance and advice by Scottish Ministers.](section/208.md)
+      - [s. 209 Directions, guidance and advice: supplementary.](section/209.md)
+      - [s. 210 Validity of transactions.](section/210.md)
+    - Securing provision of railway services and assets etc.
+      - [s. 211 Financial assistance etc.](section/211.md)
+      - [s. 212 Securing of services by franchising.](section/212.md)
+      - [s. 213 Limited additional powers to provide railway services.](section/213.md)
+      - [s. 214 Securing provision of substitute bus and taxi services.](section/214.md)
+    - Functions of Franchising Director, Regulator and Board
+      - [s. 215 Assumption of functions of Franchising Director.](section/215.md)
+      - [s. 216 Assumption of certain functions of the Office of Rail and Road.](section/216.md)
+      - [s. 217 Assumption of Board’s functions relating to transport police.](section/217.md)
+      - [s. 218 Functions relating to Board’s property.](section/218.md)
+    - Other powers
+      - [s. 219 Power to make bye-laws.](section/219.md)
+      - [s. 220 Power to make transfer schemes.](section/220.md)
+      - [s. 221 Power to promote and oppose Bills.](section/221.md)
+      - [s. 222 Other incidental powers.](section/222.md)
+  - Chapter II Other provisions about railways
+    - Directions to provide etc. railway facilities
+      - [s. 223 Regulator’s power to require provision etc. of railway facilities.](section/223.md)
+    - Objectives of Regulator and Secretary of State
+      - [s. 224 Amendment of objectives.](section/224.md)
+    - Enforcement regime
+      - [s. 225 Penalties.](section/225.md)
+      - [s. 226 Orders for securing compliance.](section/226.md)
+    - Consultative committees
+      - [s. 227 Renaming of committees.](section/227.md)
+      - [s. 228 Extension of functions.](section/228.md)
+      - [s. 229 Financial and procedural changes.](section/229.md)
+    - Access agreements
+      - [s. 230 Regulator’s general approvals of access agreements etc.](section/230.md)
+      - [s. 231 Review of access charges by Regulator.](section/231.md)
+      - [s. 232 Amendment of access agreements.](section/232.md)
+      - [s. 233 Prospective facility owners, proposed facilities etc.](section/233.md)
+    - Closures
+      - [s. 234 Transfer of Regulator’s functions to Secretary of State.](section/234.md)
+      - [s. 235 Publication of proposed closures at stations.](section/235.md)
+      - [s. 236 Conditions.](section/236.md)
+      - [s. 237 Closure of unnecessary track to be minor closure.](section/237.md)
+      - [s. 238 General determinations of minor closures.](section/238.md)
+      - [s. 239 Operator’s duty to continue.](section/239.md)
+    - The Board
+      - [s. 240 Transfer of Board’s property etc. to Secretary of State.](section/240.md)
+      - [s. 241 Winding down and abolition of Board.](section/241.md)
+    - Competition
+      - [s. 242 Licence modifications following Competition Commission report.](section/242.md)
+      - [s. 243 Competition functions of Regulator.](section/243.md)
+    - Pensions
+      - [s. 244 Authority’s duty to continue Board’s practice of indexation.](section/244.md)
+      - [s. 245 Amendments of pension protection provisions.](section/245.md)
+    - Miscellaneous
+      - [s. 246 Passenger Transport Executives.](section/246.md)
+      - [s. 247 Standards.](section/247.md)
+      - [s. 248 Substitute services to be suitable for disabled passengers.](section/248.md)
+      - [s. 249 Freight assistance by Scottish Ministers and Welsh Assembly.](section/249.md)
+      - [s. 250 Taxation of transfers.](section/250.md)
+      - [s. 251 Abolition of requirements for Treasury approval.](section/251.md)
+  - Chapter III Supplementary
+    - [s. 252 Part IV: minor and consequential amendments.](section/252.md)
+    - [s. 253 Part IV: transitionals and savings.](section/253.md)
+    - [s. 254 Interpretation of Part IV.](section/254.md)
+- Part V Miscellaneous and supplementary
+  - Charges for street works on highway
+    - [s. 255 Charge for whole duration of works.](section/255.md)
+    - [s. 256 Charges where works unreasonably prolonged.](section/256.md)
+  - Driver training and driving instructors
+    - [s. 257 Compulsory driver training courses.](section/257.md)
+    - [s. 258 Register of approved instructors: destination of appeals.](section/258.md)
+    - [s. 259 Taking effect of decisions about instructors.](section/259.md)
+    - [s. 260 Training and instructors: minor and consequential amendments.](section/260.md)
+  - Licensing of operators of goods vehicles
+    - [s. 261 Increase of fine for breach of obligation to hold operator’s licence.](section/261.md)
+    - [s. 262 Detention of vehicle used without operator’s licence.](section/262.md)
+    - [s. 263 Addition of specified vehicles to operator’s licence.](section/263.md)
+  - Type approvals: exemptions
+    - [s. 264 Type approval: individual exemptions.](section/264.md)
+  - Licensing of private hire vehicles
+    - [s. 265 Vehicles subject to regulation as private hire vehicles.](section/265.md)
+  - Enforcement of requirements relating to drivers’ hours
+    - [s. 266 Power to prohibit driving of vehicle.](section/266.md)
+  - Appeals relating to London service permits
+    - [s. 267 London service permits: appeals.](section/267.md)
+  - Quiet lanes and home zones and rural road speed limits
+    - [s. 268 Quiet lanes and home zones.](section/268.md)
+    - [s. 269 Report on rural road speed limits.](section/269.md)
+  - School crossing patrols
+    - [s. 270 School crossing patrols.](section/270.md)
+  - Stands etc. for bicycles or motor cycles
+    - [s. 271 Stands etc. for bicycles or motor cycles.](section/271.md)
+  - Financial assistance: inland waterway and sea freight
+    - [s. 272 Financial assistance for inland waterway and sea freight.](section/272.md)
+  - Supplementary
+    - [s. 273 Offences: general.](section/273.md)
+    - [s. 274 Repeals and revocations.](section/274.md)
+    - [s. 275 Commencement.](section/275.md)
+    - [s. 276 Transitionals and savings.](section/276.md)
+    - [s. 277 Power to make amendments.](section/277.md)
+    - [s. 278 Financial provision.](section/278.md)
+    - [s. 279 Extent.](section/279.md)
+    - [s. 280 Short title.](section/280.md)
+- SCHEDULE A1 Appeals under section 19A
+  - PART 1 Permission to appeal
+    - Application for permission to appeal
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Determination of application for permission to appeal
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Time limit for CAA to make representations
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - PART 2 Intervention in appeal
+    - Application for permission to intervene in appeal
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - Determination of application for permission to intervene
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - PART 3 Application for suspension of modification
+    - Application for direction suspending licence modification
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - Effect of early application for direction suspending licence modification
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - Direction following application under paragraph 6
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - Publication of decisions about directions
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Time limit for CAA to make representations
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+  - PART 4 Determination of appeals
+    - Determination of appeal by group
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - Representations made by the CAA
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - Matters that may be disregarded
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+    - Remitting decision to CAA
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+    - Substituting the CAA’s decision
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+  - PART 5 General
+    - Consideration of new matters
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - Production of documents
+      - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - Oral hearings
+      - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+    - Written evidence
+      - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+    - Expert advice
+      - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+    - Enforcement of requirements in relation to evidence etc
+      - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+    - Withdrawal of applications and appeals
+      - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+    - Appeal Rules
+      - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+    - Costs
+      - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+    - Secretary of State’s power to modify time limits
+      - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+    - Publication etc
+      - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+    - Interpretation
+      - [Sch. A1 para. 27](schedule/A1/paragraph/27.md)
+- SCHEDULE B1 Enforcement of duties under section 8 and licence conditions
+  - PART 1 Enforcement
+    - Contravention notices
+      - [Sch. B1 para. 1](schedule/B1/paragraph/1.md)
+    - Restrictions on giving contravention notices
+      - [Sch. B1 para. 2](schedule/B1/paragraph/2.md)
+    - Enforcement order
+      - [Sch. B1 para. 3](schedule/B1/paragraph/3.md)
+    - Enforcement order: modification and revocation
+      - [Sch. B1 para. 4](schedule/B1/paragraph/4.md)
+    - Urgent enforcement order
+      - [Sch. B1 para. 5](schedule/B1/paragraph/5.md)
+    - Urgent enforcement order: confirmation
+      - [Sch. B1 para. 6](schedule/B1/paragraph/6.md)
+    - Urgent enforcement order: modification and revocation
+      - [Sch. B1 para. 7](schedule/B1/paragraph/7.md)
+    - Civil proceedings
+      - [Sch. B1 para. 8](schedule/B1/paragraph/8.md)
+    - Penalty for contravention of Chapter 1 requirement
+      - [Sch. B1 para. 9](schedule/B1/paragraph/9.md)
+    - Penalty for contravention of order
+      - [Sch. B1 para. 10](schedule/B1/paragraph/10.md)
+    - Procedure before imposing penalty
+      - [Sch. B1 para. 11](schedule/B1/paragraph/11.md)
+    - Procedure after imposing a penalty
+      - [Sch. B1 para. 12](schedule/B1/paragraph/12.md)
+    - Amount of penalty
+      - [Sch. B1 para. 13](schedule/B1/paragraph/13.md)
+    - Amount of penalty: fixed amount
+      - [Sch. B1 para. 14](schedule/B1/paragraph/14.md)
+    - Amount of penalty: daily amount
+      - [Sch. B1 para. 15](schedule/B1/paragraph/15.md)
+    - Use of powers under Competition Act 1998
+      - [Sch. B1 para. 16](schedule/B1/paragraph/16.md)
+  - PART 2 Appeals against orders and penalties
+    - Appeals against enforcement orders and urgent enforcement orders
+      - [Sch. B1 para. 17](schedule/B1/paragraph/17.md)
+    - Appeals against modifications or revocations of existing orders
+      - [Sch. B1 para. 18](schedule/B1/paragraph/18.md)
+    - Appeals against penalties
+      - [Sch. B1 para. 19](schedule/B1/paragraph/19.md)
+    - Decisions on appeal
+      - [Sch. B1 para. 20](schedule/B1/paragraph/20.md)
+    - Further appeals
+      - [Sch. B1 para. 21](schedule/B1/paragraph/21.md)
+  - PART 3 Interpretation
+    - [Sch. B1 para. 22](schedule/B1/paragraph/22.md)
+- SCHEDULE C1 Information
+  - PART 1 Power to obtain information
+    - Power to obtain information
+      - [Sch. C1 para. 1](schedule/C1/paragraph/1.md)
+  - PART 2 Enforcement: information
+    - Enforcement of information notice
+      - [Sch. C1 para. 2](schedule/C1/paragraph/2.md)
+    - Penalty for providing false information
+      - [Sch. C1 para. 3](schedule/C1/paragraph/3.md)
+    - Penalty for destroying documents etc.
+      - [Sch. C1 para. 4](schedule/C1/paragraph/4.md)
+    - Procedure before imposing a penalty
+      - [Sch. C1 para. 5](schedule/C1/paragraph/5.md)
+    - Procedure after imposing penalty
+      - [Sch. C1 para. 6](schedule/C1/paragraph/6.md)
+  - PART 3 Appeals against penalties: information
+    - Appeals against penalties
+      - [Sch. C1 para. 7](schedule/C1/paragraph/7.md)
+    - Decisions on appeal
+      - [Sch. C1 para. 8](schedule/C1/paragraph/8.md)
+    - Further appeals
+      - [Sch. C1 para. 9](schedule/C1/paragraph/9.md)
+- SCHEDULE 1 Air traffic administration orders: general
+  - Part I Modifications of 1986 Act
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - General application of provisions of 1986 Act
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - General modifications
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Effect of order
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Appointment of air traffic administrator
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - General powers of air traffic administrator
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Power to deal with charged property
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Duties of air traffic administrator
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Discharge of order
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Notice of making of order
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Statement of proposals
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Applications to court
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part II Other provisions
+    - General adaptations
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Saving
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Interpretation
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Air traffic administration orders: schemes
+  - Application of Schedule
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Interpretation
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Making and modification of schemes
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Effect on licence
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Property, rights and liabilities
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Supplementary provisions of schemes
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Assistance
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Effect of air traffic administration order
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Air traffic administration orders: Northern Ireland
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Licence holders: land
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+- SCHEDULE 5 Licence holders as statutory undertakers
+  - Miscellaneous enactments
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Public health
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Civil defence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Pipe-lines
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - New towns
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Planning
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Water and drainage
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Development
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Coal mining subsidence
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 Transfer schemes
+  - Allocation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Identification
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Discharge of functions
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Transfers by agreement
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Documents of title
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Foreign property, rights and liabilities
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Certificates
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Restrictions on dealing with land
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Construction of agreements etc
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Proceedings etc
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Third parties
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - General
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+- SCHEDULE 7 Transfer schemes: tax
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Chargeable gains: general
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Chargeable gains: securities
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Chargeable gains: value shifting
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Chargeable gains: roll-over relief
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Chargeable gains: restriction of losses
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Chargeable gains: groups
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Capital allowances
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Transfers of trading stock
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Trading losses: transfer of trade
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Trading losses: change in ownership
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Leased assets
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Securities
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Stamp duty
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Stamp duty reserve tax
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Agreements
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+- SCHEDULE 8 Amendments about air traffic
+  - Part I Licences
+    - House of Commons Disqualification Act 1975 (c.24)
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c.25)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Part II Air navigation services
+    - Civil Aviation Act 1982 (c.16)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Part III Charges
+    - Civil Aviation Act 1982 (c.16)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Airports Act 1986 (c.31)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Part IV Competition
+    - Fair Trading Act 1973 (c.41)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Competition Act 1980 (c.21)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Civil Aviation Act 1982 (c.16)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Competition Act 1998 (c.41)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Part V Hostilities etc
+    - Civil Aviation Act 1982 (c.16)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Airports Act 1986 (c.31)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+- SCHEDULE 9 Air traffic: information
+  - Prohibition on disclosure
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Disclosure with consent
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Other permitted disclosures
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Other exceptions
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Offence
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- Schedule 9A Procedure for varying franchising scheme
+  - Part 1 Adding to scheme area
+    - [Sch. 9A para. 1 Application](schedule/9A/paragraph/1.md)
+    - [Sch. 9A para. 2 Assessment](schedule/9A/paragraph/2.md)
+    - [Sch. 9A para. 3 Notice of assessment](schedule/9A/paragraph/3.md)
+    - [Sch. 9A para. 4 Report on assessment](schedule/9A/paragraph/4.md)
+    - [Sch. 9A para. 5 Consultation](schedule/9A/paragraph/5.md)
+    - [Sch. 9A para. 6 Consultation document](schedule/9A/paragraph/6.md)
+    - [Sch. 9A para. 7 Response to consultation](schedule/9A/paragraph/7.md)
+  - Part 2 Reducing scheme area
+    - [Sch. 9A para. 8 Application](schedule/9A/paragraph/8.md)
+    - [Sch. 9A para. 9 Consultation](schedule/9A/paragraph/9.md)
+    - [Sch. 9A para. 10 Consultation document](schedule/9A/paragraph/10.md)
+    - [Sch. 9A para. 11 Response to consultation](schedule/9A/paragraph/11.md)
+  - Part 3 Other variations
+    - [Sch. 9A para. 12 Application](schedule/9A/paragraph/12.md)
+    - [Sch. 9A para. 13 Consultation](schedule/9A/paragraph/13.md)
+    - [Sch. 9A para. 14 Response to consultation](schedule/9A/paragraph/14.md)
+- SCHEDULE 10 Competition test for exercise of bus functions
+  - Part 1 Test for exercise of bus functions by local authorities
+    - Functions to which this Part of this Schedule applies
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Competition test
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Applications to OFT for decision
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Investigations by CMA
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Decisions
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Enforcement of decisions
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Information
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Advice and information
+      - [Sch. 10 para. 14A](schedule/10/paragraph/14A.md)
+    - Defamation
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Fees
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Part 2 Test for certain agreements, decisions and practices
+    - Interpretation
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Agreements, decisions and practices to which this Part of this Schedule applies
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - The prohibition
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Agreements and decisions void
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Exempt agreements
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Application of provisions of Competition Act 1998
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+- SCHEDULE 11 Minor and consequential amendments about local transport
+  - Finance Act 1965 (c.25)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Transport Act 1968 (c.73)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Local Government Act 1972 (c.70)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Road Traffic Regulation Act 1984 (c.27)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Transport Act 1985 (c.67)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Greater London Authority Act 1999 (c.29)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+- SCHEDULE 12 Road user charging and workplace parking levy: financial provisions
+  - Introductory
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Net proceeds
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Apportionment
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Accounts and funds
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Application of proceeds by non-metropolitan local traffic authorities
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Application of proceeds by Integrated Transport Authorities
+    - [Sch. 12 para. 11A](schedule/12/paragraph/11A.md)
+    - [Sch. 12 para. 11B](schedule/12/paragraph/11B.md)
+    - [Sch. 12 para. 11C](schedule/12/paragraph/11C.md)
+  - Application of proceeds by London traffic authorities
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Application of proceeds by Secretary of State ...
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Application of proceeds by Welsh Ministers
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+- SCHEDULE 13 Amendments of Schedules 23 and 24 to Greater London Authority Act
+  - Road user charging
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Workplace parking levy
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+- SCHEDULE 14 Strategic Rail Authority
+  - Part I Members and staff
+    - Tenure of members
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Member appointed to chair Authority and deputy
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Remuneration, pensions et ceteralaetc. for members
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Staff
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Part II Funding
+    - Government grants
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Borrowing
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Terms of government loans
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Government guarantees
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - Accounts and audit
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - Direction requiring payment to Secretary of State
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - Taxation
+      - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - Interpretation
+      - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Part III Financial framework and information
+    - Financial framework
+      - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - Information
+      - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Part IV Procedure
+    - Introductory
+      - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - Committees and sub-committees
+      - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - Delegation of functions
+      - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - Members’ interests
+      - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - Vacancies and defective appointments
+      - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - Minutes
+      - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - Execution and proof of instruments
+      - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+  - Part V Consequential amendments
+    - Documentary Evidence Act 1868 (c.37)
+      - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - Public Records Act 1958 (c.51)
+      - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - Parliamentary Commissioner Act 1967 (c.13)
+      - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - House of Commons Disqualification Act 1975 (c.24)
+      - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c.25)
+      - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - Freedom of Information Act 2000 (c.36)
+      - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+- SCHEDULE 15 Financial assistance: transfers to SRA
+  - Transfer schemes
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Contents of transfer scheme
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Effect of transfer scheme
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Transfer of employees
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Modification of transfer scheme
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Consultation
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- SCHEDULE 16 Transfer to SRA of Franchising Director’s functions
+  - Transport Act 1968 (c.73)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Insolvency Act 1986 (c.45)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Railways Act 1993 (c.43)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+    - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+    - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+    - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+    - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+    - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+    - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+    - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+    - [Sch. 16 para. 50](schedule/16/paragraph/50.md)
+    - [Sch. 16 para. 51](schedule/16/paragraph/51.md)
+    - [Sch. 16 para. 52](schedule/16/paragraph/52.md)
+    - [Sch. 16 para. 53](schedule/16/paragraph/53.md)
+    - [Sch. 16 para. 54](schedule/16/paragraph/54.md)
+  - Railway Heritage Act 1996 (c.42)
+    - [Sch. 16 para. 55](schedule/16/paragraph/55.md)
+  - Channel Tunnel Rail Link Act 1996 (c.61)
+    - [Sch. 16 para. 56](schedule/16/paragraph/56.md)
+  - Competition Act 1998 (c.41)
+    - [Sch. 16 para. 57](schedule/16/paragraph/57.md)
+  - Greater London Authority Act 1999 (c.29)
+    - [Sch. 16 para. 58](schedule/16/paragraph/58.md)
+    - [Sch. 16 para. 59](schedule/16/paragraph/59.md)
+    - [Sch. 16 para. 60](schedule/16/paragraph/60.md)
+    - [Sch. 16 para. 61](schedule/16/paragraph/61.md)
+    - [Sch. 16 para. 62](schedule/16/paragraph/62.md)
+    - [Sch. 16 para. 63](schedule/16/paragraph/63.md)
+    - [Sch. 16 para. 64](schedule/16/paragraph/64.md)
+    - [Sch. 16 para. 65](schedule/16/paragraph/65.md)
+    - [Sch. 16 para. 66](schedule/16/paragraph/66.md)
+    - [Sch. 16 para. 67](schedule/16/paragraph/67.md)
+- SCHEDULE 17 Transfers to SRA from the Office of Rail and Road
+  - Part I Functions relating to licences
+    - Introductory
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Exemptions
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Consumer protection conditions
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Grant
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Assignment
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Modification
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Enforcement
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Investigation
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Registers
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+  - Part II Other functions
+    - Introductory
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - Rail users’ consultative committees
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+      - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+      - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+      - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+    - Closures
+      - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+      - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+      - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - Code for protection of disabled rail users
+      - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - Annual reports
+      - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+    - Penalty fares
+      - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+  - Part III Associated property, rights and liabilities
+    - Transfer schemes
+      - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - Contents of transfer scheme
+      - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+      - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+      - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+      - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+    - Effect of transfer scheme
+      - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+      - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+      - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+      - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+      - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
+    - Transfer of employees
+      - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
+    - Modification of transfer scheme
+      - [Sch. 17 para. 42](schedule/17/paragraph/42.md)
+    - Provision of information to Secretary of State
+      - [Sch. 17 para. 43](schedule/17/paragraph/43.md)
+    - Consultation
+      - [Sch. 17 para. 44](schedule/17/paragraph/44.md)
+- SCHEDULE 18 Transfer to SRA of BR’s functions relating to transport police
+  - Part I Functions
+    - British Transport Commission Act 1949 (c.xxix)
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - British Transport Commission Act 1962 (c.xlii)
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - Police and Criminal Evidence Act 1984 (c.60)
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - Channel Tunnel Act 1987 (c. 53)
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - Railways Act 1993 (c.43)
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+      - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+      - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - Part II Associated property, rights and liabilities
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+- SCHEDULE 19 Transfer to SRA of BR’s property etc
+  - Transfer schemes
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Contents of transfer scheme
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - Functions under legislation
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - Effect of transfer scheme
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+  - Transfer of employees
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+  - Foreign property, rights and liabilities
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - Modification of transfer scheme
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+  - Provision of information to Secretary of State
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+  - Consultation
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+- SCHEDULE 20 SRA bye-laws
+  - Introductory
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Penalties
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Confirmation
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Evidence
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Varying and revoking
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Stations
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+- SCHEDULE 21 Transfer schemes by SRA
+  - Transfers from Authority and its subsidiaries
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Transfers of franchise assets
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Contents of transfer scheme
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Functions under legislation
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Effect of transfer scheme
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - Transfer of employees
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+  - Provision of information to Authority
+    - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+  - Modification of transfer scheme
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+  - Interpretation
+    - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+- SCHEDULE 22 Renaming of rail users’ consultative committees
+  - Part I Amendments of Railways Act 1993
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+  - Part II Amendments of other enactments
+    - Transport Act 1962 (c.46)
+      - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+    - Parliamentary Commissioner Act 1967 (c.13)
+      - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+    - Transport Act 1968 (c.73)
+      - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+    - Chronically Sick and Disabled Persons Act 1970 (c.44)
+      - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+    - House of Commons Disqualification Act 1975 (c.24)
+      - [Sch. 22 para. 19](schedule/22/paragraph/19.md)
+    - Channel Tunnel Act 1987 (c.53)
+      - [Sch. 22 para. 20](schedule/22/paragraph/20.md)
+    - Greater London Authority Act 1999 (c.29)
+      - [Sch. 22 para. 21](schedule/22/paragraph/21.md)
+      - [Sch. 22 para. 22](schedule/22/paragraph/22.md)
+      - [Sch. 22 para. 23](schedule/22/paragraph/23.md)
+      - [Sch. 22 para. 24](schedule/22/paragraph/24.md)
+- SCHEDULE 23 Finances and procedures of rail users’ consultative committees
+  - Introductory
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Remuneration of members
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - Financial duties
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - Procedures
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - Sub-committees and committees
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+  - Public records
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+- SCHEDULE 24 Review of access charges by Regulator
+- SCHEDULE 25 Transfer of BR’s property etc. to Secretary of State
+  - Transfer schemes
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - Contents of transfer scheme
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - Functions under legislation
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+  - Effect of transfer scheme
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+    - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+    - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+    - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+    - [Sch. 25 para. 11](schedule/25/paragraph/11.md)
+  - Transfer of employees
+    - [Sch. 25 para. 12](schedule/25/paragraph/12.md)
+  - Duties in relation to foreign property
+    - [Sch. 25 para. 12A](schedule/25/paragraph/12A.md)
+  - Modification of transfer scheme
+    - [Sch. 25 para. 13](schedule/25/paragraph/13.md)
+  - Provision of information to Secretary of State
+    - [Sch. 25 para. 14](schedule/25/paragraph/14.md)
+  - Consultation
+    - [Sch. 25 para. 15](schedule/25/paragraph/15.md)
+- SCHEDULE 26 Transfers: tax
+  - Part I Interpretation
+    - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+  - Part II Transfers to SRA from Franchising Director, Secretary of State and the Office of Rail and Road
+    - Interpretation
+      - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+    - Chargeable gains: no gain no loss
+      - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+    - Capital allowances for plant and machinery
+      - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+    - Capital allowances for plant and machinery: connected persons
+      - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+    - Loan relationships
+      - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+  - Part III Transfers from BR to SRA
+    - Interpretation
+      - [Sch. 26 para. 8](schedule/26/paragraph/8.md)
+    - Chargeable gains: general
+      - [Sch. 26 para. 9](schedule/26/paragraph/9.md)
+    - Chargeable gains: restriction of losses
+      - [Sch. 26 para. 10](schedule/26/paragraph/10.md)
+    - Chargeable gains: groups
+      - [Sch. 26 para. 11](schedule/26/paragraph/11.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 26 para. 12](schedule/26/paragraph/12.md)
+    - Continuity in relation to capital allowances etc. where trade transferred
+      - [Sch. 26 para. 13](schedule/26/paragraph/13.md)
+    - Capital allowances for plant and machinery
+      - [Sch. 26 para. 14](schedule/26/paragraph/14.md)
+    - Capital allowances for plant and machinery: connected persons
+      - [Sch. 26 para. 15](schedule/26/paragraph/15.md)
+    - Leased assets
+      - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
+    - Loan relationships
+      - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+    - Charge to tax under Case I of Schedule D
+      - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
+  - Part IV Transfers to Secretary of State from SRA and BR
+    - Interpretation
+      - [Sch. 26 para. 19](schedule/26/paragraph/19.md)
+    - Chargeable gains: groups
+      - [Sch. 26 para. 20](schedule/26/paragraph/20.md)
+    - Capital allowances: actual consideration to be the disposal value
+      - [Sch. 26 para. 21](schedule/26/paragraph/21.md)
+    - Leased assets
+      - [Sch. 26 para. 22](schedule/26/paragraph/22.md)
+  - Part V Transfers from SRA to franchise company
+    - Interpretation
+      - [Sch. 26 para. 23](schedule/26/paragraph/23.md)
+    - Chargeable gains: disposals not to be treated as made at market value
+      - [Sch. 26 para. 24](schedule/26/paragraph/24.md)
+    - Chargeable gains: groups
+      - [Sch. 26 para. 25](schedule/26/paragraph/25.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 26 para. 26](schedule/26/paragraph/26.md)
+    - Capital allowances: actual consideration to be the disposal value
+      - [Sch. 26 para. 27](schedule/26/paragraph/27.md)
+    - Leased assets
+      - [Sch. 26 para. 28](schedule/26/paragraph/28.md)
+    - Loan relationships
+      - [Sch. 26 para. 29](schedule/26/paragraph/29.md)
+  - Part VI Transfers of franchise assets
+    - Interpretation
+      - [Sch. 26 para. 30](schedule/26/paragraph/30.md)
+    - Chargeable gains: disposals not to be treated as made at market value
+      - [Sch. 26 para. 31](schedule/26/paragraph/31.md)
+    - Chargeable gains: groups
+      - [Sch. 26 para. 32](schedule/26/paragraph/32.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 26 para. 33](schedule/26/paragraph/33.md)
+    - Capital allowances: actual consideration to be the disposal value
+      - [Sch. 26 para. 34](schedule/26/paragraph/34.md)
+    - Loan relationships
+      - [Sch. 26 para. 35](schedule/26/paragraph/35.md)
+  - Part VII Other provisions concerning transfers
+    - Chargeable gains: value shifting
+      - [Sch. 26 para. 36](schedule/26/paragraph/36.md)
+    - Chargeable gains: consequential amendment
+      - [Sch. 26 para. 37](schedule/26/paragraph/37.md)
+    - Group relief
+      - [Sch. 26 para. 38](schedule/26/paragraph/38.md)
+    - Modifications of transfer schemes
+      - [Sch. 26 para. 39](schedule/26/paragraph/39.md)
+    - Stamp duty and stamp duty reserve tax
+      - [Sch. 26 para. 40](schedule/26/paragraph/40.md)
+    - Stamp duty land tax
+      - [Sch. 26 para. 40A](schedule/26/paragraph/40A.md)
+- SCHEDULE 27 Minor and consequential amendments about railways
+  - Transport Act 1962 (c.46)
+    - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - Transport Act 1968 (c.73)
+    - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+    - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+    - [Sch. 27 para. 4](schedule/27/paragraph/4.md)
+    - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+  - British Railways Act 1969 (c.xliii)
+    - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 27 para. 7](schedule/27/paragraph/7.md)
+  - British Railways Act 1977 (c.xvii)
+    - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+  - Transport Act 1980 (c.34)
+    - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+    - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+    - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+    - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+    - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
+  - Transport Act 1985 (c.67)
+    - [Sch. 27 para. 14](schedule/27/paragraph/14.md)
+  - Channel Tunnel Act 1987 (c.53)
+    - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
+  - Heathrow Express Railway Act 1991 (c.vii)
+    - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+  - Railways Act 1993 (c.43)
+    - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+    - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+    - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+    - [Sch. 27 para. 20](schedule/27/paragraph/20.md)
+    - [Sch. 27 para. 21](schedule/27/paragraph/21.md)
+    - [Sch. 27 para. 22](schedule/27/paragraph/22.md)
+    - [Sch. 27 para. 23](schedule/27/paragraph/23.md)
+    - [Sch. 27 para. 24](schedule/27/paragraph/24.md)
+    - [Sch. 27 para. 25](schedule/27/paragraph/25.md)
+    - [Sch. 27 para. 26](schedule/27/paragraph/26.md)
+    - [Sch. 27 para. 27](schedule/27/paragraph/27.md)
+    - [Sch. 27 para. 28](schedule/27/paragraph/28.md)
+    - [Sch. 27 para. 29](schedule/27/paragraph/29.md)
+    - [Sch. 27 para. 30](schedule/27/paragraph/30.md)
+    - [Sch. 27 para. 31](schedule/27/paragraph/31.md)
+    - [Sch. 27 para. 32](schedule/27/paragraph/32.md)
+    - [Sch. 27 para. 33](schedule/27/paragraph/33.md)
+    - [Sch. 27 para. 34](schedule/27/paragraph/34.md)
+    - [Sch. 27 para. 35](schedule/27/paragraph/35.md)
+    - [Sch. 27 para. 36](schedule/27/paragraph/36.md)
+    - [Sch. 27 para. 37](schedule/27/paragraph/37.md)
+    - [Sch. 27 para. 38](schedule/27/paragraph/38.md)
+    - [Sch. 27 para. 39](schedule/27/paragraph/39.md)
+    - [Sch. 27 para. 40](schedule/27/paragraph/40.md)
+    - [Sch. 27 para. 41](schedule/27/paragraph/41.md)
+    - [Sch. 27 para. 42](schedule/27/paragraph/42.md)
+    - [Sch. 27 para. 43](schedule/27/paragraph/43.md)
+    - [Sch. 27 para. 44](schedule/27/paragraph/44.md)
+    - [Sch. 27 para. 45](schedule/27/paragraph/45.md)
+    - [Sch. 27 para. 46](schedule/27/paragraph/46.md)
+    - [Sch. 27 para. 47](schedule/27/paragraph/47.md)
+    - [Sch. 27 para. 48](schedule/27/paragraph/48.md)
+    - [Sch. 27 para. 49](schedule/27/paragraph/49.md)
+  - Finance Act 1994 (c.9)
+    - [Sch. 27 para. 50](schedule/27/paragraph/50.md)
+  - Railway Heritage Act 1996 (c.42)
+    - [Sch. 27 para. 51](schedule/27/paragraph/51.md)
+    - [Sch. 27 para. 52](schedule/27/paragraph/52.md)
+    - [Sch. 27 para. 53](schedule/27/paragraph/53.md)
+  - Channel Tunnel Rail Link Act 1996 (c.61)
+    - [Sch. 27 para. 54](schedule/27/paragraph/54.md)
+    - [Sch. 27 para. 55](schedule/27/paragraph/55.md)
+    - [Sch. 27 para. 56](schedule/27/paragraph/56.md)
+  - Greater London Authority Act 1999 (c.29)
+    - [Sch. 27 para. 57](schedule/27/paragraph/57.md)
+    - [Sch. 27 para. 58](schedule/27/paragraph/58.md)
+    - [Sch. 27 para. 59](schedule/27/paragraph/59.md)
+    - [Sch. 27 para. 60](schedule/27/paragraph/60.md)
+    - [Sch. 27 para. 61](schedule/27/paragraph/61.md)
+    - [Sch. 27 para. 62](schedule/27/paragraph/62.md)
+  - Railways Act 1993 (Consequential Modifications) (No.2) Order 1999 (S.I.1999/1998)
+    - [Sch. 27 para. 63](schedule/27/paragraph/63.md)
+- SCHEDULE 28 Transitionals and savings about railways
+  - First appointments to Authority
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+  - Consumer protection conditions
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+  - Franchising
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+  - Bye-laws
+    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+  - Penalties
+    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+  - Compliance orders
+    - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+  - Section 56 of the Transport Act 1962
+    - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+  - Review of access charges
+    - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+  - Closures
+    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+  - Register
+    - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+  - Code for protection of disabled rail users
+    - [Sch. 28 para. 15](schedule/28/paragraph/15.md)
+  - Penalty fares
+    - [Sch. 28 para. 16](schedule/28/paragraph/16.md)
+  - Supplementary
+    - [Sch. 28 para. 17](schedule/28/paragraph/17.md)
+- SCHEDULE 29 Driver training and driving instructors: minor and consequential amendments
+  - Introductory
+    - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+  - Consequential amendments about driver training
+    - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+    - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
+    - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+    - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+    - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
+  - Tests of continued ability and fitness to give driving instruction
+    - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
+    - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
+    - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
+  - Disabled instructors: emergency control assessments
+    - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
+  - Review by magistrates’ court of examinations of instructors
+    - [Sch. 29 para. 11](schedule/29/paragraph/11.md)
+  - Respondent in appeals about instructors
+    - [Sch. 29 para. 12](schedule/29/paragraph/12.md)
+- SCHEDULE 30 Detention of vehicles used without operator’s licence
+- SCHEDULE 31 Repeals and revocations
+  - Part I Air traffic
+  - Part II Local transport
+  - Part III Road user charging and workplace parking levy
+  - Part IV Railways
+  - Part V Miscellaneous
