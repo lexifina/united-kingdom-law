@@ -1,0 +1,257 @@
+# Public Passenger Vehicles Act 1981
+
+1981 c. 14. Enacted 1981-04-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/14
+
+Source: https://www.legislation.gov.uk/ukpga/1981/14/2026-08-05
+
+## Contents
+
+- PART I Preliminary
+  - Definition and classification of public service vehicles
+    - [s. 1 Definition of “public service vehicle”.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+  - Traffic Areas and Traffic commissioners
+    - [s. 3 Traffic areas.](section/3.md)
+    - [s. 4 Traffic commissioners.](section/4.md)
+    - [s. 4A Appointment of senior traffic commissioner](section/4A.md)
+    - [s. 4B Power of senior traffic commissioner to deploy other commissioners](section/4B.md)
+    - [s. 4C Power of senior traffic commissioner to give guidance and directions](section/4C.md)
+    - [s. 4D Guidance to senior traffic commissioner by Secretary of State](section/4D.md)
+    - [s. 5 Publication of information by traffic commissioners.](section/5.md)
+- PART II General Provisions Relating to Public Service Vehicles
+  - Fitness of public service vehicles
+    - [s. 6 Certificate of initial fitness (or equivalent) required for use as public service vehicles.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 Powers of, and facilities for, inspection of public service vehicles.](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 9A Extension of sections 8 and 9 to certain passenger vehicles other than public service vehicles.](section/9A.md)
+    - [s. 10 Approval of type vehicle and effect thereof.](section/10.md)
+    - [s. 11 Modification of section 6 in relation to experimental vehicles.](section/11.md)
+  - Public service vehicle operators’ licences
+    - [s. 12 PSV operators’ licences.](section/12.md)
+    - [s. 12A Detention of certain PSVs used without PSV operators’ licences](section/12A.md)
+    - [s. 12B Power to stop](section/12B.md)
+    - [s. 13 Classification of licences.](section/13.md)
+    - [s. 14 Grant of licences](section/14.md)
+    - [s. 14ZA Requirements for standard licences](section/14ZA.md)
+    - [s. 14ZB Requirements for restricted licences](section/14ZB.md)
+    - [s. 14ZC Requirements for standard and restricted licences](section/14ZC.md)
+    - [s. 14A Objections to application for PSV operator’s licence.](section/14A.md)
+    - [s. 15 Duration of licences.](section/15.md)
+    - [s. 16 Conditions attached to licences.](section/16.md)
+    - [s. 16A Conditions as to matters required to be notified.](section/16A.md)
+    - [s. 17 Revocation, suspension etc. of licences.](section/17.md)
+    - [s. 17A Assessors to assist traffic commissioners.](section/17A.md)
+    - [s. 18 Duty to exhibit operator’s disc.](section/18.md)
+    - [s. 19 Duty to inform traffic commissioners of relevant convictions etc.](section/19.md)
+    - [s. 20 Duty to give traffic commissioners information about vehicles.](section/20.md)
+    - [s. 21 Certificates of qualification.](section/21.md)
+  - Drivers’ licences
+    - [s. 22 Drivers’ licences.](section/22.md)
+    - [s. 23 Appeals to courts of summary jurisdiction in connection with driver’s licences.](section/23.md)
+    - [s. 23A Northern Ireland drivers’ licences.](section/23A.md)
+  - Regulation of conduct etc. of drivers, inspectors, conductors and passengers
+    - [s. 24 Regulation of conduct of drivers, inspectors and conductors.](section/24.md)
+    - [s. 25 Regulation of conduct of passengers.](section/25.md)
+    - [s. 26 Control of number of passengers.](section/26.md)
+  - Supplementary provisions
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 Avoidance of contracts so far as restrictive of liability in respect of death of or injury to passengers in public service vehicles.](section/29.md)
+- Part 2A Safeguarding duty: drivers of school services
+  - [s. 29A Duty to check barring information](section/29A.md)
+  - [s. 29B Application of section 29A duty: services in Wales](section/29B.md)
+  - [s. 29C Interpretation of Part 2A](section/29C.md)
+- PART III
+  - [s. 30 ................................](section/30.md)
+- PART IV
+  - [s. 42 ................................](section/42.md)
+  - Fare-paying passengers on school buses
+    - [s. 46 Fare-paying passengers on school buses.](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 49A Review of decisions.](section/49A.md)
+- PART V Miscellaneous and Supplementary
+  - Appeals to the Secretary of State
+    - [s. 50 Appeals to the Upper Tribunal](section/50.md)
+    - [s. 51 Appeals to the Secretary of State.](section/51.md)
+    - [s. 52 Fees for grant of licences etc.](section/52.md)
+    - [s. 53 Payment of expenses.](section/53.md)
+  - Provisions relating to traffic commissioners etc.
+    - [s. 54 Inquiries held by traffic commissioners.](section/54.md)
+    - [s. 55 Annual report of traffic commissioners and metropolitan police commissioner.](section/55.md)
+    - [s. 56 Records of licences.](section/56.md)
+    - [s. 56A Correction of errors](section/56A.md)
+  - Supplementary provisions as to licences etc.
+    - [s. 57 Death, bankruptcy etc. of licence holder.](section/57.md)
+    - [s. 58 Partnerships and related matters.](section/58.md)
+  - Regulations
+    - [s. 59 Power to make regulations as to procedure on applications for licences.](section/59.md)
+    - [s. 60 General power to make regulations for purposes of Act.](section/60.md)
+    - [s. 61 Exercise of regulation making powers and parliamentary control thereof.](section/61.md)
+  - Provisions relating to Metropolitan Traffic Area
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 Exclusion of certain enactments as respects Metropolitan Traffic Area.](section/64.md)
+  - Provisions relating to offences and legal proceedings
+    - [s. 65 Forgery and misuse of documents etc.](section/65.md)
+    - [s. 66 False statements to obtain licence etc.](section/66.md)
+    - [s. 66A Issue of false documents.](section/66A.md)
+    - [s. 67 Penalty for breach of regulations.](section/67.md)
+    - [s. 68 Defences available to persons charged with certain offences.](section/68.md)
+    - [s. 69 Restriction on institution in England and Wales of proceedings under Part II or III.](section/69.md)
+    - [s. 70 Duty to give information as to identity of driver in certain cases.](section/70.md)
+    - [s. 71 Evidence by certificate.](section/71.md)
+    - [s. 72 Proof in summary proceedings of identity of driver of vehicle.](section/72.md)
+    - [s. 73 Time within which summary proceedings for certain offences may be commenced.](section/73.md)
+    - [s. 74 Offences by companies.](section/74.md)
+    - [s. 75 Destination of fines.](section/75.md)
+  - Inquiries
+    - [s. 76 General power to hold inquiries.](section/76.md)
+    - [s. 77 General provisions as to inquiries.](section/77.md)
+  - Supplementary provisions
+    - [s. 78 Power of Minister to modify or revoke restrictions in local Acts.](section/78.md)
+    - [s. 79 Vehicles excluded from regulation as private hire vehicles.](section/79.md)
+    - [s. 79A Small PSVs subject to regulation as private hire vehicles.](section/79A.md)
+    - [s. 80 Construction of references to traffic areas.](section/80.md)
+    - [s. 81 Interpretation of references to the operator of a vehicle or service.](section/81.md)
+    - [s. 82 General interpretation provisions.](section/82.md)
+    - [s. 83 Construction of references in other Acts etc. to public service vehicles, licensing authorities etc.](section/83.md)
+    - [s. 84 Protection of public interests.](section/84.md)
+    - [s. 85 Saving for law of nuisance.](section/85.md)
+    - [s. 86 Saving for sections 16 and 17 of the Interpretation Act 1978.](section/86.md)
+    - [s. 87 Power of Secretary of State to repeal section 10 of this Act.](section/87.md)
+    - [s. 88 Transitional provisions, consequential amendments and repeals.](section/88.md)
+    - [s. 89 Short title, commencement and extent.](section/89.md)
+- SCHEDULE 1 Public Service Vehicles: Conditions Affecting Status or Classification
+  - Part I Sharing of Taxis and Hire-Cars
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part II
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part III Alternative Conditions Affecting Status or Classification
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part IV Supplementary
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Traffic Commissioners
+  - Terms of service of traffic commissioners
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Deputy traffic commissioners for England and Wales
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Appointment and terms of office of deputies to traffic commissioners in Scotland
+    - [Sch. 2 para. 2B](schedule/2/paragraph/2B.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Appointment of acting traffic commissioner during vacancy
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Staff of traffic commissioners
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Remuneration and pensions
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 2A Detention of certain PSVs used without PSV operators’ licences
+  - Interpretation
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Detention of property
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - The vehicle and any other property detained, the passengers, and any personal effects
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Immobilisation of vehicle
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Offences relating to immobilisation
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Removal and delivery of property into custody of nominated custodian
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Informing persons that their property has been detained etc
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Return of vehicle
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Application to traffic commissioner for return of vehicle
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Hearings by traffic commissioner
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Consequences of the traffic commissioner’s determination
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - Appeal to Upper Tribunal from traffic commissioner
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+  - Sale or destruction of vehicle where no application made under paragraph 9
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+  - Return or disposal of contents and personal effects
+    - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+  - Custody of property
+    - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - Proceeds of sale
+    - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+  - Disputes
+    - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+  - Obstruction of authorised person
+    - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+  - Offences as to securing possession of property
+    - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+- SCHEDULE 3 Supplementary Provision as to Qualifications for PSV Operator’s Licence
+  - Good repute
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appropriate financial standing
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Professional competence
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Determinations in respect of transport managers
+    - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+    - [Sch. 3 para. 7B](schedule/3/paragraph/7B.md)
+    - [Sch. 3 para. 7C](schedule/3/paragraph/7C.md)
+  - ................................
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULES 4, 5 ...
+- SCHEDULE 6 Transitional Provisions and Savings
+  - Periods of time
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Saving for transitional provisions and savings in orders under section 70(5) and (6) of Transport Act 1980
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Certificates of initial fitness
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Consequential Amendments
+  - Local Government (Miscellaneous Provisions) Act 1953 (c. 26)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Local Government (Omnibus Shelters and Queue Barriers) (Scotland) Act 1958 (c. 50)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Finance Act 1965 (c. 25)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Transport Act 1968 (c. 73)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Transport (London)Act 1969 (c. 35)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Road Traffic (Foreign Vehicles) Act 1972 (c. 27)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Energy Act 1976 (c. 76)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Transport Act 1978 (c. 55)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+- SCHEDULE 8 Repeals
