@@ -1,0 +1,2084 @@
+# Greater London Authority Act 1999
+
+1999 c. 29. Enacted 1999-11-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 74 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
+
+Source: https://www.legislation.gov.uk/ukpga/1999/29/2026-08-05
+
+## Contents
+
+- Part I The Greater London Authority
+  - The Authority
+    - [s. 1 The Authority.](section/1.md)
+  - Membership
+    - [s. 2 Membership of the Authority and the Assembly.](section/2.md)
+  - Ordinary elections
+    - [s. 3 Time of ordinary elections.](section/3.md)
+    - [s. 4 Voting at ordinary elections.](section/4.md)
+  - Vacancies in the Assembly
+    - [s. 5 Resignation.](section/5.md)
+    - [s. 6 Failure to attend meetings.](section/6.md)
+    - [s. 7 Declaration of vacancy in certain cases.](section/7.md)
+    - [s. 8 Election of member as Mayor.](section/8.md)
+    - [s. 9 Date of casual vacancies.](section/9.md)
+    - [s. 10 Filling a vacancy in an Assembly constituency.](section/10.md)
+    - [s. 11 Filling a vacancy among the London members.](section/11.md)
+  - Vacancy in the office of Mayor
+    - [s. 12 Resignation.](section/12.md)
+    - [s. 13 Failure to attend meetings.](section/13.md)
+    - [s. 14 Declaration of vacancy in certain cases.](section/14.md)
+    - [s. 15 Date of casual vacancy.](section/15.md)
+    - [s. 16 Filling a vacancy.](section/16.md)
+  - Franchise, conduct of elections etc
+    - [s. 17 Franchise, conduct of elections etc.](section/17.md)
+    - [s. 17A Free delivery of election addresses.](section/17A.md)
+    - [s. 18 Cost of holding the first ordinary elections.](section/18.md)
+    - [s. 19 Expenditure of Secretary of State in connection with holding the first ordinary election.](section/19.md)
+  - Qualifications and disqualifications
+    - [s. 20 Qualification to be the Mayor or an Assembly member.](section/20.md)
+    - [s. 21 Disqualification from being the Mayor or an Assembly member.](section/21.md)
+    - [s. 21A Disqualification relating to sexual offences etc](section/21A.md)
+    - [s. 21B Disqualification from being the Mayor: members of legislatures](section/21B.md)
+    - [s. 22 Validity of acts done by unqualified persons.](section/22.md)
+    - [s. 23 Proceedings for disqualification.](section/23.md)
+  - Salaries, expenses, pensions and other payments
+    - [s. 24 Salaries and expenses.](section/24.md)
+    - [s. 25 Limit on salaries of members of other public bodies.](section/25.md)
+    - [s. 26 Pensions.](section/26.md)
+    - [s. 26A Payments on ceasing to hold office](section/26A.md)
+    - [s. 27 Publication of information about remuneration paid.](section/27.md)
+  - Supplementary provisions
+    - [s. 28 Declaration of acceptance of office.](section/28.md)
+    - [s. 29 Interpretation of Part I.](section/29.md)
+- Part II General Functions and Procedure
+  - The general and subsidiary powers of the Authority
+    - [s. 30 The general power of the Authority.](section/30.md)
+    - [s. 31 Limits of the general power.](section/31.md)
+    - [s. 32 Consultation.](section/32.md)
+    - [s. 33 Equality of opportunity.](section/33.md)
+    - [s. 34 Subsidiary powers of the Authority.](section/34.md)
+    - [s. 34A Restriction on exercise of certain powers except through a taxable body](section/34A.md)
+  - Exercise of functions: general principles
+    - [s. 35 Authority functions to be exercisable by Mayor, Assembly or both.](section/35.md)
+    - [s. 36 Standing orders of the Authority.](section/36.md)
+    - [s. 37 Discharge during vacancy or temporary incapacity of Mayor.](section/37.md)
+  - Functions exercisable by the Mayor
+    - [s. 38 Delegation.](section/38.md)
+    - [s. 39 Exercise of functions by joint committees.](section/39.md)
+  - Delegation to Mayor of Ministers’ functions
+    - [s. 39A Delegation by Ministers](section/39A.md)
+    - [s. 40 Contracting out.](section/40.md)
+  - Additional functions
+    - [s. 40A Additional functions of the Authority, Mayor and functional bodies](section/40A.md)
+  - Collaboration
+    - [s. 40B Mayor’s power to convene meetings with local partners](section/40B.md)
+    - [s. 40C Request to collaborate](section/40C.md)
+    - [s. 40D Responding to a collaboration request](section/40D.md)
+    - [s. 40E Collaboration requests made by or to several mayors](section/40E.md)
+  - The Mayor’s strategies
+    - [s. 41 General duties of the Mayor in relation to his strategies.](section/41.md)
+    - [s. 42 Consultation.](section/42.md)
+    - [s. 42A Consultation: supplementary provision](section/42A.md)
+    - [s. 42B Assembly’s power to reject draft strategies](section/42B.md)
+    - [s. 43 Publicity and availability of strategies.](section/43.md)
+    - [s. 44 Directions by the Secretary of State.](section/44.md)
+  - Public accountability
+    - [s. 45 The Mayor’s periodic report to the Assembly.](section/45.md)
+    - [s. 46 Annual report by the Mayor.](section/46.md)
+    - [s. 47 The annual State of London debate.](section/47.md)
+    - [s. 48 People’s Question Time.](section/48.md)
+  - Deputy Mayor
+    - [s. 49 The Deputy Mayor.](section/49.md)
+  - Chair and Deputy Chair of the Assembly
+    - [s. 50 Functions.](section/50.md)
+    - [s. 51 Appointment.](section/51.md)
+  - Meetings and procedure of the Assembly
+    - [s. 52 Meetings of the whole Assembly.](section/52.md)
+    - [s. 53 Assembly procedure.](section/53.md)
+    - [s. 54 Discharge of functions by committees or single members.](section/54.md)
+    - [s. 55 Assembly committees and sub-committees.](section/55.md)
+    - [s. 56 Minutes.](section/56.md)
+    - [s. 57 Political composition of Assembly committees.](section/57.md)
+    - [s. 58 Openness.](section/58.md)
+  - General functions of the Assembly
+    - [s. 59 Review and investigation.](section/59.md)
+    - [s. 60 Proposals to the Mayor.](section/60.md)
+    - [s. 60A Confirmation hearings etc for certain appointments by the Mayor or Mayor’s Office for Policing and Crime](section/60A.md)
+  - Attendance of witnesses and production of documents
+    - [s. 61 Power to require attendance at Assembly meetings.](section/61.md)
+    - [s. 62 Procedure for requiring attendance.](section/62.md)
+    - [s. 63 Restriction of information.](section/63.md)
+    - [s. 64 Failure to attend proceedings etc.](section/64.md)
+    - [s. 65 Proceedings under section 61(1): openness.](section/65.md)
+  - Annual report
+    - [s. 65A Annual report by the Assembly](section/65A.md)
+  - Ethical standards
+    - [s. 66 The Secretary of State’s guidance on ethical standards.](section/66.md)
+  - Staff
+    - [s. 67 Appointment.](section/67.md)
+    - [s. 68 Disqualification and political restriction.](section/68.md)
+    - [s. 69 Disqualification for membership of London borough councils.](section/69.md)
+    - [s. 70 Terms and conditions of employment.](section/70.md)
+    - [s. 71 Disclosure by employees of interests in contracts.](section/71.md)
+    - [s. 72 Head of paid service.](section/72.md)
+    - [s. 73 Monitoring officer.](section/73.md)
+  - General local authority provisions
+    - [s. 74 Investigation by Commission for Local Administration.](section/74.md)
+    - [s. 75 Provisions of 1972 Act relating to documents, notices etc.](section/75.md)
+    - [s. 76 Byelaws.](section/76.md)
+  - Bills in Parliament
+    - [s. 77 Power of Authority to promote or oppose Bills in Parliament.](section/77.md)
+    - [s. 78 Power to request provisions in Bills promoted by London local authorities.](section/78.md)
+    - [s. 79 Authority’s consent to inclusion of certain provisions in local Bills.](section/79.md)
+  - Contracts
+    - [s. 80 Public supply or works contracts.](section/80.md)
+- Part III Financial Provisions
+  - Chapter I Council Tax
+    - Different categories of dwellings
+      - [s. 81 Amounts for different categories of dwellings.](section/81.md)
+    - Precepts
+      - [s. 82 Authority to be a major precepting authority.](section/82.md)
+      - [s. 83 Issue of precepts.](section/83.md)
+      - [s. 84 Substituted precepts.](section/84.md)
+    - Budget requirements
+      - [s. 85 Calculation of component and consolidated council tax requirements.](section/85.md)
+      - [s. 86 Provisions supplemental to section 85.](section/86.md)
+      - [s. 87 Procedure for determining the council tax requirements.](section/87.md)
+    - Calculation of tax payable
+      - [s. 88 Calculation of basic amount of tax.](section/88.md)
+      - [s. 89 Additional calculations: special item for part of Greater London.](section/89.md)
+      - [s. 90 The special item for the purposes of section 89.](section/90.md)
+      - [s. 91 Special items: amendments of section 46 of the 1992 Act.](section/91.md)
+      - [s. 92 Calculation of tax for different valuation bands.](section/92.md)
+      - [s. 93 Calculation of amount payable by each billing authority.](section/93.md)
+    - Substitute calculations etc.
+      - [s. 94 Substitute calculations under section 49 of the 1992 Act.](section/94.md)
+      - [s. 95 Minimum budget for Mayor’s Office for Policing and Crime.](section/95.md)
+      - [s. 96 Provisions supplemental to section 95.](section/96.md)
+      - [s. 97 Emergencies and disasters.](section/97.md)
+      - [s. 98 Procedure for making substitute calculations.](section/98.md)
+    - Supplementary
+      - [s. 99 Interpretation of Chapter I.](section/99.md)
+  - Chapter II Grants and locally retained Non-domestic Rates
+    - Grants
+      - [s. 100 General GLA grant.](section/100.md)
+      - [s. 101 GLA transport grant.](section/101.md)
+    - Distribution of grants etc.
+      - [s. 102 Mayor to distribute grants etc between Authority and functional bodies.](section/102.md)
+      - [s. 103 Authority’s duty to account to functional bodies for their grants.](section/103.md)
+  - Chapter III Emergency Financial Assistance, Funds and Miscellaneous Matters
+    - [s. 104 Emergency financial assistance.](section/104.md)
+    - [s. 105 Component budgets: anticipation of certain levies.](section/105.md)
+    - [s. 106 The Authority’s general fund.](section/106.md)
+    - [s. 107 Judicial review.](section/107.md)
+    - [s. 108 Functions to be discharged only by certain authorities.](section/108.md)
+    - [s. 109 Information.](section/109.md)
+    - [s. 110 Provision of information by functional bodies to Mayor or Assembly.](section/110.md)
+  - Chapter IV Revenue Accounts and Capital Finance
+    - Application of Part IV of Local Government and Housing Act 1989
+      - [s. 111 Part IV of 1989 Act to apply to Authority and functional bodies.](section/111.md)
+    - Credit approvals
+      - [s. 112 Provisions to be in place of sections 53 to 55 of 1989 Act.](section/112.md)
+      - [s. 113 Aggregate credit approval for Authority and functional bodies.](section/113.md)
+      - [s. 114 Additional credit approval.](section/114.md)
+      - [s. 115 Notification of category C or D allocations.](section/115.md)
+      - [s. 116 Amortisation.](section/116.md)
+      - [s. 117 Criteria for issuing credit approvals.](section/117.md)
+      - [s. 118 Part IV of 1989 Act and credit approvals under this Chapter.](section/118.md)
+    - Capital receipts and mutual grants
+      - [s. 119 Power to redistribute capital receipts of functional bodies.](section/119.md)
+      - [s. 120 Capital grants between Authority and functional bodies.](section/120.md)
+      - [s. 121 Revenue grants between Authority and functional bodies.](section/121.md)
+    - The Mayor’s capital spending plan
+      - [s. 122 Form and contents.](section/122.md)
+      - [s. 123 Preparation.](section/123.md)
+    - Supplementary provisions
+      - [s. 124 Admissible factors in preparing capital spending plan etc.](section/124.md)
+      - [s. 125 Information.](section/125.md)
+      - [s. 126 Interpretation of Chapter IV.](section/126.md)
+  - Chapter V Financial Administration, Accounts and Audit
+    - Financial administration
+      - [s. 127 Proper financial administration and chief finance officer.](section/127.md)
+      - [s. 127A Chief finance officer of the Authority](section/127A.md)
+      - [s. 128 Application of Part VIII of Local Government Finance Act 1988.](section/128.md)
+      - [s. 129 Qualifications of chief finance officer.](section/129.md)
+      - [s. 130 Functions of chief finance officer as regards reports.](section/130.md)
+      - [s. 131 Duties of Authority or functional body as regards reports.](section/131.md)
+      - [s. 132 Monitoring officer not to be chief finance officer etc.](section/132.md)
+    - Accounts and audit
+      - [s. 133 Application of the Audit Commission Act 1998.](section/133.md)
+      - [s. 134 Summary statement of accounts of Authority and other bodies.](section/134.md)
+      - [s. 135 Information for purposes of section 134.](section/135.md)
+  - Chapter VI Miscellaneous and Supplementary Provisions
+    - [s. 136 Amendment of cross-references to provisions of Chapter I.](section/136.md)
+    - [s. 137 Council tax: no Crown exemption for Authority or functional bodies.](section/137.md)
+    - [s. 138 No discretionary rate relief for functional bodies.](section/138.md)
+    - [s. 139 Local loans.](section/139.md)
+    - [s. 140 Functions of Mayor or Assembly under or by virtue of this Part.](section/140.md)
+- Part IV Transport
+  - Chapter I Transport functions of the Authority
+    - The general transport duty
+      - [s. 141 General transport duty.](section/141.md)
+    - The transport strategy
+      - [s. 142 The Mayor’s transport strategy.](section/142.md)
+      - [s. 143 Directions by the Secretary of State.](section/143.md)
+      - [s. 144 Duties of London borough councils etc.](section/144.md)
+    - Local implementation plans
+      - [s. 145 Preparation of the plan.](section/145.md)
+      - [s. 146 Approval of plans by the Mayor.](section/146.md)
+      - [s. 147 Power of the Mayor to prepare a plan.](section/147.md)
+      - [s. 148 Revision.](section/148.md)
+      - [s. 149 Procedure for revision.](section/149.md)
+      - [s. 150 Power of the Mayor to prepare a revised plan.](section/150.md)
+      - [s. 151 Implementation by a London borough council.](section/151.md)
+      - [s. 152 Implementation by the Mayor.](section/152.md)
+      - [s. 153 Directions by the Mayor.](section/153.md)
+  - Chapter II Transport for London
+    - Establishment and control
+      - [s. 154 Establishment.](section/154.md)
+      - [s. 155 Directions etc by the Mayor.](section/155.md)
+    - Functions: general provisions
+      - [s. 156 General powers.](section/156.md)
+      - [s. 157 Restriction on exercise of certain powers except through a company.](section/157.md)
+      - [s. 158 Power of Mayor to transfer functions.](section/158.md)
+    - Financial provisions
+      - [s. 159 Financial assistance.](section/159.md)
+      - [s. 160 Guarantees.](section/160.md)
+    - Reports and information
+      - [s. 161 Annual report.](section/161.md)
+      - [s. 162 Provision of information.](section/162.md)
+    - Property and subsidiaries
+      - [s. 163 Restrictions on disposal of land.](section/163.md)
+      - [s. 164 Control of subsidiaries.](section/164.md)
+      - [s. 165 Distribution of property, rights and liabilities.](section/165.md)
+    - Functions relating to legislation
+      - [s. 166 Procedure for making byelaws.](section/166.md)
+      - [s. 167 Power of Transport for London to promote or oppose Bills in Parliament.](section/167.md)
+      - [s. 168 Orders under the Transport and Works Act 1992.](section/168.md)
+    - Interpretation
+      - [s. 169 Meaning of transport subsidiary’s agreement.](section/169.md)
+  - Chapter III London Regional Transport
+    - [s. 170 Powers of disposal.](section/170.md)
+    - [s. 171 Power to give guarantees.](section/171.md)
+    - [s. 172 Supplementary provisions with respect to transfer schemes.](section/172.md)
+  - Chapter IV Public passenger transport
+    - [s. 173 Provision of public passenger transport.](section/173.md)
+    - [s. 174 Structure of fares and services.](section/174.md)
+    - [s. 175 Co-operation with the Strategic Rail Authority.](section/175.md)
+    - [s. 176 Co-operation with other persons.](section/176.md)
+    - [s. 177 Provision of extra passenger transport services and facilities.](section/177.md)
+    - [s. 178 Information and publicity about plans as to services and fares.](section/178.md)
+  - Chapter V Regulation of bus services in Greater London
+    - Introductory
+      - [s. 179 London local services.](section/179.md)
+      - [s. 180 Provision of London local services.](section/180.md)
+    - The London bus network
+      - [s. 181 The London bus network.](section/181.md)
+      - [s. 182 London local service agreements.](section/182.md)
+      - [s. 183 Addition or variation of a network service.](section/183.md)
+      - [s. 184 Discontinuance of a network service.](section/184.md)
+    - Bus services outside the network
+      - [s. 185 London service permits.](section/185.md)
+      - [s. 186 Grant of London service permits.](section/186.md)
+      - [s. 187 Conditions.](section/187.md)
+      - [s. 188 Revocation.](section/188.md)
+      - [s. 189 Appeals.](section/189.md)
+      - [s. 190 Duration.](section/190.md)
+    - Guidance document
+      - [s. 191 Consultation.](section/191.md)
+      - [s. 192 Publication.](section/192.md)
+    - Miscellaneous
+      - [s. 193 Validity of agreements and permits.](section/193.md)
+      - [s. 194 Application of the Public Passenger Vehicles Act 1981.](section/194.md)
+      - [s. 195 Interpretation of Chapter V.](section/195.md)
+  - Chapter VI Railways
+    - The Authority and the Strategic Rail Authority
+      - [s. 196 Power of Authority to give directions and guidance to Strategic Rail Authority.](section/196.md)
+      - [s. 197 Strategic Rail Authority to consult Mayor as to fares, services etc.](section/197.md)
+    - Licences, access contracts and franchising
+      - [s. 198 Exemptions by order under Part I of the Railways Act 1993.](section/198.md)
+      - [s. 199 Licence exemptions and facility exemptions.](section/199.md)
+      - [s. 200 Railway access contracts.](section/200.md)
+      - [s. 201 Transport for London: contracts requiring passenger licences.](section/201.md)
+      - [s. 202 Authority and Transport for London not to be railway franchisees.](section/202.md)
+    - Closures
+      - [s. 203 Strategic Rail Authority to give copy documents to Mayor.](section/203.md)
+      - [s. 204 Procedure for closure of certain railway passenger services.](section/204.md)
+    - Miscellaneous
+      - [s. 205 Amendment of franchise agreements to take account of the Authority.](section/205.md)
+      - [s. 206 Secretary of State to consult Mayor before changing amount of penalty fare.](section/206.md)
+      - [s. 207 Restrictions on contracting out certain services.](section/207.md)
+    - Docklands Light Railway and Croydon Tramlink
+      - [s. 208 Docklands Light Railway.](section/208.md)
+      - [s. 209 The Croydon Tramlink.](section/209.md)
+  - Chapter VII Public-Private Partnership Agreements
+    - Introductory
+      - [s. 210 PPP agreements.](section/210.md)
+      - [s. 211 Public sector operators.](section/211.md)
+      - [s. 212 PPP designations.](section/212.md)
+    - Key system assets
+      - [s. 213 Key system assets.](section/213.md)
+      - [s. 214 Register of key system assets.](section/214.md)
+      - [s. 215 Related third party agreements.](section/215.md)
+      - [s. 216 Protection of key system assets.](section/216.md)
+      - [s. 217 Schemes for the transfer of key system assets.](section/217.md)
+    - Land
+      - [s. 218 PPP leases.](section/218.md)
+      - [s. 219 Land registration and PPP leases.](section/219.md)
+    - Insolvency
+      - [s. 220 Meaning and effect of PPP administration orders.](section/220.md)
+      - [s. 221 PPP administration orders made on special petitions.](section/221.md)
+      - [s. 222 Restriction on making winding-up order.](section/222.md)
+      - [s. 223 Restrictions on voluntary winding-up etc.](section/223.md)
+      - [s. 224 Meaning of company and application of provisions to unregistered, foreign and other companies.](section/224.md)
+    - The PPP arbiter
+      - [s. 225 The PPP arbiter.](section/225.md)
+      - [s. 226 Terms of appointment.](section/226.md)
+      - [s. 227 Staff.](section/227.md)
+      - [s. 228 Same person as PPP arbiter and Rail Regulator: duties of staff.](section/228.md)
+      - [s. 229 Directions of the PPP arbiter.](section/229.md)
+      - [s. 230 Guidance by the PPP arbiter.](section/230.md)
+      - [s. 231 Duty of the PPP arbiter.](section/231.md)
+      - [s. 232 Further powers.](section/232.md)
+      - [s. 233 Provision of information to the PPP arbiter.](section/233.md)
+      - [s. 234 Failure to provide information to PPP arbiter.](section/234.md)
+      - [s. 235 Restrictions on disclosure of information.](section/235.md)
+      - [s. 236 Immunity.](section/236.md)
+      - [s. 237 Expenses.](section/237.md)
+    - Miscellaneous and supplementary
+      - [s. 238 Statutory undertakers.](section/238.md)
+      - [s. 239 Interpretation of Chapter VII.](section/239.md)
+  - Chapter VIII Travel Concessions
+    - [s. 240 Travel concessions on journeys in and around Greater London.](section/240.md)
+    - [s. 241 Reserve free travel scheme ....](section/241.md)
+    - [s. 242 Requirements as to scope.](section/242.md)
+    - [s. 243 Requirements as to uniformity.](section/243.md)
+    - [s. 244 Exercise of functions by a joint committee.](section/244.md)
+  - Chapter 8A Bus byelaws
+    - London local service byelaws
+      - [s. 244A Power to make byelaws for London local services](section/244A.md)
+    - Enforcement
+      - [s. 244B Powers of authorised persons](section/244B.md)
+      - [s. 244C Fixed penalty notices](section/244C.md)
+  - Chapter IX Penalty Fares
+    - [s. 245 Penalty fares.](section/245.md)
+  - Chapter X The Transport Users’ Committee
+    - [s. 246 Abolition of the London Regional Passengers’ Committee.](section/246.md)
+    - [s. 247 The London Transport Users’ Committee.](section/247.md)
+    - [s. 248 Representations to the Committee.](section/248.md)
+    - [s. 249 Voluntary arrangements with transport providers.](section/249.md)
+    - [s. 250 Recommendations and reports etc.](section/250.md)
+    - [s. 251 Directions by the Assembly.](section/251.md)
+    - [s. 252 Role as Rail Passengers’ Committee.](section/252.md)
+  - Chapter XI Hackney Carriages and Private Hire Vehicles
+    - [s. 252A Committee to keep railways matters under review](section/252A.md)
+    - [s. 252B References to Committee in relation to railways](section/252B.md)
+    - [s. 252C Action on investigation under section 252B](section/252C.md)
+    - [s. 252D Reports on investigation etc.](section/252D.md)
+    - [s. 252E Power to make exclusions from duties under sections 252A to 252D](section/252E.md)
+    - [s. 253 Hackney carriages.](section/253.md)
+    - [s. 254 The Private Hire Vehicles (London) Act 1998.](section/254.md)
+    - [s. 255 Provisions consequent on alteration of metropolitan police district.](section/255.md)
+  - Chapter XII Water Transport
+    - [s. 256 Provision of facilities to benefit users of waterways.](section/256.md)
+    - [s. 257 The Woolwich Ferry.](section/257.md)
+    - [s. 258 Landing places: transfer of certain rights and obligations.](section/258.md)
+  - Chapter XIII Highways
+    - GLA roads
+      - [s. 259 Introductory.](section/259.md)
+      - [s. 260 Designation of first GLA roads.](section/260.md)
+      - [s. 261 Orders by the Authority changing what are GLA roads.](section/261.md)
+      - [s. 262 Certification and records of GLA roads.](section/262.md)
+      - [s. 263 Supplementary provisions.](section/263.md)
+      - [s. 264 Transfer of property and liabilities upon a highway becoming or ceasing to be a GLA road.](section/264.md)
+      - [s. 265 Transfer of employees upon a highway becoming or ceasing to be a GLA road.](section/265.md)
+    - London borough councils
+      - [s. 266 Exercise of powers so as to affect another authority’s roads.](section/266.md)
+    - Miscellaneous and supplementary
+      - [s. 267 Proposals for Royal Parks and highways: consultation.](section/267.md)
+      - [s. 268 Road humps.](section/268.md)
+      - [s. 269 Traffic calming.](section/269.md)
+      - [s. 270 Stopping up orders by London councils.](section/270.md)
+  - Chapter XIV Road Traffic
+    - Transport for London as a traffic authority
+      - [s. 271 Transport for London to be traffic authority for GLA roads etc.](section/271.md)
+      - [s. 272 GLA side roads.](section/272.md)
+      - [s. 273 Power to place traffic signs in connection with GLA roads etc.](section/273.md)
+      - [s. 274 Power to affix traffic signs to walls.](section/274.md)
+    - Traffic control systems
+      - [s. 275 Transfer of London Traffic Control System to Transport for London.](section/275.md)
+      - [s. 276 London borough councils and the London traffic control system.](section/276.md)
+      - [s. 277 Transfer of traffic control systems between Secretary of State and Transport for London.](section/277.md)
+      - [s. 278 Traffic authority for certain traffic signs in Greater London.](section/278.md)
+    - Road safety and traffic reduction
+      - [s. 279 Road safety information and training.](section/279.md)
+      - [s. 280 The Road Traffic Reduction Act 1997.](section/280.md)
+    - Parking
+      - [s. 281 Designation of paying parking places on highways.](section/281.md)
+      - [s. 282 Financial provisions relating to parking places on the highway.](section/282.md)
+      - [s. 283 Appointment of parking adjudicators by joint committee.](section/283.md)
+      - [s. 284 Fixing of certain parking and other charges.](section/284.md)
+      - [s. 285 Special parking areas.](section/285.md)
+      - [s. 286 Variation of special parking areas by the Mayor.](section/286.md)
+      - [s. 287 Interpretation of parking provisions.](section/287.md)
+    - School crossing patrols, parking attendants and traffic wardens
+      - [s. 288 School crossing patrols.](section/288.md)
+      - [s. 289 Parking attendants.](section/289.md)
+      - [s. 290 Exercise by traffic wardens of functions of parking attendants.](section/290.md)
+    - Miscellaneous and supplementary provisions
+      - [s. 291 London borough council affecting another authority’s roads.](section/291.md)
+      - [s. 292 Interpretation of the Road Traffic Regulation Act 1984.](section/292.md)
+      - [s. 293 Proposals for Royal Parks and highways: consultation.](section/293.md)
+      - [s. 294 Repeal of certain enactments.](section/294.md)
+  - Chapter XV New Charges and Levies
+    - [s. 295 Road user charging.](section/295.md)
+    - [s. 296 Workplace parking levy.](section/296.md)
+  - Chapter XVI Transition from London Regional Transport to Transport for London
+    - [s. 297 Transfers of property, rights and liabilities.](section/297.md)
+    - [s. 298 Functions during the transitional period.](section/298.md)
+    - [s. 299 Fares etc during the transitional period.](section/299.md)
+    - [s. 300 Continuity: repealed or revoked functions.](section/300.md)
+    - [s. 301 Transfer of former functions of LTE, records and relics.](section/301.md)
+    - [s. 302 Dissolution of London Regional Transport.](section/302.md)
+    - [s. 303 Interpretation of Chapter XVI.](section/303.md)
+- Part V The London Development Agency
+  - [s. 304 Appointment of members by the Mayor.](section/304.md)
+  - [s. 305 Delegation of functions by Ministers to the Mayor.](section/305.md)
+  - [s. 306 The London Development Agency strategy.](section/306.md)
+  - [s. 307 Secretary of State’s functions in relation to the strategy.](section/307.md)
+  - [s. 308 Audit.](section/308.md)
+  - [s. 309 Further amendments of the Regional Development Agencies Act 1998.](section/309.md)
+- Part 5A Health
+  - The Health Adviser and the Deputy Health Advisers
+    - [s. 309A The Health Adviser](section/309A.md)
+    - [s. 309B The Health Adviser: identity and appointment](section/309B.md)
+    - [s. 309C The Deputy Health Advisers](section/309C.md)
+    - [s. 309D Deputy Health Advisers: identity and appointment](section/309D.md)
+  - The health inequalities strategy
+    - [s. 309E The Mayor’s health inequalities strategy](section/309E.md)
+    - [s. 309F “Health inequalities between persons living in Greater London”](section/309F.md)
+    - [s. 309G Preparation and revision of the strategy: procedural matters](section/309G.md)
+    - [s. 309H Directions by the Secretary of State](section/309H.md)
+- Part VI Police and Probation Services
+  - The Metropolitan Police Authority and its police force
+    - [s. 310 Establishment, membership and duty to maintain police force.](section/310.md)
+    - [s. 311 Assimilation of general functions to those of other police authorities.](section/311.md)
+    - [s. 312 Metropolitan Police Authority to be police authority instead of Secretary of State.](section/312.md)
+    - [s. 313 Openness.](section/313.md)
+  - Commissioners and Commanders
+    - [s. 314 General functions of the Commissioner.](section/314.md)
+    - [s. 315 Appointment of Commissioner.](section/315.md)
+    - [s. 316 Functions of the Deputy Commissioner.](section/316.md)
+    - [s. 317 Appointment of Deputy Commissioner.](section/317.md)
+    - [s. 318 Removal of Commissioner or Deputy Commissioner.](section/318.md)
+    - [s. 319 Appointment, removal and functions of Assistant Commissioners.](section/319.md)
+    - [s. 320 Appointment and removal of Commanders.](section/320.md)
+    - [s. 321 Continuation in post of Commissioners and Commanders.](section/321.md)
+  - Other members
+    - [s. 322 Other members of the metropolitan police force.](section/322.md)
+  - The metropolitan police district
+    - [s. 323 Alteration of the metropolitan police district.](section/323.md)
+    - [s. 324 Secondments to meet demands caused by the boundary change.](section/324.md)
+  - Miscellaneous police amendments
+    - [s. 325 Further amendments relating to metropolitan police etc.](section/325.md)
+  - The probation service
+    - [s. 326 ................................](section/326.md)
+  - The Receiver for the Metropolitan Police District
+    - [s. 327 Abolition of office of Receiver.](section/327.md)
+- Part 6A The London Fire Commissioner
+  - [s. 327A The London Fire Commissioner](section/327A.md)
+  - [s. 327B Disqualification for appointment as London Fire Commissioner](section/327B.md)
+  - [s. 327C Suspension and removal of London Fire Commissioner](section/327C.md)
+  - [s. 327D Directions etc by the Mayor](section/327D.md)
+  - [s. 327E Directions to the Mayor by the Secretary of State](section/327E.md)
+  - [s. 327F The Deputy Mayor for Fire](section/327F.md)
+  - [s. 327G Scrutiny of documents prepared by London Fire Commissioner](section/327G.md)
+  - [s. 327H The Assembly fire and emergency committee](section/327H.md)
+  - [s. 327I Functions to be discharged by the fire and emergency committee](section/327I.md)
+- Part VII The London Fire and Emergency Planning Authority
+  - [s. 328 Reconstitution of the Fire etc Authority.](section/328.md)
+  - [s. 328A Directions etc by the Mayor](section/328A.md)
+  - [s. 328B Directions to the Mayor by the Secretary of State](section/328B.md)
+  - [s. 329 Role as the fire authority for Greater London.](section/329.md)
+  - [s. 330 Civil defence.](section/330.md)
+  - [s. 331 Openness.](section/331.md)
+  - [s. 332 Discharge of functions.](section/332.md)
+  - [s. 333 Miscellaneous powers and duties.](section/333.md)
+- Part 7A Housing and regeneration
+  - Functions in relation to land
+    - [s. 333ZA Compulsory acquisition of land](section/333ZA.md)
+    - [s. 333ZAA Acquisition of land by agreement](section/333ZAA.md)
+    - [s. 333ZB Powers in relation to land ... held for housing or regeneration purposes](section/333ZB.md)
+    - [s. 333ZC Disposal etc of land held for housing and regeneration purposes](section/333ZC.md)
+    - [s. 333ZD Power to enter and survey land](section/333ZD.md)
+  - Social housing
+    - [s. 333ZE Social housing](section/333ZE.md)
+    - [s. 333ZF Relationship with the Regulator of Social Housing: general](section/333ZF.md)
+    - [s. 333ZG Relationship with the Regulator of Social Housing: directions](section/333ZG.md)
+    - [s. 333ZH Relationship with the Regulator of Social Housing: further provisions](section/333ZH.md)
+  - Exercise of functions in relation to certain property etc
+    - [s. 333ZI Exercise of functions by the Authority in relation to certain property etc](section/333ZI.md)
+  - Grants for housing and regeneration purposes
+    - [s. 333ZJ Grants to the Authority for housing and regeneration purposes](section/333ZJ.md)
+  - The London housing strategy
+    - [s. 333A The London housing strategy](section/333A.md)
+    - [s. 333B Submission of draft strategy to Secretary of State before publication](section/333B.md)
+    - [s. 333C Reviews of the strategy](section/333C.md)
+    - [s. 333D Duties of the Authority and local authorities](section/333D.md)
+    - [s. 333DA Transfer schemes](section/333DA.md)
+    - [s. 333DB Further provisions about transfer schemes](section/333DB.md)
+    - [s. 333DC Tax consequences of transfers under section 333DA](section/333DC.md)
+  - Interpretation
+    - [s. 333E Interpretation of Part 7A](section/333E.md)
+- PART 7B Economic development
+  - [s. 333F Economic development strategy for London](section/333F.md)
+  - [s. 333G Public authorities: duty to have regard to shared local growth priorities for London](section/333G.md)
+- Part VIII Planning
+  - The Mayor’s spatial development strategy
+    - [s. 334 The spatial development strategy.](section/334.md)
+    - [s. 335 Public participation.](section/335.md)
+    - [s. 336 Withdrawal.](section/336.md)
+    - [s. 337 Publication.](section/337.md)
+    - [s. 338 Examination in public.](section/338.md)
+  - Review, alteration and replacement
+    - [s. 339 Review of matters affecting the strategy.](section/339.md)
+    - [s. 340 Reviews of the strategy.](section/340.md)
+    - [s. 341 Alteration or replacement.](section/341.md)
+  - Supplementary provisions
+    - [s. 342 Matters to which the Mayor is to have regard.](section/342.md)
+    - [s. 343 Regulations.](section/343.md)
+  - Implementation
+    - [s. 344 Amendments of the Town and Country Planning Act 1990.](section/344.md)
+    - [s. 345 Town and Country Planning Act 1990: costs of appeals.](section/345.md)
+  - Miscellaneous and supplemental
+    - [s. 346 Monitoring and data collection.](section/346.md)
+    - [s. 347 Functional bodies to have regard to the strategy.](section/347.md)
+    - [s. 348 Mayor’s functions as to planning around Greater London.](section/348.md)
+    - [s. 349 Abolition of joint planning committee for Greater London.](section/349.md)
+    - [s. 350 Interpretation of Part VIII.](section/350.md)
+- Part IX Environmental functions
+  - Report on the state of the environment
+    - [s. 351 The Mayor’s environmental report.](section/351.md)
+  - The Mayor’s Environment Strategy for London
+    - [s. 351A The London Environment Strategy](section/351A.md)
+    - [s. 351B Guidance](section/351B.md)
+    - [s. 351C Directions as to the content of the London Environment Strategy](section/351C.md)
+  - Biodiversity
+    - [s. 352 The London Environment Strategy: biodiversity.](section/352.md)
+  - Waste
+    - [s. 353 The London Environment Strategy: municipal waste management.](section/353.md)
+    - [s. 354 Directions by the Secretary of State.](section/354.md)
+    - [s. 355 Duties of waste collection authorities etc.](section/355.md)
+    - [s. 356 Directions by the Mayor.](section/356.md)
+    - [s. 356A London Waste and Recycling Board](section/356A.md)
+    - [s. 356B Supplemental provision concerning the Board](section/356B.md)
+    - [s. 357 Information about existing waste contracts.](section/357.md)
+    - [s. 358 Information about new waste contracts.](section/358.md)
+    - [s. 359 Confidential information about waste contracts.](section/359.md)
+    - [s. 360 Interpretation of sections 353 to 359.](section/360.md)
+    - [s. 361 Waste recycling plans.](section/361.md)
+  - Climate change, energy etc
+    - [s. 361A Duties of Mayor and Assembly with respect to climate change](section/361A.md)
+    - [s. 361B The London Environment Strategy: climate change mitigation and energy](section/361B.md)
+    - [s. 361C Directions by the Secretary of State to revise the strategy](section/361C.md)
+    - [s. 361D The London Environment Strategy: adaptation to climate change](section/361D.md)
+    - [s. 361E Directions by the Secretary of State to revise the strategy](section/361E.md)
+  - Air quality
+    - [s. 362 The London Environment Strategy: air quality.](section/362.md)
+    - [s. 363 Directions by the Secretary of State.](section/363.md)
+    - [s. 364 Duty of local authorities in Greater London.](section/364.md)
+    - [s. 365 Directions by the Mayor.](section/365.md)
+    - [s. 366 Interpretation of sections 362 to 365.](section/366.md)
+    - [s. 367 Directions under the Environment Act 1995.](section/367.md)
+    - [s. 368 Duty of the Mayor in relation to air quality action plans.](section/368.md)
+    - [s. 369 Consultation with the Mayor.](section/369.md)
+  - Noise
+    - [s. 370 The London Environment Strategy: ambient noise.](section/370.md)
+    - [s. 371 Consultation about aviation noise.](section/371.md)
+    - [s. 372 Consultation at aerodromes.](section/372.md)
+  - Miscellaneous and supplementary
+    - [s. 373 Functional bodies to have regard to strategies under this Part.](section/373.md)
+    - [s. 374 Abolition of the London Ecology Committee.](section/374.md)
+- Part X Culture, Media and Sport
+  - Chapter I Culture Strategy and tourism
+    - [s. 375 The Cultural Strategy Group for London.](section/375.md)
+    - [s. 376 The Mayor’s culture strategy.](section/376.md)
+    - [s. 377 Assistance by the Mayor for museums, galleries etc.](section/377.md)
+    - [s. 377A The Mayor’s duty to exercise certain powers of appointment](section/377A.md)
+    - [s. 378 Duty of the Authority to promote tourism.](section/378.md)
+    - [s. 379 Authority’s duty to provide advice on tourism.](section/379.md)
+    - [s. 380 Delegation of Authority’s functions.](section/380.md)
+    - [s. 381 Grants to the Authority for its tourism functions.](section/381.md)
+    - [s. 382 Interpretation of Chapter I.](section/382.md)
+  - Chapter II Trafalgar Square and Parliament Square
+    - [s. 383 Trafalgar Square.](section/383.md)
+    - [s. 384 Parliament Square.](section/384.md)
+    - [s. 385 Byelaws.](section/385.md)
+    - [s. 386 Guidance.](section/386.md)
+- Part XI Miscellaneous and General Provisions
+  - Application of enactments
+    - [s. 387 The Trustee Investments Act 1961.](section/387.md)
+    - [s. 388 The Local Authorities (Goods and Services) Act 1970.](section/388.md)
+    - [s. 389 The Superannuation Act 1972.](section/389.md)
+    - [s. 390 The Superannuation Act 1972: delegation of functions.](section/390.md)
+    - [s. 391 ................................](section/391.md)
+    - [s. 392 The Stock Transfer Act 1982.](section/392.md)
+  - Companies
+    - [s. 393 Companies in which local authorities have interests.](section/393.md)
+  - Investigation of functional bodies
+    - [s. 394 Investigation by the Commission for Local Administration.](section/394.md)
+  - Information etc.
+    - [s. 395 Provision of information, advice and assistance by functional bodies.](section/395.md)
+    - [s. 396 Research and collection of information: London Research Centre etc.](section/396.md)
+    - [s. 397 Information schemes.](section/397.md)
+    - [s. 398 Schemes for the provision of information by London councils: supplementary.](section/398.md)
+    - [s. 399 Revocation or variation of information schemes.](section/399.md)
+  - Overseas assistance
+    - [s. 400 Overseas assistance.](section/400.md)
+  - Accommodation and services
+    - [s. 401 Accommodation for Authority and functional bodies.](section/401.md)
+    - [s. 401A Administrative, professional and technical services](section/401A.md)
+  - The London Pensions Fund Authority
+    - [s. 402 Finance.](section/402.md)
+    - [s. 403 Membership, reports and information.](section/403.md)
+    - [s. 403ZA Co-operation with local government pension scheme managers](section/403ZA.md)
+  - Acquisition of land for shared purposes
+    - [s. 403A Acquisition of land by the Authority and TfL for shared purposes](section/403A.md)
+    - [s. 403B Acquisition of land by MDC and TfL for shared purposes](section/403B.md)
+  - Discrimination
+    - [s. 404 Discrimination.](section/404.md)
+- Part XII Supplementary Provisions
+  - Consequential and transitional provision etc.
+    - [s. 405 Power to amend Acts and subordinate legislation.](section/405.md)
+    - [s. 406 Transitional and consequential provision.](section/406.md)
+    - [s. 407 Appointments by the Secretary of State.](section/407.md)
+  - Transfers
+    - [s. 408 Transfers of property, rights or liabilities.](section/408.md)
+    - [s. 409 Transfer schemes.](section/409.md)
+    - [s. 410 Contracts of employment etc.](section/410.md)
+    - [s. 411 Pensions.](section/411.md)
+    - [s. 412 Transfer and pension instruments: common provisions.](section/412.md)
+    - [s. 413 Modification of transfer or pension instruments.](section/413.md)
+    - [s. 414 Foreign property, rights or liabilities: perfection of vesting.](section/414.md)
+  - Continuity
+    - [s. 415 Continuity.](section/415.md)
+    - [s. 416 Repeal and re-enactment: supplementary provisions.](section/416.md)
+  - Taxation provisions
+    - [s. 417 Stamp duty and stamp duty reserve tax.](section/417.md)
+    - [s. 418 Stamp duty: instruments under London Regional Transport Act 1984.](section/418.md)
+    - [s. 419 Taxation.](section/419.md)
+  - Miscellaneous and supplemental
+    - [s. 420 Regulations and orders.](section/420.md)
+    - [s. 421 Directions.](section/421.md)
+    - [s. 422 Financial provisions.](section/422.md)
+    - [s. 423 Repeals.](section/423.md)
+    - [s. 424 Interpretation.](section/424.md)
+    - [s. 425 Short title, commencement and extent.](section/425.md)
+- SCHEDULE 1 Assembly constituencies and orders under section 2(4)
+  - Part I Assembly constituencies
+    - Changes to Assembly constituencies
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Comprehensive review of Assembly constituencies
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Preparation and submission of report
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Further report
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Payments by Secretary of State to Commission
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - The rules about Assembly constituencies
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - PART II ...
+- SCHEDULE 2 Voting at elections
+  - Part I Election of the Mayor
+    - Application
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - First preference vote and second preference vote
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Candidate with overall majority of first preference votes
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - No candidate with overall majority of first preference votes
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part II Return of London members
+    - Party lists and individual candidates
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Calculation of the London figure
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - No seats for party etc not polling prescribed percentage of total vote
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Return of members
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Amendments of the Representation of the People Acts
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Polling districts and stations
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Returning officers for Greater London and for Assembly constituencies
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Rules for local elections
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Ordinary day of local elections
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Local elections void etc
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Timing as to local elections
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Further provision as to local election voting
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Validity of local expenses, legal costs
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Voting offences
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Requirement of secrecy
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Election agents
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Sub-agents
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Office of election agent and sub-agent
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Effect of default in election agent’s appointment
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Election expenses
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Payment of expenses through election agent
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Candidate’s personal expenses and petty expenses
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Prohibition of expenses not authorised by election agent
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Limitation of election expenses
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Power to vary provisions concerning election expenses
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Expenses limit for joint candidates at local election
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Return as to election expenses
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Declarations as to election expenses
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Penalty for sitting or voting where no return and declarations transmitted
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Disqualification where no return and declarations transmitted after Mayoral election
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Publication of time and place for inspection of returns and declarations
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Broadcasting during elections
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Schools and rooms for election meetings
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - Bribery
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - Election court for local election and place of trial
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Consequences of election etc of London members being declared void.
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Conclusion of trial of local election petition
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - Election court determination in respect of election of Mayor or constituency member
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - Candidate reported guilty of corrupt or illegal practice
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Avoidance of election for employing corrupt agent
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - References to elections under the local government Act to include Authority elections
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - General provisions as to interpretation
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - Interpretation: local government provisions
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+- Schedule 3A Free delivery of election addresses at first election of Mayor
+  - Interpretation
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Election addresses
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Contents of election addresses
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Form of election addresses
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Approval of election addresses by Post Office
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - The election booklet
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Form of election booklet
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Distribution of election booklet
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Contributions by candidates towards costs of printing
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+  - Payments by Secretary of State
+    - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+  - Candidates’ election expenses
+    - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+- SCHEDULE 4 Exercise of functions during vacancy or temporary incapacity of Mayor
+  - Part I Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II Vacancies in the office of Mayor
+    - Notice of vacancy in office of Mayor
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Provision for acting Mayor during vacancy
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Filling the office of acting Mayor
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Acting Mayor to be treated as Mayor during vacancy
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Functions which are not to be exercisable by acting Mayor
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Acting Mayor not to act as Assembly member except in relation to budget
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Declaration of acceptance by Deputy Mayor
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Consequences of making the declaration
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Declaration of acceptance by Chair of Assembly
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Setting the budget during a vacancy
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Occurrence of vacancy in office of acting Mayor
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Part III Mayor temporarily unable to act Notice of Mayor’s temporary inability to act
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Deputy Mayor to be treated as Mayor during the period
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Functions which are not to be exercisable by Deputy Mayor
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Setting the budget during the period
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Mayor unable to act for three consecutive months
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Exercise of Mayor’s functions by Chair
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 4A Confirmation hearings etc
+  - Application of Schedule
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Mayor not to make appointment until end of confirmation process
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Duty of Mayor to notify Assembly
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Assembly to make recommendation to the Mayor
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - The Mayor’s response to the recommendation
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Power to request candidate to attend confirmation hearing or produce documents
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - Procedure for requesting candidate’s appearance at confirmation hearing
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - Restriction of information etc
+    - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - Discharge of Assembly’s functions by Assembly, ordinary committee or Chair of Assembly
+    - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+    - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+- SCHEDULE 5 Promotion of Bills in Parliament by the Authority
+  - Preliminary requirements
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Consultation on draft Bill
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Publicity for, and exposure of, the draft Bill
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Consultation on revised draft Bill
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Deposition of the Bill in Parliament
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Bills affecting statutory functions of London local authorities
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Publicity for the deposited Bill
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Procedure for determining the Authority’s consolidated council tax requirement
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Mayor’s draft component budget for each constituent body
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Draft consolidated budget
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Failure of Mayor to comply with paragraph 3(4)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Assembly consideration of Mayor’s draft budget
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Limit on Assembly’s powers to amend Mayor’s draft budget for the Assembly
+    - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+  - The Mayor’s final draft of the proposed consolidated budget
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - The Mayor’s substitute consolidated budget
+    - [Sch. 6 para. 6A](schedule/6/paragraph/6A.md)
+  - Failure of Mayor to present final draft budget
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Approval of Mayor’s final draft budget by Assembly
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Limit on Assembly’s power to amend Mayor’s final draft budget for the Assembly
+    - [Sch. 6 para. 8A](schedule/6/paragraph/8A.md)
+  - Approval of substitute consolidated budget by Assembly following non-compliance by Mayor with paragraph 6A
+    - [Sch. 6 para. 8B](schedule/6/paragraph/8B.md)
+  - Approval of substitute consolidated budget by Assembly following compliance by Mayor with paragraph 6A
+    - [Sch. 6 para. 8C](schedule/6/paragraph/8C.md)
+  - Limit on Assembly’s power to amend Mayor’s substitute consolidated budget
+    - [Sch. 6 para. 8D](schedule/6/paragraph/8D.md)
+  - Failure of Assembly to approve final draft budget
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Failure of Assembly to approve substitute consolidated budget or council tax requirement
+    - [Sch. 6 para. 9ZA](schedule/6/paragraph/9ZA.md)
+  - Failure of Assembly to approve draft substitute consolidated budget
+    - [Sch. 6 para. 9A](schedule/6/paragraph/9A.md)
+  - Regulations amending dates
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Publication
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Procedure for making of substitute calculations by the Authority
+  - Preliminary
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Mayor’s first draft
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Failure of Mayor to comply with paragraph 2(3)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Assembly consideration of Mayor’s first draft
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Limit on Assembly’s powers to amend Mayor’s first draft budget for the Assembly
+    - [Sch. 7 para. 4A](schedule/7/paragraph/4A.md)
+  - The Mayor’s final draft
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Failure of Mayor to present a final draft
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Approval of Mayor’s final draft by Assembly
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Limit on Assembly’s power to amend Mayor’s final draft budget for the Assembly
+    - [Sch. 7 para. 7A](schedule/7/paragraph/7A.md)
+  - Failure of Assembly to approve final draft within 21 days
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Publication
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Amendments of the Audit Commission Act 1998
+  - Preliminary
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Transmission and consideration of section 8 reports
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Consideration of reports or recommendations
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Publicity for meetings
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Declaration that item of account is unlawful
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Recovery of amount not accounted for et ceteralaetc.
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Documents relating to police authorities Et ceteralaetc
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Studies of Authority by Commission at request of Mayor
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Studies of functional bodies by Commission at request of Mayor
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Restriction on disclosure of information: exceptions
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Interpretation and exercise of Authority functions by Mayor et ceteralaetc.
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Amendments to Local Government Finance Act 1992
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Challenge of maximum amount after designation for year under consideration
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Duty of designated precepting authority
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Challenge of maximum amount after designation under section 52M or 52P
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Duty of designated precepting authority
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Meaning of budget requirement
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Transport for London
+  - Status and capacity
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Membership of Transport for London
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Chairman and deputy chairman
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Remuneration etc not to be paid to members who are also Assembly members
+    - [Sch. 10 para. 3A](schedule/10/paragraph/3A.md)
+  - Staff
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Proceedings of Transport for London
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Membership of committees and sub-committees
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Delegation by Transport for London
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Delegation by committees, sub-committees, etc
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Joint committees with local authorities
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Minutes
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Application of seal and proof of instruments
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Documents served etc by or on Transport for London
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Members’ interests
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Miscellaneous powers of Transport for London
+  - Carriage and storage
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Incidental amenities and facilities
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Charges for services and facilities
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Machinery and components
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Technical assistance and advice
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Exploitation of commercial opportunities
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Intermodal freight facilities
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Acquisition, disposal and development of land
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - Research and development of policies
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Welfare and efficiency of employees
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - Acquisition of undertakings etc
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - Byelaws for railways
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+  - Byelaws for landing places
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - Museums
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - Supplementary
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+  - Miscellaneous
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+  - Other powers
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+- SCHEDULE 12 Transport for London transfer schemes
+  - Interpretation
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Contents of transfer schemes
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Apportionment and division
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Definition of the property, rights and liabilities transferred
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Other provision that may be made by a transfer scheme
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Power to make supplementary etc provision
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Functions under local Acts or Transport and Works Act orders
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Effect of transfer scheme
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Continuity
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Transfer of employees
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Provision of information to Transport for London
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Modification of transfer scheme
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- SCHEDULE 13 Promotion of Bills in Parliament by Transport for London
+  - Preliminary requirements
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Consultation on draft Bill
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Publicity for, and exposure of, the draft Bill
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Deposition of the Bill in Parliament
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Bills affecting statutory functions of London local authorities
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Publicity for the deposited Bill
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+- SCHEDULE 14 PPP administration orders
+  - Part I Modifications of the 1986 Act
+    - General application of provisions of 1986 Act
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Effect of order
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Appointment of special PPP administrator
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - General powers of special PPP administrator
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - Power to deal with charged property
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - Duties of special PPP administrator
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Discharge of order
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Notice of making of order
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Statement of proposals
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Applications to court
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - Particular powers of special PPP administrator
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Part II Further modifications of the 1986 Act: application in relation to foreign companies
+    - Introductory
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - Effect of order
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - Notification of order
+      - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - General powers of special PPP administrator
+      - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - Power to deal with charged property
+      - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - Duties of special PPP administrator
+      - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - Statement as to company’s affairs
+      - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - Particular powers of special PPP administrator
+      - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Part III Supplemental
+    - General adaptations and saving
+      - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - Interpretation
+      - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+- SCHEDULE 15 Transfer of relevant activities in connection with PPP administration orders
+  - Application of Schedule
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Making and modification of transfer schemes
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Transfers by scheme
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Transfer of licences
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Supplemental provisions of schemes
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Duties of existing appointee after the scheme comes into force
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Functions exercisable by virtue of PPP agreements
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+- SCHEDULE 16 The free travel scheme
+  - Concession required for all eligible England residents
+    - [Sch. 16 para. A1](schedule/16/paragraph/A1.md)
+  - Additional concession required for blind eligible London residents
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Additional concession required for other eligible London residents
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Notification
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Issue of permits
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Charges made for permits
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Payments by London authorities
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Local authority’s opinion of disability or injury
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Annual report of Transport for London
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+- SCHEDULE 17 Penalty fares
+  - Introductory
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Operation of this Schedule
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Penalty fares on local services
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Penalty fares on trains
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - Amount of penalty fare
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Documents in connection with penalty fare requirement
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - Supplementary provision
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - Exclusion of double liability
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - Power to apply Schedule to certain other train services
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - Appeals
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - Repeal of London Regional Transport (Penalty Fares) Act 1992
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+- SCHEDULE 18 London Transport Users’ Committee
+  - Chairman and other members
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Officers
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Remuneration
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Pensions
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Accounts
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Accommodation
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Constitution and procedure
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - Admission of public to meetings.
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+  - Investigation of complaints
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+  - Interpretation
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+- SCHEDULE 19 Amendment of enactments relating to the London Regional Passengers’ Committee
+  - The Transport Act 1962
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - The Chronically Sick and Disabled Persons Act 1970
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - The House of Commons Disqualification Act 1975
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - The Transport Act 1985
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - The Railways Act 1993
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+- SCHEDULE 20 Hackney carriages
+  - Part I Transfers of functions and amendments
+    - The London Hackney Carriages Act 1843
+      - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - The London Hackney Carriages Act 1850
+      - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - The London Hackney Carriage Act 1853
+      - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - The London Hackney Carriage (No. 2) Act 1853
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - The Metropolitan Public Carriage Act 1869
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - The London Cab and Stage Carriage Act 1907
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - The London Cab Act 1968
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - The Transport Act 1985
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Part II Transitional provisions
+    - Saving
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - The London Hackney Carriages Act 1843
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - The London Hackney Carriages Act 1850
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - The London Hackney Carriage Act 1853
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - The London Hackney Carriage (No. 2) Act 1853
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+    - The Metropolitan Public Carriage Act 1869
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+    - The London Cab and Stage Carriage Act 1907
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+    - The London Cab Act 1968
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+    - The Transport Act 1985
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+- SCHEDULE 21 The Private Hire Vehicles (London) Act 1998
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+  - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+  - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+  - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+  - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+  - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+  - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+  - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+- SCHEDULE 22 Stopping up orders by London councils
+  - Highways Act 1980
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Town and Country Planning Act 1990
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Highways affected by development: orders
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Highways crossing or entering route of proposed new highway
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Order extinguishing right to use vehicles on highway
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Compensation for orders under section 249
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Procedure for making of orders
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - Procedure in anticipation of planning permission
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Temporary highway orders: mineral workings
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+- SCHEDULE 23 Road user charging
+  - Interpretation
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Authority functions exercisable by the Mayor
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - Conditions for making a charging scheme
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - Making a charging scheme
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - Scheme to conform with Mayor’s transport strategy
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - Approval of Authority required for inclusion of certain provisions
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - Joint charging schemes
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - The contents of a charging scheme
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - The charging area and the roads
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+  - The charges
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+  - Manner of payment of charges
+    - [Sch. 23 para. 10A](schedule/23/paragraph/10A.md)
+  - Exemptions, reduced rates etc
+    - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+  - Documents and equipment
+    - [Sch. 23 para. 11A](schedule/23/paragraph/11A.md)
+  - Penalty charges
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+  - Liability for charges
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+  - Installation of equipment on roads or elsewhere
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+  - Accounts and funds
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+  - Application of the net proceeds
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+  - Provisions supplementary to paragraph 16
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+  - Apportionment of net proceeds of charging schemes
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+  - Charging authority’s 10 year plan for their share
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+  - Charging authority’s 4 year programmes for their share
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+  - Authority’s 10 year plan for the redistributed portion
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+  - Authority’s 4 year programmes for the redistributed portion
+    - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+  - Non-compliance with paragraph 20 or 22 above
+    - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+  - 4 year programmes: amendment, replacement and voluntary statements
+    - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+  - Offences
+    - [Sch. 23 para. 25](schedule/23/paragraph/25.md)
+  - Examination of motor vehicles etc
+    - [Sch. 23 para. 26](schedule/23/paragraph/26.md)
+  - Removal or immobilisation of motor vehicles
+    - [Sch. 23 para. 27](schedule/23/paragraph/27.md)
+  - Determination of disputes and appeals
+    - [Sch. 23 para. 28](schedule/23/paragraph/28.md)
+  - Approval of equipment and directions for use
+    - [Sch. 23 para. 29](schedule/23/paragraph/29.md)
+  - Evidence
+    - [Sch. 23 para. 30](schedule/23/paragraph/30.md)
+  - Exclusions for motor vehicles not on roads
+    - [Sch. 23 para. 31](schedule/23/paragraph/31.md)
+  - Expenses
+    - [Sch. 23 para. 32](schedule/23/paragraph/32.md)
+  - Directions by the Authority
+    - [Sch. 23 para. 33](schedule/23/paragraph/33.md)
+  - Guidance by the Authority
+    - [Sch. 23 para. 34](schedule/23/paragraph/34.md)
+  - Information
+    - [Sch. 23 para. 34A](schedule/23/paragraph/34A.md)
+  - Power to require information
+    - [Sch. 23 para. 34B](schedule/23/paragraph/34B.md)
+  - Crown roads
+    - [Sch. 23 para. 35](schedule/23/paragraph/35.md)
+  - Crown application
+    - [Sch. 23 para. 36](schedule/23/paragraph/36.md)
+  - Duration of charging schemes
+    - [Sch. 23 para. 37](schedule/23/paragraph/37.md)
+  - Variation and revocation of charging schemes
+    - [Sch. 23 para. 38](schedule/23/paragraph/38.md)
+- SCHEDULE 24 Workplace parking levy
+  - Interpretation
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - Authority functions exercisable by the Mayor
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+  - Provision of workplace parking places
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+  - Power to amend paragraph 3 above
+    - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+  - Controlled vehicles
+    - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+  - Conditions for making a licensing scheme
+    - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+  - Making a licensing scheme
+    - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+  - Scheme to conform with Mayor’s transport strategy
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+  - Approval of Authority required for inclusion of certain provisions
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+  - Joint licensing schemes
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+  - The contents of a licensing scheme
+    - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
+  - Prohibition on multiple licensing schemes
+    - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
+  - The charges
+    - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
+  - The contents of a licence
+    - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
+  - Duration of licences
+    - [Sch. 24 para. 15](schedule/24/paragraph/15.md)
+  - Licensing: procedure
+    - [Sch. 24 para. 16](schedule/24/paragraph/16.md)
+  - Exemptions, reduced rates etc
+    - [Sch. 24 para. 17](schedule/24/paragraph/17.md)
+  - Penalty charges
+    - [Sch. 24 para. 18](schedule/24/paragraph/18.md)
+  - Liability for charges
+    - [Sch. 24 para. 19](schedule/24/paragraph/19.md)
+  - Determination of disputes and appeals
+    - [Sch. 24 para. 20](schedule/24/paragraph/20.md)
+  - Accounts and funds
+    - [Sch. 24 para. 21](schedule/24/paragraph/21.md)
+  - Application of the net proceeds
+    - [Sch. 24 para. 22](schedule/24/paragraph/22.md)
+  - Provisions supplementary to paragraph 22
+    - [Sch. 24 para. 23](schedule/24/paragraph/23.md)
+  - Apportionment of net proceeds of licensing schemes
+    - [Sch. 24 para. 24](schedule/24/paragraph/24.md)
+  - Licensing authority’s 10 year plan for their share
+    - [Sch. 24 para. 25](schedule/24/paragraph/25.md)
+  - Licensing authority’s 4 year programmes for their share
+    - [Sch. 24 para. 26](schedule/24/paragraph/26.md)
+  - Authority’s 10 year plan for the redistributed portion
+    - [Sch. 24 para. 27](schedule/24/paragraph/27.md)
+  - Authority’s 4 year programmes for the redistributed portion
+    - [Sch. 24 para. 28](schedule/24/paragraph/28.md)
+  - Non-compliance with paragraph 26 or 28 above
+    - [Sch. 24 para. 29](schedule/24/paragraph/29.md)
+  - 4 year programmes: amendment, replacement and voluntary statements
+    - [Sch. 24 para. 30](schedule/24/paragraph/30.md)
+  - Rights of entry
+    - [Sch. 24 para. 31](schedule/24/paragraph/31.md)
+  - Evidence
+    - [Sch. 24 para. 32](schedule/24/paragraph/32.md)
+  - Expenses
+    - [Sch. 24 para. 33](schedule/24/paragraph/33.md)
+  - Directions by the Authority
+    - [Sch. 24 para. 34](schedule/24/paragraph/34.md)
+  - Guidance
+    - [Sch. 24 para. 35](schedule/24/paragraph/35.md)
+  - Information
+    - [Sch. 24 para. 35A](schedule/24/paragraph/35A.md)
+  - Parking in the Palace of Westminster
+    - [Sch. 24 para. 36](schedule/24/paragraph/36.md)
+  - Crown application
+    - [Sch. 24 para. 37](schedule/24/paragraph/37.md)
+  - Duration of licensing schemes
+    - [Sch. 24 para. 38](schedule/24/paragraph/38.md)
+  - Variation and revocation of licensing schemes
+    - [Sch. 24 para. 39](schedule/24/paragraph/39.md)
+- SCHEDULE 25 Further amendments of the Regional Development Agencies Act 1998
+  - Preliminary
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - Powers of the London Development Agency
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+  - Regional chambers
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+  - Financial arrangements
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+  - Grants
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - Borrowing by the Agency
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+  - Guarantees of the Agency’s borrowing
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+  - Loans to the Agency
+    - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+  - Accounts
+    - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+  - Information, reports and accountability
+    - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+  - Annual reports
+    - [Sch. 25 para. 11](schedule/25/paragraph/11.md)
+  - Accountability
+    - [Sch. 25 para. 12](schedule/25/paragraph/12.md)
+  - Acquisition of land
+    - [Sch. 25 para. 13](schedule/25/paragraph/13.md)
+  - Power to alter regions
+    - [Sch. 25 para. 14](schedule/25/paragraph/14.md)
+  - Change of the Agency name
+    - [Sch. 25 para. 15](schedule/25/paragraph/15.md)
+  - Power to promote or oppose Bills in Parliament
+    - [Sch. 25 para. 16](schedule/25/paragraph/16.md)
+  - Power to give guidance and directions
+    - [Sch. 25 para. 17](schedule/25/paragraph/17.md)
+  - Application of guidance, consent etc provisions to the Mayor
+    - [Sch. 25 para. 18](schedule/25/paragraph/18.md)
+  - Interpretation
+    - [Sch. 25 para. 19](schedule/25/paragraph/19.md)
+  - Amendments of Schedule 2
+    - [Sch. 25 para. 20](schedule/25/paragraph/20.md)
+  - Promotion of Bills in Parliament by the London Development Agency
+    - [Sch. 25 para. 21](schedule/25/paragraph/21.md)
+- SCHEDULE 26 The Metropolitan Police Authority: Schedule 2A to the Police Act 1996
+- SCHEDULE 27 Further amendments relating to metropolitan police etc
+  - The Metropolitan Police Act 1829
+    - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - The Metropolitan Police Act 1856
+    - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+  - The Metropolitan Police (Receiver) Act 1861
+    - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+  - The Metropolitan Police (Receiver) Act 1867
+    - [Sch. 27 para. 4](schedule/27/paragraph/4.md)
+  - The Metropolitan Police Act 1886
+    - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+  - The Riot (Damages) Act 1886
+    - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+  - The Metropolitan Police Act 1887
+    - [Sch. 27 para. 7](schedule/27/paragraph/7.md)
+  - The Metropolitan Police (Receiver) Act 1895
+    - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+  - The Metropolitan Police Courts Act 1897
+    - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+  - The Police (Property) Act 1897
+    - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+  - The Metropolitan Police Act 1899
+    - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+  - The Police Act 1909
+    - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+  - The Crown Lands Act 1936
+    - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
+  - The London Building Acts (Amendment) Act 1939
+    - [Sch. 27 para. 14](schedule/27/paragraph/14.md)
+  - The Local Government Act 1948
+    - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
+  - The Metropolitan Magistrates’ Courts Act 1959
+    - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+  - The Local Government (Records) Act 1962
+    - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+  - The Administration of Justice Act 1964
+    - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+  - The Local Government Act 1966
+    - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+  - The Superannuation (Miscellaneous Provisions) Act 1967
+    - [Sch. 27 para. 20](schedule/27/paragraph/20.md)
+  - The Leasehold Reform Act 1967
+    - [Sch. 27 para. 21](schedule/27/paragraph/21.md)
+  - The Firearms Act 1968
+    - [Sch. 27 para. 22](schedule/27/paragraph/22.md)
+  - The Local Government Grants (Social Need) Act 1969
+    - [Sch. 27 para. 23](schedule/27/paragraph/23.md)
+  - The Pensions (Increase) Act 1971
+    - [Sch. 27 para. 24](schedule/27/paragraph/24.md)
+  - The Local Government Act 1972
+  - Members’ interests in contracts etc
+    - [Sch. 27 para. 25](schedule/27/paragraph/25.md)
+  - Meetings and proceedings
+    - [Sch. 27 para. 26](schedule/27/paragraph/26.md)
+  - Discharge of functions
+    - [Sch. 27 para. 27](schedule/27/paragraph/27.md)
+  - Miscellaneous powers of local authorities
+    - [Sch. 27 para. 28](schedule/27/paragraph/28.md)
+  - Appearance in legal proceedings
+    - [Sch. 27 para. 29](schedule/27/paragraph/29.md)
+  - Inspection of documents
+    - [Sch. 27 para. 30](schedule/27/paragraph/30.md)
+  - Photographic copies of documents
+    - [Sch. 27 para. 31](schedule/27/paragraph/31.md)
+  - Services of notices on local authorities
+    - [Sch. 27 para. 32](schedule/27/paragraph/32.md)
+  - Public notices
+    - [Sch. 27 para. 33](schedule/27/paragraph/33.md)
+  - Service of notices by local authorities
+    - [Sch. 27 para. 34](schedule/27/paragraph/34.md)
+  - Authentication of documents
+    - [Sch. 27 para. 35](schedule/27/paragraph/35.md)
+  - Meetings and proceedings
+    - [Sch. 27 para. 36](schedule/27/paragraph/36.md)
+  - The Employment Agencies Act 1973
+    - [Sch. 27 para. 37](schedule/27/paragraph/37.md)
+  - The Local Government Act 1974
+    - [Sch. 27 para. 38](schedule/27/paragraph/38.md)
+  - The House of Commons Disqualification Act 1975
+    - [Sch. 27 para. 39](schedule/27/paragraph/39.md)
+  - The Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 27 para. 40](schedule/27/paragraph/40.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 27 para. 41](schedule/27/paragraph/41.md)
+  - The Local Government, Planning and Land Act 1980
+  - Direct labour organisations
+    - [Sch. 27 para. 42](schedule/27/paragraph/42.md)
+  - Rate support grants
+    - [Sch. 27 para. 43](schedule/27/paragraph/43.md)
+  - Disposal of land held by public bodies
+    - [Sch. 27 para. 44](schedule/27/paragraph/44.md)
+  - The Local Government (Miscellaneous Provisions) Act 1982
+    - [Sch. 27 para. 45](schedule/27/paragraph/45.md)
+  - The Aviation Security Act 1982
+    - [Sch. 27 para. 46](schedule/27/paragraph/46.md)
+  - The Insurance Companies Act 1982
+    - [Sch. 27 para. 47](schedule/27/paragraph/47.md)
+  - The Road Traffic Regulation Act 1984
+    - [Sch. 27 para. 48](schedule/27/paragraph/48.md)
+  - The County Courts Act 1984
+    - [Sch. 27 para. 49](schedule/27/paragraph/49.md)
+  - The Rates Act 1984
+    - [Sch. 27 para. 50](schedule/27/paragraph/50.md)
+  - The Housing Act 1985
+    - [Sch. 27 para. 51](schedule/27/paragraph/51.md)
+  - The Housing Associations Act 1985
+    - [Sch. 27 para. 52](schedule/27/paragraph/52.md)
+  - The Landlord and Tenant Act 1985
+    - [Sch. 27 para. 53](schedule/27/paragraph/53.md)
+  - The Local Government Act 1986
+  - Publicity etc
+    - [Sch. 27 para. 54](schedule/27/paragraph/54.md)
+  - Transfer of local authority mortgages
+    - [Sch. 27 para. 55](schedule/27/paragraph/55.md)
+  - The Local Government Act 1988
+  - Competition
+    - [Sch. 27 para. 56](schedule/27/paragraph/56.md)
+  - Public supply or works contracts
+    - [Sch. 27 para. 57](schedule/27/paragraph/57.md)
+  - The Local Government Finance Act 1988
+    - [Sch. 27 para. 58](schedule/27/paragraph/58.md)
+  - The Housing Act 1988
+    - [Sch. 27 para. 59](schedule/27/paragraph/59.md)
+  - The Road Traffic Act 1988
+  - Police driving instructors
+    - [Sch. 27 para. 60](schedule/27/paragraph/60.md)
+  - Exceptions from requirement of third party insurance or security
+    - [Sch. 27 para. 61](schedule/27/paragraph/61.md)
+  - The Local Government and Housing Act 1989
+  - Monitoring officers
+    - [Sch. 27 para. 62](schedule/27/paragraph/62.md)
+  - Members, officers, staff, committees etc
+    - [Sch. 27 para. 63](schedule/27/paragraph/63.md)
+  - Financial provisions
+    - [Sch. 27 para. 64](schedule/27/paragraph/64.md)
+  - The Town and Country Planning Act 1990
+  - Orders relating to highways
+    - [Sch. 27 para. 65](schedule/27/paragraph/65.md)
+  - General interpretation of “local authority”
+    - [Sch. 27 para. 66](schedule/27/paragraph/66.md)
+  - The War Crimes Act 1991
+    - [Sch. 27 para. 67](schedule/27/paragraph/67.md)
+  - The Value Added Tax Act 1994
+    - [Sch. 27 para. 68](schedule/27/paragraph/68.md)
+  - The Police Act 1996
+  - Police areas
+    - [Sch. 27 para. 69](schedule/27/paragraph/69.md)
+  - Local policing objectives
+    - [Sch. 27 para. 70](schedule/27/paragraph/70.md)
+  - Local policing plans
+    - [Sch. 27 para. 71](schedule/27/paragraph/71.md)
+  - Annual report
+    - [Sch. 27 para. 72](schedule/27/paragraph/72.md)
+  - Police fund
+    - [Sch. 27 para. 73](schedule/27/paragraph/73.md)
+  - Civilian employees
+    - [Sch. 27 para. 74](schedule/27/paragraph/74.md)
+  - Appointment of clerk
+    - [Sch. 27 para. 75](schedule/27/paragraph/75.md)
+  - Appointment of persons not employed by police authorities
+    - [Sch. 27 para. 76](schedule/27/paragraph/76.md)
+  - Supply of goods and services
+    - [Sch. 27 para. 77](schedule/27/paragraph/77.md)
+  - Questions to the Metropolitan Police Authority
+    - [Sch. 27 para. 78](schedule/27/paragraph/78.md)
+  - Report by the Commissioner of Police of the Metropolis
+    - [Sch. 27 para. 79](schedule/27/paragraph/79.md)
+  - Special police services
+    - [Sch. 27 para. 80](schedule/27/paragraph/80.md)
+  - Advice and assistance to international organisations
+    - [Sch. 27 para. 81](schedule/27/paragraph/81.md)
+  - Police cadets
+    - [Sch. 27 para. 82](schedule/27/paragraph/82.md)
+  - Attestation of constable
+    - [Sch. 27 para. 83](schedule/27/paragraph/83.md)
+  - Alteration of police areas
+    - [Sch. 27 para. 84](schedule/27/paragraph/84.md)
+  - Objections to proposed alterations in police areas
+    - [Sch. 27 para. 85](schedule/27/paragraph/85.md)
+  - Objectives for police authorities
+    - [Sch. 27 para. 86](schedule/27/paragraph/86.md)
+  - Setting of performance targets
+    - [Sch. 27 para. 87](schedule/27/paragraph/87.md)
+  - Codes of practice
+    - [Sch. 27 para. 88](schedule/27/paragraph/88.md)
+  - Power of Secretary of State to require inspection
+    - [Sch. 27 para. 89](schedule/27/paragraph/89.md)
+  - Removal of Commissioners or Commanders
+    - [Sch. 27 para. 90](schedule/27/paragraph/90.md)
+  - Reports from the Commissioner of Police of the Metropolis
+    - [Sch. 27 para. 91](schedule/27/paragraph/91.md)
+  - Grants by the Secretary of State
+    - [Sch. 27 para. 92](schedule/27/paragraph/92.md)
+  - Grants for capital expenditure
+    - [Sch. 27 para. 93](schedule/27/paragraph/93.md)
+  - Grants for expenditure concerning safeguarding national security
+    - [Sch. 27 para. 94](schedule/27/paragraph/94.md)
+  - Disciplinary proceedings relating to senior officers
+    - [Sch. 27 para. 95](schedule/27/paragraph/95.md)
+  - Copies of reports
+    - [Sch. 27 para. 96](schedule/27/paragraph/96.md)
+  - The appropriate authority for complaints etc about metropolitan police
+    - [Sch. 27 para. 97](schedule/27/paragraph/97.md)
+  - Investigation of complaints
+    - [Sch. 27 para. 98](schedule/27/paragraph/98.md)
+  - Supervision of investigations by Police Complaints Authority
+    - [Sch. 27 para. 99](schedule/27/paragraph/99.md)
+  - Grants by local authorities
+    - [Sch. 27 para. 100](schedule/27/paragraph/100.md)
+  - Acceptance of gifts and loans
+    - [Sch. 27 para. 101](schedule/27/paragraph/101.md)
+  - Metropolitan police fund etc
+    - [Sch. 27 para. 102](schedule/27/paragraph/102.md)
+  - Obtaining community views on policing
+    - [Sch. 27 para. 103](schedule/27/paragraph/103.md)
+  - National and international functions of metropolitan police
+    - [Sch. 27 para. 104](schedule/27/paragraph/104.md)
+  - Schedule 2
+    - [Sch. 27 para. 105](schedule/27/paragraph/105.md)
+  - Schedule 3
+    - [Sch. 27 para. 106](schedule/27/paragraph/106.md)
+  - Schedule 6
+    - [Sch. 27 para. 107](schedule/27/paragraph/107.md)
+  - The Justices of the Peace Act 1997
+    - [Sch. 27 para. 108](schedule/27/paragraph/108.md)
+  - The Police (Insurance of Voluntary Assistants) Act 1997
+    - [Sch. 27 para. 109](schedule/27/paragraph/109.md)
+  - The Police Act 1997
+    - [Sch. 27 para. 110](schedule/27/paragraph/110.md)
+    - [Sch. 27 para. 111](schedule/27/paragraph/111.md)
+    - [Sch. 27 para. 112](schedule/27/paragraph/112.md)
+    - [Sch. 27 para. 113](schedule/27/paragraph/113.md)
+    - [Sch. 27 para. 114](schedule/27/paragraph/114.md)
+    - [Sch. 27 para. 115](schedule/27/paragraph/115.md)
+  - The Local Government (Contracts) Act 1997
+    - [Sch. 27 para. 116](schedule/27/paragraph/116.md)
+- Schedule 27A The London Fire Commissioner
+  - Appointment and tenure of office
+    - [Sch. 27A para. 1](schedule/27A/paragraph/1.md)
+  - Remuneration
+    - [Sch. 27A para. 2](schedule/27A/paragraph/2.md)
+  - The Deputy London Fire Commissioner
+    - [Sch. 27A para. 3](schedule/27A/paragraph/3.md)
+  - Damages and costs in legal proceedings
+    - [Sch. 27A para. 4](schedule/27A/paragraph/4.md)
+- SCHEDULE 28 The London Fire and Emergency Planning Authority
+  - Membership
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+  - Tenure of office
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+  - Chairman and vice-chairman
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+  - Allowances not to be paid to members who are also Assembly members
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+  - Disqualification
+    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+  - Failure to attend meetings
+    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+  - Loss of a member’s qualifying office
+    - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+  - Filling of vacancies
+    - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+  - Term of office of person appointed to fill a vacancy
+    - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+  - Meetings and proceedings
+    - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+  - The first meeting of the reconstituted Fire Et ceteralaetc Authority
+    - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+  - Validity of acts done by unqualified persons
+    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+  - Application of this Schedule in relation to the Common Council
+    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+- SCHEDULE 29 Amendments relating to the Fire etc Authority
+  - Part I Public General Acts
+    - The Landlord and Tenant Act 1954
+      - Local authority
+        - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+    - The Local Government (Records) Act 1962
+      - Acquisition and deposit of records
+        - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+      - Local authority
+        - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
+    - The London Government Act 1963
+      - Delegation of functions in Greater London
+        - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+      - Compensation for injury to, or death of, officers
+        - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+      - Music and dancing licences
+        - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
+    - The Local Government Act 1966
+      - Grants for expenditure due to ethnic minority population
+        - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
+    - The Leasehold Reform Act 1967
+      - Land required for public purposes
+        - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
+      - Exclusion of certain shared ownership leases
+        - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
+    - The Local Government Grants (Social Need) Act 1969
+      - Grants to local authorities Et ceteralaetc
+        - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
+    - The Post Office Act 1969
+      - Local authority
+        - [Sch. 29 para. 11](schedule/29/paragraph/11.md)
+    - The Employers’ Liability (Compulsory Insurance) Act 1969
+      - Exemption
+        - [Sch. 29 para. 12](schedule/29/paragraph/12.md)
+    - The Pensions (Increase) Act 1971
+      - Meaning of local authority
+        - [Sch. 29 para. 13](schedule/29/paragraph/13.md)
+    - The Local Government Act 1972
+      - Restriction on promoting Bills for changing local government areas Et ceteralaetc
+        - [Sch. 29 para. 14](schedule/29/paragraph/14.md)
+      - Members’ interests in contracts Et ceteralaetc
+        - [Sch. 29 para. 15](schedule/29/paragraph/15.md)
+      - Powers with respect to emergencies and disasters
+        - [Sch. 29 para. 16](schedule/29/paragraph/16.md)
+      - Information relating to matters affecting local government
+        - [Sch. 29 para. 17](schedule/29/paragraph/17.md)
+      - Allowances for attending conferences and meetings
+        - [Sch. 29 para. 18](schedule/29/paragraph/18.md)
+      - Payment of expenses for official and courtesy visits Et ceteralaetc
+        - [Sch. 29 para. 19](schedule/29/paragraph/19.md)
+      - Power to prosecute or defend legal proceedings
+        - [Sch. 29 para. 20](schedule/29/paragraph/20.md)
+      - General application of Part XI of the 1972 Act
+        - [Sch. 29 para. 21](schedule/29/paragraph/21.md)
+    - The Employment Agencies Act 1973
+      - Exemptions
+        - [Sch. 29 para. 22](schedule/29/paragraph/22.md)
+    - The Health and Safety at Work etc. Act 1974
+      - Restrictions on disclosure of information
+        - [Sch. 29 para. 23](schedule/29/paragraph/23.md)
+    - The Local Government (Miscellaneous Provisions) Act 1976
+      - Local authority
+        - [Sch. 29 para. 24](schedule/29/paragraph/24.md)
+    - The Rent (Agriculture) Act 1976
+      - No statutory tenancy in certain cases
+        - [Sch. 29 para. 25](schedule/29/paragraph/25.md)
+    - The Rent Act 1977
+      - No protected tenancy in certain cases
+        - [Sch. 29 para. 26](schedule/29/paragraph/26.md)
+    - The Protection from Eviction Act 1977
+      - Excluded tenancies and licences
+        - [Sch. 29 para. 27](schedule/29/paragraph/27.md)
+    - The Local Government, Planning and Land Act 1980
+      - Duty to publish information
+        - [Sch. 29 para. 28](schedule/29/paragraph/28.md)
+      - Direct labour organisations
+        - [Sch. 29 para. 29](schedule/29/paragraph/29.md)
+      - Disposal of land
+        - [Sch. 29 para. 30](schedule/29/paragraph/30.md)
+      - Directions to dispose of land: supplementary
+        - [Sch. 29 para. 31](schedule/29/paragraph/31.md)
+      - Meaning of “subsidiary” in Part X
+        - [Sch. 29 para. 32](schedule/29/paragraph/32.md)
+      - Bodies to whom Part X applies
+        - [Sch. 29 para. 33](schedule/29/paragraph/33.md)
+    - The Acquisition of Land Act 1981
+      - Local authority Et ceteralaetc land
+        - [Sch. 29 para. 34](schedule/29/paragraph/34.md)
+    - The Local Government (Miscellaneous Provisions) Act 1982
+      - Enforceability of covenants
+        - [Sch. 29 para. 35](schedule/29/paragraph/35.md)
+      - Lost and uncollected property
+        - [Sch. 29 para. 36](schedule/29/paragraph/36.md)
+      - Arrangements under the Employment and Training Act 1973
+        - [Sch. 29 para. 37](schedule/29/paragraph/37.md)
+    - The County Courts Act 1984
+      - Right of audience
+        - [Sch. 29 para. 38](schedule/29/paragraph/38.md)
+    - The Local Government Act 1985
+      - First appointments
+        - [Sch. 29 para. 39](schedule/29/paragraph/39.md)
+      - General fund
+        - [Sch. 29 para. 40](schedule/29/paragraph/40.md)
+      - Number of members of joint authorities
+        - [Sch. 29 para. 41](schedule/29/paragraph/41.md)
+    - The Housing Act 1985
+      - Local authority
+        - [Sch. 29 para. 42](schedule/29/paragraph/42.md)
+    - The Housing Associations Act 1985
+      - Local authority
+        - [Sch. 29 para. 43](schedule/29/paragraph/43.md)
+    - The Landlord and Tenant Act 1985
+      - Local authority
+        - [Sch. 29 para. 44](schedule/29/paragraph/44.md)
+    - The Local Government Act 1986
+      - Local authority publicity
+        - [Sch. 29 para. 45](schedule/29/paragraph/45.md)
+      - Transfer of local authority mortgages
+        - [Sch. 29 para. 46](schedule/29/paragraph/46.md)
+    - The Local Government Finance Act 1987
+      - Rates: maximum limit
+        - [Sch. 29 para. 47](schedule/29/paragraph/47.md)
+    - The Landlord and Tenant Act 1987
+      - Exempt landlords Et ceteralaetc
+        - [Sch. 29 para. 48](schedule/29/paragraph/48.md)
+    - The Local Government Act 1988
+      - Competition
+        - [Sch. 29 para. 49](schedule/29/paragraph/49.md)
+      - Public supply or works contracts
+        - [Sch. 29 para. 50](schedule/29/paragraph/50.md)
+    - The Local Government Finance Act 1988
+      - Financial administration
+        - [Sch. 29 para. 51](schedule/29/paragraph/51.md)
+    - The Housing Act 1988
+      - Transfer of housing accommodation Et ceteralaetc
+        - [Sch. 29 para. 52](schedule/29/paragraph/52.md)
+      - Tenancies which cannot be assured tenancies
+        - [Sch. 29 para. 53](schedule/29/paragraph/53.md)
+    - The Road Traffic Act 1988
+      - Exception from requirement of third-party insurance Et ceteralaetc
+        - [Sch. 29 para. 54](schedule/29/paragraph/54.md)
+    - The Local Government and Housing Act 1989
+      - Application of Part I to the Fire Et ceteralaetc Authority
+        - [Sch. 29 para. 55](schedule/29/paragraph/55.md)
+      - Charges by certain authorities
+        - [Sch. 29 para. 56](schedule/29/paragraph/56.md)
+    - The Town and Country Planning Act 1990
+      - Procedure for making of orders
+        - [Sch. 29 para. 57](schedule/29/paragraph/57.md)
+      - Footpaths and bridleways orders
+        - [Sch. 29 para. 58](schedule/29/paragraph/58.md)
+    - The Local Government (Overseas Assistance) Act 1993
+      - Power to provide advice and assistance
+        - [Sch. 29 para. 59](schedule/29/paragraph/59.md)
+    - The Housing Grants, Construction and Regeneration Act 1996
+      - Grants for improvements and repairs
+        - [Sch. 29 para. 60](schedule/29/paragraph/60.md)
+    - The Channel Tunnel Rail Link Act 1996
+      - Highways
+        - [Sch. 29 para. 61](schedule/29/paragraph/61.md)
+    - The Justices of the Peace Act 1997
+      - Disqualification of justices who are members of local authorities
+        - [Sch. 29 para. 62](schedule/29/paragraph/62.md)
+    - The Crime and Disorder Act 1998
+      - Duty to consider crime and disorder implications
+        - [Sch. 29 para. 63](schedule/29/paragraph/63.md)
+  - Part II Local and Personal Acts
+    - The London County Council (General Powers) Act 1912
+      - Registration of petroleum oil depots
+        - [Sch. 29 para. 64](schedule/29/paragraph/64.md)
+    - The Essex County Council Act 1952
+      - Precautions against fire in certain buildings in North East London
+        - [Sch. 29 para. 65](schedule/29/paragraph/65.md)
+    - The London Hydraulic Power Act 1977
+      - Notice of intention to use new pipeline to be given to Fire Et ceteralaetc Authority
+        - [Sch. 29 para. 66](schedule/29/paragraph/66.md)
+    - The London Local Authorities Act 1990
+      - Night cafe licensing
+        - [Sch. 29 para. 67](schedule/29/paragraph/67.md)
+    - The London Local Authorities Act 1991
+      - Special treatment premises
+        - [Sch. 29 para. 68](schedule/29/paragraph/68.md)
+    - The London Local Authorities Act 1995
+      - The fire authority
+        - [Sch. 29 para. 69](schedule/29/paragraph/69.md)
+    - The London Local Authorities Act 1996
+      - Private places of entertainment
+        - [Sch. 29 para. 70](schedule/29/paragraph/70.md)
+      - Theatres
+        - [Sch. 29 para. 71](schedule/29/paragraph/71.md)
+- SCHEDULE 30 The Cultural Strategy Group for London
+  - Status and capacity
+    - [Sch. 30 para. 1](schedule/30/paragraph/1.md)
+  - Membership
+    - [Sch. 30 para. 2](schedule/30/paragraph/2.md)
+  - Appointment of member to take chair
+    - [Sch. 30 para. 3](schedule/30/paragraph/3.md)
+  - Tenure of office
+    - [Sch. 30 para. 4](schedule/30/paragraph/4.md)
+  - Members’ expenses
+    - [Sch. 30 para. 5](schedule/30/paragraph/5.md)
+  - Staff
+    - [Sch. 30 para. 6](schedule/30/paragraph/6.md)
+  - Financial provisions
+    - [Sch. 30 para. 7](schedule/30/paragraph/7.md)
+  - Proceedings
+    - [Sch. 30 para. 8](schedule/30/paragraph/8.md)
+  - Application of seal and proof of instruments
+    - [Sch. 30 para. 9](schedule/30/paragraph/9.md)
+  - Documents served etc by or on the Cultural Strategy Group for London
+    - [Sch. 30 para. 10](schedule/30/paragraph/10.md)
+- SCHEDULE 31 Transfer schemes
+  - Interpretation
+    - [Sch. 31 para. 1](schedule/31/paragraph/1.md)
+  - Effect of transfer scheme
+    - [Sch. 31 para. 2](schedule/31/paragraph/2.md)
+  - Other provision that may be contained in a Crown scheme
+    - [Sch. 31 para. 3](schedule/31/paragraph/3.md)
+  - Making and approval of ordinary scheme
+    - [Sch. 31 para. 4](schedule/31/paragraph/4.md)
+  - Power of Minister to make ordinary scheme
+    - [Sch. 31 para. 5](schedule/31/paragraph/5.md)
+  - Other provision that may be contained in an ordinary scheme
+    - [Sch. 31 para. 6](schedule/31/paragraph/6.md)
+  - Power to make consequential, transitional etc provision
+    - [Sch. 31 para. 7](schedule/31/paragraph/7.md)
+- SCHEDULE 32 London Regional Transport pension etc schemes
+  - Interpretation
+    - [Sch. 32 para. 1](schedule/32/paragraph/1.md)
+  - Amendment of LRT pension schemes
+    - [Sch. 32 para. 2](schedule/32/paragraph/2.md)
+  - Protection of pension arrangements of transferred employees
+    - [Sch. 32 para. 3](schedule/32/paragraph/3.md)
+  - Power to dispense with consent of trustees
+    - [Sch. 32 para. 4](schedule/32/paragraph/4.md)
+  - LRT welfare schemes
+    - [Sch. 32 para. 5](schedule/32/paragraph/5.md)
+  - Former employees of predecessors of London Regional Transport
+    - [Sch. 32 para. 6](schedule/32/paragraph/6.md)
+- SCHEDULE 33 Taxation provisions
+  - Part I Transfers from London Regional Transport to Transport for London
+    - Interpretation
+      - [Sch. 33 para. 1](schedule/33/paragraph/1.md)
+    - Chargeable gains: general
+      - [Sch. 33 para. 2](schedule/33/paragraph/2.md)
+    - Group transactions
+      - [Sch. 33 para. 3](schedule/33/paragraph/3.md)
+    - Capital allowances
+      - [Sch. 33 para. 4](schedule/33/paragraph/4.md)
+    - Preparatory transfers
+      - [Sch. 33 para. 5](schedule/33/paragraph/5.md)
+  - Part II Public-Private Partnership Agreements
+    - Interpretation
+      - [Sch. 33 para. 6](schedule/33/paragraph/6.md)
+    - Revenue nature of payments under PPP agreements
+      - [Sch. 33 para. 7](schedule/33/paragraph/7.md)
+    - Chargeable gains: the share transfer to the private sector company
+      - [Sch. 33 para. 8](schedule/33/paragraph/8.md)
+    - Chargeable gains: company leaving the LRT group
+      - [Sch. 33 para. 9](schedule/33/paragraph/9.md)
+    - Capital allowances: general
+      - [Sch. 33 para. 10](schedule/33/paragraph/10.md)
+    - Leases and easements
+      - [Sch. 33 para. 11](schedule/33/paragraph/11.md)
+    - Machinery and plant
+      - [Sch. 33 para. 12](schedule/33/paragraph/12.md)
+    - Sale and leaseback
+      - [Sch. 33 para. 13](schedule/33/paragraph/13.md)
+- SCHEDULE 34 Enactments repealed
+  - Part I Financial provisions
+  - Part II Transport for London and London Regional Transport
+  - Part III Railways
+  - Part IV The Transport Users’ Committee
+  - Part V Hackney carriages and private hire vehicles
+  - Part VI Highways and traffic control
+  - Part VII The metropolitan police
+  - Part VIII The Fire etc Authority
+  - Part IX Miscellaneous
