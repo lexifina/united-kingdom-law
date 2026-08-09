@@ -1,0 +1,354 @@
+# Marine (Scotland) Act 2010
+
+asp/2010/5. Enacted 2010-03-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/5
+
+Source: https://www.legislation.gov.uk/asp/2010/5/2026-08-09
+
+## Contents
+
+- Part 1 The Scottish marine area
+  - [s. 1 The “Scottish marine area”](section/1.md)
+  - [s. 2 “Sea”](section/2.md)
+- Part 2 General duties
+  - [s. 3 Sustainable development and protection and enhancement of the health of the Scottish marine area](section/3.md)
+  - [s. 4 Mitigation of and adaptation to climate change](section/4.md)
+- Part 3 Marine planning
+  - Marine plans
+    - [s. 5 National marine plan and regional marine plans](section/5.md)
+    - [s. 6 Conformity of marine plans with other documents](section/6.md)
+    - [s. 7 Coming into effect of marine plans](section/7.md)
+    - [s. 8 Amendment of marine plans](section/8.md)
+    - [s. 9 Withdrawal of marine plans](section/9.md)
+    - [s. 10 Effect of withdrawal from or of marine policy statement or of national marine plan](section/10.md)
+    - [s. 11 Duty to keep relevant matters under review](section/11.md)
+  - Delegation of functions relating to regional marine plans
+    - [s. 12 Delegation of functions relating to regional marine plans](section/12.md)
+    - [s. 13 Directions under section 12: supplementary provision](section/13.md)
+    - [s. 14 Directions to delegates as regards performance of designated functions](section/14.md)
+  - Decisions of public authorities affected by a marine plan
+    - [s. 15 Decisions of public authorities affected by marine plans](section/15.md)
+  - Monitoring and reporting
+    - [s. 16 Monitoring of and periodical reporting on implementation of marine plans](section/16.md)
+  - Validity of marine plans
+    - [s. 17 Validity of national marine plans and regional marine plans](section/17.md)
+    - [s. 18 Powers of the Court of Session on an application under section 17](section/18.md)
+  - Interpretation of Part 3
+    - [s. 19 Interpretation of Part 3](section/19.md)
+- Part 4 Marine licensing
+  - Requirement for licence
+    - [s. 20 Requirement for licence](section/20.md)
+  - Licensable marine activities
+    - [s. 21 Licensable marine activities](section/21.md)
+  - Pre-application consultation
+    - [s. 22 Pre-application consultation: preliminary](section/22.md)
+    - [s. 23 Pre-application consultation: compliance](section/23.md)
+    - [s. 24 Pre-application consultation report](section/24.md)
+  - Licences
+    - [s. 25 Application for licence](section/25.md)
+    - [s. 26 Notice of applications](section/26.md)
+    - [s. 27 Determination of applications](section/27.md)
+    - [s. 28 Inquiries](section/28.md)
+    - [s. 29 Grant or refusal of licence](section/29.md)
+    - [s. 30 Variation, suspension, revocation and transfer](section/30.md)
+    - [s. 31 Pre-variation, suspension or revocation procedure](section/31.md)
+  - Exemptions from licensing requirements
+    - [s. 32 Exemptions specified by order](section/32.md)
+    - [s. 33 Activities below specified threshold of environmental impact](section/33.md)
+    - [s. 34 Oil and gas, defence or pollution](section/34.md)
+  - Special provision for certain cases
+    - [s. 35 Special procedure for applications relating to certain electricity works](section/35.md)
+    - [s. 36 Electronic communications apparatus](section/36.md)
+    - [s. 37 Submarine cables](section/37.md)
+  - Appeals against licensing decisions
+    - [s. 38 Appeals against licensing decisions](section/38.md)
+  - Offences
+    - [s. 39 Breach of requirement for, or conditions of, licence](section/39.md)
+    - [s. 40 Defences: action taken in an emergency](section/40.md)
+    - [s. 41 Defences: electronic communications: emergency works](section/41.md)
+    - [s. 42 Offences relating to information](section/42.md)
+  - Enforcement notices
+    - [s. 43 Compliance notice](section/43.md)
+    - [s. 44 Remediation notice](section/44.md)
+    - [s. 45 Further provision as to compliance and remediation notices](section/45.md)
+  - Civil sanctions
+    - [s. 46 Fixed monetary penalties](section/46.md)
+    - [s. 47 Fixed monetary penalties: procedure](section/47.md)
+    - [s. 48 Variable monetary penalties](section/48.md)
+    - [s. 49 Variable monetary penalties: procedure](section/49.md)
+    - [s. 50 Further provision about civil sanctions](section/50.md)
+  - Delegation
+    - [s. 51 Delegation of functions relating to marine licensing](section/51.md)
+    - [s. 52 Orders under section 51: supplementary provisions](section/52.md)
+    - [s. 53 Directions to delegates as regards the performance of the marine licensing designated functions](section/53.md)
+  - Register of licensing information
+    - [s. 54 Register of licensing information](section/54.md)
+  - Stop notices and emergency safety notices
+    - [s. 55 Notice to stop activity causing serious harm etc.](section/55.md)
+    - [s. 56 Further provision as to stop notices](section/56.md)
+    - [s. 57 Emergency safety notices](section/57.md)
+    - [s. 58 Further provision as to emergency safety notices](section/58.md)
+  - Other powers
+    - [s. 59 Power to take remedial action](section/59.md)
+    - [s. 60 Power to test and charge for testing certain substances](section/60.md)
+  - Appeals against notices under this Part
+    - [s. 61 Appeals against notices](section/61.md)
+  - Offences: supplementary provision
+    - [s. 62 General defence of due diligence](section/62.md)
+  - Power by order to provide marine fish farming is not “development”
+    - [s. 63 Power by order to provide marine fish farming is not “development”](section/63.md)
+  - Proceedings for questioning certain decisions under sections 28 and 29
+    - [s. 63A Proceedings for questioning certain decisions under sections 28 and 29](section/63A.md)
+    - [s. 63B Applications under section 63A: requirement for permission](section/63B.md)
+  - Interpretation of Part 4
+    - [s. 64 Interpretation of Part 4](section/64.md)
+- Part 5 Marine protection and enhancement: the Scottish marine protection area
+  - The Scottish marine protection area
+    - [s. 65 The Scottish marine protection area](section/65.md)
+    - [s. 66 “Sea” for the purposes of this Part](section/66.md)
+  - Designation of marine protected areas
+    - [s. 67 Marine protected areas](section/67.md)
+  - Nature Conservation MPAs
+    - [s. 68 Nature Conservation MPAs: additional requirements relating to designation](section/68.md)
+    - [s. 69 Nature Conservation MPAs: further provision](section/69.md)
+    - [s. 70 Nature Conservation MPAs: assessment of achievement of stated objectives](section/70.md)
+  - Demonstration and Research MPAs
+    - [s. 71 Demonstration and Research MPAs: additional requirements relating to designation](section/71.md)
+    - [s. 72 Demonstration and Research MPAs: further provision](section/72.md)
+  - Historic MPAs
+    - [s. 73 Historic MPAs: additional requirements etc.](section/73.md)
+  - Amendment or revocation of designation orders
+    - [s. 74 Amendment or revocation of designation orders](section/74.md)
+  - Consultation, urgent designation, representations etc.
+    - [s. 75 Publicity and consultation etc. before designation](section/75.md)
+    - [s. 76 Publicity in relation to designation orders](section/76.md)
+    - [s. 77 Urgent designation](section/77.md)
+    - [s. 78 Representations and hearing in relation to proposed designation order](section/78.md)
+  - Duties relating to network
+    - [s. 79 Creation of network of conservation sites](section/79.md)
+  - Advice etc. as regards protection of certain marine areas
+    - [s. 80 Advice etc. by Scottish Natural Heritage as regards Nature Conservation MPAs and Demonstration and Research MPAs](section/80.md)
+    - [s. 80A Advice etc. by Historic Environment Scotland as regards Historic MPAs](section/80A.md)
+    - [s. 81 Advice and guidance by the Scottish Ministers as regards MPAs](section/81.md)
+  - General duties of public authorities
+    - [s. 82 Duties of public authorities in relation to marine protected areas etc.](section/82.md)
+    - [s. 83 Duties of public authorities in relation to certain decisions](section/83.md)
+    - [s. 84 Failure to comply with duties](section/84.md)
+  - Marine conservation orders
+    - [s. 85 Marine conservation orders](section/85.md)
+    - [s. 86 Example provisions for marine conservation orders](section/86.md)
+    - [s. 87 Procedure for marine conservation orders](section/87.md)
+    - [s. 88 Urgent orders](section/88.md)
+    - [s. 89 Publicity in relation to marine conservation orders and urgent continuation orders](section/89.md)
+    - [s. 90 Representations and hearings in relation to proposed marine conservation orders etc.](section/90.md)
+    - [s. 91 Duty to assess impact of prohibition or restriction of activities](section/91.md)
+  - Authorisation of things prohibited, regulated etc. by marine conservation orders
+    - [s. 92 Authorisation of things prohibited, regulated etc. by a marine conservation order](section/92.md)
+    - [s. 93 Delegation of issuing permits or authorisations](section/93.md)
+  - Offences
+    - [s. 94 Offences: contravening a marine conservation order](section/94.md)
+    - [s. 95 Offences relating to protected features of a Nature Conservation MPA](section/95.md)
+    - [s. 96 Offences relating to marine historic assets](section/96.md)
+    - [s. 97 Exceptions to offences under section 94, 95 or 96](section/97.md)
+    - [s. 98 Prohibited act taken in an emergency](section/98.md)
+  - Marine management schemes
+    - [s. 99 Marine management schemes](section/99.md)
+    - [s. 100 Review of schemes](section/100.md)
+    - [s. 101 Marine management schemes: consultation etc.](section/101.md)
+    - [s. 102 Directions as to making, amending or revocation of schemes](section/102.md)
+  - Reports to Parliament
+    - [s. 103 Reports to Parliament](section/103.md)
+  - Licences granted under Wildlife and Countryside Act 1981
+    - [s. 104 Grant of certain licences under Wildlife and Countryside Act 1981](section/104.md)
+  - Penalties in regulations implementing Habitats Directive
+    - [s. 105 Penalties in regulations implementing the Habitats Directive for the Scottish marine area](section/105.md)
+  - Interpretation of Part 5
+    - [s. 106 Interpretation of Part 5](section/106.md)
+- Part 6 Conservation of seals
+  - Offence: killing, injuring or taking seals
+    - [s. 107 Offence: killing, injuring or taking seals](section/107.md)
+    - [s. 108 Exceptions: alleviating suffering](section/108.md)
+    - [s. 109 Exceptions: licensed activity](section/109.md)
+  - Seal licences
+    - [s. 110 Seal licences](section/110.md)
+    - [s. 111 Methods of killing or taking seals under seal licence](section/111.md)
+    - [s. 112 Seal licence conditions](section/112.md)
+    - [s. 113 Seal licence reports](section/113.md)
+    - [s. 114 Variation or revocation of seal licence](section/114.md)
+    - [s. 115 Seal licence fees](section/115.md)
+    - [s. 116 Consultation and consent](section/116.md)
+  - Protection at haul-out sites
+    - [s. 117 Offence: harassment at haul-out sites](section/117.md)
+  - Seal conservation areas
+    - [s. 118 Seal conservation areas](section/118.md)
+    - [s. 119 Effect of seal conservation area status: licensing decisions](section/119.md)
+  - Authorisations to enter land
+    - [s. 120 Power to enter land to obtain information about seals](section/120.md)
+    - [s. 121 Power to enter land to protect fisheries or fish farms from seals](section/121.md)
+    - [s. 122 Duty to notify occupier](section/122.md)
+    - [s. 123 Duty to produce authority](section/123.md)
+    - [s. 124 Obstructing an authorised person](section/124.md)
+  - Supplementary
+    - [s. 125 Advice on seal population](section/125.md)
+    - [s. 126 Police powers: search and seizure](section/126.md)
+    - [s. 127 Forfeiture](section/127.md)
+    - [s. 128 Penalties](section/128.md)
+    - [s. 129 Duty to review seal licensing regime](section/129.md)
+    - [s. 130 Repeal](section/130.md)
+- Part 7 Common enforcement powers etc.: licensing and marine protection etc.
+  - Powers of marine enforcement officers
+    - [s. 131 Enforcement of marine licensing regime](section/131.md)
+    - [s. 132 Enforcement of marine protection and nature conservation legislation](section/132.md)
+  - The common enforcement powers
+    - [s. 133 The “common enforcement powers”](section/133.md)
+  - Common enforcement powers of entry, search and seizure
+    - [s. 134 Power to board and inspect vessels and marine installations](section/134.md)
+    - [s. 135 Power to enter and inspect premises](section/135.md)
+    - [s. 136 Power to enter and inspect vehicles](section/136.md)
+    - [s. 137 Dwellings](section/137.md)
+    - [s. 138 Powers of search, examination, etc.](section/138.md)
+    - [s. 139 Power to require production of documents, etc.](section/139.md)
+    - [s. 140 Powers of seizure, etc.](section/140.md)
+    - [s. 141 Further provision about seizure](section/141.md)
+    - [s. 142 Retention of seized items](section/142.md)
+  - Miscellaneous and ancillary common enforcement powers
+    - [s. 143 Power to record evidence of offences](section/143.md)
+    - [s. 144 Power to require name and address](section/144.md)
+    - [s. 145 Power to require production of licence, etc.](section/145.md)
+    - [s. 146 Power to require attendance of certain persons](section/146.md)
+    - [s. 147 Power to direct vessel or marine installation to port](section/147.md)
+    - [s. 148 Assistance, etc.](section/148.md)
+    - [s. 149 Power to use reasonable force](section/149.md)
+  - Licensing: further enforcement powers
+    - [s. 150 Power to require information relating to certain substances and objects](section/150.md)
+  - Duties of marine enforcement officers
+    - [s. 151 Duty to provide evidence of authority where a person is present](section/151.md)
+    - [s. 152 Duty to state name and purpose, etc.](section/152.md)
+    - [s. 153 Disapplication of sections 151 and 152 in relation to dwellings](section/153.md)
+  - Liability of marine enforcement officers
+    - [s. 154 Liability of marine enforcement officers](section/154.md)
+  - Offences in relation to marine enforcement officers
+    - [s. 155 Offences in relation to marine enforcement officers](section/155.md)
+  - General
+    - [s. 156 General](section/156.md)
+  - Interpretation of Part 7
+    - [s. 157 Interpretation of Part 7](section/157.md)
+- Part 8 Sea fisheries
+  - [s. 158 Extension of modifications relating to Sea Fish (Conservation) Act 1967](section/158.md)
+  - [s. 159 Modification of section 22A of Sea Fish (Conservation) Act 1967](section/159.md)
+  - [s. 160 Modifications relating to Sea Fisheries (Shellfish) Act 1967: orders as to fisheries for shellfish](section/160.md)
+  - [s. 161 Further modifications relating to Sea Fisheries (Shellfish) Act 1967](section/161.md)
+- Part 9 General provisions
+  - [s. 162 Crown application](section/162.md)
+  - [s. 163 Offences by bodies corporate](section/163.md)
+  - [s. 164 Ancillary provision](section/164.md)
+  - [s. 165 Orders and regulations](section/165.md)
+  - [s. 166 Interpretation: general](section/166.md)
+  - [s. 167 Consequential modifications](section/167.md)
+  - [s. 168 Commencement and short title](section/168.md)
+- SCHEDULE 1 Preparation, adoption etc. of marine plans or any amendment
+  - Scottish Ministers to notify decision to prepare any marine plan
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Interpretation
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Regional marine plans to be compatible with certain other plans
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Statement of public participation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Further provision about content of an SPP
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Review and revision of an SPP
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Advice and assistance
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Matters to which Scottish Ministers to have regard in preparing marine plans
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Preparation and publication of a consultation draft
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Representations about a consultation draft
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Independent investigation
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Matters to which Scottish Ministers are to have regard in settling text with a view to adoption etc.
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Laying settled text of draft national marine plan before the Parliament
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Adoption and publication of marine plan
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Further provision about civil sanctions under Part 4 (marine licensing)
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Fixed monetary penalties: other sanctions
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Variable monetary penalties: other sanctions
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Combination of sanctions
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Civil sanctions and fixed penalty notices
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - Monetary penalties
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Recovery of expenses
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Appeals
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Consultation
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Guidance as to use of civil sanctions
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Guidance as to enforcement of offences
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Publication of enforcement action
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Disclosure of information
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Warrants issued under section 137
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Applications for warrants
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Safeguards in connection with power of entry conferred by warrant
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Execution of warrants
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Return of warrants
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Consequential modifications
+  - Part 1 Marine licensing
+    - Coast Protection Act 1949 (c.74)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Merchant Shipping Act 1988 (c.12)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Energy Act 2004 (c.20)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part 2 Marine protection and enhancement: the Scottish marine protection area
+    - Protection of Wrecks Act 1973 (c.33)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Wildlife and Countryside Act 1981 (c.69)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Territorial Sea Act 1987 (c.49)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Local Government (Wales) Act 1994 (c.19)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Local Government etc.(Scotland) Act 1994 (c.39)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Water Industry (Scotland) Act 2002 (asp 3)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part 3
+    - Sea Fisheries Act 1968
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Fisheries Act 1981
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Sea Fish (Conservation) Act 1992
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Criminal Justice and Public Order Act 1994
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Index
