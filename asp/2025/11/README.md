@@ -1,0 +1,176 @@
+# Education (Scotland) Act 2025
+
+asp/2025/11. Enacted 2025-08-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-08-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2025/11/2026-08-31
+
+## Contents
+
+- Part 1 Qualifications Scotland
+  - Establishment
+    - [s. 1 Qualifications Scotland](section/1.md)
+  - Functions
+    - [s. 2 The function of awarding qualifications](section/2.md)
+    - [s. 3 The quality assurance function](section/3.md)
+    - [s. 4 The accreditation function](section/4.md)
+    - [s. 5 The advisory function](section/5.md)
+    - [s. 6 Working with, or recognition of, others](section/6.md)
+    - [s. 7 Duties when exercising functions](section/7.md)
+    - [s. 8 Consultation with Strategic Advisory Council](section/8.md)
+  - Strategic Advisory Council
+    - [s. 9 Strategic Advisory Council](section/9.md)
+  - Expert Group on Qualifications Standards
+    - [s. 10 Expert Group on Qualifications Standards](section/10.md)
+  - Charters
+    - [s. 11 The learner charter](section/11.md)
+    - [s. 12 The teacher and practitioner charter](section/12.md)
+    - [s. 13 Reviewing and revising the charters](section/13.md)
+    - [s. 14 Other charters](section/14.md)
+  - Guidance
+    - [s. 15 Guidance about assistance for people with educational support needs](section/15.md)
+  - Accountability of Qualifications Scotland
+    - [s. 16 Corporate plan of Qualifications Scotland](section/16.md)
+    - [s. 17 Annual report of Qualifications Scotland](section/17.md)
+    - [s. 18 Annual quality assurance compliance report of Qualifications Scotland](section/18.md)
+    - [s. 19 Reports of advice to Qualifications Scotland from certain committees](section/19.md)
+    - [s. 20 Accounts and audit of Qualifications Scotland](section/20.md)
+    - [s. 21 Scottish Ministers’ power to direct Qualifications Scotland](section/21.md)
+    - [s. 22 Guidance by the Scottish Ministers to Qualifications Scotland](section/22.md)
+    - [s. 23 Provision of information by Qualifications Scotland](section/23.md)
+  - Accountability of the Accreditation Committee
+    - [s. 24 Corporate plan of the Accreditation Committee](section/24.md)
+    - [s. 25 Annual report of the Accreditation Committee](section/25.md)
+    - [s. 26 Scottish Ministers’ power to direct the Accreditation Committee](section/26.md)
+  - Funding and powers
+    - [s. 27 Financial assistance](section/27.md)
+    - [s. 28 Funding and use of resources](section/28.md)
+    - [s. 29 General powers](section/29.md)
+  - Supporting provisions
+    - [s. 30 Publication of documents](section/30.md)
+  - Reviews
+    - [s. 31 Review of arrangements for assuring quality of qualifications](section/31.md)
+    - [s. 32 Review of accreditation function](section/32.md)
+- Part 2 His Majesty’s Chief Inspector of Education in Scotland
+  - Establishment
+    - [s. 33 His Majesty’s Chief Inspector of Education in Scotland](section/33.md)
+    - [s. 34 Deputy Chief Inspector of Education in Scotland](section/34.md)
+    - [s. 35 His Majesty’s Inspectors of Education in Scotland](section/35.md)
+    - [s. 36 Assistance with inspections](section/36.md)
+  - Functions
+    - [s. 37 Purpose of inspection](section/37.md)
+    - [s. 38 The inspection function](section/38.md)
+    - [s. 39 Meaning of “relevant educational establishment” and “excepted establishment”](section/39.md)
+    - [s. 40 The voluntary arrangements function](section/40.md)
+    - [s. 41 The advisory function](section/41.md)
+    - [s. 42 Working with others](section/42.md)
+    - [s. 43 Duties when exercising functions](section/43.md)
+  - Advisory Council
+    - [s. 44 Advisory Council](section/44.md)
+  - Accountability
+    - [s. 45 Inspection plan](section/45.md)
+    - [s. 46 Reports on inspections](section/46.md)
+    - [s. 47 Annual report](section/47.md)
+    - [s. 48 Report on performance of the Scottish education system](section/48.md)
+    - [s. 49 Other reports](section/49.md)
+    - [s. 50 Protection from actions of defamation](section/50.md)
+  - Powers
+    - [s. 51 General powers](section/51.md)
+  - Cooperation with inspections
+    - [s. 52 Powers of entry and inspection](section/52.md)
+    - [s. 53 Duty to provide assistance](section/53.md)
+    - [s. 54 Offences](section/54.md)
+  - Enforcement following school-related inspections
+    - [s. 55 Necessary improvements: referral to Scottish Ministers](section/55.md)
+    - [s. 56 Preliminary notice of enforcement action](section/56.md)
+    - [s. 57 Enforcement direction](section/57.md)
+  - Supporting provisions
+    - [s. 58 Publication of documents](section/58.md)
+- Part 3 General and miscellaneous
+  - [s. 59 Transfer of staff, property etc. to Qualifications Scotland](section/59.md)
+  - [s. 60 Dissolution of the Scottish Qualifications Authority](section/60.md)
+  - [s. 61 Transitional provisions](section/61.md)
+  - [s. 62 Consequential modifications](section/62.md)
+  - [s. 63 Interpretation](section/63.md)
+  - [s. 64 Regulation-making powers](section/64.md)
+  - [s. 65 Ancillary provision](section/65.md)
+  - [s. 66 Commencement](section/66.md)
+  - [s. 67 Short title](section/67.md)
+- Schedule 1 Qualifications Scotland
+  - Part 1 Status
+    - [Sch. 1 para. 1 Exclusion of Crown status](schedule/1/paragraph/1.md)
+  - Part 2 Membership
+    - [Sch. 1 para. 2 Number and appointment of members](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Appointment as a member: criteria](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Period and conditions of membership](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Early termination of membership](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Members’ remuneration and allowances](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Co-opted members](schedule/1/paragraph/7.md)
+  - Part 3 Staff
+    - [Sch. 1 para. 8 Chief executive, chief examiner, chief accreditation officer and other staff](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Staff pensions](schedule/1/paragraph/9.md)
+  - Part 4 Procedure
+    - Chapter 1 Committees
+      - [Sch. 1 para. 10 Committees](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11 The Learner Interest Committee](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12 The Teacher and Practitioner Interest Committee](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13 The Accreditation Committee](schedule/1/paragraph/13.md)
+    - Chapter 2 Administration of Qualifications Scotland and its committees
+      - [Sch. 1 para. 14 Regulation of procedure](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15 Authority to perform functions](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16 Member consultation requirement](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17 Validity of things done](schedule/1/paragraph/17.md)
+- Schedule 2 The Office of His Majesty’s Chief Inspector of Education in Scotland
+  - Part 1 Status
+    - [Sch. 2 para. 1 Status](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Independence](schedule/2/paragraph/2.md)
+  - Part 2 Appointment and terms
+    - [Sch. 2 para. 3 Appointment](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Period and conditions of office](schedule/2/paragraph/4.md)
+  - Part 3 Staff
+    - [Sch. 2 para. 5 Staff](schedule/2/paragraph/5.md)
+  - Part 4 Procedure
+    - [Sch. 2 para. 6 Authority to perform functions](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Validity of things done](schedule/2/paragraph/8.md)
+- Schedule 3 Transfer of staff, property etc. to Qualifications Scotland
+  - [Sch. 3 para. 1 Transfer date](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Transfer of staff](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Transfer of property](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Duty to secure vesting of foreign property](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Appointment of initial board members](schedule/3/paragraph/5.md)
+- Schedule 4 Consequential modifications
+  - Part 1 Qualifications Scotland
+    - Chapter 1 Application of legislation relating to public bodies to Qualifications Scotland
+      - [Sch. 4 para. 1 Ethical Standards in Public Life etc. (Scotland) Act 2000](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2 Scottish Public Services Ombudsman Act 2002](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3 Freedom of Information (Scotland) Act 2002](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4 Public Appointments and Public Bodies etc. (Scotland) Act 2003](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5 Public Services Reform (Scotland) Act 2010](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6 Public Records (Scotland) Act 2011](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7 Procurement Reform (Scotland) Act 2014](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8 Gender Representation on Public Boards (Scotland) Act 2018](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9 Islands (Scotland) Act 2018](schedule/4/paragraph/9.md)
+    - Chapter 2 Other modifications relating to Qualifications Scotland
+      - [Sch. 4 para. 10 Further and Higher Education (Scotland) Act 1992](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11 Education (Scotland) Act 1996](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12 Scottish Qualifications Authority Act 2002](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13 Further and Higher Education (Scotland) Act 2005](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14 Children and Young People (Scotland) Act 2014](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15 Coronavirus (Recovery and Reform) (Scotland) Act 2022](schedule/4/paragraph/15.md)
+  - Part 2 The office of His Majesty’s Chief Inspector of Education in Scotland
+    - Chapter 1 Application of legislation relating to office-holders to the Chief Inspector
+      - [Sch. 4 para. 16 Freedom of Information (Scotland) Act 2002](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17 Protection of Vulnerable Groups (Scotland) Act 2007](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18 Public Services Reform (Scotland) Act 2010](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19 Public Records (Scotland) Act 2011](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20 Procurement Reform (Scotland) Act 2014](schedule/4/paragraph/20.md)
+    - Chapter 2 Other modifications relating to the Chief Inspector
+      - [Sch. 4 para. 21 Education (Scotland) Act 1980](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22 Standards in Scotland’s Schools etc. Act 2000](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23 Scottish Schools (Parental Involvement) Act 2006](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24 Schools (Consultation) (Scotland) Act 2010](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25 Public Services Reform (Scotland) Act 2010](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26 Education (Scotland) Act 2016](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27 Schools General (Scotland) Regulations 1975](schedule/4/paragraph/27.md)
