@@ -1,0 +1,399 @@
+# Nationality, Immigration and Asylum Act 2002
+
+2002 c. 41. Enacted 2002-11-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 114 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2002/41
+
+Source: https://www.legislation.gov.uk/ukpga/2002/41/2026-09-01
+
+## Contents
+
+- Part 1 Nationality
+  - [s. 1 Naturalisation: knowledge of language and society](section/1.md)
+  - [s. 2 Naturalisation: spouse of citizen](section/2.md)
+  - [s. 3 Citizenship ceremony, oath and pledge](section/3.md)
+  - [s. 4 Deprivation of citizenship](section/4.md)
+  - [s. 5 Resumption of citizenship](section/5.md)
+  - [s. 6 Nationality decision: discrimination](section/6.md)
+  - [s. 7 Nationality decision: reasons and review](section/7.md)
+  - [s. 8 Citizenship: registration](section/8.md)
+  - [s. 9 Legitimacy of child](section/9.md)
+  - [s. 10 Right of abode: certificate of entitlement](section/10.md)
+  - [s. 11 Unlawful presence in United Kingdom](section/11.md)
+  - [s. 12 British citizenship: registration of certain persons without other citizenship](section/12.md)
+  - [s. 13 British citizenship: registration of certain persons born between 1961 and 1983](section/13.md)
+  - [s. 14 Hong Kong](section/14.md)
+  - [s. 15 Repeal of spent provisions](section/15.md)
+- Part 2 Accommodation Centres
+  - Establishment
+    - [s. 16 Establishment of centres](section/16.md)
+  - Use of centres
+    - [s. 17 Support for destitute asylum-seeker](section/17.md)
+    - [s. 18 Asylum-seeker: definition](section/18.md)
+    - [s. 19 Destitution: definition](section/19.md)
+    - [s. 20 Dependant: definition](section/20.md)
+    - [s. 21 Sections 17 to 20: supplementary](section/21.md)
+    - [s. 22 Immigration and Asylum Act 1999, s. 95](section/22.md)
+    - [s. 23 Person subject to United Kingdom entrance control](section/23.md)
+    - [s. 24 Provisional assistance](section/24.md)
+    - [s. 25 Length of stay](section/25.md)
+    - [s. 26 Withdrawal of support](section/26.md)
+  - Operation of centres
+    - [s. 27 Resident of centre](section/27.md)
+    - [s. 28 Manager of centre](section/28.md)
+    - [s. 29 Facilities](section/29.md)
+    - [s. 30 Conditions of residence](section/30.md)
+    - [s. 31 Financial contribution by resident](section/31.md)
+    - [s. 32 Tenure](section/32.md)
+    - [s. 33 Advisory Groups](section/33.md)
+  - General
+    - [s. 34 The Monitor of Accommodation Centres](section/34.md)
+    - [s. 35 Ancillary provisions](section/35.md)
+    - [s. 36 Education: general](section/36.md)
+    - [s. 37 Education: special cases](section/37.md)
+    - [s. 38 Local authority](section/38.md)
+    - [s. 39 “Prescribed”: orders and regulations](section/39.md)
+    - [s. 40 Scotland](section/40.md)
+    - [s. 41 Northern Ireland](section/41.md)
+    - [s. 42 Wales](section/42.md)
+- Part 3 Other Support and Assistance
+  - [s. 43 Asylum-seeker: form of support](section/43.md)
+  - [s. 44 Destitute asylum-seeker](section/44.md)
+  - [s. 45 Section 44: supplemental](section/45.md)
+  - [s. 46 Section 44: supplemental: Scotland and Northern Ireland](section/46.md)
+  - [s. 47 Asylum-seeker: family with children](section/47.md)
+  - [s. 48 Young asylum-seeker](section/48.md)
+  - [s. 49 Failed asylum-seeker](section/49.md)
+  - [s. 50 Conditions of support](section/50.md)
+  - [s. 51 Choice of form of support](section/51.md)
+  - [s. 52 Back-dating of benefit for refugee](section/52.md)
+  - [s. 53 Asylum-seeker: appeal against refusal to support](section/53.md)
+  - [s. 54 Withholding and withdrawal of support](section/54.md)
+  - [s. 55 Late claim for asylum: refusal of support](section/55.md)
+  - [s. 56 Provision of support by local authority](section/56.md)
+  - [s. 57 Application for support: false or incomplete information](section/57.md)
+  - [s. 58 Voluntary departure from United Kingdom](section/58.md)
+  - [s. 59 International projects](section/59.md)
+  - [s. 60 Northern Ireland authorities](section/60.md)
+  - [s. 61 Repeal of spent provisions](section/61.md)
+- Part 4 Detention and Removal
+  - Detention
+    - [s. 62 Detention by Secretary of State](section/62.md)
+    - [s. 63 Control of entry to United Kingdom, &c.: use of force](section/63.md)
+    - [s. 64 Escorts](section/64.md)
+    - [s. 65 Detention centres: custodial functions](section/65.md)
+    - [s. 66 Detention centres: change of name](section/66.md)
+    - [s. 67 Construction of reference to person liable to detention](section/67.md)
+  - Temporary release
+    - [s. 68 Bail](section/68.md)
+    - [s. 69 Reporting restriction: travel expenses](section/69.md)
+    - [s. 70 Induction](section/70.md)
+    - [s. 71 Asylum-seeker: residence, &c. restriction](section/71.md)
+  - Removal
+    - [s. 72 Serious criminal](section/72.md)
+    - [s. 73 Family](section/73.md)
+    - [s. 74 Deception](section/74.md)
+    - [s. 75 Exemption from deportation](section/75.md)
+    - [s. 76 Revocation of leave to enter or remain](section/76.md)
+    - [s. 77 No removal while claim for asylum pending](section/77.md)
+    - [s. 78 No removal while appeal pending](section/78.md)
+    - [s. 78A Restriction on removal of children and their parents etc](section/78A.md)
+    - [s. 79 Deportation order: appeal](section/79.md)
+    - [s. 80 Removal of asylum-seeker to third country](section/80.md)
+- PART 4A Inadmissible asylum and Human Rights claims
+  - [s. 80A Claims by nationals of listed safe States](section/80A.md)
+  - [s. 80AA Safe States for the purposes of section 80A](section/80AA.md)
+  - [s. 80B Asylum claims by persons with connection to safe third State](section/80B.md)
+  - [s. 80C Meaning of “connection” to a safe third State](section/80C.md)
+- Part 5 Appeals in respect of Protection and Human Rights Claims
+  - Appeal to Tribunal
+    - [s. 81 Meaning of “the Tribunal](section/81.md)
+    - [s. 82 Right of appeal to the Tribunal](section/82.md)
+    - [s. 83 Appeal: asylum claim](section/83.md)
+    - [s. 83A Appeal: variation of limited leave](section/83A.md)
+    - [s. 84 Grounds of appeal](section/84.md)
+    - [s. 85 Matters to be considered](section/85.md)
+    - [s. 85A Matters to be considered: new evidence: exceptions](section/85A.md)
+    - [s. 86 Determination of appeal](section/86.md)
+    - [s. 86A Timeframe for determination of appeal under section 82(1)(a) where appellant is receiving accommodation support](section/86A.md)
+    - [s. 86B Timeframe for determination of appeal brought by certain non-detained appellants liable to deportation](section/86B.md)
+    - [s. 87 Successful appeal: direction](section/87.md)
+  - Exceptions and limitations
+    - [s. 88 Ineligibility](section/88.md)
+    - [s. 88A Entry clearance](section/88A.md)
+    - [s. 89 Refusal of leave to enter](section/89.md)
+    - [s. 90 Non-family visitor](section/90.md)
+    - [s. 91 Student](section/91.md)
+    - [s. 92 Place from which an appeal may be brought or continued](section/92.md)
+    - [s. 93 Appeal from within United Kingdom: “third country” removal](section/93.md)
+    - [s. 94 Certification of human rights or protection claims as unfounded or removal to safe country](section/94.md)
+    - [s. 94A European Common List of Safe Countries of Origin](section/94A.md)
+    - [s. 94B Appeal from within the United Kingdom: certification of human rights claims ...](section/94B.md)
+    - [s. 95 Appeal from outside United Kingdom: removal](section/95.md)
+    - [s. 96 Earlier right of appeal](section/96.md)
+    - [s. 97 National security, &c.](section/97.md)
+    - [s. 97A National security: deportation](section/97A.md)
+    - [s. 97B Variation of leave on grounds of public good: rights of appeal](section/97B.md)
+    - [s. 98 Other grounds of public good](section/98.md)
+    - [s. 99 Section 97: appeal in progress](section/99.md)
+  - Appeal from adjudicator
+    - [s. 100 Immigration Appeal Tribunal](section/100.md)
+    - [s. 101 Appeal to Tribunal](section/101.md)
+    - [s. 102 Decision](section/102.md)
+    - [s. 103 Appeal from Tribunal](section/103.md)
+  - Procedure
+    - [s. 103A Review of Tribunal’s decision](section/103A.md)
+    - [s. 103B Appeal from Tribunal following reconsideration](section/103B.md)
+    - [s. 103C Appeal from Tribunal instead of reconsideration](section/103C.md)
+    - [s. 103D Reconsideration: legal aid](section/103D.md)
+    - [s. 103E Appeal from Tribunal sitting as panel](section/103E.md)
+    - [s. 104 Pending appeal](section/104.md)
+    - [s. 105 Notice of immigration decision](section/105.md)
+    - [s. 106 Rules](section/106.md)
+    - [s. 107 Practice directions](section/107.md)
+    - [s. 108 Forged document: proceedings in private](section/108.md)
+  - General
+    - [s. 109 European Union and European Economic Area](section/109.md)
+    - [s. 110 Grants](section/110.md)
+    - [s. 111 Monitor of certification of claims as unfounded](section/111.md)
+    - [s. 112 Regulations, &c.](section/112.md)
+    - [s. 113 Interpretation](section/113.md)
+    - [s. 114 Repeal](section/114.md)
+    - [s. 115 Appeal from within United Kingdom: unfounded human rights or asylum claim: transitional provision](section/115.md)
+    - [s. 116 Special Immigration Appeals Commission: Community Legal Service](section/116.md)
+    - [s. 117 Northern Ireland appeals: legal aid](section/117.md)
+- PART 5A Article 8 of the ECHR: public interest considerations
+  - [s. 117A Application of this Part](section/117A.md)
+  - [s. 117B Article 8: public interest considerations applicable in all cases](section/117B.md)
+  - [s. 117C Article 8: additional considerations in cases involving foreign criminals](section/117C.md)
+  - [s. 117D Interpretation of this Part](section/117D.md)
+- Part 6 Immigration Procedure
+  - Applications
+    - [s. 118 Leave pending decision on variation application](section/118.md)
+    - [s. 119 Deemed leave on cancellation of notice](section/119.md)
+    - [s. 120 Requirement to state additional grounds for application](section/120.md)
+    - [s. 121 Compliance with procedure](section/121.md)
+  - Work permit
+    - [s. 122 Fee for work permit, &c.](section/122.md)
+    - [s. 123 Advice about work permit, &c.](section/123.md)
+  - Authority-to-carry scheme
+    - [s. 124 Authority to carry](section/124.md)
+  - Evasion of procedure
+    - [s. 125 Carriers’ liability](section/125.md)
+  - Provision of information by traveller
+    - [s. 126 Physical data: compulsory provision](section/126.md)
+    - [s. 127 Physical data: voluntary provision](section/127.md)
+    - [s. 128 Data collection under Immigration and Asylum Act 1999](section/128.md)
+  - Disclosure of information by public authority
+    - [s. 129 Local authority](section/129.md)
+    - [s. 130 Inland Revenue](section/130.md)
+    - [s. 131 Police, &c.](section/131.md)
+    - [s. 132 Supply of document, &c. to Secretary of State](section/132.md)
+    - [s. 133 Medical inspectors](section/133.md)
+  - Disclosure of information by private person
+    - [s. 134 Employer](section/134.md)
+    - [s. 135 Financial institution](section/135.md)
+    - [s. 136 Notice](section/136.md)
+    - [s. 137 Disclosure of information: offences](section/137.md)
+    - [s. 138 Offence by body](section/138.md)
+    - [s. 139 Privilege against self-incrimination](section/139.md)
+  - Immigration services
+    - [s. 140 Immigration Services Commissioner](section/140.md)
+  - Immigration control
+    - [s. 141 EEA ports: juxtaposed controls](section/141.md)
+  - Country information
+    - [s. 142 Advisory Panel on Country Information](section/142.md)
+- Part 7 Offences
+  - Substance
+    - [s. 143 Assisting unlawful immigration, &c.](section/143.md)
+    - [s. 144 Section 143: consequential amendments](section/144.md)
+    - [s. 145 Traffic in prostitution](section/145.md)
+    - [s. 146 Section 145: supplementary](section/146.md)
+    - [s. 147 Employment](section/147.md)
+    - [s. 148 Registration card](section/148.md)
+    - [s. 149 Immigration stamp](section/149.md)
+    - [s. 150 Sections 148 and 149: consequential amendments](section/150.md)
+    - [s. 151 False information](section/151.md)
+  - Procedure
+    - [s. 152 Arrest by immigration officer](section/152.md)
+    - [s. 153 Power of entry](section/153.md)
+    - [s. 154 Power to search for evidence](section/154.md)
+    - [s. 155 Sections 153 and 154: supplemental](section/155.md)
+    - [s. 156 Time limit on prosecution](section/156.md)
+- Part 8 General
+  - [s. 157 Consequential and incidental provision](section/157.md)
+  - [s. 158 Interpretation: “the Immigration Acts”](section/158.md)
+  - [s. 159 Applied provision](section/159.md)
+  - [s. 160 Money](section/160.md)
+  - [s. 161 Repeals](section/161.md)
+  - [s. 162 Commencement](section/162.md)
+  - [s. 163 Extent](section/163.md)
+  - [s. 164 Short title](section/164.md)
+- SCHEDULE 1 Citizenship Ceremony, Oath and Pledge
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Nationality: Repeal of Spent Provisions
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Withholding and Withdrawal of Support
+  - Ineligibility for support
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Exceptions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - First class of ineligible person: refugee status abroad
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Second class of ineligible person: citizen of other EEA State
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Third class of ineligible person: failed asylum-seeker
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Fourth class of ineligible person: person unlawfully in United Kingdom
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Fifth class of ineligible person: failed asylum-seeker with family
+    - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+  - Travel assistance
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Temporary accommodation
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Assistance and accommodation: general
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Offences
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Information
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Power to amend Schedule
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Orders and regulations
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Interpretation
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- Schedule 4 The Asylum and Immigration Tribunal
+  - Membership
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Presidency
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Judicial Assistance
+    - [Sch. 4 para. 5n1](schedule/4/paragraph/5n1.md)
+    - [Sch. 4 para. 5B](schedule/4/paragraph/5B.md)
+  - Proceedings
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Staff
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Money
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Delegation
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Training etc.
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Oaths
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5
+  - Membership
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Presidency
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Proceedings
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Staff
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Money
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Interpretation: legally qualified member
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Immigration and Asylum Appeals: Transitional Provision
+  - “Commencement”
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Adjudicator
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Tribunal
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Earlier appeal
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Saving
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Immigration and Asylum Appeals: Consequential Amendments
+  - Immigration Act 1971 (c. 77)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - ...
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Special Immigration Appeals Commission Act 1997 (c. 68)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+- SCHEDULE 8 Carriers’ Liability
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+- SCHEDULE 9 Repeals
