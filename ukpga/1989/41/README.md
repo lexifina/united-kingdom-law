@@ -1,0 +1,924 @@
+# Children Act 1989
+
+1989 c. 41. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 108 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
+
+Source: https://www.legislation.gov.uk/ukpga/1989/41/2026-09-01
+
+## Contents
+
+- Part I Introductory
+  - [s. 1 Welfare of the child.](section/1.md)
+  - [s. 2 Parental responsibility for children.](section/2.md)
+  - [s. 3 Meaning of “parental responsibility”.](section/3.md)
+  - [s. 4 Acquisition of parental responsibility by father.](section/4.md)
+  - [s. 4ZA Acquisition of parental responsibility by second female parent](section/4ZA.md)
+  - [s. 4A Acquisition of parental responsibility by step-parent](section/4A.md)
+  - [s. 5 Appointment of guardians.](section/5.md)
+  - [s. 6 Guardians: revocation and disclaimer.](section/6.md)
+  - [s. 7 Welfare reports.](section/7.md)
+- Part II Orders With Respect To Children In Family Proceedings
+  - General
+    - [s. 8 Child arrangements orders and other orders with respect to children.](section/8.md)
+    - [s. 9 Restrictions on making section 8 orders.](section/9.md)
+    - [s. 10 Power of court to make section 8 orders.](section/10.md)
+    - [s. 11 General principles and supplementary provisions.](section/11.md)
+    - [s. 11A ... Activity directions](section/11A.md)
+    - [s. 11B ... Activity directions: further provision](section/11B.md)
+    - [s. 11C ... Activity conditions](section/11C.md)
+    - [s. 11D ... Activity conditions: further provision](section/11D.md)
+    - [s. 11E ...Activity directions and conditions: making](section/11E.md)
+    - [s. 11F ... Activity directions and conditions: financial assistance](section/11F.md)
+    - [s. 11G ... Activity directions and conditions: monitoring](section/11G.md)
+    - [s. 11H Monitoring contact and shared residence](section/11H.md)
+    - [s. 11I Child arrangements orders: warning notices](section/11I.md)
+    - [s. 11J Enforcement orders](section/11J.md)
+    - [s. 11K Enforcement orders: further provision](section/11K.md)
+    - [s. 11L Enforcement orders: making](section/11L.md)
+    - [s. 11M Enforcement orders: monitoring](section/11M.md)
+    - [s. 11N Enforcement orders: warning notices](section/11N.md)
+    - [s. 11O Compensation for financial loss](section/11O.md)
+    - [s. 11P Orders under section 11O(2): further provision](section/11P.md)
+    - [s. 12 Child arrangements orders and parental responsibility.](section/12.md)
+    - [s. 13 Change of child’s name or removal from jurisdiction.](section/13.md)
+    - [s. 14 Enforcement of residence orders.](section/14.md)
+  - Special guardianship
+    - [s. 14A Special guardianship orders](section/14A.md)
+    - [s. 14B Special guardianship orders: making](section/14B.md)
+    - [s. 14C Special guardianship orders: effect](section/14C.md)
+    - [s. 14D Special guardianship orders: variation and discharge](section/14D.md)
+    - [s. 14E Special guardianship orders: supplementary](section/14E.md)
+    - [s. 14F Special guardianship support services](section/14F.md)
+    - [s. 14G Special guardianship support services: representations](section/14G.md)
+  - Financial relief
+    - [s. 15 Orders for financial relief with respect to children.](section/15.md)
+  - Family assistance orders
+    - [s. 16 Family assistance orders.](section/16.md)
+    - [s. 16A Risk assessments](section/16A.md)
+- Part III SUPPORT FOR CHILDREN AND FAMILIES PROVIDED BY LOCAL AUTHORITIES IN ENGLAND
+  - Application to local authorities in England
+    - [s. 16B Application to local authorities in England](section/16B.md)
+  - Provision of services for children and their families
+    - [s. 17 Provision of services for children in need, their families and others.](section/17.md)
+    - [s. 17ZA Young carers’ needs assessments ...](section/17ZA.md)
+    - [s. 17ZB Young carers’ needs assessments: supplementary](section/17ZB.md)
+    - [s. 17ZC Consideration of young carers’ needs assessments](section/17ZC.md)
+    - [s. 17ZD Parent carers’ needs assessments ...](section/17ZD.md)
+    - [s. 17ZE Parent carers’ needs assessments: supplementary](section/17ZE.md)
+    - [s. 17ZF Consideration of parent carers’ needs assessments](section/17ZF.md)
+    - [s. 17ZG Section 17 services: continued provision where EHC plan maintained](section/17ZG.md)
+    - [s. 17ZH Section 17 services: transition for children to adult care and support](section/17ZH.md)
+    - [s. 17ZI Section 17 services: provision after EHC plan no longer maintained](section/17ZI.md)
+    - [s. 17A Direct payments](section/17A.md)
+    - [s. 17B Vouchers for persons with parental responsibility for disabled children: Wales.](section/17B.md)
+    - [s. 18 Day care for pre-school and other children.](section/18.md)
+    - [s. 19 Review of provision for day care, child minding etc.](section/19.md)
+  - Provision of accommodation for children
+    - [s. 20 Provision of accommodation for children: general.](section/20.md)
+    - [s. 21 Provision of accommodation for children in police protection or detention or on remand, etc.](section/21.md)
+  - Duties of local authorities in relation to children looked after by them
+    - [s. 22 General duty of local authority in relation to children looked after by them.](section/22.md)
+    - [s. 23 Provision of accommodation and maintenance by local authority for children whom they are looking after.](section/23.md)
+    - [s. 22A Provision of accommodation for children in care](section/22A.md)
+    - [s. 22B Maintenance of looked after children](section/22B.md)
+    - [s. 22C Ways in which looked after children are to be accommodated and maintained](section/22C.md)
+    - [s. 22D Review of child’s case before making alternative arrangements for accommodation](section/22D.md)
+    - [s. 22E Children’s homes provided by Secretary of State or Welsh Ministers](section/22E.md)
+    - [s. 22F Regulations as to children looked after by local authorities](section/22F.md)
+    - [s. 22G General duty of local authority to secure sufficient accommodation for looked after children](section/22G.md)
+  - Information: children in kinship care and their carers
+    - [s. 22H Kinship care: information](section/22H.md)
+    - [s. 22I Section 22H: interpretation](section/22I.md)
+  - Accommodation of looked after children: regional co-operation arrangements
+    - [s. 22J Accommodation of looked after children: regional co-operation arrangements](section/22J.md)
+  - Educational achievement of previously looked after children
+    - [s. 23ZZA Information and advice for promoting educational achievement](section/23ZZA.md)
+  - Visiting
+    - [s. 23ZA Duty of local authority to ensure visits to, and contact with, looked after children and others](section/23ZA.md)
+    - [s. 23ZB Independent visitors for children looked after by a local authority](section/23ZB.md)
+  - Advice and assistance for certain children and young persons
+    - [s. 23A The responsible authority and relevant children.](section/23A.md)
+    - [s. 23B Additional functions of the responsible authority in respect of relevant children.](section/23B.md)
+    - [s. 23C Continuing functions in respect of former relevant children.](section/23C.md)
+    - [s. 23CZA Arrangements for certain former relevant children to continue to live with former foster parents](section/23CZA.md)
+    - [s. 23CZB England: further advice and support](section/23CZB.md)
+    - [s. 23CA Further assistance to pursue education or training](section/23CA.md)
+  - Personal advisers and pathway plans
+    - [s. 23D Personal advisers.](section/23D.md)
+    - [s. 23E Pathway plans.](section/23E.md)
+    - [s. 24 Persons qualifying for advice and assistance.](section/24.md)
+    - [s. 24A Advice and assistance.](section/24A.md)
+    - [s. 24B Employment, education and training.](section/24B.md)
+    - [s. 24C Information.](section/24C.md)
+    - [s. 24D Representations: sections 23A to 24B.](section/24D.md)
+  - Secure accommodation
+    - [s. 25 Use of accommodation for restricting liberty.](section/25.md)
+  - Independent reviewing officers
+    - [s. 25A Appointment of independent reviewing officer](section/25A.md)
+    - [s. 25B Functions of the independent reviewing officer](section/25B.md)
+    - [s. 25C Referred cases](section/25C.md)
+    - [s. 26 Review of cases and inquiries into representations.](section/26.md)
+    - [s. 26ZA Representations: further consideration](section/26ZA.md)
+    - [s. 26ZB Representations: further consideration (Wales)](section/26ZB.md)
+    - [s. 26A Advocacy services](section/26A.md)
+    - [s. 27 Co-operation between authorities.](section/27.md)
+    - [s. 28 Consultation with local education authorities.](section/28.md)
+    - [s. 29 Recoupment of cost of providing services etc.](section/29.md)
+    - [s. 30 Miscellaneous.](section/30.md)
+    - [s. 30A Meaning of appropriate national authority](section/30A.md)
+- Part IV Care and Supervision
+  - General
+    - [s. 31 Care and Supervision](section/31.md)
+    - [s. 31ZA Family group decision-making](section/31ZA.md)
+    - [s. 31A Care orders: care plans](section/31A.md)
+    - [s. 32 Period within which application for order under this Part must be disposed of.](section/32.md)
+  - Care orders
+    - [s. 33 Effect of care order.](section/33.md)
+    - [s. 34 Parental contact etc. with children in care.](section/34.md)
+  - Supervision orders
+    - [s. 35 Supervision orders.](section/35.md)
+    - [s. 36 Education supervision orders.](section/36.md)
+  - Powers of court
+    - [s. 37 Powers of court in certain family proceedings.](section/37.md)
+    - [s. 38 Interim orders.](section/38.md)
+    - [s. 38A Power to include exclusion requirement in interim care order.](section/38A.md)
+    - [s. 38B Undertakings relating to interim care orders.](section/38B.md)
+    - [s. 39 Discharge and variation etc. of care orders and supervision orders.](section/39.md)
+    - [s. 40 Orders pending appeals in cases about care or supervision orders.](section/40.md)
+  - Guardians ad litem
+    - [s. 41 Representation of child](section/41.md)
+    - [s. 42 Right of officer of the Service to have access to local authority records](section/42.md)
+- Part V Protection of Children
+  - [s. 43 Child assessment orders.](section/43.md)
+  - [s. 44 Orders for emergency protection of children.](section/44.md)
+  - [s. 44A Power to include exclusion requirement in emergency protection order.](section/44A.md)
+  - [s. 44B Undertakings relating to emergency protection orders.](section/44B.md)
+  - [s. 45 Duration of emergency protection orders and other supplemental provisions.](section/45.md)
+  - [s. 46 Removal and accommodation of children by police in cases of emergency.](section/46.md)
+  - [s. 47 Local authority’s duty to investigate.](section/47.md)
+  - [s. 48 Powers to assist in discovery of children who may be in need of emergency protection.](section/48.md)
+  - [s. 49 Abduction of children in care etc.](section/49.md)
+  - [s. 50 Recovery of abducted children etc.](section/50.md)
+  - [s. 51 Refuges for children at risk.](section/51.md)
+  - [s. 52 Rules and regulations.](section/52.md)
+- Part VI Community Homes
+  - [s. 53 Provision of community homes by local authorities.](section/53.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 Determination of disputes relating to controlled and assisted community homes.](section/55.md)
+  - [s. 56 Discontinuance by voluntary organisation of controlled or assisted community home.](section/56.md)
+  - [s. 57 Closure by local authority of controlled or assisted community home.](section/57.md)
+  - [s. 58 Financial provisions applicable on cessation of controlled or assisted community home or disposal etc. of premises.](section/58.md)
+- Part VII Voluntary Homes and Voluntary Organisations
+  - [s. 59 ` Provision of accommodation by voluntary organisations.](section/59.md)
+  - [s. 60 Voluntary homes.](section/60.md)
+  - [s. 61 Duties of voluntary organisations.](section/61.md)
+  - [s. 62 Duties of local authorities.](section/62.md)
+- Part VIII Registered Children’s Homes
+  - [s. 63 Private children’s homes etc.](section/63.md)
+  - [s. 64 Welfare of children in children’s homes.](section/64.md)
+  - [s. 65 2 Persons disqualified from carrying on, or being employed in children’s homes.](section/65.md)
+  - [s. 65A Appeal against refusal of authority to give consent under section 65.](section/65A.md)
+- PART IX PRIVATE ARRANGEMENTS FOR FOSTERING CHILDREN
+  - [s. 66 Privately fostered children.](section/66.md)
+  - [s. 67 Welfare of privately fostered children.](section/67.md)
+  - [s. 68 Persons disqualified from being private foster parents.](section/68.md)
+  - [s. 69 Power to prohibit private fostering.](section/69.md)
+  - [s. 70 Offences.](section/70.md)
+- Part X Child Minding and Day Care for Young Children
+  - [s. 71 ................................](section/71.md)
+  - [s. 72 ................................](section/72.md)
+  - [s. 73 ................................](section/73.md)
+  - [s. 74 ................................](section/74.md)
+  - [s. 75 ................................](section/75.md)
+  - [s. 76 ................................](section/76.md)
+  - [s. 77 ................................](section/77.md)
+  - [s. 78 ................................](section/78.md)
+  - [s. 79 ................................](section/79.md)
+- Part XA Child Minding and Day Care for Children in... Wales
+  - Introductory
+    - [s. 79A Child minders and day care providers.](section/79A.md)
+    - [s. 79B Other definitions, etc.](section/79B.md)
+  - Regulations
+    - [s. 79C Regulations etc. governing child minders and day care providers.](section/79C.md)
+  - Registration
+    - [s. 79D Requirement to register.](section/79D.md)
+    - [s. 79E Applications for registration.](section/79E.md)
+    - [s. 79F Grant or refusal of registration.](section/79F.md)
+    - [s. 79G Cancellation of registration.](section/79G.md)
+    - [s. 79H Suspension of registration.](section/79H.md)
+    - [s. 79J Resignation of registration.](section/79J.md)
+    - [s. 79K Protection of children in an emergency.](section/79K.md)
+    - [s. 79L Notice of intention to take steps.](section/79L.md)
+    - [s. 79M Appeals.](section/79M.md)
+  - Inspection: England
+    - [s. 79N General functions of the Chief Inspector.](section/79N.md)
+    - [s. 79P Early years child care inspectorate.](section/79P.md)
+    - [s. 79Q Inspection of provision of child minding and day care in England.](section/79Q.md)
+    - [s. 79R Reports of inspections.](section/79R.md)
+  - Inspection: Wales
+    - [s. 79S General functions of the Assembly.](section/79S.md)
+    - [s. 79T Inspection: Wales.](section/79T.md)
+  - Supplementary
+    - [s. 79U Rights of entry etc.](section/79U.md)
+    - [s. 79V Function of local authorities.](section/79V.md)
+  - Checks on suitability of persons working with children over the age of seven
+    - [s. 79W Requirement for certificate of suitability.](section/79W.md)
+  - Time limit for proceedings
+    - [s. 79X Time limit for proceedings.](section/79X.md)
+- Part XI Secretary of State’s Supervisory Functions and Responsibilities
+  - [s. 80 Inspection of children’s homes etc. by persons authorised by the Appropriate National Authority.](section/80.md)
+  - [s. 81 Inquiries.](section/81.md)
+  - [s. 82 Financial support by Secretary of State.](section/82.md)
+  - [s. 83 Research and returns of information.](section/83.md)
+  - [s. 84 Local authority failure to comply with statutory duty: default power of Secretary of State.](section/84.md)
+- Part XII Miscellaneous and General
+  - Notification of children accommodated in certain establishments
+    - [s. 85 Children accommodated by health authorities and local education authorities.](section/85.md)
+    - [s. 86 Children accommodated in care homes or independent hospitals.](section/86.md)
+    - [s. 86A Visitors for children notified to local authority ...](section/86A.md)
+    - [s. 87 Welfare of children in boarding schools and colleges.](section/87.md)
+    - [s. 87A Suspension of duty under section 87(3).](section/87A.md)
+    - [s. 87B Duties of inspectors under section 87A.](section/87B.md)
+    - [s. 87BA Quality assurance of inspectors under section 87A](section/87BA.md)
+    - [s. 87BB Information sharing between the Chief Inspector for England and section 87A inspectors](section/87BB.md)
+    - [s. 87C Boarding schools: national minimum standards.](section/87C.md)
+    - [s. 87D Annual fee for boarding school inspections.](section/87D.md)
+  - Adoption
+    - [s. 88 Amendments of adoption legislation.](section/88.md)
+  - Paternity tests
+    - [s. 89 ................................](section/89.md)
+  - Criminal care and supervision orders
+    - [s. 90 Care and supervision orders in criminal proceedings.](section/90.md)
+  - Effect and duration of orders etc.
+    - [s. 91 Effect and duration of orders etc.](section/91.md)
+    - [s. 91A Section 91(14) orders: further provision](section/91A.md)
+  - Jurisdiction and procedure etc.
+    - [s. 92 Jurisdiction of courts.](section/92.md)
+    - [s. 93 Rules of court.](section/93.md)
+    - [s. 94 Appeals.](section/94.md)
+    - [s. 95 Attendance of child at hearing under Part IV or V.](section/95.md)
+    - [s. 96 Evidence given by, or with respect to, children.](section/96.md)
+    - [s. 97 Privacy for children involved in certain proceedings.](section/97.md)
+    - [s. 98 Self-incrimination.](section/98.md)
+    - [s. 99 .](section/99.md)
+    - [s. 100 Restrictions on use of wardship jurisdiction.](section/100.md)
+    - [s. 101 Effect of orders as between England and Wales and Northern Ireland, the Channel Islands or the Isle of Man.](section/101.md)
+  - Search warrants
+    - [s. 102 Power of constable to assist in exercise of certain powers to search for children or inspect premises.](section/102.md)
+  - General
+    - [s. 103 Offences by bodies corporate.](section/103.md)
+    - [s. 104 Regulations and orders.](section/104.md)
+    - [s. 104A Regulations made by the Welsh Ministers under section 31A or Part 7](section/104A.md)
+    - [s. 105 Interpretation.](section/105.md)
+    - [s. 106 Financial provisions.](section/106.md)
+    - [s. 107 Application to Channel Islands.](section/107.md)
+    - [s. 108 Short title, commencement extent etc.](section/108.md)
+- SCHEDULE A1 Enforcement orders
+  - PART 1 Unpaid work requirement
+    - The responsible officer etc
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Obligations of responsible officer
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Enforcement order to specify relevant person’s home local justice area
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - Requirement and obligation of relevant person
+      - [Sch. A1 para. 3A](schedule/A1/paragraph/3A.md)
+    - Number of hours of unpaid work to be specified in order
+      - [Sch. A1 para. 3B](schedule/A1/paragraph/3B.md)
+    - Duty to keep in touch with responsible officer
+      - [Sch. A1 para. 3C](schedule/A1/paragraph/3C.md)
+    - Rules relating to enforcement orders
+      - [Sch. A1 para. 3D](schedule/A1/paragraph/3D.md)
+  - Part 2 Revocation, amendment or breach of enforcement order
+    - Power to revoke
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - Amendment by reason of change of residence
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - Amendment of hours specified under unpaid work requirement
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - ...
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - Warning and report following breach
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - Breach of an enforcement order
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Provision relating to amendment of enforcement orders
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+- SCHEDULE 1 Financial Provision for Children
+  - Orders for financial relief against parents
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Orders for financial relief for persons over eighteen
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Duration of orders for financial relief
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Matters to which court is to have regard in making orders for financial relief
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Provisions relating to lump sums
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Variation etc. of orders for periodical payments
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Variation of orders for periodical payments etc. made by magistrates’ courts
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Variation of orders for secured periodical payments after death of parent
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Financial relief under other enactments
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Interim orders
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Alteration of maintenance agreements
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Enforcement of orders for maintenance
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Direction for settlement of instrument by conveyancing counsel
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Jurisdiction ...
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Local authority contribution to child’s maintenance
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Interpretation
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 SUPPORT FOR CHILDREN AND FAMILIES PROVIDED BY LOCAL AUTHORITIES IN ENGLAND
+  - Application to local authorities in England
+    - [Sch. 2 para. A1](schedule/2/paragraph/A1.md)
+  - Part I Provision of Services for Families
+    - Identification of children in need and provision of information
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Children’s services plans
+      - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+    - Maintenance of a register of disabled children
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Assessment of children’s needs
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Prevention of neglect and abuse
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Provision of accommodation in order to protect child
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Provision for disabled children
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Provision to reduce need for care proceedings etc.
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Provision for children living with their families
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Provision for accommodated children
+      - [Sch. 2 para. 8A](schedule/2/paragraph/8A.md)
+    - Family centres
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Maintenance of the family home
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Duty to consider racial groups to which children in need belong
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part II Children Looked After By Local Authorities in England
+    - Regulations as to placing of children with local authority foster parents
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Regulations as to arrangements under section 23(2)(f)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Regulations as to conditions under which child in care is allowed to live with parent, etc.
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Regulations as to conditions under which child in care is allowed to live with parent, etc
+      - [Sch. 2 para. 12A](schedule/2/paragraph/12A.md)
+    - Regulations as to placements of a kind specified in section 22C(6)(d)
+      - [Sch. 2 para. 12B](schedule/2/paragraph/12B.md)
+    - Placements out of area
+      - [Sch. 2 para. 12C](schedule/2/paragraph/12C.md)
+    - Avoidance of disruption in education
+      - [Sch. 2 para. 12D](schedule/2/paragraph/12D.md)
+    - Regulations as to placing of children with local authority foster parents
+      - [Sch. 2 para. 12E](schedule/2/paragraph/12E.md)
+      - [Sch. 2 para. 12F](schedule/2/paragraph/12F.md)
+      - [Sch. 2 para. 12G](schedule/2/paragraph/12G.md)
+    - Promotion and maintenance of contact between child and family
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Visits to or by children: expenses
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Appointment of visitor for child who is not being visited
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Power to guarantee apprenticeship deeds etc.
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Arrangements to assist children to live abroad
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Preparation for ceasing to be looked after
+      - [Sch. 2 para. 19A](schedule/2/paragraph/19A.md)
+      - [Sch. 2 para. 19B](schedule/2/paragraph/19B.md)
+    - Preparation for ceasing to be looked after: staying put arrangements
+      - [Sch. 2 para. 19BA](schedule/2/paragraph/19BA.md)
+      - [Sch. 2 para. 19C](schedule/2/paragraph/19C.md)
+    - Death of children being looked after by local authorities
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part III Contributions Towards Maintenance of Children Looked After by Local Authorities in England
+    - Liability to contribute
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Agreed contributions
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Contribution orders
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Enforcement of contribution orders etc.
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Regulations
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+- SCHEDULE 3 Supervision Orders
+  - Part I General
+    - Meaning of “responsible person"
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Power of supervisor to give directions to supervised child
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Imposition of obligations on responsible person
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Psychiatric and medical examinations
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Psychiatric and medical treatment
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part II Miscellaneous
+    - Life of supervision order
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Limited life of directions
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Information to be given to supervisor etc.
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Selection of supervisor
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Effect of supervision order on earlier orders
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Local authority functions and expenditure
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part III Education supervision orders
+    - Effect of orders
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Effect where child also subject to supervision order
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Duration of orders
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Information to be given to supervisor etc.
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Discharge of orders
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Offences
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Persistent failure of child to comply with directions
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Miscellaneous
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Interpretation
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 Management and Conduct of Community Homes
+  - Part I Instruments of Management
+    - Instruments of management for controlled and assisted community homes
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Part II Management of Controlled and Assisted Community Homes
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part III Regulations
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Voluntary Homes and Voluntary Organisations
+  - Part I Registration of Voluntary Homes
+    - General
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Procedure
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Right to make representations
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Decision of Secretary of State
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Appeals
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Notification of particulars with respect to voluntary homes
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Part II Regulations as to Voluntary Homes
+    - Regulations as to conduct of voluntary homes
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Disqualification
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Private Children’s Homes
+  - Part I Registration
+    - Application for registration
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Conditions imposed on registration
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Annual review of registration
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Cancellation of registration
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Procedure
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Right to make representations
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Decision of local authority
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Appeals
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Prohibition on further applications
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Part II Regulations
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Foster Parents: Limits on Number of Foster Children
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The usual fostering limit
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Siblings
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Exemption by local authority
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Effect of exceeding fostering limit
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 5A](schedule/7/paragraph/5A.md)
+  - Complaints etc.
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Privately Fostered Children
+  - Exemptions
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Power of local authority to impose requirements
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Regulations requiring notification of fostering etc.
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 7A](schedule/8/paragraph/7A.md)
+  - Appeals
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Extension of Part IX to certain school children during holidays
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Prohibition of advertisements relating to fostering
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Avoidance of insurances on lives of privately fostered children
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+- SCHEDULE 9
+  - Applications for registration
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Disqualification from registration
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Exemption of certain schools
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Exemption for other establishments
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Exemption for occasional facilities
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Certificates of registration
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Fees for annual inspection of premises
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Co-operation between authorities
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 9A Child Minding and Day Care for Young Children in Wales
+  - Exemption of certain schools
+    - [Sch. 9A para. 1](schedule/9A/paragraph/1.md)
+  - Exemption for other establishments
+    - [Sch. 9A para. 2](schedule/9A/paragraph/2.md)
+    - [Sch. 9A para. 2A](schedule/9A/paragraph/2A.md)
+  - Exemption for occasional facilities
+    - [Sch. 9A para. 3](schedule/9A/paragraph/3.md)
+  - Disqualification for registration
+    - [Sch. 9A para. 4](schedule/9A/paragraph/4.md)
+    - [Sch. 9A para. 5](schedule/9A/paragraph/5.md)
+  - Provision of day care: unincorporated associations
+    - [Sch. 9A para. 5A](schedule/9A/paragraph/5A.md)
+  - Certificates of registration
+    - [Sch. 9A para. 6](schedule/9A/paragraph/6.md)
+  - ... Fees
+    - [Sch. 9A para. 7](schedule/9A/paragraph/7.md)
+  - Co-operation between authorities
+    - [Sch. 9A para. 8](schedule/9A/paragraph/8.md)
+- SCHEDULE 10 Amendments of Adoption Legislation
+  - Part I Amendments of Adoption Act 1976 (c. 36)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - Part II Amendments of Adoption (Scotland) Act 1978 (c. 28)
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+    - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+    - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+    - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+    - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+    - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+    - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+- SCHEDULE 11 Jurisdiction
+  - Part I General
+    - Commencement of proceedings
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Transfer of proceedings
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Hearings by single justice
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - General
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Part II Consequential Amendments
+    - The Administration of Justice Act 1964 (c. 42)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - The Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - The Justices of the Peace Act 1979 (c. 55)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - The Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - The Senior Courts Act 1981 (c. 54)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - The Matrimonial and Family Proceedings Act 1984 (c. 42)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - The Insolvency Act 1986 (c. 45)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 Minor Amendments
+  - The Custody of Children Act 1891 (c. 3)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - The Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - The Education Act 1944 (c. 31)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - The Marriage Act 1949 (c. 76)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - The Births and Deaths Registration Act 1953 (c. 20)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - The Army Act 1955 (c. 18)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - The Air Force Act 1955 (c. 19)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - The Sexual Offences Act 1956 (c. 69)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - The Naval Discipline Act 1957 (c. 53)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - The Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - The Children and Young Persons Act 1969 (c. 54)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+  - The Matrimonial Causes Act 1973 (c. 18)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+  - The National Health Service Act 1977 (c. 49)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+  - The Child Care Act 1980 (c. 5)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+  - The Education Act 1981 (c. 60)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+  - The Child Abduction Act 1984 (c. 37)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+  - The Foster Children (Scotland) Act 1984 (c. 56)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+  - The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+    - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+  - The Legal Aid Act 1988 (c. 34)
+    - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+- SCHEDULE 13 Consequential Amendments
+  - The Wills Act 1837 (c. 26)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - The Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - The Education Act 1944 (c. 31)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - The National Assistance Act 1948 (c. 29)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - The Mines and Quarries Act 1954 (c. 70)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - The Administration of Justice Act 1960 (c. 65)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - The Factories Act 1961 (c. 34)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - The Criminal Justice Act 1967 (c. 80)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - The Health Services and Public Health Act 1968 (c. 46)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+  - The Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+  - The Civil Evidence Act 1968 (c. 64)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+  - The Administration of Justice Act 1970 (c. 31)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+  - The Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+  - The Chronically Sick and Disabled Persons Act 1970 (c. 44)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+  - The Courts Act 1971 (c. 23)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+  - The Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+  - The Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+  - The Local Government Act 1972 (c. 70)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+  - The Employment of Children Act 1973 (c. 24)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+  - The Domicile and Matrimonial Proceedings Act 1973 (c. 45)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+  - The Powers of Criminal Courts Act 1973 (c. 62)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+  - The Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+  - The Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+  - The Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+  - The Senior Courts Act 1981 (c. 54)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+  - The Armed Forces Act 1981 (c. 55)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+  - The Civil Jurisdiction and Judgments Act 1982 (c. 27)
+    - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+  - The Mental Health Act 1983 (c. 20)
+    - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+  - The Registered Homes Act 1984 (c. 23)
+    - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+  - The Mental Health (Scotland) Act 1984 (c. 36)
+    - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+  - The Matrimonial and Family Proceedings Act 1984 (c. 42)
+    - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+  - The Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+    - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+    - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+  - The Surrogacy Arrangements Act 1985 (c. 49)
+    - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+  - The Child Abduction and Custody Act 1985 (c. 60)
+    - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+  - The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+    - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+    - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+    - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+    - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+  - The Family Law Act 1986 (c. 55)
+    - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+    - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+    - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+    - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+    - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+    - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+    - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+    - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+    - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+    - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+  - The Local Government Act 1988 (c. 9)
+    - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+  - Amendments of local Acts
+    - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+    - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+- SCHEDULE 14 Transitionals and Savings
+  - Pending proceedings, etc.
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - CUSTODY ORDERS, ETC.
+  - Cessation of declarations of unfitness, etc.
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - The Family Law Reform Act 1987 (c. 42)
+  - Conversion of orders under section 4
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Orders to which paragraphs 6 to 11 apply
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Parental responsibility of parents
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Persons who are not parents but who have custody or care and control
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Persons who have care and control
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Persons who have access
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Enforcement of certain existing orders
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Discharge of existing orders
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - GUARDIANS
+  - Existing guardians to be guardians under this Act
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Appointment of guardian not yet in effect
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Persons deemed to be appointed as guardians under existing wills
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - CHILDREN IN CARE
+  - Children in compulsory care
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Modifications
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Cessation of wardship where ward in care
+    - [Sch. 14 para. 16A](schedule/14/paragraph/16A.md)
+  - Children placed with parent etc. while in compulsory care
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Orders for access to children in compulsory care
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 18A](schedule/14/paragraph/18A.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Children in voluntary care
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+  - Boarded out children
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+  - Children in care to qualify for advice and assistance
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+  - Emigration of children in care
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+  - Contributions for maintenance of children in care
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+  - SUPERVISION ORDERS
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+  - Other supervision orders
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+  - Place of safety orders
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+  - Recovery of children
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+  - Voluntary organisations: Parental rights resolutions
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+  - Foster children
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+  - Nurseries and child minding
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+  - Children accommodated in certain establishments
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+  - Criminal care orders
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+  - MISCELLANEOUS
+  - Consents under the Marriage Act 1949 (c. 76)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+  - The Children Act 1975 (c. 72)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+  - The Child Care Act 1980 (c. 5)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+  - Legal aid
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+- SCHEDULE 15 Repeals
