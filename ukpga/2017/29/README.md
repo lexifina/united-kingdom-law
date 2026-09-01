@@ -1,0 +1,564 @@
+# Higher Education and Research Act 2017
+
+2017 c. 29. Enacted 2017-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
+
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
+
+## Contents
+
+- PART A1 Protection of Freedom of Speech
+  - Duties of registered higher education providers
+    - [s. A1 Duty to take steps to secure freedom of speech](section/A1.md)
+    - [s. A2 Code of practice](section/A2.md)
+    - [s. A3 Duty to promote the importance of freedom of speech and academic freedom](section/A3.md)
+  - Duties of constituent institutions
+    - [s. A4 Duties of constituent institutions](section/A4.md)
+  - Duties of students’ unions
+    - [s. A5 Duty to take steps to secure freedom of speech](section/A5.md)
+    - [s. A6 Code of practice](section/A6.md)
+- Part 1 The Office for Students
+  - Establishment of the Office for Students
+    - [s. 1 The Office for Students](section/1.md)
+    - [s. 2 General duties](section/2.md)
+  - The register of English higher education providers
+    - [s. 3 The register](section/3.md)
+    - [s. 4 Registration procedure](section/4.md)
+  - Registration conditions
+    - [s. 5 The initial and general ongoing registration conditions](section/5.md)
+    - [s. 6 The specific ongoing registration conditions](section/6.md)
+    - [s. 7 Proportionate conditions](section/7.md)
+  - Mandatory registration conditions
+    - [s. 8 Mandatory ongoing registration conditions for all providers](section/8.md)
+    - [s. 9 Mandatory transparency condition for certain providers](section/9.md)
+    - [s. 10 Mandatory fee limit condition for certain providers](section/10.md)
+    - [s. 11 Duty to publish a list regarding the fee limit condition](section/11.md)
+    - [s. 12 Mandatory access and participation plan condition for certain institutions](section/12.md)
+  - Other registration conditions
+    - [s. 13 Other initial and ongoing registration conditions](section/13.md)
+    - [s. 14 Public interest governance condition](section/14.md)
+  - Enforcement of ongoing registration conditions
+    - [s. 15 Power to impose monetary penalties](section/15.md)
+    - [s. 16 Suspension of registration](section/16.md)
+    - [s. 17 Suspension: procedure](section/17.md)
+    - [s. 18 De-registration by the OfS](section/18.md)
+    - [s. 19 De-registration by the OfS: procedure](section/19.md)
+    - [s. 20 De-registration: appeals](section/20.md)
+    - [s. 21 Refusal to renew an access and participation plan](section/21.md)
+  - Voluntary de-registration
+    - [s. 22 Voluntary de-registration](section/22.md)
+  - Quality and standards
+    - [s. 23 Assessing the quality of, and the standards applied to, higher education](section/23.md)
+    - [s. 24 Quality Assessment Committee](section/24.md)
+    - [s. 25 Rating the quality of, and the standards applied to, higher education](section/25.md)
+    - [s. 26 Report on operation of section 25 schemes](section/26.md)
+    - [s. 27 Performance of assessment functions by a designated body](section/27.md)
+    - [s. 28 Power of designated body to charge fees](section/28.md)
+  - Access and participation
+    - [s. 29 Power to approve an access and participation plan](section/29.md)
+    - [s. 30 Duration of a plan](section/30.md)
+    - [s. 31 Content of a plan: fees](section/31.md)
+    - [s. 32 Content of a plan: equality of opportunity](section/32.md)
+    - [s. 33 Variation of a plan](section/33.md)
+    - [s. 34 Review of decisions on approval or variation](section/34.md)
+    - [s. 35 Advice on good practice](section/35.md)
+    - [s. 36 Duty to protect institutional autonomy](section/36.md)
+    - [s. 37 Power of Secretary of State to require a report](section/37.md)
+  - Student transfers
+    - [s. 38 Duty to monitor etc the provision of arrangements for student transfers](section/38.md)
+  - Powers to give financial support
+    - [s. 39 Financial support for registered higher education providers](section/39.md)
+    - [s. 40 Financial support for certain institutions](section/40.md)
+    - [s. 41 Financial support: terms and conditions](section/41.md)
+  - Powers to grant degrees etc
+    - [s. 42 Authorisation to grant degrees etc](section/42.md)
+    - [s. 43 Supplementary powers with authorisation](section/43.md)
+    - [s. 44 Variation or revocation of section 42 authorisation](section/44.md)
+    - [s. 45 Variation or revocation of other authorisations to grant degrees etc](section/45.md)
+    - [s. 46 Grant, variation or revocation of authorisation: advice on quality etc](section/46.md)
+    - [s. 47 Grant of authorisation: notification of new providers](section/47.md)
+    - [s. 48 Variation or revocation of authorisation: procedure](section/48.md)
+    - [s. 49 Appeals against variation or revocation of authorisation](section/49.md)
+    - [s. 50 Validation by authorised providers](section/50.md)
+    - [s. 51 Validation by the OfS](section/51.md)
+    - [s. 52 Sections 42 to 49: consequential amendments](section/52.md)
+    - [s. 53 Unrecognised degrees](section/53.md)
+    - [s. 54 Unrecognised degrees: supplementary](section/54.md)
+    - [s. 55 Saving for right to grant degrees under the Ecclesiastical Licences Act 1533](section/55.md)
+  - Powers in relation to “university” title
+    - [s. 56 Use of “university” in title of institution](section/56.md)
+    - [s. 57 Unauthorised use of “university” in title of institution etc](section/57.md)
+    - [s. 58 Revocation of authorisation to use “university” title](section/58.md)
+    - [s. 59 Revocation of authorisation: procedure](section/59.md)
+    - [s. 60 Appeals against revocation of authorisation](section/60.md)
+  - Powers of entry and search
+    - [s. 61 Entering and searching premises with a warrant](section/61.md)
+  - Information powers
+    - [s. 62 Power to require information from unregistered providers](section/62.md)
+    - [s. 63 Cooperation and information sharing by the OfS](section/63.md)
+  - Information duties
+    - [s. 64 Duty to compile and make available higher education information](section/64.md)
+    - [s. 65 Duty to publish higher education information](section/65.md)
+    - [s. 66 Designated body](section/66.md)
+    - [s. 67 Power of designated body to charge fees](section/67.md)
+  - Publication
+    - [s. 67A Power for the OfS to publish notices, decisions and reports](section/67A.md)
+    - [s. 67B Publication of decision to conduct or terminate investigation](section/67B.md)
+  - Defamation
+    - [s. 67C Protection from defamation claims](section/67C.md)
+  - Financial sustainability
+    - [s. 68 Duty to monitor and report on financial sustainability](section/68.md)
+  - Efficiency studies etc
+    - [s. 69 Studies for improving economy, efficiency and effectiveness](section/69.md)
+  - Freedom of speech
+    - [s. 69A General functions relating to freedom of speech and academic freedom](section/69A.md)
+    - [s. 69B Functions of the OfS in relation to students’ unions](section/69B.md)
+    - [s. 69C Free speech complaints scheme](section/69C.md)
+    - [s. 69D Overseas funding: registered higher education providers](section/69D.md)
+    - [s. 69E Overseas funding: students’ unions](section/69E.md)
+  - Funding of the OfS
+    - [s. 70 Registration fees](section/70.md)
+    - [s. 71 Other fees](section/71.md)
+    - [s. 72 Retention of fee related income](section/72.md)
+    - [s. 73 Costs recovery](section/73.md)
+    - [s. 74 Grants from the Secretary of State](section/74.md)
+  - Regulatory framework
+    - [s. 75 Regulatory framework](section/75.md)
+  - Supplementary functions
+    - [s. 76 Secretary of State’s power to confer supplementary functions](section/76.md)
+  - Directions
+    - [s. 77 Secretary of State’s power to give directions](section/77.md)
+  - Powers of Secretary of State to obtain information and advice
+    - [s. 78 Power to require information and advice from the OfS](section/78.md)
+    - [s. 79 Power to require application-to-acceptance information](section/79.md)
+    - [s. 80 Use of application-to-acceptance information for research purposes](section/80.md)
+  - HEFCE and the DFA
+    - [s. 81 Higher Education Funding Council for England](section/81.md)
+    - [s. 82 The Director of Fair Access to Higher Education](section/82.md)
+  - Interpretation
+    - [s. 83 Meaning of “English higher education provider” etc](section/83.md)
+    - [s. 84 Designation of other providers of higher education](section/84.md)
+    - [s. 85 Other definitions](section/85.md)
+- Part 2 Other education measures
+  - Financial support for students
+    - [s. 86 Power to make alternative payments](section/86.md)
+    - [s. 87 Section 86: consequential amendments](section/87.md)
+    - [s. 88 Other amendments relating to financial support](section/88.md)
+  - Student complaints scheme
+    - [s. 89 Qualifying institutions for purposes of student complaints scheme](section/89.md)
+  - Deregulation of higher education corporations
+    - [s. 90 Higher education corporations in England](section/90.md)
+- Part 3 Research
+  - Establishment of United Kingdom Research and Innovation
+    - [s. 91 United Kingdom Research and Innovation](section/91.md)
+    - [s. 92 The Councils of UKRI](section/92.md)
+  - Research and innovation functions and role of the Councils
+    - [s. 93 UK research and innovation functions](section/93.md)
+    - [s. 94 Financial support: supplementary provision](section/94.md)
+    - [s. 95 Exercise of functions by science and humanities Councils](section/95.md)
+    - [s. 96 Exercise of functions by Innovate UK](section/96.md)
+    - [s. 97 Exercise of functions by Research England](section/97.md)
+    - [s. 98 Exercise of functions by the Councils: supplementary](section/98.md)
+  - Strategies and strategic delivery plans
+    - [s. 99 UKRI’s research and innovation strategy](section/99.md)
+    - [s. 100 Councils’ strategic delivery plans](section/100.md)
+  - Funding and directions
+    - [s. 101 Grants to UKRI from the Secretary of State](section/101.md)
+    - [s. 102 Secretary of State’s power to give directions to UKRI](section/102.md)
+    - [s. 103 Haldane principle, balanced funding and advice from UKRI](section/103.md)
+  - General functions
+    - [s. 104 General duties](section/104.md)
+    - [s. 105 Power to require information and advice from UKRI](section/105.md)
+    - [s. 106 Studies for improving economy, efficiency and effectiveness](section/106.md)
+    - [s. 107 Provision of research services](section/107.md)
+    - [s. 108 Representing the United Kingdom](section/108.md)
+  - Supplementary
+    - [s. 109 Predecessor bodies and preservation of symbolic property](section/109.md)
+    - [s. 110 Amendments to powers to support research](section/110.md)
+  - Interpretation
+    - [s. 111 Definitions](section/111.md)
+- Part 4 General
+  - [s. 112 Cooperation and information sharing between the OfS and UKRI](section/112.md)
+  - [s. 113 Joint working](section/113.md)
+  - [s. 114 Advice to Northern Ireland departments](section/114.md)
+  - [s. 115 Transfer schemes](section/115.md)
+  - [s. 116 Power to make consequential provision etc](section/116.md)
+  - [s. 117 Transitional, transitory or saving provision](section/117.md)
+  - [s. 118 Pre-commencement consultation](section/118.md)
+  - [s. 119 Regulations](section/119.md)
+  - [s. 120 Directions](section/120.md)
+  - [s. 121 General interpretation](section/121.md)
+  - [s. 122 Minor and consequential amendments](section/122.md)
+  - [s. 123 Extent](section/123.md)
+  - [s. 124 Commencement](section/124.md)
+  - [s. 125 Short title](section/125.md)
+- SCHEDULE 1 The Office for Students
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Director for Fair Access and Participation
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Director for Freedom of Speech and Academic Freedom
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+  - Terms of appointment and tenure of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration etc of members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Staffing of the OfS
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Procedure
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Delegation of functions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Accounts and audit
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Annual report
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Seal and evidence
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Supplementary powers
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Public records
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Investigation by the Parliamentary Commissioner
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - House of Commons disqualification
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Northern Ireland Assembly disqualification
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Freedom of information
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Public sector equality duty
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 The fee limit
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The credit-based method: basic concepts
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - The credit-based method: attachment of credits
+    - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+  - The credit-based method: maxima and defaults
+    - [Sch. 2 para. 1C](schedule/2/paragraph/1C.md)
+  - The credit-based method: fee limit where credits attached
+    - [Sch. 2 para. 1D](schedule/2/paragraph/1D.md)
+  - The credit-based method: fee limit where credits not attached
+    - [Sch. 2 para. 1E](schedule/2/paragraph/1E.md)
+  - The credit-based method: adjustments for transfer cases
+    - [Sch. 2 para. 1F](schedule/2/paragraph/1F.md)
+  - The credit-based method: supplementary
+    - [Sch. 2 para. 1G](schedule/2/paragraph/1G.md)
+  - The fixed method
+    - [Sch. 2 para. 1H](schedule/2/paragraph/1H.md)
+  - Determination of the per-credit and fixed limits
+    - [Sch. 2 para. 1I](schedule/2/paragraph/1I.md)
+  - Limits where the provider has an access and participation plan
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Limits where the provider has no access and participation plan
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Accelerated courses
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Procedure
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Monetary penalties: procedure, appeals and recovery etc
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Procedure
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appeals
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Interest and recovery
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Retention of sums received
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Assessing higher education: designated body
+  - Part 1 Designation
+    - Consultation prior to recommendation
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Recommendation
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Designation
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Bodies suitable to perform assessment functions
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Removal of designation
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 2 Oversight by the OfS
+    - Application
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Oversight arrangements
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Annual report by the designated body
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Triennial report by the OfS
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Power of the OfS to give directions
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Duty of the OfS to inform the Secretary of State about significant concerns
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Part 3 Interpretation
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Powers of entry and search etc
+  - Power to issue search warrant
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Application for search warrant by an authorised person
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Search warrant
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Powers conferred by search warrant
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Entering and searching premises
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Inspecting, copying, seizing and retaining items
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Offence
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Self-incrimination
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Interpretation
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 English higher education information: designated body
+  - Part 1 Designation
+    - Consultation prior to recommendation
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Recommendation
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Designation
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Bodies suitable to be designated under this Schedule
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Removal of designation
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Part 2 Oversight by the OfS
+    - Application
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Oversight arrangements
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Annual report by the designated body
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Triennial report by the OfS
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Duty of the OfS to inform the Secretary of State about significant concerns
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Part 3 Interpretation
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 6A Free speech complaints scheme
+  - [Sch. 6A para. 1 Introductory](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2 Introductory](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3 Introductory](schedule/6A/paragraph/3.md)
+  - [Sch. 6A para. 4 Introductory](schedule/6A/paragraph/4.md)
+  - [Sch. 6A para. 5 Scope of scheme](schedule/6A/paragraph/5.md)
+  - [Sch. 6A para. 6 Decisions and recommendations](schedule/6A/paragraph/6.md)
+  - [Sch. 6A para. 7 Decisions and recommendations](schedule/6A/paragraph/7.md)
+  - [Sch. 6A para. 8 Decisions and recommendations](schedule/6A/paragraph/8.md)
+  - [Sch. 6A para. 9 Fees](schedule/6A/paragraph/9.md)
+  - [Sch. 6A para. 10 Publication](schedule/6A/paragraph/10.md)
+  - [Sch. 6A para. 11 Duty to comply](schedule/6A/paragraph/11.md)
+  - [Sch. 6A para. 12 Review](schedule/6A/paragraph/12.md)
+  - [Sch. 6A para. 13 Defamation](schedule/6A/paragraph/13.md)
+- SCHEDULE 7 Costs recovery: procedure, appeals and recovery etc
+  - Introduction
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Procedure
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Appeals
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Interest and recovery
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Retention of sums received
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Higher education corporations in England
+  - Education Reform Act 1988
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Further and Higher Education Act 1992
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+- SCHEDULE 9 United Kingdom Research and Innovation
+  - Status
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Membership of UKRI
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Membership of the Councils
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Terms of appointment and tenure
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Remuneration etc
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Staffing of UKRI
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Executive Committee
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Other committees and sub-committees
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Procedure
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Delegation of functions by UKRI
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Accounts and audit
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Annual report
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Seal and evidence
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Supplementary powers
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Public records
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - Investigation by the Parliamentary Commissioner
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - House of Commons disqualification
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - Northern Ireland Assembly disqualification
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Freedom of information
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - Public sector equality duty
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+- SCHEDULE 10 Transfer schemes
+  - Transfer schemes
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Supplementary
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Interpretation
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+- SCHEDULE 11 Minor and consequential amendments relating to Part 1
+  - Public Records Act 1958
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Superannuation Act 1972
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Education (No. 2) Act 1986
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Education Reform Act 1988
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Further and Higher Education Act 1992
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+  - Education Act 1994
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - Education Act 1996
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - Freedom of Information Act 2000
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+  - Higher Education Act 2004
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+  - Education Act 2005
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+  - Equality Act 2010
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+  - Education Act 2011
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+  - Charities Act 2011
+    - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+  - Counter-Terrorism and Security Act 2015
+    - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+- SCHEDULE 12 Minor and consequential amendments relating to Part 3
+  - Geological Survey Act 1845
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Mining Industry Act 1926
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Public Records Act 1958
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Science and Technology Act 1965
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Parliamentary Commissioner Act 1967
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Agriculture Act 1967
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Conservation of Seals Act 1970
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Chronically Sick and Disabled Persons Act 1970
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Mineral Exploration and Investment Grants Act 1972
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Supply Powers Act 1975
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Patents Act 1977
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Further Education Act 1985
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - Water Resources Act 1991
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - Scotland Act 1998
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - Northern Ireland Act 1998
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - Freedom of Information Act 2000
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - Higher Education Act 2004
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - Natural Environment and Rural Communities Act 2006
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+  - Government of Wales Act 2006
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+  - Marine (Scotland) Act 2010 (asp 5)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+  - Welsh Language (Wales) Measure 2011 (nawm 1)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+  - Antarctic Act 2013
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+  - Public Service Pensions Act 2013
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+  - Psychoactive Substances Act 2016
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
