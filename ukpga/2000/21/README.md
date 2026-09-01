@@ -1,0 +1,598 @@
+# Learning and Skills Act 2000
+
+2000 c. 21. Enacted 2000-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
+
+Source: https://www.legislation.gov.uk/ukpga/2000/21/2026-09-01
+
+## Contents
+
+- Part I Learning and Skills Council for England
+  - The Council
+    - [s. 1 The Council.](section/1.md)
+  - Main duties
+    - [s. 2 Education and training for persons aged 16 to 19.](section/2.md)
+    - [s. 3 Education and training for persons over 19.](section/3.md)
+    - [s. 4 Encouragement of education and training.](section/4.md)
+    - [s. 4A Learning aims for persons over 19: provision of facilities](section/4A.md)
+    - [s. 4B Learning aims for persons over 19: payment of tuition fees](section/4B.md)
+    - [s. 4C Sections 4A and 4B: supplementary](section/4C.md)
+  - Main powers
+    - [s. 5 Provision of financial resources.](section/5.md)
+    - [s. 6 Financial resources: conditions.](section/6.md)
+    - [s. 7 Funding of school sixth-forms.](section/7.md)
+    - [s. 8 Links between education and training and employment.](section/8.md)
+    - [s. 9 Assessments and means tests.](section/9.md)
+    - [s. 10 Qualifying accounts and arrangements.](section/10.md)
+    - [s. 11 Further education: governors.](section/11.md)
+  - Other functions
+    - [s. 11A Support schemes relating to education and training for persons aged 10 to 15](section/11A.md)
+    - [s. 12 Research and information.](section/12.md)
+    - [s. 13 Persons with learning difficulties.](section/13.md)
+    - [s. 14 Equality of opportunity.](section/14.md)
+    - [s. 14A Consultation](section/14A.md)
+    - [s. 15 Plans.](section/15.md)
+    - [s. 16 Strategy.](section/16.md)
+    - [s. 17 Use of information by Council.](section/17.md)
+    - [s. 18 Supplementary functions.](section/18.md)
+  - Regional councils
+    - [s. 18A Regional councils](section/18A.md)
+    - [s. 18B Functions of regional councils](section/18B.md)
+    - [s. 18C Guidance to regional councils](section/18C.md)
+  - Local councils
+    - [s. 19 Local councils.](section/19.md)
+    - [s. 20 Functions of local councils.](section/20.md)
+    - [s. 21 Guidance to local councils.](section/21.md)
+    - [s. 22 Plans of local councils.](section/22.md)
+    - [s. 23 Duty of local education authorities.](section/23.md)
+    - [s. 24 Guidance and plans: timing.](section/24.md)
+  - Miscellaneous
+    - [s. 24A Strategies for functions of Council](section/24A.md)
+    - [s. 24B Strategy for functions of Council: Greater London](section/24B.md)
+    - [s. 24C Duty of Council](section/24C.md)
+    - [s. 25 Directions.](section/25.md)
+    - [s. 26 Committees.](section/26.md)
+    - [s. 27 Grants to Council.](section/27.md)
+    - [s. 28 Annual report.](section/28.md)
+    - [s. 29 Council’s financial year.](section/29.md)
+- Part II Further Education and Sixth Form Education: Wales
+  - ...
+    - [s. 30 The Council.](section/30.md)
+  - Main duties
+    - [s. 31 Education and training for persons aged 16 to 19.](section/31.md)
+    - [s. 32 Education and training for persons over 19.](section/32.md)
+    - [s. 33 Encouragement of education and training.](section/33.md)
+  - The local curricula
+    - [s. 33A Formation of local curricula for students aged 16 to 18](section/33A.md)
+    - [s. 33B Local curricula: Welsh language](section/33B.md)
+    - [s. 33C Areas with more than one local curriculum](section/33C.md)
+    - [s. 33D Determination of a pupil’s “relevant school or institution”](section/33D.md)
+    - [s. 33E Pupils’ choices of local curriculum courses](section/33E.md)
+    - [s. 33F Students’ local curriculum entitlements](section/33F.md)
+    - [s. 33G Head teacher’s or principal’s decision as to entitlement](section/33G.md)
+    - [s. 33H Delivery of local curriculum entitlements](section/33H.md)
+    - [s. 33I Head teacher’s or principal’s decision to remove entitlement](section/33I.md)
+    - [s. 33J Planning the local curriculum](section/33J.md)
+    - [s. 33K Delivery of local curriculum entitlements: joint-working](section/33K.md)
+    - [s. 33L Joint-working: guidance and directions](section/33L.md)
+    - [s. 33M Power to amend learning domains](section/33M.md)
+    - [s. 33N The local curriculum: interpretation](section/33N.md)
+    - [s. 33O Local curriculum: directions](section/33O.md)
+    - [s. 33P Application of local curriculum provisions to students who are registered pupils of special schools or who have additional learning needs](section/33P.md)
+    - [s. 33Q Application of local curriculum provisions to institutions within the higher education sector](section/33Q.md)
+  - Main powers
+    - [s. 34 Provision of financial resources.](section/34.md)
+    - [s. 35 Financial resources: conditions.](section/35.md)
+    - [s. 36 Funding of school sixth-forms.](section/36.md)
+    - [s. 37 Assessments and means tests.](section/37.md)
+    - [s. 38 Qualifying accounts and arrangements.](section/38.md)
+    - [s. 39 Further education: governors.](section/39.md)
+  - Other functions
+    - [s. 40 Research and information.](section/40.md)
+    - [s. 41 Persons with additional learning needs.](section/41.md)
+    - [s. 42 Equality of opportunity.](section/42.md)
+    - [s. 43 Plans.](section/43.md)
+    - [s. 44 Strategy.](section/44.md)
+    - [s. 45 Use of information by Council.](section/45.md)
+    - [s. 46 Supplementary functions.](section/46.md)
+  - Miscellaneous
+    - [s. 47 Directions.](section/47.md)
+    - [s. 48 Committees.](section/48.md)
+    - [s. 49 Grants to Council.](section/49.md)
+    - [s. 50 Annual report.](section/50.md)
+    - [s. 51 Council’s financial year.](section/51.md)
+- Part III Inspections in England
+  - Chapter 1 The Adult Learning Inspectorate
+    - The Inspectorate
+      - [s. 52 The Inspectorate.](section/52.md)
+      - [s. 53 The Inspectorate’s remit.](section/53.md)
+    - Functions of the Inspectorate and the Chief Inspector
+      - [s. 54 Functions of the Inspectorate and Chief Inspector.](section/54.md)
+      - [s. 55 Inspections under section 54.](section/55.md)
+      - [s. 56 General powers.](section/56.md)
+      - [s. 57 Right of entry and offences.](section/57.md)
+      - [s. 58 Action plans.](section/58.md)
+      - [s. 59 Annual report.](section/59.md)
+  - Chapter II Her Majesty’s Chief Inspector of Schools in England
+    - The Chief Inspector’s extended remit
+      - [s. 60 The extended remit.](section/60.md)
+    - Additional functions
+      - [s. 61 Additional functions of the Chief Inspector.](section/61.md)
+      - [s. 62 Inspection of further education institutions.](section/62.md)
+      - [s. 63 Right of entry and offences.](section/63.md)
+      - [s. 64 Action plans.](section/64.md)
+      - [s. 65 Area inspections.](section/65.md)
+      - [s. 66 Reports of area inspections.](section/66.md)
+      - [s. 67 Action plans following section 65 inspections.](section/67.md)
+      - [s. 68 Further powers of the Chief Inspector.](section/68.md)
+  - Chapter III The Common Inspection Framework and Joint Inspections
+    - The Common Inspection Framework
+      - [s. 69 The framework.](section/69.md)
+      - [s. 70 Preparation of the framework.](section/70.md)
+    - Joint inspections
+      - [s. 71 Joint inspections.](section/71.md)
+  - Chapter IV General
+    - [s. 72 Defamation.](section/72.md)
+- Part IV Inspections in Wales
+  - New titles
+    - [s. 73 Inspectors of Education and Training in Wales.](section/73.md)
+    - [s. 74 Some defined terms.](section/74.md)
+  - Extended remit
+    - [s. 75 The extended remit of the Chief Inspector for Wales.](section/75.md)
+  - Additional functions
+    - [s. 76 Additional functions of the Chief Inspector for Wales.](section/76.md)
+    - [s. 77 Inspections.](section/77.md)
+    - [s. 78 General powers.](section/78.md)
+    - [s. 79 Right of entry and offences.](section/79.md)
+    - [s. 80 Action plans.](section/80.md)
+    - [s. 81 Inspections of careers services etc.](section/81.md)
+    - [s. 82 Inspections of education and training provided under 1973 Act arrangements.](section/82.md)
+    - [s. 83 Area inspections.](section/83.md)
+    - [s. 84 Action plans following section 83 inspections.](section/84.md)
+    - [s. 85 Studies across Wales or of provision made outside Wales.](section/85.md)
+    - [s. 86 Annual reports.](section/86.md)
+    - [s. 87 Annual plan of the Chief Inspector for Wales.](section/87.md)
+    - [s. 88 Defamation.](section/88.md)
+- Part V Miscellaneous and general
+  - Further Education Funding Councils
+    - [s. 89 Dissolution of FEFC for England.](section/89.md)
+    - [s. 90 Preliminary transfers: FEFC for England.](section/90.md)
+    - [s. 91 Dissolution of FEFC for Wales.](section/91.md)
+  - Other transfers
+    - [s. 92 Transfers: England.](section/92.md)
+    - [s. 93 Transfers: Wales.](section/93.md)
+  - Transfers: further provision
+    - [s. 94 Stamp duty.](section/94.md)
+    - [s. 94A Stamp duty land tax](section/94A.md)
+    - [s. 95 Contracts of employment.](section/95.md)
+  - External qualifications: England
+    - [s. 96 Persons under 19.](section/96.md)
+    - [s. 97 Persons over 19.](section/97.md)
+    - [s. 98 Approved qualifications](section/98.md)
+    - [s. 99 Approved qualifications: Wales.](section/99.md)
+    - [s. 100 Authorised bodies.](section/100.md)
+    - [s. 101 Enforcement](section/101.md)
+    - [s. 102 Enforcement: Wales.](section/102.md)
+    - [s. 103 Amendments relating to external qualifications.](section/103.md)
+  - Qualifying accounts and arrangements
+    - [s. 104 Qualifying accounts.](section/104.md)
+    - [s. 105 Qualifying arrangements.](section/105.md)
+    - [s. 106 Qualifying arrangements: Northern Ireland.](section/106.md)
+    - [s. 107 Qualifying arrangements: further provision.](section/107.md)
+    - [s. 108 Grants.](section/108.md)
+    - [s. 109 Grants: Northern Ireland.](section/109.md)
+  - Sixth-form education
+    - [s. 110 Secondary education.](section/110.md)
+    - [s. 111 Further education corporations.](section/111.md)
+    - [s. 112 Further education institutions: designation.](section/112.md)
+    - [s. 113 Sixth forms requiring significant improvement: Wales](section/113.md)
+    - [s. 113A Restructuring of sixth-form education](section/113A.md)
+  - Support for 13 to 19 year olds: England
+    - [s. 114 Provision of services.](section/114.md)
+    - [s. 115 Consultation and coordination.](section/115.md)
+    - [s. 116 Local education authorities.](section/116.md)
+    - [s. 117 Educational institutions: information and access.](section/117.md)
+    - [s. 118 Inspection.](section/118.md)
+    - [s. 119 Information: supply by Secretary of State.](section/119.md)
+    - [s. 120 Information: supply by public bodies.](section/120.md)
+    - [s. 121 Supplementary.](section/121.md)
+    - [s. 122 Careers services.](section/122.md)
+  - Support for 11 to 25 year olds: Wales
+    - [s. 123 Provision of services.](section/123.md)
+    - [s. 124 Local authority: duty and powers.](section/124.md)
+    - [s. 125 Consultation and coordination.](section/125.md)
+    - [s. 126 Educational institutions: information and access.](section/126.md)
+    - [s. 127 Inspection.](section/127.md)
+    - [s. 128 Conduct and effect of inspections.](section/128.md)
+    - [s. 129 Supplementary.](section/129.md)
+  - City colleges and academies
+    - [s. 130 City academies.](section/130.md)
+    - [s. 131 City academies: land.](section/131.md)
+    - [s. 132 City academies: financial provisions.](section/132.md)
+    - [s. 133 City colleges and academies: special educational needs.](section/133.md)
+  - Pensions
+    - [s. 134 Pensions.](section/134.md)
+    - [s. 135 Pensions: interpretation.](section/135.md)
+    - [s. 136 Pensions: delegation.](section/136.md)
+  - Other miscellaneous provisions
+    - [s. 137 Recreation and social and physical training.](section/137.md)
+    - [s. 138 Wales: provision of information by public bodies.](section/138.md)
+    - [s. 139 Induction periods for teachers.](section/139.md)
+    - [s. 139A Assessments relating to learning difficulties: England](section/139A.md)
+    - [s. 139B Assessments under section 139A: interpretation](section/139B.md)
+    - [s. 139C Assessments under section 139A: persons educated at home](section/139C.md)
+    - [s. 140 Assessments relating to learning difficulties: Wales](section/140.md)
+    - [s. 141 Training programmes: cessation of funding.](section/141.md)
+    - [s. 142 Further and higher education corporations: secondary education.](section/142.md)
+    - [s. 143 Further education sector: designated institutions.](section/143.md)
+    - [s. 144 Designated institutions: disposal of land, &c.](section/144.md)
+    - [s. 145 Further education colleges: governors’ liability.](section/145.md)
+    - [s. 146 Financial support for students.](section/146.md)
+    - [s. 147 Financial support for students: Northern Ireland.](section/147.md)
+    - [s. 148 Sex education.](section/148.md)
+    - [s. 149 Amendments.](section/149.md)
+  - General
+    - [s. 150 Wales.](section/150.md)
+    - [s. 151 Transitional provisions.](section/151.md)
+    - [s. 152 Orders and regulations.](section/152.md)
+    - [s. 153 Repeals.](section/153.md)
+    - [s. 154 Commencement.](section/154.md)
+    - [s. 155 Extent.](section/155.md)
+    - [s. 156 Citation.](section/156.md)
+- SCHEDULE 1 Learning and Skills Council for England
+  - Chief executive
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Tenure of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Salaries, pensions, Et ceteralaetc
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Staff
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Delegation of functions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Members’ interests
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Seal and proof of instruments
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Accounts
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Council’s status
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 1A Learning aims for persons aged 19 and over
+  - Part 1
+    - Qualifications to which this Schedule applies
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Part 2
+    - Power to specify
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - Level 1 literacy
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - Entry level 3 numeracy
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Level 2
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Level 3
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - Advice and information
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Power to amend
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+- SCHEDULE 2 Local councils
+  - Director
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Tenure of members
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Salaries, allowances
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Staff
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Delegation of functions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Proceedings
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Committees (England)
+  - ...
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 National Council for Education and Training for Wales
+  - Chief executive
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Tenure of members
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Salaries, pensions, Et ceteralaetc
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Staff
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Delegation of functions
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Members’ interests
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Proceedings
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Seal and proof of instruments
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Accounts
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Council’s status
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Committees (Wales)
+  - General
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Regional committees
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Other committees
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Tenure of members
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Allowances
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Delegation of functions
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Proceedings
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 The Adult Learning Inspectorate
+  - Tenure of members
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Salaries, pensions, Et ceteralaetc
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Staff
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Committees
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Supplementary powers
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Delegation of functions
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Members’ interests
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Proceedings
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Seal and proof of instruments
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Accounts
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Financial year of the Inspectorate
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Inspectorate’s status
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - House of Commons disqualification
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+- SCHEDULE 7 Sixth forms requiring significant improvement: Wales
+  - Part I Power to publish proposals
+    - Secondary schools
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Institutions for 16-19 year olds
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Part II Publication of proposals
+    - Closure of sixth form: England
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Closure of sixth form: Wales
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Closure of institution for 16-19 year olds: England
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Closure of institution for 16-19 year olds: Wales
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Schools maintained by local authority outside its area
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - Part III Implementation of proposals
+    - England
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - Wales
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - Schools maintained by local authority outside its area
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+- SCHEDULE 7A Implementation of proposals for restructuring sixth-form education
+  - [Sch. 7A para. 1 Introductory](schedule/7A/paragraph/1.md)
+  - [Sch. 7A para. 2 Proposals to establish a school](schedule/7A/paragraph/2.md)
+  - [Sch. 7A para. 3 Proposals to make a prescribed alteration](schedule/7A/paragraph/3.md)
+  - [Sch. 7A para. 4 Proposals to discontinue a school](schedule/7A/paragraph/4.md)
+  - [Sch. 7A para. 5 Supplementary](schedule/7A/paragraph/5.md)
+  - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+  - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+- SCHEDULE 8 City academies: land
+- SCHEDULE 9 Amendments
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Public Records Act 1958 (c.51)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Superannuation Act 1972 (c.11)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - .......
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Education (Fees and Awards) Act 1983 (c.40)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Local Government Act 1988 (c.9)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Employment Act 1988 (c.19)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Education Reform Act 1988 (c.40)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - Environmental Protection Act 1990 (c.43)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Further and Higher Education Act 1992 (c.13)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+  - Welsh Language Act 1993 (c.38)
+    - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+  - Value Added Tax Act 1994 (c.23)
+    - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+  - Education Act 1994 (c.30)
+    - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+  - Disability Discrimination Act 1995 (c.50)
+    - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+  - Employment Rights Act 1996 (c.18)
+    - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+  - Education Act 1996 (c.56)
+    - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+    - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+    - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+    - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+    - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+    - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+    - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+    - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+    - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+    - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+    - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+    - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+    - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+    - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+  - School Inspections Act 1996 (c.57)
+    - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+    - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+    - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+    - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+  - Education Act 1997 (c.44)
+    - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+    - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+    - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+    - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+  - Audit Commission Act 1998 (c.18)
+    - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+  - Teaching and Higher Education Act 1998 (c.30)
+    - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+    - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+    - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
+    - [Sch. 9 para. 77](schedule/9/paragraph/77.md)
+  - School Standards and Framework Act 1998 (c.31)
+    - [Sch. 9 para. 78](schedule/9/paragraph/78.md)
+    - [Sch. 9 para. 79](schedule/9/paragraph/79.md)
+    - [Sch. 9 para. 80](schedule/9/paragraph/80.md)
+    - [Sch. 9 para. 81](schedule/9/paragraph/81.md)
+    - [Sch. 9 para. 82](schedule/9/paragraph/82.md)
+    - [Sch. 9 para. 83](schedule/9/paragraph/83.md)
+    - [Sch. 9 para. 84](schedule/9/paragraph/84.md)
+    - [Sch. 9 para. 85](schedule/9/paragraph/85.md)
+    - [Sch. 9 para. 86](schedule/9/paragraph/86.md)
+    - [Sch. 9 para. 87](schedule/9/paragraph/87.md)
+    - [Sch. 9 para. 88](schedule/9/paragraph/88.md)
+    - [Sch. 9 para. 89](schedule/9/paragraph/89.md)
+    - [Sch. 9 para. 90](schedule/9/paragraph/90.md)
+    - [Sch. 9 para. 91](schedule/9/paragraph/91.md)
+  - Government of Wales Act 1998 (c.38)
+    - [Sch. 9 para. 92](schedule/9/paragraph/92.md)
+    - [Sch. 9 para. 93](schedule/9/paragraph/93.md)
+    - [Sch. 9 para. 94](schedule/9/paragraph/94.md)
+- SCHEDULE 10 Transitional provisions
+  - Part I English Councils
+    - Introduction
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Transitional provisions
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Part II WELSH COUNCILS
+  - Part III Adult Learning Inspectorate
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Part IV Student loans
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+- SCHEDULE 11 Repeals
