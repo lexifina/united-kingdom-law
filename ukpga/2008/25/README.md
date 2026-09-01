@@ -1,0 +1,373 @@
+# Education and Skills Act 2008
+
+2008 c. 25. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 57 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
+
+Source: https://www.legislation.gov.uk/ukpga/2008/25/2026-09-01
+
+## Contents
+
+- Part 1 Duty to participate in education or training: England
+  - Chapter 1 Young persons
+    - Duty to participate in education or training
+      - [s. 1 Persons to whom Part 1 applies](section/1.md)
+      - [s. 2 Duty to participate in education or training](section/2.md)
+    - Interpretation
+      - [s. 3 Level 3 qualification](section/3.md)
+      - [s. 4 Appropriate full-time education or training](section/4.md)
+      - [s. 5 Full-time occupation](section/5.md)
+      - [s. 6 Relevant training or education](section/6.md)
+      - [s. 7 Relevant period](section/7.md)
+      - [s. 8 Sufficient relevant training or education](section/8.md)
+      - [s. 9 Assignment of numbers of hours of guided learning to external qualifications](section/9.md)
+  - Chapter 2 local authorities and educational institutions etc
+    - Duty to promote fulfilment of duty imposed by section 2
+      - [s. 10 local authority to promote fulfilment of duty imposed by section 2](section/10.md)
+    - Duty to promote good attendance
+      - [s. 11 Educational institutions: promotion of good attendance](section/11.md)
+    - Duty to identify persons not fulfilling duty imposed by section 2
+      - [s. 12 Duty to make arrangements to identify persons not fulfilling duty imposed by section 2](section/12.md)
+    - Information
+      - [s. 13 Notification of non-compliance with duty imposed by section 2](section/13.md)
+      - [s. 14 Educational institutions: duty to provide information](section/14.md)
+      - [s. 15 Supply of social security information](section/15.md)
+      - [s. 16 Supply of information by public bodies](section/16.md)
+      - [s. 17 Sharing and use of information held for purposes of support services or functions under this Part](section/17.md)
+    - Guidance
+      - [s. 18 Guidance](section/18.md)
+  - Chapter 3 Employers
+    - Interpretation
+      - [s. 19 Contracts to which Chapter applies](section/19.md)
+      - [s. 20 Appropriate arrangements](section/20.md)
+    - Commencement of employment
+      - [s. 21 Appropriate arrangements to be in place before employment begins](section/21.md)
+      - [s. 22 Financial penalty for contravention of section 21](section/22.md)
+      - [s. 23 Withdrawal or variation of penalty notice given under section 22 following notice of objection](section/23.md)
+      - [s. 24 Appeal against penalty notice given under section 22](section/24.md)
+      - [s. 25 Further power to withdraw penalty notice given under section 22](section/25.md)
+      - [s. 26 Withdrawal or variation of penalty notice given under section 22: further provisions](section/26.md)
+    - Employer to enable participation in education or training
+      - [s. 27 Duty to enable participation: initial arrangements](section/27.md)
+      - [s. 28 Duty to enable participation: arrangements subsequently notified](section/28.md)
+      - [s. 29 Sections 27 and 28: extension for person reaching 18](section/29.md)
+      - [s. 30 Contravention of section 27 or 28: enforcement notice](section/30.md)
+      - [s. 31 Financial penalty for non-compliance with enforcement notice given under section 30](section/31.md)
+      - [s. 32 Withdrawal of enforcement notice given under section 30](section/32.md)
+      - [s. 33 Withdrawal or variation of penalty notice given under section 31 following notice of objection](section/33.md)
+      - [s. 34 Appeal against penalty notice given under section 31](section/34.md)
+      - [s. 35 Further power to withdraw penalty notice given under section 31](section/35.md)
+      - [s. 36 Withdrawal or variation of penalty notice given under section 31: further provisions](section/36.md)
+    - Supplementary
+      - [s. 37 Right not to suffer detriment](section/37.md)
+      - [s. 38 Dismissal to be treated as unfair](section/38.md)
+      - [s. 39 Other amendments of Employment Rights Act 1996](section/39.md)
+  - Chapter 4 Parenting contracts and parenting orders
+    - [s. 40 Parenting contracts](section/40.md)
+    - [s. 41 Parenting orders](section/41.md)
+    - [s. 42 Parenting orders: supplemental](section/42.md)
+    - [s. 43 Parenting orders: appeals](section/43.md)
+    - [s. 44 Parenting contracts and parenting orders: further provisions](section/44.md)
+  - Chapter 5 Attendance notices
+    - Initial steps
+      - [s. 45 Failure to fulfil duty under section 2: initial steps](section/45.md)
+    - Attendance notices
+      - [s. 46 Attendance notice](section/46.md)
+      - [s. 47 Attendance notice: description of education or training](section/47.md)
+    - Attendance panel, appeals and variations etc
+      - [s. 48 Attendance panel](section/48.md)
+      - [s. 49 Appeal arrangements](section/49.md)
+      - [s. 50 Variation and revocation of attendance notice](section/50.md)
+    - Failure to comply with attendance notice
+      - [s. 51 Offence of failure to comply with attendance notice](section/51.md)
+      - [s. 52 Restrictions on proceedings for offences under section 51](section/52.md)
+      - [s. 53 Failure to comply with attendance notice: penalty notice](section/53.md)
+      - [s. 54 Penalty notices: appeal arrangements](section/54.md)
+      - [s. 55 Non-participation fines: interpretation](section/55.md)
+      - [s. 56 Enforcement of non-participation fine etc: person reaching 18](section/56.md)
+      - [s. 57 Enforcement of non-participation fine etc: fine imposed on person aged 18 or over](section/57.md)
+      - [s. 58 Enforcement of non-participation fine: further provisions](section/58.md)
+      - [s. 59 Application of sums recovered by virtue of section 56 or 57](section/59.md)
+    - Supplementary
+      - [s. 60 Review of initial operation of Chapter](section/60.md)
+  - Chapter 6 Miscellaneous
+    - [s. 61 Alternative ways of working](section/61.md)
+    - [s. 62 Crown employment](section/62.md)
+    - [s. 63 House of Lords staff](section/63.md)
+    - [s. 64 House of Commons staff](section/64.md)
+    - [s. 65 Financial penalties](section/65.md)
+    - [s. 66 Interpretation of Part](section/66.md)
+    - [s. 67 Corresponding provision for Wales](section/67.md)
+- Part 2 Support for participation in education or training: young adults with learning difficulties and young people in England
+  - Provision of support services
+    - [s. 68 Support services: provision by local authorities](section/68.md)
+    - [s. 69 Directions](section/69.md)
+    - [s. 70 local authorities: supplementary powers](section/70.md)
+    - [s. 71 Provision of support on conditional basis: learning and support agreements](section/71.md)
+    - [s. 72 Educational institutions: duty to provide information](section/72.md)
+    - [s. 73 Educational institutions: access and facilities](section/73.md)
+    - [s. 74 Internet and telephone support services etc](section/74.md)
+    - [s. 75 Inspection](section/75.md)
+    - [s. 76 Supply of social security information relating to young persons](section/76.md)
+    - [s. 76A Supply of information by Secretary of State or person providing services](section/76A.md)
+    - [s. 77 Supply of information by public bodies](section/77.md)
+    - [s. 78 Supplementary](section/78.md)
+    - [s. 79 Existing functions of Secretary of State](section/79.md)
+  - Assessments relating to learning difficulties
+    - [s. 80 Assessments relating to learning difficulties](section/80.md)
+  - Careers education
+    - [s. 81 Careers education: information and advice](section/81.md)
+  - Apprenticeships
+    - [s. 82 Apprenticeships: functions of Learning and Skills Council for England](section/82.md)
+  - School transport etc
+    - [s. 83 Provision of transport etc for persons of sixth form age: duty to consider journey times](section/83.md)
+    - [s. 84 Exercise of travel functions by local authorities in England: duty to have regard to religion or belief of persons of sixth form age](section/84.md)
+  - Co-operation as regards 14-19 education and training
+    - [s. 85 Co-operation as regards provision of 14-19 education and training](section/85.md)
+- Part 3 Assessments of effectiveness of education and training etc
+  - Provision of courses of study
+    - [s. 86 Learning aims for persons aged 19 and over](section/86.md)
+  - ...
+    - [s. 87 Benefit and training information](section/87.md)
+    - [s. 88 Revenue and Customs information](section/88.md)
+    - [s. 89 Use of information](section/89.md)
+    - [s. 90 Wrongful onward disclosure of information](section/90.md)
+    - [s. 91 Information: supplementary](section/91.md)
+- Part 4 Regulation and inspection of independent educational provision in England
+  - Chapter 1 Independent educational institutions in England
+    - Introductory
+      - [s. 92 Independent educational institutions in England](section/92.md)
+      - [s. 93 Application of Chapter to institutions in England only](section/93.md)
+      - [s. 93A Application of Chapter to alternative provision Academies that are not independent educational institutions](section/93A.md)
+    - Standards
+      - [s. 94 Independent educational institution standards](section/94.md)
+    - Requirement of registration
+      - [s. 95 The register](section/95.md)
+      - [s. 96 Unregistered independent educational institutions: offence](section/96.md)
+      - [s. 97 Unregistered independent educational institutions: inspection](section/97.md)
+    - Registration procedure
+      - [s. 98 Applications for registration](section/98.md)
+      - [s. 99 Determination of applications for registration](section/99.md)
+      - [s. 99A Inspections on appeal against decision not to register](section/99A.md)
+      - [s. 100 Institutions no longer required to register: power to deregister](section/100.md)
+    - Approval of material changes to registered details
+      - [s. 101 “Material change”](section/101.md)
+      - [s. 102 Requirement to apply for approval for material change](section/102.md)
+      - [s. 103 Inspection and report where applications made for approval](section/103.md)
+      - [s. 104 Determination of applications for approval](section/104.md)
+      - [s. 105 Power to deregister institution that makes unapproved material change](section/105.md)
+    - Independent inspectorates
+      - [s. 106 Independent inspectorates](section/106.md)
+      - [s. 107 Quality assurance of independent inspectorates](section/107.md)
+      - [s. 107A Information sharing between the Chief Inspector and independent inspectorates](section/107A.md)
+    - Inspections and reports
+      - [s. 108 Duty to inspect certain registered institutions at prescribed intervals](section/108.md)
+      - [s. 109 Duty to inspect registered institution on direction of Secretary of State](section/109.md)
+      - [s. 110 Inspections under this Chapter: power of entry etc](section/110.md)
+      - [s. 111 Fees for inspections by Chief Inspector under this Chapter](section/111.md)
+      - [s. 112 Failure to pay fees](section/112.md)
+      - [s. 113 Publication of inspection reports](section/113.md)
+    - Failure to meet standards
+      - [s. 114 Action plans](section/114.md)
+      - [s. 115 Power of Secretary of State to take enforcement action](section/115.md)
+      - [s. 116 Enforcement action available to Secretary of State](section/116.md)
+      - [s. 117 “Relevant restriction”](section/117.md)
+      - [s. 118 Relevant restriction imposed by Secretary of State: supplementary](section/118.md)
+    - Unsuitable persons
+      - [s. 119 Unsuitable persons](section/119.md)
+    - Emergencies
+      - [s. 120 Application to justice of the peace for order](section/120.md)
+      - [s. 121 Relevant restriction imposed by justice of the peace: supplementary](section/121.md)
+      - [s. 122 Order of justice of the peace: notification](section/122.md)
+    - Provision of information by proprietors
+      - [s. 123 Provision of information by proprietors](section/123.md)
+    - Appeals
+      - [s. 124 Appeal by proprietor against decision of Secretary of State to deregister](section/124.md)
+      - [s. 125 Appeal by proprietor against other decisions of Secretary of State](section/125.md)
+      - [s. 126 Appeal by proprietor against order of justice of the peace](section/126.md)
+      - [s. 127 Relevant restriction imposed by Tribunal: supplementary](section/127.md)
+    - Prohibition on participation in management of independent educational institutions
+      - [s. 128 Prohibition on participation in management](section/128.md)
+      - [s. 129 Directions under section 128: appeals](section/129.md)
+      - [s. 130 Directions under section 128: information](section/130.md)
+      - [s. 131 Directions under section 128: notification](section/131.md)
+    - Independent colleges for 16 to 18 year olds
+      - [s. 132 Providers of independent education or training for 16 to 18 year olds](section/132.md)
+      - [s. 133 Regulations under section 132: supplementary](section/133.md)
+    - Supplementary
+      - [s. 134 Proceedings for offences](section/134.md)
+      - [s. 135 Offences by bodies corporate](section/135.md)
+      - [s. 136 Offences by unincorporated bodies](section/136.md)
+      - [s. 137 Service of notice etc](section/137.md)
+      - [s. 137A Application of schools provision to independent educational institutions](section/137A.md)
+      - [s. 138 Interpretation of Chapter](section/138.md)
+    - Transitional provision
+      - [s. 139 Continuity of the law](section/139.md)
+      - [s. 140 The register and fees](section/140.md)
+      - [s. 141 Prohibition on participation in management](section/141.md)
+  - Chapter 2 Schools providing for special educational needs
+    - Non-maintained special schools in England
+      - [s. 142 Interpretation](section/142.md)
+      - [s. 143 Right of sixth-form pupils to opt out of religious worship](section/143.md)
+      - [s. 144 Protection of pupils in an emergency](section/144.md)
+      - [s. 145 Appeals](section/145.md)
+    - Independent schools in England
+      - [s. 146 Abolition of requirement of approval for independent schools: England](section/146.md)
+      - [s. 147 Approval of independent schools: consequential amendments](section/147.md)
+      - [s. 148 Approval of independent schools: transitional provision](section/148.md)
+- Part 5 Miscellaneous and general
+  - Chapter 1 Powers of National Assembly for Wales
+    - [s. 149 Powers of National Assembly for Wales](section/149.md)
+  - Chapter 2 Miscellaneous
+    - School admissions
+      - [s. 150 Sixth form admissions etc](section/150.md)
+      - [s. 151 Admission arrangements](section/151.md)
+      - [s. 152 Sixth form admissions etc: appeals](section/152.md)
+      - [s. 153 School admissions: supplementary](section/153.md)
+    - Maintained schools in England: behaviour and attendance etc
+      - [s. 154 Power of governing body: educational provision for improving behaviour](section/154.md)
+      - [s. 155 Application of s.444 of Education Act 1996 to alternative education provision](section/155.md)
+    - Maintained schools in England: assessment arrangements
+      - [s. 156 National Curriculum for England: duty to implement assessment arrangements](section/156.md)
+    - Maintained schools: pupils’ views
+      - [s. 157 Governing bodies of maintained schools to invite and consider pupils’ views](section/157.md)
+      - [s. 158 Consultation of pupils: existing functions](section/158.md)
+    - External qualifications
+      - [s. 159 Approved external qualifications: England](section/159.md)
+      - [s. 160 Approved external qualifications: Wales](section/160.md)
+      - [s. 161 Functions of Qualifications and Curriculum Authority in England and Northern Ireland](section/161.md)
+      - [s. 162 Functions of Welsh Ministers etc](section/162.md)
+      - [s. 163 Functions of Qualifications and Curriculum Authority in Northern Ireland in relation to vocational qualifications](section/163.md)
+    - Inspections of teacher training
+      - [s. 164 Inspections of teacher training in England: removal of duty to notify](section/164.md)
+    - Schools forums
+      - [s. 165 Constitution of schools forums](section/165.md)
+  - Chapter 3 General
+    - [s. 166 Orders and regulations](section/166.md)
+    - [s. 167 Functions to be exercisable by Welsh Ministers](section/167.md)
+    - [s. 168 General interpretation](section/168.md)
+    - [s. 169 Minor and consequential amendments, repeals and revocations](section/169.md)
+    - [s. 170 Power to make consequential and transitional provision etc.](section/170.md)
+    - [s. 171 Financial provisions](section/171.md)
+    - [s. 172 Extent](section/172.md)
+    - [s. 173 Commencement](section/173.md)
+    - [s. 174 Short title](section/174.md)
+- SCHEDULE 1 Minor and consequential amendments
+  - Part 1 Regulation and inspection
+    - ................................
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Education Act 1996 (c. 56)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Police Act 1997 (c. 50)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Education Act 2002 (c. 32)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Education Act 2005 (c. 18)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Childcare Act 2006 (c. 21)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Education and Inspections Act 2006 (c. 40)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - Part 2 Miscellaneous
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Social Security Administration Act 1992 (c. 5)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - Education Act 1996 (c. 56)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - School Standards and Framework Act 1998 (c. 31)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - Welfare Reform and Pensions Act 1999 (c. 30)
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - Learning and Skills Act 2000 (c. 21)
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+    - Tax Credits Act 2002 (c. 21)
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+    - Education Act 2002 (c. 32)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - Anti-social Behaviour Act 2003 (c. 38)
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - Children Act 2004 (c. 31)
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - Education and Inspections Act 2006 (c. 40)
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+      - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+      - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+    - ................................
+      - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+    - Criminal Justice and Immigration Act 2008 (c. 4)
+      - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+- SCHEDULE 2 Repeals and revocations
