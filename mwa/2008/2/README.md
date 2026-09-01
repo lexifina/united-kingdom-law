@@ -1,0 +1,122 @@
+# Learner Travel (Wales) Measure 2008
+
+mwa/2008/2. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 37 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/mwa/2008/2
+
+Source: https://www.legislation.gov.uk/mwa/2008/2/2026-09-01
+
+## Contents
+
+- Main terms
+  - [s. 1 Main terms used in this Measure](section/1.md)
+- Learner travel arrangements
+  - [s. 2 Duty to assess learner travel needs](section/2.md)
+  - [s. 3 Local authority duty to make transport arrangements](section/3.md)
+  - [s. 4 Local authority duty to make other travel arrangements](section/4.md)
+  - [s. 5 Limits of learner travel duties](section/5.md)
+  - [s. 6 Power of local authorities to make learner travel arrangements](section/6.md)
+  - [s. 7 Travel arrangements for learners in post-16 education or training](section/7.md)
+  - [s. 8 Travel arrangements to and from nursery education](section/8.md)
+  - [s. 9 Learner travel arrangements not to favour certain types of education or training](section/9.md)
+- Promoting access to Welsh medium education
+  - [s. 10 Promoting access to education and training through the medium of the Welsh language](section/10.md)
+- Sustainable modes of travel
+  - [s. 11 Sustainable modes of travel](section/11.md)
+- Travel behaviour code
+  - [s. 12 Travel behaviour code](section/12.md)
+  - [s. 13 Enforcement of travel behaviour code: pupils at relevant schools](section/13.md)
+  - [s. 14 Enforcement of travel behaviour code: withdrawal of travel arrangements](section/14.md)
+- Safety on learner transport
+  - [s. 14A Requirement for seat belts on buses used for learner transport](section/14A.md)
+  - [s. 14B Further provision as to descriptions of vehicle that may be used for learner transport](section/14B.md)
+  - [s. 14C Recording visual images or sound on learner transport](section/14C.md)
+  - [s. 14D Safety risk assessment of learner transport](section/14D.md)
+  - [s. 14E Driver training](section/14E.md)
+  - [s. 14F Supervisors on learner transport](section/14F.md)
+  - [s. 14G Civil sanctions](section/14G.md)
+  - [s. 14H Enforcement authority](section/14H.md)
+  - [s. 14I Power of entry](section/14I.md)
+  - [s. 14J Power of inspection](section/14J.md)
+  - [s. 14K Power to require provision of information](section/14K.md)
+  - [s. 14L Offences: liability of officers and partners](section/14L.md)
+  - [s. 14M Regulations: consultation](section/14M.md)
+  - [s. 14N Interpretation of sections 14A to 14K](section/14N.md)
+- Supplementary
+  - [s. 15 Guidance and directions](section/15.md)
+  - [s. 16 Information about travel arrangements](section/16.md)
+  - [s. 17 Co-operation: information or other assistance](section/17.md)
+  - [s. 18 Payment of travel costs by a local authority which looks after a child](section/18.md)
+  - [s. 19 Determination of ordinary residence in particular circumstances](section/19.md)
+  - [s. 20 Amendments to section 444 of the Education Act 1996](section/20.md)
+  - [s. 21 Amendments to the Education Act 2002](section/21.md)
+  - [s. 22 Amendments to sections 455 and 456 of the Education Act 1996](section/22.md)
+  - [s. 23 Amendments to the Education and Inspections Act 2006](section/23.md)
+- General
+  - [s. 24 General interpretation](section/24.md)
+  - [s. 25 Minor and consequential amendments](section/25.md)
+  - [s. 26 Repeals](section/26.md)
+  - [s. 27 Orders and regulations](section/27.md)
+  - [s. 28 Commencement](section/28.md)
+  - [s. 29 Short title and inclusion of Measure within the Education Acts](section/29.md)
+- SCHEDULE A1 CIVIL SANCTIONS
+  - Civil sanctions
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Fixed monetary penalties
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Fixed monetary penalties: procedure
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Discretionary requirements
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Discretionary requirements: procedure
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Discretionary requirements: enforcement
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - Stop notices
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - Stop notices: procedure
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+  - Stop notices: compensation
+    - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+  - Stop notices: enforcement
+    - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+  - Enforcement undertakings
+    - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+  - Combination of sanctions
+    - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+  - Monetary penalties
+    - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+  - Costs recovery
+    - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+  - Appeals
+    - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+  - Publicity for imposition of civil sanctions
+    - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+  - Persons liable to civil sanctions
+    - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+  - Guidance as to use of civil sanctions
+    - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+  - Publication of enforcement action
+    - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+  - Compliance with regulatory principles
+    - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+  - Review
+    - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+  - Suspension
+    - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+  - Payment of penalties into Welsh Consolidated Fund
+    - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Further and Higher Education Act 1992 (c. 13)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 REPEALS
