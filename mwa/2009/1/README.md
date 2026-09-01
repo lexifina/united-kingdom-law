@@ -1,0 +1,103 @@
+# Learning and Skills (Wales) Measure 2009
+
+mwa/2009/1. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/mwa/2009/1/2026-09-01
+
+## Contents
+
+- PART 1 Local curriculum for pupils in Key Stage 4
+  - General
+    - [s. 1 Interpretation](section/1.md)
+    - [s. 2 Duty to implement general requirements](section/2.md)
+    - [s. 3 Basic curriculum for every maintained school in Wales](section/3.md)
+  - Formation of local curricula
+    - [s. 4 Formation of local curricula for pupils in Key Stage 4](section/4.md)
+    - [s. 5 Local curricula: Welsh language](section/5.md)
+    - [s. 6 Authorities with more than one local curriculum](section/6.md)
+  - Entitlements
+    - [s. 7 Pupils’ choices of local curriculum courses](section/7.md)
+    - [s. 8 Pupils’ local curriculum entitlements](section/8.md)
+    - [s. 9 Head teacher’s decision as to entitlement](section/9.md)
+    - [s. 10 Delivery of local curriculum entitlements](section/10.md)
+    - [s. 11 Head teacher’s decision to remove entitlement](section/11.md)
+  - Joint-working
+    - [s. 12 Planning the local curriculum](section/12.md)
+    - [s. 13 Delivery of local curriculum entitlements: joint-working](section/13.md)
+    - [s. 14 Joint-working: guidance and directions](section/14.md)
+  - Supplemental
+    - [s. 15 Power to amend learning domains](section/15.md)
+    - [s. 16 Application of local curriculum provisions to children who are not registered pupils](section/16.md)
+    - [s. 17 Application of local curriculum provisions to children who are registered pupils of special schools](section/17.md)
+    - [s. 18 Local curriculum: directions](section/18.md)
+    - [s. 19 Powers to alter or remove requirements for fourth key stage](section/19.md)
+    - [s. 20 Regulations and orders: procedure](section/20.md)
+- PART 2 Local curriculum for students aged 16 to 18
+  - General
+    - [s. 21 Education and training for persons aged 16 to 18](section/21.md)
+  - Formation of local curricula
+    - [s. 22 Formation of local curricula for students aged 16 to 18](section/22.md)
+    - [s. 23 Local curricula: Welsh language](section/23.md)
+    - [s. 24 Areas with more than one local curriculum](section/24.md)
+  - Entitlements
+    - [s. 25 Determination of a pupil’s “relevant school or institution”](section/25.md)
+    - [s. 26 Pupils’ choices of local curriculum courses](section/26.md)
+    - [s. 27 Students’ local curriculum entitlements](section/27.md)
+    - [s. 28 Head teacher’s or principal’s decision as to entitlement](section/28.md)
+    - [s. 29 Delivery of local curriculum entitlements](section/29.md)
+    - [s. 30 Head teacher’s or principal’s decision to remove entitlement](section/30.md)
+  - Joint-working
+    - [s. 31 Planning the local curriculum](section/31.md)
+    - [s. 32 Delivery of local curriculum entitlements: joint-working](section/32.md)
+    - [s. 33 Joint-working: guidance and directions](section/33.md)
+  - Supplemental
+    - [s. 34 Power to amend learning domains](section/34.md)
+    - [s. 35 The local curriculum: interpretation](section/35.md)
+    - [s. 36 Local curriculum: directions](section/36.md)
+    - [s. 37 Application of local curriculum provisions to students who are registered pupils of special schools or who have learning difficulties](section/37.md)
+    - [s. 38 Application of local curriculum provisions to institutions within the higher education sector](section/38.md)
+    - [s. 39 Regulations and orders: procedure](section/39.md)
+- PART 3 Services related to education, training and skills
+  - Learner support services
+    - [s. 40 Provision of services by maintained schools and further education institutions](section/40.md)
+    - [s. 41 Duties of governing bodies](section/41.md)
+    - [s. 42 Amendments to the Learning and Skills Act 2000](section/42.md)
+  - Learning Pathways
+    - [s. 43 The learning pathway document](section/43.md)
+    - [s. 44 Learning pathways: interpretation](section/44.md)
+  - Provision of curriculum information
+    - [s. 45 Provision of curriculum information](section/45.md)
+- PART 4 Miscellaneous and supplemental
+  - [s. 46 Regulations in connection with the operation of the local curriculum](section/46.md)
+  - [s. 47 Minor and consequential amendments](section/47.md)
+  - [s. 48 Orders and regulations](section/48.md)
+  - [s. 49 Commencement](section/49.md)
+  - [s. 50 Short title](section/50.md)
+- SCHEDULE MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Learning and Skills Act 2000 (c. 21)
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - ...
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+  - ...
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
