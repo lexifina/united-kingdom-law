@@ -1,0 +1,264 @@
+# Safeguarding Vulnerable Groups Act 2006
+
+2006 c. 47. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 84 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
+
+Source: https://www.legislation.gov.uk/ukpga/2006/47/2026-09-01
+
+## Contents
+
+- Barring
+  - [s. 1 Independent Safeguarding Authority](section/1.md)
+  - [s. 2 Barred lists](section/2.md)
+  - [s. 3 Barred persons](section/3.md)
+  - [s. 4 Appeals](section/4.md)
+- Regulated activity
+  - [s. 5 Regulated activity](section/5.md)
+- Regulated activity providers
+  - [s. 6 Regulated activity providers](section/6.md)
+- Restrictions on participating in regulated activity
+  - [s. 7 Barred person not to engage in regulated activity](section/7.md)
+  - [s. 8 Person not to engage in regulated activity unless subject to monitoring](section/8.md)
+  - [s. 9 Use of barred person for regulated activity](section/9.md)
+  - [s. 10 Use of person not subject to monitoring for regulated activity](section/10.md)
+  - [s. 11 Regulated activity provider: failure to check](section/11.md)
+  - [s. 12 Personnel suppliers: failure to check](section/12.md)
+  - [s. 13 Educational establishments: check on members of governing body](section/13.md)
+  - [s. 14 Office holders: offences](section/14.md)
+  - [s. 15 Sections 13 and 14: checks](section/15.md)
+- Exceptions
+  - [s. 16 Exception to requirement to make monitoring check](section/16.md)
+  - [s. 17 NHS employment](section/17.md)
+- Offences: supplementary
+  - [s. 18 Offences: companies &c.](section/18.md)
+  - [s. 19 Offences: other persons](section/19.md)
+  - [s. 20 Section 19: exclusions and defences](section/20.md)
+- Controlled activity
+  - [s. 21 Controlled activity relating to children](section/21.md)
+  - [s. 22 Controlled activity relating to vulnerable adults](section/22.md)
+  - [s. 23 Controlled activity: regulations](section/23.md)
+- Monitoring
+  - [s. 24 Monitoring](section/24.md)
+  - [s. 24A Monitoring: power to prescribe additional fees](section/24A.md)
+  - [s. 25 Monitoring: fees](section/25.md)
+  - [s. 26 Ceasing monitoring](section/26.md)
+  - [s. 27 Prohibition of requirement to produce certain records](section/27.md)
+  - [s. 28 Independent monitor](section/28.md)
+  - [s. 29 Part 5 of the Police Act 1997: code of practice](section/29.md)
+- Notices and information
+  - [s. 30 Provision of vetting information](section/30.md)
+  - [s. 31 Meaning of relevant information in section 30](section/31.md)
+  - [s. 32 Notification of cessation of monitoring](section/32.md)
+  - [s. 33 Cessation of registration](section/33.md)
+  - [s. 34 Declarations under sections 30 and 32](section/34.md)
+  - [s. 35 Regulated activity providers: duty to refer](section/35.md)
+  - [s. 36 Personnel suppliers: duty to refer](section/36.md)
+  - [s. 37 Regulated activity providers: duty to provide information on request &c.](section/37.md)
+  - [s. 38 Duty to provide information: offences](section/38.md)
+- Local authority information and referrals
+  - [s. 39 Local authorities: power to refer](section/39.md)
+  - [s. 40 Local authorities: duty to provide information on request](section/40.md)
+- Professional bodies and supervisory authorities
+  - [s. 41 Registers: power to refer](section/41.md)
+  - [s. 42 Registers: duty to provide information on request](section/42.md)
+  - [s. 43 Registers: provision of barring information to keepers of registers](section/43.md)
+  - [s. 44 Registers: power to apply for vetting information](section/44.md)
+  - [s. 45 Supervisory authorities: power to refer](section/45.md)
+  - [s. 46 Supervisory authorities: duty to provide information on request](section/46.md)
+  - [s. 47 Supervisory authorities: power to apply for certain barring information](section/47.md)
+  - [s. 48 Supervisory authorities: notification of barring &c. in respect of children](section/48.md)
+  - [s. 49 Supervisory authorities: notification of barring &c. in respect of vulnerable adults](section/49.md)
+  - [s. 50 Provision of information to supervisory authorities](section/50.md)
+- Provision of information to the police etc.
+  - [s. 50A Provision of information to the police etc.](section/50A.md)
+- Crown
+  - [s. 51 Crown application](section/51.md)
+- Miscellaneous
+  - [s. 52 Referrals: findings of fact immaterial](section/52.md)
+  - [s. 53 Fostering](section/53.md)
+  - [s. 54 Devolution: alignment](section/54.md)
+  - [s. 55 Northern Ireland](section/55.md)
+  - [s. 56 Devolution: Wales](section/56.md)
+- General
+  - [s. 57 Damages](section/57.md)
+  - [s. 58 Family and personal relationships](section/58.md)
+  - [s. 59 Vulnerable adults](section/59.md)
+  - [s. 60 Interpretation](section/60.md)
+  - [s. 61 Orders and regulations](section/61.md)
+  - [s. 62 Transitional provision](section/62.md)
+  - [s. 63 Amendments and repeals](section/63.md)
+  - [s. 64 Supplementary, incidental, consequential &c. provision](section/64.md)
+  - [s. 65 Commencement](section/65.md)
+  - [s. 66 Extent](section/66.md)
+  - [s. 67 Short title](section/67.md)
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Barred lists
+  - Part 1 Children’s barred list
+    - Automatic inclusion
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Inclusion subject to consideration of representations
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Behaviour
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Risk of harm
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Restriction on inclusion
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part 2 Adults’ barred list
+    - Automatic inclusion
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Inclusion subject to consideration of representations
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Behaviour
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Risk of harm
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Restriction on inclusion
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Part 3 Supplementary
+    - Procedure
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Representations
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Review
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 18A](schedule/3/paragraph/18A.md)
+    - Information
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 22A](schedule/3/paragraph/22A.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Prescribed criteria
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 Regulated Activity
+  - Part 1 Regulated activity relating to children
+    - Regulated activity: general
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Activities
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Establishments
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - ...
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - ...
+      - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+    - Exceptions
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 Regulated activity relating to vulnerable adults
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part 3 The period condition
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Appropriate verification
+  - Part 1 Default position
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part 2 Prescribed verification
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Part 3 Prescribed verification
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Part 4 Definitions and power to amend
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 12A](schedule/5/paragraph/12A.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Employment businesses: failure to check
+  - Offences
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - ...
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - ...
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Power to amend paragraph 2(1)(c)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - ......
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Barring Information
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Transitional provisions
+  - Advice by DBS
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Existing restrictions relating to children
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Existing restrictions relating to vulnerable adults
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Existing restrictions: supplementary
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - ...
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 Amendments
+  - Part 1 Existing lists
+    - Children Act 1989 (c. 41)
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Teaching and Higher Education Act 1998 (c. 30)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Protection of Children Act 1999 (c. 14)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Care Standards Act 2000 (c. 14)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Childcare Act 2006
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Part 2 Other amendments
+    - Police Pensions Act 1976 (c. 35)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Police Act 1996 (c. 16)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Police Act 1997 (c. 50)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Data Protection Act 1998 (c. 29)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Care Standards Act 2000 (c. 14)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Repeals
