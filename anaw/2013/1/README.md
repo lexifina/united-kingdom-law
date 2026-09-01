@@ -1,0 +1,414 @@
+# School Standards and Organisation (Wales) Act 2013
+
+anaw/2013/1. Enacted 2013-03-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2013/1
+
+Source: https://www.legislation.gov.uk/anaw/2013/1/2026-09-01
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview of this Act](section/1.md)
+- PART 2 STANDARDS
+  - CHAPTER 1 INTERVENTION IN CONDUCT OF MAINTAINED SCHOOLS
+    - Grounds for intervention
+      - [s. 2 Grounds for intervention](section/2.md)
+    - Intervention by a local authority
+      - [s. 3 Warning notice](section/3.md)
+      - [s. 4 Power to intervene](section/4.md)
+      - [s. 5 Power to require governing body to secure advice or collaborate](section/5.md)
+      - [s. 6 Power to appoint additional governors](section/6.md)
+      - [s. 7 Power of local authority to constitute governing body of interim executive members](section/7.md)
+      - [s. 8 Power of local authority to suspend right to delegated budget](section/8.md)
+      - [s. 9 General power to give directions and take steps](section/9.md)
+    - Intervention by the Welsh Ministers
+      - [s. 10 Warning notice](section/10.md)
+      - [s. 11 Power of the Welsh Ministers to intervene](section/11.md)
+      - [s. 12 Power to require governing body to secure advice or collaborate](section/12.md)
+      - [s. 13 Power of Welsh Ministers to appoint additional governors](section/13.md)
+      - [s. 14 Power of Welsh Ministers to constitute governing body of interim executive members](section/14.md)
+      - [s. 15 Power of Welsh Ministers to direct federation of schools](section/15.md)
+      - [s. 16 Power of Welsh Ministers to direct closure of school](section/16.md)
+      - [s. 17 General power to give directions and take steps](section/17.md)
+    - Supplementary
+      - [s. 18 Governing bodies consisting of interim executive members](section/18.md)
+      - [s. 19 Directions](section/19.md)
+      - [s. 20 Guidance](section/20.md)
+  - CHAPTER 2 INTERVENTION IN LOCAL AUTHORITIES
+    - Grounds for intervention
+      - [s. 21 Grounds for intervention](section/21.md)
+    - Warning notice
+      - [s. 22 Warning notice](section/22.md)
+    - Powers of intervention
+      - [s. 23 Power of Welsh Ministers to intervene](section/23.md)
+      - [s. 24 Power to require local authority to obtain advisory services](section/24.md)
+      - [s. 25 Power to require performance of functions by other persons on behalf of authority](section/25.md)
+      - [s. 26 Power to require performance of functions by Welsh Ministers or nominee](section/26.md)
+      - [s. 27 Power to direct exercise of other education functions](section/27.md)
+      - [s. 28 General power to give directions and take steps](section/28.md)
+    - Supplementary
+      - [s. 29 Directions](section/29.md)
+      - [s. 30 Duty to co-operate](section/30.md)
+      - [s. 31 Powers of entry and inspection](section/31.md)
+  - CHAPTER 3 SCHOOL IMPROVEMENT GUIDANCE
+    - [s. 32 Meaning of “school authority”](section/32.md)
+    - [s. 33 Power to issue school improvement guidance](section/33.md)
+    - [s. 34 Consultation and National Assembly for Wales procedures](section/34.md)
+    - [s. 35 Duty to follow school improvement guidance](section/35.md)
+    - [s. 36 Policy statements: requirements and ancillary powers](section/36.md)
+    - [s. 37 Directions](section/37.md)
+- PART 3 SCHOOL ORGANISATION
+  - CHAPTER 1 SCHOOL ORGANISATION CODE
+    - [s. 38 School Organisation Code](section/38.md)
+    - [s. 39 Making and approval of School Organisation Code](section/39.md)
+  - CHAPTER 2 SCHOOL ORGANISATION PROPOSALS
+    - Establishment, alteration and discontinuance of maintained schools
+      - [s. 40 Restriction on establishment, alteration and discontinuance of maintained schools](section/40.md)
+      - [s. 41 Proposals to establish mainstream schools](section/41.md)
+      - [s. 42 Proposals to alter mainstream schools](section/42.md)
+      - [s. 43 Proposals to discontinue mainstream schools](section/43.md)
+      - [s. 44 Proposals to establish, alter or discontinue community special schools](section/44.md)
+    - Changes of category
+      - [s. 45 Proposals to change a school’s category](section/45.md)
+      - [s. 46 Restrictions on changing category of school](section/46.md)
+      - [s. 47 Effect of change of category](section/47.md)
+    - Publication, consultation and objections
+      - [s. 48 Publication and consultation](section/48.md)
+      - [s. 49 Objections](section/49.md)
+    - Approval and determination of proposals
+      - [s. 50 Approval by Welsh Ministers](section/50.md)
+      - [s. 51 Approval by local authority](section/51.md)
+      - [s. 52 Related proposals](section/52.md)
+      - [s. 53 Determination](section/53.md)
+      - [s. 54 Referral to the Welsh Ministers](section/54.md)
+      - [s. 55 Implementation](section/55.md)
+      - [s. 56 Interpretation of Chapter 2](section/56.md)
+  - CHAPTER 3 RATIONALISATION OF SCHOOL PLACES
+    - Directions to make proposals for rationalisation of school places
+      - [s. 57 Directions to make proposals to remedy excessive or insufficient provision](section/57.md)
+      - [s. 58 Further provision about proposals made after a direction under section 57(2)](section/58.md)
+    - Proposals by Welsh Ministers to rationalise school places
+      - [s. 59 Making and publication of proposals by Welsh Ministers](section/59.md)
+    - Procedure for dealing with proposals under section 59
+      - [s. 60 Objections](section/60.md)
+      - [s. 61 Local inquiry into proposals](section/61.md)
+      - [s. 62 Adoption of proposals](section/62.md)
+      - [s. 63 Implementation of proposals](section/63.md)
+  - CHAPTER 3A PROPOSALS FOR‍ RESTRUCTURING SIXTH FORM PROVISION
+    - [s. 63A Directions by the Commission to make sixth form proposals](section/63A.md)
+    - [s. 63B Further provision about proposals made after a direction under section 63A(1)](section/63B.md)
+    - [s. 63C Making of proposals by the Commission](section/63C.md)
+    - [s. 63D Publication of Commission’s proposals and consultation](section/63D.md)
+    - [s. 63E Objections to the Commission’s proposals](section/63E.md)
+    - [s. 63F Approval by Welsh Ministers](section/63F.md)
+    - [s. 63G Determination](section/63G.md)
+    - [s. 63H Implementation of proposals](section/63H.md)
+    - [s. 63I Interpretation of Chapter 3A](section/63I.md)
+  - CHAPTER 4 REGIONAL PROVISION FOR ADDITIONAL LEARNING NEEDS
+    - [s. 64 Meaning of “regional provision” and “ additional learning needs functions”](section/64.md)
+    - [s. 65 Direction to consider making regional provision](section/65.md)
+    - [s. 66 Directions to make proposals to secure regional provision](section/66.md)
+    - [s. 67 Further provision about proposals made after a direction under section 66](section/67.md)
+    - [s. 68 Proposals by Welsh Ministers](section/68.md)
+    - [s. 69 Objections](section/69.md)
+    - [s. 70 Adoption of proposals](section/70.md)
+  - CHAPTER 5 PROPOSALS FOR RESTRUCTURING SIXTH FORM EDUCATION
+    - Making and determining proposals
+      - [s. 71 Welsh Ministers’ powers to restructure sixth form education](section/71.md)
+      - [s. 72 Consultation, publication and objections](section/72.md)
+      - [s. 73 Determination by Welsh Ministers](section/73.md)
+    - Implementation of proposals for restructuring sixth form education
+      - [s. 74 Form of implementation](section/74.md)
+      - [s. 75 Responsibility for implementation](section/75.md)
+      - [s. 76 Further provision as to implementation](section/76.md)
+    - Supplementary
+      - [s. 77 Consequential amendments to inspection reports on sixth form education](section/77.md)
+  - CHAPTER 6 MISCELLANEOUS AND SUPPLEMENTAL
+    - [s. 78 Federated schools](section/78.md)
+    - [s. 79 Prohibition on local authorities establishing schools in England](section/79.md)
+    - [s. 80 Notice by governing body to discontinue foundation or voluntary school](section/80.md)
+    - [s. 81 Direction requiring discontinuance of community special school](section/81.md)
+    - [s. 82 Transitional exemption orders for purposes of Equality Act 2010](section/82.md)
+    - [s. 83 Interpretation of Part 3](section/83.md)
+- PART 4 WELSH IN EDUCATION STRATEGIC PLANS
+  - [s. 84 Preparation of Welsh in education strategic plans](section/84.md)
+  - [s. 85 Approval, publication and implementation of Welsh in education strategic plans](section/85.md)
+  - [s. 86 Assessing demand for Welsh medium education](section/86.md)
+  - [s. 87 Regulations and guidance](section/87.md)
+- PART 5 MISCELLANEOUS SCHOOLS FUNCTIONS
+  - Free breakfasts in primary schools
+    - [s. 88 Duty to provide free breakfasts for pupils in primary schools](section/88.md)
+    - [s. 89 Transitional provision](section/89.md)
+    - [s. 90 Interpretation of sections 88 and 89](section/90.md)
+  - Power to charge for meals
+    - [s. 91 Amendment to power to charge for school meals etc](section/91.md)
+  - School-based counselling
+    - [s. 92 Independent counselling services for school pupils and other children](section/92.md)
+    - [s. 93 Information about independent counselling services](section/93.md)
+  - Parents’ meetings
+    - [s. 94 Duty of governing body of maintained schools to hold meetings following petition by parents](section/94.md)
+    - [s. 95 Repeal of duty to hold annual parents’ meeting](section/95.md)
+  - Code of practice on local authority school relations
+    - [s. 96 Repeal of provision for code of practice for local authority school relations](section/96.md)
+- PART 6 GENERAL
+  - [s. 97 Orders and regulations](section/97.md)
+  - [s. 98 General interpretation and index of defined expressions](section/98.md)
+  - [s. 99 Minor and consequential amendments](section/99.md)
+  - [s. 100 Commencement](section/100.md)
+  - [s. 101 Short title and inclusion as one of the Education Acts](section/101.md)
+- SCHEDULE 1 GOVERNING BODIES CONSISTING OF INTERIM EXECUTIVE MEMBERS
+  - Interpretation of Schedule
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Governing body to consist of members appointed by appropriate authority
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Effect of notice under section 7 or 14
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Number of interim executive members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Terms of appointment of interim executive members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Duty of appropriate authority to inform other persons
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Power to specify duration of interim period
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Chair
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Remuneration and allowances
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Duty of interim executive board
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Proceedings of interim executive board
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Effect on suspension of delegated budget
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Exclusion of certain statutory provisions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Closure of school
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Notice of resumption of government by normally constituted governing body
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Time when interim executive members cease to hold office
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Establishment of normally constituted governing body
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 REGULATED ALTERATIONS
+  - PART 1 ALL MAINTAINED SCHOOLS
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Site transfers
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Mixed sex and single-sex schools
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 2 ALL MAINTAINED SCHOOLS OTHER THAN MAINTAINED NURSERY SCHOOLS
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Age range
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Sixth form provision
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Language medium – primary education
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Language medium - secondary education
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - PART 3 COMMUNITY, FOUNDATION AND VOLUNTARY SCHOOLS
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Alterations to premises
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Additional learning needs
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Admission arrangements
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Boarding provision
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - PART 4 SPECIAL SCHOOLS
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Increase in pupils
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Boarding provision
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Additional learning needs provision
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - PART 5 MAINTAINED NURSERY SCHOOLS
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Teaching space
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Additional learning needs
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Language medium
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - PART 6 SUPPLEMENTARY
+    - Power to amend
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+- SCHEDULE 3 IMPLEMENTATION OF STATUTORY PROPOSALS
+  - PART 1 RESPONSIBILITY FOR IMPLEMENTATION
+    - Interpretation
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Proposals relating to community or maintained nursery schools
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Proposals relating to foundation or voluntary controlled schools
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Proposals relating to voluntary aided schools
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Proposals relating to community special schools
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Change of category
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - PART 2 PROVISION OF PREMISES AND OTHER ASSISTANCE
+    - Provision of site and buildings for foundation or voluntary controlled school
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Grants in respect of certain expenditure relating to existing or proposed voluntary aided school
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Assistance in respect of maintenance and other obligations relating to voluntary aided school
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Assistance in respect of new voluntary aided school
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Duty to transfer interest in premises provided under paragraph 9 or 10
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - PART 3 TRANSITIONAL EXEMPTION ORDERS FOR PURPOSES OF THE EQUALITY ACT 2010
+    - Single-sex schools
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 IMPLEMENTATION OF PROPOSALS TO CHANGE CATEGORY OF SCHOOL
+  - PART 1 INTRODUCTORY
+    - Interpretation
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Implementation
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - PART 2 TRANSFER OF STAFF
+    - Change to voluntary aided school
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Change to community or voluntary controlled school
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Change to voluntary aided school with a religious character
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 3 TRANSFER OF LAND
+    - Effect of transfers
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Change from community school to voluntary aided school
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Change from community school to voluntary controlled school
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Change from foundation school to community school
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Change from foundation school to voluntary aided or voluntary controlled school
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Change from voluntary aided school to community school
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Change from voluntary aided or voluntary controlled school to voluntary controlled or voluntary aided school
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Change from foundation, voluntary aided or voluntary controlled school to voluntary controlled or voluntary aided school
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Change from voluntary controlled school to community school
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Outstanding transfers
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Transfer of right to use land
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Exclusions from transfer
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Restrictions on disposal or use of land
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+  - PART 4 SUPPLEMENTAL
+    - School government
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - Transitional provisions - admissions
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+- SCHEDULE 5 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 AMENDMENTS RELATING TO PART 2 (STANDARDS)
+    - Education Reform Act 1988
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Education Act 1996
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Teaching and Higher Education Act 1998
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - School Standards and Framework Act 1998
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Local Government Act 2000
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Education Act 2002
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Children Act 2004
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Education Act 2005
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Education and Inspections Act 2006
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Childcare Act 2006
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Equality Act 2010
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Apprenticeships, Skills, Children and Learning Act 2009
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Education (Wales) Measure 2011
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - PART 2 AMENDMENTS RELATING TO PART 3 (SCHOOL ORGANISATION)
+    - Education Reform Act 1988
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - ...
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Further and Higher Education Act 1992
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Education Act 1996
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Education Act 1997
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - School Standards and Framework Act 1998
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Learning and Skills Act 2000
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Education Act 2002
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Education Act 2005
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Education and Inspections Act 2006
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - National Health Service (Wales) Act 2006
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Learner Travel (Wales) Measure 2008
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Learning and Skills (Wales) Measure 2009
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Healthy Eating in Schools (Wales) Measure 2009
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Equality Act 2010
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Education (Wales) Measure 2011
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Welsh Language (Wales) Measure 2011
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - PART 3 AMENDMENTS RELATING TO PART 5 (MISCELLANEOUS SCHOOLS DUTIES)
+    - Education Act 1996 and orders made under it
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Education Act 2002
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Education Act 2005
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Education and Inspections Act 2006
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - Healthy Eating in Schools (Wales) Measure 2009
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - Education Act 2011
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
