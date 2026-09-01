@@ -1,0 +1,216 @@
+# Counter-Terrorism and Security Act 2015
+
+2015 c. 6. Enacted 2015-02-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/6
+
+Source: https://www.legislation.gov.uk/ukpga/2015/6/2026-09-01
+
+## Contents
+
+- PART 1 Temporary restrictions on travel
+  - CHAPTER 1 Powers to seize travel documents
+    - [s. 1 Seizure of passports etc from persons suspected of involvement in terrorism](section/1.md)
+  - CHAPTER 2 Temporary exclusion from the United Kingdom
+    - Imposition of temporary exclusion orders
+      - [s. 2 Temporary exclusion orders](section/2.md)
+      - [s. 3 Temporary exclusion orders: prior permission of the court](section/3.md)
+      - [s. 4 Temporary exclusion orders: supplementary provision](section/4.md)
+    - Permit to return
+      - [s. 5 Permit to return](section/5.md)
+      - [s. 6 Issue of permit to return: application by individual](section/6.md)
+      - [s. 7 Issue of permit to return: deportation or urgent situation](section/7.md)
+      - [s. 8 Permit to return: supplementary provision](section/8.md)
+    - Obligations after return to the United Kingdom
+      - [s. 9 Obligations after return to the United Kingdom](section/9.md)
+    - Offences and proceedings etc
+      - [s. 10 Offences](section/10.md)
+      - [s. 11 Review of decisions relating to temporary exclusion orders](section/11.md)
+      - [s. 12 Temporary exclusion orders: proceedings and appeals against convictions](section/12.md)
+    - Supplementary
+      - [s. 13 Regulations: giving of notices, legislation relating to passports](section/13.md)
+      - [s. 14 Chapter 2: interpretation](section/14.md)
+      - [s. 15 Chapter 2: consequential amendments](section/15.md)
+- PART 2 Terrorism prevention and investigation measures
+  - [s. 16 TPIMs: overnight residence measure](section/16.md)
+  - [s. 17 TPIMs: travel measure](section/17.md)
+  - [s. 18 TPIMs: weapons and explosives measure](section/18.md)
+  - [s. 19 TPIMs: appointments measure](section/19.md)
+  - [s. 20 TPIMs: miscellaneous amendments](section/20.md)
+- PART 3 Data retention
+  - [s. 21 Retention of relevant internet data](section/21.md)
+- PART 4 Aviation, shipping and rail
+  - [s. 22 Authority-to-carry schemes](section/22.md)
+  - [s. 23 Authority-to-carry schemes: entry into force etc](section/23.md)
+  - [s. 24 Penalty for breach of authority-to-carry scheme](section/24.md)
+  - [s. 25 Aviation, maritime and rail security](section/25.md)
+- PART 5 Risk of being drawn into terrorism
+  - CHAPTER 1 Preventing people being drawn into terrorism
+    - [s. 26 General duty on specified authorities](section/26.md)
+    - [s. 27 Power to specify authorities](section/27.md)
+    - [s. 28 Power to specify authorities: Welsh and Scottish authorities](section/28.md)
+    - [s. 29 Power to issue guidance](section/29.md)
+    - [s. 30 Power to give directions: general](section/30.md)
+    - [s. 31 Freedom of expression in universities etc](section/31.md)
+    - [s. 32 Monitoring of performance: further and higher education bodies](section/32.md)
+    - [s. 33 Power to give directions: section 32](section/33.md)
+    - [s. 34 Enforcement](section/34.md)
+    - [s. 35 Chapter 1: interpretation](section/35.md)
+  - CHAPTER 2 Support etc for people vulnerable to being drawn into terrorism
+    - [s. 36 Assessment and support: local panels](section/36.md)
+    - [s. 37 Membership and proceedings of panels](section/37.md)
+    - [s. 38 Co-operation](section/38.md)
+    - [s. 39 Power to amend Chapter 2](section/39.md)
+    - [s. 40 Indemnification](section/40.md)
+    - [s. 41 Chapter 2: interpretation](section/41.md)
+- PART 6 Amendments of or relating to the Terrorism Act 2000
+  - [s. 42 Insurance against payments made in response to terrorist demands](section/42.md)
+  - [s. 43 Port and border controls: power to examine goods](section/43.md)
+- PART 7 Miscellaneous and general
+  - Miscellaneous
+    - [s. 44 Reviews of operation of Part 1 etc](section/44.md)
+    - [s. 45 Reviews of operation of other terrorism legislation](section/45.md)
+    - [s. 46 Privacy and Civil Liberties Board](section/46.md)
+    - [s. 47 Review of certain naturalisation decisions by Special Immigration Appeals Commission](section/47.md)
+  - General
+    - [s. 48 Power to make consequential provision](section/48.md)
+    - [s. 49 Transitional provision](section/49.md)
+    - [s. 50 Financial provision](section/50.md)
+    - [s. 51 Extent](section/51.md)
+    - [s. 52 Commencement](section/52.md)
+    - [s. 53 Short title](section/53.md)
+- SCHEDULE 1 Seizure of passports etc from persons suspected of involvement in terrorism
+  - Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Powers of search and seizure etc
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Travel documents in possession of immigration officers or customs officials
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Authorisation by senior police officer for retention of travel document
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Retention or return of documents seized
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Review of retention of travel documents
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Detention of document for criminal proceedings etc
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Extension of 14-day period by judicial authority
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Restriction on repeated use of powers
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Persons unable to leave the United Kingdom
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Offences
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Accredited immigration officers and customs officials
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Code of practice
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Urgent temporary exclusion orders: reference to the court etc
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Statement of urgency
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Reference to court
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Decision by court
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Procedures on reference
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Interpretation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Temporary exclusion orders: proceedings
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Rules of court: general provision
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Rules of court: disclosure
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Article 6 rights
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Rules of court: anonymity
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Initial exercise of rule-making powers by Lord Chancellor
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Use of advisers
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Appointment of special advocate
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Relationship with other powers to make rules of court and other proceedings
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Temporary exclusion orders: appeals against convictions
+  - Right of appeal
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Court in which appeal to be made
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - When the right of appeal arises
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The appeal
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Aviation, maritime and rail security
+  - PART 1 Passenger, crew and service information
+    - Amendments of the Immigration Act 1971
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Amendments consequential upon paragraph 1
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Amendments of the Immigration, Asylum and Nationality Act 2006
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - PART 2 Directions etc relating to aviation, shipping and rail
+    - Amendments of the Aviation Security Act 1982: information and directions
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Amendments of the Aviation Security Act 1982: civil penalties for breach of directions
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Amendments of the Aviation and Maritime Security Act 1990: information and directions
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Amendments of the Channel Tunnel (Security) Order 1994: information and directions
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Specified authorities
+  - PART 1 GENERAL; ENGLAND AND WALES
+    - Local government
+    - Criminal justice
+    - Education, child care etc
+    - Health and social care
+    - Police
+  - PART 2 SCOTLAND
+    - Local government
+    - Criminal justice
+    - Education, child care etc
+    - Health and social care
+    - Police
+- SCHEDULE 7 Partners of local panels
+  - PART 1 GENERAL; ENGLAND AND WALES
+    - Ministers of the Crown and government departments
+    - Local government
+    - Criminal justice
+    - Education, child care etc
+    - Health and social care
+    - Police
+  - PART 2 SCOTLAND
+    - Criminal Justice
+    - Education, child care etc
+    - Health and social care
+- SCHEDULE 8 Port and border controls: power to examine goods
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
