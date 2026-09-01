@@ -1,0 +1,828 @@
+# Education and Inspections Act 2006
+
+2006 c. 40. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
+
+Source: https://www.legislation.gov.uk/ukpga/2006/40/2026-09-01
+
+## Contents
+
+- Part 1 Education functions of local authorities
+  - [s. 1 Duties in relation to high standards and the fulfilment of potential](section/1.md)
+  - [s. 2 Duties in relation to diversity and choice](section/2.md)
+  - [s. 3 Duty to consider parental representations](section/3.md)
+  - [s. 4 Duty to identify children not receiving education](section/4.md)
+  - [s. 5 School improvement partners](section/5.md)
+  - [s. 6 Functions in respect of youth work, recreation etc](section/6.md)
+- Part 2 Establishment, discontinuance or alteration of schools
+  - Establishment of new schools
+    - [s. 6A Requirement to seek proposals for establishment of new Academies](section/6A.md)
+    - [s. 7 Invitation for proposals for establishment of new schools](section/7.md)
+    - [s. 7A Withdrawal of notices under section 7](section/7A.md)
+    - [s. 8 Proposals under section 7 relating to community or community special schools](section/8.md)
+    - [s. 9 Consultation and publicity in relation to notice and proposals under section 7](section/9.md)
+    - [s. 10 Proposals other than proposals pursuant to a section 7 notice: publication etc](section/10.md)
+    - [s. 11 Publication of proposals to establish maintained schools: special cases](section/11.md)
+    - [s. 12 Establishment of school as federated school](section/12.md)
+    - [s. 13 Schools established outside area of relevant local authority](section/13.md)
+    - [s. 14 Local authority in England not to establish school in Wales](section/14.md)
+  - Discontinuance of schools
+    - [s. 15 Proposals for discontinuance of schools maintained by local authority](section/15.md)
+    - [s. 16 Consultation in relation to proposals under section 15](section/16.md)
+    - [s. 17 Direction requiring discontinuance of community or foundation special school](section/17.md)
+  - Alterations to schools
+    - [s. 18 Alterations that may be made under section 19](section/18.md)
+    - [s. 19 Publication of proposals for alteration of school](section/19.md)
+    - [s. 20 Restriction on power of governing body to publish foundation proposals](section/20.md)
+    - [s. 21 Proposals under section 19: procedure](section/21.md)
+    - [s. 22 Right of governing body to determine own foundation proposals](section/22.md)
+    - [s. 23 Rights of interested bodies in relation to proposals under section 21](section/23.md)
+    - [s. 24 Proposals under section 19: implementation](section/24.md)
+  - Removal of foundation or reduction in foundation governors
+    - [s. 25 Proposals for removal of foundation or reduction in foundation governors](section/25.md)
+    - [s. 26 Proposals under section 25: procedure](section/26.md)
+    - [s. 27 Proposals under section 25: implementation](section/27.md)
+  - General
+    - [s. 28 Restriction on establishment, alteration or discontinuance of schools](section/28.md)
+    - [s. 29 Abolition of school organisation committees](section/29.md)
+    - [s. 30 Amendments relating to school organisation](section/30.md)
+    - [s. 31 Transitional provisions](section/31.md)
+    - [s. 32 Interpretation of Part 2](section/32.md)
+- Part 3 Further provisions about maintained schools
+  - Foundation, voluntary and foundation special schools
+    - [s. 33 Requirements as to foundations](section/33.md)
+    - [s. 34 Parent councils for certain foundation or foundation special schools](section/34.md)
+    - [s. 35 Funding of voluntary aided schools: meaning of “capital expenditure”](section/35.md)
+    - [s. 36 Disposals and changes of use of land](section/36.md)
+    - [s. 37 Staff at foundation or voluntary schools with religious character](section/37.md)
+  - General duties of governing body
+    - [s. 38 General duties of governing body of maintained school](section/38.md)
+  - School admissions
+    - [s. 39 General restriction on selection by ability](section/39.md)
+    - [s. 40 Code for school admissions](section/40.md)
+    - [s. 41 Role of admission forums](section/41.md)
+    - [s. 42 Support for parental preferences](section/42.md)
+    - [s. 43 Duty of governing body to implement decisions relating to admissions](section/43.md)
+    - [s. 44 Prohibition on interviews](section/44.md)
+    - [s. 45 Admission arrangements for schools with religious character: consultation and objections](section/45.md)
+    - [s. 46 Restrictions on alteration of admission arrangements](section/46.md)
+    - [s. 47 Objections to admission arrangements](section/47.md)
+    - [s. 48 Looked after children to whom section 87(2) of SSFA 1998 applies](section/48.md)
+    - [s. 49 Procedure for giving directions under section 96 of SSFA 1998](section/49.md)
+    - [s. 50 Direction to admit looked after child to specified school](section/50.md)
+    - [s. 51 Directions to admit child to specified school: supplementary provisions](section/51.md)
+    - [s. 52 Power of Assembly to make regulations about looked after children](section/52.md)
+    - [s. 53 Schools with pre-1998 arrangements for selection by ability or aptitude](section/53.md)
+    - [s. 54 Pupil banding](section/54.md)
+  - Miscellaneous
+    - [s. 55 Right of sixth-form pupils to be excused from attendance at religious worship](section/55.md)
+    - [s. 56 Charges for music tuition](section/56.md)
+    - [s. 57 School funding](section/57.md)
+    - [s. 58 Removal of requirement to issue code of practice as to relationships between local authorities and maintained schools in England etc](section/58.md)
+- Part 4 Schools causing concern: England
+  - Introduction
+    - [s. 59 Meaning of “maintained school” and “eligible for intervention”](section/59.md)
+  - Schools that are eligible for intervention
+    - [s. 60 Performance standards and safety warning notice](section/60.md)
+    - [s. 60A Teachers’ pay and conditions warning notice](section/60A.md)
+    - [s. 60B Coasting schools](section/60B.md)
+    - [s. 61 School requiring significant improvement](section/61.md)
+    - [s. 62 School requiring special measures](section/62.md)
+  - Intervention by local authority
+    - [s. 63 Power of local authority to require governing body to enter into arrangements](section/63.md)
+    - [s. 64 Power of local authority etc. to appoint additional governors](section/64.md)
+    - [s. 65 Power of local authority to provide for governing body to consist of interim executive members](section/65.md)
+    - [s. 66 Power of local authority to suspend right to delegated budget](section/66.md)
+  - Intervention by Secretary of State
+    - [s. 66A Power of Secretary of State to require governing body to enter into arrangements](section/66A.md)
+    - [s. 67 Power of Secretary of State to appoint additional governors](section/67.md)
+    - [s. 68 Power of Secretary of State to direct closure of school](section/68.md)
+    - [s. 69 Power of Secretary of State to provide for governing body to consist of interim executive members](section/69.md)
+    - [s. 69A Power of Secretary of State to direct local authority to give performance standards and safety warning notice](section/69A.md)
+    - [s. 69B Power of Secretary of State to direct local authority to give teachers’ pay and conditions warning notice](section/69B.md)
+  - Governing bodies consisting of interim executive members: further provisions
+    - [s. 70 Governing bodies consisting of interim executive members](section/70.md)
+  - Interaction between different intervention powers etc
+    - [s. 70A Duties for local authorities and Secretary of State to notify each other](section/70A.md)
+    - [s. 70B Restriction on use of local authority intervention powers](section/70B.md)
+    - [s. 70C Secretary of State’s power to take over responsibility for interim executive members](section/70C.md)
+  - Amendments relating to schools causing concern
+    - [s. 71 Amendments relating to schools causing concern](section/71.md)
+  - Supplementary
+    - [s. 72 Duty of local authority to have regard to guidance](section/72.md)
+    - [s. 73 Interpretation of Part 4](section/73.md)
+- Part 5 Curriculum and entitlements
+  - [s. 74 Curriculum requirements for the fourth key stage](section/74.md)
+  - [s. 75 Education and training to satisfy entitlements](section/75.md)
+- Part 6 School travel and school food
+  - Travel to schools etc
+    - [s. 76 Local authorities in England: duty to promote sustainable modes of travel etc](section/76.md)
+    - [s. 77 Local authorities in England: provision of travel arrangements etc for children](section/77.md)
+    - [s. 78 Local authorities in England: school travel schemes](section/78.md)
+    - [s. 79 Piloting of school travel scheme provisions](section/79.md)
+    - [s. 80 Power to repeal school travel scheme provisions etc](section/80.md)
+    - [s. 81 Local authorities in England: provision of transport etc for certain adult learners](section/81.md)
+    - [s. 82 Amendments of section 444 of EA 1996 in relation to school travel](section/82.md)
+    - [s. 83 Learning and Skills Council for England: transport etc for persons of sixth form age](section/83.md)
+    - [s. 84 Local authorities in England: duty to have regard to religion or belief in exercise of travel functions](section/84.md)
+    - [s. 85 Further amendments relating to travel to schools etc](section/85.md)
+  - Food and drink provided on school premises etc
+    - [s. 86 Provision of food and drink on school premises etc](section/86.md)
+    - [s. 87 Power to charge for provision of meals etc](section/87.md)
+- Part 7 Discipline, behaviour and exclusion
+  - Chapter 1 School Discipline
+    - Certain schools required to have behaviour policy
+      - [s. 88 Responsibility of governing body for discipline](section/88.md)
+      - [s. 89 Determination by head teacher of behaviour policy](section/89.md)
+    - Enforcement of discipline (including compliance with instructions)
+      - [s. 90 Meaning of “disciplinary penalty”](section/90.md)
+      - [s. 91 Enforcement of disciplinary penalties: general](section/91.md)
+      - [s. 92 Enforcement of disciplinary penalties: detention outside school sessions](section/92.md)
+    - Use of reasonable force
+      - [s. 93 Power of members of staff to use force](section/93.md)
+      - [s. 93A Recording and reporting the use of force by members of staff: England](section/93A.md)
+    - Confiscation from pupils
+      - [s. 94 Defence where confiscation lawful](section/94.md)
+    - Interpretation of Chapter 1
+      - [s. 95 Interpretation of Chapter 1](section/95.md)
+    - Repeals
+      - [s. 96 Repeals consequential on provisions of Chapter 1](section/96.md)
+  - Chapter 2 Parental responsibilities and excluded pupils
+    - Parenting contracts and parenting orders
+      - [s. 97 Parenting contracts](section/97.md)
+      - [s. 98 Parenting orders in case of exclusion or misbehaviour](section/98.md)
+      - [s. 99 Parenting contracts and parenting orders: further provisions](section/99.md)
+    - Excluded pupils
+      - [s. 100 Duty of governing body or proprietor where pupil excluded for fixed period](section/100.md)
+      - [s. 101 Duty of local authority in relation to excluded pupils](section/101.md)
+      - [s. 102 Reintegration interviews](section/102.md)
+      - [s. 103 Duty of parent in relation to excluded pupil](section/103.md)
+      - [s. 104 Notice to parent relating to excluded pupil](section/104.md)
+      - [s. 105 Penalty notice in respect of presence of excluded pupil in public place](section/105.md)
+      - [s. 106 Penalty notices: supplemental](section/106.md)
+      - [s. 107 Penalty notices: amendments of Police Reform Act 2002](section/107.md)
+      - [s. 108 Removal of excluded pupils to designated premises](section/108.md)
+    - School attendance
+      - [s. 109 Failure to secure school attendance](section/109.md)
+      - [s. 110 Sums received under section 444A of EA 1996](section/110.md)
+    - Interpretation of Chapter 2
+      - [s. 111 Meaning of “maintained school” and “relevant school” in Chapter 2](section/111.md)
+- Part 8 Inspections
+  - Chapter 1 The Office and the Chief Inspector
+    - The Office
+      - [s. 112 The Office for Standards in Education, Children’s Services and Skills](section/112.md)
+    - The Chief Inspector and other inspectors
+      - [s. 113 Her Majesty’s Chief Inspector of Education, Children’s Services and Skills](section/113.md)
+      - [s. 114 Her Majesty’s Inspectors of Education, Children’s Services and Skills](section/114.md)
+      - [s. 115 Further provision about Chief Inspector and other inspectors etc.](section/115.md)
+    - Functions: the Office
+      - [s. 116 Functions of the Office](section/116.md)
+      - [s. 117 Performance of Office’s functions](section/117.md)
+    - Functions: the Chief Inspector
+      - [s. 118 Functions of the Chief Inspector](section/118.md)
+      - [s. 119 Performance of Chief Inspector’s functions](section/119.md)
+    - The Children’s Rights Director
+      - [s. 120 Children’s Rights Director](section/120.md)
+    - Annual reports etc.
+      - [s. 121 Annual and other reports to Secretary of State](section/121.md)
+  - Chapter 2 General transfer of functions
+    - [s. 122 General transfer of functions to the Chief Inspector](section/122.md)
+  - Chapter 2A Inspection of Academy proprietors
+    - Inspection
+      - [s. 122A Duty to inspect Academy proprietors at specified intervals](section/122A.md)
+      - [s. 122B Report of section 122A inspection](section/122B.md)
+      - [s. 122C Other inspections](section/122C.md)
+      - [s. 122D Duty to notify certain persons of inspection](section/122D.md)
+      - [s. 122E Power or duty to treat other inspection as section 122A inspection](section/122E.md)
+      - [s. 122F Framework for inspections under this Chapter](section/122F.md)
+    - Powers of entry etc.
+      - [s. 122G Powers of entry etc. for purposes of inspection](section/122G.md)
+    - Academy proprietors not performing to acceptable standard
+      - [s. 122H Academy proprietors not performing to acceptable standard](section/122H.md)
+    - Supplementary
+      - [s. 122I Regulations under Chapter 2A](section/122I.md)
+      - [s. 122J Interpretation of Chapter 2A](section/122J.md)
+  - Chapter 3 Inspection of Further Education and Training etc.
+    - Education and training to which this Chapter applies
+      - [s. 123 Education and training to which this Chapter applies](section/123.md)
+    - Inspection
+      - [s. 124 Inspection of education and training to which this Chapter applies](section/124.md)
+      - [s. 125 Inspection of further education institutions](section/125.md)
+      - [s. 126 Other inspections](section/126.md)
+      - [s. 127 Action plans](section/127.md)
+      - [s. 128 Area inspections](section/128.md)
+      - [s. 129 Reports of area inspections](section/129.md)
+      - [s. 130 Action plans following area inspections](section/130.md)
+    - Powers of entry etc.
+      - [s. 131 Power of entry](section/131.md)
+      - [s. 132 Power to inspect documents, etc.](section/132.md)
+    - Other provisions
+      - [s. 133 Framework for inspections](section/133.md)
+      - [s. 134 Abolition of Adult Learning Inspectorate](section/134.md)
+  - Chapter 4 Inspection ... of Local Authorities in England
+    - Functions to which this Chapter applies
+      - [s. 135 Functions to which this Chapter applies and related activities](section/135.md)
+    - Inspections ...
+      - [s. 136 Inspection of local authorities in England](section/136.md)
+      - [s. 137 Reports of inspections under section 136](section/137.md)
+      - [s. 138 Annual reviews of local authorities in England](section/138.md)
+    - Powers of entry etc.
+      - [s. 139 Power of entry](section/139.md)
+      - [s. 140 Power to inspect documents, etc.](section/140.md)
+    - Supplementary
+      - [s. 141 Power to require information etc.](section/141.md)
+      - [s. 142 Interpretation etc.](section/142.md)
+  - Chapter 5 Inspection of CAFCASS functions
+    - [s. 143 Inspection of CAFCASS functions](section/143.md)
+    - [s. 144 Power of entry](section/144.md)
+    - [s. 145 Power to inspect documents, etc.](section/145.md)
+  - Chapter 6 Further provisions relating to functions of Chief Inspector
+    - Functions
+      - [s. 146 Inspection of secure training centres and secure colleges](section/146.md)
+      - [s. 147 Inspection of premises in connection with adoption and fostering functions](section/147.md)
+      - [s. 148 Transfer of certain CSCI functions to the Chief Inspector](section/148.md)
+      - [s. 149 Interaction with other authorities](section/149.md)
+    - General provisions
+      - [s. 150 Evidence of authority](section/150.md)
+      - [s. 151 Publication of inspection reports](section/151.md)
+      - [s. 152 Combined reports](section/152.md)
+      - [s. 153 Use of information](section/153.md)
+  - Chapter 7 Miscellaneous and supplementary
+    - Miscellaneous
+      - [s. 154 Duty to report on contribution of certain schools to community cohesion](section/154.md)
+      - [s. 155 Payment of annual fee to the Chief Inspector by local authorities](section/155.md)
+      - [s. 156 Removal of HMICA’s duty to inspect performance of Assembly’s functions relating to family proceedings](section/156.md)
+    - Supplementary
+      - [s. 157 Minor and consequential amendments](section/157.md)
+      - [s. 158 Transitional provisions and savings](section/158.md)
+      - [s. 159 Interpretation of Part 8](section/159.md)
+- Part 9 Miscellaneous
+  - Investigation of complaints by Chief Inspector
+    - [s. 160 Power of Chief Inspector to investigate complaints by parents about schools](section/160.md)
+  - Powers to facilitate innovation
+    - [s. 161 Powers to facilitate innovation](section/161.md)
+  - References to “local education authority” or “children’s services authority”
+    - [s. 162 Power to repeal references to “local education authority” and “children’s services authority” etc](section/162.md)
+  - Provision of advice by adjudicator
+    - [s. 163 Provision of advice by adjudicator](section/163.md)
+  - Information about children receiving publicly-funded education
+    - [s. 164 Information about children receiving funded education outside school](section/164.md)
+  - Further education
+    - [s. 165 Power of members of staff of further education institutions to use force](section/165.md)
+    - [s. 166 Collaboration arrangements: maintained schools and further education bodies](section/166.md)
+  - Early years provision
+    - [s. 167 Consultation with young pupils](section/167.md)
+    - [s. 168 Maintained nursery schools: amendment of sections 496 and 497 of EA 1996](section/168.md)
+  - Independent schools
+    - [s. 169 Prohibition on participation in management of independent school](section/169.md)
+    - [s. 170 Prohibition on participation in management: supplementary](section/170.md)
+    - [s. 171 Prohibition on participation in management: transitional provision](section/171.md)
+    - [s. 172 Offences relating to independent schools](section/172.md)
+  - Special educational needs
+    - [s. 173 Special educational needs co-ordinators](section/173.md)
+    - [s. 174 Time limits relating to statements of special educational needs](section/174.md)
+  - Other miscellaneous provisions
+    - [s. 175 Miscellaneous amendments relating to Wales](section/175.md)
+    - [s. 176 Support schemes relating to education and training for persons aged 10 to 15](section/176.md)
+    - [s. 177 University bodies: amendment of section 29 of Leasehold Reform Act 1967](section/177.md)
+- Part 10 General
+  - [s. 178 Framework power relating to Wales](section/178.md)
+  - [s. 179 Restrictions on framework power conferred by section 178](section/179.md)
+  - [s. 180 Functions to be exercisable by National Assembly for Wales](section/180.md)
+  - [s. 181 Orders and regulations: general provisions](section/181.md)
+  - [s. 182 Parliamentary control of orders and regulations](section/182.md)
+  - [s. 182A Assembly control of orders and regulations](section/182A.md)
+  - [s. 183 Power to make consequential and transitional provision etc](section/183.md)
+  - [s. 184 Repeals](section/184.md)
+  - [s. 185 Financial provisions](section/185.md)
+  - [s. 186 Abbreviations of Acts](section/186.md)
+  - [s. 187 General interpretation](section/187.md)
+  - [s. 188 Commencement](section/188.md)
+  - [s. 189 The appropriate authority by whom commencement order is made](section/189.md)
+  - [s. 190 Extent](section/190.md)
+  - [s. 191 Short title](section/191.md)
+- SCHEDULE 1 Amendments related to section 6
+  - ...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Proposals for establishment or discontinuance of schools in England
+  - Part 1 Introductory
+    - Application of Schedule
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - “The relevant authority”
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - “Proposers”
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - ...
+      - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - References to persons by whom proposals are made
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Objections and comments
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part 2 Consideration of proposals ...
+    - Consideration of proposals
+      - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 7A](schedule/2/paragraph/7A.md)
+    - ...
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Consideration of proposals that are related to other proposals
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Duty to refer to Secretary of State or adjudicator certain proposals made by or involving relevant authority
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Duty to refer proposals to adjudicator in prescribed cases
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Duty to refer proposals to Secretary of State in pursuance of direction by Secretary of State
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Duty to refer certain proposals to adjudicator where determination delayed
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Reference to adjudicator at request of aggrieved person after determination under paragraph 8(4)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Duty to refer related proposals
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Withdrawal of proposals before determination
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Effect of referring proposals to Secretary of State or adjudicator
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Proposals to establish Academy
+      - [Sch. 2 para. 17A](schedule/2/paragraph/17A.md)
+    - ...
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Determination whether to implement proposals not requiring consideration under paragraph 8
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Provision of information
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part 3 Implementation of proposals
+    - Requirement to implement proposals
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Proposals not falling to be implemented
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Proposals relating to community schools, community special schools or maintained nursery schools
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Proposals relating to foundation or voluntary controlled schools
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Proposals relating to voluntary aided school
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Proposals relating to foundation special schools
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Proposals relating to Academy
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Part 4 Provision of premises and other assistance in connection with establishment of new school
+    - Provision of site and buildings for proposed foundation, voluntary controlled or foundation special school
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Grants in respect of certain expenditure relating to proposed voluntary aided school
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Assistance for proposers of proposed voluntary aided school
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Duty to transfer interest in premises provided under paragraph 30
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+- SCHEDULE 3 Amendments relating to school organisation
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - ...
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - ...
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Further and Higher Education Act 1992 (c. 13)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - School Standards and Framework Act 1998 (c. 31)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - Learning and Skills Act 2000 (c. 21)
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+    - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+    - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+  - Education Act 2005 (c. 18)
+    - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+    - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+    - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+    - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+    - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+- SCHEDULE 4 Disposals and changes of use of land
+  - Part 1 Amendments to Schedule 22 to SSFA 1998
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Part 2 Amendments to section 77 of SSFA 1998
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Part 3 Consequential amendments
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 Funding of maintained schools
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Governing bodies consisting of interim executive members
+  - Interpretation of Schedule
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Governing body to consist of members appointed by appropriate authority
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Effect of notice under section 65(1) or 69(1)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Interim executive members
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+  - Duty of appropriate authority to inform other persons
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Power to specify duration of interim period
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Chairman
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Remuneration and allowances
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Duty of interim executive board
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Proceedings of interim executive board
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Effect on suspension of delegated budget
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Exclusion of certain statutory provisions
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Closure of school
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Notice of resumption of government by normally constituted governing body
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Time when interim executive members cease to hold office
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Establishment of normally constituted governing body
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+- SCHEDULE 7 Amendments relating to schools causing concern
+  - Part 1 Principal amendments
+    - Statement to be prepared by local authority following adverse report on maintained school
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Statement to be prepared by proprietor following adverse report on non-maintained school
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Part 2 Minor and consequential amendments
+    - School Standards and Framework Act 1998 (c. 31)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Learning and Skills Act 2000 (c. 21)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Education Act 2002 (c. 32)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Education Act 2005 (c. 18)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+- SCHEDULE 8 Travel to schools etc: meaning of “eligible child”
+- SCHEDULE 9 School travel schemes
+- SCHEDULE 10 Further amendments relating to travel to schools etc
+  - Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 The Office for Standards in Education, Children’s Services and Skills
+  - Membership
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Terms of appointment
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Remuneration of members
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Staff
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Committees
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Procedure etc.
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Performance of functions
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Execution of documents
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Evidence
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Supplementary powers
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+- SCHEDULE 12 The Chief Inspector and other inspectors etc.
+  - Part 1 The Chief Inspector
+    - Remuneration, pensions etc. of Chief Inspector
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Temporary appointment of Chief Inspector; performance of functions during vacancy or incapacity etc.
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Execution of documents
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Evidence
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Ancillary powers
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Nature of functions conferred on Chief Inspector
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Relationship between Chief Inspector and the Office
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Part 2 Inspectors etc. acting on behalf of Chief Inspector
+    - Delegation of functions
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - Inspectors etc. to have necessary qualifications, experience and skills
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - Additional inspectors
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 11A Inspection administrators](schedule/12/paragraph/11A.md)
+    - Provisions relating to additional inspectors provided by inspection service providers
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- SCHEDULE 13 Interaction with other authorities
+  - Inspection authorities and inspection functions
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Public authorities
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Delegation of inspection functions to public authorities
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Inspection programmes and inspection frameworks
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Inspections by other inspectors of institutions within Chief Inspector’s remit
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Co-operation
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Joint action
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Advice or assistance for other public authorities
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Inspections carried out under arrangements
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Charges
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 Minor and consequential amendments relating to Part 8
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Employment and Training Act 1973 (c. 50)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Further and Higher Education Act 1992 (c. 13)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Education Act 1994 (c. 30)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Education Act 1997 (c. 44)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+  - Data Protection Act 1998 (c. 29)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+  - School Standards and Framework Act 1998 (c. 31)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+  - Protection of Children Act 1999 (c. 14)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+  - Local Government Act 1999 (c. 27)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+  - Care Standards Act 2000 (c. 14)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+  - Learning and Skills Act 2000 (c. 21)
+    - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+    - [Sch. 14 para. 61](schedule/14/paragraph/61.md)
+    - [Sch. 14 para. 62](schedule/14/paragraph/62.md)
+    - [Sch. 14 para. 63](schedule/14/paragraph/63.md)
+    - [Sch. 14 para. 64](schedule/14/paragraph/64.md)
+    - [Sch. 14 para. 65](schedule/14/paragraph/65.md)
+    - [Sch. 14 para. 66](schedule/14/paragraph/66.md)
+    - [Sch. 14 para. 67](schedule/14/paragraph/67.md)
+  - Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 14 para. 68](schedule/14/paragraph/68.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 14 para. 69](schedule/14/paragraph/69.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 14 para. 70](schedule/14/paragraph/70.md)
+    - [Sch. 14 para. 71](schedule/14/paragraph/71.md)
+    - [Sch. 14 para. 72](schedule/14/paragraph/72.md)
+    - [Sch. 14 para. 73](schedule/14/paragraph/73.md)
+    - [Sch. 14 para. 74](schedule/14/paragraph/74.md)
+    - [Sch. 14 para. 75](schedule/14/paragraph/75.md)
+  - Adoption and Children Act 2002 (c. 38)
+    - [Sch. 14 para. 76](schedule/14/paragraph/76.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 14 para. 77](schedule/14/paragraph/77.md)
+    - [Sch. 14 para. 78](schedule/14/paragraph/78.md)
+    - [Sch. 14 para. 79](schedule/14/paragraph/79.md)
+    - [Sch. 14 para. 80](schedule/14/paragraph/80.md)
+    - [Sch. 14 para. 81](schedule/14/paragraph/81.md)
+  - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+    - [Sch. 14 para. 82](schedule/14/paragraph/82.md)
+    - [Sch. 14 para. 83](schedule/14/paragraph/83.md)
+    - [Sch. 14 para. 84](schedule/14/paragraph/84.md)
+    - [Sch. 14 para. 85](schedule/14/paragraph/85.md)
+    - [Sch. 14 para. 86](schedule/14/paragraph/86.md)
+    - [Sch. 14 para. 87](schedule/14/paragraph/87.md)
+    - [Sch. 14 para. 88](schedule/14/paragraph/88.md)
+    - [Sch. 14 para. 89](schedule/14/paragraph/89.md)
+    - [Sch. 14 para. 90](schedule/14/paragraph/90.md)
+    - [Sch. 14 para. 91](schedule/14/paragraph/91.md)
+    - [Sch. 14 para. 92](schedule/14/paragraph/92.md)
+    - [Sch. 14 para. 93](schedule/14/paragraph/93.md)
+    - [Sch. 14 para. 94](schedule/14/paragraph/94.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 14 para. 95](schedule/14/paragraph/95.md)
+    - [Sch. 14 para. 96](schedule/14/paragraph/96.md)
+    - [Sch. 14 para. 97](schedule/14/paragraph/97.md)
+  - Education Act 2005 (c. 18)
+    - [Sch. 14 para. 98](schedule/14/paragraph/98.md)
+    - [Sch. 14 para. 99](schedule/14/paragraph/99.md)
+    - [Sch. 14 para. 100](schedule/14/paragraph/100.md)
+    - [Sch. 14 para. 101](schedule/14/paragraph/101.md)
+    - [Sch. 14 para. 102](schedule/14/paragraph/102.md)
+    - [Sch. 14 para. 103](schedule/14/paragraph/103.md)
+    - [Sch. 14 para. 104](schedule/14/paragraph/104.md)
+    - [Sch. 14 para. 105](schedule/14/paragraph/105.md)
+    - [Sch. 14 para. 106](schedule/14/paragraph/106.md)
+    - [Sch. 14 para. 107](schedule/14/paragraph/107.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 14 para. 108](schedule/14/paragraph/108.md)
+    - [Sch. 14 para. 109](schedule/14/paragraph/109.md)
+    - [Sch. 14 para. 110](schedule/14/paragraph/110.md)
+    - [Sch. 14 para. 111](schedule/14/paragraph/111.md)
+    - [Sch. 14 para. 112](schedule/14/paragraph/112.md)
+    - [Sch. 14 para. 113](schedule/14/paragraph/113.md)
+    - [Sch. 14 para. 114](schedule/14/paragraph/114.md)
+    - [Sch. 14 para. 115](schedule/14/paragraph/115.md)
+    - [Sch. 14 para. 116](schedule/14/paragraph/116.md)
+    - [Sch. 14 para. 117](schedule/14/paragraph/117.md)
+- SCHEDULE 15 Transitional provisions and savings relating to Part 8
+  - Staff transfer schemes
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Property transfer schemes
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Continuity of exercise of functions etc.
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Schemes: supplementary
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Saving for previous transfer schemes
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Preparation for performance of functions by the new Chief Inspector
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - First annual report of the new Chief Inspector
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Interpretation
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+- SCHEDULE 16 Powers to facilitate innovation
+  - Part 1 Amendments of Chapter 1 of Part 1 of EA 2002
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Part 2 Consequential amendment
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+- SCHEDULE 17 Miscellaneous amendments relating to Wales
+  - Schools in Wales causing concern: warning notice by local education authority
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Local authority’s reserve power to prevent breakdown of discipline
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Orders and regulations made by Assembly under SSFA 1998
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Meaning of “the Assembly” in SSFA 1998
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Power of Assembly to require local authority to obtain advisory services
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+- SCHEDULE 18 Repeals
+  - Part 1 Repeals coming into force on Royal Assent
+  - Part 2 Repeals coming into force in accordance with section 188(2)
+  - Part 3 School organisation
+  - Part 4 Schools causing concern
+  - Part 5 Inspections
+  - Part 6 Other repeals
