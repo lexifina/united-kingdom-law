@@ -1,0 +1,239 @@
+# Curriculum and Assessment (Wales) Act 2021
+
+asc/2021/4. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2021/4
+
+Source: https://www.legislation.gov.uk/asc/2021/4/2026-09-01
+
+## Contents
+
+- PART 1 BASIC CONCEPTS AND KEY DOCUMENTS
+  - [s. 1 Introduction](section/1.md)
+  - [s. 2 The four purposes](section/2.md)
+  - [s. 3 The areas of learning and experience](section/3.md)
+  - [s. 4 The mandatory cross-curricular skills](section/4.md)
+  - [s. 5 Power to amend sections 3 and 4](section/5.md)
+  - [s. 6 The What Matters Code](section/6.md)
+  - [s. 7 The Progression Code](section/7.md)
+  - [s. 8 The RSE Code](section/8.md)
+- PART 2 CURRICULUM IN MAINTAINED SCHOOLS, MAINTAINED NURSERY SCHOOLS AND FUNDED NON-MAINTAINED NURSERY EDUCATION
+  - CHAPTER 1 CURRICULUM DESIGN AND ADOPTION
+    - General
+      - [s. 9 Introduction and interpretation](section/9.md)
+    - Maintained schools and maintained nursery schools
+      - [s. 10 Curriculum design](section/10.md)
+      - [s. 11 Curriculum adoption](section/11.md)
+      - [s. 12 Curriculum review and revision](section/12.md)
+    - Funded non-maintained nursery education
+      - [s. 13 Welsh Ministers’ duty to publish a curriculum](section/13.md)
+      - [s. 14 Review and revision of curriculum published by Welsh Ministers](section/14.md)
+      - [s. 15 Curriculum adoption](section/15.md)
+      - [s. 16 Curriculum review and revision](section/16.md)
+    - Supplementary provision
+      - [s. 17 Power to make supplementary provision about curriculum adoption and revision](section/17.md)
+      - [s. 18 Power to make supplementary provision about curriculum summaries](section/18.md)
+  - CHAPTER 2 CURRICULUM REQUIREMENTS
+    - General
+      - [s. 19 Introduction](section/19.md)
+    - Curriculum requirements
+      - [s. 20 The four purposes](section/20.md)
+      - [s. 21 Progression](section/21.md)
+      - [s. 22 Suitability](section/22.md)
+      - [s. 23 Breadth and balance](section/23.md)
+      - [s. 24 Areas of learning and experience and cross-curricular skills](section/24.md)
+      - [s. 25 Power to impose further curriculum requirements](section/25.md)
+  - CHAPTER 3 CURRICULUM IMPLEMENTATION
+    - General
+      - [s. 26 Introduction and interpretation](section/26.md)
+    - Maintained schools and maintained nursery schools
+      - [s. 27 Duty to ensure implementation of adopted curriculum](section/27.md)
+      - [s. 28 General implementation requirements](section/28.md)
+      - [s. 29 Further implementation requirements for pupils aged 3 to 14](section/29.md)
+      - [s. 30 Further implementation requirements for pupils aged 14 to 16](section/30.md)
+      - [s. 31 Power to disapply duty to implement pupil choice](section/31.md)
+      - [s. 32 Power to disapply duty to implement pupil choice: supplementary](section/32.md)
+      - [s. 33 Reviews and appeals relating to pupil choice](section/33.md)
+    - Funded non-maintained nursery education
+      - [s. 34 Duty to ensure implementation of adopted curriculum](section/34.md)
+      - [s. 35 General implementation requirements](section/35.md)
+      - [s. 36 Requirements relating to areas of learning and experience and cross-curricular skills](section/36.md)
+  - CHAPTER 4 CURRICULUM IMPLEMENTATION: EXCEPTIONS
+    - [s. 37 Introduction](section/37.md)
+    - [s. 38 Development work and experiments](section/38.md)
+    - [s. 39 Development work and experiments: conditions](section/39.md)
+    - [s. 40 Development work and experiments: supplementary](section/40.md)
+    - [s. 41 Pupils and children with additional learning needs](section/41.md)
+    - [s. 42 Temporary exceptions for individual pupils and children](section/42.md)
+    - [s. 43 Temporary exceptions for individual pupils and children: supplementary](section/43.md)
+    - [s. 44 Provision of information about temporary exceptions](section/44.md)
+    - [s. 45 Appeals about temporary exceptions for individual pupils](section/45.md)
+    - [s. 46 Appeals about temporary exceptions for individual children](section/46.md)
+    - [s. 47 Exception for pupils for whom arrangements are made under section 19A of the Education Act 1996](section/47.md)
+    - [s. 48 Power to make provision for further exceptions](section/48.md)
+- PART 3 CURRICULUM FOR EXCEPTIONAL PROVISION OF EDUCATION IN PUPIL REFERRAL UNITS OR ELSEWHERE
+  - General
+    - [s. 49 Introduction](section/49.md)
+  - Pupil referral units
+    - [s. 50 Curriculum requirements](section/50.md)
+    - [s. 51 Curriculum review and revision](section/51.md)
+    - [s. 52 Curriculum implementation](section/52.md)
+  - Other education provided under section 19A of the Education Act 1996
+    - [s. 53 Curriculum requirements](section/53.md)
+    - [s. 54 Review and revision](section/54.md)
+    - [s. 55 Curriculum implementation](section/55.md)
+- PART 4 ASSESSMENT AND PROGRESSION
+  - [s. 56 Duty to make provision about assessment arrangements](section/56.md)
+  - [s. 57 Promoting and maintaining understanding of progression](section/57.md)
+- PART 5 CURRICULUM: POST COMPULSORY EDUCATION IN MAINTAINED SCHOOLS
+  - [s. 58 Introduction and interpretation](section/58.md)
+  - [s. 59 General curriculum requirement](section/59.md)
+  - [s. 60 Curriculum requirement: Relationships and Sexuality Education](section/60.md)
+  - [s. 61 Curriculum requirement: Religion, Values and Ethics](section/61.md)
+  - [s. 62 Further curriculum requirements](section/62.md)
+- PART 6 SUPPLEMENTARY
+  - Mental health and emotional well-being
+    - [s. 63 Duty to have regard to mental health and emotional well-being of children and young persons](section/63.md)
+  - UN Conventions
+    - [s. 64 Duty to promote knowledge and understanding of UN Conventions on the rights of children and persons with disabilities](section/64.md)
+  - Co-operation and facilitation
+    - [s. 65 Duty to co-operate](section/65.md)
+    - [s. 66 Welsh Ministers’ duty to facilitate the performance of functions](section/66.md)
+    - [s. 67 Local authorities’ duty to facilitate the performance of functions](section/67.md)
+  - Welsh language
+    - [s. 68 Welsh Ministers’ duty to promote access etc to Welsh medium courses of study](section/68.md)
+  - Specific provision for further settings etc
+    - [s. 69 Power to make provision for children receiving education in more than one setting etc](section/69.md)
+    - [s. 70 Power to apply Act to detained children and detained young persons](section/70.md)
+  - Guidance
+    - [s. 71 Duty to have regard to guidance](section/71.md)
+- PART 7 GENERAL
+  - [s. 72 Status of this Act as an Education Act](section/72.md)
+  - [s. 73 Minor and consequential amendments and repeals](section/73.md)
+  - [s. 74 Power to make additional provision to give full effect to this Act etc](section/74.md)
+  - [s. 75 Regulations](section/75.md)
+  - [s. 76 The What Matters Code and the Progression Code: procedure](section/76.md)
+  - [s. 77 The RSE Code: procedure](section/77.md)
+  - [s. 78 Written information, notices and directions](section/78.md)
+  - [s. 79 Meaning of “maintained school”, “maintained nursery school” and associated expressions](section/79.md)
+  - [s. 80 Meaning of “funded non-maintained nursery education” and associated expressions](section/80.md)
+  - [s. 81 Meaning of “pupil referral unit” and associated expressions](section/81.md)
+  - [s. 82 General interpretation](section/82.md)
+  - [s. 83 Index of expressions defined in this Act](section/83.md)
+  - [s. 84 Coming into force](section/84.md)
+  - [s. 85 Short title](section/85.md)
+- SCHEDULE 1 RELIGION, VALUES AND ETHICS
+  - PART 1 CURRICULUM DESIGN
+    - Application
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Community schools and foundation and voluntary schools without a religious character
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Foundation and voluntary controlled schools that have a religious character
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Voluntary aided schools that have a religious character
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - PART 2 CURRICULUM IMPLEMENTATION
+    - Application
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Community schools and foundation and voluntary schools without a religious character
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Foundation and voluntary controlled schools that have a religious character
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Voluntary aided schools that have a religious character
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 3 INTERPRETATION
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - Education Act 1996 (c. 56)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Education Act 1997 (c. 44)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - School Standards and Framework Act 1998 (c. 31)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+  - Licensing Act 2003 (c. 17)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+  - Anti-Social Behaviour Act 2003 (c. 38)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+  - Education Act 2005 (c. 18)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+  - National Health Service Act 2006 (c. 41)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+  - National Health Service (Wales) Act 2006 (c. 42)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+  - Learning and Skills (Wales) Measure 2009 (nawm 1)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+  - Education (Wales) Measure 2009 (nawm 5)
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+    - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+    - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+    - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+  - Education (Wales) Measure 2011 (nawm 7)
+    - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+  - School Standards and Organisation (Wales) Act 2013 (anaw 1)
+    - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+    - [Sch. 2 para. 69](schedule/2/paragraph/69.md)
+    - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+  - Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)
+    - [Sch. 2 para. 71](schedule/2/paragraph/71.md)
+    - [Sch. 2 para. 72](schedule/2/paragraph/72.md)
+  - Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)
+    - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+    - [Sch. 2 para. 74](schedule/2/paragraph/74.md)
+    - [Sch. 2 para. 75](schedule/2/paragraph/75.md)
