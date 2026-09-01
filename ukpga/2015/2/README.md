@@ -1,0 +1,541 @@
+# Criminal Justice and Courts Act 2015
+
+2015 c. 2. Enacted 2015-02-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
+
+Source: https://www.legislation.gov.uk/ukpga/2015/2/2026-09-01
+
+## Contents
+
+- PART 1 Criminal Justice
+  - Dangerous offenders
+    - [s. 1 Maximum sentence for certain offences to be life imprisonment](section/1.md)
+    - [s. 2 Specified offences](section/2.md)
+    - [s. 3 Schedule 15B offences](section/3.md)
+    - [s. 4 Parole Board release when serving extended sentences](section/4.md)
+    - [s. 5 Minor amendments](section/5.md)
+  - Other offenders of particular concern
+    - [s. 6 Sentence and Parole Board release for offenders of particular concern](section/6.md)
+  - Release and recall of prisoners
+    - [s. 7 Electronic monitoring following release on licence etc](section/7.md)
+    - [s. 8 Recall adjudicators](section/8.md)
+    - [s. 9](section/9.md)
+    - [s. 10](section/10.md)
+    - [s. 11 Initial release and release after recall: life sentences](section/11.md)
+    - [s. 12 Offence of remaining unlawfully at large after recall](section/12.md)
+    - [s. 13 Offence of remaining unlawfully at large after temporary release](section/13.md)
+    - [s. 14 Definition of “requisite custodial period”](section/14.md)
+    - [s. 15 Minor amendments and transitional cases](section/15.md)
+  - Prisons
+    - [s. 16 Drugs for which prisoners etc may be tested](section/16.md)
+  - Cautions etc
+    - [s. 17 Restrictions on use of cautions](section/17.md)
+    - [s. 18 Restrictions on use of cautions: supplementary](section/18.md)
+    - [s. 19 Alternatives to prosecution: rehabilitation of offenders in Scotland](section/19.md)
+  - Offences involving ill-treatment or wilful neglect
+    - [s. 20 Ill-treatment or wilful neglect: care worker offence](section/20.md)
+    - [s. 21 Ill-treatment or wilful neglect: care provider offence](section/21.md)
+    - [s. 22 Care provider offence: excluded care providers](section/22.md)
+    - [s. 23 Care provider offence: penalties](section/23.md)
+    - [s. 24 Care provider offence: application to unincorporated associations](section/24.md)
+    - [s. 25 Care provider offence: liability for ancillary and other offences](section/25.md)
+  - Offences involving police or prison officers
+    - [s. 26 Corrupt or other improper exercise of police powers and privileges](section/26.md)
+    - [s. 27 Term of imprisonment for murder of police or prison officer](section/27.md)
+  - Repeat offences involving offensive weapons etc
+    - [s. 28 Minimum sentence for repeat offences involving offensive weapons etc](section/28.md)
+  - Driving offences
+    - [s. 29 Offences committed by disqualified drivers](section/29.md)
+    - [s. 30 Extension of disqualification from driving where custodial sentence also imposed](section/30.md)
+    - [s. 31 Mutual recognition of driving disqualification in UK and Republic of Ireland](section/31.md)
+  - Offences involving intent to cause distress etc
+    - [s. 32 Sending letters etc with intent to cause distress or anxiety](section/32.md)
+    - [s. 33 Disclosing, or threatening to disclose, private sexual photographs and films with intent to cause distress](section/33.md)
+    - [s. 34 Meaning of “disclose” and “photograph or film”](section/34.md)
+    - [s. 35 Meaning of “private” and “sexual”](section/35.md)
+  - Offences involving sexual grooming or pornographic images
+    - [s. 36 Meeting a child following sexual grooming etc](section/36.md)
+    - [s. 37 Possession of pornographic images of rape and assault by penetration](section/37.md)
+- PART 2 Young offenders
+  - Detention of young offenders
+    - [s. 38 Secure colleges and other places for detention of young offenders etc](section/38.md)
+    - [s. 39 Contracting out secure colleges](section/39.md)
+    - [s. 40 Powers of Youth Justice Board in relation to provision of accommodation](section/40.md)
+  - Other matters
+    - [s. 41 Youth cautions and conditional cautions: involvement of appropriate adults](section/41.md)
+    - [s. 42 Duties of custody officer after charge: arrested juveniles](section/42.md)
+    - [s. 43 Referral orders: alternatives to revocation for breach of youth offender contract](section/43.md)
+    - [s. 44 Referral orders: extension on further conviction](section/44.md)
+    - [s. 45 Referral orders: revocation on further conviction](section/45.md)
+- PART 3 Courts and tribunals
+  - Trial by single justice on the papers
+    - [s. 46 Instituting proceedings by written charge](section/46.md)
+    - [s. 47 Instituting proceedings: further provision](section/47.md)
+    - [s. 48 Trial by single justice on the papers](section/48.md)
+    - [s. 49 Trial by single justice on the papers: sentencing etc](section/49.md)
+    - [s. 50 Further amendments](section/50.md)
+  - Time limit for bringing certain criminal proceedings
+    - [s. 51 Offence of improper use of public electronic communications network](section/51.md)
+  - Committal to Crown Court
+    - [s. 52 Low-value shoplifting: mode of trial](section/52.md)
+    - [s. 53 Committal of young offenders convicted of certain serious offences](section/53.md)
+  - Costs of criminal courts
+    - [s. 54 Criminal courts charge](section/54.md)
+    - [s. 55 Duty to review criminal courts charge](section/55.md)
+  - Collection of fines etc
+    - [s. 56 Variation of collection orders etc](section/56.md)
+  - Civil proceedings relating to personal injury
+    - [s. 57 Personal injury claims: cases of fundamental dishonesty](section/57.md)
+    - [s. 58 Rules against inducements to make personal injury claims](section/58.md)
+    - [s. 59 Effect of rules against inducements](section/59.md)
+    - [s. 60 Inducements: interpretation](section/60.md)
+    - [s. 61 Inducements: regulations](section/61.md)
+  - Appeals in civil proceedings
+    - [s. 62 Appeals from the Court of Protection](section/62.md)
+    - [s. 63 Appeals from the High Court to the Supreme Court](section/63.md)
+    - [s. 64 Appeals from the Upper Tribunal to the Supreme Court](section/64.md)
+    - [s. 65 Appeals from the Employment Appeal Tribunal to the Supreme Court](section/65.md)
+    - [s. 66 Appeals from the Special Immigration Appeals Commission to the Supreme Court](section/66.md)
+  - Costs in civil proceedings
+    - [s. 67 Wasted costs in certain civil proceedings](section/67.md)
+  - Juries and members of the Court Martial
+    - [s. 68 Upper age limit for jury service to be 75](section/68.md)
+    - [s. 69 Jurors and electronic communications devices](section/69.md)
+    - [s. 70 Jurors and electronic communications devices: powers of search etc](section/70.md)
+    - [s. 71 Research by jurors](section/71.md)
+    - [s. 72 Sharing research with other jurors](section/72.md)
+    - [s. 73 Jurors engaging in other prohibited conduct](section/73.md)
+    - [s. 74 Disclosing jury’s deliberations](section/74.md)
+    - [s. 75 Juries at inquests](section/75.md)
+    - [s. 76 Members of the Court Martial](section/76.md)
+    - [s. 77 Supplementary provision](section/77.md)
+  - Reporting restrictions
+    - [s. 78 Lifetime reporting restrictions in criminal proceedings for witnesses and victims under 18](section/78.md)
+    - [s. 79 Reporting restrictions in proceedings other than criminal proceedings](section/79.md)
+    - [s. 80 Reporting restrictions: information society services](section/80.md)
+  - Other matters
+    - [s. 81 Representations to Parliament by the President of the Supreme Court](section/81.md)
+    - [s. 82 The supplementary panel of the Supreme Court](section/82.md)
+    - [s. 83 Minor amendments](section/83.md)
+- PART 4 Judicial review
+  - Judicial review in the High Court and Upper Tribunal
+    - [s. 84 Likelihood of substantially different outcome for applicant](section/84.md)
+    - [s. 85 Provision of information about financial resources](section/85.md)
+    - [s. 86 Use of information about financial resources](section/86.md)
+    - [s. 87 Interveners and costs](section/87.md)
+    - [s. 88 Capping of costs](section/88.md)
+    - [s. 89 Capping of costs: orders and their terms](section/89.md)
+    - [s. 90 Capping of costs: environmental cases](section/90.md)
+  - Planning proceedings
+    - [s. 91 Procedure for certain planning challenges](section/91.md)
+    - [s. 92 Periods of time for certain legal challenges](section/92.md)
+- PART 5 Final provisions
+  - [s. 93 Power to make consequential and supplementary provision etc](section/93.md)
+  - [s. 94 Financial provision](section/94.md)
+  - [s. 95 Commencement](section/95.md)
+  - [s. 96 Extent](section/96.md)
+  - [s. 97 Channel Islands, Isle of Man and British overseas territories](section/97.md)
+  - [s. 98 Short title](section/98.md)
+- SCHEDULE 1 Sentence and Parole Board release for offenders of particular concern
+  - PART 1 Sentence and release
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Sentence
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Offences of particular concern
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Release on licence to be directed by Parole Board
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - PART 2 Offenders convicted of service offences
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 3 Transitional and transitory provision
+    - Application of new provisions about special custodial sentences
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Detention in a young offender institution
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - PART 4 Consequential provision
+    - Road Traffic Offenders Act 1988 (c. 53)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Crime (Sentences) Act 1997 (c. 43)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+- SCHEDULE 2 Electronic monitoring and licences etc: consequential provision
+  - Crime (Sentences) Act 1997 (c. 43)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Recall adjudicators: further provision
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Offender Management Act 2007 (c. 21)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Coroners and Justice Act 2009 (c. 25)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 Ill-treatment or wilful neglect: excluded health care
+  - Excluded health care
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Use “for an education or childcare purpose”
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Educational institutions
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Definitions
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Minimum sentence for repeat offences involving offensive weapons etc: consequential provision
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Coroners and Justice Act 2009 (c. 25)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Offences committed by disqualified drivers: further amendments
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Crime (International Co-operation) Act 2003 (c. 32)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Coroners and Justice Act 2009 (c. 25)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+- SCHEDULE 7 Mutual recognition of driving disqualification in UK and Republic of Ireland
+  - PART 1 Further provision
+    - Crime (International Co-operation) Act 2003 (c. 32)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Coroners and Justice Act 2009 (c. 25)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - PART 2 Transition from EU Convention to new agreement
+    - Transitional period
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Disapplication of duties and powers to give notices during the transitional period
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Application of duties and powers to give notices after the transitional period
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Saving for pre-1 December 2014 cases
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+- SCHEDULE 8 Disclosing, or threatening to disclose, private sexual photographs or films: providers of information society services
+  - England and Wales service providers: extension of liability
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Exceptions for mere conduits
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Exception for caching
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Exception for hosting
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Interpretation
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Secure colleges etc: further amendments
+  - Prison Act 1952 (c. 52)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Criminal Justice Act 1961 (c. 39)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Criminal Justice Act 1982 (c. 48)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Prisoners (Return to Custody) Act 1995 (c. 16)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Education and Inspections Act 2006 (c. 40)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - Offender Management Act 2007 (c. 21)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+  - Policing and Crime Act 2009 (c. 26)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - Prisons (Interference with Wireless Telegraphy) Act 2012 (c. 20)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+  - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+- SCHEDULE 10 Contracting out secure colleges
+  - PART 1 Contracting out provision and running of secure colleges
+    - Power to contract out
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Running a contracted-out secure college
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Leases and tenancies of land
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Principal
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Monitor
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Officers
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Officers who perform custodial duties
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Intervention by Secretary of State
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Obstruction etc of secure college custody officers
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Assault of secure college custody officers
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Wrongful disclosure of information relating to persons in youth detention accommodation
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - PART 2 Certification of secure college custody officers
+    - Meaning of “secure college custody officer”
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Issue of certificate
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Suspension of certificate
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Revocation of certificate
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - PART 3 Contracting out functions at directly managed secure colleges
+    - Power to contract out functions at directly managed secure college
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Powers of officers carrying out contracted-out functions
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Obstruction etc of secure college custody officers
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - Assault of secure college custody officers
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - Wrongful disclosure of information relating to persons in youth detention accommodation
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Supplementary
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+  - PART 4 Definitions
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - PART 5 Further amendments
+    - Prison Act 1952 (c. 52)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - Criminal Justice Act 1967 (c. 80)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - Firearms Act 1968 (c. 27)
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - Criminal Justice Act 1988 (c. 33)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - Private Security Industry Act 2001 (c. 12)
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - Children Act 2004 (c. 31)
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - Offender Management Act 2007 (c. 21)
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+- SCHEDULE 11 Trial by single justice on the papers: further amendments
+  - Criminal Law Act 1977 (c. 45)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Vehicle Excise and Registration Act 1994 (c. 22)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Drug Trafficking Act 1994 (c. 37)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Merchant Shipping Act 1995 (c. 21)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Crime (International Co-operation) Act 2003 (c. 32)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+- SCHEDULE 12 Further provision about criminal courts charge
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+- SCHEDULE 13 Juries at inquests
+  - Jurors and electronic communications devices
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Offences relating to research by jurors etc
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Offence relating to jury’s deliberations
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Saving for contempt of court
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+- SCHEDULE 14 Members of the Court Martial
+  - PART 1 Offences
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - PART 2 Further amendments
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+- SCHEDULE 15 Reporting restrictions: providers of information society services
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Youth Justice and Criminal Evidence Act 1999 (c. 23)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+- SCHEDULE 16 Procedure for certain planning challenges
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Planning (Hazardous Substances) Act 1990 (c. 10)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
