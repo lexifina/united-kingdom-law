@@ -2,9 +2,11 @@
 
 2025 c. 34. Enacted 2025-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-24, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/34` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/34` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/34/2026-07-24
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
+
+Source: https://www.legislation.gov.uk/ukpga/2025/34/2026-09-01
 
 ## Contents
 
