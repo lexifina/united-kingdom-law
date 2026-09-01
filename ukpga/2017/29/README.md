@@ -2,9 +2,11 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-12, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-05-12
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
+
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
 
 ## Contents
 
@@ -114,6 +116,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-05-12
   - Freedom of speech
     - [s. 69A General functions relating to freedom of speech and academic freedom](section/69A.md)
     - [s. 69B Functions of the OfS in relation to students’ unions](section/69B.md)
+    - [s. 69C Free speech complaints scheme](section/69C.md)
     - [s. 69D Overseas funding: registered higher education providers](section/69D.md)
     - [s. 69E Overseas funding: students’ unions](section/69E.md)
   - Funding of the OfS
@@ -346,6 +349,20 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-05-12
       - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
   - Part 3 Interpretation
     - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 6A Free speech complaints scheme
+  - [Sch. 6A para. 1 Introductory](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2 Introductory](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3 Introductory](schedule/6A/paragraph/3.md)
+  - [Sch. 6A para. 4 Introductory](schedule/6A/paragraph/4.md)
+  - [Sch. 6A para. 5 Scope of scheme](schedule/6A/paragraph/5.md)
+  - [Sch. 6A para. 6 Decisions and recommendations](schedule/6A/paragraph/6.md)
+  - [Sch. 6A para. 7 Decisions and recommendations](schedule/6A/paragraph/7.md)
+  - [Sch. 6A para. 8 Decisions and recommendations](schedule/6A/paragraph/8.md)
+  - [Sch. 6A para. 9 Fees](schedule/6A/paragraph/9.md)
+  - [Sch. 6A para. 10 Publication](schedule/6A/paragraph/10.md)
+  - [Sch. 6A para. 11 Duty to comply](schedule/6A/paragraph/11.md)
+  - [Sch. 6A para. 12 Review](schedule/6A/paragraph/12.md)
+  - [Sch. 6A para. 13 Defamation](schedule/6A/paragraph/13.md)
 - SCHEDULE 7 Costs recovery: procedure, appeals and recovery etc
   - Introduction
     - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
