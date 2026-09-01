@@ -1,0 +1,159 @@
+# Transport and Works Act 1992
+
+1992 c. 42. Enacted 1992-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
+
+Source: https://www.legislation.gov.uk/ukpga/1992/42/2026-09-01
+
+## Contents
+
+- Part I Orders authorising works etc
+  - Power to make orders
+    - [s. 1 Orders as to railways, tramways etc.](section/1.md)
+    - [s. 2 Extension of section 1 to other guided transport systems.](section/2.md)
+    - [s. 3 Orders as to inland waterways etc.](section/3.md)
+    - [s. 4 Description of works for purposes of section 3.](section/4.md)
+    - [s. 5 Subject-matter of orders under sections 1 and 3.](section/5.md)
+  - Procedure for making orders
+    - [s. 6 Applications for orders under sections 1 and 3.](section/6.md)
+    - [s. 6A Cases where ... Member States are affected](section/6A.md)
+    - [s. 7 Orders under sections 1 and 3 made otherwise than on application.](section/7.md)
+    - [s. 8 Guidance on draft orders](section/8.md)
+    - [s. 9 Schemes of national significance.](section/9.md)
+    - [s. 10 Objections.](section/10.md)
+    - [s. 11 Inquiries and hearings.](section/11.md)
+    - [s. 12 Special parliamentary procedure.](section/12.md)
+    - [s. 13 Making or refusal of orders under section 1 or 3: general.](section/13.md)
+    - [s. 13A Environmental impact assessment: definitions](section/13A.md)
+    - [s. 13B Application or proposal for an EIA order: reasoned conclusion](section/13B.md)
+    - [s. 13C EIA orders: monitoring measures and remedial action](section/13C.md)
+    - [s. 13D Application or proposal for an EIA order: time limit](section/13D.md)
+    - [s. 14 Publicity for making or refusal of orders.](section/14.md)
+    - [s. 14A Compulsory acquisition: notice requirements](section/14A.md)
+  - Consents etc under other enactments
+    - [s. 15 Assimilation of procedures.](section/15.md)
+    - [s. 16 Town and country planning.](section/16.md)
+    - [s. 17 Listed buildings and conservation areas.](section/17.md)
+    - [s. 18 Hazardous substances.](section/18.md)
+    - [s. 19 Coast Protection Act 1949.](section/19.md)
+    - [s. 19A Deemed consent under marine licences](section/19A.md)
+    - [s. 20 Power to apply for, or object to, orders.](section/20.md)
+    - [s. 21 Transport Consultative Committees.](section/21.md)
+  - Miscellaneous
+    - [s. 22 Validity of orders under section 1 or 3.](section/22.md)
+    - [s. 23 Exercise of Secretary of State’s functions by appointed person.](section/23.md)
+    - [s. 23A Fees for certain services in connection with orders](section/23A.md)
+    - [s. 24 Private legislation procedure in Scotland.](section/24.md)
+    - [s. 25 Crown land.](section/25.md)
+- Part II Safety of railways etc
+  - CHAPTER I Offences involving drink or drugs
+    - Preliminary
+      - [s. 26 Transport systems to which Chapter I applies.](section/26.md)
+    - Principal offences
+      - [s. 27 Offences involving drink or drugs on transport systems.](section/27.md)
+      - [s. 28 Offences by operators of transport systems.](section/28.md)
+    - Police powers etc
+      - [s. 29 Breath tests.](section/29.md)
+      - [s. 30 Powers of arrest and entry.](section/30.md)
+      - [s. 31 Provision of specimens for analysis.](section/31.md)
+      - [s. 31A Specimens of blood taken from persons incapable of consenting](section/31A.md)
+      - [s. 32 Breath specimen showing higher alcohol level to be disregarded](section/32.md)
+      - [s. 33 Protection for hospital patients.](section/33.md)
+    - Evidence in proceedings for offences under section 27
+      - [s. 34 Use of specimens in proceedings.](section/34.md)
+      - [s. 35 Documentary evidence as to specimens.](section/35.md)
+    - Penalties
+      - [s. 36 Penalties.](section/36.md)
+    - Miscellaneous and supplementary
+      - [s. 37 Special provision for Scotland.](section/37.md)
+      - [s. 38 Interpretation of Chapter I.](section/38.md)
+      - [s. 39 Amendment of scope of offences involving drink or drugs under Road Traffic Act 1988.](section/39.md)
+      - [s. 40 Consequential amendment.](section/40.md)
+  - Chapter II Other safety provisions
+    - General
+      - [s. 41 Approval of works, plant and equipment.](section/41.md)
+      - [s. 42 Inspectors.](section/42.md)
+      - [s. 43 Accidents etc.](section/43.md)
+      - [s. 44 Accidents etc: consequential amendments.](section/44.md)
+      - [s. 45 Directions limiting speeds and loads.](section/45.md)
+      - [s. 46 Directions requiring insurance.](section/46.md)
+    - Rail crossings
+      - [s. 47 Stopping up and diversion of crossings.](section/47.md)
+      - [s. 48 Footpaths, bridleways and restricted byways over railways.](section/48.md)
+      - [s. 49 Securing of gates and barriers.](section/49.md)
+      - [s. 50 Orders under Transport Act 1968.](section/50.md)
+      - [s. 51 Amendment of Level Crossings Act 1983.](section/51.md)
+    - Signs and barriers at private crossings
+      - [s. 52 Placing of signs and barriers.](section/52.md)
+      - [s. 53 Rights to enter land.](section/53.md)
+      - [s. 54 Default powers of Secretary of State.](section/54.md)
+      - [s. 55 Offence of failing to comply with sign.](section/55.md)
+      - [s. 56 Interpretation of sections 52 to 55.](section/56.md)
+  - Chapter III Supplementary
+    - [s. 57 Duty to consult.](section/57.md)
+    - [s. 58 Prosecutions.](section/58.md)
+    - [s. 59 Offences by bodies corporate etc.](section/59.md)
+- Part III Miscellaneous and General
+  - Tramways
+    - [s. 60 Powers of leasing.](section/60.md)
+    - [s. 61 Amendment of Public Passenger Vehicles Act 1981.](section/61.md)
+    - [s. 62 Exclusion of hackney carriage legislation.](section/62.md)
+  - Harbours
+    - [s. 63 Harbours.](section/63.md)
+  - Miscellaneous
+    - [s. 64 Maintenance of footpaths and bridleways.](section/64.md)
+    - [s. 65 Certain enactments to cease to have effect.](section/65.md)
+  - General
+    - [s. 66 Service of notices.](section/66.md)
+    - [s. 67 Interpretation.](section/67.md)
+    - [s. 68 Repeals.](section/68.md)
+    - [s. 69 Expenses.](section/69.md)
+    - [s. 70 Commencement.](section/70.md)
+    - [s. 71 Extent.](section/71.md)
+    - [s. 72 Short title.](section/72.md)
+- SCHEDULE 1 Matters within sections 1 and 3
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Stopping up and diversion of rail crossings
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Amendment of Harbours Act 1964
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Repeals
+  - Part I Railways and Tramways
+  - Part II Harbours
