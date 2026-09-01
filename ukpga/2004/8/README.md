@@ -1,0 +1,192 @@
+# Higher Education Act 2004
+
+2004 c. 8. Enacted 2004-07-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
+
+Source: https://www.legislation.gov.uk/ukpga/2004/8/2026-09-01
+
+## Contents
+
+- Part 1 Research in Arts and Humanities
+  - [s. 1 Arts and Humanities Research Council](section/1.md)
+  - [s. 2 Transfer to Council of property etc of Arts and Humanities Research Board](section/2.md)
+  - [s. 3 Expenses of Council](section/3.md)
+  - [s. 4 Returns, reports etc. by Council to Secretary of State](section/4.md)
+  - [s. 5 Pensions](section/5.md)
+  - [s. 6 Accounts and records of Council](section/6.md)
+  - [s. 7 Northern Ireland: reserved matters](section/7.md)
+  - [s. 8 Activities outside United Kingdom](section/8.md)
+  - [s. 9 Charter of Council](section/9.md)
+  - [s. 10 Research in arts and humanities](section/10.md)
+- Part 2 Review of student complaints
+  - [s. 11 Qualifying institutions](section/11.md)
+  - [s. 12 Qualifying complaints](section/12.md)
+  - [s. 13 Designation of operator of student complaints scheme](section/13.md)
+  - [s. 14 Duties of designated operator](section/14.md)
+  - [s. 15 Duties of qualifying institutions](section/15.md)
+  - [s. 16 Termination of designation](section/16.md)
+  - [s. 17 Privilege in relation to law of defamation](section/17.md)
+  - [s. 18 Provision where designation of operator to cease](section/18.md)
+  - [s. 19 Extension of time for bringing discrimination proceedings](section/19.md)
+  - [s. 20 Exclusion of visitor’s jurisdiction in relation to student complaints](section/20.md)
+  - [s. 20A Institutions that cease to be qualifying institutions](section/20A.md)
+  - [s. 21 Interpretation of Part 2](section/21.md)
+- Part 3 Student fees and fair access
+  - Introductory
+    - [s. 22 Meaning of “plan” etc.](section/22.md)
+  - Imposition of conditions as to fees
+    - [s. 23 Duty of Secretary of State to impose condition as to student fees, etc.](section/23.md)
+    - [s. 24 Condition to be imposed by English funding bodies](section/24.md)
+    - [s. 25 Transitional cases in which condition must not allow fees to exceed basic amount](section/25.md)
+    - [s. 26 Regulations under section 24(6) relating to basic or higher amount](section/26.md)
+    - [s. 27 Power of National Assembly for Wales to impose conditions as to student fees, etc.](section/27.md)
+    - [s. 28 Condition that may be required to be imposed by HEFCW](section/28.md)
+    - [s. 29 Sections 23 to 26: supplementary provisions](section/29.md)
+  - Plans authorising fees of more than basic amount
+    - [s. 30 Meaning of “the relevant authority”](section/30.md)
+    - [s. 31 Director of Fair Access to Higher Education](section/31.md)
+    - [s. 32 General duties of relevant authority](section/32.md)
+    - [s. 33 Contents of plans](section/33.md)
+    - [s. 34 Approval of plans](section/34.md)
+    - [s. 35 Duration of plans](section/35.md)
+    - [s. 36 Variation of plans](section/36.md)
+    - [s. 37 Enforcement of plans...](section/37.md)
+    - [s. 38 Enforcement of plans: Wales](section/38.md)
+    - [s. 39 Review of decisions made by relevant authority](section/39.md)
+  - Supplementary
+    - [s. 40 Provision of information](section/40.md)
+    - [s. 40A Provision of reports, information and advice by the relevant authority in relation to Wales](section/40A.md)
+    - [s. 41 Interpretation of Part 3](section/41.md)
+- Part 4 Student support
+  - [s. 42 Effect of bankruptcy](section/42.md)
+  - [s. 43 Other amendments of section 22 of Teaching and Higher Education Act 1998](section/43.md)
+  - [s. 44 Transfer of certain functions to National Assembly for Wales](section/44.md)
+  - [s. 45 Supply of information held by student support authority](section/45.md)
+- Part 5 Miscellaneous and general
+  - Staff disputes: jurisdiction of visitor
+    - [s. 46 Exclusion of visitor’s jurisdiction in relation to staff disputes](section/46.md)
+  - General
+    - [s. 47 Orders and regulations](section/47.md)
+    - [s. 48 General interpretation](section/48.md)
+    - [s. 49 Consequential amendments](section/49.md)
+    - [s. 50 Repeals](section/50.md)
+    - [s. 51 Financial provisions](section/51.md)
+    - [s. 52 Commencement](section/52.md)
+    - [s. 53 Extent](section/53.md)
+    - [s. 54 Short title, etc.](section/54.md)
+- SCHEDULE 1 Conditions to be met by operator of student complaints scheme
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Suitability
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Capability
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Conditions to be met by student complaints scheme
+  - Introduction.
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Qualifying institutions
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Referral of qualifying complaints
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Individuals to review complaints
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Review of complaint
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Recommendation of reviewer if complaint justified
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Reviewers to notify parties of decisions, recommendations etc.
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Fees
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Scheme also applying to bodies that are not qualifying institutions
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Interpretation
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Power to amend this Schedule
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Duties of designated operator of student complaints scheme
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Provision of scheme
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Publication of scheme
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Changes to scheme
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Compliance with scheme
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Annual report
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Review
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Supply of information
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Period during which the designated operator must comply with duties
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Duties to publish information: further provision
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Termination of designation of operator of student complaints scheme
+  - Part 1 Circumstances in which designation terminated
+    - Introduction
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Agreement
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Notice given by the designated operator
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Notice given by Secretary of State or Assembly
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Operator ceases to exist
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part 2 Agreement made or notice given under Part 1: supplementary provision
+    - Introduction
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Effect of agreement or notice on provisions of Part 1 of Schedule
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Circumstances in which agreement or notice superseded
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Agreement or notice not capable of variation or cancellation or revocation
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 The Director of Fair Access to Higher Education: supplementary provisions
+  - Status, appointment and remuneration of Director
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Staff
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Arrangements with Higher Education Funding Council for England
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Finance
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Reports
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Accounts
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Patents Act 1977 (c. 37)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Further Education Act 1985 (c. 47)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Teaching and Higher Education Act 1998 (c. 30)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Repeals
