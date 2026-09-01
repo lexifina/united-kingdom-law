@@ -1,0 +1,283 @@
+# Education Act 1997
+
+1997 c. 44. Enacted 1997-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
+
+Source: https://www.legislation.gov.uk/ukpga/1997/44/2026-09-01
+
+## Contents
+
+- Part I Assisted places scheme
+  - [s. 1 ................................](section/1.md)
+- Part II School discipline
+  - Responsibility for discipline
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+  - Power to restrain pupils
+    - [s. 4 Power of members of staff to restrain pupils.](section/4.md)
+  - Detention
+    - [s. 5 Detention outside school hours lawful despite absence of parental consent.](section/5.md)
+  - Exclusion of pupils from school
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+  - LEA plans
+    - [s. 9 LEA plans relating to children with behavioural difficulties.](section/9.md)
+- Part III School admissions
+  - Chapter I County and voluntary schools
+    - Partially-selective schools
+      - [s. 10 ................................](section/10.md)
+    - Children permanently excluded from two or more schools
+      - [s. 11 ................................](section/11.md)
+      - [s. 12 ................................](section/12.md)
+    - Home-school partnership documents
+      - [s. 13 ................................](section/13.md)
+  - Chapter II Grant-maintained schools
+    - [s. 14 ................................](section/14.md)
+- Part IV Baseline assessments and pupils’ performance
+  - Chapter I Baseline assessments
+    - [s. 15 Introductory](section/15.md)
+    - [s. 16 Adoption of baseline assessment schemes.](section/16.md)
+    - [s. 17 Assessment of pupils in accordance with scheme.](section/17.md)
+    - [s. 18 Regulations for purposes of this Chapter.](section/18.md)
+  - Chapter II Pupils’ performance
+    - [s. 19 School performance targets.](section/19.md)
+    - [s. 20 Provision of information about individual pupils’ performance.](section/20.md)
+- Part V Supervision of curriculum for schools and external qualifications
+  - Chapter I The Qualifications and Curriculum Authority
+    - Establishment of the Authority
+      - [s. 21 The Qualifications and Curriculum Authority.](section/21.md)
+    - Functions of the Authority
+      - [s. 22 General function of Authority to advance education and training.](section/22.md)
+      - [s. 23 Functions of the Authority in relation to curriculum and assessment.](section/23.md)
+      - [s. 24 Functions of the Authority in relation to external vocational and academic qualifications.](section/24.md)
+      - [s. 25 Other functions of the Authority.](section/25.md)
+      - [s. 26 Supplementary provisions relating to discharge by Authority of their functions.](section/26.md)
+      - [s. 26A Power of Authority to give directions](section/26A.md)
+  - Chapter II Functions of the National Assembly for Wales
+    - ...
+      - [s. 27 The Qualifications, Curriculum and Assessment Authority for Wales.](section/27.md)
+    - Functions of the National Assembly for Wales
+      - [s. 28 General function of National Assembly for Wales to advance education and training.](section/28.md)
+      - [s. 29 Functions of the National Assembly for Wales in relation to curriculum and assessment.](section/29.md)
+      - [s. 30 Functions of the National Assembly for Wales in relation to relevant qualifications](section/30.md)
+      - [s. 31 Other functions of the Authority.](section/31.md)
+      - [s. 32 Supplementary provisions relating to discharge by the National Assembly for Wales of its functions.](section/32.md)
+      - [s. 32ZA Qualifications functions of Welsh Ministers: co-operation and joint working etc.](section/32ZA.md)
+      - [s. 32A Power of Welsh Ministers to give directions](section/32A.md)
+      - [s. 32AA Power of Welsh Ministers to impose monetary penalties](section/32AA.md)
+      - [s. 32AB Monetary penalties: amount](section/32AB.md)
+      - [s. 32AC Monetary penalties: appeals](section/32AC.md)
+      - [s. 32AD Monetary penalties: interest and recovery](section/32AD.md)
+      - [s. 32B Power of Welsh Ministers to withdraw recognition](section/32B.md)
+      - [s. 32BA Costs recovery](section/32BA.md)
+      - [s. 32BB Costs recovery: appeals](section/32BB.md)
+      - [s. 32BC Costs: interest and recovery](section/32BC.md)
+      - [s. 32C Surrender of recognition](section/32C.md)
+  - Chapter III Provisions supplementary to Chapters I and II
+    - Dissolution of existing bodies
+      - [s. 33 Dissolution of existing bodies.](section/33.md)
+    - Transfer of property and staff
+      - [s. 34 Transfer of property.](section/34.md)
+      - [s. 35 Transfer of staff.](section/35.md)
+    - Levy on bodies awarding accredited qualifications
+      - [s. 36 Levy on bodies awarding qualifications accredited by relevant body.](section/36.md)
+  - Chapter IV Control of certain courses leading to external qualifications
+    - [s. 37 Requirement for approval of certain publicly-funded and school courses leading to external qualifications.](section/37.md)
+- Part VI Inspection of local authorities and school inspections
+  - Chapter I Inspection of local authorities in Wales
+    - [s. 38 Inspection of local authorities in Wales.](section/38.md)
+    - [s. 39 Reports of inspections under s. 38 and action plan by local authority](section/39.md)
+    - [s. 40 Inspector’s rights of entry etc.](section/40.md)
+    - [s. 41 Inspections involving collaboration of Audit Commission.](section/41.md)
+    - [s. 41A Inspections involving collaboration of Auditor General for Wales](section/41A.md)
+  - Chapter II School Inspections
+    - [s. 42 Miscellaneous amendments relating to school inspections.](section/42.md)
+- Part VII Careers education and guidance
+  - [s. 42A Provision of careers guidance in schools in England](section/42A.md)
+  - [s. 42B Information about technical education: access to English schools](section/42B.md)
+  - [s. 43 Provision of careers education for certain persons: Wales](section/43.md)
+  - [s. 44 Schools and other institutions in Wales to co-operate with careers advisers.](section/44.md)
+  - [s. 45 Provision of careers information at schools and other institutions.](section/45.md)
+  - [s. 45A Guidance as to discharge of duties: schools in England](section/45A.md)
+  - [s. 45B Provision of curriculum information: Wales](section/45B.md)
+  - [s. 46 Extension or modification of provisions of sections 42A to 45.](section/46.md)
+- Part VIII Miscellaneous and general
+  - Exceptional educational provision
+    - [s. 47 Functions of local authorities as regards exceptional educational provision.](section/47.md)
+  - Management committees for pupil referral units
+    - [s. 48 Management committees for pupil referral units.](section/48.md)
+  - Teachers not under contract of employment and persons having access to those under 19
+    - [s. 49 Power to make regulations: teachers not under contract of employment and persons having access to those under 19.](section/49.md)
+  - Costs of teachers’ premature retirement
+    - [s. 50 ................................](section/50.md)
+  - Definition of “school”
+    - [s. 51 Definition of “school”.](section/51.md)
+  - Compulsory school age
+    - [s. 52 Commencement of compulsory school age.](section/52.md)
+  - General provisions
+    - [s. 53 Stamp duty.](section/53.md)
+    - [s. 53A Stamp duty land tax](section/53A.md)
+    - [s. 54 Orders and regulations.](section/54.md)
+    - [s. 55 Financial provisions.](section/55.md)
+    - [s. 56 Construction.](section/56.md)
+    - [s. 57 Minor and consequential amendments, repeals etc.](section/57.md)
+    - [s. 58 Short title, commencement and extent etc.](section/58.md)
+- SCHEDULE 1
+- SCHEDULE 2
+- SCHEDULE 3
+- SCHEDULE 4 The Qualifications and Curriculum Authority
+  - Status
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Powers
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Chief officer
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Chairman and chief officer: division of functions
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Tenure of office
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Payments to members
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Staff
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Finance
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Committees
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Delegation of functions
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Proceedings
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Accounts
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Documents
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+- SCHEDULE 5 The Qualifications, Curriculum and Assessment Authority for Wales
+  - Status
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Powers
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Chief officer
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Tenure of office
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Payments to members
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Staff
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Finance
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Committees
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Delegation of functions
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Proceedings
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Accounts
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Documents
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 School inspections
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Rights of entry et ceteralaetc. for Chief Inspectors
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Removal of inspectors from register
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Inspections of closing schools
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Publication of inspection reports
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Computer records
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Delegation of functions of Chief Inspectors
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Tenders and consultation
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Inspection teams
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Rights of entry et ceteralaetc. for registered inspectors
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - ................................
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Local Government Finance Act 1982 (c. 32)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Finance Act 1991 (c. 31)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Charities Act 1993 (c. 10)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Nursery Education and Grant-Maintained Schools Act 1996 (c. 50)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+  - School Inspections Act 1996 (c. 57)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+- SCHEDULE 8 Repeals
