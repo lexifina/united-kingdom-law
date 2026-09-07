@@ -1,0 +1,172 @@
+# Judicial Review and Courts Act 2022
+
+2022 c. 35. Enacted 2022-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/35
+
+Source: https://www.legislation.gov.uk/ukpga/2022/35/2026-09-07
+
+## Contents
+
+- Part 1 Judicial review
+  - [s. 1 Quashing orders](section/1.md)
+  - [s. 2 Exclusion of review of Upper Tribunal’s permission-to-appeal decisions](section/2.md)
+- Part 2 Courts, tribunals and coroners
+  - Chapter 1 Criminal procedure
+    - Written procedures for dealing with summary offences
+      - [s. 3 Automatic online conviction and penalty for certain summary offences](section/3.md)
+      - [s. 4 Guilty plea in writing: extension to proceedings following police charge](section/4.md)
+      - [s. 5 Extension of single justice procedure to corporations](section/5.md)
+    - Offences triable either way: determining the mode of trial
+      - [s. 6 Written procedure for indicating plea and determining mode of trial: adults](section/6.md)
+      - [s. 7 Initial option for adult accused to reject summary trial at hearing](section/7.md)
+      - [s. 8 Written procedure for indicating plea and determining mode of trial: children](section/8.md)
+      - [s. 9 Powers to proceed if accused absent from allocation hearing](section/9.md)
+    - Transfer of cases between courts
+      - [s. 10 Sending cases to Crown Court for trial](section/10.md)
+      - [s. 11 Powers of Crown Court to remit cases to the magistrates’ court](section/11.md)
+      - [s. 12 Powers of youth court to transfer cases if accused turns 18](section/12.md)
+    - Sentencing powers of magistrates’ courts
+      - [s. 13 Maximum term of imprisonment on summary conviction for either-way offence](section/13.md)
+    - Miscellaneous and consequential provision
+      - [s. 14 Involvement of parent or guardian in proceedings conducted in writing](section/14.md)
+      - [s. 15 Removal of certain requirements for hearings about procedural matters](section/15.md)
+      - [s. 16 Documents to be served in accordance with Criminal Procedure Rules](section/16.md)
+      - [s. 17 Power to make consequential or supplementary provision](section/17.md)
+      - [s. 18 Consequential and related amendments](section/18.md)
+  - Chapter 2 Online procedure
+    - [s. 19 Rules for online procedure in courts and tribunals](section/19.md)
+    - [s. 20 “Specified kinds” of proceedings](section/20.md)
+    - [s. 21 Provision supplementing section 19](section/21.md)
+    - [s. 22 The Online Procedure Rule Committee](section/22.md)
+    - [s. 23 General powers of the Online Procedure Rule Committee](section/23.md)
+    - [s. 24 Power to make certain provision about dispute-resolution services](section/24.md)
+    - [s. 25 Power to change certain requirements relating to the Committee](section/25.md)
+    - [s. 26 Process for making Online Procedure Rules](section/26.md)
+    - [s. 27 Power to require Online Procedure Rules to be made](section/27.md)
+    - [s. 28 Power to make amendments in relation to Online Procedure Rules](section/28.md)
+    - [s. 29 Duty to make support available for those who require it](section/29.md)
+    - [s. 30 Power to make consequential or supplementary provision](section/30.md)
+    - [s. 31 Amendments of other legislation](section/31.md)
+    - [s. 32 Judicial agreement to certain regulations](section/32.md)
+    - [s. 33 Interpretation of this Chapter](section/33.md)
+  - Chapter 3 Employment tribunals and the Employment Appeal Tribunal
+    - [s. 34 Employment Tribunal Procedure Rules](section/34.md)
+    - [s. 35 Composition of tribunals](section/35.md)
+    - [s. 36 Saving for existing procedural provisions](section/36.md)
+    - [s. 37 Exercise of tribunal functions by authorised persons](section/37.md)
+    - [s. 38 Responsibility for remunerating tribunal members](section/38.md)
+  - Chapter 4 Coroners
+    - [s. 39 Discontinuance of investigation where cause of death becomes clear](section/39.md)
+    - [s. 40 Power to conduct non-contentious inquests in writing](section/40.md)
+    - [s. 41 Use of audio or video links at inquests](section/41.md)
+    - [s. 42 Suspension of requirement for jury at inquest where coronavirus suspected](section/42.md)
+    - [s. 43 Phased transition to new coroner areas](section/43.md)
+    - [s. 44 Provision of information to registrar when investigation discontinued](section/44.md)
+  - Chapter 5 Other provisions about courts and tribunals
+    - Local justice areas
+      - [s. 45 Abolition of local justice areas](section/45.md)
+    - Courthouses in the City of London
+      - [s. 46 The Mayor’s and City of London Court: removal of duty to provide premises](section/46.md)
+      - [s. 47 The City of London Magistrates’ Court: removal of duty to provide premises](section/47.md)
+    - Pro bono representation in courts and tribunals
+      - [s. 48 Payments in respect of pro bono representation](section/48.md)
+- Part 3 Final provisions
+  - [s. 49 Regulations](section/49.md)
+  - [s. 50 Extent](section/50.md)
+  - [s. 51 Commencement and transitional provision](section/51.md)
+  - [s. 52 Short title](section/52.md)
+- Schedule 1 Documents to be served in accordance with Criminal Procedure Rules
+  - [Sch. 1 para. 1 Road Traffic Act 1960](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Misuse of Drugs Act 1971](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Prices Act 1974](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Salmon and Freshwater Fisheries Act 1975](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Isle of Man Act 1979](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Magistrates’ Courts Act 1980](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Public Passenger Vehicles Act 1981](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Video Recordings Act 1984](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Weights and Measures Act 1985](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Road Traffic Act 1988](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Road Traffic Offenders Act 1988](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Transport and Works Act 1992](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Powers of Criminal Courts (Sentencing) Act 2000](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Criminal Justice and Police Act 2001](schedule/1/paragraph/14.md)
+- Schedule 2 Criminal procedure: consequential and related amendments
+  - [Sch. 2 para. 1 Amendments in connection with section 3](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Amendments in connection with section 3](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Amendments in connection with section 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Amendments in connection with section 3](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Amendment in connection with section 4](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Amendments in connection with sections 6 to 8](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Amendments in connection with sections 6 to 8](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Amendments in connection with sections 6 to 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Amendments in connection with section 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Amendments in connection with section 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Amendments in connection with section 10](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Amendments in connection with section 11](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Amendments in connection with section 11](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Amendments in connection with section 11](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Amendments in connection with section 12](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16 Amendments in connection with section 13](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17 Amendments in connection with section 13](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18 Amendments in connection with section 13](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19 Amendments in connection with section 13](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20 Amendments in connection with section 13](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21 Amendments in connection with section 13](schedule/2/paragraph/21.md)
+- Schedule 3 Practice directions for online proceedings
+  - Part 1 Civil proceedings and family proceedings in England and Wales
+    - [Sch. 3 para. 1 Power to give practice directions](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Contents of practice directions](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Giving practice directions](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Particular provision in practice directions](schedule/3/paragraph/4.md)
+  - Part 2 Proceedings in the First-tier Tribunal and Upper Tribunal
+    - [Sch. 3 para. 5 Power to give practice directions](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Contents of practice directions](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Giving practice directions](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Particular provision in practice directions](schedule/3/paragraph/8.md)
+  - Part 3 Proceedings in employment tribunals and the Employment Appeal Tribunal
+    - [Sch. 3 para. 9 Power to give practice directions](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Contents of practice directions](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Giving practice directions](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Particular provision in practice directions](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Practice directions relating to mediation](schedule/3/paragraph/13.md)
+- Schedule 4 Online procedure: amendments
+  - [Sch. 4 para. 1 Employment Tribunals Act 1996](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Civil Procedure Act 1997](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Courts Act 2003](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Tribunals, Courts and Enforcement Act 2007](schedule/4/paragraph/4.md)
+- Schedule 5 Employment Tribunal Procedure Rules: further provision
+  - Part 1 Making and content of Employment Tribunal Procedure Rules
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Part 2 Other amendments of the Employment Tribunals Act 1996
+    - [Sch. 5 para. 2 Introduction](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Employment tribunals](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Employment tribunals](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Employment tribunals](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Employment tribunals](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Employment tribunals](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8 Employment tribunals](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Employment tribunals](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Employment tribunals](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11 Employment tribunals](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12 Employment tribunals](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13 Employment tribunals](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14 Employment tribunals](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15 Employment tribunals](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16 Employment tribunals](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17 Employment tribunals](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18 Employment Appeal Tribunal](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19 Employment Appeal Tribunal](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20 Employment Appeal Tribunal](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21 Employment Appeal Tribunal](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22 Employment Appeal Tribunal](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23 General](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24 General](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25 General](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26 General](schedule/5/paragraph/26.md)
+  - Part 3 Related amendments of other legislation
+    - [Sch. 5 para. 27 Employment Rights Act 1996](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28 Tribunals, Courts and Enforcement Act 2007](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29 Tribunals, Courts and Enforcement Act 2007](schedule/5/paragraph/29.md)
