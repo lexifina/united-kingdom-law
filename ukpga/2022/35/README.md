@@ -2,9 +2,11 @@
 
 2022 c. 35. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-25, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/35` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-07, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/35` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/35/2024-04-25
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/35
+
+Source: https://www.legislation.gov.uk/ukpga/2022/35/2026-09-07
 
 ## Contents
 
