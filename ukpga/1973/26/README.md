@@ -1,0 +1,135 @@
+# Land Compensation Act 1973
+
+1973 c. 26. Enacted 1973-05-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 43 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
+
+Source: https://www.legislation.gov.uk/ukpga/1973/26/2026-09-14
+
+## Contents
+
+- Part I Compensation for Depreciation Caused by use of Public Works
+  - [s. 1 Right to compensation.](section/1.md)
+  - [s. 2 Interests qualifying for compensation.](section/2.md)
+  - [s. 3 Claims.](section/3.md)
+  - [s. 4 Assessment of compensation: general provisions.](section/4.md)
+  - [s. 5 Assessment of compensation: assumptions as to planning permission.](section/5.md)
+  - [s. 6 Reduction of compensation where land is benefited.](section/6.md)
+  - [s. 7 Exclusion of minimal compensation.](section/7.md)
+  - [s. 8 Other restrictions on compensation.](section/8.md)
+  - [s. 9 Alterations to public works and changes of use.](section/9.md)
+  - [s. 10 Mortgages, trusts of land and settlements.](section/10.md)
+  - [s. 11 Interests acquired by inheritance.](section/11.md)
+  - [s. 12 Tenants entitled to enfranchisement or extension under Leasehold Reform Act 1967.](section/12.md)
+  - [s. 12A Tenants participating in collective enfranchisement, or entitled to individual lease extension, under Part I of Leasehold Reform, Housing and Urban Development Act 1993.](section/12A.md)
+  - [s. 13 Ecclesiastical property.](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 Information for ascertaining relevant date.](section/15.md)
+  - [s. 16 Disputes.](section/16.md)
+  - [s. 17 Action for nuisance following unsuccessful claim where responsible authority have disclaimed statutory immunity.](section/17.md)
+  - [s. 18 Interest on compensation.](section/18.md)
+  - [s. 19 Interpretation of Part I.](section/19.md)
+- Part II Mitigation of Injurious Effect of Public Works
+  - Insulation against noise
+    - [s. 20 Soundproofing of buildings affected by public works.](section/20.md)
+    - [s. 20A Power to make payments in respect of caravans and other structures affected by noise of public works.](section/20A.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 2225. ................................](section/2225.md)
+  - Powers of authorities responsible for other public works
+    - [s. 26 Acquisition of land in connection with public works.](section/26.md)
+    - [s. 27 Execution of works etc. in connection with public works.](section/27.md)
+  - Expenses of persons moving temporarily during construction works etc.
+    - [s. 28 Power to pay expenses of persons moving temporarily during construction works etc.](section/28.md)
+- Part III Provisions for Benefit of Persons Displaced From Land
+  - Home loss payments
+    - [s. 29 Right to home loss payment where person displaced from dwelling.](section/29.md)
+    - [s. 29A Spouses and civil partners having statutory rights of occupation.](section/29A.md)
+    - [s. 30 Amount of home loss payment in England and Wales.](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Supplementary provisions about home loss payments.](section/32.md)
+    - [s. 32A Home loss payments: exclusions](section/32A.md)
+    - [s. 33 Home loss payments for certain caravan dwellers.](section/33.md)
+  - Other loss payments
+    - [s. 33A Basic loss payment](section/33A.md)
+    - [s. 33B Occupier’s loss payment: agricultural land](section/33B.md)
+    - [s. 33C Occupier’s loss payment: other land](section/33C.md)
+    - [s. 33D Loss payments: exclusions](section/33D.md)
+    - [s. 33E Claims](section/33E.md)
+    - [s. 33F Insolvency](section/33F.md)
+    - [s. 33G Death](section/33G.md)
+    - [s. 33H Agricultural land: dual entitlement](section/33H.md)
+    - [s. 33I Payment](section/33I.md)
+    - [s. 33J Acquisition by agreement](section/33J.md)
+    - [s. 33K Regulations](section/33K.md)
+  - Farm loss payments
+    - [s. 34 Right to farm loss payment where person displaced from agricultural unit.](section/34.md)
+    - [s. 35 Amount of farm loss payment.](section/35.md)
+    - [s. 36 Supplementary provisions about farm loss payments.](section/36.md)
+  - Disturbance payments
+    - [s. 37 Disturbance payments for persons without compensatable interests.](section/37.md)
+    - [s. 38 Amount of disturbance payment.](section/38.md)
+  - Rehousing
+    - [s. 39 Duty to rehouse residential occupiers.](section/39.md)
+    - [s. 40 Duty to rehouse certain caravan dwellers.](section/40.md)
+    - [s. 41 Power of relevant authority to make advances repayable on maturity to displaced residential owner-occupiers.](section/41.md)
+    - [s. 42 Duty of displacing authority to indemnify rehousing or lending authority for net losses.](section/42.md)
+    - [s. 43 Power of relevant authority to defray expenses in connection with acquisition of new dwellings.](section/43.md)
+- Part IV Compulsory Purchase
+  - Assessment of compensation
+    - [s. 44 Compensation for injurious affection.](section/44.md)
+    - [s. 45 Compensation for acquisition of dwelling specially adapted for disabled person.](section/45.md)
+    - [s. 46 Compensation for disturbance where business carried on by person over sixty.](section/46.md)
+    - [s. 47 Compensation in respect of land subject to business tenancy](section/47.md)
+    - [s. 48 Compensation in respect of agricultural holdings.](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 Compensation where occupier is rehoused.](section/50.md)
+    - [s. 51 Compensation where land is in area designated as site of new town for purpose of public development.](section/51.md)
+  - Advance payment of compensation
+    - [s. 52 Right to advance payment of compensation.](section/52.md)
+    - [s. 52AZA Repayment by claimant etc.](section/52AZA.md)
+    - [s. 52ZA Advance payments: land subject to mortgage](section/52ZA.md)
+    - [s. 52ZB Advance payments: land subject to mortgage exceeding 90% threshold](section/52ZB.md)
+    - [s. 52ZC Land subject to mortgage: supplementary](section/52ZC.md)
+    - [s. 52ZD Making a request for advance payment](section/52ZD.md)
+    - [s. 52ZE Payment to mortgagee recoverable if notice to treat withdrawn](section/52ZE.md)
+    - [s. 52A Right to interest where advance payment made.](section/52A.md)
+    - [s. 52B Interest on advance payments of compensation paid late](section/52B.md)
+  - Severance of land
+    - [s. 53 Notice to treat in respect of part of agricultural land.](section/53.md)
+    - [s. 54 Effect of counter-notice under section 53.](section/54.md)
+    - [s. 55 Notice of entry in respect of part of agricultural holding.](section/55.md)
+    - [s. 56 Effect of counter-notice under section 55.](section/56.md)
+    - [s. 57 Other procedures for taking possession of part of agricultural holding.](section/57.md)
+    - [s. 58 Determination of material detriment where part of house etc. proposed for compulsory acquisition.](section/58.md)
+  - Miscellaneous
+    - [s. 59 Notice to quit agricultural holding: right to opt for notice of entry compensation.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Notice to quit part of agricultural holding: right to claim notice of entry compensation for remainder of holding.](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 Interest on compensation for injurious affection where no land taken.](section/63.md)
+    - [s. 64 Extension of grounds for challenging validity of compulsory purchase order.](section/64.md)
+    - [s. 6567. ................................](section/6567.md)
+- Part V Planning Blight
+  - Extension of classes of blighted land
+    - [s. 6872. ................................](section/6872.md)
+    - [s. 73](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75](section/75.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 77](section/77.md)
+    - [s. 78](section/78.md)
+    - [s. 7981 ................................](section/7981.md)
+    - [s. 82](section/82.md)
+    - [s. 83 ................................](section/83.md)
+- Part VI Supplementary Provisions
+  - [s. 84 Application to Crown.](section/84.md)
+  - [s. 84A Service of documents](section/84A.md)
+  - [s. 85 Financial provisions.](section/85.md)
+  - [s. 86 Repeals.](section/86.md)
+  - [s. 87 General interpretation.](section/87.md)
+  - [s. 88 Northern Ireland.](section/88.md)
+  - [s. 89 Short title, commencement and extent.](section/89.md)
+- SCHEDULES 1&2
+- SCHEDULE 3 REPEALS
