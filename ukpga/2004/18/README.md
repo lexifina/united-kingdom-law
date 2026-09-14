@@ -1,0 +1,240 @@
+# Traffic Management Act 2004
+
+2004 c. 18. Enacted 2004-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/18
+
+Source: https://www.legislation.gov.uk/ukpga/2004/18/2026-09-14
+
+## Contents
+
+- Part 1 Traffic Officers
+  - Traffic officers for England and for Wales
+    - [s. 1 Traffic officers: introduction](section/1.md)
+    - [s. 2 Designation of traffic officers](section/2.md)
+  - Jurisdiction and powers of traffic officers
+    - [s. 3 Jurisdiction of traffic officers](section/3.md)
+    - [s. 4 Powers to direct traffic officers](section/4.md)
+    - [s. 5 The special powers of a traffic officer](section/5.md)
+    - [s. 6 Powers to stop or direct traffic](section/6.md)
+    - [s. 7 Powers to place temporary traffic signs](section/7.md)
+    - [s. 8 Power to confer further special powers on traffic officers](section/8.md)
+    - [s. 9 Removal of certain vehicles by traffic officers](section/9.md)
+  - Miscellaneous and supplementary
+    - [s. 10 Offences](section/10.md)
+    - [s. 11 Uniform](section/11.md)
+    - [s. 12 Power to charge for traffic officer services provided on request](section/12.md)
+    - [s. 13 Power to acquire land](section/13.md)
+    - [s. 14 Financial assistance to authorised persons](section/14.md)
+    - [s. 15 Interpretation of Part 1](section/15.md)
+- Part 2 Network management by local traffic authorities and strategic highways companies
+  - General duties relating to network management
+    - [s. 16 The network management duty](section/16.md)
+    - [s. 17 Arrangements for network management](section/17.md)
+    - [s. 18 Guidance to network management authorities](section/18.md)
+    - [s. 19 Power to require information relating to network management](section/19.md)
+  - Enforcement of network management duties
+    - [s. 20 Intervention notices](section/20.md)
+    - [s. 21 Intervention orders](section/21.md)
+    - [s. 22 Appointment of traffic director: supplementary](section/22.md)
+    - [s. 23 Monitoring and reporting](section/23.md)
+    - [s. 24 Intervention in activities of network management authority](section/24.md)
+    - [s. 25 Exercise of network management authority functions](section/25.md)
+    - [s. 26 Application of sections 20 to 25 to network management authorities exercising functions jointly](section/26.md)
+    - [s. 27 Criteria for making intervention orders](section/27.md)
+    - [s. 28 Guidance to traffic directors](section/28.md)
+    - [s. 29 Traffic directors in London](section/29.md)
+    - [s. 30 Recovery of costs from network management authorities](section/30.md)
+    - [s. 31 Interpretation of Part 2](section/31.md)
+- Part 3 Permit Schemes
+  - [s. 32 Meaning of “permit scheme”](section/32.md)
+  - [s. 33 Preparation of permit schemes](section/33.md)
+  - [s. 33A Implementation of permit schemes of strategic highway companies and local highway authorities in England](section/33A.md)
+  - [s. 34 Implementation of local highway authority permit schemes: Wales](section/34.md)
+  - [s. 35 Implementation of other permit schemes](section/35.md)
+  - [s. 36 Variation and revocation of permit schemes](section/36.md)
+  - [s. 37 Permit regulations](section/37.md)
+  - [s. 38 Crown application](section/38.md)
+  - [s. 39 Interpretation of Part 3](section/39.md)
+- Part 4 Street works
+  - Enforcement
+    - [s. 40 Increase in penalties for summary offences under 1991 Act](section/40.md)
+    - [s. 41 Fixed penalty offences](section/41.md)
+  - Co-ordination of works by street authority
+    - [s. 42 Duty of street authority to co-ordinate works](section/42.md)
+  - Direction-making powers
+    - [s. 43 Directions relating to timing of street works](section/43.md)
+    - [s. 44 Directions as to placing of apparatus](section/44.md)
+  - Records and information
+    - [s. 45 The street works register](section/45.md)
+    - [s. 46 Records of location of apparatus](section/46.md)
+    - [s. 47 Duties relating to the location of unexpected apparatus](section/47.md)
+    - [s. 48 Duty to inspect records](section/48.md)
+  - Miscellaneous
+    - [s. 49 Notices of street works](section/49.md)
+    - [s. 50 Qualifications of supervisors and operatives](section/50.md)
+    - [s. 51 Restriction on works following substantial road works](section/51.md)
+    - [s. 52 Restriction on works following substantial street works](section/52.md)
+    - [s. 53 Notices requiring remedial works relating to reinstatements](section/53.md)
+    - [s. 54 Duty to notify street authority of reinstatement](section/54.md)
+    - [s. 55 Power of street authority to require undertaker to re-surface street](section/55.md)
+    - [s. 56 Re-surfacing: regulations and guidance](section/56.md)
+    - [s. 57 Contributions to costs of re-surfacing by undertaker](section/57.md)
+    - [s. 58 Inspection fees](section/58.md)
+    - [s. 59 Guidance about inspections](section/59.md)
+- Part 5 Highways and roads
+  - Strategic roads in London
+    - [s. 60 Strategic roads in London: initial designation by Secretary of State](section/60.md)
+    - [s. 61 Orders of the Greater London Authority changing what are strategic roads](section/61.md)
+    - [s. 62 London borough council exercising powers under Highways Act 1980 so as to affect strategic roads](section/62.md)
+    - [s. 63 London borough council exercising powers under Road Traffic Regulation Act 1984 so as to affect strategic roads](section/63.md)
+  - Enforcement of certain offences under the Highways Act 1980
+    - [s. 64 Fixed penalty offences under the Highways Act 1980](section/64.md)
+  - Records of objects placed in highway
+    - [s. 65 Duty of strategic highways company or local highway authority to keep records of objects in highway](section/65.md)
+  - Skips, scaffolding, building materials and excavations: charges for occupation of highway etc.
+    - [s. 66 Builders’ skips: charge for occupation of highway for unreasonable period](section/66.md)
+    - [s. 67 Builders’ skips: charge determined by reference to duration of occupation of highway](section/67.md)
+    - [s. 68 Scaffolding, building materials and excavations: charge for occupation of highway for unreasonable period](section/68.md)
+    - [s. 69 Scaffolding, building materials and excavations: charge determined by reference to duration of occupation of highway](section/69.md)
+    - [s. 70 Sections 66 to 69: supplementary](section/70.md)
+  - Guidance as to safety precautions
+    - [s. 71 Guidance to local highway authorities as to safety precautions](section/71.md)
+- Part 6 Civil enforcement of traffic contraventions
+  - Civil penalties for road traffic contraventions
+    - [s. 72 Civil penalties for road traffic contraventions](section/72.md)
+    - [s. 73 Contraventions subject to civil enforcement](section/73.md)
+    - [s. 74 Civil enforcement areas](section/74.md)
+    - [s. 75 Power to require authority to apply for civil enforcement powers](section/75.md)
+    - [s. 76 Civil enforcement officers](section/76.md)
+    - [s. 77 Setting the level of penalty charges](section/77.md)
+  - Notification, adjudication and enforcement
+    - [s. 78 Notification of penalty charge](section/78.md)
+    - [s. 78A Notification of penalty charge: parking contraventions in England](section/78A.md)
+    - [s. 79 Immobilisation of vehicle where penalty charge payable](section/79.md)
+    - [s. 80 Representations and appeals](section/80.md)
+    - [s. 81 Adjudicators](section/81.md)
+    - [s. 82 Enforcement of penalty charges](section/82.md)
+    - [s. 83 Certificated bailiffs](section/83.md)
+  - Additional contraventions in special enforcement areas
+    - [s. 84 Designation of special enforcement areas](section/84.md)
+    - [s. 85 Prohibition of double parking etc.](section/85.md)
+    - [s. 86 Prohibition of parking at dropped footways etc.](section/86.md)
+  - Supplementary
+    - [s. 87 Guidance to local authorities](section/87.md)
+    - [s. 87A Power to prohibit use of devices etc: parking contraventions in England](section/87A.md)
+    - [s. 88 Financial provisions](section/88.md)
+    - [s. 89 Regulations and orders](section/89.md)
+    - [s. 90 Application to Crown and visiting forces](section/90.md)
+    - [s. 91 Consequential amendments](section/91.md)
+    - [s. 92 Minor definitions](section/92.md)
+    - [s. 93 Index of defined expressions](section/93.md)
+- Part 7 Miscellaneous and General
+  - [s. 94 Power to inspect blue badges](section/94.md)
+  - [s. 95 Application of surplus income from parking places](section/95.md)
+  - [s. 96 Wales](section/96.md)
+  - [s. 97 Financial provision](section/97.md)
+  - [s. 98 Repeals](section/98.md)
+  - [s. 99 Commencement, transitionals and savings](section/99.md)
+  - [s. 100 Short title and extent](section/100.md)
+- SCHEDULE 1 Increase in maximum fines for certain summary offences under the 1991 Act
+- SCHEDULE 2 Schedule 4A to the New Roads and Street Works Act 1991
+- SCHEDULE 3 Schedule 4B to the New Roads and Street Works Act 1991
+- SCHEDULE 4 Schedule 3A to the New Roads and Street Works Act 1991
+- SCHEDULE 5 Schedule 22A to the Highways Act 1980
+- SCHEDULE 6 Schedule 22B to the Highways Act 1980
+- SCHEDULE 7 Road traffic contraventions subject to civil enforcement
+  - Part 1 Parking contraventions
+    - Parking contraventions
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Contraventions relating to parking places in Greater London
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Other parking contraventions in Greater London
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Parking contraventions outside Greater London
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Power to add further offences
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Part 2 Bus lane contraventions
+    - Bus lane contraventions
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Part 3 London lorry ban contraventions
+    - London lorry ban contraventions
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Part 4 Moving traffic contraventions
+    - Moving traffic contraventions
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 8A Traffic signs subject to civil enforcement in England](schedule/7/paragraph/8A.md)
+    - Traffic signs subject to civil enforcement in Wales
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Power to amend tables
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 Civil enforcement areas and enforcement authorities
+  - Part 1 In Greater London
+    - Civil enforcement of parking contraventions relating to parking places
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Civil enforcement of other parking contraventions
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Variation of civil enforcement area by Mayor of London
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Civil enforcement of bus lane contraventions
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Civil enforcement of London lorry ban contraventions
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Civil enforcement of moving traffic contraventions: London local authorities
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Civil enforcement of moving traffic contraventions: Transport for London
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part 2 Outside Greater London
+    - Designation of civil enforcement areas for parking contraventions
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Designation of civil enforcement areas for bus lane contraventions
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Designation of civil enforcement areas for moving traffic contraventions
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Civil enforcement: setting the level of charges
+  - Part 1 Charges to which this Schedule applies
+    - Charges to which this Schedule applies
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Part 2 Charges applicable in Greater London
+    - Charges to be set by Transport for London or London local authorities
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Supervisory role of Mayor of London
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Reserve powers of Secretary of State
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Publication of levels of charges
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Discharge of functions by London local authorities
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Part 3 Charges applicable outside Greater London
+    - Charges to be set by enforcement authority
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Guidelines given by appropriate national authority
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Publication of levels of charges
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+- SCHEDULE 10 Civil enforcement: special enforcement areas
+  - Designation of special enforcement areas in Greater London
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Variation of special enforcement area by Mayor of London
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Designation of special enforcement areas outside Greater London
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+- SCHEDULE 11 Civil enforcement: consequential amendments
+  - Road Traffic Regulation Act 1984
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Tribunals and Inquiries Act 1992
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - London Local Authorities Act 1995
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - London Local Authorities and Transport for London Act 2003
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12 Repeals
+  - Part 1 Civil enforcement
+  - Part 2 Other repeals
