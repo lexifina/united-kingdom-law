@@ -1,0 +1,505 @@
+# Road Traffic Regulation Act 1984
+
+1984 c. 27. Enacted 1984-06-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
+
+Source: https://www.legislation.gov.uk/ukpga/1984/27/2026-09-14
+
+## Contents
+
+- Part I General Provisions for Traffic Regulation
+  - Outside Greater London
+    - [s. 1 Traffic regulation orders outside Greater London.](section/1.md)
+    - [s. 2 What a traffic regulation order may provide.](section/2.md)
+    - [s. 3 Restrictions on traffic regulation orders.](section/3.md)
+    - [s. 4 Provisions supplementary to ss. 2 and 3.](section/4.md)
+    - [s. 5 Contravention of traffic regulation order.](section/5.md)
+  - In Greater London
+    - [s. 6 Orders similar to traffic regulation orders.](section/6.md)
+    - [s. 7 Supplementary provisions as to orders under s. 6.](section/7.md)
+    - [s. 8 Contravention of order under s. 6.](section/8.md)
+  - Experimental traffic schemes
+    - [s. 9 Experimental traffic orders.](section/9.md)
+    - [s. 10 Supplementary provisions as to experimental traffic orders.](section/10.md)
+    - [s. 11 Contravention of experimental traffic order.](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+  - Temporary suspension
+    - [s. 13A Temporary suspension of provisions under s. 6 or 9 orders.](section/13A.md)
+- Part II Traffic Regulation in Special Cases
+  - [s. 14 Temporary prohibition or restriction on roads.](section/14.md)
+  - [s. 15 Duration of orders and notices under s.14.](section/15.md)
+  - [s. 16 Supplementary provisions as to orders and notices under s. 14.](section/16.md)
+  - [s. 16A Prohibition or restriction on roads in connection with certain events.](section/16A.md)
+  - [s. 16B Restrictions on orders under s. 16A.](section/16B.md)
+  - [s. 16C Supplementary provisions as to orders under s. 16A.](section/16C.md)
+  - [s. 17 Traffic regulation on special roads.](section/17.md)
+  - [s. 17A Further provisions as to special roads.](section/17A.md)
+  - [s. 18 One-way traffic on trunk roads.](section/18.md)
+  - [s. 19 Regulation of use of highways by public service vehicles.](section/19.md)
+  - [s. 20 Prohibition or restriction of use of vehicles on roads of certain classes.](section/20.md)
+  - [s. 21 Permit for trailer to carry excess weight.](section/21.md)
+  - [s. 22 Traffic regulation for special areas in the countryside.](section/22.md)
+  - [s. 22A Traffic regulation on certain roads for purpose of conserving natural beauty.](section/22A.md)
+  - [s. 22B Traffic regulation on long distance routes](section/22B.md)
+  - [s. 22BB Traffic regulation on byways etc. in National Parks in England and Wales](section/22BB.md)
+  - [s. 22BC Section 22BB: supplementary](section/22BC.md)
+  - [s. 22C Terrorism](section/22C.md)
+  - [s. 22CA Section 22C: power to impose charges](section/22CA.md)
+  - [s. 22D Section 22C: supplemental](section/22D.md)
+- Part 2A Licensing of providers of micromobility vehicles in England
+  - [s. 22E Provision of micromobility vehicles must be licensed](section/22E.md)
+  - [s. 22F Micromobility vehicles](section/22F.md)
+  - [s. 22G Exemptions](section/22G.md)
+  - [s. 22H Regulations about licences under this Part](section/22H.md)
+  - [s. 22I Licensing authorities](section/22I.md)
+  - [s. 22J Information](section/22J.md)
+  - [s. 22K Proceedings in respect of offences by bodies corporate and partnerships etc](section/22K.md)
+  - [s. 22L Regulations](section/22L.md)
+  - [s. 22M Interpretation](section/22M.md)
+- Part III Crossings and Playgrounds
+  - Pedestrian crossings
+    - [s. 23 Powers of strategic highways companies and local traffic authorities with respect to pedestrian crossings](section/23.md)
+    - [s. 24 Pedestrian crossings on other roads.](section/24.md)
+    - [s. 25 Pedestrian crossing regulations.](section/25.md)
+  - School crossings
+    - [s. 26 Arrangements for patrolling school crossings.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Stopping of vehicles at school crossings.](section/28.md)
+  - Street playgrounds
+    - [s. 29 Power to prohibit traffic on roads to be used as playgrounds.](section/29.md)
+    - [s. 30 Similar power for local authorities in Greater London.](section/30.md)
+    - [s. 31 Byelaws with respect to roads used as playgrounds.](section/31.md)
+- Part IV Parking Places
+  - Provision of off-street parking, and parking on roads without payment
+    - [s. 32 Power of local authorities to provide parking places.](section/32.md)
+    - [s. 33 Additional powers of local authorities in connection with off-street parking places.](section/33.md)
+    - [s. 34 Provision of access to premises through off-street parking place.](section/34.md)
+    - [s. 35 Provisions as to use of parking places provided under s. 32 or 33.](section/35.md)
+    - [s. 35A Offences and proceedings in connection with parking places provided under s. 32 or 33.](section/35A.md)
+    - [s. 35B Display of information.](section/35B.md)
+    - [s. 35C Variation of charges at off-street parking places.](section/35C.md)
+    - [s. 36 Provisions as to authorising use of roads for parking.](section/36.md)
+    - [s. 37 Extension of powers for purposes of general scheme of traffic control.](section/37.md)
+    - [s. 38 Parking place to be used as bus or coach station.](section/38.md)
+    - [s. 39 Supplementary provisions as to exercise of powers under ss. 32–35 in England or Wales.](section/39.md)
+    - [s. 40 Acquisition of land: provisions as to parking places.](section/40.md)
+    - [s. 41 Financial provisions relating to parking places.](section/41.md)
+    - [s. 42 Provisions as to foreshore in Scotland.](section/42.md)
+  - Control of off-street parking
+    - [s. 43 Control of off-street parking in Greater London.](section/43.md)
+    - [s. 44 Control of off-street parking outside Greater London.](section/44.md)
+  - Parking on highways for payment
+    - [s. 45 Designation of paying parking places on highways.](section/45.md)
+    - [s. 46 Charges at, and regulation of, designated parking places.](section/46.md)
+    - [s. 46A Variation of charges at designated parking places.](section/46A.md)
+    - [s. 47 Offences relating to designated parking places.](section/47.md)
+    - [s. 48 Acceptance of payment as bar to proceedings under s. 47.](section/48.md)
+    - [s. 49 Supplementary provisions as to designation orders and designated parking places.](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 Parking devices for designated parking places.](section/51.md)
+    - [s. 52 Offences and proceedings in connection with parking devices and associated apparatus.](section/52.md)
+    - [s. 53 Designation orders outside Greater London.](section/53.md)
+    - [s. 54](section/54.md)
+    - [s. 55 Financial provisions relating to designation orders.](section/55.md)
+    - [s. 56 Grants where parking place designated by Secretary of State.](section/56.md)
+  - Provision of parking places by parish or community councils
+    - [s. 57 General powers of parish or community councils for provision of parking places.](section/57.md)
+    - [s. 58 Consents for purposes of s. 57(1).](section/58.md)
+    - [s. 59 Consents for, and provisions as to use of, parking places under s. 57(1)(b).](section/59.md)
+    - [s. 60 Supplementary provisions relating to ss. 57–59.](section/60.md)
+  - Special parking provisions
+    - [s. 61 Loading areas.](section/61.md)
+    - [s. 62 Parking in Royal Parks.](section/62.md)
+    - [s. 63 Stands and racks for bicycles.](section/63.md)
+  - Parking attendants
+    - [s. 63A Parking attendants.](section/63A.md)
+- Part V Traffic Signs
+  - General provisions
+    - [s. 64 General provisions as to traffic signs.](section/64.md)
+    - [s. 65 Powers and duties of traffic authorities as to placing of traffic signs.](section/65.md)
+    - [s. 66 Traffic signs for giving effect to local traffic regulations.](section/66.md)
+    - [s. 67 Emergencies and temporary obstructions.](section/67.md)
+    - [s. 68 Placing of traffic signs in connection with exercise of other powers.](section/68.md)
+    - [s. 69 General provisions as to removal of signs.](section/69.md)
+    - [s. 70 Default powers of Secretary of State as to traffic signs.](section/70.md)
+    - [s. 71 Power to enter land in connection with traffic signs.](section/71.md)
+    - [s. 72 Powers exercisable by parish or community councils.](section/72.md)
+  - Provisions as to Greater London
+    - [s. 73 Powers and duties of local traffic authorities in Greater London in respect of traffic signs.](section/73.md)
+    - [s. 74 Affixing of traffic signs to walls.](section/74.md)
+    - [s. 74A London borough councils and the London traffic control system.](section/74A.md)
+    - [s. 74B Transfer of traffic control systems between Secretary of State or a strategic highways company and Transport for London.](section/74B.md)
+    - [s. 74C The traffic authority for traffic signs.](section/74C.md)
+    - [s. 75 Similar provisions applicable in City of London.](section/75.md)
+    - [s. 76 ................................](section/76.md)
+  - Supplementary provisions
+    - [s. 77 Traffic signs: modifications as respects trunk roads.](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 Advances by Secretary of State towards expenses of traffic signs.](section/79.md)
+    - [s. 80 References to highway authorities in Part V.](section/80.md)
+- Part VI Speed Limits
+  - [s. 81 General speed limit for restricted roads.](section/81.md)
+  - [s. 82 What roads are restricted roads.](section/82.md)
+  - [s. 83 Provisions as to directions under s. 82(2)](section/83.md)
+  - [s. 84 Speed limits on roads other than restricted roads.](section/84.md)
+  - [s. 85 Traffic signs for indicating speed restrictions.](section/85.md)
+  - [s. 86 Speed limits for particular classes of vehicles.](section/86.md)
+  - [s. 87 Exemption of fire brigade, ambulance and police vehicles from speed limits.](section/87.md)
+  - [s. 88 Temporary speed limits.](section/88.md)
+  - [s. 89 Speeding offences generally.](section/89.md)
+  - [s. 90 ................................](section/90.md)
+  - [s. 91 ................................](section/91.md)
+- Part VII Bollards and Other Obstructions
+  - [s. 92 Bollards and other obstructions outside Greater London.](section/92.md)
+  - [s. 93 Powers of Secretary of State in relation to functions under s. 92.](section/93.md)
+  - [s. 94 Bollards and other obstructions in Greater London.](section/94.md)
+  - [s. 94A Bollards and other obstructions: terrorism](section/94A.md)
+- Part VIII Control and Enforcement
+  - Traffic wardens
+    - [s. 95 Appointment of traffic wardens.](section/95.md)
+    - [s. 96 Additional powers of traffic wardens.](section/96.md)
+    - [s. 97 Supplementary provisions as to traffic wardens.](section/97.md)
+    - [s. 98 ................................](section/98.md)
+  - Removal or immobilisation of vehicles
+    - [s. 99 Removal of vehicles illegally, obstructively or dangerously parked, or abandoned or broken down.](section/99.md)
+    - [s. 100 Interim disposal of vehicles removed under s. 99.](section/100.md)
+    - [s. 101 Ultimate disposal of vehicles abandoned and removeable under this Act.](section/101.md)
+    - [s. 101A Right of owner to recover vehicle or proceeds of sale](section/101A.md)
+    - [s. 101B Representations and appeals](section/101B.md)
+    - [s. 102 Charges for removal, storage and disposal of vehicles.](section/102.md)
+    - [s. 103 Supplementary provisions as to removal of vehicles.](section/103.md)
+    - [s. 104 Immobilisation of vehicles illegally parked.](section/104.md)
+    - [s. 105 Exemptions from s. 104.](section/105.md)
+    - [s. 106 Initial experimental period for immobilisation of vehicles.](section/106.md)
+    - [s. 106A Immobilisation of vehicles in London](section/106A.md)
+  - Enforcement of excess parking charges
+    - [s. 107 Liability of vehicle owner in respect of excess parking charge.](section/107.md)
+    - [s. 108 Notice in respect of excess parking charge.](section/108.md)
+    - [s. 109 Modifications of ss. 107 and 108 in relation to hired vehicles.](section/109.md)
+    - [s. 110 Time for bringing, and evidence in, proceedings for certain offences.](section/110.md)
+    - [s. 111 Supplementary provisions as to excess charges.](section/111.md)
+- Part IX Further Provisions as to Enforcement
+  - General provisions
+    - [s. 112 Information as to identity of driver or rider.](section/112.md)
+    - [s. 113 ................................](section/113.md)
+    - [s. 115 Mishandling of parking documents and related offences.](section/115.md)
+    - [s. 116 Provisions supplementary to s. 115.](section/116.md)
+    - [s. 117 Wrongful use of disabled person’s badge.](section/117.md)
+    - [s. 118 ................................](section/118.md)
+  - Special provisions relating to Scotland
+    - [s. 119 Aiding and abetting.](section/119.md)
+    - [s. 120 ................................](section/120.md)
+- Part X General and Supplementary Provisions
+  - [s. 121A Traffic authorities.](section/121A.md)
+  - [s. 121B London borough council exercising powers so as to affect another traffic authority’s roads.](section/121B.md)
+  - [s. 121C Functions of GLA under this Act to be exercisable by the Mayor.](section/121C.md)
+  - [s. 122 Exercise of functions by strategic highways companies or local authorities.](section/122.md)
+  - [s. 122A Prospective exercise of powers.](section/122A.md)
+  - [s. 123 ................................](section/123.md)
+  - [s. 124 Provisions as to certain orders.](section/124.md)
+  - [s. 124A GLA side roads.](section/124A.md)
+  - [s. 124B Orders of the Authority changing what are GLA side roads.](section/124B.md)
+  - [s. 124C Certification and records of GLA side roads.](section/124C.md)
+  - [s. 125 Boundary roads.](section/125.md)
+  - [s. 126 Exercise of powers as respects part of width of road.](section/126.md)
+  - [s. 127 Footpaths, bridleways, restricted byways and byways open to all traffic.](section/127.md)
+  - [s. 128 Power to hold inquiries.](section/128.md)
+  - [s. 129 General provisions as to inquiries.](section/129.md)
+  - [s. 130 Application of Act to Crown.](section/130.md)
+  - [s. 131 Application of road traffic enactments to Crown roads.](section/131.md)
+  - [s. 132 Special provisions as to certain Crown roads.](section/132.md)
+  - [s. 132A ................................](section/132A.md)
+  - [s. 132AA Royal Parks or highways in London affected by proposals relating to the other.](section/132AA.md)
+  - [s. 133 Vehicles used for marine salvage.](section/133.md)
+  - [s. 134 Provisions as to regulations.](section/134.md)
+  - [s. 135 Application of Act to Isles of Scilly.](section/135.md)
+  - [s. 136 Meaning of “motor vehicle” and other expressions relating to vehicles.](section/136.md)
+  - [s. 137 Supplementary provisions relating to s. 136.](section/137.md)
+  - [s. 138 Meaning of “heavy commercial vehicle”.](section/138.md)
+  - [s. 139 Hovercraft.](section/139.md)
+  - [s. 140 Certain vehicles not to be treated as motor vehicles.](section/140.md)
+  - [s. 141 ................................](section/141.md)
+  - [s. 141A Tramcars and trolley vehicles: regulations.](section/141A.md)
+  - [s. 142 General interpretation of Act.](section/142.md)
+  - [s. 143 Saving for law of nuisance.](section/143.md)
+  - [s. 144 Transitional provisions and savings.](section/144.md)
+  - [s. 145 Commencement and temporary provisions.](section/145.md)
+  - [s. 146 Amendments and repeals.](section/146.md)
+  - [s. 147 Short title and extent.](section/147.md)
+- SCHEDULE 1 Matters as to which Orders can be made under Section 6
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- Schedule 3A Licensing of provision of micromobility vehicles
+  - [Sch. 3A para. 1 Introduction](schedule/3A/paragraph/1.md)
+  - [Sch. 3A para. 2 Licence conditions](schedule/3A/paragraph/2.md)
+  - [Sch. 3A para. 3 Duration, renewal, suspension and revocation of licence](schedule/3A/paragraph/3.md)
+  - [Sch. 3A para. 4 Variation and transfer of licence](schedule/3A/paragraph/4.md)
+  - [Sch. 3A para. 5 Licence applications etc: process](schedule/3A/paragraph/5.md)
+  - [Sch. 3A para. 6 Licence applications etc: process](schedule/3A/paragraph/6.md)
+  - [Sch. 3A para. 7 Monitoring](schedule/3A/paragraph/7.md)
+  - [Sch. 3A para. 8 Financial penalties](schedule/3A/paragraph/8.md)
+  - [Sch. 3A para. 9 Decisions: reconsideration and appeals](schedule/3A/paragraph/9.md)
+  - [Sch. 3A para. 10 Fees](schedule/3A/paragraph/10.md)
+  - [Sch. 3A para. 11 Offences](schedule/3A/paragraph/11.md)
+- SCHEDULE 4 Control of Off-Street Parking
+  - Part I Provisions as to the Making of Regulations under Section 43
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part II Revocation or Variation of Permanent Licence
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Part III Rights of Appeal
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Part IV Right to Compensation in Certain Circumstances
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Part V Permissible Periods of Unlicensed Operation of Parking Place
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+- SCHEDULE 5 Buildings in Relation to Which a Secretary of State is the Appropriate Authority for the Purposes of Section 74
+- SCHEDULE 6 Speed Limits for Vehicles of Certain Classes
+  - Part I Vehicles Fitted with Pneumatic Tyres on all Wheels
+    - Application
+  - Part II Vehicles (Other than Track-Laying Vehicles) not Fitted with Pneumatic Tyres on all Wheels
+    - (see application provisions below the following Table)
+    - Application
+  - Part III Track-Laying Vehicles
+    - Application
+  - Part IV Application and Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7
+- SCHEDULE 8 Statutory Statements (Excess Charges)
+  - Part I Statutory Statement of Ownership or Hiring
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Part II Statutory Statement of Facts
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Part III Interpretation
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Special Provisions as to certain Orders
+  - Part I Reserve Powers of national authority
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 12A](schedule/9/paragraph/12A.md)
+    - [Sch. 9 para. 12B](schedule/9/paragraph/12B.md)
+  - Part II Consent of national authority to Certain Orders
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 14A](schedule/9/paragraph/14A.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 15A](schedule/9/paragraph/15A.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Part III Procedure as to certain orders
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+  - Part IV Variation or Revocation of Certain Orders
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - PART V Consultation With Traffic Commissioners
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - PART VI Validity of Certain Orders
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+- SCHEDULE 10 Transitional Provisions and Savings
+  - General
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Traffic regulation byelaws in Scotland
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Meaning of “heavy commercial vehicle”
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Pedestrian crossings
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Parking places
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Speed limits
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Saving for agreements and incidental matters
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Offences relating to disabled persons’ concessions
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - References to foot passengers in subordinate legislation
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Statutory statement of facts
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+- SCHEDULE 11 Provisions of This Act and Instruments Referred to in Section 144(2)
+- SCHEDULE 12
+  - Introductory
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Application of Schedule
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Notice to pay fixed penalty
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Amount and payment of fixed penalty, and supplementary provisions
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Liability of vehicle owner in respect of fixed penalty
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Effect of notice under paragraph 5(6)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Hired vehicles
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Time for bringing, and evidence in, proceedings for offences under this Schedule
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Statutory statements under this Schedule
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Service of notices
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Interpretation
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Transitional provisions
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- SCHEDULE 13 Consequential Amendments
+  - THE ROAD TRAFFIC ACT 1960 (c. 16)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - THE LONDON GOVERNMENT ACT 1963 (c. 33)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - THE COUNTRYSIDE (SCOTLAND) ACT 1967 (c. 86)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - THE LONDON CAB ACT 1968 (c. 7)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - THE COUNTRYSIDE ACT 1968 (c. 41)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - THE TRANSPORT ACT 1968 (c. 73)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - THE CHRONICALLY SICK AND DISABLED PERSONS ACT 1970 (c. 44)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - THE PENSIONS (INCREASE) ACT 1971 (c. 56)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - THE LAND COMPENSATION ACT 1973 (c. 26)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+  - THE CONTROL OF POLLUTION ACT 1974 (c. 40)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+  - THE ROAD TRAFFIC ACT 1974 (c. 50)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+  - THE GREATER LONDON COUNCIL (GENERAL POWERS) ACT 1974 (c. xxiv)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+  - THE LOCAL GOVERNMENT (MISCELLANEOUS PROVISIONS) ACT 1976 (c. 57)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+  - THE CRIMINAL JUSTICE (SCOTLAND) ACT 1980 (c. 62)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+  - THE LOCAL GOVERNMENT, PLANNING AND LAND ACT 1980 (c. 65)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+  - THE HIGHWAYS ACT 1980 (c. 66)
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+    - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+    - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+    - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+    - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+  - THE WILDLIFE AND COUNTRYSIDE ACT 1981 (c. 69)
+    - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+  - THE LEVEL CROSSINGS ACT 1983 (c. 16)
+    - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+- SCHEDULE 14 Repeals
+  - TABLE OF DERIVATIONSNote:The following abbreviations are used in this Table:—
