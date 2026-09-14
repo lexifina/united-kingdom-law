@@ -1,0 +1,179 @@
+# Compulsory Purchase Act 1965
+
+1965 c. 56. Enacted 1965-08-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 31 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1965/56
+
+Source: https://www.legislation.gov.uk/ukpga/1965/56/2026-09-14
+
+## Contents
+
+- Part I Compulsory Purchase under Acquisition of Land Act of 1946
+  - Preliminary
+    - [s. 1 Application of Part I and interpretation](section/1.md)
+    - [s. 2 Persons without power to sell their interests.](section/2.md)
+    - [s. 3 Acquisition by agreement in pursuance of compulsory purchase order.](section/3.md)
+  - Compulsory Purchase
+    - [s. 4 Time limit for giving notice to treat.](section/4.md)
+    - [s. 4A Extension of time limit during challenge](section/4A.md)
+    - [s. 5 Notice to treat, and untraced owners.](section/5.md)
+    - [s. 6 Reference to Upper Tribunal.](section/6.md)
+    - [s. 7 Measure of compensation in case of severance.](section/7.md)
+    - [s. 8 Other provisions as to divided land.](section/8.md)
+  - Deposit of compensation and execution of deed poll
+    - [s. 9 Refusal to convey, failure to make title, etc.](section/9.md)
+  - Further provision as to compensation for injurious affection
+    - [s. 10 Further provision as to compensation for injurious affection.](section/10.md)
+  - Entry on the land
+    - [s. 11 Powers of entry.](section/11.md)
+    - [s. 11A Powers of entry: further notices of entry](section/11A.md)
+    - [s. 11B Counter-notice requiring possession to be taken on specified date](section/11B.md)
+    - [s. 12 Unauthorised entry.](section/12.md)
+    - [s. 13 Refusal to give possession to acquiring authority.](section/13.md)
+  - Acquisition of special interests
+    - [s. 14 Mortgages.](section/14.md)
+    - [s. 15 Mortgage debt exceeding value of mortgaged land.](section/15.md)
+    - [s. 16 Acquisition of part of land subject to mortgage.](section/16.md)
+    - [s. 17 Compensation where mortgage paid off before stipulated time.](section/17.md)
+    - [s. 18 Rentcharges.](section/18.md)
+    - [s. 19 Apportionment of rent under leases.](section/19.md)
+    - [s. 20 Tenants at will, etc.](section/20.md)
+    - [s. 21 Common land.](section/21.md)
+  - Supplemental
+    - [s. 22 Interests omitted from purchase.](section/22.md)
+    - [s. 23 Costs of conveyances etc.](section/23.md)
+    - [s. 24 Power to sell in consideration of a rentcharge.](section/24.md)
+    - [s. 25 Payment into court.](section/25.md)
+    - [s. 26 Costs in respect of money paid into court.](section/26.md)
+    - [s. 27](section/27.md)
+    - [s. 28 General provisions as to deeds poll.](section/28.md)
+    - [s. 29 Irregularities in proceedings under the Act.](section/29.md)
+    - [s. 30 Service of notices.](section/30.md)
+    - [s. 31 Ecclesiastical property.](section/31.md)
+    - [s. 32 Commencement of Part I.](section/32.md)
+- Part II Application of Part I in other cases and Supplemental Provisions
+  - [s. 33 Compulsory purchase orders under Water Acts 1945 and 1948.](section/33.md)
+  - [s. 34 Compulsory purchase orders under Part III of Housing Act 1957.](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Orders relating to acquisition of land under s. 67 of Water Resources Act 1963.](section/36.md)
+  - [s. 37 Compulsory purchase orders under s. 11 of Pipe-lines Act 1962.](section/37.md)
+  - [s. 38 Application to enactments authorising acquisition of land by agreement.](section/38.md)
+  - [s. 39 Consequential amendments and repeals.](section/39.md)
+  - [s. 40 Short title, commencement and extent.](section/40.md)
+- SCHEDULE 1 Persons without Power to sell their Interests
+  - Preliminary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Power to sell and convey to the acquiring authority
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Additional powers of entering into transactions with acquiring authority
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Valuation on purchase by agreement
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Sale in consideration of rentcharge
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Application of compensation payable in respect of interest of person under disability
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Alternative method of disposing of compensation between £200 and £20
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Compensation not exceeding £20
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Sums payable under contract with persons not absolutely entitled
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Conveyance of the land or interest
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Absent and Untraced Owners
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 2A Counter-notice requiring purchase of land not in notice to treat
+  - PART 1 Counter-notice where acquiring authority has not taken possession
+    - Introduction
+      - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+      - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+      - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+    - Counter-notice requiring authority to purchase whole of land
+      - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+      - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - Effect of counter-notice on notice of entry
+      - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - Acquiring authority must respond to counter-notice within three months
+      - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+      - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+      - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+      - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+    - Effects of accepting counter-notice or referring it to the Upper Tribunal
+      - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+      - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+      - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+  - PART 2 Counter-notice where authority has taken possession
+    - Introduction
+      - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+      - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+      - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+    - Counter-notice requiring authority to purchase additional land
+      - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+      - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+    - Acquiring authority must respond to counter-notice within 3 months
+      - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+      - [Sch. 2A para. 20](schedule/2A/paragraph/20.md)
+      - [Sch. 2A para. 21](schedule/2A/paragraph/21.md)
+      - [Sch. 2A para. 22](schedule/2A/paragraph/22.md)
+    - Effects of accepting counter-notice
+      - [Sch. 2A para. 23](schedule/2A/paragraph/23.md)
+  - PART 3 Determination by the Upper Tribunal
+    - Introduction
+      - [Sch. 2A para. 24](schedule/2A/paragraph/24.md)
+      - [Sch. 2A para. 25](schedule/2A/paragraph/25.md)
+    - Role of the Upper Tribunal
+      - [Sch. 2A para. 26](schedule/2A/paragraph/26.md)
+      - [Sch. 2A para. 27](schedule/2A/paragraph/27.md)
+    - Effect of determination that more land should be acquired
+      - [Sch. 2A para. 28](schedule/2A/paragraph/28.md)
+    - Withdrawal of notice to treat following determination
+      - [Sch. 2A para. 29](schedule/2A/paragraph/29.md)
+- SCHEDULE 3. Alternative Procedure for obtaining Right of Entry
+- SCHEDULE 4 Common Land
+  - General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Duty of owner of right in the soil to convey on payment of compensation
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Compensation for common land not held of a manor
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Appointment of committee of commoners
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Negotiations with committee
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Settlement of compensation where no committee is appointed
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Execution of deed poll
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Forms of Conveyance
+  - General
+  - Conveyance on rentcharge
+- SCHEDULE 6 POWERS OF PURCHASING LAND BY AGREEMENT
+  - The Small Holdings and Allotments Act 1908
+  - The Salmon and Freshwater Fisheries Act 1923
+  - The Local Government Act 1933
+  - The Water Act 1945
+  - The Civil Aviation Act 1949
+  - The Mineral Workings Act 1951
+  - The Prison Act 1952
+  - The Highways Act 1959
+  - The Town and Country Planning Act 1962
+  - The Airports Authority Act 1965
+- SCHEDULE 7 Consequential Amendments of References to Enactments Re-enacted in this Act
+  - The Railways Clauses Consolidation Act 1845
+  - The Commons Act 1899
+  - The Agriculture Act 1947
+  - The Landlord and Tenant Act 1954
+  - The Housing Act 1957
+  - The Land Compensation Act 1961
+  - The Town and Country Planning Act 1962
+  - References to sections 63 and 68 of Lands Clauses Consolidation Act 1845
+- SCHEDULE 8 Repeals
+  - Part I Enactments Consolidated
+  - Part II Spent Provisions in Lands Clauses Consolidation Act 1845
+  - Part III Provisions Superseded by Lands Tribunal Act 1949 and Land Compensation Act 1961
