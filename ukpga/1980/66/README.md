@@ -1,0 +1,898 @@
+# Highways Act 1980
+
+1980 c. 66. Enacted 1980-11-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 128 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
+
+Source: https://www.legislation.gov.uk/ukpga/1980/66/2026-09-14
+
+## Contents
+
+- Part I Highway Authorities and Agreements Between Authorities
+  - Highway authorities
+    - [s. 1 Highway authorities: general provision.](section/1.md)
+    - [s. 2 Highway authority for road which ceases to be a trunk road.](section/2.md)
+    - [s. 3 Highway authority for approaches to and parts of certain bridges.](section/3.md)
+  - Agreements between authorities
+    - [s. 4 Agreement for exercise by Ministeror strategic highways company of certain functions of local highway authority as respects highway affected by construction, etc. of trunk road.](section/4.md)
+    - [s. 5 Agreement for local highway authority to maintain and improve certain highways constructed or to be constructed by Ministeror strategic highways company.](section/5.md)
+    - [s. 6 Delegation etc. of functions with respect to trunk roads.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 Agreements between local highway authorities and strategic highways companies for doing of certain works.](section/8.md)
+    - [s. 9 Seconding of staff etc.](section/9.md)
+- Part II Trunk Roads, Classified Roads, Metropolitan Roads, Special Roads
+  - Trunk roads
+    - [s. 10 General provision as to trunk roads.](section/10.md)
+    - [s. 11 Local and private Act functions with respect to trunk roads.](section/11.md)
+  - Classified roads
+    - [s. 12 General provision as to principal and classified roads.](section/12.md)
+    - [s. 13 Power to change designation of principal roads.](section/13.md)
+  - Powers as respects roads that cross or join trunk roads or classified roads
+    - [s. 14 Powers as respects roads that cross or join trunk or classified roads.](section/14.md)
+  - GLA roads
+    - [s. 14A Designation of first GLA roads by Secretary of State.](section/14A.md)
+    - [s. 14B Orders of the Authority changing what are GLA roads.](section/14B.md)
+    - [s. 14C Certification and records of GLA roads.](section/14C.md)
+    - [s. 14D Construction of provisions relating to GLA roads.](section/14D.md)
+  - Metropolitan roads
+    - [s. 15 ................................](section/15.md)
+  - Special roads
+    - [s. 16 General provision as to special roads.](section/16.md)
+    - [s. 17 Classification of traffic for purposes of special roads.](section/17.md)
+    - [s. 18 Supplementary orders relating to special roads.](section/18.md)
+    - [s. 19 Certain special roads and other highways to become trunk roads.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+  - Ancillary matters with respect to orders under section 14 or 18 and schemes under section 16
+    - [s. 21 Extinguishment of rights of statutory undertakers as to apparatus etc. in connection with orders under section 14 or 18 and schemes under section 16.](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Compensation in respect of certain works executed in pursuance of orders under section 14 or 18.](section/23.md)
+- Part III Creation of Highways
+  - [s. 24 Construction of new highways and provision of road-ferries.](section/24.md)
+  - [s. 25 Creation of footpath, bridleway or restricted byway by agreement.](section/25.md)
+  - [s. 26 Compulsory powers for creation of footpaths, bridleways and restricted byways.](section/26.md)
+  - [s. 27 Making up of new footpaths, bridleways and restricted byways.](section/27.md)
+  - [s. 28 Compensation for loss caused by public path creation order.](section/28.md)
+  - [s. 29 Duty to have regard to agriculture, forestry and nature conservation.](section/29.md)
+  - [s. 30 Dedication of highway by agreement with parish or community council.](section/30.md)
+  - [s. 31 Dedication of way as highway presumed after public use for 20 years.](section/31.md)
+  - [s. 31A Register of maps, statements and declarations.](section/31A.md)
+  - [s. 32 Evidence of dedication of way as highway.](section/32.md)
+  - [s. 33 Protection of rights of reversioners.](section/33.md)
+  - [s. 34 Conversion of private street into highway.](section/34.md)
+  - [s. 35 Creation of walkways by agreement.](section/35.md)
+- Part IV Maintenance of Highways
+  - Highways maintainable at public expense
+    - [s. 36 Highways maintainable at public expense.](section/36.md)
+  - Methods whereby highways may become maintainable at public expense
+    - [s. 37 Provisions whereby highway created by dedication may become maintainable at public expense.](section/37.md)
+    - [s. 38 Power of highway authorities to adopt by agreement.](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 Adoption of private streets.](section/40.md)
+  - Maintenance of highways maintainable at public expense
+    - [s. 41 Duty to maintain highways maintainable at public expense.](section/41.md)
+    - [s. 42 Power of district councils to maintain certain highways.](section/42.md)
+    - [s. 43 Power of parish and community councils to maintain footpaths, bridleways and restricted byways.](section/43.md)
+    - [s. 44 Person liable to maintain highway may agree to maintain publicly maintainable highway.](section/44.md)
+    - [s. 45 Power to get materials for repair of publicly maintainable highways.](section/45.md)
+    - [s. 46 Supplemental provisions with respect to the getting of materials under section 45.](section/46.md)
+    - [s. 47 Power of magistrates’ court to declare unnecessary highway to be not maintainable at public expense.](section/47.md)
+    - [s. 48 Power of magistrates’ court to order a highway to be again maintainable at public expense.](section/48.md)
+  - Maintenance of privately maintainable highways
+    - [s. 49 Maintenance of approaches to certain privately maintainable bridges.](section/49.md)
+    - [s. 50 Maintenance of privately maintainable footpaths and bridleways.](section/50.md)
+    - [s. 51 No liability to maintain by reason of enclosure if highway fenced with consent of highway authority.](section/51.md)
+    - [s. 52 Power to get materials for repair of privately maintainable highways.](section/52.md)
+    - [s. 53 Power of magistrates’ court to extinguish liability to maintain privately maintainable highway.](section/53.md)
+    - [s. 54 Extinguishment of liability to maintain privately maintainable highway diverted by order of magistrates’ court.](section/54.md)
+    - [s. 55 Extinguishment of liability to maintain or improve bridges comprised in trunk roads and special roads.](section/55.md)
+  - Enforcement of liability for maintenance
+    - [s. 56 Proceedings for an order to repair highway.](section/56.md)
+    - [s. 57 Default powers of highway authorities in respect of non-repair of privately maintainable highways.](section/57.md)
+    - [s. 58 Special defence in action against a highway authority for damages for non-repair of highway.](section/58.md)
+  - Recovery by highway authorities etc. of certain expenses incurred in maintaining highways
+    - [s. 59 Recovery of expenses due to extraordinary traffic.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Regulations supplementing maintenance powers of district councils
+    - [s. 61 Regulations supplementing maintenance powers of district councils.](section/61.md)
+- Part V Improvement of Highways
+  - General power of improvement
+    - [s. 62 General power of improvement.](section/62.md)
+  - Relief of main carriageway of trunk road from local traffic
+    - [s. 63 Relief of main carriageway of trunk road from local traffic.](section/63.md)
+  - Dual carriageways, roundabouts and cycle tracks
+    - [s. 64 Dual carriageways and roundabouts.](section/64.md)
+    - [s. 65 Cycle tracks.](section/65.md)
+  - Safety provisions
+    - [s. 66 Footways and guard-rails etc. for publicly maintainable highways.](section/66.md)
+    - [s. 67 Guard-rails etc. in private streets.](section/67.md)
+    - [s. 68 Refuges.](section/68.md)
+    - [s. 69 Subways.](section/69.md)
+    - [s. 70 Footbridges over highways.](section/70.md)
+    - [s. 71 Margins for horses and livestock.](section/71.md)
+  - Widths
+    - [s. 72 Widening of highways.](section/72.md)
+    - [s. 73 Power to prescribe improvement line for widening street.](section/73.md)
+    - [s. 74 Power to prescribe a building line.](section/74.md)
+    - [s. 75 Variation of widths of carriageways and footways.](section/75.md)
+  - Levels
+    - [s. 76 Levelling of highways.](section/76.md)
+    - [s. 77 Alteration of levels.](section/77.md)
+  - Corners
+    - [s. 78 Cutting off of corners.](section/78.md)
+    - [s. 79 Prevention of obstruction to view at corners.](section/79.md)
+  - Fences and boundaries
+    - [s. 80 Power to fence highways.](section/80.md)
+    - [s. 81 Provision of highway boundary posts.](section/81.md)
+  - Cattle-grids
+    - [s. 82 Provision of cattle-grids and by-passes.](section/82.md)
+    - [s. 83 Removal of cattle-grids and discontinuance of by-passes.](section/83.md)
+    - [s. 84 Maintenance of cattle-grids and by-passes.](section/84.md)
+    - [s. 85 Exercise of powers by agreement between neighbouring authorities.](section/85.md)
+    - [s. 86 Supersession of gates by cattle-grids.](section/86.md)
+    - [s. 87 Agreements for use of land for cattle-grids or by-passes.](section/87.md)
+    - [s. 88 Contributions towards expenditure of highway authorities.](section/88.md)
+    - [s. 89 Delegation to certain authorities of functions of Minister.](section/89.md)
+    - [s. 90 Protection of bridges and railways.](section/90.md)
+  - Road humps
+    - [s. 90A Construction of road humps by highway authority.](section/90A.md)
+    - [s. 90B Additional powers of the Secretary of State.](section/90B.md)
+    - [s. 90C Consultation and local inquiries.](section/90C.md)
+    - [s. 90CA Special procedure for certain road humps in London.](section/90CA.md)
+    - [s. 90D Regulations concerning construction and maintenance of road humps.](section/90D.md)
+    - [s. 90E Status of road humps.](section/90E.md)
+    - [s. 90F Meaning of “road hump” and interpretation of sections 90A to 90E.](section/90F.md)
+  - Other traffic calming works
+    - [s. 90G Powers to carry out traffic calming works.](section/90G.md)
+    - [s. 90GA Special procedure for certain traffic calming works in London.](section/90GA.md)
+    - [s. 90H Prescribing of works.](section/90H.md)
+    - [s. 90I Status of works authorised by section 90G.](section/90I.md)
+  - Construction, reconstruction, improvement etc. of bridges
+    - [s. 91 Construction of bridge to carry existing highway maintainable at public expense.](section/91.md)
+    - [s. 92 Reconstruction of bridge maintainable at public expense.](section/92.md)
+    - [s. 93 Power to make orders as to reconstruction, improvement, etc., of privately maintainable bridges.](section/93.md)
+    - [s. 94 Powers of highway authorities and bridge owners to enter into agreements.](section/94.md)
+    - [s. 95 Supplemental provisions as to orders and agreements under sections 93 and 94.](section/95.md)
+  - Miscellaneous improvements
+    - [s. 95A Power to install equipment for detection of traffic offencesetc.](section/95A.md)
+    - [s. 96 Powers of highway and local authorities to plant trees, lay out grass verges, etc.](section/96.md)
+    - [s. 96A Duty of local highway authorities in England to consult before felling street trees](section/96A.md)
+    - [s. 97 Lighting of highways.](section/97.md)
+    - [s. 98 Delegation of lighting functions of highway authority.](section/98.md)
+    - [s. 99 Metalling of highways.](section/99.md)
+    - [s. 100 Drainage of highways.](section/100.md)
+    - [s. 101 Power to fill in roadside ditches etc.](section/101.md)
+    - [s. 102 Provision of works for protecting highways against hazards of nature.](section/102.md)
+    - [s. 103 Provision of posts to indicate depth of flood water.](section/103.md)
+    - [s. 104 Mitigating nuisance of dust.](section/104.md)
+    - [s. 105 Power to improve road-ferries.](section/105.md)
+- PART VA ENVIRONMENTAL IMPACT ASSESSMENTS
+  - [s. 105ZA Interpretation](section/105ZA.md)
+  - [s. 105A Screening of projects for constructing or improving highways](section/105A.md)
+  - [s. 105AA Exemptions](section/105AA.md)
+  - [s. 105AB Publication of screening decisions: projects not to be subject to an environmental impact assessment](section/105AB.md)
+  - [s. 105B Publication of screening decision and environmental statement for projects subject to an environmental impact assessment](section/105B.md)
+  - [s. 105BA Co-ordination](section/105BA.md)
+  - [s. 105C ... EEA States.](section/105C.md)
+  - [s. 105CA Conclusion about environmental impact of a project for constructing or improving a highway](section/105CA.md)
+  - [s. 105CB Decision about whether or not to proceed with a project subject to an environmental impact assessment](section/105CB.md)
+  - [s. 105CC Timing of conclusion and decision](section/105CC.md)
+  - [s. 105CD Publication of conclusion and decision](section/105CD.md)
+  - [s. 105D Validity of decisions](section/105D.md)
+- Part VI Construction of bridges over and tunnels under navigable waters and diversion etc. of watercourses
+  - Construction of bridges over and tunnels under navigable waters
+    - [s. 106 Orders and schemes providing for construction of bridges over or tunnels under navigable waters.](section/106.md)
+    - [s. 107 Provisions supplementary to section 106.](section/107.md)
+  - Diversion etc. of watercourses
+    - [s. 108 Power to divert navigable watercourses.](section/108.md)
+    - [s. 109 Provisions supplementary to section 108.](section/109.md)
+    - [s. 110 Power to divert non-navigable watercourses and to carry out other works on any watercourse.](section/110.md)
+  - Interpretation
+    - [s. 111 Interpretation of Part VI.](section/111.md)
+- Part VII Provision of Special Facilities for Highways
+  - [s. 112 Provision of picnic sites and public conveniences for users of trunk roads.](section/112.md)
+  - [s. 113 Exercise by council of functions of Ministeror a strategic highways company with respect to management or provision of picnic sites etc.](section/113.md)
+  - [s. 114 Provision of public conveniences by county council for users of roads for which they are the highway authority.](section/114.md)
+  - [s. 115 Provision of areas for parking heavy goods vehicles, etc.](section/115.md)
+- Part VIIA Provision of Amenities on Certain Highways
+  - [s. 115A Scope of Part VIIA.](section/115A.md)
+  - [s. 115B Provision etc. of services and amenities by councils.](section/115B.md)
+  - [s. 115C Provision of recreation and refreshment facilities by councils.](section/115C.md)
+  - [s. 115D Limits of powers under ss. 115B and 115C.](section/115D.md)
+  - [s. 115E Execution of works and use of objects etc. by persons other than councils.](section/115E.md)
+  - [s. 115F Power to impose conditions on permissions under section 115E.](section/115F.md)
+  - [s. 115G Notices to be given before exercise of powers under Part VIIA.](section/115G.md)
+  - [s. 115H Duties to consult or obtain consent of other authorities.](section/115H.md)
+  - [s. 115J Consents not to be unreasonably withheld.](section/115J.md)
+  - [s. 115K Failure to comply with terms of permission.](section/115K.md)
+- Part VIII Stopping up and diversion of highways and stopping up of means of access to highways
+  - Stopping up and diversion of highways
+    - [s. 116 Power of magistrates’ court to authorise stopping up or diversion of highway.](section/116.md)
+    - [s. 117 Application for order under section 116 on behalf of another person.](section/117.md)
+    - [s. 118 Stopping up of footpaths, bridleways and restricted byways.](section/118.md)
+    - [s. 118ZA Application for a public path extinguishment order.](section/118ZA.md)
+    - [s. 118A Stopping up of footpaths, bridleways and restricted byways crossing railways.](section/118A.md)
+    - [s. 118B Stopping up of certain highways for purposes of crime prevention, etc.](section/118B.md)
+    - [s. 118C Application by proprietor of school for special extinguishment order.](section/118C.md)
+    - [s. 119 Diversion of footpaths, bridleways and restricted byways.](section/119.md)
+    - [s. 119ZA Application for a public path diversion order.](section/119ZA.md)
+    - [s. 119A Diversion of footpaths, bridleways and restricted byways crossing railways.](section/119A.md)
+    - [s. 119B Diversion of certain highways for purposes of crime prevention, etc.](section/119B.md)
+    - [s. 119C Application by proprietor of school for special diversion order.](section/119C.md)
+    - [s. 119D Diversion of certain highways for protection of sites of special scientific interest.](section/119D.md)
+    - [s. 119E Provisions supplementary to section 119D.](section/119E.md)
+    - [s. 120 Exercise of powers of making public path extinguishment and diversion orders.](section/120.md)
+    - [s. 121 Supplementary provisions as to public path extinguishment and diversion orders.](section/121.md)
+    - [s. 121A Regulations with respect to applications for orders.](section/121A.md)
+    - [s. 121B Register of applications.](section/121B.md)
+    - [s. 121C Cases where council may decline to determine applications.](section/121C.md)
+    - [s. 121D Right of appeal to Secretary of State in respect of applications for orders.](section/121D.md)
+    - [s. 121E Determination of appeals.](section/121E.md)
+    - [s. 122 Power to make temporary diversion where highway about to be repaired or widened.](section/122.md)
+    - [s. 123 Saving and interpretation.](section/123.md)
+  - Stopping up of means of access to highways
+    - [s. 124 Stopping up of private access to highways.](section/124.md)
+    - [s. 125 Further powers to stop up private access to premises.](section/125.md)
+    - [s. 126 Provisions supplementary to sections 124 and 125 etc.](section/126.md)
+    - [s. 127 Stopping up private access to premises by agreement.](section/127.md)
+    - [s. 128 Penalty for using access which has been stopped up.](section/128.md)
+    - [s. 129 Further provisions with respect to new means of access.](section/129.md)
+- Part 8A Restriction of rights over highway
+  - [s. 129A Gating orders](section/129A.md)
+  - [s. 129B Effect of gating orders](section/129B.md)
+  - [s. 129C Procedure for gating orders](section/129C.md)
+  - [s. 129D Validity of gating orders](section/129D.md)
+  - [s. 129E Publication and availability of gating orders](section/129E.md)
+  - [s. 129F Variation and revocation of gating orders](section/129F.md)
+  - [s. 129G Interpretation](section/129G.md)
+- Part IX Lawful and Unlawful Interference With Highways and Streets
+  - Protection of public rights
+    - [s. 130 Protection of public rights.](section/130.md)
+    - [s. 130A Notices to enforce duty regarding public paths.](section/130A.md)
+    - [s. 130B Orders following notice under section 130A.](section/130B.md)
+    - [s. 130C Section 130B: procedure.](section/130C.md)
+    - [s. 130D Section 130B: costs.](section/130D.md)
+  - Damage to highways, streets etc.
+    - [s. 131 Penalty for damaging highway etc.](section/131.md)
+    - [s. 131A Disturbance of surface of certain highways.](section/131A.md)
+    - [s. 132 Unauthorised marks on highways.](section/132.md)
+    - [s. 133 Damage to footways of streets by excavations.](section/133.md)
+    - [s. 134 Ploughing etc. of footpath or bridleway.](section/134.md)
+    - [s. 135 Authorisation of other works disturbing footpath, bridleway or restricted byway.](section/135.md)
+    - [s. 135A Temporary diversion for dangerous works.](section/135A.md)
+    - [s. 135B Temporary diversion for dangerous works: supplementary.](section/135B.md)
+    - [s. 136 Damage to highway consequent on exclusion of sun and wind.](section/136.md)
+  - Obstruction of highways and streets
+    - [s. 137 Penalty for wilful obstruction.](section/137.md)
+    - [s. 137ZA Power to order offender to remove obstruction.](section/137ZA.md)
+    - [s. 137A Interference by crops.](section/137A.md)
+    - [s. 138 Penalty for erecting building, etc., in highway.](section/138.md)
+    - [s. 139 Control of builders’ skips.](section/139.md)
+    - [s. 140 Removal of builders’ skips.](section/140.md)
+    - [s. 140A Builder’s skips: charge for occupation of highway.](section/140A.md)
+    - [s. 140B Builders’ skips: charge determined by reference to duration of occupation of highway](section/140B.md)
+    - [s. 140C Regulations under sections 140A and 140B](section/140C.md)
+    - [s. 141 Restriction on planting of trees etc. in or near carriageway.](section/141.md)
+    - [s. 142 Licence to plant trees, shrubs, etc., in a highway.](section/142.md)
+    - [s. 143 Power to remove structures from highways.](section/143.md)
+    - [s. 144 Power to erect flagpoles etc. on highways.](section/144.md)
+    - [s. 145 Powers as to gates across highways.](section/145.md)
+    - [s. 146 Duty to maintain stiles etc. on footpaths, bridleways and restricted byways.](section/146.md)
+    - [s. 147 Power to authorise erection of stiles etc. on footpath or bridleway.](section/147.md)
+    - [s. 147ZA Agreements relating to improvements for benefit of persons with mobility problems.](section/147ZA.md)
+    - [s. 147A Road-side sales.](section/147A.md)
+    - [s. 148 Penalty for depositing things or pitching booths etc. on highway.](section/148.md)
+    - [s. 149 Removal of things so deposited on highways as to be a nuisance etc.](section/149.md)
+    - [s. 150 Duty to remove snow soil etc. from highway.](section/150.md)
+    - [s. 151 Prevention of soil etc. being washed on to street.](section/151.md)
+    - [s. 152 Powers as to removal of projections from buildings.](section/152.md)
+    - [s. 153 Doors etc. in streets not to open outwards.](section/153.md)
+    - [s. 154 Cutting or felling etc. trees etc. that overhang or are a danger to roads or footpaths.](section/154.md)
+    - [s. 155 Penalties in connection with straying animals.](section/155.md)
+    - [s. 156 ................................](section/156.md)
+    - [s. 157 ................................](section/157.md)
+    - [s. 160 ................................](section/160.md)
+    - [s. 160A Further powers of highway authorities and district council in relation to highways.](section/160A.md)
+  - Danger or annoyance to users of highways and streets
+    - [s. 161 Penalties for causing certain kinds of danger or annoyance.](section/161.md)
+    - [s. 161A Danger or annoyance caused by fires lit otherwise than on highways.](section/161A.md)
+    - [s. 162 Penalty for placing rope, etc. across highway.](section/162.md)
+    - [s. 163 Prevention of water falling on or flowing on to highway.](section/163.md)
+    - [s. 164 Power to require removal of barbed wire.](section/164.md)
+    - [s. 165 Dangerous land adjoining street.](section/165.md)
+    - [s. 166 Forecourt abutting on streets.](section/166.md)
+    - [s. 167 Powers relating to retaining walls near streets.](section/167.md)
+  - Precautions to be taken in doing certain works in or near streets or highways
+    - [s. 168 Building operations affecting public safety.](section/168.md)
+    - [s. 169 Control of scaffolding on highways.](section/169.md)
+    - [s. 170 Control of mixing of mortar etc. on highways.](section/170.md)
+    - [s. 171 Control of deposit of building materials and making of excavations in streets.](section/171.md)
+    - [s. 171A Works under s. 169 or s. 171: charge for occupation of the highway.](section/171A.md)
+    - [s. 171B Scaffolding, building materials and excavations: charge determined by reference to duration of occupation of highway](section/171B.md)
+    - [s. 171C Regulations under sections 171A and 171B](section/171C.md)
+    - [s. 172 Hoardings to be set up during building etc.](section/172.md)
+    - [s. 173 Hoardings to be securely erected.](section/173.md)
+    - [s. 174 Precautions to be taken by persons executing works in streets.](section/174.md)
+    - [s. 175 Liability of certain persons in respect of materials left on highway.](section/175.md)
+    - [s. 175A Duty to have regard to needs of disabled and blind in executing works, etc.](section/175A.md)
+  - Miscellaneous
+    - [s. 175B Consent of highway authority required for trunk road access](section/175B.md)
+    - [s. 176 Restriction on construction of bridges over highways.](section/176.md)
+    - [s. 177 Restriction on construction of buildings over highways.](section/177.md)
+    - [s. 178 Restriction on placing rails, beams etc. over highways.](section/178.md)
+    - [s. 179 Control of construction of cellars etc. under street.](section/179.md)
+    - [s. 180 Control of openings into cellars etc. under streets, and pavement lights and ventilators.](section/180.md)
+    - [s. 181 ................................](section/181.md)
+    - [s. 182 .](section/182.md)
+    - [s. 183 ................................](section/183.md)
+    - [s. 184 Vehicle crossings over footways and verges.](section/184.md)
+    - [s. 185 Power to install refuse or storage bins in streets.](section/185.md)
+- Part X ...
+  - New street byelaws
+    - [s. 186 ................................](section/186.md)
+    - [s. 187 ................................](section/187.md)
+    - [s. 188 ................................](section/188.md)
+    - [s. 189 ................................](section/189.md)
+    - [s. 190 ................................](section/190.md)
+  - Passing of plans deposited under byelaws
+    - [s. 191 ................................](section/191.md)
+    - [s. 192 ................................](section/192.md)
+  - Requirements and prohibitions as to new streets
+    - [s. 193 ................................](section/193.md)
+    - [s. 194 ................................](section/194.md)
+    - [s. 195 ................................](section/195.md)
+    - [s. 196 ................................](section/196.md)
+  - Enforcement of byelaws and requirements of local authority
+    - [s. 197 ................................](section/197.md)
+    - [s. 198 ................................](section/198.md)
+    - [s. 199 ................................](section/199.md)
+  - Provisions as to regulation of new streets by enactment
+    - [s. 200 ................................](section/200.md)
+  - Supplemental provisions
+    - [s. 201 ................................](section/201.md)
+    - [s. 202 ................................](section/202.md)
+- Part XI Making up of Private Streets
+  - Introductory
+    - [s. 203 Interpretation of Part XI.](section/203.md)
+    - [s. 204 Purposes and application of private street works code and advance payments code.](section/204.md)
+  - The private street works code
+    - [s. 205 Street works in private streets.](section/205.md)
+    - [s. 206 Incidental works.](section/206.md)
+    - [s. 207 Provisional apportionment of expenses.](section/207.md)
+    - [s. 208 Objections to proposed works.](section/208.md)
+    - [s. 209 Hearing and determination of objections.](section/209.md)
+    - [s. 210 Power to amend specification, apportionment, etc.](section/210.md)
+    - [s. 211 Final apportionment and objections to it.](section/211.md)
+    - [s. 212 Recovery of expenses and charge thereof on premises.](section/212.md)
+    - [s. 213 Power for limited owners to borrow for expenses.](section/213.md)
+    - [s. 214 Financial provisions.](section/214.md)
+    - [s. 215 Exemption for place of public religious worship.](section/215.md)
+    - [s. 216 Certain railways and canals not to be chargeable with expenses.](section/216.md)
+    - [s. 217 Objections only to be made as provided by private street works code.](section/217.md)
+    - [s. 218 Saving for Thames Water Authority and Port of London Authority.](section/218.md)
+  - The advance payments code.
+    - [s. 219 Payments to be made by owners of new buildings in respect of street works.](section/219.md)
+    - [s. 220 Determination of liability for, and amount of, payments.](section/220.md)
+    - [s. 221 Refunds etc. where work done otherwise than at expense of street works authority.](section/221.md)
+    - [s. 222 Sums paid or secured to be in discharge of further liability for street works.](section/222.md)
+    - [s. 223 Determination to cease to have effect when plans not proceeded with.](section/223.md)
+    - [s. 224 Certain matters to be local land charges.](section/224.md)
+    - [s. 225 Interest on sums paid under advance payments code.](section/225.md)
+  - General
+    - [s. 226 Power to vary width of carriageway and footway on making up a private street.](section/226.md)
+    - [s. 227 Widening of highway comprised in private street.](section/227.md)
+    - [s. 228 Adoption of private street after execution of street works.](section/228.md)
+    - [s. 229 Power of majority of frontagers to require adoption where advance payment made.](section/229.md)
+    - [s. 230 Urgent repairs to private streets.](section/230.md)
+    - [s. 231 Compensation for damage caused by execution of street works.](section/231.md)
+    - [s. 232 Power to treat as a private street land designated for purposes of this section by development plan.](section/232.md)
+    - [s. 233 Appeal to Minister under private street works code.](section/233.md)
+    - [s. 234 Provisions as to private street in area of more than one street works authority.](section/234.md)
+    - [s. 235 Evasion of private street works expenses by owners.](section/235.md)
+    - [s. 236 Contribution by street works authority to expenses of street works.](section/236.md)
+    - [s. 237 Power of street works authority to grant charging order.](section/237.md)
+- Part XII Acquisition, Vesting and Transfer of Land etc.
+  - Introductory
+    - [s. 238 Interpretation etc. of Part XII.](section/238.md)
+  - Acquisition of land generally
+    - [s. 239 Acquisition of land for construction, improvement etc. of highway: general powers.](section/239.md)
+    - [s. 240 Acquisition of land in connection with construction, improvement etc. of highway: further general powers.](section/240.md)
+    - [s. 241 Acquisition of land between improvement line and boundary of street.](section/241.md)
+    - [s. 242 Acquisition of land for execution of works in connection with certain bridges.](section/242.md)
+    - [s. 243 Acquisition of land for cattle-grids etc.](section/243.md)
+    - [s. 244 Acquisition of land for road-ferries.](section/244.md)
+    - [s. 245 Acquisition of land for buildings etc. needed for discharge of functions of highway authority.](section/245.md)
+    - [s. 245A Acquisition of land by Secretary of State, strategic highways company or Assembly for buildings etc. needed for traffic management purposes](section/245A.md)
+    - [s. 246 Acquisition of land for mitigating adverse effects of constructing or improving highway.](section/246.md)
+    - [s. 247 General provision as to acquisition procedure etc.](section/247.md)
+    - [s. 248 Acquisition in advance of requirements.](section/248.md)
+    - [s. 249 Distance limits from highway applicable to compulsory acquisition.](section/249.md)
+  - Additional provisions with respect to acquisition of rights over land
+    - [s. 250 Land acquisition powers to extend to creation as well as acquisition of rights.](section/250.md)
+    - [s. 251 Rights acquired to be binding on successive owners of the land.](section/251.md)
+    - [s. 252 Power of landowner affected by rights acquisition to compel acquisition of whole interest.](section/252.md)
+    - [s. 253 Agreements as to use of land near highways.](section/253.md)
+    - [s. 254 Compulsory acquisition for certain purposes of rights in land belonging to local authorities etc.](section/254.md)
+    - [s. 255 Liability for certain expenses resulting from order under section 254.](section/255.md)
+  - Exchange of land
+    - [s. 256 Power to exchange land to adjust boundaries of highways.](section/256.md)
+  - Further provisions with respect to acquisition procedure for exercise of highway land acquisition powers
+    - [s. 257 Compulsory acquisition proceedings taken concurrently with other related proceedings, etc.](section/257.md)
+    - [s. 258 Provisions relating to objections to compulsory purchase orders.](section/258.md)
+    - [s. 259 Power to confirm, etc., compulsory purchase order in part and postpone consideration of remainder.](section/259.md)
+    - [s. 260 Clearance of title to land acquired for statutory purposes.](section/260.md)
+  - Special compensation provisions as respects certain compulsory acquisitions for highway purposes
+    - [s. 261 Benefit to vendor to be taken into account in assessing compensation on certain compulsory acquisitions for highway purposes.](section/261.md)
+    - [s. 262 Assumptions to be made in assessing compensation on certain compulsory acquisitions of land for service stations etc. and lorry areas for special roads.](section/262.md)
+  - Vesting of highways etc.
+    - [s. 263 Vesting of highways maintainable at public expense.](section/263.md)
+    - [s. 264 Vesting of drains etc. of certain roads.](section/264.md)
+  - Transfer of property and liabilities on change of status of highway etc.
+    - [s. 265 Transfer of property and liabilities upon a highway becoming or ceasing to be a trunk road.](section/265.md)
+    - [s. 266 Transfer to Ministeror a strategic highways company of privately maintainable bridges carrying trunk roads.](section/266.md)
+    - [s. 266A Transfer of property and liabilities upon a highway becoming or ceasing to be a GLA road.](section/266A.md)
+    - [s. 266B Transfer of employees upon a highway becoming or ceasing to be a GLA road.](section/266B.md)
+    - [s. 267 Transfer to local highway authorities of privately maintainable bridges carrying special roads.](section/267.md)
+    - [s. 268 Transfer of property and liabilities in connection with special roads etc.](section/268.md)
+    - [s. 269 ................................](section/269.md)
+    - [s. 270 Transfer of lighting systems.](section/270.md)
+    - [s. 271 Provisions with respect to transfer of toll highways to highway authorities.](section/271.md)
+- Part XIII Financial Provisions
+  - [s. 272 Advances for highway purposes.](section/272.md)
+  - [s. 273 Contributions by county councils to expenses of district councils under section 96.](section/273.md)
+  - [s. 274 Contributions by councils towards expenses of highway authorities.](section/274.md)
+  - [s. 274A Contributions by parish or community councils.](section/274A.md)
+  - [s. 275 Contributions by councils and local planning authorities towards expenses incurred in connection with footpaths, bridleways and restricted byways.](section/275.md)
+  - [s. 276 Contributions to land drainage works which will benefit trunk roads.](section/276.md)
+  - [s. 277 Contribution towards maintenance of bridge where road ceases to be a trunk road.](section/277.md)
+  - [s. 278 Agreements as to execution of works.](section/278.md)
+  - [s. 279 Borrowing power of councils.](section/279.md)
+  - [s. 280 Application of certain sums payable to local highway authorities.](section/280.md)
+  - [s. 281 Exemption from stamp duty.](section/281.md)
+  - [s. 281A Stamp duty land tax](section/281A.md)
+  - [s. 281B Power to provide for fees for certain services](section/281B.md)
+- Part XIV Miscellaneous and Supplementary Provisions
+  - Miscellaneous powers etc. of highway authorities and local authorities
+    - [s. 282 Power of highway authority to execute works for mitigating adverse effect of constructing or improving etc. highway.](section/282.md)
+    - [s. 283 Power of Minister to conduct experiments.](section/283.md)
+    - [s. 284 Powers of Ministeror strategic highways company in relation to privately maintainable parts of trunk roads.](section/284.md)
+    - [s. 284A Trunk roads: miscellaneous functions of Secretary of Stateand strategic highways company.](section/284A.md)
+    - [s. 285 Power of Minister and Greater London Council to execute in Greater London road improvements not involving widening.](section/285.md)
+    - [s. 286 Power to require angles of new buildings at corners of streets to be rounded off.](section/286.md)
+    - [s. 287 Power to erect barriers in streets in cases of emergency etc.](section/287.md)
+    - [s. 288 Power to require gas and water pipes to be moved.](section/288.md)
+    - [s. 289 Powers of entry of highway authority for the purpose of survey.](section/289.md)
+    - [s. 290 Supplementary provisions as to powers of entry for the purpose of survey.](section/290.md)
+    - [s. 291 Powers of entry of highway authority for purpose of maintaining, etc. certain structures and works.](section/291.md)
+    - [s. 292 Compensation for damage resulting from, and offences connected with, exercise of powers of entry etc. under section 289 or 291.](section/292.md)
+    - [s. 293 Powers of entry for purposes connected with certain orders relating to footpaths and bridleways.](section/293.md)
+    - [s. 294 Entry, etc., of premises by highway authority or council for certain purposes.](section/294.md)
+    - [s. 295 Power of councils to dispose of certain materials.](section/295.md)
+    - [s. 296 Power of highway authority or council to execute certain works on behalf of other person.](section/296.md)
+    - [s. 297 Power of highway authority or council to require information as to ownership of land.](section/297.md)
+    - [s. 298 Duty of local authorities to furnish information to county councils and the Greater London Council.](section/298.md)
+    - [s. 299 Right to discharge water.](section/299.md)
+    - [s. 300 Right of local authorities to use vehicles and appliances on footways, bridleways and restricted byways.](section/300.md)
+    - [s. 301 Restriction on exercise of powers of lighting authorities.](section/301.md)
+  - London borough council affecting roads of another authority
+    - [s. 301A London borough council exercising powers so as to affect another authority’s roads.](section/301A.md)
+    - [s. 301B Royal Parks or highways in London affected by proposals relating to the other.](section/301B.md)
+  - Inquiries
+    - [s. 302 Provisions as to inquiries.](section/302.md)
+  - Obstruction of persons executing Act
+    - [s. 303 Penalty for obstructing execution of Act.](section/303.md)
+    - [s. 304 Power to require occupier to permit works to be executed by owner.](section/304.md)
+  - Recovery of expenses
+    - [s. 305 Recovery of expenses by councils and highway authorities.](section/305.md)
+    - [s. 306 Time-limit for summary proceedings for recovery of expenses.](section/306.md)
+  - Determination of disputes as to compensation
+    - [s. 307 Disputes as to compensation which are to be determined by Upper Tribunal and related provisions.](section/307.md)
+    - [s. 308 Disputes as to compensation which are to be determined by arbitration or county court.](section/308.md)
+    - [s. 309 Compensation in respect of depreciation in value of interest in land subject to mortgage.](section/309.md)
+  - Prosecutions, appeals, etc.
+    - [s. 310 Summary proceedings for offences.](section/310.md)
+    - [s. 311 Continuing offences.](section/311.md)
+    - [s. 312 Restriction on institution of proceedings.](section/312.md)
+    - [s. 313 ................................](section/313.md)
+    - [s. 314 Offences by body corporate.](section/314.md)
+    - [s. 314A Fixed penalties for certain offences under Part 9](section/314A.md)
+    - [s. 315 Notice to be given of right of appeal.](section/315.md)
+    - [s. 316 Appeals and applications to magistrates’ courts.](section/316.md)
+    - [s. 317 Appeals to the Crown Court from decisions of magistrates’ courts.](section/317.md)
+    - [s. 318 Effect of decision of court upon an appeal.](section/318.md)
+    - [s. 319 Judges and justices not to be disqualified by liability to rates.](section/319.md)
+  - Notices, etc.
+    - [s. 320 Form of notices etc.](section/320.md)
+    - [s. 321 Authentication of documents etc.](section/321.md)
+    - [s. 322 Service of notices etc.](section/322.md)
+    - [s. 323 Reckoning of periods.](section/323.md)
+  - Regulations, schemes, orders, etc.
+    - [s. 324 Regulations for procedure in connection with, and centre line of roads authorised etc. by, certain schemes and orders.](section/324.md)
+    - [s. 325 Provisions as to regulations ... and orders.](section/325.md)
+    - [s. 326 Revocation and variation of schemes and orders.](section/326.md)
+  - Crown application
+    - [s. 327 Application of Act to Crown land.](section/327.md)
+  - Interpretation
+    - [s. 328 Meaning of “highway”.](section/328.md)
+    - [s. 329 Further provision as to interpretation.](section/329.md)
+    - [s. 330 Construction of certain enactments relating to execution of works by statutory undertakers.](section/330.md)
+    - [s. 331 References to functions of council as respects any highway.](section/331.md)
+    - [s. 332 Widening of carriageway not to cease to be improvement by reason of diminution etc. of footway.](section/332.md)
+  - Savings etc.
+    - [s. 333 Saving for rights and liabilities as to interference with highways.](section/333.md)
+    - [s. 334](section/334.md)
+    - [s. 335 Saving for minerals etc.](section/335.md)
+    - [s. 336 Saving for Coast Protection Act 1949.](section/336.md)
+    - [s. 337 Saving for obligation to obtain planning permission or development consent](section/337.md)
+    - [s. 338 Saving for works, etc., of dock, harbour and canal undertakers.](section/338.md)
+    - [s. 339 Saving for works etc. of drainage authorities etc.](section/339.md)
+    - [s. 340 Preservation of amendments.](section/340.md)
+    - [s. 341 Amendment of section 303 of Public Health Act 1875.](section/341.md)
+    - [s. 342 Amendment of section 41 of the Countryside Act 1968.](section/342.md)
+    - [s. 343 Transitional provisions, amendments and repeals.](section/343.md)
+    - [s. 344 Application to Isles of Scilly.](section/344.md)
+    - [s. 345 Short title, commencement and extent.](section/345.md)
+- SCHEDULE 1 Procedures for Making or Confirming Certain Orders and Schemes
+  - Part I Orders
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - TABLE
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part II Schemes Under Sections 16 and 106(3)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 15A](schedule/1/paragraph/15A.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Part III General
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Validity and Date of Operation of Certain Schemes and Orders
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Provisions of this Act Referred to in Section 11
+  - Part I
+    - Provisions conferring functions exercisable in relation to trunk roads by the Ministeror a strategic highways company exclusively
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part II
+    - Provisions conferring functions exercisable in relation to trunk roads by the Ministeror a strategic highways company as well as by other authorities
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part III
+    - Provisions conferring functions exercisable in relation to trunk roads by the Ministeror a strategic highways company and by other authorities with the consent of the Ministeror a strategic highways company
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Classes of Traffic for Purposes of Special Roads
+- SCHEDULE 5 Modifications of Certain Provisions of the Town and Country Planning Act 1990 as Applied by Section 21
+  - Part I Modifications in Relation to Land Referred to in Paragraph (a) or (b) of Section 21(2)
+    - [Sch. 5 Pt. I para. 1](schedule/5/part/I/paragraph/1.md)
+    - [Sch. 5 Pt. I para. 2](schedule/5/part/I/paragraph/2.md)
+    - [Sch. 5 Pt. I para. 3](schedule/5/part/I/paragraph/3.md)
+    - [Sch. 5 Pt. I para. 4](schedule/5/part/I/paragraph/4.md)
+    - [Sch. 5 Pt. I para. 5](schedule/5/part/I/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Part II Modifications in Relation to Land Referred to in Paragraph (c) of Section 21(2)
+    - [Sch. 5 Pt. II para. 1](schedule/5/part/II/paragraph/1.md)
+    - [Sch. 5 Pt. II para. 2](schedule/5/part/II/paragraph/2.md)
+    - [Sch. 5 Pt. II para. 3](schedule/5/part/II/paragraph/3.md)
+    - [Sch. 5 Pt. II para. 4](schedule/5/part/II/paragraph/4.md)
+    - [Sch. 5 Pt. II para. 5](schedule/5/part/II/paragraph/5.md)
+- SCHEDULE 6 Provisions as to Making, Confirmation, Validity and Date of Operation of Certain Orders Relating to Footpaths, Bridleways and Restricted Byways
+  - Part I Procedure for Making and Confirming Certain Orders Relating to Footpaths, Bridleways and Restricted Byways
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 2ZA](schedule/6/paragraph/2ZA.md)
+    - [Sch. 6 para. 2ZB](schedule/6/paragraph/2ZB.md)
+    - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+    - [Sch. 6 para. 2B](schedule/6/paragraph/2B.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Part II Validity and Date of Operation of Certain Orders Relating to Footpaths, Bridleways and Restricted Byways
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 4A](schedule/6/paragraph/4A.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Maintenance of Certain Highways by District Councils
+  - Part I Regulations Governing Exercise of Powers
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Part II Reimbursement by Highway Authorities of Certain Expenses of District Councils
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Consents Required for Execution of Certain Works in Streets
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Improvement Lines and Building Lines
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 2A](schedule/9/paragraph/2A.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Procedure for Determination by Highway Authority of Certain Questions Arising in Connection with Provision of Cattle-Grid or By-Pass
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 Provisions as to Orders under Section 93 of this Act
+  - Limitations on matters to be dealt with by orders
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Procedure for making orders
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Power to postpone commencement of orders
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Provisions as to public utility undertakers
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Apportionment of expenses
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Arbitration
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+- SCHEDULE 12 Provisions as to Orders Under Section 116 and Conveyances Under Section 256
+  - Part I Notices to be Given by Applicant for Order Under Section 116
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Part II Apparatus of Statutory Undertakers
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Part III Interpretation
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+- Schedule 12ZA Delegation of function of making determination
+  - Interpretation
+    - [Sch. 12ZA para. 1](schedule/12ZA/paragraph/1.md)
+  - Appointments
+    - [Sch. 12ZA para. 2](schedule/12ZA/paragraph/2.md)
+  - Powers of appointed person
+    - [Sch. 12ZA para. 3](schedule/12ZA/paragraph/3.md)
+  - Holding of inquiries and other hearings by appointed persons
+    - [Sch. 12ZA para. 4](schedule/12ZA/paragraph/4.md)
+  - Revocation of appointments and making of new appointments
+    - [Sch. 12ZA para. 5](schedule/12ZA/paragraph/5.md)
+  - Certain acts and omissions of appointed person to be treated as those of appropriate Minister
+    - [Sch. 12ZA para. 6](schedule/12ZA/paragraph/6.md)
+  - Local inquiries and hearings: evidence and costs
+    - [Sch. 12ZA para. 7](schedule/12ZA/paragraph/7.md)
+- SCHEDULE 12A Further Powers of Highway Authorities and Councils in Relation to Interference with Highways
+  - Interpretation
+    - [Sch. 12A para. 1](schedule/12A/paragraph/1.md)
+  - Competent authorities
+    - [Sch. 12A para. 2](schedule/12A/paragraph/2.md)
+  - Power to carry out works
+    - [Sch. 12A para. 3](schedule/12A/paragraph/3.md)
+    - [Sch. 12A para. 4](schedule/12A/paragraph/4.md)
+    - [Sch. 12A para. 5](schedule/12A/paragraph/5.md)
+    - [Sch. 12A para. 6](schedule/12A/paragraph/6.md)
+  - Entry on land
+    - [Sch. 12A para. 7](schedule/12A/paragraph/7.md)
+    - [Sch. 12A para. 8](schedule/12A/paragraph/8.md)
+  - Financial
+    - [Sch. 12A para. 9](schedule/12A/paragraph/9.md)
+- SCHEDULE 13 Deductions from Rents
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+- SCHEDULE 14 Provisions with Respect to Notices Under Section 184
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+- SCHEDULE 15 Application of Advance Payments Code
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+- SCHEDULE 16
+  - Particulars to be Stated in Specifications, Notices, Etc., Under the Private Street Works Code
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+- SCHEDULE 17 Purposes for which Additional Land May be Taken in Advance of Requirements
+- SCHEDULE 18 Distance Limits from Highway Applicable to Compulsory Acquisition
+  - Part I
+    - Table of limits
+  - Part II
+    - Further provision with respect to the limits under Part I
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+- SCHEDULE 19 Compulsory Acquisition of Rights: Modification of 1946 and 1965 Acts
+  - Part I
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Part II Adaptation of 1965 Act, Part I
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+- SCHEDULE 20 Acquisition of Land or Rights: Related Schemes and Orders
+- SCHEDULE 21 Transitional Matters Arising where a Highway Becomes a Trunk Road or a Trunk Road Ceases to be a Trunk Road
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+- SCHEDULE 22 Provisions of this Act to which Sections 288, 294, 312, 338, 339 and 341 of this Act Apply
+  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+- SCHEDULE 22A fixed penalty offences under part 9
+- SCHEDULE 22B Fixed penalties for certain offences under Part 9
+  - Power to give fixed penalty notices
+    - [Sch. 22B para. 1](schedule/22B/paragraph/1.md)
+  - Power to give fixed penalty notices
+    - [Sch. 22B para. 2](schedule/22B/paragraph/2.md)
+  - Contents of fixed penalty notice
+    - [Sch. 22B para. 3](schedule/22B/paragraph/3.md)
+  - The amount of the penalty and the period for payment
+    - [Sch. 22B para. 4](schedule/22B/paragraph/4.md)
+  - The discounted amount
+    - [Sch. 22B para. 5](schedule/22B/paragraph/5.md)
+  - Effect of notice and payment of penalty
+    - [Sch. 22B para. 6](schedule/22B/paragraph/6.md)
+  - Power to withdraw notices
+    - [Sch. 22B para. 7](schedule/22B/paragraph/7.md)
+  - General and supplementary
+    - [Sch. 22B para. 8](schedule/22B/paragraph/8.md)
+  - General and supplementary
+    - [Sch. 22B para. 9](schedule/22B/paragraph/9.md)
+- SCHEDULE 23 Transitional Provisions
+  - Delegation of functions
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Trunk roads and related roads
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - Special roads
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - Vehicle crossings
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - Maintenance of highways
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - Cattle-grids etc.
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+  - New streets
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+  - Private Street Works Code
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+  - Acquisition of land
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+  - National Freight Corporation
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+  - Continuing offences
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+  - General
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+    - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+    - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+  - References to Magistrates’ Courts Act 1980
+    - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+- SCHEDULE 24 Consequential Amendments
+  - Military Lands Act 1892
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - Settled Land Act 1925
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+  - ...
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+    - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+  - Public Utilities Street Works Act 1950
+    - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+    - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+  - Parish Councils Act 1957
+    - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+  - Land Compensation Act 1961
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+  - Pipelines Act 1962
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+  - London Government Act 1963
+    - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
+  - Licensing Act 1964
+    - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
+  - New Forest Act 1964
+    - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
+  - Severn Bridge Tolls Act 1965
+    - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
+    - [Sch. 24 para. 15](schedule/24/paragraph/15.md)
+    - [Sch. 24 para. 16](schedule/24/paragraph/16.md)
+  - Countryside Act 1968
+    - [Sch. 24 para. 17](schedule/24/paragraph/17.md)
+  - Transport Act 1968
+    - [Sch. 24 para. 18](schedule/24/paragraph/18.md)
+  - Chronically Sick and Disabled Persons Act 1970
+    - [Sch. 24 para. 19](schedule/24/paragraph/19.md)
+    - [Sch. 24 para. 20](schedule/24/paragraph/20.md)
+    - [Sch. 24 para. 21](schedule/24/paragraph/21.md)
+    - [Sch. 24 para. 22](schedule/24/paragraph/22.md)
+    - [Sch. 24 para. 23](schedule/24/paragraph/23.md)
+  - Control of Pollution Act 1974
+    - [Sch. 24 para. 24](schedule/24/paragraph/24.md)
+  - Road Traffic Act 1974
+    - [Sch. 24 para. 25](schedule/24/paragraph/25.md)
+  - Local Land Charges Act 1975
+    - [Sch. 24 para. 26](schedule/24/paragraph/26.md)
+  - Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 24 para. 27](schedule/24/paragraph/27.md)
+  - Development of Rural Wales Act 1976
+    - [Sch. 24 para. 28](schedule/24/paragraph/28.md)
+  - Rent Act 1977
+    - [Sch. 24 para. 29](schedule/24/paragraph/29.md)
+  - Refuse Disposal (Amenity) Act 1978
+    - [Sch. 24 para. 30](schedule/24/paragraph/30.md)
+- SCHEDULE 25 Repeals
