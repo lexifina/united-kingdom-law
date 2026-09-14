@@ -1,0 +1,295 @@
+# Control of Pollution Act 1974
+
+1974 c. 40. Enacted 1974-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 25 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
+
+Source: https://www.legislation.gov.uk/ukpga/1974/40/2026-09-14
+
+## Contents
+
+- Part I Waste on land
+  - Waste disposal arrangements
+    - [s. 1 ................................](section/1.md)
+  - Waste disposal plans
+    - [s. 2 ................................](section/2.md)
+  - Licensing of disposal of controlled waste.
+    - [s. 3 Prohibition of unlicensed disposal of waste.](section/3.md)
+    - [s. 4 Provisions supplementary to s. 3.](section/4.md)
+    - [s. 5 Licences to dispose of waste.](section/5.md)
+    - [s. 6 Provisions supplementary to s. 5.](section/6.md)
+    - [s. 7 Variation of conditions and revocation of licences.](section/7.md)
+    - [s. 8 Transfer and relinquishment of licences.](section/8.md)
+    - [s. 9 Supervision of licensed activities.](section/9.md)
+    - [s. 10 Appeals to Secretary of State from decisions with respect to licences.](section/10.md)
+    - [s. 11 ................................](section/11.md)
+  - Collection and disposal of controlled waste
+    - [s. 12 Collection of waste.](section/12.md)
+    - [s. 13 Dustbins etc.](section/13.md)
+    - [s. 14 Disposal of waste in England and Wales.](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 Removal of waste deposited in breach of licensing provisions.](section/16.md)
+    - [s. 17 Special provisions with respect to certain dangerous or intractable waste.](section/17.md)
+  - Waste other than controlled waste
+    - [s. 18 Application of preceding provisions to other waste.](section/18.md)
+    - [s. 19 Powers of disposal authorities as respects other waste.](section/19.md)
+  - Reclamation etc. of waste
+    - [s. 20 Reclamation of waste.](section/20.md)
+    - [s. 21 Production of heat and electricity from waste etc.](section/21.md)
+  - Street cleaning and litter
+    - [s. 22 Street cleaning etc.](section/22.md)
+    - [s. 23 Prohibition of parking to facilitate street cleaning.](section/23.md)
+    - [s. 24 Litter.](section/24.md)
+  - Supplemental
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Outfall pipes for sewage disposal works.](section/26.md)
+    - [s. 27 Interference with refuse tips and dustbins etc.](section/27.md)
+    - [s. 28 Supplementary provisions relating to pipes.](section/28.md)
+    - [s. 29 Modification of Parts I and II to avoid duplication of control.](section/29.md)
+    - [s. 30 Interpretation etc. of Part I.](section/30.md)
+- Part IA Abandoned Mines
+  - [s. 30Y Introductory.](section/30Y.md)
+  - [s. 30Z Mine operators to give SEPA six months’ notice of any proposed abandonment.](section/30Z.md)
+- Part II Pollution of water
+  - General provisions
+    - [s. 30A Waters to which Part II applies.](section/30A.md)
+    - [s. 30B Classification of quality waters.](section/30B.md)
+    - [s. 30C Water quality objectives.](section/30C.md)
+    - [s. 30D General duties to achieve and maintain objectives etc.](section/30D.md)
+    - [s. 30E Consultation and collaboration.](section/30E.md)
+  - Control of entry of polluting matter and effluents into water
+    - [s. 30F Pollution offences.](section/30F.md)
+    - [s. 30G Prohibition of certain discharges by notice or regulations.](section/30G.md)
+    - [s. 30H Discharges into and from sewers etc.](section/30H.md)
+    - [s. 30I Defence to principal offences in respect of authorised discharges.](section/30I.md)
+    - [s. 30J Other defences to principal offences.](section/30J.md)
+  - Control of entry of polluting matter and effluents into water
+    - [s. 31 Control of pollution of rivers and coastal waters etc.](section/31.md)
+    - [s. 31A Requirements to take precautions against pollution.](section/31A.md)
+    - [s. 31B Nitrate sensitive areas.](section/31B.md)
+    - [s. 31C Registering of agreement.](section/31C.md)
+    - [s. 31D ................................](section/31D.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Control of sanitary appliances on vessels.](section/33.md)
+  - Consents for discharges
+    - [s. 34 Consents for discharges of trade and sewage effluent etc.](section/34.md)
+    - [s. 35 Reference to Secretary of State of certain applications for consent.](section/35.md)
+    - [s. 36 Provisions supplementary to ss. 34 and 35.](section/36.md)
+    - [s. 37 Revocation of consents and alteration and imposition of conditions.](section/37.md)
+    - [s. 38 Restriction on variation and revocation of consent and of previous variation.](section/38.md)
+    - [s. 38A General review of consents.](section/38A.md)
+    - [s. 39 Appeals to the Secretary of State.](section/39.md)
+    - [s. 40 Transitional provisions relating to consent.](section/40.md)
+  - Ancillary provisions relating to control of discharges
+    - [s. 41 Registers.](section/41.md)
+    - [s. 42A Exclusion from registers of information affecting national security.](section/42A.md)
+    - [s. 42B Exclusion from registers of certain confidential information.](section/42B.md)
+  - Control of discharges of trade effluent into public sewers
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+  - Miscellaneous
+    - [s. 46 Operations by river purification authorities to remedy or forestall pollution of water.](section/46.md)
+    - [s. 46A Notices requiring persons to carry out anti-pollution operations.](section/46A.md)
+    - [s. 46B Grant of, and compensation for, rights of entry etc.](section/46B.md)
+    - [s. 46C Appeals against works notices.](section/46C.md)
+    - [s. 46D Consequences of not complying with a works notice.](section/46D.md)
+    - [s. 47 Duty of water authorities to deal with waste from vessels etc.](section/47.md)
+    - [s. 48 Power of water authorities to exclude unregistered vessels from rivers etc.](section/48.md)
+    - [s. 49 Deposits and vegetation in rivers etc.](section/49.md)
+    - [s. 49A Enforcement notices as respects discharge consents.](section/49A.md)
+    - [s. 49B Appeals against enforcement notices.](section/49B.md)
+    - [s. 50 Investigation of water pollution problems arising from closure of mines.](section/50.md)
+    - [s. 51 Codes of good agricultural practice.](section/51.md)
+    - [s. 52 Charges in respect of certain discharges in England and Wales.](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+  - Supplemental
+    - [s. 55 ................................](section/55.md)
+    - [s. 55A Regulations under this Part.](section/55A.md)
+    - [s. 56 Interpretation etc. of Part II.](section/56.md)
+- Part III Noise
+  - Periodical inspections by local authorities
+    - [s. 57 Periodical inspections by local authorities.](section/57.md)
+  - Summary proceedings to deal with noise
+    - [s. 58 ................................](section/58.md)
+    - [s. 58A ................................](section/58A.md)
+    - [s. 58B ................................](section/58B.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 59A ................................](section/59A.md)
+  - Construction sites
+    - [s. 60 Control of noise on construction sites.](section/60.md)
+    - [s. 61 Prior consent for work on construction sites.](section/61.md)
+  - Noise in streets
+    - [s. 62 Noise in streets.](section/62.md)
+  - Noise abatement zones
+    - [s. 63 Designation of zones.](section/63.md)
+    - [s. 64 Register of noise levels.](section/64.md)
+    - [s. 65 Noise exceeding registered level.](section/65.md)
+    - [s. 66 Reduction of noise levels.](section/66.md)
+    - [s. 67 New buildings etc.](section/67.md)
+  - Noise from plant or machinery
+    - [s. 68 Noise from plant or machinery.](section/68.md)
+  - Supplemental
+    - [s. 69 Execution of works by local authority.](section/69.md)
+    - [s. 70 Appeals to Secretary of State and magistrates’ court.](section/70.md)
+    - [s. 71 Codes of practice for minimising noise.](section/71.md)
+    - [s. 72 “Best practicable means”.](section/72.md)
+    - [s. 73 Interpretation and other supplementary provisions.](section/73.md)
+    - [s. 74 Penalties.](section/74.md)
+- Part IV
+  - Prevention of atmospheric pollution
+    - [s. 75 Regulations about motor fuel.](section/75.md)
+    - [s. 76 Regulations about sulphur content of oil fuel for furnaces or engines.](section/76.md)
+    - [s. 77 Provisions supplementary to ss. 75 and 76.](section/77.md)
+    - [s. 78 Cable burning.](section/78.md)
+  - Information about atmospheric pollution
+    - [s. 79 Research and publicity.](section/79.md)
+    - [s. 80 Notices requiring information about air pollution.](section/80.md)
+    - [s. 81 Appeals against notices.](section/81.md)
+    - [s. 82 Regulations about research and publicity.](section/82.md)
+    - [s. 83 Provision by local authorities of information for Secretary of State.](section/83.md)
+  - Interpretation
+    - [s. 84 Interpretation of Part IV.](section/84.md)
+- Part V Supplementary provisions
+  - Legal proceedings
+    - [s. 85 Appeals to Crown Court or Court of Session against decisions of magistrates’ court or sheriff.](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 Miscellaneous provisions relating to legal proceedings.](section/87.md)
+    - [s. 88 Civil liability for contravention of s. 3(3).](section/88.md)
+  - Financial provisions
+    - [s. 89 Expenses and receipts of Secretary of State etc.](section/89.md)
+    - [s. 90 Establishment charges and interest in respect of certain expenses of authorities.](section/90.md)
+  - Miscellaneous
+    - [s. 91 Rights of entry and inspection etc.](section/91.md)
+    - [s. 92 Provisions supplementary to s. 91.](section/92.md)
+    - [s. 93 Power of authorities to obtain information.](section/93.md)
+    - [s. 94 Prohibition of disclosure of information.](section/94.md)
+    - [s. 95 Service of documents on and by certain undertakers.](section/95.md)
+    - [s. 96 Local inquiries.](section/96.md)
+    - [s. 97 Default powers.](section/97.md)
+    - [s. 98 Interpretation of Part V.](section/98.md)
+- Part VI Miscellaneous and general
+  - Miscellaneous
+    - [s. 99 Alteration of penalties.](section/99.md)
+    - [s. 100 ................................](section/100.md)
+    - [s. 101 Disposal of waste etc by Atomic Energy Authority.](section/101.md)
+    - [s. 102 Power to give effect to international agreements.](section/102.md)
+    - [s. 103 ................................](section/103.md)
+  - General
+    - [s. 104 Orders and regulations.](section/104.md)
+    - [s. 105 Interpretation etc—general.](section/105.md)
+    - [s. 106 General application to Scotland.](section/106.md)
+    - [s. 107 Application to Isles of Scilly.](section/107.md)
+    - [s. 108 Minor and consequential amendments of enactments, and repeals.](section/108.md)
+    - [s. 109 Short title, commencement and extent.](section/109.md)
+- SCHEDULE 1 Noise Abatement Zones
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 1A Orders Designating Nitrate Sensitive Areas: Scotland
+  - Part I Applications by SEPA for Designation Orders
+    - Orders made only on application
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - Procedure for applications
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Part II Orders Containing Mandatory Provisions Etc.
+    - Publication of proposal for order containing mandatory provisions
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - Supply of copies of proposed orders
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - Modifications of proposals
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Consideration of objections et ceteralaetc.
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Consent of Treasury for payment provisions
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+- SCHEDULE 2 Alteration of penalties
+  - The Public Health (Scotland) Act 1897
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - The Alkali, &c. Works Regulation Act 1906
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Public Health Act 1936
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - The Public Health (Drainage of Trade Premises Act 1937
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - The Water Act 1945
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - The Clean Air Act 1956
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - The Radioactive Substances Act 1960
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - The Sewerage (Scotland) Act 1968
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - The Clean Air Act 1968
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 Minor and consequential amendments of enactments
+  - The Alkali, &c. Works Regulation Act 1906
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Public Health Act 1936
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Public Health (Drainage of Trade Premises) Act 1937
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Rivers (Prevention of Pollution) (Scotland) Act 1951
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - The Clean Air Act 1956
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Rivers (Prevention of Pollution) Act 1961
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Public Health Act 1961
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The London Government Act 1963
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Water Resources Act 1963
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Spray Irrigation (Scotland) Act 1964
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Rivers (Prevention of Pollution) (Scotland) Act 1965
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - The Hovercraft Act 1968
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - The Water Act 1973
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - The Local Government (Scotland) Act 1973
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+- SCHEDULE 4 Repeals
