@@ -1,0 +1,221 @@
+# Acquisition of Land Act 1981
+
+1981 c. 67. Enacted 1981-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 25 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
+
+Source: https://www.legislation.gov.uk/ukpga/1981/67/2026-09-14
+
+## Contents
+
+- Part I General
+  - [s. 1 Application of Act.](section/1.md)
+  - Compulsory purchase
+    - [s. 2 Procedure for authorisation.](section/2.md)
+    - [s. 2A Tunnels etc](section/2A.md)
+    - [s. 3 Minerals.](section/3.md)
+    - [s. 4 Assessment of compensation.](section/4.md)
+  - Supplemental
+    - [s. 5 Local inquiries.](section/5.md)
+    - [s. 5A Power to require information](section/5A.md)
+    - [s. 5B Offences relating to information](section/5B.md)
+    - [s. 6 Service of documents.](section/6.md)
+  - Interpretation
+    - [s. 7 Interpretation.](section/7.md)
+    - [s. 8 Statutory undertakers.](section/8.md)
+    - [s. 9 Land held inalienably.](section/9.md)
+- Part II Purchases By Local And Other Authorities
+  - [s. 10 Preliminary.](section/10.md)
+  - Notices prior to submission of order to confirming authority
+    - [s. 11 Public notices](section/11.md)
+    - [s. 12 Notices to owners, lessees, occupiers and others.](section/12.md)
+    - [s. 12A Final day for making objections](section/12A.md)
+  - Confirmation of order
+    - [s. 13 Confirmation of order: no objections](section/13.md)
+    - [s. 13A Confirmation of order: remaining objections](section/13A.md)
+    - [s. 13B representations procedure: supplementary](section/13B.md)
+    - [s. 13BA Conditional confirmation](section/13BA.md)
+    - [s. 13C Confirmation in stages](section/13C.md)
+    - [s. 13D Power to extend time limit for implementation](section/13D.md)
+    - [s. 14 Land not originally included in order.](section/14.md)
+    - [s. 14A Confirmation by acquiring authority](section/14A.md)
+    - [s. 14B Timetables for confirmation of CPOs except by Welsh Ministers](section/14B.md)
+    - [s. 14C Timetables for confirmation of CPOs by Welsh Ministers](section/14C.md)
+    - [s. 14D Power to appoint inspector](section/14D.md)
+    - [s. 15 Notices after confirmation of order](section/15.md)
+  - Special provision about compensation
+    - [s. 15A Directions applying section 14A of the Land Compensation Act 1961](section/15A.md)
+- Part III Special Kinds of Land
+  - [s. 16 Statutory undertakers’ land excluded from compulsory purchase.](section/16.md)
+  - Orders subject to special parliamentary procedure
+    - [s. 17 Local authority and statutory undertakers’ land.](section/17.md)
+    - [s. 18 National Trust land.](section/18.md)
+    - [s. 19 Commons, open spaces etc.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 Land within more than one provision in Part III.](section/21.md)
+  - Supplemental
+    - [s. 22 Notice of giving of certificate.](section/22.md)
+- Part IV Validity and Date of Operation of Orders and Certificates
+  - [s. 23 Grounds for application to High Court.](section/23.md)
+  - [s. 24 Powers of the court.](section/24.md)
+  - [s. 25 Restriction on other court proceedings.](section/25.md)
+  - [s. 26 Date of operation.](section/26.md)
+  - [s. 27 Exclusion of orders confirmed by Act of Parliament.](section/27.md)
+- Part V Procedure in Special Cases
+  - Compulsory acquisition of rights over land
+    - [s. 28 Acquisition of rights over land by the creation of new rights.](section/28.md)
+    - [s. 29 Compulsory rights orders under Opencast Coal Act 1958.](section/29.md)
+    - [s. 30 Acquisition of rights in connection with underground storage of gas.](section/30.md)
+  - Statutory undertakers’ land
+    - [s. 31 Acquisition under certain Acts of statutory undertakers’ land without a certificate.](section/31.md)
+- Part VI Footpaths and Bridleways
+  - [s. 32 Power to extinguish certain public rights of way.](section/32.md)
+  - [s. 33 Land acquired before commencement of this Act.](section/33.md)
+- Part VII Supplemental
+  - [s. 34 Consequential amendments, transitionals and repeals.](section/34.md)
+  - [s. 35 Short title, commencement and extent.](section/35.md)
+- SCHEDULE 1 Purchases by Ministers
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Public notices
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Notices to owners, lessees, occupiers and others
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Final day for making objections
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+  - Making of order
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+    - [Sch. 1 para. 4AA](schedule/1/paragraph/4AA.md)
+    - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+  - Land not included in draft order
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Notices after making of order
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Minerals
+  - Part I
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part II
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part III
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Severed mines
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Powers of entry
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Remedial works
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- Schedule 2A Enactments eligible for directions applying section 14A of the Land Compensation Act 1961
+  - [Sch. 2A para. A1 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/A1.md)
+  - [Sch. 2A para. 1 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/5.md)
+  - [Sch. 2A para. 6 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/6.md)
+  - [Sch. 2A para. 7 Enactments authorising acquisitions for purposes including housing](schedule/2A/paragraph/7.md)
+  - [Sch. 2A para. 8 Enactments authorising acquisitions for purposes of the NHS](schedule/2A/paragraph/8.md)
+  - [Sch. 2A para. 9 Enactments authorising acquisitions for purposes of the NHS](schedule/2A/paragraph/9.md)
+  - [Sch. 2A para. 10 Enactments authorising acquisitions for purposes of the NHS](schedule/2A/paragraph/10.md)
+  - [Sch. 2A para. 11 Enactment authorising acquisitions for educational purposes](schedule/2A/paragraph/11.md)
+- SCHEDULE 3 Acquisition of Rights over Land by the Creation of New Rights
+  - Part I
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - General modifications
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part II Acquisition of New Rights Over Special Kinds of Land
+    - Statutory undertakers land
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Orders subject to special parliamentary procedure
+    - Local authority and statutory undertakers’ land
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - National Trust land
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Commons, open spaces etc.
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Ancient monuments
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Land within more than one provision in this Schedule
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Notice of giving of certificate
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 CONSEQUENTIAL AMENDMENTS
+  - Translation of references to the Act of 1946
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Land Settlement Facilities Act 1919 (c. 59)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Agriculture Act 1947 (c. 48)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Coast Protection Act 1949 (c. 74)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Housing Repairs and Rents Act 1954 (c. 53)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Opencast Coal Act 1958 (c. 69)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Police Act 1964 (c. 48)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Compulsory Purchase Act 1965 (c. 56)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Agriculture Act 1967 (c. 22)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Transport Act 1968 (c. 73)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Courts Act 1971 (c. 23)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Gas Act 1972 (c. 60)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - Development of Rural Wales Act 1976 (c. 75)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - National Health Service Act 1977 (c. 49)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Animal Health Act 1981 (c. 22)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - New Towns Act 1981 (c. 64)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+- SCHEDULE 5 Transitional
+  - References to old law to include new law
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - References to new law to include old law
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Periods of time
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Successor authorities
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Construction of enactments applying the 1946 Act
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Local authority and statutory undertakers land excluded from compulsory purchase
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Extinguishment of certain public rights of way
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 REPEALS
+  - PART I
+  - PART II SPENT PROVISIONS
+  - PART III STATUTORY INSTRUMENTS
