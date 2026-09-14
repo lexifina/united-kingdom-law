@@ -1,0 +1,594 @@
+# New Roads and Street Works Act 1991
+
+1991 c. 22. Enacted 1991-06-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 466 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
+
+Source: https://www.legislation.gov.uk/ukpga/1991/22/2026-09-14
+
+## Contents
+
+- Part I New Roads in England and Wales
+  - Concession agreements
+    - [s. 1 Concession agreements.](section/1.md)
+    - [s. 2 Exercise of highway functions by concessionaire.](section/2.md)
+    - [s. 3 Provisions as to traffic regulation.](section/3.md)
+    - [s. 4 Leasing of land to concessionaire.](section/4.md)
+    - [s. 5 Transfer or termination of concession.](section/5.md)
+  - Toll orders
+    - [s. 6 Toll orders.](section/6.md)
+    - [s. 7 The toll period.](section/7.md)
+    - [s. 8 Amount of tolls chargeable by concessionaire.](section/8.md)
+    - [s. 9 Amount of tolls chargeable by highway authority.](section/9.md)
+    - [s. 10 Application of enactments relating to monopolies, &c.](section/10.md)
+    - [s. 11 Variation or revocation of toll order.](section/11.md)
+    - [s. 12 Extension toll orders.](section/12.md)
+  - Further provisions with respect to tolls
+    - [s. 13 Further provisions as to charging of tolls.](section/13.md)
+    - [s. 14 Collection of tolls.](section/14.md)
+    - [s. 15 Refusal or failure to pay tolls.](section/15.md)
+    - [s. 16 Facilities for collection of tolls.](section/16.md)
+    - [s. 17 Restriction of access to toll roads.](section/17.md)
+  - Annual Report
+    - [s. 18 Annual report on concession agreements and toll orders.](section/18.md)
+  - Miscellaneous
+    - [s. 19 Environmental assessment of projects involving special roads.](section/19.md)
+    - [s. 20 Classification of traffic for purposes of special roads.](section/20.md)
+    - [s. 21 Certain special roads not necessarily trunk roads.](section/21.md)
+    - [s. 22 Adoption of privately constructed roads.](section/22.md)
+    - [s. 23 Execution of works by highway authority at expense of another.](section/23.md)
+    - [s. 24 Exercise of road traffic regulation powers.](section/24.md)
+  - General
+    - [s. 25 Application of provisions of the Highways Act 1980, &c.](section/25.md)
+    - [s. 26 Interpretation.](section/26.md)
+- Part II New Roads in Scotland
+  - Toll Roads
+    - [s. 27 Toll orders.](section/27.md)
+    - [s. 28 Assignation of rights under a toll order.](section/28.md)
+    - [s. 29 The toll period.](section/29.md)
+    - [s. 30 Extension toll orders.](section/30.md)
+    - [s. 31 Amount of tolls chargeable.](section/31.md)
+    - [s. 32 Toll order in respect of major crossings.](section/32.md)
+    - [s. 33 Application of enactments relating to monopolies, &c.](section/33.md)
+    - [s. 34 Variation or revocation of toll order.](section/34.md)
+    - [s. 35 Transfer or termination of assignation.](section/35.md)
+  - Further provision with respect to tolls
+    - [s. 36 Further provision as to charging of tolls.](section/36.md)
+    - [s. 37 Collection of tolls.](section/37.md)
+    - [s. 38 Refusal or failure to pay tolls.](section/38.md)
+    - [s. 39 Facilities for collection of tolls.](section/39.md)
+    - [s. 40 Restriction of access to toll roads.](section/40.md)
+  - Report
+    - [s. 41 Report on toll roads and toll orders in Scotland.](section/41.md)
+  - Supplementary provisions
+    - [s. 42 Environmental assessment of projects involving special roads.](section/42.md)
+    - [s. 43 Provisions as to traffic regulation.](section/43.md)
+    - [s. 44 Exercise of road traffic regulation powers.](section/44.md)
+    - [s. 45 Classification of traffic for purposes of special roads.](section/45.md)
+    - [s. 46 Special roads not necessarily to be trunk roads.](section/46.md)
+    - [s. 47 The Roads (Scotland) Act 1984 and the interpretation of Part II.](section/47.md)
+- Part III Street works in England and Wales
+  - Introductory provisions
+    - [s. 48 Streets, street works and undertakers.](section/48.md)
+    - [s. 49 The street authority and other relevant authorities.](section/49.md)
+    - [s. 50 Street works licences.](section/50.md)
+    - [s. 51 Prohibition of unauthorised street works.](section/51.md)
+    - [s. 52 Emergency works.](section/52.md)
+  - The street works register
+    - [s. 53 The street works register.](section/53.md)
+  - Notice and co-ordination of works
+    - [s. 54 Advance notice of certain works.](section/54.md)
+    - [s. 55 Notice of starting date of works.](section/55.md)
+    - [s. 56 Power to give directions as to timing of street works.](section/56.md)
+    - [s. 56A Power to give directions as to placing of apparatus](section/56A.md)
+    - [s. 57 Notice of emergency works.](section/57.md)
+    - [s. 58 Restriction on works following substantial road works.](section/58.md)
+    - [s. 58A Restriction on works following substantial street works](section/58A.md)
+    - [s. 59 General duty of street authority to co-ordinate works.](section/59.md)
+    - [s. 60 General duty of undertakers to co-operate.](section/60.md)
+  - Streets subject to special controls
+    - [s. 61 Protected streets.](section/61.md)
+    - [s. 62 Supplementary provisions as to designation of protected streets.](section/62.md)
+    - [s. 63 Streets with special engineering difficulties.](section/63.md)
+    - [s. 64 Traffic-sensitive streets.](section/64.md)
+  - General requirements as to execution of street works
+    - [s. 65 Safety measures.](section/65.md)
+    - [s. 66 Avoidance of unnecessary delay or obstruction.](section/66.md)
+    - [s. 67 Qualifications of supervisors and operatives.](section/67.md)
+    - [s. 68 Facilities to be afforded to street authority.](section/68.md)
+    - [s. 69 Works likely to affect other apparatus in the street.](section/69.md)
+  - Reinstatement
+    - [s. 70 Duty of undertaker to reinstate.](section/70.md)
+    - [s. 71 Materials, workmanship and standard of reinstatement.](section/71.md)
+    - [s. 72 Powers of street authority in relation to reinstatement.](section/72.md)
+    - [s. 73 Reinstatement affected by subsequent works.](section/73.md)
+  - Inspections
+    - [s. 73F Guidance about street authority inspections](section/73F.md)
+  - Charges, fees and contributions payable by undertakers
+    - [s. 74 Charge for occupation of the highway where works unreasonably prolonged.](section/74.md)
+    - [s. 74A Charge determined by reference to duration of works.](section/74A.md)
+    - [s. 74B Regulations under sections 74 and 74A.](section/74B.md)
+    - [s. 75 Inspection fees.](section/75.md)
+    - [s. 76 Liability for cost of temporary traffic regulation.](section/76.md)
+    - [s. 77 Liability for cost of use of alternative route.](section/77.md)
+    - [s. 78 Contributions to costs of making good long-term damage.](section/78.md)
+  - Duties in relation to recording and sharing of information about apparatus
+    - [s. 79 Information in relation to apparatus](section/79.md)
+    - [s. 80 Duties to report missing or incorrect information in relation to apparatus.](section/80.md)
+  - Other duties and liabilities of undertakers in relation to apparatus
+    - [s. 81 Duty to maintain apparatus.](section/81.md)
+    - [s. 82 Liability for damage or loss caused.](section/82.md)
+  - Apparatus affected by highway, bridge or transport works
+    - [s. 83 Works for road purposes likely to affect apparatus in the street.](section/83.md)
+    - [s. 84 Measures necessary where apparatus affected by major works.](section/84.md)
+    - [s. 85 Sharing of cost of necessary measures.](section/85.md)
+  - Provisions with respect to particular authorities and undertakings
+    - [s. 86 Highway authorities, highways and related matters.](section/86.md)
+    - [s. 87 Prospectively maintainable highways.](section/87.md)
+    - [s. 88 Bridges, bridge authorities and related matters.](section/88.md)
+    - [s. 89 Public sewers, sewer authorities and related matters.](section/89.md)
+    - [s. 90 Provisions as to reinstatement of sewers, drains or tunnels.](section/90.md)
+    - [s. 91 Transport authorities, transport undertakings and related matters.](section/91.md)
+    - [s. 92 Special precautions as to displaying of lights.](section/92.md)
+    - [s. 93 Works affecting level crossings or tramways.](section/93.md)
+  - Power of street authority or district council to undertake street works
+    - [s. 94 Power of street authority or district council to undertake street works.](section/94.md)
+  - Supplementary provisions
+    - [s. 95 Offences.](section/95.md)
+    - [s. 95A Fixed penalties for certain offences under this Part](section/95A.md)
+    - [s. 96 Recovery of costs or expenses.](section/96.md)
+    - [s. 97 Service of notices and other documents.](section/97.md)
+    - [s. 98 Reckoning of periods.](section/98.md)
+    - [s. 99 Arbitration.](section/99.md)
+    - [s. 100 Agreements inconsistent with the provisions of this Part.](section/100.md)
+    - [s. 101 Effect of this Part on certain existing special enactments or instruments.](section/101.md)
+    - [s. 102 Effect of this Part on other existing enactments or instruments.](section/102.md)
+    - [s. 103 Former controlled land.](section/103.md)
+    - [s. 104 Meaning of “prescribed” and regulations generally.](section/104.md)
+    - [s. 105 Minor definitions.](section/105.md)
+    - [s. 106 Index of defined expressions.](section/106.md)
+- Part 3A National Underground Asset Register: England and Wales
+  - The register
+    - [s. 106A National Underground Asset Register](section/106A.md)
+    - [s. 106B Initial upload of information into NUAR](section/106B.md)
+    - [s. 106C Access to information kept in NUAR](section/106C.md)
+    - [s. 106D Guidance](section/106D.md)
+  - Requirements for undertakers to pay fees and provide information
+    - [s. 106E Fees payable by undertakers in relation to NUAR](section/106E.md)
+    - [s. 106F Providing information for purposes of regulations under section 106E](section/106F.md)
+  - Monetary penalties
+    - [s. 106G Monetary penalties](section/106G.md)
+  - Exercise of functions by third party
+    - [s. 106H Arrangements for third party to exercise functions](section/106H.md)
+  - Data protection
+    - [s. 106I Data protection](section/106I.md)
+  - Supplementary provisions
+    - [s. 106J Regulations under this Part](section/106J.md)
+    - [s. 106K Interpretation](section/106K.md)
+- Part IV Road works in Scotland
+  - Introductory provisions
+    - [s. 107 Roads, road works and undertakers.](section/107.md)
+    - [s. 108 The road works authority and other relevant authorities.](section/108.md)
+    - [s. 109 Permission to execute road works.](section/109.md)
+    - [s. 110 Prohibition of unauthorised road works.](section/110.md)
+    - [s. 111 Emergency works.](section/111.md)
+  - The road works register
+    - [s. 112 The road works register.](section/112.md)
+    - [s. 112A The Scottish Road Works Register](section/112A.md)
+    - [s. 112B Duty to enter certain information in the Scottish Road Works Register](section/112B.md)
+  - Notice and co-ordination of works
+    - [s. 113 Advance notice of certain works.](section/113.md)
+    - [s. 114 Notice of starting date of works.](section/114.md)
+    - [s. 115 Power to give directions as to timing of works.](section/115.md)
+    - [s. 115A Power to give directions as to placing of apparatus](section/115A.md)
+    - [s. 116 Notice of emergency works.](section/116.md)
+    - [s. 117 Restriction on works following substantial works carried out for road purposes.](section/117.md)
+    - [s. 118 General duty of road works authority to co-ordinate works.](section/118.md)
+    - [s. 119 General duty of undertakers to co-operate.](section/119.md)
+    - [s. 119A Enforcement of sections 118 and 119: imposition of penalties](section/119A.md)
+  - Roads subject to special controls
+    - [s. 120 Protected roads.](section/120.md)
+    - [s. 121 Supplementary provisions as to designation of protected roads.](section/121.md)
+    - [s. 122 Roads with special engineering difficulties.](section/122.md)
+    - [s. 123 Traffic-sensitive roads.](section/123.md)
+  - General requirements as to execution of road works
+    - [s. 124 Safety measures.](section/124.md)
+    - [s. 125 Avoidance of unnecessary delay or obstruction.](section/125.md)
+    - [s. 126 Qualifications of supervisors and operatives.](section/126.md)
+    - [s. 126A Duty of authorities, undertakers etc. to ensure competence of employees etc.](section/126A.md)
+    - [s. 127 Facilities to be afforded to road works authority.](section/127.md)
+    - [s. 128 Works likely to affect other apparatus in the road.](section/128.md)
+  - Reinstatement
+    - [s. 129 Duty of undertaker to reinstate.](section/129.md)
+    - [s. 130 Materials, workmanship and standard of reinstatement.](section/130.md)
+    - [s. 131 Powers of road works authority in relation to reinstatement.](section/131.md)
+    - [s. 132 Reinstatement affected by subsequent works.](section/132.md)
+  - Charges, fees and contributions payable by undertakers
+    - [s. 133 Charge for occupation of the road where works unreasonably prolonged.](section/133.md)
+    - [s. 134 Inspection fees.](section/134.md)
+    - [s. 135 Liability for cost of temporary traffic regulation.](section/135.md)
+    - [s. 136 Liability for cost of use of alternative route.](section/136.md)
+    - [s. 137 Contributions to costs of making good long-term damage.](section/137.md)
+  - Duties and liabilities of undertakers with respect to apparatus
+    - [s. 138 Records of location of apparatus.](section/138.md)
+    - [s. 139 Duty to inform undertakers of location of apparatus.](section/139.md)
+    - [s. 140 Duty to maintain apparatus.](section/140.md)
+    - [s. 141 Liability for damage or loss caused.](section/141.md)
+  - Apparatus affected by road, bridge or transport works
+    - [s. 142 Works for road purposes likely to affect apparatus in the road.](section/142.md)
+    - [s. 143 Measures necessary where apparatus affected by major works.](section/143.md)
+    - [s. 144 Sharing of cost of necessary measures.](section/144.md)
+  - Provisions with respect to particular authorities and undertakings
+    - [s. 145 Roads authorities, roads and related matters.](section/145.md)
+    - [s. 146 Prospective public roads.](section/146.md)
+    - [s. 147 Bridges, bridge authorities and related matters.](section/147.md)
+    - [s. 148 Sewers.](section/148.md)
+    - [s. 149 Provisions as to reinstatement of sewers, drains or tunnels.](section/149.md)
+    - [s. 150 Transport authorities, transport undertakings and related matters.](section/150.md)
+    - [s. 151 Special precautions as to displaying of lights.](section/151.md)
+    - [s. 152 Works affecting level crossings or tramways.](section/152.md)
+  - Power of road works authority or district council to undertake road works
+    - [s. 153 Power of road works authority or district council to undertake road works.](section/153.md)
+  - Supplementary provisions
+    - [s. 154 Offences.](section/154.md)
+    - [s. 154A Fixed penalties for certain offences under this Part](section/154A.md)
+    - [s. 155 Recovery of costs or expenses.](section/155.md)
+    - [s. 156 Service of notices and other documents.](section/156.md)
+    - [s. 157 Reckoning of periods.](section/157.md)
+    - [s. 157A Regulations prescribing manner of settlement of disputes](section/157A.md)
+    - [s. 158 Arbitration.](section/158.md)
+    - [s. 159 Agreements inconsistent with the provisions of this Part.](section/159.md)
+    - [s. 160 Effect of this Part on certain existing special enactments or instruments.](section/160.md)
+    - [s. 161 Effect of this Part on other existing enactments or instruments.](section/161.md)
+    - [s. 162 Former controlled land.](section/162.md)
+    - [s. 163 Meaning of “prescribed” and regulations generally.](section/163.md)
+    - [s. 163A Consultation on regulations and codes of practice](section/163A.md)
+    - [s. 164 Minor definitions.](section/164.md)
+    - [s. 165 Index of defined expressions.](section/165.md)
+- Part V General
+  - [s. 166 Offences by bodies corporate or Scottish partnerships.](section/166.md)
+  - [s. 167 Crown application.](section/167.md)
+  - [s. 168 Minor and consequential amendments and repeals.](section/168.md)
+  - [s. 169 Extent.](section/169.md)
+  - [s. 170 Commencement.](section/170.md)
+  - [s. 171 Short title.](section/171.md)
+- SCHEDULE 1 Supplementary provisions as to termination of concession
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Property to vest free from security rights
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Recovery of property taken in distress, &c.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Validity of previous discharge of liabilities
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Property subject to covenants, conditions or restrictions
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Transfer of agreements, &c.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Legal or other proceedings
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Transfer of employees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Procedure in Connection with Toll Orders
+  - Publicity for proposals
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Making of objections
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Local inquiry
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Making or confirmation of order
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Notice of making or confirmation of order
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Special parliamentary procedure where existing highway appropriated or transferred
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Challenge to validity of order or certificate
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Street works licences
+  - Grant of licence
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Electronic communications networks: determination of applications to install facilities
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+  - Conditions attached to licence
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Notice of change of ownership, &c.
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Withdrawal of licence
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Removal of apparatus
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Obligation of licensee to indemnify street authority
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Appeal against decision of local highway authority
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 3A Restriction on works following substantial street works
+  - [Sch. 3A para. 1 Introductory](schedule/3A/paragraph/1.md)
+  - [Sch. 3A para. 2 Notice by authority of proposed restriction](schedule/3A/paragraph/2.md)
+  - [Sch. 3A para. 3 Completion of notified works](schedule/3A/paragraph/3.md)
+  - [Sch. 3A para. 4 Direction restricting further works](schedule/3A/paragraph/4.md)
+  - [Sch. 3A para. 5 Effect of direction imposing restriction](schedule/3A/paragraph/5.md)
+  - [Sch. 3A para. 6 Supplementary](schedule/3A/paragraph/6.md)
+- SCHEDULE 4 Streets with special engineering difficulties
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Requirement of plan and section
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Procedure on submission of plan and section
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Settlement of plan and section by arbitration
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Objection to works executed without plan and section being settled
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Execution of works in accordance with plan and section
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 4A fixed penalty offences under part 3
+- SCHEDULE 4B Fixed penalties for certain offences under Part 3
+  - [Sch. 4B para. 1 Power to give fixed penalty notices](schedule/4B/paragraph/1.md)
+  - [Sch. 4B para. 2 Power to give fixed penalty notices](schedule/4B/paragraph/2.md)
+  - [Sch. 4B para. 3 Contents of fixed penalty notice](schedule/4B/paragraph/3.md)
+  - [Sch. 4B para. 4 The amount of the penalty and the period for payment](schedule/4B/paragraph/4.md)
+  - [Sch. 4B para. 5 The discounted amount](schedule/4B/paragraph/5.md)
+  - [Sch. 4B para. 6 Effect of notice and payment of penalty](schedule/4B/paragraph/6.md)
+  - [Sch. 4B para. 7 Power to withdraw notices](schedule/4B/paragraph/7.md)
+  - [Sch. 4B para. 8 General and supplementary](schedule/4B/paragraph/8.md)
+  - [Sch. 4B para. 9 General and supplementary](schedule/4B/paragraph/9.md)
+- SCHEDULE 5 Procedure for making certain orders under Part III
+  - Publication of proposals
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Notice to parties affected
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Local inquiry
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Making of order
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Special parliamentary procedure
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- Schedule 5A Monetary penalties in relation to requirements under Part 3A
+  - [Sch. 5A para. 1 Power to impose monetary penalties](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2 Warning notices](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3 Penalty notices](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4 Enforcement](schedule/5A/paragraph/4.md)
+  - [Sch. 5A para. 5 Appeals](schedule/5A/paragraph/5.md)
+- SCHEDULE 6 Roads with special engineering difficulties
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Requirement of plan and section
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Procedure on submission of plan and section
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Settlement of plan and section by arbitration
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Objection to works executed without plan and section being settled
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Execution of works in accordance with plan and section
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 6A FIXED PENALTY OFFENCES UNDER PART 4
+- SCHEDULE 6B FIXED PENALTIES FOR CERTAIN OFFENCES UNDER PART 4
+  - Power to give fixed penalty notices
+    - [Sch. 6B para. 1](schedule/6B/paragraph/1.md)
+    - [Sch. 6B para. 2](schedule/6B/paragraph/2.md)
+  - Contents of fixed penalty notice
+    - [Sch. 6B para. 3](schedule/6B/paragraph/3.md)
+  - The amount of the penalty and the period for payment
+    - [Sch. 6B para. 4](schedule/6B/paragraph/4.md)
+  - The discounted amount
+    - [Sch. 6B para. 5](schedule/6B/paragraph/5.md)
+  - Effect of notice and payment of penalty
+    - [Sch. 6B para. 6](schedule/6B/paragraph/6.md)
+  - Request for hearing
+    - [Sch. 6B para. 7](schedule/6B/paragraph/7.md)
+  - Power to withdraw notices
+    - [Sch. 6B para. 8](schedule/6B/paragraph/8.md)
+  - Effect of prosecution on notice
+    - [Sch. 6B para. 9](schedule/6B/paragraph/9.md)
+  - Recovery of unpaid fixed penalties
+    - [Sch. 6B para. 10](schedule/6B/paragraph/10.md)
+  - Judicial determination of enforcement of fixed penalty
+    - [Sch. 6B para. 11](schedule/6B/paragraph/11.md)
+  - General and supplementary
+    - [Sch. 6B para. 12](schedule/6B/paragraph/12.md)
+    - [Sch. 6B para. 13](schedule/6B/paragraph/13.md)
+    - [Sch. 6B para. 14](schedule/6B/paragraph/14.md)
+- SCHEDULE 7 Procedure for making certain orders under Part IV
+  - Publication of proposals
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Notice to parties affected
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Local inquiry
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Making of order
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Special parliamentary procedure
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Minor and consequential amendments
+  - Part I Amendments of the Highways Act 1980
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Part II Amendments of the Road Traffic Regulation Act 1984
+    - Traffic regulation orders outside Greater London
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Orders as to traffic regulation in Greater London
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Experimental traffic schemes
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Temporary prohibition or restriction of traffic
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Traffic regulation on special roads
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Traffic regulation in other special cases
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - Pedestrian crossings
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - Street playgrounds
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - Parking places
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - Traffic signs
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+      - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+      - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+      - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+      - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+      - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+      - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+      - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+      - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+      - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+      - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+      - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+      - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+      - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+      - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+      - [Sch. 8 para. 75](schedule/8/paragraph/75.md)
+      - [Sch. 8 para. 76](schedule/8/paragraph/76.md)
+      - [Sch. 8 para. 77](schedule/8/paragraph/77.md)
+      - [Sch. 8 para. 78](schedule/8/paragraph/78.md)
+      - [Sch. 8 para. 79](schedule/8/paragraph/79.md)
+      - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+  - Part III Amendments of the Roads (Scotland) Act 1984
+    - [Sch. 8 para. 81](schedule/8/paragraph/81.md)
+    - [Sch. 8 para. 82](schedule/8/paragraph/82.md)
+    - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+    - [Sch. 8 para. 84](schedule/8/paragraph/84.md)
+    - [Sch. 8 para. 85](schedule/8/paragraph/85.md)
+    - [Sch. 8 para. 86](schedule/8/paragraph/86.md)
+    - [Sch. 8 para. 87](schedule/8/paragraph/87.md)
+    - [Sch. 8 para. 88](schedule/8/paragraph/88.md)
+    - [Sch. 8 para. 89](schedule/8/paragraph/89.md)
+    - [Sch. 8 para. 90](schedule/8/paragraph/90.md)
+    - [Sch. 8 para. 91](schedule/8/paragraph/91.md)
+    - [Sch. 8 para. 92](schedule/8/paragraph/92.md)
+    - [Sch. 8 para. 93](schedule/8/paragraph/93.md)
+    - [Sch. 8 para. 94](schedule/8/paragraph/94.md)
+    - [Sch. 8 para. 95](schedule/8/paragraph/95.md)
+    - [Sch. 8 para. 96](schedule/8/paragraph/96.md)
+    - [Sch. 8 para. 97](schedule/8/paragraph/97.md)
+  - Part IV Amendments of other enactments
+    - Roads Act 1920 (c.72)
+      - [Sch. 8 para. 98](schedule/8/paragraph/98.md)
+    - Fire Services Act 1947 (c.41)
+      - [Sch. 8 para. 99](schedule/8/paragraph/99.md)
+    - Land Powers (Defence) Act 1958 (c.30)
+      - [Sch. 8 para. 100](schedule/8/paragraph/100.md)
+    - Pipelines Act 1962 (c.58)
+      - [Sch. 8 para. 101](schedule/8/paragraph/101.md)
+    - New Towns (Scotland) Act 1968 (c. 16)
+      - [Sch. 8 para. 102](schedule/8/paragraph/102.md)
+    - Sewerage (Scotland) Act 1968 (c.47)
+      - [Sch. 8 para. 103](schedule/8/paragraph/103.md)
+    - Town and Country Planning (Scotland) Act 1972 (c.52)
+      - [Sch. 8 para. 104](schedule/8/paragraph/104.md)
+    - Control of Pollution Act 1974 (c.40)
+      - [Sch. 8 para. 105](schedule/8/paragraph/105.md)
+    - Local Government (Miscellaneous Provisions) Act 1976 (c.57)
+      - [Sch. 8 para. 106](schedule/8/paragraph/106.md)
+    - Development of Rural Wales Act 1976 (c.75)
+      - [Sch. 8 para. 107](schedule/8/paragraph/107.md)
+    - Water (Scotland) Act 1980 (c.45)
+      - [Sch. 8 para. 108](schedule/8/paragraph/108.md)
+    - Local Government, Planning and Land Act 1980 (c.65)
+      - [Sch. 8 para. 109](schedule/8/paragraph/109.md)
+    - Water Act 1981 (c.12)
+      - [Sch. 8 para. 110](schedule/8/paragraph/110.md)
+    - British Telecommunications Act 1981 (c.38)
+      - [Sch. 8 para. 111](schedule/8/paragraph/111.md)
+    - New Towns Act 1981 (c.64)
+      - [Sch. 8 para. 112](schedule/8/paragraph/112.md)
+    - Telecommunications Act 1984 (c.12)
+      - [Sch. 8 para. 113](schedule/8/paragraph/113.md)
+      - [Sch. 8 para. 114](schedule/8/paragraph/114.md)
+      - [Sch. 8 para. 115](schedule/8/paragraph/115.md)
+    - Local Government Act 1985 (c.51)
+      - [Sch. 8 para. 116](schedule/8/paragraph/116.md)
+    - Transport Act 1985 (c.67)
+      - [Sch. 8 para. 117](schedule/8/paragraph/117.md)
+    - Airports Act 1986 (c.31)
+      - [Sch. 8 para. 118](schedule/8/paragraph/118.md)
+    - Gas Act 1986 (c.44)
+      - [Sch. 8 para. 119](schedule/8/paragraph/119.md)
+      - [Sch. 8 para. 120](schedule/8/paragraph/120.md)
+    - Road Traffic Act 1988 (c.52)
+      - [Sch. 8 para. 121](schedule/8/paragraph/121.md)
+    - Water Act 1989 (c.15)
+      - [Sch. 8 para. 122](schedule/8/paragraph/122.md)
+    - Electricity Act 1989 (c.29)
+      - [Sch. 8 para. 123](schedule/8/paragraph/123.md)
+      - [Sch. 8 para. 124](schedule/8/paragraph/124.md)
+      - [Sch. 8 para. 125](schedule/8/paragraph/125.md)
+    - Town and Country Planning Act 1990 (c.8)
+      - [Sch. 8 para. 126](schedule/8/paragraph/126.md)
+    - Natural Heritage (Scotland) Act 1991 (c.28.)
+      - [Sch. 8 para. 127](schedule/8/paragraph/127.md)
+- SCHEDULE 9 Repeals
