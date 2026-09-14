@@ -1,0 +1,783 @@
+# Environmental Protection Act 1990
+
+1990 c. 43. Enacted 1990-11-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 30 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
+
+Source: https://www.legislation.gov.uk/ukpga/1990/43/2026-09-14
+
+## Contents
+
+- Part I Integrated Pollution Control and Air Pollution Control by Local Authorities
+  - Preliminary
+    - [s. 1 Preliminary.](section/1.md)
+    - [s. 2 Prescribed processes and prescribed substances.](section/2.md)
+    - [s. 3 Emission etc. limits and quality objectives.](section/3.md)
+    - [s. 4 Discharge and scope of functions.](section/4.md)
+    - [s. 5 ................................](section/5.md)
+  - Authorisations
+    - [s. 6 Authorisations: general provisions.](section/6.md)
+    - [s. 7 Conditions of authorisations.](section/7.md)
+    - [s. 8 Fees and charges for authorisations.](section/8.md)
+    - [s. 9 Transfer of authorisations.](section/9.md)
+    - [s. 10 Variation of authorisations by enforcing authority.](section/10.md)
+    - [s. 11 Variation of conditions etc: applications by holders of authorisations.](section/11.md)
+    - [s. 12 Revocation of authorisation.](section/12.md)
+  - Enforcement
+    - [s. 13 Enforcement notices.](section/13.md)
+    - [s. 14 Prohibition notices.](section/14.md)
+    - [s. 15 Appeals as respects authorisations and against variation, enforcement and prohibition notices.](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Obtaining of information from persons and authorities.](section/19.md)
+  - Publicity
+    - [s. 20 Public registers of information.](section/20.md)
+    - [s. 21 Exclusion from registers of information affecting national security.](section/21.md)
+    - [s. 22 Exclusion from registers of certain confidential information.](section/22.md)
+  - Provisions as to offences
+    - [s. 23 Offences.](section/23.md)
+    - [s. 24 Enforcement by High Court.](section/24.md)
+    - [s. 25 Onus of proof as regards techniques and evidence.](section/25.md)
+    - [s. 26 Power of court to order cause of offence to be remedied.](section/26.md)
+    - [s. 27 Power of chief inspector to remedy harm.](section/27.md)
+  - Authorisations and other statutory controls
+    - [s. 28 Authorisations and other statutory controls.](section/28.md)
+- Part II Waste on Land
+  - Preliminary
+    - [s. 29 Preliminary.](section/29.md)
+    - [s. 30 Authorities for purposes of this Part.](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Transition to waste disposal companies etc.](section/32.md)
+  - Prohibition on unauthorised or harmful depositing, treatment or disposal of waste
+    - [s. 33 Prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste.](section/33.md)
+    - [s. 33ZA Fixed penalty notices for contravention of section 33(1)(a): England](section/33ZA.md)
+    - [s. 33ZB Fixed penalty notices for contravention of section 33(1)(a): Wales](section/33ZB.md)
+    - [s. 33A Section 33 offences: investigation and enforcement costs](section/33A.md)
+    - [s. 33B Section 33 offences: clean-up costs](section/33B.md)
+    - [s. 33C Section 33 offences: forfeiture of vehicles](section/33C.md)
+  - Duty of care etc. as respects waste
+    - [s. 34 Duty of care etc. as respects waste.](section/34.md)
+    - [s. 34ZA Fixed penalty notices: offences under section 34(6) relating to section 34(2A): England](section/34ZA.md)
+    - [s. 34ZB Fixed penalty notices: offences under section 34(6) relating to section 34(2A): Wales](section/34ZB.md)
+    - [s. 34ZC Fixed penalty notices for offences under section 34(6): Scotland](section/34ZC.md)
+    - [s. 34A Fixed penalty notices for certain offences under section 34](section/34A.md)
+  - Offences under sections 33 and 34: powers of seizure etc
+    - [s. 34B Power to search and seize vehicles etc](section/34B.md)
+    - [s. 34C Seizure of vehicles etc: supplementary](section/34C.md)
+  - Wales: disposal of food waste
+    - [s. 34D Prohibition on disposal of food waste to sewer](section/34D.md)
+  - Electronic waste tracking
+    - [s. 34CA Electronic waste tracking](section/34CA.md)
+    - [s. 34CB Further provision about regulations under section 34CA](section/34CB.md)
+  - Waste Management Licences
+    - [s. 35 Waste management licences: general.](section/35.md)
+    - [s. 35A Compensation where rights granted pursuant to section 35(4) or 38(9A).](section/35A.md)
+    - [s. 36 Grant of licences.](section/36.md)
+    - [s. 36A Consultation before the grant of certain licences.](section/36A.md)
+    - [s. 37 Variation of licences.](section/37.md)
+    - [s. 37A Consultation before certain variations.](section/37A.md)
+    - [s. 38 Revocation and suspension of licences.](section/38.md)
+    - [s. 39 Surrender of licences.](section/39.md)
+    - [s. 40 Transfer of licences.](section/40.md)
+    - [s. 40A Consolidated Licences](section/40A.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 Supervision of licensed activities.](section/42.md)
+    - [s. 43 Appeals to Secretary of State from decisions with respect to licences.](section/43.md)
+    - [s. 44 Offences of making false or misleading statements or false entries.](section/44.md)
+  - Integrated waste management plans: Scotland
+    - [s. 44ZA Duty to prepare integrated waste management plan](section/44ZA.md)
+    - [s. 44ZB Approval of integrated waste management plan](section/44ZB.md)
+    - [s. 44ZC Implementation of integrated waste management plan](section/44ZC.md)
+    - [s. 44ZD Modification of integrated waste management plan](section/44ZD.md)
+  - Collection, disposal or treatment of controlled waste
+    - [s. 44A National waste strategy: England and Wales.](section/44A.md)
+    - [s. 44B National waste strategy: Scotland.](section/44B.md)
+    - [s. 45 Collection of controlled waste.](section/45.md)
+    - [s. 45A England: separate collection of household waste](section/45A.md)
+    - [s. 45AZA England: separate collection of household waste from relevant non-domestic premises](section/45AZA.md)
+    - [s. 45AZB England: separate collection of industrial or commercial waste](section/45AZB.md)
+    - [s. 45AZC Sections 45A to 45AZB: powers to exempt and extend](section/45AZC.md)
+    - [s. 45AZD Sections 45A to 45AZB: duties of waste collectors](section/45AZD.md)
+    - [s. 45AZE Sections 45 to 45AZD: guidance](section/45AZE.md)
+    - [s. 45AZF Sections 45AZA and 45AZB: compliance notices](section/45AZF.md)
+    - [s. 45AZG Sections 45AZA and 45AZB: appeals against compliance notices](section/45AZG.md)
+    - [s. 45AA Wales: separate collection etc. of waste](section/45AA.md)
+    - [s. 45AB Code of practice](section/45AB.md)
+    - [s. 45B Power to apply section 45A to Welsh waste collection authorities](section/45B.md)
+    - [s. 45C Separate collection of dry recyclable waste and food waste: Scotland](section/45C.md)
+    - [s. 46 Receptacles for household waste.](section/46.md)
+    - [s. 46ZA Enforcement of household waste requirements: Scotland](section/46ZA.md)
+    - [s. 46ZB Civil penalty charges under section 46ZA: prior notices of intent and final notices](section/46ZB.md)
+    - [s. 46ZC Civil penalty charges under section 46ZA: procedure and amount](section/46ZC.md)
+    - [s. 46ZD Fixed penalty notices for offences under section 46](section/46ZD.md)
+    - [s. 46ZE Guidance](section/46ZE.md)
+    - [s. 46A Written warnings and penalties for failure to comply with requirements relating to household waste receptacles: England](section/46A.md)
+    - [s. 46B Amount of penalty under section 46A and recovery of penalty](section/46B.md)
+    - [s. 46C Penalties under section 46A: procedure regarding notices of intent and final notices](section/46C.md)
+    - [s. 46D Appeals against penalties under section 46A](section/46D.md)
+    - [s. 47 Receptacles for commercial or industrial waste.](section/47.md)
+    - [s. 47ZA Fixed penalty notices for offences under sections 46 and 47](section/47ZA.md)
+    - [s. 47ZB Amount of fixed penalty under section 47ZA](section/47ZB.md)
+    - [s. 47A Recycling and composting: duty to report to Parliament](section/47A.md)
+    - [s. 48 Duties of waste collection authorities as respects disposal of waste collected.](section/48.md)
+    - [s. 49 Waste recycling plans by collection authorities.](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 Functions of waste disposal authorities.](section/51.md)
+    - [s. 52 Payments for recycling and disposal etc. of waste.](section/52.md)
+    - [s. 52A Payments for delivering waste pre-separated](section/52A.md)
+    - [s. 53 Duties of authorities as respects disposal of waste collected: Scotland.](section/53.md)
+    - [s. 54 Special provisions for land occupied by disposal authorities: Scotland.](section/54.md)
+    - [s. 55 Powers for recycling waste.](section/55.md)
+    - [s. 56 Powers for recycling waste: Scotland.](section/56.md)
+    - [s. 57 Power of Secretary of State to require waste to be accepted, treated, disposed of or delivered.](section/57.md)
+    - [s. 58 Power of Secretary of State to require waste to be accepted, treated, disposed of or delivered: Scotland.](section/58.md)
+    - [s. 59 Powers to require removal of waste unlawfully deposited.](section/59.md)
+    - [s. 59ZA Section 59: supplementary power in relation to owner of land](section/59ZA.md)
+    - [s. 59ZB Powers to require removal of waste unlawfully kept or disposed of: England and Wales](section/59ZB.md)
+    - [s. 59ZC Section 59ZB: supplementary power in relation to owner of land](section/59ZC.md)
+    - [s. 59A Directions in relation to exercise of powers under section 59, 59ZA, 59ZB or 59ZC](section/59A.md)
+    - [s. 60 Interference with waste sites and receptacles for waste.](section/60.md)
+    - [s. 61 ................................](section/61.md)
+  - Waste reduction schemes
+    - [s. 60A Waste reduction schemes](section/60A.md)
+  - Hazardous waste and non-controlled waste
+    - [s. 62 Special provision with respect to certain dangerous or intractable waste.](section/62.md)
+    - [s. 62ZA Special provision with respect to hazardous waste in England and Wales](section/62ZA.md)
+    - [s. 62A Lists of waste displaying hazardous properties](section/62A.md)
+    - [s. 63 Waste other than controlled waste.](section/63.md)
+  - Powers of waste collection authority or waste disposal authority in relation to generation of controlled waste
+    - [s. 63A Power to take steps to minimise generation of controlled waste.](section/63A.md)
+  - Publicity
+    - [s. 64 Public registers.](section/64.md)
+    - [s. 65 Exclusion from registers of information affecting national security.](section/65.md)
+    - [s. 66 Exclusion from registers of certain confidential information.](section/66.md)
+    - [s. 67 ................................](section/67.md)
+  - Supervision and enforcement
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 ................................](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 Obtaining of information from persons and authorities.](section/71.md)
+    - [s. 71A Information from authorities on unauthorised or harmful deposit, treatment or disposal etc. of waste: Scotland](section/71A.md)
+    - [s. 72 ................................](section/72.md)
+  - Supplemental
+    - [s. 73 Appeals and other provisions relating to legal proceedings and civil liability.](section/73.md)
+    - [s. 73ZA Use of fixed penalty receipts: England](section/73ZA.md)
+    - [s. 73A Use of fixed penalty receipts: Wales](section/73A.md)
+    - [s. 74 Meaning of “fit and proper person”.](section/74.md)
+    - [s. 75 Meaning of “waste” and household, commercial and industrial waste and hazardous waste.](section/75.md)
+    - [s. 75A Modification of the Waste Framework Directive](section/75A.md)
+    - [s. 76 Application to the Isles of Scilly.](section/76.md)
+    - [s. 77 Transition from Control of Pollution Act 1974 to this Part.](section/77.md)
+    - [s. 78 This Part and radioactive substances.](section/78.md)
+- Part IIA Contaminated Land
+  - [s. 78A Preliminary.](section/78A.md)
+  - [s. 78B Identification of contaminated land.](section/78B.md)
+  - [s. 78C Identification and designation of special sites.](section/78C.md)
+  - [s. 78D Referral of special site decisions to the Secretary of State.](section/78D.md)
+  - [s. 78E Duty of enforcing authority to require remediation of contaminated land etc.](section/78E.md)
+  - [s. 78F Determination of the appropriate person to bear responsibility for remediation.](section/78F.md)
+  - [s. 78G Grant of, and compensation for, rights of entry etc.](section/78G.md)
+  - [s. 78H Restrictions and prohibitions on serving remediation notices.](section/78H.md)
+  - [s. 78J Restrictions on liability relating to the pollution of controlled waters.](section/78J.md)
+  - [s. 78K Liability in respect of contaminating substances which escape to other land.](section/78K.md)
+  - [s. 78L Appeals against remediation notices.](section/78L.md)
+  - [s. 78M Offences of not complying with a remediation notice.](section/78M.md)
+  - [s. 78N Powers of the enforcing authority to carry out remediation.](section/78N.md)
+  - [s. 78P Recovery of, and security for, the cost of remediation by the enforcing authority.](section/78P.md)
+  - [s. 78Q Special sites.](section/78Q.md)
+  - [s. 78QA Land no longer considered to be contaminated](section/78QA.md)
+  - [s. 78R Registers.](section/78R.md)
+  - [s. 78S Exclusion from registers of information affecting national security.](section/78S.md)
+  - [s. 78T Exclusion from registers of certain confidential information.](section/78T.md)
+  - [s. 78TA Registers: removal of information about land designated as special site](section/78TA.md)
+  - [s. 78TB Effect of removal of information from register](section/78TB.md)
+  - [s. 78U Reports by the appropriate Agency on the state of contaminated land.](section/78U.md)
+  - [s. 78V Site-specific guidance by the appropriate Agency concerning contaminated land.](section/78V.md)
+  - [s. 78W The appropriate Agency to have regard to guidance given by the Secretary of State.](section/78W.md)
+  - [s. 78X Supplementary provisions.](section/78X.md)
+  - [s. 78Y Application to the Isles of Scilly.](section/78Y.md)
+  - [s. 78YA Supplementary provisions with respect to guidance by the Secretary of State.](section/78YA.md)
+  - [s. 78YB Interaction of this Part with other enactments.](section/78YB.md)
+  - [s. 78YC This Part and radioactivity.](section/78YC.md)
+- Part III Statutory Nuisances and Clean Air
+  - Statutory nuisances...
+    - [s. 79 Statutory nuisances and inspections therefor.](section/79.md)
+    - [s. 80 Summary proceedings for statutory nuisances.](section/80.md)
+    - [s. 80ZA Fixed penalty notice: supplemental](section/80ZA.md)
+    - [s. 80A Abatement notice in respect of noise in street.](section/80A.md)
+    - [s. 81 Supplementary provisions.](section/81.md)
+    - [s. 81A Expenses recoverable from owner to be a charge on premises.](section/81A.md)
+    - [s. 81B Payment of expenses by instalments.](section/81B.md)
+    - [s. 82 Summary proceedings by persons aggrieved by statutory nuisances.](section/82.md)
+  - Statutory nuisances: Scotland
+    - [s. 83 ................................](section/83.md)
+  - Termination of existing controls over offensive trades and businesses
+    - [s. 84 Termination of Public Health Act controls over offensive trades etc.](section/84.md)
+  - Application to gases of certain Clean Air Act provisions
+    - [s. 85 ................................](section/85.md)
+- Part IV Litter Etc
+  - Provisions relating to litter
+    - [s. 86 Preliminary.](section/86.md)
+    - [s. 87 Offence of leaving litter.](section/87.md)
+    - [s. 88 Fixed penalty notices for leaving litter.](section/88.md)
+    - [s. 88A Littering from vehicles: civil penalty regime](section/88A.md)
+    - [s. 88B Guidance on littering enforcement in England and Wales](section/88B.md)
+    - [s. 88C Littering from a vehicle: Scottish civil penalty regime](section/88C.md)
+    - [s. 88D Littering from a vehicle: consequences of civil penalty charge notice under section 88C](section/88D.md)
+    - [s. 89 Duty to keep land and highways clear of litter etc.](section/89.md)
+    - [s. 90 Litter control areas.](section/90.md)
+    - [s. 91 Summary proceedings by persons aggrieved by litter.](section/91.md)
+    - [s. 92 Summary proceedings by litter authorities](section/92.md)
+    - [s. 92A Litter clearing notices](section/92A.md)
+    - [s. 92B Appeals against litter clearing notices](section/92B.md)
+    - [s. 92C Failure to comply with litter clearing notice](section/92C.md)
+    - [s. 93 Street litter control notices.](section/93.md)
+    - [s. 94 Street litter: supplementary provisions](section/94.md)
+    - [s. 94A Fixed penalty notices relating to sections 92C and 94](section/94A.md)
+    - [s. 94B Free distribution of printed matter](section/94B.md)
+    - [s. 95 Public registers.](section/95.md)
+    - [s. 96 Application of Part II.](section/96.md)
+    - [s. 97 Transitional provision relating to section 89.](section/97.md)
+    - [s. 97A Fixed penalty notices: supplementary](section/97A.md)
+    - [s. 97B Exclusion of liability](section/97B.md)
+    - [s. 98 Definitions.](section/98.md)
+  - Abandoned trolleys
+    - [s. 99 Powers in relation to abandoned shopping and luggage trolleys.](section/99.md)
+- Part V Amendment of the Radioactive Substances Act 1960
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 ................................](section/102.md)
+  - [s. 103 ................................](section/103.md)
+  - [s. 104 ................................](section/104.md)
+  - [s. 105 ................................](section/105.md)
+- Part VI Genetically Modified Organisms
+  - Preliminary
+    - [s. 106 Purpose of Part VI and meaning of “genetically modified organisms” and related expressions.](section/106.md)
+    - [s. 106A Exclusion of precision bred organisms from English application of Part](section/106A.md)
+    - [s. 107 Meaning of “damage to the environment”, “control” and related expressions in Part VI.](section/107.md)
+  - General controls
+    - [s. 108 Risk assessment and notification requirements.](section/108.md)
+    - [s. 109 General duties relating to importation, acquisition, keeping, release or marketing of organisms.](section/109.md)
+    - [s. 110 Prohibition notices.](section/110.md)
+  - Consents
+    - [s. 111 Consents required by certain persons.](section/111.md)
+    - [s. 112 Consents: limitations and conditions.](section/112.md)
+    - [s. 113 Fees and charges.](section/113.md)
+  - Inspectors
+    - [s. 114 Appointment etc of inspectors.](section/114.md)
+    - [s. 115 Rights of entry and inspection.](section/115.md)
+  - Enforcement powers and offences
+    - [s. 116 Obtaining of information from persons.](section/116.md)
+    - [s. 117 Power to deal with cause of imminent danger of damage to the environment.](section/117.md)
+    - [s. 118 Offences.](section/118.md)
+    - [s. 119 Onus of proof as regards techniques and evidence.](section/119.md)
+    - [s. 120 Power of court to order cause of offence to be remedied.](section/120.md)
+    - [s. 121 Power of Secretary of State to remedy harm.](section/121.md)
+  - Publicity
+    - [s. 122 Public register of information.](section/122.md)
+    - [s. 123 Exclusion from register of certain information.](section/123.md)
+  - Supplementary
+    - [s. 124 Advisory committee for purposes of Part VI.](section/124.md)
+    - [s. 125 Delegation of enforcement functions.](section/125.md)
+    - [s. 126 Mode of exercise of certain functions.](section/126.md)
+    - [s. 127 Definitions.](section/127.md)
+- Part VII Nature Conservation in Great Britain and Countryside Matters in Wales
+  - New Councils for England, Scotland and Wales
+    - [s. 128 Creation and constitution of new Councils.](section/128.md)
+    - [s. 129 Grants to the Council](section/129.md)
+  - Countryside matters
+    - [s. 130 Countryside functions of Welsh Council.](section/130.md)
+  - Nature conservation in Great Britain
+    - [s. 131 Nature conservation functions: preliminary.](section/131.md)
+    - [s. 132 General functions of the Council.](section/132.md)
+    - [s. 133 Special functions of Councils.](section/133.md)
+    - [s. 134 Grants and loans by the Council.](section/134.md)
+  - Transfer of property, rights and liabilities to new Councils
+    - [s. 135 Schemes for the transfer of property etc. of the Nature Conservancy Council.](section/135.md)
+    - [s. 136 Transfer to Welsh Council of certain property etc. of Countryside Commission.](section/136.md)
+  - Employment by new Councils of staff of existing bodies
+    - [s. 137 Offers of employment to employees of Nature Conservancy Council and certain employees of Countryside Commission.](section/137.md)
+  - Dissolution of Nature Conservancy Council
+    - [s. 138 Winding up and dissolution of Nature Conservancy Council.](section/138.md)
+  - Transitional provisions and savings
+    - [s. 139 Transitional provisions and savings.](section/139.md)
+- Part VIII Miscellaneous
+  - Other controls on substances, articles or waste
+    - [s. 140 Power to prohibit or restrict the importation, use, supply or storage of injurious substances or articles.](section/140.md)
+    - [s. 141 Power to regulate the importation or exportation of waste or the transit of waste for export.](section/141.md)
+    - [s. 142 Powers to obtain information about potentially hazardous substances.](section/142.md)
+    - [s. 143 ................................](section/143.md)
+    - [s. 144 Amendments of hazardous substances legislation.](section/144.md)
+    - [s. 145 Penalties for offences of polluting controlled waters etc.](section/145.md)
+  - Pollution at sea
+    - [s. 146 Deposits of substances and articles in the sea, etc.](section/146.md)
+    - [s. 147 Public registers relating to deposits in the sea and incineration at sea.](section/147.md)
+    - [s. 148 ................................](section/148.md)
+  - Control of Dogs
+    - [s. 149 Seizure of stray dogs.](section/149.md)
+    - [s. 150 Delivery of stray dogs to... local authority officer.](section/150.md)
+    - [s. 151 Enforcement of orders about collars and tags for dogs.](section/151.md)
+  - Straw and stubble burning
+    - [s. 152 Burning of straw and stubble etc.](section/152.md)
+  - Environmental expenditure
+    - [s. 153 Financial assistance for environmental purposes.](section/153.md)
+    - [s. 154 The Groundwork Foundation: superannuation.](section/154.md)
+    - [s. 155 Remuneration of chairman of Inland Waterways Amenity Advisory Council.](section/155.md)
+- Part IX General
+  - [s. 156 Power to give effect to assimilated obligations and international obligations etc.](section/156.md)
+  - [s. 157 Offences by bodies corporate.](section/157.md)
+  - [s. 158 Offences under Parts I, II, IV, VI, etc. due to fault of others.](section/158.md)
+  - [s. 159 Application to Crown.](section/159.md)
+  - [s. 160 Service of notices.](section/160.md)
+  - [s. 160A Regulations and orders](section/160A.md)
+  - [s. 161 Directions](section/161.md)
+  - [s. 162 Consequential and minor amendments and repeals.](section/162.md)
+  - [s. 163 Financial provisions.](section/163.md)
+  - [s. 163A Application of Part VI: England and Wales](section/163A.md)
+  - [s. 164 Short title, commencement and extent.](section/164.md)
+- SCHEDULE 1 AUTHORISATIONS FOR PROCESSES: SUPPLEMENTARY PROVISIONS
+  - Part I Grant of Authorisations
+    - Applications for authorisations
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- Waste Disposal Authorities and Companies
+  - Transition to Companies
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Provisions Regulating Waste Disposal Authorities and Companies
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+- Schedule 2A
+- SCHEDULE 2AA Waste reduction schemes
+  - Introductory
+    - [Sch. 2AA para. 1](schedule/2AA/paragraph/1.md)
+  - Conditions for making waste reduction scheme
+    - [Sch. 2AA para. 2](schedule/2AA/paragraph/2.md)
+  - Incentive under waste reduction scheme
+    - [Sch. 2AA para. 3](schedule/2AA/paragraph/3.md)
+  - Charges in respect of residual domestic waste
+    - [Sch. 2AA para. 4](schedule/2AA/paragraph/4.md)
+  - Charging: supplementary provisions
+    - [Sch. 2AA para. 5](schedule/2AA/paragraph/5.md)
+  - Requirement of revenue neutrality
+    - [Sch. 2AA para. 6](schedule/2AA/paragraph/6.md)
+  - Procedure for putting scheme in place
+    - [Sch. 2AA para. 7](schedule/2AA/paragraph/7.md)
+  - Appeals
+    - [Sch. 2AA para. 8](schedule/2AA/paragraph/8.md)
+  - Separate account to be kept
+    - [Sch. 2AA para. 9](schedule/2AA/paragraph/9.md)
+  - Contributions by waste disposal authority
+    - [Sch. 2AA para. 10](schedule/2AA/paragraph/10.md)
+  - Power to make provision as to administration etc
+    - [Sch. 2AA para. 11](schedule/2AA/paragraph/11.md)
+  - Use of information obtained for council tax purposes
+    - [Sch. 2AA para. 12](schedule/2AA/paragraph/12.md)
+  - Amendment or revocation of waste reduction scheme
+    - [Sch. 2AA para. 13](schedule/2AA/paragraph/13.md)
+  - Guidance
+    - [Sch. 2AA para. 14](schedule/2AA/paragraph/14.md)
+  - Interpretation
+    - [Sch. 2AA para. 15](schedule/2AA/paragraph/15.md)
+  - Orders and regulations
+    - [Sch. 2AA para. 16](schedule/2AA/paragraph/16.md)
+    - [Sch. 2B para. 1](schedule/2B/paragraph/1.md)
+    - [Sch. 2B para. 2](schedule/2B/paragraph/2.md)
+    - [Sch. 2B para. 3](schedule/2B/paragraph/3.md)
+    - [Sch. 2B para. 4](schedule/2B/paragraph/4.md)
+    - [Sch. 2B para. 5](schedule/2B/paragraph/5.md)
+    - [Sch. 2B para. 6](schedule/2B/paragraph/6.md)
+    - [Sch. 2B para. 7](schedule/2B/paragraph/7.md)
+    - [Sch. 2B para. 8](schedule/2B/paragraph/8.md)
+    - [Sch. 2B para. 9](schedule/2B/paragraph/9.md)
+    - [Sch. 2B para. 10](schedule/2B/paragraph/10.md)
+    - [Sch. 2B para. 11](schedule/2B/paragraph/11.md)
+    - [Sch. 2B para. 12](schedule/2B/paragraph/12.md)
+    - [Sch. 2B para. 13](schedule/2B/paragraph/13.md)
+    - [Sch. 2B para. 14](schedule/2B/paragraph/14.md)
+    - [Sch. 2B para. 15](schedule/2B/paragraph/15.md)
+    - [Sch. 2B para. 16](schedule/2B/paragraph/16.md)
+- SCHEDULE 3 Statutory Nuisances: Supplementary Provisions
+  - Appeals to magistrates’ court
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 1A Appeals to Sheriff](schedule/3/paragraph/1A.md)
+  - Powers of entry etc
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+  - Offences relating to entry
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Default powers
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Protection from personal liability
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Statement of right of appeal in notices
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 3A Free distribution of printed matter on designated land
+  - Offence of unauthorised distribution
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Designation
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Consent and conditions
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Fees
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Appeals
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Seizure of material
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Fixed penalty notices
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Supplementary
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+- SCHEDULE 4 Abandoned Shopping and Luggage Trolleys
+  - Application
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Power to seize and remove trolleys
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Retention, return and disposal of trolleys
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - Charges
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Definitions
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 ...
+  - Part I Miscellaneous and Consequential Amendments
+    - Amendments relating to appointment of chief inspector
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Amendments consequential on the introduction of fees and charges
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Documents to be sent to local authorities
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Mobile radioactive apparatus
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Site and disposal records
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Hearings in connection with certain authorisations
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Appeals against certain other decisions of the chief inspector
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Period within which applications under Act to be determined
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Directions to chief inspector
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Inspectors: powers and protection
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Offences under 1960 Act
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Public access to certain information
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Expenses and receipts
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Meaning of “radioactive material” for purposes of 1960 Act
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Part II Amendments relating to Scotland and Northern Ireland
+    - Scotland
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Northern Ireland
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 The Countryside Council for Wales: Constitution.
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Constitution and membership
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Remuneration and allowances for members of council
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Staff
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Proceedings
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Delegation of powers
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Committees
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Documents
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Public Records
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Land
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Reports, accounts et ceteralaetc.
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Superannuation Act 1965 (c. 74)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+- SCHEDULE 7
+  - Preliminary
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Membership
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Remuneration and allowances for members
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Staff etc. and expenses
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Proceedings
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Delegation of functions
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Annual reports
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 Amendment of Enactments relating to Countryside Matters
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Countryside Act 1968 (c. 41)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Local Government Act 1972 (c.70)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Local Government Act 1974 (c.7)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - The Road Traffic Regulation Act 1984 (c.27)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - The Water Act 1989 (c. 15)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 Amendment of Enactments conferring Nature Conservancy Functions
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Deer (Scotland) Act 1959 (c. 40)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Deer Act 1963 (c. 36)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Conservation of Seals Act 1970 (c. 30)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Badgers Act 1973 (c. 57)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Import of Live Fish (Scotland) Act 1978 (c. 35)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Import of Live Fish (England and Wales) Act 1980 (c. 27)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Animal Health Act 1981 (c. 22)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Roads (Scotland) Act 1984 (c. 54)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Agriculture Act 1986 (c. 49)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Channel Tunnel Act 1987 (c. 53)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Water Act 1989 (c. 15)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+- SCHEDULE 10
+  - Part I Transfer Schemes: Nature Conservancy Council
+    - Making and approval of schemes
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Modification of schemes
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Provision of information to Secretary of State
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Contents of schemes
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Part II Transfer Schemes: The Countryside Commission
+    - Making and approval of schemes
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Modification of schemes
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Provision of information to Secretary of State
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Contents of schemes
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Part III Employment of staff of Existing Bodies
+    - Proposals for staff of Nature Conservancy Council
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Proposals for certain staff of the Countryside Commission
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Offers of employment
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Continuity of employment, redundancy etc.
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Disputes
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+- SCHEDULE 11 Transitional Provisions and Savings for Part VII
+  - Part I Countryside Functions
+    - Preliminary
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Continuity of exercise of functions
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Construction of references to the Countryside Commission
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Existing areas of outstanding natural beauty and long distance routes
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Part II Nature Conservation Functions
+    - Preliminary
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Continuity of exercise of functions
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Construction of references to the Nature Conservancy Council
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Pensions for Nature Conservancy Council staff
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Existing nature reserves and areas of special scientific interest
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Part III Supplementary
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+- SCHEDULE 12 Injurious or Hazardous Substances: Advisory Committee
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Amendments of Hazardous Substances Legislation
+  - Part I England and Wales
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Part II Scotland
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+- SCHEDULE 14 Amendments of the Prevention of Oil Pollution Act 1971
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+- SCHEDULE 15 Consequential and Minor Amendments of Enactments
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Exclusion of Alkali Works Act for prescribed processes
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Stray dogs
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Statutory nuisances
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Exclusion of Clean Air Act 1956 for prescribed processes
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Statutory nuisances
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Goods vehicle operators’ licences: pollution offences
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - National Park Wardens
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Exclusion of Clean Air Act 1968 for prescribed processes
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Sale of electricity: Scotland
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - Workplace emissions into the air
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - Water, noise and atmospheric pollution
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - Exclusion of Part II of Control of Pollution Act 1974 for radioactive substances: Scotland
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - Statutory nuisances
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - Refuse Disposal: Scotland
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - Street cleansing: Scotland
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+  - Byelaws relating to straw or stubble burning
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+  - Functions assignable to London port health authority
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - Street cleaning, etc: restriction of traffic
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - Statutory nuisance
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - Registers of deposits etc. at sea: Northern Ireland Assembly control of regulations
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+  - Constitution of authorities for waste disposal
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+  - Meaning of household waste: competition
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+  - Exclusion of Water Act 1989 controls of exercise of trade effluent functions in case of prescribed processes
+    - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+  - Exclusion of Part III of Water Act 1989 for discharges from prescribed processes
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+  - Contents of registers of National Rivers Authority
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+  - Carriers of controlled waste
+    - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+- SCHEDULE 16 Repeals
+  - Part I Enactments Relating to Processes
+  - Part II Enactments Relating to Waste on Land
+  - Part III Enactments Relating to Statutory Nuisances
+  - Part IV Enactments Relating to Litter
+  - Part V Enactments Relating to Radioactive Substances
+  - Part VI Enactments Relating to Nature Conservation and Countryside Matters
+  - Part VII Enactments Relating to Hazardous Substances
+  - Part VIII Enactments Relating to Deposits at Sea
+  - Part IX Miscellaneous Enactments
