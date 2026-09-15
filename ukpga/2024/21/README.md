@@ -1,0 +1,161 @@
+# Victims and Prisoners Act 2024
+
+2024 c. 21. Enacted 2024-05-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
+
+Source: https://www.legislation.gov.uk/ukpga/2024/21/2026-09-15
+
+## Contents
+
+- Part 1 Victims of criminal conduct
+  - Meaning of “victim”
+    - [s. 1 Meaning of “victim”](section/1.md)
+  - Victims’ code
+    - [s. 2 The victims’ code](section/2.md)
+    - [s. 3 Preparing and issuing the victims’ code](section/3.md)
+    - [s. 4 Revising the victims’ code](section/4.md)
+    - [s. 5 Code compliance](section/5.md)
+    - [s. 6 Code awareness and reviewing compliance: criminal justice bodies](section/6.md)
+    - [s. 7 Arrangements for collection of victims’ feedback](section/7.md)
+    - [s. 8 Reviewing code compliance: elected local policing bodies](section/8.md)
+    - [s. 9 Code awareness and reviewing compliance: British Transport Police](section/9.md)
+    - [s. 10 Code awareness and reviewing compliance: Ministry of Defence Police](section/10.md)
+    - [s. 11 Reviewing code compliance: Secretary of State and Attorney General](section/11.md)
+    - [s. 12 Guidance on code awareness and reviewing compliance](section/12.md)
+  - Collaboration in exercise of victim support functions
+    - [s. 13 Duty to collaborate in exercise of victim support functions](section/13.md)
+    - [s. 14 Strategy for collaboration in exercise of victim support functions](section/14.md)
+    - [s. 15 Guidance on collaboration in exercise of victim support functions](section/15.md)
+  - Guidance about specified victim support roles
+    - [s. 16 Guidance about specified victim support roles](section/16.md)
+  - Disclosures by victims that cannot be precluded by agreement
+    - [s. 17 Disclosures by victims that cannot be precluded by agreement](section/17.md)
+  - Victims of domestic abuse
+    - [s. 18 Restricting parental responsibility where one parent kills the other](section/18.md)
+    - [s. 19 Domestic abuse related death reviews](section/19.md)
+    - [s. 20 Child victims of domestic abuse](section/20.md)
+  - Victim impact statements to mental health tribunals (restricted patients)
+    - [s. 21 Victim impact statements to mental health tribunals (restricted patients)](section/21.md)
+  - Victims’ Commissioner
+    - [s. 22 Commissioner for Victims and Witnesses](section/22.md)
+  - Inspections by criminal justice inspectorates
+    - [s. 23 His Majesty’s Chief Inspector of Prisons](section/23.md)
+    - [s. 24 His Majesty’s Chief Inspector of Constabulary](section/24.md)
+    - [s. 25 His Majesty’s Chief Inspector of the Crown Prosecution Service](section/25.md)
+    - [s. 26 His Majesty’s Chief Inspector of Probation for England and Wales](section/26.md)
+  - Parliamentary Commissioner for Administration
+    - [s. 27 Parliamentary Commissioner for Administration](section/27.md)
+  - Information relating to victims
+    - [s. 28 Information relating to victims](section/28.md)
+    - [s. 29 Information relating to victims: service police etc](section/29.md)
+    - [s. 30 Review of provisions relating to counselling information requests](section/30.md)
+    - [s. 31 Right to erasure of personal data in the UK](section/31.md)
+  - Data protection
+    - [s. 32 Data protection](section/32.md)
+  - Consequential provision
+    - [s. 33 Consequential provision](section/33.md)
+- Part 2 Victims of major incidents
+  - Meaning of “major incident” etc
+    - [s. 34 Meaning of “major incident” etc](section/34.md)
+  - Appointment of advocates
+    - [s. 35 Appointment of standing advocate](section/35.md)
+    - [s. 36 Appointment of advocates in respect of major incidents](section/36.md)
+    - [s. 37 Terms of appointment](section/37.md)
+    - [s. 38 Appointment of more than one advocate in respect of same major incident](section/38.md)
+  - Functions and powers of advocates in respect of major incidents
+    - [s. 39 Functions of advocates appointed in respect of major incidents](section/39.md)
+    - [s. 40 Role of advocates under Part 1 of the Coroners and Justice Act 2009](section/40.md)
+  - Functions and powers of advocates: general
+    - [s. 41 Reports to the Secretary of State](section/41.md)
+    - [s. 42 Publication of reports](section/42.md)
+    - [s. 43 Information sharing and data protection](section/43.md)
+  - Guidance for advocates
+    - [s. 44 Guidance for advocates](section/44.md)
+  - Consequential amendments
+    - [s. 45 Consequential amendments](section/45.md)
+  - Reviews
+    - [s. 46 Review of duty of candour in relation to major incidents](section/46.md)
+    - [s. 47 Review of operation of Part 2](section/47.md)
+- Part 3 Infected blood compensation
+  - [s. 48 Infected Blood Compensation Authority](section/48.md)
+  - [s. 49 Infected blood compensation scheme](section/49.md)
+  - [s. 50 Payments](section/50.md)
+  - [s. 51 Applications and procedure](section/51.md)
+  - [s. 52 Reviews and appeals](section/52.md)
+  - [s. 53 Information: infected blood compensation scheme](section/53.md)
+  - [s. 54 Duty to co-operate with the IBCA](section/54.md)
+  - [s. 55 Provision of support and assistance](section/55.md)
+  - [s. 56 Payments to personal representatives of qualifying infected persons](section/56.md)
+  - [s. 57 Information: payments to personal representatives](section/57.md)
+- Part 4 Prisoners
+  - Public protection decisions
+    - [s. 58 Public protection decisions: life prisoners](section/58.md)
+    - [s. 59 Public protection decisions: fixed-term prisoners](section/59.md)
+    - [s. 60 Amendment of power to change test for release on licence of certain prisoners](section/60.md)
+  - Referral of release decisions
+    - [s. 61 Referral of release decisions: life prisoners](section/61.md)
+    - [s. 62 Referral of release decisions: fixed-term prisoners](section/62.md)
+  - Licence conditions on release following referral
+    - [s. 63 Licence conditions of life prisoners released following referral](section/63.md)
+    - [s. 64 Licence conditions of fixed-term prisoners released following referral](section/64.md)
+  - Assessing etc risks posed by controlling or coercive offenders
+    - [s. 65 Assessing etc risks posed by controlling or coercive offenders](section/65.md)
+  - Imprisonment or detention for public protection
+    - [s. 66 Imprisonment or detention for public protection](section/66.md)
+    - [s. 67 Imprisonment or detention for public protection: annual report](section/67.md)
+  - Extension of home detention curfew
+    - [s. 68 Extension of home detention curfew](section/68.md)
+  - Application of Convention rights
+    - [s. 69 Section 3 of the Human Rights Act 1998: life prisoners](section/69.md)
+    - [s. 70 Section 3 of the Human Rights Act 1998: fixed-term prisoners](section/70.md)
+    - [s. 71 Section 3 of the Human Rights Act 1998: power to change release test](section/71.md)
+    - [s. 72 Application of certain Convention rights in prisoner release cases](section/72.md)
+  - The Parole Board
+    - [s. 73 Parole Board rules](section/73.md)
+    - [s. 74 Parole Board membership](section/74.md)
+  - Whole life prisoners prohibited from forming a marriage or civil partnership
+    - [s. 75 Whole life prisoners prohibited from forming a marriage](section/75.md)
+    - [s. 76 Whole life prisoners prohibited from forming a civil partnership](section/76.md)
+- Part 5 General
+  - [s. 77 Financial provision](section/77.md)
+  - [s. 78 Power to make consequential provision](section/78.md)
+  - [s. 79 Regulations](section/79.md)
+  - [s. 80 Extent](section/80.md)
+  - [s. 81 Commencement](section/81.md)
+  - [s. 82 Short title](section/82.md)
+- Schedule 1 Infected Blood Compensation Authority
+  - Part 1 Constitution
+    - [Sch. 1 para. 1 Membership](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Appointment of non-executive members](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Appointment of executive members](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Appointments of members: eligibility](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Terms of membership](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Non-executive members: payments](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Staffing](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Interim chief executive](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Committees and sub-committees](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Procedure](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Exercise of functions](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Funding](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Annual report](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Accounts and audit](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Meaning of “financial year”](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Provision of information](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Status](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Seal and evidence](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Supplementary powers](schedule/1/paragraph/19.md)
+  - Part 2 Transfer schemes
+    - [Sch. 1 para. 20 Power to make transfer schemes](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 Tax treatment of transfer schemes](schedule/1/paragraph/21.md)
+  - Part 3 Amendments
+    - [Sch. 1 para. 22 Public Records Act 1958 (c. 51)](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Public Bodies (Admission to Meetings) Act 1960 (c. 67)](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 Parliamentary Commissioner Act 1967 (c. 13)](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25 House of Commons Disqualification Act 1975 (c. 24)](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26 Northern Ireland Assembly Disqualification Act 1975 (c. 25)](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27 Freedom of Information Act 2000 (c. 36)](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28 Equality Act 2010 (c. 15)](schedule/1/paragraph/28.md)
+- Schedule 2 Offences relevant to public protection decisions
