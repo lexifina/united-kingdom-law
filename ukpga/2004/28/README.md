@@ -1,0 +1,355 @@
+# Domestic Violence, Crime and Victims Act 2004
+
+2004 c. 28. Enacted 2004-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 172 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/28
+
+Source: https://www.legislation.gov.uk/ukpga/2004/28/2026-09-15
+
+## Contents
+
+- Part 1 Domestic violence etc
+  - Amendments to Part 4 of the Family Law Act 1996
+    - [s. 1 Breach of non-molestation order to be a criminal offence](section/1.md)
+    - [s. 2 Additional considerations if parties are cohabitants or former cohabitants](section/2.md)
+    - [s. 3 “Cohabitants” in Part 4 of 1996 Act to include same-sex couples](section/3.md)
+    - [s. 4 Extension of Part 4 of 1996 Act to non-cohabiting couples](section/4.md)
+  - Causing or allowing a child or vulnerable adult to die or suffer serious physical harm
+    - [s. 5 The offence](section/5.md)
+    - [s. 6 Evidence and procedure in cases of death: England and Wales](section/6.md)
+    - [s. 6A Evidence and procedure in cases of serious physical harm: England and Wales](section/6A.md)
+    - [s. 7 Evidence and procedure in cases of death: Northern Ireland](section/7.md)
+    - [s. 7A Evidence and procedure in cases of serious physical harm: Northern Ireland](section/7A.md)
+    - [s. 8 Evidence and procedure: the Court Martial](section/8.md)
+  - Domestic abuse related death reviews
+    - [s. 8A Establishment and conduct of reviews](section/8A.md)
+  - Domestic homicide reviews
+    - [s. 9 Establishment and conduct of reviews](section/9.md)
+- Part 2 Criminal Justice
+  - Assault, harassment etc
+    - [s. 10 Common assault to be an arrestable offence](section/10.md)
+    - [s. 11 Common assault etc as alternative verdict](section/11.md)
+    - [s. 12 Restraining orders: England and Wales](section/12.md)
+    - [s. 13 Restraining orders: Northern Ireland](section/13.md)
+  - Surcharges
+    - [s. 14 Surcharge payable on conviction](section/14.md)
+    - [s. 15 Increase in maximum on-the-spot penalty for disorderly behaviour](section/15.md)
+    - [s. 16 Higher fixed penalty for repeated road traffic offences](section/16.md)
+  - Trial by jury of sample counts only
+    - [s. 17 Application by prosecution for certain counts to be tried without a jury](section/17.md)
+    - [s. 18 Procedure for applications under section 17](section/18.md)
+    - [s. 19 Effect of order under section 17(2)](section/19.md)
+    - [s. 20 Rules of court](section/20.md)
+    - [s. 21 Application of sections 17 to 20 to Northern Ireland](section/21.md)
+  - Unfitness to plead and insanity
+    - [s. 22 Procedure for determining fitness to plead: England and Wales](section/22.md)
+    - [s. 23 Procedure for determining fitness to be tried: Northern Ireland](section/23.md)
+    - [s. 24 Powers of court on finding of insanity or unfitness to plead etc](section/24.md)
+    - [s. 25 Appeal against order made on finding of insanity or unfitness to plead etc](section/25.md)
+    - [s. 26 Courts-martial etc](section/26.md)
+  - Miscellaneous
+    - [s. 27 Powers of authorised officers executing warrants](section/27.md)
+    - [s. 28 Disclosure orders for purpose of executing warrants](section/28.md)
+    - [s. 29 Procedure on breach of community penalty etc](section/29.md)
+    - [s. 30 Prosecution appeals](section/30.md)
+    - [s. 31 Intermittent custody](section/31.md)
+- Part 3 Victims etc
+  - Chapter 1 The victims’ code
+    - [s. 32 Code of practice for victims](section/32.md)
+    - [s. 33 Procedure](section/33.md)
+    - [s. 34 Effect of non-compliance](section/34.md)
+  - Chapter 2 Representations and information
+  - Chapter 3 Other matters relating to victims etc
+- Part 3A Victims’ rights to make representations and receive information etc
+  - Chapter 1 Representations and information
+    - Imprisonment or detention
+      - [s. 35 Victims’ rights to make representations and receive information](section/35.md)
+    - Hospital orders
+      - [s. 36 Victims’ rights: preliminary](section/36.md)
+      - [s. 36A Supplemental provision for case where no restriction order made](section/36A.md)
+      - [s. 37 Representations where restriction order made](section/37.md)
+      - [s. 37ZA Victim impact statements where restriction order made](section/37ZA.md)
+      - [s. 37A Representations where restriction order not made](section/37A.md)
+      - [s. 38 Information where restriction order made](section/38.md)
+      - [s. 38A Information where restriction order not made](section/38A.md)
+      - [s. 38B Removal of restriction](section/38B.md)
+    - Hospital directions
+      - [s. 39 Victims’ rights: preliminary](section/39.md)
+      - [s. 40 Representations](section/40.md)
+      - [s. 41 Information](section/41.md)
+      - [s. 41A Removal of restriction](section/41A.md)
+    - Transfer directions
+      - [s. 42 Victims’ rights: preliminary](section/42.md)
+      - [s. 42A Supplemental provision for case where no restriction direction given](section/42A.md)
+      - [s. 43 Representations where restriction direction made](section/43.md)
+      - [s. 43A Representations where restriction direction not given](section/43A.md)
+      - [s. 44 Information where restriction direction made](section/44.md)
+      - [s. 44A Information where restriction direction not given](section/44A.md)
+      - [s. 44B Removal of restriction](section/44B.md)
+  - Chapter 2 Information: victims’ rights
+    - Imprisonment or detention
+      - [s. 44C Victims’ rights to receive information](section/44C.md)
+    - Hospital orders
+      - [s. 44D Information where restriction order made](section/44D.md)
+      - [s. 44E Victim impact statements where restriction order made](section/44E.md)
+      - [s. 44F Information where restriction order not made](section/44F.md)
+      - [s. 44G Removal of restriction](section/44G.md)
+    - Hospital directions
+      - [s. 44H Information](section/44H.md)
+      - [s. 44I Removal of restriction](section/44I.md)
+    - Transfer directions
+      - [s. 44J Information where restriction direction given](section/44J.md)
+      - [s. 44K Information where restriction direction not given](section/44K.md)
+      - [s. 44L Removal of restriction](section/44L.md)
+  - Chapter 3 Information: powers etc
+    - [s. 44M Power to disclose information to victims](section/44M.md)
+    - [s. 44N Victim impact statements where hospital order made with restriction order](section/44N.md)
+    - [s. 44O Saving for other powers of provider of probation services](section/44O.md)
+  - Chapter 4 Interpretation etc
+    - ...
+      - [s. 45 Interpretation: sections 35 to 44B](section/45.md)
+    - Northern Ireland
+      - [s. 46 Victims of mentally disordered persons](section/46.md)
+- Part 3B Other matters relating to victims etc
+  - Parliamentary Commissioner
+    - [s. 47 Investigations by Parliamentary Commissioner](section/47.md)
+  - Commissioner for Victims and Witnesses
+    - [s. 48 Commissioner for Victims and Witnesses](section/48.md)
+    - [s. 49 General functions of Commissioner](section/49.md)
+    - [s. 49A Duty to respond to Commissioner’s recommendations](section/49A.md)
+    - [s. 50 Advice](section/50.md)
+    - [s. 51 Restrictions on exercise of functions](section/51.md)
+    - [s. 51A Duty to co-operate with Commissioner](section/51A.md)
+    - [s. 52 “Victims” and “witnesses”](section/52.md)
+    - [s. 53 Authorities within Commissioner’s remit](section/53.md)
+  - Disclosure of information
+    - [s. 54 Disclosure of information](section/54.md)
+  - ...
+    - [s. 55 Victims’ Advisory Panel](section/55.md)
+  - Grants
+    - [s. 56 Grants for assisting victims, witnesses etc](section/56.md)
+  - Criminal injuries compensation
+    - [s. 57 Recovery of criminal injuries compensation from offenders](section/57.md)
+- Part 4 Supplementary
+  - [s. 58 Amendments and repeals](section/58.md)
+  - [s. 59 Transitional and transitory provisions](section/59.md)
+  - [s. 60 Commencement](section/60.md)
+  - [s. 61 Orders](section/61.md)
+  - [s. 62 Extent](section/62.md)
+  - [s. 63 Short title](section/63.md)
+- SCHEDULE 1 Modification of sections 17 to 20 for Northern Ireland
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Supervision orders on finding of insanity or unfitness to plead etc
+- SCHEDULE 3 Unfitness to stand trial and insanity: courts-martial etc
+  - Army Act 1955 (3 & 4 Eliz. 2 c. 18) and Air Force Act 1955 (3 & 4 Eliz. 2 c. 19)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Naval Discipline Act 1957 (c. 53)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Courts-Martial (Appeals) Act 1968 (c. 20)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Powers of authorised officers executing warrants
+- SCHEDULE 5 Procedure on breach of community penalty etc
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Detention and training orders
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Suspended sentence supervision orders
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Community orders under the Sentencing Act
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Curfew orders and exclusion orders
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Attendance centre orders
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Community orders under the 2003 Act
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Suspended sentence orders under the 2003 Act
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Local justice areas
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Intermittent custody
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Investigations by Parliamentary Commissioner
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8
+- SCHEDULE 9 Authorities within Commissioner’s remit
+  - Government departments
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Customs and Excise
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Police forces etc
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 11A](schedule/9/paragraph/11A.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 16A](schedule/9/paragraph/16A.md)
+  - Criminal injuries compensation
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - Health and safety
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 20A](schedule/9/paragraph/20A.md)
+  - Legal services
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Court administration
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - Criminal justice system
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 25A](schedule/9/paragraph/25A.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 29A](schedule/9/paragraph/29A.md)
+    - [Sch. 9 para. 29B](schedule/9/paragraph/29B.md)
+    - [Sch. 9 para. 29C](schedule/9/paragraph/29C.md)
+  - Maritime and coastguards
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+- SCHEDULE 10 Minor and consequential amendments
+  - Colonial Prisoners Removal Act 1884 (c. 31)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Criminal Procedure (Insanity) Act 1964 (c. 84)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Children and Young Persons Act (Northern Ireland) 1968 (c. 34 (N.I.))
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Juries Act 1974 (c. 23)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Supreme Court Act 1981 (c. 54)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Criminal Justice Act 1982 (c. 48)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+  - Coroners Act 1988 (c. 13)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+  - Criminal Appeal Act 1995 (c. 35)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+  - Law Reform (Year and a Day Rule) Act 1996 (c. 19)
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Family Law Act 1996 (c. 27)
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+    - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+    - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+  - Protection from Harassment Act 1997 (c. 40)
+    - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+    - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+  - Crime (Sentences) Act 1997 (c. 43)
+    - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+    - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+  - Protection from Harassment (Northern Ireland) Order 1997 (S.I. 1997/1180 (N.I. 9))
+    - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+    - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+    - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+    - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+    - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+    - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+    - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+    - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+    - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+    - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+    - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+    - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+    - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+    - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+    - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+- SCHEDULE 11 Repeals
+- SCHEDULE 12 Transitional and transitory provisions
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
