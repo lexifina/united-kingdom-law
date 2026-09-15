@@ -1,0 +1,112 @@
+# Air Departure Tax (Scotland) Act 2017
+
+asp/2017/2. Enacted 2017-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2017/2/2026-09-15
+
+## Contents
+
+- PART 1 AIR DEPARTURE TAX
+  - [s. 1 Air departure tax](section/1.md)
+- PART 2 KEY CONCEPTS
+  - Chargeable passengers and exemptions
+    - [s. 2 Meaning of chargeable passenger](section/2.md)
+    - [s. 3 Passengers not carried for reward](section/3.md)
+    - [s. 4 Passengers under the age of 16](section/4.md)
+    - [s. 5 Passengers carried on connected flights](section/5.md)
+    - [s. 6 NATO passengers](section/6.md)
+    - [s. 7 Changes of circumstance beyond passengers’ control](section/7.md)
+  - Chargeable aircraft and exemptions
+    - [s. 8 Meaning of chargeable aircraft](section/8.md)
+    - [s. 9 Aircraft used under public service obligation](section/9.md)
+    - [s. 10 Aircraft used for military, emergency, training or research flights](section/10.md)
+  - Other key concepts
+    - [s. 11 Meaning of flight](section/11.md)
+    - [s. 12 Meaning of carriage and agreement for carriage](section/12.md)
+    - [s. 13 Meaning of maximum passenger capacity and maximum take-off weight](section/13.md)
+    - [s. 14 Meaning of standard class travel](section/14.md)
+  - Modification of key concepts
+    - [s. 15 Key concepts may be modified by regulations](section/15.md)
+- PART 3 TAX RATES
+  - [s. 16 Tax structure](section/16.md)
+  - [s. 17 Tax bands and tax rate amounts to be set by regulations](section/17.md)
+- PART 4 PAYMENT, COLLECTION AND MANAGEMENT OF TAX
+  - Liability for tax
+    - [s. 18 Taxable activity](section/18.md)
+    - [s. 19 Taxable persons](section/19.md)
+  - Registration
+    - [s. 20 Revenue Scotland to keep ADT register](section/20.md)
+    - [s. 21 Duty to register for tax](section/21.md)
+    - [s. 22 Duty to deregister for tax](section/22.md)
+  - Tax returns
+    - [s. 23 Duty to make returns and pay tax](section/23.md)
+    - [s. 24 Quarterly returns](section/24.md)
+    - [s. 25 Occasional returns](section/25.md)
+    - [s. 26 Form and content of returns](section/26.md)
+    - [s. 27 Special accounting schemes](section/27.md)
+  - Tax representatives
+    - [s. 28 Duty to have tax representative](section/28.md)
+    - [s. 29 Fiscal and administrative tax representatives](section/29.md)
+    - [s. 30 Fiscal tax representatives: powers, duties and liabilities](section/30.md)
+    - [s. 31 Administrative tax representatives: powers, duties and limits on liability](section/31.md)
+    - [s. 32 Eligibility to be tax representative](section/32.md)
+    - [s. 33 Duration of tax representative appointments](section/33.md)
+    - [s. 34 Duty to notify Revenue Scotland if appointment ceases to have effect](section/34.md)
+  - Provision of security
+    - [s. 35 Security required by individual directions](section/35.md)
+    - [s. 36 Security required by general directions](section/36.md)
+  - Handling agents
+    - [s. 37 Meaning of handle and handling agent](section/37.md)
+    - [s. 38 Liability of handling agents](section/38.md)
+  - Communications with Revenue Scotland
+    - [s. 39 Communications with Revenue Scotland](section/39.md)
+    - [s. 40 Inaccuracies in information provided to Revenue Scotland](section/40.md)
+  - Modification of administrative provisions
+    - [s. 41 Administrative provisions may be modified by regulations](section/41.md)
+- PART 5 FINAL PROVISIONS
+  - [s. 42 Regulations](section/42.md)
+  - [s. 43 Ancillary provision](section/43.md)
+  - [s. 44 Interpretation](section/44.md)
+  - [s. 45 Minor and consequential modifications](section/45.md)
+  - [s. 46 Crown application](section/46.md)
+  - [s. 47 Index of defined expressions](section/47.md)
+  - [s. 48 Commencement](section/48.md)
+  - [s. 49 Short title](section/49.md)
+- SCHEDULE 1 CONNECTED FLIGHT RULES
+  - Rules determining when domestic flight is connected flight
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Rules determining when international flight is connected flight
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Application of connected flight rules in case of error on ticket
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL MODIFICATIONS TO REVENUE SCOTLAND AND TAX POWERS ACT 2014
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 INDEX OF DEFINED EXPRESSIONS
