@@ -1,0 +1,1222 @@
+# Government of Wales Act 2006
+
+2006 c. 32. Enacted 2006-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 27 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/32
+
+Source: https://www.legislation.gov.uk/ukpga/2006/32/2026-09-16
+
+## Contents
+
+- Part A1 Permanence of the Senedd and Welsh Government
+  - [s. A1 Permanence of the Senedd and Welsh Government](section/A1.md)
+  - [s. A2 Recognition of Welsh law](section/A2.md)
+- Part 1 Senedd Cymru
+  - The Senedd
+    - [s. 1 The Senedd](section/1.md)
+    - [s. 2 Senedd constituencies](section/2.md)
+  - General elections
+    - [s. 3 Ordinary general elections](section/3.md)
+    - [s. 4 Power to vary date of ordinary general election](section/4.md)
+    - [s. 5 Extraordinary general elections](section/5.md)
+    - [s. 6 Voting at general elections](section/6.md)
+    - [s. 7 Candidates at general elections](section/7.md)
+    - [s. 8 Calculation of seat allocation figures](section/8.md)
+    - [s. 9 Allocation of seats](section/9.md)
+  - Vacancies
+    - [s. 10 Constituency vacancies](section/10.md)
+    - [s. 11 Vacant seats](section/11.md)
+  - Franchise and conduct of elections
+    - [s. 12 Entitlement to vote](section/12.md)
+    - [s. 13 Power of the Welsh Ministers to make provision about elections etc](section/13.md)
+    - [s. 13A Power of the Secretary of State to make provision about the combination of polls](section/13A.md)
+    - [s. 13B Power to make provision about the use of the UK digital service for absent voting applications](section/13B.md)
+  - Duration of membership
+    - [s. 14 Term of office of Members of the Senedd](section/14.md)
+    - [s. 15 Resignation of members](section/15.md)
+  - Disqualification
+    - [s. 16 Disqualification from being Member of the Senedd](section/16.md)
+    - [s. 17 Relief from disqualification](section/17.md)
+    - [s. 17A Exception from disqualification by virtue of being an MP: recently elected members](section/17A.md)
+    - [s. 17B Exception from disqualification by virtue of being an MP: general election of Members of the Senedd within 372 days](section/17B.md)
+    - [s. 17C Exception from disqualification by virtue of being a member of the House of Lords](section/17C.md)
+    - [s. 17D Exception from disqualification by virtue of being a councillor: recently elected members](section/17D.md)
+    - [s. 17E Exception from disqualification by virtue of being a councillor: ordinary election of councillors within 372 days](section/17E.md)
+    - [s. 17F Exception from disqualification by virtue of being a councillor: general election of Members of the Senedd within 372 days](section/17F.md)
+    - [s. 18 Effect of disqualification](section/18.md)
+    - [s. 19 Judicial proceedings as to disqualification](section/19.md)
+  - Remuneration, oaths etc.
+    - [s. 20 Remuneration of Members of the Senedd](section/20.md)
+    - [s. 21 Limit on salaries of Members of the Senedd](section/21.md)
+    - [s. 22 Remuneration: supplementary](section/22.md)
+    - [s. 23 Oath or affirmation of allegiance](section/23.md)
+    - [s. 24 Assistance to groups of Members of the Senedd](section/24.md)
+  - Presiding Officer and administration
+    - [s. 25 Presiding Officer etc.](section/25.md)
+    - [s. 26 Clerk of Senedd](section/26.md)
+    - [s. 27 A Senedd Commission](section/27.md)
+  - Committees
+    - [s. 28 Committees and sub-committees](section/28.md)
+    - [s. 29 Composition of committees](section/29.md)
+    - [s. 30 Audit Committee](section/30.md)
+    - [s. 30A Standards of Conduct Committee](section/30A.md)
+    - [s. 30B Lay members of the Standards of Conduct Committee etc.](section/30B.md)
+  - Proceedings etc.
+    - [s. 31 Standing orders](section/31.md)
+    - [s. 32 Participation by UK Ministers etc.](section/32.md)
+    - [s. 33 Consultation about UK Government’s legislative programme](section/33.md)
+    - [s. 34 Participation by Counsel General](section/34.md)
+    - [s. 35 Equality of treatment](section/35.md)
+    - [s. 36 Integrity](section/36.md)
+  - Witnesses and documents
+    - [s. 37 Power to call](section/37.md)
+    - [s. 38 Notice](section/38.md)
+    - [s. 39 Offences](section/39.md)
+    - [s. 40 General](section/40.md)
+  - Legal issues
+    - [s. 41 Proceedings by or against Senedd etc.](section/41.md)
+    - [s. 42 Defamation](section/42.md)
+    - [s. 43 Contempt of court](section/43.md)
+    - [s. 44 Corrupt practices](section/44.md)
+- Part 2 Welsh ... Government
+  - Government
+    - [s. 45 Welsh ... Government](section/45.md)
+  - Ministers, staff etc.
+    - [s. 46 The First Minister](section/46.md)
+    - [s. 47 Choice of First Minister](section/47.md)
+    - [s. 48 Welsh Ministers](section/48.md)
+    - [s. 49 Counsel General](section/49.md)
+    - [s. 50 Deputy Welsh Ministers](section/50.md)
+    - [s. 51 Limit on number of Ministers](section/51.md)
+    - [s. 52 Staff](section/52.md)
+  - Remuneration, oaths etc.
+    - [s. 53 Remuneration](section/53.md)
+    - [s. 54 Remuneration: supplementary](section/54.md)
+    - [s. 55 Oath or affirmation](section/55.md)
+  - Functions
+    - [s. 56 Introduction](section/56.md)
+    - [s. 57 Exercise of functions](section/57.md)
+    - [s. 58 Transfer of Ministerial functions](section/58.md)
+    - [s. 58A Executive ministerial functions](section/58A.md)
+    - [s. 58B Implementation of EU law: general](section/58B.md)
+    - [s. 59 Fees and charges in relation to international law](section/59.md)
+    - [s. 59A Shared powers](section/59A.md)
+    - [s. 60 Promotion etc. of well-being](section/60.md)
+    - [s. 61 Support of culture etc.](section/61.md)
+    - [s. 62 Representations about matters affecting Wales](section/62.md)
+    - [s. 63 Consultation about cross-border bodies](section/63.md)
+    - [s. 64 Polls for ascertaining views of the public](section/64.md)
+    - [s. 65 Private bills](section/65.md)
+    - [s. 66 Provision of information to Treasury](section/66.md)
+    - [s. 66A Provision of information to the Office for Budget Responsibility](section/66A.md)
+    - [s. 67 Legal proceedings](section/67.md)
+    - [s. 68 Contracts](section/68.md)
+    - [s. 69 Charges for documents](section/69.md)
+    - [s. 70 Financial assistance](section/70.md)
+    - [s. 71 Supplementary](section/71.md)
+  - “Inclusive” approach to exercise of functions
+    - [s. 72 Partnership Council](section/72.md)
+    - [s. 73 Local government scheme](section/73.md)
+    - [s. 74 Voluntary sector scheme](section/74.md)
+    - [s. 75 Business scheme](section/75.md)
+    - [s. 76 Regulatory impact assessments](section/76.md)
+    - [s. 77 Equality of opportunity](section/77.md)
+    - [s. 78 The Welsh language](section/78.md)
+    - [s. 79 Sustainable development](section/79.md)
+  - Assimilated obligations, human rights and international obligations etc.
+    - [s. 80 Assimilated obligations](section/80.md)
+    - [s. 81 Human rights](section/81.md)
+    - [s. 82 International obligations etc.](section/82.md)
+  - Functions: supplementary
+    - [s. 83 Agency arrangements and provision of services](section/83.md)
+    - [s. 84 Different exercise of functions by Welsh Ministers etc.](section/84.md)
+    - [s. 85 Construction of references to Ministers and departments](section/85.md)
+    - [s. 86 Laying of reports and statements](section/86.md)
+  - Property, rights and liabilities
+    - [s. 87 Property, rights and liabilities of Welsh Ministers etc.](section/87.md)
+    - [s. 88 Transfer of Ministerial property, rights and liabilities](section/88.md)
+  - Supplementary
+    - [s. 89 Rights and liabilities of the Crown in different capacities](section/89.md)
+    - [s. 90 Documents](section/90.md)
+    - [s. 91 Validity of acts](section/91.md)
+    - [s. 92 Official secrets](section/92.md)
+    - [s. 93](section/93.md)
+    - [s. 94](section/94.md)
+    - [s. 95](section/95.md)
+    - [s. 96](section/96.md)
+    - [s. 97](section/97.md)
+    - [s. 98](section/98.md)
+    - [s. 99](section/99.md)
+    - [s. 100](section/100.md)
+    - [s. 101](section/101.md)
+    - [s. 102](section/102.md)
+- Part 4 Acts of the Senedd
+  - ...
+    - [s. 103 Referendum about commencement of Assembly Act provisions](section/103.md)
+    - [s. 104 Proposal for referendum by Assembly](section/104.md)
+    - [s. 105 Commencement of Assembly Act provisions](section/105.md)
+    - [s. 106 Effect on Measures of commencement of Assembly Act provisions](section/106.md)
+    - [s. 106A Enactment of proposed Assembly Measures](section/106A.md)
+  - Power
+    - [s. 107 Acts of the Senedd](section/107.md)
+    - [s. 108 Legislative competence](section/108.md)
+    - [s. 108A Legislative competence](section/108A.md)
+    - [s. 109 Legislative competence: supplementary](section/109.md)
+    - [s. 109A Legislative competence: restriction relating to retained EU law](section/109A.md)
+  - Procedure
+    - [s. 110 Introduction of Bills](section/110.md)
+    - [s. 110A Introduction of Bills: justice impact assessment](section/110A.md)
+    - [s. 111 Proceedings on Bills](section/111.md)
+    - [s. 111A Bills with protected subject-matter: super-majority requirement](section/111A.md)
+    - [s. 111B Scrutiny of Bills by the Supreme Court (protected subject-matter)](section/111B.md)
+    - [s. 112 Scrutiny of Bills by Supreme Court (legislative competence)](section/112.md)
+    - [s. 113 ECJ references](section/113.md)
+    - [s. 114 Power to intervene in certain cases](section/114.md)
+    - [s. 115 Royal Assent](section/115.md)
+    - [s. 116 Welsh Seal: Letters Patent and proclamations](section/116.md)
+- PART 4A Taxation
+  - CHAPTER 1 Introductory
+    - [s. 116A Overview of Part 4A](section/116A.md)
+    - [s. 116B Status of officials of body that collects and manages devolved taxes](section/116B.md)
+    - [s. 116C Power to add new devolved taxes](section/116C.md)
+  - CHAPTER 2 Income Tax
+    - [s. 116D Power to set Welsh rates for Welsh taxpayers](section/116D.md)
+    - [s. 116E Welsh taxpayers](section/116E.md)
+    - [s. 116F Welsh taxpayers: Scottish parliamentarians](section/116F.md)
+    - [s. 116G Close connection with Wales or another part of the UK](section/116G.md)
+    - [s. 116H Days spent in Wales or another part of the UK](section/116H.md)
+    - [s. 116I Supplemental powers to modify enactments](section/116I.md)
+    - [s. 116J Reimbursement of expenses](section/116J.md)
+    - [s. 116K Report by the Comptroller and Auditor General](section/116K.md)
+  - CHAPTER 3 Tax on transactions involving interests in land
+    - [s. 116L Tax on transactions involving interests in land](section/116L.md)
+    - [s. 116M Duty to disclose information on Welsh land transactions to HMRC](section/116M.md)
+  - CHAPTER 4 Tax on disposals to landfill
+    - [s. 116N Tax on disposals to landfill](section/116N.md)
+- Part 5 Finance
+  - Welsh Consolidated Fund
+    - [s. 117 Welsh Consolidated Fund](section/117.md)
+  - Payments into Welsh Consolidated Fund
+    - [s. 118 Grants](section/118.md)
+    - [s. 119 Statement of estimated payments](section/119.md)
+    - [s. 120 Destination of receipts](section/120.md)
+  - Borrowing
+    - [s. 121 Borrowing by Welsh Ministers](section/121.md)
+    - [s. 122 Lending by Secretary of State](section/122.md)
+    - [s. 122A Lending for capital expenditure](section/122A.md)
+    - [s. 123 Accounts relating to loans](section/123.md)
+  - Expenditure
+    - [s. 124 Payments out of Welsh Consolidated Fund](section/124.md)
+    - [s. 125 Annual Budget motions](section/125.md)
+    - [s. 126 Supplementary Budget motions](section/126.md)
+    - [s. 126A Inclusion in Budget motions of resources used by designated bodies](section/126A.md)
+    - [s. 127 Appropriation without Budget resolution](section/127.md)
+    - [s. 128 Contingencies](section/128.md)
+    - [s. 129 Approvals to draw](section/129.md)
+    - [s. 130 Payments in by mistake](section/130.md)
+    - [s. 130A Financial control, accounts and audit](section/130A.md)
+  - Financial accountability of Welsh Ministers
+    - [s. 131 Welsh Ministers’ accounts](section/131.md)
+    - [s. 132 Account relating to Welsh Consolidated Fund](section/132.md)
+    - [s. 133 Accounting officers for Welsh Ministers](section/133.md)
+    - [s. 134 Accounts of subsidiaries of Welsh Ministers](section/134.md)
+    - [s. 135 Examinations into Welsh Ministers’ use of resources](section/135.md)
+    - [s. 136 Examinations by Comptroller and Auditor General](section/136.md)
+  - Financial accountability of Senedd Commission
+    - [s. 137 Senedd Commission’s accounts](section/137.md)
+    - [s. 138 Accounting officers for Senedd Commission](section/138.md)
+    - [s. 139 Accounts of subsidiaries of Senedd Commission](section/139.md)
+    - [s. 140 Examinations into Senedd Commission’s use of resources](section/140.md)
+  - Whole of Government of Wales accounts
+    - [s. 141 Whole of government accounts: Welsh Ministers](section/141.md)
+    - [s. 142 Functions of Auditor General](section/142.md)
+  - Treatment of accounts and audit reports etc.
+    - [s. 143 Audit Committee reports](section/143.md)
+    - [s. 144 Publication of accounts and audit reports etc.](section/144.md)
+  - Auditor General for Wales
+    - [s. 145 Auditor General](section/145.md)
+- Part 6 Miscellaneous and supplementary
+  - Welsh public records
+    - [s. 146 Status of Welsh public records](section/146.md)
+    - [s. 147 Transfer of responsibility](section/147.md)
+    - [s. 148 Meaning of “Welsh public records”](section/148.md)
+  - Consultation with Welsh Ministers
+    - [s. 148A Renewable energy incentive schemes](section/148A.md)
+  - Miscellaneous
+    - [s. 149 Resolution of devolution issues](section/149.md)
+    - [s. 150 Power to make consequential provision](section/150.md)
+    - [s. 150A Translation of references to Senedd Cymru etc.](section/150A.md)
+    - [s. 151 Power to remedy ultra vires acts](section/151.md)
+    - [s. 152 Intervention in case of functions relating to water etc.](section/152.md)
+    - [s. 153 Power to vary retrospective decisions](section/153.md)
+    - [s. 154 Interpretation of legislation](section/154.md)
+    - [s. 155 Functions exercisable in relation to Wales](section/155.md)
+    - [s. 156 English and Welsh texts of legislation](section/156.md)
+  - Supplementary
+    - [s. 157 Orders, regulations and directions](section/157.md)
+    - [s. 157ZA Explanatory statements in relation to certain regulations](section/157ZA.md)
+    - [s. 157A “Devolved Welsh authority”](section/157A.md)
+    - [s. 158 Interpretation](section/158.md)
+    - [s. 159 Index of defined expressions](section/159.md)
+    - [s. 160 Minor and consequential amendments](section/160.md)
+    - [s. 161 Commencement](section/161.md)
+    - [s. 162 Transitional etc. provision](section/162.md)
+    - [s. 163 Repeals and revocations](section/163.md)
+    - [s. 164 Financial provision](section/164.md)
+    - [s. 165 Extent](section/165.md)
+    - [s. 166 Short title](section/166.md)
+- SCHEDULE 1 Alteration of Senedd electoral regions
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Senedd electoral region issue
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Notice of Committee’s proposed recommendations
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Local inquiries
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Committee’s report
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Consideration of Committee’s report by Commission
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Directions by Commission to Committee
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Commission’s report
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Rules
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Orders in Council giving effect to Commission reports
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Interpretation: the regional electorate
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Interpretation: general
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 1A DISQUALIFICATION FROM BEING A MEMBER OF THE SENEDD OR A CANDIDATE IN AN ELECTION TO BE A MEMBER OF THE SENEDD
+  - PART 1 CATEGORIES OF PERSONS DISQUALIFIED
+    - [Sch. 1A para. 1 Persons under 18 years of age](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2 Citizenship](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3 Bankruptcy](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4 Bankruptcy](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5 Persons guilty of corrupt or illegal practices at elections](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 5A](schedule/1A/paragraph/5A.md)
+    - [Sch. 1A para. 6 Persons imprisoned or detained following conviction etc.](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 6A Persons subject to a disqualification order](schedule/1A/paragraph/6A.md)
+    - [Sch. 1A para. 7 Sex offenders](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8 Persons not registered in electoral register at an address in Wales](schedule/1A/paragraph/8.md)
+  - PART 2 OFFICES THAT DISQUALIFY THE HOLDER
+- SCHEDULE 2 Senedd Commission
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Property
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Staff
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Powers
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Promotion of awareness of election system and devolved government
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Delegation
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Principles in accordance with which functions are to be exercised
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Annual report
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Validity of acts
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Proceedings
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Crown status
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Transfer etc. of functions: further provisions
+  - Part 1 Functions transferable etc.
+    - Existing and future functions
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Functions relating to culture
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Cross-border functions
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Functions exercisable beyond the territorial sea
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part 2 Exercise of transferred functions
+    - ...
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Agreement or consultation: Ministers and Parliament
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Agreement or consultation etc.: Senedd and Senedd Commission
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Parliamentary and Senedd procedure
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Laying of reports and statements
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Powers to lend money
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part 3 Supplementary
+    - References to Minister of the Crown etc.
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Saving
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 3A Functions of Ministers of Crown etc exercisable concurrently or jointly with Welsh Ministers
+  - Functions exercisable concurrently with Welsh Ministers
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Functions exercisable jointly with Welsh Ministers
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Functions exercisable concurrently or jointly with Welsh Ministers
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Interpretation
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+- SCHEDULE 4 Transfers of ministerial property, rights and liabilities
+  - General transfer of property, rights and liabilities
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Power to make specific transfers etc.
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Supplementary
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Assembly Measures
+  - Part 1 Matters
+  - Part 2 EXCEPTIONS TO MATTERS AND GENERAL RESTRICTIONS
+    - Exceptions to matters
+      - [Sch. 5 para. A1](schedule/5/paragraph/A1.md)
+    - General restrictions
+    - Functions of Ministers of the Crown
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Criminal offences
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Police areas
+      - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+    - Enactments other than this Act
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - This Act
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Part 3 EXCEPTIONS FROM GENERAL RESTRICTIONS IN PART 2
+    - Functions of Ministers of the Crown
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Police areas
+      - [Sch. 5 para. 7A](schedule/5/paragraph/7A.md)
+    - Comptroller and Auditor General and National Audit Office
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Restatement
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Subordinate legislation
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Referendums on commencement of Senedd Act provisions
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Acts of the Senedd
+  - Part 1 Subjects
+    - Agriculture, forestry, animals, plants and rural development
+      - [Sch. 7 Pt. 1 heading agriculture-fisheries-forestry-and-rural-development para. 1](schedule/7/part/1/crossheading/agriculture-fisheries-forestry-and-rural-development/paragraph/1.md)
+    - Ancient monuments and historic buildings
+      - [Sch. 7 Pt. 1 heading ancient-monuments-and-historic-buildings para. 2](schedule/7/part/1/crossheading/ancient-monuments-and-historic-buildings/paragraph/2.md)
+    - Culture
+      - [Sch. 7 Pt. 1 heading culture para. 3](schedule/7/part/1/crossheading/culture/paragraph/3.md)
+    - Economic development
+      - [Sch. 7 Pt. 1 heading economic-development para. 4](schedule/7/part/1/crossheading/economic-development/paragraph/4.md)
+    - Education and training
+      - [Sch. 7 Pt. 1 heading education-and-training para. 5](schedule/7/part/1/crossheading/education-and-training/paragraph/5.md)
+    - Environment
+      - [Sch. 7 Pt. 1 heading environment para. 6](schedule/7/part/1/crossheading/environment/paragraph/6.md)
+    - Fire and rescue services and fire safety
+      - [Sch. 7 Pt. 1 heading fire-and-rescue-services-and-promotion-of-fire-safety para. 7](schedule/7/part/1/crossheading/fire-and-rescue-services-and-promotion-of-fire-safety/paragraph/7.md)
+    - Food
+      - [Sch. 7 Pt. 1 heading food para. 8](schedule/7/part/1/crossheading/food/paragraph/8.md)
+    - Health and health services
+      - [Sch. 7 Pt. 1 heading health-and-health-services para. 9](schedule/7/part/1/crossheading/health-and-health-services/paragraph/9.md)
+    - Highways and transport
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Housing
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Local government
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - National Assembly for Wales
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Public administration
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Social welfare
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Sport and recreation
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Taxation
+      - [Sch. 7 para. 16A](schedule/7/paragraph/16A.md)
+    - Tourism
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Town and country planning
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Water and flood defence
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Welsh language
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Part 2 General restrictions
+    - Functions of a Minister of the Crown
+      - [Sch. 7 Pt. 2 heading functions-of-a-minister-of-the-crown para. 1](schedule/7/part/2/crossheading/functions-of-a-minister-of-the-crown/paragraph/1.md)
+    - Enactments other than this Act
+      - [Sch. 7 Pt. 2 heading enactments-other-than-this-act para. 2](schedule/7/part/2/crossheading/enactments-other-than-this-act/paragraph/2.md)
+      - [Sch. 7 Pt. 2 heading enactments-other-than-this-act para. 3](schedule/7/part/2/crossheading/enactments-other-than-this-act/paragraph/3.md)
+      - [Sch. 7 Pt. 2 heading enactments-other-than-this-act para. 4](schedule/7/part/2/crossheading/enactments-other-than-this-act/paragraph/4.md)
+      - [Sch. 7 para. 4A](schedule/7/paragraph/4A.md)
+    - This Act
+      - [Sch. 7 Pt. 2 heading this-act para. 5](schedule/7/part/2/crossheading/this-act/paragraph/5.md)
+  - Part 3 Exceptions from Part 2
+    - Functions of Ministers of the Crown
+      - [Sch. 7 Pt. 3 heading functions-of-ministers-of-the-crown para. 6](schedule/7/part/3/crossheading/functions-of-ministers-of-the-crown/paragraph/6.md)
+    - Comptroller and Auditor General and National Audit Office
+      - [Sch. 7 Pt. 3 heading comptroller-and-auditor-general para. 7](schedule/7/part/3/crossheading/comptroller-and-auditor-general/paragraph/7.md)
+    - Her Majesty’s Revenue and Customs
+      - [Sch. 7 para. 7A](schedule/7/paragraph/7A.md)
+    - Restatement
+      - [Sch. 7 Pt. 3 heading restatement para. 8](schedule/7/part/3/crossheading/restatement/paragraph/8.md)
+    - Subordinate legislation
+      - [Sch. 7 Pt. 3 heading subordinate-legislation para. 9](schedule/7/part/3/crossheading/subordinate-legislation/paragraph/9.md)
+- SCHEDULE 7A Reserved matters
+  - Part 1 General Reservations
+    - The Constitution
+      - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+      - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+      - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+      - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+    - Public service
+      - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+    - Political parties
+      - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+      - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+    - Single legal jurisdiction of England and Wales
+      - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+    - Tribunals
+      - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+    - Foreign affairs etc
+      - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+    - Defence
+      - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+  - Part 2 Specific Reservations
+    - [Sch. 7A para. 12 Preliminary](schedule/7A/paragraph/12.md)
+    - [Sch. 7A para. 13](schedule/7A/paragraph/13.md)
+    - [Sch. 7A para. 14](schedule/7A/paragraph/14.md)
+    - Reservations
+      - Head A—Financial and Economic Matters
+        - Section A1 A1 Fiscal, economic and monetary policy
+          - [Sch. 7A para. 15](schedule/7A/paragraph/15.md)
+        - Section A2 A2 The currency
+          - [Sch. 7A para. 16](schedule/7A/paragraph/16.md)
+        - Section A3 A3 Financial services
+          - [Sch. 7A para. 17](schedule/7A/paragraph/17.md)
+        - Section A4 A4 Financial markets
+          - [Sch. 7A para. 18](schedule/7A/paragraph/18.md)
+        - Section A5 A5 Dormant accounts
+          - [Sch. 7A para. 19](schedule/7A/paragraph/19.md)
+      - Head B—Home Affairs
+        - Section B1 B1 Elections
+          - [Sch. 7A para. 20 (A) Elections for membership of the House of Commons ...](schedule/7A/paragraph/20.md)
+          - [Sch. 7A para. 21 (B) Elections for membership of the Senedd and local government elections in Wales](schedule/7A/paragraph/21.md)
+          - [Sch. 7A para. 22](schedule/7A/paragraph/22.md)
+          - [Sch. 7A para. 23](schedule/7A/paragraph/23.md)
+          - [Sch. 7A para. 24](schedule/7A/paragraph/24.md)
+          - [Sch. 7A para. 25](schedule/7A/paragraph/25.md)
+          - [Sch. 7A para. 26](schedule/7A/paragraph/26.md)
+          - [Sch. 7A para. 27](schedule/7A/paragraph/27.md)
+        - Section B2 B2 Nationality and immigration
+          - [Sch. 7A para. 28](schedule/7A/paragraph/28.md)
+          - [Sch. 7A para. 29](schedule/7A/paragraph/29.md)
+          - [Sch. 7A para. 30](schedule/7A/paragraph/30.md)
+          - [Sch. 7A para. 31](schedule/7A/paragraph/31.md)
+        - Section B3 B3 National security and official secrets
+          - [Sch. 7A para. 32](schedule/7A/paragraph/32.md)
+          - [Sch. 7A para. 33](schedule/7A/paragraph/33.md)
+          - [Sch. 7A para. 34](schedule/7A/paragraph/34.md)
+        - Section B4 B4 Interception of communications, communications data and surveillance
+          - [Sch. 7A para. 35](schedule/7A/paragraph/35.md)
+          - [Sch. 7A para. 36](schedule/7A/paragraph/36.md)
+          - [Sch. 7A para. 37](schedule/7A/paragraph/37.md)
+          - [Sch. 7A para. 38](schedule/7A/paragraph/38.md)
+        - Section B5 B5 Crime, public order and policing
+          - [Sch. 7A para. 39](schedule/7A/paragraph/39.md)
+          - [Sch. 7A para. 40](schedule/7A/paragraph/40.md)
+          - [Sch. 7A para. 41](schedule/7A/paragraph/41.md)
+          - [Sch. 7A para. 42](schedule/7A/paragraph/42.md)
+        - Section B6 B6 Anti-social behaviour
+          - [Sch. 7A para. 43](schedule/7A/paragraph/43.md)
+          - [Sch. 7A para. 44](schedule/7A/paragraph/44.md)
+        - Section B7 B7 Modern Slavery
+          - [Sch. 7A para. 45](schedule/7A/paragraph/45.md)
+        - Section B8 B8 Prostitution
+          - [Sch. 7A para. 46](schedule/7A/paragraph/46.md)
+        - Section B9 B9 Emergency powers
+          - [Sch. 7A para. 47](schedule/7A/paragraph/47.md)
+        - Section B10 B10 Extradition
+          - [Sch. 7A para. 48](schedule/7A/paragraph/48.md)
+        - Section B11 B11 Rehabilitation of offenders
+          - [Sch. 7A para. 49](schedule/7A/paragraph/49.md)
+        - Section B12 B12 Criminal records
+          - [Sch. 7A para. 50](schedule/7A/paragraph/50.md)
+        - Section B13 B13 Dangerous items
+          - [Sch. 7A para. 51](schedule/7A/paragraph/51.md)
+          - [Sch. 7A para. 52](schedule/7A/paragraph/52.md)
+          - [Sch. 7A para. 53](schedule/7A/paragraph/53.md)
+        - Section B14 B14 Misuse of and dealing in drugs or psychoactive substances
+          - [Sch. 7A para. 54](schedule/7A/paragraph/54.md)
+        - Section B15 B15 Private security
+          - [Sch. 7A para. 55](schedule/7A/paragraph/55.md)
+        - Section B16 B16 Entertainment and late night refreshment.
+          - [Sch. 7A para. 56](schedule/7A/paragraph/56.md)
+          - [Sch. 7A para. 57](schedule/7A/paragraph/57.md)
+        - Section B17 B17 Alcohol
+          - [Sch. 7A para. 58](schedule/7A/paragraph/58.md)
+        - Section B18 B18 Betting, gaming and lotteries
+          - [Sch. 7A para. 59](schedule/7A/paragraph/59.md)
+        - Section B19 B19 Hunting
+          - [Sch. 7A para. 60](schedule/7A/paragraph/60.md)
+        - Section B20 B20 Scientific and educational procedures on live animals
+          - [Sch. 7A para. 61](schedule/7A/paragraph/61.md)
+        - Section B21 B21 Lieutenancies
+          - [Sch. 7A para. 62](schedule/7A/paragraph/62.md)
+        - Section B22 B22 Charities and fund-raising
+          - [Sch. 7A para. 63](schedule/7A/paragraph/63.md)
+          - [Sch. 7A para. 64](schedule/7A/paragraph/64.md)
+      - Head C—Trade and Industry
+        - Section C1 C1 Business associations and business names
+          - [Sch. 7A para. 65](schedule/7A/paragraph/65.md)
+          - [Sch. 7A para. 66](schedule/7A/paragraph/66.md)
+        - Section C2 C2 Insolvency and winding up
+          - [Sch. 7A para. 67](schedule/7A/paragraph/67.md)
+          - [Sch. 7A para. 68](schedule/7A/paragraph/68.md)
+        - Section C3 C3 Competition
+          - [Sch. 7A para. 69](schedule/7A/paragraph/69.md)
+        - Section C4 C4 Intellectual property
+          - [Sch. 7A para. 70](schedule/7A/paragraph/70.md)
+        - Section C5 C5 Import and export control
+          - [Sch. 7A para. 71](schedule/7A/paragraph/71.md)
+        - Section C6 C6 Consumer protection
+          - [Sch. 7A para. 72](schedule/7A/paragraph/72.md)
+          - [Sch. 7A para. 73](schedule/7A/paragraph/73.md)
+          - [Sch. 7A para. 74](schedule/7A/paragraph/74.md)
+          - [Sch. 7A para. 75](schedule/7A/paragraph/75.md)
+          - [Sch. 7A para. 76](schedule/7A/paragraph/76.md)
+        - Section C7 C7 Product standards, safety and liability
+          - [Sch. 7A para. 77](schedule/7A/paragraph/77.md)
+          - [Sch. 7A para. 78](schedule/7A/paragraph/78.md)
+          - [Sch. 7A para. 79](schedule/7A/paragraph/79.md)
+          - [Sch. 7A para. 80](schedule/7A/paragraph/80.md)
+        - Section C8 C8 Weights and measures
+          - [Sch. 7A para. 81](schedule/7A/paragraph/81.md)
+          - [Sch. 7A para. 82](schedule/7A/paragraph/82.md)
+        - Section C9 C9 Telecommunications and wireless telegraphy
+          - [Sch. 7A para. 83](schedule/7A/paragraph/83.md)
+          - [Sch. 7A para. 84](schedule/7A/paragraph/84.md)
+          - [Sch. 7A para. 85](schedule/7A/paragraph/85.md)
+        - Section C10 C10 Post
+          - [Sch. 7A para. 86](schedule/7A/paragraph/86.md)
+        - Section C11 C11 United Kingdom Research and Innovation and Research Councils
+          - [Sch. 7A para. 87](schedule/7A/paragraph/87.md)
+          - [Sch. 7A para. 88](schedule/7A/paragraph/88.md)
+        - Section C12 C12 Industrial development
+          - [Sch. 7A para. 89](schedule/7A/paragraph/89.md)
+        - Section C13 C13 Protection of trading and economic interests
+          - [Sch. 7A para. 90](schedule/7A/paragraph/90.md)
+        - Section C14 C14 Assistance in connection with exports of goods and services etc
+          - [Sch. 7A para. 91](schedule/7A/paragraph/91.md)
+        - Section C15 C15 Water and sewerage
+          - [Sch. 7A para. 92](schedule/7A/paragraph/92.md)
+          - [Sch. 7A para. 93](schedule/7A/paragraph/93.md)
+        - Section C16 C16 Pubs Code Adjudicator and the Pubs Code
+          - [Sch. 7A para. 94](schedule/7A/paragraph/94.md)
+        - Section C17 C17 Sunday trading
+          - [Sch. 7A para. 95](schedule/7A/paragraph/95.md)
+        - C18 Distortive or harmful subsidies
+      - Head D—Energy
+        - Section D1 D1 Electricity
+          - [Sch. 7A para. 96](schedule/7A/paragraph/96.md)
+        - Section D2 D2 Oil and gas
+          - [Sch. 7A para. 97](schedule/7A/paragraph/97.md)
+        - Section D3 D3 Coal
+          - [Sch. 7A para. 98](schedule/7A/paragraph/98.md)
+        - Section D4 D4 Nuclear energy
+          - [Sch. 7A para. 99](schedule/7A/paragraph/99.md)
+          - [Sch. 7A para. 100](schedule/7A/paragraph/100.md)
+        - Section D5 D5 Heat and cooling
+          - [Sch. 7A para. 101](schedule/7A/paragraph/101.md)
+        - Section D6 D6 Energy conservation
+          - [Sch. 7A para. 102](schedule/7A/paragraph/102.md)
+      - Head E—Transport
+        - Section E1 E1 Road transport
+          - [Sch. 7A para. 103](schedule/7A/paragraph/103.md)
+          - [Sch. 7A para. 104](schedule/7A/paragraph/104.md)
+          - [Sch. 7A para. 105](schedule/7A/paragraph/105.md)
+          - [Sch. 7A para. 106](schedule/7A/paragraph/106.md)
+          - [Sch. 7A para. 107](schedule/7A/paragraph/107.md)
+          - [Sch. 7A para. 108](schedule/7A/paragraph/108.md)
+          - [Sch. 7A para. 109](schedule/7A/paragraph/109.md)
+          - [Sch. 7A para. 110](schedule/7A/paragraph/110.md)
+          - [Sch. 7A para. 111](schedule/7A/paragraph/111.md)
+          - [Sch. 7A para. 112](schedule/7A/paragraph/112.md)
+          - [Sch. 7A para. 113](schedule/7A/paragraph/113.md)
+          - [Sch. 7A para. 114](schedule/7A/paragraph/114.md)
+          - [Sch. 7A para. 115](schedule/7A/paragraph/115.md)
+          - [Sch. 7A para. 116](schedule/7A/paragraph/116.md)
+        - Section E2 E2 Rail transport
+          - [Sch. 7A para. 117](schedule/7A/paragraph/117.md)
+          - [Sch. 7A para. 118](schedule/7A/paragraph/118.md)
+        - Section E3 E3 Marine and waterway transport etc
+          - [Sch. 7A para. 119](schedule/7A/paragraph/119.md)
+          - [Sch. 7A para. 120](schedule/7A/paragraph/120.md)
+          - [Sch. 7A para. 121](schedule/7A/paragraph/121.md)
+          - [Sch. 7A para. 122](schedule/7A/paragraph/122.md)
+          - [Sch. 7A para. 123](schedule/7A/paragraph/123.md)
+          - [Sch. 7A para. 124](schedule/7A/paragraph/124.md)
+        - Section E4 E4 Air transport
+          - [Sch. 7A para. 125](schedule/7A/paragraph/125.md)
+        - Section E5 E5 Transport security
+          - [Sch. 7A para. 126](schedule/7A/paragraph/126.md)
+        - Section E6 E6 Other matters
+          - [Sch. 7A para. 127](schedule/7A/paragraph/127.md)
+          - [Sch. 7A para. 128](schedule/7A/paragraph/128.md)
+          - [Sch. 7A para. 129](schedule/7A/paragraph/129.md)
+      - Head F—Social Security, Child Support, Pensions and Compensation
+        - Section F1 F1 Social security schemes
+          - [Sch. 7A para. 130](schedule/7A/paragraph/130.md)
+          - [Sch. 7A para. 131](schedule/7A/paragraph/131.md)
+        - Section F2 F2 Child Support
+          - [Sch. 7A para. 132](schedule/7A/paragraph/132.md)
+          - [Sch. 7A para. 133](schedule/7A/paragraph/133.md)
+        - Section F3 F3 Occupational and Personal Pensions
+          - [Sch. 7A para. 134](schedule/7A/paragraph/134.md)
+        - Section F4 F4 Public sector compensation
+          - [Sch. 7A para. 135](schedule/7A/paragraph/135.md)
+          - [Sch. 7A para. 136](schedule/7A/paragraph/136.md)
+        - Section F5 F5 Armed forces compensation etc
+          - [Sch. 7A para. 137](schedule/7A/paragraph/137.md)
+          - [Sch. 7A para. 138](schedule/7A/paragraph/138.md)
+          - [Sch. 7A para. 139](schedule/7A/paragraph/139.md)
+      - Head G—Professions
+        - Section G1 G1 Architects, auditors, health professionals and veterinary surgeons
+          - [Sch. 7A para. 140](schedule/7A/paragraph/140.md)
+      - Head H—Employment
+        - Section H1 H1 Employment and industrial relations
+          - [Sch. 7A para. 141](schedule/7A/paragraph/141.md)
+        - Section H2 H2 Industrial training boards
+          - [Sch. 7A para. 142](schedule/7A/paragraph/142.md)
+        - Section H3 H3 Job search and support
+          - [Sch. 7A para. 143](schedule/7A/paragraph/143.md)
+      - Head J—Health, Safety and Medicines
+        - Section J1 J1 Abortion
+          - [Sch. 7A para. 144](schedule/7A/paragraph/144.md)
+        - Section J2 J2 Xenotransplantation
+          - [Sch. 7A para. 145](schedule/7A/paragraph/145.md)
+        - Section J3 J3 Embryology, surrogacy and genetics
+          - [Sch. 7A para. 146](schedule/7A/paragraph/146.md)
+        - Section J4 J4 Medicines, medical supplies, biological substances etc
+          - [Sch. 7A para. 147](schedule/7A/paragraph/147.md)
+          - [Sch. 7A para. 148](schedule/7A/paragraph/148.md)
+          - [Sch. 7A para. 149](schedule/7A/paragraph/149.md)
+          - [Sch. 7A para. 150](schedule/7A/paragraph/150.md)
+          - [Sch. 7A para. 151](schedule/7A/paragraph/151.md)
+          - [Sch. 7A para. 152](schedule/7A/paragraph/152.md)
+          - [Sch. 7A para. 153](schedule/7A/paragraph/153.md)
+        - Section J5 J5 Welfare foods
+          - [Sch. 7A para. 154](schedule/7A/paragraph/154.md)
+        - Section J6 J6 Health and safety
+          - [Sch. 7A para. 155](schedule/7A/paragraph/155.md)
+          - [Sch. 7A para. 156](schedule/7A/paragraph/156.md)
+          - [Sch. 7A para. 157](schedule/7A/paragraph/157.md)
+      - Head K—Media, Culture and Sport
+        - Section K1 K1 Media
+          - [Sch. 7A para. 158](schedule/7A/paragraph/158.md)
+          - [Sch. 7A para. 159](schedule/7A/paragraph/159.md)
+        - Section K2 K2 Public lending right
+          - [Sch. 7A para. 160](schedule/7A/paragraph/160.md)
+        - Section K3 K3 Government Indemnity Scheme
+          - [Sch. 7A para. 161](schedule/7A/paragraph/161.md)
+        - Section K4 K4 Property accepted in satisfaction of tax
+          - [Sch. 7A para. 162](schedule/7A/paragraph/162.md)
+        - Section K5 K5 Sports grounds
+          - [Sch. 7A para. 163](schedule/7A/paragraph/163.md)
+      - Head L—Justice
+        - Section L1 L1 The legal profession, legal services and claims management services
+          - [Sch. 7A para. 164](schedule/7A/paragraph/164.md)
+          - [Sch. 7A para. 165](schedule/7A/paragraph/165.md)
+        - Section L2 L2 Legal aid
+          - [Sch. 7A para. 166](schedule/7A/paragraph/166.md)
+        - Section L3 L3 Coroners
+          - [Sch. 7A para. 167](schedule/7A/paragraph/167.md)
+        - Section L4 L4 Arbitration
+          - [Sch. 7A para. 168](schedule/7A/paragraph/168.md)
+        - Section L5 L5 Mental capacity
+          - [Sch. 7A para. 169](schedule/7A/paragraph/169.md)
+        - Section L6 L6 Personal data
+          - [Sch. 7A para. 170](schedule/7A/paragraph/170.md)
+        - Section L7 L7 Information rights
+          - [Sch. 7A para. 171](schedule/7A/paragraph/171.md)
+        - Section L8 L8 Public sector information
+          - [Sch. 7A para. 172](schedule/7A/paragraph/172.md)
+        - Section L9 L9 Public records
+          - [Sch. 7A para. 173](schedule/7A/paragraph/173.md)
+        - Section L10 L10 Compensation for persons affected by crime and miscarriages of justice
+          - [Sch. 7A para. 174](schedule/7A/paragraph/174.md)
+        - Section L11 Section L11 Prisons and offender management
+          - [Sch. 7A para. 175](schedule/7A/paragraph/175.md)
+        - Section L12 L12 Family relationships and children
+          - [Sch. 7A para. 176](schedule/7A/paragraph/176.md)
+          - [Sch. 7A para. 177](schedule/7A/paragraph/177.md)
+          - [Sch. 7A para. 178](schedule/7A/paragraph/178.md)
+          - [Sch. 7A para. 179](schedule/7A/paragraph/179.md)
+        - Section L13 L13 Gender recognition
+          - [Sch. 7A para. 180](schedule/7A/paragraph/180.md)
+        - Section L14 L14 Registration of births, deaths and places of worship
+          - [Sch. 7A para. 181](schedule/7A/paragraph/181.md)
+      - Head M—Land and Agricultural Assets
+        - Section M1 M1 Registration of land
+          - [Sch. 7A para. 182](schedule/7A/paragraph/182.md)
+        - Section M2 M2 Registration of agricultural charges and debentures
+          - [Sch. 7A para. 183](schedule/7A/paragraph/183.md)
+        - Section M3 M3 Development and buildings
+          - [Sch. 7A para. 184](schedule/7A/paragraph/184.md)
+          - [Sch. 7A para. 185](schedule/7A/paragraph/185.md)
+          - [Sch. 7A para. 186](schedule/7A/paragraph/186.md)
+      - Head N—Miscellaneous
+        - Section N1 N1 Equal opportunities
+          - [Sch. 7A para. 187](schedule/7A/paragraph/187.md)
+        - Section N2 N2 Control of weapons
+          - [Sch. 7A para. 188](schedule/7A/paragraph/188.md)
+        - Section N3 N3 Ordnance Survey
+          - [Sch. 7A para. 189](schedule/7A/paragraph/189.md)
+        - Section N4 N4 Time
+          - [Sch. 7A para. 190](schedule/7A/paragraph/190.md)
+        - Section N5 N5 Outer space
+          - [Sch. 7A para. 191](schedule/7A/paragraph/191.md)
+        - Section N6 N6 Antarctica
+          - [Sch. 7A para. 192](schedule/7A/paragraph/192.md)
+        - Section N7 N7 Deep sea bed mining
+          - [Sch. 7A para. 193](schedule/7A/paragraph/193.md)
+  - Part 3 General Provisions
+    - Devolved Welsh authorities etc
+      - [Sch. 7A para. 194](schedule/7A/paragraph/194.md)
+      - [Sch. 7A para. 195](schedule/7A/paragraph/195.md)
+      - [Sch. 7A para. 196](schedule/7A/paragraph/196.md)
+    - Particular authorities
+      - [Sch. 7A para. 197](schedule/7A/paragraph/197.md)
+    - Welsh language functions
+      - [Sch. 7A para. 198](schedule/7A/paragraph/198.md)
+    - Council tax precepts
+      - [Sch. 7A para. 199](schedule/7A/paragraph/199.md)
+    - Interpretation of Schedule
+      - [Sch. 7A para. 200](schedule/7A/paragraph/200.md)
+- SCHEDULE 7B General restrictions
+  - Part 1 General restrictions
+    - The law on reserved matters
+      - [Sch. 7B para. 1](schedule/7B/paragraph/1.md)
+      - [Sch. 7B para. 2](schedule/7B/paragraph/2.md)
+    - Private law
+      - [Sch. 7B para. 3](schedule/7B/paragraph/3.md)
+    - Criminal law
+      - [Sch. 7B para. 4](schedule/7B/paragraph/4.md)
+    - Enactments other than this Act
+      - [Sch. 7B para. 5](schedule/7B/paragraph/5.md)
+      - [Sch. 7B para. 6](schedule/7B/paragraph/6.md)
+    - This Act
+      - [Sch. 7B para. 7](schedule/7B/paragraph/7.md)
+    - Ministers of the Crown, government departments and other reserved authorities
+      - [Sch. 7B para. 8](schedule/7B/paragraph/8.md)
+      - [Sch. 7B para. 9](schedule/7B/paragraph/9.md)
+      - [Sch. 7B para. 10](schedule/7B/paragraph/10.md)
+      - [Sch. 7B para. 11](schedule/7B/paragraph/11.md)
+      - [Sch. 7B para. 12](schedule/7B/paragraph/12.md)
+  - Part 2 General exceptions from Part 1
+    - Restatement
+      - [Sch. 7B para. 13](schedule/7B/paragraph/13.md)
+    - Subordinate legislation
+      - [Sch. 7B para. 14](schedule/7B/paragraph/14.md)
+- SCHEDULE 8 Auditor General for Wales
+  - Appointment
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Tenure
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Independence and status
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Corporation sole
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Documents
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Remuneration
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Staff
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Exercise of functions by staff etc.
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Special finance provisions
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Borrowing
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Fees
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Estimates
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Accounts
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Auditor
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Audit of accounts
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Accounting officer
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Access to documents
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Other powers
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Reports in public interest
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Certification of claims, returns etc.
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Ancillary powers
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+- SCHEDULE 9 Devolution issues
+  - Part 1 Preliminary
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Part 2 Proceedings in England and Wales
+    - Application of Part 2
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Institution of proceedings
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Notice of devolution issue
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Reference of devolution issue to High Court or Court of Appeal
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - References from Court of Appeal to Supreme Court
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Appeals from superior courts to Supreme Court
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Part 3 Proceedings in Scotland
+    - Application of Part 3
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Institution of proceedings
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Intimation of devolution issue
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Reference of devolution issue to higher court
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - References from superior courts to Supreme Court
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Appeals from superior courts to Supreme Court
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Part 4 Proceedings in Northern Ireland
+    - Application of Part 4
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Institution of proceedings
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Notice of devolution issue
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - Reference of devolution issue to Court of Appeal
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - References from Court of Appeal to Supreme Court
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - Appeals from Court of Appeal to Supreme Court
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - Part 5 General
+    - Direct references to Supreme Court
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - Costs
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - Procedure of courts and tribunals
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - References to be for decision
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+- SCHEDULE 9A Devolved Welsh authorities
+- SCHEDULE 10 Minor and consequential amendments
+  - ...
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Laying of Documents before Parliament (Interpretation) Act 1948 (c. 59)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Defamation Act 1952 (c. 66)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Defamation Act (Northern Ireland) 1955 (c. 11 (N.I.))
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Pensions (Increase) Act 1971 (c. 56)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Interpretation Act 1978 (c. 30)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - National Audit Act 1983 (c. 44)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Public Order Act 1986 (c. 64)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Finance Act 1987 (c. 16)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+  - ...
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Official Secrets Act 1989 (c. 6)
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+  - Planning (Hazardous Substances) Act 1990 (c. 10)
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+  - Value Added Tax Act 1994 (c. 23)
+    - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+  - Defamation Act 1996 (c. 31)
+    - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+    - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+    - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+    - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+    - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+    - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+    - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+    - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+    - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+    - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+    - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+    - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+    - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+    - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+    - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+  - Human Rights Act 1998 (c. 42)
+    - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+  - Government Resources and Accounts Act 2000 (c. 20)
+    - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+  - Political Parties, Elections and Referendums Act 2000 (c. 41)
+    - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+    - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+    - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+    - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+  - Finance Act 2003 (c. 14)
+    - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+    - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+    - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+    - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+  - ...
+    - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+  - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+    - [Sch. 10 para. 67](schedule/10/paragraph/67.md)
+    - [Sch. 10 para. 68](schedule/10/paragraph/68.md)
+    - [Sch. 10 para. 69](schedule/10/paragraph/69.md)
+    - [Sch. 10 para. 70](schedule/10/paragraph/70.md)
+    - [Sch. 10 para. 71](schedule/10/paragraph/71.md)
+    - [Sch. 10 para. 72](schedule/10/paragraph/72.md)
+    - [Sch. 10 para. 73](schedule/10/paragraph/73.md)
+    - [Sch. 10 para. 74](schedule/10/paragraph/74.md)
+    - [Sch. 10 para. 75](schedule/10/paragraph/75.md)
+    - [Sch. 10 para. 76](schedule/10/paragraph/76.md)
+    - [Sch. 10 para. 77](schedule/10/paragraph/77.md)
+    - [Sch. 10 para. 78](schedule/10/paragraph/78.md)
+    - [Sch. 10 para. 79](schedule/10/paragraph/79.md)
+    - [Sch. 10 para. 80](schedule/10/paragraph/80.md)
+    - [Sch. 10 para. 81](schedule/10/paragraph/81.md)
+    - [Sch. 10 para. 82](schedule/10/paragraph/82.md)
+    - [Sch. 10 para. 83](schedule/10/paragraph/83.md)
+    - [Sch. 10 para. 84](schedule/10/paragraph/84.md)
+    - [Sch. 10 para. 85](schedule/10/paragraph/85.md)
+    - [Sch. 10 para. 86](schedule/10/paragraph/86.md)
+    - [Sch. 10 para. 87](schedule/10/paragraph/87.md)
+    - [Sch. 10 para. 88](schedule/10/paragraph/88.md)
+  - Inquiries Act 2005 (c. 12)
+    - [Sch. 10 para. 89](schedule/10/paragraph/89.md)
+    - [Sch. 10 para. 90](schedule/10/paragraph/90.md)
+    - [Sch. 10 para. 91](schedule/10/paragraph/91.md)
+    - [Sch. 10 para. 92](schedule/10/paragraph/92.md)
+    - [Sch. 10 para. 93](schedule/10/paragraph/93.md)
+    - [Sch. 10 para. 94](schedule/10/paragraph/94.md)
+    - [Sch. 10 para. 95](schedule/10/paragraph/95.md)
+    - [Sch. 10 para. 96](schedule/10/paragraph/96.md)
+    - [Sch. 10 para. 97](schedule/10/paragraph/97.md)
+- SCHEDULE 11 Transitional provisions
+  - Alteration of Senedd electoral regions
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - 2007 election to be election to Assembly constituted by this Act
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - ...
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - ...
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - ...
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - ...
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Election orders
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - ...
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Disqualification Orders
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - ...
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Remuneration of Assembly members etc.
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - ...
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - ...
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - ...
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - ...
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - ...
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - ...
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Standing orders
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Witnesses and documents: penalties
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - ...
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - Saving for existing instruments conferring or imposing functions
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - ...
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+  - Transfer of Assembly functions
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+  - Functions transferred by Order in Council under section 22 of the Government of Wales Act 1998: Parliamentary and Assembly procedure
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+  - Functions conferred or imposed by pre-commencement enactment: Parliamentary and Assembly procedure
+    - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+    - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+  - ...
+    - [Sch. 11 para. 35A](schedule/11/paragraph/35A.md)
+  - Transfers of Assembly functions: laying of reports and statements
+    - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+    - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+  - Transfers of Assembly functions: property, rights and liabilities
+    - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+    - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+    - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+    - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+    - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+  - Criminal Liability of the Assembly
+    - [Sch. 11 para. 42A](schedule/11/paragraph/42A.md)
+  - Staff of the Assembly
+    - [Sch. 11 para. 43](schedule/11/paragraph/43.md)
+  - Powers to lend money
+    - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+  - Local government scheme
+    - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+  - Voluntary sector scheme
+    - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+  - Equality of opportunity arrangements
+    - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+  - Welsh language strategy and scheme
+    - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+  - Sustainable development scheme
+    - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+  - ...
+    - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+    - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+  - Assembly Measures: criminal penalties
+    - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+  - ...
+    - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+    - [Sch. 11 para. 53A](schedule/11/paragraph/53A.md)
+    - [Sch. 11 para. 53B](schedule/11/paragraph/53B.md)
+  - ...
+    - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+  - ...
+    - [Sch. 11 para. 55](schedule/11/paragraph/55.md)
+  - ...
+    - [Sch. 11 para. 56](schedule/11/paragraph/56.md)
+  - Borrowing
+    - [Sch. 11 para. 57](schedule/11/paragraph/57.md)
+  - ...
+    - [Sch. 11 para. 58](schedule/11/paragraph/58.md)
+    - [Sch. 11 para. 59](schedule/11/paragraph/59.md)
+  - ...
+    - [Sch. 11 para. 60](schedule/11/paragraph/60.md)
+  - ...
+    - [Sch. 11 para. 61](schedule/11/paragraph/61.md)
+  - ...
+    - [Sch. 11 para. 62](schedule/11/paragraph/62.md)
+  - ...
+    - [Sch. 11 para. 63](schedule/11/paragraph/63.md)
+  - Preparation of Assembly’s annual accounts for financial year ending 31st March 2007
+    - [Sch. 11 para. 63A](schedule/11/paragraph/63A.md)
+  - Preparation of whole of government accounts for year ending 31st March 2007
+    - [Sch. 11 para. 63B](schedule/11/paragraph/63B.md)
+  - ...
+    - [Sch. 11 para. 64](schedule/11/paragraph/64.md)
+  - Auditor General’s staff
+    - [Sch. 11 para. 64A](schedule/11/paragraph/64A.md)
+  - ...
+    - [Sch. 11 para. 64B](schedule/11/paragraph/64B.md)
+    - [Sch. 11 para. 64C](schedule/11/paragraph/64C.md)
+  - Audit Committee reports
+    - [Sch. 11 para. 64D](schedule/11/paragraph/64D.md)
+  - Examinations into use of resources by the 1998 Assembly
+    - [Sch. 11 para. 64E](schedule/11/paragraph/64E.md)
+  - ...
+    - [Sch. 11 para. 64F](schedule/11/paragraph/64F.md)
+  - ...
+    - [Sch. 11 para. 64G](schedule/11/paragraph/64G.md)
+  - ...
+    - [Sch. 11 para. 65](schedule/11/paragraph/65.md)
+  - ...
+    - [Sch. 11 para. 66](schedule/11/paragraph/66.md)
+    - [Sch. 11 para. 67](schedule/11/paragraph/67.md)
+- SCHEDULE 12 Repeals and revocations
