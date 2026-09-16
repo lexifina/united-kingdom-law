@@ -1,0 +1,501 @@
+# Scotland Act 1998
+
+1998 c. 46. Enacted 1998-11-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 27 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/46
+
+Source: https://www.legislation.gov.uk/ukpga/1998/46/2026-09-16
+
+## Contents
+
+- Part I The Scottish Parliament
+  - The Scottish Parliament
+    - [s. 1 The Scottish Parliament.](section/1.md)
+  - General elections
+    - [s. 2 Ordinary general elections.](section/2.md)
+    - [s. 3 Extraordinary general elections.](section/3.md)
+    - [s. 4 Calculating time for meeting of the Parliament.](section/4.md)
+    - [s. 5 Candidates.](section/5.md)
+    - [s. 6 Poll for regional members.](section/6.md)
+    - [s. 7 Calculation of regional figures.](section/7.md)
+    - [s. 8 Allocation of seats to regional members.](section/8.md)
+  - Vacancies
+    - [s. 9 Constituency vacancies.](section/9.md)
+    - [s. 10 Regional vacancies.](section/10.md)
+  - Franchise and conduct of elections
+    - [s. 11 Electors.](section/11.md)
+    - [s. 12 Power of the Scottish Ministers to make provision about elections](section/12.md)
+    - [s. 12A Power of the Secretary of State to make provision about the combination of polls](section/12A.md)
+    - [s. 12B Power to make provision about the use of the UK digital service for absent voting applications](section/12B.md)
+  - Duration of membership
+    - [s. 13 Term of office of members.](section/13.md)
+    - [s. 14 Resignation of members.](section/14.md)
+  - Disqualification
+    - [s. 15 Disqualification from membership of the Parliament.](section/15.md)
+    - [s. 16 Exceptions and relief from disqualification.](section/16.md)
+    - [s. 17 Effect of disqualification.](section/17.md)
+    - [s. 18 Judicial proceedings as to disqualification.](section/18.md)
+  - Presiding Officer and administration
+    - [s. 19 Presiding Officer.](section/19.md)
+    - [s. 20 Clerk of the Parliament.](section/20.md)
+    - [s. 21 Scottish Parliamentary Corporate Body.](section/21.md)
+  - Proceedings etc.
+    - [s. 22 Standing orders.](section/22.md)
+    - [s. 23 Power to call for witnesses and documents.](section/23.md)
+    - [s. 23A Power to impose requirements on specific bodies](section/23A.md)
+    - [s. 24 Witnesses and documents: notice.](section/24.md)
+    - [s. 25 Witnesses and documents: offences.](section/25.md)
+    - [s. 26 Witnesses and documents: general.](section/26.md)
+    - [s. 27 Participation of the Scottish Law Officers.](section/27.md)
+  - Legislation
+    - [s. 28 Acts of the Scottish Parliament.](section/28.md)
+    - [s. 29 Legislative competence.](section/29.md)
+    - [s. 30 Legislative competence: supplementary.](section/30.md)
+    - [s. 30A Legislative competence: restriction relating to retained EU law](section/30A.md)
+    - [s. 31 Scrutiny of Bills for legislative competence and protected subject-matter.](section/31.md)
+    - [s. 31A Two-thirds majority for Bills relating to a protected subject-matter](section/31A.md)
+    - [s. 32 Submission of Bills for Royal Assent.](section/32.md)
+    - [s. 32A Scrutiny of Bills by the Supreme Court (protected subject-matter)](section/32A.md)
+    - [s. 33 Scrutiny of Bills by the Supreme Court (legislative competence).](section/33.md)
+    - [s. 34 ECJ references.](section/34.md)
+    - [s. 35 Power to intervene in certain cases.](section/35.md)
+    - [s. 36 Stages of Bills.](section/36.md)
+  - Other provisions
+    - [s. 37 Acts of Union.](section/37.md)
+    - [s. 38 Letters Patent and proclamations.](section/38.md)
+    - [s. 39 Members’ interests.](section/39.md)
+  - Legal issues
+    - [s. 40 Proceedings by or against the Parliament etc.](section/40.md)
+    - [s. 41 Defamatory statements.](section/41.md)
+    - [s. 42 Contempt of court.](section/42.md)
+    - [s. 43 Corrupt practices.](section/43.md)
+- Part II The Scottish Administration
+  - Ministers and their staff
+    - [s. 44 The Scottish Government.](section/44.md)
+    - [s. 45 The First Minister.](section/45.md)
+    - [s. 46 Choice of the First Minister.](section/46.md)
+    - [s. 47 Ministers.](section/47.md)
+    - [s. 48 The Scottish Law Officers.](section/48.md)
+    - [s. 49 Junior Scottish Ministers.](section/49.md)
+    - [s. 50 Validity of acts of Scottish Ministers etc.](section/50.md)
+    - [s. 51 The Civil Service.](section/51.md)
+  - Ministerial functions
+    - [s. 52 Exercise of functions.](section/52.md)
+    - [s. 53 General transfer of functions.](section/53.md)
+    - [s. 54 Devolved competence.](section/54.md)
+    - [s. 55 Functions exercisable with agreement.](section/55.md)
+    - [s. 56 Shared powers.](section/56.md)
+    - [s. 57 ... Convention rights ....](section/57.md)
+    - [s. 58 Power to prevent or require action.](section/58.md)
+  - Property and liabilities
+    - [s. 59 Property and liabilities of the Scottish Ministers.](section/59.md)
+    - [s. 60 Transfers to the Scottish Ministers.](section/60.md)
+    - [s. 61 Property and liabilities of the Lord Advocate and the First Minister.](section/61.md)
+    - [s. 62 Transfers to the Lord Advocate.](section/62.md)
+  - Transfer of additional functions
+    - [s. 63 Power to transfer functions.](section/63.md)
+- PART 2A Permanence of the Scottish Parliament and Scottish Government
+  - [s. 63A Permanence of the Scottish Parliament and Scottish Government](section/63A.md)
+- Part III Financial Provisions
+  - [s. 64 Scottish Consolidated Fund.](section/64.md)
+  - [s. 64A Assignment of VAT](section/64A.md)
+  - [s. 65 Payments out of the Fund.](section/65.md)
+  - [s. 65A Destination of fines, forfeitures and fixed penalties](section/65A.md)
+  - [s. 66 Borrowing by the Scottish Ministers etc.](section/66.md)
+  - [s. 67 Lending by the Secretary of State.](section/67.md)
+  - [s. 67A Lending for capital expenditure](section/67A.md)
+  - [s. 68 Borrowing by statutory bodies.](section/68.md)
+  - [s. 69 The Auditor General for Scotland.](section/69.md)
+  - [s. 70 Financial control, accounts and audit.](section/70.md)
+  - [s. 71 Existing debt.](section/71.md)
+  - [s. 72 Accounts of loans to the Scottish Ministers.](section/72.md)
+- Part IV The tax-varying power
+  - [s. 73 Power to fix basic rate for Scottish taxpayers.](section/73.md)
+  - [s. 74 Supplemental provision with respect to resolutions.](section/74.md)
+  - [s. 75 Scottish taxpayers.](section/75.md)
+  - [s. 76 Changes to income tax structure.](section/76.md)
+  - [s. 77 Accounting for additional Scottish tax.](section/77.md)
+  - [s. 78 Effect of tax reduction for Scottish taxpayers.](section/78.md)
+  - [s. 79 Supplemental powers to modify enactments.](section/79.md)
+  - [s. 80 Reimbursement of expenses.](section/80.md)
+- Part 4A Taxation
+  - CHAPTER 1 Introductory
+    - [s. 80A Overview of Part 4A](section/80A.md)
+    - [s. 80B Power to add new devolved taxes](section/80B.md)
+  - CHAPTER 2 Income Tax
+    - [s. 80C Power to set Scottish rates for Scottish taxpayers](section/80C.md)
+    - [s. 80D Scottish taxpayers](section/80D.md)
+    - [s. 80DA Scottish taxpayers: Welsh parliamentarians](section/80DA.md)
+    - [s. 80E Close connection with Scotland or another part of the UK](section/80E.md)
+    - [s. 80F Days spent in Scotland or another part of the UK](section/80F.md)
+    - [s. 80G Supplemental powers to modify enactments](section/80G.md)
+    - [s. 80H Reimbursement of expenses](section/80H.md)
+    - [s. 80HA Report by the Comptroller and Auditor General](section/80HA.md)
+  - CHAPTER 3 Tax on transactions involving interests in land
+    - [s. 80I Tax on transactions involving interests in land](section/80I.md)
+    - [s. 80J Certain transactions not taxable](section/80J.md)
+  - CHAPTER 4 Tax on disposals to landfill
+    - [s. 80K Tax on disposals to landfill](section/80K.md)
+  - CHAPTER 5 Tax on carriage of passengers by air
+    - [s. 80L Tax on carriage of passengers by air](section/80L.md)
+  - CHAPTER 6 Tax on commercial exploitation of aggregate
+    - [s. 80M Tax on commercial exploitation of aggregate](section/80M.md)
+  - CHAPTER 7 Tax on Wild Fisheries
+    - [s. 80N Tax on Wild Fisheries](section/80N.md)
+  - CHAPTER 8 TAX IN CONNECTION WITH BUILDING CONTROL APPROVAL ETC
+    - [s. 80O Tax in connection with building control approval etc](section/80O.md)
+- Part V Miscellaneous and general
+  - Remuneration of members of the Parliament and Government
+    - [s. 81 Remuneration of members of the Parliament and Government.](section/81.md)
+    - [s. 82 Limits on salaries of members of the Parliament.](section/82.md)
+    - [s. 83 Remuneration: supplementary.](section/83.md)
+  - Other provision about members of the Parliament etc.
+    - [s. 84 Oaths.](section/84.md)
+    - [s. 85 Exemption from jury service.](section/85.md)
+  - Arrangements at Westminster
+    - [s. 86 Scottish representation at Westminster.](section/86.md)
+    - [s. 87 The Advocate General for Scotland.](section/87.md)
+  - Cross-border public authorities
+    - [s. 88 Cross-border public authorities: initial status.](section/88.md)
+    - [s. 89 Power to adapt etc. cross-border public authorities.](section/89.md)
+    - [s. 90 Power to transfer property of cross-border public authorities.](section/90.md)
+  - The BBC
+    - [s. 90A BBC Trust member for Scotland](section/90A.md)
+  - The Crown Estate
+    - [s. 90B The Crown Estate](section/90B.md)
+  - Renewable electricity incentive schemes
+    - [s. 90C Renewable electricity incentive schemes: consultation](section/90C.md)
+  - Miscellaneous
+    - [s. 91 Maladministration.](section/91.md)
+    - [s. 92 Queen’s Printer for Scotland.](section/92.md)
+    - [s. 93 Agency arrangements.](section/93.md)
+    - [s. 94 Private legislation.](section/94.md)
+    - [s. 95 Appointment and removal of judges.](section/95.md)
+    - [s. 96 Provision of information to the Treasury.](section/96.md)
+    - [s. 96A Provision of information to the Office for Budget Responsibility](section/96A.md)
+    - [s. 97 Assistance for registered political parties in the Parliament.](section/97.md)
+  - Juridical
+    - [s. 98 Devolution issues.](section/98.md)
+    - [s. 99 Rights and liabilities of the Crown in different capacities.](section/99.md)
+    - [s. 100 Human rights.](section/100.md)
+    - [s. 101 Interpretation of Acts of the Scottish Parliament etc.](section/101.md)
+    - [s. 102 Powers of courts or tribunals to vary retrospective decisions.](section/102.md)
+    - [s. 103 The Judicial Committee.](section/103.md)
+  - Supplementary powers
+    - [s. 104 Power to make provision consequential on legislation of, or scrutinised by, the Parliament.](section/104.md)
+    - [s. 105 Power to make provision consequential on this Act.](section/105.md)
+    - [s. 106 Power to adapt functions.](section/106.md)
+    - [s. 107 Legislative power to remedy ultra vires acts.](section/107.md)
+    - [s. 108 Agreed redistribution of functions exercisable by the Scottish Ministers etc.](section/108.md)
+    - [s. 109 Agreed redistribution of property and liabilities.](section/109.md)
+    - [s. 110 Scottish taxpayers for social security purposes.](section/110.md)
+    - [s. 111 Regulation of Tweed and Esk fisheries.](section/111.md)
+- Part VI Supplementary
+  - Subordinate legislation
+    - [s. 112 Subordinate legislation: general.](section/112.md)
+    - [s. 113 Subordinate legislation: scope of powers.](section/113.md)
+    - [s. 114 Subordinate legislation: particular provisions.](section/114.md)
+    - [s. 115 Subordinate legislation: procedure.](section/115.md)
+    - [s. 116 Transfer of property: supplementary.](section/116.md)
+  - General modification of enactments
+    - [s. 117 Ministers of the Crown.](section/117.md)
+    - [s. 118 Subordinate instruments.](section/118.md)
+    - [s. 119 Consolidated Fund etc.](section/119.md)
+    - [s. 120 Accounts and audit.](section/120.md)
+    - [s. 121 Requirements to lay reports etc. before Parliament.](section/121.md)
+    - [s. 122 Crown land.](section/122.md)
+    - [s. 123 Stamp duty.](section/123.md)
+    - [s. 124 Modification of sections 94 and 117 to 122.](section/124.md)
+  - Amendments and repeals
+    - [s. 125 Amendments and repeals.](section/125.md)
+  - Final provisions
+    - [s. 126 Interpretation.](section/126.md)
+    - [s. 127 Index of defined expressions.](section/127.md)
+    - [s. 128 Expenses.](section/128.md)
+    - [s. 129 Transitional provisions etc.](section/129.md)
+    - [s. 130 Commencement.](section/130.md)
+    - [s. 131 Extent.](section/131.md)
+    - [s. 132 Short title.](section/132.md)
+- SCHEDULE 1 Constituencies, regions and regional members
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Reports of Boundaries Scotland
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - ...
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Orders in Council
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Notice of proposed report or recommendations
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Local inquiries
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The constituency rules
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - The regional rules
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Scottish Parliamentary Corporate Body
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Property
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Staff
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Powers
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Delegation
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Proceedings and business
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Crown status
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Standing orders – further provision
+  - Preservation of order
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Withdrawal of rights and privileges
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Proceedings to be in public
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Reporting and publishing proceedings
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Presiding Officer and deputies
+  - Committees
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Crown interests
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Enactments etc. protected from modification
+  - Part I The protected provisions
+    - Particular enactments
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - The law on reserved matters
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - This Act
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 4A](schedule/4/paragraph/4A.md)
+    - Enactments modified by this Act
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Shared powers
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part II General exceptions
+    - Restatement, etc.
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Effect of Interpretation Act 1978
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Change of title etc.
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Accounts and audit and maladministration
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Subordinate legislation
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Part III Consequential modification of sections 53 and 54
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 Reserved matters
+  - Part I General reservations
+    - The Constitution
+      - [Sch. 5 Pt. I heading the-constitution para. 1](schedule/5/part/I/crossheading/the-constitution/paragraph/1.md)
+      - [Sch. 5 Pt. I heading the-constitution para. 2](schedule/5/part/I/crossheading/the-constitution/paragraph/2.md)
+      - [Sch. 5 Pt. I heading the-constitution para. 3](schedule/5/part/I/crossheading/the-constitution/paragraph/3.md)
+      - [Sch. 5 Pt. I heading the-constitution para. 4](schedule/5/part/I/crossheading/the-constitution/paragraph/4.md)
+      - [Sch. 5 Pt. I heading the-constitution para. 5](schedule/5/part/I/crossheading/the-constitution/paragraph/5.md)
+      - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+    - Political parties
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Foreign affairs etc.
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Public service
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Defence
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Treason
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Part II Specific reservations
+    - Preliminary
+      - [Sch. 5 Pt. II heading preliminary para. 1](schedule/5/part/II/crossheading/preliminary/paragraph/1.md)
+      - [Sch. 5 Pt. II heading preliminary para. 2](schedule/5/part/II/crossheading/preliminary/paragraph/2.md)
+      - [Sch. 5 Pt. II heading preliminary para. 3](schedule/5/part/II/crossheading/preliminary/paragraph/3.md)
+    - Reservations
+    - Head A – Financial and Economic Matters
+    - Head B – Home Affairs
+    - Head C – Trade and Industry
+      - [Sch. 5 para. C16 Distortive or harmful subsidies](schedule/5/paragraph/C16.md)
+    - Head D – Energy
+    - Head E – Transport
+    - Head F – Social Security
+    - Head G – Regulation of the Professions
+    - Head H – Employment
+    - Head J – Health and Medicines
+    - Head K – Media and Culture
+    - Head L – Miscellaneous
+  - Part III General provisions
+    - Scottish public authorities
+      - [Sch. 5 Pt. III heading scottish-public-authorities para. 1](schedule/5/part/III/crossheading/scottish-public-authorities/paragraph/1.md)
+      - [Sch. 5 Pt. III heading scottish-public-authorities para. 2](schedule/5/part/III/crossheading/scottish-public-authorities/paragraph/2.md)
+    - Tribunals
+      - [Sch. 5 Pt. III heading scottish-public-authorities para. 1n1](schedule/5/part/III/crossheading/scottish-public-authorities/paragraph/1n1.md)
+    - Reserved bodies
+      - [Sch. 5 Pt. III heading reserved-bodies para. 3](schedule/5/part/III/crossheading/reserved-bodies/paragraph/3.md)
+    - Financial assistance to industry
+      - [Sch. 5 Pt. III heading financial-assistance-to-industry para. 4](schedule/5/part/III/crossheading/financial-assistance-to-industry/paragraph/4.md)
+    - Assisted dying: identification and regulation of substances and devices
+      - [Sch. 5 para. 4A](schedule/5/paragraph/4A.md)
+    - Interpretation
+      - [Sch. 5 Pt. III heading interpretation para. 5](schedule/5/part/III/crossheading/interpretation/paragraph/5.md)
+- SCHEDULE 6 Devolution issues
+  - Part I Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Part II Proceedings in Scotland
+    - Application of Part II
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Institution of proceedings
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Intimation of devolution issue
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Reference of devolution issue to higher court
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - References from superior courts to Supreme Court
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Appeals from superior courts to Supreme Court
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 13A](schedule/6/paragraph/13A.md)
+      - [Sch. 6 para. 13B](schedule/6/paragraph/13B.md)
+  - Part III Proceedings in England and Wales
+    - Application of Part III
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Institution of proceedings
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Notice of devolution issue
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Reference of devolution issue to High Court or Court of Appeal
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - References from Court of Appeal to Supreme Court
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Appeals from superior courts to Supreme Court
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Part IV Proceedings in Northern Ireland
+    - Application of Part IV
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Institution of proceedings
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Notice of devolution issue
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Reference of devolution issue to Court of Appeal
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - References from Court of Appeal to Supreme Court
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - Appeals from Court of Appeal to Supreme Court
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+  - Part V General
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Direct references to Supreme Court
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - Expenses
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - Procedure of courts and tribunals
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - Interpretation
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+- SCHEDULE 7 Procedure for subordinate legislation
+  - General provision
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Types of procedure
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Special cases
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 3A](schedule/7/paragraph/3A.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Modifications of enactments
+  - Public Revenue (Scotland) Act 1833 (c.13)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Crown Suits (Scotland) Act 1857 (c.44)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Sheriff Courts and Legal Officers (Scotland) Act 1927 (c.35)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Administration of Justice (Scotland) Act 1933 (c.41)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Private Legislation Procedure (Scotland) Act 1936 (c.52)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - United Nations Act 1946 (c.45)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Crown Proceedings Act 1947 (c.44)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Public Registers and Records (Scotland) Act 1948 (c.57)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Lands Tribunal Act 1949 (c.42)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Defamation Act 1952 (c.66)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Defamation Act (Northern Ireland) 1955 (c.11 (N.I.))
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c.49)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Pensions (Increase) Act 1971 (c.56)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Superannuation Act 1972 (c.11)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - ...
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Interpretation Act 1978 (c.30)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Education (Scotland) Act 1980 (c.44)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Civil Jurisdiction and Judgments Act 1982 (c.27)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - ...
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - National Audit Act 1983 (c.44)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Tourism (Overseas Promotion) (Scotland) Act 1984 (c.4)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Bankruptcy (Scotland) Act 1985 (c.66)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Insolvency Act 1986 (c.45)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Public Order Act 1986 (c.64)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - Copyright, Designs and Patents Act 1988 (c.48)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Official Secrets Act 1989 (c.6)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Prisons (Scotland) Act 1989 (c.45)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - European Communities (Amendment) Act 1993 (c.32)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - Scottish Land Court Act 1993 (c.45)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - Value Added Tax Act 1994 (c.23)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - Requirements of Writing (Scotland) Act 1995 (c.7)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - Criminal Procedure (Scotland) Act 1995 (c.46)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - Defamation Act 1996 (c.31)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - Damages Act 1996 (c.48)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+- SCHEDULE 9 Repeals
