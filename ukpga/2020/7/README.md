@@ -1,0 +1,1016 @@
+# Coronavirus Act 2020
+
+2020 c. 7. Enacted 2020-03-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
+
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2026-09-17
+
+## Contents
+
+- PART 1 Main provisions
+  - Interpretation
+    - [s. 1 Meaning of “coronavirus” and related terminology](section/1.md)
+  - Emergency registration of health professionals
+    - [s. 2 Emergency registration of nurses and other health and care professionals](section/2.md)
+    - [s. 3 Emergency arrangements concerning medical practitioners: Wales](section/3.md)
+    - [s. 4 Emergency arrangements concerning medical practitioners: Scotland](section/4.md)
+    - [s. 5 Emergency registration of and extension of prescribing powers for pharmaceutical chemists: Northern Ireland](section/5.md)
+  - Temporary registration of social workers
+    - [s. 6 Emergency registration of social workers: England and Wales](section/6.md)
+    - [s. 7 Temporary registration of social workers: Scotland](section/7.md)
+  - Emergency volunteers
+    - [s. 8 Emergency volunteering leave](section/8.md)
+    - [s. 9 Compensation for emergency volunteers](section/9.md)
+  - Mental health and mental capacity
+    - [s. 10 Temporary modification of mental health and mental capacity legislation](section/10.md)
+  - Health service indemnification
+    - [s. 11 Indemnity for health service activity: England and Wales](section/11.md)
+    - [s. 12 Indemnity for health service activity: Scotland](section/12.md)
+    - [s. 13 Indemnity for health and social care activity: Northern Ireland](section/13.md)
+  - NHS and local authority care and support
+    - [s. 14 NHS Continuing Healthcare assessments: England](section/14.md)
+    - [s. 15 Local authority care and support](section/15.md)
+    - [s. 16 Duty of local authority to assess needs: Scotland](section/16.md)
+    - [s. 17 Section 16: further provision](section/17.md)
+  - Registration of deaths and still-births etc
+    - [s. 18 Registration of deaths and still-births etc](section/18.md)
+    - [s. 19 Confirmatory medical certificate not required for cremations: England and Wales](section/19.md)
+    - [s. 20 Review of cause of death certificates and cremations: Scotland](section/20.md)
+    - [s. 21 Modifications of requirements regarding medical certificates for cremations: Northern Ireland](section/21.md)
+  - Investigatory powers
+    - [s. 22 Appointment of temporary Judicial Commissioners](section/22.md)
+    - [s. 23 Time limits in relation to urgent warrants etc under Investigatory Powers Act](section/23.md)
+  - Fingerprints and DNA profiles
+    - [s. 24 Extension of time limits for retention of fingerprints and DNA profiles](section/24.md)
+  - Food supply
+    - [s. 25 Power to require information relating to food supply chains](section/25.md)
+    - [s. 26 Authorities which may require information](section/26.md)
+    - [s. 27 Restrictions on use and disclosure of information](section/27.md)
+    - [s. 28 Enforcement of requirement to provide information](section/28.md)
+    - [s. 29 Meaning of “food supply chain” and related expressions](section/29.md)
+  - Inquests
+    - [s. 30 Suspension of requirement to hold inquest with jury: England and Wales](section/30.md)
+    - [s. 31 Suspension of requirement to hold inquest with jury: Northern Ireland](section/31.md)
+    - [s. 32 Deaths in custody from natural illness: Northern Ireland](section/32.md)
+  - Disclosure: Wales
+    - [s. 33 Disapplication etc by Welsh Ministers of DBS provisions](section/33.md)
+  - Disclosure: Scotland
+    - [s. 34 Temporary disapplication of disclosure offences: Scotland](section/34.md)
+    - [s. 35 Power to reclassify certain disclosure requests: Scotland](section/35.md)
+  - Vaccinations: Scotland
+    - [s. 36 Vaccination and immunisation: Scotland](section/36.md)
+  - Schools, childcare providers etc
+    - [s. 37 Temporary closure of educational institutions and childcare premises](section/37.md)
+    - [s. 38 Temporary continuity: education, training and childcare](section/38.md)
+  - Statutory sick pay
+    - [s. 39 Statutory sick pay: funding of employers’ liabilities](section/39.md)
+    - [s. 40 Statutory sick pay: power to disapply waiting period limitation](section/40.md)
+    - [s. 41 Statutory sick pay: modification of regulation making powers](section/41.md)
+    - [s. 42 Statutory sick pay: funding of employers’ liabilities: Northern Ireland](section/42.md)
+    - [s. 43 Statutory sick pay: power to disapply waiting period limitation: Northern Ireland](section/43.md)
+    - [s. 44 Statutory sick pay: modification of regulation making powers: Northern Ireland](section/44.md)
+  - Pensions
+    - [s. 45 NHS pension schemes: suspension of restrictions on return to work: England and Wales](section/45.md)
+    - [s. 46 NHS pension schemes: suspension of restrictions on return to work: Scotland](section/46.md)
+    - [s. 47 Health and social care pension schemes: suspension of restrictions on return to work: Northern Ireland](section/47.md)
+  - Protection of public health
+    - [s. 48 Powers to act for the protection of public health: Northern Ireland](section/48.md)
+    - [s. 49 Health protection regulations: Scotland](section/49.md)
+  - Power to suspend port operations
+    - [s. 50 Power to suspend port operations](section/50.md)
+  - Powers relating to potentially infectious persons
+    - [s. 51 Powers relating to potentially infectious persons](section/51.md)
+  - Powers relating to events, gatherings and premises
+    - [s. 52 Powers to issue directions relating to events, gatherings and premises](section/52.md)
+  - Courts and tribunals: use of video and audio technology
+    - [s. 53 Expansion of availability of live links in criminal proceedings](section/53.md)
+    - [s. 54 Expansion of availability of live links in other criminal hearings](section/54.md)
+    - [s. 55 Public participation in proceedings conducted by video or audio](section/55.md)
+    - [s. 56 Live links in magistrates’ court appeals against requirements or restrictions imposed on a potentially infectious person](section/56.md)
+    - [s. 57 Use of live links in legal proceedings: Northern Ireland](section/57.md)
+  - Powers in relation to bodies
+    - [s. 58 Powers in relation to transportation, storage and disposal of dead bodies etc](section/58.md)
+  - Postponement of elections, referendums, recall petitions and canvass
+    - [s. 59 Elections and referendums due to be held in England in period after 15 March 2020](section/59.md)
+    - [s. 60 Postponement of elections due to be held on 7 May 2020](section/60.md)
+    - [s. 61 Power to postpone certain other elections and referendums](section/61.md)
+    - [s. 62 Power to postpone a recall petition under the Recall of MPs Act 2015](section/62.md)
+    - [s. 63 Power to make supplementary etc provision](section/63.md)
+    - [s. 64 Northern Ireland: timing of canvass and Assembly by-elections](section/64.md)
+  - Postponement of elections: Wales
+    - [s. 65 Elections due to be held in Wales in period after 15 March 2020](section/65.md)
+    - [s. 66 Postponement of National Assembly for Wales elections for constituency vacancies](section/66.md)
+    - [s. 67 Power to postpone local authority elections in Wales for casual vacancies](section/67.md)
+    - [s. 68 Power to make supplementary etc provision](section/68.md)
+  - Postponement of elections: Scotland
+    - [s. 69 Postponement of Scottish Parliament elections for constituency vacancies](section/69.md)
+    - [s. 70 Postponement of local authority elections in Scotland for casual vacancies](section/70.md)
+  - Other administrative requirements
+    - [s. 71 Signatures of Treasury Commissioners](section/71.md)
+  - National Insurance Contributions
+    - [s. 72 Power under section 143 of the Social Security Administration Act 1992](section/72.md)
+    - [s. 73 Power under section 145 of the Social Security Administration Act 1992](section/73.md)
+    - [s. 74 Power under section 5 of the National Insurance Contributions Act 2014](section/74.md)
+  - Financial assistance for industry
+    - [s. 75 Disapplication of limit under section 8 of the Industrial Development Act 1982](section/75.md)
+  - HMRC functions
+    - [s. 76 HMRC functions](section/76.md)
+  - Up-rating of working tax credit etc
+    - [s. 77 Up-rating of working tax credit etc](section/77.md)
+  - Local authority meetings
+    - [s. 78 Local authority meetings](section/78.md)
+  - Business improvement districts
+    - [s. 79 Extension of BID arrangements: England](section/79.md)
+    - [s. 80 Extension of BID arrangements: Northern Ireland](section/80.md)
+  - Residential tenancies: protection from eviction
+    - [s. 81 Residential tenancies in England and Wales: protection from eviction](section/81.md)
+  - Business tenancies: protection from forfeiture etc
+    - [s. 82 Business tenancies in England and Wales: protection from forfeiture etc](section/82.md)
+    - [s. 83 Business tenancies in Northern Ireland: protection from forfeiture etc](section/83.md)
+  - General Synod of the Church of England
+    - [s. 84 Postponement of General Synod elections](section/84.md)
+- PART 2 Final provisions
+  - [s. 85 Interpretation](section/85.md)
+  - [s. 86 Financial provision](section/86.md)
+  - [s. 87 Commencement](section/87.md)
+  - [s. 88 Power to suspend and revive provisions of this Act](section/88.md)
+  - [s. 89 Expiry](section/89.md)
+  - [s. 90 Power to alter expiry date](section/90.md)
+  - [s. 91 Power to amend Act in consequence of amendments to subordinate legislation](section/91.md)
+  - [s. 92 Power to make consequential modifications](section/92.md)
+  - [s. 93 Procedure for certain regulations made by a Minister of the Crown](section/93.md)
+  - [s. 94 Procedure for certain regulations made by the Welsh Ministers](section/94.md)
+  - [s. 95 Procedure for certain regulations made by the Scottish Ministers](section/95.md)
+  - [s. 96 Procedure for certain orders made by a Northern Ireland department](section/96.md)
+  - [s. 97 Reports by Secretary of State on status of non-devolved provisions of this Act](section/97.md)
+  - [s. 98 Six-month parliamentary review](section/98.md)
+  - [s. 99 Parliamentary consideration of status of non-devolved provisions of this Act](section/99.md)
+  - [s. 100 Extent](section/100.md)
+  - [s. 101 Extension to the Isle of Man](section/101.md)
+  - [s. 102 Short title](section/102.md)
+- SCHEDULE 1 Emergency registration of nurses and other health and care professionals
+  - Nursing and Midwifery Order 2001
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Health Professions Order 2001
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Emergency arrangements concerning medical practitioners: Wales
+  - Temporary exception to rule requiring listing in order to perform primary medical services
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Modification of General Medical Services Contracts Regulations 2004
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Power to modify Schedule
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Emergency arrangements concerning medical practitioners: Scotland
+  - National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - National Health Service (Primary Medical Services Section 17C Arrangements) (Scotland) Regulations 2018
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Power to modify Schedule
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Emergency registration of pharmaceutical chemists and extension of prescribing powers: Northern Ireland
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Emergency registration of pharmaceutical chemists
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Emergency extension of prescribing powers for pharmaceutical chemists
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Appeals
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Power to require disclosure of information
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Emergency registration of social workers: England and Wales
+  - Social Workers Regulations 2018
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Regulation and Inspection of Social Care (Wales) Act 2016
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 Temporary registration of social workers: Scotland
+  - Regulation of Care (Scotland) Act 2001
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Social workers and social service workers in care services
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 7 Emergency volunteering leave
+  - PART 1 Entitlement to emergency volunteering leave
+    - Entitlement to emergency volunteering leave
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Meaning of “volunteering period”
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Exceptions to entitlement to emergency volunteering leave
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Meaning of “appropriate authority”
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - PART 2 Effect of taking emergency volunteering leave
+    - Application of terms and conditions of employment
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Right to return
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Pension rights
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - PART 3 Modifications of Employment Rights Act 1996
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - PART 4 Modifications of Employment Rights (Northern Ireland) Order 1996
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - PART 5 General
+    - Application of this Schedule to agency workers
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Interpretation
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Regulations
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+- SCHEDULE 8 Mental health: England and Wales
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - PART 2 Modifications of the Mental Health Act 1983 and related provision
+    - Applications for compulsory admission to hospital for assessment or treatment
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Applications for compulsory admission of patients already in hospital
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Period of remand to hospital
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Court orders for the detention of accused or convicted persons in hospital
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Directions for the transfer of prisoners to hospital
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Conveyance of accused or convicted persons to hospital
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Administration of medicine to persons liable to detention in hospital
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Detention in place of safety
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Constitution and proceedings of the Mental Health Review Tribunal for Wales
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - PART 3 Transitional provision
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+- SCHEDULE 9 Mental health: Scotland
+  - PART 1 Introductory provision etc
+    - Interpretation
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Forms
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - PART 2 Modifications of the Mental Health (Care and Treatment) (Scotland) Act 2003
+    - Emergency detention
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Short-term detention certificates
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Compulsory treatment orders
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Transfer for treatment directions
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Nurse’s power to detain pending medical examination
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Admission to hospital
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Suspension of requirements to review orders and directions authorising detention
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Administration of medicine
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Constitution of Mental Health Tribunal for Scotland
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - PART 3 Modifications of the Criminal Procedure (Scotland) Act 1995
+    - Assessment orders: extension
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Court orders authorising detention
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Admission to hospital
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - PART 4 Modifications of subordinate legislation
+    - The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005 (SSI 2005/519)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - The Mental Health (Conflict of Interest) (Scotland) Regulations 2017 (SSI 2017/174)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Mental health: Northern Ireland
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - PART 2 Modifications of the Mental Health (Northern Ireland) Order 1986
+    - Applications for compulsory admission to hospital for assessment
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Medical recommendation
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Applications for compulsory admission for assessment in respect of patients already in hospital
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - The assessment period
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Rectification of applications, recommendations and reports
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Detention for treatment
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Periods of remand to hospital
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Required medical evidence for remand to hospital, hospital or guardianship order, interim hospital order, determinations of question of fitness to be tried or finding of not guilty on ground of insanity
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Required medical evidence for hospital order in respect of certain other detained persons in their absence
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Directions for the transfer of prisoners etc to hospital
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Conveyance of accused or convicted persons to hospital
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Designation of, and admission of persons to, different hospitals in pursuance of hospital orders
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Code of practice
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - PART 3 Transitional provision
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - PART 4 Review of operation of certain provisions of this Schedule
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+- SCHEDULE 11 Mental capacity: Northern Ireland
+  - PART 1 Introductory provision etc
+    - Interpretation
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Prescribed forms
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - PART 2 Modifications of the Mental Capacity Act (Northern Ireland) 2016
+    - Proceedings of panels constituted to decide applications
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Time limit for panel’s decisions regarding authorisations of certain serious interventions
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Interim authorisations by panels of certain serious interventions
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Report authorising short-term detention in hospital for examination etc
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Consultation required before such a report is made
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Extension by panel of period of authorisation
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Additional notification requirements for panels
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Period of detention in place of safety
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Periods of remand to hospital
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Required medical evidence for court to be satisfied treatment condition is met in relation to remand to hospital
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Required medical evidence for public protection orders, interim detention orders, determinations of question of fitness to be tried or findings of not guilty on ground of insanity
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Required medical evidence for hospital directions
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Extension reports in relation to public protection orders without restrictions
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Required medical evidence for directions for the transfer of prisoners etc to hospital
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - Admission of person subject to hospital transfer direction to hospital
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Code of practice
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - PART 3 Transitional provision
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - PART 4 Review of operation of certain provisions of this Schedule
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+- SCHEDULE 12 Local authority care and support
+  - PART 1 Powers and duties of local authorities in England
+    - Introductory
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Assessing needs for care and support
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Assessment of financial resources
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Duties and powers to meet needs for care and support
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - Charging for meeting needs during emergency period
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - Care and support plans etc
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - Continuity of care and support when person moves
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - Discharge of hospital patients with care and support needs
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - Transition for children to adult care and support
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - Duties arising before commencement
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - Period within which assessments may be carried out
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - Guidance
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+- SCHEDULE 13 Registration of deaths and still-births
+  - PART 1 England and Wales
+    - Interpretation
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Information concerning deaths: England and Wales
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Giving information other than in person and dispensing with signing the register
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Medical certificates of cause of death
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Delivery of documents by alternative methods
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Further modifications of the principal 1987 Regulations
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Notification of death to coroner
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Transitional provision
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - PART 2 Scotland
+    - Interpretation
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Information concerning deaths
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Giving information other than in person
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - Delivery of documents by alternative methods
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - Guidance
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - Transitional provision
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - PART 3 Northern Ireland
+    - Interpretation
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - Giving certificate of cause of still-birth directly
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - Giving certificate of notice of still-birth directly
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - Giving information to the registrar other than in person and dispensing with signing the register
+      - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+      - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - Signing of certificates of cause of death
+      - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+      - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+      - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+      - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - Giving certificate of cause of death directly
+      - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+      - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - Giving certificate of registration, or written notice, of death directly
+      - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+    - Transitional provision
+      - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+- SCHEDULE 14 Review of medical certificates of cause of death and cremations: Scotland
+  - PART 1 Review of medical certificates of cause of death
+    - Interpretation
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Power to suspend review of certain medical certificates of cause of death
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Effect of direction on existing reviews referred under section 24A of the 1965 Act
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Effect of direction on existing reviews made by application under section 4(1) of the 2011 Act
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - Automatic referral of medical certificates of the cause of death to procurator fiscal
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - PART 2 Cremations
+    - Interpretation
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Application
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Suspension of offence relating to signing of declaration
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Suspension of provisions relating to collection of ashes
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Retention of ashes during period provisions are suspended
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - Resumption of duties in relation to retained ashes after revocation
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - Suspension of local authority duty to make enquiries as to surviving relatives
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+- SCHEDULE 15 Information relating to food supply chains: financial penalties
+  - Notice of intent
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Amount of penalty
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Right to make representations
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Final notice
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Late payment
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Withdrawal or amendment of notice
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Appeals
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Enforcement
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+- SCHEDULE 16 Temporary closure of educational institutions and childcare premises
+  - PART 1 England and Wales
+    - Schools, 16 to 19 Academies, further and higher education providers
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - Registered childcare providers
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - Effect of temporary closure directions on other provisions
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - Authorisations
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - Publication, duration and guidance
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - PART 2 Scotland
+    - Interpretation
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - Duty to have regard to public health advice
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - Closure of schools etc and further and higher education institutions
+      - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - Effect of educational closure direction on other provisions
+      - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - School boarding accommodation
+      - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - Student accommodation
+      - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - Compliance and enforcement
+      - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - Publication and duration of directions
+      - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - PART 3 Northern Ireland
+    - Schools
+      - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - Institutions of further and higher education
+      - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - Childcare providers
+      - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+- SCHEDULE 17 Temporary continuity directions etc: education, training and childcare
+  - PART 1 England and Wales
+    - Temporary continuity directions: England
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Temporary continuity directions: Wales
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Temporary continuity directions: authorisations
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Publication, duration and guidance in relation to temporary continuity directions
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Notices temporarily removing or relaxing statutory provisions etc: England
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Notices temporarily removing or relaxing statutory provisions: Wales
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - PART 2 Scotland
+    - Interpretation
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Duty to have regard to public health advice
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Continuing operation of educational establishments
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Compliance and enforcement
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Publication, duration and review of directions
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - PART 3 Northern Ireland
+    - Temporary continuity directions
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Notices temporarily removing or relaxing education duties
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+- SCHEDULE 18 Powers to act for the protection of public health: Northern Ireland
+- SCHEDULE 19 Health protection regulations: Scotland
+  - Health protection regulations
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Restrictions on power to make regulations under paragraph 1
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Medical treatment
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Special restrictions and requirements
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - Health protection regulations: supplementary
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - Health protection regulations: procedure
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+- SCHEDULE 20 Power to suspend port operations
+  - Power to give direction to suspend relevant port operations
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Duration of suspension period
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Power to give consequential direction
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Supplementary provisions
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Offences
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Interpretation
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+- SCHEDULE 21 Powers relating to potentially infectious persons
+  - PART 1 Overview and interpretation
+    - Overview
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - Potentially infectious persons
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - Other definitions
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - PART 2 Powers relating to potentially infectious persons in England
+    - Declarations of risks of coronavirus in England
+      - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+      - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - Powers to direct or remove persons to a place suitable for screening and assessment
+      - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+      - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+    - Powers exercisable at a screening and assessment place: public health officers
+      - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+      - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+      - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+      - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+      - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+    - Powers exercisable at a screening and assessment place: constables and immigration officers
+      - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+    - Powers exercisable after assessment
+      - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+      - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+      - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+      - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+    - Children
+      - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+    - Formalities
+      - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+    - Ancillary powers
+      - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+    - Guidance and advice
+      - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+    - End of transmission control period
+      - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+    - Offences
+      - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+    - Revocation of regulations
+      - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+  - PART 3 Powers relating to potentially infectious persons in Scotland
+    - Declarations of risks of coronavirus in Scotland
+      - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+      - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+    - Powers to direct or remove persons to a place suitable for screening and assessment
+      - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+      - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+    - Powers exercisable at a screening and assessment place: public health officers
+      - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+      - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+      - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+      - [Sch. 21 para. 32](schedule/21/paragraph/32.md)
+      - [Sch. 21 para. 33](schedule/21/paragraph/33.md)
+    - Powers exercisable at a screening and assessment place: constables and immigration officers
+      - [Sch. 21 para. 34](schedule/21/paragraph/34.md)
+    - Powers exercisable after assessment
+      - [Sch. 21 para. 35](schedule/21/paragraph/35.md)
+      - [Sch. 21 para. 36](schedule/21/paragraph/36.md)
+      - [Sch. 21 para. 37](schedule/21/paragraph/37.md)
+      - [Sch. 21 para. 38](schedule/21/paragraph/38.md)
+      - [Sch. 21 para. 39](schedule/21/paragraph/39.md)
+    - Children
+      - [Sch. 21 para. 40](schedule/21/paragraph/40.md)
+    - Formalities
+      - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
+    - Ancillary powers
+      - [Sch. 21 para. 42](schedule/21/paragraph/42.md)
+    - Guidance and advice
+      - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
+    - End of transmission control period
+      - [Sch. 21 para. 44](schedule/21/paragraph/44.md)
+    - Offences
+      - [Sch. 21 para. 45](schedule/21/paragraph/45.md)
+    - Modifications of Public Health etc. (Scotland) Act 2008
+      - [Sch. 21 para. 46](schedule/21/paragraph/46.md)
+    - Constables
+      - [Sch. 21 para. 47](schedule/21/paragraph/47.md)
+  - PART 4 Powers relating to potentially infectious persons in Wales
+    - Declarations of risks of coronavirus in Wales
+      - [Sch. 21 para. 48](schedule/21/paragraph/48.md)
+      - [Sch. 21 para. 49](schedule/21/paragraph/49.md)
+    - Powers to direct or remove persons to a place suitable for screening and assessment
+      - [Sch. 21 para. 50](schedule/21/paragraph/50.md)
+      - [Sch. 21 para. 51](schedule/21/paragraph/51.md)
+    - Powers exercisable at a screening and assessment place: public health officers
+      - [Sch. 21 para. 52](schedule/21/paragraph/52.md)
+      - [Sch. 21 para. 53](schedule/21/paragraph/53.md)
+      - [Sch. 21 para. 54](schedule/21/paragraph/54.md)
+      - [Sch. 21 para. 55](schedule/21/paragraph/55.md)
+      - [Sch. 21 para. 56](schedule/21/paragraph/56.md)
+    - Powers exercisable at a screening and assessment place: constables and immigration officers
+      - [Sch. 21 para. 57](schedule/21/paragraph/57.md)
+    - Powers exercisable after assessment
+      - [Sch. 21 para. 58](schedule/21/paragraph/58.md)
+      - [Sch. 21 para. 59](schedule/21/paragraph/59.md)
+      - [Sch. 21 para. 60](schedule/21/paragraph/60.md)
+      - [Sch. 21 para. 61](schedule/21/paragraph/61.md)
+    - Children
+      - [Sch. 21 para. 62](schedule/21/paragraph/62.md)
+    - Formalities
+      - [Sch. 21 para. 63](schedule/21/paragraph/63.md)
+    - Ancillary powers
+      - [Sch. 21 para. 64](schedule/21/paragraph/64.md)
+    - Guidance and advice
+      - [Sch. 21 para. 65](schedule/21/paragraph/65.md)
+    - End of transmission control period
+      - [Sch. 21 para. 66](schedule/21/paragraph/66.md)
+    - Offences
+      - [Sch. 21 para. 67](schedule/21/paragraph/67.md)
+    - Revocation of regulations
+      - [Sch. 21 para. 68](schedule/21/paragraph/68.md)
+  - PART 5 Powers relating to potentially infectious persons in Northern Ireland
+    - Declarations of risks of coronavirus in Northern Ireland
+      - [Sch. 21 para. 69](schedule/21/paragraph/69.md)
+      - [Sch. 21 para. 70](schedule/21/paragraph/70.md)
+    - Powers to direct or remove persons to a place suitable for screening and assessment
+      - [Sch. 21 para. 71](schedule/21/paragraph/71.md)
+      - [Sch. 21 para. 72](schedule/21/paragraph/72.md)
+    - Powers exercisable at a screening and assessment place: public health officers
+      - [Sch. 21 para. 73](schedule/21/paragraph/73.md)
+      - [Sch. 21 para. 74](schedule/21/paragraph/74.md)
+      - [Sch. 21 para. 75](schedule/21/paragraph/75.md)
+      - [Sch. 21 para. 76](schedule/21/paragraph/76.md)
+      - [Sch. 21 para. 77](schedule/21/paragraph/77.md)
+    - Powers exercisable at a screening and assessment place: constables and immigration officers
+      - [Sch. 21 para. 78](schedule/21/paragraph/78.md)
+    - Powers exercisable after assessment
+      - [Sch. 21 para. 79](schedule/21/paragraph/79.md)
+      - [Sch. 21 para. 80](schedule/21/paragraph/80.md)
+      - [Sch. 21 para. 81](schedule/21/paragraph/81.md)
+      - [Sch. 21 para. 82](schedule/21/paragraph/82.md)
+    - Children
+      - [Sch. 21 para. 83](schedule/21/paragraph/83.md)
+    - Formalities
+      - [Sch. 21 para. 84](schedule/21/paragraph/84.md)
+    - Ancillary powers
+      - [Sch. 21 para. 85](schedule/21/paragraph/85.md)
+    - Guidance and advice
+      - [Sch. 21 para. 86](schedule/21/paragraph/86.md)
+    - End of transmission control period
+      - [Sch. 21 para. 87](schedule/21/paragraph/87.md)
+    - Offences
+      - [Sch. 21 para. 88](schedule/21/paragraph/88.md)
+    - Supplementary interpretation
+      - [Sch. 21 para. 89](schedule/21/paragraph/89.md)
+- SCHEDULE 22 Powers to issue directions relating to events, gatherings and premises
+  - PART 1 General
+    - Interpretation
+      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - Disapplication to the Parliamentary Estate
+      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - PART 2 Powers relating to events, gatherings and premises in England
+    - Declaration of threat to public health in England due to coronavirus
+      - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+      - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - Power to prohibit or otherwise restrict events or gatherings in England
+      - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - Power to close premises in England or impose restrictions on persons entering or remaining in them
+      - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - Variations and revocations
+      - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - Procedure
+      - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - Offences
+      - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+      - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - Enforcement and prosecutions
+      - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - End of public health response period
+      - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+  - PART 3 Powers relating to events, gatherings and premises in Scotland
+    - Declaration of threat to public health in Scotland due to coronavirus
+      - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+      - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+    - Power to prohibit or otherwise restrict events or gatherings in Scotland
+      - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+    - Power to close premises in Scotland or impose restrictions on persons entering or remaining in them
+      - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+    - Variations and revocations
+      - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+    - Procedure
+      - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+    - Enforcement
+      - [Sch. 22 para. 19](schedule/22/paragraph/19.md)
+    - Constables
+      - [Sch. 22 para. 20](schedule/22/paragraph/20.md)
+    - Offences
+      - [Sch. 22 para. 21](schedule/22/paragraph/21.md)
+      - [Sch. 22 para. 22](schedule/22/paragraph/22.md)
+    - Compensation
+      - [Sch. 22 para. 23](schedule/22/paragraph/23.md)
+    - End of public health response period
+      - [Sch. 22 para. 24](schedule/22/paragraph/24.md)
+    - Review
+      - [Sch. 22 para. 25](schedule/22/paragraph/25.md)
+  - PART 4 Powers relating to events, gatherings and premises in Wales
+    - Declaration of threat to public health in Wales due to coronavirus
+      - [Sch. 22 para. 26](schedule/22/paragraph/26.md)
+      - [Sch. 22 para. 27](schedule/22/paragraph/27.md)
+    - Power to prohibit or otherwise restrict events or gatherings in Wales
+      - [Sch. 22 para. 28](schedule/22/paragraph/28.md)
+    - Power to close premises in Wales or impose restrictions on persons entering or remaining in them
+      - [Sch. 22 para. 29](schedule/22/paragraph/29.md)
+    - Variations and revocations
+      - [Sch. 22 para. 30](schedule/22/paragraph/30.md)
+    - Procedure
+      - [Sch. 22 para. 31](schedule/22/paragraph/31.md)
+    - Offences
+      - [Sch. 22 para. 32](schedule/22/paragraph/32.md)
+      - [Sch. 22 para. 33](schedule/22/paragraph/33.md)
+    - Enforcement and prosecutions
+      - [Sch. 22 para. 34](schedule/22/paragraph/34.md)
+    - Compensation
+      - [Sch. 22 para. 35](schedule/22/paragraph/35.md)
+    - End of public health response period
+      - [Sch. 22 para. 36](schedule/22/paragraph/36.md)
+  - PART 5 Powers relating to events, gatherings and premises in Northern Ireland
+    - Declaration of threat to public health in Northern Ireland due to coronavirus
+      - [Sch. 22 para. 37](schedule/22/paragraph/37.md)
+      - [Sch. 22 para. 38](schedule/22/paragraph/38.md)
+    - Power to prohibit or otherwise restrict events or gatherings in Northern Ireland
+      - [Sch. 22 para. 39](schedule/22/paragraph/39.md)
+    - Power to close premises in Northern Ireland or impose restrictions on persons entering or remaining in them
+      - [Sch. 22 para. 40](schedule/22/paragraph/40.md)
+    - Variations and revocations
+      - [Sch. 22 para. 41](schedule/22/paragraph/41.md)
+    - Procedure
+      - [Sch. 22 para. 42](schedule/22/paragraph/42.md)
+    - Enforcement
+      - [Sch. 22 para. 43](schedule/22/paragraph/43.md)
+    - Offences
+      - [Sch. 22 para. 44](schedule/22/paragraph/44.md)
+      - [Sch. 22 para. 45](schedule/22/paragraph/45.md)
+    - Compensation
+      - [Sch. 22 para. 46](schedule/22/paragraph/46.md)
+    - End of public health response period
+      - [Sch. 22 para. 47](schedule/22/paragraph/47.md)
+- SCHEDULE 23 Live links in criminal proceedings
+  - PART 1 Expansion of powers under the Criminal Justice Act 2003
+    - Introduction
+      - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - Live links in criminal proceedings
+      - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - Magistrates’ courts permitted to sit at other locations
+      - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - Requirement to attend at court, holding proceedings in court etc
+      - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - Warning to jury
+      - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - Rules of court
+      - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - Interpretation
+      - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - Safeguards
+      - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - PART 2 Other modifications
+    - Criminal Appeal Act 1968
+      - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - Criminal Justice Act 1988
+      - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+- SCHEDULE 24 Live links in other criminal hearings
+  - PART 1 Expansion of powers under the Crime and Disorder Act 1998
+    - Introduction
+      - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+    - Interpretation etc
+      - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+    - Expansion of availability of live links at preliminary hearings
+      - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+    - Use of live link in sentencing hearings
+      - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+    - Use of live link in certain enforcement hearings
+      - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+    - Requirement to attend at court, holding proceedings in court etc
+      - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+    - Prohibitions and limitations on use of live links
+      - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+  - PART 2 Expansion of powers under the Extradition Act 2003
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+  - PART 3 Other modifications
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
+    - Prosecution of Offences Act 1985
+      - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
+    - Serious Organised Crime and Police Act 2005
+      - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
+    - Sentencing Code
+      - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
+- SCHEDULE 25 Public participation in proceedings conducted by video or audio
+  - Criminal, civil and family proceedings
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - First-tier Tribunal and Upper Tribunal
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+- SCHEDULE 26 Live links in certain magistrates’ court proceedings
+- SCHEDULE 27 Use of live links in legal proceedings: Northern Ireland
+  - PART 1 Powers of courts and tribunals to direct use of live links
+    - Proceedings to which this Part of this Schedule applies
+      - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+    - Power to give direction for participation by live link
+      - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+    - Effect, and rescission, of directions
+      - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+    - Meaning of references to participation in proceedings
+      - [Sch. 27 para. 4](schedule/27/paragraph/4.md)
+    - Participation by persons outside the United Kingdom
+      - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+    - Meaning of “live link”
+      - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+    - Interpretation of this Part of this Schedule: general
+      - [Sch. 27 para. 7](schedule/27/paragraph/7.md)
+  - PART 2 Public participation in proceedings where live links used
+    - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+  - PART 3 Availability of live links in certain magistrates’ court proceedings in Northern Ireland
+    - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+- SCHEDULE 28 Transportation, storage and disposal of dead bodies etc
+  - PART 1 Information about capacity
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+  - PART 2 Directions and other measures to address lack of capacity
+    - Designation where there is insufficient capacity to deal with dead bodies etc
+      - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+    - Directions to do things calculated to facilitate dealing with dead bodies etc
+      - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+    - Power of ministers etc to step in
+      - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - Appropriate national authority directions to prevail
+      - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - Compensation where directions given
+      - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+    - Guidance
+      - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+    - General provisions about directions and schemes
+      - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+    - Procedure
+      - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+  - PART 3 Power to direct local authorities etc
+    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+  - PART 4 Deceased’s wishes etc
+    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+  - PART 5 Interpretation
+    - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+- SCHEDULE 29 Residential tenancies in England and Wales: protection from eviction
+  - Interpretation
+    - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+  - Rent Act 1977: protected tenancies and statutory tenancies
+    - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+  - Secure tenancies
+    - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
+    - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+  - Flexible tenancies
+    - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+  - Assured tenancies
+    - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
+  - Assured shorthold tenancies
+    - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
+  - Introductory tenancies
+    - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
+  - Demoted tenancies
+    - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
+  - Consequential modifications in relation to prescribed forms
+    - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
+    - [Sch. 29 para. 11](schedule/29/paragraph/11.md)
+    - [Sch. 29 para. 12](schedule/29/paragraph/12.md)
+  - Power to alter three month notice periods
+    - [Sch. 29 para. 13](schedule/29/paragraph/13.md)
+  - Regulations under this Schedule
+    - [Sch. 29 para. 14](schedule/29/paragraph/14.md)
