@@ -1,0 +1,309 @@
+# Judicature (Northern Ireland) Act 1978
+
+1978 c. 23. Enacted 1978-06-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 52 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1978/23
+
+Source: https://www.legislation.gov.uk/ukpga/1978/23/2026-09-17
+
+## Contents
+
+- Part I Constitution of the Court of Judicature of Northern Ireland
+  - [s. 1 The Court of Judicature.](section/1.md)
+  - [s. 2 The High Court.](section/2.md)
+  - [s. 3 The Court of Appeal.](section/3.md)
+  - [s. 4 The Crown Court.](section/4.md)
+  - [s. 5 Divisions of the High Court.](section/5.md)
+  - [s. 6 Judges of one court empowered to assist another.](section/6.md)
+  - [s. 7 Further assistance for transaction of judicial business.](section/7.md)
+  - [s. 8 Additional provisions as to persons rendering judicial assistance.](section/8.md)
+  - [s. 9 Qualification to be judge of High Court or Court of Appeal](section/9.md)
+  - [s. 10 Judicial precedence.](section/10.md)
+  - [s. 11 Exercise of functions of Lord Chief Justice.](section/11.md)
+  - [s. 12 Appointment of the Lord Chief Justice and Lords Justices of Appeal](section/12.md)
+  - [s. 12A Appointment of judges of the High Court](section/12A.md)
+  - [s. 12B Tenure of office: Lord Chief Justice](section/12B.md)
+  - [s. 12C Tenure of office: Lords Justices of Appeal and certain High Court judges](section/12C.md)
+  - [s. 13 Tenure of office, oath, etc.](section/13.md)
+  - [s. 14 Vacation of office.](section/14.md)
+  - [s. 15 Power of judges to act in cases relating to rates and taxes.](section/15.md)
+- Part II The High Court
+  - General jurisdiction
+    - [s. 16 General jurisdiction of the High Court and its judges.](section/16.md)
+    - [s. 17 Assignment of business to judges.](section/17.md)
+  - Supervisory and declaratory jurisdiction
+    - [s. 18 Application for judicial review.](section/18.md)
+    - [s. 19 Stay and interim relief.](section/19.md)
+    - [s. 20 Damages.](section/20.md)
+    - [s. 21 Power to remit matter or reverse or vary decision.](section/21.md)
+    - [s. 22 Extension of supervisory powers of High Court.](section/22.md)
+    - [s. 23 Declaratory judgments.](section/23.md)
+    - [s. 24 Injunction concerning public office.](section/24.md)
+    - [s. 25 Power of High Court to vary sentence on certiorari.](section/25.md)
+    - [s. 25A Transfer of judicial review applications to Upper Tribunal](section/25A.md)
+  - Jurisdiction in relation to persons under disability
+    - [s. 26 Wards of court.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 Co-ordination of exercise of jurisdiction in relation to persons under disability.](section/29.md)
+  - Admiralty jurisdiction
+    - [s. 30 High Court to have exclusive original jurisdiction in admiralty.](section/30.md)
+  - Miscellaneous powers of High Court
+    - [s. 31 Remittal and removal of proceedings.](section/31.md)
+    - [s. 32 Restriction on institution of vexatious actions.](section/32.md)
+    - [s. 33 Execution of instruments by order of court.](section/33.md)
+    - [s. 33A Power of High Court to award interest on debts and damages.](section/33A.md)
+- Part III The Court of Appeal and the Supreme Court
+  - [s. 34 General jurisdiction of Court of Appeal.](section/34.md)
+  - [s. 35 Appeals to Court of Appeal from High Court.](section/35.md)
+  - [s. 36 Composition of Court of Appeal.](section/36.md)
+  - [s. 37 Powers of a single judge in Court of Appeal.](section/37.md)
+  - [s. 38 Powers of court for purposes of appeals.](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 41 Appeals to Supreme Court in other criminal matters.](section/41.md)
+  - [s. 42 Appeals to Supreme Court in civil cases.](section/42.md)
+  - [s. 43 Appeals to Supreme Court from High Court.](section/43.md)
+  - [s. 44 Appeal in cases of contempt of court.](section/44.md)
+  - [s. 45 Appeal in habeas corpus proceedings.](section/45.md)
+- Part IV The Crown Court
+  - [s. 46 Exclusive jurisdiction in trial on indictment.](section/46.md)
+  - [s. 47 Exercise of jurisdiction by Crown Court.](section/47.md)
+  - [s. 48 Committal for trial on indictment.](section/48.md)
+  - [s. 49 Sentences imposed and other decisions made by Crown Court.](section/49.md)
+  - [s. 50 Right of audience.](section/50.md)
+  - [s. 51 Process to compel appearance before Crown Court.](section/51.md)
+  - [s. 51A Issue of witness summons on application to Crown Court.](section/51A.md)
+  - [s. 51B Power to require advance production.](section/51B.md)
+  - [s. 51C Summons no longer needed.](section/51C.md)
+  - [s. 51D Application to make summons ineffective.](section/51D.md)
+  - [s. 51E Issue of witness summons of Crown Court’s own motion.](section/51E.md)
+  - [s. 51F Application to make summons ineffective.](section/51F.md)
+  - [s. 51G Punishment for disobedience to witness summons.](section/51G.md)
+  - [s. 51H Further process to secure attendance of witnesses.](section/51H.md)
+  - [s. 52 Crown Court rules.](section/52.md)
+  - [s. 53 Crown Court Rules Committee.](section/53.md)
+  - [s. 53A Making of Crown Court rules](section/53A.md)
+- Part V Practice, Procedure and Trials
+  - [s. 54 The Court of Judicature Rules Committee.](section/54.md)
+  - [s. 55 Rules of Court.](section/55.md)
+  - [s. 55A Making of rules of Court](section/55A.md)
+  - [s. 56 Control and publication of rules.](section/56.md)
+  - [s. 57 High Court and Court of Appeal to be continuing courts.](section/57.md)
+  - [s. 58 Sittings of High Court and Court of Appeal.](section/58.md)
+  - [s. 59 Award of costs.](section/59.md)
+  - [s. 60 Taxation of costs.](section/60.md)
+  - [s. 61 Trial with assessors.](section/61.md)
+  - [s. 62 Trial with and without jury.](section/62.md)
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 Jury in civil actions.](section/64.md)
+  - [s. 65 Rules of court in relation to juries in civil actions.](section/65.md)
+  - [s. 66 Certain affidavits taken abroad admissible without proof of seal etc.](section/66.md)
+  - [s. 67 Subpoenas in other parts of the United Kingdom.](section/67.md)
+- Part VI Departments and Officers
+  - [s. 68 Departments.](section/68.md)
+  - [s. 68A Department of Justice’s duty](section/68A.md)
+  - [s. 69 General Functions of the Department of Justice in relation to Courts and Judgments](section/69.md)
+  - [s. 70 Appointment and qualification of statutory officers.](section/70.md)
+  - [s. 71 Tenure of office of statutory officers.](section/71.md)
+  - [s. 72 Superannuation of statutory officers.](section/72.md)
+  - [s. 73 Restrictions on practice.](section/73.md)
+  - [s. 74 Deputies and temporary appointments.](section/74.md)
+  - [s. 75 Official Solicitor.](section/75.md)
+  - [s. 76 Property held by officers.](section/76.md)
+- Part VII Funds in Court
+  - [s. 77 Accountant General.](section/77.md)
+  - [s. 78 Accounts of funds in court.](section/78.md)
+  - [s. 79 Accountant General to keep bank account.](section/79.md)
+  - [s. 80 Payments and transfers.](section/80.md)
+  - [s. 81 Investment of funds in court.](section/81.md)
+  - [s. 82 Rules as to funds in court.](section/82.md)
+  - [s. 83 ................................](section/83.md)
+  - [s. 84 Statutory deposits.](section/84.md)
+  - [s. 85 Provision for default to be made good.](section/85.md)
+- Part VIII Rules of Law in Judicial Matters Generally
+  - [s. 86 Concurrent administration of law and equity to continue.](section/86.md)
+  - [s. 87 Assignment of debts and choses in action.](section/87.md)
+  - [s. 88 Certain stipulations not to be of the essence of contracts.](section/88.md)
+  - [s. 89 Merger.](section/89.md)
+  - [s. 90 Equitable waste.](section/90.md)
+  - [s. 91 Orders for sale, mandatory or other injunctions and receivers.](section/91.md)
+  - [s. 92 Damages in lieu of or in addition to injunction or specific performance.](section/92.md)
+  - [s. 93 Suits for possession of land by mortgagors.](section/93.md)
+  - [s. 94 Relief from ejectment.](section/94.md)
+  - [s. 94A Withdrawal of privilege against incrimination of self or spouse in certain proceedings.](section/94A.md)
+- Part IX Inferior Courts
+  - County courts
+    - [s. 95 ................................](section/95.md)
+    - [s. 97 Civil jurisdiction exercisable by circuit registrars.](section/97.md)
+    - [s. 98 Appointment and assignment of county court judges.](section/98.md)
+    - [s. 99 Qualifications of county court judges and deputy judges.](section/99.md)
+    - [s. 100 Appointment and assignment of resident magistrates.](section/100.md)
+    - [s. 101 ................................](section/101.md)
+  - Supplementary
+    - [s. 102 Supplementary.](section/102.md)
+- PART 9A Use of live links in court or tribunal proceedings: public participation & offences of recording etc
+  - [s. 102A Enabling the public to see and hear proceedings](section/102A.md)
+  - [s. 102B Offences of recording or transmission in relation to broadcasting](section/102B.md)
+  - [s. 102C Offences of recording or transmitting participation through live link](section/102C.md)
+  - [s. 102D Interpretation of Part 9A](section/102D.md)
+- Part X Miscellaneous Matters
+  - [s. 103 Appointment of justices of the peace.](section/103.md)
+  - [s. 103A Power of court of record to bind over](section/103A.md)
+  - [s. 104 Under-sheriffs.](section/104.md)
+  - [s. 105 Solicitors to be officers of court.](section/105.md)
+  - [s. 106 Rights of audience in the High Court and Court of Appeal.](section/106.md)
+  - [s. 107 Qualification for holding office of solicitors who have been barristers and vice versa.](section/107.md)
+  - [s. 108 Election courts.](section/108.md)
+  - [s. 109 Enrolment etc. of instruments.](section/109.md)
+  - [s. 110 Court bonds.](section/110.md)
+  - [s. 111 Lost negotiable instruments.](section/111.md)
+  - [s. 112 Oaths and affidavits.](section/112.md)
+  - [s. 113 Appointment of conveyancing counsel.](section/113.md)
+  - [s. 114 Other law in Northern Ireland courts.](section/114.md)
+  - [s. 115 Official seals.](section/115.md)
+  - [s. 116 Fees.](section/116.md)
+  - [s. 117 Transfer of certain functions relating to courts to Lord Chancellor.](section/117.md)
+  - [s. 117A Allowances for judges.](section/117A.md)
+- Part XI Interpretation and General
+  - [s. 118 Application to the Crown.](section/118.md)
+  - [s. 119 Making and control of subordinate legislation.](section/119.md)
+  - [s. 120 Interpretation.](section/120.md)
+  - [s. 121 Financial provisions.](section/121.md)
+  - [s. 122 Minor and consequential amendments, transitional provisions and repeals.](section/122.md)
+  - [s. 123 Short title and commencement.](section/123.md)
+- SCHEDULE 1 Appeals to Supreme Court in Certain Criminal Matters
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Departments of the Court of Judicature
+- SCHEDULE 3 STATUTORY OFFICES
+- SCHEDULE 4 Superannuation of Statutory Officers
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Minor and Consequential Amendments
+  - Part I General Amendments
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part II Specific Amendments
+    - (1) Acts of the Parliament of the United Kingdom
+      - The Writ of Subpoena Act 1805
+      - The Tumultuous Risings (Ireland) Act 1831
+      - The Constabulary (Ireland) Act 1836
+      - The Parliamentary Documents Deposit Act 1837
+      - The Lands Clauses Consolidation Act 1845
+      - The Indictable Offences Act 1848
+      - The Railways Act (Ireland) 1851
+      - The Fines Act (Ireland) 1851
+      - The Petty Sessions (Ireland) Act 1851
+      - The Irish Bankrupt and Insolvent Act 1857
+      - The Landed Estates Court (Ireland) Act 1858
+      - The Railways Act (Ireland) 1860
+      - The Defence Act 1860
+      - The Tramways (Ireland) Act 1860
+      - The Matrimonial Causes and Marriage Law (Ireland) Amendment Act 1870
+      - The Bankruptcy (Ireland) Amendment Act 1872
+      - The Fines Act (Ireland) 1851, Amendment Act 1874
+      - The Appellate Jurisdiction Act 1876
+      - The Settled Estates Act 1877
+      - The Bills of Sale (Ireland) Act 1879
+      - The Settled Land Act 1882
+      - The Land Law (Ireland) Act 1887
+      - The Deeds of Arrangement Act 1887
+      - The Deeds of Arrangement Amendment Act 1890
+      - The Witnesses (Public Inquiries) Protection Act 1892
+      - The Life Insurance Companies (Payment into Court) Act 1896
+      - The Northern Ireland (Miscellaneous Provisions) Act 1932
+      - The Foreign Judgments (Reciprocal Enforcement) Act 1933
+      - ...
+      - The Pensions Appeal Tribunals Act 1943
+      - ...
+      - The Maintenance Orders Act 1950
+      - The Administration of Justice Act 1956
+      - The Geneva Conventions Act 1957
+      - The Administration of Justice Act 1960
+      - The Professions Supplementary to Medicine Act 1960
+      - The Veterinary Surgeons Act 1966
+      - The Arbitration (International Investment Disputes) Act 1966
+      - The Family Law Reform Act 1969
+      - The Administration of Justice Act 1969
+      - The Taxes Management Act 1970
+      - The Administration of Justice Act 1970
+      - The Misuse of Drugs Act 1971
+      - The Tribunals and Inquiries Act 1971
+      - The Administration of Justice Act 1973
+      - The Social Security (Northern Ireland) Act 1975
+      - The House of Commons Disqualification Act 1975
+      - The Northern Ireland Assembly Disqualification Act 1975
+      - The Northern Ireland (Emergency Provisions) Act 1978
+    - (2) Acts of the Irish Parliament and Parliament of Northern Ireland
+      - The Habeas Corpus Act (Ireland) 1781
+      - The Bankruptcy Amendment Act (Northern Ireland) 1929
+      - The Motor Vehicles and Road Traffic Act (Northern Ireland) 1929
+      - The Planning and Housing Act (Northern Ireland) 1931
+      - The Evidence Act (Northern Ireland) 1939
+      - The Matrimonial Causes Act (Northern Ireland) 1939
+      - The Landlord and Tenant (War Damage) Act (Northern Ireland) 1941
+      - The Criminal Justice Act (Northern Ireland) 1945
+      - The Prison Act (Northern Ireland) 1953
+      - The Administrration of Justice Act (Northern Ireland) 1954
+      - The Interpretation Act (Northern Ireland) 1954
+      - The Trustee Act (Northern Ireland) 1958
+      - The Coroners Act (Northern Ireland) 1959
+      - The County Courts Act (Northern Ireland) 1959
+      - The Resident Magistrates’ Pensions Act (Northern Ireland) 1960
+      - The Electoral Law Act (Northern Ireland) 1962
+      - The Magistrates’ Courts Act (Northern Ireland) 1964
+      - The Lands Tribunal and Compensation Act (Northern Ireland) 1964
+      - The Charities Act (Northern Ireland) 1964
+      - The Maintenance and Affiliation Orders Act (Northern Ireland) 1966
+      - The Costs in Criminal Cases Act (Northern Ireland) 1968
+      - The Treatment of Offenders Act (Northern Ireland) 1968
+      - The Children and Young Persons Act (Northern Ireland) 1968
+      - The Grand Jury (Abolition) Act (Northern Ireland) 1969
+      - The Judgments (Enforcement) Act (Northern Ireland) 1969
+      - The Nurses and Midwives Act (Northern Ireland) 1970
+      - The Registration of Deeds Act (Northern Ireland) 1970
+      - The Leasehold (Enlargement and Extension) Act (Northern Ireland) 1971
+      - The Payments for Debt (Emergency Provisions) Act (Northern Ireland) 1971
+      - The Northern Ireland (Crown Proceedings) Order 1949
+      - The Prosecution of Offences (Northern Ireland) Order 1972
+      - The Health and Personal Social Services (Northern Ireland) Order 1972
+      - The Treatment of Offenders (Northern Ireland) Order 1976
+      - The Solicitors (Northern Ireland) Order 1976
+      - The Sexual Offences (Northern Ireland) Order 1978
+- SCHEDULE 6 Transitional Provisions
+  - Part I General
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 9A](schedule/6/paragraph/9A.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Part II The Crown Court
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Part III Statutory Officers
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 REPEALS
+  - PART I ACTS OF THE PARLIAMENT OF ENGLAND, GREAT BRITAIN AND THE UNTIED KINGDOM
+  - PART II ACTS OF THE IRISH PARLIAMENT AND PARLIAMENT OF NORTHEN IRELAND.
+  - PART III ORDERS IN COUNCIL
