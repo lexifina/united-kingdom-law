@@ -1,0 +1,1204 @@
+# Police Reform and Social Responsibility Act 2011
+
+2011 c. 13. Enacted 2011-09-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
+
+Source: https://www.legislation.gov.uk/ukpga/2011/13/2026-09-21
+
+## Contents
+
+- Part 1 Police reform
+  - CHAPTER 1 Police areas outside London
+    - [s. 1 Police and crime commissioners](section/1.md)
+    - [s. 2 Chief constables](section/2.md)
+  - CHAPTER 2 Metropolitan police district
+    - [s. 3 Mayor’s Office for Policing and Crime](section/3.md)
+    - [s. 4 Commissioner of Police of the Metropolis](section/4.md)
+  - CHAPTER 3 Functions of elected local policing bodies etc
+    - Community safety and crime prevention
+      - [s. 5 Police and crime commissioners to issue police and crime plans](section/5.md)
+      - [s. 6 Mayor’s Office for Policing and Crime to issue police and crime plans](section/6.md)
+      - [s. 7 Police and crime plans](section/7.md)
+      - [s. 8 Duty to have regard to police and crime plan](section/8.md)
+      - [s. 9 Crime and disorder reduction grants](section/9.md)
+      - [s. 10 Co-operative working](section/10.md)
+    - Information, consultation etc
+      - [s. 11 Information for public etc](section/11.md)
+      - [s. 12 Annual reports](section/12.md)
+      - [s. 13 Information for police and crime panels](section/13.md)
+      - [s. 14 Arrangements for obtaining the views of the community on policing](section/14.md)
+    - Other provisions about functions
+      - [s. 15 Supply of goods and services](section/15.md)
+      - [s. 16 Appointment of persons not employed by elected local policing bodies](section/16.md)
+      - [s. 17 Duties when carrying out functions](section/17.md)
+      - [s. 18 Delegation of functions by police and crime commissioners](section/18.md)
+      - [s. 19 Delegation of functions by Mayor’s Office for Policing and Crime](section/19.md)
+      - [s. 20 Deputy Mayor for Policing and Crime: confirmation hearings](section/20.md)
+    - Financial matters
+      - [s. 21 Police fund](section/21.md)
+      - [s. 22 Minimum budget for police and crime commissioner](section/22.md)
+      - [s. 23 Minimum budget for Mayor’s Office for Policing and Crime](section/23.md)
+      - [s. 24 Police grant](section/24.md)
+      - [s. 25 Other grants etc under Police Act 1996](section/25.md)
+      - [s. 26 Precepts](section/26.md)
+      - [s. 27 Other grants etc](section/27.md)
+  - CHAPTER 4 Accountability of elected local policing bodies
+    - Scrutiny of police and crime commissioners
+      - [s. 28 Police and crime panels outside London](section/28.md)
+      - [s. 29 Power to require attendance and information](section/29.md)
+      - [s. 30 Suspension of police and crime commissioner](section/30.md)
+    - Conduct
+      - [s. 31 Conduct](section/31.md)
+    - Scrutiny of Mayor’s Office for Policing and Crime
+      - [s. 32 London Assembly police and crime panel](section/32.md)
+      - [s. 33 Functions to be discharged by police and crime panel](section/33.md)
+  - CHAPTER 5 Police forces in areas with elected local policing bodies
+    - Chief officers of police
+      - [s. 34 Engagement with local people](section/34.md)
+      - [s. 35 Value for money](section/35.md)
+      - [s. 36 Information for elected local policing bodies](section/36.md)
+      - [s. 37 Appointment of persons not employed by chief officers of police](section/37.md)
+    - Police forces outside London
+      - [s. 38 Appointment, suspension and removal of chief constables](section/38.md)
+      - [s. 39 Deputy chief constables](section/39.md)
+      - [s. 40 Assistant chief constables](section/40.md)
+      - [s. 41 Power of deputy to exercise functions of chief constable](section/41.md)
+    - The metropolitan police force
+      - [s. 42 Appointment of Commissioner of Police of the Metropolis](section/42.md)
+      - [s. 43 Deputy Commissioner of Police of the Metropolis](section/43.md)
+      - [s. 44 Functions of Deputy Commissioner of Police of the Metropolis](section/44.md)
+      - [s. 45 Assistant Commissioners of Police of the Metropolis](section/45.md)
+      - [s. 46 Deputy Assistant Commissioners of Police of the Metropolis](section/46.md)
+      - [s. 47 Commanders](section/47.md)
+      - [s. 48 Suspension and removal of Commissioner and Deputy Commissioner](section/48.md)
+      - [s. 49 Suspension and removal of other senior metropolitan police officers](section/49.md)
+  - CHAPTER 6 Police and crime commissioners: elections and vacancies
+    - Holding of elections
+      - [s. 50 Ordinary elections](section/50.md)
+      - [s. 51 Election to fill vacancy in office of commissioner](section/51.md)
+      - [s. 52 Persons entitled to vote](section/52.md)
+      - [s. 53 Public awareness about elections: role of Electoral Commission](section/53.md)
+    - Conduct of elections
+      - [s. 54 Returning officers etc](section/54.md)
+      - [s. 55 Returning officers: expenditure](section/55.md)
+      - [s. 56 Taxation of returning officer’s account](section/56.md)
+      - [s. 57 Voting at elections of police and crime commissioners](section/57.md)
+      - [s. 58 Power to make provision about elections etc](section/58.md)
+    - Vacancy in office of police and crime commissioner
+      - [s. 59 Date of vacancy in office of commissioner](section/59.md)
+      - [s. 60 Declaration of vacancy in certain cases](section/60.md)
+      - [s. 61 Resignation of commissioner](section/61.md)
+    - Vacancy or incapacity
+      - [s. 62 Appointment of acting commissioner](section/62.md)
+      - [s. 63 Vacancy where acting commissioner acts for 6 months](section/63.md)
+    - Disqualification
+      - [s. 64 Disqualification from election as police and crime commissioner](section/64.md)
+      - [s. 65 Disqualification from election or holding office as police and crime commissioner: police grounds](section/65.md)
+      - [s. 66 Disqualification from election or holding office as police and crime commissioner: other grounds](section/66.md)
+      - [s. 67 Disqualification of person holding office as police and crime commissioner](section/67.md)
+      - [s. 68 Citizenship condition](section/68.md)
+      - [s. 69 Validity of acts](section/69.md)
+    - Elections: further provision
+      - [s. 70 Declaration of acceptance of office of police and crime commissioner](section/70.md)
+      - [s. 71 Judicial proceedings as to disqualification or vacancy](section/71.md)
+      - [s. 72 Amendment of police areas: term of office of commissioner](section/72.md)
+      - [s. 73 Computation of time and timing of elections etc](section/73.md)
+      - [s. 74 Elections: consequential amendments](section/74.md)
+      - [s. 75 The appropriate officer](section/75.md)
+      - [s. 76 Interpretation of Chapter 6](section/76.md)
+  - Chapter 6A Exercise of PCC functions by elected mayors
+    - [s. 76A Exercise of PCC functions by elected mayors](section/76A.md)
+  - CHAPTER 7 Other provisions relating to policing and crime and disorder
+    - Requirement for national policing capabilities
+      - [s. 77 The strategic policing requirement](section/77.md)
+    - Duties and powers of Secretary of State
+      - [s. 78 General duty of Secretary of State](section/78.md)
+      - [s. 79 Policing protocol](section/79.md)
+      - [s. 80 Obtaining advice from representative bodies](section/80.md)
+      - [s. 81 Abolition of certain powers of Secretary of State](section/81.md)
+      - [s. 82 Suspension and removal of senior police officers](section/82.md)
+    - Her Majesty’s inspectors of constabulary
+      - [s. 83 Functions of HMIC](section/83.md)
+      - [s. 84 HMIC reports: publication](section/84.md)
+      - [s. 85 Inspection programmes and frameworks](section/85.md)
+      - [s. 86 Powers in connection with HMIC inspections](section/86.md)
+      - [s. 87 HMIC and freedom of information](section/87.md)
+    - Community safety partnerships
+      - [s. 88 Crime and disorder strategies](section/88.md)
+    - Policing in England and Wales
+      - [s. 89 Collaboration agreements](section/89.md)
+      - [s. 90 Police powers for civilian employees under collaboration agreements](section/90.md)
+      - [s. 91 Power to give directions](section/91.md)
+      - [s. 92 Provision of information by chief officers of police](section/92.md)
+      - [s. 93 Regulations about provision of equipment](section/93.md)
+      - [s. 94 National and international functions](section/94.md)
+    - Police: complaints
+      - [s. 95 Police: complaints](section/95.md)
+  - CHAPTER 8 Miscellaneous provisions
+    - [s. 96 Interpretation of Police Act 1996](section/96.md)
+    - [s. 97 Amendments of the Interpretation Act 1978](section/97.md)
+    - [s. 98 Police reform: transitional provision](section/98.md)
+    - [s. 99 Police reform: minor and consequential amendments](section/99.md)
+    - [s. 100 Guidance](section/100.md)
+    - [s. 101 Crime and disorder reduction](section/101.md)
+    - [s. 102 Interpretation of Part 1](section/102.md)
+- Part 2 Licensing
+  - CHAPTER 1 Amendments of the Licensing Act 2003
+    - Responsible authorities
+      - [s. 103 Licensing authorities as responsible authorities](section/103.md)
+      - [s. 104 Primary Care Trusts and Local Health Boards as responsible authorities](section/104.md)
+    - Removing the vicinity test
+      - [s. 105 Premises licences: who may make relevant representations](section/105.md)
+      - [s. 106 Premises licences: who may apply for review](section/106.md)
+      - [s. 107 Club premises certificates: who may make relevant representations](section/107.md)
+      - [s. 108 Club premises certificates: who may apply for review](section/108.md)
+    - Reducing the evidential burden on licensing authorities
+      - [s. 109 Reducing the burden: premises licences](section/109.md)
+      - [s. 110 Reducing the burden: club premises certificates](section/110.md)
+      - [s. 111 Reducing the burden: other situations](section/111.md)
+    - Temporary event notices
+      - [s. 112 Temporary event notices: who may make an objection](section/112.md)
+      - [s. 113 Temporary event notices: conditions](section/113.md)
+      - [s. 114 Temporary event notices: late notices](section/114.md)
+      - [s. 115 Relaxation of time limits applying to temporary event notices](section/115.md)
+      - [s. 116 Temporary event notices: acknowledgment of notice](section/116.md)
+      - [s. 117 Temporary event notice: time for objection to notice](section/117.md)
+    - Underage sales
+      - [s. 118 Persistently selling alcohol to children](section/118.md)
+    - Early morning alcohol restriction orders
+      - [s. 119 Early morning alcohol restriction orders](section/119.md)
+    - Fees
+      - [s. 120 Suspension of licence or certificate for failing to pay annual fee](section/120.md)
+      - [s. 121 Power for licensing authorities to set fees](section/121.md)
+    - Miscellaneous
+      - [s. 122 Licensing policy statements](section/122.md)
+      - [s. 123 Personal licences: relevant offences](section/123.md)
+    - Review
+      - [s. 124 Review of effect of amendments on licensing scheme](section/124.md)
+  - CHAPTER 2 Late night levy
+    - Application of late night levy requirement in licensing authority’s area
+      - [s. 125 Late night levy requirement](section/125.md)
+    - Liability to pay late night levy
+      - [s. 126 “Relevant late night authorisation” and related definitions](section/126.md)
+      - [s. 127 Liability to pay late night levy](section/127.md)
+      - [s. 128 Amount of late night levy](section/128.md)
+    - Administration of late night levy
+      - [s. 129 Payment and administration of the levy](section/129.md)
+      - [s. 130 Net amount of levy payments](section/130.md)
+    - Application of levy payments
+      - [s. 131 Application of net amount of levy payments](section/131.md)
+    - Late night levy requirement: further provision
+      - [s. 132 Introduction of late night levy requirement](section/132.md)
+      - [s. 133 Amendment of late night levy requirement](section/133.md)
+      - [s. 134 Introduction or variation of late night levy requirement: procedure](section/134.md)
+      - [s. 135 Permitted exemption and reduction categories](section/135.md)
+      - [s. 136 Late night levy: regulations](section/136.md)
+      - [s. 136A Late night levy: requests by relevant local policing bodies](section/136A.md)
+      - [s. 137 Interpretation](section/137.md)
+      - [s. 138 Crown application](section/138.md)
+      - [s. 139 Amendments of the Licensing Act 2003](section/139.md)
+  - CHAPTER 3 Alcohol disorder zones
+    - [s. 140 Alcohol disorder zones: repeal](section/140.md)
+- Part 3 Parliament Square etc
+  - Repeal of SOCPA 2005 provisions
+    - [s. 141 Demonstrations in vicinity of Parliament: repeal of SOCPA 2005 provisions](section/141.md)
+  - Controls on activities in Parliament Square etc
+    - [s. 142 Controlled area of Parliament Square](section/142.md)
+    - [s. 142A Other controlled areas in vicinity of the Palace of Westminster](section/142A.md)
+    - [s. 143 Prohibited activities in controlled area of Parliament Square or in Palace of Westminster controlled area](section/143.md)
+    - [s. 144 Directions under section 143: further provision](section/144.md)
+    - [s. 145 Power to seize property](section/145.md)
+    - [s. 146 Power of court on conviction](section/146.md)
+    - [s. 147 Authorisation for operation of amplified noise equipment](section/147.md)
+    - [s. 148 Meaning of “authorised officer” and “responsible authority”](section/148.md)
+    - [s. 149 Effect of Part on byelaws](section/149.md)
+    - [s. 149A Power to specify other areas as controlled areas](section/149A.md)
+- Part 4 Miscellaneous
+  - Seizure powers
+    - [s. 150 Powers of seizure etc under certain regulations and byelaws](section/150.md)
+  - Misuse of drugs
+    - [s. 151 Temporary control of drugs](section/151.md)
+    - [s. 152 Advisory Council on the Misuse of Drugs](section/152.md)
+  - Arrest warrants
+    - [s. 153 Restriction on issue of arrest warrants in private prosecutions](section/153.md)
+- Part 5 Final provisions
+  - [s. 154 Orders and regulations](section/154.md)
+  - [s. 155 Money](section/155.md)
+  - [s. 156 Extent](section/156.md)
+  - [s. 157 Commencement](section/157.md)
+  - [s. 158 Short title](section/158.md)
+- SCHEDULE 1 Police and crime commissioners
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Salary etc
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Staff
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The deputy police and crime commissioner
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Scrutiny of senior appointments
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Remuneration etc of staff
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Incidental powers
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Protection from personal liability
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Financial year
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Chief constables
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Status, name etc
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Civilian staff
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Remuneration etc of staff
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Incidental powers
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Financial arrangements etc
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Damages and costs in legal proceedings
+    - [Sch. 2 para. 8n1](schedule/2/paragraph/8n1.md)
+  - Disciplinary action etc
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Mayor’s Office for Policing and Crime
+  - Allowances
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Staff
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Deputy Mayor for Policing and Crime
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Notification of appointments
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Remuneration etc of staff
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Incidental powers
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Protection from personal liability
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Financial year
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Commissioner of Police of the Metropolis
+  - Civilian staff
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Remuneration etc of staff
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Incidental powers
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Financial arrangements etc
+    - [Sch. 4 para. 4n1](schedule/4/paragraph/4n1.md)
+  - Damages and costs in legal proceedings
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Disciplinary action etc
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Issuing precepts
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Commissioner to notify panel of proposed precept
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Panel to review proposed precept
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Panel’s power to veto precept
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Next steps if no veto
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Next steps if veto
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Regulations
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Police and crime panels
+  - Part 1 Type of panel which police area is to have
+    - England
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Wales
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Part 2 Panels established by local authorities
+    - Establishment and maintenance of panels
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Membership and status
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Persons properly appointed as members of panels
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Single-authority police area: nomination by local authority
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Police area covering ten or more local authorities: nomination by local authority
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Multi-authority police area covering nine or fewer local authorities: nomination by local authority
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Appointment after nomination by local authority
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Failure of local authority to appoint member: nomination and appointment by Secretary of State
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Costs of the panel
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Part 3 Panels established by the Secretary of State
+    - Establishment and maintenance of panels
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Membership and status
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Wales: persons appointed by the Secretary of State as members of panels
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Wales: Secretary of State to ask local authorities to nominate members of panels
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Wales: consequences of Secretary of State asking local authorities to make nominations
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - England: persons appointed by the Secretary of State as members of panels
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - England: nomination and appointment of members of panels by Secretary of State
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Liabilities of panels
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Provision of financial and other resources
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Part 4 General provisions
+    - Restrictions on membership of panel
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Panel arrangements
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Rules of procedure
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Voting by members
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - Exercise of special functions
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Allowances
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Promotion of, and support, for panels
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - Validity of proceedings
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - Duty to produce balanced panel
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Duty to produce panel with fire and rescue expertise
+      - [Sch. 6 para. 32A](schedule/6/paragraph/32A.md)
+    - Duty to nominate elected mayor to be a member of the panel
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - Application of other legislation
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - Regulations about notifications
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - Regulations about making nominations
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - Regulations about making appointments
+      - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - Regulations about modification etc of functions
+      - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - Interpretation
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+- SCHEDULE 7 Regulations about complaints and conduct matters
+  - Introduction
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Investigation of serious complaints
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Resolution of other complaints
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Conferral of functions
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - No power to terminate holding of office or employment
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Application and amendment of other enactments
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Appointment, suspension and removal of senior police officers
+  - Part 1 Appointment of chief constables
+    - Introduction
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - No appointment until end of confirmation process
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Notification of proposed appointment
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Panel to review and report on proposed appointment
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Power to veto proposed appointment
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Confirmation hearings
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Next steps if no veto
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Next steps if veto
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Regulations
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Part 2 Suspension and removal of chief constables
+    - Suspension
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Removal: general
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Removal: notification and representations
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Removal: further notification
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Removal: role of panel
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Removal: consideration of panel’s recommendation
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Part 3 Suspension and removal of other senior police officers
+    - Senior police officers
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Suspension
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Removal
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 Supplementary vote system
+  - Application
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - First preference vote and second preference vote
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Candidate with overall majority of first preference votes
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - No candidate with overall majority of first preference votes
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10 Elections of police and crime commissioners: consequential amendments
+  - Local Government Act 1972
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Representation of the People Act 1983
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Police Act 1996
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Political Parties, Elections and Referendums Act 2000
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Local Government and Public Involvement in Health Act 2007
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+- Schedule 10A Exercise of PCC functions by elected mayors
+  - Part 1 Interpretation
+    - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+  - Part 2 The Area’s PCC
+    - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+  - Part 3 The Mayor’s PCC functions
+    - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+  - Part 4 Modifications of enactments in this Act
+    - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+    - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+    - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+    - [Sch. 10A para. 7](schedule/10A/paragraph/7.md)
+    - [Sch. 10A para. 8](schedule/10A/paragraph/8.md)
+    - [Sch. 10A para. 9](schedule/10A/paragraph/9.md)
+    - [Sch. 10A para. 10](schedule/10A/paragraph/10.md)
+    - [Sch. 10A para. 11](schedule/10A/paragraph/11.md)
+    - [Sch. 10A para. 12](schedule/10A/paragraph/12.md)
+    - [Sch. 10A para. 13](schedule/10A/paragraph/13.md)
+    - [Sch. 10A para. 14](schedule/10A/paragraph/14.md)
+    - [Sch. 10A para. 15](schedule/10A/paragraph/15.md)
+    - [Sch. 10A para. 16](schedule/10A/paragraph/16.md)
+    - [Sch. 10A para. 17](schedule/10A/paragraph/17.md)
+    - [Sch. 10A para. 18](schedule/10A/paragraph/18.md)
+    - [Sch. 10A para. 19](schedule/10A/paragraph/19.md)
+    - [Sch. 10A para. 20](schedule/10A/paragraph/20.md)
+    - [Sch. 10A para. 21](schedule/10A/paragraph/21.md)
+    - [Sch. 10A para. 22](schedule/10A/paragraph/22.md)
+    - [Sch. 10A para. 23](schedule/10A/paragraph/23.md)
+  - Part 5 Modifications of enactments in other Acts
+    - [Sch. 10A para. 24 Police (Property) Act 1897](schedule/10A/paragraph/24.md)
+    - [Sch. 10A para. 25 Trustee Investments Act 1961](schedule/10A/paragraph/25.md)
+    - [Sch. 10A para. 26 Pensions (Increase) Act 1971](schedule/10A/paragraph/26.md)
+    - [Sch. 10A para. 27 Local Government (Miscellaneous Provisions) Act 1976](schedule/10A/paragraph/27.md)
+    - [Sch. 10A para. 28 Local Government, Planning and Land Act 1980](schedule/10A/paragraph/28.md)
+    - [Sch. 10A para. 29 Dartford-Thurrock Crossing Act 1988](schedule/10A/paragraph/29.md)
+    - [Sch. 10A para. 30 Local Government Finance Act 1988](schedule/10A/paragraph/30.md)
+    - [Sch. 10A para. 31 Road Traffic Act 1988](schedule/10A/paragraph/31.md)
+    - [Sch. 10A para. 32 Local Government and Housing Act 1989](schedule/10A/paragraph/32.md)
+    - [Sch. 10A para. 33 Police Act 1996](schedule/10A/paragraph/33.md)
+    - [Sch. 10A para. 34 Proceeds of Crime Act 2002](schedule/10A/paragraph/34.md)
+    - [Sch. 10A para. 35 Police Reform Act 2002](schedule/10A/paragraph/35.md)
+    - [Sch. 10A para. 36 Local Government Act 2003](schedule/10A/paragraph/36.md)
+    - [Sch. 10A para. 37 Railways and Transport Safety Act 2003](schedule/10A/paragraph/37.md)
+    - [Sch. 10A para. 38 Local Government and Public Involvement in Health Act 2007](schedule/10A/paragraph/38.md)
+    - [Sch. 10A para. 39 Local Democracy, Economic Development and Construction Act 2009](schedule/10A/paragraph/39.md)
+    - [Sch. 10A para. 40 Local Audit and Accountability Act 2014](schedule/10A/paragraph/40.md)
+  - Part 6 Enactments which do not apply
+    - [Sch. 10A para. 41](schedule/10A/paragraph/41.md)
+    - [Sch. 10A para. 42](schedule/10A/paragraph/42.md)
+    - [Sch. 10A para. 43](schedule/10A/paragraph/43.md)
+    - [Sch. 10A para. 44](schedule/10A/paragraph/44.md)
+    - [Sch. 10A para. 45](schedule/10A/paragraph/45.md)
+    - [Sch. 10A para. 46](schedule/10A/paragraph/46.md)
+    - [Sch. 10A para. 47](schedule/10A/paragraph/47.md)
+    - [Sch. 10A para. 48](schedule/10A/paragraph/48.md)
+    - [Sch. 10A para. 49](schedule/10A/paragraph/49.md)
+    - [Sch. 10A para. 50](schedule/10A/paragraph/50.md)
+    - [Sch. 10A para. 51](schedule/10A/paragraph/51.md)
+    - [Sch. 10A para. 52](schedule/10A/paragraph/52.md)
+    - [Sch. 10A para. 53](schedule/10A/paragraph/53.md)
+    - [Sch. 10A para. 54](schedule/10A/paragraph/54.md)
+    - [Sch. 10A para. 55](schedule/10A/paragraph/55.md)
+    - [Sch. 10A para. 56](schedule/10A/paragraph/56.md)
+    - [Sch. 10A para. 57](schedule/10A/paragraph/57.md)
+    - [Sch. 10A para. 58](schedule/10A/paragraph/58.md)
+    - [Sch. 10A para. 59](schedule/10A/paragraph/59.md)
+    - [Sch. 10A para. 60](schedule/10A/paragraph/60.md)
+    - [Sch. 10A para. 61](schedule/10A/paragraph/61.md)
+    - [Sch. 10A para. 62](schedule/10A/paragraph/62.md)
+    - [Sch. 10A para. 63](schedule/10A/paragraph/63.md)
+  - Part 7 Enactments not contained in Acts
+    - [Sch. 10A para. 64 Power to modify or disapply enactments](schedule/10A/paragraph/64.md)
+  - Part 8 Application and modification of enactments other than police and crime commissioner enactments
+    - [Sch. 10A para. 65 Local Government Act 1972](schedule/10A/paragraph/65.md)
+- SCHEDULE 11 Crime and disorder strategies
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+- SCHEDULE 12 Collaboration agreements
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+- SCHEDULE 13 Police powers for civilian employees under collaboration agreements
+  - Police Act 1996
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Police Reform Act 2002
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Railways and Transport Safety Act 2003
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+- SCHEDULE 14 Police: complaints
+  - Introduction
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Membership and proceedings of Independent Police Complaints Commission
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Complaints about policing
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Power of local policing body to direct chief officer of police to comply with obligations
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Initial handling and recording of complaints
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Handling of complaints by the appropriate authority
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Disapplication of requirements of Schedule 3 to 2002 Act
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Conduct matters arising in civil proceedings
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Recording etc of conduct matters in other cases
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Power to discontinue an investigation
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Duties with respect to disciplinary proceedings
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Rights of appeal
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+- SCHEDULE 15 Police reform: transitional provision
+  - Part 1 Chief officers of police
+    - Current chief officers to remain in post
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Transfer of rights and liabilities
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Relevant legislative provisions
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Interpretation
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Part 2 Initial transfer from police authorities
+    - Transfer of property, rights and liabilities
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Transfer of staff
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Police civilians
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Seconded staff
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Interpretation
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Part 3 Subsequent transfer by new policing body
+    - Power to direct new policing body to make transfer scheme
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - Staff
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+      - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Property, rights and liabilities etc
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - Supplementary
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - Part 4 Other transitional provision
+    - Politically restricted posts
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - Continuity
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - Foreign property etc: perfection of vesting
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - Transfers: supplementary provision
+      - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - Power to make transitional provision etc
+      - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - Part 5 Interpretation
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+- SCHEDULE 16 Police reform: minor and consequential amendments
+  - Part 1 Police Act 1996
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+    - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+    - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+    - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+    - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+    - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+  - Part 2 Greater London Authority Act 1999
+    - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+    - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+    - [Sch. 16 para. 50](schedule/16/paragraph/50.md)
+    - [Sch. 16 para. 51](schedule/16/paragraph/51.md)
+    - [Sch. 16 para. 52](schedule/16/paragraph/52.md)
+    - [Sch. 16 para. 53](schedule/16/paragraph/53.md)
+    - [Sch. 16 para. 54](schedule/16/paragraph/54.md)
+    - [Sch. 16 para. 55](schedule/16/paragraph/55.md)
+    - [Sch. 16 para. 56](schedule/16/paragraph/56.md)
+    - [Sch. 16 para. 57](schedule/16/paragraph/57.md)
+    - [Sch. 16 para. 58](schedule/16/paragraph/58.md)
+    - [Sch. 16 para. 59](schedule/16/paragraph/59.md)
+  - Part 3 Other enactments
+    - Tramways Act 1870
+      - [Sch. 16 para. 60](schedule/16/paragraph/60.md)
+    - Riot (Damages) Act 1886
+      - [Sch. 16 para. 61](schedule/16/paragraph/61.md)
+    - Police (Property) Act 1897
+      - [Sch. 16 para. 62](schedule/16/paragraph/62.md)
+    - Licensing Act 1902
+      - [Sch. 16 para. 63](schedule/16/paragraph/63.md)
+    - Local Government (Emergency Provisions) Act 1916
+      - [Sch. 16 para. 64](schedule/16/paragraph/64.md)
+    - Police, Factories, &c (Miscellaneous Provisions) Act 1916
+      - [Sch. 16 para. 65](schedule/16/paragraph/65.md)
+    - Children and Young Persons Act 1933
+      - [Sch. 16 para. 66](schedule/16/paragraph/66.md)
+      - [Sch. 16 para. 67](schedule/16/paragraph/67.md)
+      - [Sch. 16 para. 68](schedule/16/paragraph/68.md)
+    - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951
+      - [Sch. 16 para. 69](schedule/16/paragraph/69.md)
+      - [Sch. 16 para. 70](schedule/16/paragraph/70.md)
+      - [Sch. 16 para. 71](schedule/16/paragraph/71.md)
+      - [Sch. 16 para. 72](schedule/16/paragraph/72.md)
+      - [Sch. 16 para. 73](schedule/16/paragraph/73.md)
+    - Town and Country Planning Act 1959
+      - [Sch. 16 para. 74](schedule/16/paragraph/74.md)
+    - Land Compensation Act 1961
+      - [Sch. 16 para. 75](schedule/16/paragraph/75.md)
+    - Trustee Investments Act 1961
+      - [Sch. 16 para. 76](schedule/16/paragraph/76.md)
+      - [Sch. 16 para. 77](schedule/16/paragraph/77.md)
+      - [Sch. 16 para. 78](schedule/16/paragraph/78.md)
+    - Local Government (Records) Act 1962
+      - [Sch. 16 para. 79](schedule/16/paragraph/79.md)
+      - [Sch. 16 para. 80](schedule/16/paragraph/80.md)
+      - [Sch. 16 para. 81](schedule/16/paragraph/81.md)
+    - Pipe-lines Act 1962
+      - [Sch. 16 para. 82](schedule/16/paragraph/82.md)
+    - Offices, Shops and Railway Premises Act 1963
+      - [Sch. 16 para. 83](schedule/16/paragraph/83.md)
+    - Local Government Act 1966
+      - [Sch. 16 para. 84](schedule/16/paragraph/84.md)
+    - Leasehold Reform Act 1967
+      - [Sch. 16 para. 85](schedule/16/paragraph/85.md)
+    - Superannuation (Miscellaneous Provisions) Act 1967
+      - [Sch. 16 para. 86](schedule/16/paragraph/86.md)
+      - [Sch. 16 para. 87](schedule/16/paragraph/87.md)
+      - [Sch. 16 para. 88](schedule/16/paragraph/88.md)
+    - Firearms Act 1968
+      - [Sch. 16 para. 89](schedule/16/paragraph/89.md)
+      - [Sch. 16 para. 90](schedule/16/paragraph/90.md)
+      - [Sch. 16 para. 91](schedule/16/paragraph/91.md)
+    - Employers’ Liability (Compulsory Insurance) Act 1969
+      - [Sch. 16 para. 92](schedule/16/paragraph/92.md)
+    - Local Government Grants (Social Need) Act 1969
+      - [Sch. 16 para. 93](schedule/16/paragraph/93.md)
+    - Local Authorities (Goods and Services) Act 1970
+      - [Sch. 16 para. 94](schedule/16/paragraph/94.md)
+    - Pensions (Increase) Act 1971
+      - [Sch. 16 para. 95](schedule/16/paragraph/95.md)
+      - [Sch. 16 para. 96](schedule/16/paragraph/96.md)
+      - [Sch. 16 para. 97](schedule/16/paragraph/97.md)
+      - [Sch. 16 para. 98](schedule/16/paragraph/98.md)
+      - [Sch. 16 para. 99](schedule/16/paragraph/99.md)
+    - Local Government Act 1972
+      - [Sch. 16 para. 100](schedule/16/paragraph/100.md)
+      - [Sch. 16 para. 101](schedule/16/paragraph/101.md)
+      - [Sch. 16 para. 102](schedule/16/paragraph/102.md)
+      - [Sch. 16 para. 103](schedule/16/paragraph/103.md)
+      - [Sch. 16 para. 104](schedule/16/paragraph/104.md)
+      - [Sch. 16 para. 105](schedule/16/paragraph/105.md)
+      - [Sch. 16 para. 106](schedule/16/paragraph/106.md)
+      - [Sch. 16 para. 107](schedule/16/paragraph/107.md)
+      - [Sch. 16 para. 108](schedule/16/paragraph/108.md)
+      - [Sch. 16 para. 109](schedule/16/paragraph/109.md)
+      - [Sch. 16 para. 110](schedule/16/paragraph/110.md)
+      - [Sch. 16 para. 111](schedule/16/paragraph/111.md)
+      - [Sch. 16 para. 112](schedule/16/paragraph/112.md)
+      - [Sch. 16 para. 113](schedule/16/paragraph/113.md)
+      - [Sch. 16 para. 114](schedule/16/paragraph/114.md)
+      - [Sch. 16 para. 115](schedule/16/paragraph/115.md)
+      - [Sch. 16 para. 116](schedule/16/paragraph/116.md)
+    - Superannuation Act 1972
+      - [Sch. 16 para. 117](schedule/16/paragraph/117.md)
+    - Employment Agencies Act 1973
+      - [Sch. 16 para. 118](schedule/16/paragraph/118.md)
+    - Health and Safety at Work etc Act 1974
+      - [Sch. 16 para. 119](schedule/16/paragraph/119.md)
+    - Local Government Act 1974
+      - [Sch. 16 para. 120](schedule/16/paragraph/120.md)
+      - [Sch. 16 para. 121](schedule/16/paragraph/121.md)
+      - [Sch. 16 para. 122](schedule/16/paragraph/122.md)
+    - House of Commons Disqualification Act 1975
+      - [Sch. 16 para. 123](schedule/16/paragraph/123.md)
+    - Northern Ireland Assembly Disqualification Act 1975
+      - [Sch. 16 para. 124](schedule/16/paragraph/124.md)
+    - Local Government (Miscellaneous Provisions) Act 1976
+      - [Sch. 16 para. 125](schedule/16/paragraph/125.md)
+      - [Sch. 16 para. 126](schedule/16/paragraph/126.md)
+      - [Sch. 16 para. 127](schedule/16/paragraph/127.md)
+    - Police Pensions Act 1976
+      - [Sch. 16 para. 128](schedule/16/paragraph/128.md)
+      - [Sch. 16 para. 129](schedule/16/paragraph/129.md)
+      - [Sch. 16 para. 130](schedule/16/paragraph/130.md)
+      - [Sch. 16 para. 131](schedule/16/paragraph/131.md)
+      - [Sch. 16 para. 132](schedule/16/paragraph/132.md)
+      - [Sch. 16 para. 133](schedule/16/paragraph/133.md)
+    - Rent (Agriculture) Act 1976
+      - [Sch. 16 para. 134](schedule/16/paragraph/134.md)
+    - Rent Act 1977
+      - [Sch. 16 para. 135](schedule/16/paragraph/135.md)
+    - Highways Act 1980
+      - [Sch. 16 para. 136](schedule/16/paragraph/136.md)
+      - [Sch. 16 para. 137](schedule/16/paragraph/137.md)
+      - [Sch. 16 para. 138](schedule/16/paragraph/138.md)
+      - [Sch. 16 para. 139](schedule/16/paragraph/139.md)
+    - Local Government, Planning and Land Act 1980
+      - [Sch. 16 para. 140](schedule/16/paragraph/140.md)
+      - [Sch. 16 para. 141](schedule/16/paragraph/141.md)
+      - [Sch. 16 para. 142](schedule/16/paragraph/142.md)
+    - Acquisition of Land Act 1981
+      - [Sch. 16 para. 143](schedule/16/paragraph/143.md)
+    - Animal Health Act 1981
+      - [Sch. 16 para. 144](schedule/16/paragraph/144.md)
+    - Finance Act 1981
+      - [Sch. 16 para. 145](schedule/16/paragraph/145.md)
+    - Aviation Security Act 1982
+      - [Sch. 16 para. 146](schedule/16/paragraph/146.md)
+      - [Sch. 16 para. 147](schedule/16/paragraph/147.md)
+      - [Sch. 16 para. 148](schedule/16/paragraph/148.md)
+      - [Sch. 16 para. 149](schedule/16/paragraph/149.md)
+      - [Sch. 16 para. 150](schedule/16/paragraph/150.md)
+      - [Sch. 16 para. 151](schedule/16/paragraph/151.md)
+      - [Sch. 16 para. 152](schedule/16/paragraph/152.md)
+      - [Sch. 16 para. 153](schedule/16/paragraph/153.md)
+      - [Sch. 16 para. 154](schedule/16/paragraph/154.md)
+    - Local Government (Miscellaneous Provisions) Act 1982
+      - [Sch. 16 para. 155](schedule/16/paragraph/155.md)
+      - [Sch. 16 para. 156](schedule/16/paragraph/156.md)
+      - [Sch. 16 para. 157](schedule/16/paragraph/157.md)
+    - Stock Transfer Act 1982
+      - [Sch. 16 para. 158](schedule/16/paragraph/158.md)
+    - County Courts Act 1984
+      - [Sch. 16 para. 159](schedule/16/paragraph/159.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 16 para. 160](schedule/16/paragraph/160.md)
+      - [Sch. 16 para. 161](schedule/16/paragraph/161.md)
+      - [Sch. 16 para. 162](schedule/16/paragraph/162.md)
+      - [Sch. 16 para. 163](schedule/16/paragraph/163.md)
+    - Road Traffic Regulation Act 1984
+      - [Sch. 16 para. 164](schedule/16/paragraph/164.md)
+      - [Sch. 16 para. 165](schedule/16/paragraph/165.md)
+      - [Sch. 16 para. 166](schedule/16/paragraph/166.md)
+      - [Sch. 16 para. 167](schedule/16/paragraph/167.md)
+    - Housing Act 1985
+      - [Sch. 16 para. 168](schedule/16/paragraph/168.md)
+    - Housing Associations Act 1985
+      - [Sch. 16 para. 169](schedule/16/paragraph/169.md)
+    - Landlord and Tenant Act 1985
+      - [Sch. 16 para. 170](schedule/16/paragraph/170.md)
+    - Prosecution of Offences Act 1985
+      - [Sch. 16 para. 171](schedule/16/paragraph/171.md)
+    - Local Government Act 1986
+      - [Sch. 16 para. 172](schedule/16/paragraph/172.md)
+      - [Sch. 16 para. 173](schedule/16/paragraph/173.md)
+      - [Sch. 16 para. 174](schedule/16/paragraph/174.md)
+    - Channel Tunnel Act 1987
+      - [Sch. 16 para. 175](schedule/16/paragraph/175.md)
+    - Landlord and Tenant Act 1987
+      - [Sch. 16 para. 176](schedule/16/paragraph/176.md)
+    - Dartford-Thurrock Crossing Act 1988
+      - [Sch. 16 para. 177](schedule/16/paragraph/177.md)
+    - Housing Act 1988
+      - [Sch. 16 para. 178](schedule/16/paragraph/178.md)
+    - Local Government Act 1988
+      - [Sch. 16 para. 179](schedule/16/paragraph/179.md)
+    - Local Government Finance Act 1988
+      - [Sch. 16 para. 180](schedule/16/paragraph/180.md)
+      - [Sch. 16 para. 181](schedule/16/paragraph/181.md)
+      - [Sch. 16 para. 182](schedule/16/paragraph/182.md)
+      - [Sch. 16 para. 183](schedule/16/paragraph/183.md)
+      - [Sch. 16 para. 184](schedule/16/paragraph/184.md)
+      - [Sch. 16 para. 185](schedule/16/paragraph/185.md)
+      - [Sch. 16 para. 186](schedule/16/paragraph/186.md)
+      - [Sch. 16 para. 187](schedule/16/paragraph/187.md)
+      - [Sch. 16 para. 188](schedule/16/paragraph/188.md)
+      - [Sch. 16 para. 189](schedule/16/paragraph/189.md)
+      - [Sch. 16 para. 190](schedule/16/paragraph/190.md)
+      - [Sch. 16 para. 191](schedule/16/paragraph/191.md)
+    - Road Traffic Act 1988
+      - [Sch. 16 para. 192](schedule/16/paragraph/192.md)
+      - [Sch. 16 para. 193](schedule/16/paragraph/193.md)
+      - [Sch. 16 para. 194](schedule/16/paragraph/194.md)
+      - [Sch. 16 para. 195](schedule/16/paragraph/195.md)
+      - [Sch. 16 para. 196](schedule/16/paragraph/196.md)
+      - [Sch. 16 para. 197](schedule/16/paragraph/197.md)
+    - Road Traffic Offenders Act 1988
+      - [Sch. 16 para. 198](schedule/16/paragraph/198.md)
+    - Local Government and Housing Act 1989
+      - [Sch. 16 para. 199](schedule/16/paragraph/199.md)
+      - [Sch. 16 para. 200](schedule/16/paragraph/200.md)
+      - [Sch. 16 para. 201](schedule/16/paragraph/201.md)
+      - [Sch. 16 para. 202](schedule/16/paragraph/202.md)
+      - [Sch. 16 para. 203](schedule/16/paragraph/203.md)
+      - [Sch. 16 para. 204](schedule/16/paragraph/204.md)
+      - [Sch. 16 para. 205](schedule/16/paragraph/205.md)
+      - [Sch. 16 para. 206](schedule/16/paragraph/206.md)
+    - Aviation and Maritime Security Act 1990
+      - [Sch. 16 para. 207](schedule/16/paragraph/207.md)
+    - Town and Country Planning Act 1990
+      - [Sch. 16 para. 208](schedule/16/paragraph/208.md)
+      - [Sch. 16 para. 209](schedule/16/paragraph/209.md)
+      - [Sch. 16 para. 210](schedule/16/paragraph/210.md)
+    - War Crimes Act 1991
+      - [Sch. 16 para. 211](schedule/16/paragraph/211.md)
+    - Local Government Finance Act 1992
+      - [Sch. 16 para. 212](schedule/16/paragraph/212.md)
+    - Welsh Language Act 1993
+      - [Sch. 16 para. 213](schedule/16/paragraph/213.md)
+    - Deregulation and Contracting Out Act 1994
+      - [Sch. 16 para. 214](schedule/16/paragraph/214.md)
+      - [Sch. 16 para. 215](schedule/16/paragraph/215.md)
+      - [Sch. 16 para. 216](schedule/16/paragraph/216.md)
+    - Value Added Tax Act 1994
+      - [Sch. 16 para. 217](schedule/16/paragraph/217.md)
+    - Criminal Appeal Act 1995
+      - [Sch. 16 para. 218](schedule/16/paragraph/218.md)
+    - Employment Rights Act 1996
+      - [Sch. 16 para. 219](schedule/16/paragraph/219.md)
+    - Housing Grants, Construction and Regeneration Act 1996
+      - [Sch. 16 para. 220](schedule/16/paragraph/220.md)
+    - Police Act 1997
+      - [Sch. 16 para. 221](schedule/16/paragraph/221.md)
+      - [Sch. 16 para. 222](schedule/16/paragraph/222.md)
+      - [Sch. 16 para. 223](schedule/16/paragraph/223.md)
+      - [Sch. 16 para. 224](schedule/16/paragraph/224.md)
+    - Police (Health and Safety) Act 1997
+      - [Sch. 16 para. 225](schedule/16/paragraph/225.md)
+    - Audit Commission Act 1998
+      - [Sch. 16 para. 226](schedule/16/paragraph/226.md)
+      - [Sch. 16 para. 227](schedule/16/paragraph/227.md)
+      - [Sch. 16 para. 228](schedule/16/paragraph/228.md)
+      - [Sch. 16 para. 229](schedule/16/paragraph/229.md)
+      - [Sch. 16 para. 230](schedule/16/paragraph/230.md)
+    - Crime and Disorder Act 1998
+      - [Sch. 16 para. 231](schedule/16/paragraph/231.md)
+      - [Sch. 16 para. 232](schedule/16/paragraph/232.md)
+      - [Sch. 16 para. 233](schedule/16/paragraph/233.md)
+      - [Sch. 16 para. 234](schedule/16/paragraph/234.md)
+      - [Sch. 16 para. 235](schedule/16/paragraph/235.md)
+      - [Sch. 16 para. 236](schedule/16/paragraph/236.md)
+      - [Sch. 16 para. 237](schedule/16/paragraph/237.md)
+      - [Sch. 16 para. 238](schedule/16/paragraph/238.md)
+    - Police (Northern Ireland) Act 1998
+      - [Sch. 16 para. 239](schedule/16/paragraph/239.md)
+    - Regional Development Agencies Act 1998
+      - [Sch. 16 para. 240](schedule/16/paragraph/240.md)
+    - Local Government Act 1999
+      - [Sch. 16 para. 241](schedule/16/paragraph/241.md)
+      - [Sch. 16 para. 242](schedule/16/paragraph/242.md)
+      - [Sch. 16 para. 243](schedule/16/paragraph/243.md)
+      - [Sch. 16 para. 244](schedule/16/paragraph/244.md)
+      - [Sch. 16 para. 245](schedule/16/paragraph/245.md)
+      - [Sch. 16 para. 246](schedule/16/paragraph/246.md)
+      - [Sch. 16 para. 247](schedule/16/paragraph/247.md)
+    - Criminal Justice and Court Services Act 2000
+      - [Sch. 16 para. 248](schedule/16/paragraph/248.md)
+    - Freedom of Information Act 2000
+      - [Sch. 16 para. 249](schedule/16/paragraph/249.md)
+    - Learning and Skills Act 2000
+      - [Sch. 16 para. 250](schedule/16/paragraph/250.md)
+      - [Sch. 16 para. 251](schedule/16/paragraph/251.md)
+      - [Sch. 16 para. 252](schedule/16/paragraph/252.md)
+    - Local Government Act 2000
+      - [Sch. 16 para. 253](schedule/16/paragraph/253.md)
+      - [Sch. 16 para. 254](schedule/16/paragraph/254.md)
+      - [Sch. 16 para. 255](schedule/16/paragraph/255.md)
+      - [Sch. 16 para. 256](schedule/16/paragraph/256.md)
+      - [Sch. 16 para. 257](schedule/16/paragraph/257.md)
+      - [Sch. 16 para. 258](schedule/16/paragraph/258.md)
+      - [Sch. 16 para. 259](schedule/16/paragraph/259.md)
+      - [Sch. 16 para. 260](schedule/16/paragraph/260.md)
+      - [Sch. 16 para. 261](schedule/16/paragraph/261.md)
+      - [Sch. 16 para. 262](schedule/16/paragraph/262.md)
+      - [Sch. 16 para. 263](schedule/16/paragraph/263.md)
+      - [Sch. 16 para. 264](schedule/16/paragraph/264.md)
+      - [Sch. 16 para. 265](schedule/16/paragraph/265.md)
+      - [Sch. 16 para. 266](schedule/16/paragraph/266.md)
+      - [Sch. 16 para. 267](schedule/16/paragraph/267.md)
+      - [Sch. 16 para. 268](schedule/16/paragraph/268.md)
+      - [Sch. 16 para. 269](schedule/16/paragraph/269.md)
+    - Criminal Justice and Police Act 2001
+      - [Sch. 16 para. 270](schedule/16/paragraph/270.md)
+      - [Sch. 16 para. 271](schedule/16/paragraph/271.md)
+      - [Sch. 16 para. 272](schedule/16/paragraph/272.md)
+    - Private Security Industry Act 2001
+      - [Sch. 16 para. 273](schedule/16/paragraph/273.md)
+    - Vehicles (Crime) Act 2001
+      - [Sch. 16 para. 274](schedule/16/paragraph/274.md)
+      - [Sch. 16 para. 275](schedule/16/paragraph/275.md)
+      - [Sch. 16 para. 276](schedule/16/paragraph/276.md)
+    - Police Reform Act 2002
+      - [Sch. 16 para. 277](schedule/16/paragraph/277.md)
+      - [Sch. 16 para. 278](schedule/16/paragraph/278.md)
+      - [Sch. 16 para. 279](schedule/16/paragraph/279.md)
+      - [Sch. 16 para. 280](schedule/16/paragraph/280.md)
+      - [Sch. 16 para. 281](schedule/16/paragraph/281.md)
+      - [Sch. 16 para. 282](schedule/16/paragraph/282.md)
+      - [Sch. 16 para. 283](schedule/16/paragraph/283.md)
+      - [Sch. 16 para. 284](schedule/16/paragraph/284.md)
+      - [Sch. 16 para. 285](schedule/16/paragraph/285.md)
+      - [Sch. 16 para. 286](schedule/16/paragraph/286.md)
+      - [Sch. 16 para. 287](schedule/16/paragraph/287.md)
+      - [Sch. 16 para. 288](schedule/16/paragraph/288.md)
+      - [Sch. 16 para. 289](schedule/16/paragraph/289.md)
+      - [Sch. 16 para. 290](schedule/16/paragraph/290.md)
+      - [Sch. 16 para. 291](schedule/16/paragraph/291.md)
+      - [Sch. 16 para. 292](schedule/16/paragraph/292.md)
+      - [Sch. 16 para. 293](schedule/16/paragraph/293.md)
+      - [Sch. 16 para. 294](schedule/16/paragraph/294.md)
+      - [Sch. 16 para. 295](schedule/16/paragraph/295.md)
+      - [Sch. 16 para. 296](schedule/16/paragraph/296.md)
+      - [Sch. 16 para. 297](schedule/16/paragraph/297.md)
+      - [Sch. 16 para. 298](schedule/16/paragraph/298.md)
+      - [Sch. 16 para. 299](schedule/16/paragraph/299.md)
+      - [Sch. 16 para. 300](schedule/16/paragraph/300.md)
+      - [Sch. 16 para. 301](schedule/16/paragraph/301.md)
+      - [Sch. 16 para. 302](schedule/16/paragraph/302.md)
+      - [Sch. 16 para. 303](schedule/16/paragraph/303.md)
+    - Proceeds of Crime Act 2002
+      - [Sch. 16 para. 304](schedule/16/paragraph/304.md)
+      - [Sch. 16 para. 305](schedule/16/paragraph/305.md)
+      - [Sch. 16 para. 306](schedule/16/paragraph/306.md)
+    - Anti-social Behaviour Act 2003
+      - [Sch. 16 para. 307](schedule/16/paragraph/307.md)
+      - [Sch. 16 para. 308](schedule/16/paragraph/308.md)
+      - [Sch. 16 para. 309](schedule/16/paragraph/309.md)
+    - Courts Act 2003
+      - [Sch. 16 para. 310](schedule/16/paragraph/310.md)
+      - [Sch. 16 para. 311](schedule/16/paragraph/311.md)
+      - [Sch. 16 para. 312](schedule/16/paragraph/312.md)
+    - Criminal Justice Act 2003
+      - [Sch. 16 para. 313](schedule/16/paragraph/313.md)
+    - Finance Act 2003
+      - [Sch. 16 para. 314](schedule/16/paragraph/314.md)
+    - Licensing Act 2003
+      - [Sch. 16 para. 315](schedule/16/paragraph/315.md)
+    - Local Government Act 2003
+      - [Sch. 16 para. 316](schedule/16/paragraph/316.md)
+      - [Sch. 16 para. 317](schedule/16/paragraph/317.md)
+      - [Sch. 16 para. 318](schedule/16/paragraph/318.md)
+      - [Sch. 16 para. 319](schedule/16/paragraph/319.md)
+      - [Sch. 16 para. 320](schedule/16/paragraph/320.md)
+      - [Sch. 16 para. 321](schedule/16/paragraph/321.md)
+    - Railways and Transport Safety Act 2003
+      - [Sch. 16 para. 322](schedule/16/paragraph/322.md)
+      - [Sch. 16 para. 323](schedule/16/paragraph/323.md)
+      - [Sch. 16 para. 324](schedule/16/paragraph/324.md)
+      - [Sch. 16 para. 325](schedule/16/paragraph/325.md)
+      - [Sch. 16 para. 326](schedule/16/paragraph/326.md)
+      - [Sch. 16 para. 327](schedule/16/paragraph/327.md)
+      - [Sch. 16 para. 328](schedule/16/paragraph/328.md)
+    - Sexual Offences Act 2003
+      - [Sch. 16 para. 329](schedule/16/paragraph/329.md)
+    - Children Act 2004
+      - [Sch. 16 para. 330](schedule/16/paragraph/330.md)
+      - [Sch. 16 para. 331](schedule/16/paragraph/331.md)
+      - [Sch. 16 para. 332](schedule/16/paragraph/332.md)
+      - [Sch. 16 para. 333](schedule/16/paragraph/333.md)
+      - [Sch. 16 para. 334](schedule/16/paragraph/334.md)
+    - Housing Act 2004
+      - [Sch. 16 para. 335](schedule/16/paragraph/335.md)
+    - Public Audit (Wales) Act 2004
+      - [Sch. 16 para. 336](schedule/16/paragraph/336.md)
+      - [Sch. 16 para. 337](schedule/16/paragraph/337.md)
+      - [Sch. 16 para. 338](schedule/16/paragraph/338.md)
+      - [Sch. 16 para. 339](schedule/16/paragraph/339.md)
+    - Drugs Act 2005
+      - [Sch. 16 para. 340](schedule/16/paragraph/340.md)
+    - Public Services Ombudsman (Wales) Act 2005
+      - [Sch. 16 para. 341](schedule/16/paragraph/341.md)
+      - [Sch. 16 para. 342](schedule/16/paragraph/342.md)
+      - [Sch. 16 para. 343](schedule/16/paragraph/343.md)
+    - Serious Organised Crime and Police Act 2005
+      - [Sch. 16 para. 344](schedule/16/paragraph/344.md)
+      - [Sch. 16 para. 345](schedule/16/paragraph/345.md)
+      - [Sch. 16 para. 346](schedule/16/paragraph/346.md)
+      - [Sch. 16 para. 347](schedule/16/paragraph/347.md)
+      - [Sch. 16 para. 348](schedule/16/paragraph/348.md)
+      - [Sch. 16 para. 349](schedule/16/paragraph/349.md)
+      - [Sch. 16 para. 350](schedule/16/paragraph/350.md)
+    - Government of Wales Act 2006
+      - [Sch. 16 para. 351](schedule/16/paragraph/351.md)
+      - [Sch. 16 para. 352](schedule/16/paragraph/352.md)
+      - [Sch. 16 para. 353](schedule/16/paragraph/353.md)
+    - London Olympic Games and Paralympic Games Act 2006
+      - [Sch. 16 para. 354](schedule/16/paragraph/354.md)
+      - [Sch. 16 para. 355](schedule/16/paragraph/355.md)
+      - [Sch. 16 para. 356](schedule/16/paragraph/356.md)
+      - [Sch. 16 para. 357](schedule/16/paragraph/357.md)
+    - Police and Justice Act 2006
+      - [Sch. 16 para. 358](schedule/16/paragraph/358.md)
+      - [Sch. 16 para. 359](schedule/16/paragraph/359.md)
+      - [Sch. 16 para. 360](schedule/16/paragraph/360.md)
+    - Safeguarding Vulnerable Groups Act 2006
+      - [Sch. 16 para. 361](schedule/16/paragraph/361.md)
+    - Violent Crime Reduction Act 2006
+      - [Sch. 16 para. 362](schedule/16/paragraph/362.md)
+      - [Sch. 16 para. 363](schedule/16/paragraph/363.md)
+      - [Sch. 16 para. 364](schedule/16/paragraph/364.md)
+    - Corporate Manslaughter and Corporate Homicide Act 2007
+      - [Sch. 16 para. 365](schedule/16/paragraph/365.md)
+    - Local Government and Public Involvement in Health Act 2007
+      - [Sch. 16 para. 366](schedule/16/paragraph/366.md)
+      - [Sch. 16 para. 367](schedule/16/paragraph/367.md)
+      - [Sch. 16 para. 368](schedule/16/paragraph/368.md)
+      - [Sch. 16 para. 369](schedule/16/paragraph/369.md)
+    - Serious Crime Act 2007
+      - [Sch. 16 para. 370](schedule/16/paragraph/370.md)
+    - Pensions Act 2008
+      - [Sch. 16 para. 371](schedule/16/paragraph/371.md)
+    - Coroners and Justice Act 2009
+      - [Sch. 16 para. 372](schedule/16/paragraph/372.md)
+    - Local Democracy, Economic Development and Construction Act 2009
+      - [Sch. 16 para. 373](schedule/16/paragraph/373.md)
+      - [Sch. 16 para. 374](schedule/16/paragraph/374.md)
+      - [Sch. 16 para. 375](schedule/16/paragraph/375.md)
+      - [Sch. 16 para. 376](schedule/16/paragraph/376.md)
+      - [Sch. 16 para. 377](schedule/16/paragraph/377.md)
+    - Policing and Crime Act 2009
+      - [Sch. 16 para. 378](schedule/16/paragraph/378.md)
+    - Child Poverty Act 2010
+      - [Sch. 16 para. 379](schedule/16/paragraph/379.md)
+    - Equality Act 2010
+      - [Sch. 16 para. 380](schedule/16/paragraph/380.md)
+      - [Sch. 16 para. 381](schedule/16/paragraph/381.md)
+      - [Sch. 16 para. 382](schedule/16/paragraph/382.md)
+      - [Sch. 16 para. 383](schedule/16/paragraph/383.md)
+- SCHEDULE 17 Temporary class drug orders
+  - Amendments of the Misuse of Drugs Act 1971
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+  - Amendments of other legislation
+    - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
