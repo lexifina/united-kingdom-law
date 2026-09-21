@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-08, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-21, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-07-08
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-09-21
 
 ## Contents
 
@@ -555,6 +555,21 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-07-08
       - [s. 356 Sexual harm prevention orders: supplementary](section/356.md)
       - [s. 357 Disapplication of time limit for complaints](section/357.md)
       - [s. 358 Sexual harm prevention orders: interpretation](section/358.md)
+    - Chapter 2A Child criminal exploitation prevention orders
+      - Making of orders
+        - [s. 358A Power to make child criminal exploitation prevention order](section/358A.md)
+        - [s. 358B CCE prevention orders](section/358B.md)
+        - [s. 358C Notification requirements](section/358C.md)
+      - Procedure
+        - [s. 358D Procedural powers](section/358D.md)
+      - Variation, discharge and appeals
+        - [s. 358E Variation and discharge of orders](section/358E.md)
+        - [s. 358F Appeals](section/358F.md)
+      - Supplementary
+        - [s. 358G Offence of breaching CCE prevention order](section/358G.md)
+        - [s. 358H Offences relating to notifications](section/358H.md)
+        - [s. 358I Special measures for witnesses](section/358I.md)
+        - [s. 358J Interpretation and supplementary provision](section/358J.md)
     - CHAPTER 3 Protection from harassment
       - [s. 359 Restraining order](section/359.md)
       - [s. 360 Restraining order: availability](section/360.md)
