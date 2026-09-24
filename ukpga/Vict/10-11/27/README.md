@@ -1,0 +1,137 @@
+# Harbours, Docks and Piers Clauses Act 1847
+
+1847 c. 27. Enacted 1847-05-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/27
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/10-11/27/2026-09-24
+
+## Contents
+
+- [s. 1 Extent of Act.](section/1.md)
+- Interpretations in this Act
+  - [s. 2](section/2.md)
+  - [s. 3 Interpretations in this and the special Act.](section/3.md)
+  - [s. 3A Interpretation: the Crown Estate and Scotland](section/3A.md)
+- Citing the Act
+  - [s. 4 Short title of this Act.](section/4.md)
+  - [s. 5 ................................](section/5.md)
+- Construction of harbour, dock, or pier
+  - [s. 6 Construction of harbour, dock, or pier, to be subject to the provisions of this Act and one of the Lands Clauses Consolidation Acts.](section/6.md)
+  - [s. 7 Errors and omissions in plans, &c. may be corrected by justices, &c. who shall certify the same.](section/7.md)
+  - [s. 8 Works not to be proceeded with until plans of all alterations authorized by Parliament have been deposited.](section/8.md)
+  - [s. 9 Clerks of the peace, &c. to receive plans of alterations, and allow inspection.](section/9.md)
+  - [s. 10 Copies of plans, &c. to be evidence.](section/10.md)
+  - [s. 11 No deviation beyond the limits defined upon plans.](section/11.md)
+  - [s. 12 †Works on the shore of the sea, &c. not to be constructed without the authority of the Commissioners of Woods, &c. and of the Admiralty.](section/12.md)
+  - [s. 13 †Before alterations in plans are executed, to be approved of by the Admiralty and the Commissioners of Woods, &c.](section/13.md)
+- Accommodation for custom house officers
+  - [s. 14 Undertakers to erect watch-house and boat-house for custom house officers, and keep the same in repair.](section/14.md)
+  - [s. 15 Penalty on undertakers neglecting to repair watch-house, &c.](section/15.md)
+- Life-boats
+  - [s. 16 Life-boats, &c. to be provided by undertakers.](section/16.md)
+  - [s. 17 Penalty for not providing life-boat, &c.](section/17.md)
+- Tide gauge, &c.
+  - [s. 18 A self-registering tide gauge and barometer to be provided by undertakers.](section/18.md)
+  - [s. 19 Penalty for not providing tide gauge, &c.](section/19.md)
+- Warehouses and cranes
+  - [s. 20 Power to purchase additional land required for extraordinary purposes.](section/20.md)
+  - [s. 21 Power to construct warehouses and other works.](section/21.md)
+  - [s. 22 Undertakers to hire persons to work cranes.](section/22.md)
+  - [s. 23 Power to lease wharfs, warehouses, &c.](section/23.md)
+  - [s. 24 ................................](section/24.md)
+- Rates
+  - [s. 25 Rates not to be taken until the works shall be completed.](section/25.md)
+  - [s. 26 Certificate of magistrate to be evidence that the harbour &c. is completed.](section/26.md)
+  - [s. 27 Tonnage of British registered vessels to be ascertained according to law; of other vessels according to established rules.](section/27.md)
+  - [s. 28 Exemption of vessels in her Majesty’s service, &c. from rates.](section/28.md)
+  - [s. 29 Vessels returning from stress of weather not to pay rates again.](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 As to the rates on foreign vessels where treaties of reciprocity exist.](section/31.md)
+  - [s. 32 Power to compound for tolls payable in respect of passenger or pleasure vessels.](section/32.md)
+  - [s. 33 Harbour, dock, and pier free to the public on payment of rate.](section/33.md)
+- Collection of rates
+  - [s. 34 Collector may enter vessels to ascertain rates payable.](section/34.md)
+  - [s. 35 Master to report arrival of vessel.](section/35.md)
+  - [s. 36 Master of vessel to produce certificate of registry.](section/36.md)
+  - [s. 37 Masters of vessels to give accounts of goods intended to be unshipped within the limits, &c.](section/37.md)
+  - [s. 38 Penalty on masters giving no account, or a false account, of goods to be unshipped.](section/38.md)
+  - [s. 39 Shippers to give an account of goods intended to be shipped.](section/39.md)
+  - [s. 40 In case of dispute between collector and master, &c. goods to be weighed or measured.](section/40.md)
+  - [s. 41 As to the expences of weighing or measuring goods.](section/41.md)
+  - [s. 42 Rates on goods when payable.](section/42.md)
+  - [s. 43 Penalty on evading payment of rates.](section/43.md)
+  - [s. 44 Recovery of tonnage rates by distraint of ship and tackle.](section/44.md)
+  - [s. 45 Recovery of rates on goods.](section/45.md)
+  - [s. 46 Disputes concerning rates or charges occasioned by distress to be settled by a justice in England or Ireland, and in Scotland by the sheriff.](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 Collector of customs may withhold a clearance to any vessel until the rates paid.](section/48.md)
+- Account of rates
+  - [s. 49 Undertakers to keep account of rates and vessels, &c.](section/49.md)
+  - [s. 50 Annual account to be prepared and transmitted to the clerk of the peace in England or Ireland, or to the sheriff in Scotland.](section/50.md)
+- Harbour, dock, and pier master
+  - [s. 51 Appointment of harbour, dock, or pier master.](section/51.md)
+  - [s. 52 Powers of harbour, dock, or pier master.](section/52.md)
+  - [s. 53 Penalty on shipmasters not complying with directions of the harbour master.](section/53.md)
+  - [s. 54 Penalty on harbour master for misbehaviour.](section/54.md)
+  - [s. 55 Penalty on offering bribes to dock officers, and on officers taking bribes.](section/55.md)
+  - [s. 56 Harbour master may remove wrecks, &c.](section/56.md)
+  - [s. 57 Unserviceable vessels to be altogether removed from harbour.](section/57.md)
+  - [s. 58 Harbour master may remove vessels within docks, &c.](section/58.md)
+  - [s. 59 Vessels entering harbour or dock to be dismantled as harbour master shall direct.](section/59.md)
+  - [s. 60 Vessels to have their sails lowered when entering and navigating dock.](section/60.md)
+  - [s. 61 Vessels to have hawsers, &c. fixed to moorings.](section/61.md)
+  - [s. 62 Penalty for wilfully cutting moorings.](section/62.md)
+  - [s. 63 Penalty on vessels lying near the entrance of harbour or dock without permission.](section/63.md)
+  - [s. 64 Vessels may be removed for the purpose of repairing harbour or dock.](section/64.md)
+  - [s. 65 Harbour master may remove such vessel if the master thereof neglect or refuse so to do.](section/65.md)
+- Discharge of cargoes and removal of goods
+  - [s. 66 Delivery of cargoes and placing of discharged vessels.](section/66.md)
+  - [s. 67 Penalty on wharfingers giving undue preference.](section/67.md)
+  - [s. 68 Goods may be removed from the quays, &c. after lying there longer than allowed by byelaws.](section/68.md)
+- Protection of the harbour, dock, and pier
+  - [s. 69 Combustible matter on quays, &c., to be removed.](section/69.md)
+  - [s. 70 Combustibles to be guarded during the night.](section/70.md)
+  - [s. 71 Penalties against offences herein named:](section/71.md)
+  - [s. 72 Power to enter ship and search for and extinguish fires or lights.](section/72.md)
+  - [s. 73 Penalty for throwing ballast, &c., into harbour or dock.](section/73.md)
+  - [s. 74 Owner of vessel answerable for damage to works.](section/74.md)
+  - [s. 75 As to the recovery of amount of damage to quays, &c.](section/75.md)
+  - [s. 76 Owner may recover damage from his servants.](section/76.md)
+- Lighthouses, beacons, and buoys
+  - [s. 77 Power to erect lighthouses and lay down buoys, with consent of Trinity House.](section/77.md)
+  - [s. 78 Lights, beacons, or sea-marks not to be exhibited or altered without sanction of Trinity House](section/78.md)
+- Harbour and dock police
+  - [s. 79 Justices to appoint special constables named by the undertakers.](section/79.md)
+  - [s. 80 Dismissal of constables.](section/80.md)
+- Meters and weighers
+  - [s. 81 Power to appoint meters and weighers.](section/81.md)
+  - [s. 82 Licensed meters and weighers only to be employed.](section/82.md)
+- Byelaws
+  - [s. 83 Byelaws may be made for all or any of the purposes herein named.](section/83.md)
+  - [s. 84 Byelaws may be enforced by imposition of penalties.](section/84.md)
+  - [s. 85 No byelaws to come into operation until allowed in the manner prescribed, and approved by one of the judges.](section/85.md)
+  - [s. 86 Notice of allowance of byelaws to be given in one or more newspapers.](section/86.md)
+  - [s. 87 A copy of proposed byelaws to be open to inspection.](section/87.md)
+  - [s. 88 Publication of byelaws.](section/88.md)
+  - [s. 89 ................................](section/89.md)
+  - [s. 90 Proof of publication of byelaws.](section/90.md)
+  - [s. 91 ................................](section/91.md)
+- Recovery of damages and penalties
+  - [s. 92 Railways Clauses Consolidation Act, 1845, as to damages, &c. to be incorporated with this and the special Act.](section/92.md)
+  - [s. 93 ................................](section/93.md)
+  - [s. 94 All things required to be done by two justices in England and Ireland may, in certain cases, be done by one, and in Scotland by the sheriff, &c.](section/94.md)
+  - [s. 95 ................................](section/95.md)
+  - [s. 96 ................................](section/96.md)
+- Access to special Act
+  - [s. 97 Copies of special Act to be kept by undertakers at their office, and deposited with the clerks of the peace, &c., and be open to inspection.](section/97.md)
+  - [s. 98 Penalty on undertakers failing to keep or deposit such copies.](section/98.md)
+- Saving of rights
+  - [s. 99 Nothing in this or the special Act to affect the rights of the crown;](section/99.md)
+  - [s. 100 nor the rights of the crown as to revenue, &c.;](section/100.md)
+  - [s. 101 nor the rights of the City of London;](section/101.md)
+  - [s. 102 nor the rights of Trinity House, &c.](section/102.md)
+  - [s. 103 Act not to exempt the undertakers from the provisions of any general Act.](section/103.md)
+  - [s. 104 ................................](section/104.md)
