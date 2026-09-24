@@ -1,0 +1,947 @@
+# Town and Country Planning (Scotland) Act 1997
+
+1997 c. 8. Enacted 1997-02-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 74 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
+
+Source: https://www.legislation.gov.uk/ukpga/1997/8/2026-09-24
+
+## Contents
+
+- Part I Administration
+  - [s. 1 Planning authorities.](section/1.md)
+  - [s. 1A Planning authorities: chief planning officer](section/1A.md)
+  - [s. 2 Enterprise zones.](section/2.md)
+  - [s. 3 Urban development areas.](section/3.md)
+- PART 1ZA Purpose of planning
+  - [s. 3ZA Purpose of planning](section/3ZA.md)
+- Part 1A National Planning Framework
+  - [s. 3A National Planning Framework](section/3A.md)
+  - [s. 3AA Duty to review the National Planning Framework](section/3AA.md)
+  - [s. 3AB Revising the framework: participation statement and considerations](section/3AB.md)
+  - [s. 3AC Information to assist preparation of National Planning Framework](section/3AC.md)
+  - [s. 3B Proposals for National Planning Framework: Parliamentary consideration](section/3B.md)
+  - [s. 3C National Planning Framework to be laid before Parliament](section/3C.md)
+  - [s. 3CA National Planning Framework: procedure](section/3CA.md)
+  - Duties to assist in shaping the National Planning Framework
+    - [s. 3CB Key agencies to co-operate](section/3CB.md)
+    - [s. 3CC Amendment of National Planning Framework](section/3CC.md)
+    - [s. 3D Sustainable development: exercise of functions by Scottish Ministers](section/3D.md)
+- Part 2 Development Plans
+  - Sustainable development
+    - [s. 3E Sustainable development](section/3E.md)
+    - [s. 3F Greenhouse gas emissions policies](section/3F.md)
+    - [s. 3G Open space strategy](section/3G.md)
+  - Strategic development planning
+    - [s. 4ZA Regional spatial strategies](section/4ZA.md)
+    - [s. 4ZB Duties to have regard to regional spatial strategies](section/4ZB.md)
+    - [s. 4ZC Regional spatial strategies: first strategy, review and revision](section/4ZC.md)
+    - [s. 4ZD Directions to prepare or review regional spatial strategies](section/4ZD.md)
+    - [s. 4ZE Guidance for regional spatial strategies](section/4ZE.md)
+    - [s. 4 Strategic development planning authorities](section/4.md)
+    - [s. 5 Strategic development plan area](section/5.md)
+    - [s. 6 Re-determination of boundary of strategic development plan area](section/6.md)
+    - [s. 7 Form and content of strategic development plan](section/7.md)
+    - [s. 8 Preparation of strategic development plan etc.: general](section/8.md)
+    - [s. 9 Main issues report for preparation of strategic development plan](section/9.md)
+    - [s. 10 Preparation and publication of proposed strategic development plan](section/10.md)
+    - [s. 11 Alternative proposals](section/11.md)
+    - [s. 12 Examination of proposed strategic development plan](section/12.md)
+    - [s. 12A Further provision as regards examination under section 12(2)](section/12A.md)
+    - [s. 13 Proposed strategic development plan: approval or rejection](section/13.md)
+    - [s. 14 Publication of and publicity for strategic development plan](section/14.md)
+  - Local development plans
+    - [s. 15 Form and content of local development plans](section/15.md)
+    - [s. 15A Preparation of local development plan: invitation to prepare local place plans](section/15A.md)
+    - [s. 15B Review of local place plans](section/15B.md)
+    - [s. 16 Preparation and monitoring of local development plans: general](section/16.md)
+    - [s. 16A Participation of children and young people in local development plan](section/16A.md)
+    - [s. 16B Evidence report for preparation of local development plan](section/16B.md)
+    - [s. 16C Effective community engagement: guidance](section/16C.md)
+    - [s. 16D Play sufficiency assessment](section/16D.md)
+    - [s. 16E Publication of list of persons seeking land for self-build housing](section/16E.md)
+    - [s. 17 Main issues report for preparation of local development plan](section/17.md)
+    - [s. 18 Preparation and publication of proposed local development plan](section/18.md)
+    - [s. 19 Examination of proposed local development plan](section/19.md)
+    - [s. 19ZA Examination under section 19(3): further provision](section/19ZA.md)
+    - [s. 19A Further provision as regards examination under section 19(4)](section/19A.md)
+    - [s. 20 Constitution of local development plan](section/20.md)
+    - [s. 20A Publication of and publicity for local development plan](section/20A.md)
+    - [s. 20AA Amendment of local development plan](section/20AA.md)
+  - Development plan schemes and delivery programmes
+    - [s. 20B Development plan schemes](section/20B.md)
+    - [s. 21 Delivery programmes](section/21.md)
+  - ...
+    - [s. 22 Supplementary guidance](section/22.md)
+  - Supplementary provisions
+    - [s. 23 Disregarding of representations with respect to development authorised by or under other enactments](section/23.md)
+    - [s. 23A Regulations under this Part](section/23A.md)
+    - [s. 23B Default powers of the Scottish Ministers](section/23B.md)
+    - [s. 23C Reviews of plans in enterprise zones](section/23C.md)
+    - [s. 23D Meaning of “key agency”](section/23D.md)
+    - [s. 24 Meaning of “development plan”](section/24.md)
+  - General
+    - [s. 25 Status of development plan](section/25.md)
+- Part III Control over Development
+  - Meaning of development
+    - [s. 26 Meaning of “development”.](section/26.md)
+    - [s. 26AA Marine fish farms: circumstances referred to in section 26(1)](section/26AA.md)
+    - [s. 26AB Power by order to provide marine fish farming is not “development”](section/26AB.md)
+    - [s. 26A Hierarchy of developments](section/26A.md)
+    - [s. 26B Material change of use: short-term lets](section/26B.md)
+    - [s. 27 Time when development begun.](section/27.md)
+  - Initiation and completion of development
+    - [s. 27A Notification of initiation of development](section/27A.md)
+    - [s. 27B Notification of completion of development](section/27B.md)
+  - Display of notice while development is carried out
+    - [s. 27C Display of notice while development is carried out](section/27C.md)
+  - Requirement for planning permission
+    - [s. 28 Development requiring planning permission.](section/28.md)
+    - [s. 29 Granting of planning permission: general.](section/29.md)
+  - Development orders
+    - [s. 30 Development orders: general.](section/30.md)
+    - [s. 31 Permission granted by development order.](section/31.md)
+  - Planning permission in respect of operation of marine fish farm
+    - [s. 31A Planning permission in respect of operation of marine fish farm](section/31A.md)
+  - Applications for planning permission
+    - [s. 32 Applications for planning permission](section/32.md)
+  - Variation of application
+    - [s. 32A Variation of application other than one referred to the Scottish Ministers](section/32A.md)
+    - [s. 32B Variation of application referred to the Scottish Ministers](section/32B.md)
+    - [s. 33 Planning permission for development already carried out.](section/33.md)
+    - [s. 33A Notice requiring application for planning permission for development already carried out](section/33A.md)
+  - Publicity for applications
+    - [s. 34 Notice by planning authority of certain applications made to them](section/34.md)
+    - [s. 35 Notice etc. of applications to owners and agricultural tenants.](section/35.md)
+    - [s. 35A Pre-application consultation: preliminary](section/35A.md)
+    - [s. 35B Pre-application consultation: compliance](section/35B.md)
+    - [s. 35C Pre-application consultation report](section/35C.md)
+    - [s. 36 Registers of applications etc.](section/36.md)
+    - [s. 36A Lists of applications](section/36A.md)
+  - Determination of applications
+    - [s. 37 Determination of applications: general considerations.](section/37.md)
+    - [s. 38 Consultations in connection with determination of applications.](section/38.md)
+    - [s. 38A Pre-determination hearings](section/38A.md)
+    - [s. 39 Declining to determine an application](section/39.md)
+    - [s. 39A Declining to determine an application: further provision](section/39A.md)
+    - [s. 40 Assessment of environmental effects.](section/40.md)
+    - [s. 41 Conditional grant of planning permission.](section/41.md)
+    - [s. 41A Conditional grant of planning permission: noise-sensitive developments](section/41A.md)
+    - [s. 41B Conditional grant of planning permission: provision of toilet facilities within certain large developments](section/41B.md)
+    - [s. 42 Determination of applications to develop land without compliance with conditions previously attached.](section/42.md)
+    - [s. 43 Directions etc. as to method of dealing with applications.](section/43.md)
+    - [s. 43A Local developments: schemes of delegation](section/43A.md)
+    - [s. 43B Matters which may be raised in a review under section 43A(8)](section/43B.md)
+    - [s. 44 Effect of planning permission.](section/44.md)
+    - [s. 45 Duty to draw attention to certain provisions for benefit of disabled.](section/45.md)
+  - Secretary of State’s powers in relation to planning applications and decisions
+    - [s. 46 Call-in of applications by Secretary of State.](section/46.md)
+    - [s. 46A Call-in of applications by Scottish Ministers: further provision](section/46A.md)
+    - [s. 47 Right to appeal against planning decisions and failure to take such decisions.](section/47.md)
+    - [s. 47A Matters which may be raised in an appeal under section 47(1)](section/47A.md)
+    - [s. 48 Determination of appeals.](section/48.md)
+  - Simplified planning zones
+    - [s. 49 Simplified planning zones.](section/49.md)
+    - [s. 50 Alteration of simplified planning zone schemes.](section/50.md)
+    - [s. 51 Simplified planning zone schemes: conditions and limitations on planning permission.](section/51.md)
+    - [s. 52 Duration of simplified planning zone scheme.](section/52.md)
+    - [s. 53 Alteration of simplified planning zone scheme.](section/53.md)
+    - [s. 54 Exclusion of certain descriptions of land or development.](section/54.md)
+  - Masterplan consent areas
+    - [s. 54A Making and alteration of schemes](section/54A.md)
+    - [s. 54B Scheme grants planning permission, etc.](section/54B.md)
+    - [s. 54C Content of schemes: self-build housing](section/54C.md)
+    - [s. 54D Effect of altering scheme](section/54D.md)
+    - [s. 54E Further provision about effect of scheme](section/54E.md)
+    - [s. 54F Interpretation of provisions about schemes](section/54F.md)
+  - Enterprise zone schemes
+    - [s. 55 Planning permission for development in enterprise zones.](section/55.md)
+    - [s. 56 Effect on planning permission of modification or termination of scheme.](section/56.md)
+  - Deemed planning permission
+    - [s. 57 Development with government authorisation.](section/57.md)
+  - Duration of planning permission
+    - [s. 58 Duration of planning permission](section/58.md)
+    - [s. 59 Planning permission in principle](section/59.md)
+    - [s. 60 Provisions supplementary to sections 58 and 59.](section/60.md)
+    - [s. 61 Termination of planning permission by reference to time limit: completion notices.](section/61.md)
+    - [s. 62 Effect of completion notice.](section/62.md)
+    - [s. 62A Objection to completion notice](section/62A.md)
+    - [s. 63 Power of Secretary of State to serve completion notice.](section/63.md)
+  - Variation, revocation and modification of planning permission
+    - [s. 64 Power to vary planning permission.](section/64.md)
+    - [s. 65 Power to revoke or modify planning permission.](section/65.md)
+    - [s. 66 Procedure for section 65 orders: opposed cases.](section/66.md)
+    - [s. 67 Procedure for section 65 orders: unopposed cases.](section/67.md)
+    - [s. 68 Revocation and modification of planning permission by the Secretary of State.](section/68.md)
+  - References to Planning Inquiry Commissions
+    - [s. 69 Power to refer certain planning questions to Planning Inquiry Commission.](section/69.md)
+    - [s. 70 Power to refer certain planning questions to Joint Planning Inquiry Commission.](section/70.md)
+  - Other controls over development
+    - [s. 71 Orders requiring discontinuance of use or alteration or removal of buildings or works.](section/71.md)
+    - [s. 72 Confirmation by Secretary of State of section 71 orders.](section/72.md)
+    - [s. 73 Power of the Secretary of State to make section 71 orders.](section/73.md)
+    - [s. 74 Review of mineral planning permissions.](section/74.md)
+    - [s. 75 Planning obligations](section/75.md)
+    - [s. 75A Modification and discharge of planning obligations](section/75A.md)
+    - [s. 75B Appeals](section/75B.md)
+    - [s. 75C Planning obligations: continuing liability of former owner etc.](section/75C.md)
+    - [s. 75D Good neighbour agreements](section/75D.md)
+    - [s. 75E Good neighbour agreements: modification and discharge of obligations](section/75E.md)
+    - [s. 75F Good neighbour agreements: appeals](section/75F.md)
+    - [s. 75G Good neighbour agreements: continuing liability of former owner etc.](section/75G.md)
+- Part IV Compensation for Effects of Certain Orders, Notices etc.
+  - Compensation for revocation or modification of planning permission
+    - [s. 76 Compensation where planning permission revoked or modified.](section/76.md)
+    - [s. 77 Compensation for refusal or conditional grant of planning permission formerly granted by development order.](section/77.md)
+    - [s. 78 Apportionment of compensation for depreciation.](section/78.md)
+    - [s. 79 Registration of compensation for depreciation.](section/79.md)
+    - [s. 80 Recovery of compensation on subsequent development.](section/80.md)
+    - [s. 81 Amount recoverable, and provisions for payment or remission.](section/81.md)
+    - [s. 82 Provisions for payment or remission of amount recoverable under section 80.](section/82.md)
+    - [s. 83 Compensation in respect of orders under section 71 etc.](section/83.md)
+    - [s. 84 Special basis for compensation in respect of certain orders affecting mineral working.](section/84.md)
+    - [s. 85 Power to make provision for determination of claims.](section/85.md)
+    - [s. 86 Lands Tribunal to determine claims if not otherwise provided.](section/86.md)
+  - Supplementary provisions
+    - [s. 87 General provisions as to compensation for depreciation under this Part.](section/87.md)
+- Part V Rights of Owners etc. to Require Purchase of Interests
+  - Chapter I Interests Affected by Planning Decisions or Orders
+    - Service of purchase notices
+      - [s. 88 Circumstances in which purchase notices may be served.](section/88.md)
+      - [s. 88A Purchase notices: Crown land](section/88A.md)
+      - [s. 89 Circumstances in which land incapable of reasonably beneficial use.](section/89.md)
+    - Duties of authorities on service of purchase notice
+      - [s. 90 Action by planning authority on whom purchase notice is served.](section/90.md)
+      - [s. 91 Procedure on reference of purchase notice to Secretary of State.](section/91.md)
+      - [s. 92 Action by Secretary of State in relation to purchase notice.](section/92.md)
+      - [s. 93 Power to refuse to confirm purchase notice where land has restricted use by virtue of previous planning permission.](section/93.md)
+      - [s. 94 Effect of Secretary of State’s action in relation to purchase notice.](section/94.md)
+    - Compensation
+      - [s. 95 Special provisions as to compensation where purchase notice served.](section/95.md)
+    - Special provisions for requiring purchase of whole of partially affected agricultural unit
+      - [s. 96 Counter-notice requiring purchase of remainder of agricultural unit.](section/96.md)
+      - [s. 97 Effect of counter-notice under section 96.](section/97.md)
+      - [s. 98 Provisions supplemental to sections 96 and 97.](section/98.md)
+    - Supplemental
+      - [s. 99 Interpretation of Chapter I.](section/99.md)
+  - Chapter II Interests Affected by Planning Proposals: Blight
+    - Preliminary
+      - [s. 100 Scope of Chapter II.](section/100.md)
+    - Blight notices
+      - [s. 101 Notice requiring purchase of blighted land.](section/101.md)
+      - [s. 102 Counter-notice objecting to blight notice.](section/102.md)
+      - [s. 103 Further counter-notice where certain proposals have come into force.](section/103.md)
+      - [s. 104 Reference of objection to Lands Tribunal: general.](section/104.md)
+      - [s. 105 Effect of valid blight notice.](section/105.md)
+      - [s. 106 Effect on powers of compulsory acquisition of counter-notice disclaiming intention to acquire.](section/106.md)
+      - [s. 107 Withdrawal of blight notice.](section/107.md)
+    - Compensation
+      - [s. 108 Special provisions as to compensation for acquisition in pursuance of blight notice.](section/108.md)
+    - Special provisions for requiring purchase of whole of partially affected agricultural units
+      - [s. 109 Inclusion in blight notice of requirement to purchase part of agricultural unit unaffected by blight.](section/109.md)
+      - [s. 110 Objection to section 109 notice.](section/110.md)
+      - [s. 111 Effect of section 109 notice.](section/111.md)
+    - Successors, heritable creditors and partnerships
+      - [s. 112 Powers of successors in respect of blight notice.](section/112.md)
+      - [s. 113 Power of heritable creditor to serve blight notice.](section/113.md)
+      - [s. 114 Prohibition on service of simultaneous notices under sections 101, 112 and 113.](section/114.md)
+      - [s. 115 Special provisions as to partnerships.](section/115.md)
+    - Miscellaneous and supplementary provisions
+      - [s. 116 Power of Secretary of State to acquire land affected by orders relating to new towns etc. where blight notice served.](section/116.md)
+      - [s. 116A Power of Secretary of State to acquire land identified in national policy statements where blight notice served](section/116A.md)
+      - [s. 117 Saving for claimant’s right to sell whole hereditament, etc.](section/117.md)
+      - [s. 118 No withdrawal of constructive notice to treat.](section/118.md)
+      - [s. 119 Meaning of “owner-occupier” and “resident owner-occupier”.](section/119.md)
+      - [s. 120 “Appropriate authority” for purposes of Chapter II.](section/120.md)
+      - [s. 121 “Appropriate enactment” for purposes of Chapter II.](section/121.md)
+      - [s. 122 General interpretation of Chapter II.](section/122.md)
+- Part VI Enforcement
+  - Application
+    - [s. 123 Expressions used in connection with enforcement.](section/123.md)
+    - [s. 124 Time limits.](section/124.md)
+  - Planning contravention notices
+    - [s. 125 Power to require information about activities on land.](section/125.md)
+    - [s. 126 Penalties for non-compliance with planning contravention notice.](section/126.md)
+  - Enforcement notices
+    - [s. 127 Issue of enforcement notice.](section/127.md)
+    - [s. 128 Contents and effect of notice.](section/128.md)
+    - [s. 129 Variation and withdrawal of enforcement notice.](section/129.md)
+    - [s. 130 Appeal against enforcement notice.](section/130.md)
+    - [s. 131 Appeals: supplementary provisions.](section/131.md)
+    - [s. 132 General provisions relating to determination of appeals.](section/132.md)
+    - [s. 133 Grant or modification of planning permission on appeal against enforcement notice.](section/133.md)
+    - [s. 134 Validity of enforcement notices.](section/134.md)
+    - [s. 135 Execution and cost of works required by enforcement notice.](section/135.md)
+    - [s. 136 Offence where enforcement notice not complied with.](section/136.md)
+    - [s. 136A Fixed penalty notice where enforcement notice not complied with](section/136A.md)
+    - [s. 137 Effect of planning permission etc. on enforcement or breach of condition notice.](section/137.md)
+    - [s. 138 Enforcement notice to have effect against subsequent development.](section/138.md)
+    - [s. 139 Power of Secretary of State to serve enforcement notice.](section/139.md)
+  - Stop notices
+    - [s. 140 Stop notices.](section/140.md)
+    - [s. 141 Stop notices: supplementary provisions.](section/141.md)
+    - [s. 142 Power of the Secretary of State to serve stop notice.](section/142.md)
+    - [s. 143 Compensation for loss due to stop notice.](section/143.md)
+    - [s. 144 Penalties for contravention of stop notice.](section/144.md)
+  - Temporary stop notices
+    - [s. 144A Temporary stop notices](section/144A.md)
+    - [s. 144B Temporary stop notices: restrictions](section/144B.md)
+    - [s. 144C Temporary stop notices: offences](section/144C.md)
+    - [s. 144D Temporary stop notices: compensation](section/144D.md)
+  - Breach of condition notices
+    - [s. 145 Enforcement of conditions.](section/145.md)
+    - [s. 145A Fixed penalty notice where breach of condition notice not complied with](section/145A.md)
+  - Interdicts
+    - [s. 146 Interdicts restraining breaches of planning control.](section/146.md)
+  - Registers
+    - [s. 147 Enforcement etc.: register of notices](section/147.md)
+  - Enforcement of orders for discontinuance of use, etc.
+    - [s. 148 Penalties for contravention of orders under section 71 and Schedule 8.](section/148.md)
+    - [s. 149 Enforcement of orders under section 71 and Schedule 8.](section/149.md)
+  - Certificate of lawful use or development
+    - [s. 150 Certificate of lawfulness of existing use or development.](section/150.md)
+    - [s. 151 Certificate of lawfulness of proposed use or development.](section/151.md)
+    - [s. 152 Certificates under sections 150 and 151: supplementary provisions.](section/152.md)
+    - [s. 153 Offences.](section/153.md)
+    - [s. 154 Appeals against refusal or failure to give decision on application.](section/154.md)
+    - [s. 155 Further provisions as to appeals to the Secretary of State.](section/155.md)
+  - Rights of entry for enforcement purposes
+    - [s. 156 Right to enter without warrant.](section/156.md)
+    - [s. 157 Right to enter under warrant.](section/157.md)
+    - [s. 158 Rights of entry: supplementary provisions.](section/158.md)
+  - Enforcement charters
+    - [s. 158A Enforcement charters](section/158A.md)
+- Part VII Special Controls
+  - Chapter I Trees
+    - General duty of planning authorities as respects trees
+      - [s. A159 Forestry and woodland strategy](section/A159.md)
+      - [s. 159 Planning permission to include appropriate provision for preservation and planting of trees.](section/159.md)
+    - Tree preservation orders
+      - [s. 160 Power to make tree preservation orders.](section/160.md)
+      - [s. 161 Form of and procedure applicable to orders.](section/161.md)
+      - [s. 161A Imminent danger to trees: entry to affix copy of tree preservation order](section/161A.md)
+      - [s. 162 Tree preservation: Forestry Commissioners](section/162.md)
+      - [s. 163 Provisional tree preservation orders.](section/163.md)
+      - [s. 164 Power for Secretary of State to make tree preservation orders.](section/164.md)
+    - Compensation for loss or damage caused by orders etc.
+      - [s. 165 Compensation in respect of tree preservation orders.](section/165.md)
+      - [s. 166 Compensation in respect of requirement as to replanting of trees.](section/166.md)
+    - Consequences of tree removal etc.
+      - [s. 167 Replacement of trees.](section/167.md)
+      - [s. 168 Enforcement of duties as to replacement of trees.](section/168.md)
+      - [s. 169 Appeal against section 168 notice.](section/169.md)
+      - [s. 170 Execution and cost of works required by section 168 notice.](section/170.md)
+      - [s. 171 Penalties for non-compliance with tree preservation order.](section/171.md)
+    - Trees in conservation areas
+      - [s. 172 Preservation of trees in conservation areas.](section/172.md)
+      - [s. 173 Power to disapply section 172.](section/173.md)
+      - [s. 174 Enforcement of controls as respects trees in conservation areas.](section/174.md)
+      - [s. 175 Register of section 172 notices.](section/175.md)
+    - Rights of entry
+      - [s. 176 Rights to enter without warrant.](section/176.md)
+      - [s. 177 Right to enter under warrant.](section/177.md)
+      - [s. 178 Rights of entry: supplementary provisions.](section/178.md)
+  - Chapter II Land Adversely Affecting Amenity of Neighbourhood
+    - Land adversely affecting other land
+      - [s. 179 Notice requiring proper maintenance of land.](section/179.md)
+      - [s. 180 Appeal against notice under section 179.](section/180.md)
+      - [s. 181 Register of notices under section 179.](section/181.md)
+  - Chapter III Advertisements
+    - Advertisement regulations
+      - [s. 182 Regulations controlling display of advertisements.](section/182.md)
+      - [s. 183 Power to make different advertisement regulations for different areas.](section/183.md)
+      - [s. 184 Planning permission not needed for advertisements complying with regulations.](section/184.md)
+    - Repayment of expense of removing prohibited advertisements
+      - [s. 185 Repayment of expense of removing prohibited advertisements.](section/185.md)
+    - Enforcement of control over advertisements
+      - [s. 186 Enforcement of control as to advertisements.](section/186.md)
+      - [s. 187 Power to remove or obliterate placards and posters.](section/187.md)
+- Part VIII Acquisition and Appropriation of Land for Planning Purposes etc.
+  - Acquisition for planning and public purposes
+    - [s. 188 Acquisition of land by agreement.](section/188.md)
+    - [s. 189 Compulsory acquisition of land in connection with development and for other planning purposes.](section/189.md)
+    - [s. 190 Compulsory acquisition of land by Secretary of State for the Environment.](section/190.md)
+  - Powers relating to land held for planning purposes
+    - [s. 191 Disposal of land held for planning purposes.](section/191.md)
+    - [s. 192 Disposal by Secretary of State of land acquired under section 190.](section/192.md)
+    - [s. 193 Development of land held for planning purposes.](section/193.md)
+  - Extinguishment of certain rights affecting acquired or appropriated land
+    - [s. 194 Extinguishment of rights over land compulsorily acquired.](section/194.md)
+    - [s. 195 General vesting declarations.](section/195.md)
+    - [s. 196 Power to override servitudes and other rights.](section/196.md)
+    - [s. 197 Provisions as to churches and burial grounds.](section/197.md)
+    - [s. 198 Use and development of land for open spaces.](section/198.md)
+    - [s. 199 Displacement of persons from land acquired or appropriated.](section/199.md)
+    - [s. 200 Modification of incorporated enactments for purposes of this Part.](section/200.md)
+    - [s. 201 Interpretation of this Part.](section/201.md)
+- Part IX Roads, Footpaths and Rights of Way
+  - Stopping up and diversion of roads by Secretary of State
+    - [s. 202 Roads affected by development: orders by Secretary of State.](section/202.md)
+  - Powers of local authorities to extinguish certain rights
+    - [s. 203 Order extinguishing right to use vehicles on road.](section/203.md)
+    - [s. 204 Compensation for orders under section 203.](section/204.md)
+    - [s. 205 Provision of amenity for road reserved to pedestrians.](section/205.md)
+    - [s. 206 Extinguishment of public rights of way over land held for planning purposes.](section/206.md)
+  - Powers of planning authorities to stop up roads, etc.
+    - [s. 207 Roads affected by development: orders by planning authorities.](section/207.md)
+    - [s. 208 Footpaths and bridleways affected by development: orders by planning authorities.](section/208.md)
+  - Procedure
+    - [s. 209 Procedure for making and confirming orders by Secretary of State and planning authorities.](section/209.md)
+    - [s. 210 Recovery of costs of making orders.](section/210.md)
+  - Supplementary provisions
+    - [s. 211 Concurrent proceedings in connection with roads.](section/211.md)
+    - [s. 212 Electronic communications apparatus.](section/212.md)
+  - Temporary road orders: mineral workings
+    - [s. 213 Temporary stopping up of roads, footpaths and bridleways for mineral workings.](section/213.md)
+- Part X Statutory Undertakers
+  - Preliminary
+    - [s. 214 Meaning of “statutory undertakers”.](section/214.md)
+    - [s. 215 Meaning of “operational land”.](section/215.md)
+    - [s. 216 Cases in which land is to be treated as not being operational land.](section/216.md)
+    - [s. 217 ................................](section/217.md)
+  - Application of Part III to statutory undertakers
+    - [s. 218 Applications for planning permission by statutory undertakers.](section/218.md)
+    - [s. 219 Conditional grants of planning permission.](section/219.md)
+    - [s. 220 Development requiring authorisation of government department.](section/220.md)
+    - [s. 221 ................................](section/221.md)
+    - [s. 222 ................................](section/222.md)
+    - [s. 223 ................................](section/223.md)
+  - Extinguishment of rights of statutory undertakers, etc.
+    - [s. 224 Extinguishment of rights of statutory undertakers: preliminary notices.](section/224.md)
+    - [s. 225 Extinguishment of rights of telecommunications code system operators: preliminary notices.](section/225.md)
+    - [s. 226 Notice for same purposes as sections 224 and 225 but given by undertakers to developing authority.](section/226.md)
+    - [s. 227 Orders under sections 224 and 225.](section/227.md)
+  - Extension or modification of statutory undertakers’ functions
+    - [s. 228 Extension or modification of functions of statutory undertakers.](section/228.md)
+    - [s. 229 Procedure in relation to orders under section 228.](section/229.md)
+    - [s. 230 Relief of statutory undertakers from obligations rendered impracticable.](section/230.md)
+    - [s. 231 Objections to orders under sections 228 and 230.](section/231.md)
+  - Compensation
+    - [s. 232 Right to compensation in respect of certain decisions and orders.](section/232.md)
+    - [s. 233 Measure of compensation to statutory undertakers etc.](section/233.md)
+    - [s. 234 Exclusion of section 233 at option of statutory undertakers.](section/234.md)
+    - [s. 235 Procedure for assessing compensation.](section/235.md)
+  - Advertisements
+    - [s. 236 Special provisions as to display of advertisements on operational land.](section/236.md)
+- Part XI Validity
+  - [s. 237 Validity of development plans and certain orders, decisions and directions.](section/237.md)
+  - [s. 238 Proceedings for questioning validity of development plans and certain schemes and orders.](section/238.md)
+  - [s. 239 Proceedings for questioning the validity of other orders, decisions and directions.](section/239.md)
+  - [s. 240 ................................](section/240.md)
+  - [s. 241 Special provisions as to orders subject to special parliamentary procedure.](section/241.md)
+- Part XII Crown Land
+  - Preliminary
+    - [s. 241A Application to the Crown](section/241A.md)
+    - [s. 242 Preliminary definitions.](section/242.md)
+  - Application of Act as respects Crown land
+    - [s. 242A Urgent Crown development: application](section/242A.md)
+    - [s. 243 Control of development on Crown land: special enforcement notices.](section/243.md)
+    - [s. 244 Supplementary provisions as to special enforcement notices.](section/244.md)
+    - [s. 245 Exercise of powers in relation to Crown land.](section/245.md)
+    - [s. 245A Enforcement in relation to the Crown](section/245A.md)
+    - [s. 245B References to an interest in land](section/245B.md)
+    - [s. 246 Agreements relating to Crown land.](section/246.md)
+    - [s. 247 Supplementary provisions as to Crown interest.](section/247.md)
+    - [s. 247A Applications for planning permission by Crown](section/247A.md)
+  - Provisions relating to anticipated disposal of Crown land
+    - [s. 248 Application for planning permission etc. in anticipation of disposal of Crown land.](section/248.md)
+    - [s. 249 Tree preservation orders in anticipation of disposal of Crown land.](section/249.md)
+    - [s. 250 Requirement of planning permission for continuance of use instituted by the Crown.](section/250.md)
+  - Enforcement in respect of war-time breaches of planning control by the Crown
+    - [s. 251 Enforcement in respect of war-time breaches of planning control by the Crown.](section/251.md)
+  - National performance monitoring
+    - [s. 251B National planning improvement co-ordinator](section/251B.md)
+- Part XIII Financial Provisions
+  - [s. 252 Fees for planning applications etc.](section/252.md)
+  - [s. 253 Grants for research and education.](section/253.md)
+  - [s. 253A Grants for advice and assistance](section/253A.md)
+  - [s. 254 Contributions by Ministers towards compensation paid by planning authorities.](section/254.md)
+  - [s. 255 Contributions by local authorities and statutory undertakers.](section/255.md)
+  - [s. 256 Assistance for acquisition of property where objection made to blight notice in certain cases.](section/256.md)
+  - [s. 257 Recovery from acquiring authorities of sums paid by way of compensation.](section/257.md)
+  - [s. 258 Sums recoverable from acquiring authorities reckonable for purposes of grant.](section/258.md)
+  - [s. 259 Financial provision.](section/259.md)
+  - [s. 260 General provision as to receipts of Secretary of State.](section/260.md)
+  - Expenses of local authorities
+    - [s. 261 Expenses of, and borrowing by, local authorities.](section/261.md)
+- Part XIV Miscellaneous and General Provisions
+  - Application of Act in special cases
+    - [s. 262 Power to modify Act in relation to minerals.](section/262.md)
+    - [s. 263 Application of certain provisions to planning authorities.](section/263.md)
+  - National Scenic Areas
+    - [s. 263A National Scenic Areas](section/263A.md)
+    - [s. 263B National Scenic Areas: report on consultation](section/263B.md)
+  - Natural Heritage Areas
+    - [s. 264 Natural Heritage Areas.](section/264.md)
+  - National Parks
+    - [s. 264A National Parks](section/264A.md)
+  - Local inquiries and other hearings
+    - [s. 265 Local inquiries.](section/265.md)
+    - [s. 265A Planning inquiries to be held in public subject to certain exceptions](section/265A.md)
+    - [s. 266 Orders as to expenses of parties where no local inquiry held.](section/266.md)
+    - [s. 267 Appeals and applications under this Act: procedure etc.](section/267.md)
+    - [s. 268 Inquiries under Private Legislation Procedure (Scotland) Act 1936.](section/268.md)
+  - Promotion and use of mediation etc.
+    - [s. 268A Promotion and use of mediation etc.](section/268A.md)
+  - Rights of entry
+    - [s. 269 Rights of entry.](section/269.md)
+    - [s. 270 Supplementary provisions as to rights of entry.](section/270.md)
+    - [s. 270A Rights of entry: Crown land](section/270A.md)
+  - Miscellaneous and general provisions
+    - [s. 270B Equal opportunities](section/270B.md)
+    - [s. 271 Service of notices.](section/271.md)
+    - [s. 271A Service of notices on the Crown](section/271A.md)
+    - [s. 272 Power to require information as to interests in land.](section/272.md)
+    - [s. 272A Information as to interests in Crown land](section/272A.md)
+    - [s. 273 Offences by corporations.](section/273.md)
+    - [s. 274 Combined applications.](section/274.md)
+    - [s. 275 Regulations and orders.](section/275.md)
+    - [s. 275A Further provision as regards regulations: inquiries etc.](section/275A.md)
+    - [s. 275B Directions](section/275B.md)
+    - [s. 276 Act not excluded by special enactments.](section/276.md)
+    - [s. 277 Interpretation.](section/277.md)
+    - [s. 278 Citation, commencement and extent.](section/278.md)
+- SCHEDULE 1 Old development plans
+  - Preliminary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Continuation in force of old development plans
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - ...
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Street authorisation maps
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - ...
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Discontinuance of old development plans
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Further provision as to interpretation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Exemptions from planning permission for certain land uses in 1948
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Conditions relating to mineral working
+  - Part I Conditions imposed on grant of permission
+    - Duration of development
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Power to impose aftercare conditions
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Meaning of “required standard”
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Consultations
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Certificate of compliance
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Recovery of expenses of compliance
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part II Conditions Imposed on Revocation or Modification of Permission
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Determination of certain appeals by person appointed by Secretary of State
+  - Determination of appeals by appointed person
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Powers and duties of appointed persons
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Determination of appeals by Secretary of State
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Appointment of another person to determine appeal
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Local inquiries and hearings
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Supplementary provisions
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Simplified planning zones
+  - General
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Notification of proposals to alter scheme
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Power of Secretary of State to direct alteration of scheme
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Steps to be taken before depositing proposals
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Procedure after deposit of proposals
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Procedure for dealing with objections
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Adoption of proposals by planning authority
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Calling in of proposals for approval by Secretary of State
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Approval of proposals by Secretary of State
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Default powers
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Regulations and directions
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 5A Masterplan consent areas
+  - PART 1 Content of schemes
+    - General
+      - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+    - Further provision about conditions, limitations and exceptions
+      - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+    - Places that cannot be included in a scheme
+      - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - PART 2 Making and altering of schemes by planning authorities
+    - Power to make or alter scheme
+      - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+    - Duty to periodically consider making scheme
+      - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+    - Duty to seek to make or alter scheme when directed to do so
+      - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+  - PART 3 Process for planning authority making or altering scheme
+    - CHAPTER 1 Process for all cases
+      - Outline of process
+        - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+      - Consultation on possible proposals
+        - [Sch. 5A para. 8](schedule/5A/paragraph/8.md)
+      - Publicity for proposals
+        - [Sch. 5A para. 9](schedule/5A/paragraph/9.md)
+      - Consideration of representations
+        - [Sch. 5A para. 10](schedule/5A/paragraph/10.md)
+    - CHAPTER 2 Further process for some cases
+      - Requirement to hold hearings
+        - [Sch. 5A para. 11](schedule/5A/paragraph/11.md)
+      - Requirement to notify the Scottish Ministers of certain proposals
+        - [Sch. 5A para. 12](schedule/5A/paragraph/12.md)
+      - Pause before making certain alterations
+        - [Sch. 5A para. 13](schedule/5A/paragraph/13.md)
+  - PART 4 Scottish Ministers’ powers to make and alter schemes and stop proposals
+    - CHAPTER 1 Calling in planning authorities’ proposals
+      - Power to call in proposals
+        - [Sch. 5A para. 14](schedule/5A/paragraph/14.md)
+      - Powers after calling in
+        - [Sch. 5A para. 15](schedule/5A/paragraph/15.md)
+    - CHAPTER 2 Making or altering scheme following paragraph 6 direction
+      - Power to make or alter scheme
+        - [Sch. 5A para. 16](schedule/5A/paragraph/16.md)
+      - Process for making or altering schemes
+        - [Sch. 5A para. 17](schedule/5A/paragraph/17.md)
+      - Recovery of costs
+        - [Sch. 5A para. 18](schedule/5A/paragraph/18.md)
+  - PART 5 Further powers of Scottish Ministers
+    - CHAPTER 1 Excluding kinds of development from schemes
+      - Power to exclude kinds of development
+        - [Sch. 5A para. 19](schedule/5A/paragraph/19.md)
+      - Effect of exclusion on existing schemes
+        - [Sch. 5A para. 20](schedule/5A/paragraph/20.md)
+    - CHAPTER 2 Powers in relation to procedure, etc.
+      - Directions about procedure and provision of information
+        - [Sch. 5A para. 21](schedule/5A/paragraph/21.md)
+      - Regulations about form, content and procedure
+        - [Sch. 5A para. 22](schedule/5A/paragraph/22.md)
+  - PART 6 Interpretation
+    - Application of section 54F
+      - [Sch. 5A para. 23](schedule/5A/paragraph/23.md)
+    - Calculation of periods
+      - [Sch. 5A para. 24](schedule/5A/paragraph/24.md)
+- SCHEDULE 6 Planning Inquiry Commissions
+  - Constitution
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - References
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Procedure on reference
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Functions on reference
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Local inquiries held by commission
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Joint Planning Inquiry Commissions
+  - Constitution
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - References
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Procedure on reference
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Functions on reference
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Local inquiries
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Interpretation
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Old mineral workings and permissions
+  - Part I Requirements relating to discontinuance of mineral working
+    - Orders requiring discontinuance of mineral working
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Prohibition of resumption of mineral working
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Orders after suspension of winning and working of minerals
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Supplementary suspension orders
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Confirmation and coming into operation of suspension orders
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Registration of suspension orders
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Review of suspension orders
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Old mining permissions
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Resumption of mineral working after suspension order
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Default powers of Secretary of State
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Part II Registration of Old Mining Permissions
+    - Application for registration
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Determination of conditions
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Registration
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - General provisions about applications
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Right of appeal
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Determination of appeal
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Reference of applications to Secretary of State
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Two or more applicants
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Application of provisions relating to planning permission
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Interpretation
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+- SCHEDULE 9 Review of old mineral planning permissions
+  - Interpretation
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Phase I and II sites
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - The “first list”
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - The “second list”
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Advertisement of the first and second lists
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Applications for inclusion in the first list of sites not included in that list as originally prepared and appeals from decisions upon such applications
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Postponement of the date specified in the first or second list for review of the permissions relating to a Phase I or II site in cases where the existing conditions are satisfactory
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Service on owners etc. of notice of preparation of the first and second lists
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Applications for approval of conditions and appeals in cases where the conditions approved are not those proposed
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Notice of determination of conditions to be accompanied by additional information in certain cases
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Right to appeal against planning authority’s determination of conditions etc.
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Permissions ceasing to have effect
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Reference of applications to the Secretary of State
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Two or more applicants
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Compensation
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Appeals: general procedural provisions
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Periodic review of mineral planning permissions
+  - Duty to carry out periodic reviews
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Interpretation
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - The first review date
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 3A](schedule/10/paragraph/3A.md)
+  - Service of notice of first periodic review
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Application for postponement of the first review date
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Application to determine the conditions to which the mineral permissions relating to a mining site are to be subject
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Permissions ceasing to have effect
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Reference of applications to the Secretary of State
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Appeals
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Time from which conditions determined under this Schedule are to take effect
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Two or more applicants
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Second and subsequent periodic reviews
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Compensation
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Development not constituting new development
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+- SCHEDULE 12 Condition treated as applicable to rebuilding and alterations
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Regulations as to compensation in respect of orders relating to mineral working
+  - Power to modify compensation provisions
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Determination of claims
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+- SCHEDULE 14 Blighted land
+  - Land allocated for public authority functions in development plans etc.
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - New towns and urban development areas
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Housing action areas
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Roads
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Compulsory purchase
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Land identified in national policy statements so far as relating to certain pipe-lines
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Note
+- SCHEDULE 15 General vesting declarations
+  - Part I General provisions
+    - Execution of general vesting declarations
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Effect of general vesting declaration
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Recovery of compensation overpaid
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - Penalty for false information in claiming compensation
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+  - Part II Supplementary provisions
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Exclusion of power of entry under the Acquisition Act 1947
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - Restriction on withdrawal of constructive notice to treat
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - Objection to severance
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+      - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+      - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+      - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+      - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+      - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+      - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+      - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - Compensation
+      - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+      - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+    - Charges and tenancies
+      - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+      - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+      - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+    - Miscellaneous
+      - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+      - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+      - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+  - Part III Interpretation
+    - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+    - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+- SCHEDULE 16 Procedure for making and confirming orders relating to roads and rights of way
+  - Part I Making orders
+    - Procedure for making of orders by Secretary of State
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - Procedure in anticipation of planning permission, etc.
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - Further procedure in anticipation of planning permission, etc.
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Part II Confirmation of orders
+    - Application
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - Confirmation of orders made by other authorities
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+      - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+      - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+      - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Part III Publicity for orders after confirmation
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+- SCHEDULE 17 Enforcement as respects war-time breaches by the crown of planning control
+  - Preliminary
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Making of compliance determination applications
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - Determination of applications
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Appeals against compliance determinations or failure to make such determinations
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - Fresh applications where alteration in circumstances
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - References of application to Secretary of State
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - Information
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+  - Opportunity for hearing
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - Notice of proposed enforcement
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - Power of entry
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+  - Service of notices
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - Supplementary provisions
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+- SCHEDULE 18 Provisions of this Act referred to in sections 261 to 263
+  - Part I Provisions referred to in sections 261(1) and (2) and 262(1)
+  - Part II Provisions referred to in section 263(1)
+  - TABLE OF DERIVATIONS
+    - [Sch. 18 para. 1 Notes:](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - Acts of Parliament
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+- SCHEDULE 19 Local place plans
+  - Preparation of local place plans
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Submission of local place plans
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Register of local place plans
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Map of local place plans
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - Meaning of “community body”
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
