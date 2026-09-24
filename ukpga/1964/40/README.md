@@ -1,0 +1,209 @@
+# Harbours Act 1964
+
+1964 c. 40. Enacted 1964-06-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
+
+Source: https://www.legislation.gov.uk/ukpga/1964/40/2026-09-24
+
+## Contents
+
+- The National Ports Council
+  - [s. 1 ................................](section/1.md)
+- Control of harbour Development
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 ................................](section/10.md)
+- Exchequer Assistance for Execution of harbour Works, &c.
+  - [s. 11 Loans for execution of harbour works, &c.](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 Maximum amount of loans and grants under sections 11 and 12, and cesser of certain other powers to give financial assistance.](section/13.md)
+- Harbour Revision and Empowerment Orders
+  - [s. 14 Ministers’ powers, on application of harbour authorities, or others, to make orders for securing harbour efficiency, &c.](section/14.md)
+  - [s. 15 Ministers’ powers to make, of their own motion, orders for limited purposes for securing harbour efficiency, &c.](section/15.md)
+  - [s. 15A Ministers’ powers to make orders about port appointments.](section/15A.md)
+  - [s. 16 Ministers’ powers, on application of intending undertakers, or others, to make orders conferring powers for improvement, construction, &c., of harbours.](section/16.md)
+  - [s. 17 Procedure for making harbour revision and empowerment orders, and substitution thereof, in general, for provisional orders.](section/17.md)
+- Harbour closure orders
+  - [s. 17A Power to make closure order](section/17A.md)
+  - [s. 17B Content of closure order](section/17B.md)
+  - [s. 17C Harbour closure orders: property etc](section/17C.md)
+  - [s. 17D Harbour closure orders: procedure](section/17D.md)
+  - [s. 17E Harbour closure orders: devolution](section/17E.md)
+  - [s. 17F Supplemental](section/17F.md)
+- Harbour Reorganisation Schemes
+  - [s. 18 Harbour reorganisation schemes.](section/18.md)
+- Compensation for Loss of Office, &c.
+  - [s. 19 Compensation for loss of office, &c., in consequence of orders and schemes under foregoing provisions.](section/19.md)
+- Control of Movement of Ships in Harbours
+  - [s. 20 ................................](section/20.md)
+- Harbour Charges
+  - [s. 26 Repeal of provisions limiting discretion of certain harbour authorities as to ship, passenger and goods dues charged by them.](section/26.md)
+  - [s. 27 Certain charges of certain harbour authorities to be reasonable.](section/27.md)
+  - [s. 27A Combined charges.](section/27A.md)
+  - [s. 28 Repeal of provisions limiting discretion of nationalised transport bodies as to ship, passenger and merchandise dues chargeable at certain harbours owned or managed by them.](section/28.md)
+  - [s. 29 Repeal of provisions limiting discretion of local lighthouse authorities as to local light dues.](section/29.md)
+  - [s. 30 Duty of harbour and local lighthouse authorities to make available for inspection, and to keep for sale, copies of lists of certain charges.](section/30.md)
+  - [s. 31 Right of objection to ship, passenger and goods dues.](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36](section/36.md)
+  - [s. 37 Special provisions with respect to certain aviation charges.](section/37.md)
+  - [s. 38 Repeal of certain enactments relating to harbour charges.](section/38.md)
+  - [s. 39 Amendments of Acts consequential on sections 26 to 37.](section/39.md)
+- Conditions as to Use of harbour Services and Facilities provided by certain harbour Authorities
+  - [s. 40 Conditions as to use of harbour services and facilities provided by certain harbour authorities.](section/40.md)
+- Harbour directions
+  - [s. 40A Directions](section/40A.md)
+  - [s. 40B Procedure](section/40B.md)
+  - [s. 40C Enforcement](section/40C.md)
+  - [s. 40D Supplemental](section/40D.md)
+- Furnishing of Information
+  - [s. 41 Power of Council to obtain information and forecasts.](section/41.md)
+  - [s. 42 Accounts and reports relating to harbour activities and associated activities.](section/42.md)
+- Delegation of certain functions
+  - [s. 42A Power to make orders delegating functions](section/42A.md)
+  - [s. 42B Directions as to performance of delegated functions](section/42B.md)
+  - [s. 42C Consent of Welsh Ministers required for certain orders and schemes](section/42C.md)
+  - [s. 42D Consent of Secretary of State required for certain orders and schemes](section/42D.md)
+- Miscellaneous and General
+  - [s. 43 Provisions with respect to loans made under this Act by the Minister or the Welsh Ministers.](section/43.md)
+  - [s. 44 Limitation of right to challenge harbour revision orders, etc., in legal proceedings.](section/44.md)
+  - [s. 45 Penalisation of furnishing false information.](section/45.md)
+  - [s. 46 Restriction of disclosure of information.](section/46.md)
+  - [s. 47 Provisions as to inquiries and hearings.](section/47.md)
+  - [s. 48 Service of documents.](section/48.md)
+  - [s. 48A Environmental duties of harbour authorities.](section/48A.md)
+  - [s. 49 Provisions as to ecclesiastical property.](section/49.md)
+  - [s. 50 Reckoning of periods.](section/50.md)
+  - [s. 51 Modification of Harbours, Piers and Ferries (Scotland) Act 1937.](section/51.md)
+  - [s. 52 Application of Act to Crown.](section/52.md)
+  - [s. 53 Saving for telegraphic lines.](section/53.md)
+  - [s. 54 Orders and regulations.](section/54.md)
+  - [s. 54A “Developments of national significance” etc.: special procedure](section/54A.md)
+  - [s. 55 Offences by corporations.](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 Interpretation.](section/57.md)
+  - [s. 58 Drainage and river authorities not to be harbour authorities for purposes of this Act if not possessing exceptional powers.](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 60 Power to amend Acts of local application.](section/60.md)
+  - [s. 61 Expenses.](section/61.md)
+  - [s. 62 ................................](section/62.md)
+  - [s. 63 †Short title, extent, repeal and commencement.](section/63.md)
+- SCHEDULE 1
+- SCHEDULE 2 Objects for whose Achievement Harbour Revision Orders may be made
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 7A](schedule/2/paragraph/7A.md)
+  - [Sch. 2 para. 7B](schedule/2/paragraph/7B.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 8A](schedule/2/paragraph/8A.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+  - [Sch. 2 para. 9B](schedule/2/paragraph/9B.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 16A](schedule/2/paragraph/16A.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 PROCEDURE FOR MAKING HARBOUR REVISION AND EMPOWERMENT ORDERS
+  - PART I ORDERS MADE ON APPLICATION TO THE SECRETARY OF STATE
+    - Introductory
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+    - Pre-application procedure
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+      - [Sch. 3 para. 4B](schedule/3/paragraph/4B.md)
+      - [Sch. 3 para. 4C](schedule/3/paragraph/4C.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - The application
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
+    - Co-ordination of environmental impact assessment and other assessments
+      - [Sch. 3 para. 8B](schedule/3/paragraph/8B.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Fees
+      - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
+    - Notices
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 10ZA](schedule/3/paragraph/10ZA.md)
+      - [Sch. 3 para. 10ZB](schedule/3/paragraph/10ZB.md)
+      - [Sch. 3 para. 10A](schedule/3/paragraph/10A.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Consultation
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Objections
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Reasoned conclusion about environmental impact
+      - [Sch. 3 para. 18A](schedule/3/paragraph/18A.md)
+    - The decision
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 19A](schedule/3/paragraph/19A.md)
+      - [Sch. 3 para. 19B](schedule/3/paragraph/19B.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Defence projects: exemption from environmental impact assessment
+      - [Sch. 3 para. 20A](schedule/3/paragraph/20A.md)
+    - Civil emergencies: exemption from environmental impact assessment
+      - [Sch. 3 para. 20B](schedule/3/paragraph/20B.md)
+    - Exemption from environmental impact assessment in exceptional circumstances
+      - [Sch. 3 para. 20C](schedule/3/paragraph/20C.md)
+    - Deferral of environmental impact assessment: direction and effect of direction
+      - [Sch. 3 para. 20D](schedule/3/paragraph/20D.md)
+      - [Sch. 3 para. 20E](schedule/3/paragraph/20E.md)
+      - [Sch. 3 para. 20F](schedule/3/paragraph/20F.md)
+      - [Sch. 3 para. 20G](schedule/3/paragraph/20G.md)
+    - The order
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Statutory undertakers’ land
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - PART II ORDERS MADE BY THE SECRETARY OF STATE OF HIS OWN MOTION
+    - Notices
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Objections
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - The decision
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - The order
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - PART III HARBOUR EMPOWERMENT ORDERS: MODIFICATIONS OF PART I
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+- SCHEDULE 4 Procedure for Confirming and Making Harbour Reorganisation Schemes
+  - Part I Procedure for Submission and Confirmation of Harbour Reorganisation Schemes
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part II Modifications subject to which Part I has effect with Respect to Procedure for Making of Harbour Reorganisation Schemes by the Secretary of State of His Own Motion.
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5
+- SCHEDULE 6
