@@ -1,0 +1,313 @@
+# Modern Slavery Act 2015
+
+2015 c. 30. Enacted 2015-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
+
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
+
+## Contents
+
+- PART 1 Offences
+  - Offences
+    - [s. 1 Slavery, servitude and forced or compulsory labour](section/1.md)
+    - [s. 2 Human trafficking](section/2.md)
+    - [s. 3 Meaning of exploitation](section/3.md)
+    - [s. 4 Committing offence with intent to commit offence under section 2](section/4.md)
+  - Penalties and sentencing
+    - [s. 5 Penalties](section/5.md)
+    - [s. 6 Sentencing](section/6.md)
+    - [s. 7 Confiscation of assets](section/7.md)
+    - [s. 8 Power to make slavery and trafficking reparation orders](section/8.md)
+    - [s. 9 Effect of slavery and trafficking reparation orders](section/9.md)
+    - [s. 10 Slavery and trafficking reparation orders: supplementary provision](section/10.md)
+    - [s. 11 Forfeiture of land vehicle, ship or aircraft](section/11.md)
+  - Supplementary
+    - [s. 11A Enforcement by Gangmasters and Labour Abuse Authority](section/11A.md)
+    - [s. 12 Detention of land vehicle, ship or aircraft](section/12.md)
+    - [s. 13 Interpretation of Part 1](section/13.md)
+- PART 2 Prevention orders
+  - Slavery and trafficking prevention orders
+    - [s. 14 Slavery and trafficking prevention orders on sentencing](section/14.md)
+    - [s. 15 Slavery and trafficking prevention orders on application](section/15.md)
+    - [s. 16 Meaning of “relevant offender”](section/16.md)
+    - [s. 17 Effect of slavery and trafficking prevention orders](section/17.md)
+    - [s. 18 Prohibitions on foreign travel](section/18.md)
+    - [s. 19 Requirement to provide name and address](section/19.md)
+    - [s. 20 Variation, renewal and discharge](section/20.md)
+    - [s. 21 Interim slavery and trafficking prevention orders](section/21.md)
+    - [s. 22 Appeals](section/22.md)
+  - Slavery and trafficking risk orders
+    - [s. 23 Slavery and trafficking risk orders](section/23.md)
+    - [s. 24 Effect of slavery and trafficking risk orders](section/24.md)
+    - [s. 25 Prohibitions on foreign travel](section/25.md)
+    - [s. 26 Requirement to provide name and address](section/26.md)
+    - [s. 27 Variation, renewal and discharge](section/27.md)
+    - [s. 28 Interim slavery and trafficking risk orders](section/28.md)
+    - [s. 29 Appeals](section/29.md)
+  - Offences and supplementary provision
+    - [s. 30 Offences](section/30.md)
+    - [s. 30A Enforcement by Gangmasters and Labour Abuse Authority](section/30A.md)
+    - [s. 31 Cross-border enforcement](section/31.md)
+    - [s. 32 Rules of court](section/32.md)
+    - [s. 33 Guidance to chief officers of police etc](section/33.md)
+    - [s. 34 Interpretation of Part 2](section/34.md)
+- PART 3 Maritime enforcement
+  - [s. 35 Enforcement powers in relation to ships: England and Wales](section/35.md)
+  - [s. 36 Enforcement powers in relation to ships: Scotland](section/36.md)
+  - [s. 37 Enforcement powers in relation to ships: Northern Ireland](section/37.md)
+  - [s. 38 Hot pursuit of ships in United Kingdom waters](section/38.md)
+  - [s. 39 Interpretation of Part 3](section/39.md)
+- PART 4 The Independent Anti-slavery Commissioner
+  - [s. 40 The Independent Anti-slavery Commissioner](section/40.md)
+  - [s. 41 General functions of Commissioner](section/41.md)
+  - [s. 42 Strategic plans and annual reports](section/42.md)
+  - [s. 43 Duty to co-operate with Commissioner](section/43.md)
+  - [s. 44 Restriction on exercise of functions](section/44.md)
+- PART 5 Protection of victims
+  - [s. 45 Defence for slavery or trafficking victims who commit an offence](section/45.md)
+  - [s. 46 Special measures for witnesses in criminal proceedings](section/46.md)
+  - [s. 47 Civil legal aid for victims of slavery](section/47.md)
+  - [s. 48 Independent child trafficking advocates](section/48.md)
+  - [s. 49 Guidance about identifying and supporting victims](section/49.md)
+  - [s. 50 Regulations about identifying and supporting victims](section/50.md)
+  - [s. 50A Identified potential victims etc: assistance and support](section/50A.md)
+  - [s. 51 Presumption about age](section/51.md)
+  - [s. 52 Duty to notify Secretary of State about suspected victims of slavery or human trafficking](section/52.md)
+  - [s. 53 Overseas domestic workers](section/53.md)
+- PART 6 Transparency in supply chains etc
+  - [s. 54 Transparency in supply chains etc](section/54.md)
+- PART 7 Miscellaneous and general
+  - Miscellaneous
+    - [s. 54A Gangmasters and Labour Abuse Authority: information gateways](section/54A.md)
+    - [s. 55 Gangmasters Licensing Authority](section/55.md)
+  - General
+    - [s. 56 Interpretation](section/56.md)
+    - [s. 57 Consequential provision](section/57.md)
+    - [s. 58 Regulations](section/58.md)
+    - [s. 59 Financial provisions](section/59.md)
+    - [s. 60 Extent](section/60.md)
+    - [s. 61 Commencement](section/61.md)
+    - [s. 62 Short title](section/62.md)
+- SCHEDULE 1 Slavery and human trafficking offences
+  - Nationality, Immigration and Asylum Act 2002 (c. 41)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Criminal Justice (Scotland) Act 2003 (asp 7)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Coroners and Justice Act 2009 (c. 25)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Modern Slavery Act 2015 (c. 30)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)
+    - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+  - Ancillary offences
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Enforcement powers in relation to ships
+  - PART 1 England and Wales
+    - Introductory
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Power to stop, board, divert and detain
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Power to search and obtain information
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Power of arrest and seizure
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Code of practice
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Assistants
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Reasonable force
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Evidence of authority
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Protection of constables and enforcement officers
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Offences
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - PART 2 Scotland
+    - Introductory
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Power to stop, board, divert and detain
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Power to search and obtain information
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Power of arrest and seizure
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Assistants
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Reasonable force
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Evidence of authority
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Offences
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - PART 3 Northern Ireland
+    - Introductory
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Power to stop, board, divert and detain
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Power to search and obtain information
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Power of arrest and seizure
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Code of practice
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Assistants
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Reasonable force
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Evidence of authority
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Protection of constables and enforcement officers
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Offences
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+- SCHEDULE 3 Public authorities under a duty to co-operate with the Commissioner
+- SCHEDULE 4 Offences to which defence in section 45 does not apply
+  - Common law offences
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Offences against the Person Act 1861 (c. 100)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Explosive Substances Act 1883 (c. 3)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Infant Life (Preservation) Act 1929 (c. 34)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Public Order Act 1936 (1 Edw. 8 & 1 Geo. 6 c. 6)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Infanticide Act 1938 (c. 36)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Firearms Act 1968 (c. 27)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Theft Act 1968 (c. 60)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Criminal Damage Act 1971 (c. 48)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Immigration Act 1971 (c. 77)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Customs and Excise Management Act 1979 (c. 2)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Taking of Hostages Act 1982 (c. 28)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Aviation Security Act 1982 (c. 36)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Child Abduction Act 1984 (c. 37)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Public Order Act 1986 (c. 64)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Aviation and Maritime Security Act 1990 (c. 31)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Channel Tunnel (Security) Order 1994 (S.I. 1994/570)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - Protection from Harassment Act 1997 (c. 40)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+  - International Criminal Court Act 2001 (c. 17)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Female Genital Mutilation Act 2003 (c. 31)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+  - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+  - Terrorism Act 2006 (c. 11)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+  - Counter-Terrorism Act 2008 (c.28)
+    - [Sch. 4 para. 35ZA](schedule/4/paragraph/35ZA.md)
+  - Terrorism Prevention and Investigation Measures Act 2011 (c. 23)
+    - [Sch. 4 para. 35ZB](schedule/4/paragraph/35ZB.md)
+  - Counter-Terrorism and Security Act 2015 (c. 6)
+    - [Sch. 4 para. 35ZC](schedule/4/paragraph/35ZC.md)
+  - Serious Crime Act 2015
+    - [Sch. 4 para. 35A](schedule/4/paragraph/35A.md)
+  - Modern Slavery Act 2015 (c. 30)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 36A](schedule/4/paragraph/36A.md)
+  - Health and Care Act 2022
+    - [Sch. 4 para. 36B](schedule/4/paragraph/36B.md)
+  - National Security Act 2023
+    - [Sch. 4 para. 36C](schedule/4/paragraph/36C.md)
+  - Ancillary offences
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+- SCHEDULE 4A Information gateways: specified persons
+  - Authorities with functions in connection with the labour market etc
+  - Law enforcement and border security
+  - Local government
+  - Health bodies
+  - Other
+- SCHEDULE 5 Minor and consequential amendments
+  - PART 1 Amendments relating to offences
+    - Children and Young Persons Act 1933 (c. 12)
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Immigration Act 1971 (c. 77)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Sexual Offences (Amendment) Act 1992 (c. 34)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Coroners and Justice Act 2009 (c. 25)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Protection of Freedoms Act 2012 (c. 9)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - PART 2 Amendments relating to slavery and trafficking reparation orders
+    - Administration of Justice Act 1970 (c. 31)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Criminal Justice Act 1991 (c. 53)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Courts Act 2003 (c. 39)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Prevention of Social Housing Fraud Act 2013 (c. 3)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
