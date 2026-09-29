@@ -1,0 +1,509 @@
+# Police Act 1996
+
+1996 c. 16. Enacted 1996-05-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
+
+Source: https://www.legislation.gov.uk/ukpga/1996/16/2026-09-29
+
+## Contents
+
+- Part I Organisation of Police Forces
+  - Police areas and police forces
+    - [s. 1 Police areas.](section/1.md)
+  - ...
+    - [s. 2 Maintenance of police forces.](section/2.md)
+    - [s. 3 Establishment of police authorities.](section/3.md)
+    - [s. 4 Membership of police authorities etc.](section/4.md)
+    - [s. 5 Reductions in size of police authorities.](section/5.md)
+  - ...
+    - [s. 5A Maintenance of the metropolitan police force.](section/5A.md)
+    - [s. 5B Establishment of the Metropolitan Police Authority.](section/5B.md)
+    - [s. 5C Membership etc of the Metropolitan Police Authority.](section/5C.md)
+  - The metropolitan police and forces outside London
+    - [s. 6 General functions of police authorities.](section/6.md)
+  - The City of London
+    - [s. 6AZA Common Council to remain police authority for City](section/6AZA.md)
+    - [s. 6ZA Power to confer particular functions on the Common Council](section/6ZA.md)
+    - [s. 6ZB Plans by the Common Council](section/6ZB.md)
+    - [s. 6ZC Reports by the Common Council](section/6ZC.md)
+    - [s. 6A Three-year strategy plans](section/6A.md)
+    - [s. 7 Local policing objectives.](section/7.md)
+    - [s. 8 Local policing plans.](section/8.md)
+    - [s. 8A Local policing summaries](section/8A.md)
+    - [s. 9 Annual reports by police authorities.](section/9.md)
+    - [s. 9A General functions of the Commissioner of Police of the Metropolis.](section/9A.md)
+    - [s. 9B Appointment of Commissioner of Police of the Metropolis.](section/9B.md)
+    - [s. 9C Functions of Deputy Commissioner of Police of the Metropolis.](section/9C.md)
+    - [s. 9D Appointment of Deputy Commissioner of Police of the Metropolis.](section/9D.md)
+    - [s. 9E Removal of Commissioner or Deputy Commissioner.](section/9E.md)
+    - [s. 9F Assistant Commissioners of Police of the Metropolis.](section/9F.md)
+    - [s. 9FA Appointment and removal of Deputy Assistant Commissioners](section/9FA.md)
+    - [s. 9G Commanders.](section/9G.md)
+  - Police ranks
+    - [s. 9H Other members of the metropolitan police force.](section/9H.md)
+    - [s. 10 General functions of chief constables.](section/10.md)
+    - [s. 11 Appointment and removal of chief constables.](section/11.md)
+    - [s. 11A Appointment and removal of deputy chief constables](section/11A.md)
+    - [s. 12 Assistant chief constables.](section/12.md)
+    - [s. 12A Power of deputy to exercise functions of chief constable](section/12A.md)
+    - [s. 13 Other members of police forces.](section/13.md)
+    - [s. 14 Police fund.](section/14.md)
+    - [s. 15 Civilian employees.](section/15.md)
+    - [s. 16 Appointment of chief executive.](section/16.md)
+    - [s. 17 Appointment of persons not employed by police authorities.](section/17.md)
+  - City of London
+    - [s. 18 Supply of goods and services.](section/18.md)
+    - [s. 19 Approval of decisions about precepts.](section/19.md)
+    - [s. 20 Questions on police matters at council meetings.](section/20.md)
+    - [s. 20A Questions on metropolitan police matters at London Assembly meetings.](section/20A.md)
+    - [s. 21 Application of certain provisions to police authorities.](section/21.md)
+  - ...
+    - [s. 22 Reports by chief constables to police authorities.](section/22.md)
+  - General provisions
+    - [s. 22A Collaboration agreements](section/22A.md)
+    - [s. 22B Duty of chief officers to keep collaboration agreements under review](section/22B.md)
+    - [s. 22C Duty of policing bodies to keep collaboration agreements under review](section/22C.md)
+    - [s. 23 Collaboration agreements involving police forces](section/23.md)
+    - [s. 23A Collaboration agreements involving policing bodie](section/23A.md)
+    - [s. 23AA Force collaboration provision about civilian employees](section/23AA.md)
+    - [s. 23B Collaboration agreements: payments](section/23B.md)
+    - [s. 23C Collaboration agreements: consultation and supplemental](section/23C.md)
+    - [s. 23D Collaboration agreements: accountability](section/23D.md)
+    - [s. 23E Collaboration agreements: publication](section/23E.md)
+    - [s. 23F Collaboration agreements: guidance](section/23F.md)
+    - [s. 23FA Police functions that must be the subject of force collaboration provision](section/23FA.md)
+    - [s. 23G Collaboration agreements: directions](section/23G.md)
+    - [s. 23H Collaboration agreements: termination by Secretary of State](section/23H.md)
+    - [s. 23HA Decisions about efficiency or effectiveness](section/23HA.md)
+    - [s. 23I Collaboration agreements: definitions](section/23I.md)
+    - [s. 24 Aid of one police force by another.](section/24.md)
+    - [s. 25 Provision of special services.](section/25.md)
+    - [s. 26 Provision of advice and assistance to international organisations etc.](section/26.md)
+    - [s. 27 Special constables.](section/27.md)
+    - [s. 28 Police cadets.](section/28.md)
+    - [s. 29 Attestation of constables.](section/29.md)
+    - [s. 30 Jurisdiction of constables.](section/30.md)
+    - [s. 31 Rewards for diligence](section/31.md)
+  - Amendment of names of police areas
+    - [s. 31A Power to amend names of police areas](section/31A.md)
+  - Alteration of police areas
+    - [s. 32 Power to alter police areas by order.](section/32.md)
+    - [s. 33 Objections to alterations proposed by Secretary of State.](section/33.md)
+    - [s. 34 Orders altering police areas: supplementary provisions.](section/34.md)
+  - Supplemental
+    - [s. 35 The Scilly Isles.](section/35.md)
+- Part II Central Supervision, Direction and Facilities
+  - Functions of Secretary of State
+    - [s. 36 General duty of Secretary of State.](section/36.md)
+    - [s. 36A National Policing Plan](section/36A.md)
+    - [s. 37 Setting of objectives for police authorities.](section/37.md)
+    - [s. 37A The strategic policing requirement](section/37A.md)
+    - [s. 38 Setting of performance targets.](section/38.md)
+    - [s. 39 Codes of practice.](section/39.md)
+    - [s. 39A Codes of practice for chief officers](section/39A.md)
+    - [s. 40 Power to give directions in relation to police force](section/40.md)
+    - [s. 40A Power to give directions in relation to local policing body](section/40A.md)
+    - [s. 40B Procedure for directions under section 40 or 40A](section/40B.md)
+    - [s. 40C Power to give directions to College of Policing](section/40C.md)
+    - [s. 40D Power to give directions to critical police undertakings](section/40D.md)
+    - [s. 41 Directions as to minimum budget.](section/41.md)
+    - [s. 41A Power to give directions as to action plans](section/41A.md)
+    - [s. 41B Procedure for directions under section 41A](section/41B.md)
+    - [s. 42 Metropolitan police: suspension or removal of Commissioner or Deputy Commissioner](section/42.md)
+    - [s. 42A Procedure in relation to exercise of powers under section 42](section/42A.md)
+    - [s. 43 Reports from police authorities.](section/43.md)
+    - [s. 44 Provision of information by chief officers of police](section/44.md)
+    - [s. 45 Criminal statistics.](section/45.md)
+    - [s. 46 Police grant.](section/46.md)
+    - [s. 47 Grants for capital expenditure.](section/47.md)
+    - [s. 48 Grants for expenditure on safeguarding national security.](section/48.md)
+    - [s. 49 Local inquiries.](section/49.md)
+    - [s. 50 Regulations for police forces.](section/50.md)
+    - [s. 50A Regulations for police forces: ranks](section/50A.md)
+    - [s. 50B Regulations under section 50A: procedure](section/50B.md)
+    - [s. 51 Regulations for special constables.](section/51.md)
+    - [s. 52 Regulations for police cadets.](section/52.md)
+    - [s. 52A Regulations about hours, leave or pay: consultation etc](section/52A.md)
+    - [s. 53 Regulations as to standard and provision of equipment.](section/53.md)
+    - [s. 53A Regulation of procedures and practices](section/53A.md)
+  - Civilian staff
+    - [s. 53E Guidance about civilian staff employed by local policing bodies and chief officers](section/53E.md)
+    - [s. 53F Guidance about designated police volunteers](section/53F.md)
+  - Inspectors of constabulary
+    - [s. 54 Appointment and functions of inspectors of constabulary.](section/54.md)
+    - [s. 55 Publication of reports.](section/55.md)
+    - [s. 56 Assistant inspectors and staff officers.](section/56.md)
+  - Central services
+    - [s. 57 Common services.](section/57.md)
+    - [s. 58 Research.](section/58.md)
+- Part III Police Representative Institutions
+  - [s. 59 Police Federations.](section/59.md)
+  - [s. 60 Regulations for Police Federations.](section/60.md)
+  - [s. 60A Sections 59 and 60: special provision for the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency](section/60A.md)
+  - [s. 61 The Police Negotiating Board for the United Kingdom.](section/61.md)
+  - [s. 62 Functions of the Board with respect to regulations.](section/62.md)
+  - [s. 63 Police Advisory Board for England and Wales](section/63.md)
+  - [s. 64 Membership of trade unions.](section/64.md)
+- PART 3A The Police Remuneration Review Body
+  - [s. 64A The Police Remuneration Review Body](section/64A.md)
+  - [s. 64B Reports by the Police Remuneration Review Body](section/64B.md)
+- Part IV Complaints, disciplinary proceedings etc.
+  - ...
+    - [s. 65](section/65.md)
+    - [s. 66](section/66.md)
+    - [s. 67](section/67.md)
+    - [s. 68](section/68.md)
+    - [s. 69](section/69.md)
+    - [s. 70](section/70.md)
+    - [s. 71](section/71.md)
+    - [s. 72](section/72.md)
+    - [s. 73](section/73.md)
+    - [s. 74](section/74.md)
+    - [s. 75](section/75.md)
+    - [s. 76](section/76.md)
+    - [s. 77](section/77.md)
+    - [s. 78](section/78.md)
+    - [s. 79](section/79.md)
+    - [s. 80](section/80.md)
+    - [s. 81](section/81.md)
+    - [s. 82](section/82.md)
+    - [s. 83](section/83.md)
+  - Chapter II Disciplinary and other proceedings
+    - [s. 84 Representation etc. at disciplinary and other proceedings](section/84.md)
+    - [s. 85 Appeals against decisions made in disciplinary and other proceedings](section/85.md)
+    - [s. 86 Admissibility of statements in subsequent proceedings.](section/86.md)
+    - [s. 87 Guidance concerning disciplinary proceedings etc.](section/87.md)
+    - [s. 87A Guidance concerning conduct etc](section/87A.md)
+    - [s. 88 Liability for wrongful acts of constables.](section/88.md)
+- Part 4A Police barred list and police advisory list
+  - Police barred list
+    - [s. 88A Duty to report dismissals etc to College of Policing](section/88A.md)
+    - [s. 88B Duty to maintain police barred list](section/88B.md)
+    - [s. 88C Effect of inclusion in police barred list](section/88C.md)
+    - [s. 88D Application of section 88C to persons with mixed functions](section/88D.md)
+    - [s. 88E Prohibition on contractors using barred persons](section/88E.md)
+    - [s. 88F Removal from police barred list](section/88F.md)
+    - [s. 88G Publication of information in police barred list](section/88G.md)
+    - [s. 88H Power to disclose information in police barred list](section/88H.md)
+  - Police advisory list
+    - [s. 88I Duty to report resignations and retirements etc to College of Policing](section/88I.md)
+    - [s. 88J Duty to maintain police advisory list](section/88J.md)
+    - [s. 88K Effect of inclusion in police advisory list](section/88K.md)
+    - [s. 88L Removal from police advisory list](section/88L.md)
+    - [s. 88M Power to disclose information in police advisory list](section/88M.md)
+- Part V Miscellaneous and General
+  - Offences
+    - [s. 89 Assaults on constables.](section/89.md)
+    - [s. 90 Impersonation, etc.](section/90.md)
+    - [s. 91 Causing disaffection.](section/91.md)
+  - Miscellaneous financial provisions
+    - [s. 92 Grants by local authorities.](section/92.md)
+    - [s. 93 Acceptance of gifts and loans.](section/93.md)
+    - [s. 94 Financing of new police and crime commissioners.](section/94.md)
+    - [s. 95 The City of London police Fund.](section/95.md)
+    - [s. 95A Charging of fees by College of Policing](section/95A.md)
+  - Miscellaneous
+    - [s. 96 Arrangements for obtaining the views of the community on policing.](section/96.md)
+    - [s. 96A National and international functions of the metropolitan police force and other police forces.](section/96A.md)
+    - [s. 96B National and international functions: application of requirements relating to reports etc.](section/96B.md)
+    - [s. 97 Police officers engaged on service outside their force.](section/97.md)
+    - [s. 97A Power to amend section 97](section/97A.md)
+    - [s. 98 Cross-border aid of one police force by another.](section/98.md)
+    - [s. 99 Jurisdiction of metropolitan police officers.](section/99.md)
+    - [s. 100 Chief constables affected by police area alterations or local government reorganisations.](section/100.md)
+    - [s. 100A Appointment of senior police officers as staff of College of Policing](section/100A.md)
+    - [s. 100B Disclosure of information to College of Policing](section/100B.md)
+  - Supplemental
+    - [s. 101 Interpretation.](section/101.md)
+    - [s. 102 Orders, rules and regulations.](section/102.md)
+    - [s. 103 Consequential amendments, transitional provisions, repeals, etc.](section/103.md)
+    - [s. 104 Commencement.](section/104.md)
+    - [s. 105 Extent.](section/105.md)
+    - [s. 106 Short title.](section/106.md)
+- SCHEDULE 1 Police areas
+  - England (except London)
+  - Wales
+- SCHEDULE 2 Police authorities established under section 3
+  - Membership of police authorities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Appointment of councillor members
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Appointment of other members
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Chairman and vice chairmen
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Standards committees
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Consultation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Supplementary
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 2A The Metropolitan police authority
+  - Membership of Authority
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Appointment of members from London Assembly etc
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Appointment of other members
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Chairman and vice chairmen
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Standards committees
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Consultation
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Supplementary
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+- SCHEDULE 3 Police authorities: selection of independent members
+  - Selection panels
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Functions of selection panel
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Secretary of State’s short-list
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 3A Police authorities: selection of lay justice members
+  - Lay justice selection panels
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Lay justice selection panels
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Lay justice selection panels
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Functions of lay justice selection panels
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Functions of lay justice selection panels
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Procedure if too few candidates short-listed
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+- SCHEDULE 4 Form of Declaration
+- SCHEDULE 4A Further provision about Her Majesty’s Inspectors of Constabulary
+  - Delegation of functions
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Inspection programmes and inspection frameworks
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Inspections by other inspectors of organisations within remit of inspectors of constabulary
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Co-operation
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - Joint action
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Assistance for other public authorities
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - Powers of inspectors to obtain information etc
+    - [Sch. 4A para. 6A](schedule/4A/paragraph/6A.md)
+  - Powers of inspectors to obtain access to police premises
+    - [Sch. 4A para. 6B](schedule/4A/paragraph/6B.md)
+  - Failure to comply with notice under paragraph 6A or 6B
+    - [Sch. 4A para. 6C](schedule/4A/paragraph/6C.md)
+  - Appeals against notices under paragraph 6A
+    - [Sch. 4A para. 6D](schedule/4A/paragraph/6D.md)
+  - Sensitive information: restriction on further disclosure
+    - [Sch. 4A para. 6E](schedule/4A/paragraph/6E.md)
+  - Provision of sensitive information to inspectors
+    - [Sch. 4A para. 6F](schedule/4A/paragraph/6F.md)
+  - Orders under this Schedule
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+- SCHEDULE 4B The Police Remuneration Review Body
+  - Interpretation
+    - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+  - Members of the review body
+    - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+    - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+    - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+  - Resignation of members
+    - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+    - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+    - [Sch. 4B para. 7](schedule/4B/paragraph/7.md)
+  - Dismissal of members
+    - [Sch. 4B para. 8](schedule/4B/paragraph/8.md)
+    - [Sch. 4B para. 9](schedule/4B/paragraph/9.md)
+    - [Sch. 4B para. 10](schedule/4B/paragraph/10.md)
+  - Procedure
+    - [Sch. 4B para. 11](schedule/4B/paragraph/11.md)
+  - Matters to be considered
+    - [Sch. 4B para. 12](schedule/4B/paragraph/12.md)
+  - Consultation
+    - [Sch. 4B para. 13](schedule/4B/paragraph/13.md)
+  - Publication
+    - [Sch. 4B para. 14](schedule/4B/paragraph/14.md)
+  - Money
+    - [Sch. 4B para. 15](schedule/4B/paragraph/15.md)
+- SCHEDULE 5 The Police Complaints Authority
+  - Constitution of Authority
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Status of Authority
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Members
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Staff
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Power of Authority to set up regional offices
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Proceedings
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Finance
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 Appeals to police appeals tribunals
+  - Police appeals tribunals
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+  - Notice of appeal
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Respondent
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Casting vote
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Hearing
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Effect of orders
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Remuneration and expenses
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Parties’ costs: appeals by officer concerned
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Parties’ costs: appeals by chief officer of police or local policing body
+    - [Sch. 6 para. 9A](schedule/6/paragraph/9A.md)
+  - Parties’ costs: appeals by IOPC
+    - [Sch. 6 para. 9B](schedule/6/paragraph/9B.md)
+  - Other costs of appeals
+    - [Sch. 6 para. 9C](schedule/6/paragraph/9C.md)
+  - Interpretation
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Consequential amendments
+  - Part I References to police authorities established under section 3 of Police Act 1964
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Part II Other consequential amendments
+    - Pedlars Act 1871 (c. 96)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Parks Regulation Act 1872 (c. 15)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Riot (Damages) Act 1886 (c. 38)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Local Government Act 1958 (c. 55)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Superannuation (Miscellaneous Provisions) Act 1967 (c. 28)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Police (Scotland) Act 1967 (c. 77)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Firearms Act 1968 (c. 27)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Police Act (Northern Ireland) 1970 (c. 9 (N.I.))
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Pensions (Increase) Act 1971 (c. 56)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Overseas Pensions Act 1973 (c. 21)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Juries Act 1974 (c. 23)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Salmon and Freshwater Fisheries Act 1975 (c. 51)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Police Pensions Act 1976 (c.35)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Interpretation Act 1978 (c. 30)
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Finance Act 1981 (c. 35)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - Prosecution of Offences Act 1985 (c. 23)
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - Ministry of Defence Police Act 1987 (c. 4)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Football Spectators Act 1989 (c. 37)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - Aviation and Maritime Security Act 1990 (c. 31)
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - Local Government Act 1992 (c. 19)
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - Tribunals and Inquiries Act 1992 (c. 53)
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+      - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - Criminal Appeal Act 1995 (c.35)
+      - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+- SCHEDULE 8 Transitional provisions, savings etc.
+  - Part I General Provisions
+    - Continuity of the law
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - General saving for old transitional provisions and savings
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Use of existing forms, etc.
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part II Provisions relating to particular enactments
+    - Pedlars Act 1871
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Savings relating to the Police Act 1964
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Saving for transitional provisions under the Police and Magistrates’ Courts Act 1994
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Police areas
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Part III Provisions relating to complaints and discipline
+    - Modification of enactments pending commencement of new discipline procedures
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Modification of section 81
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Saving for complaints procedures established for other bodies of constables
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+- SCHEDULE 9 Repeals and revocations
+  - Part I Repeals: general
+  - Part II Repeals consequential on new discipline and complaints procedures
+  - Part III Revocations
+- TABLE OF DERIVATIONS
+  - [Sch. n11 para. 1 Notes:](schedule/n11/paragraph/1.md)
+  - [Sch. n11 para. 2](schedule/n11/paragraph/2.md)
