@@ -1,0 +1,903 @@
+# Energy Act 2023
+
+2023 c. 52. Enacted 2023-10-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2023/52/2026-09-30
+
+## Contents
+
+- Part 1 Licensing of carbon dioxide transport and storage
+  - Chapter 1 Licensing of activities
+    - General functions
+      - [s. 1 Principal objectives and general duties of Secretary of State and economic regulator](section/1.md)
+    - Licensable activities
+      - [s. 2 Prohibition on unlicensed activities](section/2.md)
+      - [s. 3 Consultation on proposals for additional activities to become licensable](section/3.md)
+      - [s. 4 Territorial scope of prohibition](section/4.md)
+      - [s. 5 Exemption from prohibition](section/5.md)
+      - [s. 6 Revocation or withdrawal of exemption](section/6.md)
+    - Grant and conditions of licences
+      - [s. 7 Power to grant licences](section/7.md)
+      - [s. 8 Power to create licence types](section/8.md)
+      - [s. 9 Procedure for licence applications](section/9.md)
+      - [s. 10 Competitive tenders for licences](section/10.md)
+      - [s. 11 Conditions of licences: general](section/11.md)
+      - [s. 12 Standard conditions of licences](section/12.md)
+      - [s. 13 Modification of conditions of licences](section/13.md)
+      - [s. 14 Modification of conditions under section 13: supplementary](section/14.md)
+      - [s. 15 Modification by order under other enactments](section/15.md)
+    - Interim power of Secretary of State to grant licences
+      - [s. 16 Interim power of Secretary of State to grant licences](section/16.md)
+    - Termination of licence
+      - [s. 17 Termination of licence](section/17.md)
+    - Transfer of licences
+      - [s. 18 Transfer of licences](section/18.md)
+      - [s. 19 Consenting to transfer](section/19.md)
+    - Appeal from decisions of the economic regulator
+      - [s. 20 Appeal to the CMA](section/20.md)
+      - [s. 21 Procedure on appeal to CMA](section/21.md)
+      - [s. 22 Determination by CMA of appeal](section/22.md)
+      - [s. 23 CMA’s powers on allowing appeal](section/23.md)
+      - [s. 24 Time limits for CMA to determine an appeal](section/24.md)
+      - [s. 25 Determination of appeal by CMA: supplementary](section/25.md)
+    - Information
+      - [s. 26 Provision of information to or by the economic regulator](section/26.md)
+      - [s. 27 Power of Secretary of State to require information](section/27.md)
+    - Other functions of the economic regulator
+      - [s. 28 Monitoring, information gathering etc](section/28.md)
+      - [s. 29 Power to require information for purposes of monitoring](section/29.md)
+      - [s. 30 Duty to carry out impact assessment](section/30.md)
+      - [s. 31 Reasons for decisions](section/31.md)
+    - Enforcement
+      - [s. 32 Enforcement of obligations of licence holders](section/32.md)
+    - False statements
+      - [s. 33 Making of false statements etc](section/33.md)
+    - Criminal liability and procedure
+      - [s. 34 Liability of officers of entities](section/34.md)
+      - [s. 35 Criminal proceedings](section/35.md)
+  - Chapter 2 Functions with respect to competition
+    - [s. 36 Functions under the Enterprise Act 2002](section/36.md)
+    - [s. 37 Functions under the Competition Act 1998](section/37.md)
+    - [s. 38 Sections 36 and 37: supplementary](section/38.md)
+  - Chapter 3 Reporting requirements
+    - [s. 39 Forward work programmes](section/39.md)
+    - [s. 40 Information in relation to CCUS strategy and policy statement](section/40.md)
+    - [s. 41 Annual report on transport and storage licensing functions](section/41.md)
+  - Chapter 4 Special administration regime
+    - Transport and storage administration orders
+      - [s. 42 Transport and storage administration orders](section/42.md)
+      - [s. 43 Objective of a transport and storage administration](section/43.md)
+    - Application and amendment of the Energy Act 2004
+      - [s. 44 Application of certain provisions of the Energy Act 2004](section/44.md)
+      - [s. 45 Conduct of administration, transfer schemes etc](section/45.md)
+    - Licence modifications
+      - [s. 46 Modification of conditions of licences](section/46.md)
+    - Powers to modify enactments
+      - [s. 47 Modification under the Enterprise Act 2002](section/47.md)
+      - [s. 48 Power to make further modifications of insolvency legislation](section/48.md)
+    - Interpretation
+      - [s. 49 Interpretation of Chapter 4](section/49.md)
+  - Chapter 5 Transfer schemes
+    - [s. 50 Transfer schemes](section/50.md)
+    - [s. 51 Consultation in relation to transfers](section/51.md)
+    - [s. 52 Conduct of transfer schemes](section/52.md)
+  - Chapter 6 Miscellaneous and general
+    - [s. 53 Cooperation of storage licensing authority with economic regulator](section/53.md)
+    - [s. 54 Amendments related to Part 1](section/54.md)
+    - [s. 55 Interpretation of Part 1](section/55.md)
+- Part 2 Carbon dioxide capture, storage etc and hydrogen production, transport and storage
+  - Chapter 1 Revenue support contracts
+    - Key definitions
+      - [s. 56 Chapter 1: interpretation](section/56.md)
+    - Provision of revenue support under certain contracts
+      - [s. 57 Revenue support contracts](section/57.md)
+    - Duties of revenue support counterparty
+      - [s. 58 Duties of revenue support counterparty](section/58.md)
+    - Carbon dioxide capture, storage etc and hydrogen production, transport and storage
+      - [s. 59 Designation of carbon dioxide transport and storage counterparty](section/59.md)
+      - [s. 60 Direction to offer to contract with licence holder](section/60.md)
+    - Hydrogen transport
+      - [s. 61 Designation of hydrogen transport counterparty](section/61.md)
+      - [s. 62 Direction to offer to contract with eligible hydrogen transport provider](section/62.md)
+    - Hydrogen storage
+      - [s. 63 Designation of hydrogen storage counterparty](section/63.md)
+      - [s. 64 Direction to offer to contract with eligible hydrogen storage provider](section/64.md)
+    - Hydrogen production
+      - [s. 65 Designation of hydrogen production counterparty](section/65.md)
+      - [s. 66 Direction to offer to contract with eligible low carbon hydrogen producer](section/66.md)
+    - Carbon capture
+      - [s. 67 Designation of carbon capture counterparty](section/67.md)
+      - [s. 68 Direction to offer to contract with eligible carbon capture entity](section/68.md)
+    - Hydrogen levy
+      - [s. 69 Appointment of hydrogen levy administrator](section/69.md)
+      - [s. 70 Obligations of relevant market participants](section/70.md)
+      - [s. 71 Payments to relevant market participants](section/71.md)
+      - [s. 72 Functions of hydrogen levy administrator](section/72.md)
+    - Allocation of contracts
+      - [s. 73 Power to appoint allocation bodies](section/73.md)
+      - [s. 74 Standard terms of revenue support contracts](section/74.md)
+      - [s. 75 Allocation notifications](section/75.md)
+      - [s. 76 Allocation of contracts](section/76.md)
+      - [s. 77 Duty to offer to contract following allocation](section/77.md)
+      - [s. 78 Modification of standard terms](section/78.md)
+      - [s. 79 Sections 75 to 78: supplementary](section/79.md)
+      - [s. 80 Licence conditions regarding functions of certain allocation bodies](section/80.md)
+    - General provision about counterparties
+      - [s. 81 Further provision about designations](section/81.md)
+      - [s. 82 Application of sums held by a revenue support counterparty](section/82.md)
+    - Information and advice
+      - [s. 83 Information and advice](section/83.md)
+    - Enforcement
+      - [s. 84 Enforcement](section/84.md)
+    - Consultation
+      - [s. 85 Consultation](section/85.md)
+    - Transfer schemes
+      - [s. 86 Transfer schemes](section/86.md)
+      - [s. 87 Modification of transfer schemes](section/87.md)
+    - General
+      - [s. 88 Shadow directors, etc](section/88.md)
+      - [s. 89 Modifications of licences etc for purposes related to levy obligations](section/89.md)
+      - [s. 90 Electricity system operator and gas system planner licences: modifications](section/90.md)
+      - [s. 91 Sections 89 and 90: supplementary](section/91.md)
+  - Chapter 2 Decommissioning of carbon storage installations
+    - Financing of costs of decommissioning etc
+      - [s. 92 Financing of costs of decommissioning etc](section/92.md)
+      - [s. 93 Section 92: supplementary](section/93.md)
+      - [s. 94 Regulations under section 92(1): procedure with devolved authorities](section/94.md)
+    - Abandonment of carbon storage installations etc
+      - [s. 95 Provisions relating to Part 4 of the Petroleum Act 1998](section/95.md)
+    - Change of use relief
+      - [s. 96 Change of use relief: installations](section/96.md)
+      - [s. 97 Change of use relief: carbon storage network pipelines](section/97.md)
+      - [s. 98 Change of use relief: supplementary](section/98.md)
+  - Chapter 3 Strategy and policy statement
+    - [s. 99 Designation of strategy and policy statement](section/99.md)
+    - [s. 100 Duties with regard to considerations in the statement](section/100.md)
+    - [s. 101 Review](section/101.md)
+    - [s. 102 Procedural requirements](section/102.md)
+  - Chapter 4 Carbon dioxide storage licences
+    - [s. 103 Specified provisions in carbon dioxide storage licences](section/103.md)
+    - [s. 104 Content of storage permits under carbon dioxide storage licences](section/104.md)
+    - [s. 105 Offences relating to carbon dioxide storage licences](section/105.md)
+    - [s. 106 Power of OGA to require information about change in control of licence holder](section/106.md)
+  - Chapter 5 Carbon storage information and samples
+    - Introductory
+      - [s. 107 Chapter 5: key definitions](section/107.md)
+    - Requirements relating to information and samples
+      - [s. 108 Retention of information and samples](section/108.md)
+      - [s. 109 Preparation and agreement of information and samples plans](section/109.md)
+      - [s. 110 Information and samples plans: supplementary](section/110.md)
+      - [s. 111 Information and samples coordinators](section/111.md)
+      - [s. 112 Power of OGA to require information and samples](section/112.md)
+      - [s. 113 Prohibition on disclosure of information or samples by OGA](section/113.md)
+      - [s. 114 Power of Secretary of State to require information and samples](section/114.md)
+    - Enforcement of sanctionable requirements
+      - [s. 115 Power of OGA to give sanction notices](section/115.md)
+      - [s. 116 Enforcement notices](section/116.md)
+      - [s. 117 Financial penalty notices](section/117.md)
+      - [s. 118 Revocation notices](section/118.md)
+      - [s. 119 Operator removal notices](section/119.md)
+      - [s. 120 Duty of OGA to give sanction warning notices](section/120.md)
+      - [s. 121 Publication of details of sanctions](section/121.md)
+      - [s. 122 Subsequent sanction notices](section/122.md)
+      - [s. 123 Withdrawal of sanction notices](section/123.md)
+      - [s. 124 Sanctions: information powers](section/124.md)
+    - General
+      - [s. 125 Appeals](section/125.md)
+      - [s. 126 Procedure for enforcement decisions](section/126.md)
+      - [s. 127 Interpretation of Chapter 5](section/127.md)
+  - Chapter 6 General
+    - [s. 128 Access to infrastructure](section/128.md)
+    - [s. 129 Financial assistance](section/129.md)
+- Part 3 Licensing of hydrogen pipeline projects
+  - Introductory
+    - [s. 130 Key definitions for Part 3](section/130.md)
+  - Designation in relation to hydrogen pipeline projects
+    - [s. 131 Designation](section/131.md)
+    - [s. 132 Designation: procedure](section/132.md)
+    - [s. 133 Revocation of designation](section/133.md)
+  - Grant etc of gas transporter licence
+    - [s. 134 Grant, extension or restriction of gas transporter licence by Secretary of State](section/134.md)
+    - [s. 135 Applications for grant etc of gas transporter licence](section/135.md)
+  - Modification of gas transporter licence
+    - [s. 136 Modification of gas transporter licence by Secretary of State](section/136.md)
+    - [s. 137 Scope of modification powers under section 136](section/137.md)
+    - [s. 138 Procedure etc relating to modifications under section 136](section/138.md)
+  - Information
+    - [s. 139 Information and advice](section/139.md)
+  - Conditions of gas transporter licences
+    - [s. 140 Conditions of gas transporter licences for conveyance of hydrogen](section/140.md)
+  - Other
+    - [s. 141 Secretary of State directions to the GEMA](section/141.md)
+    - [s. 142 Repeal of Part 3](section/142.md)
+- Part 4 New technology
+  - Chapter 1 Low-carbon heat schemes
+    - [s. 143 Low-carbon heat schemes](section/143.md)
+    - [s. 144 Application of scheme](section/144.md)
+    - [s. 145 Setting of targets etc](section/145.md)
+    - [s. 146 Further provision about scheme regulations](section/146.md)
+    - [s. 147 Administration of scheme](section/147.md)
+    - [s. 148 Enforcement, penalties and offences](section/148.md)
+    - [s. 149 Application of sums paid by virtue of section 146(4) or 148(3)](section/149.md)
+    - [s. 150 Appeals](section/150.md)
+    - [s. 151 Scheme regulations: procedure etc](section/151.md)
+    - [s. 152 Interpretation of Chapter 1](section/152.md)
+  - Chapter 2 Hydrogen grid conversion trials
+    - [s. 153 Modifications of the gas code](section/153.md)
+    - [s. 154 Regulations for protection of consumers](section/154.md)
+  - Chapter 3 Miscellaneous
+    - Hydrogen
+      - [s. 155 Power to modify Gas Act 1986 in relation to hydrogen](section/155.md)
+    - Fusion energy
+      - [s. 156 Fusion energy facilities: nuclear site licence not required](section/156.md)
+    - Renewable and sustainable fuel
+      - [s. 157 Treatment of recycled carbon fuel and nuclear-derived fuel as renewable transport fuel](section/157.md)
+      - [s. 158 Revenue certainty scheme for sustainable aviation fuel producers: consultation and report](section/158.md)
+      - [s. 159 Renewable liquid heating fuel obligations](section/159.md)
+    - Removals of greenhouse gases
+      - [s. 160 Climate Change Act 2008: meaning of “UK removals”](section/160.md)
+- Part 5 Independent System Operator and Planner
+  - Independent System Operator and Planner: functions and designation
+    - [s. 161 The Independent System Operator and Planner (“the ISOP”)](section/161.md)
+    - [s. 162 Designation etc](section/162.md)
+  - General duties
+    - [s. 163 Duty to promote particular objectives](section/163.md)
+    - [s. 164 Duty to have regard to particular matters](section/164.md)
+    - [s. 165 Duty to have regard to strategy and policy statement](section/165.md)
+    - [s. 165A Functions relating to network connections: duty to have regard to designated plans](section/165A.md)
+  - Licences
+    - [s. 166 Licensing of electricity system operator activity](section/166.md)
+    - [s. 167 Direction for transmission licence to have effect as electricity system operator licence](section/167.md)
+    - [s. 168 Licensing of gas system planning activity](section/168.md)
+    - [s. 169 Modification of licences etc](section/169.md)
+    - [s. 170 Procedure relating to modifications under section 169](section/170.md)
+  - Advice, analysis and information
+    - [s. 171 Provision of advice, analysis or information](section/171.md)
+    - [s. 172 Power to require information from regulated persons etc](section/172.md)
+    - [s. 173 Duty to keep developments in energy sector under review](section/173.md)
+  - Transfers, pensions and financial assistance
+    - [s. 174 Transfers](section/174.md)
+    - [s. 175 Pension arrangements](section/175.md)
+    - [s. 176 Financial assistance for the ISOP](section/176.md)
+    - [s. 177 Cross-sectoral funding](section/177.md)
+  - Other
+    - [s. 178 Principal objective and general duties of Secretary of State and GEMA under Part 5](section/178.md)
+    - [s. 179 Minor and consequential amendments](section/179.md)
+    - [s. 180 Interpretation of Part 5](section/180.md)
+    - [s. 181 Regulations under Part 5](section/181.md)
+- Part 6 Governance of gas and electricity industry codes
+  - Key definitions for Part 6
+    - [s. 182 Designation of codes etc](section/182.md)
+    - [s. 183 Meaning of “code manager” and “code manager licence”](section/183.md)
+    - [s. 184 Designation of central systems](section/184.md)
+  - Licensing and selection of code manager
+    - [s. 185 Licence under Gas Act 1986 for performance of code management function](section/185.md)
+    - [s. 186 Licence under Electricity Act 1989 for performance of code management function](section/186.md)
+    - [s. 187 Selection of code manager](section/187.md)
+    - [s. 188 Selection on a non-competitive basis](section/188.md)
+    - [s. 189 Selection on a competitive basis](section/189.md)
+  - Strategic direction statement for designated documents
+    - [s. 190 Strategic direction statement](section/190.md)
+    - [s. 191 Transfer of functions under section 190 to Independent System Operator and Planner](section/191.md)
+  - Modifications and directions
+    - [s. 192 Modification of designated documents by GEMA](section/192.md)
+    - [s. 193 Modification under section 192](section/193.md)
+    - [s. 194 Directions relating to designated central systems](section/194.md)
+    - [s. 195 Directions under section 194](section/195.md)
+  - General objectives and reports
+    - [s. 196 Principal objective and general duties of Secretary of State and GEMA under Part 6](section/196.md)
+    - [s. 197 GEMA’s annual report to cover matters relating to designated documents](section/197.md)
+  - Other
+    - [s. 198 Regulations under Part 6](section/198.md)
+    - [s. 199 Interpretation of Part 6](section/199.md)
+    - [s. 200 Transitional provision and pension arrangements](section/200.md)
+    - [s. 201 Minor and consequential amendments](section/201.md)
+- Part 7 Market reform and consumer protection
+  - Principal objectives of Secretary of State and GEMA
+    - [s. 202 Principal objectives of Secretary of State and GEMA](section/202.md)
+  - Competition
+    - [s. 203 Competitive tenders for electricity projects](section/203.md)
+    - [s. 204 Mergers of energy network enterprises](section/204.md)
+  - Multi-purpose interconnectors
+    - [s. 205 Licence required for operation of multi-purpose interconnector](section/205.md)
+    - [s. 206 Standard conditions for MPI licences](section/206.md)
+    - [s. 207 Operation of multi-purpose interconnectors: independence](section/207.md)
+    - [s. 208 Grant of MPI licences to existing operators](section/208.md)
+    - [s. 209 Power to make consequential etc provision](section/209.md)
+    - [s. 210 Consequential amendments relating to multi-purpose interconnectors](section/210.md)
+  - Support for energy-intensive industries
+    - [s. 211 Electricity support payments for energy-intensive industries](section/211.md)
+    - [s. 212 Levy to fund electricity support payments](section/212.md)
+  - Electricity storage
+    - [s. 213 Electricity storage](section/213.md)
+  - Reduction targets: carbon emissions and home-heating costs
+    - [s. 214 Payment as alternative to complying with certain energy company obligations](section/214.md)
+  - Smart meters
+    - [s. 215 Smart meters: extension of time for exercise of powers](section/215.md)
+- Part 8 Heat networks
+  - Chapter 1 Regulation of heat networks
+    - [s. 216 Relevant heat network](section/216.md)
+    - [s. 217 The Regulator](section/217.md)
+    - [s. 218 Alternative dispute resolution for consumer disputes](section/218.md)
+    - [s. 219 Heat networks regulations](section/219.md)
+    - [s. 220 Regulations made by Secretary of State: consultation with devolved authorities](section/220.md)
+    - [s. 221 Heat networks regulations: other provision about procedure](section/221.md)
+    - [s. 222 Recovery of costs by GEMA and NIAUR](section/222.md)
+    - [s. 223 Heat networks: licensing authority in Scotland](section/223.md)
+    - [s. 224 Heat networks: enforcement in Scotland](section/224.md)
+    - [s. 225 Interpretation of Chapter 1](section/225.md)
+  - Chapter 2 Heat network zones
+    - Zones regulations
+      - [s. 226 Regulations about heat network zones](section/226.md)
+    - Heat Network Zones Authority and zone coordinators
+      - [s. 227 Heat Network Zones Authority](section/227.md)
+      - [s. 228 Zone coordinators](section/228.md)
+    - Identification, designation and review of zones
+      - [s. 229 Identification, designation and review of zones](section/229.md)
+      - [s. 230 Zoning methodology](section/230.md)
+      - [s. 231 Requests for information in connection with section 229 or 230](section/231.md)
+    - Heat networks within zones
+      - [s. 232 Heat networks within zones](section/232.md)
+      - [s. 233 Delivery of district heat networks within zones](section/233.md)
+    - Enforcement
+      - [s. 234 Enforcement of heat network zone requirements](section/234.md)
+      - [s. 235 Penalties](section/235.md)
+    - Records, information and reporting
+      - [s. 236 Records, information and reporting](section/236.md)
+    - Interpretation
+      - [s. 237 Interpretation of Chapter 2](section/237.md)
+- Part 9 Energy smart appliances and load control
+  - Chapter 1 Introductory
+    - [s. 238 Energy smart appliances and load control](section/238.md)
+  - Chapter 2 Energy smart appliances
+    - [s. 239 Energy smart regulations](section/239.md)
+    - [s. 240 Prohibitions and requirements: supplemental](section/240.md)
+    - [s. 241 Enforcement](section/241.md)
+    - [s. 242 Sanctions, offences and recovery of costs](section/242.md)
+    - [s. 243 Appeals against enforcement action](section/243.md)
+    - [s. 244 Regulations: procedure and supplemental](section/244.md)
+  - Chapter 3 Licensing of load control
+    - [s. 245 Power to amend licence conditions etc: load control](section/245.md)
+    - [s. 246 Power to amend licence conditions etc: procedure](section/246.md)
+    - [s. 247 Load control: supplemental](section/247.md)
+    - [s. 248 Application of general duties to functions relating to load control](section/248.md)
+    - [s. 249 Licensing of activities relating to load control](section/249.md)
+- Part 10 Energy performance of premises
+  - [s. 250 Power to make energy performance regulations](section/250.md)
+  - [s. 251 Energy performance regulations relating to new premises](section/251.md)
+  - [s. 252 Sanctions](section/252.md)
+  - [s. 253 Regulations under Part 10](section/253.md)
+- Part 11 Energy Savings Opportunity Schemes
+  - Establishment and application of schemes
+    - [s. 254 Energy savings opportunity schemes](section/254.md)
+    - [s. 255 Application of energy savings opportunity schemes](section/255.md)
+  - Assessments, energy savings and emissions reductions
+    - [s. 256 Requirement for assessment of energy consumption](section/256.md)
+    - [s. 257 Assessors](section/257.md)
+    - [s. 258 ESOS action plans](section/258.md)
+    - [s. 259 Action to achieve energy savings or emissions reductions](section/259.md)
+  - Administration, enforcement and appeals
+    - [s. 260 Scheme administration](section/260.md)
+    - [s. 261 Enforcement, penalties and offences](section/261.md)
+    - [s. 262 Appeals](section/262.md)
+  - Procedure etc for regulations
+    - [s. 263 ESOS regulations: procedure etc](section/263.md)
+  - Directions and financial assistance
+    - [s. 264 Directions to scheme administrators](section/264.md)
+    - [s. 265 Financial assistance to scheme administrators and participants](section/265.md)
+  - Interpretation
+    - [s. 266 Interpretation of Part 11](section/266.md)
+- Part 12 Core fuel sector resilience
+  - Chapter 1 Introduction
+    - [s. 267 General objective](section/267.md)
+    - [s. 268 “Core fuel sector activity” and other key concepts](section/268.md)
+  - Chapter 2 Powers for resilience purposes
+    - Directions
+      - [s. 269 Directions to particular core fuel sector participants](section/269.md)
+      - [s. 270 Procedure for giving directions](section/270.md)
+      - [s. 271 Offence of failure to comply with a direction](section/271.md)
+    - Corresponding powers to make regulations
+      - [s. 272 Corresponding powers to make regulations](section/272.md)
+    - Information
+      - [s. 273 Power to require information](section/273.md)
+      - [s. 274 Duty to report incidents](section/274.md)
+      - [s. 275 Contravention of requirement under section 273 or 274](section/275.md)
+      - [s. 276 Provision of information at specified intervals](section/276.md)
+      - [s. 277 Disclosure of information held by the Secretary of State](section/277.md)
+      - [s. 278 Disclosure of information by HMRC](section/278.md)
+    - Appeal against notice or direction
+      - [s. 279 Appeal against notice or direction](section/279.md)
+  - Chapter 3 Enforcement
+    - Offences
+      - [s. 280 False statements etc](section/280.md)
+      - [s. 281 Offences under regulations](section/281.md)
+      - [s. 282 Proceedings for offences](section/282.md)
+      - [s. 283 Liability of officers of entities](section/283.md)
+    - Enforcement undertakings
+      - [s. 284 Enforcement undertakings](section/284.md)
+    - Guidance
+      - [s. 285 Guidance: criminal and civil sanctions](section/285.md)
+      - [s. 286 Guidance: Parliamentary scrutiny](section/286.md)
+  - Chapter 4 General
+    - Financial assistance
+      - [s. 287 Financial assistance for resilience and continuity purposes](section/287.md)
+    - Power to amend thresholds
+      - [s. 288 Power to amend thresholds](section/288.md)
+    - Interpretation of Part 12
+      - [s. 289 Interpretation of Part 12](section/289.md)
+- Part 13 Offshore wind electricity generation, oil and gas
+  - Chapter 1 Offshore wind electricity generation
+    - [s. 290 Meaning of “relevant offshore wind activity”](section/290.md)
+    - [s. 291 Strategic compensation for adverse environmental effects](section/291.md)
+    - [s. 292 Marine recovery fund](section/292.md)
+    - [s. 293 Assessment of environmental effects etc](section/293.md)
+    - [s. 294 Regulations under section 293: consultation and procedure](section/294.md)
+    - [s. 295 Interpretation of Chapter 1](section/295.md)
+  - Chapter 2 Oil and Gas
+    - Environmental protection
+      - [s. 296 Arrangements for responding to marine oil pollution](section/296.md)
+      - [s. 297 Habitats: reducing effects of offshore oil or gas activities etc](section/297.md)
+      - [s. 298 Regulations under sections 296 and 297: procedure with devolved authorities](section/298.md)
+    - Decommissioning: charging
+      - [s. 299 Charges in connection with abandonment of offshore installations](section/299.md)
+    - Change in control of licensee
+      - [s. 300 Model clauses of petroleum licences](section/300.md)
+      - [s. 301 Power of OGA to require information about change in control of licensee](section/301.md)
+- Part 14 Civil nuclear sector
+  - Chapter 1 Civil nuclear sites
+    - [s. 302 Application to the territorial sea of requirement for nuclear site licence](section/302.md)
+    - [s. 303 Decommissioning of nuclear sites etc](section/303.md)
+    - [s. 304 Excluded disposal sites](section/304.md)
+    - [s. 305 Accession to Convention on Supplementary Compensation for Nuclear Damage](section/305.md)
+    - [s. 306 Power to implement Convention on Supplementary Compensation for Nuclear Damage](section/306.md)
+  - Chapter 2 Civil Nuclear Constabulary
+    - [s. 307 Provision of additional police services](section/307.md)
+    - [s. 308 Provision of assistance to other forces](section/308.md)
+    - [s. 309 Cross-border enforcement powers](section/309.md)
+    - [s. 310 Publication of three-year strategy plan](section/310.md)
+  - Chapter 3 Relevant nuclear pension schemes
+    - [s. 311 Civil nuclear industry: amendment of relevant nuclear pension schemes](section/311.md)
+    - [s. 312 Meaning of “relevant nuclear pension scheme”](section/312.md)
+    - [s. 313 Information](section/313.md)
+    - [s. 314 Further definitions](section/314.md)
+    - [s. 315 Application of relevant pensions legislation](section/315.md)
+    - [s. 316 Procedure for regulations under Chapter 3](section/316.md)
+  - Chapter 4 Great British Nuclear
+    - Great British Nuclear: designation, status and objects
+      - [s. 317 Great British Nuclear](section/317.md)
+      - [s. 318 Crown status](section/318.md)
+      - [s. 319 Great British Nuclear’s objects](section/319.md)
+    - Financial assistance and directions etc
+      - [s. 320 Financial assistance](section/320.md)
+      - [s. 321 Secretary of State directions and guidance](section/321.md)
+    - Annual report and accounts
+      - [s. 322 Annual report](section/322.md)
+      - [s. 323 Annual accounts](section/323.md)
+    - Transfers and pension arrangements etc
+      - [s. 324 Transfer schemes](section/324.md)
+      - [s. 325 Transfer schemes: compensation](section/325.md)
+      - [s. 326 Transfer schemes: taxation](section/326.md)
+      - [s. 327 Transfer schemes: provision of information or assistance](section/327.md)
+      - [s. 328 Reimbursement and compensation in connection with designation](section/328.md)
+      - [s. 329 Pension arrangements in connection with Great British Nuclear](section/329.md)
+- Part 15 General
+  - [s. 330 Power to make consequential provision](section/330.md)
+  - [s. 331 Regulations](section/331.md)
+  - [s. 332 General definitions](section/332.md)
+  - [s. 333 Extent](section/333.md)
+  - [s. 334 Commencement](section/334.md)
+  - [s. 335 Short title](section/335.md)
+- Schedule 1 Interim power of Secretary of State to grant licences
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- Schedule 2 Procedure for appeals under section 20
+  - [Sch. 2 para. 1 Application for permission to bring appeal](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Suspension of decision](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Time limit for representations and observations by the economic regulator](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Determination of matter on appeal](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Matters to be considered on appeal](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Production of documents](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Oral hearings](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Written statements](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Expert advice](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Defaults in relation to evidence](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Costs or expenses](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Appeal rules](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Interpretation of Schedule](schedule/2/paragraph/13.md)
+- Schedule 3 Enforcement of obligations of licence holders
+  - [Sch. 3 para. 1 Orders for securing compliance with certain provisions](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Procedural requirements](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Validity and effect of orders](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Penalties](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Statement of policy with respect to penalties](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Time limits on the imposition of penalties](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Interest and payment of instalments](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Appeals against penalties](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Recovery of penalties](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Maximum amount of penalty](schedule/3/paragraph/10.md)
+- Schedule 4 Transfer schemes
+  - [Sch. 4 para. 1 Application and commencement of scheme](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Property, rights and liabilities that may be transferred](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Dividing and modifying transferor’s property, rights and liabilities](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Obligation to effect transfers etc. under a scheme](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Transfer of licences and permits](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Powers and duties under statutory provisions](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Effect of scheme](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Supplementary provisions of schemes](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9 Modification of scheme](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10 Compensation for third parties](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11 Provision relating to foreign property etc](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12 Provision of information to Secretary of State](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13 Interpretation](schedule/4/paragraph/13.md)
+- Schedule 5 Amendments related to Part 1
+  - [Sch. 5 para. 1 Utilities Act 2000](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Utilities Act 2000](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Utilities Act 2000](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Utilities Act 2000](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Utilities Act 2000](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Enterprise Act 2002](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Enterprise Act 2002](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 Enterprise Act 2002](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9 Enterprise and Regulatory Reform Act 2013](schedule/5/paragraph/9.md)
+- Schedule 6 Carbon dioxide storage licences: licence provisions
+- Schedule 7 Permitted disclosures of material obtained by OGA
+  - [Sch. 7 para. 1 Disclosure by OGA to specified persons](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Disclosure required for returns and reports prepared by OGA](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Disclosure in exercise of certain OGA powers](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 Disclosure after specified period](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 Disclosure with appropriate consent](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Disclosure required by legislation](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7 Disclosure for purpose of proceedings](schedule/7/paragraph/7.md)
+- Schedule 8 Carbon storage information and samples: appeals
+  - Part 1 Appeals against decisions relating to information and samples
+    - [Sch. 8 para. 1 Appeals in relation to information and samples plans](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2 Appeals against notices requiring provision of information or samples](schedule/8/paragraph/2.md)
+  - Part 2 Appeals relating to enforcement of sanctionable requirements
+    - [Sch. 8 para. 3 Appeals in relation to sanction notices](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4 Appeals against finding of failure to comply](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5 Appeals against sanction imposed](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6 Appeals against information requirements](schedule/8/paragraph/6.md)
+- Schedule 9 Independent System Operator and Planner: transfers
+  - Part 1 Transfer schemes
+    - [Sch. 9 para. 1 Power to make a transfer scheme](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2 Consultation](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3 Transfer of property, rights and liabilities](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4 Transfer of property, rights and liabilities](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5 Transfer of property, rights and liabilities](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6 Transfer of property, rights and liabilities](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7 Transfer of property, rights and liabilities](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8 Compensation](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9 Taxation](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10 Power to amend transfer scheme](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11 National Security and Investment Act 2021](schedule/9/paragraph/11.md)
+  - Part 2 Other provision about transfers and designation
+    - [Sch. 9 para. 12 Provision of information or assistance](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13 Co-operation](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14 Reimbursement and compensation: further provision](schedule/9/paragraph/14.md)
+- Schedule 10 Independent System Operator and Planner: pensions
+  - [Sch. 10 para. 1 Introductory](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Participation in qualifying pension schemes and transfer of assets and rights](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Amendment of qualifying pension schemes](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Protection against adverse treatment](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 Information and assistance](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 Consultation](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 National Security and Investment Act 2021](schedule/10/paragraph/7.md)
+- Schedule 11 Minor and consequential amendments relating to Part 5
+  - [Sch. 11 para. 1 Gas Act 1986](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2 Gas Act 1986](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3 Electricity Act 1989](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4 Electricity Act 1989](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 Electricity Act 1989](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 Electricity Act 1989](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7 Electricity Act 1989](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8 Utilities Act 2000](schedule/11/paragraph/8.md)
+- Schedule 12 Governance of gas and electricity industry codes: transitional provision
+  - [Sch. 12 para. 1 Meaning of “qualifying document”, “qualifying contract” and “qualifying central system”](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Purposes for which powers under this Schedule may be exercised](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Expiry of powers under this Schedule](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Modification of qualifying documents and relevant licences](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Modification of qualifying documents and relevant licences](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Amendment or termination of qualifying contracts](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Arrangements in connection with code consolidation](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8 Transfer schemes](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9 Transfer schemes](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10 Transfer schemes](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11 Information](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12 Compensation](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13 Other](schedule/12/paragraph/13.md)
+- Schedule 13 Governance of gas and electricity industry codes: pensions
+  - [Sch. 13 para. 1 Introductory](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2 Participation in qualifying pension schemes and transfer of assets and rights](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3 Amendment of qualifying pension schemes](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4 Protection against adverse treatment](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5 Information](schedule/13/paragraph/5.md)
+- Schedule 14 Minor and consequential amendments relating to Part 6
+  - [Sch. 14 para. 1 Gas Act 1986](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2 Gas Act 1986](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3 Gas Act 1986](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4 Gas Act 1986](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5 Electricity Act 1989](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6 Electricity Act 1989](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7 Electricity Act 1989](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8 Electricity Act 1989](schedule/14/paragraph/8.md)
+  - [Sch. 14 para. 9 Energy Act 2004](schedule/14/paragraph/9.md)
+  - [Sch. 14 para. 10 Energy Act 2004](schedule/14/paragraph/10.md)
+  - [Sch. 14 para. 11 Energy Act 2004](schedule/14/paragraph/11.md)
+  - [Sch. 14 para. 12 Energy Act 2023](schedule/14/paragraph/12.md)
+- Schedule 15 Competitive tenders for electricity projects
+  - Part 1 Amendments of Electricity Act 1989
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+  - Part 2 Other amendments
+    - [Sch. 15 para. 26 Utilities Act 2000](schedule/15/paragraph/26.md)
+- Schedule 16 Mergers of energy network enterprises
+  - Part 1 Further duties of Competition and Markets Authority to make references
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Part 2 Consequential amendments of Part 3 of Enterprise Act 2002
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+  - Part 3 Consequential amendments of other enactments
+    - [Sch. 16 para. 35 Utilities Act 2000](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36 Enterprise and Regulatory Reform Act 2013](schedule/16/paragraph/36.md)
+- Schedule 17 Multi-purpose interconnectors: consequential amendments
+  - [Sch. 17 para. 1 The Electricity Act 1989](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2 The Electricity Act 1989](schedule/17/paragraph/2.md)
+  - [Sch. 17 para. 3 The Electricity Act 1989](schedule/17/paragraph/3.md)
+  - [Sch. 17 para. 4 The Electricity Act 1989](schedule/17/paragraph/4.md)
+  - [Sch. 17 para. 5 The Electricity Act 1989](schedule/17/paragraph/5.md)
+  - [Sch. 17 para. 6 The Electricity Act 1989](schedule/17/paragraph/6.md)
+  - [Sch. 17 para. 7 The Electricity Act 1989](schedule/17/paragraph/7.md)
+  - [Sch. 17 para. 8 The Electricity Act 1989](schedule/17/paragraph/8.md)
+  - [Sch. 17 para. 9 The Electricity Act 1989](schedule/17/paragraph/9.md)
+  - [Sch. 17 para. 10 The Electricity Act 1989](schedule/17/paragraph/10.md)
+  - [Sch. 17 para. 11 The Electricity Act 1989](schedule/17/paragraph/11.md)
+  - [Sch. 17 para. 12 Scotland Act 1998](schedule/17/paragraph/12.md)
+  - [Sch. 17 para. 13 Utilities Act 2000](schedule/17/paragraph/13.md)
+  - [Sch. 17 para. 14 Energy Act 2004](schedule/17/paragraph/14.md)
+  - [Sch. 17 para. 15 Civil Contingencies Act 2004](schedule/17/paragraph/15.md)
+  - [Sch. 17 para. 16 Consumers, Estate Agents and Redress Act 2007](schedule/17/paragraph/16.md)
+  - [Sch. 17 para. 17 Energy Act 2013](schedule/17/paragraph/17.md)
+  - [Sch. 17 para. 18 Regulation (EU) 2019/943 of the European Parliament and of the Council of 5th June 2019 on the internal market for electricity (recast)](schedule/17/paragraph/18.md)
+  - [Sch. 17 para. 19 United Kingdom Internal Market Act 2020](schedule/17/paragraph/19.md)
+- Schedule 18 Heat networks regulation
+  - Part 1 Interpretation
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Part 2 General provision as to the Regulator
+    - [Sch. 18 para. 2 Objectives](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3 General duties](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4 General duties](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5 Delegation of functions](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6 Monitoring, records and information](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7 Monitoring, records and information](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8 Monitoring, records and information](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9 Monitoring, records and information](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10 Monitoring, records and information](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11 Other general provision](schedule/18/paragraph/11.md)
+  - Part 3 Heat network authorisations
+    - [Sch. 18 para. 12 Prohibition from carrying on regulated activity](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13 Heat network authorisations](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14 Heat network authorisations](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15 Conditions about technical standards: further provision](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16 Conditions about continuity of supply: further provision](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17 Conditions about continuity of supply: further provision](schedule/18/paragraph/17.md)
+    - [Sch. 18 para. 18 Modification of heat network authorisations](schedule/18/paragraph/18.md)
+    - [Sch. 18 para. 19 Review and revocation of heat network authorisations](schedule/18/paragraph/19.md)
+    - [Sch. 18 para. 20 Review and revocation of heat network authorisations](schedule/18/paragraph/20.md)
+    - [Sch. 18 para. 21 Initial period](schedule/18/paragraph/21.md)
+  - Part 4 Code governance
+    - [Sch. 18 para. 22 Designated documents](schedule/18/paragraph/22.md)
+    - [Sch. 18 para. 23 Prohibition on performing the function of a code manager](schedule/18/paragraph/23.md)
+    - [Sch. 18 para. 24 Licensed code managers](schedule/18/paragraph/24.md)
+    - [Sch. 18 para. 25 Licensed code managers](schedule/18/paragraph/25.md)
+    - [Sch. 18 para. 26 Licensed code managers](schedule/18/paragraph/26.md)
+    - [Sch. 18 para. 27 Licensed code managers](schedule/18/paragraph/27.md)
+    - [Sch. 18 para. 28 Licensed code managers](schedule/18/paragraph/28.md)
+    - [Sch. 18 para. 29 Review and revocation of code manager licences](schedule/18/paragraph/29.md)
+    - [Sch. 18 para. 30 Review and revocation of code manager licences](schedule/18/paragraph/30.md)
+  - Part 5 Installation and maintenance licences
+    - [Sch. 18 para. 31 Installation and maintenance licences](schedule/18/paragraph/31.md)
+    - [Sch. 18 para. 32 Rights that may be conferred](schedule/18/paragraph/32.md)
+    - [Sch. 18 para. 33 Further provision about installation and maintenance licences](schedule/18/paragraph/33.md)
+    - [Sch. 18 para. 34 Further provision about installation and maintenance licences](schedule/18/paragraph/34.md)
+    - [Sch. 18 para. 35 Review and revocation of installation and maintenance licences](schedule/18/paragraph/35.md)
+    - [Sch. 18 para. 36 Review and revocation of installation and maintenance licences](schedule/18/paragraph/36.md)
+  - Part 6 Enforcement of conditions and requirements
+    - [Sch. 18 para. 37 Methods of enforcement](schedule/18/paragraph/37.md)
+    - [Sch. 18 para. 38 Final and provisional orders](schedule/18/paragraph/38.md)
+    - [Sch. 18 para. 39 Penalties](schedule/18/paragraph/39.md)
+    - [Sch. 18 para. 40 Consumer redress orders](schedule/18/paragraph/40.md)
+    - [Sch. 18 para. 41 Functions under Part 1 of the Competition Act 1998 and Part 4 of the Enterprise Act 2002](schedule/18/paragraph/41.md)
+  - Part 7 Investigation
+    - [Sch. 18 para. 42 Investigation of charges](schedule/18/paragraph/42.md)
+    - [Sch. 18 para. 43 Powers to require information etc](schedule/18/paragraph/43.md)
+  - Part 8 Step-in arrangements
+    - [Sch. 18 para. 44](schedule/18/paragraph/44.md)
+    - [Sch. 18 para. 45](schedule/18/paragraph/45.md)
+    - [Sch. 18 para. 46](schedule/18/paragraph/46.md)
+  - Part 9 Special administration regime
+    - [Sch. 18 para. 47](schedule/18/paragraph/47.md)
+    - [Sch. 18 para. 48](schedule/18/paragraph/48.md)
+    - [Sch. 18 para. 49](schedule/18/paragraph/49.md)
+    - [Sch. 18 para. 50](schedule/18/paragraph/50.md)
+    - [Sch. 18 para. 51](schedule/18/paragraph/51.md)
+  - Part 10 Supply to premises
+    - [Sch. 18 para. 52](schedule/18/paragraph/52.md)
+    - [Sch. 18 para. 53](schedule/18/paragraph/53.md)
+    - [Sch. 18 para. 54](schedule/18/paragraph/54.md)
+    - [Sch. 18 para. 55](schedule/18/paragraph/55.md)
+    - [Sch. 18 para. 56](schedule/18/paragraph/56.md)
+    - [Sch. 18 para. 57](schedule/18/paragraph/57.md)
+  - Part 11 Consumer protection
+    - [Sch. 18 para. 58 Standards of performance](schedule/18/paragraph/58.md)
+    - [Sch. 18 para. 59 Standards of performance](schedule/18/paragraph/59.md)
+    - [Sch. 18 para. 60 Standards of performance](schedule/18/paragraph/60.md)
+    - [Sch. 18 para. 61 Consumer advocacy bodies](schedule/18/paragraph/61.md)
+    - [Sch. 18 para. 62 Complaints handling and redress schemes](schedule/18/paragraph/62.md)
+    - [Sch. 18 para. 63 Consumer complaints and dispute resolution arrangements: Northern Ireland](schedule/18/paragraph/63.md)
+    - [Sch. 18 para. 64 Consumer complaints and dispute resolution arrangements: Northern Ireland](schedule/18/paragraph/64.md)
+    - [Sch. 18 para. 65 Documents for Citizens Advice, Consumer Scotland and the General Consumer Council for Northern Ireland](schedule/18/paragraph/65.md)
+  - Part 12 Financial arrangements
+    - [Sch. 18 para. 66](schedule/18/paragraph/66.md)
+    - [Sch. 18 para. 67](schedule/18/paragraph/67.md)
+    - [Sch. 18 para. 68](schedule/18/paragraph/68.md)
+  - Part 13 Miscellaneous and general
+    - [Sch. 18 para. 69 Consultation and cooperation](schedule/18/paragraph/69.md)
+    - [Sch. 18 para. 70 Consultation and cooperation](schedule/18/paragraph/70.md)
+    - [Sch. 18 para. 71 Objectives of the Secretary of State and the Department](schedule/18/paragraph/71.md)
+    - [Sch. 18 para. 72 Offences](schedule/18/paragraph/72.md)
+    - [Sch. 18 para. 73 Offences](schedule/18/paragraph/73.md)
+    - [Sch. 18 para. 74 Crown application](schedule/18/paragraph/74.md)
+- Schedule 19 Licensing of activities relating to load control
+  - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+- Schedule 20 Enforcement undertakings
+  - [Sch. 20 para. 1 Procedure](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2 Variation of terms](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3 Compliance certificates](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4 Inaccurate, incomplete or misleading information](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5 Appeal against decision under paragraph 3 or 4](schedule/20/paragraph/5.md)
+- Schedule 21 Petroleum licences: amendments to model clauses
+  - Part 1 Petroleum (Production) (Landward Areas) Regulations 1995
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Part 2 Petroleum (Current Model Clauses) Order 1999
+    - [Sch. 21 para. 5 Introduction](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6 Part 2 of Schedule 2](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7 Part 2 of Schedule 2](schedule/21/paragraph/7.md)
+    - [Sch. 21 para. 8 Part 2 of Schedule 2](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9 Part 2 of Schedule 2](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10 Part 2 of Schedule 3](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11 Part 2 of Schedule 3](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12 Part 2 of Schedule 3](schedule/21/paragraph/12.md)
+    - [Sch. 21 para. 13 Part 2 of Schedule 3](schedule/21/paragraph/13.md)
+    - [Sch. 21 para. 14 Part 2 of Schedule 4](schedule/21/paragraph/14.md)
+    - [Sch. 21 para. 15 Part 2 of Schedule 4](schedule/21/paragraph/15.md)
+    - [Sch. 21 para. 16 Part 2 of Schedule 4](schedule/21/paragraph/16.md)
+    - [Sch. 21 para. 17 Part 2 of Schedule 4](schedule/21/paragraph/17.md)
+    - [Sch. 21 para. 18 Part 2 of Schedule 5](schedule/21/paragraph/18.md)
+    - [Sch. 21 para. 19 Part 2 of Schedule 5](schedule/21/paragraph/19.md)
+    - [Sch. 21 para. 20 Part 2 of Schedule 5](schedule/21/paragraph/20.md)
+    - [Sch. 21 para. 21 Part 2 of Schedule 5](schedule/21/paragraph/21.md)
+    - [Sch. 21 para. 22 Part 2 of Schedule 6](schedule/21/paragraph/22.md)
+    - [Sch. 21 para. 23 Part 2 of Schedule 6](schedule/21/paragraph/23.md)
+    - [Sch. 21 para. 24 Part 2 of Schedule 6](schedule/21/paragraph/24.md)
+    - [Sch. 21 para. 25 Part 2 of Schedule 6](schedule/21/paragraph/25.md)
+    - [Sch. 21 para. 26 Part 2 of Schedule 8](schedule/21/paragraph/26.md)
+    - [Sch. 21 para. 27 Part 2 of Schedule 8](schedule/21/paragraph/27.md)
+    - [Sch. 21 para. 28 Part 2 of Schedule 8](schedule/21/paragraph/28.md)
+    - [Sch. 21 para. 29 Part 2 of Schedule 8](schedule/21/paragraph/29.md)
+    - [Sch. 21 para. 30 Part 2 of Schedule 9](schedule/21/paragraph/30.md)
+    - [Sch. 21 para. 31 Part 2 of Schedule 9](schedule/21/paragraph/31.md)
+    - [Sch. 21 para. 32 Part 2 of Schedule 9](schedule/21/paragraph/32.md)
+    - [Sch. 21 para. 33 Part 2 of Schedule 9](schedule/21/paragraph/33.md)
+    - [Sch. 21 para. 34 Part 2 of Schedule 10](schedule/21/paragraph/34.md)
+    - [Sch. 21 para. 35 Part 2 of Schedule 10](schedule/21/paragraph/35.md)
+    - [Sch. 21 para. 36 Part 2 of Schedule 10](schedule/21/paragraph/36.md)
+    - [Sch. 21 para. 37 Part 2 of Schedule 10](schedule/21/paragraph/37.md)
+    - [Sch. 21 para. 38 Part 2 of Schedule 13](schedule/21/paragraph/38.md)
+    - [Sch. 21 para. 39 Part 2 of Schedule 13](schedule/21/paragraph/39.md)
+    - [Sch. 21 para. 40 Part 2 of Schedule 13](schedule/21/paragraph/40.md)
+    - [Sch. 21 para. 41 Part 2 of Schedule 13](schedule/21/paragraph/41.md)
+    - [Sch. 21 para. 42 Part 2 of Schedule 14](schedule/21/paragraph/42.md)
+    - [Sch. 21 para. 43 Part 2 of Schedule 14](schedule/21/paragraph/43.md)
+    - [Sch. 21 para. 44 Part 2 of Schedule 14](schedule/21/paragraph/44.md)
+    - [Sch. 21 para. 45 Part 2 of Schedule 14](schedule/21/paragraph/45.md)
+  - Part 3 Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004
+    - [Sch. 21 para. 46 Introduction](schedule/21/paragraph/46.md)
+    - [Sch. 21 para. 47 Schedule 2](schedule/21/paragraph/47.md)
+    - [Sch. 21 para. 48 Schedule 2](schedule/21/paragraph/48.md)
+    - [Sch. 21 para. 49 Schedule 2](schedule/21/paragraph/49.md)
+    - [Sch. 21 para. 50 Schedule 2](schedule/21/paragraph/50.md)
+    - [Sch. 21 para. 51 Schedule 3](schedule/21/paragraph/51.md)
+    - [Sch. 21 para. 52 Schedule 3](schedule/21/paragraph/52.md)
+    - [Sch. 21 para. 53 Schedule 3](schedule/21/paragraph/53.md)
+    - [Sch. 21 para. 54 Schedule 3](schedule/21/paragraph/54.md)
+    - [Sch. 21 para. 55 Schedule 4](schedule/21/paragraph/55.md)
+    - [Sch. 21 para. 56 Schedule 4](schedule/21/paragraph/56.md)
+    - [Sch. 21 para. 57 Schedule 4](schedule/21/paragraph/57.md)
+    - [Sch. 21 para. 58 Schedule 4](schedule/21/paragraph/58.md)
+    - [Sch. 21 para. 59 Schedule 6](schedule/21/paragraph/59.md)
+    - [Sch. 21 para. 60 Schedule 6](schedule/21/paragraph/60.md)
+    - [Sch. 21 para. 61 Schedule 6](schedule/21/paragraph/61.md)
+    - [Sch. 21 para. 62 Schedule 6](schedule/21/paragraph/62.md)
+  - Part 4 Petroleum Licensing (Production) (Seaward Areas) Regulations 2008
+    - [Sch. 21 para. 63](schedule/21/paragraph/63.md)
+    - [Sch. 21 para. 64](schedule/21/paragraph/64.md)
+    - [Sch. 21 para. 65](schedule/21/paragraph/65.md)
+    - [Sch. 21 para. 66](schedule/21/paragraph/66.md)
+  - Part 5 Petroleum Licensing (Exploration and Production) (Landward Areas) Regulations 2014
+    - [Sch. 21 para. 67](schedule/21/paragraph/67.md)
+    - [Sch. 21 para. 68](schedule/21/paragraph/68.md)
+    - [Sch. 21 para. 69](schedule/21/paragraph/69.md)
+    - [Sch. 21 para. 70](schedule/21/paragraph/70.md)
+- Schedule 22 Accession to Convention on Supplementary Compensation for Nuclear Damage
+  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
