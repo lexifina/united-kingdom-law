@@ -1,0 +1,813 @@
+# Investigatory Powers Act 2016
+
+2016 c. 25. Enacted 2016-11-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/25
+
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
+
+## Contents
+
+- Part 1 General privacy protections
+  - Overview and general privacy duties
+    - [s. 1 Overview of Act](section/1.md)
+    - [s. 2 General duties in relation to privacy](section/2.md)
+  - Prohibitions against unlawful interception
+    - [s. 3 Offence of unlawful interception](section/3.md)
+    - [s. 4 Definition of “interception” etc.](section/4.md)
+    - [s. 5 Conduct that is not interception](section/5.md)
+    - [s. 6 Definition of “lawful authority” in relation to interceptions](section/6.md)
+    - [s. 7 Monetary penalties for certain unlawful interceptions](section/7.md)
+    - [s. 8 Civil liability for certain unlawful interceptions](section/8.md)
+    - [s. 9 Restriction on requesting interception by overseas authorities](section/9.md)
+    - [s. 10 Restriction on requesting assistance under mutual assistance agreements etc.](section/10.md)
+  - Prohibition against unlawful obtaining of communications data
+    - [s. 11 Offence of unlawfully obtaining communications data](section/11.md)
+  - Abolition or restriction of powers to obtain communications data
+    - [s. 12 Abolition or restriction of certain powers to obtain communications data](section/12.md)
+  - Restrictions on interference with equipment
+    - [s. 13 Mandatory use of equipment interference warrants](section/13.md)
+    - [s. 14 Restriction on use of section 93 of the Police Act 1997](section/14.md)
+- Part 2 Lawful interception of communications
+  - CHAPTER 1 Interception and examination with a warrant
+    - Warrants under this Chapter
+      - [s. 15 Warrants that may be issued under this Chapter](section/15.md)
+      - [s. 16 Obtaining secondary data](section/16.md)
+      - [s. 17 Subject-matter of warrants](section/17.md)
+    - Power to issue warrants
+      - [s. 18 Persons who may apply for issue of a warrant](section/18.md)
+      - [s. 19 Power of Secretary of State to issue warrants](section/19.md)
+      - [s. 20 Grounds on which warrants may be issued by Secretary of State](section/20.md)
+      - [s. 21 Power of Scottish Ministers to issue warrants](section/21.md)
+      - [s. 22 “Relevant Scottish applications”](section/22.md)
+    - Approval of warrants by Judicial Commissioners
+      - [s. 23 Approval of warrants by Judicial Commissioners](section/23.md)
+      - [s. 24 Approval of warrants issued in urgent cases](section/24.md)
+      - [s. 25 Failure to approve warrant issued in urgent case](section/25.md)
+    - Additional safeguards
+      - [s. 26 Members of Parliament etc.](section/26.md)
+      - [s. 27 Items subject to legal privilege](section/27.md)
+      - [s. 28 Confidential journalistic material](section/28.md)
+      - [s. 29 Sources of journalistic information](section/29.md)
+    - Further provision about warrants
+      - [s. 30 Decisions to issue warrants to be taken personally by Ministers](section/30.md)
+      - [s. 31 Requirements that must be met by warrants](section/31.md)
+      - [s. 32 Duration of warrants](section/32.md)
+      - [s. 33 Renewal of warrants](section/33.md)
+      - [s. 34 Modification of warrants](section/34.md)
+      - [s. 35 Persons who may make modifications](section/35.md)
+      - [s. 36 Further provision about modifications](section/36.md)
+      - [s. 37 Notification of major modifications](section/37.md)
+      - [s. 38 Approval of major modifications made in urgent cases](section/38.md)
+      - [s. 39 Cancellation of warrants](section/39.md)
+      - [s. 40 Special rules for certain mutual assistance warrants](section/40.md)
+    - Implementation of warrants
+      - [s. 41 Implementation of warrants](section/41.md)
+      - [s. 42 Service of warrants](section/42.md)
+      - [s. 43 Duty of operators to assist with implementation](section/43.md)
+  - CHAPTER 2 Other forms of lawful interception
+    - Interception with consent
+      - [s. 44 Interception with the consent of the sender or recipient](section/44.md)
+    - Interception for administrative or enforcement purposes
+      - [s. 45 Interception by providers of postal or telecommunications services](section/45.md)
+      - [s. 46 Interception by businesses etc. for monitoring and record-keeping purposes](section/46.md)
+      - [s. 47 Postal services: interception for enforcement purposes](section/47.md)
+      - [s. 48 Interception by OFCOM in connection with wireless telegraphy](section/48.md)
+    - Interception taking place in certain institutions
+      - [s. 49 Interception in prisons](section/49.md)
+      - [s. 50 Interception in psychiatric hospitals etc.](section/50.md)
+      - [s. 51 Interception in immigration detention facilities](section/51.md)
+    - Interception in accordance with overseas requests
+      - [s. 52 Interception in accordance with overseas requests](section/52.md)
+  - CHAPTER 3 Other provisions about interception
+    - Restrictions on use or disclosure of material obtained under warrants etc.
+      - [s. 53 Safeguards relating to retention and disclosure of material](section/53.md)
+      - [s. 54 Safeguards relating to disclosure of material overseas](section/54.md)
+      - [s. 55 Additional safeguards for items subject to legal privilege](section/55.md)
+      - [s. 56 Exclusion of matters from legal proceedings etc.](section/56.md)
+      - [s. 57 Duty not to make unauthorised disclosures](section/57.md)
+      - [s. 58 Section 57: meaning of “excepted disclosure”](section/58.md)
+      - [s. 59 Offence of making unauthorised disclosures](section/59.md)
+    - Interpretation
+      - [s. 60 Part 2: interpretation](section/60.md)
+- Part 3 Authorisations for obtaining communications data
+  - Targeted authorisations for obtaining data: the Investigatory Powers Commissioner
+    - [s. 60A Power of Investigatory Powers Commissioner to grant authorisations](section/60A.md)
+  - Targeted authorisations for obtaining data: designated senior officers
+    - [s. 61 Power of designated senior officers to grant authorisations](section/61.md)
+    - [s. 61A Power of designated senior officers to grant authorisations: urgent cases](section/61A.md)
+  - Further provision about authorisations
+    - [s. 62 Restrictions in relation to internet connection records](section/62.md)
+    - [s. 63 Additional restrictions on grant of authorisations under section 61](section/63.md)
+    - [s. 64 Procedure for authorisations and authorised notices](section/64.md)
+    - [s. 65 Duration and cancellation of authorisations and notices](section/65.md)
+    - [s. 66 Duties of telecommunications operators in relation to authorisations](section/66.md)
+  - Filtering arrangements for obtaining data
+    - [s. 67 Filtering arrangements for obtaining data](section/67.md)
+    - [s. 68 Use of filtering arrangements in pursuance of an authorisation](section/68.md)
+    - [s. 69 Duties in connection with operation of filtering arrangements](section/69.md)
+  - Relevant public authorities other than local authorities
+    - [s. 70 Relevant public authorities and designated senior officers etc.](section/70.md)
+    - [s. 71 Power to modify section 70 and Schedule 4](section/71.md)
+    - [s. 72 Certain regulations under section 71: supplementary](section/72.md)
+  - Local authorities
+    - [s. 73 Local authorities as relevant public authorities](section/73.md)
+    - [s. 74 Requirement to be party to collaboration agreement](section/74.md)
+    - [s. 75 Judicial approval for local authority authorisations](section/75.md)
+  - Additional protections
+    - [s. 76 Use of a single point of contact](section/76.md)
+    - [s. 77 Commissioner approval for authorisations to identify or confirm journalistic sources](section/77.md)
+  - Collaboration agreements
+    - [s. 78 Collaboration agreements](section/78.md)
+    - [s. 79 Collaboration agreements: supplementary](section/79.md)
+    - [s. 80 Police collaboration agreements](section/80.md)
+  - Further and supplementary provision
+    - [s. 81 Lawfulness of conduct authorised by this Part](section/81.md)
+    - [s. 82 Offence of making unauthorised disclosure](section/82.md)
+    - [s. 83 Certain transfer and agency arrangements with public authorities](section/83.md)
+    - [s. 84 Application of Part 3 to postal operators and postal services](section/84.md)
+    - [s. 85 Extra-territorial application of Part 3](section/85.md)
+    - [s. 86 Part 3: interpretation](section/86.md)
+- Part 4 Retention of communications data
+  - General
+    - [s. 87 Powers to require retention of certain data](section/87.md)
+  - Safeguards
+    - [s. 88 Matters to be taken into account before giving retention notices](section/88.md)
+    - [s. 89 Approval of retention notices by Judicial Commissioners](section/89.md)
+    - [s. 90 Review by the Secretary of State](section/90.md)
+    - [s. 91 Approval of notices following review under section 90](section/91.md)
+    - [s. 92 Data integrity and security](section/92.md)
+    - [s. 93 Disclosure of retained data](section/93.md)
+  - Variation, revocation or renewal of notices
+    - [s. 94 Variation or revocation of notices](section/94.md)
+    - [s. 94A Renewal of notices](section/94A.md)
+  - Enforcement
+    - [s. 95 Enforcement of notices and certain other requirements and restrictions](section/95.md)
+  - Further and supplementary provision
+    - [s. 96 Application of Part 4 to postal operators and postal services](section/96.md)
+    - [s. 97 Extra-territorial application of Part 4](section/97.md)
+    - [s. 98 Part 4: interpretation](section/98.md)
+- Part 5 Equipment interference
+  - Warrants under this Part
+    - [s. 99 Warrants under this Part: general](section/99.md)
+    - [s. 100 Meaning of “equipment data”](section/100.md)
+    - [s. 101 Subject-matter of warrants](section/101.md)
+  - Power to issue warrants
+    - [s. 102 Power to issue warrants to intelligence services: the Secretary of State](section/102.md)
+    - [s. 103 Power to issue warrants to intelligence services: the Scottish Ministers](section/103.md)
+    - [s. 104 Power to issue warrants to the Chief of Defence Intelligence](section/104.md)
+    - [s. 105 Decision to issue warrants under sections 102 to 104 to be taken personally by Ministers](section/105.md)
+    - [s. 106 Power to issue warrants to law enforcement officers](section/106.md)
+    - [s. 107 Restriction on issue of warrants to certain law enforcement officers](section/107.md)
+  - Approval of warrants by Judicial Commissioners
+    - [s. 108 Approval of warrants by Judicial Commissioners](section/108.md)
+    - [s. 109 Approval of warrants issued in urgent cases](section/109.md)
+    - [s. 110 Failure to approve warrant issued in urgent case](section/110.md)
+  - Additional safeguards
+    - [s. 111 Members of Parliament etc.](section/111.md)
+    - [s. 112 Items subject to legal privilege](section/112.md)
+    - [s. 113 Confidential journalistic material](section/113.md)
+    - [s. 114 Sources of journalistic information](section/114.md)
+  - Further provision about warrants
+    - [s. 115 Requirements that must be met by warrants](section/115.md)
+    - [s. 116 Duration of warrants](section/116.md)
+    - [s. 117 Renewal of warrants](section/117.md)
+    - [s. 118 Modification of warrants issued by the Secretary of State or Scottish Ministers](section/118.md)
+    - [s. 119 Persons who may make modifications under section 118](section/119.md)
+    - [s. 120 Further provision about modifications under section 118](section/120.md)
+    - [s. 121 Notification of modifications](section/121.md)
+    - [s. 122 Approval of modifications under section 118 made in urgent cases](section/122.md)
+    - [s. 123 Modification of warrants issued by law enforcement chiefs](section/123.md)
+    - [s. 124 Approval of modifications under section 123 in urgent cases](section/124.md)
+    - [s. 125 Cancellation of warrants](section/125.md)
+  - Implementation of warrants
+    - [s. 126 Implementation of warrants](section/126.md)
+    - [s. 127 Service of warrants](section/127.md)
+    - [s. 128 Duty of telecommunications operators to assist with implementation](section/128.md)
+  - Supplementary provision
+    - [s. 129 Safeguards relating to retention and disclosure of material](section/129.md)
+    - [s. 130 Safeguards relating to disclosure of material overseas](section/130.md)
+    - [s. 131 Additional safeguards for items subject to legal privilege](section/131.md)
+    - [s. 132 Duty not to make unauthorised disclosures](section/132.md)
+    - [s. 133 Section 132: meaning of “excepted disclosure”](section/133.md)
+    - [s. 134 Offence of making unauthorised disclosure](section/134.md)
+    - [s. 135 Part 5: interpretation](section/135.md)
+- Part 6 Bulk warrants
+  - CHAPTER 1 Bulk interception warrants
+    - Bulk interception warrants
+      - [s. 136 Bulk interception warrants](section/136.md)
+      - [s. 137 Obtaining secondary data](section/137.md)
+      - [s. 138 Power to issue bulk interception warrants](section/138.md)
+      - [s. 139 Additional requirements in respect of warrants affecting overseas operators](section/139.md)
+      - [s. 140 Approval of warrants by Judicial Commissioners](section/140.md)
+      - [s. 141 Decisions to issue warrants to be taken personally by Secretary of State](section/141.md)
+      - [s. 142 Requirements that must be met by warrants](section/142.md)
+    - Duration, modification and cancellation of warrants
+      - [s. 143 Duration of warrants](section/143.md)
+      - [s. 144 Renewal of warrants](section/144.md)
+      - [s. 145 Modification of warrants](section/145.md)
+      - [s. 146 Approval of major modifications by Judicial Commissioners](section/146.md)
+      - [s. 147 Approval of major modifications made in urgent cases](section/147.md)
+      - [s. 148 Cancellation of warrants](section/148.md)
+    - Implementation of warrants
+      - [s. 149 Implementation of warrants](section/149.md)
+    - Restrictions on use or disclosure of material obtained under warrants etc.
+      - [s. 150 Safeguards relating to retention and disclosure of material](section/150.md)
+      - [s. 151 Safeguards relating to disclosure of material overseas](section/151.md)
+      - [s. 152 Safeguards relating to examination of material](section/152.md)
+      - [s. 153 Additional safeguards for items subject to legal privilege](section/153.md)
+      - [s. 154 Additional safeguards for confidential journalistic material etc](section/154.md)
+      - [s. 154A Section 154: procedure where use of criteria approved by senior official](section/154A.md)
+      - [s. 155 Offence of breaching safeguards relating to examination of material](section/155.md)
+      - [s. 156 Application of other restrictions in relation to warrants](section/156.md)
+    - Interpretation
+      - [s. 157 Chapter 1: interpretation](section/157.md)
+  - CHAPTER 2 Bulk acquisition warrants
+    - Bulk acquisition warrants
+      - [s. 158 Power to issue bulk acquisition warrants](section/158.md)
+      - [s. 159 Approval of warrants by Judicial Commissioners](section/159.md)
+      - [s. 160 Decisions to issue warrants to be taken personally by Secretary of State](section/160.md)
+      - [s. 161 Requirements that must be met by warrants](section/161.md)
+    - Duration, modification and cancellation of warrants
+      - [s. 162 Duration of warrants](section/162.md)
+      - [s. 163 Renewal of warrants](section/163.md)
+      - [s. 164 Modification of warrants](section/164.md)
+      - [s. 165 Approval of major modifications by Judicial Commissioners](section/165.md)
+      - [s. 166 Approval of major modifications made in urgent cases](section/166.md)
+      - [s. 167 Cancellation of warrants](section/167.md)
+    - Implementation of warrants
+      - [s. 168 Implementation of warrants](section/168.md)
+      - [s. 169 Service of warrants](section/169.md)
+      - [s. 170 Duty of operators to assist with implementation](section/170.md)
+    - Restrictions on use or disclosure of data obtained under warrants etc.
+      - [s. 171 Safeguards relating to the retention and disclosure of data](section/171.md)
+      - [s. 172 Safeguards relating to examination of data](section/172.md)
+      - [s. 173 Offence of breaching safeguards relating to examination of data](section/173.md)
+    - Supplementary provision
+      - [s. 174 Offence of making unauthorised disclosure](section/174.md)
+      - [s. 175 Chapter 2: interpretation](section/175.md)
+  - CHAPTER 3 Bulk equipment interference warrants
+    - Bulk equipment interference warrants
+      - [s. 176 Bulk equipment interference warrants: general](section/176.md)
+      - [s. 177 Meaning of “equipment data”](section/177.md)
+      - [s. 178 Power to issue bulk equipment interference warrants](section/178.md)
+      - [s. 179 Approval of warrants by Judicial Commissioners](section/179.md)
+      - [s. 180 Approval of warrants issued in urgent cases](section/180.md)
+      - [s. 181 Failure to approve warrant issued in urgent case](section/181.md)
+      - [s. 182 Decisions to issue warrants to be taken personally by Secretary of State](section/182.md)
+      - [s. 183 Requirements that must be met by warrants](section/183.md)
+    - Duration, modification and cancellation of warrants
+      - [s. 184 Duration of warrants](section/184.md)
+      - [s. 185 Renewal of warrants](section/185.md)
+      - [s. 186 Modification of warrants](section/186.md)
+      - [s. 187 Approval of major modifications by Judicial Commissioners](section/187.md)
+      - [s. 188 Approval of major modifications made in urgent cases](section/188.md)
+      - [s. 189 Cancellation of warrants](section/189.md)
+    - Implementation of warrants
+      - [s. 190 Implementation of warrants](section/190.md)
+    - Restrictions on use or disclosure of material obtained under warrants etc.
+      - [s. 191 Safeguards relating to retention and disclosure of material](section/191.md)
+      - [s. 192 Safeguards relating to disclosure of material overseas](section/192.md)
+      - [s. 193 Safeguards relating to examination of material etc.](section/193.md)
+      - [s. 194 Additional safeguards for items subject to legal privilege](section/194.md)
+      - [s. 195 Additional safeguards for confidential journalistic material etc](section/195.md)
+      - [s. 195A Section 195: procedure where use of criteria approved by senior official](section/195A.md)
+      - [s. 196 Offence of breaching safeguards relating to examination of material](section/196.md)
+      - [s. 197 Application of other restrictions in relation to warrants](section/197.md)
+    - Interpretation
+      - [s. 198 Chapter 3: interpretation](section/198.md)
+- Part 7 Bulk personal dataset warrants
+  - Bulk personal datasets: interpretation
+    - [s. 199 Bulk personal datasets: interpretation](section/199.md)
+  - Requirement for authorisation
+    - [s. 200 Requirement for authorisation ...: general](section/200.md)
+    - [s. 201 Exceptions to section 200(1) and (2)](section/201.md)
+  - Restriction on use of class BPD warrants etc
+    - [s. 202 Restriction on use of class BPD warrants](section/202.md)
+    - [s. 202A Further provision about sensitive processing](section/202A.md)
+    - [s. 203 Meaning of “protected data”](section/203.md)
+  - Issue of warrants
+    - [s. 204 Class BPD warrants](section/204.md)
+    - [s. 205 Specific BPD warrants](section/205.md)
+    - [s. 206 Additional safeguards for health records](section/206.md)
+    - [s. 207 Protected data: power to impose conditions](section/207.md)
+    - [s. 208 Approval of warrants by Judicial Commissioners](section/208.md)
+    - [s. 209 Approval of specific BPD warrants issued in urgent cases](section/209.md)
+    - [s. 210 Failure to approve specific BPD warrant issued in urgent case](section/210.md)
+    - [s. 211 Decisions to issue warrants to be taken personally by Secretary of State](section/211.md)
+    - [s. 212 Requirements that must be met by warrants](section/212.md)
+  - Duration, modification and cancellation
+    - [s. 213 Duration of warrants](section/213.md)
+    - [s. 214 Renewal of warrants](section/214.md)
+    - [s. 215 Modification of warrants](section/215.md)
+    - [s. 216 Approval of major modifications by Judicial Commissioners](section/216.md)
+    - [s. 217 Approval of major modifications made in urgent cases](section/217.md)
+    - [s. 218 Cancellation of warrants](section/218.md)
+    - [s. 219 Non-renewal or cancellation of BPD warrants](section/219.md)
+  - Further and supplementary provision
+    - [s. 220 Initial examinations: time limits](section/220.md)
+    - [s. 221 Safeguards relating to examination of bulk personal datasets](section/221.md)
+    - [s. 222 Additional safeguards for items subject to legal privilege: examination](section/222.md)
+    - [s. 223 Additional safeguards for items subject to legal privilege: retention following examination](section/223.md)
+    - [s. 224 Offence of breaching safeguards relating to examination of material](section/224.md)
+    - [s. 225 Application of Part to bulk personal datasets obtained under this Act](section/225.md)
+    - [s. 226 Part 7: interpretation](section/226.md)
+- Part 7A Bulk personal dataset authorisations
+  - Low or no reasonable expectation of privacy
+    - [s. 226A Bulk personal datasets: low or no reasonable expectation of privacy](section/226A.md)
+  - Issue of authorisations
+    - [s. 226B Individual authorisation](section/226B.md)
+    - [s. 226BA Category authorisation](section/226BA.md)
+    - [s. 226BB Approval of authorisations by Judicial Commissioners](section/226BB.md)
+    - [s. 226BC Approval of individual authorisations granted in urgent cases](section/226BC.md)
+  - Duration, renewal and cancellation
+    - [s. 226C Duration of authorisation](section/226C.md)
+    - [s. 226CA Renewal of authorisation](section/226CA.md)
+    - [s. 226CB Cancellation of authorisation](section/226CB.md)
+    - [s. 226CC Non-renewal or cancellation of individual authorisation](section/226CC.md)
+    - [s. 226CD Non-renewal or cancellation of category authorisation](section/226CD.md)
+  - Further and supplementary provision
+    - [s. 226D Section 226A ceasing to apply to part of bulk personal dataset](section/226D.md)
+    - [s. 226DA Annual report](section/226DA.md)
+    - [s. 226DB Report to Intelligence and Security Committee](section/226DB.md)
+    - [s. 226DC Part 7A: interpretation](section/226DC.md)
+- Part 7B Third party bulk personal datasets
+  - Interpretation
+    - [s. 226E Third party bulk personal datasets: interpretation](section/226E.md)
+  - Requirement for warrant
+    - [s. 226F Requirement for authorisation by warrant](section/226F.md)
+    - [s. 226FA Exceptions to section 226F(1)](section/226FA.md)
+  - Issue of warrants
+    - [s. 226G Application for third party BPD warrant](section/226G.md)
+    - [s. 226GA Approval of warrants by Judicial Commissioners](section/226GA.md)
+    - [s. 226GB Approval of third party BPD warrants issued in urgent cases](section/226GB.md)
+    - [s. 226GC Decisions to issue warrants to be taken personally by Secretary of State](section/226GC.md)
+    - [s. 226GD Requirements that must be met by warrants](section/226GD.md)
+  - Duration, renewal and cancellation
+    - [s. 226H Duration of warrants](section/226H.md)
+    - [s. 226HA Renewal of warrants](section/226HA.md)
+    - [s. 226HB Cancellation of warrants](section/226HB.md)
+    - [s. 226HC Non-renewal or cancellation of third party BPD warrant](section/226HC.md)
+  - Further and supplementary provision
+    - [s. 226I Initial inspection](section/226I.md)
+    - [s. 226IA Safeguards relating to examination of third party bulk personal datasets](section/226IA.md)
+    - [s. 226IB Additional safeguards for items subject to legal privilege: examination](section/226IB.md)
+    - [s. 226IC Additional safeguards for items subject to legal privilege: retention following examination](section/226IC.md)
+    - [s. 226ID Offence of breaching safeguards relating to examination of material](section/226ID.md)
+    - [s. 226IE Part 7B: interpretation](section/226IE.md)
+- Part 8 Oversight arrangements
+  - CHAPTER 1 Investigatory Powers Commissioner and other Judicial Commissioners
+    - The Commissioners
+      - [s. 227 Investigatory Powers Commissioner and other Judicial Commissioners](section/227.md)
+      - [s. 228 Terms and conditions of appointment](section/228.md)
+      - [s. 228A Temporary Judicial Commissioners](section/228A.md)
+    - Main functions of Commissioners
+      - [s. 229 Main oversight functions](section/229.md)
+      - [s. 230 Additional directed oversight functions](section/230.md)
+      - [s. 231 Error reporting](section/231.md)
+      - [s. 232 Additional functions under this Part](section/232.md)
+      - [s. 233 Functions under other Parts and other enactments](section/233.md)
+    - Reports and investigation and information powers
+      - [s. 234 Annual and other reports](section/234.md)
+      - [s. 235 Investigation and information powers](section/235.md)
+      - [s. 235A Personal data breaches](section/235A.md)
+      - [s. 236 Referrals by the Intelligence and Security Committee of Parliament](section/236.md)
+      - [s. 237 Information gateway](section/237.md)
+    - Supplementary provision
+      - [s. 238 Funding, staff and facilities etc.](section/238.md)
+      - [s. 239 Power to modify functions](section/239.md)
+      - [s. 240 Abolition of existing oversight bodies](section/240.md)
+  - CHAPTER 2 Other arrangements
+    - Codes of practice
+      - [s. 241 Codes of practice](section/241.md)
+    - Investigatory Powers Tribunal
+      - [s. 242 Right of appeal from Tribunal](section/242.md)
+      - [s. 243 Functions of Tribunal in relation to this Act etc.](section/243.md)
+    - Information Commission
+      - [s. 244 Oversight by Information Commission in relation to Part 4](section/244.md)
+    - Advisory bodies
+      - [s. 245 Technical Advisory Board](section/245.md)
+      - [s. 246 Technology Advisory Panel](section/246.md)
+      - [s. 247 Members of the Panel](section/247.md)
+- Part 9 Miscellaneous and general provisions
+  - CHAPTER 1 Miscellaneous
+    - Combined warrants and authorisations
+      - [s. 248 Combination of warrants and authorisations](section/248.md)
+    - Compliance with Act
+      - [s. 249 Payments towards certain compliance costs](section/249.md)
+      - [s. 250 Power to develop compliance systems etc.](section/250.md)
+    - Additional powers
+      - [s. 251 Amendments of the Intelligence Services Act 1994](section/251.md)
+      - [s. 252 National security notices](section/252.md)
+      - [s. 253 Technical capability notices](section/253.md)
+      - [s. 254 Approval of notices by Judicial Commissioners](section/254.md)
+      - [s. 255 Further provision about notices under section 252 or 253](section/255.md)
+      - [s. 256 Variation and revocation of notices](section/256.md)
+      - [s. 256A Renewal of notices](section/256A.md)
+      - [s. 257 Review of notices by the Secretary of State](section/257.md)
+      - [s. 258 Approval of notices following review under section 257](section/258.md)
+      - [s. 258A Notification of proposed changes to telecommunications services etc](section/258A.md)
+      - [s. 258B Variation and revocation of notices given under section 258A](section/258B.md)
+    - Wireless telegraphy
+      - [s. 259 Amendments of the Wireless Telegraphy Act 2006](section/259.md)
+  - CHAPTER 2 General
+    - Review of operation of Act
+      - [s. 260 Review of operation of Act](section/260.md)
+    - Interpretation
+      - [s. 261 Telecommunications definitions](section/261.md)
+      - [s. 262 Postal definitions](section/262.md)
+      - [s. 263 General definitions](section/263.md)
+      - [s. 264 General definitions: “journalistic material” etc.](section/264.md)
+      - [s. 265 Index of defined expressions](section/265.md)
+    - Supplementary provision
+      - [s. 266 Offences by bodies corporate etc.](section/266.md)
+      - [s. 267 Regulations](section/267.md)
+      - [s. 268 Enhanced affirmative procedure](section/268.md)
+      - [s. 269 Financial provisions](section/269.md)
+      - [s. 270 Transitional, transitory or saving provision](section/270.md)
+      - [s. 271 Minor and consequential provision](section/271.md)
+    - Final provision
+      - [s. 272 Commencement, extent and short title](section/272.md)
+- SCHEDULE 1 Monetary penalty notices
+  - Part 1 Monetary penalty notices
+    - Payment of monetary penalties
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Contents of monetary penalty notices
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Enforcement obligations
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Consultation requirements before service of monetary penalty notices
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Variation or cancellation of monetary penalty notices
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Appeals in relation to monetary penalty notices
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Enforcement of monetary penalty notices
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Guidance
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Interpretation of Part 1
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part 2 Information provisions
+    - Information notices
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Appeals in relation to information notices
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Enforcement of information notices
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Technical assistance for the Commissioner
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Interpretation of Part 2
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Abolition of disclosure powers
+  - Health and Safety at Work etc. Act 1974
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Criminal Justice Act 1987
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Consumer Protection Act 1987
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Environmental Protection Act 1990
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Social Security Administration Act 1992
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Social Security Administration (Northern Ireland) Act 1992
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Financial Services and Markets Act 2000
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Finance Act 2008
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014 (S.I. 2014/899)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- Schedule 2A Specified public authorities for the purposes of section 12
+  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+- SCHEDULE 3 Exceptions to section 56
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Disclosures of lawfully intercepted communications
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Disclosures of convictions for certain offences
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Proceedings before the Investigatory Powers Tribunal etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Proceedings before Special Immigration Appeals Commission
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Proceedings before Proscribed Organisations Appeal Commission
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Closed material proceedings
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - TPIM proceedings
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Proceedings under Part 2 of the National Security Act 2023
+    - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
+  - TEO proceedings
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Sanctions proceedings
+    - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
+  - Proceedings relating to freezing of terrorist assets etc.
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Proceedings relating to release of prisoners etc in England and Wales
+    - [Sch. 3 para. 12A](schedule/3/paragraph/12A.md)
+  - Proceedings relating to release of prisoners etc. in Northern Ireland
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Employment or industrial tribunal proceedings
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Proceedings relating to dismissal for certain offences
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Proceedings on appeals relating to claims of discrimination in Northern Ireland
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Civil proceedings for enforcement of duty to assist with implementation of warrants
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Proceedings for certain offences
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Disclosures to prosecutors and judges
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Disclosures to inquiries and inquests
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 Relevant public authorities and designated senior officers etc.
+  - Part 1 Table of authorities and officers etc.
+  - Part 2 Interpretation of table
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+- SCHEDULE 5 Transfer and agency arrangements with public authorities: further provisions
+  - Particular safeguards in connection with operation of section 69
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Requirement for public authority to provide reports to Secretary of State
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Transfer schemes in connection with transfer of functions
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Tax in connection with transfer schemes
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Supplementary and other general provision
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Issue of warrants under section 106 etc: table
+  - Part 1 Table: Part 1
+  - Part 2 Table: Part 2
+  - Part 3 Interpretation of the table
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Codes of practice
+  - Scope of codes
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Procedural requirements
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Revision of codes
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Effect of codes
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Combination of warrants and authorisations
+  - Part 1 Combinations with targeted interception warrants
+    - Warrants that may be issued by Secretary of State
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Warrants that may be issued by Scottish Ministers
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part 2 Other combinations involving targeted equipment interference warrants
+    - Warrants that may be issued by Secretary of State
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Warrants that may be issued by Scottish Ministers
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Warrants that may be issued by other persons
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Part 3 Combinations involving targeted examination warrants only
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Part 4 Combined warrants: supplementary provision
+    - Introductory
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - General
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Rules about issue etc. applying separately in relation to each part of a combined warrant
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Rules about issue etc. applying in relation to combined warrants
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Modification of rules as to duration
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Special rules about the application of this Act to combined warrants
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - Power to make consequential amendments
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+- SCHEDULE 9 Transitional, transitory and saving provision
+  - Lawful interception of communications
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Authorisations for obtaining communications data
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Retention of communications data
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Definitions of “other relevant crime” and “serious crime”
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Savings for particular purposes
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - General saving for lawful conduct
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Minor and consequential provision
+  - Part 1 General amendments
+    - Police Act 1997
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Northern Ireland Act 1998
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Political Parties, Elections and Referendums Act 2000
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Public Finance and Accountability (Scotland) Act 2000 (2000 asp 1)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Social Security Fraud Act 2001
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Social Security Fraud Act (Northern Ireland) 2001
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Justice (Northern Ireland) Act 2002
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Proceeds of Crime Act 2002
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Police Reform Act 2002
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - ...
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418 (N.I. 5))
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Public Audit (Wales) Act 2004
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Constitutional Reform Act 2005
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Commissioners for Revenue and Customs Act 2005
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Serious Crime Act 2007
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Legal Services Act 2007
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Regulatory Enforcement and Sanctions Act 2008
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Counter-Terrorism Act 2008
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Borders, Citizenship and Immigration Act 2009
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - Marine and Coastal Access Act 2009
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - Terrorist Asset-Freezing etc. Act 2010
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Marine (Scotland) Act 2010 (2010 asp 5)
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - Charities Act 2011
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - Prisons (Interference with Wireless Telegraphy) Act 2012
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - Crime and Courts Act 2013
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - Marine Act (Northern Ireland) 2013 (c. 10 (N.I.))
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - Local Audit and Accountability Act 2014
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - Anti-social Behaviour, Crime and Policing Act 2014
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - Immigration Act 2014
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+    - Data Retention and Investigatory Powers Act 2014
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+    - Immigration Act 2016
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+  - Part 2 Lawful interception of communications
+    - Security Service Act 1989
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - Official Secrets Act 1989
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - Intelligence Services Act 1994
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - Criminal Procedure and Investigations Act 1996
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+    - Police Act 1997
+      - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - Scotland Act 1998
+      - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+    - Northern Ireland Act 1998
+      - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+    - Financial Services and Markets Act 2000
+      - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+      - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+      - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+      - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+      - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+      - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+      - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+    - Criminal Justice and Licensing (Scotland) Act 2010 (2010 asp 13)
+      - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+    - Justice and Security Act 2013
+      - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+  - Part 3 Acquisition of communications data
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+      - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+      - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+      - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+      - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+      - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+      - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+      - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+    - Police Reform Act 2002
+      - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+  - Part 4 Retention of communications data
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+    - Data Retention and Investigatory Powers Act 2014
+      - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+  - Part 5 Equipment interference
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+      - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+      - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+    - Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 11)
+      - [Sch. 10 para. 67](schedule/10/paragraph/67.md)
+      - [Sch. 10 para. 68](schedule/10/paragraph/68.md)
+      - [Sch. 10 para. 69](schedule/10/paragraph/69.md)
+    - Crime and Courts Act 2013
+      - [Sch. 10 para. 70](schedule/10/paragraph/70.md)
+  - Part 6 Judicial Commissioners
+    - Police Act 1997
+      - [Sch. 10 para. 71](schedule/10/paragraph/71.md)
+      - [Sch. 10 para. 72](schedule/10/paragraph/72.md)
+      - [Sch. 10 para. 73](schedule/10/paragraph/73.md)
+      - [Sch. 10 para. 74](schedule/10/paragraph/74.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 10 para. 75](schedule/10/paragraph/75.md)
+      - [Sch. 10 para. 76](schedule/10/paragraph/76.md)
+      - [Sch. 10 para. 77](schedule/10/paragraph/77.md)
+      - [Sch. 10 para. 78](schedule/10/paragraph/78.md)
+      - [Sch. 10 para. 79](schedule/10/paragraph/79.md)
+      - [Sch. 10 para. 80](schedule/10/paragraph/80.md)
+      - [Sch. 10 para. 81](schedule/10/paragraph/81.md)
+      - [Sch. 10 para. 82](schedule/10/paragraph/82.md)
+      - [Sch. 10 para. 83](schedule/10/paragraph/83.md)
+    - Regulation of Investigatory Powers (Scotland) Act 2000 (2000 asp 11)
+      - [Sch. 10 para. 84](schedule/10/paragraph/84.md)
+      - [Sch. 10 para. 85](schedule/10/paragraph/85.md)
+      - [Sch. 10 para. 86](schedule/10/paragraph/86.md)
+      - [Sch. 10 para. 87](schedule/10/paragraph/87.md)
+      - [Sch. 10 para. 88](schedule/10/paragraph/88.md)
+      - [Sch. 10 para. 89](schedule/10/paragraph/89.md)
+      - [Sch. 10 para. 90](schedule/10/paragraph/90.md)
+      - [Sch. 10 para. 91](schedule/10/paragraph/91.md)
+      - [Sch. 10 para. 92](schedule/10/paragraph/92.md)
+      - [Sch. 10 para. 93](schedule/10/paragraph/93.md)
+      - [Sch. 10 para. 94](schedule/10/paragraph/94.md)
+    - Terrorism Prevention and Investigation Measures Act 2011
+      - [Sch. 10 para. 95](schedule/10/paragraph/95.md)
+    - Protection of Freedoms Act 2012
+      - [Sch. 10 para. 96](schedule/10/paragraph/96.md)
+      - [Sch. 10 para. 97](schedule/10/paragraph/97.md)
+      - [Sch. 10 para. 98](schedule/10/paragraph/98.md)
+  - Part 7 Other minor and consequential provision
+    - Telecommunications Act 1984
+      - [Sch. 10 para. 99](schedule/10/paragraph/99.md)
+    - Northern Ireland Act 1998
+      - [Sch. 10 para. 100](schedule/10/paragraph/100.md)
+    - Communications Act 2003
+      - [Sch. 10 para. 101](schedule/10/paragraph/101.md)
+  - Part 8 Repeals and revocations consequential on other repeals or amendments in this Act
