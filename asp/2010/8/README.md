@@ -1,0 +1,545 @@
+# Public Services Reform (Scotland) Act 2010
+
+asp/2010/8. Enacted 2010-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/8
+
+Source: https://www.legislation.gov.uk/asp/2010/8/2026-09-30
+
+## Contents
+
+- Part 1 Simplification of public bodies
+  - Transfer of functions
+    - [s. 1 Transfer to Scottish Natural Heritage of functions of Deer Commission for Scotland](section/1.md)
+    - [s. 2 Transfer to Scottish Natural Heritage of functions of Advisory Committee on sites of special scientific interest](section/2.md)
+    - [s. 3 Transfer to certain bodies of functions of Waterwatch Scotland](section/3.md)
+  - Dissolution of bodies etc.
+    - [s. 4 Dissolution of Scottish Records Advisory Council](section/4.md)
+    - [s. 5 Dissolution of Scottish Industrial Development Advisory Board](section/5.md)
+    - [s. 6 Dissolution of Building Standards Advisory Committee](section/6.md)
+    - [s. 7 Dissolution of Historic Environment Advisory Council for Scotland](section/7.md)
+    - [s. 8 Dissolution of Regional Boards of Scottish Environment Protection Agency](section/8.md)
+  - Delegation of functions etc.
+    - [s. 9 Delegation of Ministerial functions under section 7 of Industrial Development Act 1982](section/9.md)
+    - [s. 10 Delegation of Ministerial functions under section 5 of Science and Technology Act 1965](section/10.md)
+    - [s. 11 Delegation of certain functions of Forestry Commissioners under Forestry Act 1967](section/11.md)
+    - [s. 12 Forestry Commissioners: joint ventures etc.](section/12.md)
+  - Regulation of officers of court
+    - [s. 13 Regulation of officers of court](section/13.md)
+- Part 2 Order-making powers
+  - Improving the exercise of public functions
+    - [s. 14 Public functions: efficiency, effectiveness and economy](section/14.md)
+    - [s. 15 Public functions: further provision](section/15.md)
+    - [s. 16 Preconditions](section/16.md)
+  - Removing and reducing burdens
+    - [s. 17 Power to remove or reduce burdens](section/17.md)
+    - [s. 18 Preconditions](section/18.md)
+  - Specific restrictions
+    - [s. 19 Order in relation to certain bodies: requirement for request and consent](section/19.md)
+  - General restrictions
+    - [s. 20 Subordinate legislation and powers of direction, appointment and consent](section/20.md)
+    - [s. 21 Local taxation](section/21.md)
+    - [s. 22 Criminal penalties](section/22.md)
+    - [s. 23 Forcible entry etc.](section/23.md)
+    - [s. 24 Prohibition on modification of this Part](section/24.md)
+  - Procedure
+    - [s. 25 Procedure](section/25.md)
+    - [s. 26 Consultation](section/26.md)
+    - [s. 27 Explanatory document laid before the Scottish Parliament](section/27.md)
+    - [s. 28 Combination with powers under European Communities Act 1972](section/28.md)
+  - General
+    - [s. 29 Order-making powers: modifications of enactments](section/29.md)
+    - [s. 30 Interpretation of Part 2](section/30.md)
+- Part 3 Information on exercise of public functions
+  - [s. 31 Public functions: duties to provide information on certain expenditure etc.](section/31.md)
+  - [s. 32 Public functions: duty to provide information on exercise of functions](section/32.md)
+  - [s. 33 Public functions: duty to provide information on special advisers](section/33.md)
+  - [s. 34 Public functions: duties to provide information: further provision](section/34.md)
+  - [s. 35 Interpretation of Part 3](section/35.md)
+- Part 4 Creative Scotland
+  - Creative Scotland
+    - [s. 36 Establishment of Creative Scotland](section/36.md)
+    - [s. 37 General functions of Creative Scotland](section/37.md)
+    - [s. 38 Advisory and other functions](section/38.md)
+    - [s. 39 Grants and loans](section/39.md)
+    - [s. 40 Directions and guidance](section/40.md)
+  - Miscellaneous and general
+    - [s. 41 Dissolution of Scottish Arts Council](section/41.md)
+    - [s. 42 Transfer of staff etc.](section/42.md)
+    - [s. 43 Creative Scotland: modifications of enactments](section/43.md)
+- Part 5 Social care and social work: scrutiny and improvement
+  - Chapter 1 Social Care and Social Work Improvement Scotland
+    - Social Care and Social Work Improvement Scotland
+      - [s. 44 Social Care and Social Work Improvement Scotland](section/44.md)
+      - [s. 45 General principles](section/45.md)
+    - Key definitions
+      - [s. 46 Social services](section/46.md)
+      - [s. 47 Care services](section/47.md)
+      - [s. 48 Social work services](section/48.md)
+      - [s. 49 Power to modify key definitions](section/49.md)
+    - Miscellaneous
+      - [s. 50 Standards and outcomes](section/50.md)
+      - [s. 51 Information and advice](section/51.md)
+      - [s. 52 Dissolution of Scottish Commission for the Regulation of Care](section/52.md)
+  - Chapter 2 Social services: inspections
+    - Inspections
+      - [s. 53 Inspections](section/53.md)
+      - [s. 53A Inspections of care homes](section/53A.md)
+      - [s. 54 Inspections under section 53: best regulatory practice](section/54.md)
+      - [s. 55 Inspections at request of Scottish Ministers](section/55.md)
+      - [s. 56 Inspections: authorised persons](section/56.md)
+      - [s. 57 Inspections: reports](section/57.md)
+      - [s. 57A Assistance in inspections from Healthcare Improvement Scotland](section/57A.md)
+    - Regulations
+      - [s. 58 Regulations: inspections](section/58.md)
+  - Chapter 3 Care services
+    - Registration of care services
+      - [s. 59 Registration of care services](section/59.md)
+      - [s. 59A Further provision in relation to registration of certain care services](section/59A.md)
+      - [s. 60 Grant or refusal of registration](section/60.md)
+      - [s. 61 Limited registration](section/61.md)
+    - Improvement notices
+      - [s. 62 Improvement notices: care services](section/62.md)
+      - [s. 63 Special provision for certain care services provided by local authorities](section/63.md)
+    - ...
+      - [s. 63A](section/63A.md)
+      - [s. 63B](section/63B.md)
+    - Proposals and applications in relation to registered care services
+      - [s. 64 Cancellation of registration](section/64.md)
+      - [s. 65 Emergency cancellation of registration](section/65.md)
+      - [s. 65A Care homes: emergency intervention orders](section/65A.md)
+      - [s. 65B Further provision in relation to emergency intervention orders](section/65B.md)
+      - [s. 66 Condition notices](section/66.md)
+      - [s. 67 Emergency condition notices](section/67.md)
+      - [s. 68 Application of Part to condition notices following emergency condition notices](section/68.md)
+      - [s. 69 Emergency condition notices: appeals](section/69.md)
+      - [s. 70 Applications under Chapter 3 in respect of conditions](section/70.md)
+      - [s. 71 Further provision as respects notice of proposals](section/71.md)
+      - [s. 72 Right to make representations to SCSWIS as respects proposals under Chapter 3](section/72.md)
+      - [s. 73 Notice of SCSWIS’s decision under Chapter 3](section/73.md)
+      - [s. 74 Conditions as to numbers](section/74.md)
+      - [s. 75 Appeal against decision to implement proposal](section/75.md)
+    - Fees
+      - [s. 76 Registration fees](section/76.md)
+    - Regulations
+      - [s. 77 Regulations: registers and registration](section/77.md)
+      - [s. 78 Regulations: care services](section/78.md)
+    - Regulations under section 78: visits to and by adult care home residents
+      - [s. 78B Identification of Essential Care Supporter](section/78B.md)
+      - [s. 78C Right to visits: care home residents](section/78C.md)
+      - [s. 78D Further provision to be made in connection with section 78C](section/78D.md)
+      - [s. 78E Code of practice on care home residents’ right to visits](section/78E.md)
+      - [s. 78F Interpretation of sections 78B to 78E](section/78F.md)
+      - [s. 78G Review of operation of duties imposed in accordance with sections 78B to 78D](section/78G.md)
+    - Complaints
+      - [s. 79 Complaints about care services](section/79.md)
+      - [s. 79A Reporting on coronavirus deaths in care homes](section/79A.md)
+    - Offences
+      - [s. 80 Offences in relation to registration under Chapter 3](section/80.md)
+      - [s. 81 False statements in application under Chapter 3](section/81.md)
+      - [s. 82 Offences by bodies corporate etc.](section/82.md)
+  - CHAPTER 3A Care services: staffing
+    - [s. 82A Development of staffing methods](section/82A.md)
+    - [s. 82B Regulations: requirement to use staffing methods](section/82B.md)
+    - [s. 82C Review and redevelopment of staffing methods](section/82C.md)
+    - [s. 82D Review of duty on care service providers to ensure appropriate staffing](section/82D.md)
+    - [s. 82E Duty to consider multi-disciplinary staffing tools](section/82E.md)
+    - [s. 82F Interpretation of Chapter](section/82F.md)
+  - Chapter 4 Local authority adoption and fostering services etc.
+    - [s. 83 Local authority applications for registration under Chapter 4](section/83.md)
+    - [s. 84 Grant of local authority application under Chapter 4](section/84.md)
+    - [s. 85 Condition notices: services registered under Chapter 4](section/85.md)
+    - [s. 86 Applications under Chapter 4 in respect of conditions](section/86.md)
+    - [s. 87 Right to make representations to SCSWIS under Chapter 4 as respects conditions](section/87.md)
+    - [s. 88 Notice of SCSWIS’s decision under Chapter 4](section/88.md)
+    - [s. 89 Appeal against decision under Chapter 4](section/89.md)
+    - [s. 90 Offences under Chapter 4](section/90.md)
+    - [s. 91 Report to Scottish Ministers](section/91.md)
+    - [s. 92 Default powers of Scottish Ministers](section/92.md)
+  - Chapter 5 Miscellaneous
+    - [s. 93 Grants to SCSWIS](section/93.md)
+    - [s. 94 Guarantees](section/94.md)
+    - [s. 95 Duty of SCSWIS to consult Scottish Social Services Council](section/95.md)
+    - [s. 96 Duty of SCSWIS to consult the Mental Welfare Commission for Scotland](section/96.md)
+    - [s. 97 Complaints procedure](section/97.md)
+    - [s. 98 Inquiries](section/98.md)
+    - [s. 99 Arrangements entered into by local authority or health body: services to be registered](section/99.md)
+    - [s. 100 Local authorities and health bodies: awareness of SCSWIS reports etc.](section/100.md)
+    - [s. 101 Giving of notice](section/101.md)
+    - [s. 102 Transfer of staff etc.](section/102.md)
+    - [s. 103 Transfer of staff: further provision](section/103.md)
+    - [s. 104 Orders and regulations: procedure](section/104.md)
+    - [s. 105 Interpretation of Part 5](section/105.md)
+    - [s. 106 Minor and consequential amendments and repeals: SCSWIS](section/106.md)
+    - [s. 107 Minor modifications: Scottish Social Services Council](section/107.md)
+- Part 6 Health care: scrutiny and improvement
+  - [s. 108 Healthcare Improvement Scotland](section/108.md)
+  - [s. 109 Transfer of staff etc. to Healthcare Improvement Scotland](section/109.md)
+  - [s. 110 Healthcare Improvement Scotland: constitution, etc.](section/110.md)
+- Part 7 The Mental Welfare Commission for Scotland
+  - [s. 111 The Mental Welfare Commission for Scotland](section/111.md)
+- Part 8 Scrutiny and complaints
+  - User focus
+    - [s. 112 Scrutiny: user focus](section/112.md)
+    - [s. 113 User focus: guidance etc.](section/113.md)
+  - Duty of co-operation
+    - [s. 114 Scrutiny: duty of co-operation](section/114.md)
+  - Joint inspections
+    - [s. 115 Joint inspections](section/115.md)
+    - [s. 116 Participation in joint inspections](section/116.md)
+    - [s. 116A Joint inspections of social services and health services](section/116A.md)
+    - [s. 117 Regulations relating to joint inspections](section/117.md)
+  - Public finance and accountability
+    - [s. 118 Amendment of Public Finance and Accountability (Scotland) Act 2000](section/118.md)
+  - Complaints handling procedures
+    - [s. 119 Complaints handling procedures](section/119.md)
+- Part 9 Charities
+  - [s. 120 Information to appear on charity websites](section/120.md)
+  - [s. 121 Variation, revocation and review of directions](section/121.md)
+  - [s. 122 Powers of Court of Session: deemed removal of persons](section/122.md)
+  - [s. 123 Delegation of functions](section/123.md)
+  - [s. 124 Reorganisation of charities](section/124.md)
+  - [s. 125 Reorganisation of restricted funds](section/125.md)
+  - [s. 126 Appointment of charity trustees](section/126.md)
+  - [s. 127 Charity trustees’ indemnity insurance](section/127.md)
+  - [s. 128 Interpretation of Part 9](section/128.md)
+- Part 10 Miscellaneous and general
+  - Miscellaneous
+    - [s. 129 Local Government (Scotland) Act 1973: minor amendment](section/129.md)
+    - [s. 130 Consultation by water and sewerage services providers](section/130.md)
+    - [s. 131 Complaints about water services and sewerage services providers](section/131.md)
+  - General
+    - [s. 132 Ancillary provision](section/132.md)
+    - [s. 133 Orders and regulations: Parts 8 and 10](section/133.md)
+    - [s. 134 Short title and commencement](section/134.md)
+- SCHEDULE 1 Deer Commission for Scotland: modifications of enactments
+  - Natural Heritage (Scotland) Act 1991 (c. 28)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Deer (Scotland) Act 1996 (c. 58)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+- SCHEDULE 2 Transfer of Waterwatch Scotland functions: modifications of enactments
+  - Part 1 Amendments
+    - Water Industry (Scotland) Act 2002 (asp 3)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Water Services etc. (Scotland) Act 2005 (asp 3)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Consumers, Estate Agents and Redress Act 2007 (c. 17)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part 2 Repeals
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- SCHEDULE 3 Dissolution of Waterwatch Scotland: arrangements for staff, property etc.
+  - Transfer of staff
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Transfer of property etc.
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Transfer of undetermined complaints
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Regulation of officers of court: modifications of enactments
+  - Part 1 Amendments
+    - Debtors (Scotland) Act 1987 (c. 18)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - Part 2 Repeals
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+- SCHEDULE 8 Information on exercise of public functions: listed public bodies
+- SCHEDULE 9 Creative Scotland: establishment etc.
+  - Status
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Membership of Creative Scotland
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Terms of appointment etc.
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Removal of members
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Disqualification from membership
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Remuneration and allowances for members
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Chief executive and other employees
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Committees
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Procedure and meetings
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - General powers
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Delegation of functions
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Location of office
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Accounts
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Reports
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+- SCHEDULE 10 Creative Scotland: modifications of enactments
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+- SCHEDULE 11 Social Care and Social Work Improvement Scotland: establishment etc.
+  - Status
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Membership of SCSWIS
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Terms of appointment etc.
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Removal of members
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Disqualification from membership
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Remuneration and allowances for members
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Chief executive and other employees
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Committees
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Procedure and meetings
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - General powers
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Delegation of functions
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Location of office
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Accounts
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Reports
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+- SCHEDULE 12 Care services: definitions
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - [Sch. 12 para. 19A](schedule/12/paragraph/19A.md)
+  - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+- SCHEDULE 13 Social work services functions: specified enactments
+- SCHEDULE 14 Social Care and Social Work Improvement Scotland: modifications of enactments
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Regulation of Care (Scotland) Act 2001 (asp 8)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Adult Support and Protection (Scotland) Act 2007 (asp 10)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+  - Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+  - Repeals
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+- SCHEDULE 15 Scottish Social Services Council: modifications of Regulation of Care (Scotland) Act 2001
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+- SCHEDULE 16 Healthcare Improvement Scotland: establishment etc.
+- SCHEDULE 17 Healthcare Improvement Scotland: modifications of enactments
+  - National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+  - National Health Service and Community Care Act 1990 (c. 19)
+    - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+  - Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+    - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+    - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+  - Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)
+    - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+  - Human Tissue (Scotland) Act 2006 (asp 4)
+    - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+  - Adult Support and Protection (Scotland) Act 2007 (asp 10)
+    - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+  - Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+    - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+  - Public Health etc. (Scotland) Act 2008 (asp 5)
+    - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+- SCHEDULE 18 The Mental Welfare Commission for Scotland: modifications of the Mental Health (Care and Treatment) (Scotland) Act 2003
+  - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+- SCHEDULE 19 Scrutiny functions: persons etc. subject to user focus duty
+- SCHEDULE 20 Scrutiny functions: persons etc. subject to duty of co-operation
