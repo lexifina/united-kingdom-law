@@ -1,0 +1,222 @@
+# Public Services Ombudsman Act (Northern Ireland) 2016
+
+nia/2016/4. Enacted 2016-02-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2016/4
+
+Source: https://www.legislation.gov.uk/nia/2016/4/2026-09-30
+
+## Contents
+
+- PART 1 THE NORTHERN IRELAND PUBLIC SERVICES OMBUDSMAN
+  - [s. 1 The Northern Ireland Public Services Ombudsman](section/1.md)
+  - [s. 2 Independence](section/2.md)
+  - [s. 3 Appointment](section/3.md)
+  - [s. 4 Abolition of existing offices](section/4.md)
+- PART 2 INVESTIGATIONS
+  - Power of investigation
+    - [s. 5 Power to investigate complaints made by a person aggrieved](section/5.md)
+    - [s. 6 Power to investigate complaints referred by a listed authority](section/6.md)
+    - [s. 7 Acting on behalf of a person aggrieved](section/7.md)
+    - [s. 8 Power to investigate on own initiative](section/8.md)
+    - [s. 9 Criteria for own initiative investigations](section/9.md)
+    - [s. 10 Alternative resolution of complaints](section/10.md)
+    - [s. 11 Purposes of investigation](section/11.md)
+  - Listed authorities
+    - [s. 12 Listed authorities](section/12.md)
+    - [s. 13 Meaning of action taken by a listed authority](section/13.md)
+  - Matters which may be investigated
+    - [s. 14 Matters which may be investigated: general](section/14.md)
+    - [s. 15 Matters which may be investigated: health and social care bodies](section/15.md)
+    - [s. 16 Matters which may be investigated: general health care providers](section/16.md)
+    - [s. 17 Matters which may be investigated: independent providers of health and social care](section/17.md)
+    - [s. 18 Matters which may be investigated: universities](section/18.md)
+    - [s. 19 Administrative functions of staff of tribunals](section/19.md)
+    - [s. 20 Exclusion: public sector employment](section/20.md)
+    - [s. 21 Exclusion: other remedies available](section/21.md)
+    - [s. 22 Other excluded matters](section/22.md)
+    - [s. 23 Decisions taken without maladministration](section/23.md)
+  - Procedure for making complaint to the Ombudsman
+    - [s. 24 Complaints handling procedure to be invoked and exhausted](section/24.md)
+    - [s. 25 Duty to inform person aggrieved about the Ombudsman](section/25.md)
+    - [s. 26 Form and time limit for making complaint](section/26.md)
+    - [s. 27 Meaning of exhausting the complaints handling procedure](section/27.md)
+  - Procedure for complaint referred to the Ombudsman
+    - [s. 28 Procedure for complaint referred to the Ombudsman](section/28.md)
+  - Procedure for own initiative investigations
+    - [s. 29 Procedure for own initiative investigations](section/29.md)
+  - Conduct of investigations
+    - [s. 30 Investigation procedure](section/30.md)
+    - [s. 31 Information, documents, evidence and facilities](section/31.md)
+    - [s. 32 Privileged and confidential information](section/32.md)
+    - [s. 33 Obstruction and contempt](section/33.md)
+- PART 3 COMPLAINTS HANDLING PROCEDURE
+  - [s. 34 Meaning of complaints handling procedure](section/34.md)
+  - [s. 35 Statement of principles](section/35.md)
+  - [s. 36 Obligation for listed authority to have complaints handling procedure](section/36.md)
+  - [s. 37 Model complaints handling procedures](section/37.md)
+  - [s. 38 Obligation for listed authority to comply with model CHPs](section/38.md)
+  - [s. 39 Declaration of non-compliance of complaints handling procedure](section/39.md)
+  - [s. 40 Submission of description of complaints handling procedure: general](section/40.md)
+  - [s. 41 Application of other enactments](section/41.md)
+  - [s. 42 Promotion of best practice etc.](section/42.md)
+- PART 4 MISCELLANEOUS AND GENERAL
+  - Reports
+    - [s. 43 Reports on investigations](section/43.md)
+    - [s. 44 Publication of reports on investigations in the public interest](section/44.md)
+    - [s. 45 Publication of reports on own initiative investigations](section/45.md)
+    - [s. 46 Reports to the Assembly](section/46.md)
+    - [s. 47 Reports and privileged information](section/47.md)
+  - Protection from defamation
+    - [s. 48 Privilege for certain publications](section/48.md)
+  - Disclosure
+    - [s. 49 Disclosure of information](section/49.md)
+    - [s. 50 Disclosure contrary to public interest](section/50.md)
+  - Consultation and co-operation with other ombudsmen
+    - [s. 51 Consultation and co-operation with other ombudsmen](section/51.md)
+  - Court proceedings
+    - [s. 52 Application to county court by person aggrieved](section/52.md)
+    - [s. 53 Relief granted by county court](section/53.md)
+    - [s. 54 Application to High Court by Attorney General](section/54.md)
+    - [s. 55 Relief granted by High Court](section/55.md)
+    - [s. 56 Court proceedings and privileged information](section/56.md)
+    - [s. 57 Supplementary provision in relation to court proceedings](section/57.md)
+- PART 5 THE NORTHERN IRELAND JUDICIAL APPOINTMENTS OMBUDSMAN
+  - [s. 58 Ombudsman to be Judicial Appointments Ombudsman](section/58.md)
+- PART 6 SUPPLEMENTARY PROVISIONS
+  - [s. 59 Interpretation](section/59.md)
+  - [s. 60 Power to make further provision](section/60.md)
+  - [s. 61 Orders](section/61.md)
+  - [s. 62 Amendments to Part 9 of the Local Government Act (Northern Ireland) 2014](section/62.md)
+  - [s. 63 Other minor and consequential amendments](section/63.md)
+  - [s. 64 Commencement](section/64.md)
+  - [s. 65 Repeals](section/65.md)
+  - [s. 66 Short title](section/66.md)
+- SCHEDULE 1 THE NORTHERN IRELAND PUBLIC SERVICES OMBUDSMAN
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Eligibility
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Salary
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Pension
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Other terms and conditions of appointment
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Removal from office
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Resignation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Restrictions on subsequent employment
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Acting Ombudsman
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - General powers
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Delegation of functions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Staff
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Advisers
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Expenses
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Budget estimates
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Accounts and audit
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Meaning of ‘financial year’
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 TRANSFER OF ASSETS, LIABILITIES, STAFF, AND OTHER TRANSITIONAL AND SAVINGS ARRANGEMENTS
+  - Transfer of assets and liabilities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Transfer of staff
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Transfer of seconded staff
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Accounts and reports: transitional arrangements
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Pension of holders of existing offices
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Complaints made to an existing office before the transfer day
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Action taken but complaint not made to existing office before the transfer day
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Eligibility of holders of existing offices to be appointed as Ombudsman
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Commissioner for Public Appointments
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Interpretation
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 LISTED AUTHORITIES
+  - Northern Ireland Assembly
+  - Northern Ireland Departments
+  - Local Government
+  - Education and Training
+  - Policing, Criminal Justice and Law
+  - Arts and Leisure
+  - Health and Social Care
+  - Investment and Economic Development
+  - Industrial Relations
+  - Harbours
+  - Housing
+  - Children and Young People
+  - Charity and Voluntary Sector
+  - Miscellaneous
+- SCHEDULE 4 TRIBUNALS REFERRED TO IN SECTION 19
+- SCHEDULE 5 OTHER EXCLUDED MATTERS
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 AMENDMENTS CONSEQUENT UPON OMBUDSMAN BEING NORTHERN IRELAND JUDICIAL APPOINTMENTS OMBUDSMAN
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 AMENDMENTS TO PART 9 OF THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 2014
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 OTHER MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Mental Health (Northern Ireland) Order 1986 (NI 4)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Juries (Northern Ireland) Order 1996 (NI 6)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Northern Ireland Act 1998 (c. 47)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Commissioner for Children and Young People (Northern Ireland) Order 2003 (NI 11)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Commissioner for Older People Act (Northern Ireland) 2011 (c. 1)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 REPEALS
