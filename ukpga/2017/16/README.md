@@ -1,0 +1,273 @@
+# Children and Social Work Act 2017
+
+2017 c. 16. Enacted 2017-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
+
+Source: https://www.legislation.gov.uk/ukpga/2017/16/2026-09-30
+
+## Contents
+
+- Part 1 Children
+  - CHAPTER 1 Looked after children
+    - Corporate parenting principles for English local authorities
+      - [s. 1 Corporate parenting principles](section/1.md)
+    - Care leavers in England
+      - [s. 2 Local offer for care leavers](section/2.md)
+      - [s. 3 Advice and support](section/3.md)
+    - Educational achievement in England
+      - [s. 4 Duty of local authority in relation to previously looked after children](section/4.md)
+      - [s. 5 Maintained schools: staff member for previously looked after pupils](section/5.md)
+      - [s. 6 Academies: staff member for looked after and previously looked after pupils](section/6.md)
+      - [s. 7 Maintained schools: guidance for staff member for looked after pupils](section/7.md)
+    - Care and adoption proceedings in England and Wales
+      - [s. 8 Care orders: permanence provisions](section/8.md)
+      - [s. 9 Adoption: duty to have regard to relationship with adopters](section/9.md)
+    - Secure accommodation
+      - [s. 10 Placing children in secure accommodation elsewhere in Great Britain](section/10.md)
+    - Chapter 1: consequential amendments
+      - [s. 11 Chapter 1: consequential amendments](section/11.md)
+  - CHAPTER 2 Safeguarding of children
+    - Child Safeguarding Practice Review Panel
+      - [s. 12 Child Safeguarding Practice Review Panel](section/12.md)
+      - [s. 13 Functions of the Panel](section/13.md)
+      - [s. 14 Events to be notified to the Panel](section/14.md)
+      - [s. 15 Information](section/15.md)
+    - Local arrangements for safeguarding and promoting welfare of children
+      - [s. 16 Local arrangements for safeguarding and promoting welfare of children](section/16.md)
+      - [s. 17 Local child safeguarding practice reviews](section/17.md)
+      - [s. 18 Further provision about arrangements](section/18.md)
+      - [s. 19 Information](section/19.md)
+      - [s. 20 Funding](section/20.md)
+      - [s. 21 Combining safeguarding partner areas and delegating functions](section/21.md)
+      - [s. 22 Guidance by Secretary of State](section/22.md)
+      - [s. 23 Interpretation](section/23.md)
+    - Child death reviews
+      - [s. 24 Child death reviews](section/24.md)
+      - [s. 25 Information](section/25.md)
+      - [s. 26 Funding](section/26.md)
+      - [s. 27 Combining child death review partner areas and delegating functions](section/27.md)
+      - [s. 28 Guidance and interpretation](section/28.md)
+    - Miscellaneous
+      - [s. 29 Regulations under provisions inserted by sections 13, 16 and 17](section/29.md)
+      - [s. 30 Abolition of Local Safeguarding Children Boards](section/30.md)
+      - [s. 31 Chapter 2: consequential amendments](section/31.md)
+  - CHAPTER 3 Other provision relating to children’s social care
+    - Children’s social care: pre-employment protection of whistle-blowers
+      - [s. 32 Pre-employment protection of whistle-blowers](section/32.md)
+    - Children’s social care: use of agency workers
+      - [s. 32A Use of agency workers for children’s social care work](section/32A.md)
+    - Combined authority functions relating to children
+      - [s. 33 Power to secure proper performance](section/33.md)
+  - CHAPTER 4 Relationships, sex and PSHE education
+    - [s. 34 Education relating to relationships and sex](section/34.md)
+    - [s. 35 Other personal, social, health and economic education](section/35.md)
+- Part 2 Social workers etc in England
+  - Social Work England
+    - [s. 36 Social Work England](section/36.md)
+    - [s. 37 Over-arching objective](section/37.md)
+    - [s. 38 Advisers](section/38.md)
+  - Regulation and improvement
+    - [s. 39 Registration](section/39.md)
+    - [s. 40 Restrictions on practice and protected titles](section/40.md)
+    - [s. 41 Professional standards](section/41.md)
+    - [s. 42 Improvement standards](section/42.md)
+    - [s. 43 Education and training](section/43.md)
+    - [s. 44 Discipline and fitness to practise](section/44.md)
+    - [s. 45 Offences](section/45.md)
+  - Provision of training
+    - [s. 46 Ensuring adequate provision of social work training](section/46.md)
+    - [s. 47 Exercise by Special Health Authority of functions under section 46(1)(b)](section/47.md)
+  - Approval of courses in relation to mental health professionals
+    - [s. 48 Approval of courses for approved mental health professionals](section/48.md)
+    - [s. 49 Approval of courses for best interests assessors](section/49.md)
+  - Fees and grants
+    - [s. 50 Fees](section/50.md)
+    - [s. 51 Grants](section/51.md)
+  - Information and co-operation
+    - [s. 52 Information and advice](section/52.md)
+    - [s. 53 Duty to co-operate](section/53.md)
+  - Oversight
+    - [s. 54 Information for Secretary of State](section/54.md)
+    - [s. 55 Default powers](section/55.md)
+    - [s. 56 Oversight by the Professional Standards Authority for Health and Social Care](section/56.md)
+  - Regulations under Part 2
+    - [s. 57 Conferral of functions and sub-delegation](section/57.md)
+    - [s. 58 Consultation](section/58.md)
+    - [s. 59 Parliamentary procedure for regulations under Part 2](section/59.md)
+  - Transfer scheme and consequential amendments
+    - [s. 60 Transfer scheme](section/60.md)
+    - [s. 61 Repeal of existing powers to regulate social workers](section/61.md)
+    - [s. 62 Amendments to do with this Part](section/62.md)
+  - Interpretation
+    - [s. 63 Interpretation of Part 2](section/63.md)
+  - Review
+    - [s. 64 Review by independent person](section/64.md)
+- Part 3 General
+  - [s. 65 Power to make transitional provision](section/65.md)
+  - [s. 66 Power to make consequential provision](section/66.md)
+  - [s. 67 Regulations: general](section/67.md)
+  - [s. 68 Affirmative and negative resolution procedures](section/68.md)
+  - [s. 69 Extent](section/69.md)
+  - [s. 70 Commencement](section/70.md)
+  - [s. 71 Short title](section/71.md)
+- SCHEDULE 1 Placing children in secure accommodation elsewhere in Great Britain
+  - Children Act 1989
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Children (Secure Accommodation) Regulations 1991 (S.I. 1991/1505)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Secure Accommodation (Scotland) Regulations 2013 (S.S.I. 2013 No. 205)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013 No. 1465)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Saving for existing powers
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Part 1 of this Act: consequential amendments
+  - Part 1 Amendment relating to Chapter 1
+    - Local offer for care leavers
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Advice and support
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 2 Amendments relating to abolition of Local Safeguarding Children Boards
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Social Work England
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Members
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Term of office
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Remuneration and pensions
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Staff
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Procedure
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Delegation
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Membership of committees and sub-committees
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Annual reports and accounts
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Application of seal and evidence
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Disqualification
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Freedom of information
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+- SCHEDULE 4 Oversight by the Professional Standards Authority for Health and Social Care
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Amendments to do with Part 2
+  - Part 1 General amendments
+    - London County Council (General Powers) Act 1920
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Medicines Act 1968
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Video Recordings Act 1984
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - London Local Authorities Act 1991
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Value Added Tax Act 1994
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Data Protection Act 1998
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Care Standards Act 2000
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Health and Social Work Professions Order 2001
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Adoption and Children Act 2002
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Income Tax (Earnings and Pensions) Act 2003
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - National Health Service Act 2006
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - National Health Service (Wales) Act 2006
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Armed Forces Act 2006
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Safeguarding Vulnerable Groups Act 2006
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - Children and Young Persons Act 2008
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - Health and Social Care Act 2012
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+      - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+  - Part 2 Renaming of Health and Social Work Professions Order 2001
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+    - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+    - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
