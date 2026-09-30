@@ -1,0 +1,179 @@
+# Children’s Wellbeing and Schools Act 2026
+
+2026 c. 21. Enacted 2026-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2026/21/2026-09-30
+
+## Contents
+
+- Part 1 Children’s social care
+  - Family group decision-making
+    - [s. 1 Family group decision-making](section/1.md)
+  - Child protection and safeguarding
+    - [s. 2 Inclusion of childcare and education agencies in safeguarding arrangements](section/2.md)
+    - [s. 3 Multi-agency child protection teams for local authority areas](section/3.md)
+    - [s. 4 Information sharing and consistent identifiers](section/4.md)
+  - Support for children in care, leaving care or in kinship care and carers
+    - [s. 5 Information: children in kinship care and their carers](section/5.md)
+    - [s. 6 Promoting educational achievement](section/6.md)
+    - [s. 7 Provision of advice and other support](section/7.md)
+    - [s. 8 Local offer for care leavers](section/8.md)
+    - [s. 9 Care leavers not to be regarded as becoming homeless intentionally](section/9.md)
+    - [s. 10 Sibling contact with children in care](section/10.md)
+  - Accommodation of children
+    - [s. 11 Children in temporary accommodation](section/11.md)
+    - [s. 12 Accommodation of looked after children: regional co-operation arrangements](section/12.md)
+    - [s. 13 Use of accommodation for deprivation of liberty](section/13.md)
+  - Regulation of children’s homes, fostering agencies etc
+    - [s. 14 Powers of CIECSS in relation to parent undertakings](section/14.md)
+    - [s. 15 Power of CIECSS to impose monetary penalties](section/15.md)
+    - [s. 16 Financial oversight](section/16.md)
+    - [s. 17 Power to limit profits of relevant providers](section/17.md)
+    - [s. 18 Power of Secretary of State to impose monetary penalties](section/18.md)
+    - [s. 19 Procedure for imposing monetary penalties](section/19.md)
+    - [s. 20 Information sharing](section/20.md)
+  - Care workers
+    - [s. 21 Use of agency workers for children’s social care work](section/21.md)
+    - [s. 22 Ill-treatment or wilful neglect of children](section/22.md)
+  - Corporate parenting
+    - [s. 23 Corporate parenting responsibilities](section/23.md)
+    - [s. 24 Cases in which duty under section 23(1) does not apply](section/24.md)
+    - [s. 25 Corporate parenting duty: collaborative working](section/25.md)
+    - [s. 26 Duty to have regard to guidance](section/26.md)
+    - [s. 27 Reports by Secretary of State](section/27.md)
+  - Employment of children
+    - [s. 28 Employment of children in England and Wales](section/28.md)
+    - [s. 29 Employment of children in Scotland](section/29.md)
+- Part 2 Schools
+  - School meals, breakfast clubs etc
+    - [s. 30 Free breakfast club provision in primary schools in England](section/30.md)
+    - [s. 31 Food and drink provided at Academies](section/31.md)
+    - [s. 32 Free school lunches: eligibility](section/32.md)
+    - [s. 33 Free school meals etc: information sharing](section/33.md)
+  - Allergy safety
+    - [s. 34 Allergy safety policy for pupils at schools](section/34.md)
+  - School uniforms
+    - [s. 35 School uniforms: limits on branded items](section/35.md)
+  - Mobile phones
+    - [s. 36 Guidance on use of mobile phones etc in schools in England](section/36.md)
+  - Children not in school
+    - [s. 37 Withdrawal of children from school: local authority involvement](section/37.md)
+    - [s. 38 Registration](section/38.md)
+    - [s. 39 School attendance orders](section/39.md)
+    - [s. 40 Children not in school: processing of information](section/40.md)
+    - [s. 41 Guidance on children not in school and school attendance orders](section/41.md)
+    - [s. 42 Children not in school: consequential amendments](section/42.md)
+  - Independent educational institutions
+    - [s. 43 Expanding the scope of regulation](section/43.md)
+    - [s. 44 Independent educational institution standards](section/44.md)
+    - [s. 45 Unregistered independent educational institutions: prevention orders](section/45.md)
+    - [s. 46 Material changes](section/46.md)
+    - [s. 47 Deregistration by agreement](section/47.md)
+    - [s. 48 Imposition of relevant restrictions](section/48.md)
+    - [s. 49 Powers of entry and investigation etc](section/49.md)
+    - [s. 50 Application of schools provision to independent educational institutions](section/50.md)
+  - Inspections of schools and colleges
+    - [s. 51 Inspectors and inspectorates: reports and information sharing](section/51.md)
+  - Teacher misconduct
+    - [s. 52 Teacher misconduct](section/52.md)
+  - School teachers’ qualifications and induction
+    - [s. 53 School teachers’ qualifications and induction](section/53.md)
+  - Academies
+    - [s. 54 Academy schools: duty to follow National Curriculum](section/54.md)
+    - [s. 55 Academy schools: educational provision for improving behaviour](section/55.md)
+    - [s. 56 Academies: power to secure performance of proprietor’s duties](section/56.md)
+    - [s. 57 Inspection of Academy proprietors](section/57.md)
+    - [s. 58 Repeal of duty to make Academy order in relation to school causing concern](section/58.md)
+  - Teachers’ pay and conditions
+    - [s. 59 Pay and conditions of Academy teachers](section/59.md)
+    - [s. 60 Application of pay and conditions orders to education action zones](section/60.md)
+  - School places and admissions
+    - [s. 61 Co-operation between schools and local authorities](section/61.md)
+    - [s. 62 Power to direct admission: extension to Academies](section/62.md)
+    - [s. 63 Power to direct admission: additional triggers](section/63.md)
+    - [s. 64 Functions of adjudicator in relation to admission numbers](section/64.md)
+  - Establishment of new schools
+    - [s. 65 Amendments to invitation process for establishment of new schools](section/65.md)
+    - [s. 66 Certain proposals to establish new schools: publication requirements etc](section/66.md)
+    - [s. 67 Establishment of pupil referral units](section/67.md)
+    - [s. 68 Process for considering, approving and implementing proposals for the establishment of new schools](section/68.md)
+    - [s. 69 Transitional provision](section/69.md)
+- Part 3 Online safety etc
+  - [s. 70 Power to require providers of internet services to prevent or restrict access by children to internet services](section/70.md)
+  - [s. 71 Progress statement](section/71.md)
+  - [s. 72 Age of consent in relation to processing of a child’s personal data: information society services](section/72.md)
+- Part 4 General
+  - [s. 73 Power to make consequential provision](section/73.md)
+  - [s. 74 Power to make consequential provision: Wales](section/74.md)
+  - [s. 75 Power to make consequential provision: Scotland](section/75.md)
+  - [s. 76 Financial provision](section/76.md)
+  - [s. 77 Extent](section/77.md)
+  - [s. 78 Commencement](section/78.md)
+  - [s. 79 Short title](section/79.md)
+- Schedule 1 Relevant authorities
+  - Part 1 List of relevant authorities
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part 2 Power to modify Part 1
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- Schedule 2 Children not in school: consequential amendments
+  - [Sch. 2 para. 1 Children Act 1989](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Education Act 1996](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 School Standards and Framework Act 1998](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Sentencing Act 2020](schedule/2/paragraph/4.md)
+- Schedule 3 Pay and conditions of Academy teachers: amendments to the Education Act 2002
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- Schedule 4 Establishment of new schools: amendments to Schedule 2 to the Education and Inspections Act 2006
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
