@@ -1,0 +1,582 @@
+# Protection of Freedoms Act 2012
+
+2012 c. 9. Enacted 2012-05-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
+
+Source: https://www.legislation.gov.uk/ukpga/2012/9/2026-09-30
+
+## Contents
+
+- Part 1 Regulation of biometric data
+  - CHAPTER 1 Destruction, retention and use of fingerprints etc.
+    - Destruction rule for fingerprints and DNA profiles subject to PACE
+      - [s. 1 Destruction of fingerprints and DNA profiles](section/1.md)
+    - Modification of rule for particular circumstances
+      - [s. 2 Material retained pending investigation or proceedings](section/2.md)
+      - [s. 3 Persons arrested for or charged with a qualifying offence](section/3.md)
+      - [s. 4 Persons arrested for or charged with a minor offence](section/4.md)
+      - [s. 5 Persons convicted of a recordable offence](section/5.md)
+      - [s. 6 Persons convicted of an offence outside England and Wales](section/6.md)
+      - [s. 7 Persons under 18 convicted of first minor offence](section/7.md)
+      - [s. 8 Persons given a penalty notice](section/8.md)
+      - [s. 9 Material retained for purposes of national security](section/9.md)
+      - [s. 10 Material given voluntarily](section/10.md)
+      - [s. 11 Material retained with consent](section/11.md)
+      - [s. 12 Material obtained for one purpose and used for another](section/12.md)
+      - [s. 13 Destruction of copies](section/13.md)
+    - Destruction rules for samples and impressions of footwear subject to PACE
+      - [s. 14 Destruction of samples](section/14.md)
+      - [s. 15 Destruction of impressions of footwear](section/15.md)
+    - Supplementary provision for material subject to PACE
+      - [s. 16 Use of retained material](section/16.md)
+      - [s. 17 Exclusions for certain regimes](section/17.md)
+      - [s. 18 Interpretation and minor amendments of PACE](section/18.md)
+    - Amendments of regimes other than PACE
+      - [s. 19 Amendments of regimes other than PACE](section/19.md)
+    - The Commissioner for the Retention and Use of Biometric Material
+      - [s. 20 Appointment and functions of Commissioner](section/20.md)
+      - [s. 21 Reports by Commissioner](section/21.md)
+    - Other provisions
+      - [s. 22 Guidance on making national security determinations](section/22.md)
+      - [s. 23 Inclusion of DNA profiles on National DNA Database](section/23.md)
+      - [s. 24 National DNA Database Strategy Board](section/24.md)
+      - [s. 25 Material taken before commencement](section/25.md)
+  - CHAPTER 2 Protection of biometric information of children in schools etc.
+    - [s. 26 Requirement to notify and obtain consent before processing biometric information](section/26.md)
+    - [s. 27 Exceptions and further provision about consent and notification](section/27.md)
+    - [s. 28 Interpretation: Chapter 2](section/28.md)
+- Part 2 Regulation of surveillance
+  - CHAPTER 1 Regulation of CCTV and other surveillance camera technology
+    - Code of practice
+      - [s. 29 Code of practice for surveillance camera systems](section/29.md)
+    - Procedural requirements
+      - [s. 30 Issuing of code](section/30.md)
+      - [s. 31 Alteration or replacement of code](section/31.md)
+      - [s. 32 Publication of code](section/32.md)
+    - Enforcement and Commissioner
+      - [s. 33 Effect of code](section/33.md)
+      - [s. 34 Commissioner in relation to code](section/34.md)
+      - [s. 35 Reports by Commissioner](section/35.md)
+    - Interpretation
+      - [s. 36 Interpretation: Chapter 1](section/36.md)
+  - CHAPTER 2 Safeguards for certain surveillance under RIPA
+    - [s. 37 Judicial approval for obtaining or disclosing communications data](section/37.md)
+    - [s. 38 Judicial approval for directed surveillance and covert human intelligence sources](section/38.md)
+- Part 3 Protection of property from disproportionate enforcement action
+  - CHAPTER 1 Powers of entry
+    - Repealing, adding safeguards or rewriting powers of entry
+      - [s. 39 Repealing etc. unnecessary or inappropriate powers of entry](section/39.md)
+      - [s. 40 Adding safeguards to powers of entry](section/40.md)
+      - [s. 41 Rewriting powers of entry](section/41.md)
+      - [s. 42 Duty to review certain existing powers of entry](section/42.md)
+      - [s. 43 Consultation requirements before modifying powers of entry](section/43.md)
+      - [s. 44 Procedural and supplementary provisions](section/44.md)
+      - [s. 45 Devolution: Scotland and Northern Ireland](section/45.md)
+      - [s. 46 Sections 39 to 46: interpretation](section/46.md)
+    - Codes of practice in relation to powers of entry
+      - [s. 47 Code of practice in relation to non-devolved powers of entry](section/47.md)
+      - [s. 48 Issuing of code](section/48.md)
+      - [s. 49 Alteration or replacement of code](section/49.md)
+      - [s. 50 Publication of code](section/50.md)
+      - [s. 51 Effect of code](section/51.md)
+      - [s. 52 Sections 47 to 51: interpretation](section/52.md)
+      - [s. 53 Corresponding code in relation to Welsh devolved powers of entry](section/53.md)
+  - CHAPTER 2 Vehicles left on land
+    - Offence of immobilising etc. vehicles
+      - [s. 54 Offence of immobilising etc. vehicles](section/54.md)
+    - Alternative remedies in relation to vehicles left on land
+      - [s. 55 Extension of powers to remove vehicles from land](section/55.md)
+      - [s. 56 Recovery of unpaid parking charges](section/56.md)
+- Part 4 Counter-terrorism powers
+  - Pre-charge detention of terrorist suspects
+    - [s. 57 Maximum detention period of 14 days](section/57.md)
+    - [s. 58 Emergency power for temporary extension and review of extensions](section/58.md)
+  - Stop and search powers: general
+    - [s. 59 Repeal of existing stop and search powers](section/59.md)
+    - [s. 60 Replacement powers to stop and search persons and vehicles](section/60.md)
+    - [s. 61 Replacement powers to stop and search in specified locations](section/61.md)
+    - [s. 62 Code of practice](section/62.md)
+  - Stop and search powers: Northern Ireland
+    - [s. 63 Stop and search powers in relation to Northern Ireland](section/63.md)
+- Part 5 Safeguarding vulnerable groups, criminal records etc.
+  - CHAPTER 1 Safeguarding of vulnerable groups
+    - Restrictions on scope of regulation: England and Wales
+      - [s. 64 Restriction of scope of regulated activities: children](section/64.md)
+      - [s. 65 Restriction of definition of vulnerable adults](section/65.md)
+      - [s. 66 Restriction of scope of regulated activities: vulnerable adults](section/66.md)
+      - [s. 67 Alteration of test for barring decisions](section/67.md)
+    - Abolition of other areas of regulation: England and Wales
+      - [s. 68 Abolition of controlled activity](section/68.md)
+      - [s. 69 Abolition of monitoring](section/69.md)
+    - Main amendments relating to new arrangements: England and Wales
+      - [s. 70 Information for purposes of making barring decisions](section/70.md)
+      - [s. 71 Review of barring decisions](section/71.md)
+      - [s. 72 Information about barring decisions](section/72.md)
+      - [s. 73 Duty to check whether person barred](section/73.md)
+      - [s. 74 Restrictions on duplication with Scottish and Northern Ireland barred lists](section/74.md)
+    - Other amendments relating to new arrangements: England and Wales
+      - [s. 75 Professional bodies](section/75.md)
+      - [s. 76 Supervisory authorities](section/76.md)
+      - [s. 77 Minor amendments](section/77.md)
+    - Corresponding amendments relating to Northern Ireland
+      - [s. 78 Corresponding amendments in relation to Northern Ireland](section/78.md)
+  - CHAPTER 2 Criminal records
+    - Safeguards in relation to certificates
+      - [s. 79 Restriction on information provided to certain persons](section/79.md)
+      - [s. 80 Minimum age for applicants for certificates or to be registered](section/80.md)
+      - [s. 81 Additional grounds for refusing an application to be registered](section/81.md)
+      - [s. 82 Enhanced criminal record certificates: additional safeguards](section/82.md)
+    - Up-dating and content of certificates
+      - [s. 83 Up-dating certificates](section/83.md)
+      - [s. 84 Criminal conviction certificates: conditional cautions](section/84.md)
+    - Other
+      - [s. 85 Inclusion of cautions etc. in national police records](section/85.md)
+      - [s. 86 Out of date references to certificates of criminal records](section/86.md)
+  - CHAPTER 3 The Disclosure and Barring Service
+    - General
+      - [s. 87 Formation and constitution of DBS](section/87.md)
+      - [s. 88 Transfer of functions to DBS and dissolution of ISA](section/88.md)
+    - Supplementary
+      - [s. 89 Orders under section 88](section/89.md)
+      - [s. 90 Transfer schemes in connection with orders under section 88](section/90.md)
+      - [s. 91 Tax in connection with transfer schemes](section/91.md)
+  - CHAPTER 4 Disregarding certain convictions for buggery etc.: England and Wales
+    - General
+      - [s. 92 Power of Secretary of State to disregard convictions or cautions](section/92.md)
+      - [s. 93 Applications to the Secretary of State](section/93.md)
+      - [s. 94 Procedure for decisions by the Secretary of State](section/94.md)
+    - Effect of disregard
+      - [s. 95 Effect of disregard on police and other records](section/95.md)
+      - [s. 96 Effect of disregard for disclosure and other purposes](section/96.md)
+      - [s. 97 Saving for Royal pardons etc.](section/97.md)
+      - [s. 98 Section 96: supplementary](section/98.md)
+    - Appeals and other supplementary provision
+      - [s. 99 Appeal against refusal to disregard convictions or cautions](section/99.md)
+      - [s. 100 Advisers](section/100.md)
+      - [s. 101 Interpretation: Chapter 4](section/101.md)
+  - CHAPTER 5 Disregarding certain convictions for buggery etc: Northern Ireland
+    - General
+      - [s. 101A Power of Department of Justice to disregard certain convictions or cautions](section/101A.md)
+      - [s. 101B Applications to the Department of Justice](section/101B.md)
+      - [s. 101C Procedure for decisions by the Department of Justice](section/101C.md)
+    - Effect of disregard
+      - [s. 101D Effect of disregard on police and other records](section/101D.md)
+      - [s. 101E Effect of disregard for disclosure and other purposes](section/101E.md)
+      - [s. 101F Saving for Royal pardons etc](section/101F.md)
+      - [s. 101G Section 101E: supplementary](section/101G.md)
+    - Appeals and other supplementary provision
+      - [s. 101H Appeal against refusal to disregard convictions or caution](section/101H.md)
+      - [s. 101I Advisers](section/101I.md)
+      - [s. 101J Interpretation: Chapter 5](section/101J.md)
+- Part 6 Freedom of information and data protection
+  - Publication of certain datasets
+    - [s. 102 Release and publication of datasets held by public authorities](section/102.md)
+  - Other amendments relating to freedom of information
+    - [s. 103 Meaning of “publicly-owned company”](section/103.md)
+    - [s. 104 Extension of certain provisions to Northern Ireland bodies](section/104.md)
+  - The Information Commissioner
+    - [s. 105 Appointment and tenure of Information Commissioner](section/105.md)
+    - [s. 106 Alteration of role of Secretary of State in relation to guidance powers](section/106.md)
+    - [s. 107 Removal of Secretary of State consent for fee-charging powers etc.](section/107.md)
+    - [s. 108 Removal of Secretary of State approval for staff numbers, terms etc.](section/108.md)
+- Part 7 Miscellaneous and general
+  - Trafficking people for exploitation
+    - [s. 109 Trafficking people for sexual exploitation](section/109.md)
+    - [s. 110 Trafficking people for labour and other exploitation](section/110.md)
+  - Stalking
+    - [s. 111 Offences in relation to stalking](section/111.md)
+    - [s. 112 Power of entry in relation to stalking](section/112.md)
+  - Miscellaneous repeals of enactments
+    - [s. 113 Repeal of provisions for conducting certain fraud cases without jury](section/113.md)
+    - [s. 114 Removal of restrictions on times for marriage or civil partnership](section/114.md)
+  - General
+    - [s. 115 Consequential amendments, repeals and revocations](section/115.md)
+    - [s. 116 Transitional, transitory or saving provision](section/116.md)
+    - [s. 117 Financial provisions](section/117.md)
+    - [s. 118 Channel Islands and Isle of Man](section/118.md)
+    - [s. 119 Extent](section/119.md)
+    - [s. 120 Commencement](section/120.md)
+    - [s. 121 Short title](section/121.md)
+- SCHEDULE 1 Amendments of regimes other than PACE
+  - Part 1 Material subject to the Terrorism Act 2000
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part 2 Material subject to the International Criminal Court Act 2001
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part 3 Material subject to section 18 of the Counter-Terrorism Act 2008
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part 4 Material subject to the Terrorism Prevention and Investigation Measures Act 2011
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part 5 Material subject to the Criminal Procedure (Scotland) Act 1995
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part 6 Material subject to the Police and Criminal Evidence (Northern Ireland) Order 1989
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Part 7 Corresponding Northern Ireland provision for excepted or reserved matters etc.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Repeals etc. of powers of entry
+  - Part 1 Water and Environment
+    - Public Health (Control of Disease) Act 1984
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Merchant Shipping Act 1995
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Environment Act 1995
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part 2 Agriculture
+    - Dairy Herd Conversion Premium Regulations 1973 (S.I. 1973/1642)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Milk (Cessation of Production) Act 1985
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Cereals Co-responsibility Levy Regulations 1988 (S.I. 1988/1001)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Oilseeds Producers (Support System) Regulations 1992 (S.I. 1992/695)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Older Cattle (Disposal) (England) Regulations 2005 (S.I. 2005/3522)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Salmonella in Turkey Flocks and Slaughter Pigs (Survey Powers) (England) Regulations 2006 (S.I. 2006/2821)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part 3 Miscellaneous
+    - Distribution of German Enemy Property (No 1) Order 1950 (S.I. 1950/1642)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Hypnotism Act 1952
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Landlord and Tenant Act 1985
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Gas Appliances (Safety) Regulations 1995 (S.I. 1995/1629)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Cross-border Railway Services (Working Time) Regulations 2008 (2008/1660)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Payment Services Regulations 2009 (S.I. 2009/209)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Corresponding code of practice for Welsh devolved powers of entry
+  - Code of practice
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Issuing of code
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Alteration or replacement of code
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Publication of code
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Effect of code
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Interpretation
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Recovery of unpaid parking charges
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Right to claim unpaid parking charges from keeper of vehicle
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Conditions that must be met for purposes of paragraph 4
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Hire vehicles
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Application to Crown vehicles etc
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Power to amend Schedule
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Parliamentary procedure
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+- SCHEDULE 5 Replacement powers to stop and search: supplementary provisions
+- SCHEDULE 6 Stop and search powers: Northern Ireland
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Safeguarding of vulnerable groups: Northern Ireland
+  - Restriction of scope of regulated activities: children
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Restriction of definition of vulnerable adults
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Restriction of scope of regulated activities: vulnerable adults
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Alteration of test for barring decisions
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Abolition of controlled activity
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Abolition of monitoring
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Information for purposes of making barring decisions
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Review of barring decisions
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Information about barring decisions
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Duty to check whether person barred
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Restrictions on duplication with barred lists in England and Wales and Scotland
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Professional bodies
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Supervisory authorities
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Minor amendments
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+- SCHEDULE 8 Disclosure and Barring Service
+  - Membership
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Terms of appointment of members
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Remuneration etc: members
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Staff
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Remuneration, pensions etc of staff
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Delegation of functions
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Business plans
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Reports
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Funding
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Accounts
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Guidance
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Directions
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Status
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Use of information
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Payments in connection with maladministration
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Incidental powers
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Documents
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Transitional
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 Consequential amendments
+  - Part 1 Destruction, retention and use of fingerprints etc.
+    - House of Commons Disqualification Act 1975
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Northern Ireland Assembly Disqualification Act 1975
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Crime and Security Act 2010
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Part 2 The Surveillance Camera Commissioner
+    - House of Commons Disqualification Act 1975
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Part 3 Safeguards for certain surveillance under RIPA
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Part 4 Vehicles left on land
+    - Road Traffic Regulation Act 1984
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Airports Act 1986
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Private Security Industry Act 2001
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - Part 5 Counter-terrorism powers
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Terrorism Act 2000
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - Criminal Justice and Police Act 2001
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - Police Reform Act 2002
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - Police (Northern Ireland) Act 2003
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - Terrorism Act 2006
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - Counter-Terrorism Act 2008
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+    - Terrorism Act 2000 (Remedial) Order 2011 (S.I. 2011/631)
+      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - Part 6 Safeguarding of vulnerable groups
+    - Police Act 1997
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - Safeguarding Vulnerable Groups Act 2006
+      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+      - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+      - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+      - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+      - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+      - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+      - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+      - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+      - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+      - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+      - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+      - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+      - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+      - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+      - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+      - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+      - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+      - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+      - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+      - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+      - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+      - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+      - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+      - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+      - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+      - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+      - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+      - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+      - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+      - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+    - Safeguarding Vulnerable Groups (Northern Ireland) Order 2007
+      - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+      - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
+      - [Sch. 9 para. 77](schedule/9/paragraph/77.md)
+      - [Sch. 9 para. 78](schedule/9/paragraph/78.md)
+      - [Sch. 9 para. 79](schedule/9/paragraph/79.md)
+      - [Sch. 9 para. 80](schedule/9/paragraph/80.md)
+      - [Sch. 9 para. 81](schedule/9/paragraph/81.md)
+      - [Sch. 9 para. 82](schedule/9/paragraph/82.md)
+      - [Sch. 9 para. 83](schedule/9/paragraph/83.md)
+      - [Sch. 9 para. 84](schedule/9/paragraph/84.md)
+      - [Sch. 9 para. 85](schedule/9/paragraph/85.md)
+      - [Sch. 9 para. 86](schedule/9/paragraph/86.md)
+      - [Sch. 9 para. 87](schedule/9/paragraph/87.md)
+      - [Sch. 9 para. 88](schedule/9/paragraph/88.md)
+      - [Sch. 9 para. 89](schedule/9/paragraph/89.md)
+      - [Sch. 9 para. 90](schedule/9/paragraph/90.md)
+      - [Sch. 9 para. 91](schedule/9/paragraph/91.md)
+      - [Sch. 9 para. 92](schedule/9/paragraph/92.md)
+      - [Sch. 9 para. 93](schedule/9/paragraph/93.md)
+      - [Sch. 9 para. 94](schedule/9/paragraph/94.md)
+      - [Sch. 9 para. 95](schedule/9/paragraph/95.md)
+      - [Sch. 9 para. 96](schedule/9/paragraph/96.md)
+      - [Sch. 9 para. 97](schedule/9/paragraph/97.md)
+      - [Sch. 9 para. 98](schedule/9/paragraph/98.md)
+      - [Sch. 9 para. 99](schedule/9/paragraph/99.md)
+      - [Sch. 9 para. 100](schedule/9/paragraph/100.md)
+      - [Sch. 9 para. 101](schedule/9/paragraph/101.md)
+      - [Sch. 9 para. 102](schedule/9/paragraph/102.md)
+      - [Sch. 9 para. 103](schedule/9/paragraph/103.md)
+  - Part 7 Criminal records
+    - Police Act 1997
+      - [Sch. 9 para. 104](schedule/9/paragraph/104.md)
+      - [Sch. 9 para. 105](schedule/9/paragraph/105.md)
+      - [Sch. 9 para. 106](schedule/9/paragraph/106.md)
+      - [Sch. 9 para. 107](schedule/9/paragraph/107.md)
+      - [Sch. 9 para. 108](schedule/9/paragraph/108.md)
+      - [Sch. 9 para. 109](schedule/9/paragraph/109.md)
+      - [Sch. 9 para. 110](schedule/9/paragraph/110.md)
+      - [Sch. 9 para. 111](schedule/9/paragraph/111.md)
+      - [Sch. 9 para. 112](schedule/9/paragraph/112.md)
+      - [Sch. 9 para. 113](schedule/9/paragraph/113.md)
+      - [Sch. 9 para. 114](schedule/9/paragraph/114.md)
+      - [Sch. 9 para. 115](schedule/9/paragraph/115.md)
+      - [Sch. 9 para. 116](schedule/9/paragraph/116.md)
+      - [Sch. 9 para. 117](schedule/9/paragraph/117.md)
+      - [Sch. 9 para. 118](schedule/9/paragraph/118.md)
+    - Gambling Act 2005
+      - [Sch. 9 para. 119](schedule/9/paragraph/119.md)
+    - National Health Service Act 2006
+      - [Sch. 9 para. 120](schedule/9/paragraph/120.md)
+      - [Sch. 9 para. 121](schedule/9/paragraph/121.md)
+      - [Sch. 9 para. 122](schedule/9/paragraph/122.md)
+      - [Sch. 9 para. 123](schedule/9/paragraph/123.md)
+    - National Health Service (Wales) Act 2006
+      - [Sch. 9 para. 124](schedule/9/paragraph/124.md)
+      - [Sch. 9 para. 125](schedule/9/paragraph/125.md)
+      - [Sch. 9 para. 126](schedule/9/paragraph/126.md)
+      - [Sch. 9 para. 127](schedule/9/paragraph/127.md)
+      - [Sch. 9 para. 128](schedule/9/paragraph/128.md)
+    - Safeguarding Vulnerable Groups Act 2006
+      - [Sch. 9 para. 129](schedule/9/paragraph/129.md)
+  - Part 8 The Disclosure and Barring Service
+    - Parliamentary Commissioner Act 1967
+      - [Sch. 9 para. 130](schedule/9/paragraph/130.md)
+    - House of Commons Disqualification Act 1975
+      - [Sch. 9 para. 131](schedule/9/paragraph/131.md)
+    - Northern Ireland Assembly Disqualification Act 1975
+      - [Sch. 9 para. 132](schedule/9/paragraph/132.md)
+    - Freedom of Information Act 2000
+      - [Sch. 9 para. 133](schedule/9/paragraph/133.md)
+  - Part 9 Disregarding certain convictions for buggery etc.
+    - Rehabilitation of Offenders Act 1974
+      - [Sch. 9 para. 134](schedule/9/paragraph/134.md)
+    - Police Act 1997
+      - [Sch. 9 para. 135](schedule/9/paragraph/135.md)
+  - Part 10 Trafficking people for exploitation
+    - Children and Young Persons Act 1933
+      - [Sch. 9 para. 136](schedule/9/paragraph/136.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 9 para. 137](schedule/9/paragraph/137.md)
+    - Proceeds of Crime Act 2002
+      - [Sch. 9 para. 138](schedule/9/paragraph/138.md)
+    - Criminal Justice Act 2003
+      - [Sch. 9 para. 139](schedule/9/paragraph/139.md)
+    - Sexual Offences Act 2003
+      - [Sch. 9 para. 140](schedule/9/paragraph/140.md)
+    - Asylum and Immigration (Treatment of Claimants, etc) Act 2004
+      - [Sch. 9 para. 141](schedule/9/paragraph/141.md)
+    - Serious Crime Act 2007
+      - [Sch. 9 para. 142](schedule/9/paragraph/142.md)
+  - Part 11 Stalking
+    - Protection from Harassment Act 1997
+      - [Sch. 9 para. 143](schedule/9/paragraph/143.md)
+    - Crime and Disorder Act 1998
+      - [Sch. 9 para. 144](schedule/9/paragraph/144.md)
+    - Criminal Justice and Police Act 2001
+      - [Sch. 9 para. 145](schedule/9/paragraph/145.md)
+    - Sexual Offences Act 2003
+      - [Sch. 9 para. 146](schedule/9/paragraph/146.md)
+    - Criminal Justice Act 2003
+      - [Sch. 9 para. 147](schedule/9/paragraph/147.md)
+  - Part 12 Repeal of provisions for conducting certain fraud cases without jury
+    - Criminal Justice Act 2003
+      - [Sch. 9 para. 148](schedule/9/paragraph/148.md)
+- SCHEDULE 10 Repeals and revocations
+  - Part 1 Destruction, retention and use of fingerprints etc.
+  - Part 2 Powers of entry
+  - Part 3 Vehicles left on land
+  - Part 4 Counter-terrorism powers
+  - Part 5 Safeguarding of vulnerable groups
+  - Part 6 Criminal records
+  - Part 7 Freedom of information
+  - Part 8 The Information Commissioner
+  - Part 9 Trafficking people for exploitation
+  - Part 10 Repeal of provisions for conducting certain fraud cases without jury
+  - Part 11 Removal of restrictions on times for marriage or civil partnership
