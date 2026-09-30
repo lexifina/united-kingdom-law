@@ -1,0 +1,182 @@
+# Statistics and Registration Service Act 2007
+
+2007 c. 18. Enacted 2007-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2007/18/2026-09-30
+
+## Contents
+
+- Part 1 The Statistics Board
+  - The Statistics Board
+    - [s. 1 Establishment](section/1.md)
+    - [s. 2 Status](section/2.md)
+  - Members and staff
+    - [s. 3 Members](section/3.md)
+    - [s. 4 Non-executive members](section/4.md)
+    - [s. 5 Executive members and other staff](section/5.md)
+  - Official statistics: introductory
+    - [s. 6 Official statistics](section/6.md)
+    - [s. 7 Objective](section/7.md)
+  - General functions relating to official statistics
+    - [s. 8 Monitoring and reporting of official statistics](section/8.md)
+    - [s. 9 Definitions etc for official statistics](section/9.md)
+  - National Statistics
+    - [s. 10 Code of Practice for Statistics](section/10.md)
+    - [s. 11 Pre-release access](section/11.md)
+    - [s. 11A Restrictions on provision by Scottish Ministers for rules and principles for pre-release access](section/11A.md)
+    - [s. 12 Assessment](section/12.md)
+    - [s. 13 Duty to continue to comply with Code](section/13.md)
+    - [s. 14 Re-assessment](section/14.md)
+    - [s. 15 Programme of assessment](section/15.md)
+    - [s. 16 Requests for assessment: supplementary](section/16.md)
+    - [s. 17 Principles and procedures](section/17.md)
+    - [s. 18 List of National Statistics](section/18.md)
+    - [s. 19 Code: transitional](section/19.md)
+  - Production of statistics
+    - [s. 20 Production of statistics](section/20.md)
+    - [s. 21 Retail prices index](section/21.md)
+  - Additional statistical functions
+    - [s. 22 Statistical services](section/22.md)
+    - [s. 23 Statistical research](section/23.md)
+    - [s. 24 Delegated functions](section/24.md)
+  - Census etc
+    - [s. 25 Census etc](section/25.md)
+  - Functions: supplementary
+    - [s. 26 Ancillary powers](section/26.md)
+    - [s. 27 Reports](section/27.md)
+    - [s. 28 Efficiency etc](section/28.md)
+    - [s. 29 Directions](section/29.md)
+  - Organisation and administration
+    - [s. 30 National Statistician: advisory functions](section/30.md)
+    - [s. 31 National Statistician: executive functions](section/31.md)
+    - [s. 32 Executive office](section/32.md)
+    - [s. 33 Head of Assessment](section/33.md)
+    - [s. 34 Separation of functions](section/34.md)
+    - [s. 35 Committees](section/35.md)
+    - [s. 36 Delegation](section/36.md)
+    - [s. 37 Proceedings: supplementary](section/37.md)
+  - Use and disclosure of information by the Board
+    - [s. 38 Use of information by the Board](section/38.md)
+    - [s. 39 Confidentiality of personal information](section/39.md)
+    - [s. 40 Freedom of information](section/40.md)
+    - [s. 41 Disclosure of information to service providers](section/41.md)
+  - Information sharing
+    - [s. 42 Information relating to births and deaths etc](section/42.md)
+    - [s. 43 Information relating to NHS registration](section/43.md)
+    - [s. 44 Information relating to NHS registration: Wales](section/44.md)
+    - [s. 45 Information held by HMRC](section/45.md)
+    - [s. 45A Information held by other public authorities](section/45A.md)
+    - [s. 45B Access to information held by Crown bodies etc](section/45B.md)
+    - [s. 45C Power to require disclosures by other public authorities](section/45C.md)
+    - [s. 45D Power to require disclosure by undertakings](section/45D.md)
+    - [s. 45E Further provisions about powers in sections 45B, 45C and 45D](section/45E.md)
+    - [s. 45F Offences relating to notices under section 45C or 45D](section/45F.md)
+    - [s. 45G Code of practice on changes to data systems](section/45G.md)
+    - [s. 46 Information sharing: supplementary amendments](section/46.md)
+  - Information sharing: supplementary powers
+    - [s. 47 Power to authorise disclosure to the Board](section/47.md)
+    - [s. 48 Power to authorise disclosure to the Board: Scotland](section/48.md)
+    - [s. 49 Power to authorise disclosure to the Board: Northern Ireland](section/49.md)
+    - [s. 50 Power to authorise use of information by the Board](section/50.md)
+    - [s. 51 Power to authorise disclosure by the Board](section/51.md)
+    - [s. 52 Power to authorise disclosure by the Board: Scotland](section/52.md)
+    - [s. 53 Power to authorise disclosure by the Board: Northern Ireland](section/53.md)
+    - [s. 53A Disclosure by the Board to devolved administrations](section/53A.md)
+    - [s. 54 ... Human Rights Act 1998](section/54.md)
+  - Consequential
+    - [s. 55 Cessation of Office for National Statistics etc](section/55.md)
+    - [s. 56 Transfers etc from ONS to the Board](section/56.md)
+    - [s. 57 Transfers etc from Registrar General to the Board](section/57.md)
+    - [s. 58 Transfers etc from Ministers of the Crown to the Board](section/58.md)
+    - [s. 59 Provision of services and facilities by the Board](section/59.md)
+    - [s. 60 Consequential amendments](section/60.md)
+  - Miscellaneous
+    - [s. 61 Money](section/61.md)
+    - [s. 62 Evidence](section/62.md)
+    - [s. 63 Investigation by Parliamentary Commissioner](section/63.md)
+    - [s. 64 House of Commons etc disqualification](section/64.md)
+  - General
+    - [s. 65 Orders and regulations](section/65.md)
+    - [s. 66 Devolved statistics](section/66.md)
+    - [s. 67 General interpretation](section/67.md)
+- Part 2 Registration service
+  - [s. 68 Establishment of Registrar General as corporation sole](section/68.md)
+  - [s. 69 Employment status of officials](section/69.md)
+  - [s. 70 Superintendent registrars and registrars](section/70.md)
+  - [s. 71 Deputy superintendent registrars and registrars](section/71.md)
+  - [s. 72 Additional registrars of marriages](section/72.md)
+- Part 3 General
+  - [s. 73 Repeals](section/73.md)
+  - [s. 74 Commencement](section/74.md)
+  - [s. 75 Extent](section/75.md)
+  - [s. 76 Short title](section/76.md)
+- SCHEDULE 1 Transfer of functions from Registrar General: amendments
+  - Census Act 1920 (c. 41)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Population (Statistics) Act 1938 (c. 12)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Registration Service Act 1953 (c. 37)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Parliamentary Constituencies Act 1986 (c. 56)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Political Parties, Elections and Referendums Act 2000 (c. 41)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Information sharing: supplementary amendments
+  - Census Act 1920 (c. 41)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Population (Statistics) Act 1938 (c. 12)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Finance Act 1969 (c. 32)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Agricultural Statistics Act 1979 (c. 13)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Value Added Tax Act 1994 (c. 23)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Bank of England Act 1998 (c. 11)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Replacement of ONS by the Board: consequential
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Mobile Homes Act 1983 (c. 34)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Dartford-Thurrock Crossing Act 1988 (c. 20)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Broadcasting Act 1990 (c. 42)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Ports Act 1991 (c. 52)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Bank of England Act 1998 (c. 11)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Employment Relations Act 1999 (c. 26)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Transport (Scotland) Act 2001 (asp 2)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Regional Assemblies (Preparations) Act 2003 (c. 10)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Pensions Act 2004 (c. 35)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Income Tax Act 2007 (c. 3)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Repeals
+  - Part 1 Repeals relating to Part 1
+  - Part 2 Repeals relating to Part 2
