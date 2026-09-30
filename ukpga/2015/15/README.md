@@ -1,0 +1,621 @@
+# Consumer Rights Act 2015
+
+2015 c. 15. Enacted 2015-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
+
+Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
+
+## Contents
+
+- PART 1 Consumer contracts for goods, digital content and services
+  - CHAPTER 1 Introduction
+    - [s. 1 Where Part 1 applies](section/1.md)
+    - [s. 2 Key definitions](section/2.md)
+  - CHAPTER 2 Goods
+    - What goods contracts are covered?
+      - [s. 3 Contracts covered by this Chapter](section/3.md)
+      - [s. 4 Ownership of goods](section/4.md)
+      - [s. 5 Sales contracts](section/5.md)
+      - [s. 6 Contracts for the hire of goods](section/6.md)
+      - [s. 7 Hire-purchase agreements](section/7.md)
+      - [s. 8 Contracts for transfer of goods](section/8.md)
+    - What statutory rights are there under a goods contract?
+      - [s. 9 Goods to be of satisfactory quality](section/9.md)
+      - [s. 10 Goods to be fit for particular purpose](section/10.md)
+      - [s. 11 Goods to be as described](section/11.md)
+      - [s. 12 Other pre-contract information included in contract](section/12.md)
+      - [s. 13 Goods to match a sample](section/13.md)
+      - [s. 14 Goods to match a model seen or examined](section/14.md)
+      - [s. 15 Installation as part of conformity of the goods with the contract](section/15.md)
+      - [s. 16 Goods not conforming to contract if digital content does not conform](section/16.md)
+      - [s. 17 Trader to have right to supply the goods etc](section/17.md)
+      - [s. 18 No other requirement to treat term about quality or fitness as included](section/18.md)
+    - What remedies are there if statutory rights under a goods contract are not met?
+      - [s. 19 Consumer’s rights to enforce terms about goods](section/19.md)
+      - [s. 20 Right to reject](section/20.md)
+      - [s. 21 Partial rejection of goods](section/21.md)
+      - [s. 22 Time limit for short-term right to reject](section/22.md)
+      - [s. 23 Right to repair or replacement](section/23.md)
+      - [s. 24 Right to price reduction or final right to reject](section/24.md)
+    - Other rules about remedies under goods contracts
+      - [s. 25 Delivery of wrong quantity](section/25.md)
+      - [s. 26 Instalment deliveries](section/26.md)
+      - [s. 27 Consignation, or payment into court, in Scotland](section/27.md)
+    - Other rules about goods contracts
+      - [s. 28 Delivery of goods](section/28.md)
+      - [s. 29 Passing of risk](section/29.md)
+      - [s. 30 Goods under guarantee](section/30.md)
+    - Can a trader contract out of statutory rights and remedies under a goods contract?
+      - [s. 31 Liability that cannot be excluded or restricted](section/31.md)
+      - [s. 32 Contracts applying law of a country other than the UK](section/32.md)
+  - CHAPTER 3 Digital content
+    - What digital content contracts are covered?
+      - [s. 33 Contracts covered by this Chapter](section/33.md)
+    - What statutory rights are there under a digital content contract?
+      - [s. 34 Digital content to be of satisfactory quality](section/34.md)
+      - [s. 35 Digital content to be fit for particular purpose](section/35.md)
+      - [s. 36 Digital content to be as described](section/36.md)
+      - [s. 37 Other pre-contract information included in contract](section/37.md)
+      - [s. 38 No other requirement to treat term about quality or fitness as included](section/38.md)
+      - [s. 39 Supply by transmission and facilities for continued transmission](section/39.md)
+      - [s. 40 Quality, fitness and description of content supplied subject to modifications](section/40.md)
+      - [s. 41 Trader’s right to supply digital content](section/41.md)
+    - What remedies are there if statutory rights under a digital content contract are not met?
+      - [s. 42 Consumer’s rights to enforce terms about digital content](section/42.md)
+      - [s. 43 Right to repair or replacement](section/43.md)
+      - [s. 44 Right to price reduction](section/44.md)
+      - [s. 45 Right to a refund](section/45.md)
+    - Compensation for damage to device or to other digital content
+      - [s. 46 Remedy for damage to device or to other digital content](section/46.md)
+    - Can a trader contract out of statutory rights and remedies under a digital content contract?
+      - [s. 47 Liability that cannot be excluded or restricted](section/47.md)
+  - CHAPTER 4 Services
+    - What services contracts are covered?
+      - [s. 48 Contracts covered by this Chapter](section/48.md)
+    - What statutory rights are there under a services contract?
+      - [s. 49 Service to be performed with reasonable care and skill](section/49.md)
+      - [s. 50 Information about the trader or service to be binding](section/50.md)
+      - [s. 51 Reasonable price to be paid for a service](section/51.md)
+      - [s. 52 Service to be performed within a reasonable time](section/52.md)
+      - [s. 53 Relation to other law on contract terms](section/53.md)
+    - What remedies are there if statutory rights under a services contract are not met?
+      - [s. 54 Consumer’s rights to enforce terms about services](section/54.md)
+      - [s. 55 Right to repeat performance](section/55.md)
+      - [s. 56 Right to price reduction](section/56.md)
+    - Can a trader contract out of statutory rights and remedies under a services contract?
+      - [s. 57 Liability that cannot be excluded or restricted](section/57.md)
+  - CHAPTER 5 General and supplementary provisions
+    - [s. 58 Powers of the court](section/58.md)
+    - [s. 59 Interpretation](section/59.md)
+    - [s. 60 Changes to other legislation](section/60.md)
+- PART 2 Unfair terms
+  - What contracts and notices are covered by this Part?
+    - [s. 61 Contracts and notices covered by this Part](section/61.md)
+  - What are the general rules about fairness of contract terms and notices?
+    - [s. 62 Requirement for contract terms and notices to be fair](section/62.md)
+    - [s. 63 Contract terms which may or must be regarded as unfair](section/63.md)
+    - [s. 64 Exclusion from assessment of fairness](section/64.md)
+    - [s. 65 Bar on exclusion or restriction of negligence liability](section/65.md)
+    - [s. 66 Scope of section 65](section/66.md)
+    - [s. 67 Effect of an unfair term on the rest of a contract](section/67.md)
+    - [s. 68 Requirement for transparency](section/68.md)
+    - [s. 69 Contract terms that may have different meanings](section/69.md)
+  - How are the general rules enforced?
+    - [s. 70 Enforcement of the law on unfair contract terms](section/70.md)
+  - Supplementary provisions
+    - [s. 71 Duty of court to consider fairness of term](section/71.md)
+    - [s. 72 Application of rules to secondary contracts](section/72.md)
+    - [s. 73 Disapplication of rules to mandatory terms and notices](section/73.md)
+    - [s. 74 Contracts applying law of a country other than the UK](section/74.md)
+    - [s. 75 Changes to other legislation](section/75.md)
+    - [s. 76 Interpretation of Part 2](section/76.md)
+- PART 3 Miscellaneous and General
+  - CHAPTER 1 Enforcement etc.
+    - [s. 77 Investigatory powers etc](section/77.md)
+    - [s. 78 Amendment of weights and measures legislation regarding unwrapped bread](section/78.md)
+    - [s. 79 Enterprise Act 2002: enhanced consumer measures and other enforcement](section/79.md)
+    - [s. 80 Contravention of code regulating premium rate services](section/80.md)
+  - CHAPTER 2 Competition
+    - [s. 81 Private actions in competition law](section/81.md)
+    - [s. 82 Appointment of judges to the Competition Appeal Tribunal](section/82.md)
+  - CHAPTER 3 Duty of letting agents to publicise fees etc
+    - [s. 83 Duty of letting agents to publicise fees etc](section/83.md)
+    - [s. 84 Letting agents to which the duty applies](section/84.md)
+    - [s. 85 Fees to which the duty applies](section/85.md)
+    - [s. 86 Letting agency work and property management work](section/86.md)
+    - [s. 87 Enforcement of the duty](section/87.md)
+    - [s. 88 Supplementary provisions](section/88.md)
+  - CHAPTER 4 Student complaints scheme
+    - [s. 89 Qualifying institutions for the purposes of the student complaints scheme](section/89.md)
+  - CHAPTER 5 Secondary ticketing
+    - [s. 90 Duty to provide information about tickets](section/90.md)
+    - [s. 91 Prohibition on cancellation or blacklisting](section/91.md)
+    - [s. 92 Duty to report criminal activity](section/92.md)
+    - [s. 93 Enforcement of this Chapter](section/93.md)
+    - [s. 94 Duty to review measures relating to secondary ticketing](section/94.md)
+    - [s. 95 Interpretation of this Chapter](section/95.md)
+  - CHAPTER 6 General
+    - [s. 96 Power to make consequential provision](section/96.md)
+    - [s. 97 Power to make transitional, transitory and saving provision](section/97.md)
+    - [s. 98 Financial provision](section/98.md)
+    - [s. 99 Extent](section/99.md)
+    - [s. 100 Commencement](section/100.md)
+    - [s. 101 Short title](section/101.md)
+- SCHEDULE 1 Amendments consequential on Part 1
+  - Supply of Goods (Implied Terms) Act 1973 (c. 13)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Sale of Goods Act 1979 (c. 54)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - Supply of Goods and Services Act 1982 (c. 29)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+  - Sale and Supply of Goods to Consumers Regulations 2002 (SI 2002/3045)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+  - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+  - Consequential repeal and revocation
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+- SCHEDULE 2 Consumer contract terms which may be regarded as unfair
+  - PART 1 List of terms
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - PART 2 Scope of Part 1
+    - Financial services
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Contracts which last indefinitely
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Sale of securities, foreign currency etc
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Price index clauses
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+- SCHEDULE 3 Enforcement of the law on unfair contract terms and notices
+  - Application of Schedule
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Consideration of complaints
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Application for injunction or interdict
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Notification of application
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Determination of application
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Undertakings
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Publication, information and advice
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Meaning of “regulator”
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Other definitions
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Financial Conduct Authority
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Amendments consequential on Part 2
+  - Misrepresentation Act 1967 (c. 7)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Unfair Contract Terms Act 1977 (c. 50)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Merchant Shipping Act 1995 (c. 21)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+  - Arbitration Act 1996 (c. 23)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+  - Unfair Terms in Consumer Contracts Regulations 1999 (S.I. 1999/2083)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+  - Companies Act 2006 (c. 46)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+  - Consequential repeals
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+- SCHEDULE 5 Investigatory powers etc.
+  - PART 1 Basic concepts
+    - Overview
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Enforcers
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Domestic enforcers
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - ...
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Public designated enforcers
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Unfair contract terms enforcer
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Officers
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Interpretation of other terms
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - PART 2 The enforcer’s legislation
+    - Enforcer’s legislation
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Enforcer’s legislation: duties and powers mentioned in paragraph 9(1)(a)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Enforcer’s legislation: legislation mentioned in paragraph 9(1)(b)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Powers to amend paragraph 10 or 11
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - PART 3 Powers in relation to the production of information
+    - Exercise of powers in this Part
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Power to require the production of information
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Procedure for notice under paragraph 14
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Enforcement of notice under paragraph 14
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Non-compliance with notice under paragraph 14: power of court to impose monetary penalties
+      - [Sch. 5 para. 16A](schedule/5/paragraph/16A.md)
+    - Non-compliance with notice under paragraph 14: powers of CMA to give provisional enforcement notice
+      - [Sch. 5 para. 16B](schedule/5/paragraph/16B.md)
+    - Non-compliance with notice under paragraph 14: power of CMA to give final enforcement notice
+      - [Sch. 5 para. 16C](schedule/5/paragraph/16C.md)
+    - Appeals against final enforcement notice
+      - [Sch. 5 para. 16D](schedule/5/paragraph/16D.md)
+    - Recovery of penalties imposed under paragraph 16C
+      - [Sch. 5 para. 16E](schedule/5/paragraph/16E.md)
+    - Statement of policy in relation to penalties under paragraph 16C
+      - [Sch. 5 para. 16F](schedule/5/paragraph/16F.md)
+    - Penalties imposed under paragraphs 16A and 16C: further provision
+      - [Sch. 5 para. 16G](schedule/5/paragraph/16G.md)
+    - Meaning of “turnover” for purposes of paragraphs 16A and 16C
+      - [Sch. 5 para. 16H](schedule/5/paragraph/16H.md)
+    - Power to amend amounts
+      - [Sch. 5 para. 16I](schedule/5/paragraph/16I.md)
+    - Miscellaneous
+      - [Sch. 5 para. 16J](schedule/5/paragraph/16J.md)
+    - Limitations on use of information provided in response to a notice under paragraph 14
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Extra-territorial application in relation to notices under paragraph 14
+      - [Sch. 5 para. 17A](schedule/5/paragraph/17A.md)
+    - Means of giving notice under this Part of this Schedule
+      - [Sch. 5 para. 17B](schedule/5/paragraph/17B.md)
+    - Application to Crown
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 4 Further powers exercisable by domestic enforcers and authorised enforcers
+    - Exercise of powers in this Part: domestic enforcers
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Exercise of powers in this Part: authorised enforcers
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Paragraph 20: listed enactments
+      - [Sch. 5 para. 20A](schedule/5/paragraph/20A.md)
+    - Power to purchase products
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Power to observe carrying on of business etc
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Power to enter premises without warrant
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Application of paragraphs 25 to 31
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Power to inspect products etc
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Power to test equipment
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Power to require the production of documents
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Power to seize and detain goods
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Power to seize documents required as evidence
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Power to decommission or switch off fixed installations
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 30A](schedule/5/paragraph/30A.md)
+    - Power to break open container etc
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Power to enter premises with warrant
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Entry to premises under warrant
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Power to require assistance from person on premises
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - Definitions for purposes of this Part
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+  - PART 5 Provisions supplementary to Parts 3 and 4
+    - Offence of obstruction
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - Offence of purporting to act as officer
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - Access to seized goods and documents
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - Notice of testing of goods
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - Appeals against detention of goods and documents
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - Compensation
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - Meaning of “goods” in this Part
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+  - PART 6 Exercise of enforcement functions by area enforcers
+    - Interpretation of this Part
+      - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - Investigatory powers
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - Civil proceedings
+      - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+    - Criminal proceedings
+      - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+- SCHEDULE 6 Investigatory powers: consequential amendments
+  - Registered Designs Act 1949 (c. 88)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Trade Descriptions Act 1968 (c. 29)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Hallmarking Act 1973 (c. 43)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Prices Act 1974 (c. 24)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Video Recordings Act 1984 (c. 39)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - Weights and Measures Act 1985 (c. 72)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+  - Consumer Protection Act 1987 (c. 43)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+    - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+  - Clean Air Act 1993 (c. 11)
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+    - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+  - Sunday Trading Act 1994 (c. 20)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+  - Trade Marks Act 1994 (c. 26)
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+  - Olympic Symbol etc (Protection) Act 1995 (c. 32)
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+    - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+    - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+    - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+    - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+    - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+    - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+    - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+    - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+    - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+    - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+    - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+    - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+    - [Sch. 6 para. 76](schedule/6/paragraph/76.md)
+    - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+    - [Sch. 6 para. 78](schedule/6/paragraph/78.md)
+    - [Sch. 6 para. 79](schedule/6/paragraph/79.md)
+    - [Sch. 6 para. 80](schedule/6/paragraph/80.md)
+    - [Sch. 6 para. 81](schedule/6/paragraph/81.md)
+  - Fireworks Act 2003 (c. 22)
+    - [Sch. 6 para. 82](schedule/6/paragraph/82.md)
+  - Christmas Day (Trading) Act 2004 (c. 26)
+    - [Sch. 6 para. 83](schedule/6/paragraph/83.md)
+  - Financial Services Act 2012 (c. 21)
+    - [Sch. 6 para. 84](schedule/6/paragraph/84.md)
+  - Consequential repeals and revocations
+    - [Sch. 6 para. 85](schedule/6/paragraph/85.md)
+- SCHEDULE 7 Enterprise Act 2002: enhanced consumer measures and other enforcement
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 Private actions in competition law
+  - PART 1 Competition Act 1998
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - PART 2 Enterprise Act 2002
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - PART 3 Courts and Legal Services Act 1990
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+- SCHEDULE 9 Duty of letting agents to publicise fees: financial penalties
+  - Notice of intent
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Right to make representations
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Final notice
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Withdrawal or amendment of notice
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Appeals
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Recovery of financial penalty
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Secondary ticketing: financial penalties
+  - Notice of intent
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Right to make representations
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Final notice
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Withdrawal or amendment of notice
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Appeals
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Recovery of financial penalty
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
