@@ -1,0 +1,806 @@
+# Representation of the People Act 1983
+
+1983 c. 2. Enacted 1983-02-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 157 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
+
+Source: https://www.legislation.gov.uk/ukpga/1983/2/2026-09-30
+
+## Contents
+
+- Part I Parliamentary and Local Government Franchise and its Exercise
+  - Parliamentary and local government franchise
+    - [s. 1 Parliamentary electors.](section/1.md)
+    - [s. 2 Local government electors.](section/2.md)
+    - [s. 3 Disfranchisement of offenders in prison etc.](section/3.md)
+    - [s. 3A Disfranchisement of offenders detained in mental hospitals.](section/3A.md)
+  - Entitlement to registration
+    - [s. 4 Entitlement to be registered as parliamentary or local government elector.](section/4.md)
+    - [s. 5 Residence: general.](section/5.md)
+    - [s. 6 Residence: merchant seamen.](section/6.md)
+    - [s. 7 Residence: patients in mental hospitals who are not detained offenders or on remand.](section/7.md)
+    - [s. 7A Residence: persons remanded in custody etc.](section/7A.md)
+    - [s. 7AA Residence: convicted person to whom section 3(1A) applies](section/7AA.md)
+    - [s. 7B Notional residence: declarations of local connection.](section/7B.md)
+    - [s. 7C Effect of declaration of local connection.](section/7C.md)
+  - Registration of parliamentary and local government electors
+    - [s. 8 Registration officers.](section/8.md)
+    - [s. 9 Registers of electors.](section/9.md)
+    - [s. 9A Registration officers: duty to take necessary steps](section/9A.md)
+    - [s. 9B Anonymous registration](section/9B.md)
+    - [s. 9C Removal of anonymous entry](section/9C.md)
+    - [s. 9D Maintenance of registers: duty to conduct canvass in Great Britain](section/9D.md)
+    - [s. 9E Maintenance of registers: invitations to register in Great Britain](section/9E.md)
+    - [s. 10 Maintenance of registers: duty to conduct canvass in Northern Ireland.](section/10.md)
+    - [s. 10ZA Northern Ireland: timing of canvass](section/10ZA.md)
+    - [s. 10ZB The relevant registration objectives (Northern Ireland)](section/10ZB.md)
+    - [s. 10ZC Registration of electors in Great Britain](section/10ZC.md)
+    - [s. 10ZD Registration of electors in Great Britain: alterations](section/10ZD.md)
+    - [s. 10ZE Removal of electors in Great Britain from register](section/10ZE.md)
+    - [s. 10ZF Digital registration and canvass in Northern Ireland](section/10ZF.md)
+    - [s. 10A Maintenance of the registers: registration of electors in Northern Ireland.](section/10A.md)
+    - [s. 10B Register of electors in Northern Ireland: digital registration number](section/10B.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 Publication of registers.](section/13.md)
+    - [s. 13A Alteration of registers.](section/13A.md)
+    - [s. 13AB Alteration of registers: interim publication dates](section/13AB.md)
+    - [s. 13B Alteration of registers: pending elections.](section/13B.md)
+    - [s. 13BA Alteration of registers in Northern Ireland: pending elections](section/13BA.md)
+    - [s. 13BB Election falling within canvass period](section/13BB.md)
+    - [s. 13BC Alteration of registers: recall petition](section/13BC.md)
+    - [s. 13BD Electoral identity document: Great Britain](section/13BD.md)
+    - [s. 13BE Anonymous elector’s document: Great Britain](section/13BE.md)
+    - [s. 13C Electoral identity card: Northern Ireland](section/13C.md)
+    - [s. 13CZA Provision of false information: application for electoral identity document, anonymous elector’s document or electoral identity card](section/13CZA.md)
+    - [s. 13CA Scottish local government elections: false information in connection with applications for absent voting](section/13CA.md)
+    - [s. 13D Provision of false information](section/13D.md)
+  - Service qualifications and declarations for registration
+    - [s. 14 Service qualification.](section/14.md)
+    - [s. 15 Service declaration.](section/15.md)
+    - [s. 16 Contents of service declaration.](section/16.md)
+    - [s. 17 Effect of service declaration.](section/17.md)
+  - Place and manner of voting at parliamentary elections
+    - [s. 18 Polling districts and places at parliamentary elections.](section/18.md)
+    - [s. 18A Polling districts at parliamentary elections: Great Britain](section/18A.md)
+    - [s. 18AA Polling districts at parliamentary elections: Northern Ireland](section/18AA.md)
+    - [s. 18B Polling places at parliamentary elections](section/18B.md)
+    - [s. 18C Review of polling districts and places: Great Britain](section/18C.md)
+    - [s. 18CA Review of polling places: Northern Ireland](section/18CA.md)
+    - [s. 18D Review of polling districts and places: representations to Electoral Commission](section/18D.md)
+    - [s. 18E Sections 18A to 18D: supplemental](section/18E.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 21 ................................](section/21.md)
+  - Conduct of parliamentary elections
+    - [s. 23 Rules for parliamentary elections.](section/23.md)
+    - [s. 24 Returning officers: England and Wales.](section/24.md)
+    - [s. 25 Returning officers: Scotland.](section/25.md)
+    - [s. 26 Returning officer: Northern Ireland.](section/26.md)
+    - [s. 27 Returning officers generally.](section/27.md)
+    - [s. 28 Discharge of returning officer’s functions in England and Wales.](section/28.md)
+    - [s. 29 Payments by and to returning officer.](section/29.md)
+    - [s. 29A Inadequate performance of returning officer: reduction of charges](section/29A.md)
+    - [s. 30 Taxation of returning officer’s account.](section/30.md)
+  - Place and manner of voting at local government elections
+    - [s. 31 Polling districts and stations at local government elections.](section/31.md)
+    - [s. 32 ................................](section/32.md)
+  - Conduct of local government elections in England and Wales
+    - [s. 35 Returning officers: local elections in England and Wales.](section/35.md)
+    - [s. 36 Local elections in England ....](section/36.md)
+    - [s. 36A Rules for local elections in Wales](section/36A.md)
+    - [s. 36B Combination of local elections in Wales](section/36B.md)
+    - [s. 36C Expenditure by returning officers at local elections in Wales](section/36C.md)
+    - [s. 37 Ordinary day of local elections in England ...](section/37.md)
+    - [s. 37ZA Ordinary day of local elections in Wales](section/37ZA.md)
+    - [s. 37A Power to change date of local elections to date of European Parliamentary general election: England](section/37A.md)
+    - [s. 37B Power to change date of local elections to date of European Parliamentary general election: Wales](section/37B.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 Local elections void etc. in England and Wales.](section/39.md)
+    - [s. 40 Timing as to local elections in England and Wales.](section/40.md)
+  - Conduct of local government elections in Scotland
+    - [s. 41 Returning officers: local elections in Scotland.](section/41.md)
+    - [s. 42 Local elections in Scotland.](section/42.md)
+    - [s. 43 Day of ordinary local elections in Scotland, and other timing provisions.](section/43.md)
+    - [s. 43A Power of convener of Electoral Management Board to postpone election](section/43A.md)
+    - [s. 43B Power of returning officers to postpone election for their area](section/43B.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 Non-election of local authority etc. in Scotland.](section/45.md)
+  - Supplemental provisions as to local government elections
+    - [s. 46 Further provision as to local election voting in England.](section/46.md)
+    - [s. 46A Further provision as to local election voting in Wales](section/46A.md)
+    - [s. 47 Loan of equipment for local elections.](section/47.md)
+    - [s. 48 Validity of local elections, and legal costs.](section/48.md)
+  - Supplemental provisions as to parliamentary and local government elections
+    - [s. 49 Effect of registers.](section/49.md)
+    - [s. 50 Effect of misdescription.](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 Discharge of registration duties.](section/52.md)
+    - [s. 53 Power to make regulations as to registration etc.](section/53.md)
+    - [s. 54 Payment of expenses of registration.](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 Registration appeals: England and Wales.](section/56.md)
+    - [s. 57 Registration appeals: Scotland.](section/57.md)
+    - [s. 58 Registration appeals: Northern Ireland.](section/58.md)
+    - [s. 59 Supplemental provisions as to members of forces and service voters.](section/59.md)
+    - [s. 59A Reports on voter identification requirements in Great Britain](section/59A.md)
+  - Offences
+    - [s. 60 Personation.](section/60.md)
+    - [s. 61 Other voting offences.](section/61.md)
+    - [s. 62 Offences as to declarations.](section/62.md)
+    - [s. 62A Offences relating to applications for postal and proxy votes](section/62A.md)
+    - [s. 62B Scottish local government elections: offences relating to applications for postal and proxy votes](section/62B.md)
+    - [s. 62C Influencing voters at polling booths](section/62C.md)
+    - [s. 63 Breach of official duty.](section/63.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 Tampering with nomination papers, ballot papers, etc.](section/65.md)
+    - [s. 65A False statements in nomination papers etc.](section/65A.md)
+    - [s. 65B Scottish local government elections: false information in nomination papers etc.](section/65B.md)
+    - [s. 66 Requirement of secrecy.](section/66.md)
+    - [s. 66A Prohibition on publication of exit polls.](section/66A.md)
+    - [s. 66B Failure to comply with conditions relating to supply etc. of certain documents](section/66B.md)
+- Part II The Election Campaign
+  - The Election agent
+    - [s. 67 Appointment of election agent](section/67.md)
+    - [s. 68 Nomination of sub-agent at parliamentary or Authority elections.](section/68.md)
+    - [s. 69 Office of election agent and sub-agent.](section/69.md)
+    - [s. 70 Effect of default in election agent’s appointment.](section/70.md)
+    - [s. 70A Application of s.70 in relation to election of London members of the London Assembly.](section/70A.md)
+    - [s. 71 Elections where election agent not required.](section/71.md)
+  - Donations to candidates
+    - [s. 71A Control of donations to candidates.](section/71A.md)
+  - Election expenses
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 Payment of expenses through election agent.](section/73.md)
+    - [s. 74 Expenses which may be paid otherwise than by election agent.](section/74.md)
+    - [s. 74A Expenses incurred otherwise than for election purposes.](section/74A.md)
+    - [s. 75 Prohibition of expenses not authorised by election agent.](section/75.md)
+    - [s. 75ZA Return of permitted expenditure: power to require return](section/75ZA.md)
+    - [s. 75ZB Return of permitted expenditure: compliance and sanctions](section/75ZB.md)
+    - [s. 75A Scottish local government elections: prohibition of expenses not authorised by election agent](section/75A.md)
+    - [s. 76 Limitation of election expenses.](section/76.md)
+    - [s. 76ZA Limitation of pre-candidacy election expenses for certain general elections](section/76ZA.md)
+    - [s. 76A Power to vary provisions about election expenses.](section/76A.md)
+    - [s. 77 Expenses limit for joint candidates at local election.](section/77.md)
+    - [s. 78 Time for sending in and paying claims.](section/78.md)
+    - [s. 79 Disputed claims.](section/79.md)
+    - [s. 80 Election agent’s claim.](section/80.md)
+    - [s. 81 Return as to election expenses.](section/81.md)
+    - [s. 82 Declarations as to election expenses.](section/82.md)
+    - [s. 83 Where no return and declarations needed at parliamentary elections.](section/83.md)
+    - [s. 84 Penalty for failure as respects return or declarations.](section/84.md)
+    - [s. 85 Penalty for sitting or voting where no return and declarations transmitted.](section/85.md)
+    - [s. 85A Disqualification where no return and declarations transmitted after election of Mayor of London.](section/85A.md)
+    - [s. 86 Authorised excuses for failures as to return and declarations.](section/86.md)
+    - [s. 87 Court’s power to require information from election agent or sub-agent.](section/87.md)
+    - [s. 87A Duty of appropriate officer to forward returns and declarations to Electoral Commission.](section/87A.md)
+    - [s. 87B Scottish local government elections: duty of appropriate officer to forward returns and declarations to Electoral Commission](section/87B.md)
+    - [s. 88 Publication of time and place for inspection of returns and declarations.](section/88.md)
+    - [s. 88A Scottish local government elections: Publication of time and place for inspection of returns and declarations](section/88A.md)
+    - [s. 89 Inspection of returns and declarations.](section/89.md)
+    - [s. 90 Election expenses at elections where election agent not required.](section/90.md)
+    - [s. 90ZA Meaning of “election expenses”](section/90ZA.md)
+    - [s. 90A Meaning of “election expenses”.](section/90A.md)
+    - [s. 90B Incurring of election expenses for purposes of section 90A.](section/90B.md)
+    - [s. 90ZB Scottish local government elections: meaning of “election expenses”](section/90ZB.md)
+    - [s. 90C Property, goods, services etc. provided free of charge or at a discount.](section/90C.md)
+    - [s. 90D Modification of sections 90ZA and 90C in relation to election of London members of the London Assembly.](section/90D.md)
+  - Publicity at parliamentary elections
+    - [s. 91 Candidate’s right to send election address post free.](section/91.md)
+    - [s. 92 Broadcasting from outside United Kingdom.](section/92.md)
+    - [s. 93 Broadcasting of local items during election period.](section/93.md)
+    - [s. 94 Imitation poll cards.](section/94.md)
+  - Election meetings
+    - [s. 95 Schools and rooms for parliamentary election meetings.](section/95.md)
+    - [s. 96 Schools and rooms for local election meetings.](section/96.md)
+    - [s. 97 Disturbances at election meetings.](section/97.md)
+    - [s. 98 Premises not affected for rates.](section/98.md)
+  - Agency by election officials and canvassing by police officers
+    - [s. 99 Officials not to act for candidates.](section/99.md)
+    - [s. 100 Illegal canvassing by police officers.](section/100.md)
+  - Conveyance of voters to and from poll
+    - [s. 101 No hiring of vehicles to convey voters.](section/101.md)
+    - [s. 102 No payments for conveyance of voters.](section/102.md)
+    - [s. 103 Provisions supplemental to ss. 101 and 102.](section/103.md)
+    - [s. 104 “Carriage” in ss. 101 to 103.](section/104.md)
+    - [s. 105 Access to polling place by sea.](section/105.md)
+  - Other illegal practices, payments, employments or hirings
+    - [s. 106 False statements as to candidates.](section/106.md)
+    - [s. 107 Corrupt withdrawal from candidature.](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 Payments for exhibition of election notices.](section/109.md)
+    - [s. 110 Details to appear on election publications.](section/110.md)
+    - [s. 110A Scottish local government elections: details to appear on election publications](section/110A.md)
+    - [s. 111 Prohibition of paid canvassers.](section/111.md)
+    - [s. 112 Providing money for illegal purposes.](section/112.md)
+    - [s. 112A Handling of postal voting documents by political campaigners](section/112A.md)
+  - Bribery, treating and undue influence
+    - [s. 113 Bribery.](section/113.md)
+    - [s. 114 Treating.](section/114.md)
+    - [s. 114A Undue influence](section/114A.md)
+    - [s. 115 Undue influence: local government elections in Scotland ....](section/115.md)
+  - Supplemental
+    - [s. 116 Rights of creditors.](section/116.md)
+    - [s. 117 Savings as to parliamentary elections.](section/117.md)
+    - [s. 118 Interpretation of Part II.](section/118.md)
+    - [s. 118A Meaning of candidate.](section/118A.md)
+    - [s. 119 Computation of time for purposes of Part II.](section/119.md)
+- Part III Legal Proceedings
+  - Questioning of a parliamentary election
+    - [s. 120 Method of questioning parliamentary election.](section/120.md)
+    - [s. 121 Presentation and service of parliamentary election petition.](section/121.md)
+    - [s. 122 Time for presentation or amendment of parliamentary election petition.](section/122.md)
+    - [s. 123 Constitution of election court and place of trial.](section/123.md)
+    - [s. 124 Judges’ expenses and reception: England and Wales and Northern Ireland.](section/124.md)
+    - [s. 125 Judges’ expenses and reception: Scotland.](section/125.md)
+    - [s. 126 Attendance of House of Commons shorthand writer.](section/126.md)
+  - Questioning of a local election
+    - [s. 127 Method of questioning local election.](section/127.md)
+    - [s. 128 Presentation of petition questioning local election.](section/128.md)
+    - [s. 129 Time for presentation or amendment of petition questioning local election.](section/129.md)
+    - [s. 130 Election court for local election in England and Wales, and place of trial.](section/130.md)
+    - [s. 131 Accommodation of and attendance on court.](section/131.md)
+    - [s. 132 Remuneration and allowances.](section/132.md)
+    - [s. 133 Repayments under ss. 131 and 132.](section/133.md)
+    - [s. 134 Election court for local election in Scotland, and place of trial.](section/134.md)
+    - [s. 135 Consequences of local election declared void.](section/135.md)
+    - [s. 135A Consequences of election or return of London members being declared void.](section/135A.md)
+  - Procedure on all election petitions
+    - [s. 136 Security for costs.](section/136.md)
+    - [s. 137 Petition at issue.](section/137.md)
+    - [s. 138 List of petitions.](section/138.md)
+    - [s. 139 Trial of petition.](section/139.md)
+    - [s. 140 Witnesses.](section/140.md)
+    - [s. 141 Duty to answer relevant questions.](section/141.md)
+    - [s. 142 ................................](section/142.md)
+    - [s. 143 Expenses of witnesses.](section/143.md)
+    - [s. 144 Conclusion of trial of parliamentary election petition.](section/144.md)
+    - [s. 145 Conclusion of trial of local election petition.](section/145.md)
+    - [s. 145A Determination in respect of election of Mayor of London or constituency member of London Assembly.](section/145A.md)
+    - [s. 146 Special case for determination of High Court.](section/146.md)
+    - [s. 147 Withdrawal of petition.](section/147.md)
+    - [s. 148 Evidence required for withdrawal of petition.](section/148.md)
+    - [s. 149 Penalty for corrupt withdrawal and breach of s. 148.](section/149.md)
+    - [s. 150 Substitution of new petitioner.](section/150.md)
+    - [s. 151 Report on withdrawal.](section/151.md)
+    - [s. 152 Abatement of petition.](section/152.md)
+    - [s. 153 Withdrawal and substitution of respondents before trial.](section/153.md)
+    - [s. 154 Costs of petition.](section/154.md)
+    - [s. 155 Neglect or refusal to pay costs.](section/155.md)
+    - [s. 156 Further provision as to costs.](section/156.md)
+    - [s. 157 Appeals and jurisdiction.](section/157.md)
+  - Consequences of finding by election court of corrupt or illegal practice
+    - [s. 158 Report as to candidate guilty of a corrupt or illegal practice.](section/158.md)
+    - [s. 159 Candidate reported guilty of corrupt or illegal practice.](section/159.md)
+    - [s. 160 Persons reported personally guilty of corrupt or illegal practices.](section/160.md)
+  - Director of Public Prosecutions’ duty to report corrupt practice
+    - [s. 161 Justice of the Peace.](section/161.md)
+    - [s. 162 Member of legal and certain other professions.](section/162.md)
+    - [s. 163 Holder of licence or certificate under Licensing Acts.](section/163.md)
+  - Further provision as to avoidance of elections and striking off votes
+    - [s. 164 Avoidance of election for general corruption etc.](section/164.md)
+    - [s. 165 Avoidance of election for employing corrupt agent.](section/165.md)
+    - [s. 166 Votes to be struck off for corrupt or illegal practices.](section/166.md)
+  - Power to except innocent act from being illegal practice, payment, employment or hiring
+    - [s. 167 Application for relief.](section/167.md)
+  - Prosecutions for corrupt or illegal practices
+    - [s. 168 Prosecutions for corrupt practices.](section/168.md)
+    - [s. 169 Prosecutions for illegal practices.](section/169.md)
+    - [s. 170 Conviction of illegal practice on charge of corrupt practice etc.](section/170.md)
+    - [s. 171 ................................](section/171.md)
+    - [s. 172 ................................](section/172.md)
+    - [s. 173 Incapacities on conviction of corrupt or illegal practice.](section/173.md)
+    - [s. 173A Incapacity to hold public or judicial office in Scotland.](section/173A.md)
+  - Mitigation and remission of incapacities
+    - [s. 174 Mitigation and remission etc.](section/174.md)
+  - Illegal payments, employments or hirings
+    - [s. 175 Illegal payments etc.](section/175.md)
+  - General provisions as to prosecutions
+    - [s. 176 Time limit for prosecutions.](section/176.md)
+    - [s. 177 Local election offence punishable summarily.](section/177.md)
+    - [s. 178 Prosecution of offences committed outside the United Kingdom.](section/178.md)
+    - [s. 179 Offences by associations.](section/179.md)
+    - [s. 180 Evidence by certificate of holding of elections.](section/180.md)
+    - [s. 180A Evidence by certificate of electoral registration.](section/180A.md)
+    - [s. 181 Director of Public Prosecutions.](section/181.md)
+  - Supplemental
+    - [s. 182 Rules of procedure.](section/182.md)
+    - [s. 183 Costs.](section/183.md)
+    - [s. 184 Service of notices.](section/184.md)
+    - [s. 185 Interpretation of Part III.](section/185.md)
+    - [s. 186 Computation of time for purposes of Part III.](section/186.md)
+- Part IV Special Provisions as to Other Local Elections
+  - England and Wales, and Scotland
+    - [s. 187 Application of Act to certain local elections.](section/187.md)
+    - [s. 188 Parts II and III as to local elections in Scotland.](section/188.md)
+    - [s. 189 Voting offences at certain local elections.](section/189.md)
+  - The Greater London Authority
+    - [s. 189A Extension of references to elections under the local government Act.](section/189A.md)
+    - [s. 190 ................................](section/190.md)
+  - The City
+    - [s. 191 Municipal elections in the City.](section/191.md)
+    - [s. 192 ................................](section/192.md)
+    - [s. 193 Personation and other voting offences.](section/193.md)
+    - [s. 194 Broadcasting.](section/194.md)
+    - [s. 195 Disturbances at meetings.](section/195.md)
+    - [s. 196 Costs or expenses.](section/196.md)
+    - [s. 197 Candidate’s expenses: ward, and liverymen in common hall, elections.](section/197.md)
+    - [s. 198 Effect of avoidance of election to corporate office.](section/198.md)
+- Part V General and Supplemental
+  - Supplemental
+    - [s. 199ZA Functions of the Minister for the Cabinet Office](section/199ZA.md)
+    - [s. 199 ................................](section/199.md)
+    - [s. 199A Functions of the Lord Chancellor](section/199A.md)
+    - [s. 199B Translations etc of certain documents](section/199B.md)
+    - [s. 199C Scottish local government elections: translations etc. of certain documents](section/199C.md)
+    - [s. 200 Public notices, and declarations.](section/200.md)
+    - [s. 200A Remuneration for free postal services provided under Act.](section/200A.md)
+    - [s. 201 Regulations.](section/201.md)
+  - Interpretation
+    - [s. 202 General provisions as to interpretation.](section/202.md)
+    - [s. 203 Local government provisions as to England and Wales.](section/203.md)
+    - [s. 203A Meaning of “qualifying EU citizen”](section/203A.md)
+    - [s. 203B Meaning of “EU citizen with retained rights”](section/203B.md)
+  - Scotland and Northern Ireland
+    - [s. 204 General application to Scotland.](section/204.md)
+    - [s. 205 General application to Northern Ireland.](section/205.md)
+  - Operation
+    - [s. 206 Transitional and saving provisions, amendments and repeals.](section/206.md)
+    - [s. 207 Citation and commencement.](section/207.md)
+- SCHEDULE ZA1 Civil penalties under section 9E
+  - Introduction
+    - [Sch. ZA1 para. 1](schedule/ZA1/paragraph/1.md)
+  - Amount
+    - [Sch. ZA1 para. 2](schedule/ZA1/paragraph/2.md)
+  - Procedure
+    - [Sch. ZA1 para. 3](schedule/ZA1/paragraph/3.md)
+    - [Sch. ZA1 para. 4](schedule/ZA1/paragraph/4.md)
+  - Reviews and appeals
+    - [Sch. ZA1 para. 5](schedule/ZA1/paragraph/5.md)
+  - Power to create exceptions
+    - [Sch. ZA1 para. 6](schedule/ZA1/paragraph/6.md)
+  - Accounts and record keeping
+    - [Sch. ZA1 para. 7](schedule/ZA1/paragraph/7.md)
+  - Interest and enforcement etc.
+    - [Sch. ZA1 para. 8](schedule/ZA1/paragraph/8.md)
+    - [Sch. ZA1 para. 9](schedule/ZA1/paragraph/9.md)
+    - [Sch. ZA1 para. 10](schedule/ZA1/paragraph/10.md)
+    - [Sch. ZA1 para. 11](schedule/ZA1/paragraph/11.md)
+  - Power to make further provision
+    - [Sch. ZA1 para. 12](schedule/ZA1/paragraph/12.md)
+- SCHEDULE A1 Review of polling districts and polling places
+  - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+- SCHEDULE 1
+  - Part I Provisions as to Time
+    - Timetable
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Computation of time
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part II Stages Common to Contested and Uncontested Elections
+    - Issue of Writ and Notice of Election
+      - Issue of writ
+        - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - Conveyance of writ to acting returning officer
+        - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - Notice of election
+        - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Nomination
+      - Nomination of candidates
+        - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - Nomination papers: name of registered political party
+        - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+      - Subscription of nomination paper
+        - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - Consent to nomination
+        - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - Deposit
+        - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - Place for delivery of nomination papers
+        - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - Right to attend nomination
+        - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - Decisions as to validity of nomination papers
+        - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - Withdrawal of candidates
+        - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - Publication of statement of persons nominated
+        - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - Correction of minor errors
+        - [Sch. 1 para. 14A](schedule/1/paragraph/14A.md)
+      - Disqualification by Representation of the People Act 1981
+        - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - Adjournment of nomination proceedings in case of riot
+        - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - Method of election
+        - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part III Contested Elections
+    - General Provisions
+      - Poll to be taken by ballot
+        - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - The ballot papers
+        - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - Corresponding number list
+        - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+      - Date of birth lists for polling stations in Northern Ireland
+        - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+      - The official mark
+        - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - Prohibition of disclosure of vote
+        - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - Use of schools and public rooms
+        - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Action to be Taken Before the Poll
+      - Notice of poll
+        - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - Postal ballot papers
+        - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - Provision of polling stations
+        - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - Appointment of presiding officers and clerks
+        - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - Special lists
+        - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - Issue of official poll cards
+        - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - Equipment of polling stations
+        - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - Appointment of polling and counting agents
+        - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - Notification of requirement of secrecy
+        - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - Return of postal ballot papers
+        - [Sch. 1 para. 31A](schedule/1/paragraph/31A.md)
+    - The Poll
+      - Admission to polling station
+        - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - Keeping of order in station
+        - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - Sealing of ballot boxes
+        - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - Questions to be put to voters
+        - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - Challenge of voter
+        - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+        - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - Votes marked by presiding officer
+        - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - Voting by persons with disabilities
+        - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - Tendered ballot papers
+        - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - Tendered postal ballot papers: anonymous entries in Northern Ireland
+        - [Sch. 1 para. 40ZA](schedule/1/paragraph/40ZA.md)
+      - Refusal to deliver ballot paper: Great Britain
+        - [Sch. 1 para. 40ZB](schedule/1/paragraph/40ZB.md)
+      - Refusal to deliver ballot paper: Northern Ireland
+        - [Sch. 1 para. 40A](schedule/1/paragraph/40A.md)
+      - Collection and disclosure of information relating to applications made under rules 37 to 40
+        - [Sch. 1 para. 40B](schedule/1/paragraph/40B.md)
+      - Spoilt ballot papers
+        - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - Correction of errors on day of poll
+        - [Sch. 1 para. 41A](schedule/1/paragraph/41A.md)
+      - Correction of errors on day of poll: Northern Ireland
+        - [Sch. 1 para. 41B](schedule/1/paragraph/41B.md)
+      - Adjournment of poll in case of riot
+        - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - Procedure on close of poll
+        - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Counting of Votes
+      - Attendance at counting of votes
+        - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - The count
+        - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - Recount
+        - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - Rejected ballot papers
+        - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - Decisions on ballot papers
+        - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+      - Equality of votes
+        - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+  - Part IV Final Proceedings in Contested and Uncontested Elections
+    - Declaration of result
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - Return to the writ
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - Record of returns at Crown Office
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - Return or forfeiture of candidate’s deposit
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - Counting of votes: statement by returning officer
+      - [Sch. 1 para. 53ZA](schedule/1/paragraph/53ZA.md)
+  - Part V Disposal of Documents
+    - Destruction of home address forms
+      - [Sch. 1 para. 53A](schedule/1/paragraph/53A.md)
+    - Destruction of date of birth lists: Northern Ireland
+      - [Sch. 1 para. 53B](schedule/1/paragraph/53B.md)
+    - Sealing up of ballot papers
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - Delivery of documents to registration officer
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - Orders for production of documents
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - Inspection of ballot paper refusal list: Great Britain
+      - [Sch. 1 para. 56A](schedule/1/paragraph/56A.md)
+    - Retention and public inspection of documents
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+    - Disposal of documents in Scotland
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+    - Disposal of documents in Northern Ireland
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+  - Part VI Death of Candidate
+    - Independent candidate
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - Deceased independent candidate wins
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - Deceased independent candidate with equality of votes
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - Party candidate
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+    - Speaker of the House of Commons seeking re-election
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+    - Abandoned poll
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+  - Appendix of forms
+    - Form of writ
+    - Label or direction of writ
+    - Endorsement
+    - Certificate endorsed on writ
+    - Form of notice of election
+    - Form of nomination paper
+    - NOTE
+      - [Sch. 1 Pt. n7 para. n1](schedule/1/part/n7/paragraph/n1.md)
+      - [Sch. 1 Pt. n7 para. n2](schedule/1/part/n7/paragraph/n2.md)
+      - [Sch. 1 Pt. n7 para. n3](schedule/1/part/n7/paragraph/n3.md)
+      - [Sch. 1 Pt. n7 para. n4](schedule/1/part/n7/paragraph/n4.md)
+      - [Sch. 1 Pt. n7 para. n5](schedule/1/part/n7/paragraph/n5.md)
+      - [Sch. 1 Pt. n7 para. n6](schedule/1/part/n7/paragraph/n6.md)
+      - [Sch. 1 Pt. n7 para. n7](schedule/1/part/n7/paragraph/n7.md)
+    - Form of Ballot Paper
+    - Directions as to printing the ballot paper
+      - [Sch. 1 Pt. n7 para. n8](schedule/1/part/n7/paragraph/n8.md)
+      - [Sch. 1 Pt. n7 para. n9](schedule/1/part/n7/paragraph/n9.md)
+      - [Sch. 1 Pt. n7 para. n10](schedule/1/part/n7/paragraph/n10.md)
+      - [Sch. 1 Pt. n7 para. n11](schedule/1/part/n7/paragraph/n11.md)
+      - [Sch. 1 Pt. n7 para. n12](schedule/1/part/n7/paragraph/n12.md)
+      - [Sch. 1 Pt. n7 para. n13](schedule/1/part/n7/paragraph/n13.md)
+      - [Sch. 1 Pt. n7 para. n14](schedule/1/part/n7/paragraph/n14.md)
+      - [Sch. 1 Pt. n7 para. n15](schedule/1/part/n7/paragraph/n15.md)
+      - [Sch. 1 Pt. n7 para. n16](schedule/1/part/n7/paragraph/n16.md)
+      - [Sch. 1 Pt. n7 para. n17](schedule/1/part/n7/paragraph/n17.md)
+      - [Sch. 1 Pt. n7 para. n18](schedule/1/part/n7/paragraph/n18.md)
+      - [Sch. 1 Pt. n7 para. n19](schedule/1/part/n7/paragraph/n19.md)
+      - [Sch. 1 Pt. n7 para. n20](schedule/1/part/n7/paragraph/n20.md)
+    - Form of directions for the guidance of the voters in voting
+      - [Sch. 1 Pt. n7 para. n21](schedule/1/part/n7/paragraph/n21.md)
+      - [Sch. 1 Pt. n7 para. n22](schedule/1/part/n7/paragraph/n22.md)
+      - [Sch. 1 Pt. n7 para. n23](schedule/1/part/n7/paragraph/n23.md)
+      - [Sch. 1 Pt. n7 para. n24](schedule/1/part/n7/paragraph/n24.md)
+      - [Sch. 1 Pt. n7 para. n25](schedule/1/part/n7/paragraph/n25.md)
+    - Form of declaration to be made by the companion of a voter with disabilities
+- SCHEDULE 2 Provisions Which May be Contained in Regulations as to Registration Etc.
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - [Sch. 2 para. 2B](schedule/2/paragraph/2B.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 3ZA](schedule/2/paragraph/3ZA.md)
+  - [Sch. 2 para. 3ZB](schedule/2/paragraph/3ZB.md)
+  - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+  - [Sch. 2 para. 3C](schedule/2/paragraph/3C.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 5ZA](schedule/2/paragraph/5ZA.md)
+  - [Sch. 2 para. 5ZB](schedule/2/paragraph/5ZB.md)
+  - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - [Sch. 2 para. 5B](schedule/2/paragraph/5B.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 8A](schedule/2/paragraph/8A.md)
+  - [Sch. 2 para. 8B](schedule/2/paragraph/8B.md)
+  - [Sch. 2 para. 8BA](schedule/2/paragraph/8BA.md)
+  - [Sch. 2 para. 8C](schedule/2/paragraph/8C.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+  - [Sch. 2 para. 10B](schedule/2/paragraph/10B.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 11A](schedule/2/paragraph/11A.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 12ZA](schedule/2/paragraph/12ZA.md)
+  - [Sch. 2 para. 12ZB](schedule/2/paragraph/12ZB.md)
+  - [Sch. 2 para. 12A](schedule/2/paragraph/12A.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- Schedule 2A Control of Donations to Candidates
+  - Part I Introductory
+    - Operation and interpretation of Schedule
+      - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - Donations: general rules
+      - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - Sponsorship
+      - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+    - Payments etc. not to be regarded as donations
+      - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - Value of donations
+      - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Part II Controls on donations
+    - Prohibition on accepting donations from impermissible donors
+      - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - Acceptance or return of donations
+      - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+    - Transfer of donations received by candidate to election agent
+      - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - Evasion of restrictions on donations
+      - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Part III Reporting of donations
+    - Statement of relevant donations
+      - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+    - Donations from permissible donors
+      - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+    - Donations from impermissible donors
+      - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+- SCHEDULE 3 Return and Declarations as to Election Expenses
+- SCHEDULE 4 Election Expenses at Certain Local Elections in England and Wales
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 4A Election expenses
+  - Part 1 List of matters
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - Part 2 General Exclusions
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+    - [Sch. 4A para. 7A](schedule/4A/paragraph/7A.md)
+    - [Sch. 4A para. 7B](schedule/4A/paragraph/7B.md)
+    - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+    - [Sch. 4A para. 8A](schedule/4A/paragraph/8A.md)
+    - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+    - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+    - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+    - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+    - [Sch. 4A para. 13A](schedule/4A/paragraph/13A.md)
+  - Part 3 Supplemental
+    - Guidance by Commission
+      - [Sch. 4A para. 14](schedule/4A/paragraph/14.md)
+      - [Sch. 4A para. 14A](schedule/4A/paragraph/14A.md)
+    - Power to amend Parts 1 and 2
+      - [Sch. 4A para. 15](schedule/4A/paragraph/15.md)
+- SCHEDULE 4B Scottish local government elections: election expenses
+  - Part 1 List of matters
+    - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+    - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+    - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+    - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+    - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+    - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+  - Part 2 General exclusions
+    - [Sch. 4B para. 7](schedule/4B/paragraph/7.md)
+    - [Sch. 4B para. 8](schedule/4B/paragraph/8.md)
+    - [Sch. 4B para. 9](schedule/4B/paragraph/9.md)
+    - [Sch. 4B para. 10](schedule/4B/paragraph/10.md)
+    - [Sch. 4B para. 11](schedule/4B/paragraph/11.md)
+    - [Sch. 4B para. 12](schedule/4B/paragraph/12.md)
+  - PART 2A Guidance by the Electoral Commission
+    - [Sch. 4B para. 12A](schedule/4B/paragraph/12A.md)
+  - Part 3 Power to amend Parts 1 and 2
+    - [Sch. 4B para. 13](schedule/4B/paragraph/13.md)
+- SCHEDULE 5 Use for Parliamentary Election Meetings of Rooms in School Premises and of Meeting Rooms
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Ward Elections in the City
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- Schedule 6A List of countries for purposes of section 203A
+  - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+  - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+  - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+- SCHEDULE 7 Transitional and Saving Provisions, and Interpretation of other Acts
+  - Part I Transitional and Saving Provisions
+    - General
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Electoral Law Act (Northern Ireland) 1962
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Licensing Act 1964
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Northern Ireland Constitution Act 1973
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Variation of limits of candidates’ election expenses
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Section 254 of the Local Government Act 1972
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Criminal Justice Act 1982
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Mental Health (Amendment) Act 1982
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part II Interpretation of Other Acts
+    - Register, electors, etc.
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Registration and returning officers
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Registration expenses
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Supplemental
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Consequential Amendments Acts
+  - Public Meeting Act 1908
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - City of London (Various Powers) Act 1957
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - City of London (Various Powers) Act 1960
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - London Government Act 1963
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Licensing Act 1964
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Post Office Act 1969
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Local Government Act 1972
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Local Government (Scotland) Act 1973
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Juries Act 1974
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - European Parliamentary Elections Act 1978
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Judicature (Northern Ireland) Act 1978
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Senior Courts Act 1981
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Mental Health (Amendment) Act 1982
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+- SCHEDULE 9 Repeals and Revocations
+  - Part I Repeals of Obsolete Provisions
+  - Part II Consequential Repeals
+  - Part III Consequential Revocations
