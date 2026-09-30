@@ -1,0 +1,238 @@
+# Adoption and Children (Scotland) Act 2007
+
+asp/2007/4. Enacted 2007-01-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/4
+
+Source: https://www.legislation.gov.uk/asp/2007/4/2026-09-30
+
+## Contents
+
+- Part 1 Adoption
+  - Chapter 1 The adoption service
+    - The adoption service
+      - [s. 1 Duty of local authority to provide adoption service](section/1.md)
+      - [s. 2 Carrying out of duties imposed by section 1](section/2.md)
+      - [s. 3 Adoption service: regulations](section/3.md)
+      - [s. 4 Local authority plans](section/4.md)
+      - [s. 5 Guidance](section/5.md)
+      - [s. 6 Assistance in carrying out functions under section 1](section/6.md)
+      - [s. 7 Meaning of “adoption service” in Regulation of Care (Scotland) Act 2001](section/7.md)
+      - [s. 8 Adoption agencies: regulations about carrying out of functions](section/8.md)
+    - Adoption support services
+      - [s. 9 Assessment of needs for adoption support services](section/9.md)
+      - [s. 10 Provision of services](section/10.md)
+      - [s. 11 Urgent provision](section/11.md)
+      - [s. 12 Power to provide payment to person entitled to adoption support service](section/12.md)
+    - Regulations
+      - [s. 13 Regulations](section/13.md)
+  - CHAPTER 1A Scotland’s Adoption Register
+    - [s. 13A Scotland’s Adoption Register](section/13A.md)
+    - [s. 13B Registration organisation](section/13B.md)
+    - [s. 13C Supply of information for the Register](section/13C.md)
+    - [s. 13D Disclosure of information](section/13D.md)
+    - [s. 13E Fees and other payments](section/13E.md)
+    - [s. 13F Use of an organisation as agency for payments](section/13F.md)
+    - [s. 13G Supplementary](section/13G.md)
+  - Chapter 2 The adoption process
+    - Preliminary
+      - [s. 14 Considerations applying to the exercise of powers](section/14.md)
+    - Pre-adoption requirements
+      - [s. 15 Child to live with adopters before adoption order made](section/15.md)
+      - [s. 16 Home visits](section/16.md)
+      - [s. 17 Reports where child placed by agency](section/17.md)
+      - [s. 18 Notification to local authority of adoption application](section/18.md)
+      - [s. 19 Notice under section 18: local authority’s duties](section/19.md)
+    - Restrictions on removal of children placed for adoption
+      - [s. 20 Restrictions on removal: child placed for adoption with consent](section/20.md)
+      - [s. 21 Restrictions on removal: notice of intention to adopt given](section/21.md)
+      - [s. 22 Restrictions on removal: application for adoption order pending](section/22.md)
+      - [s. 23 Restrictions on removal of child looked after by local authority](section/23.md)
+    - Return of children
+      - [s. 24 Return of child removed in breach of certain provisions](section/24.md)
+      - [s. 25 Return of child placed for adoption by adoption agency](section/25.md)
+    - Adoption not proceeding: arrangements
+      - [s. 26 Looked after children: adoption not proceeding](section/26.md)
+    - Contravention of sections 30 to 36 of 2002 Act
+      - [s. 27 Contravention of sections 30 to 36 of 2002 Act](section/27.md)
+    - The making of adoption orders
+      - [s. 28 Adoption orders](section/28.md)
+      - [s. 29 Adoption by certain couples](section/29.md)
+      - [s. 30 Adoption by one person](section/30.md)
+      - [s. 31 Parental etc. consent](section/31.md)
+      - [s. 32 Consent of child aged 12 or over](section/32.md)
+      - [s. 33 Restrictions on making orders](section/33.md)
+      - [s. 34 Contravention of section 72 no bar to making order](section/34.md)
+    - Effect of order on existing rights etc.
+      - [s. 35 Effect of order on existing rights etc.](section/35.md)
+    - Revocation of supervision requirement
+      - [s. 36 Revocation of compulsory supervision order on making of adoption order](section/36.md)
+    - Adoption records
+      - [s. 37 Information to be kept about adoptions](section/37.md)
+      - [s. 38 Disclosure of information kept under relevant enactment](section/38.md)
+  - Chapter 3 Status of adopted children
+    - [s. 39 Meaning of “adoption” in Chapter 3](section/39.md)
+    - [s. 40 Status conferred by adoption](section/40.md)
+    - [s. 41 Miscellaneous enactments](section/41.md)
+    - [s. 42 Pensions](section/42.md)
+    - [s. 43 Insurance](section/43.md)
+    - [s. 44 Succession and inter vivos deeds](section/44.md)
+  - Chapter 4 Adoption support plans
+    - Adoption support plans
+      - [s. 45 Adoption support plans](section/45.md)
+      - [s. 46 Duration](section/46.md)
+      - [s. 47 Family member’s right to require review of plan](section/47.md)
+      - [s. 48 Other cases where authority under duty to review plan](section/48.md)
+    - Reassessment
+      - [s. 49 Reassessment of needs for adoption support services](section/49.md)
+    - Directions
+      - [s. 50 Implementation of plans: directions](section/50.md)
+    - Guidance
+      - [s. 51 Guidance](section/51.md)
+    - Regulations
+      - [s. 52 Regulations about reviews of adoption support plans](section/52.md)
+  - Chapter 5 Registration
+    - [s. 53 Adopted Children Register and index](section/53.md)
+    - [s. 54 Searches and extracts](section/54.md)
+    - [s. 55 Connections between the register and birth records](section/55.md)
+    - [s. 56 Admissibility of extracts as evidence](section/56.md)
+    - [s. 57 Interpretation of Chapter 5](section/57.md)
+  - Chapter 6 Adoptions with a foreign element
+    - Restrictions on movement of children
+      - [s. 58 Restriction on bringing children into the United Kingdom](section/58.md)
+      - [s. 59 Preliminary order where child to be adopted abroad](section/59.md)
+      - [s. 60 Restriction on removal of children for adoption outwith Great Britain](section/60.md)
+      - [s. 61 Regulations under section 58: offences](section/61.md)
+    - Adoptions from abroad: special restrictions
+      - [s. 62 Declaration of special restrictions on adoptions from abroad](section/62.md)
+      - [s. 63 Review](section/63.md)
+      - [s. 64 The special restrictions](section/64.md)
+      - [s. 65 Imposition of extra conditions in certain cases](section/65.md)
+    - Charging
+      - [s. 66 Power to charge](section/66.md)
+    - Overseas adoptions etc.
+      - [s. 67 Meaning of “overseas adoption”](section/67.md)
+      - [s. 68 Annulment and recognition](section/68.md)
+      - [s. 69 Section 68: supplementary provision](section/69.md)
+      - [s. 70 Effect of determinations and orders made outwith Scotland](section/70.md)
+  - Chapter 7 Miscellaneous
+    - Adoption allowances
+      - [s. 71 Adoption allowances schemes](section/71.md)
+    - Prohibited payments
+      - [s. 72 Prohibition of certain payments](section/72.md)
+      - [s. 73 Excepted payments](section/73.md)
+    - Disclosure of medical information about parents
+      - [s. 74 Disclosure of medical information about parents](section/74.md)
+    - Restrictions on arranging adoptions and placing for adoption
+      - [s. 75 Restriction on arranging adoptions and placing children](section/75.md)
+      - [s. 76 Adoption societies which are not registered adoption services](section/76.md)
+    - Effect of orders, and placing for adoption, under 2002 Act
+      - [s. 77 Effect of certain orders made in England and Wales](section/77.md)
+      - [s. 78 Effect of placing for adoption etc. under 2002 Act](section/78.md)
+      - [s. 79 Further consequences of placement and placement orders](section/79.md)
+- Part 2 Permanence orders
+  - The making of permanence orders
+    - [s. 80 Permanence orders](section/80.md)
+    - [s. 81 Permanence orders: mandatory provision](section/81.md)
+    - [s. 82 Permanence orders: ancillary provisions](section/82.md)
+    - [s. 83 Order granting authority for adoption: conditions](section/83.md)
+    - [s. 84 Conditions and considerations applicable to making of order](section/84.md)
+    - [s. 85 Child in respect of whom order may be made](section/85.md)
+    - [s. 86 Representations](section/86.md)
+  - Effect of order
+    - [s. 87 Effect of order on existing parental right](section/87.md)
+    - [s. 88 Effect of order on existing orders](section/88.md)
+  - Revocation of supervision requirement
+    - [s. 89 Revocation of compulsory supervision order on making of permanence order](section/89.md)
+  - Precedence
+    - [s. 90 Precedence of certain other orders](section/90.md)
+  - Exercise of parental right under order
+    - [s. 91 Exercise of parental right under order](section/91.md)
+  - Variation
+    - [s. 92 Variation of ancillary provisions in order](section/92.md)
+    - [s. 93 Amendment of order to grant authority for child to be adopted](section/93.md)
+    - [s. 94 Proceedings](section/94.md)
+  - Orders and supervision requirements
+    - [s. 95 Duty of children’s hearing to prepare report for court](section/95.md)
+    - [s. 96 Application: effect on compulsory supervision order](section/96.md)
+    - [s. 97 Interim orders and revocation of compulsory supervision order](section/97.md)
+  - Revocation and variation
+    - [s. 98 Revocation](section/98.md)
+    - [s. 99 Duty of local authority to apply for variation or revocation](section/99.md)
+    - [s. 100 Revocation: order under section 11 of 1995 Act](section/100.md)
+  - Notification requirements
+    - [s. 101 Local authority to give notice of certain matters](section/101.md)
+  - Effect of subsequent adoption order on permanence order
+    - [s. 102 Effect of subsequent adoption order on permanence order](section/102.md)
+  - Restriction on making certain orders under 1995 Act
+    - [s. 103 Restriction on making of orders under section 11 of 1995 Act](section/103.md)
+  - Rules of procedure
+    - [s. 104 Permanence orders: rules of procedure](section/104.md)
+- Part 3 Miscellaneous
+  - Provisions applicable to adoption orders and permanence orders
+    - [s. 105 Notification of proposed application for order](section/105.md)
+    - [s. 106 Child subject to compulsory supervision order: duty to refer to Principal Reporter](section/106.md)
+    - [s. 107 Making of adoption order no longer to be bar to making of contact order](section/107.md)
+    - [s. 108 Rules: appointment of curators ad litem and reporting officers](section/108.md)
+    - [s. 109 Proceedings to be in private](section/109.md)
+  - Care allowances and other payments: regulations
+    - [s. 110 Allowances and other payments for care of certain children: regulations](section/110.md)
+  - Evidence and notices
+    - [s. 111 Evidence of consent](section/111.md)
+    - [s. 112 Service of notices etc.](section/112.md)
+    - [s. 113 Admissibility of certain documents as evidence](section/113.md)
+- Part 4 General
+  - [s. 114 Rules of procedure](section/114.md)
+  - [s. 115 Offences by bodies corporate and partnerships](section/115.md)
+  - [s. 116 Ancillary provision](section/116.md)
+  - [s. 117 Orders and regulations](section/117.md)
+  - [s. 118 Meaning of “appropriate court”](section/118.md)
+  - [s. 119 Interpretation](section/119.md)
+  - [s. 120 Minor and consequential amendments and repeals](section/120.md)
+  - [s. 121 Short title and commencement](section/121.md)
+- SCHEDULE 1 Registration of adoptions
+  - Registration of adoption orders
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Registration of adoptions in other parts of the British Islands
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Registration of other adoptions
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Amendment of orders and rectification of registers
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Marking of entries on re-registration of birth
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Minor and consequential amendments
+  - Succession (Scotland) Act 1964 (c. 41)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Foster Children (Scotland) Act 1984 (c. 56)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Child Abduction and Custody Act 1985 (c. 60)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Family Law Act 1986 (c. 55)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Human Fertilisation and Embryology Act 1990 (c. 37)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Civil Evidence (Family Mediation) (Scotland) Act 1995 (c. 6)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Children (Scotland) Act 1995 (c. 36)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Adoption (Intercountry Aspects) Act 1999 (c. 18)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Regulation of Care (Scotland) Act 2001 (asp 8)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Adoption and Children Act 2002 (c. 38)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Joint Inspection of Children’s Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Repeals
