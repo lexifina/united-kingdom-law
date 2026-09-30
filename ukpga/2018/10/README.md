@@ -1,0 +1,214 @@
+# Financial Guidance and Claims Act 2018
+
+2018 c. 10. Enacted 2018-05-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2018/10/2026-09-30
+
+## Contents
+
+- PART 1 Financial Guidance etc
+  - Establishment of the single financial guidance body
+    - [s. 1 The single financial guidance body](section/1.md)
+  - Objectives and functions of the single financial guidance body
+    - [s. 2 Objectives](section/2.md)
+    - [s. 3 Functions](section/3.md)
+    - [s. 4 Specific requirements as to the pensions guidance function](section/4.md)
+    - [s. 4A Specific functions included in the pensions guidance function](section/4A.md)
+    - [s. 5 Delegation of functions to delivery partner organisations](section/5.md)
+    - [s. 6 Debt respite scheme: advice to the Secretary of State](section/6.md)
+    - [s. 7 Debt respite scheme: regulations](section/7.md)
+    - [s. 8 Guidance and directions from the Secretary of State](section/8.md)
+  - Standards set by the single financial guidance body
+    - [s. 9 Setting standards](section/9.md)
+    - [s. 10 Monitoring and enforcement of standards](section/10.md)
+  - Funding of the single financial guidance body
+    - [s. 11 Financial assistance from the Secretary of State](section/11.md)
+    - [s. 12 Levies under Pension Schemes Act 1993 and Pension Schemes (NI) Act 1993](section/12.md)
+    - [s. 13 Levy under FSMA 2000 for expenses of single financial guidance body](section/13.md)
+  - Funding of debt advice in Scotland, Wales and Northern Ireland
+    - [s. 14 Levy under FSMA 2000 for debt advice expenses of devolved authorities](section/14.md)
+  - Offence of impersonating the single financial guidance body
+    - [s. 15 False claims about provision of information etc](section/15.md)
+    - [s. 16 Offences under section 15 committed by bodies corporate etc](section/16.md)
+  - Information exchange
+    - [s. 17 Disclosure of information](section/17.md)
+  - Rules etc about financial guidance
+    - [s. 18 Personal pension schemes: requirements to refer members to guidance etc](section/18.md)
+    - [s. 19 Occupational pension schemes: requirements to refer members to guidance etc](section/19.md)
+    - [s. 20 FCA general rules: information about the availability of guidance](section/20.md)
+  - Unsolicited direct marketing approaches
+    - [s. 21 Unsolicited direct marketing: pensions](section/21.md)
+    - [s. 22 Unsolicited direct marketing: other consumer financial products etc](section/22.md)
+  - Miscellaneous
+    - [s. 23 Power to dissolve the single financial guidance body](section/23.md)
+    - [s. 24 Regulations dissolving the new single financial guidance body: procedure](section/24.md)
+    - [s. 25 Minor and consequential amendments](section/25.md)
+    - [s. 26 Interpretation of Part 1](section/26.md)
+- PART 2 Claims Management Services
+  - Transfer of regulation of claims management services to FCA
+    - [s. 27 Transfer to FCA of regulation of claims management services](section/27.md)
+  - Charges for claims management services
+    - [s. 28 Power of FCA to make rules restricting charges for claims management services](section/28.md)
+    - [s. 29 PPI claims and charges for claims management services: general](section/29.md)
+    - [s. 30 PPI claims: interim restriction on charges before transfer of regulation to FCA](section/30.md)
+    - [s. 31 PPI claims: interim restriction on charges imposed by authorised persons after transfer of regulation to FCA](section/31.md)
+    - [s. 32 PPI claims: interim restriction on charges imposed by legal practitioners after transfer of regulation to FCA](section/32.md)
+    - [s. 33 Legal services regulators’ rules: charges for claims management services](section/33.md)
+    - [s. 34 Extension of power of the Law Society of Scotland to make rules](section/34.md)
+  - Cold calling about claims management services
+    - [s. 35 Cold calling about claims management services](section/35.md)
+- PART 3 General
+  - [s. 36 Extent](section/36.md)
+  - [s. 37 Commencement](section/37.md)
+  - [s. 38 Short title](section/38.md)
+- SCHEDULE 1 THE SINGLE FINANCIAL GUIDANCE BODY
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Members: general
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Non-executive members: tenure
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Non-executive members: conflicts of interest
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Non-executive members: remuneration etc
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Executive members: appointment
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Executive members: terms and conditions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Other staff: appointment, terms and conditions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Procedure etc
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Validity of acts
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Authentication of seal
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Reports and accounts
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 TRANSFER SCHEMES UNDER SECTION 1
+  - Power to make transfer schemes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Contents of a scheme
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Modifications to a scheme
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Supplementary
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO PART 1
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Financial Services and Markets Act 2000 (c. 8)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Financial Services Act 2010 (c. 28)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Financial Services Act 2012 (c. 21)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - Pension Schemes Act 2015 (c. 8)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Bank of England and Financial Services Act 2016 (c. 14)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+- SCHEDULE 4 REGULATION OF CLAIMS MANAGEMENT SERVICES: TRANSFER SCHEMES
+  - PART 1 APPLICATION AND INTERPRETATION
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - PART 2 TRANSFER OF PROPERTY AND STAFF FROM THE REGULATOR TO THE FCA
+    - Power of Secretary of State to make transfer schemes
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Transfer of property, rights and liabilities
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Contents of a transfer scheme
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Supplementary
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Modification of a transfer scheme
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - PART 3 TRANSFER OF PROPERTY AND STAFF FROM THE OLC TO THE FOS
+    - Power of OLC to make transfer schemes
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Power of Lord Chancellor to make transfer schemes
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Provision of information and assistance by OLC
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Transfer of property, rights and liabilities
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Contents of a transfer scheme
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Supplementary
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Modification of a transfer scheme
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+- SCHEDULE 5 REGULATION OF CLAIMS MANAGEMENT SERVICES: TRANSITIONAL PROVISION
+  - FCA information gathering powers
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - FCA preparatory steps
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Consultation requirements
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Designation of Regulator’s rules
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Provision of information by Regulator and OLC
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Complaints handling
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Interpretation
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
