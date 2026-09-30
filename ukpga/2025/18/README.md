@@ -1,0 +1,393 @@
+# Data (Use and Access) Act 2025
+
+2025 c. 18. Enacted 2025-06-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2025/18/2026-09-30
+
+## Contents
+
+- Part 1 Access to customer data and business data
+  - Introductory
+    - [s. 1 Customer data and business data](section/1.md)
+  - Data regulations
+    - [s. 2 Power to make provision in connection with customer data](section/2.md)
+    - [s. 3 Customer data: supplementary](section/3.md)
+    - [s. 4 Power to make provision in connection with business data](section/4.md)
+    - [s. 5 Business data: supplementary](section/5.md)
+    - [s. 6 Decision-makers](section/6.md)
+    - [s. 7 Interface bodies](section/7.md)
+  - Enforcement
+    - [s. 8 Enforcement of regulations under this Part](section/8.md)
+    - [s. 9 Restrictions on powers of investigation etc](section/9.md)
+    - [s. 10 Financial penalties](section/10.md)
+  - Fees etc and financial assistance
+    - [s. 11 Fees](section/11.md)
+    - [s. 12 Levy](section/12.md)
+    - [s. 13 Financial assistance](section/13.md)
+  - Financial services sector
+    - [s. 14 The FCA and financial services interfaces](section/14.md)
+    - [s. 15 The FCA and financial services interfaces: supplementary](section/15.md)
+    - [s. 16 The FCA and financial services interfaces: penalties and levies](section/16.md)
+    - [s. 17 The FCA and co-ordination with other regulators](section/17.md)
+  - Supplementary
+    - [s. 18 Liability in damages](section/18.md)
+    - [s. 19 Duty to review regulations](section/19.md)
+    - [s. 20 Restrictions on processing and data protection](section/20.md)
+    - [s. 21 Regulations under this Part: supplementary](section/21.md)
+    - [s. 22 Regulations under this Part: Parliamentary procedure and consultation](section/22.md)
+    - [s. 23 Related subordinate legislation](section/23.md)
+    - [s. 24 Repeal of provisions relating to supply of customer data](section/24.md)
+    - [s. 25 Other defined terms](section/25.md)
+    - [s. 26 Index of defined terms for this Part](section/26.md)
+- Part 2 Digital verification services
+  - Introductory
+    - [s. 27 Introductory](section/27.md)
+  - DVS trust framework and supplementary codes
+    - [s. 28 DVS trust framework](section/28.md)
+    - [s. 29 Supplementary codes](section/29.md)
+    - [s. 30 Withdrawal of a supplementary code](section/30.md)
+    - [s. 31 Review of DVS trust framework and supplementary codes](section/31.md)
+  - DVS register
+    - [s. 32 DVS register](section/32.md)
+    - [s. 33 Registration in the DVS register](section/33.md)
+    - [s. 34 Power to refuse registration in the DVS register](section/34.md)
+    - [s. 35 Registration of additional services](section/35.md)
+    - [s. 36 Supplementary notes](section/36.md)
+    - [s. 37 Addition of services to supplementary notes](section/37.md)
+    - [s. 38 Applications for registration, supplementary notes, etc](section/38.md)
+    - [s. 39 Fees for applications for registration, supplementary notes, etc](section/39.md)
+    - [s. 40 Duty to remove person from the DVS register](section/40.md)
+    - [s. 41 Power to remove person from the DVS register](section/41.md)
+    - [s. 42 Duty to remove services from the DVS register](section/42.md)
+    - [s. 43 Duty to remove supplementary notes from the DVS register](section/43.md)
+    - [s. 44 Duty to remove services from supplementary notes](section/44.md)
+  - Information gateway
+    - [s. 45 Power of public authority to disclose information to registered person](section/45.md)
+    - [s. 46 Information disclosed by the Revenue and Customs](section/46.md)
+    - [s. 47 Information disclosed by the Welsh Revenue Authority](section/47.md)
+    - [s. 48 Information disclosed by Revenue Scotland](section/48.md)
+    - [s. 49 Code of practice about the disclosure of information](section/49.md)
+  - Trust mark
+    - [s. 50 Trust mark for use by registered persons](section/50.md)
+  - Supplementary
+    - [s. 51 Power of Secretary of State to require information](section/51.md)
+    - [s. 52 Arrangements for third party to exercise functions](section/52.md)
+    - [s. 53 Report on the operation of this Part](section/53.md)
+    - [s. 54 Index of defined terms for this Part](section/54.md)
+    - [s. 55 Powers relating to verification of identity or status](section/55.md)
+- Part 3 National Underground Asset Register
+  - [s. 56 National Underground Asset Register: England and Wales](section/56.md)
+  - [s. 57 Information in relation to apparatus: England and Wales](section/57.md)
+  - [s. 58 National Underground Asset Register: Northern Ireland](section/58.md)
+  - [s. 59 Information in relation to apparatus: Northern Ireland](section/59.md)
+  - [s. 60 Pre-commencement consultation](section/60.md)
+- Part 4 Registers of births and deaths
+  - [s. 61 Form in which registers of births and deaths are to be kept](section/61.md)
+  - [s. 62 Provision of equipment and facilities by local authorities](section/62.md)
+  - [s. 63 Requirements to sign register](section/63.md)
+  - [s. 64 Treatment of existing registers and records](section/64.md)
+  - [s. 65 Minor and consequential amendments](section/65.md)
+- Part 5 Data protection and privacy
+  - Chapter 1 Data protection
+    - Terms used in this Chapter
+      - [s. 66 The 2018 Act and the UK GDPR](section/66.md)
+    - Definitions in the UK GDPR and the 2018 Act
+      - [s. 67 Meaning of research and statistical purposes](section/67.md)
+      - [s. 68 Consent to processing for the purposes of scientific research](section/68.md)
+      - [s. 69 Consent to law enforcement processing](section/69.md)
+    - Data protection principles
+      - [s. 70 Lawfulness of processing](section/70.md)
+      - [s. 71 The purpose limitation](section/71.md)
+      - [s. 72 Processing in reliance on relevant international law](section/72.md)
+    - Processing of special categories of personal data
+      - [s. 73 Elected representatives responding to requests](section/73.md)
+      - [s. 74 Processing of special categories of personal data](section/74.md)
+    - Data subject’s rights
+      - [s. 75 Fees and reasons for responses to data subjects’ requests about law enforcement processing](section/75.md)
+      - [s. 76 Time limits for responding to data subjects’ requests](section/76.md)
+      - [s. 77 Information to be provided to data subjects](section/77.md)
+      - [s. 78 Searches in response to data subjects’ requests](section/78.md)
+      - [s. 79 Data subjects’ rights to information: legal professional privilege exemption](section/79.md)
+    - Automated decision-making
+      - [s. 80 Automated decision-making](section/80.md)
+    - Obligations of controllers
+      - [s. 81 Data protection by design: children’s higher protection matters](section/81.md)
+    - Logging of law enforcement processing
+      - [s. 82 Logging of law enforcement processing](section/82.md)
+    - Codes of conduct
+      - [s. 83 General processing and codes of conduct](section/83.md)
+      - [s. 84 Law enforcement processing and codes of conduct](section/84.md)
+    - International transfers of personal data
+      - [s. 85 Transfers of personal data to third countries and international organisations](section/85.md)
+    - Safeguards for processing for research etc purposes
+      - [s. 86 Safeguards for processing for research etc purposes](section/86.md)
+      - [s. 87 Section 86: consequential provision](section/87.md)
+    - National security
+      - [s. 88 National security exemption](section/88.md)
+    - Intelligence services
+      - [s. 89 Joint processing by intelligence services and competent authorities](section/89.md)
+      - [s. 90 Joint processing: consequential amendments](section/90.md)
+    - Information Commission’s role
+      - [s. 91 Duties of the Commission in carrying out functions](section/91.md)
+      - [s. 92 Codes of practice for the processing of personal data](section/92.md)
+      - [s. 93 Codes of practice: panels and impact assessments](section/93.md)
+      - [s. 94 Manifestly unfounded or excessive requests to the Commissioner](section/94.md)
+      - [s. 95 Analysis of performance](section/95.md)
+      - [s. 96 Notices from the Commissioner](section/96.md)
+    - Enforcement
+      - [s. 97 Power of the Commissioner to require documents](section/97.md)
+      - [s. 98 Power of the Commissioner to require a report](section/98.md)
+      - [s. 99 Assessment notices: removal of OFSTED restriction](section/99.md)
+      - [s. 100 Interview notices](section/100.md)
+      - [s. 101 Penalty notices](section/101.md)
+      - [s. 102 Annual report on regulatory action](section/102.md)
+      - [s. 103 Complaints by data subjects](section/103.md)
+      - [s. 104 Court procedure in connection with subject access requests](section/104.md)
+      - [s. 105 Consequential amendments to the EITSET Regulations](section/105.md)
+    - Protection of prohibitions, restrictions and data subject’s rights
+      - [s. 106 Protection of prohibitions, restrictions and data subject’s rights](section/106.md)
+    - Miscellaneous
+      - [s. 107 Regulations under the UK GDPR](section/107.md)
+      - [s. 108 Further minor provision about data protection](section/108.md)
+  - Chapter 2 Privacy and electronic communications
+    - [s. 109 The PEC Regulations](section/109.md)
+    - [s. 110 Interpretation of the PEC Regulations](section/110.md)
+    - [s. 111 Duty to notify the Commissioner of personal data breach: time periods](section/111.md)
+    - [s. 112 Storing information in the terminal equipment of a subscriber or user](section/112.md)
+    - [s. 113 Emergency alerts: interpretation of time periods](section/113.md)
+    - [s. 114 Use of electronic mail for direct marketing by charities](section/114.md)
+    - [s. 115 Commissioner’s enforcement powers](section/115.md)
+    - [s. 116 Codes of conduct](section/116.md)
+- Part 6 The Information Commission
+  - [s. 117 The Information Commission](section/117.md)
+  - [s. 118 Abolition of the office of Information Commissioner](section/118.md)
+  - [s. 119 Transfer of functions to the Information Commission](section/119.md)
+  - [s. 120 Transfer of property etc to the Information Commission](section/120.md)
+- Part 7 Other provision about use of, or access to, data
+  - Information standards for health and social care
+    - [s. 121 Information standards for health and adult social care in England](section/121.md)
+  - Smart meter communication services
+    - [s. 122 Grant of smart meter communication licences](section/122.md)
+  - Information to improve public service delivery
+    - [s. 123 Disclosure of information to improve public service delivery to undertakings](section/123.md)
+  - Retention of information by providers of internet services
+    - [s. 124 Retention of information by providers of internet services in connection with death of child](section/124.md)
+  - Information for research about online safety matters
+    - [s. 125 Information for research about online safety matters](section/125.md)
+  - Retention of biometric data
+    - [s. 126 Retention of biometric data and recordable offences](section/126.md)
+    - [s. 127 Retention of pseudonymised biometric data](section/127.md)
+    - [s. 128 Retention of biometric data from INTERPOL](section/128.md)
+  - Trust services
+    - [s. 129 The eIDAS Regulation](section/129.md)
+    - [s. 130 Recognition of EU conformity assessment bodies](section/130.md)
+    - [s. 131 Removal of recognition of EU standards etc](section/131.md)
+    - [s. 132 Recognition of overseas trust products](section/132.md)
+    - [s. 133 Co-operation between supervisory authority and overseas authorities](section/133.md)
+    - [s. 134 Time periods: the eIDAS Regulation and the EITSET Regulations](section/134.md)
+  - Copyright works and artificial intelligence systems
+    - [s. 135 Economic impact assessment](section/135.md)
+    - [s. 136 Report on the use of copyright works in the development of AI systems](section/136.md)
+    - [s. 137 Progress statement](section/137.md)
+  - Purported intimate images
+    - [s. 138 Creating, or requesting the creation of, purported intimate image of adult](section/138.md)
+- Part 8 Final provisions
+  - [s. 139 Power to make consequential amendments](section/139.md)
+  - [s. 140 Regulations](section/140.md)
+  - [s. 141 Extent](section/141.md)
+  - [s. 142 Commencement](section/142.md)
+  - [s. 143 Transitional, transitory and saving provision](section/143.md)
+  - [s. 144 Short title](section/144.md)
+- Schedule 1 National Underground Asset Register (England and Wales): monetary penalties
+- Schedule 2 National Underground Asset Register (Northern Ireland): monetary penalties
+- Schedule 3 Registers of births and deaths: minor and consequential amendments
+  - Part 1 Amendments of the Births and Deaths Registration Act 1953
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Part 2 Amendments of other legislation
+    - [Sch. 3 para. 17 Registration Service Act 1953](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18 Registration Service Act 1953](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19 Registration Service Act 1953](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20 Registration Service Act 1953](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21 Public Records Act 1958](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22 Social Security Administration Act 1992](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23 Education Act 1996](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24 Adoption and Children Act 2002](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25 Gender Recognition Act 2004](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26 Gender Recognition Act 2004](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27 Gender Recognition Act 2004](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28 Presumption of Death Act 2013](schedule/3/paragraph/28.md)
+- Schedule 4 Lawfulness of processing: recognised legitimate interests
+- Schedule 5 Purpose limitation: processing to be treated as compatible with original purpose
+- Schedule 6 Automated decision-making: minor and consequential amendments
+  - [Sch. 6 para. 1 The UK GDPR](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 The 2018 Act](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- Schedule 7 Transfers of personal data to third countries etc: general processing
+  - [Sch. 7 para. 1 Introduction](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 General principles for transfers](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Transfers approved by regulations](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 Transfers approved by regulations: monitoring](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Transfers subject to appropriate safeguards](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9 Derogations for specific situations](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10 Public interest restrictions](schedule/7/paragraph/10.md)
+- Schedule 8 Transfers of personal data to third countries etc: law enforcement processing
+  - [Sch. 8 para. 1 Introduction](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Overview and interpretation](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 General principles for transfer](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Transfers approved by regulations](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5 Transfers approved by regulations: monitoring](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6 Transfers subject to appropriate safeguards](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7 Transfers based on special circumstances](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8 Transfers to particular recipients](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10 Subsequent transfers](schedule/8/paragraph/10.md)
+- Schedule 9 Transfers of personal data to third countries etc: minor and consequential amendments and transitional provision
+  - Part 1 Minor and consequential amendments
+    - [Sch. 9 para. 1 The UK GDPR](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11 The 2018 Act](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+  - Part 2 Transitional provision
+    - [Sch. 9 para. 26 The UK GDPR: transfers approved by regulations](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27 The UK GDPR: transfers subject to appropriate safeguards](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28 The UK GDPR: transfers subject to appropriate safeguards provided by standard data protection clauses](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30 The UK GDPR: transfers necessary for important reasons of public interest](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31 The UK GDPR: restrictions on transfers of personal data to third countries and international organisations](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32 Part 3 of the 2018 Act (law enforcement processing): transfers approved by regulations](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33 Part 3 of the 2018 Act (law enforcement processing): transfers subject to appropriate safeguards](schedule/9/paragraph/33.md)
+- Schedule 10 Complaints: minor and consequential amendments
+  - [Sch. 10 para. 1 The UK GDPR](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 The UK GDPR](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 The UK GDPR](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 The UK GDPR](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 The UK GDPR](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 The UK GDPR](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 The UK GDPR](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8 The 2018 Act](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9 The 2018 Act](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10 The 2018 Act](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11 The 2018 Act](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12 The 2018 Act](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13 The 2018 Act](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14 The 2018 Act](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15 The 2018 Act](schedule/10/paragraph/15.md)
+  - [Sch. 10 para. 16 The 2018 Act](schedule/10/paragraph/16.md)
+  - [Sch. 10 para. 17 The 2018 Act](schedule/10/paragraph/17.md)
+  - [Sch. 10 para. 18 The 2018 Act](schedule/10/paragraph/18.md)
+  - [Sch. 10 para. 19 The 2018 Act](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 20 The 2018 Act](schedule/10/paragraph/20.md)
+  - [Sch. 10 para. 21 The 2018 Act](schedule/10/paragraph/21.md)
+- Schedule 11 Further minor provision about data protection
+  - [Sch. 11 para. 1 The UK GDPR](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2 The UK GDPR](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3 The UK GDPR](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4 The UK GDPR](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 The UK GDPR](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 The UK GDPR](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7 The UK GDPR](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8 The UK GDPR](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9 The UK GDPR](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10 The UK GDPR](schedule/11/paragraph/10.md)
+  - [Sch. 11 para. 11 The UK GDPR](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12 The UK GDPR](schedule/11/paragraph/12.md)
+  - [Sch. 11 para. 13 The 2018 Act](schedule/11/paragraph/13.md)
+  - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+  - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+  - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+  - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+  - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+  - [Sch. 11 para. 32 Victims and Prisoners Act 2024](schedule/11/paragraph/32.md)
+- Schedule 12 Storing information in the terminal equipment of a subscriber or user
+- Schedule 13 Privacy and electronic communications: Commissioner’s enforcement powers
+- Schedule 14 The Information Commission
+  - [Sch. 14 para. 1 Schedule 12A to the Data Protection Act 2018](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2 Transitional provision: first chair](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3 Transitional provision: consultation about non-executive members](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4 Transitional provision: consultation about interim chief executive](schedule/14/paragraph/4.md)
+- Schedule 15 Information standards for health and adult social care in England
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+- Schedule 16 Grant of smart meter communication licences
+  - Part 1 Amendments of the Energy Act 2008
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Part 2 Amendments of other legislation
+    - [Sch. 16 para. 5 Gas Act 1986](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6 Electricity Act 1989](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7 Electricity and Gas (Competitive Tenders for Smart Meter Communication Licences) Regulations 2012](schedule/16/paragraph/7.md)
