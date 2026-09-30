@@ -1,0 +1,252 @@
+# Children and Young People (Scotland) Act 2014
+
+asp/2014/8. Enacted 2014-03-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 112 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2014/8
+
+Source: https://www.legislation.gov.uk/asp/2014/8/2026-09-30
+
+## Contents
+
+- PART 1 Rights of children
+  - [s. 1 Duties of Scottish Ministers in relation to the rights of children](section/1.md)
+  - [s. 2 Duties of public authorities in relation to the UNCRC](section/2.md)
+  - [s. 3 Authorities to which section 2 applies](section/3.md)
+  - [s. 4 Interpretation of Part 1](section/4.md)
+- PART 2 Commissioner for Children and Young People in Scotland
+  - [s. 5 Investigations by the Commissioner](section/5.md)
+  - [s. 6 Requirement to respond to Commissioner’s recommendations](section/6.md)
+- PART 3 Children’s services planning
+  - [s. 7 Introductory](section/7.md)
+  - [s. 8 Requirement to prepare children’s services plan](section/8.md)
+  - [s. 9 Aims of children’s services plan](section/9.md)
+  - [s. 10 Children’s services plan: process](section/10.md)
+  - [s. 11 Children’s services plan: review](section/11.md)
+  - [s. 12 Implementation of children’s services plan](section/12.md)
+  - [s. 13 Reporting on children’s services plan](section/13.md)
+  - [s. 14 Assistance in relation to children’s services planning](section/14.md)
+  - [s. 15 Guidance in relation to children’s services planning](section/15.md)
+  - [s. 16 Directions in relation to children’s services planning](section/16.md)
+  - [s. 17 Children’s services planning: default powers of Scottish Ministers](section/17.md)
+  - [s. 18 Interpretation of Part 3](section/18.md)
+- PART 4 Provision of named persons
+  - [s. 19 Named person service](section/19.md)
+  - [s. 20 Named person service in relation to pre-school child](section/20.md)
+  - [s. 21 Named person service in relation to children not falling within section 20](section/21.md)
+  - [s. 22 Continuation of named person service in relation to certain young people](section/22.md)
+  - [s. 23 Communication in relation to movement of children and young people](section/23.md)
+  - [s. 24 Duty to communicate information about role of named persons](section/24.md)
+  - [s. 25 Duty to help named person](section/25.md)
+  - [s. 26 Information sharing](section/26.md)
+  - [s. 27 Disclosure of information](section/27.md)
+  - [s. 28 Guidance in relation to named person service](section/28.md)
+  - [s. 29 Directions in relation to named person service](section/29.md)
+  - [s. 30 Complaints in relation to Part 4](section/30.md)
+  - [s. 31 Relevant authorities](section/31.md)
+  - [s. 32 Interpretation of Part 4](section/32.md)
+- PART 5 Child’s plan
+  - [s. 33 Child’s plan: requirement](section/33.md)
+  - [s. 34 Content of a child’s plan](section/34.md)
+  - [s. 35 Preparation of a child’s plan](section/35.md)
+  - [s. 36 Responsible authority: general](section/36.md)
+  - [s. 37 Responsible authority: special cases](section/37.md)
+  - [s. 38 Delivery of a child’s plan](section/38.md)
+  - [s. 39 Child’s plan: management](section/39.md)
+  - [s. 40 Assistance in relation to child’s plan](section/40.md)
+  - [s. 41 Guidance on child’s plans](section/41.md)
+  - [s. 42 Directions in relation to child’s plans](section/42.md)
+  - [s. 43 Complaints in relation to Part 5](section/43.md)
+  - [s. 44 Listed authorities](section/44.md)
+  - [s. 45 Interpretation of Part 5](section/45.md)
+- PART 6 Early learning and childcare
+  - [s. 46 Early learning and childcare](section/46.md)
+  - [s. 47 Duty to secure provision of early learning and childcare](section/47.md)
+  - [s. 48 Mandatory amount of early learning and childcare](section/48.md)
+  - [s. 49 Looked after 2 year olds: alternative arrangements to meet wellbeing needs](section/49.md)
+  - [s. 50 Duty to consult and plan on delivery of early learning and childcare](section/50.md)
+  - [s. 51 Method of delivery of early learning and childcare](section/51.md)
+  - [s. 52 Flexibility in way in which early learning and childcare is made available](section/52.md)
+  - [s. 53 Interpretation of Part 6](section/53.md)
+- PART 7 Power to provide school education for pre-school children
+  - [s. 54 Duty to consult and plan in relation to power to provide school education for pre-school children](section/54.md)
+- PART 8 Day care and out of school care
+  - [s. 55 Duty to consult and plan in relation to day care and out of school care](section/55.md)
+- PART 9 Corporate parenting
+  - [s. 56 Corporate parents](section/56.md)
+  - [s. 57 Application of Part: children and young people](section/57.md)
+  - [s. 58 Corporate parenting responsibilities](section/58.md)
+  - [s. 59 Planning by corporate parents](section/59.md)
+  - [s. 60 Collaborative working among corporate parents](section/60.md)
+  - [s. 61 Reports by corporate parents](section/61.md)
+  - [s. 62 Duty to provide information to Scottish Ministers](section/62.md)
+  - [s. 63 Guidance on corporate parenting](section/63.md)
+  - [s. 64 Directions to corporate parents](section/64.md)
+  - [s. 65 Reports by Scottish Ministers](section/65.md)
+- PART 10 Aftercare
+  - [s. 66 Provision of aftercare to young people](section/66.md)
+- PART 11 Continuing care
+  - [s. 67 Continuing care: looked after children](section/67.md)
+- PART 12 Services in relation to children at risk of becoming looked after, etc.
+  - [s. 68 Provision of relevant services to parents and others](section/68.md)
+  - [s. 69 Relevant services: further provision](section/69.md)
+  - [s. 69C Guidance on family group decision-making services](section/69C.md)
+  - [s. 70 Interpretation of Part 12](section/70.md)
+- PART 13 Support for kinship care
+  - [s. 71 Assistance in relation to kinship care orders](section/71.md)
+  - [s. 72 Orders which are kinship care orders](section/72.md)
+  - [s. 73 Kinship care assistance: further provision](section/73.md)
+  - [s. 73A Duty to have regard to guidance about the provision of kinship care assistance](section/73A.md)
+  - [s. 74 Interpretation of Part 13](section/74.md)
+- PART 14 Adoption register
+  - [s. 75 Scotland’s Adoption Register](section/75.md)
+- PART 15 School closure proposals, etc.
+  - [s. 76 References to the Schools (Consultation) (Scotland) Act 2010](section/76.md)
+  - [s. 77 Restriction on closure proposals](section/77.md)
+  - [s. 78 Financial implications of closure proposals](section/78.md)
+  - [s. 79 Correction of proposal paper](section/79.md)
+  - [s. 80 Special provision for rural school closure proposals](section/80.md)
+  - [s. 81 Call-in of closure proposals](section/81.md)
+- PART 16 Children’s hearings
+  - [s. 82 Safeguarders: exceptions to duty to prepare report on appointment](section/82.md)
+  - [s. 83 Maximum period of child protection order](section/83.md)
+  - [s. 84 Power to determine that deeming of person as relevant person to end](section/84.md)
+  - [s. 85 Grounds hearing: non-acceptance of facts supporting ground](section/85.md)
+  - [s. 86 Failure of child to attend grounds hearing: power to make interim order](section/86.md)
+  - [s. 87 Limit on number of further interim compulsory supervision orders](section/87.md)
+  - [s. 88 Area support teams: establishment](section/88.md)
+  - [s. 89 Area support teams: administrative support by local authorities](section/89.md)
+  - [s. 90 Interpretation of Part 16](section/90.md)
+- Part 16A Secure transportation
+  - [s. 90A Secure transportation: duty of Scottish Ministers to prepare and publish standards](section/90A.md)
+  - [s. 90B Secure transportation: duty of providers to meet standards](section/90B.md)
+  - [s. 90C Secure transportation: reports](section/90C.md)
+- PART 17 Other reforms
+  - Detention of children in secure accommodation
+    - [s. 91 Appeal against detention of child in secure accommodation](section/91.md)
+  - Children’s legal aid
+    - [s. 92 Power of Scottish Ministers to modify circumstances in which children’s legal aid to be made available](section/92.md)
+  - Provision of school meals
+    - [s. 93 Provision of free school lunches](section/93.md)
+  - Licensing of child performances
+    - [s. 94 Extension of licensing of child performances to children under 14](section/94.md)
+  - Wellbeing under 1995 Act
+    - [s. 95 Consideration of wellbeing in exercising certain functions](section/95.md)
+- PART 18 General
+  - [s. 96 Assessment of wellbeing](section/96.md)
+  - [s. 97 Interpretation](section/97.md)
+  - [s. 98 Modification of enactments](section/98.md)
+  - [s. 99 Subordinate legislation](section/99.md)
+  - [s. 100 Guidance and directions](section/100.md)
+  - [s. 101 Ancillary provision](section/101.md)
+  - [s. 102 Commencement](section/102.md)
+  - [s. 103 Short title](section/103.md)
+- SCHEDULE 1 Authorities to which section 2 applies
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 19n1](schedule/1/paragraph/19n1.md)
+- SCHEDULE 2 Relevant authorities
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Listed authorities
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 16n1](schedule/3/paragraph/16n1.md)
+- SCHEDULE 4 Corporate parents
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - [Sch. 4 para. 24n1](schedule/4/paragraph/24n1.md)
+- SCHEDULE 5 Modification of enactments
+  - Social Work (Scotland) Act 1968
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Education (Scotland) Act 1980
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Legal Aid (Scotland) Act 1986
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Children (Scotland) Act 1995
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Criminal Procedure (Scotland) Act 1995
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Education Act 1996
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Standards in Scotland’s Schools Act 2000
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Regulation of Care (Scotland) Act 2001
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Mental Health (Care and Treatment) (Scotland) Act 2003
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Education (Additional Support for Learning) (Scotland) Act 2004
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Adoption and Children (Scotland) Act 2007
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Children’s Hearings (Scotland) Act 2011
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
