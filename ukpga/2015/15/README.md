@@ -2,9 +2,11 @@
 
 2015 c. 15. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-04-06
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
+
+Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
 
 ## Contents
 
