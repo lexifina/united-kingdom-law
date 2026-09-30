@@ -1,0 +1,350 @@
+# Regulation of Investigatory Powers Act 2000
+
+2000 c. 23. Enacted 2000-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/23
+
+Source: https://www.legislation.gov.uk/ukpga/2000/23/2026-09-30
+
+## Contents
+
+- Part I Communications
+  - Chapter I Interception
+    - Unlawful and authorised interception
+      - [s. 1 Unlawful interception.](section/1.md)
+      - [s. 2 Meaning and location of “interception”](section/2.md)
+      - [s. 3 Lawful interception without an interception warrant.](section/3.md)
+      - [s. 4 Power to provide for lawful interception.](section/4.md)
+      - [s. 5 Interception with a warrant.](section/5.md)
+    - Interception warrants
+      - [s. 6 Application for issue of an interception warrant.](section/6.md)
+      - [s. 7 Issue of warrants.](section/7.md)
+      - [s. 8 Contents of warrants.](section/8.md)
+      - [s. 9 Duration, cancellation and renewal of warrants.](section/9.md)
+      - [s. 10 Modification of warrants and certificates.](section/10.md)
+      - [s. 11 Implementation of warrants.](section/11.md)
+    - Interception capability and costs
+      - [s. 12 Maintenance of interception capability.](section/12.md)
+      - [s. 13 Technical Advisory Board.](section/13.md)
+      - [s. 14 Grants for interception costs.](section/14.md)
+    - Restrictions on use of intercepted material etc.
+      - [s. 15 General safeguards.](section/15.md)
+      - [s. 16 Extra safeguards in the case of certificated warrants.](section/16.md)
+      - [s. 17 Exclusion of matters from legal proceedings.](section/17.md)
+      - [s. 18 Exceptions to section 17.](section/18.md)
+      - [s. 19 Offence for unauthorised disclosures.](section/19.md)
+    - Interpretation of Chapter I
+      - [s. 20 Interpretation of Chapter I.](section/20.md)
+  - Chapter II Acquisition and disclosure of communications data
+    - [s. 21 Lawful acquisition and disclosure of communications data.](section/21.md)
+    - [s. 22 Obtaining and disclosing communications data.](section/22.md)
+    - [s. 23 Form and duration of authorisations and notices.](section/23.md)
+    - [s. 23A Authorisations requiring judicial approval](section/23A.md)
+    - [s. 23B Procedure for judicial approval](section/23B.md)
+    - [s. 24 Arrangements for payments.](section/24.md)
+    - [s. 25 Interpretation of Chapter II.](section/25.md)
+- Part II Surveillance and covert human intelligence sources
+  - Introductory
+    - [s. 26 Conduct to which Part II applies.](section/26.md)
+  - Authorisation of surveillance and human intelligence sources
+    - [s. 27 Lawful surveillance etc.](section/27.md)
+    - [s. 27A Section 27: criminal injuries compensation for s. 29B conduct](section/27A.md)
+    - [s. 28 Authorisation of directed surveillance.](section/28.md)
+    - [s. 29 Authorisation of covert human intelligence sources.](section/29.md)
+    - [s. 29A Section 29: supplementary provision in relation to relevant collaborative units](section/29A.md)
+    - [s. 29B Covert human intelligence sources: criminal conduct authorisations](section/29B.md)
+    - [s. 29C Criminal conduct authorisations: safeguards for juveniles](section/29C.md)
+    - [s. 29D Criminal conduct authorisations: safeguards for vulnerable adults](section/29D.md)
+    - [s. 30 Persons entitled to grant authorisations under ss. 28, 29 and 29B.](section/30.md)
+    - [s. 31 Orders under s. 30 for Northern Ireland.](section/31.md)
+    - [s. 32 Authorisation of intrusive surveillance.](section/32.md)
+  - Authorisations requiring judicial approval or notification
+    - [s. 32A Authorisations requiring judicial approval](section/32A.md)
+    - [s. 32B Procedure for judicial approval](section/32B.md)
+    - [s. 32C Notification of criminal conduct authorisations](section/32C.md)
+  - Police and Revenue and Customs authorisations
+    - [s. 33 Rules for grant of authorisations.](section/33.md)
+    - [s. 33A Section 33: further provision in cases where NCA is party to collaboration agreement](section/33A.md)
+    - [s. 34 Grant of authorisations in the senior officer’s absence.](section/34.md)
+    - [s. 35 Notification of authorisations for intrusive surveillance.](section/35.md)
+    - [s. 36 Approval required for authorisations to take effect.](section/36.md)
+    - [s. 37 Quashing of police and Revenue and Customs authorisations etc.](section/37.md)
+    - [s. 38 Appeals against decisions by Judicial Commissioners.](section/38.md)
+    - [s. 39 Appeals to the Investigatory Powers Commissioner: supplementary.](section/39.md)
+    - [s. 40 Information to be provided to Surveillance Commissioners.](section/40.md)
+  - Other authorisations
+    - [s. 41 Secretary of State authorisations.](section/41.md)
+    - [s. 42 Intelligence services authorisations.](section/42.md)
+  - Grant, renewal and duration of authorisations
+    - [s. 43 General rules about grant, renewal and duration.](section/43.md)
+    - [s. 44 Special rules for intelligence services authorisations.](section/44.md)
+    - [s. 45 Cancellation of authorisations.](section/45.md)
+  - Scotland
+    - [s. 46 Restrictions on authorisations extending to Scotland.](section/46.md)
+  - Supplemental provision for Part II
+    - [s. 47 Power to extend or modify authorisation provisions.](section/47.md)
+    - [s. 48 Interpretation of Part II.](section/48.md)
+- Part III Investigation of electronic data protected by encryption etc.
+  - Power to require disclosure
+    - [s. 49 Notices requiring disclosure.](section/49.md)
+    - [s. 50 Effect of notice imposing disclosure requirement.](section/50.md)
+    - [s. 51 Cases in which key required.](section/51.md)
+  - Contributions to costs
+    - [s. 52 Arrangements for payments for disclosure.](section/52.md)
+  - Offences
+    - [s. 53 Failure to comply with a notice.](section/53.md)
+    - [s. 54 Tipping-off.](section/54.md)
+  - Safeguards
+    - [s. 55 General duties of specified authorities.](section/55.md)
+  - Interpretation of Part III
+    - [s. 56 Interpretation of Part III.](section/56.md)
+- Part IV Scrutiny etc. of investigatory powers and of the functions of the intelligence services
+  - Commissioners
+    - [s. 57 Interception of Communications Commissioner.](section/57.md)
+    - [s. 58 Co-operation with and reports by s. 57 Commissioner.](section/58.md)
+    - [s. 59 Intelligence Services Commissioner.](section/59.md)
+    - [s. 59A Additional functions of the Intelligence Services Commissioner](section/59A.md)
+    - [s. 60 Co-operation with and reports by s. 59 Commissioner.](section/60.md)
+    - [s. 61 Investigatory Powers Commissioner for Northern Ireland.](section/61.md)
+    - [s. 62 Additional functions of Chief Surveillance Commissioner.](section/62.md)
+    - [s. 63 Assistant Surveillance Commissioners.](section/63.md)
+    - [s. 64 Delegation of functions of the Investigatory Powers Commissioner for Northern Ireland.](section/64.md)
+  - The Tribunal
+    - [s. 65 The Tribunal.](section/65.md)
+    - [s. 66 Orders allocating proceedings to the Tribunal.](section/66.md)
+    - [s. 67 Exercise of the Tribunal’s jurisdiction.](section/67.md)
+    - [s. 67A Appeals from the Tribunal](section/67A.md)
+    - [s. 68 Tribunal procedure.](section/68.md)
+    - [s. 69 Tribunal rules.](section/69.md)
+    - [s. 70 Abolition of jurisdiction in relation to complaints.](section/70.md)
+  - Codes of practice
+    - [s. 71 Issue and revision of codes of practice.](section/71.md)
+    - [s. 72 Effect of codes of practice.](section/72.md)
+- Part V Miscellaneous and supplemental
+  - Miscellaneous
+    - [s. 73 Conduct in relation to wireless telegraphy.](section/73.md)
+    - [s. 74 Warrants under the Intelligence Services Act 1994.](section/74.md)
+    - [s. 75 Authorisations under Part III of the Police Act 1997.](section/75.md)
+    - [s. 76 Surveillance etc. operations beginning in Scotland.](section/76.md)
+    - [s. 76A Foreign surveillance operations](section/76A.md)
+  - Supplemental
+    - [s. 77 Ministerial expenditure etc.](section/77.md)
+    - [s. 77A Procedure for order of sheriff under section ... 32A: Scotland](section/77A.md)
+    - [s. 77B Procedure for order of district judge under section ... 32A: Northern Ireland](section/77B.md)
+    - [s. 78 Orders, regulations and rules.](section/78.md)
+    - [s. 79 Criminal liability of directors etc.](section/79.md)
+    - [s. 80 General saving for lawful conduct.](section/80.md)
+    - [s. 81 General interpretation.](section/81.md)
+    - [s. 82 Amendments, repeals and savings etc.](section/82.md)
+    - [s. 83 Short title, commencement and extent.](section/83.md)
+- SCHEDULE A1 MONETARY PENALTY NOTICES IN RELATION TO CERTAIN UNLAWFUL INTERCEPTIONS
+  - PART 1 MONETARY PENALTY NOTICES
+    - General
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Enforcement obligations
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Consultation requirements before service of notices
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - Variation or cancellation of notices
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - Appeals against notices
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - Enforcement of notices
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - Guidance
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - Interpretation: Part 1
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+  - PART 2 INFORMATION PROVISIONS
+    - Information notices
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Appeals against notices
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+    - Enforcement of notices
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - Technical assistance for the Commissioner
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - Interpretation: Part 2
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+- SCHEDULE 1 Relevant Public Authorities
+  - PART A1 Relevant authorities for the purposes of ss. 28, 29 and 29B
+    - [Sch. 1 para. A1 Police forces etc](schedule/1/paragraph/A1.md)
+    - [Sch. 1 para. A1A Police forces etc](schedule/1/paragraph/A1A.md)
+    - [Sch. 1 para. B1 Police forces etc](schedule/1/paragraph/B1.md)
+    - [Sch. 1 para. C1 Police forces etc](schedule/1/paragraph/C1.md)
+    - [Sch. 1 para. D1 The intelligence services](schedule/1/paragraph/D1.md)
+    - [Sch. 1 para. E1 The armed forces](schedule/1/paragraph/E1.md)
+    - [Sch. 1 para. F1 Revenue and Customs](schedule/1/paragraph/F1.md)
+    - [Sch. 1 para. G1 Government departments](schedule/1/paragraph/G1.md)
+    - [Sch. 1 para. H1 Government departments](schedule/1/paragraph/H1.md)
+    - [Sch. 1 para. I1 Government departments](schedule/1/paragraph/I1.md)
+    - [Sch. 1 para. J1 Other bodies](schedule/1/paragraph/J1.md)
+    - [Sch. 1 para. K1 Other bodies](schedule/1/paragraph/K1.md)
+    - [Sch. 1 para. L1 Other bodies](schedule/1/paragraph/L1.md)
+    - [Sch. 1 para. M1 Other bodies](schedule/1/paragraph/M1.md)
+    - [Sch. 1 para. N1 Other bodies](schedule/1/paragraph/N1.md)
+  - Part I Relevant authorities for the purposes only of ss. 28 and 29
+    - Police forces etc.
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+      - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+    - ...
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - ...
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - ...
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Government departments
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 9ZA](schedule/1/paragraph/9ZA.md)
+      - [Sch. 1 para. 9ZB](schedule/1/paragraph/9ZB.md)
+      - [Sch. 1 para. 9ZC](schedule/1/paragraph/9ZC.md)
+      - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 13ZA](schedule/1/paragraph/13ZA.md)
+      - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 15C](schedule/1/paragraph/15C.md)
+      - [Sch. 1 para. 15D](schedule/1/paragraph/15D.md)
+      - [Sch. 1 para. 15E](schedule/1/paragraph/15E.md)
+    - The Welsh Assembly Government
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Local authorities
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 17A](schedule/1/paragraph/17A.md)
+    - Other bodies
+      - [Sch. 1 para. 17B](schedule/1/paragraph/17B.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 18A](schedule/1/paragraph/18A.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+      - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 20A](schedule/1/paragraph/20A.md)
+      - [Sch. 1 para. 20B](schedule/1/paragraph/20B.md)
+      - [Sch. 1 para. 20C](schedule/1/paragraph/20C.md)
+      - [Sch. 1 para. 20D](schedule/1/paragraph/20D.md)
+      - [Sch. 1 para. 20E](schedule/1/paragraph/20E.md)
+      - [Sch. 1 para. 20F](schedule/1/paragraph/20F.md)
+      - [Sch. 1 para. 20G](schedule/1/paragraph/20G.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 Pt. I heading other-bodies para. 23A](schedule/1/part/I/crossheading/other-bodies/paragraph/23A.md)
+    - Northern Ireland authorities
+      - [Sch. 1 Pt. I heading northern-ireland-authorities para. 23A](schedule/1/part/I/crossheading/northern-ireland-authorities/paragraph/23A.md)
+      - [Sch. 1 para. 23B](schedule/1/paragraph/23B.md)
+      - [Sch. 1 para. 23C](schedule/1/paragraph/23C.md)
+      - [Sch. 1 para. 23D](schedule/1/paragraph/23D.md)
+      - [Sch. 1 para. 23E](schedule/1/paragraph/23E.md)
+  - Part II Relevant authorities for the purposes only of s. 28
+    - The Health and Safety Executive
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - NHS bodies in England and Wales
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 27A](schedule/1/paragraph/27A.md)
+    - HM Chief Inspector of Education, Children’s Services and Skills
+      - [Sch. 1 para. 27B](schedule/1/paragraph/27B.md)
+    - ...
+      - [Sch. 1 para. 27C](schedule/1/paragraph/27C.md)
+    - The Information Commission
+      - [Sch. 1 para. 27CA](schedule/1/paragraph/27CA.md)
+    - ...
+      - [Sch. 1 para. 27D](schedule/1/paragraph/27D.md)
+    - The General Pharmaceutical Council.
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - ...
+      - [Sch. 1 para. 28A](schedule/1/paragraph/28A.md)
+    - ...
+      - [Sch. 1 para. 28B](schedule/1/paragraph/28B.md)
+    - The Department for Work and Pensions
+      - [Sch. 1 para. 28C](schedule/1/paragraph/28C.md)
+    - ...
+      - [Sch. 1 para. 28D](schedule/1/paragraph/28D.md)
+    - Universal service providers
+      - [Sch. 1 para. 28E](schedule/1/paragraph/28E.md)
+    - The Natural Resources Body for Wales
+      - [Sch. 1 para. 28F](schedule/1/paragraph/28F.md)
+    - Northern Ireland authorities
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+- SCHEDULE 2 Persons having the appropriate permission
+  - Requirement that appropriate permission is granted by a judge
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Data obtained under warrant etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Data obtained by the intelligence services under statute but without a warrant
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Data obtained under statute by other persons but without a warrant
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Data obtained without the exercise of statutory powers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - General requirements relating to the appropriate permission
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Duration of permission
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Formalities for permissions granted by the Secretary of State
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 The Tribunal
+  - Membership of the Tribunal
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - President and Vice-President
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Members of the Tribunal with special responsibilities
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Salaries and expenses
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Officers
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Parliamentary disqualification
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Consequential amendments
+  - The Post Office Act 1953 (c. 36)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Post Office Act 1969 (c. 48)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Telecommunications Act 1984 (c. 12)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Security Service Act 1989 (c. 5)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Official Secrets Act 1989 (c. 6)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Intelligence Services Act 1994 (c. 13)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Criminal Procedure and Investigations Act 1996 (c. 25)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - The Police Act 1997 (c. 50)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - The Northern Ireland Act 1998 (c. 47)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Electronic Communications Act 2000 (c. 7)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - The Financial Services and Markets Act 2000 (c. 8)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - The Terrorism Act 2000 (c. 11)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Repeals
