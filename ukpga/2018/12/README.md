@@ -1,0 +1,1794 @@
+# Data Protection Act 2018
+
+2018 c. 12. Enacted 2018-05-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
+
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
+
+## Contents
+
+- PART 1 Preliminary
+  - [s. 1 Overview](section/1.md)
+  - [s. 2 Protection of personal data](section/2.md)
+  - [s. 3 Terms relating to the processing of personal data](section/3.md)
+- PART 2 General processing
+  - CHAPTER 1 Scope and definitions
+    - [s. 4 Processing to which this Part applies](section/4.md)
+    - [s. 5 Definitions](section/5.md)
+  - CHAPTER 2 The UK GDPR
+    - Meaning of certain terms used in the UK GDPR
+      - [s. 6 Meaning of “controller”](section/6.md)
+      - [s. 7 Meaning of “public authority” and “public body”](section/7.md)
+    - Lawfulness of processing
+      - [s. 8 Lawfulness of processing: public interest etc](section/8.md)
+      - [s. 9 Child’s consent in relation to information society services](section/9.md)
+    - Relevant international law
+      - [s. 9A Processing in reliance on relevant international law](section/9A.md)
+    - Special categories of personal data
+      - [s. 10 Special categories of personal data and criminal convictions etc data](section/10.md)
+      - [s. 11 Special categories of personal data etc: supplementary](section/11.md)
+    - Rights of the data subject
+      - [s. 12 Limits on fees that may be charged by controllers](section/12.md)
+      - [s. 13 Obligations of credit reference agencies](section/13.md)
+      - [s. 13A Meaning of “relevant offence” for purpose of right to erasure](section/13A.md)
+      - [s. 14 Automated decision-making authorised by law: safeguards](section/14.md)
+    - Exemptions etc
+      - [s. 15 Exemptions etc](section/15.md)
+      - [s. 16 Power to make further exemptions etc by regulations](section/16.md)
+    - Certification
+      - [s. 17 Accreditation of certification providers](section/17.md)
+    - ...
+      - [s. 17A Transfers based on adequacy regulations](section/17A.md)
+      - [s. 17B Transfers based on adequacy regulations: review etc](section/17B.md)
+      - [s. 17C Standard data protection clauses](section/17C.md)
+      - [s. 18 Transfers of personal data to third countries etc: public interest](section/18.md)
+    - ...
+      - [s. 19 Processing for archiving, research and statistical purposes: safeguards](section/19.md)
+    - Minor definition
+      - [s. 20 Meaning of “court”](section/20.md)
+  - CHAPTER 3 Exemptions for manual unstructured processing and for national security and defence purposes
+    - Definitions
+      - [s. 21 Definitions](section/21.md)
+    - ...
+      - [s. 22 Application of the GDPR to processing to which this Chapter applies](section/22.md)
+      - [s. 23 Power to make provision in consequence of regulations related to the GDPR](section/23.md)
+    - Exemptions etc
+      - [s. 24 Manual unstructured data held by FOI public authorities](section/24.md)
+      - [s. 25 Manual unstructured data used in longstanding historical research](section/25.md)
+      - [s. 26 National security and defence exemption](section/26.md)
+      - [s. 27 National security: certificate](section/27.md)
+      - [s. 28 National security and defence: modifications to Articles 9 and 32 of the UK GDPR](section/28.md)
+- PART 3 Law enforcement processing
+  - CHAPTER 1 Scope and definitions
+    - Scope
+      - [s. 29 Processing to which this Part applies](section/29.md)
+    - Definitions
+      - [s. 30 Meaning of “competent authority”](section/30.md)
+      - [s. 31 “The law enforcement purposes”](section/31.md)
+      - [s. 32 Meaning of “controller” and “processor”](section/32.md)
+      - [s. 33 Other definitions](section/33.md)
+  - CHAPTER 2 Principles
+    - [s. 34 Overview and general duty of controller](section/34.md)
+    - [s. 35 The first data protection principle](section/35.md)
+    - [s. 36 The second data protection principle](section/36.md)
+    - [s. 37 The third data protection principle](section/37.md)
+    - [s. 38 The fourth data protection principle](section/38.md)
+    - [s. 39 The fifth data protection principle](section/39.md)
+    - [s. 40 The sixth data protection principle](section/40.md)
+    - [s. 40A Conditions for consent](section/40A.md)
+    - [s. 41 Safeguards: archiving](section/41.md)
+    - [s. 42 Safeguards: sensitive processing](section/42.md)
+    - [s. 42A Further provision about sensitive processing](section/42A.md)
+  - CHAPTER 3 Rights of the data subject
+    - Overview and scope
+      - [s. 43 Overview and scope](section/43.md)
+    - Data subject’s rights to information
+      - [s. 44 ... Controller’s general duties](section/44.md)
+    - ...
+      - [s. 45 Right of access by the data subject](section/45.md)
+      - [s. 45A Exemption from sections 44 and 45: legal professional privilege](section/45A.md)
+    - Data subject’s rights to rectification or erasure etc
+      - [s. 46 Right to rectification](section/46.md)
+      - [s. 47 Right to erasure or restriction of processing](section/47.md)
+      - [s. 48 Rights under section 46 or 47: supplementary](section/48.md)
+    - Automated individual decision-making
+      - [s. 49 Right not to be subject to automated decision-making](section/49.md)
+      - [s. 50 Automated decision-making authorised by law: safeguards](section/50.md)
+      - [s. 50A Automated processing and significant decisions](section/50A.md)
+      - [s. 50B Restrictions on automated decision-making based on sensitive processing](section/50B.md)
+      - [s. 50C Safeguards for automated decision-making](section/50C.md)
+      - [s. 50D Further provision about automated decision-making](section/50D.md)
+    - Supplementary
+      - [s. 51 Exercise of rights through the Commission](section/51.md)
+      - [s. 52 Form of provision of information etc](section/52.md)
+      - [s. 53 Manifestly unfounded or excessive requests by the data subject](section/53.md)
+      - [s. 54 Meaning of “applicable time period”](section/54.md)
+  - CHAPTER 4 Controller and processor
+    - Overview and scope
+      - [s. 55 Overview and scope](section/55.md)
+    - General obligations
+      - [s. 56 General obligations of the controller](section/56.md)
+      - [s. 57 Data protection by design and default](section/57.md)
+      - [s. 58 Joint controllers](section/58.md)
+      - [s. 59 Processors](section/59.md)
+      - [s. 60 Processing under the authority of the controller or processor](section/60.md)
+      - [s. 61 Records of processing activities](section/61.md)
+      - [s. 62 Logging](section/62.md)
+      - [s. 63 Co-operation with the Commission](section/63.md)
+      - [s. 64 Data protection impact assessment](section/64.md)
+      - [s. 65 Prior consultation with the Commission](section/65.md)
+    - Obligations relating to security
+      - [s. 66 Security of processing](section/66.md)
+    - Obligations relating to personal data breaches
+      - [s. 67 Notification of a personal data breach to the Commission](section/67.md)
+      - [s. 68 Communication of a personal data breach to the data subject](section/68.md)
+    - Data protection officers
+      - [s. 69 Designation of a data protection officer](section/69.md)
+      - [s. 70 Position of data protection officer](section/70.md)
+      - [s. 71 Tasks of data protection officer](section/71.md)
+    - Codes of conduct
+      - [s. 71A Codes of conduct](section/71A.md)
+  - CHAPTER 5 Transfers of personal data to third countries etc
+    - Overview and interpretation
+      - [s. 72 Overview and interpretation](section/72.md)
+    - General principles for transfers
+      - [s. 73 General principles for transfers of personal data](section/73.md)
+      - [s. 74 Transfers on the basis of an adequacy decision](section/74.md)
+      - [s. 74A Transfers based on adequacy regulations](section/74A.md)
+      - [s. 74AA Transfers approved by regulations](section/74AA.md)
+      - [s. 74AB The data protection test](section/74AB.md)
+      - [s. 74B Transfers approved by regulations: monitoring](section/74B.md)
+      - [s. 75 Transfers subject to appropriate safeguards](section/75.md)
+      - [s. 76 Transfers based on special circumstances](section/76.md)
+    - Additional conditions
+      - [s. 77 Additional conditions for transfers in reliance on section 73(4)(b)](section/77.md)
+    - Subsequent transfers
+      - [s. 78 Subsequent transfers](section/78.md)
+  - CHAPTER 6 Supplementary
+    - [s. 78A National security exemption](section/78A.md)
+    - [s. 79 National security: certificate](section/79.md)
+    - [s. 80 Special processing restrictions](section/80.md)
+    - [s. 81 Reporting of infringements](section/81.md)
+- PART 4 Intelligence services processing
+  - CHAPTER 1 Scope and definitions
+    - Scope
+      - [s. 82 Processing to which this Part applies](section/82.md)
+      - [s. 82A Designation of processing by a qualifying competent authority](section/82A.md)
+      - [s. 82B Duration of designation notice](section/82B.md)
+      - [s. 82C Review and withdrawal of designation notice](section/82C.md)
+      - [s. 82D Records of designation notices](section/82D.md)
+      - [s. 82E Appeal against designation notice](section/82E.md)
+    - Definitions
+      - [s. 83 Meaning of “controller” and “processor”](section/83.md)
+      - [s. 84 Other definitions](section/84.md)
+  - CHAPTER 2 Principles
+    - Overview
+      - [s. 85 Overview](section/85.md)
+    - The data protection principles
+      - [s. 86 The first data protection principle](section/86.md)
+      - [s. 87 The second data protection principle](section/87.md)
+      - [s. 88 The third data protection principle](section/88.md)
+      - [s. 89 The fourth data protection principle](section/89.md)
+      - [s. 90 The fifth data protection principle](section/90.md)
+      - [s. 91 The sixth data protection principle](section/91.md)
+      - [s. 91A Further provision about sensitive processing](section/91A.md)
+  - CHAPTER 3 Rights of the data subject
+    - Overview
+      - [s. 92 Overview](section/92.md)
+    - Rights
+      - [s. 93 Right to information](section/93.md)
+      - [s. 94 Right of access](section/94.md)
+      - [s. 95 Right of access: supplementary](section/95.md)
+      - [s. 96 Right not to be subject to automated decision-making](section/96.md)
+      - [s. 97 Right to intervene in automated decision-making](section/97.md)
+      - [s. 98 Right to information about decision-making](section/98.md)
+      - [s. 99 Right to object to processing](section/99.md)
+      - [s. 100 Rights to rectification and erasure](section/100.md)
+  - CHAPTER 4 Controller and processor
+    - Overview
+      - [s. 101 Overview](section/101.md)
+    - General obligations
+      - [s. 102 General obligations of the controller](section/102.md)
+      - [s. 103 Data protection by design](section/103.md)
+      - [s. 104 Joint controllers](section/104.md)
+      - [s. 105 Processors](section/105.md)
+      - [s. 106 Processing under the authority of the controller or processor](section/106.md)
+    - Obligations relating to security
+      - [s. 107 Security of processing](section/107.md)
+    - Obligations relating to personal data breaches
+      - [s. 108 Communication of a personal data breach](section/108.md)
+  - CHAPTER 5 Transfers of personal data outside the United Kingdom
+    - [s. 109 Transfers of personal data outside the United Kingdom](section/109.md)
+  - CHAPTER 6 Exemptions
+    - [s. 110 National security](section/110.md)
+    - [s. 111 National security: certificate](section/111.md)
+    - [s. 112 Other exemptions](section/112.md)
+    - [s. 113 Power to make further exemptions](section/113.md)
+- PART 5 The Information Commission
+  - ...
+    - [s. 114 The Information Commissioner](section/114.md)
+  - The Information Commission
+    - [s. 114A The Information Commission](section/114A.md)
+  - General functions
+    - [s. 115 General functions under the UK GDPR and safeguards](section/115.md)
+    - [s. 116 Other general functions](section/116.md)
+    - [s. 117 Competence in relation to courts etc](section/117.md)
+  - International role
+    - [s. 118 Co-operation between parties to the Data Protection Convention](section/118.md)
+    - [s. 119 Inspection of personal data in accordance with international obligations](section/119.md)
+    - [s. 119A Standard clauses for transfers to third countries etc](section/119A.md)
+    - [s. 120 Further international role](section/120.md)
+  - Duties in carrying out functions
+    - [s. 120A Principal objective](section/120A.md)
+    - [s. 120B Duties in relation to functions under the data protection legislation](section/120B.md)
+    - [s. 120C Strategy](section/120C.md)
+    - [s. 120D Duty to consult other regulators](section/120D.md)
+  - Codes of practice
+    - [s. 121 Data-sharing code](section/121.md)
+    - [s. 122 Direct marketing code](section/122.md)
+    - [s. 123 Age-appropriate design code](section/123.md)
+    - [s. 124 Data protection and journalism code](section/124.md)
+    - [s. 124A Other codes of practice](section/124A.md)
+    - [s. 124B Panels to consider codes of practice](section/124B.md)
+    - [s. 124C Impact assessments for codes of practice](section/124C.md)
+    - [s. 125 Approval of codes prepared under sections 121 to 124A](section/125.md)
+    - [s. 126 Publication and review of codes issued under section 125(4)](section/126.md)
+    - [s. 127 Effect of codes issued under section 125(4)](section/127.md)
+    - [s. 128 Other codes of practice](section/128.md)
+  - Consensual audits
+    - [s. 129 Consensual audits](section/129.md)
+  - Records of national security certificates
+    - [s. 130 Records of national security certificates](section/130.md)
+  - Information provided to the Commission
+    - [s. 131 Disclosure of information to the Commission](section/131.md)
+    - [s. 132 Confidentiality of information](section/132.md)
+    - [s. 133 Guidance about privileged communications](section/133.md)
+  - Fees
+    - [s. 134 Fees for services](section/134.md)
+    - [s. 135 Manifestly unfounded or excessive requests by data subjects etc](section/135.md)
+    - [s. 136 Guidance about fees](section/136.md)
+  - Charges
+    - [s. 137 Charges payable to the Commission by controllers](section/137.md)
+    - [s. 138 Regulations under section 137: supplementary](section/138.md)
+  - Reports etc
+    - [s. 139 Reporting to Parliament](section/139.md)
+    - [s. 139A Analysis of performance](section/139A.md)
+  - Documents and notices
+    - [s. 140 Publication by the Commission](section/140.md)
+    - [s. 141 Notices from the Commissioner](section/141.md)
+    - [s. 141A Notices from the Commission](section/141A.md)
+- PART 6 Enforcement
+  - Information notices
+    - [s. 142 Information notices](section/142.md)
+    - [s. 143 Information notices: restrictions](section/143.md)
+    - [s. 144 False statements made in response to information notices](section/144.md)
+    - [s. 145 Information orders](section/145.md)
+  - Assessment notices
+    - [s. 146 Assessment notices](section/146.md)
+    - [s. 146A Assessment notices: approval of person to prepare report etc](section/146A.md)
+    - [s. 147 Assessment notices: restrictions](section/147.md)
+  - Information notices and assessment notices: destruction of documents etc
+    - [s. 148 Destroying or falsifying information and documents etc](section/148.md)
+  - Interview notices
+    - [s. 148A Interview notices](section/148A.md)
+    - [s. 148B Interview notices: restrictions](section/148B.md)
+    - [s. 148C False statements made in response to interview notices](section/148C.md)
+  - Enforcement notices
+    - [s. 149 Enforcement notices](section/149.md)
+    - [s. 150 Enforcement notices: supplementary](section/150.md)
+    - [s. 151 Enforcement notices: rectification and erasure of personal data etc](section/151.md)
+    - [s. 152 Enforcement notices: restrictions](section/152.md)
+    - [s. 153 Enforcement notices: cancellation and variation](section/153.md)
+  - Powers of entry and inspection
+    - [s. 154 Powers of entry and inspection](section/154.md)
+  - Penalties
+    - [s. 155 Penalty notices](section/155.md)
+    - [s. 156 Penalty notices: restrictions](section/156.md)
+    - [s. 157 Maximum amount of penalty](section/157.md)
+    - [s. 158 Fixed penalties for non-compliance with charges regulations](section/158.md)
+    - [s. 159 Amount of penalties: supplementary](section/159.md)
+  - Guidance and report
+    - [s. 160 Guidance about regulatory action](section/160.md)
+    - [s. 161 Approval of first guidance about regulatory action](section/161.md)
+    - [s. 161A Annual report on regulatory action](section/161A.md)
+  - Appeals etc
+    - [s. 162 Rights of appeal](section/162.md)
+    - [s. 163 Determination of appeals](section/163.md)
+    - [s. 164 Applications in respect of urgent notices](section/164.md)
+  - Complaints
+    - [s. 164A Complaints by data subjects to controllers](section/164A.md)
+    - [s. 164B Controllers to notify the Commission of the number of complaints](section/164B.md)
+    - [s. 165 Complaints by data subjects to the Commission](section/165.md)
+    - [s. 166 Orders to progress complaints to the Commission](section/166.md)
+  - Remedies in the court
+    - [s. 167 Compliance orders](section/167.md)
+    - [s. 168 Compensation for contravention of the UK GDPR](section/168.md)
+    - [s. 169 Compensation for contravention of other data protection legislation](section/169.md)
+  - Offences relating to personal data
+    - [s. 170 Unlawful obtaining etc of personal data](section/170.md)
+    - [s. 171 Re-identification of de-identified personal data](section/171.md)
+    - [s. 172 Re-identification: effectiveness testing conditions](section/172.md)
+    - [s. 173 Alteration etc of personal data to prevent disclosure to data subject](section/173.md)
+  - The special purposes
+    - [s. 174 The special purposes](section/174.md)
+    - [s. 175 Provision of assistance in special purposes proceedings](section/175.md)
+    - [s. 176 Staying special purposes proceedings](section/176.md)
+    - [s. 177 Guidance about how to seek redress against media organisations](section/177.md)
+    - [s. 178 Review of processing of personal data for the purposes of journalism](section/178.md)
+    - [s. 179 Effectiveness of the media’s dispute resolution procedures](section/179.md)
+  - Jurisdiction and court procedure
+    - [s. 180 Jurisdiction](section/180.md)
+    - [s. 180A Procedure in connection with subject access requests](section/180A.md)
+  - Definitions
+    - [s. 181 Interpretation of Part 6](section/181.md)
+- PART 7 Supplementary and final provision
+  - Regulations under this Act
+    - [s. 182 Regulations and consultation](section/182.md)
+  - Changes to the Data Protection Convention
+    - [s. 183 Power to reflect changes to the Data Protection Convention](section/183.md)
+  - Prohibitions and restrictions etc on processing
+    - [s. 183A Protection of prohibitions and restrictions etc on processing: relevant enactments](section/183A.md)
+    - [s. 183B Protection of prohibitions and restrictions etc on processing: other enactments](section/183B.md)
+  - Rights of the data subject
+    - [s. 184 Prohibition of requirement to produce relevant records](section/184.md)
+    - [s. 185 Avoidance of certain contractual terms relating to health records](section/185.md)
+    - [s. 186 Protection of data subject’s rights](section/186.md)
+    - [s. 186A Protection of data subject’s rights: further provision](section/186A.md)
+  - Representation of data subjects
+    - [s. 187 Representation of data subjects with their authority](section/187.md)
+    - [s. 188 Representation of data subjects with their authority: collective proceedings](section/188.md)
+    - [s. 189 Duty to review provision for representation of data subjects](section/189.md)
+    - [s. 190 Post-review powers to make provision about representation of data subjects](section/190.md)
+  - Framework for Data Processing by Government
+    - [s. 191 Framework for Data Processing by Government](section/191.md)
+    - [s. 192 Approval of the Framework](section/192.md)
+    - [s. 193 Publication and review of the Framework](section/193.md)
+    - [s. 194 Effect of the Framework](section/194.md)
+  - Data-sharing: HMRC and reserve forces
+    - [s. 195 Reserve forces: data-sharing by HMRC](section/195.md)
+  - Offences
+    - [s. 196 Penalties for offences](section/196.md)
+    - [s. 197 Prosecution](section/197.md)
+    - [s. 198 Liability of directors etc](section/198.md)
+    - [s. 199 Recordable offences](section/199.md)
+    - [s. 200 Guidance about PACE codes of practice](section/200.md)
+  - The Tribunal
+    - [s. 201 Disclosure of information to the Tribunal](section/201.md)
+    - [s. 202 Proceedings in the First-tier Tribunal: contempt](section/202.md)
+    - [s. 203 Tribunal Procedure Rules](section/203.md)
+  - Interpretation
+    - [s. 204 Meaning of “health professional” and “social work professional”](section/204.md)
+    - [s. 205 General interpretation](section/205.md)
+    - [s. 206 Index of defined expressions](section/206.md)
+  - Territorial application
+    - [s. 207 Territorial application of this Act](section/207.md)
+  - General
+    - [s. 208 Children in Scotland](section/208.md)
+    - [s. 209 Application to the Crown](section/209.md)
+    - [s. 210 Application to Parliament](section/210.md)
+    - [s. 211 Minor and consequential provision](section/211.md)
+  - Final
+    - [s. 212 Commencement](section/212.md)
+    - [s. 213 Transitional provision](section/213.md)
+    - [s. 214 Extent](section/214.md)
+    - [s. 215 Short title](section/215.md)
+- Schedule A1 Processing in reliance on relevant international law
+- SCHEDULE 1 Special categories of personal data and criminal convictions etc data
+  - PART 1 Conditions relating to employment, health and research etc
+    - Employment, social security and social protection
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Health or social care purposes
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Public health
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Research etc
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - PART 2 Substantial public interest conditions
+    - Requirement for an appropriate policy document when relying on conditions in this Part
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Statutory etc and government purposes
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Administration of justice and parliamentary purposes
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Equality of opportunity or treatment
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Racial and ethnic diversity at senior levels of organisations
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Preventing etc unlawful acts
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Protecting the public against dishonesty etc
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Regulatory requirements relating to unlawful acts and dishonesty etc
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Journalism etc in connection with unlawful acts and dishonesty etc
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Preventing fraud
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Suspicion of terrorist financing or money laundering
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Support for individuals with a particular disability or medical condition
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Counselling etc
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Safeguarding of children and of individuals at risk
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Safeguarding of economic well-being of certain individuals
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Insurance
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Occupational pensions
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Political parties
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Elected representatives responding to requests
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Disclosure to elected representatives
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Informing elected representatives about prisoners
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Publication of legal judgments
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Anti-doping in sport
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Standards of behaviour in sport
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - PART 3 Additional conditions relating to criminal convictions etc
+    - Consent
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Protecting individual’s vital interests
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Processing by not-for-profit bodies
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Personal data in the public domain
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Legal claims
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Judicial acts
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Administration of accounts used in commission of indecency offences involving children
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Extension of conditions in Part 2 of this Schedule referring to substantial public interest
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Extension of insurance conditions
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - PART 4 Appropriate policy document and additional safeguards
+    - Application of this Part of this Schedule
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - Requirement to have an appropriate policy document in place
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Additional safeguard: retention of appropriate policy document
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - Additional safeguard: record of processing
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+- SCHEDULE 2 Exemptions etc from the UK GDPR
+  - PART 1 Adaptations and restrictions as described in Articles 6(3) and 23(1)
+    - UK GDPR provisions to be adapted or restricted: “the listed GDPR provisions”
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Crime and taxation: general
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Crime and taxation: risk assessment systems
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Immigration
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Immigration: safeguards: immigration exemption decisions
+      - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+    - Immigration: safeguard: record of decision that exemption applies
+      - [Sch. 2 para. 4B](schedule/2/paragraph/4B.md)
+    - Information required to be disclosed by law etc or in connection with legal proceedings
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 2 Restrictions as described in Article 23(1): restrictions of rules in Articles 13 to 21 and 34
+    - UK GDPR provisions to be restricted: “the listed GDPR provisions”
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Functions designed to protect the public etc
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Audit functions
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Functions of the Bank of England
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Regulatory functions relating to legal services, the health service and children’s services
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Regulatory functions of certain other persons
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Parliamentary privilege
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Judicial appointments, judicial independence and judicial proceedings
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Crown honours, dignities and appointments
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - PART 3 Restriction for the protection of rights of others
+    - Protection of the rights of others: general
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Assumption of reasonableness for health workers, social workers and education workers
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - PART 4 Restrictions as described in Article 23(1): restrictions of rules in Articles 13 to 15
+    - UK GDPR provisions to be restricted: “the listed GDPR provisions”
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Legal professional privilege
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Self incrimination
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Corporate finance
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Management forecasts
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Negotiations
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Confidential references
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Exam scripts and exam marks
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - PART 5 Exemptions etc ... for reasons of freedom of expression and information
+    - Journalistic, academic, artistic and literary purposes
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - PART 6 Derogations etc ... for research, statistics and archiving
+    - Research and statistics
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Archiving in the public interest
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+- SCHEDULE 3 Exemptions etc from the UK GDPR: health, social work, education and child abuse data
+  - PART 1 UK GDPR provisions to be restricted
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 Health data
+    - Definitions
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Exemption from the listed GDPR provisions: data processed by a court
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Exemption from the listed GDPR provisions: data subject’s expectations and wishes
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Exemption from Article 15 of the UK GDPR: serious harm
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Restriction of Article 15 of the UK GDPR: prior opinion of appropriate health professional
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - PART 3 Social work data
+    - Definitions
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Exemption from the listed GDPR provisions: data processed by a court
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Exemption from the listed GDPR provisions: data subject’s expectations and wishes
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Exemption from Article 15 of the UK GDPR: serious harm
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Restriction of Article 15 of the UK GDPR: prior opinion of Principal Reporter
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - PART 4 Education data
+    - Educational records
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Other definitions
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Exemption from the listed GDPR provisions: data processed by a court
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Exemption from Article 15 of the UK GDPR: serious harm
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Restriction of Article 15 of the UK GDPR: prior opinion of Principal Reporter
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - PART 5 Child abuse data
+    - Exemption from Article 15 of the UK GDPR: child abuse data
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 Exemptions etc from the UK GDPR: disclosure prohibited or restricted by an enactment
+  - UK GDPR provisions to be restricted: “the listed GDPR provisions”
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Human fertilisation and embryology information
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Adoption records and reports
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Statements of special educational needs
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Parental order records and reports
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Information provided by Principal Reporter for children’s hearing
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Accreditation of certification providers: reviews and appeals
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Review
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Right to appeal
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Appeal panel
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Hearing
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Decision following referral to appeal panel
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Meaning of “working day”
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 The applied GDPR and the applied Chapter 2
+  - PART 1 Modifications to the GDPR
+    - Introductory
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - References to the GDPR and its provisions
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - References to Union law and Member State law
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - References to the Union and to Member States
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - References to supervisory authorities
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - References to the national parliament
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Chapter I of the GDPR (general provisions)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Chapter II of the GDPR (principles)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Section 1 of Chapter III of the GDPR (rights of the data subject: transparency and modalities)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Section 2 of Chapter III of the GDPR (rights of the data subject: information and access to personal data)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Section 3 of Chapter III of the GDPR (rights of the data subject: rectification and erasure)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Section 4 of Chapter III of the GDPR (rights of the data subject: right to object and automated individual decision-making)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Section 5 of Chapter III of the GDPR (rights of the data subject: restrictions)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Section 1 of Chapter IV of the GDPR (controller and processor: general obligations)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - Section 3 of Chapter IV of the GDPR (controller and processor: data protection impact assessment and prior consultation)
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Section 4 of Chapter IV of the GDPR (controller and processor: data protection officer)
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - Section 5 of Chapter IV of the GDPR (controller and processor: codes of conduct and certification)
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - Chapter V of the GDPR (transfers of data to third countries or international organisations)
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+      - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - Section 1 of Chapter VI of the GDPR (independent supervisory authorities: independent status)
+      - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+      - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - Section 2 of Chapter VI of the GDPR (independent supervisory authorities: competence, tasks and powers)
+      - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+      - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - Chapter VII of the GDPR (co-operation and consistency)
+      - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+    - Chapter VIII of the GDPR (remedies, liability and penalties)
+      - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+      - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+      - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+      - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+      - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+      - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+      - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+      - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+    - Chapter IX of the GDPR (provisions relating to specific processing situations)
+      - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+      - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+      - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+      - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+      - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+      - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+      - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+    - Chapter X of the GDPR (delegated acts and implementing acts)
+      - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+      - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+    - Chapter XI of the GDPR (final provisions)
+      - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+      - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+      - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+      - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+      - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+      - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+  - PART 2 Modifications to Chapter 2 of Part 2
+    - Introductory
+      - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+    - General modifications
+      - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+    - Exemptions
+      - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+- SCHEDULE 7 Competent authorities
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Chief officers of police and other policing bodies
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 15A](schedule/7/paragraph/15A.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 18A](schedule/7/paragraph/18A.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Other authorities with investigatory functions
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+  - Authorities with functions relating to offender management
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+  - Other authorities
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 51A](schedule/7/paragraph/51A.md)
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+- SCHEDULE 8 Conditions for sensitive processing under Part 3
+  - Statutory etc purposes
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Administration of justice
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Protecting individual’s vital interests
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Safeguarding of children and of individuals at risk
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Personal data already in the public domain
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Legal claims
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Judicial acts
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Preventing fraud
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Archiving etc
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+- SCHEDULE 9 Conditions for processing under Part 4
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Conditions for sensitive processing under Part 4
+  - Consent to particular processing
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Right or obligation relating to employment
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Vital interests of a person
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Safeguarding of children and of individuals at risk
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Data already published by data subject
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Legal proceedings etc
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Administration of justice, parliamentary, statutory etc and government purposes
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Medical purposes
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Equality
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- SCHEDULE 11 Other exemptions under Part 4
+  - Preliminary
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Crime
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Information required to be disclosed by law etc or in connection with legal proceedings
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Parliamentary privilege
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Judicial proceedings
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Crown honours and dignities
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Armed forces
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Economic well-being
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Legal professional privilege
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Negotiations
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Confidential references given by the controller
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Exam scripts and marks
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Research and statistics
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Archiving in the public interest
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+- SCHEDULE 12 The Information Commissioner
+  - Status and capacity
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Appointment
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Resignation and removal
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Salary etc
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Officers and staff
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Carrying out of the Commissioner’s functions by officers and staff
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Authentication of the seal of the Commissioner
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Presumption of authenticity of documents issued by the Commissioner
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Money
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Fees etc and other sums
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Accounts
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Scotland
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- Schedule 12A The Information Commission
+  - [Sch. 12A para. 1 Status](schedule/12A/paragraph/1.md)
+  - [Sch. 12A para. 2 Number of members](schedule/12A/paragraph/2.md)
+  - [Sch. 12A para. 3 Membership: general](schedule/12A/paragraph/3.md)
+  - [Sch. 12A para. 4 Membership: non-executive members to outnumber executive members](schedule/12A/paragraph/4.md)
+  - [Sch. 12A para. 5 Membership: selection on merit etc](schedule/12A/paragraph/5.md)
+  - [Sch. 12A para. 6 Membership: conflicts of interests](schedule/12A/paragraph/6.md)
+  - [Sch. 12A para. 7 Tenure of the chair](schedule/12A/paragraph/7.md)
+  - [Sch. 12A para. 8 Tenure of deputy chair](schedule/12A/paragraph/8.md)
+  - [Sch. 12A para. 9 Tenure of the other non-executive members](schedule/12A/paragraph/9.md)
+  - [Sch. 12A para. 10 Remuneration and pensions of non-executive members](schedule/12A/paragraph/10.md)
+  - [Sch. 12A para. 11 Executive members: terms and conditions](schedule/12A/paragraph/11.md)
+  - [Sch. 12A para. 12 Other staff: appointment, terms and conditions](schedule/12A/paragraph/12.md)
+  - [Sch. 12A para. 13 Committees](schedule/12A/paragraph/13.md)
+  - [Sch. 12A para. 14 Delegation of functions](schedule/12A/paragraph/14.md)
+  - [Sch. 12A para. 15 Advice from committees](schedule/12A/paragraph/15.md)
+  - [Sch. 12A para. 16 Proceedings](schedule/12A/paragraph/16.md)
+  - [Sch. 12A para. 17 Records of proceedings](schedule/12A/paragraph/17.md)
+  - [Sch. 12A para. 18 Disqualification for acting in relation to certain matters](schedule/12A/paragraph/18.md)
+  - [Sch. 12A para. 19 Validity of proceedings](schedule/12A/paragraph/19.md)
+  - [Sch. 12A para. 20 Money](schedule/12A/paragraph/20.md)
+  - [Sch. 12A para. 21 Fees etc and other sums](schedule/12A/paragraph/21.md)
+  - [Sch. 12A para. 22 Accounts](schedule/12A/paragraph/22.md)
+  - [Sch. 12A para. 23 Authentication of seal and presumption of authenticity of documents](schedule/12A/paragraph/23.md)
+  - [Sch. 12A para. 24 Supplementary powers](schedule/12A/paragraph/24.md)
+  - [Sch. 12A para. 25 Transitional provision: interim chief executive](schedule/12A/paragraph/25.md)
+  - [Sch. 12A para. 26 Interpretation](schedule/12A/paragraph/26.md)
+- SCHEDULE 13 Other general functions of the Commission
+  - General tasks
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - General powers
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Definitions
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+- SCHEDULE 14 Co-operation and mutual assistance
+  - PART 1 Law Enforcement Directive
+    - Co-operation
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Requests for information and assistance from LED supervisory authorities
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Fees
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Restrictions on use of information
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - LED supervisory authority
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - PART 2 Data Protection Convention
+    - Co-operation between the Commission and foreign designated authorities
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Assisting persons resident outside the UK with requests under Article 14 of the Convention
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Assisting UK residents with requests under Article 8 of the Convention
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Restrictions on use of information
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Foreign designated authority
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+- SCHEDULE 15 Powers of entry and inspection
+  - Issue of warrants in connection with non-compliance and offences
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Issue of warrants in connection with assessment notices
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Restrictions on issuing warrants: processing for the special purposes
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Restrictions on issuing warrants: procedural requirements
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Content of warrants
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Copies of warrants
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Execution of warrants: reasonable force
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Execution of warrants: time when executed
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Execution of warrants: occupier of premises
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Execution of warrants: seizure of documents etc
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Matters exempt from inspection and seizure: privileged communications
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Matters exempt from inspection and seizure: Parliamentary privilege
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Partially exempt material
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - Return of warrants
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - Offences
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+  - Self-incrimination
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - Vessels, vehicles etc
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - Scotland
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - Northern Ireland
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+- SCHEDULE 16 Penalties
+  - Meaning of “penalty”
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Notice of intent to impose penalty
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Contents of notice of intent
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Giving a penalty notice
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Contents of penalty notice
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Period for payment of penalty
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Variation of penalty
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Cancellation of penalty
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Enforcement of payment
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+- SCHEDULE 17 Review of processing of personal data for the purposes of journalism
+  - Interpretation
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Information notices
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Assessment notices
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Interview notices
+    - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
+  - Applications in respect of urgent notices
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+- SCHEDULE 18 Relevant records
+  - Relevant records
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Relevant health records
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Relevant records relating to a conviction or caution
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Relevant records relating to statutory functions
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Data subject access right
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Records stating that personal data is not processed
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Power to amend
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+- SCHEDULE 19 Minor and consequential amendments
+  - PART 1 Amendments of primary legislation
+    - Registration Service Act 1953 (c. 37)
+      - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - Veterinary Surgeons Act 1966 (c. 36)
+      - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - Local Government Act 1974 (c. 7)
+      - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+      - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+      - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+      - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+      - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+      - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - Pharmacy (Northern Ireland) Order 1976 (S.I. 1976/1213 (N.I. 22))
+      - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+      - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+      - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+      - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+      - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+      - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - Representation of the People Act 1983 (c. 2)
+      - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - Medical Act 1983 (c. 54)
+      - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+      - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+      - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+      - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
+      - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+      - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
+      - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
+      - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
+    - Dentists Act 1984 (c. 24)
+      - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+      - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
+      - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
+      - [Sch. 19 para. 30](schedule/19/paragraph/30.md)
+      - [Sch. 19 para. 31](schedule/19/paragraph/31.md)
+      - [Sch. 19 para. 32](schedule/19/paragraph/32.md)
+    - Companies Act 1985 (c. 6)
+      - [Sch. 19 para. 33](schedule/19/paragraph/33.md)
+    - Access to Medical Reports Act 1988 (c. 28)
+      - [Sch. 19 para. 34](schedule/19/paragraph/34.md)
+    - Opticians Act 1989 (c. 44)
+      - [Sch. 19 para. 35](schedule/19/paragraph/35.md)
+    - Access to Health Records Act 1990 (c. 23)
+      - [Sch. 19 para. 36](schedule/19/paragraph/36.md)
+      - [Sch. 19 para. 37](schedule/19/paragraph/37.md)
+      - [Sch. 19 para. 38](schedule/19/paragraph/38.md)
+    - Human Fertilisation and Embryology Act 1990 (c. 37)
+      - [Sch. 19 para. 39](schedule/19/paragraph/39.md)
+    - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+      - [Sch. 19 para. 40](schedule/19/paragraph/40.md)
+    - Tribunals and Inquiries Act 1992 (c. 53)
+      - [Sch. 19 para. 41](schedule/19/paragraph/41.md)
+    - Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5))
+      - [Sch. 19 para. 42](schedule/19/paragraph/42.md)
+    - Health Service Commissioners Act 1993 (c. 46)
+      - [Sch. 19 para. 43](schedule/19/paragraph/43.md)
+    - Data Protection Act 1998 (c. 29)
+      - [Sch. 19 para. 44](schedule/19/paragraph/44.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 19 para. 45](schedule/19/paragraph/45.md)
+    - Food Standards Act 1999 (c. 28)
+      - [Sch. 19 para. 46](schedule/19/paragraph/46.md)
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 19 para. 47](schedule/19/paragraph/47.md)
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 19 para. 48](schedule/19/paragraph/48.md)
+      - [Sch. 19 para. 49](schedule/19/paragraph/49.md)
+      - [Sch. 19 para. 50](schedule/19/paragraph/50.md)
+      - [Sch. 19 para. 51](schedule/19/paragraph/51.md)
+      - [Sch. 19 para. 52](schedule/19/paragraph/52.md)
+      - [Sch. 19 para. 53](schedule/19/paragraph/53.md)
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 19 para. 54](schedule/19/paragraph/54.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 19 para. 55](schedule/19/paragraph/55.md)
+      - [Sch. 19 para. 56](schedule/19/paragraph/56.md)
+      - [Sch. 19 para. 57](schedule/19/paragraph/57.md)
+      - [Sch. 19 para. 58](schedule/19/paragraph/58.md)
+      - [Sch. 19 para. 59](schedule/19/paragraph/59.md)
+      - [Sch. 19 para. 60](schedule/19/paragraph/60.md)
+      - [Sch. 19 para. 61](schedule/19/paragraph/61.md)
+      - [Sch. 19 para. 62](schedule/19/paragraph/62.md)
+      - [Sch. 19 para. 63](schedule/19/paragraph/63.md)
+      - [Sch. 19 para. 64](schedule/19/paragraph/64.md)
+    - Political Parties, Elections and Referendums Act 2000 (c. 41)
+      - [Sch. 19 para. 65](schedule/19/paragraph/65.md)
+    - Public Finance and Accountability (Scotland) Act 2000 (asp 1)
+      - [Sch. 19 para. 66](schedule/19/paragraph/66.md)
+      - [Sch. 19 para. 67](schedule/19/paragraph/67.md)
+      - [Sch. 19 para. 68](schedule/19/paragraph/68.md)
+      - [Sch. 19 para. 69](schedule/19/paragraph/69.md)
+    - Criminal Justice and Police Act 2001 (c. 16)
+      - [Sch. 19 para. 70](schedule/19/paragraph/70.md)
+      - [Sch. 19 para. 71](schedule/19/paragraph/71.md)
+      - [Sch. 19 para. 72](schedule/19/paragraph/72.md)
+      - [Sch. 19 para. 73](schedule/19/paragraph/73.md)
+    - Anti-terrorism, Crime and Security Act 2001 (c.24)
+      - [Sch. 19 para. 74](schedule/19/paragraph/74.md)
+      - [Sch. 19 para. 75](schedule/19/paragraph/75.md)
+      - [Sch. 19 para. 76](schedule/19/paragraph/76.md)
+    - Health and Personal Social Services Act (Northern Ireland) 2001 (c. 3 (N.I.))
+      - [Sch. 19 para. 77](schedule/19/paragraph/77.md)
+    - Justice (Northern Ireland) Act 2002 (c. 26)
+      - [Sch. 19 para. 78](schedule/19/paragraph/78.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 19 para. 79](schedule/19/paragraph/79.md)
+      - [Sch. 19 para. 80](schedule/19/paragraph/80.md)
+      - [Sch. 19 para. 81](schedule/19/paragraph/81.md)
+      - [Sch. 19 para. 82](schedule/19/paragraph/82.md)
+      - [Sch. 19 para. 83](schedule/19/paragraph/83.md)
+      - [Sch. 19 para. 84](schedule/19/paragraph/84.md)
+      - [Sch. 19 para. 85](schedule/19/paragraph/85.md)
+    - Enterprise Act 2002 (c. 40)
+      - [Sch. 19 para. 86](schedule/19/paragraph/86.md)
+    - Scottish Public Services Ombudsman Act 2002 (asp 11)
+      - [Sch. 19 para. 87](schedule/19/paragraph/87.md)
+    - Freedom of Information (Scotland) Act 2002 (asp 13)
+      - [Sch. 19 para. 88](schedule/19/paragraph/88.md)
+      - [Sch. 19 para. 89](schedule/19/paragraph/89.md)
+      - [Sch. 19 para. 90](schedule/19/paragraph/90.md)
+    - Courts Act 2003 (c. 39)
+      - [Sch. 19 para. 91](schedule/19/paragraph/91.md)
+      - [Sch. 19 para. 92](schedule/19/paragraph/92.md)
+      - [Sch. 19 para. 93](schedule/19/paragraph/93.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 19 para. 94](schedule/19/paragraph/94.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 19 para. 95](schedule/19/paragraph/95.md)
+      - [Sch. 19 para. 96](schedule/19/paragraph/96.md)
+      - [Sch. 19 para. 97](schedule/19/paragraph/97.md)
+    - Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+      - [Sch. 19 para. 98](schedule/19/paragraph/98.md)
+    - Public Audit (Wales) Act 2004 (c. 23)
+      - [Sch. 19 para. 99](schedule/19/paragraph/99.md)
+    - Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
+      - [Sch. 19 para. 100](schedule/19/paragraph/100.md)
+      - [Sch. 19 para. 101](schedule/19/paragraph/101.md)
+      - [Sch. 19 para. 102](schedule/19/paragraph/102.md)
+    - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+      - [Sch. 19 para. 103](schedule/19/paragraph/103.md)
+    - Children Act 2004 (c. 31)
+      - [Sch. 19 para. 104](schedule/19/paragraph/104.md)
+      - [Sch. 19 para. 105](schedule/19/paragraph/105.md)
+      - [Sch. 19 para. 106](schedule/19/paragraph/106.md)
+    - Constitutional Reform Act 2005 (c. 4)
+      - [Sch. 19 para. 107](schedule/19/paragraph/107.md)
+    - Mental Capacity Act 2005 (c. 9)
+      - [Sch. 19 para. 108](schedule/19/paragraph/108.md)
+    - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+      - [Sch. 19 para. 109](schedule/19/paragraph/109.md)
+    - Commissioners for Revenue and Customs Act 2005 (c. 11)
+      - [Sch. 19 para. 110](schedule/19/paragraph/110.md)
+    - Gambling Act 2005 (c. 19)
+      - [Sch. 19 para. 111](schedule/19/paragraph/111.md)
+    - Commissioner for Older People (Wales) Act 2006 (c. 30)
+      - [Sch. 19 para. 112](schedule/19/paragraph/112.md)
+    - National Health Service Act 2006 (c. 41)
+      - [Sch. 19 para. 113](schedule/19/paragraph/113.md)
+      - [Sch. 19 para. 114](schedule/19/paragraph/114.md)
+      - [Sch. 19 para. 115](schedule/19/paragraph/115.md)
+      - [Sch. 19 para. 116](schedule/19/paragraph/116.md)
+    - National Health Service (Wales) Act 2006 (c. 42)
+      - [Sch. 19 para. 117](schedule/19/paragraph/117.md)
+      - [Sch. 19 para. 118](schedule/19/paragraph/118.md)
+      - [Sch. 19 para. 119](schedule/19/paragraph/119.md)
+    - Companies Act 2006 (c. 46)
+      - [Sch. 19 para. 120](schedule/19/paragraph/120.md)
+      - [Sch. 19 para. 121](schedule/19/paragraph/121.md)
+      - [Sch. 19 para. 122](schedule/19/paragraph/122.md)
+      - [Sch. 19 para. 123](schedule/19/paragraph/123.md)
+      - [Sch. 19 para. 124](schedule/19/paragraph/124.md)
+      - [Sch. 19 para. 125](schedule/19/paragraph/125.md)
+      - [Sch. 19 para. 126](schedule/19/paragraph/126.md)
+      - [Sch. 19 para. 127](schedule/19/paragraph/127.md)
+      - [Sch. 19 para. 128](schedule/19/paragraph/128.md)
+      - [Sch. 19 para. 129](schedule/19/paragraph/129.md)
+    - Tribunals, Courts and Enforcement Act 2007 (c. 15)
+      - [Sch. 19 para. 130](schedule/19/paragraph/130.md)
+      - [Sch. 19 para. 131](schedule/19/paragraph/131.md)
+      - [Sch. 19 para. 132](schedule/19/paragraph/132.md)
+    - Statistics and Registration Service Act 2007 (c. 18)
+      - [Sch. 19 para. 133](schedule/19/paragraph/133.md)
+      - [Sch. 19 para. 134](schedule/19/paragraph/134.md)
+      - [Sch. 19 para. 135](schedule/19/paragraph/135.md)
+      - [Sch. 19 para. 136](schedule/19/paragraph/136.md)
+      - [Sch. 19 para. 137](schedule/19/paragraph/137.md)
+      - [Sch. 19 para. 138](schedule/19/paragraph/138.md)
+      - [Sch. 19 para. 139](schedule/19/paragraph/139.md)
+      - [Sch. 19 para. 140](schedule/19/paragraph/140.md)
+      - [Sch. 19 para. 141](schedule/19/paragraph/141.md)
+      - [Sch. 19 para. 142](schedule/19/paragraph/142.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 19 para. 143](schedule/19/paragraph/143.md)
+      - [Sch. 19 para. 144](schedule/19/paragraph/144.md)
+      - [Sch. 19 para. 145](schedule/19/paragraph/145.md)
+      - [Sch. 19 para. 146](schedule/19/paragraph/146.md)
+    - Legal Services Act 2007 (c. 29)
+      - [Sch. 19 para. 147](schedule/19/paragraph/147.md)
+    - Adoption and Children (Scotland) Act 2007 (asp 4)
+      - [Sch. 19 para. 148](schedule/19/paragraph/148.md)
+    - Criminal Justice and Immigration Act 2008 (c. 4)
+      - [Sch. 19 para. 149](schedule/19/paragraph/149.md)
+      - [Sch. 19 para. 150](schedule/19/paragraph/150.md)
+      - [Sch. 19 para. 151](schedule/19/paragraph/151.md)
+    - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+      - [Sch. 19 para. 152](schedule/19/paragraph/152.md)
+    - Health and Social Care Act 2008 (c. 14)
+      - [Sch. 19 para. 153](schedule/19/paragraph/153.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 19 para. 154](schedule/19/paragraph/154.md)
+    - Public Health etc. (Scotland) Act 2008 (asp 5)
+      - [Sch. 19 para. 155](schedule/19/paragraph/155.md)
+    - Banking Act 2009 (c. 1)
+      - [Sch. 19 para. 156](schedule/19/paragraph/156.md)
+    - Borders, Citizenship and Immigration Act 2009 (c. 11)
+      - [Sch. 19 para. 157](schedule/19/paragraph/157.md)
+    - Marine and Coastal Access Act 2009 (c. 23)
+      - [Sch. 19 para. 158](schedule/19/paragraph/158.md)
+      - [Sch. 19 para. 159](schedule/19/paragraph/159.md)
+      - [Sch. 19 para. 160](schedule/19/paragraph/160.md)
+    - Coroners and Justice Act 2009 (c. 25)
+      - [Sch. 19 para. 161](schedule/19/paragraph/161.md)
+    - Broads Authority Act 2009 (c. i)
+      - [Sch. 19 para. 162](schedule/19/paragraph/162.md)
+    - Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1 (N.I.))
+      - [Sch. 19 para. 163](schedule/19/paragraph/163.md)
+    - Terrorist Asset-Freezing etc. Act 2010 (c. 38)
+      - [Sch. 19 para. 164](schedule/19/paragraph/164.md)
+    - Marine (Scotland) Act 2010 (asp 5)
+      - [Sch. 19 para. 165](schedule/19/paragraph/165.md)
+    - Charities Act 2011 (c. 25)
+      - [Sch. 19 para. 166](schedule/19/paragraph/166.md)
+    - Welsh Language (Wales) Measure 2011 (nawm 1)
+      - [Sch. 19 para. 167](schedule/19/paragraph/167.md)
+      - [Sch. 19 para. 168](schedule/19/paragraph/168.md)
+      - [Sch. 19 para. 169](schedule/19/paragraph/169.md)
+    - Safeguarding Board Act (Northern Ireland) 2011 (c. 7 (N.I))
+      - [Sch. 19 para. 170](schedule/19/paragraph/170.md)
+    - Health and Social Care Act 2012 (c. 7)
+      - [Sch. 19 para. 171](schedule/19/paragraph/171.md)
+      - [Sch. 19 para. 172](schedule/19/paragraph/172.md)
+      - [Sch. 19 para. 173](schedule/19/paragraph/173.md)
+      - [Sch. 19 para. 174](schedule/19/paragraph/174.md)
+    - Protection of Freedoms Act 2012 (c. 9)
+      - [Sch. 19 para. 175](schedule/19/paragraph/175.md)
+      - [Sch. 19 para. 176](schedule/19/paragraph/176.md)
+      - [Sch. 19 para. 177](schedule/19/paragraph/177.md)
+      - [Sch. 19 para. 178](schedule/19/paragraph/178.md)
+    - HGV Road User Levy Act 2013 (c. 7)
+      - [Sch. 19 para. 179](schedule/19/paragraph/179.md)
+    - Crime and Courts Act 2013 (c. 22)
+      - [Sch. 19 para. 180](schedule/19/paragraph/180.md)
+      - [Sch. 19 para. 181](schedule/19/paragraph/181.md)
+      - [Sch. 19 para. 182](schedule/19/paragraph/182.md)
+    - Marine Act (Northern Ireland) 2013 (c. 10 (N.I.))
+      - [Sch. 19 para. 183](schedule/19/paragraph/183.md)
+    - Local Audit and Accountability Act 2014 (c. 2)
+      - [Sch. 19 para. 184](schedule/19/paragraph/184.md)
+    - Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)
+      - [Sch. 19 para. 185](schedule/19/paragraph/185.md)
+    - Immigration Act 2014 (c. 22)
+      - [Sch. 19 para. 186](schedule/19/paragraph/186.md)
+    - Care Act 2014 (c. 23)
+      - [Sch. 19 para. 187](schedule/19/paragraph/187.md)
+    - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+      - [Sch. 19 para. 188](schedule/19/paragraph/188.md)
+    - Counter-Terrorism and Security Act 2015 (c. 6)
+      - [Sch. 19 para. 189](schedule/19/paragraph/189.md)
+    - Small Business, Enterprise and Employment Act 2015 (c. 26)
+      - [Sch. 19 para. 190](schedule/19/paragraph/190.md)
+    - Modern Slavery Act 2015 (c. 30)
+      - [Sch. 19 para. 191](schedule/19/paragraph/191.md)
+    - Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))
+      - [Sch. 19 para. 192](schedule/19/paragraph/192.md)
+      - [Sch. 19 para. 193](schedule/19/paragraph/193.md)
+      - [Sch. 19 para. 194](schedule/19/paragraph/194.md)
+      - [Sch. 19 para. 195](schedule/19/paragraph/195.md)
+    - Justice Act (Northern Ireland) 2015 (c. 9 (N.I.))
+      - [Sch. 19 para. 196](schedule/19/paragraph/196.md)
+    - Immigration Act 2016 (c. 19)
+      - [Sch. 19 para. 197](schedule/19/paragraph/197.md)
+    - Investigatory Powers Act 2016 (c. 25)
+      - [Sch. 19 para. 198](schedule/19/paragraph/198.md)
+      - [Sch. 19 para. 199](schedule/19/paragraph/199.md)
+      - [Sch. 19 para. 200](schedule/19/paragraph/200.md)
+      - [Sch. 19 para. 201](schedule/19/paragraph/201.md)
+      - [Sch. 19 para. 202](schedule/19/paragraph/202.md)
+      - [Sch. 19 para. 203](schedule/19/paragraph/203.md)
+    - Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4 (N.I.))
+      - [Sch. 19 para. 204](schedule/19/paragraph/204.md)
+    - Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016 (c. 12 (N.I.))
+      - [Sch. 19 para. 205](schedule/19/paragraph/205.md)
+    - Mental Capacity Act (Northern Ireland) 2016 (c. 18 (N.I.))
+      - [Sch. 19 para. 206](schedule/19/paragraph/206.md)
+    - Justice Act (Northern Ireland) 2016 (c. 21 (N.I.))
+      - [Sch. 19 para. 207](schedule/19/paragraph/207.md)
+      - [Sch. 19 para. 208](schedule/19/paragraph/208.md)
+      - [Sch. 19 para. 209](schedule/19/paragraph/209.md)
+    - Policing and Crime Act 2017 (c. 3)
+      - [Sch. 19 para. 210](schedule/19/paragraph/210.md)
+    - Children and Social Work Act 2017 (c. 12)
+      - [Sch. 19 para. 211](schedule/19/paragraph/211.md)
+    - Higher Education and Research Act 2017 (c. 29)
+      - [Sch. 19 para. 212](schedule/19/paragraph/212.md)
+      - [Sch. 19 para. 213](schedule/19/paragraph/213.md)
+      - [Sch. 19 para. 214](schedule/19/paragraph/214.md)
+    - Digital Economy Act 2017 (c. 30)
+      - [Sch. 19 para. 215](schedule/19/paragraph/215.md)
+      - [Sch. 19 para. 216](schedule/19/paragraph/216.md)
+      - [Sch. 19 para. 217](schedule/19/paragraph/217.md)
+      - [Sch. 19 para. 218](schedule/19/paragraph/218.md)
+      - [Sch. 19 para. 219](schedule/19/paragraph/219.md)
+      - [Sch. 19 para. 220](schedule/19/paragraph/220.md)
+      - [Sch. 19 para. 221](schedule/19/paragraph/221.md)
+      - [Sch. 19 para. 222](schedule/19/paragraph/222.md)
+      - [Sch. 19 para. 223](schedule/19/paragraph/223.md)
+      - [Sch. 19 para. 224](schedule/19/paragraph/224.md)
+    - Landfill Disposals Tax (Wales) Act 2017 (anaw 3)
+      - [Sch. 19 para. 225](schedule/19/paragraph/225.md)
+    - Additional Learning Needs and Educational Tribunal (Wales) Act 2018 (anaw 2)
+      - [Sch. 19 para. 226](schedule/19/paragraph/226.md)
+    - This Act
+      - [Sch. 19 para. 227](schedule/19/paragraph/227.md)
+  - PART 2 Amendments of other legislation
+    - Estate Agents (Specified Offences) (No. 2) Order 1991 (S.I. 1991/1091)
+      - [Sch. 19 para. 228](schedule/19/paragraph/228.md)
+    - Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)
+      - [Sch. 19 para. 229](schedule/19/paragraph/229.md)
+    - Access to Health Records (Northern Ireland) Order 1993 (S.I. 1993/1250 (N.I. 4))
+      - [Sch. 19 para. 230](schedule/19/paragraph/230.md)
+      - [Sch. 19 para. 231](schedule/19/paragraph/231.md)
+      - [Sch. 19 para. 232](schedule/19/paragraph/232.md)
+    - Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)
+      - [Sch. 19 para. 233](schedule/19/paragraph/233.md)
+    - European Primary and Specialist Dental Qualifications Regulations 1998 (S.I. 1998/811)
+      - [Sch. 19 para. 234](schedule/19/paragraph/234.md)
+      - [Sch. 19 para. 235](schedule/19/paragraph/235.md)
+      - [Sch. 19 para. 236](schedule/19/paragraph/236.md)
+    - Scottish Parliamentary Corporate Body (Crown Status) Order 1999 (S.I. 1999/677)
+      - [Sch. 19 para. 237](schedule/19/paragraph/237.md)
+    - Northern Ireland Assembly Commission (Crown Status) Order 1999 (S.I. 1999/3145)
+      - [Sch. 19 para. 238](schedule/19/paragraph/238.md)
+    - Data Protection (Corporate Finance Exemption) Order 2000 (S.I. 2000/184)
+      - [Sch. 19 para. 239](schedule/19/paragraph/239.md)
+    - Data Protection (Conditions under Paragraph 3 of Part II of Schedule 1) Order 2000 (S.I. 2000/185)
+      - [Sch. 19 para. 240](schedule/19/paragraph/240.md)
+    - Data Protection (Functions of Designated Authority) Order 2000 (S.I. 2000/186)
+      - [Sch. 19 para. 241](schedule/19/paragraph/241.md)
+    - Data Protection (International Co-operation) Order 2000 (S.I. 2000/190)
+      - [Sch. 19 para. 242](schedule/19/paragraph/242.md)
+    - Data Protection (Subject Access) (Fees and Miscellaneous Provisions) Regulations 2000 (S.I. 2000/191)
+      - [Sch. 19 para. 243](schedule/19/paragraph/243.md)
+    - Consumer Credit (Credit Reference Agency) Regulations 2000 (S.I. 2000/290)
+      - [Sch. 19 para. 244](schedule/19/paragraph/244.md)
+    - Data Protection (Subject Access Modification) (Health) Order 2000 (S.I. 2000/413)
+      - [Sch. 19 para. 245](schedule/19/paragraph/245.md)
+    - Data Protection (Subject Access Modification) (Education) Order 2000 (S.I. 2000/414)
+      - [Sch. 19 para. 246](schedule/19/paragraph/246.md)
+    - Data Protection (Subject Access Modification) (Social Work) Order 2000 (S.I. 2000/415)
+      - [Sch. 19 para. 247](schedule/19/paragraph/247.md)
+    - Data Protection (Crown Appointments) Order 2000 (S.I. 2000/416)
+      - [Sch. 19 para. 248](schedule/19/paragraph/248.md)
+    - Data Protection (Processing of Sensitive Personal Data) Order 2000 (S.I. 2000/417)
+      - [Sch. 19 para. 249](schedule/19/paragraph/249.md)
+    - Data Protection (Miscellaneous Subject Access Exemptions) Order 2000 (S.I. 2000/419)
+      - [Sch. 19 para. 250](schedule/19/paragraph/250.md)
+    - Data Protection (Designated Codes of Practice) (No. 2) Order 2000 (S.I. 2000/1864)
+      - [Sch. 19 para. 251](schedule/19/paragraph/251.md)
+    - Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)
+      - [Sch. 19 para. 252](schedule/19/paragraph/252.md)
+      - [Sch. 19 para. 253](schedule/19/paragraph/253.md)
+      - [Sch. 19 para. 254](schedule/19/paragraph/254.md)
+      - [Sch. 19 para. 255](schedule/19/paragraph/255.md)
+      - [Sch. 19 para. 256](schedule/19/paragraph/256.md)
+      - [Sch. 19 para. 257](schedule/19/paragraph/257.md)
+      - [Sch. 19 para. 258](schedule/19/paragraph/258.md)
+      - [Sch. 19 para. 259](schedule/19/paragraph/259.md)
+      - [Sch. 19 para. 260](schedule/19/paragraph/260.md)
+      - [Sch. 19 para. 261](schedule/19/paragraph/261.md)
+      - [Sch. 19 para. 262](schedule/19/paragraph/262.md)
+      - [Sch. 19 para. 263](schedule/19/paragraph/263.md)
+      - [Sch. 19 para. 264](schedule/19/paragraph/264.md)
+    - Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)
+      - [Sch. 19 para. 265](schedule/19/paragraph/265.md)
+      - [Sch. 19 para. 266](schedule/19/paragraph/266.md)
+      - [Sch. 19 para. 267](schedule/19/paragraph/267.md)
+      - [Sch. 19 para. 268](schedule/19/paragraph/268.md)
+      - [Sch. 19 para. 269](schedule/19/paragraph/269.md)
+      - [Sch. 19 para. 270](schedule/19/paragraph/270.md)
+      - [Sch. 19 para. 271](schedule/19/paragraph/271.md)
+      - [Sch. 19 para. 272](schedule/19/paragraph/272.md)
+      - [Sch. 19 para. 273](schedule/19/paragraph/273.md)
+      - [Sch. 19 para. 274](schedule/19/paragraph/274.md)
+      - [Sch. 19 para. 275](schedule/19/paragraph/275.md)
+      - [Sch. 19 para. 276](schedule/19/paragraph/276.md)
+      - [Sch. 19 para. 277](schedule/19/paragraph/277.md)
+    - Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 (S.I. 2001/2188)
+      - [Sch. 19 para. 278](schedule/19/paragraph/278.md)
+    - Nursing and Midwifery Order 2001 (S.I. 2002/253)
+      - [Sch. 19 para. 279](schedule/19/paragraph/279.md)
+      - [Sch. 19 para. 280](schedule/19/paragraph/280.md)
+      - [Sch. 19 para. 281](schedule/19/paragraph/281.md)
+      - [Sch. 19 para. 282](schedule/19/paragraph/282.md)
+      - [Sch. 19 para. 283](schedule/19/paragraph/283.md)
+      - [Sch. 19 para. 284](schedule/19/paragraph/284.md)
+      - [Sch. 19 para. 285](schedule/19/paragraph/285.md)
+      - [Sch. 19 para. 286](schedule/19/paragraph/286.md)
+    - Electronic Commerce (EC Directive) Regulations 2002 (S.I. 2002/2013)
+      - [Sch. 19 para. 287](schedule/19/paragraph/287.md)
+      - [Sch. 19 para. 288](schedule/19/paragraph/288.md)
+      - [Sch. 19 para. 289](schedule/19/paragraph/289.md)
+    - Data Protection (Processing of Sensitive Personal Data) (Elected Representatives) Order 2002 (S.I. 2002/2905)
+      - [Sch. 19 para. 290](schedule/19/paragraph/290.md)
+    - Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426)
+      - [Sch. 19 para. 291](schedule/19/paragraph/291.md)
+      - [Sch. 19 para. 292](schedule/19/paragraph/292.md)
+      - [Sch. 19 para. 293](schedule/19/paragraph/293.md)
+    - Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 (S.I. 2003/2818)
+      - [Sch. 19 para. 294](schedule/19/paragraph/294.md)
+      - [Sch. 19 para. 295](schedule/19/paragraph/295.md)
+      - [Sch. 19 para. 296](schedule/19/paragraph/296.md)
+    - Pupils’ Educational Records (Scotland) Regulations 2003 (S.S.I. 2003/581)
+      - [Sch. 19 para. 297](schedule/19/paragraph/297.md)
+      - [Sch. 19 para. 298](schedule/19/paragraph/298.md)
+      - [Sch. 19 para. 299](schedule/19/paragraph/299.md)
+      - [Sch. 19 para. 300](schedule/19/paragraph/300.md)
+    - European Parliamentary Elections (Northern Ireland) Regulations 2004 (S.I. 2004/1267)
+      - [Sch. 19 para. 301](schedule/19/paragraph/301.md)
+      - [Sch. 19 para. 302](schedule/19/paragraph/302.md)
+      - [Sch. 19 para. 303](schedule/19/paragraph/303.md)
+    - Freedom of Information and Data Protection (Appropriate Limit and Fees) Regulations 2004 (S.I. 2004/3244)
+      - [Sch. 19 para. 304](schedule/19/paragraph/304.md)
+    - Environmental Information Regulations 2004 (S.I. 2004/3391)
+      - [Sch. 19 para. 305](schedule/19/paragraph/305.md)
+      - [Sch. 19 para. 306](schedule/19/paragraph/306.md)
+      - [Sch. 19 para. 307](schedule/19/paragraph/307.md)
+      - [Sch. 19 para. 308](schedule/19/paragraph/308.md)
+      - [Sch. 19 para. 309](schedule/19/paragraph/309.md)
+    - Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520)
+      - [Sch. 19 para. 310](schedule/19/paragraph/310.md)
+      - [Sch. 19 para. 311](schedule/19/paragraph/311.md)
+      - [Sch. 19 para. 312](schedule/19/paragraph/312.md)
+    - Licensing Act 2003 (Personal Licences) Regulations 2005 (S.I. 2005/41)
+      - [Sch. 19 para. 313](schedule/19/paragraph/313.md)
+    - Education (Pupil Information) (England) Regulations 2005 (S.I. 2005/1437)
+      - [Sch. 19 para. 314](schedule/19/paragraph/314.md)
+      - [Sch. 19 para. 315](schedule/19/paragraph/315.md)
+      - [Sch. 19 para. 316](schedule/19/paragraph/316.md)
+    - Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005 (S.I. 2005/2042)
+      - [Sch. 19 para. 317](schedule/19/paragraph/317.md)
+    - Register of Judgments, Orders and Fines Regulations 2005 (S.I. 2005/3595)
+      - [Sch. 19 para. 318](schedule/19/paragraph/318.md)
+    - Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005 (S.S.I. 2005/494)
+      - [Sch. 19 para. 319](schedule/19/paragraph/319.md)
+      - [Sch. 19 para. 320](schedule/19/paragraph/320.md)
+    - Data Protection (Processing of Sensitive Personal Data) Order 2006 (S.I. 2006/2068)
+      - [Sch. 19 para. 321](schedule/19/paragraph/321.md)
+    - National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236)
+      - [Sch. 19 para. 322](schedule/19/paragraph/322.md)
+    - Mental Capacity Act 2005 (Loss of Capacity during Research Project) (England) Regulations 2007 (S.I. 2007/679)
+      - [Sch. 19 para. 323](schedule/19/paragraph/323.md)
+    - National Assembly for Wales Commission (Crown Status) Order 2007 (S.I. 2007/1118)
+      - [Sch. 19 para. 324](schedule/19/paragraph/324.md)
+    - Mental Capacity Act 2005 (Loss of Capacity during Research Project) (Wales) Regulations 2007 (S.I. 2007/837 (W.72))
+      - [Sch. 19 para. 325](schedule/19/paragraph/325.md)
+    - Representation of the People (Absent Voting at Local Elections) (Scotland) Regulations 2007 (S.S.I. 2007/170)
+      - [Sch. 19 para. 326](schedule/19/paragraph/326.md)
+    - Representation of the People (Post-Local Government Elections Supply and Inspection of Documents) (Scotland) Regulations 2007 (S.S.I. 2007/264)
+      - [Sch. 19 para. 327](schedule/19/paragraph/327.md)
+    - Education (Pupil Records and Reporting) (Transitional) Regulations (Northern Ireland) 2007 (S.R. (N.I.) 2007 No. 43)
+      - [Sch. 19 para. 328](schedule/19/paragraph/328.md)
+      - [Sch. 19 para. 329](schedule/19/paragraph/329.md)
+      - [Sch. 19 para. 330](schedule/19/paragraph/330.md)
+    - Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)
+      - [Sch. 19 para. 331](schedule/19/paragraph/331.md)
+    - Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2008 (S.I. 2008/3122)
+      - [Sch. 19 para. 332](schedule/19/paragraph/332.md)
+    - Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008 (S.I. 2008/3239 (W.286))
+      - [Sch. 19 para. 333](schedule/19/paragraph/333.md)
+      - [Sch. 19 para. 334](schedule/19/paragraph/334.md)
+      - [Sch. 19 para. 335](schedule/19/paragraph/335.md)
+      - [Sch. 19 para. 336](schedule/19/paragraph/336.md)
+      - [Sch. 19 para. 337](schedule/19/paragraph/337.md)
+    - Energy Order 2003 (Supply of Information) Regulations (Northern Ireland) 2008 (S.R. (N.I.) 2008 No. 3)
+      - [Sch. 19 para. 338](schedule/19/paragraph/338.md)
+    - Companies (Disclosure of Address) Regulations 2009 (S.I. 2009/214)
+      - [Sch. 19 para. 339](schedule/19/paragraph/339.md)
+    - Overseas Companies Regulations 2009 (S.I. 2009/1801)
+      - [Sch. 19 para. 340](schedule/19/paragraph/340.md)
+    - Data Protection (Processing of Sensitive Personal Data) Order 2009 (S.I. 2009/1811)
+      - [Sch. 19 para. 341](schedule/19/paragraph/341.md)
+    - Provision of Services Regulations 2009 (S.I. 2009/2999)
+      - [Sch. 19 para. 342](schedule/19/paragraph/342.md)
+    - INSPIRE Regulations 2009 (S.I. 2009/3157)
+      - [Sch. 19 para. 343](schedule/19/paragraph/343.md)
+    - INSPIRE (Scotland) Regulations 2009 (S.S.I. 2009/440)
+      - [Sch. 19 para. 344](schedule/19/paragraph/344.md)
+    - Controlled Drugs (Supervision of Management and Use) Regulations (Northern Ireland) 2009 (S.R (N.I.) 2009 No. 225)
+      - [Sch. 19 para. 345](schedule/19/paragraph/345.md)
+      - [Sch. 19 para. 346](schedule/19/paragraph/346.md)
+      - [Sch. 19 para. 347](schedule/19/paragraph/347.md)
+      - [Sch. 19 para. 348](schedule/19/paragraph/348.md)
+      - [Sch. 19 para. 349](schedule/19/paragraph/349.md)
+    - Data Protection (Monetary Penalties) (Maximum Penalty and Notices) Regulations 2010 (S.I. 2010/31)
+      - [Sch. 19 para. 350](schedule/19/paragraph/350.md)
+    - Pharmacy Order 2010 (S.I. 2010/231)
+      - [Sch. 19 para. 351](schedule/19/paragraph/351.md)
+      - [Sch. 19 para. 352](schedule/19/paragraph/352.md)
+      - [Sch. 19 para. 353](schedule/19/paragraph/353.md)
+      - [Sch. 19 para. 354](schedule/19/paragraph/354.md)
+      - [Sch. 19 para. 355](schedule/19/paragraph/355.md)
+      - [Sch. 19 para. 356](schedule/19/paragraph/356.md)
+      - [Sch. 19 para. 357](schedule/19/paragraph/357.md)
+      - [Sch. 19 para. 358](schedule/19/paragraph/358.md)
+      - [Sch. 19 para. 359](schedule/19/paragraph/359.md)
+    - Data Protection (Monetary Penalties) Order 2010 (S.I. 2010/910)
+      - [Sch. 19 para. 360](schedule/19/paragraph/360.md)
+    - National Employment Savings Trust Order 2010 (S.I. 2010/917)
+      - [Sch. 19 para. 361](schedule/19/paragraph/361.md)
+      - [Sch. 19 para. 362](schedule/19/paragraph/362.md)
+      - [Sch. 19 para. 363](schedule/19/paragraph/363.md)
+    - Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)
+      - [Sch. 19 para. 364](schedule/19/paragraph/364.md)
+    - Pupil Information (Wales) Regulations 2011 (S.I. 2011/1942 (W.209))
+      - [Sch. 19 para. 365](schedule/19/paragraph/365.md)
+    - Debt Arrangement Scheme (Scotland) Regulations 2011 (S.S.I. 2011/141)
+      - [Sch. 19 para. 366](schedule/19/paragraph/366.md)
+    - Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)
+      - [Sch. 19 para. 367](schedule/19/paragraph/367.md)
+      - [Sch. 19 para. 368](schedule/19/paragraph/368.md)
+      - [Sch. 19 para. 369](schedule/19/paragraph/369.md)
+    - Data Protection (Processing of Sensitive Personal Data) Order 2012 (S.I. 2012/1978)
+      - [Sch. 19 para. 370](schedule/19/paragraph/370.md)
+    - Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)
+      - [Sch. 19 para. 371](schedule/19/paragraph/371.md)
+      - [Sch. 19 para. 372](schedule/19/paragraph/372.md)
+      - [Sch. 19 para. 373](schedule/19/paragraph/373.md)
+      - [Sch. 19 para. 374](schedule/19/paragraph/374.md)
+      - [Sch. 19 para. 375](schedule/19/paragraph/375.md)
+      - [Sch. 19 para. 376](schedule/19/paragraph/376.md)
+      - [Sch. 19 para. 377](schedule/19/paragraph/377.md)
+    - Controlled Drugs (Supervision of Management and Use) Regulations 2013 (S.I. 2013/373)
+      - [Sch. 19 para. 378](schedule/19/paragraph/378.md)
+    - Communications Act 2003 (Disclosure of Information) Order 2014 (S.I. 2014/1825)
+      - [Sch. 19 para. 379](schedule/19/paragraph/379.md)
+    - Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)
+      - [Sch. 19 para. 380](schedule/19/paragraph/380.md)
+    - Data Protection (Assessment Notices) (Designation of National Health Service Bodies) Order 2014 (S.I. 2014/3282)
+      - [Sch. 19 para. 381](schedule/19/paragraph/381.md)
+    - The Control of Explosives Precursors etc Regulations (Northern Ireland) 2014 (S.R. (N.I.) 2014 No. 224)
+      - [Sch. 19 para. 382](schedule/19/paragraph/382.md)
+    - Control of Poisons and Explosives Precursors Regulations 2015 (S.I. 2015/966)
+      - [Sch. 19 para. 383](schedule/19/paragraph/383.md)
+    - Companies (Disclosure of Date of Birth Information) Regulations 2015 (S.I. 2015/1694)
+      - [Sch. 19 para. 384](schedule/19/paragraph/384.md)
+    - Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)
+      - [Sch. 19 para. 385](schedule/19/paragraph/385.md)
+      - [Sch. 19 para. 386](schedule/19/paragraph/386.md)
+      - [Sch. 19 para. 387](schedule/19/paragraph/387.md)
+    - European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)
+      - [Sch. 19 para. 388](schedule/19/paragraph/388.md)
+      - [Sch. 19 para. 389](schedule/19/paragraph/389.md)
+      - [Sch. 19 para. 390](schedule/19/paragraph/390.md)
+      - [Sch. 19 para. 391](schedule/19/paragraph/391.md)
+      - [Sch. 19 para. 392](schedule/19/paragraph/392.md)
+      - [Sch. 19 para. 393](schedule/19/paragraph/393.md)
+      - [Sch. 19 para. 394](schedule/19/paragraph/394.md)
+    - Scottish Parliament (Elections etc) Order 2015 (S.S.I. 2015/425)
+      - [Sch. 19 para. 395](schedule/19/paragraph/395.md)
+      - [Sch. 19 para. 396](schedule/19/paragraph/396.md)
+      - [Sch. 19 para. 397](schedule/19/paragraph/397.md)
+    - Recall of MPs Act 2015 (Recall Petition) Regulations 2016 (S.I. 2016/295)
+      - [Sch. 19 para. 398](schedule/19/paragraph/398.md)
+    - Register of People with Significant Control Regulations 2016 (S.I. 2016/339)
+      - [Sch. 19 para. 399](schedule/19/paragraph/399.md)
+      - [Sch. 19 para. 400](schedule/19/paragraph/400.md)
+      - [Sch. 19 para. 401](schedule/19/paragraph/401.md)
+      - [Sch. 19 para. 402](schedule/19/paragraph/402.md)
+    - Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)
+      - [Sch. 19 para. 403](schedule/19/paragraph/403.md)
+      - [Sch. 19 para. 404](schedule/19/paragraph/404.md)
+      - [Sch. 19 para. 405](schedule/19/paragraph/405.md)
+      - [Sch. 19 para. 406](schedule/19/paragraph/406.md)
+    - Court Files Privileged Access Rules (Northern Ireland) 2016 (S.R. (N.I.) 2016 No. 123)
+      - [Sch. 19 para. 407](schedule/19/paragraph/407.md)
+      - [Sch. 19 para. 408](schedule/19/paragraph/408.md)
+      - [Sch. 19 para. 409](schedule/19/paragraph/409.md)
+    - Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)
+      - [Sch. 19 para. 410](schedule/19/paragraph/410.md)
+      - [Sch. 19 para. 411](schedule/19/paragraph/411.md)
+      - [Sch. 19 para. 412](schedule/19/paragraph/412.md)
+      - [Sch. 19 para. 413](schedule/19/paragraph/413.md)
+      - [Sch. 19 para. 414](schedule/19/paragraph/414.md)
+      - [Sch. 19 para. 415](schedule/19/paragraph/415.md)
+      - [Sch. 19 para. 416](schedule/19/paragraph/416.md)
+      - [Sch. 19 para. 417](schedule/19/paragraph/417.md)
+      - [Sch. 19 para. 418](schedule/19/paragraph/418.md)
+      - [Sch. 19 para. 419](schedule/19/paragraph/419.md)
+    - Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)
+      - [Sch. 19 para. 420](schedule/19/paragraph/420.md)
+    - Data Protection (Charges and Information) Regulations 2018 (S.I. 2018/480)
+      - [Sch. 19 para. 421](schedule/19/paragraph/421.md)
+    - National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)
+      - [Sch. 19 para. 422](schedule/19/paragraph/422.md)
+      - [Sch. 19 para. 423](schedule/19/paragraph/423.md)
+      - [Sch. 19 para. 424](schedule/19/paragraph/424.md)
+      - [Sch. 19 para. 425](schedule/19/paragraph/425.md)
+    - National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)
+      - [Sch. 19 para. 426](schedule/19/paragraph/426.md)
+      - [Sch. 19 para. 427](schedule/19/paragraph/427.md)
+      - [Sch. 19 para. 428](schedule/19/paragraph/428.md)
+      - [Sch. 19 para. 429](schedule/19/paragraph/429.md)
+  - PART 3 Modifications
+    - Introduction
+      - [Sch. 19 para. 430](schedule/19/paragraph/430.md)
+    - General modifications
+      - [Sch. 19 para. 431](schedule/19/paragraph/431.md)
+    - Specific modification of references to terms used in the Data Protection Act 1998
+      - [Sch. 19 para. 432](schedule/19/paragraph/432.md)
+  - PART 4 Supplementary
+    - Definitions
+      - [Sch. 19 para. 433](schedule/19/paragraph/433.md)
+    - Provision inserted in subordinate legislation by this Schedule
+      - [Sch. 19 para. 434](schedule/19/paragraph/434.md)
+- SCHEDULE 20 Transitional provision etc
+  - PART 1 General
+    - Interpretation
+      - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - PART 2 Rights of data subjects
+    - Right of access to personal data under the 1998 Act
+      - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - Right to prevent processing likely to cause damage or distress under the 1998 Act
+      - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - Right to prevent processing for purposes of direct marketing under the 1998 Act
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - Automated processing under the 1998 Act
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - Compensation for contravention of the 1998 Act or Part 4 of the 2014 Regulations
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - Rectification, blocking, erasure and destruction under the 1998 Act
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - Jurisdiction and procedure under the 1998 Act
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - Exemptions under the 1998 Act
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - Prohibition by this Act of requirement to produce relevant records
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - Avoidance under this Act of certain contractual terms relating to health records
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+  - PART 3 The UK GDPR and Part 2 of this Act
+    - Exemptions from the GDPR: restrictions of rules in Articles 13 to 15 of the GDPR
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - Manual unstructured data held by FOI public authorities
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+  - PART 4 Law enforcement and intelligence services processing
+    - Logging
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+    - Regulation 50 of the 2014 Regulations (disapplication of the 1998 Act)
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+    - Maximum fee for data subject access requests to intelligence services
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+  - PART 5 National security certificates
+    - National security certificates: processing of personal data under the 1998 Act
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+    - National security certificates: processing of personal data under the 2018 Act
+      - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+  - PART 6 The Information Commissioner
+    - Appointment etc
+      - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+    - Accounts
+      - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+    - Annual report
+      - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+    - Fees etc received by the Commissioner
+      - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
+      - [Sch. 20 para. 23](schedule/20/paragraph/23.md)
+    - Functions in connection with the Data Protection Convention
+      - [Sch. 20 para. 24](schedule/20/paragraph/24.md)
+    - Co-operation with the European Commission: transfers of personal data outside the EEA
+      - [Sch. 20 para. 25](schedule/20/paragraph/25.md)
+    - Charges payable to the Commissioner by controllers
+      - [Sch. 20 para. 26](schedule/20/paragraph/26.md)
+    - Requests for assessment
+      - [Sch. 20 para. 27](schedule/20/paragraph/27.md)
+    - Codes of practice
+      - [Sch. 20 para. 28](schedule/20/paragraph/28.md)
+  - PART 7 Enforcement etc under the 1998 Act
+    - Interpretation of this Part
+      - [Sch. 20 para. 29](schedule/20/paragraph/29.md)
+    - Information notices
+      - [Sch. 20 para. 30](schedule/20/paragraph/30.md)
+    - Special information notices
+      - [Sch. 20 para. 31](schedule/20/paragraph/31.md)
+    - Assessment notices
+      - [Sch. 20 para. 32](schedule/20/paragraph/32.md)
+    - Enforcement notices
+      - [Sch. 20 para. 33](schedule/20/paragraph/33.md)
+    - Determination by Commissioner as to the special purposes
+      - [Sch. 20 para. 34](schedule/20/paragraph/34.md)
+    - Restriction on enforcement in case of processing for the special purposes
+      - [Sch. 20 para. 35](schedule/20/paragraph/35.md)
+    - Offences
+      - [Sch. 20 para. 36](schedule/20/paragraph/36.md)
+    - Powers of entry
+      - [Sch. 20 para. 37](schedule/20/paragraph/37.md)
+    - Monetary penalties
+      - [Sch. 20 para. 38](schedule/20/paragraph/38.md)
+    - Appeals
+      - [Sch. 20 para. 39](schedule/20/paragraph/39.md)
+    - Exemptions
+      - [Sch. 20 para. 40](schedule/20/paragraph/40.md)
+    - Tribunal Procedure Rules
+      - [Sch. 20 para. 41](schedule/20/paragraph/41.md)
+    - Obstruction etc
+      - [Sch. 20 para. 42](schedule/20/paragraph/42.md)
+    - Enforcement etc under the 2014 Regulations
+      - [Sch. 20 para. 43](schedule/20/paragraph/43.md)
+  - PART 8 Enforcement etc under this Act
+    - Information notices
+      - [Sch. 20 para. 44](schedule/20/paragraph/44.md)
+    - Powers of entry
+      - [Sch. 20 para. 45](schedule/20/paragraph/45.md)
+    - Tribunal Procedure Rules
+      - [Sch. 20 para. 46](schedule/20/paragraph/46.md)
+  - PART 9 Other enactments
+    - Powers to disclose information to the Commissioner
+      - [Sch. 20 para. 47](schedule/20/paragraph/47.md)
+    - Codes etc required to be consistent with the Commissioner’s data-sharing code
+      - [Sch. 20 para. 48](schedule/20/paragraph/48.md)
+      - [Sch. 20 para. 49](schedule/20/paragraph/49.md)
+    - Consumer Credit Act 1974
+      - [Sch. 20 para. 50](schedule/20/paragraph/50.md)
+    - Freedom of Information Act 2000
+      - [Sch. 20 para. 51](schedule/20/paragraph/51.md)
+      - [Sch. 20 para. 52](schedule/20/paragraph/52.md)
+      - [Sch. 20 para. 53](schedule/20/paragraph/53.md)
+      - [Sch. 20 para. 54](schedule/20/paragraph/54.md)
+      - [Sch. 20 para. 55](schedule/20/paragraph/55.md)
+    - Freedom of Information (Scotland) Act 2002
+      - [Sch. 20 para. 56](schedule/20/paragraph/56.md)
+    - Access to Health Records (Northern Ireland) Order 1993 (S.I. 1993/1250 (N.I. 4))
+      - [Sch. 20 para. 57](schedule/20/paragraph/57.md)
+    - Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2450)
+      - [Sch. 20 para. 58](schedule/20/paragraph/58.md)
+    - Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (S.I. 2003/431 (N.I. 9))
+      - [Sch. 20 para. 59](schedule/20/paragraph/59.md)
+    - Environmental Information Regulations 2004 (S.I. 2004/3391)
+      - [Sch. 20 para. 60](schedule/20/paragraph/60.md)
+    - Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520)
+      - [Sch. 20 para. 61](schedule/20/paragraph/61.md)
+- SCHEDULE 21 Further transitional provision etc
+  - Part 1 Interpretation
+    - [Sch. 21 para. 1 The applied GPDR](schedule/21/paragraph/1.md)
+  - Part 2 Continuation of existing acts etc
+    - [Sch. 21 para. 2 Merger of the directly applicable GDPR and the applied GDPR](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Part 3 Transfers to third countries and international organisations
+    - [Sch. 21 para. 4 UK GDPR: transfers approved by regulations](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7 UK GDPR: transfers subject to appropriate safeguards provided by standard data protection clauses](schedule/21/paragraph/7.md)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9 UK GDPR: transfers subject to appropriate safeguards provided by binding corporate rules](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10 Part 3 (law enforcement processing): transfers approved by regulations](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - Part 4 Repeal of provisions in Chapter 3 of Part 2
+    - [Sch. 21 para. 13 Applied GDPR: power to make provision in consequence of GDPR regulations](schedule/21/paragraph/13.md)
+    - [Sch. 21 para. 14 Applied GDPR: national security certificates](schedule/21/paragraph/14.md)
+  - Part 5 The Information Commission
+    - [Sch. 21 para. 15 Confidentiality of information](schedule/21/paragraph/15.md)
+  - Part 6 Enforcement
+    - [Sch. 21 para. 16 GDPR: maximum amount of penalties](schedule/21/paragraph/16.md)
+    - [Sch. 21 para. 17 GDPR: right to an effective remedy against the Commissioner](schedule/21/paragraph/17.md)
