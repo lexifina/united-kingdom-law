@@ -1,0 +1,188 @@
+# Charities Act 1992
+
+1992 c. 41. Enacted 1992-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/41
+
+Source: https://www.legislation.gov.uk/ukpga/1992/41/2026-09-30
+
+## Contents
+
+- Part I
+  - Preliminary
+    - [s. 1 Interpretation of Part I, etc.](section/1.md)
+  - Registration of charities
+    - [s. 2 The register of charities.](section/2.md)
+    - [s. 3 Status of registered charity (other than small charity) to appear on official publications etc.](section/3.md)
+  - Charity names
+    - [s. 4 Power of Commissioners to require charity’s name to be changed.](section/4.md)
+    - [s. 5 Effect of direction under s. 4 where charity is a company.](section/5.md)
+  - Supervision and control by Commissioners
+    - [s. 6 General power to institute inquiries.](section/6.md)
+    - [s. 7 Power of Commissioners to obtain information and documents.](section/7.md)
+    - [s. 8 Power to act for protection of charities.](section/8.md)
+    - [s. 9 Supplementary provisions relating to receiver and manager appointed for a charity.](section/9.md)
+    - [s. 10 Additional powers exercisable by Commissioners in relation to charitable companies.](section/10.md)
+    - [s. 11 Report of inquiry held by Commissioners to be evidence in certain proceedings.](section/11.md)
+    - [s. 12 Supervision by Commissioners of certain Scottish charities.](section/12.md)
+  - Powers with respect to administration of charities
+    - [s. 13 Commissioners’ concurrent jurisdiction with High Court for certain purposes.](section/13.md)
+    - [s. 14 Trust corporations appointed by Commissioners under 1960 Act.](section/14.md)
+    - [s. 15 Application of property cy-pres.](section/15.md)
+    - [s. 16 Common deposit funds.](section/16.md)
+    - [s. 17 Power of Commissioners to authorise certain ex gratia payments etc. by charities.](section/17.md)
+    - [s. 18 Dormant bank accounts of charities.](section/18.md)
+  - Charity accounts
+    - [s. 19 Duty to keep accounting records.](section/19.md)
+    - [s. 20 Annual statements of accounts.](section/20.md)
+    - [s. 21 Annual audit or examination of charity accounts.](section/21.md)
+    - [s. 22 Supplementary provisions relating to audits etc.](section/22.md)
+    - [s. 23 Annual reports.](section/23.md)
+    - [s. 24 Special provision as respects accounts and annual reports of exempt and other excepted charities.](section/24.md)
+    - [s. 25 Public inspection of annual reports etc.](section/25.md)
+    - [s. 26 Annual returns by registered charities.](section/26.md)
+    - [s. 27 Offences.](section/27.md)
+  - Charity proceedings
+    - [s. 28 Power of Commissioners to bring proceedings with respect to charities.](section/28.md)
+  - Charity property
+    - [s. 29 Divestment of charity property held by official custodian for charities.](section/29.md)
+    - [s. 30 Provisions supplementary to s. 29.](section/30.md)
+    - [s. 31 Divestment in the case of land subject to Reverter of Sites Act 1987.](section/31.md)
+    - [s. 32 Restrictions on dispositions of charity land.](section/32.md)
+    - [s. 33 Supplementary provisions relating to dispositions of charity land.](section/33.md)
+    - [s. 34 Restrictions on mortgaging charity land.](section/34.md)
+    - [s. 35 Supplementary provisions relating to mortgaging of charity land.](section/35.md)
+    - [s. 36 Removal of requirements under statutory provisions for consent to dealings with charity land.](section/36.md)
+    - [s. 37 Release of charity rentcharges.](section/37.md)
+  - Powers of investment
+    - [s. 38 Relaxation of restrictions on wider-range investments.](section/38.md)
+    - [s. 39 Extension of powers of investment.](section/39.md)
+  - Charitable companies
+    - [s. 40 Charitable companies: alteration of objects clause etc.](section/40.md)
+    - [s. 41 Charitable companies: requirement of consent of Commissioners to certain acts.](section/41.md)
+    - [s. 42 Charitable companies: name to appear on correspondence etc.](section/42.md)
+  - Small charities
+    - [s. 43 Small charities: power to transfer all property, modify objects etc.](section/43.md)
+    - [s. 44 Small charities: power to spend capital.](section/44.md)
+  - Disqualification for acting as charity trustee
+    - [s. 45 Persons disqualified for being trustees of a charity.](section/45.md)
+    - [s. 46 Person acting as charity trustee while disqualified.](section/46.md)
+  - Miscellaneous and supplementary
+    - [s. 47 Minor and consequential amendments of 1960 Act.](section/47.md)
+    - [s. 48 Amendment of Charitable Trustees Incorporation Act 1872.](section/48.md)
+    - [s. 49 Amendment of Redundant Churches and Other Religious Buildings Act 1969.](section/49.md)
+    - [s. 50 Contributions towards maintenance etc. of almshouses.](section/50.md)
+    - [s. 51 Fees and other amounts payable to Commissioners.](section/51.md)
+    - [s. 52 Disclosure of information to and by Commissioners.](section/52.md)
+    - [s. 53 Data protection.](section/53.md)
+    - [s. 54 Supply of false or misleading information to Commissioners, etc.](section/54.md)
+    - [s. 55 Restriction on institution of proceedings for certain offences.](section/55.md)
+    - [s. 56 Enforcement of requirements by order of Commissioners, and other provisions as to orders made by them.](section/56.md)
+    - [s. 57 Directions of the Commissioners.](section/57.md)
+- Part II CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
+  - Preliminary
+    - [s. 58 Interpretation of Part II.](section/58.md)
+  - Control of fund-raising
+    - [s. 59 Prohibition on professional fund-raiser etc. raising funds for charitable institution without an agreement in prescribed form.](section/59.md)
+    - [s. 60 Professional fund-raisers etc. required to indicate institutions benefiting and arrangements for remuneration.](section/60.md)
+    - [s. 60A Other persons making appeals required to indicate institutions benefiting and arrangements for remuneration](section/60A.md)
+    - [s. 60B Exclusion of lower-paid collectors from provisions of section 60A](section/60B.md)
+    - [s. 61 Cancellation of payments and agreements made in response to appeals.](section/61.md)
+    - [s. 62 Right of charitable institution to prevent unauthorised fund-raising.](section/62.md)
+    - [s. 63 False statements relating to institutions which are not registered charities.](section/63.md)
+  - Supplementary
+    - [s. 64 Regulations about fund-raising.](section/64.md)
+    - [s. 64A Reserve power to control fund-raising by charitable institutions](section/64A.md)
+    - [s. 64B Reserve power in relation to fund-raising regulators](section/64B.md)
+    - [s. 64C Reserve power to confer additional powers on Charity Commission](section/64C.md)
+- Part III PUBLIC CHARITABLE COLLECTIONS
+  - Preliminary
+    - [s. 65 Interpretation of Part III.](section/65.md)
+  - Prohibition on conducting unauthorised collections
+    - [s. 66 Prohibition on conducting public charitable collections without authorisation.](section/66.md)
+  - Permits
+    - [s. 67 Applications for permits to conduct public charitable collections.](section/67.md)
+    - [s. 68 Determination of applications and issue of permits.](section/68.md)
+    - [s. 69 Refusal of permits.](section/69.md)
+    - [s. 70 Withdrawal etc. of permits.](section/70.md)
+    - [s. 71 Appeals.](section/71.md)
+  - Orders made by Charity Commissioners
+    - [s. 72 Orders made by Charity Commissioners.](section/72.md)
+  - Supplementary
+    - [s. 73 Regulations.](section/73.md)
+    - [s. 74 Offences.](section/74.md)
+- Part IV GENERAL
+  - [s. 75 Offences by bodies corporate.](section/75.md)
+  - [s. 76 Service of documents.](section/76.md)
+  - [s. 77 Regulations and orders.](section/77.md)
+  - [s. 78 Minor and consequential amendments and repeals.](section/78.md)
+  - [s. 79 Short title, commencement and extent.](section/79.md)
+- SCHEDULE 1
+  - Section 4
+    - [Sch. 1 para. 4 The register of charities.](schedule/1/paragraph/4.md)
+  - Section 20
+    - [Sch. 1 para. 20 Power to act for protection of charities.](schedule/1/paragraph/20.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22 ................................](schedule/3/paragraph/22.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 AMENDMENTS OF REDUNDANT CHURCHES AND OTHER RELIGIOUS BUILDINGS ACT 1969
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - [Sch. 6 para. 1 CLERGY PENSIONS MEASURE 1961 (No.3)](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 CATHEDRALS MEASURE 1963 (No.2)](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 LEASEHOLD REFORM ACT 1967 (c.88)](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 SHARING OF CHURCH BUILDINGS ACT 1969 (c.38)](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 LOCAL GOVERNMENT ACT 1972 (c.70)](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 FIRE PRECAUTIONS (LOANS) ACT 1973 (c.11)](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 THEATRES TRUST ACT 1976 (c.27)](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 LOCAL GOVERNMENT (MISCELLANEOUS PROVISIONS) ACT 1982 (c.30)](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 CIVIC GOVERNMENT (SCOTLAND) ACT 1982 (c. 45)](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 COMPANIES ACT 1985 (c.6)](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12 HOUSING ACT 1985 (c.68)](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13 HOUSING ASSOCIATIONS ACT 1985 (c.69)](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14 FINANCIAL SERVICES ACT 1986 (c.60)](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15 COAL INDUSTRY ACT 1987 (c.3)](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16 REVERTER OF SITES ACT 1987 (c.15)](schedule/6/paragraph/16.md)
+  - [Sch. 6 para. 17 INCOME AND CORPORATION TAXES ACT 1988 (c.1)](schedule/6/paragraph/17.md)
+- SCHEDULE 7 Repeals
