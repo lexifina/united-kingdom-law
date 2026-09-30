@@ -2,9 +2,11 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-19, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
+
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
 
 ## Contents
 
@@ -100,7 +102,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
       - [s. 50C Safeguards for automated decision-making](section/50C.md)
       - [s. 50D Further provision about automated decision-making](section/50D.md)
     - Supplementary
-      - [s. 51 Exercise of rights through the Commissioner](section/51.md)
+      - [s. 51 Exercise of rights through the Commission](section/51.md)
       - [s. 52 Form of provision of information etc](section/52.md)
       - [s. 53 Manifestly unfounded or excessive requests by the data subject](section/53.md)
       - [s. 54 Meaning of “applicable time period”](section/54.md)
@@ -115,13 +117,13 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
       - [s. 60 Processing under the authority of the controller or processor](section/60.md)
       - [s. 61 Records of processing activities](section/61.md)
       - [s. 62 Logging](section/62.md)
-      - [s. 63 Co-operation with the Commissioner](section/63.md)
+      - [s. 63 Co-operation with the Commission](section/63.md)
       - [s. 64 Data protection impact assessment](section/64.md)
-      - [s. 65 Prior consultation with the Commissioner](section/65.md)
+      - [s. 65 Prior consultation with the Commission](section/65.md)
     - Obligations relating to security
       - [s. 66 Security of processing](section/66.md)
     - Obligations relating to personal data breaches
-      - [s. 67 Notification of a personal data breach to the Commissioner](section/67.md)
+      - [s. 67 Notification of a personal data breach to the Commission](section/67.md)
       - [s. 68 Communication of a personal data breach to the data subject](section/68.md)
     - Data protection officers
       - [s. 69 Designation of a data protection officer](section/69.md)
@@ -205,8 +207,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
     - [s. 111 National security: certificate](section/111.md)
     - [s. 112 Other exemptions](section/112.md)
     - [s. 113 Power to make further exemptions](section/113.md)
-- PART 5 The Information Commissioner
-  - The Commissioner
+- PART 5 The Information Commission
+  - ...
     - [s. 114 The Information Commissioner](section/114.md)
   - The Information Commission
     - [s. 114A The Information Commission](section/114A.md)
@@ -240,8 +242,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
     - [s. 129 Consensual audits](section/129.md)
   - Records of national security certificates
     - [s. 130 Records of national security certificates](section/130.md)
-  - Information provided to the Commissioner
-    - [s. 131 Disclosure of information to the Commissioner](section/131.md)
+  - Information provided to the Commission
+    - [s. 131 Disclosure of information to the Commission](section/131.md)
     - [s. 132 Confidentiality of information](section/132.md)
     - [s. 133 Guidance about privileged communications](section/133.md)
   - Fees
@@ -249,14 +251,15 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
     - [s. 135 Manifestly unfounded or excessive requests by data subjects etc](section/135.md)
     - [s. 136 Guidance about fees](section/136.md)
   - Charges
-    - [s. 137 Charges payable to the Commissioner by controllers](section/137.md)
+    - [s. 137 Charges payable to the Commission by controllers](section/137.md)
     - [s. 138 Regulations under section 137: supplementary](section/138.md)
   - Reports etc
     - [s. 139 Reporting to Parliament](section/139.md)
     - [s. 139A Analysis of performance](section/139A.md)
   - Documents and notices
-    - [s. 140 Publication by the Commissioner](section/140.md)
+    - [s. 140 Publication by the Commission](section/140.md)
     - [s. 141 Notices from the Commissioner](section/141.md)
+    - [s. 141A Notices from the Commission](section/141A.md)
 - PART 6 Enforcement
   - Information notices
     - [s. 142 Information notices](section/142.md)
@@ -297,9 +300,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
     - [s. 164 Applications in respect of urgent notices](section/164.md)
   - Complaints
     - [s. 164A Complaints by data subjects to controllers](section/164A.md)
-    - [s. 164B Controllers to notify the Commissioner of the number of complaints](section/164B.md)
-    - [s. 165 Complaints by data subjects to the Commissioner](section/165.md)
-    - [s. 166 Orders to progress complaints to the Commissioner](section/166.md)
+    - [s. 164B Controllers to notify the Commission of the number of complaints](section/164B.md)
+    - [s. 165 Complaints by data subjects to the Commission](section/165.md)
+    - [s. 166 Orders to progress complaints to the Commission](section/166.md)
   - Remedies in the court
     - [s. 167 Compliance orders](section/167.md)
     - [s. 168 Compensation for contravention of the UK GDPR](section/168.md)
@@ -761,6 +764,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
     - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
     - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
     - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 51A](schedule/7/paragraph/51A.md)
     - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
     - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
     - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
@@ -893,7 +897,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
   - [Sch. 12A para. 24 Supplementary powers](schedule/12A/paragraph/24.md)
   - [Sch. 12A para. 25 Transitional provision: interim chief executive](schedule/12A/paragraph/25.md)
   - [Sch. 12A para. 26 Interpretation](schedule/12A/paragraph/26.md)
-- SCHEDULE 13 Other general functions of the Commissioner
+- SCHEDULE 13 Other general functions of the Commission
   - General tasks
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
   - General powers
@@ -913,7 +917,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
     - LED supervisory authority
       - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
   - PART 2 Data Protection Convention
-    - Co-operation between the Commissioner and foreign designated authorities
+    - Co-operation between the Commission and foreign designated authorities
       - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
     - Assisting persons resident outside the UK with requests under Article 14 of the Convention
       - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
@@ -1783,7 +1787,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-06-19
   - Part 4 Repeal of provisions in Chapter 3 of Part 2
     - [Sch. 21 para. 13 Applied GDPR: power to make provision in consequence of GDPR regulations](schedule/21/paragraph/13.md)
     - [Sch. 21 para. 14 Applied GDPR: national security certificates](schedule/21/paragraph/14.md)
-  - Part 5 The Information Commissioner
+  - Part 5 The Information Commission
     - [Sch. 21 para. 15 Confidentiality of information](schedule/21/paragraph/15.md)
   - Part 6 Enforcement
     - [Sch. 21 para. 16 GDPR: maximum amount of penalties](schedule/21/paragraph/16.md)
