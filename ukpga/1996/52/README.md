@@ -1,0 +1,842 @@
+# Housing Act 1996
+
+1996 c. 52. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 140 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
+
+Source: https://www.legislation.gov.uk/ukpga/1996/52/2026-09-30
+
+## Contents
+
+- Part I Social Rented Sector regulated by the Welsh Ministers
+  - Chapter I Registered social landlords
+    - Registration
+      - [s. A1 Introduction](section/A1.md)
+      - [s. 1 The register of social landlords.](section/1.md)
+      - [s. 1A Welsh bodies](section/1A.md)
+      - [s. 2 Eligibility for registration.](section/2.md)
+      - [s. 3 Registration.](section/3.md)
+      - [s. 4 Removal from the register.](section/4.md)
+      - [s. 5 Criteria for registration or removal from register.](section/5.md)
+      - [s. 6 Appeal against decision on removal.](section/6.md)
+    - Voluntary undertakings
+      - [s. 6A Voluntary undertakings](section/6A.md)
+    - Regulation of registered social landlords
+      - [s. 7 Regulation of registered social landlords.](section/7.md)
+  - Chapter 1A BOARD MEMBERSHIP AND VOTING RIGHTS
+    - General
+      - [s. 7A Meaning of key terms used in this Chapter](section/7A.md)
+    - Limit on local authority appointees to board
+      - [s. 7B Limit on local authority appointments to board](section/7B.md)
+      - [s. 7C Removal of local authority appointees to comply with 24 per cent limit](section/7C.md)
+      - [s. 7D Procedure for selection by registered social landlord of local authority appointees for removal](section/7D.md)
+    - Quorum and voting rights of board members
+      - [s. 7E Board quorum: no requirement for local authority appointee](section/7E.md)
+      - [s. 7F Board resolutions: 75 per cent threshold](section/7F.md)
+    - Consent to constitutional change
+      - [s. 7G Constitutional changes: no requirement for local authority consent and no power of veto](section/7G.md)
+    - Voting rights of members of registered social landlord
+      - [s. 7H Voting rights of local authorities](section/7H.md)
+      - [s. 7I Provision in agreements that is to be treated as having no effect](section/7I.md)
+    - Wholly controlled subsidiaries: power to disapply this Chapter
+      - [s. 7J Power to disapply provisions of this Chapter](section/7J.md)
+  - Chapter II Disposal of land and related matters
+    - Power of registered social landlord to dispose of land
+      - [s. 8 Power of registered social landlord to dispose of land.](section/8.md)
+    - Requirements relating to land transactions
+      - [s. 9 Notification to Welsh Ministers of disposal of land](section/9.md)
+      - [s. 10 Lettings and other disposals not requiring consent of Relevant Authority.](section/10.md)
+      - [s. 11 Covenant for repayment of discount on disposal](section/11.md)
+      - [s. 11A Increase in value of house attributable to home improvements to be disregarded](section/11A.md)
+      - [s. 12 Priority of charge for repayment of discount.](section/12.md)
+      - [s. 12A Right of first refusal for registered social landlord](section/12A.md)
+      - [s. 12B Consideration payable for disposal under section 12A](section/12B.md)
+      - [s. 13 Restriction on disposal of houses in National Parks, &c.](section/13.md)
+      - [s. 14 Treatment of options.](section/14.md)
+      - [s. 15 Relevant and exempted disposals.](section/15.md)
+      - [s. 15A Treatment of deferred resale agreements for purposes of section 11](section/15A.md)
+    - Right of tenant to acquire dwelling
+      - [s. 16 Right of tenant to acquire dwelling.](section/16.md)
+      - [s. 16A Extension of section 16 to dwellings funded by grants under section 27A](section/16A.md)
+      - [s. 16B Restriction on exercising the right to acquire](section/16B.md)
+      - [s. 16C Exception to restriction on exercising the right to acquire](section/16C.md)
+      - [s. 17 Right of tenant to acquire dwelling: supplementary provisions.](section/17.md)
+  - Chapter III Grants and other financial matters
+    - Grants and other financial assistance
+      - [s. 18 Social housing grants.](section/18.md)
+      - [s. 19 Land subject to housing management agreement.](section/19.md)
+      - [s. 20 Purchase grant where right to acquire exercised.](section/20.md)
+      - [s. 21 Purchase grant in respect of other disposals.](section/21.md)
+      - [s. 22 Assistance from local authorities.](section/22.md)
+      - [s. 23 Local loans made by the Treasury](section/23.md)
+    - Treatment of disposal proceeds
+      - [s. 24 The disposal proceeds fund.](section/24.md)
+      - [s. 25 Application or appropriation of disposal proceeds.](section/25.md)
+      - [s. 26 Disposal proceeds: power to require information.](section/26.md)
+    - Recovery, &c. of social housing grants
+      - [s. 27 Recovery, &c. of social housing grants.](section/27.md)
+    - Grants to bodies other than registered social landlords
+      - [s. 27A Grants to bodies other than registered social landlords](section/27A.md)
+      - [s. 27B Transfer of property funded by grants under section 27A](section/27B.md)
+    - Grants, &c. under earlier enactments
+      - [s. 28 Grants under Part 2 of the Housing Act 1988.](section/28.md)
+      - [s. 29 Commutation of payments of special residual subsidy.](section/29.md)
+  - Chapter IV General powers of the Relevant Authority
+    - Information
+      - [s. 30 General power to obtain information.](section/30.md)
+      - [s. 31 Enforcement of notice to provide information, &c.](section/31.md)
+      - [s. 32 Disclosure of information to the Welsh Ministers.](section/32.md)
+      - [s. 33 Disclosure of information by the Welsh Ministers.](section/33.md)
+    - Standards of performance
+      - [s. 33A Standards of performance](section/33A.md)
+      - [s. 33B Guidance on standards of performance](section/33B.md)
+      - [s. 33C Consultation](section/33C.md)
+      - [s. 34 Standards of performance – housing in England.](section/34.md)
+      - [s. 35 Information as to levels of performance.](section/35.md)
+    - Complaints about performance
+      - [s. 35A Guidance about complaints about performance](section/35A.md)
+      - [s. 35B Consultation](section/35B.md)
+    - Housing management
+      - [s. 36 Issue of guidance by the Welsh Ministers – housing in England.](section/36.md)
+      - [s. 37 Powers of entry.](section/37.md)
+      - [s. 38 Penalty for obstruction of person exercising power of entry.](section/38.md)
+    - Insolvency, &c. of registered social landlord
+      - [s. 39 Insolvency, &c. of registered social landlord: scheme of provisions.](section/39.md)
+      - [s. 40 Initial notice to be given to the Welsh Ministers.](section/40.md)
+      - [s. 41 Further notice to be given to the Welsh Ministers.](section/41.md)
+      - [s. 42 Moratorium on disposal of land, &c.](section/42.md)
+      - [s. 43 Period of moratorium.](section/43.md)
+      - [s. 43A Appointment of interim manager](section/43A.md)
+      - [s. 44 Proposals as to ownership and management of landlord’s land.](section/44.md)
+      - [s. 45 Effect of agreed proposals.](section/45.md)
+      - [s. 46 Appointment of manager to implement agreed proposals.](section/46.md)
+      - [s. 47 Powers of the manager.](section/47.md)
+      - [s. 48 Powers of the manager: transfer of engagements.](section/48.md)
+      - [s. 49 Assistance by the Welsh Ministers.](section/49.md)
+      - [s. 50 Application to court to secure compliance with agreed proposals.](section/50.md)
+  - CHAPTER 4A ENFORCEMENT POWERS
+    - General
+      - [s. 50A Application of Chapter 4A](section/50A.md)
+      - [s. 50B Exercise of enforcement powers](section/50B.md)
+    - Enforcement notice
+      - [s. 50C Grounds for giving notice](section/50C.md)
+      - [s. 50D Content](section/50D.md)
+      - [s. 50E Appeal](section/50E.md)
+      - [s. 50F Withdrawal](section/50F.md)
+      - [s. 50G Sanction](section/50G.md)
+    - Penalty
+      - [s. 50H Grounds for imposition](section/50H.md)
+      - [s. 50I Imposition](section/50I.md)
+      - [s. 50J Amount](section/50J.md)
+      - [s. 50K Warning](section/50K.md)
+      - [s. 50L Representations](section/50L.md)
+      - [s. 50M Enforcement](section/50M.md)
+      - [s. 50N Appeal](section/50N.md)
+    - Compensation
+      - [s. 50O Grounds for award](section/50O.md)
+      - [s. 50P Persons to whom compensation may be awarded](section/50P.md)
+      - [s. 50Q Award](section/50Q.md)
+      - [s. 50R Impact](section/50R.md)
+      - [s. 50S Warning](section/50S.md)
+      - [s. 50T Representations](section/50T.md)
+      - [s. 50U Enforcement](section/50U.md)
+      - [s. 50V Appeal](section/50V.md)
+  - Chapter V Miscellaneous and general provisions
+    - Housing ombudsman
+      - [s. 51 Schemes for investigation of complaints.](section/51.md)
+      - [s. 51ZA Power of housing ombudsman to issue guidance to scheme members](section/51ZA.md)
+      - [s. 51A Social Housing Ombudsman for Wales](section/51A.md)
+      - [s. 51B Investigation of complaints](section/51B.md)
+      - [s. 51C Meaning of “social landlord in Wales”](section/51C.md)
+    - Orders and determinations
+      - [s. 52 General provisions as to orders.](section/52.md)
+      - [s. 53 General provisions as to determinations.](section/53.md)
+      - [s. 54 Determinations of the Housing Corporation requiring approval.](section/54.md)
+    - Minor and consequential amendments
+      - [s. 55 Minor and consequential amendments: Part I.](section/55.md)
+    - Interpretation
+      - [s. 56 Meaning of “the Welsh Ministers”.](section/56.md)
+      - [s. 57 Definitions relating to registered societies.](section/57.md)
+      - [s. 58 Definitions relating to charities.](section/58.md)
+      - [s. 59 Meaning of “officer” of registered social landlord.](section/59.md)
+      - [s. 60 Meaning of “subsidiary”.](section/60.md)
+      - [s. 61 Meaning of “associate”.](section/61.md)
+      - [s. 62 Members of a person’s family: Part I.](section/62.md)
+      - [s. 63 Minor definitions: Part I.](section/63.md)
+      - [s. 64 Index of defined expressions: Part I.](section/64.md)
+- Part II Houses in multiple occupation
+  - Registration schemes
+    - [s. 65 Making and approval of registration schemes.](section/65.md)
+    - [s. 66 Registration schemes: control provisions.](section/66.md)
+    - [s. 67 Registration schemes: special control provisions.](section/67.md)
+    - [s. 68 Offences in connection with registration schemes.](section/68.md)
+    - [s. 69 Information requirements in connection with registration schemes.](section/69.md)
+    - [s. 70 Existing registration schemes.](section/70.md)
+  - Other amendments of Part XI of the Housing Act 1985
+    - [s. 71 Restriction on notices requiring execution of works.](section/71.md)
+    - [s. 72 Recovery of expenses of notice requiring execution of works.](section/72.md)
+    - [s. 73 Duty to keep premises fit for number of occupants.](section/73.md)
+    - [s. 74 Section 354 direction to be local land charge.](section/74.md)
+    - [s. 75 Means of escape from fire.](section/75.md)
+    - [s. 76 Works notices: improvement of enforcement procedures.](section/76.md)
+    - [s. 77 Codes of practice.](section/77.md)
+    - [s. 78 Increase of fines, &c.](section/78.md)
+    - [s. 79 Minor amendments.](section/79.md)
+  - Common lodging houses
+    - [s. 80 Repeal of Part XII of the Housing Act 1985.](section/80.md)
+- Part III Landlord and Tenant
+  - Chapter I TENANTS’ RIGHTS
+    - Forfeiture
+      - [s. 81 Restriction on termination of tenancy for failure to pay service charge.](section/81.md)
+      - [s. 82 Notice under s.146 of the Law of Property Act 1925.](section/82.md)
+    - Service charges
+      - [s. 83 Determination of reasonableness of service charges.](section/83.md)
+      - [s. 84 Right to appoint surveyor to advise on matters relating to service charges.](section/84.md)
+    - Appointment of manager
+      - [s. 85 Appointment of manager by the court.](section/85.md)
+      - [s. 86 Appointment of manager: transfer of jurisdiction to leasehold valuation tribunal.](section/86.md)
+      - [s. 87 Text of Part II of the Landlord and Tenant Act 1987, as amended.](section/87.md)
+      - [s. 88 Period after which acquisition order may be made.](section/88.md)
+    - Right of first refusal
+      - [s. 89 Application of right of first refusal in relation to contracts.](section/89.md)
+      - [s. 90 Notice required to be given by landlord making disposal.](section/90.md)
+      - [s. 91 Offence of failure to comply with requirements of Part I.](section/91.md)
+      - [s. 92 Procedure for exercise of rights of first refusal.](section/92.md)
+      - [s. 93 Duty of new landlord to inform tenant of rights.](section/93.md)
+    - General advice etc.
+      - [s. 94 Provision of general advice etc. about residential tenancies.](section/94.md)
+    - Supplementary
+      - [s. 95 Jurisdiction of county courts.](section/95.md)
+  - Chapter II Assured tenancies
+    - Assured shorthold tenancies
+      - [s. 96 Tenancies which are assured shorthold tenancies.](section/96.md)
+      - [s. 97 Duty of landlord to provide statement of terms of assured shorthold tenancy.](section/97.md)
+      - [s. 98 Form of notices under s. 21 of the Housing Act 1988.](section/98.md)
+      - [s. 99 Restriction on recovery of possession on expiry or termination.](section/99.md)
+      - [s. 100 Applications for determination of rent: time limit.](section/100.md)
+    - Grounds for possession
+      - [s. 101 Mandatory possession for non-payment of rent: reduction in arrears required.](section/101.md)
+      - [s. 102 Recovery of possession where grant induced by false statement.](section/102.md)
+    - Assured agricultural occupancies
+      - [s. 103 Assured agricultural occupancies: exclusion of tenancies of agricultural holdings and farm business tenancies.](section/103.md)
+    - Consequential amendments
+      - [s. 104 Consequential amendments: assured tenancies.](section/104.md)
+  - Chapter III Leasehold Reform
+    - Scope of rights
+      - [s. 105 Low rent test: nil rateable values.](section/105.md)
+      - [s. 106 Low rent test: extension of rights.](section/106.md)
+      - [s. 107 Collective enfranchisement: multiple freeholders.](section/107.md)
+    - Valuation
+      - [s. 108 Collective enfranchisement: removal of need for professional valuation of interests to be acquired.](section/108.md)
+      - [s. 109 Collective enfranchisement: valuation principles.](section/109.md)
+      - [s. 110 New leases: valuation principles.](section/110.md)
+    - Trusts
+      - [s. 111 ................................](section/111.md)
+      - [s. 112 ................................](section/112.md)
+      - [s. 113 Powers of trustees.](section/113.md)
+    - Miscellaneous
+      - [s. 114 Minor amendment of section 1(1)(a) of Leasehold Reform Act 1967.](section/114.md)
+      - [s. 115 Power for leasehold valuation tribunal to determine amount of costs payable under Leasehold Reform Act 1967.](section/115.md)
+      - [s. 116 Compensation for postponement of termination in connection with ineffective claims.](section/116.md)
+      - [s. 117 Priority of interests on grant of new lease.](section/117.md)
+      - [s. 118 Estate management schemes in connection with enfranchisement by virtue of s. 106.](section/118.md)
+      - [s. 119 Leasehold valuation tribunals: pre-trial review.](section/119.md)
+- Part IV Universal Credit, Housing benefit and related matters
+  - [s. 120 Payment of housing benefit to third parties.](section/120.md)
+  - [s. 121 Administration of housing benefit, &c.](section/121.md)
+  - [s. 122 Functions of rent officers in connection with universal credit, housing benefit and rent allowance subsidy.](section/122.md)
+  - [s. 123 Consequential amendments: Part IV.](section/123.md)
+- Part V Conduct of tenants
+  - Chapter I Introductory Tenancies: England
+    - General provisions
+      - [s. 124 Introductory tenancies.](section/124.md)
+      - [s. 125 Duration of introductory tenancy.](section/125.md)
+      - [s. 125A Extension of trial period by 6 months](section/125A.md)
+      - [s. 125B Review of decision to extend trial period](section/125B.md)
+      - [s. 126 Licences.](section/126.md)
+    - Proceedings for possession
+      - [s. 127 Proceedings for possession.](section/127.md)
+      - [s. 128 Notice of proceedings for possession.](section/128.md)
+      - [s. 129 Review of decision to seek possession.](section/129.md)
+      - [s. 130 Effect of beginning proceedings for possession.](section/130.md)
+    - Succession on death of tenant
+      - [s. 131 Persons qualified to succeed tenant.](section/131.md)
+      - [s. 132 Cases where the tenant is a successor.](section/132.md)
+      - [s. 133 Succession to introductory tenancy.](section/133.md)
+    - Assignment
+      - [s. 134 Assignment in general prohibited.](section/134.md)
+    - Repairs
+      - [s. 135 Right to carry out repairs.](section/135.md)
+    - Provision of information and consultation
+      - [s. 136 Provision of information about tenancies.](section/136.md)
+      - [s. 137 Consultation on matters of housing management.](section/137.md)
+    - Introductory tenancies that are to become flexible tenancies
+      - [s. 137A Introductory tenancies that are to become flexible tenancies](section/137A.md)
+    - Supplementary
+      - [s. 138 Jurisdiction of county court.](section/138.md)
+      - [s. 139 Meaning of “dwelling-house”.](section/139.md)
+      - [s. 140 Members of a person’s family: Chapter I.](section/140.md)
+      - [s. 141 Consequential amendments: introductory tenancies.](section/141.md)
+      - [s. 142 Regulations and orders.](section/142.md)
+      - [s. 143 Index of defined expressions: introductory tenancies.](section/143.md)
+  - Chapter 1A
+    - General provisions
+      - Demoted tenancies: England
+        - [s. 143A Demoted tenancies](section/143A.md)
+      - Duration of demoted tenancy
+        - [s. 143B Duration of demoted tenancy](section/143B.md)
+      - Change of landlord
+        - [s. 143C Change of landlord](section/143C.md)
+    - Proceedings for possession
+      - Proceedings for possession
+        - [s. 143D Proceedings for possession](section/143D.md)
+      - Notice of proceedings for possession
+        - [s. 143E Notice of proceedings for possession](section/143E.md)
+      - Review of decision to seek possession
+        - [s. 143F Review of decision to seek possession](section/143F.md)
+      - Effect of proceedings for possession
+        - [s. 143G Effect of proceedings for possession](section/143G.md)
+    - Succession
+      - Succession to demoted tenancy
+        - [s. 143H Succession to demoted tenancy](section/143H.md)
+      - No successor tenant: termination
+        - [s. 143I No successor tenant: termination](section/143I.md)
+      - Successor tenants
+        - [s. 143J Successor tenants](section/143J.md)
+    - Assignment
+      - Restriction on assignment
+        - [s. 143K Restriction on assignment](section/143K.md)
+    - Repairs
+      - Right to carry out repairs
+        - [s. 143L Right to carry out repairs](section/143L.md)
+    - Provision of information
+      - Provision of information
+        - [s. 143M Provision of information](section/143M.md)
+    - Demoted tenancies that are to become flexible tenancies
+      - [s. 143MA Demoted tenancies that are to become flexible tenancies](section/143MA.md)
+    - Supplementary
+      - Jurisdiction of county court
+        - [s. 143N Jurisdiction of county court](section/143N.md)
+      - Meaning of dwelling house
+        - [s. 143O Meaning of dwelling house](section/143O.md)
+      - Members of a person’s family
+        - [s. 143P Members of a person’s family](section/143P.md)
+  - Chapter II Repossession, &c.: Secure and Assured Tenancies
+    - Secure tenancies
+      - [s. 144 Extension of ground of nuisance or annoyance to neighbours, &c.](section/144.md)
+      - [s. 145 New ground of domestic violence: secure tenancies.](section/145.md)
+      - [s. 146 Extension of ground that grant of tenancy induced by false statement.](section/146.md)
+      - [s. 147 Proceedings for possession or termination.](section/147.md)
+    - Assured tenancies
+      - [s. 148 Extension of ground of nuisance or annoyance to adjoining occupiers &c.](section/148.md)
+      - [s. 149 New ground of domestic violence: assured tenancies.](section/149.md)
+      - [s. 150 Additional notice requirements: domestic violence.](section/150.md)
+      - [s. 151 Early commencement of certain proceedings for possession.](section/151.md)
+  - Chapter III Injunctions against anti-social behaviour
+    - [s. 152 Power to grant injunctions against anti-social behaviour.](section/152.md)
+    - [s. 153 Power of arrest for breach of other injunctions against anti-social behaviour.](section/153.md)
+    - [s. 153A Anti-social behaviour injunction](section/153A.md)
+    - [s. 153B Injunction against unlawful use of premises](section/153B.md)
+    - [s. 153C Injunctions: exclusion order and power of arrest](section/153C.md)
+    - [s. 153D Injunction against breach of tenancy agreement](section/153D.md)
+    - [s. 153E Injunctions: supplementary](section/153E.md)
+    - [s. 154 Powers of arrest: ex-parte applications for injunctions.](section/154.md)
+    - [s. 155 Arrest and remand.](section/155.md)
+    - [s. 156 Remand for medical examination and report.](section/156.md)
+    - [s. 157 Powers of arrest: supplementary provisions.](section/157.md)
+    - [s. 158 Interpretation: Chapter III.](section/158.md)
+- Part VI Allocation of housing accommodation
+  - Introductory
+    - [s. 159 Allocation of housing accommodation.](section/159.md)
+    - [s. 160 Cases where provisions about allocation do not apply.](section/160.md)
+  - Eligibility for allocation of housing accommodation
+    - [s. 160ZA Allocation only to eligible and qualifying persons: England](section/160ZA.md)
+    - [s. 160A Allocation only to eligible persons: Wales](section/160A.md)
+  - The housing register
+    - [s. 161 ................................](section/161.md)
+    - [s. 162 ................................](section/162.md)
+    - [s. 163 ................................](section/163.md)
+    - [s. 164 ................................](section/164.md)
+    - [s. 165 ................................](section/165.md)
+  - Applications for housing accommodation
+    - [s. 166 Applications for housing accommodation](section/166.md)
+  - Allocation schemes
+    - [s. 166A Allocation in accordance with allocation scheme: England](section/166A.md)
+    - [s. 167 Allocation in accordance with allocation scheme: Wales](section/167.md)
+    - [s. 168 Information about allocation scheme.](section/168.md)
+  - Supplementary
+    - [s. 169 Guidance to authorities by the Secretary of State.](section/169.md)
+    - [s. 170 Co-operation between certain social landlords and local housing authorities.](section/170.md)
+    - [s. 171 False statements and withholding information.](section/171.md)
+    - [s. 172 Regulations.](section/172.md)
+    - [s. 173 Consequential amendments: Part VI.](section/173.md)
+    - [s. 174 Index of defined expressions: Part VI.](section/174.md)
+- Part VII Homelessness: England
+  - Homelessness and threatened homelessness
+    - [s. 175 Homelessness and threatened homelessness.](section/175.md)
+    - [s. 176 Meaning of accommodation available for occupation.](section/176.md)
+    - [s. 177 Whether it is reasonable to continue to occupy accommodation.](section/177.md)
+    - [s. 178 Meaning of associated person.](section/178.md)
+  - General functions in relation to homelessness or threatened homelessness
+    - [s. 179 Duty of local housing authority in England to provide advisory services](section/179.md)
+    - [s. 180 Assistance for voluntary organisations.](section/180.md)
+    - [s. 181 Terms and conditions of assistance.](section/181.md)
+    - [s. 182 Guidance by the Secretary of State.](section/182.md)
+  - Application for assistance in case of homelessness or threatened homelessness
+    - [s. 183 Application for assistance.](section/183.md)
+    - [s. 184 Inquiry into cases of homelessness or threatened homelessness.](section/184.md)
+  - Eligibility for assistance
+    - [s. 185 Persons from abroad not eligible for housing assistance.](section/185.md)
+    - [s. 186 Asylum-seekers and their dependants.](section/186.md)
+    - [s. 187 Provision of information by Secretary of State.](section/187.md)
+  - Interim duty to accommodate
+    - [s. 188 Interim duty to accommodate in case of apparent priority need.](section/188.md)
+    - [s. 189 Priority need for accommodation.](section/189.md)
+  - Duty to assess every eligible applicant’s case and agree a plan
+    - [s. 189A Assessments and personalised plan](section/189A.md)
+  - Duties to persons found to be homeless or threatened with homelessness
+    - [s. 189B Initial duty owed to all eligible persons who are homeless](section/189B.md)
+    - [s. 190 Duties to persons becoming homeless intentionally.](section/190.md)
+    - [s. 191 Becoming homeless intentionally.](section/191.md)
+    - [s. 192 Duty to persons not in priority need who are not homeless intentionally.](section/192.md)
+    - [s. 193 Duty to persons with priority need who are not homeless intentionally.](section/193.md)
+    - [s. 193A Consequences of refusal of final accommodation offer or final Part 6 offer at the initial relief stage](section/193A.md)
+    - [s. 193B Notices in cases of an applicant’s deliberate and unreasonable refusal to co-operate](section/193B.md)
+    - [s. 193C Notice under section 193B: consequences](section/193C.md)
+    - [s. 194 ................................](section/194.md)
+    - [s. 195 Duties in cases of threatened homelessness](section/195.md)
+    - [s. 195A Re-application after private rented sector offer](section/195A.md)
+    - [s. 196 Becoming threatened with homelessness intentionally.](section/196.md)
+  - Duty where other suitable accommodation available
+    - [s. 197 ................................](section/197.md)
+  - Referral to another local housing authority
+    - [s. 198 Referral of case to another local housing authority.](section/198.md)
+    - [s. 199 Local connection.](section/199.md)
+    - [s. 199A Duties to the applicant whose case is considered for referral or referred under section 198(A1)](section/199A.md)
+    - [s. 200 Duties to applicant whose case is considered for referral or referred under section 198(1).](section/200.md)
+    - [s. 201 Application of referral provisions to cases arising in Scotland.](section/201.md)
+    - [s. 201A Cases referred from a local housing authority in Wales](section/201A.md)
+  - Right to request review of decision
+    - [s. 202 Right to request review of decision.](section/202.md)
+    - [s. 203 Procedure on a review.](section/203.md)
+    - [s. 204 Right of appeal to county court on point of law.](section/204.md)
+    - [s. 204A Section 204(4): appeals](section/204A.md)
+  - Supplementary provisions
+    - [s. 205 Discharge of functions: introductory.](section/205.md)
+    - [s. 206 Discharge of functions by local housing authorities.](section/206.md)
+    - [s. 207 Discharge of functions: provision of accommodation by the authority.](section/207.md)
+    - [s. 208 Discharge of functions: out-of-area placements.](section/208.md)
+    - [s. 209 Discharge of interim duties: arrangements with private landlord](section/209.md)
+    - [s. 210 Suitability of accommodation.](section/210.md)
+    - [s. 211 Protection of property of homeless persons and persons threatened with homelessness.](section/211.md)
+    - [s. 212 Protection of property: supplementary provisions.](section/212.md)
+    - [s. 213 Co-operation between relevant housing authorities and bodies.](section/213.md)
+    - [s. 213A Co-operation in certain cases involving children](section/213A.md)
+    - [s. 213AA Duty of local housing authority in England to notify in certain cases involving children](section/213AA.md)
+    - [s. 213B Duty of public authority to refer cases in England to local housing authority](section/213B.md)
+  - General provisions
+    - [s. 214 False statements, withholding information and failure to disclose change of circumstances.](section/214.md)
+    - [s. 214A Codes of practice](section/214A.md)
+    - [s. 215 Regulations and orders.](section/215.md)
+    - [s. 216 Transitional and consequential matters.](section/216.md)
+    - [s. 217 Minor definitions: Part VII.](section/217.md)
+    - [s. 218 Index of defined expressions: Part VII.](section/218.md)
+- Part VIII Miscellaneous and general provisions
+  - Miscellaneous
+    - [s. 218A Anti-social behaviour: landlords’ policies and procedures](section/218A.md)
+    - [s. 219 Directions as to certain charges by social landlords.](section/219.md)
+    - [s. 220 Directions as to certain charges: supplementary provisions.](section/220.md)
+    - [s. 220A Provision of general advice etc about residential licences: England](section/220A.md)
+    - [s. 221 Exercise of compulsory purchase powers in relation to Crown land.](section/221.md)
+    - [s. 222 Miscellaneous minor amendments.](section/222.md)
+  - General
+    - [s. 223 Offences by body corporate.](section/223.md)
+    - [s. 224 The Common Council of the City of London.](section/224.md)
+    - [s. 225 The Isles of Scilly.](section/225.md)
+    - [s. 226 Corresponding provision for Northern Ireland.](section/226.md)
+    - [s. 227 Repeals.](section/227.md)
+    - [s. 228 Financial provisions.](section/228.md)
+    - [s. 229 Meaning of “lease” and “tenancy” and related expressions.](section/229.md)
+    - [s. 230 Minor definitions: general.](section/230.md)
+  - Final provisions
+    - [s. 231 Extent.](section/231.md)
+    - [s. 232 Commencement.](section/232.md)
+    - [s. 233 Short title.](section/233.md)
+- SCHEDULE 1 Registered social landlords: regulation
+  - Part I Control of payments to members, &c
+    - Payments by way of gift, dividend or bonus
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Payments and benefits to officers and employees, &c.
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Maximum amounts payable by way of fees, expenses, &c.
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part II Constitution, change of rules, amalgamation and dissolution
+    - General power to remove officer
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Restriction on power of removal in case of registered charity
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Registered charity: power to appoint new officer
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Company: power to appoint new officer
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Registered society: power to appoint officer
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Change of rules, &c. by registered society
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Change of objects by certain charities
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Change of articles of company
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Amalgamation and dissolution &c. of registered society
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Arrangement, reconstruction, &c. of company
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Directions to registered social landlords about notifications
+      - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+    - Relevant Authority’s power to petition for winding up
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Transfer of net assets on dissolution or winding up
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Transfer of net assets on termination of charity not within paragraph 15(1)
+      - [Sch. 1 para. 15A](schedule/1/paragraph/15A.md)
+    - Management etc
+      - [Sch. 1 para. 15B Management tender](schedule/1/paragraph/15B.md)
+      - [Sch. 1 para. 15C Management tender: supplemental](schedule/1/paragraph/15C.md)
+      - [Sch. 1 para. 15D Management transfer](schedule/1/paragraph/15D.md)
+      - [Sch. 1 para. 15E Management transfer: supplemental](schedule/1/paragraph/15E.md)
+      - [Sch. 1 para. 15F Appointment of manager of registered social landlord](schedule/1/paragraph/15F.md)
+      - [Sch. 1 para. 15G Appointment of manager: supplemental](schedule/1/paragraph/15G.md)
+      - [Sch. 1 para. 15H Amalgamation](schedule/1/paragraph/15H.md)
+  - Part III Accounts and audit
+    - General requirements as to accounts and audit
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Companies exempt from audit requirements: accountant’s report
+      - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
+      - [Sch. 1 para. 16B](schedule/1/paragraph/16B.md)
+      - [Sch. 1 para. 16C](schedule/1/paragraph/16C.md)
+      - [Sch. 1 para. 16D](schedule/1/paragraph/16D.md)
+      - [Sch. 1 para. 16E](schedule/1/paragraph/16E.md)
+    - Registered societies exempt from audit requirements: accountant’s report
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Accounting and audit or reporting requirements for charities
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Charities exempt from audit requirements: accountant’s report
+      - [Sch. 1 para. 18A](schedule/1/paragraph/18A.md)
+    - Responsibility for securing compliance with accounting requirements
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Disclosure of information by auditors etc. to the Relevant Authority
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+  - PART 3A INSPECTION
+    - [Sch. 1 para. 19B Overview and application](schedule/1/paragraph/19B.md)
+    - [Sch. 1 para. 19C Inspection](schedule/1/paragraph/19C.md)
+    - [Sch. 1 para. 19D Inspection: supplemental](schedule/1/paragraph/19D.md)
+    - [Sch. 1 para. 19E Inspector’s powers to require provision of documents or information](schedule/1/paragraph/19E.md)
+    - [Sch. 1 para. 19F Inspector’s powers to require provision of documents or information: supplemental](schedule/1/paragraph/19F.md)
+    - [Sch. 1 para. 19G Inspector’s powers of entry and inspection](schedule/1/paragraph/19G.md)
+  - Part IV Inquiry into affairs of registered social landlords
+    - Inquiry
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Evidence
+      - [Sch. 1 para. 20A](schedule/1/paragraph/20A.md)
+    - Power of appointed person to obtain information
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Extraordinary audit for purposes of inquiry
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Powers exercisable on interim basis
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Powers exercisable as a result of final report or audit
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Disqualification as officer of registered social landlord.
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Persons acting as officer while disqualified.
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Power to direct transfer of land
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Availability of powers in relation to registered charities.
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+- SCHEDULE 2 Social rented sector: housing complaints
+  - Social landlords required to be member of approved scheme
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Matters for which scheme must provide
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Approval of scheme, or amendment, and withdrawal of approval
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Notice to be given of becoming a member of an approved scheme
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Withdrawal from approved scheme
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Register of approved schemes
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Determinations by housing ombudsman
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Complaints must be referred by designated person unless paragraph 7B applies
+    - [Sch. 2 para. 7A](schedule/2/paragraph/7A.md)
+  - Complaints that need not be made by way of referral by designated person
+    - [Sch. 2 para. 7B](schedule/2/paragraph/7B.md)
+  - Designated tenant panels
+    - [Sch. 2 para. 7C](schedule/2/paragraph/7C.md)
+  - Enforcement of a housing ombudsman’s determinations
+    - [Sch. 2 para. 7D](schedule/2/paragraph/7D.md)
+  - Publication of determinations, &c.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Absolute privilege for communications, &c.
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Appointment and status of housing ombudsman
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Collaborative working with Local Commissioners
+    - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+  - Subscriptions payable in respect of approved schemes
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - General provision about orders
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 2A Further Provision About The Social Housing Ombudsman For Wales
+  - Status
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Remuneration, etc.
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Remuneration, etc.
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Staff and advisers
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Delegation of functions
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Reports and determinations
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Reports and determinations
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Reports and determinations
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Expenses
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Absolute privilege for communications etc.
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Disclosure of information
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - Disclosure of information
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+  - Accounts and audit
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+  - Accounts and audit
+    - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+  - Accounting officer
+    - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - Examinations into use of resources
+    - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+  - Examinations into use of resources
+    - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+- SCHEDULE 3 Social rented sector: minor amendments
+  - Finance Act 1981 (c.35)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Housing Associations Act 1985 (c.69)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Income and Corporation Taxes Act 1988 (c.1)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Housing (Scotland) Act 1988 (c.43)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Housing Act 1988 (c.50)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Rights exercisable by surveyor appointed by tenants’ association
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Appointment of assistants
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Right to inspect documents, &c.
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Right to inspect premises
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Enforcement of rights by the court
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Documents held by superior landlord
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Effect of disposal by landlord
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Effect of person ceasing to be a relevant person
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Text of Part II of the Landlord and Tenant Act 1987, as amended
+- SCHEDULE 6 Amendments of Part I of the Landlord and Tenant Act 1987
+  - Part I Rights of first refusal
+  - Part II Enforcement by tenants of rights against purchaser
+  - Part III Enforcement of rights against subsequent purchasers and termination of rights
+  - Part IV Consequential amendments
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 8 Assured tenancies: consequential amendments
+  - Housing Act 1985 (c.68)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Housing Act 1988 (c.50)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+- SCHEDULE 9 Low rent test: extension of rights
+  - Right to enfranchisement
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Right to collective enfranchisement
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Right to new lease
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Section 107: consequential amendments
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+- SCHEDULE 11 Compensation for postponement of termination in connection with ineffective claims
+  - Claims under Part I of the Leasehold Reform Act 1967
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Claims under Chapter I of Part I of the Leasehold Reform, Housing and Urban Development Act 1993
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Claims under Chapter II of Part I of the Leasehold Reform, Housing and Urban Development Act 1993
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+- SCHEDULE 12 Administration of housing benefit, &c
+  - Administration of housing benefit
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Administration of council tax benefit
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Subsidy
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Transitional provision
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Housing benefit and related matters: consequential amendments
+  - Rent Act 1977 (c.42)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Housing Act 1985 (c.68)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Social Security Administration Act 1992 (c.5)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - ...
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+- SCHEDULE 14 Introductory tenancies: consequential amendments
+  - Housing Act 1985 (c.68)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+- SCHEDULE 15 Arrest for anti-social behaviour: powers of High Court and county court to remand
+  - Introductory
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Remand in custody or on bail
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Further remand
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Postponement of taking of recognizance
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+- SCHEDULE 16 Allocation of housing accommodation: consequential amendments
+  - Housing Act 1985 (c.68)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Asylum and Immigration Act 1996 (c. 49)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+- SCHEDULE 17 Homelessness: consequential amendments
+  - Local Authority Social Services Act 1970 (c.42)
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Greater London Council (General Powers) Act 1984 (c.xxvii)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Housing Act 1985 (c.68)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Housing (Scotland) Act 1987 (c.26)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+- SCHEDULE 18 Miscellaneous provisions
+  - Part I Housing management
+    - Repeal of Part IV of the Housing Act 1988
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - Payments to encourage local housing authority tenants to move to other accommodation
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - Consultation with respect to housing management
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Part II Housing Finance
+    - Housing Revenue Account: directions as to certain matters
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - Housing Revenue Account subsidy: final decision on amount
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - Abolition of exchequer contributions for agricultural housing
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Part III Orders in relation to property in family and matrimonial proceedings, &c.
+    - Housing Act 1980 (c.51)
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - Housing Act 1985 (c.68)
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+      - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+      - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+      - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+      - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+      - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+      - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+      - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+      - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+      - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - Landlord and Tenant Act 1987 (c.31)
+      - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+    - Housing Act 1988 (c.50)
+      - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+  - Part IV Other housing provisions
+    - Abolition of consent requirements for exercise of certain housing powers
+      - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - Amendments of section 133 of the Housing Act 1988
+      - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+    - Abolition of requirements for Treasury consent
+      - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+    - Disposal of dwelling-houses subject to secure tenancies: consultation requirements
+      - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+    - Powers of local housing authorities to acquire land for housing purposes
+      - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+    - Housing action trusts
+      - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+    - Preserved right to buy
+      - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+    - Local authority assistance in connection with mortgages
+      - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
+      - [Sch. 18 para. 28](schedule/18/paragraph/28.md)
+      - [Sch. 18 para. 29](schedule/18/paragraph/29.md)
+      - [Sch. 18 para. 30](schedule/18/paragraph/30.md)
+- SCHEDULE 19 Repeals
+  - Part I Social rented sector
+  - Part II Houses in multiple occupation
+  - Part III Tenants’ rights
+  - Part IV Assured tenancies
+  - Part V Leasehold reform
+  - Part VI Housing benefit and related matters
+  - Part VII Allocation of housing accomodation
+  - Part VIII Homelessness
+  - Part IX Change of landlord: secure tenants
+  - Part X Consultation with respect to housing management
+  - Part XI Abolition of Exchequer contributions for agricultural housing
+  - Part XII Abolition of certain consent requirements
+  - Part XIII Removal of Treasury consent requirements
+  - Part XIV Local authority assistance in connection with mortgages
