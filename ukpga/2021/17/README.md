@@ -1,0 +1,201 @@
+# Domestic Abuse Act 2021
+
+2021 c. 17. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
+
+Source: https://www.legislation.gov.uk/ukpga/2021/17/2026-09-30
+
+## Contents
+
+- PART 1 Definition of “domestic abuse”
+  - [s. 1 Definition of “domestic abuse”](section/1.md)
+  - [s. 2 Definition of “personally connected”](section/2.md)
+  - [s. 3 Children as victims of domestic abuse](section/3.md)
+- PART 2 The Domestic Abuse Commissioner
+  - Domestic Abuse Commissioner
+    - [s. 4 Appointment of Commissioner](section/4.md)
+    - [s. 5 Funding](section/5.md)
+    - [s. 6 Staff etc](section/6.md)
+  - Functions of Commissioner
+    - [s. 7 General functions of Commissioner](section/7.md)
+    - [s. 8 Reports](section/8.md)
+    - [s. 9 Advice and assistance](section/9.md)
+    - [s. 10 Incidental powers](section/10.md)
+  - Framework document
+    - [s. 11 Framework document](section/11.md)
+  - Advisory Board
+    - [s. 12 Advisory Board](section/12.md)
+  - Strategic plans and annual reports
+    - [s. 13 Strategic plans](section/13.md)
+    - [s. 14 Annual reports](section/14.md)
+  - Duties of public authorities in relation to Commissioner
+    - [s. 15 Duty to co-operate with Commissioner](section/15.md)
+    - [s. 16 Duty to respond to Commissioner’s recommendations](section/16.md)
+    - [s. 17 Duty to send conclusions of domestic homicide review to Commissioner](section/17.md)
+  - Disclosure of information
+    - [s. 18 Disclosure of information](section/18.md)
+  - Miscellaneous and supplementary
+    - [s. 19 Restriction on exercise of functions in individual cases](section/19.md)
+    - [s. 20 Duty to report on domestic abuse services in England](section/20.md)
+    - [s. 21 Amendments relating to Commissioner](section/21.md)
+- PART 3 Powers for dealing with domestic abuse
+  - Domestic abuse protection notices
+    - [s. 22 Power to give a domestic abuse protection notice](section/22.md)
+    - [s. 23 Provision that may be made by notices](section/23.md)
+    - [s. 24 Matters to be considered before giving a notice](section/24.md)
+    - [s. 25 Further requirements in relation to notices](section/25.md)
+    - [s. 26 Breach of notice](section/26.md)
+  - Domestic abuse protection orders
+    - [s. 27 Meaning of “domestic abuse protection order”](section/27.md)
+    - [s. 28 Domestic abuse protection orders on application](section/28.md)
+    - [s. 29 Applications where domestic abuse protection notice has been given](section/29.md)
+    - [s. 30 Remand under section 29(8) of person arrested for breach of notice](section/30.md)
+    - [s. 31 Domestic abuse protection orders otherwise than on application](section/31.md)
+    - [s. 32 Conditions for making an order](section/32.md)
+    - [s. 33 Matters to be considered before making an order](section/33.md)
+    - [s. 34 Making of orders without notice](section/34.md)
+    - [s. 35 Provision that may be made by orders](section/35.md)
+    - [s. 36 Further provision about requirements that may be imposed by orders](section/36.md)
+    - [s. 37 Further provision about electronic monitoring requirements](section/37.md)
+    - [s. 38 Duration and geographical application of orders](section/38.md)
+    - [s. 39 Breach of order](section/39.md)
+    - [s. 40 Arrest for breach of order](section/40.md)
+    - [s. 41 Notification requirements](section/41.md)
+    - [s. 42 Further provision about notification under section 41](section/42.md)
+    - [s. 43 Offences relating to notification](section/43.md)
+    - [s. 44 Variation and discharge of orders](section/44.md)
+    - [s. 45 Variation and discharge: supplementary](section/45.md)
+    - [s. 46 Appeals](section/46.md)
+    - [s. 47 Further provision about appeals](section/47.md)
+    - [s. 48 Nature of certain proceedings under this Part](section/48.md)
+    - [s. 49 Special measures for witnesses](section/49.md)
+  - Notifying schools etc if child is suspected victim of domestic abuse
+    - [s. 49A Arrangements to notify schools etc](section/49A.md)
+    - [s. 49B Power to extend section 49A to childcare providers](section/49B.md)
+  - Notices and orders: supplementary
+    - [s. 50 Guidance](section/50.md)
+    - [s. 51 Data from electronic monitoring: code of practice](section/51.md)
+    - [s. 52 Powers to make other orders in proceedings under this Part](section/52.md)
+    - [s. 53 Proceedings not to be subject to conditional fee agreements](section/53.md)
+    - [s. 54 Consequential amendments of the Sentencing Code](section/54.md)
+    - [s. 55 Repeal of provisions about domestic violence protection notices and orders](section/55.md)
+    - [s. 56 Interpretation of Part 3](section/56.md)
+- PART 4 Local authority support
+  - [s. 57 Support provided by local authorities to victims of domestic abuse](section/57.md)
+  - [s. 58 Domestic abuse local partnership boards](section/58.md)
+  - [s. 59 Annual reports](section/59.md)
+  - [s. 60 Guidance](section/60.md)
+  - [s. 61 Interpretation of Part 4](section/61.md)
+- PART 5 Protection for victims, witnesses, etc in legal proceedings
+  - Special measures
+    - [s. 62 Special measures in criminal proceedings for offences involving domestic abuse](section/62.md)
+    - [s. 63 Special measures in family proceedings: victims of domestic abuse](section/63.md)
+    - [s. 64 Special measures in civil proceedings: victims of domestic abuse etc](section/64.md)
+  - Prohibition of cross-examination in person
+    - [s. 65 Prohibition of cross-examination in person in family proceedings](section/65.md)
+    - [s. 66 Prohibition of cross-examination in person in civil proceedings](section/66.md)
+  - Orders under section 91(14) of the Children Act 1989
+    - [s. 67 Orders under section 91(14) of the Children Act 1989](section/67.md)
+- PART 6 Offences involving abusive or violent behaviour
+  - Controlling or coercive behaviour
+    - [s. 68 Controlling or coercive behaviour in an intimate or family relationship](section/68.md)
+  - ...
+    - [s. 69 Threats to disclose private sexual photographs and films with intent to cause distress](section/69.md)
+  - Offences against the person
+    - [s. 70 Strangulation or suffocation](section/70.md)
+    - [s. 71 Consent to serious harm for sexual gratification not a defence](section/71.md)
+  - Offences committed outside the UK
+    - [s. 72 Offences against the person committed outside the UK: England and Wales](section/72.md)
+    - [s. 73 Offences against the person committed outside the UK: Northern Ireland](section/73.md)
+    - [s. 74 Amendments relating to offences committed outside the UK](section/74.md)
+- PART 7 Miscellaneous and general
+  - Prosecution and management of offenders
+    - [s. 75 Strategy for prosecution and management of offenders](section/75.md)
+    - [s. 76 Polygraph conditions for offenders released on licence](section/76.md)
+  - Disclosure of information by police
+    - [s. 77 Guidance about the disclosure of information by police forces](section/77.md)
+  - Homelessness
+    - [s. 78 Homelessness: victims of domestic abuse](section/78.md)
+  - Secure tenancies
+    - [s. 79 Grant of secure tenancies in cases of domestic abuse](section/79.md)
+  - Medical evidence of domestic abuse
+    - [s. 80 Prohibition on charging for the provision of medical evidence of domestic abuse](section/80.md)
+  - Data processing for immigration purposes
+    - [s. 81 Review of processing of victims’ personal data for immigration purposes](section/81.md)
+    - [s. 82 Code of practice](section/82.md)
+  - Contact centres
+    - [s. 83 Report on the use of contact centres in England](section/83.md)
+  - Guidance
+    - [s. 84 Power of Secretary of State to issue guidance about domestic abuse, etc](section/84.md)
+  - Powers to make consequential or transitional provision, etc
+    - [s. 85 Power to make consequential amendments](section/85.md)
+    - [s. 86 Power to make transitional or saving provision](section/86.md)
+  - Final provisions
+    - [s. 87 Regulations](section/87.md)
+    - [s. 88 Financial provision](section/88.md)
+    - [s. 89 Extent](section/89.md)
+    - [s. 90 Commencement](section/90.md)
+    - [s. 91 Short title](section/91.md)
+- SCHEDULE 1 Further provision about remand under section 40
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Remand in custody or on bail
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remand for medical examination and report
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Further remand
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Postponement of taking of recognizance
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Requirements imposed on remand on bail
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Strangulation or suffocation: consequential amendments
+  - Police and Criminal Evidence Act 1984
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Housing Act 1985
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Criminal Justice and Public Order Act 1994
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Crime and Disorder Act 1998
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Youth Justice and Criminal Evidence Act 1999
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Sexual Offences Act 2003
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Criminal Justice Act 2003
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Domestic Violence, Crime and Victims Act 2004
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Children Act 2004
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Criminal Justice and Immigration Act 2008
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Modern Slavery Act 2015
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Sentencing Act 2020
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Amendments relating to offences committed outside the UK
+  - PART 1 England and Wales
+    - Protection from Harassment Act 1997
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Sexual Offences Act 2003
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Serious Crime Act 2015
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - PART 2 Scotland
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Sexual Offences (Scotland) Act 2009 (asp 9)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - PART 3 Northern Ireland
+    - Protection from Harassment (Northern Ireland) Order 1997 (S.I. 1997/1180 (N.I. 9))
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
