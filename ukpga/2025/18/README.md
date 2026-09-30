@@ -2,9 +2,9 @@
 
 2025 c. 18. Enacted 2025-06-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-19, one file per provision. Earlier versions, from 2025-06-19, are in the history before it: `git log -- ukpga/2025/18` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. Earlier versions, from 2025-06-19, are in the history before it: `git log -- ukpga/2025/18` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/18/2026-06-19
+Source: https://www.legislation.gov.uk/ukpga/2025/18/2026-09-30
 
 ## Contents
 
@@ -129,8 +129,8 @@ Source: https://www.legislation.gov.uk/ukpga/2025/18/2026-06-19
     - Intelligence services
       - [s. 89 Joint processing by intelligence services and competent authorities](section/89.md)
       - [s. 90 Joint processing: consequential amendments](section/90.md)
-    - Information Commissioner’s role
-      - [s. 91 Duties of the Commissioner in carrying out functions](section/91.md)
+    - Information Commission’s role
+      - [s. 91 Duties of the Commission in carrying out functions](section/91.md)
       - [s. 92 Codes of practice for the processing of personal data](section/92.md)
       - [s. 93 Codes of practice: panels and impact assessments](section/93.md)
       - [s. 94 Manifestly unfounded or excessive requests to the Commissioner](section/94.md)
