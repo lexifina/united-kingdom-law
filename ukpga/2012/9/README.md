@@ -2,9 +2,11 @@
 
 2012 c. 9. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/9/2026-09-01
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
+
+Source: https://www.legislation.gov.uk/ukpga/2012/9/2026-09-30
 
 ## Contents
 
