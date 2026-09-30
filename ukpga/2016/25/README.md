@@ -2,9 +2,11 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-11, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-05-11
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/25
+
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
 
 ## Contents
 
@@ -383,8 +385,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-05-11
     - Investigatory Powers Tribunal
       - [s. 242 Right of appeal from Tribunal](section/242.md)
       - [s. 243 Functions of Tribunal in relation to this Act etc.](section/243.md)
-    - Information Commissioner
-      - [s. 244 Oversight by Information Commissioner in relation to Part 4](section/244.md)
+    - Information Commission
+      - [s. 244 Oversight by Information Commission in relation to Part 4](section/244.md)
     - Advisory bodies
       - [s. 245 Technical Advisory Board](section/245.md)
       - [s. 246 Technology Advisory Panel](section/246.md)
