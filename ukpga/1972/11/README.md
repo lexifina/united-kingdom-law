@@ -1,0 +1,253 @@
+# Superannuation Act 1972
+
+1972 c. 11. Enacted 1972-03-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1972/11
+
+Source: https://www.legislation.gov.uk/ukpga/1972/11/2026-09-30
+
+## Contents
+
+- Persons employed in the civil service, etc.
+  - [s. 1 Superannuation schemes as respects civil servants, etc.](section/1.md)
+  - [s. 1A List of employments and offices for purposes of section 1(4A)](section/1A.md)
+  - [s. 2 Further provisions relating to schemes under s. 1.](section/2.md)
+  - [s. 3 Recovery in certain circumstances of payments by way of injury allowances.](section/3.md)
+  - [s. 4 Payments due to deceased persons.](section/4.md)
+  - [s. 5 Benefits under civil service superannuation schemes not assignable.](section/5.md)
+  - [s. 6 Power to repeal or amend Acts, etc.](section/6.md)
+- Persons employed in local government service, etc.
+  - [s. 7 Superannuation of persons employed in local government service, etc.](section/7.md)
+  - [s. 8 Local Act schemes.](section/8.md)
+- Teachers
+  - [s. 9 Superannuation of teachers.](section/9.md)
+- Persons engaged in health services, etc.
+  - [s. 10 Superannuation of persons engaged in health services, etc.](section/10.md)
+- Provisions ancillary to sections 7 to 10
+  - [s. 11 Statement of case by Secretary of State.](section/11.md)
+  - [s. 12 Further provisions as to regulations.](section/12.md)
+- Provisions relating to superannuation of various other persons
+  - [s. 13 The Comptroller and Auditor General.](section/13.md)
+  - [s. 14 Metropolitan civil staffs.](section/14.md)
+  - [s. 15 Members of police forces, special constables and police cadets.](section/15.md)
+  - [s. 16 Members of fire brigades.](section/16.md)
+  - [s. 17 Persons employed by general lighthouse authorities, etc.](section/17.md)
+  - [s. 18 Employees of law societies.](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 Officers and servants of certain river authorities.](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 Pension schemes of various statutory bodies: removal of requirement to obtain Ministerial approval for certain determinations, etc.](section/22.md)
+  - [s. 23](section/23.md)
+- Miscellaneous and Supplemental
+  - [s. 24 Compensation for loss of office, etc.](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 Financial provisions.](section/26.md)
+  - [s. 27 Dissolution of Civil Service Committee for Northern Ireland.](section/27.md)
+  - [s. 28 Certain enactments relating to superannuation of Forestry Commissioners and to declarations required from recipients of certain pensions to cease to have effect.](section/28.md)
+  - [s. 29 Amendments, savings, transitional provisions and repeals.](section/29.md)
+  - [s. 30 Short title, construction of references commencement and extent.](section/30.md)
+- SCHEDULE 1 Kinds of Employment, etc., Referred to in Section 1
+  - Museums and Galleries
+  - Royal Commissions and other Commissions
+  - Other Bodies
+  - Offices
+- SCHEDULE 2 The Existing Civil Service Superannuation Provisions
+  - Part I
+    - Enactments
+  - Part II
+    - Instruments
+- SCHEDULE 3 Provisions Which may be Included in Certain Regulations
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Bodies to whom Section 22 relates
+- SCHEDULE 5 ................................
+- SCHEDULE 6 Consequential and Minor Amendments.
+  - Supreme Court of Judicature Act (Ireland) 1877.
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Judicial Factors (Scotland) Act 1889
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Clerks of Session (Scotland) Regulation Act 1889
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Constabulary (Ireland) Act 1922
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Sheriff Courts and Legal Officers (Scotland) Act 1927
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Administration of Justice (Scotland) Act 1933
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Land Registration Act 1936
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Superannuation (Various Services) Act 1938
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Scottish Land Court Act 1938
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Local Government (Scotland) Act 1947
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Church Commissioners Measure 1947
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Police Pensions Act 1948
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Local Government Act 1948
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Superannuation (Miscellaneous Provisions) Act 1948
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - National Health Service (Amendment) Act 1949
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+  - Covent Garden Market Act 1961
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+  - Trustee Investments Act 1961
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+  - Transport Act 1962
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+  - Water Resources Act 1963
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+  - Police Act 1964
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+  - Public Libraries and Museums Act 1964
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+  - Registration of Births, Deaths and Marriages (Scotland) Act 1965
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+  - National Insurance Act 1965
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+  - Redundancy Payments Act 1965
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+  - Superannuation Act 1965
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+  - Forestry Act 1967
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+  - Parliamentary Commissioner Act 1967
+    - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+    - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+  - Superannuation (Miscellaneous Provisions) Act 1967
+    - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+    - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+    - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+  - Air Corporations Act 1967
+    - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+    - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+  - Courts-Martial (Appeals) Act 1968
+    - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+  - Rent Act 1968
+    - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+  - Vehicle and Driving Licences Act 1969
+    - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+  - Post Office Act 1969
+    - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+    - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+  - Trustee Savings Banks Act 1969
+    - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+  - Taxes Management Act 1970
+    - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+  - Income and Corporation Taxes Act 1970
+    - [Sch. 6 para. 78](schedule/6/paragraph/78.md)
+    - [Sch. 6 para. 79](schedule/6/paragraph/79.md)
+  - Courts Act 1971
+    - [Sch. 6 para. 80](schedule/6/paragraph/80.md)
+    - [Sch. 6 para. 81](schedule/6/paragraph/81.md)
+  - Rent (Scotland) Act 1971
+    - [Sch. 6 para. 82](schedule/6/paragraph/82.md)
+  - National Savings Bank Act 1971
+    - [Sch. 6 para. 83](schedule/6/paragraph/83.md)
+  - Pensions (Increase) Act 1971
+    - [Sch. 6 para. 84](schedule/6/paragraph/84.md)
+    - [Sch. 6 para. 85](schedule/6/paragraph/85.md)
+    - [Sch. 6 para. 86](schedule/6/paragraph/86.md)
+    - [Sch. 6 para. 87](schedule/6/paragraph/87.md)
+    - [Sch. 6 para. 88](schedule/6/paragraph/88.md)
+    - [Sch. 6 para. 89](schedule/6/paragraph/89.md)
+    - [Sch. 6 para. 90](schedule/6/paragraph/90.md)
+  - Tribunals and Inquiries Act 1971
+    - [Sch. 6 para. 91](schedule/6/paragraph/91.md)
+  - Industrial Relations Act 1971
+    - [Sch. 6 para. 92](schedule/6/paragraph/92.md)
+    - [Sch. 6 para. 93](schedule/6/paragraph/93.md)
+    - [Sch. 6 para. 94](schedule/6/paragraph/94.md)
+    - [Sch. 6 para. 96](schedule/6/paragraph/96.md)
+- SCHEDULE 7 Savings and Transitional Provisions
+  - Provisions relating to civil servants, etc.
+    - [Sch. 7 heading provisions-relating-to-civil-servants-etc para. 1](schedule/7/crossheading/provisions-relating-to-civil-servants-etc/paragraph/1.md)
+    - [Sch. 7 heading provisions-relating-to-civil-servants-etc para. 2](schedule/7/crossheading/provisions-relating-to-civil-servants-etc/paragraph/2.md)
+    - [Sch. 7 heading provisions-relating-to-civil-servants-etc para. 3](schedule/7/crossheading/provisions-relating-to-civil-servants-etc/paragraph/3.md)
+  - Provisions relating to persons employed in local government service, etc.
+    - [Sch. 7 heading provisions-relating-to-persons-employed-in-local-government-service-etc para. 4](schedule/7/crossheading/provisions-relating-to-persons-employed-in-local-government-service-etc/paragraph/4.md)
+    - [Sch. 7 heading provisions-relating-to-persons-employed-in-local-government-service-etc para. 5](schedule/7/crossheading/provisions-relating-to-persons-employed-in-local-government-service-etc/paragraph/5.md)
+  - Table
+  - Enactments applying toEngland and Wales
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 1](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/1.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 2](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/2.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 3](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/3.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 4](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/4.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 5](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/5.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 6](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/6.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 7](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/7.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 8](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/8.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 9](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/9.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 10](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/10.md)
+    - [Sch. 7 heading enactments-applying-toengland-and-wales para. 11](schedule/7/crossheading/enactments-applying-toengland-and-wales/paragraph/11.md)
+  - Enactments applying to Scotland
+    - [Sch. 7 heading enactments-applying-to-scotland para. 1](schedule/7/crossheading/enactments-applying-to-scotland/paragraph/1.md)
+    - [Sch. 7 heading enactments-applying-to-scotland para. 2](schedule/7/crossheading/enactments-applying-to-scotland/paragraph/2.md)
+    - [Sch. 7 heading enactments-applying-to-scotland para. 3](schedule/7/crossheading/enactments-applying-to-scotland/paragraph/3.md)
+    - [Sch. 7 heading enactments-applying-to-scotland para. 4](schedule/7/crossheading/enactments-applying-to-scotland/paragraph/4.md)
+    - [Sch. 7 heading enactments-applying-to-scotland para. 5](schedule/7/crossheading/enactments-applying-to-scotland/paragraph/5.md)
+    - [Sch. 7 heading enactments-applying-to-scotland para. 6](schedule/7/crossheading/enactments-applying-to-scotland/paragraph/6.md)
+  - Provisions relating to teachers
+    - [Sch. 7 heading provisions-relating-to-teachers para. 6](schedule/7/crossheading/provisions-relating-to-teachers/paragraph/6.md)
+    - [Sch. 7 heading provisions-relating-to-teachers para. 7](schedule/7/crossheading/provisions-relating-to-teachers/paragraph/7.md)
+  - Provisions relating to persons engaged in health services, etc.
+    - [Sch. 7 heading provisions-relating-to-persons-engaged-in-health-services-etc para. 8](schedule/7/crossheading/provisions-relating-to-persons-engaged-in-health-services-etc/paragraph/8.md)
+    - [Sch. 7 heading provisions-relating-to-persons-engaged-in-health-services-etc para. 9](schedule/7/crossheading/provisions-relating-to-persons-engaged-in-health-services-etc/paragraph/9.md)
+  - Provisions relating to other persons
+    - [Sch. 7 heading provisions-relating-to-other-persons para. 10](schedule/7/crossheading/provisions-relating-to-other-persons/paragraph/10.md)
+    - [Sch. 7 heading provisions-relating-to-other-persons para. 11](schedule/7/crossheading/provisions-relating-to-other-persons/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Provisions relating to certain rules
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Repeals
