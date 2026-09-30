@@ -1,0 +1,547 @@
+# Consumer Credit Act 1974
+
+1974 c. 39. Enacted 1974-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1974/39
+
+Source: https://www.legislation.gov.uk/ukpga/1974/39/2026-09-30
+
+## Contents
+
+- Part I OFFICE OF FAIR TRADING
+  - [s. 1 General functions of OFT.](section/1.md)
+  - [s. 2 Powers of Secretary of State.](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 Dissemination of information and advice.](section/4.md)
+  - [s. 5 Annual and other reports.](section/5.md)
+  - [s. 6 Form etc. of applications.](section/6.md)
+  - [s. 6A Charge on applicants for licences etc.](section/6A.md)
+  - [s. 7 Penalty for false information.](section/7.md)
+- Part II Credit Agreements, Hire Agreements and Linked Transactions
+  - [s. 8 Consumer credit agreements.](section/8.md)
+  - [s. 9 Meaning of credit.](section/9.md)
+  - [s. 10 Running-account credit and fixed-sum credit.](section/10.md)
+  - [s. 11 Restricted-use credit and unrestricted-use credit.](section/11.md)
+  - [s. 12 Debtor-creditor supplier agreements.](section/12.md)
+  - [s. 13 Debtor-creditor agreements.](section/13.md)
+  - [s. 14 Credit-token agreements.](section/14.md)
+  - [s. 15 Consumer hire agreements.](section/15.md)
+  - [s. 16 Exempt agreements.](section/16.md)
+  - [s. 16A Exemption relating to high net worth debtors and hirers](section/16A.md)
+  - [s. 16B Exemption relating to businesses](section/16B.md)
+  - [s. 16C Exemption relating to investment properties](section/16C.md)
+  - [s. 17 Small agreements.](section/17.md)
+  - [s. 18 Multiple agreements.](section/18.md)
+  - [s. 19 Linked transactions.](section/19.md)
+  - [s. 20 Total charge for credit](section/20.md)
+- Part III Licensing of Credit and Hire Businesses
+  - Licensing principles
+    - [s. 21 Businesses needing a licence.](section/21.md)
+    - [s. 22 Standard and group licences.](section/22.md)
+    - [s. 23 Authorisation of specific activities.](section/23.md)
+    - [s. 24 Control of name of business.](section/24.md)
+    - [s. 24A Applications for standard licences](section/24A.md)
+    - [s. 25 Licensee to be a fit person.](section/25.md)
+    - [s. 25A Guidance on fitness test](section/25A.md)
+    - [s. 26 Conduct of business](section/26.md)
+  - Issue of licences
+    - [s. 27 Determination of applications.](section/27.md)
+    - [s. 27A Consumer credit EEA firms](section/27A.md)
+    - [s. 28 Exclusion from group licence.](section/28.md)
+  - Charges for indefinite licences
+    - [s. 28A Charges to be paid by licensees etc. before end of payment periods](section/28A.md)
+    - [s. 28B Extension of period to pay charge under s. 28A](section/28B.md)
+    - [s. 28C Failure to pay charge under s. 28A](section/28C.md)
+  - Renewal, variation, suspension and revocation of licences
+    - [s. 29 Renewal.](section/29.md)
+    - [s. 30 Variation by request.](section/30.md)
+    - [s. 31 Compulsory variation.](section/31.md)
+    - [s. 32 ...revocation.](section/32.md)
+    - [s. 32A Power to suspend licence](section/32A.md)
+    - [s. 32B Duration of suspension](section/32B.md)
+    - [s. 33 Application to end suspension.](section/33.md)
+  - Further powers of OFT to regulate conduct of licensees etc.
+    - [s. 33A Power of OFT to impose requirements on licensees](section/33A.md)
+    - [s. 33B Power of OFT to impose requirements on supervisory bodies](section/33B.md)
+    - [s. 33C Supplementary provision relating to requirements](section/33C.md)
+    - [s. 33D Procedure in relation to requirements](section/33D.md)
+    - [s. 33E Guidance on requirements](section/33E.md)
+  - Miscellaneous
+    - [s. 34 Representations to OFT.](section/34.md)
+    - [s. 34ZA Representations to OFT: suspension under section 32A](section/34ZA.md)
+    - [s. 34A Winding-up of standard licensee’s business](section/34A.md)
+    - [s. 35 The register.](section/35.md)
+    - [s. 36 Duty to notify changes.](section/36.md)
+    - [s. 36A Further duties to notify changes etc.](section/36A.md)
+    - [s. 36B Power of OFT to require information generally](section/36B.md)
+    - [s. 36C Power of OFT to require access to premises](section/36C.md)
+    - [s. 36D Entry to premises under warrant](section/36D.md)
+    - [s. 36E Failure to comply with information requirement](section/36E.md)
+    - [s. 36F Officers of enforcement authorities other than OFT](section/36F.md)
+    - [s. 37 Death, bankruptcy etc. of licensee.](section/37.md)
+    - [s. 38 Application of s. 37 to Scotland and Northern Ireland.](section/38.md)
+    - [s. 39 Offences against Part III.](section/39.md)
+    - [s. 39A Power of OFT to impose civil penalties](section/39A.md)
+    - [s. 39B Further provision relating to civil penalties](section/39B.md)
+    - [s. 39C Statement of policy in relation to civil penalties](section/39C.md)
+    - [s. 40 Enforcement of agreements made by unlicensed trader.](section/40.md)
+  - Appeals
+    - [s. 40A The Consumer Credit Appeals Tribunal](section/40A.md)
+    - [s. 41 Appeals to First-tier Tribunal under Part III.](section/41.md)
+    - [s. 41ZA Tribunal Procedure Rules: suspension of OFT determinations](section/41ZA.md)
+    - [s. 41ZB Disposal of appeals](section/41ZB.md)
+    - [s. 41A Appeals from the Consumer Credit Appeals Tribunal](section/41A.md)
+    - [s. 42 ................................](section/42.md)
+- Part IV Seeking Business
+  - ...
+    - [s. 43 Advertisements to which Part IV applies.](section/43.md)
+    - [s. 44 Form and content of advertisements.](section/44.md)
+    - [s. 45 Prohibition of advertisement where goods etc. not sold for cash.](section/45.md)
+    - [s. 46 False or misleading advertisements.](section/46.md)
+    - [s. 47 Advertising infringements.](section/47.md)
+  - Canvassing etc.
+    - [s. 48 Definition of canvassing off trade premises (regulated agreements).](section/48.md)
+    - [s. 49 Prohibition of canvassing debtor-creditor agreements off trade premises.](section/49.md)
+    - [s. 50 Circulars to minors.](section/50.md)
+    - [s. 51 Prohibition of unsolicited credit-tokens.](section/51.md)
+    - [s. 51A Restrictions on provision of credit card cheques](section/51A.md)
+    - [s. 51B Section 51A: exemption for business](section/51B.md)
+  - ...
+    - [s. 52 Quotations.](section/52.md)
+    - [s. 53 Duty to display information.](section/53.md)
+    - [s. 54 Conduct of business regulations.](section/54.md)
+- Part V Entry into Credit or Hire Agreements
+  - Preliminary matters
+    - [s. 55 Disclosure of information.](section/55.md)
+    - [s. 55A Pre-contractual explanations etc](section/55A.md)
+    - [s. 55B Assessment of creditworthiness](section/55B.md)
+    - [s. 55C Copy of draft consumer credit agreement](section/55C.md)
+    - [s. 56 Antecedent negotiations.](section/56.md)
+    - [s. 57 Withdrawal from prospective agreement.](section/57.md)
+    - [s. 58 Opportunity for withdrawal from prospective land mortgage.](section/58.md)
+    - [s. 59 Agreement to enter future agreement void.](section/59.md)
+  - Making the agreement
+    - [s. 60 Form and content of agreements.](section/60.md)
+    - [s. 61 Signing of agreement.](section/61.md)
+    - [s. 61A Duty to supply copy of executed consumer credit agreement](section/61A.md)
+    - [s. 61B Duty to supply copy of overdraft agreement](section/61B.md)
+    - [s. 62 Duty to supply copy of unexecuted agreement: excluded agreements.](section/62.md)
+    - [s. 63 Duty to supply copy of executed agreement: excluded agreements.](section/63.md)
+    - [s. 64 Duty to give notice of cancellation rights.](section/64.md)
+    - [s. 65 Consequences of improper execution.](section/65.md)
+    - [s. 66 Acceptance of credit-tokens.](section/66.md)
+  - Withdrawal from certain agreements
+    - [s. 66A Withdrawal from consumer credit agreement](section/66A.md)
+  - Cancellation of certain agreements within cooling-off period
+    - [s. 67 Cancellable agreements.](section/67.md)
+    - [s. 68 Cooling-off period.](section/68.md)
+    - [s. 69 Notice of cancellation.](section/69.md)
+    - [s. 70 Cancellation: recovery of money paid by debtor or hirer.](section/70.md)
+    - [s. 71 Cancellation: repayment of credit.](section/71.md)
+    - [s. 72 Cancellation: return of goods.](section/72.md)
+    - [s. 73 Cancellation: goods given in part-exchange.](section/73.md)
+  - Exclusion of certain agreements from Part V
+    - [s. 74 Exclusion of certain agreements from Part V.](section/74.md)
+- PART VA CURRENT ACCOUNT OVERDRAFTS
+  - [s. 74A Information to be provided on a current account agreement](section/74A.md)
+  - [s. 74B Information to be provided on significant overdrawing without prior arrangement](section/74B.md)
+- Part VI Matters Arising During Currency of Credit or Hire Agreements
+  - [s. 75 Liability of creditor for breaches by supplier.](section/75.md)
+  - [s. 75A Further provision for liability of creditor for breaches by supplier](section/75A.md)
+  - [s. 76 Duty to give notice before taking certain action.](section/76.md)
+  - [s. 77 Duty to give information to debtor under fixed-sum credit agreement.](section/77.md)
+  - [s. 77A Statements to be provided in relation to fixed-sum credit agreements](section/77A.md)
+  - [s. 77B Fixed-sum credit agreement: statement of account to be provided on request](section/77B.md)
+  - [s. 78 Duty to give information to debtor under running-account credit agreement.](section/78.md)
+  - [s. 78A Duty to give information to debtor on change of rate of interest](section/78A.md)
+  - [s. 79 Duty to give hirer information.](section/79.md)
+  - [s. 80 Debtor or hirer to give information about goods.](section/80.md)
+  - [s. 81 Appropriation of payments.](section/81.md)
+  - [s. 82 Variation of agreements.](section/82.md)
+  - [s. 82A Assignment of rights](section/82A.md)
+  - [s. 83 Liability for misuse of credit facilities.](section/83.md)
+  - [s. 84 Misuse of credit-tokens.](section/84.md)
+  - [s. 85 Duty on issue of new credit-tokens.](section/85.md)
+  - [s. 86 Death of debtor or hirer.](section/86.md)
+  - Information sheets
+    - [s. 86A FCA to prepare information sheets on arrears and default](section/86A.md)
+  - Sums in arrears and default sums
+    - [s. 86B Notice of sums in arrears under fixed-sum credit agreements etc.](section/86B.md)
+    - [s. 86C Notice of sums in arrears under running-account credit agreements](section/86C.md)
+    - [s. 86D Failure to give notice of sums in arrears](section/86D.md)
+    - [s. 86E Notice of default sums](section/86E.md)
+    - [s. 86F Interest on default sums](section/86F.md)
+- Part VII Default and Termination
+  - Default notices
+    - [s. 87 Need for default notice.](section/87.md)
+    - [s. 88 Contents and effect of default notice.](section/88.md)
+    - [s. 89 Compliance with default notice.](section/89.md)
+  - Further restriction of remedies for default
+    - [s. 90 Retaking of protected hire-purchase etc. goods.](section/90.md)
+    - [s. 91 Consequences of breach of s. 90.](section/91.md)
+    - [s. 92 Recovery of possession of goods or land.](section/92.md)
+    - [s. 93 Interest not to be increased on default.](section/93.md)
+    - [s. 93A Summary diligence not competent in Scotland.](section/93A.md)
+  - Early payment by debtor
+    - [s. 94 Right to complete payments ahead of time.](section/94.md)
+    - [s. 95 Rebate on early settlement.](section/95.md)
+    - [s. 95A Compensatory amount](section/95A.md)
+    - [s. 95B Compensatory amount: green deal finance](section/95B.md)
+    - [s. 96 Effect on linked transactions.](section/96.md)
+    - [s. 97 Duty to give information.](section/97.md)
+    - [s. 97A Duty to give information on partial repayment](section/97A.md)
+  - Termination of agreements
+    - [s. 98 Duty to give notice of termination (non-default cases).](section/98.md)
+    - [s. 98A Termination etc of open-end consumer credit agreements](section/98A.md)
+    - [s. 99 Right to terminate hire-purchase etc. agreements.](section/99.md)
+    - [s. 100 Liability of debtor on termination of hire-purchase etc. agreement.](section/100.md)
+    - [s. 101 Right to terminate hire agreement.](section/101.md)
+    - [s. 102 Agency for receiving notice of rescission.](section/102.md)
+    - [s. 103 Termination statements.](section/103.md)
+    - [s. 104 Goods not to be treated as subject to landlord’s hypothec in Scotland.](section/104.md)
+- Part VIII Security
+  - General
+    - [s. 105 Form and content of securities.](section/105.md)
+    - [s. 106 Ineffective securities.](section/106.md)
+    - [s. 107 Duty to give information to surety under fixed-sum credit agreement.](section/107.md)
+    - [s. 108 Duty to give information to surety under running-account credit agreement.](section/108.md)
+    - [s. 109 Duty to give information to surety under consumer hire agreement.](section/109.md)
+    - [s. 110 Duty to give information to debtor or hirer.](section/110.md)
+    - [s. 111 Duty to give surety copy of default etc. notice.](section/111.md)
+    - [s. 112 Realisation of securities.](section/112.md)
+    - [s. 113 Act not to be evaded by use of security.](section/113.md)
+  - Pledges
+    - [s. 114 Pawn-receipts.](section/114.md)
+    - [s. 115 Penalty for failure to supply copies of pledge agreement, etc.](section/115.md)
+    - [s. 116 Redemption period.](section/116.md)
+    - [s. 117 Redemption procedure.](section/117.md)
+    - [s. 118 Loss etc. of pawn-receipt.](section/118.md)
+    - [s. 119 Unreasonable refusal to deliver pawn.](section/119.md)
+    - [s. 120 Consequence of failure to redeem.](section/120.md)
+    - [s. 121 Realisation of pawn.](section/121.md)
+    - [s. 122 Order in Scotland to deliver pawn.](section/122.md)
+  - Negotiable instruments
+    - [s. 123 Restrictions on taking and negotiating instruments.](section/123.md)
+    - [s. 124 Consequences of breach of s. 123.](section/124.md)
+    - [s. 125 Holders in due course.](section/125.md)
+  - Land mortgages
+    - [s. 126 Enforcement of land mortgages.](section/126.md)
+- Part IX Judicial Control
+  - Enforcement of certain regulated agreements and securities
+    - [s. 127 Enforcement orders in cases of infringement.](section/127.md)
+    - [s. 128 Enforcement orders on death of debtor or hirer.](section/128.md)
+  - Extension of time
+    - [s. 129 Time orders.](section/129.md)
+    - [s. 129A Debtor or hirer to give notice of intent etc. to creditor or owner](section/129A.md)
+    - [s. 130 Supplemental provisions about time orders.](section/130.md)
+  - Interest
+    - [s. 130A Interest payable on judgment debts etc.](section/130A.md)
+  - Protection of property pending proceedings
+    - [s. 131 Protection orders.](section/131.md)
+  - Hire and hire-purchase etc. agreements
+    - [s. 132 Financial relief for hirer.](section/132.md)
+    - [s. 133 Hire-purchase etc. agreements: special powers of court.](section/133.md)
+    - [s. 134 Evidence of adverse detention in hire-purchase etc. cases.](section/134.md)
+  - Supplemental provisions as to orders
+    - [s. 135 Power to impose conditions, or suspend operation of order.](section/135.md)
+    - [s. 136 Power to vary agreements and securities.](section/136.md)
+  - Extortionate credit bargains
+    - [s. 137 Extortionate credit bargains.](section/137.md)
+    - [s. 138 When bargains are extortionate.](section/138.md)
+    - [s. 139 Reopening of extortionate agreements.](section/139.md)
+    - [s. 140 Interpretation of sections 137 to 139.](section/140.md)
+  - Unfair relationships
+    - [s. 140A Unfair relationships between creditors and debtors](section/140A.md)
+    - [s. 140B Powers of court in relation to unfair relationships](section/140B.md)
+    - [s. 140C Interpretation of ss. 140A and 140B](section/140C.md)
+    - [s. 140D Advice and information](section/140D.md)
+  - Miscellaneous
+    - [s. 141 Jurisdiction and parties.](section/141.md)
+    - [s. 142 Power to declare rights of parties.](section/142.md)
+  - Northern Ireland
+    - [s. 143 Jurisdiction of county court in Northern Ireland.](section/143.md)
+    - [s. 144 Appeal from county court in Northern Ireland.](section/144.md)
+- Part X Ancillary Credit Businesses
+  - Definitions
+    - [s. 145 Types of ancillary credit business.](section/145.md)
+    - [s. 146 Exceptions from section 145.](section/146.md)
+  - ...
+    - [s. 147 Application of Part III.](section/147.md)
+    - [s. 148 Agreement for services of unlicensed trader.](section/148.md)
+    - [s. 149 Regulated agreements made on introductions by unlicensed credit-broker.](section/149.md)
+    - [s. 150 Appeals to Secretary of State against licensing decisions.](section/150.md)
+  - Seeking business
+    - [s. 151 Advertisements.](section/151.md)
+    - [s. 152 Application of sections 52 to 54 to credit brokerage etc.](section/152.md)
+    - [s. 153 Definition of canvassing off trade premises (agreements for ancillary credit services).](section/153.md)
+    - [s. 154 Prohibition of canvassing certain ancillary credit services off trade premises.](section/154.md)
+    - [s. 155 Right to recover brokerage fees.](section/155.md)
+  - ...
+    - [s. 156 Entry into agreements.](section/156.md)
+  - Credit reference agencies
+    - [s. 157 Duty to disclose name etc. of agency.](section/157.md)
+    - [s. 158 Duty of agency to disclose filed information.](section/158.md)
+    - [s. 159 Correction of wrong information.](section/159.md)
+    - [s. 160 Alternative procedure for business consumers.](section/160.md)
+    - [s. 160A Credit intermediaries](section/160A.md)
+- Part XI Enforcement of Act
+  - [s. 161 Enforcement authorities.](section/161.md)
+  - [s. 162 Powers of entry and inspection.](section/162.md)
+  - [s. 163 Compensation for loss.](section/163.md)
+  - [s. 164 Power to make test purchases etc.](section/164.md)
+  - [s. 165 Obstruction of authorised officers.](section/165.md)
+  - [s. 166 Notification of convictions and judgments to FCA.](section/166.md)
+  - [s. 167 Penalties.](section/167.md)
+  - [s. 168 Defences.](section/168.md)
+  - [s. 169 Offences by bodies corporate.](section/169.md)
+  - [s. 170 No further sanctions for breach of Act.](section/170.md)
+  - [s. 171 Onus of proof in various proceedings.](section/171.md)
+  - [s. 172 Statements by creditor or owner to be binding.](section/172.md)
+  - [s. 173 Contracting-out forbidden.](section/173.md)
+- Part XII Supplemental
+  - [s. 174 Restrictions on disclosure of information.](section/174.md)
+  - [s. 174A Powers to require provision of information or documents etc.](section/174A.md)
+  - [s. 175 Duty of persons deemed to be agents.](section/175.md)
+  - [s. 176 Service of documents.](section/176.md)
+  - [s. 176A Electronic transmission of documents](section/176A.md)
+  - [s. 177 Saving for registered charges.](section/177.md)
+  - [s. 178 Local Acts.](section/178.md)
+  - Regulations, orders, etc.
+    - [s. 179 Power to prescribe form etc. of secondary documents.](section/179.md)
+    - [s. 180 Power to prescribe form etc. of copies.](section/180.md)
+    - [s. 181 Power to alter monetary limits etc.](section/181.md)
+    - [s. 182 Regulations and orders.](section/182.md)
+    - [s. 183 Determinations etc. by FCA.](section/183.md)
+  - Interpretation
+    - [s. 184 Associates.](section/184.md)
+    - [s. 185 Agreement with more than one debtor or hirer.](section/185.md)
+    - [s. 186 Agreement with more than one creditor or owner.](section/186.md)
+    - [s. 187 Arrangements between creditor and supplier.](section/187.md)
+    - [s. 187A Definition of ‘default sum’](section/187A.md)
+    - [s. 188 Examples of use of new terminology.](section/188.md)
+    - [s. 189 Definitions.](section/189.md)
+    - [s. 189A Meaning of “consumer credit EEA firm ”](section/189A.md)
+    - [s. 189B Green deal plans](section/189B.md)
+    - [s. 189C Section 189B: supplementary provision](section/189C.md)
+    - [s. 189D Section 189B: temporary provision](section/189D.md)
+    - [s. 190 Financial provisions.](section/190.md)
+    - [s. 191 Special provisions as to Northern Ireland.](section/191.md)
+    - [s. 192 Transitional and commencement provisions, amendments and repeals.](section/192.md)
+    - [s. 193 Short title and extent.](section/193.md)
+- SCHEDULE A1 The Consumer Credit Appeals Tribunal
+  - Part 1 Interpretation
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Part 2 The Tribunal
+    - The President and the Deputy President
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Panels
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - Terms of office etc.
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - Remuneration and allowances
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - Staff and costs
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - Part 3 Constitution of the Tribunal
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - Part 4 Tribunal powers and procedure
+    - Sittings
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - Evidence
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Rules on procedure
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+    - Council on Tribunals
+      - [Sch. A1 para. 11 ................................](schedule/A1/paragraph/11.md)
+    - Disposal of appeals
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - Decisions of the Tribunal
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+    - Costs
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+- SCHEDULE 1 Prosecution and Punishment of Offences
+- SCHEDULE 2 Examples of Use of New Terminology
+  - Part I Lists of Terms
+  - Part II
+- SCHEDULE 2A MEANING OF “DEBTOR” IN RELATION TO GREEN DEAL AGREEMENTS
+- SCHEDULE 3 Transitional and Commencement Provisions
+  - Part II of Act Credit Agreements, Hire Agreements and Linked Transactions
+    - Regulated agreements
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Linked transactions
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Total charge for credit
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part III of Act Licensing of Credit and Hire Businesses
+    - ...
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - ...
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - ...
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part IV of Act Seeking Business
+    - Advertisements
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Canvassing
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Circulars to minors
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - ...
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part V of Act Entry into Credit or Hire Agreements
+    - Antecedent negotiations
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - General
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part VI of Act Matters Arising During Currency of Credit or Hire Agreements
+    - Liability of creditor for breaches by supplier
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Duty to give notice
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Duty to give information
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Appropriation of payments
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Variation of agreements
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Misuse of credit facilities
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Duty on issue of new credit-tokens
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Death of debtor or hirer
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Part VII of Act Default and Termination
+    - Default notices
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Retaking of goods and land
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Interest on default
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Early payment by debtor
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Termination of agreements
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - Old agreements
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Part VIII of Act Security
+    - General
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+    - Pledges
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - Negotiable instruments
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+    - Land mortgages
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+  - Part IX of Act Judicial Control
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+  - Part X of Act Ancillary Credit Businesses
+    - ...
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+    - ...
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - ...
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+    - Advertisements
+      - [Sch. 3 para. 46n1](schedule/3/paragraph/46n1.md)
+    - Credit Reference Agencies
+      - [Sch. 3 para. 46n2](schedule/3/paragraph/46n2.md)
+  - Part XII of Act Supplemental
+    - Interpretation
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+- SCHEDULE 4. MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART I UNITED KINGDOM
+    - Bills of Sale Act (1878) Amendment Act 1882
+      - [Sch. 4. para. 1](schedule/4/paragraph/1.md)
+    - Factors Act 1889
+      - [Sch. 4. para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4. para. 3](schedule/4/paragraph/3.md)
+    - Law of Distress Amendment Act 1908
+      - [Sch. 4. para. 5](schedule/4/paragraph/5.md)
+    - Bankruptcy Act 1914
+      - [Sch. 4. para. 6](schedule/4/paragraph/6.md)
+    - Compensation (Defence) Act 1939
+      - [Sch. 4. para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4. para. 8](schedule/4/paragraph/8.md)
+    - Liability for War Damage (Miscellaneous Provisions) Act 1939
+      - [Sch. 4. para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4. para. 10](schedule/4/paragraph/10.md)
+    - Rag Flock and Other Filing Materials Act 1951
+      - [Sch. 4. para. 11](schedule/4/paragraph/11.md)
+    - Reserve and Auxiliary Forces (Protection of Civil Interest) Act 1951
+      - [Sch. 4. para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4. para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4. para. 14](schedule/4/paragraph/14.md)
+    - Clean Air Act 1956
+      - [Sch. 4. para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4. para. 16](schedule/4/paragraph/16.md)
+    - Restrictive Trade Practices Act 1956
+      - [Sch. 4. para. 17](schedule/4/paragraph/17.md)
+    - Housing Act 1957
+      - [Sch. 4. para. 18](schedule/4/paragraph/18.md)
+    - County Courts Act 1959
+      - [Sch. 4. para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4. para. 20](schedule/4/paragraph/20.md)
+    - Hire Purchase Act 1964
+      - [Sch. 4. para. 22](schedule/4/paragraph/22.md)
+    - Emergency Laws (Re-enactment and Repeals) Act 1964
+      - [Sch. 4. para. 23](schedule/4/paragraph/23.md)
+    - Trading Stamps Act 1964
+      - [Sch. 4. para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4. para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4. para. 26](schedule/4/paragraph/26.md)
+    - Housing (Scotland) Act 1966
+      - [Sch. 4. para. 27](schedule/4/paragraph/27.md)
+    - Trade Descriptions Act 1968
+      - [Sch. 4. para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4. para. 29](schedule/4/paragraph/29.md)
+    - Administration of Justice Act 1970
+      - [Sch. 4. para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4. para. 31](schedule/4/paragraph/31.md)
+    - Vehicles (Excise) Act 1971
+      - [Sch. 4. para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4. para. 33](schedule/4/paragraph/33.md)
+    - Counter-Inflation Act 1973
+      - [Sch. 4. para. 34](schedule/4/paragraph/34.md)
+    - Supply of Goods (Implied Terms) Act 1973
+      - [Sch. 4. para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4. para. 36](schedule/4/paragraph/36.md)
+    - Fair Trading Act 1973
+      - [Sch. 4. para. 37](schedule/4/paragraph/37.md)
+  - Part II NORTHERN IRELAND
+    - Irish Bankrupt and Insolvent Act 1857
+      - [Sch. 4. para. 38](schedule/4/paragraph/38.md)
+    - Bills of Sale (Ireland) Act (1879) Amendment Act 1883
+      - [Sch. 4. para. 39](schedule/4/paragraph/39.md)
+    - Liability for War Damage (Miscellaneous Provisions) Act (Northern Ireland) 1939
+      - [Sch. 4. para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4. para. 41](schedule/4/paragraph/41.md)
+    - Trading Stamps Act (Northern Ireland) 1965
+      - [Sch. 4. para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4. para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4. para. 45](schedule/4/paragraph/45.md)
+      - [Sch. 4. para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4. para. 48](schedule/4/paragraph/48.md)
+    - Hire-Purchase Act (Northern Ireland) 1966
+      - [Sch. 4. para. 49](schedule/4/paragraph/49.md)
+    - Vehicles (Excise) Act (Northern Ireland) 1972
+      - [Sch. 4. para. 50](schedule/4/paragraph/50.md)
+    - Miscellaneous Transferred Excise Duties Act (Northern Ireland) 1972
+      - [Sch. 4. para. 51](schedule/4/paragraph/51.md)
+- Schedule 5 Repeals
