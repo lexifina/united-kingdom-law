@@ -2,9 +2,11 @@
 
 2017 c. 16. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/16/2026-04-29
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
+
+Source: https://www.legislation.gov.uk/ukpga/2017/16/2026-09-30
 
 ## Contents
 
