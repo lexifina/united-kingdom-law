@@ -1,0 +1,113 @@
+# Children (Care, Care Experience and Services Planning) (Scotland) Act 2026
+
+asp/2026/16. Enacted 2026-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2026/16/2026-09-30
+
+## Contents
+
+- Part 1 Children’s care system
+  - Chapter 1 Support etc. for persons in or with experience of children’s care system
+    - Aftercare
+      - [s. 1 Aftercare](section/1.md)
+      - [s. 2 Assessment of needs](section/2.md)
+      - [s. 3 Types of assistance](section/3.md)
+      - [s. 4 Other duties](section/4.md)
+      - [s. 5 Financial assistance towards expenses of education or training etc.](section/5.md)
+      - [s. 6 Co-operation between authorities](section/6.md)
+      - [s. 7 Consequential modifications of enactments](section/7.md)
+    - Advocacy services for care-experienced persons
+      - [s. 8 Advocacy services for care-experienced persons](section/8.md)
+      - [s. 9 Independence of care experience advocacy services](section/9.md)
+    - Duties in relation to care experience
+      - [s. 10 Duties of public authorities etc. in relation to care experience](section/10.md)
+      - [s. 11 Regulations under section 10: further provision](section/11.md)
+    - Review of permanence
+      - [s. 12 Review of permanence](section/12.md)
+    - Interpretation
+      - [s. 13 Interpretation](section/13.md)
+  - Chapter 2 Support etc. for persons in or with experience of children’s care system: modification of enactments
+    - Family group decision-making
+      - [s. 14 Right to request family group decision-making services](section/14.md)
+      - [s. 15 Promotion of family group decision-making services](section/15.md)
+      - [s. 16 Guidance on family group decision-making services](section/16.md)
+    - Kinship care assistance
+      - [s. 17 Kinship care needs assessment](section/17.md)
+      - [s. 18 Guidance in relation to kinship care assistance functions](section/18.md)
+      - [s. 19 Kinship care assistance: power to require information-sharing by local authority](section/19.md)
+    - Provision of accommodation
+      - [s. 20 Duty to provide accommodation for children in need](section/20.md)
+      - [s. 21 Provision of accommodation for care-experienced persons](section/21.md)
+    - Continuing care
+      - [s. 22 Continuing care: persons eligible and accommodation to be provided](section/22.md)
+      - [s. 23 Power to continue provision of continuing care up to person’s 26th birthday](section/23.md)
+      - [s. 24 Return to continuing care](section/24.md)
+    - Corporate parenting
+      - [s. 25 Corporate parenting: application to persons looked after before age 16 and planning](section/25.md)
+      - [s. 26 Guidance on corporate parenting](section/26.md)
+  - Chapter 3 Provision of children’s care services
+    - Requirements on certain care providers
+      - [s. 27 Children’s residential care services: profit limitation](section/27.md)
+      - [s. 28 Fostering services to be charities](section/28.md)
+      - [s. 29 Services taking cross-border placements](section/29.md)
+    - Register of foster carers
+      - [s. 30 Register of foster carers](section/30.md)
+      - [s. 31 Register of foster carers: further provision](section/31.md)
+      - [s. 32 Disclosure of information](section/32.md)
+      - [s. 33 Establishment and maintenance of register by person other than Scottish Ministers](section/33.md)
+      - [s. 34 Pilot scheme](section/34.md)
+      - [s. 35 Register of foster carers: interpretation](section/35.md)
+    - Allowances and other payments
+      - [s. 36 Allowances and other payments](section/36.md)
+      - [s. 37 Uprating of allowances](section/37.md)
+    - Guidance on use of restraint and seclusion in relevant care services
+      - [s. 38 Guidance on use of restraint and seclusion in relevant care services](section/38.md)
+    - Report on deaths of care-experienced persons
+      - [s. 39 Report on deaths of care-experienced persons](section/39.md)
+  - Chapter 4 Support for adoption
+    - [s. 40 Peer support services](section/40.md)
+  - Chapter 5 Children’s hearings
+    - Composition etc. of Children’s Panel, children’s hearings and pre-hearing panels
+      - [s. 41 Single member children’s hearings and pre-hearing panels](section/41.md)
+      - [s. 42 Remuneration of Children’s Panel members](section/42.md)
+    - Child’s attendance at children’s hearings and hearings before sheriff
+      - [s. 43 Child’s attendance at children’s hearings and hearings before sheriff](section/43.md)
+    - Grounds hearings
+      - [s. 44 Role of Principal Reporter and grounds hearing](section/44.md)
+    - Relevant persons
+      - [s. 45 Powers to exclude persons from children’s hearing](section/45.md)
+      - [s. 46 Relevant person’s right to require review of compulsory supervision order](section/46.md)
+      - [s. 47 Removal of relevant person status](section/47.md)
+    - Timescales
+      - [s. 48 Timescale for determination of application to sheriff](section/48.md)
+      - [s. 49 Reports on timescales in children’s hearing system](section/49.md)
+    - Other changes
+      - [s. 50 Tests for referral to Principal Reporter and making of compulsory supervision order or interim compulsory supervision order](section/50.md)
+      - [s. 51 Information about referral, availability of children’s advocacy services etc.](section/51.md)
+      - [s. 52 Children’s advocacy services: non-instructed advocacy](section/52.md)
+      - [s. 53 Children’s advocacy services: notification of hearings](section/53.md)
+      - [s. 54 Period for which interim compulsory supervision order or interim variation of compulsory supervision order has effect](section/54.md)
+      - [s. 55 Making of further interim compulsory supervision orders](section/55.md)
+      - [s. 56 Principal Reporter’s power to initiate review of compulsory supervision order](section/56.md)
+      - [s. 57 Family group decision-making: information to be provided to Principal Reporter](section/57.md)
+    - Children’s legal aid
+      - [s. 58 Children’s legal aid](section/58.md)
+  - Chapter 6 Place of safety for children who have been arrested
+    - [s. 59 Power to require that arrested children be taken to a place other than a police station, etc.](section/59.md)
+- Part 2 Children’s services planning
+  - [s. 60 Lead children’s services planning bodies](section/60.md)
+  - [s. 61 Aims of children’s services planning](section/61.md)
+  - [s. 62 Children’s services plans: process and review](section/62.md)
+  - [s. 63 Reporting on children’s services plans](section/63.md)
+- Part 3 Reports and reviews
+  - [s. 64 Report on family group decision-making services](section/64.md)
+  - [s. 65 Review of the Act](section/65.md)
+  - [s. 66 Report on fulfilment of the Promise](section/66.md)
+- Part 4 Final provisions
+  - [s. 67 Ancillary provision](section/67.md)
+  - [s. 68 Regulation-making powers](section/68.md)
+  - [s. 69 Meaning of “child”](section/69.md)
+  - [s. 70 Commencement](section/70.md)
+  - [s. 71 Short title](section/71.md)
