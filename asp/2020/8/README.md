@@ -1,0 +1,101 @@
+# Scottish Biometrics Commissioner Act 2020
+
+asp/2020/8. Enacted 2020-04-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2020/8/2026-09-30
+
+## Contents
+
+- Establishment
+  - [s. 1 Scottish Biometrics Commissioner](section/1.md)
+- Functions
+  - [s. 2 Functions](section/2.md)
+  - [s. 3 Power to work with others](section/3.md)
+  - [s. 4 General powers](section/4.md)
+  - [s. 5 Duty to comply with directions](section/5.md)
+  - [s. 6 Report on the Commissioner’s functions](section/6.md)
+- Code of practice
+  - [s. 7 Code of practice](section/7.md)
+  - [s. 8 Key considerations in preparing the code](section/8.md)
+  - [s. 9 Effect of the code](section/9.md)
+  - [s. 10 Consultation on the code](section/10.md)
+  - [s. 11 Further procedure in relation to the first code](section/11.md)
+  - [s. 12 Approval of the code](section/12.md)
+  - [s. 13 Bringing the code into effect](section/13.md)
+  - [s. 14 Report on the code](section/14.md)
+  - [s. 15 Complaints about failures to comply with the code](section/15.md)
+- Information-gathering
+  - [s. 16 Power to gather information](section/16.md)
+  - [s. 17 Failure to comply with an information notice](section/17.md)
+  - [s. 18 Admissibility of statements in criminal proceedings](section/18.md)
+  - [s. 19 Offence of Commissioner’s office disclosing confidential information](section/19.md)
+- Reporting
+  - [s. 20 Reports and recommendations](section/20.md)
+  - [s. 21 Requirement to respond to reports](section/21.md)
+  - [s. 22 Publication of responses to reports](section/22.md)
+- Compliance notices
+  - [s. 23 Compliance notices](section/23.md)
+  - [s. 24 Content of a compliance notice](section/24.md)
+  - [s. 25 Variation of a compliance notice](section/25.md)
+  - [s. 26 Revocation of a compliance notice](section/26.md)
+  - [s. 27 Failure to comply with a compliance notice](section/27.md)
+- Accountability
+  - [s. 28 Strategic plans](section/28.md)
+  - [s. 29 Budgets](section/29.md)
+  - [s. 30 Accountable officer](section/30.md)
+  - [s. 31 Accounts and audit](section/31.md)
+  - [s. 32 Annual report](section/32.md)
+- Advisory group
+  - [s. 33 Advisory group](section/33.md)
+- Meaning of key terms
+  - [s. 34 Meaning of “biometric data”](section/34.md)
+  - [s. 35 Power to change meaning of “biometric data”](section/35.md)
+  - [s. 36 Interpretation](section/36.md)
+- Final provisions
+  - [s. 37 Regulations](section/37.md)
+  - [s. 38 Ancillary provision](section/38.md)
+  - [s. 39 Application of public authorities legislation](section/39.md)
+  - [s. 40 Commencement](section/40.md)
+  - [s. 41 Short title](section/41.md)
+- SCHEDULE 1 The office of Scottish Biometrics Commissioner
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Appointment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Disqualification from appointment
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Tenure
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Early termination
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Validity of things done
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration and pensions, etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Subsequent appointments etc.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Other terms and conditions
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Temporary appointments
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Appointment of staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Staff terms and conditions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Staff pensions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Authority to perform functions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Application of public authorities legislation
+  - Scottish Public Services Ombudsman Act 2002
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Freedom of Information (Scotland) Act 2002
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Public Services Reform (Scotland) Act 2010
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Public Records (Scotland) Act 2011
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Procurement Reform (Scotland) Act 2014
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
