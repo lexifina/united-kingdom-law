@@ -1,0 +1,244 @@
+# Children Act 2004
+
+2004 c. 31. Enacted 2004-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/31
+
+Source: https://www.legislation.gov.uk/ukpga/2004/31/2026-09-30
+
+## Contents
+
+- Part 1 Children’s Commissioner
+  - [s. 1 Establishment](section/1.md)
+  - [s. 2 Primary function: children’s rights, views and interests](section/2.md)
+  - [s. 2A United Nations Convention on the Rights of the Child](section/2A.md)
+  - [s. 2B Involving children in the discharge of the primary function](section/2B.md)
+  - [s. 2C Primary function: reports](section/2C.md)
+  - [s. 2D Provision of advice and assistance to certain children in England](section/2D.md)
+  - [s. 2E Powers to enter premises to conduct interviews or observe standards](section/2E.md)
+  - [s. 2F Provision of information to Commissioner](section/2F.md)
+  - [s. 3 Inquiries initiated by Commissioner](section/3.md)
+  - [s. 4 Other inquiries held by Commissioner](section/4.md)
+  - [s. 5 Functions of Commissioner in Wales](section/5.md)
+  - [s. 6 Functions of Commissioner in Scotland](section/6.md)
+  - [s. 7 Functions of Commissioner in Northern Ireland](section/7.md)
+  - [s. 7A Advisory board](section/7A.md)
+  - [s. 7B Business plans](section/7B.md)
+  - [s. 8 Annual reports](section/8.md)
+  - [s. 8A Children in England living away from home or receiving social care](section/8A.md)
+  - [s. 9 Commissioner’s functions in relation to certain young people](section/9.md)
+- Part 2 Children’s services in England
+  - General
+    - [s. 9A Targets for safeguarding and promoting the welfare of children](section/9A.md)
+    - [s. 10 Co-operation to improve well-being](section/10.md)
+    - [s. 11 Arrangements to safeguard and promote welfare](section/11.md)
+    - [s. 12 Information databases](section/12.md)
+  - Children’s Trust Boards
+    - [s. 12A Establishment of CTBs](section/12A.md)
+    - [s. 12B Functions and procedures of CTBs](section/12B.md)
+    - [s. 12C Funding of CTBs](section/12C.md)
+    - [s. 12D Supply of information to CTBs](section/12D.md)
+  - Local Safeguarding Children Boards
+    - [s. 13 Establishment of LSCBs](section/13.md)
+    - [s. 14 Functions and procedure of LSCBs](section/14.md)
+    - [s. 14A LSCBs: annual reports](section/14A.md)
+    - [s. 14B Supply of information requested by LSCBs](section/14B.md)
+    - [s. 15 Funding of LSCBs](section/15.md)
+    - [s. 15A Review of LSCBs’ performance of functions](section/15A.md)
+    - [s. 16 LCSBs: supplementary](section/16.md)
+  - Child Safeguarding Practice Review Panel
+    - [s. 16A Child Safeguarding Practice Review Panel](section/16A.md)
+    - [s. 16B Functions of the Panel](section/16B.md)
+    - [s. 16C Events to be notified to the Panel](section/16C.md)
+    - [s. 16D Information](section/16D.md)
+  - Safeguarding partners for local authority areas
+    - [s. 16E Local arrangements for safeguarding and promoting welfare of children](section/16E.md)
+    - [s. 16EA Section 16E arrangements: multi-agency child protection teams](section/16EA.md)
+    - [s. 16EB Multi-agency child protection teams: co-operation](section/16EB.md)
+    - [s. 16F Local child safeguarding practice reviews](section/16F.md)
+    - [s. 16G Further provision about arrangements](section/16G.md)
+    - [s. 16H Information](section/16H.md)
+    - [s. 16I Funding](section/16I.md)
+    - [s. 16J Combining safeguarding partner areas and delegating functions](section/16J.md)
+    - [s. 16K Guidance by Secretary of State](section/16K.md)
+    - [s. 16L Interpretation of sections 16E to 16K](section/16L.md)
+  - Continuity of information for safeguarding and welfare purposes
+    - [s. 16LA Duty to share information](section/16LA.md)
+    - [s. 16LB Information standards](section/16LB.md)
+    - [s. 16LC Consistent identifiers for children](section/16LC.md)
+    - [s. 16LD Consistent identifiers for children: code of practice](section/16LD.md)
+  - Child death review partners for local authority areas
+    - [s. 16M Child death reviews](section/16M.md)
+    - [s. 16N Information](section/16N.md)
+    - [s. 16O Funding](section/16O.md)
+    - [s. 16P Combining child death review partner areas and delegating functions](section/16P.md)
+    - [s. 16Q Guidance and interpretation](section/16Q.md)
+  - Local authority administration
+    - [s. 17 Children and young people’s plans](section/17.md)
+    - [s. 17A Children and young people’s plans: implementation](section/17A.md)
+    - [s. 18 Director of children’s services](section/18.md)
+    - [s. 19 Lead member for children’s services](section/19.md)
+  - Inspections of children’s services
+    - [s. 20 Joint area reviews](section/20.md)
+    - [s. 21 Framework](section/21.md)
+    - [s. 22 Co-operation and delegation](section/22.md)
+    - [s. 23 Sections 20 to 22: interpretation](section/23.md)
+    - [s. 24 Performance rating of social services](section/24.md)
+- Part 3 Children’s services in Wales
+  - General
+    - [s. 25 Co-operation to improve well-being: Wales](section/25.md)
+    - [s. 26 Children and young people’s plans: Wales](section/26.md)
+    - [s. 27 Responsibility for functions under section 25](section/27.md)
+    - [s. 28 Arrangements to safeguard and promote welfare: Wales](section/28.md)
+    - [s. 29 Information databases: Wales](section/29.md)
+    - [s. 30 Inspection of functions under this Part](section/30.md)
+  - Local Safeguarding Children Boards
+    - [s. 31 Establishment of LSCBs in Wales](section/31.md)
+    - [s. 32 Functions and procedure of LSCBs in Wales](section/32.md)
+    - [s. 32A Supply of information requested by LSCBs in Wales](section/32A.md)
+    - [s. 33 Funding of LSCBs in Wales](section/33.md)
+    - [s. 34 LSCBs in Wales: supplementary](section/34.md)
+- Part 4 Advisory and support services for family proceedings
+  - CAFCASS functions in Wales
+    - [s. 35 Functions of the Assembly relating to family proceedings](section/35.md)
+    - [s. 36 Ancillary powers of the Assembly](section/36.md)
+    - [s. 37 Welsh family proceedings officers](section/37.md)
+    - [s. 38 Inspections](section/38.md)
+    - [s. 39 Protection of children](section/39.md)
+    - [s. 40 Advisory and support services for family proceedings: supplementary](section/40.md)
+    - [s. 41 Sharing of information](section/41.md)
+  - Transfers
+    - [s. 42 Transfer of property from CAFCASS to Assembly](section/42.md)
+    - [s. 43 Transfer of staff from CAFCASS to Assembly](section/43.md)
+- Part 5 Miscellaneous
+  - Private fostering
+    - [s. 44 Amendments to notification scheme](section/44.md)
+    - [s. 45 Power to establish registration scheme in England](section/45.md)
+    - [s. 46 Power to establish registration scheme in Wales](section/46.md)
+    - [s. 47 Expiry of powers in sections 45 and 46](section/47.md)
+  - Child minding and day care
+    - [s. 48 Child minding and day care](section/48.md)
+  - Local authority services
+    - [s. 49 Payments to foster parents](section/49.md)
+    - [s. 50 Intervention – England](section/50.md)
+    - [s. 50A Intervention – Wales](section/50A.md)
+    - [s. 51 Inspection of local education authorities](section/51.md)
+    - [s. 52 Duty of local authorities to promote educational achievement](section/52.md)
+    - [s. 53 Ascertaining children’s wishes](section/53.md)
+    - [s. 54 Information about individual children](section/54.md)
+    - [s. 55 Social services committees](section/55.md)
+    - [s. 56 Social services functions](section/56.md)
+  - Other provisions
+    - [s. 57 Fees payable to adoption review panel members](section/57.md)
+    - [s. 58 Reasonable punishment: England](section/58.md)
+    - [s. 59 Power to give financial assistance](section/59.md)
+    - [s. 60 Child safety orders](section/60.md)
+    - [s. 61 Children’s Commissioner for Wales: powers of entry](section/61.md)
+    - [s. 62 Publication of material relating to legal proceedings](section/62.md)
+    - [s. 63 Disclosure of information by Inland Revenue](section/63.md)
+- Part 6 General
+  - [s. 64 Repeals](section/64.md)
+  - [s. 65 Interpretation](section/65.md)
+  - [s. 66 Regulations and orders](section/66.md)
+  - [s. 67 Commencement](section/67.md)
+  - [s. 68 Extent](section/68.md)
+  - [s. 69 Short title](section/69.md)
+- SCHEDULE 1 Children’s Commissioner
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Appointment and tenure of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interim appointments
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+  - Remuneration
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Staff
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Pensions
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Funding
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Accounts
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Evidence
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Protection from defamation actions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Regulated position
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Disqualifications
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Director of children’s services: consequential amendments
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Protection of Children Act 1999 (c. 14)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Advisory and support services for family proceedings
+  - Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Child Abduction and Custody Act 1985 (c. 60)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Adoption and Children Act 2002 (c. 38)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4 Child minding and day care
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Amendments relating to child minding and day care
+  - Conditions imposed by justice of the peace or tribunal
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Application fees
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Fees payable by registered persons
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Waiver of disqualification
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Amendments relating to day care only
+  - Qualification for registration
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Hotels etc
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Prohibition in respect of disqualified persons
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Unincorporated associations
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Repeals
+  - Part 1 Plans
+  - Part 2 Child minding and day care
+  - Part 3 Inspection of local education authorities
+  - Part 4 Social services committees and departments
+  - Part 5 Reasonable punishment
+  - Part 6 Child safety orders
