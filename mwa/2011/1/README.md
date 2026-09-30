@@ -1,0 +1,463 @@
+# Welsh Language (Wales) Measure 2011
+
+mwa/2011/1. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 45 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/mwa/2011/1
+
+Source: https://www.legislation.gov.uk/mwa/2011/1/2026-09-30
+
+## Contents
+
+- PART 1 OFFICIAL STATUS OF THE WELSH LANGUAGE
+  - [s. 1 Official status of the Welsh language](section/1.md)
+- PART 2 THE WELSH LANGUAGE COMMISSIONER
+  - The Commissioner
+    - [s. 2 The Welsh Language Commissioner](section/2.md)
+  - General duty
+    - [s. 3 The Commissioner’s principal aim](section/3.md)
+  - Functions
+    - [s. 4 Promoting and facilitating use of Welsh and treating Welsh no less favourably than English](section/4.md)
+    - [s. 5 Production of 5-year reports](section/5.md)
+    - [s. 6 5-year reports: supplementary](section/6.md)
+    - [s. 7 Inquiries](section/7.md)
+    - [s. 8 Judicial review and other legal proceedings](section/8.md)
+    - [s. 9 Legal assistance](section/9.md)
+    - [s. 10 Legal assistance: costs](section/10.md)
+    - [s. 11 Powers](section/11.md)
+    - [s. 12 Staff](section/12.md)
+    - [s. 13 Exercise of Commissioner’s functions by staff](section/13.md)
+    - [s. 14 Complaints procedure](section/14.md)
+    - [s. 15 Seal and validity of documents](section/15.md)
+    - [s. 16 Welsh Ministers’ power of direction](section/16.md)
+    - [s. 17 Consultation](section/17.md)
+  - Annual reports
+    - [s. 18 Annual reports](section/18.md)
+    - [s. 19 Annual reports: supplementary](section/19.md)
+  - Working with other ombudsmen, commissioners etc
+    - [s. 20 Working jointly with the Public Services Ombudsman for Wales](section/20.md)
+    - [s. 21 Working collaboratively with ombudsmen, commissioners etc](section/21.md)
+  - Disclosure of information
+    - [s. 22 Power to disclose information](section/22.md)
+- PART 3 ADVISORY PANEL TO THE WELSH LANGUAGE COMMISSIONER
+  - [s. 23 Advisory Panel](section/23.md)
+  - [s. 24 Consultation](section/24.md)
+- PART 4 STANDARDS
+  - CHAPTER 1 DUTY TO COMPLY WITH STANDARDS
+    - [s. 25 Duty to comply with a standard](section/25.md)
+  - CHAPTER 2 STANDARDS AND THEIR SPECIFICATION
+    - Specification of standards
+      - [s. 26 Welsh Ministers to specify standards](section/26.md)
+      - [s. 27 Specification of standards: supplementary provision](section/27.md)
+    - Service delivery standards
+      - [s. 28 Service delivery standards](section/28.md)
+    - Policy making standards
+      - [s. 29 Policy making standards](section/29.md)
+    - Operational standards
+      - [s. 30 Operational standards](section/30.md)
+    - Promotion standards
+      - [s. 31 Promotion standards](section/31.md)
+    - Record keeping standards
+      - [s. 32 Record keeping standards](section/32.md)
+  - CHAPTER 3 PERSONS LIABLE TO BE REQUIRED TO COMPLY WITH STANDARDS
+    - [s. 33 Persons liable to be required to comply with standards](section/33.md)
+    - [s. 34 Persons who are within Schedules 5, 6, 7 and 8](section/34.md)
+    - [s. 35 Amendment of persons and categories specified in Schedules 6 and 8](section/35.md)
+  - CHAPTER 4 STANDARDS POTENTIALLY APPLICABLE
+    - [s. 36 Persons within Schedule 6](section/36.md)
+    - [s. 37 Persons within Schedule 8](section/37.md)
+    - [s. 38 Amendment of standards potentially applicable](section/38.md)
+  - CHAPTER 5 STANDARDS THAT ARE SPECIFICALLY APPLICABLE
+    - [s. 39 Standards that are specifically applicable](section/39.md)
+    - [s. 40 Duty to make standards specifically applicable](section/40.md)
+    - [s. 41 Different standards relating to particular conduct](section/41.md)
+    - [s. 42 Duty to make certain service delivery standards specifically applicable](section/42.md)
+    - [s. 43 Limitation on power to make standards specifically applicable](section/43.md)
+  - CHAPTER 6 COMPLIANCE NOTICES
+    - Compliance notices
+      - [s. 44 Compliance notices](section/44.md)
+    - Giving compliance notices
+      - [s. 45 Giving compliance notices to any person](section/45.md)
+      - [s. 46 Imposition days](section/46.md)
+      - [s. 47 Consultation](section/47.md)
+      - [s. 48 Giving compliance notices to contractors](section/48.md)
+    - Varying compliance notices
+      - [s. 49 Varying compliance notices](section/49.md)
+    - Revoking compliance notices
+      - [s. 50 Revoking compliance notices](section/50.md)
+    - When compliance notice in force
+      - [s. 51 When compliance notice in force](section/51.md)
+    - Publicising compliance notices
+      - [s. 52 Publicising compliance notices](section/52.md)
+    - Cessation of requirement to comply with standard
+      - [s. 53 Cessation of requirement to comply with standard](section/53.md)
+  - CHAPTER 7 RIGHT OF CHALLENGE
+    - [s. 54 Challenging future duties](section/54.md)
+    - [s. 55 Challenging existing duties](section/55.md)
+    - [s. 56 Applications to the Commissioner](section/56.md)
+    - [s. 57 Determining an application](section/57.md)
+    - [s. 58 Right of appeal](section/58.md)
+    - [s. 59 Appeals from Tribunal](section/59.md)
+    - [s. 60 Postponement of imposition of duty](section/60.md)
+  - CHAPTER 8 STANDARDS INVESTIGATIONS AND REPORTS
+    - Standards investigations
+      - [s. 61 Standards investigations](section/61.md)
+      - [s. 62 Power to carry out standards investigations](section/62.md)
+      - [s. 63 Requirements when carrying out standards investigations](section/63.md)
+    - Standards reports
+      - [s. 64 Standards report](section/64.md)
+    - Welsh Ministers’ power of direction
+      - [s. 65 Direction to carry out standards investigation](section/65.md)
+    - Regard to be had to standards report
+      - [s. 66 Welsh Ministers to have due regard to report](section/66.md)
+  - CHAPTER 9 GENERAL
+    - Exception for broadcasting
+      - [s. 67 Exception for broadcasting](section/67.md)
+    - Codes of practice
+      - [s. 68 Codes of practice](section/68.md)
+      - [s. 69 Failure to comply with codes](section/69.md)
+    - Interpretation
+      - [s. 70 Interpretation](section/70.md)
+- PART 5 ENFORCEMENT OF STANDARDS
+  - CHAPTER 1 INVESTIGATING FAILURE TO COMPLY WITH STANDARDS ETC
+    - Investigations
+      - [s. 71 Investigating failure to comply with standards etc](section/71.md)
+      - [s. 72 Discontinuing an investigation](section/72.md)
+    - Determination of investigation
+      - [s. 73 Determination of investigation](section/73.md)
+    - Investigation reports
+      - [s. 74 Investigation reports](section/74.md)
+    - Decision notices
+      - [s. 75 Decision notices](section/75.md)
+    - No failure to comply: Commissioner’s options
+      - [s. 76 No failure to comply with a relevant requirement](section/76.md)
+    - Failure to comply: Commissioner’s options
+      - [s. 77 Failure to comply with a relevant requirement](section/77.md)
+    - No imposed enforcement action
+      - [s. 78 No imposed enforcement action](section/78.md)
+    - Preventing continuation or repetition of D’s failure
+      - [s. 79 Requirement to prepare action plan or take steps](section/79.md)
+      - [s. 80 Action plans](section/80.md)
+    - Publicising D’s failure to comply
+      - [s. 81 Publicising the failure to comply](section/81.md)
+      - [s. 82 Requiring the failure to comply to be publicised](section/82.md)
+    - Civil penalties
+      - [s. 83 Civil penalties](section/83.md)
+      - [s. 84 Imposition of civil penalty](section/84.md)
+    - Consultation
+      - [s. 85 Consultation before final determination etc](section/85.md)
+      - [s. 86 Consultation before final determination following an appeal](section/86.md)
+    - When enforcement action takes effect
+      - [s. 87 When enforcement action takes effect](section/87.md)
+    - Enforcement by county court
+      - [s. 88 Failure to comply with requirement to take steps](section/88.md)
+      - [s. 89 Failure to comply with action plan](section/89.md)
+      - [s. 90 Failure to comply with requirement to publicise failure to comply](section/90.md)
+  - CHAPTER 2 SETTLEMENT AGREEMENTS
+    - [s. 91 Settlement agreements](section/91.md)
+    - [s. 92 Failure to comply with settlement agreement](section/92.md)
+  - CHAPTER 3 NON-COMPLIANCE WITH STANDARDS: COMPLAINTS BY PERSONS AFFECTED
+    - [s. 93 Consideration of whether to investigate if conduct complained about](section/93.md)
+    - [s. 94 Notification if no investigation etc](section/94.md)
+  - CHAPTER 4 APPEALS
+    - [s. 95 Appeals to the Tribunal](section/95.md)
+    - [s. 96 Powers of Tribunal on appeal](section/96.md)
+    - [s. 97 Appeals from Tribunal](section/97.md)
+    - [s. 98 Commissioner’s duty on an appeal](section/98.md)
+  - CHAPTER 5 APPEALS BY THE COMPLAINANT
+    - Appeals against a determination that D has not failed to comply with a standard
+      - [s. 99 Right of appeal by P](section/99.md)
+      - [s. 100 Powers of Tribunal on appeal by P](section/100.md)
+      - [s. 101 Appeals from Tribunal](section/101.md)
+      - [s. 102 Commissioner’s duty on an appeal by P](section/102.md)
+  - CHAPTER 6 REVIEW BY THE COMPLAINANT
+    - Review of Commissioner’s failure to investigate a complaint
+      - [s. 103 P’s right of review](section/103.md)
+      - [s. 104 Powers of Tribunal on review](section/104.md)
+      - [s. 105 Appeals from Tribunal](section/105.md)
+  - CHAPTER 7 ADDING A PARTY TO PROCEEDINGS
+    - [s. 106 Right to apply to be added as a party to proceedings](section/106.md)
+  - CHAPTER 8 GENERAL
+    - Obstruction and contempt
+      - [s. 107 Obstruction and contempt](section/107.md)
+    - Enforcement policy document
+      - [s. 108 Enforcement policy document](section/108.md)
+    - Register of enforcement action
+      - [s. 109 Register of enforcement action](section/109.md)
+    - Interpretation
+      - [s. 110 Interpretation](section/110.md)
+- PART 6 FREEDOM TO USE WELSH
+  - [s. 111 Application to Commissioner](section/111.md)
+  - [s. 112 Welsh communications](section/112.md)
+  - [s. 113 Interference with freedom to use Welsh](section/113.md)
+  - [s. 114 Deciding whether to investigate](section/114.md)
+  - [s. 115 Investigations](section/115.md)
+  - [s. 116 Discontinuing investigations](section/116.md)
+  - [s. 117 Concluding investigations](section/117.md)
+  - [s. 118 Reports](section/118.md)
+  - [s. 119 Annual report to Welsh Ministers](section/119.md)
+- PART 7 WELSH LANGUAGE TRIBUNAL
+  - The Tribunal
+    - [s. 120 The Welsh Language Tribunal](section/120.md)
+    - [s. 121 Composition for proceedings before Tribunal](section/121.md)
+    - [s. 122 Hearings in public](section/122.md)
+  - Practice and procedure etc
+    - [s. 123 Welsh Language Tribunal Rules](section/123.md)
+    - [s. 124 Practice directions](section/124.md)
+    - [s. 125 Guidance, advice and information](section/125.md)
+    - [s. 126 Supplementary powers](section/126.md)
+  - Staff and other resources
+    - [s. 127 Staff, accommodation and other resources of Tribunal](section/127.md)
+    - [s. 128 Specially qualified advisers](section/128.md)
+  - Administrative matters
+    - [s. 129 Seal](section/129.md)
+    - [s. 130 Financial year](section/130.md)
+    - [s. 131 Vacancy in the office of President](section/131.md)
+  - Reports, reviews and performance
+    - [s. 132 President’s annual report](section/132.md)
+    - [s. 133 Training etc for members of Tribunal](section/133.md)
+- PART 8 GENERAL
+  - CHAPTER 1 INTEGRITY
+    - [s. 134 Register of interests](section/134.md)
+    - [s. 135 Publication of registers of interests](section/135.md)
+    - [s. 136 Conflicts of interest](section/136.md)
+    - [s. 137 Validity of acts](section/137.md)
+    - [s. 138 Regulations](section/138.md)
+    - [s. 139 Interpretation of this Chapter](section/139.md)
+  - CHAPTER 2 DEFAMATION
+    - [s. 140 Absolute privilege](section/140.md)
+    - [s. 141 Interpretation of this Chapter](section/141.md)
+  - CHAPTER 3 RESTRICTIONS
+    - [s. 142 Restrictions](section/142.md)
+- PART 9 WELSH LANGUAGE BOARD, WELSH LANGUAGE SCHEMES ETC
+  - [s. 143 Abolition of Board and transfer of functions](section/143.md)
+  - [s. 144 Abolition of Board’s general functions and replacement of schemes with standards](section/144.md)
+  - [s. 145 Replacement of Welsh language schemes with standards](section/145.md)
+  - [s. 146 Other provision](section/146.md)
+  - [s. 147 Supplementary](section/147.md)
+- PART 10 WELSH MINISTERS’ WELSH LANGUAGE STRATEGY
+  - [s. 148 Welsh Ministers to prepare an action plan](section/148.md)
+  - [s. 149 The Welsh Language Partnership Council](section/149.md)
+- PART 11 SUPPLEMENTARY
+  - [s. 150 Orders and regulations](section/150.md)
+  - [s. 151 Directions](section/151.md)
+  - [s. 152 Notices etc](section/152.md)
+  - [s. 153 Interpretation of this Measure](section/153.md)
+  - [s. 154 Transitional and consequential provision etc](section/154.md)
+  - [s. 155 Extent](section/155.md)
+  - [s. 156 Commencement](section/156.md)
+  - [s. 157 Short title](section/157.md)
+- SCHEDULE 1 THE WELSH LANGUAGE COMMISSIONER
+  - PART 1 STATUS ETC
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Validity of acts
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - PART 2 APPOINTMENT
+    - Appointment
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Remuneration, allowances and pensions
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Terms of appointment
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Duration of appointment
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Appointment regulations
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Delegation of appointment functions etc
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 3 END OF APPOINTMENT
+    - Resignation
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Disqualification
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Dismissal
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Payments on ceasing to hold office
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - PART 4 DISQUALIFICATION FROM BEING COMMISSIONER
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - PART 5 FINANCIAL MATTERS
+    - Payments by the Welsh Ministers
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Financial year
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Accounting officer
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Estimates
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Accounts
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Audit
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Examinations into the use of resources
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - PART 6 GENERAL
+    - Interpretation
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 INQUIRIES BY THE COMMISSIONER
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Terms of reference
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Representations
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Reports on inquiries
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 AMENDMENTS ABOUT JOINT AND COLLABORATIVE WORKING
+  - Care Standards Act 2000
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - ...
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Commissioner for Older People (Wales) Act 2006
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 MEMBERS OF THE ADVISORY PANEL
+  - PART 1 APPOINTMENT
+    - Appointment
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Remuneration, allowances and pensions
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Terms of appointment
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Duration of appointment
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Appointment regulations
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 END OF APPOINTMENT
+    - Resignation
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Disqualification from membership
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Dismissal
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Payments on ceasing to hold office
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 3 DISQUALIFICATION
+    - Disqualification on grounds of employment
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - PART 4 GENERAL
+    - Interpretation
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 CATEGORIES OF PERSON THAT MAY BE ADDED TO SCHEDULE 6
+  - Entry (5): amendment by order
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Entry (8): interpretation etc
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Interpretation
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 PUBLIC BODIES ETC: STANDARDS
+  - Interpretation etc
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 7 CATEGORIES OF PERSON THAT MAY BE ADDED TO SCHEDULE 8
+  - Services provided in shops: exclusions
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Interpretation
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+- SCHEDULE 8 OTHER BODIES: STANDARDS
+  - Interpretation
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Gas
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Electricity
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Postal services
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Railways
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Related services
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 ACTIVITIES IN RELATION TO WHICH SERVICE DELIVERY STANDARDS MUST BE SPECIFIED
+- SCHEDULE 10 COMMISSIONER’S INVESTIGATION OF FAILURE TO COMPLY WITH STANDARDS ETC
+  - PART 1 GENERAL
+    - Introduction
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Terms of reference
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Representations
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - PART 2 INFORMATION, DOCUMENTS AND ORAL EVIDENCE
+    - Evidence notices
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Confidentiality etc
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Appeals
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Enforcement
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - PART 3 POWER OF ENTRY AND INSPECTION
+    - Power of entry and inspection
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+- SCHEDULE 11 THE WELSH LANGUAGE TRIBUNAL
+  - PART 1 NUMBER OF MEMBERS OF THE TRIBUNAL
+    - Legally-qualified members
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Lay members
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - PART 2 APPOINTMENT
+    - The President
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Legally-qualified members
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Lay members
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Remuneration etc
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Terms of appointment
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Duration of appointment
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Appointment regulations
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Part 2A Cross-deployment of tribunal members
+    - [Sch. 11 para. 9A](schedule/11/paragraph/9A.md)
+  - PART 3 END OF APPOINTMENT
+    - Resignation
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Disqualification from membership
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Dismissal
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - PART 4 DISQUALIFICATION FROM MEMBERSHIP OR APPOINTMENT
+    - Disqualification from membership: employment
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Disqualification from membership: unsuitability
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Disqualification from appointment: age
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Disqualification from appointment: previous appointment
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Disqualification from appointment: previous dismissal from office
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - PART 5 GENERAL
+    - Interpretation
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+- SCHEDULE 12 ABOLITION OF WELSH LANGUAGE BOARD: OTHER PROVISION
+  - Staff of the Board
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Property, rights and liabilities of the Board
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Modification of 1993 Act in relation to functions transferred to Welsh Ministers
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - References to the Board
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Continuation of legal proceedings, validity of acts etc
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Interpretation
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
