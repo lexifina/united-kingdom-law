@@ -1,0 +1,840 @@
+# Courts and Legal Services Act 1990
+
+1990 c. 41. Enacted 1990-11-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/41
+
+Source: https://www.legislation.gov.uk/ukpga/1990/41/2026-10-01
+
+## Contents
+
+- Part I Procedure etc. in Civil Courts
+  - Allocation and transfer of business
+    - [s. 1 Allocation of business between High Court, family court and county court.](section/1.md)
+    - [s. 2 Transfer of proceedings between courts.](section/2.md)
+  - Remedies
+    - [s. 3 Remedies available in county courts.](section/3.md)
+  - Costs
+    - [s. 4 Costs.](section/4.md)
+  - Evidence
+    - [s. 5 Witness statements.](section/5.md)
+    - [s. 6 Evidence given in arbitrations on small claims.](section/6.md)
+  - Appeals
+    - [s. 7 Appeals to Court of Appeal.](section/7.md)
+    - [s. 8 Powers of Court of Appeal to award damages.](section/8.md)
+  - Family proceedings
+    - [s. 9 Allocation of family proceedings which are within the jurisdiction of county courts.](section/9.md)
+    - [s. 10 Family proceedings in magistrates’ courts and related matters.](section/10.md)
+  - Miscellaneous
+    - [s. 11 Representation in certain county court and family court cases.](section/11.md)
+    - [s. 12 Penalty for failure to warn that hearing will not be attended.](section/12.md)
+    - [s. 13 Administration orders.](section/13.md)
+    - [s. 14 Assessors.](section/14.md)
+    - [s. 15 Enforcement.](section/15.md)
+    - [s. 16 County court rules.](section/16.md)
+- Part II Legal Services
+  - Introductory
+    - [s. 17 The statutory objective and the general principle.](section/17.md)
+    - [s. 18 The statutory duty.](section/18.md)
+  - The Legal Services Consultative Panel
+    - [s. 18A The Consultative Panel.](section/18A.md)
+  - ...
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+  - The Legal Services Ombudsman
+    - [s. 21 The Legal Services Ombudsman.](section/21.md)
+    - [s. 22 Ombudsman’s functions.](section/22.md)
+    - [s. 23 Recommendations and orders.](section/23.md)
+    - [s. 24 Advisory functions.](section/24.md)
+    - [s. 25 Procedure and offences.](section/25.md)
+    - [s. 26 Extension of Ombudsman’s remit.](section/26.md)
+  - Rights of audience and rights to conduct litigation
+    - [s. 27 Rights of audience.](section/27.md)
+    - [s. 28 Rights to conduct litigation.](section/28.md)
+    - [s. 29 Authorised bodies.](section/29.md)
+    - [s. 30 Revocation of authorised body’s designation.](section/30.md)
+    - [s. 31 Barristers and solicitors.](section/31.md)
+    - [s. 31A Employed advocates.](section/31A.md)
+    - [s. 31B Advocates and litigators employed by Lord Chancellor.](section/31B.md)
+    - [s. 31C Change of authorised body.](section/31C.md)
+    - [s. 32 The Law Society: rights of audience.](section/32.md)
+    - [s. 33 The Law Society: rights to conduct litigation.](section/33.md)
+  - Extension of conveyancing services
+    - [s. 34 The Authorised Conveyancing Practitioners Board.](section/34.md)
+    - [s. 35 Functions of the Board and financial provisions.](section/35.md)
+    - [s. 36 Provision of conveyancing services by authorised practitioners.](section/36.md)
+    - [s. 37 Authorisation of practitioners.](section/37.md)
+    - [s. 38 Refusal of approval and imposition of conditions.](section/38.md)
+    - [s. 39 Revocation and suspension of authorisation.](section/39.md)
+    - [s. 40 Regulations about competence and conduct etc. of authorised practitioners.](section/40.md)
+    - [s. 41 The Conveyancing Appeal Tribunals.](section/41.md)
+    - [s. 42 Appeals from Tribunals on points of law.](section/42.md)
+    - [s. 43 The Conveyancing Ombudsman Scheme.](section/43.md)
+    - [s. 44 Compensation scheme.](section/44.md)
+    - [s. 45 Advisory and supervisory functions of Office of Fair Trading.](section/45.md)
+    - [s. 46 Investigatory powers of OFT.](section/46.md)
+    - [s. 46A Enforcement of notices under section 46](section/46A.md)
+    - [s. 46B Altering, etc. documents required to be produced under section 46](section/46B.md)
+    - [s. 47 Power to obtain information and require production of documents.](section/47.md)
+    - [s. 48 Investigations on behalf of the Board.](section/48.md)
+    - [s. 49 Restrictions on disclosure of information.](section/49.md)
+    - [s. 50 Exceptions from restrictions on disclosure.](section/50.md)
+    - [s. 51 Board’s intervention powers.](section/51.md)
+    - [s. 52 Board’s intervention powers: supplemental provisions.](section/52.md)
+  - Licensed conveyancers and licensed CLC practitioners
+    - [s. 53 The Council for Licensed Conveyancers.](section/53.md)
+  - Probate services
+    - [s. 54 Preparation of papers for probate etc.](section/54.md)
+    - [s. 55 Preparation of probate papers etc: exemption from section 23(1) of Solicitors Act 1974.](section/55.md)
+    - [s. 56 Administration of oaths etc. by justices in certain probate business.](section/56.md)
+    - [s. 57 Notaries](section/57.md)
+  - Miscellaneous
+    - [s. 58 Conditional fee agreements.](section/58.md)
+    - [s. 58A Conditional fee agreements: supplementary.](section/58A.md)
+    - [s. 58AA Damages-based agreements ...](section/58AA.md)
+    - [s. 58B Litigation funding agreements.](section/58B.md)
+    - [s. 58C Recovery of insurance premiums by way of costs](section/58C.md)
+    - [s. 59 Representation under the Legal Aid Act 1988.](section/59.md)
+    - [s. 60 Regulation of right of Scottish and Northern Ireland lawyers to practise in England and Wales.](section/60.md)
+    - [s. 60A Procedural requirements relating to recommendations for the purposes of section 60](section/60A.md)
+    - [s. 61 Right of barrister to enter into contract for the provision of his services.](section/61.md)
+    - [s. 62 Immunity of advocates from actions in negligence and for breach of contract.](section/62.md)
+    - [s. 63 Legal professional privilege.](section/63.md)
+    - [s. 64 Discrimination by, or in relation to, barristers.](section/64.md)
+    - [s. 65 Discrimination by, or in relation to, advocates.](section/65.md)
+    - [s. 66 Multi-disciplinary and multi-national practices.](section/66.md)
+    - [s. 67 Right of audience for solicitors in certain Crown Court centres.](section/67.md)
+    - [s. 68 Preparation of documents etc. by registered patent agents and trade mark agents.](section/68.md)
+    - [s. 69 Exemption from liability for damages etc.](section/69.md)
+  - Offences
+    - [s. 70 Offences.](section/70.md)
+- Part III Judicial and Other Offices and Judicial Pensions
+  - Judicial appointments
+    - [s. 71 Qualification for judicial and certain other appointments.](section/71.md)
+  - Judges
+    - [s. 72 Presiding Judges.](section/72.md)
+    - [s. 73 Delegation of certain administrative functions of Master of the Rolls.](section/73.md)
+    - [s. 74 District judges.](section/74.md)
+    - [s. 75 Judges etc. barred from legal practice.](section/75.md)
+    - [s. 76 Judicial oaths.](section/76.md)
+  - Senior Courts Officers
+    - [s. 77 Age for retirement of certain Senior Courts officers.](section/77.md)
+    - [s. 78 Registrar of Criminal Appeals.](section/78.md)
+  - Judicial pensions
+    - [s. 79 Widowers’ pensions.](section/79.md)
+    - [s. 80 Widows’ and widowers’ pensions: supplemental.](section/80.md)
+    - [s. 81 Transfer of accrued rights to and from judicial pension schemes.](section/81.md)
+    - [s. 82 Voluntary contributions.](section/82.md)
+    - [s. 83 Period of service to qualify for certain superannuation benefits.](section/83.md)
+    - [s. 84 Abolition of abatement of salary rule for judges etc.](section/84.md)
+- Part IV Solicitors
+  - [s. 85 Practising certificates for employed solicitors.](section/85.md)
+  - [s. 86 Commencement, expiry and replacement of practising certificates.](section/86.md)
+  - [s. 87 Fees payable on issue of practising certificates.](section/87.md)
+  - [s. 88 Additional fee payable by certain solicitors on applying for practising certificates.](section/88.md)
+  - [s. 89 Foreign lawyers: recognised bodies and partnerships with solicitors.](section/89.md)
+  - [s. 90 The Compensation Fund: incorporated practices.](section/90.md)
+  - [s. 91 Power of Law Society to intervene in solicitors’ practices.](section/91.md)
+  - [s. 92 Functions of the Solicitors Disciplinary Tribunal.](section/92.md)
+  - [s. 93 Redress for inadequate professional services.](section/93.md)
+  - [s. 94 Solicitors charged with or convicted of fraud or serious crime.](section/94.md)
+  - [s. 95 Appeals against refusal to restore solicitor’s name to roll under section 8 of the 1974 Act.](section/95.md)
+  - [s. 96 Powers of entry etc. of local weights and measures authorities.](section/96.md)
+  - [s. 97 Committees and sub-committees of the Council.](section/97.md)
+  - [s. 98 Agreements with solicitors for payment by hourly rates.](section/98.md)
+- Part V Arbitration
+  - [s. 99 ................................](section/99.md)
+  - [s. 100 Specific powers of arbitrator exercisable by High Court.](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 ................................](section/102.md)
+  - [s. 103 ................................](section/103.md)
+- Part VI Miscellaneous and Supplemental
+  - Tying-in
+    - [s. 104 Tying-in arrangements in connection with residential property loans.](section/104.md)
+    - [s. 105 Tying-in arrangements: supplemental provisions.](section/105.md)
+    - [s. 106 Tying-in: offences.](section/106.md)
+    - [s. 107 Tying-in: enforcement.](section/107.md)
+  - Miscellaneous
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 Liability of resident magistrates etc. in Northern Ireland for damages and costs.](section/109.md)
+    - [s. 110 Jurisdiction of the Parliamentary Commissioner for Administration.](section/110.md)
+    - [s. 111 Costs against legal representatives etc. in criminal proceedings.](section/111.md)
+    - [s. 112 Costs against legal representatives in magistrates’ courts.](section/112.md)
+    - [s. 113 Administration of oaths and taking of affidavits.](section/113.md)
+    - [s. 114 Bail applications.](section/114.md)
+    - [s. 115 Law reports.](section/115.md)
+    - [s. 116 Provision with respect to the Children Act 1989.](section/116.md)
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 Functions of Treasury.](section/118.md)
+  - Supplemental
+    - [s. 119 Interpretation.](section/119.md)
+    - [s. 120 Regulations and orders.](section/120.md)
+    - [s. 121 Financial provisions.](section/121.md)
+    - [s. 122 Power to make corresponding provision for Northern Ireland.](section/122.md)
+    - [s. 123 Extent.](section/123.md)
+    - [s. 124 Commencement.](section/124.md)
+    - [s. 125 Short title, minor and consequential amendments, transitionals and repeals.](section/125.md)
+- SCHEDULE 1
+  - Appointment of members
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Proceedings of the Advisory Committee
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Delegation of powers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Vacancies and defective appointments
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Application of seal and proof of instruments
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Documents served etc. by the Advisory Committee
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration and pensions etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Accounts and audit
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Grants to the Advisory Committee
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Annual report of Advisory Committee
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Immunity for advice and reports
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Parliamentary disqualification etc.
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2
+  - Education and training: general
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Training in advocacy
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Training in the conduct of litigation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Practical training in other areas
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - General advisory functions
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Specialisation schemes
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Persons with special needs
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 The Legal Services Ombudsman
+  - Provision for discharge of functions
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Delegation of functions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Remuneration
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Staff
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Annual and other reports
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Accounts and audit
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Financial provisions
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Parliamentary disqualification et ceteralaetc.
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Acting Ombudsman
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4
+  - Part I Authorisation of Bodies
+  - Part II Approval Required by Section 29
+  - Part III Revocation of Designation of Authorised Body
+  - Part I Designation of bodies and approval of regulations and rules
+  - Part II Approval in cases of altered regulations, rules or rights
+  - Part III Alteration of regulations and rules by order
+    - Notice to authorised body
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Representations by authorised body
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Advice of Consultative Panel
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Advice of Office of Fair Trading
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Further representations by authorised body
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Advice of designated judges
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Decision by Secretary of State
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Order effecting alterations
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Part IV Revocation of designation
+    - Order in Council
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Requirement to seek advice
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Advice of Consultative Panel
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Advice of Office of Fair Trading
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Notice to authorised body
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Notice to members of authorised body
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Advice of designated judges
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Consideration by Secretary of State
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - The Order
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+- SCHEDULE 5
+  - Appointment of members
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Proceedings of the Board
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Delegation of powers
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Vacancies and defective appointments
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Application of seal and proof of instruments
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Documents served etc. by the Board
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Remuneration
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Staff
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Accounts
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Annual report of Board
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Parliamentary disqualification etc.
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6
+- SCHEDULE 7
+- SCHEDULE 8 Licensed Conveyancers and Licensed CLC Practitioners
+  - Part I Additional Powers of Council for Licensed Conveyancers In Connection with Sections 27, 28, and 53
+    - General
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Qualification regulations and rules of conduct
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Applications for licences
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Issue of licences
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Conditional licences
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Register of licensed conveyancers
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Register of licensed CLC practitioners
+      - [Sch. 8 para. 6A](schedule/8/paragraph/6A.md)
+    - Code of conduct
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Effect of suspension or revocation
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Removal of disqualification from holding a licence
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Revocation on grounds of error or fraud
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Recognised bodies
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - PART II Amendments of Provisions Relating to Powers of Council Etc.
+    - Delegation of powers etc.
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Council’s intervention powers
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Inadequate professional services
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Inadequate professional services: steps that may be taken
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Inadequate professional services: compensation
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Inadequate professional services: failure to comply with direction
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Inadequate professional services: fees
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Inadequate professional services: costs
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Duty of Discipline and Appeals Committee
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Power to examine files
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Interest on clients’ money
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Full and limited licences
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Cases in which conditions may be attached to licences
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+- SCHEDULE 9
+  - Advice from the Advisory Committee
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Advice from the President of the Family Division
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Information to be supplied by applicant
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Approval by Secretary of State
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Refusal to approve
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Revocation of approval
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Role of the Advisory Committee
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Duty to comply with requests for information
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Notice to approved body
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Notice to members of approved body
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Consideration by Secretary of State and President
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Judicial and other Appointments
+  - Appellate Jurisdiction Act 1876 (c. 59)
+  - Lord of Appeal in Ordinary
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - War Pensions (Administrative Provisions) Act 1919 (c. 53)
+  - Pensions Appeal Tribunal
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Land Registration Act 1925 (c. 21)
+  - District Registrar
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - London Building Acts (Amendment) Act 1939 (c. xcvii)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Pensions Appeal Tribunals Act 1943 (c. 39)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Agriculture Act 1947 (c. 48)
+  - Agricultural Land Tribunal
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Lands Tribunal Act 1949 (c. 42)
+  - Lands Tribunal
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Wireless Telegraphy Act 1949 (c. 54)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - National Health Service (Amendment) Act 1949 (c. 93)
+  - Arbitration committee
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Courts-Martial Appeals Act 1951 (c. 46)
+  - Judge Advocate of the Fleet
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Judge Advocate General etc
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Agricultural Marketing Act 1958 (c. 47)
+  - Chairman of disciplinary committee
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - County Courts Act (Northern Ireland) 1959 (c. 25 (N.I.))
+  - County Court Judge
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Charities Act 1960 (c. 58)
+  - Charity Commissioner
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - Professions Supplementary to Medicine Act 1960 (c. 66)
+  - Assessor to disciplinary committee
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Betting Gaming and Lotteries Act 1963 (c. 2)
+  - Levy Appeal Tribunal
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Ecclesiastical Jurisdiction Measure 1963 (No. 1)
+  - Judge of Consistory Court
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Dean of the Arches and Auditor
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Assessor for episcopal committee inquiry
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Examiner
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Plant Varieties and Seeds Act 1964 (c. 14)
+  - Plant Variety Rights Tribunal
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Police Act 1964 (c. 48)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - Hairdressers (Registration) Act 1964 (c. 89)
+  - Assessor to disciplinary committee
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - City of London Courts Act 1964 (c. iv)
+  - The Common Serjeant
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - Law Commissions Act 1965 (c. 22)
+  - Law Commissioner
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+  - Commons Registration Act 1965 (c. 64)
+  - Commons Commissioner
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+  - Employment Tribunal (England and Wales) Regulations 1965
+  - Employment tribunal (S.I. 1965/1101.)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - Veterinary Surgeons Act 1966 (c. 36)
+  - Assessor to disciplinary committee
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+  - Hearing Aid Council Act 1968 (c. 50)
+  - Assessor to Disciplinary Committee
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+  - Taxes Management Act 1970 (c. 9)
+  - Special Commissioner
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+  - Courts Act 1971 (c. 23)
+  - Circuit Judge
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - Recorder and Assistant Recorder
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+  - Misuse of Drugs Act 1971 (c. 38)
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Immigration Act 1971 (c. 77)
+  - Immigration Appeal Tribunal
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+  - Friendly Societies Act 1974 (c. 46)
+  - Assistant registrar of friendly societies
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+  - Social Security Act 1975 (c. 14)
+  - Social Security Commissioner
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+  - Social security appeal tribunal and medical appeal tribunal
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+  - Farriers Registration Act 1975 (c. 35)
+  - Assessor to Disciplinary Committee
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+  - Industry Act 1975 (c. 68)
+  - Arbitration Tribunal
+    - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+  - Aircraft and Shipbuilding Industries Act 1977 (c. 3)
+  - Aircraft and Shipbuilding Industries Arbitration Tribunal
+    - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+  - Insurance Brokers (Registration) Act 1977 (c. 46)
+  - Assessor to Disciplinary Committee
+    - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+  - National Health Service Act 1977 (c. 49)
+    - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+  - Nurses, Midwives and Health Visitors Act 1979 (c. 36)
+  - Assessors to the Central Council
+    - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+  - Justices of the Peace Act 1979 (c. 55)
+  - Stipendiary Magistrate
+    - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+  - Justices’ Clerk
+    - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+  - Social Security Act 1980 (c. 30)
+  - Deputy Social Security Commissioner
+    - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+  - Senior Courts Act 1981 (c. 54)
+  - Judge’s legal secretary
+    - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+  - Conveyancing counsel
+    - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+  - Master, Registrar etc
+    - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+  - Representation of the People Act 1983 (c. 2)
+  - Election Court Commissioner
+    - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+  - Mental Health Act 1983 (c. 20)
+  - Lord Chancellor’s Legal Visitor
+    - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+  - Value Added Tax Act 1983 (c. 55)
+  - VAT Tribunal
+    - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+  - Medical Act 1983 (c. 54)
+  - Legal Assessor to Committees
+    - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+  - Pastoral Measure 1983 (No. 1)
+  - Appeal Tribunal
+    - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+  - Merchant Shipping Act 1984 (c. 5)
+  - Arbitrator
+    - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+  - Dentists Act 1984 (c. 24)
+  - Assessor to committees
+    - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+  - County Courts Act 1984 (c. 28)
+  - District judges
+    - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+  - Data Protection Act 1984 (c. 35)
+    - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+  - Reserve Forces (Safeguard of Employment) Act 1985 (c. 17)
+  - Umpire hearing appeals from Reinstatement Committee
+    - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+  - Director of Public Prosecutions
+    - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+  - Crown Prosecutors
+    - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+  - Interception of Communications Act 1985 (c. 56)
+    - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+  - Administration of Justice Act 1985 (c. 61)
+  - Questions of construction
+    - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+  - Assessor to Discipline and Appeals Committee of the Council of Licensed Conveyancers
+    - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+  - Transport Act 1985 (c. 67)
+  - Transport Tribunal
+    - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+  - Animals (Scientific Procedures) Act 1986 (c. 14)
+    - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+  - Insolvency Act 1986 (c. 45)
+  - Insolvency Practitioners Tribunal
+    - [Sch. 10 para. 67](schedule/10/paragraph/67.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 10 para. 68](schedule/10/paragraph/68.md)
+  - Banking Act 1987 (c. 22)
+    - [Sch. 10 para. 69](schedule/10/paragraph/69.md)
+  - Coroners Act 1988 (c. 13)
+  - Coroner
+    - [Sch. 10 para. 70](schedule/10/paragraph/70.md)
+  - Criminal Justice Act 1988 (c. 33)
+  - Criminal Injuries Compensation Board
+    - [Sch. 10 para. 71](schedule/10/paragraph/71.md)
+  - Assessor of compensation for miscarriages of justice
+    - [Sch. 10 para. 72](schedule/10/paragraph/72.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+  - Copyright Tribunal
+    - [Sch. 10 para. 73](schedule/10/paragraph/73.md)
+  - Security Service Act 1989 (c. 5)
+    - [Sch. 10 para. 74](schedule/10/paragraph/74.md)
+  - Opticians Act 1989 (c. 44)
+  - Assessor to Disciplinary Committee
+    - [Sch. 10 para. 75](schedule/10/paragraph/75.md)
+- SCHEDULE 11 Judges etc Barred from Legal Practice
+- SCHEDULE 12 Widowers’ Pensions: Transitional Provisions
+- SCHEDULE 13 Transfer of Accrued Benefits
+- SCHEDULE 14 Foreign Lawyers: Partnerships and Recognised Bodies
+  - Part I Registration
+    - General
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Application for registration
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+      - [Sch. 14 para. 2A](schedule/14/paragraph/2A.md)
+    - Duration of registration
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Evidence as to registration
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Part II Registered Foreign Lawyers:Supplementary Provisions
+    - Intervention in practices
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - The Compensation Fund
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Contributions to the Fund
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Accountants’ reports
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Certification for purposes of investment business
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Effect of bankruptcy
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - Effect of disciplinary action
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - Re-instatement of disciplined foreign lawyer
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - Effective date of revived registration
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - Appeal against conditions or refusals
+      - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - Jurisdiction and powers of Disciplinary Tribunal
+      - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - Foreign lawyers assisting the Tribunal
+      - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - Appeals from Tribunal
+      - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+- SCHEDULE 15 Inadequate Professional Services
+- SCHEDULE 16 Children Act 1989
+  - Part I Amendment of Act and Other Enactments Affected
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - The Civil Evidence Act 1968 (c. 64)
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - The Family Law Reform Act 1969 (c. 46)
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - The Children and Young Persons Act 1969 (c. 54)
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - The Administration of Justice Act 1970 (c. 31)
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - The Adoption Act 1976 (c. 36)
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - The Child Care Act 1980 (c. 5)
+      - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - The Education Act 1981 (c. 60)
+      - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - The Children Act 1989 (c. 41)
+      - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+      - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+      - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+      - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+      - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+      - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+      - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+      - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+      - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+      - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+      - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+      - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+      - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+      - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+      - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+      - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+      - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+      - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+      - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+      - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+      - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+      - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+      - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+      - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+  - Part II Further Consequential Amendments
+    - The Maintenance Orders Act 1950 (c. 37)
+      - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+      - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - The Social Work (Scotland) Act 1968 (c. 49)
+      - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - The Administration of Justice Act 1970 (c. 31)
+      - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - The Attachment of Earnings Act 1971 (c. 32)
+      - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+    - The Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+      - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - The Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - The Civil Jurisdiction and Judgments Act 1982 (c. 27)
+      - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - The Mental Health Act 1983 (c.20)
+      - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+- SCHEDULE 17 Minor Amendments
+  - The Naval Agency and Distribution Act 1864 (c. 24)
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - The Land Registration Act 1925 (c. 21)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - The Administration of Justice Act 1956 (c. 46)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - The Powers of Attorney Act 1971 (c. 27)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - The Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - The Juries Act 1974 (c. 23)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - The Solicitors Act 1974 (c. 47)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - The Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+  - The Senior Courts Act 1981 (c. 54)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - The County Courts Act 1984 (c. 28)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+  - The Legal Aid Act 1988 (c. 34)
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+  - The Law of Property (Miscellaneous Provisions) Act 1989 (c. 34)
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+- SCHEDULE 18 Consequential Amendments
+  - The Public Records Act 1958 (c. 51)
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - The Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - The Matrimonial Causes Act 1973 (c.18)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - The Fair Trading Act 1973 (c.41)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - The Juries Act 1974 (c. 23)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - The Consumer Credit Act 1974 (c.39)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - The Solicitors Act 1974 (c. 47)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - The Restrictive Trade Practices Act 1976 (c.34)
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+  - The Patents Act 1977 (c.37)
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+  - The Domestic Proceedings and Magistrates’ Courts Act 1978 (c.22)
+    - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+  - The Estate Agents Act 1979 (c.38)
+    - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+  - The Competition Act 1980 (c.21)
+    - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+  - The Social Security Act 1980 (c. 30)
+    - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+  - The Magistrates’ Courts Act 1980 (c.43)
+    - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+  - The Judicial Pensions Act 1981 (c. 20)
+    - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+    - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
+    - [Sch. 18 para. 28](schedule/18/paragraph/28.md)
+    - [Sch. 18 para. 29](schedule/18/paragraph/29.md)
+    - [Sch. 18 para. 30](schedule/18/paragraph/30.md)
+    - [Sch. 18 para. 31](schedule/18/paragraph/31.md)
+    - [Sch. 18 para. 32](schedule/18/paragraph/32.md)
+    - [Sch. 18 para. 33](schedule/18/paragraph/33.md)
+    - [Sch. 18 para. 34](schedule/18/paragraph/34.md)
+    - [Sch. 18 para. 35](schedule/18/paragraph/35.md)
+  - The Senior Courts Act 1981 (c. 54)
+    - [Sch. 18 para. 36](schedule/18/paragraph/36.md)
+    - [Sch. 18 para. 37](schedule/18/paragraph/37.md)
+    - [Sch. 18 para. 38](schedule/18/paragraph/38.md)
+    - [Sch. 18 para. 39](schedule/18/paragraph/39.md)
+    - [Sch. 18 para. 40](schedule/18/paragraph/40.md)
+    - [Sch. 18 para. 41](schedule/18/paragraph/41.md)
+  - The County Courts Act 1984 (c. 28)
+    - [Sch. 18 para. 42](schedule/18/paragraph/42.md)
+    - [Sch. 18 para. 43](schedule/18/paragraph/43.md)
+    - [Sch. 18 para. 44](schedule/18/paragraph/44.md)
+    - [Sch. 18 para. 45](schedule/18/paragraph/45.md)
+    - [Sch. 18 para. 46](schedule/18/paragraph/46.md)
+    - [Sch. 18 para. 47](schedule/18/paragraph/47.md)
+    - [Sch. 18 para. 48](schedule/18/paragraph/48.md)
+    - [Sch. 18 para. 49](schedule/18/paragraph/49.md)
+  - The Matrimonial and Family Proceedings Act 1984 (c. 42)
+    - [Sch. 18 para. 50](schedule/18/paragraph/50.md)
+  - The Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 18 para. 51](schedule/18/paragraph/51.md)
+    - [Sch. 18 para. 52](schedule/18/paragraph/52.md)
+    - [Sch. 18 para. 53](schedule/18/paragraph/53.md)
+  - The Administration of Justice Act 1985 (c. 61)
+    - [Sch. 18 para. 54](schedule/18/paragraph/54.md)
+    - [Sch. 18 para. 55](schedule/18/paragraph/55.md)
+    - [Sch. 18 para. 56](schedule/18/paragraph/56.md)
+    - [Sch. 18 para. 57](schedule/18/paragraph/57.md)
+    - [Sch. 18 para. 58](schedule/18/paragraph/58.md)
+  - The Legal Aid Act 1988 (c. 34)
+    - [Sch. 18 para. 59](schedule/18/paragraph/59.md)
+    - [Sch. 18 para. 60](schedule/18/paragraph/60.md)
+    - [Sch. 18 para. 61](schedule/18/paragraph/61.md)
+    - [Sch. 18 para. 62](schedule/18/paragraph/62.md)
+    - [Sch. 18 para. 63](schedule/18/paragraph/63.md)
+- SCHEDULE 19 Transitionals and Savings
+  - Discrimination by, or in relation to, barristers
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Judicial appointments: barristers
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Judicial appointments: solicitors
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Directions under section 83 of the Senior Courts Act 1981 (c. 54)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - District judges
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - Judicial oaths
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - Retirement age of certain officers of Senior Courts
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - Investigations by lay observers
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+  - Judicial pensions
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+  - Overseas solicitors
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+  - Practising certificates
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+  - Notaries
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - Redress for inadequate professional services
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+  - The Council for Licensed Conveyancers
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+  - Immunity of magistrates etc.
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+  - Commissioners for Oaths
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+- SCHEDULE 20 Repeals
