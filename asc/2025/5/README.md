@@ -1,0 +1,177 @@
+# Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025
+
+asc/2025/5. Enacted 2025-09-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 50 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2025/5
+
+Source: https://www.legislation.gov.uk/asc/2025/5/2026-10-01
+
+## Contents
+
+- PART 1 OVERVIEW OF ACT AND KEY TERMS USED IN ACT
+  - Overview
+    - [s. 1 Overview of this Act](section/1.md)
+  - Key terms
+    - [s. 2 Visitor accommodation](section/2.md)
+    - [s. 3 Visitor accommodation provider](section/3.md)
+- PART 2 REGISTER OF VISITOR ACCOMMODATION PROVIDERS
+  - The register
+    - [s. 4 Register of visitor accommodation providers](section/4.md)
+    - [s. 5 Duty of visitor accommodation providers to be registered](section/5.md)
+    - [s. 6 Applications to be registered](section/6.md)
+    - [s. 7 Penalties for failing to register](section/7.md)
+    - [s. 8 Power to register persons where no application has been made to WRA](section/8.md)
+  - Changing the register
+    - [s. 9 Duty to notify WRA of changes and inaccuracies](section/9.md)
+    - [s. 10 Penalties for failure to notify WRA of changes and inaccuracies](section/10.md)
+    - [s. 11 Power to change the register where no notice has been given to WRA](section/11.md)
+  - WRA’s power to require information
+    - [s. 12 Power to require information](section/12.md)
+    - [s. 13 Penalties for failure to comply with notice under section 12](section/13.md)
+  - Removal of persons from the register
+    - [s. 14 Removal of a person from the register on application to WRA](section/14.md)
+    - [s. 15 Penalties where a person fails to apply for removal from the register](section/15.md)
+    - [s. 16 Power to remove a person from the register when no application has been made](section/16.md)
+  - Further provision about penalties under this Part
+    - [s. 17 Reasonable excuse](section/17.md)
+    - [s. 18 Powers to reduce, waive or suspend penalties](section/18.md)
+    - [s. 19 Assessment of penalties](section/19.md)
+    - [s. 20 Payment of penalties](section/20.md)
+    - [s. 21 Double jeopardy](section/21.md)
+    - [s. 22 Liability of personal representatives](section/22.md)
+  - Reviews and appeals
+    - [s. 23 Reviews and appeals](section/23.md)
+  - Supplementary
+    - [s. 24 Registration of partnerships and unincorporated bodies](section/24.md)
+    - [s. 25 Interpretation of Part](section/25.md)
+    - [s. 26 Registration: powers to make further or different provision](section/26.md)
+    - [s. 27 Amendment of the Tax Collection and Management (Wales) Act 2016 etc.](section/27.md)
+- PART 3 VISITOR LEVY
+  - CHAPTER 1 APPLICATION, OPERATION AND RATES OF LEVY
+    - Principal council’s power to introduce visitor levy in its area
+      - [s. 28 Power of principal council to introduce levy on overnight stays in visitor accommodation](section/28.md)
+    - Application and operation of the levy
+      - [s. 29 Overnight stays in visitor accommodation](section/29.md)
+      - [s. 30 Liability to pay the levy](section/30.md)
+      - [s. 31 Calculating the amount of levy that is payable](section/31.md)
+    - Levy rates
+      - [s. 32 Rates of the levy](section/32.md)
+      - [s. 33 Determining which rate applies](section/33.md)
+      - [s. 34 Adding an additional amount to a levy rate](section/34.md)
+    - Repayment of amount equivalent to the levy
+      - [s. 35 Application for repayment of amount equivalent to the levy](section/35.md)
+  - CHAPTER 2 ACCOUNTING FOR, AND PAYMENT OF, THE LEVY
+    - Returns
+      - [s. 36 Duty to make levy return in respect of accounting period](section/36.md)
+      - [s. 37 Annual or quarterly return](section/37.md)
+      - [s. 38 Meaning of “accounting period”: annual returns](section/38.md)
+      - [s. 39 Meaning of “accounting period”: quarterly returns](section/39.md)
+    - Payment
+      - [s. 40 Payment of the levy](section/40.md)
+    - Persons that have ceased to be visitor accommodation providers
+      - [s. 41 Persons that have ceased to be a VAP: duties under this Chapter](section/41.md)
+    - Collection and management of the levy by WRA
+      - [s. 42 Collection and management of the levy by WRA](section/42.md)
+  - CHAPTER 3 USE OF PROCEEDS OF LEVY BY PRINCIPAL COUNCILS
+    - [s. 43 Principal council account for proceeds of the levy](section/43.md)
+    - [s. 44 Use of proceeds of the levy for destination management and improvement](section/44.md)
+    - [s. 45 Report on use of proceeds of the levy](section/45.md)
+    - [s. 46 Levy partnership forums](section/46.md)
+  - CHAPTER 4 INTRODUCING, CHANGING OR ABOLISHING THE LEVY
+    - [s. 47 Consultation before introducing, changing or abolishing the levy](section/47.md)
+    - [s. 48 Introduction of the levy and changes to or abolition of the levy](section/48.md)
+    - [s. 49 Overnight stays that are unaffected by the introduction of, or changes to, the levy](section/49.md)
+    - [s. 50 Interpretation of Chapter](section/50.md)
+  - CHAPTER 5 MISCELLANEOUS PROVISION RELATING TO THE LEVY
+    - [s. 51 Visitor accommodation at premises within the area of more than one principal council](section/51.md)
+    - [s. 52 Arrangements with third party to collect the levy etc. on behalf of provider](section/52.md)
+    - [s. 53 Welsh Ministers’ power to impose advertising and billing etc. requirements](section/53.md)
+    - [s. 54 Exercise by a principal council of its functions under this Part etc.‍](section/54.md)
+- PART 4 MISCELLANEOUS AND GENERAL PROVISION
+  - CHAPTER 1 SPECIAL CASES
+    - Relevant business
+      - [s. 55 Meaning of “relevant business” in this Chapter](section/55.md)
+    - Partnerships and unincorporated bodies
+      - [s. 56 Duties and liabilities of partnerships and unincorporated bodies](section/56.md)
+      - [s. 57 Power to make further provision about partnerships and unincorporated bodies](section/57.md)
+    - Change in persons that provide visitor accommodation
+      - [s. 58 Death, incapacity and insolvency](section/58.md)
+      - [s. 59 Power to make provision about death, incapacity, insolvency and cases where a person ceases to exist](section/59.md)
+      - [s. 60 Power to make provision about transfers of businesses as going concerns](section/60.md)
+  - CHAPTER 2 MISCELLANEOUS
+    - [s. 61 Guidance issued by the Welsh Ministers](section/61.md)
+    - [s. 62 Power to extend Act to berths and moorings](section/62.md)
+    - [s. 63 Review of operation and effect of Act](section/63.md)
+  - CHAPTER 3 GENERAL
+    - [s. 64 Power to make consequential, transitional etc. provision](section/64.md)
+    - [s. 65 Regulations under this Act](section/65.md)
+    - [s. 66 Interpretation](section/66.md)
+    - [s. 67 Coming into force](section/67.md)
+    - [s. 68 Short title](section/68.md)
+- SCHEDULE 1 INFORMATION TO BE INCLUDED IN THE REGISTER OF VISITOR ACCOMMODATION PROVIDERS
+  - [Sch. 1 para. 1 Information to be included in the register](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Information to be included in the register](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Information to be included in the register](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Circumstances in which information need not be included in the register](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Partnerships and unincorporated bodies](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Interpretation](schedule/1/paragraph/6.md)
+- SCHEDULE 2 AMENDMENTS RELATING TO PARTS 2 AND 3
+  - PART 1 AMENDMENTS RELATING TO PART 2 OF THIS ACT
+    - [Sch. 2 para. 1 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 The Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Public Audit (Wales) Act 2013 (anaw 3)](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Public Services Ombudsman (Wales) Act 2019 (anaw 3)](schedule/2/paragraph/19.md)
+  - PART 2 AMENDMENTS RELATING TO PART 3 OF THIS ACT
+    - [Sch. 2 para. 20 Introduction](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Amendment of references to “devolved tax” etc. in the 2016 Act](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Amendments to Part 2 of the 2016 Act](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32 Amendments to Part 3 of the 2016 Act](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34 Amendments to Part 3A of the 2016 Act](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36 Amendment to Part 4 of the 2016 Act](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37 Amendments to Part 5 of the 2016 Act](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49 Amendments to Part 8 of the 2016 Act](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50 Amendments to Part 10 of the 2016 Act](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
