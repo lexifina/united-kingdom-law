@@ -1,0 +1,313 @@
+# Law of Property Act 1925
+
+1925 c. 20. Enacted 1925-04-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/15-16/20
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/2026-10-01
+
+## Contents
+
+- Part I General Principles as to Legal Estates, Equitable Interests and Powers
+  - [s. 1 Legal estates and equitable interests.](section/1.md)
+  - [s. 2 Conveyances overreaching certain equitable interests and powers.](section/2.md)
+  - [s. 3 Manner of giving effect to equitable interests and powers.](section/3.md)
+  - [s. 4 Creation and disposition of equitable interests.](section/4.md)
+  - [s. 5 Satisfied terms, whether created out of freehold or leasehold land to cease.](section/5.md)
+  - [s. 6 Saving of lessors’ and lessees’ covenants.](section/6.md)
+  - [s. 7 Saving of certain legal estates and statutory powers.](section/7.md)
+  - [s. 8 Saving of certain legal powers to lease.](section/8.md)
+  - [s. 9 Vesting orders and dispositions of legal estates operating as conveyances by an estate owner.](section/9.md)
+  - [s. 10 Title to be shown to legal estates.](section/10.md)
+  - [s. 11 Registration in Middlesex and Yorkshire as respects legal estates.](section/11.md)
+  - [s. 12 Limitation and Prescription Acts.](section/12.md)
+  - [s. 13 Effect of possession of documents.](section/13.md)
+  - [s. 14 Interests of persons in possession.](section/14.md)
+  - [s. 15 Presumption that parties are of full age.](section/15.md)
+  - Death Duties
+    - [s. 16 ................................](section/16.md)
+  - Infants and Lunatics
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 Infants not to be appointed trustees.](section/20.md)
+    - [s. 21 Receipts by married infants.](section/21.md)
+    - [s. 22 Conveyances on behalf of persons suffering from mental disorder and as to land held by them in trust.](section/22.md)
+  - ...
+    - [s. 23 ................................](section/23.md)
+  - Trusts of land
+    - [s. 24 Appointment of trustees of land.](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 Purchaser not to be concerned with the trusts of the proceeds of sale which are to be paid to two or more trustees or to a trust corporation.](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 Trust of mortgaged property where right of redemption is barred.](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Application of Pt. I. to personal representatives.](section/33.md)
+  - Undivided Shares and Joint Ownership
+    - [s. 34 Effect of future dispositions to tenants in common.](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Joint tenancies.](section/36.md)
+    - [s. 37 Rights of husband and wife.](section/37.md)
+    - [s. 38 Party structures.](section/38.md)
+  - Transitional Provisions
+    - [s. 39 Transitional provisions in First Schedule.](section/39.md)
+- Part II Contracts, Conveyances and other Instruments
+  - Contracts
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 Stipulations not of the essence of a contract.](section/41.md)
+    - [s. 42 Provisions as to contracts.](section/42.md)
+    - [s. 43 Rights protected by registration.](section/43.md)
+    - [s. 44 Statutory commencements of title.](section/44.md)
+    - [s. 45 Other statutory conditions of sale.](section/45.md)
+    - [s. 46 Forms of contracts and conditions of sale.](section/46.md)
+    - [s. 47 Application of insurance money on completion of a sale or exchange.](section/47.md)
+    - [s. 48 Stipulations preventing a purchaser, lessee, or underlessee from employing his own solicitor to be void.](section/48.md)
+    - [s. 49 Applications to the court by vendor and purchaser.](section/49.md)
+    - [s. 50 Discharge of incumbrances by the court on sales or exchanges.](section/50.md)
+  - Conveyances and other Instruments
+    - [s. 51 Lands lie in grant only.](section/51.md)
+    - [s. 52 Conveyances to be by deed.](section/52.md)
+    - [s. 53 Instruments required to be in writing.](section/53.md)
+    - [s. 54 Creation of interests in land by parol.](section/54.md)
+    - [s. 55 Savings in regard to last two sections.](section/55.md)
+    - [s. 56 Persons taking who are not parties and as to indentures.](section/56.md)
+    - [s. 57 Description of deeds.](section/57.md)
+    - [s. 58 Provisions as to supplemental instruments.](section/58.md)
+    - [s. 59 Conditions and certain covenants not implied.](section/59.md)
+    - [s. 60 Abolition of technicalities in regard to conveyances and deeds.](section/60.md)
+    - [s. 61 Construction of expressions used in deeds and other instruments.](section/61.md)
+    - [s. 62 General words implied in conveyances.](section/62.md)
+    - [s. 63 All estate clause implied.](section/63.md)
+    - [s. 64 Production and safe custody of documents.](section/64.md)
+    - [s. 65 Reservation of legal estates.](section/65.md)
+    - [s. 66 Confirmation of past transactions.](section/66.md)
+    - [s. 67 Receipt in deed sufficient.](section/67.md)
+    - [s. 68 Receipt in deed or indorsed evidence.](section/68.md)
+    - [s. 69 Receipt in deed or indorsed authority for payment to solicitor.](section/69.md)
+    - [s. 70 Partial release of security from rentcharge.](section/70.md)
+    - [s. 71 Release of part of land affected from a judgment.](section/71.md)
+    - [s. 72 Conveyances by a person to himself, &c.](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 Execution of instruments by or on behalf of corporations.](section/74.md)
+    - [s. 74A Execution of instrument as a deed](section/74A.md)
+    - [s. 75 Rights of purchaser as to execution.](section/75.md)
+  - Covenants
+    - [s. 76 ................................](section/76.md)
+    - [s. 77 Implied covenants in conveyances subject to rents.](section/77.md)
+    - [s. 78 Benefit of covenants relating to land.](section/78.md)
+    - [s. 79 Burden of covenants relating to land.](section/79.md)
+    - [s. 80 Covenants binding land.](section/80.md)
+    - [s. 81 Effect of covenant with two or more jointly.](section/81.md)
+    - [s. 82 Covenants and agreements entered into by a person with himself and another or others.](section/82.md)
+    - [s. 83 Construction of implied covenants.](section/83.md)
+    - [s. 84 Power to discharge or modify restrictive covenants affecting land.](section/84.md)
+- Part III Mortgages, Rentcharges, and Powers of Attorney
+  - Mortgages
+    - [s. 85 Mode of mortgaging freeholds.](section/85.md)
+    - [s. 86 Mode of mortgaging leaseholds.](section/86.md)
+    - [s. 87 Charges by way of legal mortgage.](section/87.md)
+    - [s. 88 Realisation of freehold mortgages.](section/88.md)
+    - [s. 89 Realisation of leasehold mortgages.](section/89.md)
+    - [s. 90 Realisation of equitable charges by the court.](section/90.md)
+    - [s. 91 Sale of mortgaged property in action for redemption or foreclosure.](section/91.md)
+    - [s. 92 Power to authorise land and minerals to be dealt with separately.](section/92.md)
+    - [s. 93 Restriction on consolidation of mortgages.](section/93.md)
+    - [s. 94 Tacking and further advances.](section/94.md)
+    - [s. 95 Obligation to transfer instead of re-conveying, and as to right to take possession.](section/95.md)
+    - [s. 96 Regulations respecting inspection, production and delivery of documents, and priorities.](section/96.md)
+    - [s. 97 Priorities as between puisne mortgages.](section/97.md)
+    - [s. 98 Actions for possession by mortgagors.](section/98.md)
+    - [s. 99 Leasing powers of mortgagor and mortgagee in possession.](section/99.md)
+    - [s. 100 Powers of mortgagor and mortgagee in possession to accept surrenders of leases.](section/100.md)
+    - [s. 101 Powers incident to estate or interest of mortgagee.](section/101.md)
+    - [s. 102 Provision as to mortgages of undivided shares in land.](section/102.md)
+    - [s. 103 Regulation of exercise of power of sale.](section/103.md)
+    - [s. 104 Conveyance on sale.](section/104.md)
+    - [s. 105 Application of proceeds of sale.](section/105.md)
+    - [s. 106 Provisions as to exercise of power of sale.](section/106.md)
+    - [s. 107 Mortgagee’s receipts, discharges, &c.](section/107.md)
+    - [s. 108 Amount and application of insurance money.](section/108.md)
+    - [s. 109 Appointment, powers, remuneration and duties of receiver.](section/109.md)
+    - [s. 110 Effect of bankruptcy of the mortgagor on the power to sell or appoint a receiver.](section/110.md)
+    - [s. 111 Effect of advance on joint account.](section/111.md)
+    - [s. 112 Notice of trusts on transfer of mortgage.](section/112.md)
+    - [s. 113 Notice of trusts affecting mortgage debts.](section/113.md)
+    - [s. 114 Transfers of mortgages.](section/114.md)
+    - [s. 115 Reconveyances of mortgages by endorsed receipts.](section/115.md)
+    - [s. 116 Cesser of mortgage terms.](section/116.md)
+    - [s. 117 Forms of statutory legal charges.](section/117.md)
+    - [s. 118 Forms of statutory transfers of legal charges.](section/118.md)
+    - [s. 119 Implied covenants, joint and several.](section/119.md)
+    - [s. 120 Form of discharge of statutory mortgage or charge.](section/120.md)
+  - Rentcharges
+    - [s. 120A Interpretation](section/120A.md)
+    - [s. 120B Regulated rentcharges: notice of arrears before enforcement](section/120B.md)
+    - [s. 120C Service of notice under section 120B: additional requirement](section/120C.md)
+    - [s. 120D Regulated rentcharge arrears: administration charges](section/120D.md)
+    - [s. 121 Remedies for the recovery of annual sums charged on land.](section/121.md)
+    - [s. 122 Creation of rentcharges charged on another rentcharge and remedies for recovery thereof.](section/122.md)
+    - [s. 122A Contrary provision of no effect](section/122A.md)
+  - Powers of Attorney
+    - [s. 123 ................................](section/123.md)
+    - [s. 124 ................................](section/124.md)
+    - [s. 125 †Powers of attorney relating to land to be filed.](section/125.md)
+    - [s. 126 ................................](section/126.md)
+- Part IV Equitable Interests and things in Action
+  - [s. 130 ... Entailed interests in real and personal property.](section/130.md)
+  - [s. 131 Abolition of the rule in Shelley’s case.](section/131.md)
+  - [s. 132 As to heirs taking by purchase.](section/132.md)
+  - [s. 133 ................................](section/133.md)
+  - [s. 134 Restriction on executory limitations.](section/134.md)
+  - [s. 135 Equitable waste.](section/135.md)
+  - [s. 136 Legal assignments of things in action.](section/136.md)
+  - [s. 137 Dealings with life interests, reversions and other equitable interests.](section/137.md)
+  - [s. 138 Power to nominate a trust corporation to receive notices.](section/138.md)
+- Part V Leases and Tenancies
+  - [s. 139 Effect of extinguishment of reversion.](section/139.md)
+  - [s. 140 Apportionment of conditions on severance.](section/140.md)
+  - [s. 141 Rent and benefit of lessee’s covenants to run with the reversion.](section/141.md)
+  - [s. 142 Obligation of lessor’s covenants to run with reversion.](section/142.md)
+  - [s. 143 Effect of licences granted to lessees.](section/143.md)
+  - [s. 144 No fine to be exacted for licence to assign.](section/144.md)
+  - [s. 145 Lessee to give notice of ejectment to lessor.](section/145.md)
+  - [s. 146 Restrictions on and relief against forfeiture of leases and underleases.](section/146.md)
+  - [s. 147 Relief against notice to effect decorative repairs.](section/147.md)
+  - [s. 148 Waiver of a covenant in a lease.](section/148.md)
+  - [s. 149 Abolition of interesse termini, and as to reversionary leases and leases for lives.](section/149.md)
+  - [s. 150 Surrender of a lease, without prejudice to underleases with a view to the grant of a new lease.](section/150.md)
+  - [s. 151 Provision as to attornments by tenants.](section/151.md)
+  - [s. 152 Leases invalidated by reason of non-compliance with terms of powers under which they are granted.](section/152.md)
+  - [s. 153 Enlargement of residue of long terms into fee simple estates.](section/153.md)
+  - [s. 154 Application of Part V. to existing leases.](section/154.md)
+- Part VI Powers
+  - [s. 155 Release of powers simply collateral.](section/155.md)
+  - [s. 156 Disclaimer of power.](section/156.md)
+  - [s. 157 Protection of purchasers claiming under certain void appointments.](section/157.md)
+  - [s. 158 Validation of appointments where objects are excluded or take illusory shares.](section/158.md)
+  - [s. 159 Execution of powers not testamentary.](section/159.md)
+  - [s. 160 Application of Part VI. to existing powers.](section/160.md)
+- Part VII Perpetuities and Accumulations
+  - Perpetuities
+    - [s. 161 Abolition of the double possibility rule.](section/161.md)
+    - [s. 162 Restrictions on the perpetuity rule.](section/162.md)
+    - [s. 163 ................................](section/163.md)
+  - Accumulations
+    - [s. 164 General restrictions on accumulation of income.](section/164.md)
+    - [s. 165 Qualification of restrictions on accumulation.](section/165.md)
+    - [s. 166 Restriction on accumulation for the purchase of land.](section/166.md)
+- Part VIII Married Women and Lunatics
+  - [s. 167 ................................](section/167.md)
+  - [s. 171 ................................](section/171.md)
+- Part IX Voidable Dispositions
+  - [s. 172 ................................](section/172.md)
+  - [s. 173 Voluntary disposition of land how far voidable as against purchasers.](section/173.md)
+  - [s. 174 Acquisitions of reversions at an under value.](section/174.md)
+- Part X Wills
+  - [s. 175 Contingent and future testamentary gifts to carry the intermediate income.](section/175.md)
+  - [s. 176 Power for tenant in tail in possession to dispose of property by specific devise or bequest.](section/176.md)
+  - [s. 177 ................................](section/177.md)
+  - [s. 178 ................................](section/178.md)
+  - [s. 179 Prescribed forms for reference in wills.](section/179.md)
+- Part XI Miscellaneous
+  - Miscellaneous
+    - [s. 180 Provisions as to corporations.](section/180.md)
+    - [s. 181 Dissolution of a corporation.](section/181.md)
+    - [s. 182 Protection of solicitor and trustees adopting Act.](section/182.md)
+    - [s. 183 Fraudulent concealment of documents and falsification of pedigrees.](section/183.md)
+    - [s. 184 Presumption of survivorship in regard to claims to property.](section/184.md)
+    - [s. 185 Merger.](section/185.md)
+    - [s. 186 Rights of pre-emption capable of release.](section/186.md)
+    - [s. 187 Legal easements.](section/187.md)
+    - [s. 188 Power to direct division of chattels.](section/188.md)
+    - [s. 189 Indemnities against rents.](section/189.md)
+  - Redemption and Apportionment of Rents, &c.
+    - [s. 190 Equitable apportionment of rents and remedies for non-payment or breach of covenant.](section/190.md)
+    - [s. 191 ................................](section/191.md)
+    - [s. 192 Apportionment of charges payable for redemption of tithe rentcharge.](section/192.md)
+  - Commons and Waste Lands
+    - [s. 193 Rights of the public over commons and waste lands.](section/193.md)
+    - [s. 194 Restrictions on inclosure of commons.](section/194.md)
+  - Judgments, &c. affecting Land
+    - [s. 195 Equitable charges in right of judgment debt, &c.](section/195.md)
+  - Notices
+    - [s. 196 Regulations respecting notices.](section/196.md)
+    - [s. 197 Notice of memorials registered in Middlesex and Yorkshire.](section/197.md)
+    - [s. 198 Registration under the Land Charges Act, 1925, to be notice.](section/198.md)
+    - [s. 199 Restrictions on constructive notice.](section/199.md)
+    - [s. 200 Notice of restrictive covenants and easements.](section/200.md)
+- Part XII Construction, Jurisdiction, and General Provisions
+  - [s. 201 Provisions of Act to apply to incorporeal hereditaments.](section/201.md)
+  - [s. 202 Provisions as to enfranchisement of copyholds, &c.](section/202.md)
+  - [s. 203 Payment into court, jurisdiction and procedure.](section/203.md)
+  - [s. 204 Orders of court conclusive.](section/204.md)
+  - [s. 205 General definitions.](section/205.md)
+  - [s. 206 Forms of instruments and examples of abstracts.](section/206.md)
+  - [s. 207 Repeals as respects England and Wales.](section/207.md)
+  - [s. 208 Application to the Crown.](section/208.md)
+  - [s. 209 Short title, commencement, and extent.](section/209.md)
+- FIRST SCHEDULE Transitional Provisions
+  - Part I Conversion of certain existing Legal Estates into Equitable Interests
+  - Part II Vesting of Legal Estates
+    - [Sch. FIRST Pt. II para. 1](schedule/FIRST/part/II/paragraph/1.md)
+    - [Sch. FIRST Pt. II para. 2](schedule/FIRST/part/II/paragraph/2.md)
+    - [Sch. FIRST Pt. II para. 3](schedule/FIRST/part/II/paragraph/3.md)
+    - [Sch. FIRST Pt. II para. 4](schedule/FIRST/part/II/paragraph/4.md)
+    - [Sch. FIRST Pt. II para. 5](schedule/FIRST/part/II/paragraph/5.md)
+    - [Sch. FIRST Pt. II para. 6](schedule/FIRST/part/II/paragraph/6.md)
+    - [Sch. FIRST Pt. II para. 7](schedule/FIRST/part/II/paragraph/7.md)
+    - [Sch. FIRST Pt. II para. 8](schedule/FIRST/part/II/paragraph/8.md)
+    - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+  - Part III Provisions as to Legal Estate vested in Infant
+    - [Sch. FIRST Pt. III para. 1](schedule/FIRST/part/III/paragraph/1.md)
+    - [Sch. FIRST Pt. III para. 2](schedule/FIRST/part/III/paragraph/2.md)
+    - [Sch. FIRST Pt. III para. 3](schedule/FIRST/part/III/paragraph/3.md)
+    - [Sch. FIRST para. 3A](schedule/FIRST/paragraph/3A.md)
+    - [Sch. FIRST Pt. III para. 4](schedule/FIRST/part/III/paragraph/4.md)
+    - [Sch. FIRST Pt. III para. 5](schedule/FIRST/part/III/paragraph/5.md)
+  - Part IV Provisions subjecting Land held in Undivided Shares to a Trust for Sale
+    - [Sch. FIRST Pt. IV para. 1](schedule/FIRST/part/IV/paragraph/1.md)
+    - [Sch. FIRST Pt. IV para. 2](schedule/FIRST/part/IV/paragraph/2.md)
+    - [Sch. FIRST Pt. IV para. 3](schedule/FIRST/part/IV/paragraph/3.md)
+    - [Sch. FIRST Pt. IV para. 4](schedule/FIRST/part/IV/paragraph/4.md)
+  - Part V Provisions as to Party Structures and Open Spaces
+    - [Sch. FIRST Pt. V para. 1](schedule/FIRST/part/V/paragraph/1.md)
+    - [Sch. FIRST Pt. V para. 2](schedule/FIRST/part/V/paragraph/2.md)
+    - [Sch. FIRST Pt. V para. 3](schedule/FIRST/part/V/paragraph/3.md)
+  - Part VI Conversion of Tenancies by entireties into Joint Tenancies
+  - Part VII Conversion of existing Freehold Mortgages into Mortgages by Demise
+    - [Sch. FIRST Pt. VII para. 1](schedule/FIRST/part/VII/paragraph/1.md)
+    - [Sch. FIRST Pt. VII para. 2](schedule/FIRST/part/VII/paragraph/2.md)
+    - [Sch. FIRST Pt. VII para. 3](schedule/FIRST/part/VII/paragraph/3.md)
+    - [Sch. FIRST Pt. VII para. 4](schedule/FIRST/part/VII/paragraph/4.md)
+    - [Sch. FIRST Pt. VII para. 5](schedule/FIRST/part/VII/paragraph/5.md)
+    - [Sch. FIRST Pt. VII para. 6](schedule/FIRST/part/VII/paragraph/6.md)
+    - [Sch. FIRST Pt. VII para. 7](schedule/FIRST/part/VII/paragraph/7.md)
+    - [Sch. FIRST Pt. VII para. 8](schedule/FIRST/part/VII/paragraph/8.md)
+  - Part VIII Conversion of existing Leasehold Mortgages into Mortgages by subdemise
+    - [Sch. FIRST Pt. VIII para. 1](schedule/FIRST/part/VIII/paragraph/1.md)
+    - [Sch. FIRST Pt. VIII para. 2](schedule/FIRST/part/VIII/paragraph/2.md)
+    - [Sch. FIRST Pt. VIII para. 3](schedule/FIRST/part/VIII/paragraph/3.md)
+    - [Sch. FIRST Pt. VIII para. 4](schedule/FIRST/part/VIII/paragraph/4.md)
+    - [Sch. FIRST Pt. VIII para. 5](schedule/FIRST/part/VIII/paragraph/5.md)
+    - [Sch. FIRST Pt. VIII para. 6](schedule/FIRST/part/VIII/paragraph/6.md)
+    - [Sch. FIRST Pt. VIII para. 7](schedule/FIRST/part/VIII/paragraph/7.md)
+    - [Sch. FIRST Pt. VIII para. 8](schedule/FIRST/part/VIII/paragraph/8.md)
+- SECOND SCHEDULE Implied Covenants
+  - Part I
+  - Part II
+  - Part III
+  - Part IV
+  - Part V
+  - Part VI
+  - Part VII Covenant implied in a Conveyance for valuable consideration, other than a Mortgage, of the Entirety of Land affected by a Rentcharge
+  - Part VIII Covenants implied in a Conveyance for valuable Consideration, other than a Mortgage, or Part of Land affected by a Rentcharge, subject to a Part (not legally apportioned) of that Rentcharge
+  - Part IX Covenant in a Conveyance for valuable Consideration, other than a Mortgage, of the Entirety of the Land comprised in a Lease for the Residue of the Term or Interest created by the Lease
+  - Part X Covenants implied in a Conveyance for valuable Consideration, other than a Mortgage, or Part of the Land comprised in a Lease, for the Residue of the Term or Interest created by the Lease, subject to a Part (not legally apportioned) of that Rent
+- THIRD SCHEDULE Forms of Transfer and Discharge of Mortgages
+- FOURTH SCHEDULE Forms relating to Statutory Charges or Mortgages of Freehold or Leasehold Land
+- FIFTH SCHEDULE Forms of Instruments
+- SIXTH SCHEDULE Epitomes of Abstracts of Title
+- SEVENTH SCHEDULE
