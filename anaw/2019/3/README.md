@@ -1,0 +1,230 @@
+# Public Services Ombudsman (Wales) Act 2019
+
+anaw/2019/3. Enacted 2019-05-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2019/3
+
+Source: https://www.legislation.gov.uk/anaw/2019/3/2026-10-01
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview](section/1.md)
+- PART 2 THE PUBLIC SERVICES OMBUDSMAN FOR WALES
+  - [s. 2 The Public Services Ombudsman for Wales](section/2.md)
+- PART 3 INVESTIGATIONS
+  - Power of investigation
+    - [s. 3 Power to investigate complaints](section/3.md)
+    - [s. 4 Power to investigate on own initiative](section/4.md)
+    - [s. 5 Criteria for own initiative investigations](section/5.md)
+    - [s. 6 Alternative resolution of matters](section/6.md)
+  - Complaints
+    - [s. 7 Who can complain](section/7.md)
+    - [s. 8 Requirements: complaints made to the Ombudsman](section/8.md)
+    - [s. 9 Requirements: complaints referred to the Ombudsman](section/9.md)
+    - [s. 10 Records of complaints](section/10.md)
+  - Matters which may be investigated
+    - [s. 11 Matters which may be investigated](section/11.md)
+    - [s. 12 Exclusion: matters not relating to Wales](section/12.md)
+    - [s. 13 Exclusion: other remedies](section/13.md)
+    - [s. 14 Other excluded matters](section/14.md)
+    - [s. 15 Decisions taken without maladministration](section/15.md)
+  - Ancillary investigations
+    - [s. 16 Power to investigate other health-related services](section/16.md)
+  - Decisions not to investigate etc
+    - [s. 17 Decisions not to investigate or to discontinue investigation](section/17.md)
+  - Investigation procedure and evidence
+    - [s. 18 Investigation procedure](section/18.md)
+    - [s. 19 Information, documents, evidence and facilities](section/19.md)
+    - [s. 20 Obstruction and contempt](section/20.md)
+    - [s. 21 Obstruction and contempt: costs recovery](section/21.md)
+    - [s. 22 Serving a costs recovery notice](section/22.md)
+  - Reports of investigations
+    - [s. 23 Reports of investigations](section/23.md)
+    - [s. 24 Publicising reports](section/24.md)
+    - [s. 25 Publicising reports: health care providers](section/25.md)
+    - [s. 26 Action following receipt of a report](section/26.md)
+    - [s. 27 Reports: alternative procedure](section/27.md)
+  - Special reports
+    - [s. 28 Special reports](section/28.md)
+    - [s. 29 Special reports: supplementary](section/29.md)
+    - [s. 30 Special reports relating to the Welsh Government and the National Assembly for Wales Commission](section/30.md)
+  - Listed authorities
+    - [s. 31 Listed authorities](section/31.md)
+    - [s. 32 Restrictions on power to amend Schedule 3](section/32.md)
+    - [s. 33 Provisions in regulations adding persons to Schedule 3](section/33.md)
+    - [s. 34 Power to issue guidance](section/34.md)
+  - Compensation
+    - [s. 35 Compensation for the person aggrieved](section/35.md)
+- PART 4 LISTED AUTHORITIES: COMPLAINTS-HANDLING PROCEDURES
+  - [s. 36 Complaints-handling: statement of principles](section/36.md)
+  - [s. 37 Model complaints-handling procedures](section/37.md)
+  - [s. 38 Model complaints-handling procedures: specification of listed authorities](section/38.md)
+  - [s. 39 Declarations of non-compliance](section/39.md)
+  - [s. 40 Submission of complaints-handling procedure: general](section/40.md)
+  - [s. 41 Complaints-handling procedures: promotion of best practice etc](section/41.md)
+- PART 5 INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE, PALLIATIVE CARE AND DIRECT PAYMENT SERVICES
+  - Application of this Part
+    - [s. 42 Matters to which this Part applies](section/42.md)
+  - Investigation of complaints
+    - [s. 43 Power to investigate complaints](section/43.md)
+    - [s. 44 Power to investigate on own initiative](section/44.md)
+    - [s. 45 Criteria for own initiative investigations](section/45.md)
+    - [s. 46 Alternative resolution of matters](section/46.md)
+    - [s. 47 Who can complain](section/47.md)
+    - [s. 48 Requirements: complaints made to the Ombudsman](section/48.md)
+    - [s. 49 Requirements: complaints referred to the Ombudsman](section/49.md)
+    - [s. 50 Records of complaints](section/50.md)
+  - Decisions not to investigate etc
+    - [s. 51 Decisions not to investigate complaints or to discontinue investigations](section/51.md)
+  - Investigation procedure and evidence
+    - [s. 52 Investigation procedure](section/52.md)
+    - [s. 53 Information, documents, evidence and facilities](section/53.md)
+    - [s. 54 Obstruction and contempt](section/54.md)
+  - Reports about investigations
+    - [s. 55 Investigation reports](section/55.md)
+    - [s. 56 Further publicity for investigation reports](section/56.md)
+    - [s. 57 Action following receipt of investigation reports](section/57.md)
+    - [s. 58 Reports: alternative procedure](section/58.md)
+  - Special reports
+    - [s. 59 Circumstances in which special reports may be prepared](section/59.md)
+    - [s. 60 Special reports](section/60.md)
+    - [s. 61 Further publicity for special reports](section/61.md)
+  - Interpretation
+    - [s. 62 Meaning of “care home” and “care home provider”](section/62.md)
+    - [s. 63 Meaning of “domiciliary care” and “domiciliary care provider”](section/63.md)
+    - [s. 64 Meaning of “palliative care service” and “independent palliative care provider”](section/64.md)
+    - [s. 64A Meaning of “direct payment service” and “direct payment service provider”](section/64A.md)
+- PART 6 INVESTIGATIONS: SUPPLEMENTARY
+  - Consultation and co-operation
+    - [s. 65 Consultation and co-operation with other ombudsmen](section/65.md)
+    - [s. 66 Working jointly with specified persons](section/66.md)
+    - [s. 67 Working collaboratively with Commissioners](section/67.md)
+    - [s. 68 Working with the Auditor General for Wales](section/68.md)
+  - Disclosure
+    - [s. 69 Disclosure of information](section/69.md)
+    - [s. 70 Disclosure prejudicial to safety of State or contrary to public interest](section/70.md)
+    - [s. 71 Protection from defamation claims](section/71.md)
+- PART 7 MISCELLANEOUS AND GENERAL
+  - Welsh language standards
+    - [s. 72 Authorisation to give compliance notice to the Ombudsman in relation to Welsh language standards](section/72.md)
+  - Review of Act
+    - [s. 73 Review of Act](section/73.md)
+  - Application of the 2005 Act to certain investigations
+    - [s. 74 Investigations commenced before sections 3, 4, 43 and 44 come into force](section/74.md)
+  - General
+    - [s. 75 Repeals, savings and consequential amendments](section/75.md)
+    - [s. 76 Functions of the Assembly](section/76.md)
+    - [s. 77 Commencement](section/77.md)
+    - [s. 78 Interpretation](section/78.md)
+    - [s. 79 Former health care providers, social landlords, social care providers and palliative care providers: modifications](section/79.md)
+    - [s. 80 Consequential, transitional provisions etc](section/80.md)
+    - [s. 81 Regulations and directions](section/81.md)
+    - [s. 82 Short title](section/82.md)
+- SCHEDULE 1 PUBLIC SERVICES OMBUDSMAN FOR WALES: APPOINTMENT ETC
+  - Appointment
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Status
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Term of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Acting Public Services Ombudsman for Wales
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Further provision: appointment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Disqualification
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Remuneration etc
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Special financial provisions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Staff
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Advisers
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Delegation
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Annual and extraordinary reports
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Estimates
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Accounts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Audit
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Accounting officer
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Examinations into the use of resources
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Supplementary powers
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Previous Ombudsman to continue to be Ombudsman
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 EXCLUDED MATTERS: PART 3
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 LISTED AUTHORITIES
+- SCHEDULE 4 EXCLUDED MATTERS: PART 5
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+- SCHEDULE 5 CONSEQUENTIAL AMENDMENTS
+  - PART 1 Investigations
+    - Care Standards Act 2000 (c.14)
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Public Audit (Wales) Act 2004 (c.23)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Public Audit (Wales) Act 2013 (anaw 3)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - PART 2 MISCELLANEOUS
+    - Parliamentary Commissioner Act 1967 (c.13)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Local Government Act 1974 (c.7)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - ...
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Local Government and Housing Act 1989 (c.42)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - ...
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Health Service Commissioners Act 1993 (c.46)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Housing Act 1996 (c.52)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Freedom of Information Act 2000 (c.36)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Local Government Act 2000 (c.22)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Health and Social Care (Community Health and Standards) Act 2003 (c.43)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - National Health Service (Wales) Act 2006 (c.42)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Commissioner for Older People (Wales) Act 2006 (c.30)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Government of Wales Act 2006 (c.32)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Local Government and Public Involvement in Health Act 2007 (c.28)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Data Protection Act 2018 (c.12)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
