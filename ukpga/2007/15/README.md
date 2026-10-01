@@ -1,0 +1,1155 @@
+# Tribunals, Courts and Enforcement Act 2007
+
+2007 c. 15. Enacted 2007-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 34 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
+
+Source: https://www.legislation.gov.uk/ukpga/2007/15/2026-10-01
+
+## Contents
+
+- Part 1 Tribunals and Inquiries
+  - Chapter 1 Tribunal judiciary: independence and Senior President
+    - [s. 1 Independence of tribunal judiciary](section/1.md)
+    - [s. 2 Senior President of Tribunals](section/2.md)
+  - Chapter 2 First-tier Tribunal and Upper Tribunal
+    - Establishment
+      - [s. 3 The First-tier Tribunal and the Upper Tribunal](section/3.md)
+    - Members and composition of tribunals
+      - [s. 4 Judges and other members of the First-tier Tribunal](section/4.md)
+      - [s. 5 Judges and other members of the Upper Tribunal](section/5.md)
+      - [s. 6 Certain judges who are also judges of First-tier Tribunal and Upper Tribunal](section/6.md)
+      - [s. 6A Certain judges who are also judges of the First-tier Tribunal](section/6A.md)
+      - [s. 7 Chambers: jurisdiction and Presidents](section/7.md)
+      - [s. 8 Senior President of Tribunals: power to delegate](section/8.md)
+    - Review of decisions and appeals
+      - [s. 9 Review of decision of First-tier Tribunal](section/9.md)
+      - [s. 10 Review of decision of Upper Tribunal](section/10.md)
+      - [s. 11 Right to appeal to Upper Tribunal](section/11.md)
+      - [s. 11A Finality of decisions by Upper Tribunal about permission to appeal](section/11A.md)
+      - [s. 12 Proceedings on appeal to Upper Tribunal](section/12.md)
+      - [s. 13 Right to appeal to Court of Appeal etc.](section/13.md)
+      - [s. 14 Proceedings on appeal to Court of Appeal etc.](section/14.md)
+      - [s. 14A Appeal to Supreme Court: grant of certificate by Upper Tribunal](section/14A.md)
+      - [s. 14B Appeal to Supreme Court: permission to appeal](section/14B.md)
+      - [s. 14C Appeal to Supreme Court: exclusions](section/14C.md)
+    - “Judicial review”
+      - [s. 15 Upper Tribunal’s “judicial review” jurisdiction](section/15.md)
+      - [s. 16 Application for relief under section 15(1)](section/16.md)
+      - [s. 17 Quashing orders under section 15(1): supplementary provision](section/17.md)
+      - [s. 18 Limits of jurisdiction under section 15(1)](section/18.md)
+      - [s. 19 Transfer of judicial review applications from High Court](section/19.md)
+      - [s. 20 Transfer of judicial review applications from the Court of Session](section/20.md)
+      - [s. 20A Procedural steps where application transferred](section/20A.md)
+      - [s. 21 Upper Tribunal’s “judicial review” jurisdiction: Scotland](section/21.md)
+    - Miscellaneous
+      - [s. 22 Tribunal Procedure Rules](section/22.md)
+      - [s. 23 Practice directions](section/23.md)
+      - [s. 24 Mediation](section/24.md)
+      - [s. 25 Supplementary powers of Upper Tribunal](section/25.md)
+      - [s. 26 First-tier Tribunal and Upper Tribunal: sitting places](section/26.md)
+      - [s. 27 Enforcement](section/27.md)
+      - [s. 28 Assessors](section/28.md)
+      - [s. 29 Costs or expenses](section/29.md)
+    - ...
+      - [s. 29ZA Enabling the public to see and hear proceedings](section/29ZA.md)
+      - [s. 29ZB Offences of recording or transmission in relation to broadcasting](section/29ZB.md)
+      - [s. 29ZC Offences of recording or transmitting participation through live link](section/29ZC.md)
+      - [s. 29ZD Interpretation](section/29ZD.md)
+  - CHAPTER 2A Exercise of tribunal functions by authorised persons
+    - [s. 29A Meaning of “authorised person” and “judicial office holder”](section/29A.md)
+    - [s. 29B Directions and independence: authorised persons](section/29B.md)
+    - [s. 29C Protection of authorised persons](section/29C.md)
+    - [s. 29D Costs or expenses in legal proceedings: authorised persons](section/29D.md)
+    - [s. 29E Indemnification of authorised persons](section/29E.md)
+  - Chapter 3 Transfer of tribunal functions
+    - [s. 30 Transfer of functions of certain tribunals](section/30.md)
+    - [s. 31 Transfers under section 30: supplementary powers](section/31.md)
+    - [s. 32 Power to provide for appeal to Upper Tribunal from tribunals in Wales](section/32.md)
+    - [s. 33 Power to provide for appeal to Upper Tribunal from tribunals in Scotland](section/33.md)
+    - [s. 34 Power to provide for appeal to Upper Tribunal from tribunals in Northern Ireland](section/34.md)
+    - [s. 35 Transfer of Ministerial responsibilities for certain tribunals](section/35.md)
+    - [s. 36 Transfer of powers to make procedural rules for certain tribunals](section/36.md)
+    - [s. 37 Power to amend lists of tribunals in Schedule 6](section/37.md)
+    - [s. 38 Orders under sections 30 to 36: supplementary](section/38.md)
+  - Chapter 4 Administrative matters in respect of certain tribunals
+    - [s. 39 The general duty](section/39.md)
+    - [s. 40 Tribunal staff and services](section/40.md)
+    - [s. 41 Provision of accommodation](section/41.md)
+    - [s. 42 Fees](section/42.md)
+    - [s. 43 Report by Senior President of Tribunals](section/43.md)
+  - Chapter 5 Oversight of administrative justice system, tribunals and inquiries
+    - [s. 44 The Administrative Justice and Tribunals Council](section/44.md)
+    - [s. 45 Abolition of the Council on Tribunals](section/45.md)
+  - Chapter 6 Supplementary
+    - [s. 46 Delegation of functions by Lord Chief Justice etc.](section/46.md)
+    - [s. 47 Co-operation in relation to judicial training, guidance and welfare](section/47.md)
+    - [s. 48 Consequential and other amendments, and transitional provisions](section/48.md)
+    - [s. 49 Orders and regulations under Part 1: supplemental and procedural provisions](section/49.md)
+- Part 2 Judicial appointments
+  - [s. 50 Judicial appointments: “judicial-appointment eligibility condition”](section/50.md)
+  - [s. 51 “Relevant qualification” in section 50: further provision](section/51.md)
+  - [s. 52 Meaning of “gain experience in law” in section 50](section/52.md)
+  - [s. 53 Transfer from salaried to fee-paid judicial office](section/53.md)
+  - [s. 54 Continuation of judicial office after normal retirement date](section/54.md)
+  - [s. 55 Appointment of deputy Circuit judges](section/55.md)
+  - [s. 56 Appointment of deputy district judges, etc.](section/56.md)
+  - [s. 57 Deputy, and temporary additional, Masters etc.](section/57.md)
+  - [s. 58 Appointment of temporary assistants to Judge Advocate General](section/58.md)
+  - [s. 59 Members and chairmen of certain Appeals Commissions](section/59.md)
+  - [s. 60 Appointment as Chairman of Law Commission](section/60.md)
+  - [s. 61 Orders permitting disclosures to Judicial Appointments Commission](section/61.md)
+- Part 3 Enforcement by taking control of goods
+  - Chapter 1 Procedure
+    - [s. 62 Enforcement by taking control of goods](section/62.md)
+    - [s. 63 Enforcement agents](section/63.md)
+    - [s. 64 Certificates to act as an enforcement agent](section/64.md)
+    - [s. 65 Common law rules replaced](section/65.md)
+    - [s. 66 Pre-commencement enforcement not affected](section/66.md)
+    - [s. 67 Transfer of county court enforcement](section/67.md)
+    - [s. 68 Magistrates’ courts warrants of control](section/68.md)
+    - [s. 69 County court warrants of control etc.](section/69.md)
+    - [s. 70 Power of High Court to stay execution](section/70.md)
+  - Chapter 2 Rent arrears recovery
+    - Abolition of common law right
+      - [s. 71 Abolition of common law right](section/71.md)
+    - Commercial rent arrears recovery
+      - [s. 72 Commercial rent arrears recovery (CRAR)](section/72.md)
+      - [s. 73 Landlord](section/73.md)
+      - [s. 74 Lease](section/74.md)
+      - [s. 75 Commercial premises](section/75.md)
+      - [s. 76 Rent](section/76.md)
+      - [s. 77 The rent recoverable](section/77.md)
+      - [s. 78 Intervention of the court](section/78.md)
+      - [s. 79 Use of CRAR after end of lease](section/79.md)
+      - [s. 80 Agricultural holdings](section/80.md)
+    - Right to rent from sub-tenant
+      - [s. 81 Right to rent from sub-tenant](section/81.md)
+      - [s. 82 Off-setting payments under a notice](section/82.md)
+      - [s. 83 Withdrawal and replacement of notices](section/83.md)
+      - [s. 84 Recovery of sums due and overpayments](section/84.md)
+    - Supplementary
+      - [s. 85 Contracts for similar rights to be void](section/85.md)
+      - [s. 86 Amendments](section/86.md)
+      - [s. 87 Interpretation of Chapter](section/87.md)
+  - Chapter 3 General
+    - [s. 88 Abolition of Crown preference](section/88.md)
+    - [s. 89 Application to the Crown](section/89.md)
+    - [s. 90 Regulations](section/90.md)
+- Part 4 Enforcement of judgments and orders
+  - Attachment of earnings orders
+    - [s. 91 Attachment of earnings orders: deductions at fixed rates](section/91.md)
+    - [s. 92 Attachment of earnings orders: finding the debtor’s current employer](section/92.md)
+  - Charging orders
+    - [s. 93 Payment by instalments: making and enforcing charging orders](section/93.md)
+    - [s. 94 Charging orders: power to set financial thresholds](section/94.md)
+  - Information requests and orders
+    - [s. 95 Application for information about action to recover judgment debt](section/95.md)
+    - [s. 96 Action by the court](section/96.md)
+    - [s. 97 Departmental information requests](section/97.md)
+    - [s. 98 Information orders](section/98.md)
+    - [s. 99 Responding to a departmental information request](section/99.md)
+    - [s. 100 Information order: required information not held etc.](section/100.md)
+    - [s. 101 Using the information about the debtor](section/101.md)
+    - [s. 102 Offence of unauthorised use or disclosure](section/102.md)
+    - [s. 103 Regulations](section/103.md)
+    - [s. 104 Interpretation](section/104.md)
+    - [s. 105 Application and transitional provision](section/105.md)
+- Part 5 Debt management and relief
+  - Chapter 1 Administration orders
+    - [s. 106 Administration orders](section/106.md)
+  - Chapter 2 Enforcement restriction orders
+    - [s. 107 Enforcement restriction orders](section/107.md)
+  - Chapter 3 Debt relief orders
+    - [s. 108 Debt relief orders and debt relief restrictions orders etc.](section/108.md)
+  - Chapter 4 Debt management schemes
+    - Introductory
+      - [s. 109 Debt management schemes](section/109.md)
+      - [s. 110 Debt repayment plans](section/110.md)
+    - Approval of schemes
+      - [s. 111 Approval by supervising authority](section/111.md)
+      - [s. 112 Applications for approval](section/112.md)
+      - [s. 113 Terms of approval](section/113.md)
+    - Effect of plans etc.
+      - [s. 114 Discharge from specified debts](section/114.md)
+      - [s. 115 Presentation of bankruptcy petition](section/115.md)
+      - [s. 116 Remedies other than bankruptcy](section/116.md)
+      - [s. 117 Charging of interest etc.](section/117.md)
+      - [s. 118 Stopping supplies of gas or electricity](section/118.md)
+      - [s. 119 Existing county court proceedings to be stayed](section/119.md)
+      - [s. 120 Registration of plans](section/120.md)
+      - [s. 121 Other debt management arrangements in force](section/121.md)
+    - Appeals
+      - [s. 122 Right of appeal](section/122.md)
+      - [s. 123 Dealing with appeals](section/123.md)
+    - Approved schemes: charging
+      - [s. 124 Charges by operator of approved scheme](section/124.md)
+    - Termination of approval
+      - [s. 125 Procedure for termination](section/125.md)
+      - [s. 126 Terminating an approval](section/126.md)
+      - [s. 127 Alternatives to termination](section/127.md)
+    - Effects of end of approval
+      - [s. 128 Effects of end of approval](section/128.md)
+    - The supervising authority
+      - [s. 129 The supervising authority](section/129.md)
+    - Various
+      - [s. 130 Regulations](section/130.md)
+      - [s. 131 Main definitions](section/131.md)
+      - [s. 132 Expressions relating to debts](section/132.md)
+      - [s. 133 Periods of protection](section/133.md)
+- Part 6 Protection of cultural objects on loan
+  - [s. 134 Protected objects](section/134.md)
+  - [s. 135 Effect of protection](section/135.md)
+  - [s. 136 Relevant museums and galleries](section/136.md)
+  - [s. 137 Interpretation](section/137.md)
+  - [s. 138 Crown application](section/138.md)
+- Part 7 Miscellaneous
+  - Compulsory purchase
+    - [s. 139 Enforcement by enforcement officers](section/139.md)
+    - [s. 140 Supplementary](section/140.md)
+  - Judicial review
+    - [s. 141 Judicial review: power to substitute decision](section/141.md)
+  - Employment tribunals: ACAS
+    - [s. 142 Recovery of sums payable under compromises involving ACAS](section/142.md)
+  - Design rights: appeals
+    - [s. 143 Appeals in relation to design rights](section/143.md)
+- Part 8 General
+  - [s. 144 Protected functions of the Lord Chancellor](section/144.md)
+  - [s. 145 Power to make supplementary or other provision](section/145.md)
+  - [s. 146 Repeals](section/146.md)
+  - [s. 147 Extent](section/147.md)
+  - [s. 148 Commencement](section/148.md)
+  - [s. 149 Short title](section/149.md)
+- SCHEDULE 1 Senior President of Tribunals
+  - Part 1 Recommendations for appointment
+    - Duty to fill vacancies
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - The two routes to a recommendation: agreement under this paragraph or selection under Part 2
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part 2 Selection by the Judicial Appointments Commission
+    - Eligibility for selection
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - The selection process
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Withdrawal and modification of requests under paragraph 2(5)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part 3 Terms of office
+    - Tenure, removal, resignation etc.
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Remuneration, allowances and expenses
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Oaths
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Part 4 Certain functions of the Senior President
+    - Meaning of “tribunal member”
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Representations to Parliament
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Representation of views of tribunal members
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Judges and other members of the First-tier Tribunal
+  - Power to appoint judges of First-tier Tribunal
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Power to appoint other members of First-tier Tribunal
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Appointed and transferred-in judges and other members: removal from office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Terms of appointment
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Remuneration, allowances and expenses
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Certain judges neither appointed under paragraph 1(1) nor transferred in
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Other members neither appointed under paragraph 2(1) nor transferred in
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Training etc.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Oaths
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Judges and other members of the Upper Tribunal
+  - Power to appoint judges of Upper Tribunal
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Power to appoint other members of Upper Tribunal
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appointed and transferred-in judges and other members: removal from office
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Terms of appointment
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Remuneration, allowances and expenses
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Certain judges neither appointed under paragraph 1(1) nor transferred in
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Deputy judges of the Upper Tribunal
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Other members neither appointed under paragraph 2(1) nor transferred in
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Training etc.
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Oaths
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Chambers and Chamber Presidents: further provision
+  - Part 1 Chamber Presidents: appointment, delegation, deputies and further provision
+    - Eligibility for appointment as Chamber President under section 7(7)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Appointment as Chamber President under section 7(7): consultation and nomination
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Chamber Presidents: duration of appointment, remuneration etc.
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Delegation of functions by Chamber Presidents
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Deputy Chamber Presidents
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Chamber Presidents and Deputies: removal from office and extension of appointment
+      - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+    - Acting Chamber Presidents
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Guidance
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Oaths
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Part 2 Judges and other members of chambers: assignment and jurisdiction
+    - Assignment is function of Senior President of Tribunals
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Deemed assignment of Chamber Presidents and Deputy Chamber Presidents
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Assigning members of First-tier Tribunal to its chambers
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Assigning members of Upper Tribunal to its chambers
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Policy of Senior President of Tribunals as respects assigning members to chambers etc.
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Choosing members to decide cases
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Composition of tribunals
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Procedure in First-tier Tribunal and Upper Tribunal
+  - Part 1 Tribunal Procedure Rules
+    - Introductory
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Concurrent functions
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Delegation of functions to staff
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Time limits
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Repeat applications
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Tribunal acting of its own initiative
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Hearings
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Proceedings without notice
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Representation
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Evidence, witnesses and attendance
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Use of information
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Costs and expenses
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Set-off and interest
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Arbitration
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Correction of errors and setting-aside of decisions on procedural grounds
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Ancillary powers
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Rules may refer to practice directions
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Presumptions
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Differential provision
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Part 2 Tribunal Procedure Committee
+    - Membership
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Lord Chancellor’s appointees
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Lord Chief Justice’s appointees
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Lord President’s appointee
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Persons appointed at request of Senior President of Tribunals
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Power to amend paragraphs 20 to 24
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Committee members’ expenses
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - Part 3 Making of Tribunal Procedure Rules by Tribunal Procedure Committee
+    - Meaning of “Rules” and “the Committee”
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Process for making Rules
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Delegation of functions to staff: reconsideration of decisions
+      - [Sch. 5 para. 28A](schedule/5/paragraph/28A.md)
+    - Power of Lord Chancellor to require Rules to be made
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - Part 4 Power to amend legislation in connection with Tribunal Procedure Rules
+    - Lord Chancellor’s power
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+- SCHEDULE 6 Tribunals for the purposes of sections 30 to 36
+  - Part 1 Tribunals for the purposes of sections 30, 35 and 36
+  - Part 2 Tribunals for the purposes of sections 30 and 35
+  - Part 3 Tribunals for the purposes of sections 30 and 36
+  - Part 4 Tribunals for the purposes of section 30
+  - Part 5 Tribunals for the purposes of sections 35 and 36
+  - Part 6 Tribunals for the purposes of section 35
+  - Part 7 Tribunals for the purposes of section 32(3)
+- SCHEDULE 7 Administrative Justice and Tribunals Council
+  - ...
+- SCHEDULE 8 Tribunals and Inquiries: consequential and other amendments
+  - Taxes Management Act 1970 (c. 9)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Chronically Sick and Disabled Persons Act 1970 (c. 44)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Litigants in Person (Costs and Expenses) Act 1975 (c. 47)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Food Safety Act 1990 (c. 16)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Transport and Works Act 1992 (c. 42)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - Law of Property (Miscellaneous Provisions) Act 1994 (c. 36)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - Criminal Injuries Compensation Act 1995 (c. 53)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - Employment Tribunals Act 1996 (c. 17)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+  - Town and Country Planning (Scotland) Act 1997 (c. 8)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+  - Nationality, Immigration and Asylum Act 2002 (c. 41)
+    - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+  - Title Conditions (Scotland) Act 2003 (asp 9)
+    - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+  - Gender Recognition Act 2004 (c. 7)
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+  - Civil Contingencies Act 2004 (c. 36)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+    - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+    - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+- SCHEDULE 9 Tribunals: transitional provision
+  - Part 1 General and miscellaneous
+    - Introductory
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Membership of Tribunal Procedure Committee
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Part 2 Judges and other members of First-Tier and Upper Tribunals: retirement dates
+    - Interpretation of Part 2 of Schedule
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Retirement from First-tier and Upper Tribunals: application of paragraphs 5 to 8
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Retirement later than age 75 in certain cases where office previously held in another tribunal
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Cases where retirement from existing office would be after age 75
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Cases where no requirement to retire from existing office
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Interaction between rules under paragraph 5, and rules under Schedule 7 to the 1993 Act, in cases where office held on 30th March 1995
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Eligibility for appointment after having attained age of 75
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Part 3 Judges and other members of First-Tier and Upper Tribunals: pensions where office acquired under section 31(2)
+    - Interpretation of Part 3 of Schedule
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Right to opt in to Part 1 of the 1993 Act where qualifying judicial office not previously held
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Election under paragraph 11(3) for pension under Part 1 of the 1993 Act
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Continuation of existing public service pension arrangements in certain cases
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Part 4 Amendments to the Judicial Pensions and Retirement Act 1993
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+- SCHEDULE 10 Amendments relating to judicial appointments
+  - Part 1 Amendments
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+    - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+    - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+    - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+    - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+  - Part 2 Amendments relating to enactments already repealed
+    - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+    - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+    - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+    - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+    - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+    - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+- SCHEDULE 11 District judges and deputy district judges
+  - Supreme Court Act 1981 (c. 54)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+- SCHEDULE 12 Taking control of goods
+  - Part 1 Introductory
+    - The procedure
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Enforcement agents
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - General interpretation
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Part 2 The procedure
+    - Binding property in the debtor’s goods
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Effect of property in goods being bound
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Time when property ceases to be bound
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Notice of enforcement
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Time limit for taking control
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - Goods which may be taken
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - Value of goods taken
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - Ways of taking control
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - Entry without warrant
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - Entry under warrant
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - Re-entry
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - General powers to use reasonable force
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 18A](schedule/12/paragraph/18A.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 19A](schedule/12/paragraph/19A.md)
+    - Application for power to use reasonable force
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - Other provisions about powers of entry
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - Goods on a highway
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - Inventory
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - Care of goods removed
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+    - Valuation
+      - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+    - Best price
+      - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - Sale
+      - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+      - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+      - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+      - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+      - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - Place of sale
+      - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+      - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+      - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+      - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+    - Holding and disposal of securities
+      - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+      - [Sch. 12 para. 48](schedule/12/paragraph/48.md)
+      - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+    - Application of proceeds
+      - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+    - Passing of title
+      - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+    - Abandonment of goods other than securities
+      - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+      - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+      - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+    - Abandonment of securities
+      - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+      - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+      - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+    - Payment of amount outstanding
+      - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+      - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+    - Third party claiming goods
+      - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+    - Application to assignee or transferee
+      - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+    - Costs
+      - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+    - Limitation of liability for sale or payment of proceeds
+      - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+      - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+      - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+    - Remedies available to the debtor
+      - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+    - Remedies available to the creditor
+      - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+    - Offences
+      - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+    - Relation to insolvency provisions
+      - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+- SCHEDULE 13 Taking control of goods: amendments
+  - Inclosure Act 1773 (c. 81)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Oaths Act 1775 (c. 39)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Sale of Farming Stock Act 1816 (c. 50)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Judgments Act 1838 (c. 110)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Lands Clauses Consolidation Act 1845 (c. 18)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Inclosure Act 1845 (c. 118)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Railways Clauses Act 1863 (c. 92)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Summary Jurisdiction (Process) Act 1881 (c. 24)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - Bills of Sale Act (1878) Amendment Act 1882 (c. 43)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+  - Sheriffs Act 1887 (c. 55)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+  - Deeds of Arrangement Act 1914 (c. 47)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+  - Maintenance Orders (Facilities for Enforcement) Act 1920 (c. 33)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+  - Agricultural Credits Act 1928 (c. 43)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+  - Agriculture (Miscellaneous Provisions) Act 1954 (c. 39)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+  - Criminal Justice Act 1961 (c. 39)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+  - Compulsory Purchase Act 1965 (c. 56)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+  - Criminal Justice Act 1967 (c. 80)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+  - Sea Fisheries Act 1968 (c. 77)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+  - Taxes Management Act 1970 (c. 9)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+  - Administration of Justice Act 1970 (c. 31)
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+  - Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+  - Criminal Justice Act 1972 (c. 71)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+  - Patents Act 1977 (c. 37)
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+  - Customs and Excise Management Act 1979 (c. 2)
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+    - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+    - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+    - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+    - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+    - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+    - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+    - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+    - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+    - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+    - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+    - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+    - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+    - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+    - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+    - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+    - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+    - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+    - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+  - Supreme Court Act 1981 (c. 54)
+    - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+  - British Fishing Boats Act 1983 (c. 8)
+    - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+    - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+    - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+    - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+    - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+    - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+    - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+    - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+    - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
+    - [Sch. 13 para. 77](schedule/13/paragraph/77.md)
+    - [Sch. 13 para. 78](schedule/13/paragraph/78.md)
+    - [Sch. 13 para. 79](schedule/13/paragraph/79.md)
+    - [Sch. 13 para. 80](schedule/13/paragraph/80.md)
+    - [Sch. 13 para. 81](schedule/13/paragraph/81.md)
+    - [Sch. 13 para. 82](schedule/13/paragraph/82.md)
+  - Finance Act 1984 (c. 43)
+    - [Sch. 13 para. 83](schedule/13/paragraph/83.md)
+  - Gas Act 1986 (c. 44)
+    - [Sch. 13 para. 84](schedule/13/paragraph/84.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 13 para. 85](schedule/13/paragraph/85.md)
+  - Dartford-Thurrock Crossing Act 1988 (c. 20)
+    - [Sch. 13 para. 86](schedule/13/paragraph/86.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 13 para. 87](schedule/13/paragraph/87.md)
+    - [Sch. 13 para. 88](schedule/13/paragraph/88.md)
+    - [Sch. 13 para. 89](schedule/13/paragraph/89.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 13 para. 90](schedule/13/paragraph/90.md)
+  - Companies Act 1989 (c. 40)
+    - [Sch. 13 para. 91](schedule/13/paragraph/91.md)
+  - New Roads and Street Works Act 1991 (c. 22)
+    - [Sch. 13 para. 92](schedule/13/paragraph/92.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 13 para. 93](schedule/13/paragraph/93.md)
+    - [Sch. 13 para. 94](schedule/13/paragraph/94.md)
+    - [Sch. 13 para. 95](schedule/13/paragraph/95.md)
+    - [Sch. 13 para. 96](schedule/13/paragraph/96.md)
+    - [Sch. 13 para. 97](schedule/13/paragraph/97.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 13 para. 98](schedule/13/paragraph/98.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 13 para. 99](schedule/13/paragraph/99.md)
+  - Land Drainage Act 1991 (c. 59)
+    - [Sch. 13 para. 100](schedule/13/paragraph/100.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 13 para. 101](schedule/13/paragraph/101.md)
+    - [Sch. 13 para. 102](schedule/13/paragraph/102.md)
+    - [Sch. 13 para. 103](schedule/13/paragraph/103.md)
+    - [Sch. 13 para. 104](schedule/13/paragraph/104.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 13 para. 105](schedule/13/paragraph/105.md)
+    - [Sch. 13 para. 106](schedule/13/paragraph/106.md)
+    - [Sch. 13 para. 107](schedule/13/paragraph/107.md)
+  - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+    - [Sch. 13 para. 108](schedule/13/paragraph/108.md)
+    - [Sch. 13 para. 109](schedule/13/paragraph/109.md)
+    - [Sch. 13 para. 110](schedule/13/paragraph/110.md)
+    - [Sch. 13 para. 111](schedule/13/paragraph/111.md)
+  - Railways Act 1993 (c. 43)
+    - [Sch. 13 para. 112](schedule/13/paragraph/112.md)
+  - Finance Act 1994 (c. 9)
+    - [Sch. 13 para. 113](schedule/13/paragraph/113.md)
+    - [Sch. 13 para. 114](schedule/13/paragraph/114.md)
+    - [Sch. 13 para. 115](schedule/13/paragraph/115.md)
+    - [Sch. 13 para. 116](schedule/13/paragraph/116.md)
+  - Value Added Tax Act 1994 (c. 23)
+    - [Sch. 13 para. 117](schedule/13/paragraph/117.md)
+    - [Sch. 13 para. 118](schedule/13/paragraph/118.md)
+    - [Sch. 13 para. 119](schedule/13/paragraph/119.md)
+    - [Sch. 13 para. 120](schedule/13/paragraph/120.md)
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 13 para. 121](schedule/13/paragraph/121.md)
+  - Finance Act 1996 (c. 8)
+    - [Sch. 13 para. 122](schedule/13/paragraph/122.md)
+    - [Sch. 13 para. 123](schedule/13/paragraph/123.md)
+    - [Sch. 13 para. 124](schedule/13/paragraph/124.md)
+  - Employment Tribunals Act 1996 (c. 17)
+    - [Sch. 13 para. 125](schedule/13/paragraph/125.md)
+  - Finance Act 1997 (c. 16)
+    - [Sch. 13 para. 126](schedule/13/paragraph/126.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 13 para. 127](schedule/13/paragraph/127.md)
+  - National Minimum Wage Act 1998 (c. 39)
+    - [Sch. 13 para. 128](schedule/13/paragraph/128.md)
+  - Road Traffic (NHS Charges) Act 1999 (c. 3)
+    - [Sch. 13 para. 129](schedule/13/paragraph/129.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 13 para. 130](schedule/13/paragraph/130.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 13 para. 131](schedule/13/paragraph/131.md)
+    - [Sch. 13 para. 132](schedule/13/paragraph/132.md)
+    - [Sch. 13 para. 133](schedule/13/paragraph/133.md)
+  - Financial Services and Markets Act 2000 (c. 8)
+    - [Sch. 13 para. 134](schedule/13/paragraph/134.md)
+  - Finance Act 2000 (c. 17)
+    - [Sch. 13 para. 135](schedule/13/paragraph/135.md)
+    - [Sch. 13 para. 136](schedule/13/paragraph/136.md)
+    - [Sch. 13 para. 137](schedule/13/paragraph/137.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 13 para. 138](schedule/13/paragraph/138.md)
+  - Finance Act 2001 (c. 9)
+    - [Sch. 13 para. 139](schedule/13/paragraph/139.md)
+    - [Sch. 13 para. 140](schedule/13/paragraph/140.md)
+    - [Sch. 13 para. 141](schedule/13/paragraph/141.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 13 para. 142](schedule/13/paragraph/142.md)
+    - [Sch. 13 para. 143](schedule/13/paragraph/143.md)
+    - [Sch. 13 para. 144](schedule/13/paragraph/144.md)
+    - [Sch. 13 para. 145](schedule/13/paragraph/145.md)
+    - [Sch. 13 para. 146](schedule/13/paragraph/146.md)
+  - Finance Act 2003 (c. 14)
+    - [Sch. 13 para. 147](schedule/13/paragraph/147.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 13 para. 148](schedule/13/paragraph/148.md)
+    - [Sch. 13 para. 149](schedule/13/paragraph/149.md)
+    - [Sch. 13 para. 150](schedule/13/paragraph/150.md)
+    - [Sch. 13 para. 151](schedule/13/paragraph/151.md)
+  - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+    - [Sch. 13 para. 152](schedule/13/paragraph/152.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 13 para. 153](schedule/13/paragraph/153.md)
+    - [Sch. 13 para. 154](schedule/13/paragraph/154.md)
+    - [Sch. 13 para. 155](schedule/13/paragraph/155.md)
+  - Traffic Management Act 2004 (c. 18)
+    - [Sch. 13 para. 156](schedule/13/paragraph/156.md)
+  - Income Tax Act 2007 (c. 3)
+    - [Sch. 13 para. 157](schedule/13/paragraph/157.md)
+- SCHEDULE 14 Rent arrears recovery: amendments
+  - Distress for Rent Act 1689 (c. 5)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Landlord and Tenant Act 1709 (c. 18)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Landlord and Tenant Act 1730 (c. 28)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Distress for Rent Act 1737 (c. 19)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Deserted Tenements Act 1817 (c. 52)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Fines and Recoveries Act 1833 (c. 74)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Metropolitan Police Courts Act 1840 (c. 84)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Execution Act 1844 (c. 96)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Lands Clauses Consolidation Act 1845 (c. 18)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Inclosure Act 1845 (c. 118)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Markets and Fairs Clauses Act 1847 (c. 14)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Sequestration Act 1849 (c. 67)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Landlord and Tenant Act 1851 (c. 25)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Common Law Procedure Act 1852 (c. 76)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Improvement of Land Act 1864 (c. 114)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Railway Rolling Stock Protection Act 1872 (c. 50)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Law of Distress Amendment Act 1888 (c. 21)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Law of Distress Amendment Act 1908 (c. 53)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+  - Law of Property Act 1925 (c. 20)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+  - Administration of Estates Act 1925 (c. 23)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+  - Agriculture Act 1970 (c. 40)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+  - Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+  - Rent Act 1977 (c. 42)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+  - Limitation Act 1980 (c. 58)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+  - Agricultural Holdings Act 1986 (c. 5)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+- SCHEDULE 15 Attachment of earnings orders: deductions at fixed rates
+  - Part 1 Main amendments
+    - Introduction
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Amendment of section 6: Effect and contents of order
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Insertion of new section 6A
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Amendment of section 9: Variation, lapse and discharge of orders
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Insertion of new section 9A
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Amendment of section 25: General interpretation
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Insertion of new Schedule 3A
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Part 2 Consequential amendments
+    - Amendment of section 5: Securing payments under administration order
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Amendment of section 14: Power of court to obtain information
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - Amendment of section 15: Obligation of debtor and employer to notify changes
+      - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Amendment of section 17: Consolidated attachment orders
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - Amendment of section 23: Enforcement provisions
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+- SCHEDULE 16 Administration orders: consequential amendments
+  - Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Company Directors Disqualification Act 1986 (c. 46)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Charities Act 1993 (c. 10)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - Police Reform Act 2002 (c. 30)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - Railways and Transport Safety Act 2003 (c. 20)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+- SCHEDULE 17 Part 7A of the Insolvency Act 1986
+- SCHEDULE 18 Schedule 4ZA to the Insolvency Act 1986
+- SCHEDULE 19 Schedule 4ZB to the Insolvency Act 1986
+- SCHEDULE 20 Debt relief orders: consequential amendments
+  - Part 1 Amendments to the Insolvency Act 1986
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+    - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+  - Part 2 Amendments to other legislation
+    - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+    - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+- SCHEDULE 21 Regulations under sections 111 and 113
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+- SCHEDULE 22 Compulsory purchase: consequential amendments
+  - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Gas Act 1986 (c. 44)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Channel Tunnel Act 1987 (c. 53)
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - ...
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Channel Tunnel Rail Link Act 1996 (c. 61)
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+  - Regional Development Agencies Act 1998 (c. 45)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+- SCHEDULE 23 Repeals
+  - Part 1 Tribunals and Inquiries
+  - Part 2 Judicial appointments
+  - Part 3 Enforcement by taking control of goods
+  - Part 4 Rent arrears recovery
+  - Part 5 Administration orders
+  - Part 6 Appeal Tribunal under section 28 of the Registered Designs Act 1949: abolition
