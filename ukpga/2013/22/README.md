@@ -1,0 +1,1729 @@
+# Crime and Courts Act 2013
+
+2013 c. 22. Enacted 2013-04-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2013/22
+
+Source: https://www.legislation.gov.uk/ukpga/2013/22/2026-10-01
+
+## Contents
+
+- Part 1 The National Crime Agency
+  - The NCA and its officers
+    - [s. 1 The National Crime Agency](section/1.md)
+    - [s. 2 Modification of NCA functions](section/2.md)
+    - [s. 3 Strategic priorities](section/3.md)
+    - [s. 4 Operations](section/4.md)
+  - Other functions etc.
+    - [s. 5 Relationships between NCA and other agencies: tasking etc](section/5.md)
+    - [s. 6 Duty to publish information](section/6.md)
+    - [s. 7 Information gateways](section/7.md)
+    - [s. 8 Other functions etc](section/8.md)
+    - [s. 9 Director General: customs powers of Commissioners & operational powers](section/9.md)
+    - [s. 10 Operational powers of other NCA officers](section/10.md)
+  - General
+    - [s. 11 Inspections and complaints](section/11.md)
+    - [s. 12 Information: restrictions on disclosure etc](section/12.md)
+    - [s. 13 NCA officers with operational powers: labour relations](section/13.md)
+    - [s. 14 NCA officers with operational powers: pay and allowances](section/14.md)
+    - [s. 15 Abolition of SOCA and NPIA](section/15.md)
+    - [s. 16 Interpretation of Part 1](section/16.md)
+- Part 2 Courts and Justice
+  - Administration of justice
+    - [s. 17 Civil and family proceedings in England and Wales](section/17.md)
+    - [s. 18 Youth courts to have jurisdiction to grant gang-related injunctions](section/18.md)
+    - [s. 19 Varying designations of authorities responsible for remanded young persons](section/19.md)
+    - [s. 20 Judicial appointments](section/20.md)
+    - [s. 21 Deployment of the judiciary](section/21.md)
+    - [s. 22 Transfer of immigration or nationality judicial review applications](section/22.md)
+    - [s. 23 Permission to appeal from Upper Tribunal to Court of Session](section/23.md)
+    - [s. 24 Appeals relating to regulation of the Bar](section/24.md)
+    - [s. 25 Enforcement by taking control of goods](section/25.md)
+    - [s. 26 Payment of fines and other sums](section/26.md)
+    - [s. 27 Disclosure of information to facilitate collection of fines and other sums](section/27.md)
+    - [s. 28 Disclosure of information for calculating fees of courts, tribunals etc](section/28.md)
+    - [s. 29 Supreme Court chief executive, officers and staff](section/29.md)
+    - [s. 30 Supreme Court security officers](section/30.md)
+    - [s. 31 Making, and use, of recordings of Supreme Court proceedings](section/31.md)
+    - [s. 32 Enabling the making, and use, of films and other recordings of proceedings](section/32.md)
+    - [s. 33 Abolition of scandalising the judiciary as form of contempt of court](section/33.md)
+  - Publishers of news-related material: damages and costs
+    - [s. 34 Awards of exemplary damages](section/34.md)
+    - [s. 35 Relevant considerations](section/35.md)
+    - [s. 36 Amount of exemplary damages](section/36.md)
+    - [s. 37 Multiple claimants](section/37.md)
+    - [s. 38 Multiple defendants](section/38.md)
+    - [s. 39 Awards of aggravated damages](section/39.md)
+    - [s. 40 Awards of costs](section/40.md)
+    - [s. 41 Meaning of “relevant publisher”](section/41.md)
+    - [s. 42 Other interpretative provisions](section/42.md)
+  - Self-defence
+    - [s. 43 Use of force in self-defence at place of residence](section/43.md)
+  - Community and other non-custodial sentencing
+    - [s. 44 Dealing non-custodially with offenders](section/44.md)
+  - Deferred prosecution agreements
+    - [s. 45 Deferred prosecution agreements](section/45.md)
+  - Proceeds of crime
+    - [s. 46 Restraint orders and legal aid](section/46.md)
+    - [s. 47 Restraint orders and legal aid: supplementary](section/47.md)
+    - [s. 48 Civil recovery of the proceeds etc of unlawful conduct](section/48.md)
+    - [s. 49 Investigations](section/49.md)
+  - Extradition
+    - [s. 50 Extradition](section/50.md)
+- Part 3 Miscellaneous and general
+  - Border control
+    - [s. 51 Immigration cases: appeal rights; and facilitating combined appeals](section/51.md)
+    - [s. 52 Appeals against refusal of entry clearance to visit the](section/52.md)
+    - [s. 53 Restriction on right of appeal from within the United Kingdom](section/53.md)
+    - [s. 54 Deportation on national security grounds: appeals](section/54.md)
+    - [s. 55 Powers of immigration officers](section/55.md)
+  - Drugs and driving
+    - [s. 56 Drugs and driving](section/56.md)
+  - Public order
+    - [s. 57 Public order offences](section/57.md)
+  - General
+    - [s. 58 Orders and regulations](section/58.md)
+    - [s. 59 Consequential amendments](section/59.md)
+    - [s. 60 Transitional, transitory or saving provision](section/60.md)
+    - [s. 61 Short title, commencement and extent](section/61.md)
+- SCHEDULE 1 The NCA & NCA officers
+  - Part 1 The NCA
+    - Functions exercisable on behalf of Crown
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Efficiency and effectiveness
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Financial year
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Charging
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Activities not limited to dealing with serious or organised crime
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Activities in Scotland
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Investigatory activity in Northern Ireland
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Part 2 NCA officers
+    - Selection and appointment of the Director General
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Resignation or retirement of the Director General at request of Secretary of State
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Selection of other NCA officers for appointment
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Delegation of Director General’s functions
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Continuity
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Persons with operational powers who become NCA officers
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Secondments to NCA
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Secondments by NCA
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - NCA specials
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 The framework document & annual report
+  - Part 1 The framework document
+    - The document
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Duty to issue document
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Duty to have regard to document
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Role of Director General
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Consultation with devolved administrations
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Publication & distribution
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 2 The annual report
+    - Duty to issue report
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Publication & distribution
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Relationships between NCA and other agencies
+  - Part 1 Co-operation
+    - Duty to co-operate
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Co-operation arrangements
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part 2 Exchange of information
+    - Duty to keep NCA informed & disclose information: police forces
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Duty to keep police forces informed
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Duty to keep NCA informed: government bodies
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Duty to keep government bodies informed
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Meaning of “specified body” & “relevant function”
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part 3 Assistance within the UK
+    - Voluntary assistance by NCA: the UK, the Channel Islands & the Isle of Man
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Voluntary assistance to NCA: the UK
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Directed assistance by NCA: England and Wales police etc
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Directed assistance to NCA: England and Wales police etc
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Directed assistance by NCA: Scotland
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Directed assistance to NCA: Scotland
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Directed assistance by NCA: Northern Ireland
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Directed assistance to NCA: Northern Ireland
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - When is it appropriate for a person to receive directed assistance?
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Voluntary or directed assistance: particular assistance that may be provided
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Voluntary or directed assistance: control of individuals provided for assistance
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Part 4 Use of police facilities etc by NCA
+    - Voluntary arrangements: police forces outside London
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Voluntary arrangements: the metropolitan police force
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Voluntary arrangements: the City of London police force
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Voluntary arrangements: immigration or customs facilities
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Directed arrangements: England and Wales police forces
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Voluntary arrangements: Police Service of Northern Ireland
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Directed arrangements: Police Service of Northern Ireland
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Arrangements: terms, variation and termination
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Consultation before direction
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Facilities
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Part 5 Payment for tasks, assistance or facilities
+    - Payments by Director General
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - Payments by police
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Payments by law enforcement agencies
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - The “appropriate amount”
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Part 6 General
+    - Directed tasking or assistance: power to amend those who may be directed
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Duty to provide information etc: power to amend specified bodies etc
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - Directions
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - Interpretation
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+- SCHEDULE 4 NCA: general
+  - Regulations as to equipment
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Liability of NCA for unlawful acts
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Assaults or obstruction in connection with joint investigation teams
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Application of discrimination legislation to secondees: Northern Ireland
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Interpretation
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Police, customs and immigration powers
+  - Part 1 Director General: Commissioners’ powers exercisable under section 9(1)
+    - Powers only exercisable in relation to customs matters
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Powers exercisable under warrant
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Certain powers of Commissioners not exercisable by Director General
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part 2 Director General: designation under section 9
+    - Advisory panel
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - No advisory panel
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part 3 Further provision about designations under section 9 or 10
+    - Limitations in designation
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Duration of designation
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - NCA officers having operational powers from another office
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Evidence of designation
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part 4 Designations: powers and privileges of constables
+    - The Director General
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Other NCA officers
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Application of territorial restrictions
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Powers exercisable under warrant
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Direction and control of NCA officers exercising powers in Scotland
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Employment law
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part 5 Designations: powers of officers of Revenue and Customs
+    - NCA officers
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Powers only exercisable in relation to customs matters
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Powers exercisable under warrant
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Part 5A Designations: Powers of general customs officials
+    - [Sch. 5 para. 18A NCA officers](schedule/5/paragraph/18A.md)
+    - [Sch. 5 para. 18B Powers only exercisable in relation to customs matters](schedule/5/paragraph/18B.md)
+    - [Sch. 5 para. 18C Powers exercisable under warrant](schedule/5/paragraph/18C.md)
+  - Part 6 Designations: powers of immigration officers
+    - NCA officers
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Powers exercisable under warrant
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Part 7 Offences relating to designations
+    - Resistance or wilful obstruction of designated officers etc
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Assault on designated officers etc
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Impersonation of designated officer etc
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Transitional provision relating to offences
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - Part 8 General
+    - Payment of revenue to the Commissioners
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Modification of references
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Power to make further provision
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Functions of third parties relating to constables etc: extension to NCA
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - General provision about orders
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Interpretation
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+- SCHEDULE 6 Inspections and complaints
+  - Part 1 Inspections
+    - Inspections in Scotland
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Inspections in Northern Ireland
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Publication of HMIC reports
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - NCA response
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Disclosure of information
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Access to premises
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Interpretation
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Part 2 Complaints: other amendments
+    - Police Reform Act 2002
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Police, Public Order and Criminal Justice (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Police (Northern Ireland) Act 1998
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+- SCHEDULE 7 Information: restrictions on disclosure
+  - Part 1 Statutory restrictions
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Part 2 Restrictions on disclosures of particular types of information
+    - HMRC & customs information
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Social security information
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Intelligence service information
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Arrangements for publishing information
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Part 3 Restrictions on further disclosures of information
+    - Information generally
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Information obtained under Part 6 of PCA 2002 & disclosed to Commissioners
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Information obtained under Part 6 of PCA 2002 & disclosed to Lord Advocate
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part 4 Published information: no restrictions on further disclosure
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part 5 Offences relating to wrongful disclosure of information
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Part 6 General
+    - Consents
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Interpretation
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Abolition of SOCA and NPIA
+  - Part 1 Transitional, transitory and saving provision
+    - Transfer schemes
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Continuity in relation to functions
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Continuity in relation to subordinate legislation
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Members of SOCA
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - SOCA annual reports and accounts
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Saving of accrued pension rights etc
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Scottish police reform
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - ...
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Interpretation
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Part 2 Minor and consequential amendments and repeals
+    - Explosives Act 1875 (c. 17)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Police (Property) Act 1897 (c. 30)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Public Records Act 1958 (c. 51)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Offices, Shops and Railway Premises Act 1963 (c. 41)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Firearms Act 1968 (c. 27)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Health and Safety at Work etc. Act 1974 (c. 37)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Police Pensions Act 1976 (c. 35)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Limitation Act 1980 (c. 58)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Prosecution of Offences Act 1985 (c. 23)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - Ministry of Defence Police Act 1987 (c. 4)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - Security Service Act 1989 (c. 5)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - Official Secrets Act 1989 (c. 6)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11))
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - Police Act 1996 (c. 16)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - Employment Rights Act 1996 (c. 18)
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+    - Proceeds of Crime (Northern Ireland) Order 1996 (S.I. 1996/1299 (N.I. 9))
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - Police Act 1997 (c. 50)
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - Police (Northern Ireland) Act 1998 (c. 32)
+      - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+      - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+    - Northern Ireland Act 1998 (c. 47)
+      - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+      - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+      - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+      - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+      - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+      - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+      - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+      - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+      - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+      - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+      - [Sch. 8 para. 75](schedule/8/paragraph/75.md)
+      - [Sch. 8 para. 76](schedule/8/paragraph/76.md)
+    - Regulation of Investigatory Powers Act 2000 (c. 23)
+      - [Sch. 8 para. 77](schedule/8/paragraph/77.md)
+      - [Sch. 8 para. 78](schedule/8/paragraph/78.md)
+      - [Sch. 8 para. 79](schedule/8/paragraph/79.md)
+      - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+      - [Sch. 8 para. 81](schedule/8/paragraph/81.md)
+      - [Sch. 8 para. 82](schedule/8/paragraph/82.md)
+      - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+      - [Sch. 8 para. 84](schedule/8/paragraph/84.md)
+      - [Sch. 8 para. 85](schedule/8/paragraph/85.md)
+      - [Sch. 8 para. 86](schedule/8/paragraph/86.md)
+      - [Sch. 8 para. 87](schedule/8/paragraph/87.md)
+      - [Sch. 8 para. 88](schedule/8/paragraph/88.md)
+      - [Sch. 8 para. 89](schedule/8/paragraph/89.md)
+      - [Sch. 8 para. 90](schedule/8/paragraph/90.md)
+      - [Sch. 8 para. 91](schedule/8/paragraph/91.md)
+      - [Sch. 8 para. 92](schedule/8/paragraph/92.md)
+      - [Sch. 8 para. 93](schedule/8/paragraph/93.md)
+      - [Sch. 8 para. 94](schedule/8/paragraph/94.md)
+      - [Sch. 8 para. 95](schedule/8/paragraph/95.md)
+      - [Sch. 8 para. 96](schedule/8/paragraph/96.md)
+      - [Sch. 8 para. 97](schedule/8/paragraph/97.md)
+      - [Sch. 8 para. 98](schedule/8/paragraph/98.md)
+      - [Sch. 8 para. 99](schedule/8/paragraph/99.md)
+      - [Sch. 8 para. 100](schedule/8/paragraph/100.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 8 para. 101](schedule/8/paragraph/101.md)
+      - [Sch. 8 para. 102](schedule/8/paragraph/102.md)
+      - [Sch. 8 para. 103](schedule/8/paragraph/103.md)
+      - [Sch. 8 para. 104](schedule/8/paragraph/104.md)
+    - Criminal Justice and Court Services Act 2000 (c. 43)
+      - [Sch. 8 para. 105](schedule/8/paragraph/105.md)
+    - Vehicles (Crime) Act 2001 (c. 3)
+      - [Sch. 8 para. 106](schedule/8/paragraph/106.md)
+    - Criminal Justice and Police Act 2001 (c. 16)
+      - [Sch. 8 para. 107](schedule/8/paragraph/107.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 8 para. 108](schedule/8/paragraph/108.md)
+      - [Sch. 8 para. 109](schedule/8/paragraph/109.md)
+      - [Sch. 8 para. 110](schedule/8/paragraph/110.md)
+      - [Sch. 8 para. 111](schedule/8/paragraph/111.md)
+      - [Sch. 8 para. 112](schedule/8/paragraph/112.md)
+      - [Sch. 8 para. 113](schedule/8/paragraph/113.md)
+      - [Sch. 8 para. 114](schedule/8/paragraph/114.md)
+      - [Sch. 8 para. 115](schedule/8/paragraph/115.md)
+      - [Sch. 8 para. 116](schedule/8/paragraph/116.md)
+      - [Sch. 8 para. 117](schedule/8/paragraph/117.md)
+      - [Sch. 8 para. 118](schedule/8/paragraph/118.md)
+      - [Sch. 8 para. 119](schedule/8/paragraph/119.md)
+      - [Sch. 8 para. 120](schedule/8/paragraph/120.md)
+      - [Sch. 8 para. 121](schedule/8/paragraph/121.md)
+      - [Sch. 8 para. 122](schedule/8/paragraph/122.md)
+      - [Sch. 8 para. 123](schedule/8/paragraph/123.md)
+      - [Sch. 8 para. 124](schedule/8/paragraph/124.md)
+      - [Sch. 8 para. 125](schedule/8/paragraph/125.md)
+      - [Sch. 8 para. 126](schedule/8/paragraph/126.md)
+      - [Sch. 8 para. 127](schedule/8/paragraph/127.md)
+      - [Sch. 8 para. 128](schedule/8/paragraph/128.md)
+      - [Sch. 8 para. 129](schedule/8/paragraph/129.md)
+      - [Sch. 8 para. 130](schedule/8/paragraph/130.md)
+      - [Sch. 8 para. 131](schedule/8/paragraph/131.md)
+      - [Sch. 8 para. 132](schedule/8/paragraph/132.md)
+      - [Sch. 8 para. 133](schedule/8/paragraph/133.md)
+      - [Sch. 8 para. 134](schedule/8/paragraph/134.md)
+      - [Sch. 8 para. 135](schedule/8/paragraph/135.md)
+      - [Sch. 8 para. 136](schedule/8/paragraph/136.md)
+      - [Sch. 8 para. 137](schedule/8/paragraph/137.md)
+      - [Sch. 8 para. 138](schedule/8/paragraph/138.md)
+      - [Sch. 8 para. 139](schedule/8/paragraph/139.md)
+      - [Sch. 8 para. 140](schedule/8/paragraph/140.md)
+      - [Sch. 8 para. 141](schedule/8/paragraph/141.md)
+      - [Sch. 8 para. 142](schedule/8/paragraph/142.md)
+      - [Sch. 8 para. 143](schedule/8/paragraph/143.md)
+      - [Sch. 8 para. 144](schedule/8/paragraph/144.md)
+      - [Sch. 8 para. 145](schedule/8/paragraph/145.md)
+      - [Sch. 8 para. 146](schedule/8/paragraph/146.md)
+      - [Sch. 8 para. 147](schedule/8/paragraph/147.md)
+      - [Sch. 8 para. 148](schedule/8/paragraph/148.md)
+      - [Sch. 8 para. 149](schedule/8/paragraph/149.md)
+      - [Sch. 8 para. 150](schedule/8/paragraph/150.md)
+      - [Sch. 8 para. 151](schedule/8/paragraph/151.md)
+      - [Sch. 8 para. 152](schedule/8/paragraph/152.md)
+    - Police Reform Act 2002 (c. 30)
+      - [Sch. 8 para. 153](schedule/8/paragraph/153.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 8 para. 154](schedule/8/paragraph/154.md)
+    - Energy Act 2004 (c. 20)
+      - [Sch. 8 para. 155](schedule/8/paragraph/155.md)
+    - Commissioners for Revenue and Customs Act 2005 (c. 11)
+      - [Sch. 8 para. 156](schedule/8/paragraph/156.md)
+    - Serious Organised Crime and Police Act 2005 (c. 15)
+      - [Sch. 8 para. 157](schedule/8/paragraph/157.md)
+      - [Sch. 8 para. 158](schedule/8/paragraph/158.md)
+      - [Sch. 8 para. 159](schedule/8/paragraph/159.md)
+      - [Sch. 8 para. 160](schedule/8/paragraph/160.md)
+      - [Sch. 8 para. 161](schedule/8/paragraph/161.md)
+      - [Sch. 8 para. 162](schedule/8/paragraph/162.md)
+      - [Sch. 8 para. 163](schedule/8/paragraph/163.md)
+      - [Sch. 8 para. 164](schedule/8/paragraph/164.md)
+      - [Sch. 8 para. 165](schedule/8/paragraph/165.md)
+    - Gambling Act 2005 (c. 19)
+      - [Sch. 8 para. 166](schedule/8/paragraph/166.md)
+    - Police and Justice Act 2006 (c. 48)
+      - [Sch. 8 para. 167](schedule/8/paragraph/167.md)
+      - [Sch. 8 para. 168](schedule/8/paragraph/168.md)
+      - [Sch. 8 para. 169](schedule/8/paragraph/169.md)
+      - [Sch. 8 para. 170](schedule/8/paragraph/170.md)
+    - Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)
+      - [Sch. 8 para. 171](schedule/8/paragraph/171.md)
+      - [Sch. 8 para. 172](schedule/8/paragraph/172.md)
+    - Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)
+      - [Sch. 8 para. 173](schedule/8/paragraph/173.md)
+      - [Sch. 8 para. 174](schedule/8/paragraph/174.md)
+      - [Sch. 8 para. 175](schedule/8/paragraph/175.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 8 para. 176](schedule/8/paragraph/176.md)
+      - [Sch. 8 para. 177](schedule/8/paragraph/177.md)
+      - [Sch. 8 para. 178](schedule/8/paragraph/178.md)
+    - Crime and Security Act 2010 (c. 17)
+      - [Sch. 8 para. 179](schedule/8/paragraph/179.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 8 para. 180](schedule/8/paragraph/180.md)
+      - [Sch. 8 para. 181](schedule/8/paragraph/181.md)
+      - [Sch. 8 para. 182](schedule/8/paragraph/182.md)
+      - [Sch. 8 para. 183](schedule/8/paragraph/183.md)
+    - Police Reform and Social Responsibility Act 2011 (c. 13)
+      - [Sch. 8 para. 184](schedule/8/paragraph/184.md)
+    - Protection of Freedoms Act 2012 (c. 9)
+      - [Sch. 8 para. 185](schedule/8/paragraph/185.md)
+  - Part 3 Further consequential amendments and repeals
+    - References to SOCA
+      - [Sch. 8 para. 186](schedule/8/paragraph/186.md)
+    - References to the Director General of SOCA
+      - [Sch. 8 para. 187](schedule/8/paragraph/187.md)
+    - References to SOCA and its Director General
+      - [Sch. 8 para. 188](schedule/8/paragraph/188.md)
+    - Repeals
+      - [Sch. 8 para. 189](schedule/8/paragraph/189.md)
+  - Part 4 Subordinate legislation
+    - References to SOCA etc
+      - [Sch. 8 para. 190](schedule/8/paragraph/190.md)
+- SCHEDULE 9 Single county court in England and Wales
+  - Part 1 Amendments of the County Courts Act 1984
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Part 2 Other amendments
+    - General modification
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Literary and Scientific Institutions Act 1854 (c. 112)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Commons Act 1876 (c. 56)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Bankers’ Books Evidence Act 1879 (c. 11)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Bills of Sale Act (1878) Amendment Act 1882 (c. 43)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Law of Distress Amendment Act 1888 (c. 21)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Law of Distress Amendment Act 1895 (c. 24)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Stannaries Court (Abolition) Act 1896 (c. 45)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Administration of Justice (Appeals) Act 1934 (c. 40)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Crown Proceedings Act 1947 (c. 44)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - Registered Designs Act 1949 (c. 88)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - Opencast Coal Act 1958 (c. 69)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (c. 63)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Courts Act 1971 (c. 23)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - Attachment of Earnings Act 1971 (c. 32)
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - Solicitors Act 1974 (c. 47)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - Patents Act 1977 (c. 37)
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - Criminal Law Act 1977 (c. 45)
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - Senior Courts Act 1981 (c. 54)
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - Copyright, Designs and Patents Act 1988 (c. 48)
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - Courts and Legal Services Act 1990 (c. 41)
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - Vehicle Excise and Registration Act 1994 (c. 22)
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+    - Housing Act 1996 (c. 52)
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - London Local Authorities Act 1996 (c. ix)
+      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - Protection from Harassment Act 1997 (c. 40)
+      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+    - Courts Act 2003 (c. 39)
+      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+    - Traffic Management Act 2004 (c. 18)
+      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - Constitutional Reform Act 2005 (c. 4)
+      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - Companies Act 2006 (c. 46)
+      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+    - Police and Justice Act 2006 (c. 48)
+      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+    - Tribunals, Courts and Enforcement Act 2007 (c. 15)
+      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+      - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+      - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+      - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+      - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+    - London Local Authorities Act 2007 (c. ii)
+      - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+    - Policing and Crime Act 2009 (c. 26)
+      - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+  - Part 3 Further amendments
+    - Amendment of references to “a county court”
+      - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+    - Amendments of other references
+      - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+      - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+      - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+      - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+      - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+      - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+      - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+      - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+      - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+      - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+      - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+      - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+      - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+      - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+      - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+      - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+      - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+      - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+      - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+      - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+      - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+      - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+      - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+      - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
+      - [Sch. 9 para. 77](schedule/9/paragraph/77.md)
+      - [Sch. 9 para. 78](schedule/9/paragraph/78.md)
+      - [Sch. 9 para. 79](schedule/9/paragraph/79.md)
+      - [Sch. 9 para. 80](schedule/9/paragraph/80.md)
+      - [Sch. 9 para. 81](schedule/9/paragraph/81.md)
+      - [Sch. 9 para. 82](schedule/9/paragraph/82.md)
+      - [Sch. 9 para. 83](schedule/9/paragraph/83.md)
+      - [Sch. 9 para. 84](schedule/9/paragraph/84.md)
+      - [Sch. 9 para. 85](schedule/9/paragraph/85.md)
+      - [Sch. 9 para. 86](schedule/9/paragraph/86.md)
+      - [Sch. 9 para. 87](schedule/9/paragraph/87.md)
+      - [Sch. 9 para. 88](schedule/9/paragraph/88.md)
+      - [Sch. 9 para. 89](schedule/9/paragraph/89.md)
+      - [Sch. 9 para. 90](schedule/9/paragraph/90.md)
+      - [Sch. 9 para. 91](schedule/9/paragraph/91.md)
+      - [Sch. 9 para. 92](schedule/9/paragraph/92.md)
+      - [Sch. 9 para. 93](schedule/9/paragraph/93.md)
+      - [Sch. 9 para. 94](schedule/9/paragraph/94.md)
+      - [Sch. 9 para. 95](schedule/9/paragraph/95.md)
+      - [Sch. 9 para. 96](schedule/9/paragraph/96.md)
+      - [Sch. 9 para. 97](schedule/9/paragraph/97.md)
+      - [Sch. 9 para. 98](schedule/9/paragraph/98.md)
+      - [Sch. 9 para. 99](schedule/9/paragraph/99.md)
+      - [Sch. 9 para. 100](schedule/9/paragraph/100.md)
+      - [Sch. 9 para. 101](schedule/9/paragraph/101.md)
+      - [Sch. 9 para. 102](schedule/9/paragraph/102.md)
+      - [Sch. 9 para. 103](schedule/9/paragraph/103.md)
+      - [Sch. 9 para. 104](schedule/9/paragraph/104.md)
+      - [Sch. 9 para. 105](schedule/9/paragraph/105.md)
+      - [Sch. 9 para. 106](schedule/9/paragraph/106.md)
+      - [Sch. 9 para. 107](schedule/9/paragraph/107.md)
+      - [Sch. 9 para. 108](schedule/9/paragraph/108.md)
+      - [Sch. 9 para. 109](schedule/9/paragraph/109.md)
+      - [Sch. 9 para. 110](schedule/9/paragraph/110.md)
+      - [Sch. 9 para. 111](schedule/9/paragraph/111.md)
+      - [Sch. 9 para. 112](schedule/9/paragraph/112.md)
+      - [Sch. 9 para. 113](schedule/9/paragraph/113.md)
+      - [Sch. 9 para. 114](schedule/9/paragraph/114.md)
+      - [Sch. 9 para. 115](schedule/9/paragraph/115.md)
+      - [Sch. 9 para. 116](schedule/9/paragraph/116.md)
+      - [Sch. 9 para. 117](schedule/9/paragraph/117.md)
+      - [Sch. 9 para. 118](schedule/9/paragraph/118.md)
+      - [Sch. 9 para. 119](schedule/9/paragraph/119.md)
+      - [Sch. 9 para. 120](schedule/9/paragraph/120.md)
+      - [Sch. 9 para. 121](schedule/9/paragraph/121.md)
+      - [Sch. 9 para. 122](schedule/9/paragraph/122.md)
+      - [Sch. 9 para. 123](schedule/9/paragraph/123.md)
+      - [Sch. 9 para. 124](schedule/9/paragraph/124.md)
+      - [Sch. 9 para. 125](schedule/9/paragraph/125.md)
+      - [Sch. 9 para. 126](schedule/9/paragraph/126.md)
+      - [Sch. 9 para. 127](schedule/9/paragraph/127.md)
+      - [Sch. 9 para. 128](schedule/9/paragraph/128.md)
+      - [Sch. 9 para. 129](schedule/9/paragraph/129.md)
+      - [Sch. 9 para. 130](schedule/9/paragraph/130.md)
+      - [Sch. 9 para. 131](schedule/9/paragraph/131.md)
+      - [Sch. 9 para. 132](schedule/9/paragraph/132.md)
+      - [Sch. 9 para. 133](schedule/9/paragraph/133.md)
+      - [Sch. 9 para. 134](schedule/9/paragraph/134.md)
+      - [Sch. 9 para. 135](schedule/9/paragraph/135.md)
+      - [Sch. 9 para. 136](schedule/9/paragraph/136.md)
+      - [Sch. 9 para. 137](schedule/9/paragraph/137.md)
+      - [Sch. 9 para. 138](schedule/9/paragraph/138.md)
+      - [Sch. 9 para. 139](schedule/9/paragraph/139.md)
+      - [Sch. 9 para. 140](schedule/9/paragraph/140.md)
+  - Part 4 Consequential repeals
+    - [Sch. 9 para. 141](schedule/9/paragraph/141.md)
+- SCHEDULE 10 The family court
+  - Part 1 Establishment of the family court
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Part 2 The family court: further amendments
+    - Debtors Act 1869 (c. 62)
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Maintenance Orders Act 1958 (c. 39)
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Public Records Act 1958 (c. 51)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Administration of Justice Act 1960 (c. 65)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (c. 63)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Civil Evidence Act 1968 (c. 64)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Administration of Justice Act 1970 (c. 31)
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Courts Act 1971 (c. 23)
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Attachment of Earnings Act 1971 (c. 32)
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+    - Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+    - Litigants in Person (Costs and Expenses) Act 1975 (c. 47)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - Inheritance (Provision for Family and Dependants) Act 1975 (c. 63)
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - Torts (Interference with Goods) Act 1977 (c. 32)
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - Charging Orders Act 1979 (c. 53)
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+      - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+      - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+      - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+      - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+      - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+      - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+      - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+      - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+      - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+      - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+      - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+      - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+      - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+    - Contempt of Court Act 1981 (c. 49)
+      - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+    - Senior Courts Act 1981 (c. 54)
+      - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+      - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+      - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+      - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+      - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+      - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+      - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+      - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+      - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+      - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+    - County Courts Act 1984 (c. 28)
+      - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+      - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+      - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+      - [Sch. 10 para. 67](schedule/10/paragraph/67.md)
+      - [Sch. 10 para. 68](schedule/10/paragraph/68.md)
+      - [Sch. 10 para. 69](schedule/10/paragraph/69.md)
+      - [Sch. 10 para. 70](schedule/10/paragraph/70.md)
+      - [Sch. 10 para. 71](schedule/10/paragraph/71.md)
+      - [Sch. 10 para. 72](schedule/10/paragraph/72.md)
+    - Administration of Justice Act 1985 (c. 61)
+      - [Sch. 10 para. 73](schedule/10/paragraph/73.md)
+    - Insolvency Act 1986 (c. 45)
+      - [Sch. 10 para. 74](schedule/10/paragraph/74.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 10 para. 75](schedule/10/paragraph/75.md)
+    - Courts and Legal Services Act 1990 (c. 41)
+      - [Sch. 10 para. 76](schedule/10/paragraph/76.md)
+    - Maintenance Enforcement Act 1991 (c. 17)
+      - [Sch. 10 para. 77](schedule/10/paragraph/77.md)
+    - Access to Justice Act 1999 (c. 22)
+      - [Sch. 10 para. 78](schedule/10/paragraph/78.md)
+      - [Sch. 10 para. 79](schedule/10/paragraph/79.md)
+      - [Sch. 10 para. 80](schedule/10/paragraph/80.md)
+      - [Sch. 10 para. 81](schedule/10/paragraph/81.md)
+      - [Sch. 10 para. 82](schedule/10/paragraph/82.md)
+    - Courts Act 2003 (c. 39)
+      - [Sch. 10 para. 83](schedule/10/paragraph/83.md)
+      - [Sch. 10 para. 84](schedule/10/paragraph/84.md)
+      - [Sch. 10 para. 85](schedule/10/paragraph/85.md)
+      - [Sch. 10 para. 86](schedule/10/paragraph/86.md)
+      - [Sch. 10 para. 87](schedule/10/paragraph/87.md)
+      - [Sch. 10 para. 88](schedule/10/paragraph/88.md)
+      - [Sch. 10 para. 89](schedule/10/paragraph/89.md)
+      - [Sch. 10 para. 90](schedule/10/paragraph/90.md)
+      - [Sch. 10 para. 91](schedule/10/paragraph/91.md)
+      - [Sch. 10 para. 92](schedule/10/paragraph/92.md)
+      - [Sch. 10 para. 93](schedule/10/paragraph/93.md)
+      - [Sch. 10 para. 94](schedule/10/paragraph/94.md)
+      - [Sch. 10 para. 95](schedule/10/paragraph/95.md)
+    - Constitutional Reform Act 2005 (c. 4)
+      - [Sch. 10 para. 96](schedule/10/paragraph/96.md)
+      - [Sch. 10 para. 97](schedule/10/paragraph/97.md)
+    - Legal Services Act 2007 (c. 29)
+      - [Sch. 10 para. 98](schedule/10/paragraph/98.md)
+  - Part 3 Repeals and revocations in consequence of Parts 1 and 2 of this Schedule
+    - [Sch. 10 para. 99](schedule/10/paragraph/99.md)
+- SCHEDULE 11 Transfer of jurisdiction to family court
+  - Part 1 Amendments of enactments
+    - Married Women’s Property Act 1882 (c. 75)
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Maintenance Orders (Facilities for Enforcement) Act 1920 (c. 33)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Marriage Act 1949 (c. 76)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Maintenance Orders Act 1950 (c. 37)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - Matrimonial Causes (Property and Maintenance) Act 1958 (c. 35)
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - Law Reform (Miscellaneous Provisions) Act 1970 (c. 33)
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - Matrimonial Proceedings and Property Act 1970 (c. 45)
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+      - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+      - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+      - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+      - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+      - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+      - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+      - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+      - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+      - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+      - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+      - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+      - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+      - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+      - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+      - [Sch. 11 para. 43](schedule/11/paragraph/43.md)
+      - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+      - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+      - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+      - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+      - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+      - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+      - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+      - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+      - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+      - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+      - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+      - [Sch. 11 para. 55](schedule/11/paragraph/55.md)
+      - [Sch. 11 para. 56](schedule/11/paragraph/56.md)
+      - [Sch. 11 para. 57](schedule/11/paragraph/57.md)
+    - Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 11 para. 58](schedule/11/paragraph/58.md)
+      - [Sch. 11 para. 59](schedule/11/paragraph/59.md)
+      - [Sch. 11 para. 60](schedule/11/paragraph/60.md)
+      - [Sch. 11 para. 61](schedule/11/paragraph/61.md)
+      - [Sch. 11 para. 62](schedule/11/paragraph/62.md)
+      - [Sch. 11 para. 63](schedule/11/paragraph/63.md)
+      - [Sch. 11 para. 64](schedule/11/paragraph/64.md)
+      - [Sch. 11 para. 65](schedule/11/paragraph/65.md)
+    - Domicile and Matrimonial Proceedings Act 1973 (c. 45)
+      - [Sch. 11 para. 66](schedule/11/paragraph/66.md)
+    - Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+      - [Sch. 11 para. 67](schedule/11/paragraph/67.md)
+      - [Sch. 11 para. 68](schedule/11/paragraph/68.md)
+      - [Sch. 11 para. 69](schedule/11/paragraph/69.md)
+      - [Sch. 11 para. 70](schedule/11/paragraph/70.md)
+      - [Sch. 11 para. 71](schedule/11/paragraph/71.md)
+      - [Sch. 11 para. 72](schedule/11/paragraph/72.md)
+      - [Sch. 11 para. 73](schedule/11/paragraph/73.md)
+      - [Sch. 11 para. 74](schedule/11/paragraph/74.md)
+      - [Sch. 11 para. 75](schedule/11/paragraph/75.md)
+      - [Sch. 11 para. 76](schedule/11/paragraph/76.md)
+      - [Sch. 11 para. 77](schedule/11/paragraph/77.md)
+      - [Sch. 11 para. 78](schedule/11/paragraph/78.md)
+      - [Sch. 11 para. 79](schedule/11/paragraph/79.md)
+      - [Sch. 11 para. 80](schedule/11/paragraph/80.md)
+      - [Sch. 11 para. 81](schedule/11/paragraph/81.md)
+      - [Sch. 11 para. 82](schedule/11/paragraph/82.md)
+      - [Sch. 11 para. 83](schedule/11/paragraph/83.md)
+      - [Sch. 11 para. 84](schedule/11/paragraph/84.md)
+      - [Sch. 11 para. 85](schedule/11/paragraph/85.md)
+    - Civil Jurisdiction and Judgments Act 1982 (c. 27)
+      - [Sch. 11 para. 86](schedule/11/paragraph/86.md)
+    - Matrimonial and Family Proceedings Act 1984 (c. 42)
+      - [Sch. 11 para. 87](schedule/11/paragraph/87.md)
+      - [Sch. 11 para. 88](schedule/11/paragraph/88.md)
+      - [Sch. 11 para. 89](schedule/11/paragraph/89.md)
+      - [Sch. 11 para. 90](schedule/11/paragraph/90.md)
+      - [Sch. 11 para. 91](schedule/11/paragraph/91.md)
+      - [Sch. 11 para. 92](schedule/11/paragraph/92.md)
+      - [Sch. 11 para. 93](schedule/11/paragraph/93.md)
+      - [Sch. 11 para. 94](schedule/11/paragraph/94.md)
+    - Family Law Act 1986 (c. 55)
+      - [Sch. 11 para. 95](schedule/11/paragraph/95.md)
+      - [Sch. 11 para. 96](schedule/11/paragraph/96.md)
+      - [Sch. 11 para. 97](schedule/11/paragraph/97.md)
+      - [Sch. 11 para. 98](schedule/11/paragraph/98.md)
+      - [Sch. 11 para. 99](schedule/11/paragraph/99.md)
+      - [Sch. 11 para. 100](schedule/11/paragraph/100.md)
+    - Matrimonial Proceedings (Transfers) Act 1988 (c. 18)
+      - [Sch. 11 para. 101](schedule/11/paragraph/101.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 11 para. 102](schedule/11/paragraph/102.md)
+      - [Sch. 11 para. 103](schedule/11/paragraph/103.md)
+      - [Sch. 11 para. 104](schedule/11/paragraph/104.md)
+      - [Sch. 11 para. 105](schedule/11/paragraph/105.md)
+      - [Sch. 11 para. 106](schedule/11/paragraph/106.md)
+      - [Sch. 11 para. 107](schedule/11/paragraph/107.md)
+      - [Sch. 11 para. 108](schedule/11/paragraph/108.md)
+      - [Sch. 11 para. 109](schedule/11/paragraph/109.md)
+      - [Sch. 11 para. 110](schedule/11/paragraph/110.md)
+      - [Sch. 11 para. 111](schedule/11/paragraph/111.md)
+      - [Sch. 11 para. 112](schedule/11/paragraph/112.md)
+      - [Sch. 11 para. 113](schedule/11/paragraph/113.md)
+      - [Sch. 11 para. 114](schedule/11/paragraph/114.md)
+      - [Sch. 11 para. 115](schedule/11/paragraph/115.md)
+      - [Sch. 11 para. 116](schedule/11/paragraph/116.md)
+      - [Sch. 11 para. 117](schedule/11/paragraph/117.md)
+      - [Sch. 11 para. 118](schedule/11/paragraph/118.md)
+      - [Sch. 11 para. 119](schedule/11/paragraph/119.md)
+      - [Sch. 11 para. 120](schedule/11/paragraph/120.md)
+      - [Sch. 11 para. 121](schedule/11/paragraph/121.md)
+    - Child Support Act 1991 (c. 48)
+      - [Sch. 11 para. 122](schedule/11/paragraph/122.md)
+      - [Sch. 11 para. 123](schedule/11/paragraph/123.md)
+      - [Sch. 11 para. 124](schedule/11/paragraph/124.md)
+      - [Sch. 11 para. 125](schedule/11/paragraph/125.md)
+      - [Sch. 11 para. 126](schedule/11/paragraph/126.md)
+    - Criminal Justice Act 1991 (c. 53)
+      - [Sch. 11 para. 127](schedule/11/paragraph/127.md)
+    - Social Security Administration Act 1992 (c. 5)
+      - [Sch. 11 para. 128](schedule/11/paragraph/128.md)
+    - Family Law Act 1996 (c. 27)
+      - [Sch. 11 para. 129](schedule/11/paragraph/129.md)
+      - [Sch. 11 para. 130](schedule/11/paragraph/130.md)
+      - [Sch. 11 para. 131](schedule/11/paragraph/131.md)
+      - [Sch. 11 para. 132](schedule/11/paragraph/132.md)
+      - [Sch. 11 para. 133](schedule/11/paragraph/133.md)
+      - [Sch. 11 para. 134](schedule/11/paragraph/134.md)
+      - [Sch. 11 para. 135](schedule/11/paragraph/135.md)
+      - [Sch. 11 para. 136](schedule/11/paragraph/136.md)
+      - [Sch. 11 para. 137](schedule/11/paragraph/137.md)
+      - [Sch. 11 para. 138](schedule/11/paragraph/138.md)
+      - [Sch. 11 para. 139](schedule/11/paragraph/139.md)
+      - [Sch. 11 para. 140](schedule/11/paragraph/140.md)
+      - [Sch. 11 para. 141](schedule/11/paragraph/141.md)
+      - [Sch. 11 para. 142](schedule/11/paragraph/142.md)
+      - [Sch. 11 para. 143](schedule/11/paragraph/143.md)
+      - [Sch. 11 para. 144](schedule/11/paragraph/144.md)
+      - [Sch. 11 para. 145](schedule/11/paragraph/145.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 11 para. 146](schedule/11/paragraph/146.md)
+      - [Sch. 11 para. 147](schedule/11/paragraph/147.md)
+      - [Sch. 11 para. 148](schedule/11/paragraph/148.md)
+      - [Sch. 11 para. 149](schedule/11/paragraph/149.md)
+      - [Sch. 11 para. 150](schedule/11/paragraph/150.md)
+    - Adoption and Children Act 2002
+      - [Sch. 11 para. 151](schedule/11/paragraph/151.md)
+      - [Sch. 11 para. 152](schedule/11/paragraph/152.md)
+      - [Sch. 11 para. 153](schedule/11/paragraph/153.md)
+      - [Sch. 11 para. 154](schedule/11/paragraph/154.md)
+      - [Sch. 11 para. 155](schedule/11/paragraph/155.md)
+      - [Sch. 11 para. 156](schedule/11/paragraph/156.md)
+      - [Sch. 11 para. 157](schedule/11/paragraph/157.md)
+      - [Sch. 11 para. 158](schedule/11/paragraph/158.md)
+      - [Sch. 11 para. 159](schedule/11/paragraph/159.md)
+    - Gender Recognition Act 2004 (c. 7)
+      - [Sch. 11 para. 160](schedule/11/paragraph/160.md)
+    - Civil Partnership Act 2004 (c. 33)
+      - [Sch. 11 para. 161](schedule/11/paragraph/161.md)
+      - [Sch. 11 para. 162](schedule/11/paragraph/162.md)
+      - [Sch. 11 para. 163](schedule/11/paragraph/163.md)
+      - [Sch. 11 para. 164](schedule/11/paragraph/164.md)
+      - [Sch. 11 para. 165](schedule/11/paragraph/165.md)
+      - [Sch. 11 para. 166](schedule/11/paragraph/166.md)
+      - [Sch. 11 para. 167](schedule/11/paragraph/167.md)
+      - [Sch. 11 para. 168](schedule/11/paragraph/168.md)
+      - [Sch. 11 para. 169](schedule/11/paragraph/169.md)
+      - [Sch. 11 para. 170](schedule/11/paragraph/170.md)
+      - [Sch. 11 para. 171](schedule/11/paragraph/171.md)
+      - [Sch. 11 para. 172](schedule/11/paragraph/172.md)
+      - [Sch. 11 para. 173](schedule/11/paragraph/173.md)
+      - [Sch. 11 para. 174](schedule/11/paragraph/174.md)
+      - [Sch. 11 para. 175](schedule/11/paragraph/175.md)
+      - [Sch. 11 para. 176](schedule/11/paragraph/176.md)
+      - [Sch. 11 para. 177](schedule/11/paragraph/177.md)
+      - [Sch. 11 para. 178](schedule/11/paragraph/178.md)
+      - [Sch. 11 para. 179](schedule/11/paragraph/179.md)
+      - [Sch. 11 para. 180](schedule/11/paragraph/180.md)
+      - [Sch. 11 para. 181](schedule/11/paragraph/181.md)
+      - [Sch. 11 para. 182](schedule/11/paragraph/182.md)
+      - [Sch. 11 para. 183](schedule/11/paragraph/183.md)
+      - [Sch. 11 para. 184](schedule/11/paragraph/184.md)
+      - [Sch. 11 para. 185](schedule/11/paragraph/185.md)
+      - [Sch. 11 para. 186](schedule/11/paragraph/186.md)
+      - [Sch. 11 para. 187](schedule/11/paragraph/187.md)
+      - [Sch. 11 para. 188](schedule/11/paragraph/188.md)
+      - [Sch. 11 para. 189](schedule/11/paragraph/189.md)
+      - [Sch. 11 para. 190](schedule/11/paragraph/190.md)
+      - [Sch. 11 para. 191](schedule/11/paragraph/191.md)
+      - [Sch. 11 para. 192](schedule/11/paragraph/192.md)
+      - [Sch. 11 para. 193](schedule/11/paragraph/193.md)
+      - [Sch. 11 para. 194](schedule/11/paragraph/194.md)
+      - [Sch. 11 para. 195](schedule/11/paragraph/195.md)
+      - [Sch. 11 para. 196](schedule/11/paragraph/196.md)
+      - [Sch. 11 para. 197](schedule/11/paragraph/197.md)
+      - [Sch. 11 para. 198](schedule/11/paragraph/198.md)
+      - [Sch. 11 para. 199](schedule/11/paragraph/199.md)
+      - [Sch. 11 para. 200](schedule/11/paragraph/200.md)
+      - [Sch. 11 para. 201](schedule/11/paragraph/201.md)
+    - Childcare Act 2006 (c. 21)
+      - [Sch. 11 para. 202](schedule/11/paragraph/202.md)
+      - [Sch. 11 para. 203](schedule/11/paragraph/203.md)
+      - [Sch. 11 para. 204](schedule/11/paragraph/204.md)
+      - [Sch. 11 para. 205](schedule/11/paragraph/205.md)
+    - Human Fertilisation and Embryology Act 2008 (c. 22)
+      - [Sch. 11 para. 206](schedule/11/paragraph/206.md)
+    - Children and Families (Wales) Measure 2010 (nawm 1)
+      - [Sch. 11 para. 207](schedule/11/paragraph/207.md)
+      - [Sch. 11 para. 208](schedule/11/paragraph/208.md)
+      - [Sch. 11 para. 209](schedule/11/paragraph/209.md)
+  - Part 2 Repeals and revocations in consequence of Part 1 of this Schedule
+    - [Sch. 11 para. 210](schedule/11/paragraph/210.md)
+- SCHEDULE 12 Gang-related injunctions: further amendments
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+- SCHEDULE 13 Judicial appointments
+  - Part 1 Judges of the Supreme Court: number and selection
+    - Introductory
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Number of judges to become maximum full-time equivalent number
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Selection of persons to be recommended for appointment to the Court
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Lord Chancellor’s guidance about selection process: procedure
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Consequential amendments, repeals and revocations
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Part 2 Diversity
+    - Diversity considerations where candidates for judicial office are of equal merit
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Encouraging diversity
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Maximum numbers of judges to be by reference to full-time equivalent numbers
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Part 3 Judicial Appointments Commission
+    - Introductory
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - Composition of the Judicial Appointments Commission
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - Selection of Commissioners
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+      - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - Commissioners’ terms of office
+      - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+      - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - Supplementary amendments
+      - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+      - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+      - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+      - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - Consequential repeal of other legislation
+      - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+  - Part 4 Judicial appointments: selection, and transfer of powers of Lord Chancellor
+    - Appointments by Her Majesty on Lord Chancellor’s recommendation but where selection is to be reported to Lord Chief Justice or Senior President of Tribunals
+      - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+      - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - Recommended appointments: further provisions
+      - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+      - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+      - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - Deputy Circuit judges to be appointed by Lord Chief Justice
+      - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+    - Deputy and temporary Masters etc to be appointed by Lord Chief Justice
+      - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - Deputy district judges to be appointed by Lord Chief Justice
+      - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+      - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - Deputy District Judges (Magistrates’ Courts) to be appointed by Lord Chief Justice
+      - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - Lay justices to be appointed by Lord Chief Justice
+      - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - Transfer of appointment powers to Lord Chief Justice: further provisions
+      - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+      - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - Senior President of Tribunals to make certain appointments to First-tier and Upper Tribunals
+      - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+      - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+      - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+      - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+      - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+      - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+      - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+      - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+    - Appointments by Lord Chief Justice or Senior President of Tribunals: equalities provisions
+      - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+      - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+    - Certain deployments to the High Court to be made from pool of selected judges
+      - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+    - Main change in selection process
+      - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - Other changes in relation to selection process and complaints
+      - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+      - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+      - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+      - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+      - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+      - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+      - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+      - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+      - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+      - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+      - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+      - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+      - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+      - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+      - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+      - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+      - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+      - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+      - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+      - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+      - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+      - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+      - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
+      - [Sch. 13 para. 77](schedule/13/paragraph/77.md)
+      - [Sch. 13 para. 78](schedule/13/paragraph/78.md)
+      - [Sch. 13 para. 79](schedule/13/paragraph/79.md)
+      - [Sch. 13 para. 80](schedule/13/paragraph/80.md)
+    - Changes in relation to selection process: consequential repeals
+      - [Sch. 13 para. 81](schedule/13/paragraph/81.md)
+  - Part 5
+    - [Sch. 13 para. 82](schedule/13/paragraph/82.md)
+  - Part 6 Appointment of judge to exercise functions of a Head of Division in case of incapacity or a vacancy etc
+    - [Sch. 13 para. 83](schedule/13/paragraph/83.md)
+    - [Sch. 13 para. 84](schedule/13/paragraph/84.md)
+    - [Sch. 13 para. 85](schedule/13/paragraph/85.md)
+    - [Sch. 13 para. 86](schedule/13/paragraph/86.md)
+    - [Sch. 13 para. 87](schedule/13/paragraph/87.md)
+    - [Sch. 13 para. 88](schedule/13/paragraph/88.md)
+  - Part 7 Abolition of office of assistant Recorder
+    - [Sch. 13 para. 89](schedule/13/paragraph/89.md)
+- SCHEDULE 14 Deployment of the judiciary
+  - Part 1 Deployment under section 9 of the Senior Courts Act 1981
+    - Requests for assistance under section 9(1) of the Senior Courts Act 1981
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Deputy judges of the High Court
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Part 2 Deployment of judges to the magistrates’ courts
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Part 3 Deployment of judges to the Court of Protection
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Part 4 Deployment of judges to the First-tier Tribunal and the Upper Tribunal
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Part 5 Deployment of judges to the Employment Appeal Tribunal
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Part 6 Deployment of judges to the employment tribunals
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Part 7 Amendments following renaming of chairmen of employment tribunals
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- SCHEDULE 15 Exclusions from definition of “relevant publisher”
+  - Broadcasters
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Special interest titles
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Scientific or academic journals
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Public bodies and charities
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Company news publications etc
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Micro-businesses
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Book publishers
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+- SCHEDULE 16 Dealing non-custodially with offenders
+  - Part 1 Community orders: punitive elements
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Part 2 Deferring the passing of sentence to allow for restorative justice
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Part 3 Removal of limits on compensation orders made against adults
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Part 4 Electronic monitoring of offenders
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+  - Part 5 Community orders: further provision
+    - Breaches of community orders
+      - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - Community order not to be made in case of knife etc offence attracting minimum sentence
+      - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+  - Part 6 Statements of assets and other financial circumstances of offenders etc
+    - Financial circumstances orders
+      - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - Further amendments
+      - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+      - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+      - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+      - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+  - Part 7 Information to enable a court to deal with an offender
+    - Power to disclose information
+      - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - Offence where information wrongly used or disclosed
+      - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+  - Part 8 Related amendments in Armed Forces Act 2006
+    - Community orders: punitive elements
+      - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+      - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+      - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+      - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+      - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - Removal of limits on compensation orders made against adults
+      - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - Electronic monitoring of offenders
+      - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - Statements of assets and other financial circumstances of offenders etc
+      - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+- SCHEDULE 17 Deferred prosecution agreements
+  - Part 1 General
+    - Characteristics of a deferred prosecution agreement
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Effect of DPA on court proceedings
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Designated prosecutors
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Persons who may enter into a DPA with a prosecutor
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Content of a DPA
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Code on DPAs
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Court approval of DPA: preliminary hearing
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Court approval of DPA: final hearing
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Breach of DPA
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Variation of DPA
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Discontinuance of proceedings on expiry of DPA
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Court order postponing publication of information by prosecutor
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Use of material in criminal proceedings
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Money received by prosecutor under a DPA
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+  - Part 2 Offences in relation to which a DPA may be entered into
+    - Common law offences
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Statutory offences
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+      - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+      - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+      - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+      - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+      - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+      - [Sch. 17 para. 26ZA](schedule/17/paragraph/26ZA.md)
+      - [Sch. 17 para. 26A](schedule/17/paragraph/26A.md)
+      - [Sch. 17 para. 26An1](schedule/17/paragraph/26An1.md)
+      - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+      - [Sch. 17 para. 27A](schedule/17/paragraph/27A.md)
+      - [Sch. 17 para. 27B](schedule/17/paragraph/27B.md)
+    - Ancillary offences
+      - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - Interpretation of this Part
+      - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+      - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - Power to amend this Part
+      - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+  - Part 3 Consequential and transitional provision
+    - Consequential amendments
+      - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+      - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+      - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+      - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+      - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+      - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+      - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+    - Transitional provision
+      - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+- SCHEDULE 18 Proceeds of crime: civil recovery of the proceeds etc of unlawful conduct
+  - Part 1 Enforcement of interim orders in the United Kingdom
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Part 2 Property or evidence outside the United Kingdom
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+- SCHEDULE 19 Proceeds of crime: investigations
+  - Part 1 Civil recovery investigations
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - Meaning of “civil recovery investigation”
+      - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+      - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - Production orders: England and Wales and Northern Ireland
+      - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+      - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - Search and seizure warrants: England and Wales and Northern Ireland
+      - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+      - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - Disclosure orders: England and Wales and Northern Ireland
+      - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+      - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - Customer information orders: England and Wales and Northern Ireland
+      - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+      - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - Account monitoring orders: England and Wales and Northern Ireland
+      - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+      - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+    - Production orders: Scotland
+      - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+      - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - Search warrants: Scotland
+      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+      - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - Disclosure orders: Scotland
+      - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+      - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+    - Customer information orders: Scotland
+      - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+      - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+    - Account monitoring orders: Scotland
+      - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
+      - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+  - Part 2 Evidence overseas
+    - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
+    - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
+    - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
+    - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+    - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
+  - Part 3 Consequential amendments: immigration officers and National Crime Agency
+    - Immigration officers
+      - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
+    - National Crime Agency
+      - [Sch. 19 para. 30](schedule/19/paragraph/30.md)
+- SCHEDULE 20 Extradition
+  - Part 1 Forum
+    - Extradition to category 1 territories
+      - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+      - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+      - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - Extradition to category 2 territories
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - Transitional provision, saving and repeals
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - Part 2 Human rights issues
+    - Extradition to category 2 territories
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+    - Transitional provision and saving
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+  - Part 3 Devolution issues in Scotland
+    - Extradition to category 1 territories
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+      - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+      - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+      - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+      - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+    - Extradition to category 2 territories
+      - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
+      - [Sch. 20 para. 23](schedule/20/paragraph/23.md)
+      - [Sch. 20 para. 24](schedule/20/paragraph/24.md)
+      - [Sch. 20 para. 25](schedule/20/paragraph/25.md)
+      - [Sch. 20 para. 26](schedule/20/paragraph/26.md)
+      - [Sch. 20 para. 27](schedule/20/paragraph/27.md)
+      - [Sch. 20 para. 28](schedule/20/paragraph/28.md)
+    - Saving
+      - [Sch. 20 para. 29](schedule/20/paragraph/29.md)
+- SCHEDULE 21 Powers of immigration officers: further provision
+  - Part 1 General
+    - Police Act 1997
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+      - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+      - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+      - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+      - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+      - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+      - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+      - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+      - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+      - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+    - Proceeds of Crime Act 2002
+      - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+      - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+      - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+      - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+      - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+      - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+      - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+      - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+      - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+      - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+      - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+      - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+      - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+      - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+      - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+      - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+      - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+      - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+      - [Sch. 21 para. 32](schedule/21/paragraph/32.md)
+      - [Sch. 21 para. 33](schedule/21/paragraph/33.md)
+      - [Sch. 21 para. 34](schedule/21/paragraph/34.md)
+      - [Sch. 21 para. 35](schedule/21/paragraph/35.md)
+      - [Sch. 21 para. 36](schedule/21/paragraph/36.md)
+      - [Sch. 21 para. 37](schedule/21/paragraph/37.md)
+      - [Sch. 21 para. 38](schedule/21/paragraph/38.md)
+    - UK Borders Act 2007
+      - [Sch. 21 para. 39](schedule/21/paragraph/39.md)
+    - Saving of provisions of Borders, Citizenship and Immigration Act 2009
+      - [Sch. 21 para. 40](schedule/21/paragraph/40.md)
+  - Part 2 Modification of applied enactments
+    - Criminal Justice and Public Order Act 1994
+      - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
+      - [Sch. 21 para. 42](schedule/21/paragraph/42.md)
+      - [Sch. 21 para. 42A](schedule/21/paragraph/42A.md)
+      - [Sch. 21 para. 42B](schedule/21/paragraph/42B.md)
+      - [Sch. 21 para. 42C](schedule/21/paragraph/42C.md)
+      - [Sch. 21 para. 42D](schedule/21/paragraph/42D.md)
+      - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
+  - Part 3 Scotland
+    - Criminal Law (Consolidation) (Scotland) Act 1995
+      - [Sch. 21 para. 44](schedule/21/paragraph/44.md)
+      - [Sch. 21 para. 45](schedule/21/paragraph/45.md)
+      - [Sch. 21 para. 46](schedule/21/paragraph/46.md)
+      - [Sch. 21 para. 47](schedule/21/paragraph/47.md)
+      - [Sch. 21 para. 48](schedule/21/paragraph/48.md)
+      - [Sch. 21 para. 49](schedule/21/paragraph/49.md)
+    - Consequential amendments relating to legal aid in Scotland
+      - [Sch. 21 para. 50](schedule/21/paragraph/50.md)
+- SCHEDULE 22 Drugs and driving: minor and consequential amendments
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+  - Football Spectators Act 1989 (c. 37)
+    - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+  - Crime (International Co-operation) Act 2003 (c. 32)
+    - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+  - Armed Forces Act 2006 (c. 52)
+    - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+- SCHEDULE 23 Super-affirmative procedure
+  - Prior consultation
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Draft order
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - Draft order approved
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - Scrutiny extended
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - Interpretation
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+- SCHEDULE 24 The NCA: Northern Ireland
+  - Provisions that do not extend to Northern Ireland
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - Power to provide for provisions to extend to Northern Ireland
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+  - Provisions extended to Northern Ireland: consequential provision
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+  - Provisions not extending to Northern Ireland: consequential provision
+    - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+  - NCA functions in Northern Ireland
+    - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+  - Consent of Northern Ireland Assembly to transferred provision
+    - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+  - Orders under this Schedule: particular provision
+    - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+  - Interpretation
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+- SCHEDULE 25 Proceeds of crime provisions: Northern Ireland
+  - Part 1 Civil recovery provisions
+    - Meaning of “relevant civil recovery provision”
+      - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+    - Relevant civil recovery provisions not to extend to Northern Ireland unless order made
+      - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+    - Power to provide for relevant civil recovery provisions to extend to Northern Ireland
+      - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+    - Relevant civil recovery provision extending to Northern Ireland
+      - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+    - Relevant civil recovery provision not extending to Northern Ireland
+      - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+    - Consent of Northern Ireland Assembly to transferred provision
+      - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+    - Orders under this Part of this Schedule: particular provision
+      - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+  - Part 2 Investigation provisions
+    - Meaning of “relevant investigation provision”
+      - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+    - Relevant investigation provisions not to extend to Northern Ireland unless order made
+      - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+    - Power to provide for relevant investigation provisions to extend to Northern Ireland
+      - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+    - Relevant investigation provision extending to Northern Ireland
+      - [Sch. 25 para. 11](schedule/25/paragraph/11.md)
+    - Relevant investigation provision not extending to Northern Ireland
+      - [Sch. 25 para. 12](schedule/25/paragraph/12.md)
+    - Consent of Northern Ireland Assembly to transferred provision
+      - [Sch. 25 para. 13](schedule/25/paragraph/13.md)
+    - Orders under this Part of this Schedule: particular provision
+      - [Sch. 25 para. 14](schedule/25/paragraph/14.md)
