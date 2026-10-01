@@ -1,0 +1,626 @@
+# Police, Crime, Sentencing and Courts Act 2022
+
+2022 c. 32. Enacted 2022-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 69 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
+
+Source: https://www.legislation.gov.uk/ukpga/2022/32/2026-10-01
+
+## Contents
+
+- PART 1 Protection of the police etc
+  - Police covenant report
+    - [s. 1 Police covenant report](section/1.md)
+  - Offences against emergency workers
+    - [s. 2 Increase in penalty for assault on emergency worker](section/2.md)
+    - [s. 3 Required life sentence for manslaughter of emergency worker](section/3.md)
+  - Special constables and Police Federations
+    - [s. 4 Special constables and Police Federations: amendments to the Police Act 1996](section/4.md)
+  - Police driving standards
+    - [s. 5 Meaning of dangerous driving: constables etc](section/5.md)
+    - [s. 6 Meaning of careless driving: constables etc](section/6.md)
+    - [s. 7 Regulations relating to sections 5 and 6](section/7.md)
+- PART 2 Prevention, investigation and prosecution of crime
+  - CHAPTER 1 Functions relating to serious violence
+    - Functions relating to serious violence
+      - [s. 8 Duties to collaborate and plan to prevent and reduce serious violence](section/8.md)
+      - [s. 9 Powers to collaborate and plan to prevent and reduce serious violence](section/9.md)
+      - [s. 10 Power to authorise collaboration etc. with other persons](section/10.md)
+      - [s. 11 Specified authorities and local government areas](section/11.md)
+      - [s. 12 Educational, prison and youth custody authorities](section/12.md)
+      - [s. 13 Preventing and reducing serious violence](section/13.md)
+    - Exercise of functions
+      - [s. 14 Involvement of local policing bodies](section/14.md)
+      - [s. 15 Involvement of educational, prison and youth custody authorities](section/15.md)
+      - [s. 16 Disclosure of information](section/16.md)
+      - [s. 17 Supply of information to local policing bodies](section/17.md)
+      - [s. 18 Directions](section/18.md)
+      - [s. 19 Guidance](section/19.md)
+    - Amendments to the Crime and Disorder Act 1998 etc
+      - [s. 20 Amendments to the Crime and Disorder Act 1998](section/20.md)
+      - [s. 21 Amendment to the Police and Justice Act 2006](section/21.md)
+    - General
+      - [s. 22 Regulations](section/22.md)
+      - [s. 23 Index of defined expressions](section/23.md)
+  - CHAPTER 2 Offensive weapons homicide reviews
+    - [s. 24 Duty to arrange a review](section/24.md)
+    - [s. 25 Relevant review partners](section/25.md)
+    - [s. 26 Relationship with other review requirements](section/26.md)
+    - [s. 27 Notification of Secretary of State](section/27.md)
+    - [s. 28 Conduct of review](section/28.md)
+    - [s. 29 Information](section/29.md)
+    - [s. 30 Information: supplementary](section/30.md)
+    - [s. 31 Delegating functions](section/31.md)
+    - [s. 32 Guidance](section/32.md)
+    - [s. 33 Power to pay grant: local health boards](section/33.md)
+    - [s. 34 Piloting](section/34.md)
+    - [s. 35 Regulations](section/35.md)
+    - [s. 36 Interpretation](section/36.md)
+  - CHAPTER 3 Extraction of information from electronic devices
+    - [s. 37 Extraction of information from electronic devices: investigations of crime etc](section/37.md)
+    - [s. 38 Application of section 37 to children and adults without capacity](section/38.md)
+    - [s. 39 Requirements for voluntary provision and agreement](section/39.md)
+    - [s. 40 Application of section 37 where user has died etc](section/40.md)
+    - [s. 41 Extraction of information from electronic devices: investigations of death](section/41.md)
+    - [s. 42 Code of practice about the extraction of information](section/42.md)
+    - [s. 43 Confidential information](section/43.md)
+    - [s. 44 Authorised persons](section/44.md)
+  - Chapter 3A Requests for information relating to victims
+    - [s. 44A Requests for information relating to victims](section/44A.md)
+    - [s. 44B Notice requirements for victim information requests](section/44B.md)
+    - [s. 44C Content of victim information requests](section/44C.md)
+    - [s. 44D Code of practice](section/44D.md)
+    - [s. 44E Authorised persons](section/44E.md)
+    - [s. 44F Application of this Chapter to service police etc](section/44F.md)
+  - CHAPTER 4 Other provisions
+    - Pre-charge bail
+      - [s. 45 Pre-charge bail](section/45.md)
+    - Sexual offences
+      - [s. 46 Arranging or facilitating commission of a child sex offence](section/46.md)
+      - [s. 47 Positions of trust](section/47.md)
+      - [s. 48 Voyeurism: breast-feeding](section/48.md)
+    - Domestic abuse
+      - [s. 49 Time limit for prosecution of common assault or battery in domestic abuse cases](section/49.md)
+    - Criminal damage to memorials
+      - [s. 50 Criminal damage to memorials: mode of trial](section/50.md)
+    - Overseas production orders
+      - [s. 51 Overseas production orders](section/51.md)
+    - Amendments to the Police and Criminal Evidence Act 1984 etc
+      - [s. 52 Power to photograph certain persons at a police station](section/52.md)
+      - [s. 53 Power to specify date of attendance at police station for fingerprinting etc](section/53.md)
+      - [s. 54 PACE etc powers for food crime officers](section/54.md)
+    - Search for material relating to human remains
+      - [s. 55 Entry and search of premises for human remains or material relating to human remains](section/55.md)
+      - [s. 56 Special procedure for access to material relating to human remains](section/56.md)
+      - [s. 57 Additional seizure powers](section/57.md)
+    - Prisoner custody officers
+      - [s. 58 Functions of prisoner custody officers in relation to live link hearings](section/58.md)
+    - Proceeds of crime
+      - [s. 59 Proceeds of crime: account freezing orders](section/59.md)
+    - Non-criminal hate incidents
+      - [s. 60 Code of practice relating to non-criminal hate incidents](section/60.md)
+      - [s. 61 Further provision about a code of practice under section 60](section/61.md)
+    - Offences relating to hares etc
+      - [s. 62 Increase in penalty for offences related to game etc](section/62.md)
+      - [s. 63 Trespass with intent to search for or to pursue hares with dogs etc](section/63.md)
+      - [s. 64 Being equipped for searching for or pursuing hares with dogs etc](section/64.md)
+      - [s. 65 Recovery order on conviction for certain offences involving dogs](section/65.md)
+      - [s. 66 Disqualification order on conviction for certain offences involving dogs](section/66.md)
+      - [s. 67 Seizure and disposal of dogs in connection with disqualification order](section/67.md)
+      - [s. 68 Termination of disqualification order](section/68.md)
+      - [s. 69 Section 67: supplementary](section/69.md)
+      - [s. 70 Disqualification orders: appeals](section/70.md)
+    - Administering a substance with intent to cause harm
+      - [s. 71 Administering a substance with intent to cause harm](section/71.md)
+    - Offences motivated by hostility based on sex or gender
+      - [s. 72 Response to Law Commission report on hate crime laws](section/72.md)
+- PART 3 Public order
+  - Public processions and public assemblies
+    - [s. 73 Imposing conditions on public processions](section/73.md)
+    - [s. 74 Imposing conditions on public assemblies](section/74.md)
+    - [s. 75 Offences under sections 12 and 14 of the Public Order Act 1986](section/75.md)
+  - Palace of Westminster, Parliament Square etc
+    - [s. 76 Obstruction of vehicular access to Parliament](section/76.md)
+    - [s. 77 Power to specify other areas as controlled areas](section/77.md)
+  - Public nuisance
+    - [s. 78 Intentionally or recklessly causing public nuisance](section/78.md)
+  - One-person protests
+    - [s. 79 Imposing conditions on one-person protests](section/79.md)
+  - Wilful obstruction of highway
+    - [s. 80 Wilful obstruction of highway](section/80.md)
+  - Repeal of the Vagrancy Act 1824 etc
+    - [s. 81 Repeal of the Vagrancy Act 1824 etc](section/81.md)
+  - Expedited public spaces protection orders
+    - [s. 82 Expedited public spaces protection orders](section/82.md)
+- PART 4 Unauthorised encampments
+  - [s. 83 Offence relating to residing on land without consent in or with a vehicle](section/83.md)
+  - [s. 84 Amendments to existing powers](section/84.md)
+  - [s. 85 Guidance on exercise of police powers in respect of trespassers on land etc](section/85.md)
+- PART 5 Road traffic
+  - Road traffic offences
+    - [s. 86 Causing death by dangerous driving or careless driving when under the influence of drink or drugs: increased penalties](section/86.md)
+    - [s. 87 Causing serious injury by careless, or inconsiderate, driving](section/87.md)
+    - [s. 88 Road traffic offences: minor and consequential amendments](section/88.md)
+  - Courses offered as an alternative to prosecution
+    - [s. 89 Courses offered as alternative to prosecution: fees etc](section/89.md)
+  - Removal etc of abandoned vehicles
+    - [s. 90 Charges for removal, storage and disposal of vehicles](section/90.md)
+  - Surrender of driving licences
+    - [s. 91 Production of licence to the court](section/91.md)
+    - [s. 92 Surrender of licence to Secretary of State where disqualified](section/92.md)
+    - [s. 93 Removal of requirement to surrender licence where fixed penalty notice](section/93.md)
+    - [s. 94 Removal of requirement to deliver up licence where conditional offer](section/94.md)
+    - [s. 95 Surrender of licences and test certificates by new drivers](section/95.md)
+    - [s. 96 Minor and consequential amendments](section/96.md)
+  - Fixed penalty notices in Scotland
+    - [s. 97 Power to issue fixed penalty notices on-the-spot in Scotland](section/97.md)
+- PART 6 Cautions
+  - Introductory
+    - [s. 98 Diversionary and community cautions](section/98.md)
+  - Diversionary cautions
+    - [s. 99 Giving a diversionary caution](section/99.md)
+    - [s. 100 Deciding on the conditions](section/100.md)
+    - [s. 101 Rehabilitation and reparation conditions](section/101.md)
+    - [s. 102 Financial penalty conditions](section/102.md)
+    - [s. 103 Foreign offenders’ conditions](section/103.md)
+    - [s. 104 Variation of conditions](section/104.md)
+    - [s. 105 Effect of diversionary caution](section/105.md)
+    - [s. 106 Arrest for failure to comply](section/106.md)
+    - [s. 107 Application of Police and Criminal Evidence Act 1984](section/107.md)
+  - Community cautions
+    - [s. 108 Giving a community caution](section/108.md)
+    - [s. 109 Deciding on the conditions](section/109.md)
+    - [s. 110 Rehabilitation and reparation conditions](section/110.md)
+    - [s. 111 Financial penalty conditions](section/111.md)
+    - [s. 112 Enforcement of financial penalties: registration](section/112.md)
+    - [s. 113 Enforcement of financial penalties: court proceedings](section/113.md)
+    - [s. 114 Variation of conditions](section/114.md)
+    - [s. 115 Effect of community caution](section/115.md)
+  - General
+    - [s. 116 Code of practice](section/116.md)
+    - [s. 117 Restriction on multiple cautions](section/117.md)
+    - [s. 118 Abolition of other cautions and out-of-court disposals](section/118.md)
+  - Supplementary
+    - [s. 119 Consequential amendments relating to Part 6](section/119.md)
+    - [s. 120 Regulations under Part 6](section/120.md)
+    - [s. 121 Interpretation of Part 6](section/121.md)
+- PART 7 Sentencing and release
+  - CHAPTER 1 Custodial sentences
+    - Penalties for offences involving children or vulnerable adults
+      - [s. 122 Penalty for cruelty to children](section/122.md)
+      - [s. 123 Penalty for causing or allowing a child or vulnerable adult to die or suffer serious physical harm](section/123.md)
+    - Minimum sentences for particular offences
+      - [s. 124 Minimum sentences for particular offences](section/124.md)
+    - Life sentences: time to be served
+      - [s. 125 Whole life order as starting point for premeditated child murder](section/125.md)
+      - [s. 126 Whole life orders for young adult offenders in exceptional cases](section/126.md)
+      - [s. 127 Starting points for murder committed when under 18](section/127.md)
+      - [s. 128 Sentences of detention during Her Majesty’s pleasure: review of minimum term](section/128.md)
+      - [s. 129 Life sentence not fixed by law: minimum term](section/129.md)
+    - Release on licence
+      - [s. 130 Increase in requisite custodial period for certain violent or sexual offenders](section/130.md)
+      - [s. 131 Increase in requisite custodial period for certain other offenders of particular concern](section/131.md)
+      - [s. 132 Power to refer high-risk offenders to Parole Board in place of automatic release](section/132.md)
+      - [s. 133 Power to make provision for reconsideration and setting aside of Parole Board decisions](section/133.md)
+      - [s. 134 Responsibility for setting licence conditions for fixed-term prisoners](section/134.md)
+      - [s. 135 Repeal of uncommenced provision for establishment of recall adjudicators](section/135.md)
+      - [s. 136 Release at direction of Parole Board after recall: fixed-term prisoners](section/136.md)
+      - [s. 137 Power to change test for release of fixed-term prisoners following recall](section/137.md)
+      - [s. 138 Imprisonment for public protection etc: duty to refer person released on licence to Parole Board](section/138.md)
+      - [s. 139 Release at direction of Parole Board: timing](section/139.md)
+    - Driving disqualification: extension in connection with custodial sentence
+      - [s. 140 Extension of driving disqualification where custodial sentence imposed: England and Wales](section/140.md)
+      - [s. 141 Increase in driving disqualification periods under certain existing orders: England and Wales](section/141.md)
+      - [s. 142 Extension of driving disqualification where custodial sentence imposed: Scotland](section/142.md)
+      - [s. 143 Increase in driving disqualification periods under certain existing orders: Scotland](section/143.md)
+    - Minor amendments
+      - [s. 144 Calculation of period before release or Parole Board referral where multiple sentences being served](section/144.md)
+      - [s. 145 Application of release provisions to repatriated prisoners](section/145.md)
+      - [s. 146 Sentences and offences in respect of which polygraph condition may be imposed](section/146.md)
+      - [s. 147 Minor amendments to do with weapons-related offences](section/147.md)
+      - [s. 148 Application of provision about minimum terms to service offences](section/148.md)
+  - CHAPTER 2 Community sentences
+    - Community and suspended sentence orders
+      - [s. 149 Supervision by responsible officer](section/149.md)
+      - [s. 150 Increases in maximum daily curfew hours and curfew requirement period](section/150.md)
+      - [s. 151 Power for responsible officer to vary curfew requirements etc](section/151.md)
+      - [s. 152 Removal of attendance centre requirements for adults](section/152.md)
+      - [s. 153 Special procedures relating to review and breach](section/153.md)
+      - [s. 154 Drug testing requirement](section/154.md)
+    - Unpaid work requirements
+      - [s. 155 Duty to consult on unpaid work requirements](section/155.md)
+  - CHAPTER 3 Assaults on those providing a public service etc
+    - [s. 156 Assaults on those providing a public service etc](section/156.md)
+- PART 8 Youth justice
+  - Youth remand
+    - [s. 157 Youth remand](section/157.md)
+  - Detention and training orders
+    - [s. 158 Discretion as to length of term](section/158.md)
+    - [s. 159 Consecutive detention and training order and sentence of detention: effect of early release decision](section/159.md)
+    - [s. 160 Detention and training orders: time to count as served](section/160.md)
+  - Youth rehabilitation orders
+    - [s. 161 Youth rehabilitation orders](section/161.md)
+  - Abolition of reparation orders
+    - [s. 162 Abolition of reparation orders](section/162.md)
+- PART 9 Secure children’s homes and secure 16 to 19 Academies
+  - [s. 163 Temporary release from secure children’s homes](section/163.md)
+  - [s. 164 Secure 16 to 19 Academies](section/164.md)
+- PART 10 Management of offenders
+  - CHAPTER 1 Serious violence reduction orders
+    - [s. 165 Serious violence reduction orders](section/165.md)
+    - [s. 166 Serious violence reduction orders: piloting](section/166.md)
+  - CHAPTER 2 Knife crime prevention orders
+    - [s. 167 Knife crime prevention order on conviction: adjournment of proceedings](section/167.md)
+  - CHAPTER 3 Management of sex offenders
+    - Notification requirements
+      - [s. 168 Locations for sexual offender notification](section/168.md)
+      - [s. 169 Offences outside the United Kingdom: notification requirements](section/169.md)
+      - [s. 170 Notification orders: Scotland](section/170.md)
+    - Sexual harm prevention orders and sexual risk orders
+      - [s. 171 Applications by British Transport Police and Ministry of Defence Police](section/171.md)
+      - [s. 172 List of countries](section/172.md)
+      - [s. 173 Requirement for courts and certain persons to have regard to the list of countries](section/173.md)
+      - [s. 174 Standard of proof](section/174.md)
+      - [s. 175 Sexual harm prevention orders: power to impose positive requirements](section/175.md)
+      - [s. 176 Sexual risk orders: power to impose positive requirements](section/176.md)
+      - [s. 177 Positive requirements: further amendments](section/177.md)
+      - [s. 178 Electronic monitoring requirements](section/178.md)
+      - [s. 179 Positive requirements and electronic monitoring requirements: service courts](section/179.md)
+    - Orders made in different parts of the United Kingdom
+      - [s. 180 Enforcement of requirements of orders made in Scotland or Northern Ireland](section/180.md)
+      - [s. 181 Effect of conviction for breach of Scottish order etc](section/181.md)
+      - [s. 182 Orders superseding, or superseded by, Scottish orders](section/182.md)
+      - [s. 183 Variation etc of order by court in another part of the United Kingdom](section/183.md)
+  - CHAPTER 4 Management of terrorist offenders
+    - [s. 184 Terrorist offenders released on licence: arrest without warrant pending recall decision](section/184.md)
+    - [s. 185 Power to search terrorist offenders released on licence](section/185.md)
+    - [s. 186 Search of premises of offender released on licence for purposes connected with protection from risk of terrorism](section/186.md)
+    - [s. 187 Powers of seizure and retention](section/187.md)
+    - [s. 188 Sections 184 to 187: consequential provision](section/188.md)
+    - [s. 189 Arrangements for assessing etc risks posed by certain offenders](section/189.md)
+  - CHAPTER 5 Football banning orders
+    - [s. 190 Football banning orders: relevant offences](section/190.md)
+    - [s. 191 Football banning orders: power to amend list of relevant offences](section/191.md)
+    - [s. 192 Football banning orders: requirement to make order on conviction etc](section/192.md)
+- PART 11 Rehabilitation of offenders
+  - [s. 193 Rehabilitation of offenders](section/193.md)
+- PART 12 Disregards and pardons for certain historical offences
+  - [s. 194 Disregard of certain convictions or cautions](section/194.md)
+  - [s. 195 Pardons for certain convictions or cautions](section/195.md)
+- PART 13 Procedures in courts and tribunals
+  - Juries
+    - [s. 196 British Sign Language interpreters for deaf jurors](section/196.md)
+    - [s. 197 Continuation of criminal trial on death or discharge of a juror](section/197.md)
+  - Transmission and recording of court and tribunal proceedings
+    - [s. 198 Remote observation and recording of court and tribunal proceedings](section/198.md)
+    - [s. 199 Offence of recording or transmission in relation to remote proceedings](section/199.md)
+    - [s. 200 Expansion of use of video and audio links in criminal proceedings](section/200.md)
+    - [s. 201 Repeal of temporary provision](section/201.md)
+    - [s. 202 Expedited procedure for initial regulations about remote observation of proceedings](section/202.md)
+- PART 14 Final provisions
+  - [s. 203 Financial provision](section/203.md)
+  - [s. 204 Minor amendments arising out of sentencing consolidation](section/204.md)
+  - [s. 205 Power to make consequential provision](section/205.md)
+  - [s. 206 Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act](section/206.md)
+  - [s. 207 Extent](section/207.md)
+  - [s. 208 Commencement](section/208.md)
+  - [s. 209 Short title](section/209.md)
+- SCHEDULE 1 Specified authorities and local government areas
+- SCHEDULE 2 Educational, prison and youth custody authorities
+- SCHEDULE 3 Extraction of information from electronic devices: authorised persons
+  - PART 1 Authorised persons in relation to all purposes within section 37 or 41
+  - PART 2 Authorised persons in relation to all purposes within section 37
+  - PART 3 Authorised persons in relation to the prevention of crime etc only
+- SCHEDULE 4 Pre-charge bail
+  - PART 1 Grant of pre-charge bail
+    - [Sch. 4 para. 1 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Amendments to the Criminal Justice Act 2003 (c. 44)](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Amendments to the Criminal Justice Act 2003 (c. 44)](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16 Amendments to the Criminal Justice Act 2003 (c. 44)](schedule/4/paragraph/16.md)
+  - PART 2 Factors to be taken into account in deciding whether to grant pre-charge bail
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - PART 3 Duty to seek views of alleged victims
+    - [Sch. 4 para. 19 Amendments to the Bail Act 1976 (c. 63)](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22 Amendments to the Police and Criminal Evidence Act 1984 (c. 60)](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23 Amendments to the Criminal Justice Act 2003 (c. 44)](schedule/4/paragraph/23.md)
+  - PART 4 Limits on period of bail without charge
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+  - PART 5 Police detention after arrest for breach of pre-charge bail etc
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - PART 6 Guidance on pre-charge bail
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+- SCHEDULE 5 Overseas production orders
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Special procedure for access to material relating to human remains
+  - [Sch. 6 para. 1 Making of orders by judge](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Making of orders by judge](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Making of orders by judge](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Making of orders by judge](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Notices of applications for orders](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Notices of applications for orders](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Failure to comply with order](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Issue of warrants by judge](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Issue of warrants by judge](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Issue of warrants by judge](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Issue of warrants by judge](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12 Procedural rules](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13 Costs](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14 Interpretation](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Expedited public spaces protection orders
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+- SCHEDULE 8 Road traffic offences: minor and consequential amendments
+  - [Sch. 8 para. 1 Road Traffic Act 1988 (c. 52)](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Road Traffic Offenders Act 1988 (c. 55)](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Crime (International Co-operation) Act 2003 (c. 32)](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Armed Forces Act 2006 (c. 52)](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Surrender of licences and test certificates by new drivers
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Surrender of licences: minor and consequential amendments
+  - PART 1 Amendments to the Road Traffic Offenders Act 1988
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - PART 2 Amendments to other Acts
+    - [Sch. 10 para. 20 Road Traffic Act 1988 (c. 52)](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21 Road Traffic Act 1988 (c. 52)](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22 Road Traffic Act 1988 (c. 52)](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23 Road Traffic Act 1988 (c. 52)](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24 Road Traffic Act 1988 (c. 52)](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25 Crime (International Co-operation) Act 2003 (c. 32)](schedule/10/paragraph/25.md)
+  - PART 3 Consequential repeals of amending enactments
+    - [Sch. 10 para. 26 Road Traffic (New Drivers) Act 1995 (c. 13)](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27 Access to Justice Act 1999 (c. 22)](schedule/10/paragraph/27.md)
+    - [Sch. 10 para. 28 Police Reform Act 2002 (c. 30)](schedule/10/paragraph/28.md)
+    - [Sch. 10 para. 29 Courts Act 2003 (c. 39)](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30 Road Safety Act 2006 (c. 49)](schedule/10/paragraph/30.md)
+    - [Sch. 10 para. 31 Road Safety Act 2006 (c. 49)](schedule/10/paragraph/31.md)
+    - [Sch. 10 para. 32 Road Safety Act 2006 (c. 49)](schedule/10/paragraph/32.md)
+    - [Sch. 10 para. 33 Road Safety Act 2006 (c. 49)](schedule/10/paragraph/33.md)
+    - [Sch. 10 para. 34 Road Safety Act 2006 (c. 49)](schedule/10/paragraph/34.md)
+    - [Sch. 10 para. 35 Criminal Justice and Courts Act 2015 (c. 2)](schedule/10/paragraph/35.md)
+- SCHEDULE 11 Cautions: consequential amendments
+  - [Sch. 11 para. 1 Rehabilitation of Offenders Act 1974 (c. 53)](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2 Rehabilitation of Offenders Act 1974 (c. 53)](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3 Rehabilitation of Offenders Act 1974 (c. 53)](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4 Bail Act 1976 (c. 63)](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 Bail Act 1976 (c. 63)](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 Bail Act 1976 (c. 63)](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7 Bail Act 1976 (c. 63)](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8 Matrimonial and Family Proceedings Act 1984 (c. 42)](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9 Police Act 1997 (c. 50)](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10 Police Act 1997 (c. 50)](schedule/11/paragraph/10.md)
+  - [Sch. 11 para. 11 Police Act 1997 (c. 50)](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/12.md)
+  - [Sch. 11 para. 13 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/13.md)
+  - [Sch. 11 para. 14 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/14.md)
+  - [Sch. 11 para. 15 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/15.md)
+  - [Sch. 11 para. 16 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/16.md)
+  - [Sch. 11 para. 17 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/17.md)
+  - [Sch. 11 para. 18 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 19 Police and Criminal Evidence Act 1984 (c. 60)](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 20 Crime and Disorder Act 1998 (c. 37)](schedule/11/paragraph/20.md)
+  - [Sch. 11 para. 21 Crime and Disorder Act 1998 (c. 37)](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22 Crime and Disorder Act 1998 (c. 37)](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 23 Police Reform Act 2002 (c. 30)](schedule/11/paragraph/23.md)
+  - [Sch. 11 para. 24 Police Reform Act 2002 (c. 30)](schedule/11/paragraph/24.md)
+  - [Sch. 11 para. 25 Police Reform Act 2002 (c. 30)](schedule/11/paragraph/25.md)
+  - [Sch. 11 para. 26 Police Reform Act 2002 (c. 30)](schedule/11/paragraph/26.md)
+  - [Sch. 11 para. 27 Licensing Act 2003 (c. 17)](schedule/11/paragraph/27.md)
+  - [Sch. 11 para. 28 Courts Act 2003 (c. 39)](schedule/11/paragraph/28.md)
+  - [Sch. 11 para. 29 Courts Act 2003 (c. 39)](schedule/11/paragraph/29.md)
+  - [Sch. 11 para. 30 Courts Act 2003 (c. 39)](schedule/11/paragraph/30.md)
+  - [Sch. 11 para. 31 Criminal Justice Act 2003 (c. 44)](schedule/11/paragraph/31.md)
+  - [Sch. 11 para. 32 Offender Management Act 2007 (c. 21)](schedule/11/paragraph/32.md)
+  - [Sch. 11 para. 33 Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](schedule/11/paragraph/33.md)
+  - [Sch. 11 para. 34 Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](schedule/11/paragraph/34.md)
+  - [Sch. 11 para. 35 Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](schedule/11/paragraph/35.md)
+  - [Sch. 11 para. 36 Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](schedule/11/paragraph/36.md)
+  - [Sch. 11 para. 37 Criminal Justice and Courts Act 2015 (c. 2)](schedule/11/paragraph/37.md)
+  - [Sch. 11 para. 38 Other consequential repeals](schedule/11/paragraph/38.md)
+  - [Sch. 11 para. 39 Other consequential repeals](schedule/11/paragraph/39.md)
+- SCHEDULE 12 Minimum sentences for particular offences: consequential amendments
+  - [Sch. 12 para. 1 Mental Health Act 1983 (c. 20)](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9 Armed Forces Act 2006 (c. 52)](schedule/12/paragraph/9.md)
+- SCHEDULE 13 Removal of attendance centre requirements for adults: related amendments
+  - [Sch. 13 para. 1 Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2 Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3 Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4 Criminal Justice Act 2003 (c. 44)](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5 Criminal Justice Act 2003 (c. 44)](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6 Criminal Justice Act 2003 (c. 44)](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7 Criminal Justice Act 2003 (c. 44)](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8 Sentencing Code](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9 Sentencing Code](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10 Sentencing Code](schedule/13/paragraph/10.md)
+- SCHEDULE 14 Community and suspended sentence orders: special procedures relating to review and breach
+  - PART 1 Amendments to the Sentencing Code
+    - [Sch. 14 para. 1 Introductory](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2 Orders that qualify for special procedures](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3 Review of community orders](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4 Review of community orders](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5 Review of community orders](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6 Review of suspended sentence orders](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7 Review of suspended sentence orders](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8 Review of suspended sentence orders](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9 Review of suspended sentence orders](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10 Review of suspended sentence orders](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11 Review of drug rehabilitation requirements](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12 Breach of community order: power to commit to custody](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13 Breach of suspended sentence order: power to commit to custody](schedule/14/paragraph/13.md)
+  - PART 2 Prospective amendments
+    - [Sch. 14 para. 14 Prospective amendments relating to abolition of detention in a young offender institution](schedule/14/paragraph/14.md)
+- SCHEDULE 15 Community and suspended sentence orders: drug testing requirement
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+- SCHEDULE 16 Detention and training orders: time to count as served
+  - PART 1 Detention and training orders made under Sentencing Code
+    - [Sch. 16 para. 1 Criminal Justice Act 2003 (c. 44)](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2 Criminal Justice Act 2003 (c. 44)](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3 Criminal Justice Act 2003 (c. 44)](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4 Criminal Justice Act 2003 (c. 44)](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11 Sentencing Act 2020 (c. 17)](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12 Other enactments](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13 Other enactments](schedule/16/paragraph/13.md)
+  - PART 2 Detention and training orders made under Armed Forces Act 2006
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+- SCHEDULE 17 Youth rehabilitation orders
+  - PART 1 Electronic monitoring: general requirements
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - PART 2 Electronic whereabouts monitoring requirements
+    - [Sch. 17 para. 2 Criminal Justice and Immigration Act 2008 (c. 4)](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3 Sentencing Code](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4 Sentencing Code](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5 Sentencing Code](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6 Sentencing Code](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7 Sentencing Code](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8 Sentencing Code](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9 Sentencing Code](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10 Sentencing Code](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11 Sentencing Code](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12 Sentencing Code](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13 Sentencing Code](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14 Sentencing Code](schedule/17/paragraph/14.md)
+  - PART 3 Intensive supervision and surveillance
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+  - PART 4 Curfew requirements and education requirements
+    - [Sch. 17 para. 18 Introductory](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19 Curfew requirement](schedule/17/paragraph/19.md)
+    - [Sch. 17 para. 20 Curfew requirement](schedule/17/paragraph/20.md)
+    - [Sch. 17 para. 21 Education requirement](schedule/17/paragraph/21.md)
+  - PART 5 The responsible officer
+    - [Sch. 17 para. 22 Criminal Justice and Immigration Act 2008 (c. 4)](schedule/17/paragraph/22.md)
+    - [Sch. 17 para. 23 Sentencing Code](schedule/17/paragraph/23.md)
+- SCHEDULE 18 Variation etc of order by court in another part of the United Kingdom
+  - PART 1 Variation etc of order made in England and Wales or Scotland by court in Northern Ireland
+    - [Sch. 18 para. 1 Amendments of the Sexual Offences Act 2003 (c. 42)](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2 Amendments of the Sexual Offences Act 2003 (c. 42)](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3 Amendments of the Sentencing Code](schedule/18/paragraph/3.md)
+  - PART 2 Variation of order by court in Scotland
+    - [Sch. 18 para. 4 Amendments of the Sexual Offences Act 2003 (c. 42)](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5 Amendments of the Sentencing Code](schedule/18/paragraph/5.md)
+  - PART 3 Variation of order by court in England and Wales
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+- SCHEDULE 19 Management of terrorist offenders: provision consequential on sections 184 to 187
+  - [Sch. 19 para. 1 Police and Criminal Evidence Act 1984 (c. 60)](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2 Criminal Justice and Police Act 2001 (c. 16)](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3 Counter-Terrorism Act 2008 (c. 28)](schedule/19/paragraph/3.md)
+  - [Sch. 19 para. 4 Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))](schedule/19/paragraph/4.md)
+  - [Sch. 19 para. 5 Criminal Justice (Scotland) Act 2016 (asp 1)](schedule/19/paragraph/5.md)
+- SCHEDULE 20 Further provision about video and audio links in criminal proceedings
+  - [Sch. 20 para. 1 Criminal Justice Act 2003](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2 Extradition Act 2003](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3 Consequential amendments of other enactments](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+- SCHEDULE 21 Minor amendments in relation to the sentencing consolidation
+  - PART 1 Amendments to the Sentencing Act 2020
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - PART 2 Amendments to other enactments
+    - [Sch. 21 para. 12 Criminal Justice Act 2003 (c. 44)](schedule/21/paragraph/12.md)
+    - [Sch. 21 para. 13 Counter-Terrorism and Sentencing Act 2021 (c. 11)](schedule/21/paragraph/13.md)
