@@ -1,0 +1,1476 @@
+# Insolvency Act 1986
+
+1986 c. 45. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 20 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
+
+Source: https://www.legislation.gov.uk/ukpga/1986/45/2026-10-01
+
+## Contents
+
+- The First Group of Parts Company Insolvency; Companies Winding Up
+- Part A1 Moratorium
+  - Chapter 1 Introductory
+    - [s. A1 Overview](section/A1.md)
+    - [s. A2 Eligible companies](section/A2.md)
+  - Chapter 2 Obtaining a moratorium
+    - [s. A3 Obtaining a moratorium by filing or lodging documents at court](section/A3.md)
+    - [s. A4 Obtaining a moratorium for company subject to winding-up petition](section/A4.md)
+    - [s. A5 Obtaining a moratorium for other overseas companies](section/A5.md)
+    - [s. A6 The relevant documents](section/A6.md)
+    - [s. A7 Beginning of moratorium and appointment of monitor](section/A7.md)
+    - [s. A8 Obligations to notify where moratorium comes into force](section/A8.md)
+  - Chapter 3 Length of moratorium
+    - Initial period
+      - [s. A9 End of the moratorium](section/A9.md)
+    - Extension of moratorium
+      - [s. A10 Extension by directors without creditor consent](section/A10.md)
+      - [s. A11 Extension by directors with creditor consent](section/A11.md)
+      - [s. A12 Creditor consent for the purposes of section A11](section/A12.md)
+      - [s. A13 Extension by court on application of directors](section/A13.md)
+      - [s. A14 Extension while proposal for CVA pending](section/A14.md)
+      - [s. A15 Extension by court in the course of other proceedings](section/A15.md)
+    - Early termination on certain grounds
+      - [s. A16 Company enters into insolvency procedure etc](section/A16.md)
+    - Obligations to notify change in end of moratorium
+      - [s. A17 Obligations to notify change in end of moratorium](section/A17.md)
+  - Chapter 4 Effects of moratorium
+    - Introductory
+      - [s. A18 Overview and construction of references to payment holidays](section/A18.md)
+    - Publicity about moratorium
+      - [s. A19 Publicity about moratorium](section/A19.md)
+    - Effect on creditors etc
+      - [s. A20 Restrictions on insolvency proceedings etc](section/A20.md)
+      - [s. A21 Restrictions on enforcement and legal proceedings](section/A21.md)
+      - [s. A22 Floating charges](section/A22.md)
+      - [s. A23 Enforcement of security granted during moratorium](section/A23.md)
+    - Notification of insolvency proceedings
+      - [s. A24 Duty of directors to notify monitor of insolvency proceedings etc](section/A24.md)
+    - Restrictions on transactions
+      - [s. A25 Restrictions on obtaining credit](section/A25.md)
+      - [s. A26 Restrictions on grant of security etc](section/A26.md)
+      - [s. A27 Prohibition on entering into market contracts etc](section/A27.md)
+    - Restrictions on payments and disposal of property
+      - [s. A28 Restrictions on payment of certain pre-moratorium debts](section/A28.md)
+      - [s. A29 Restrictions on disposal of property](section/A29.md)
+      - [s. A30 Restrictions on disposal of hire-purchase property](section/A30.md)
+    - Disposals of property free from charges etc
+      - [s. A31 Disposal of charged property free from charge](section/A31.md)
+      - [s. A32 Disposal of hire-purchase property](section/A32.md)
+    - Effect of contravention of certain provisions of Chapter
+      - [s. A33 Contravention of certain requirements imposed under this Chapter](section/A33.md)
+  - CHAPTER 5 The monitor
+    - [s. A34 Status of monitor](section/A34.md)
+    - [s. A35 Monitoring](section/A35.md)
+    - [s. A36 Provision of information to monitor](section/A36.md)
+    - [s. A37 Application by monitor for directions](section/A37.md)
+    - [s. A38 Termination of moratorium by monitor](section/A38.md)
+    - [s. A39 Replacement of monitor or appointment of additional monitor](section/A39.md)
+    - [s. A40 Application of Part where two or more persons act as monitor](section/A40.md)
+    - [s. A41 Presumption of validity](section/A41.md)
+  - Chapter 6 Challenges
+    - [s. A42 Challenge to monitor’s actions](section/A42.md)
+    - [s. A43 Challenges to monitor remuneration in insolvency proceedings](section/A43.md)
+    - [s. A44 Challenge to directors’ actions](section/A44.md)
+    - [s. A45 Challenge brought by Board of the Pension Protection Fund](section/A45.md)
+  - CHAPTER 7 Offences: general
+    - [s. A46 Offence of fraud etc during or in anticipation of moratorium](section/A46.md)
+    - [s. A47 Offence of false representation etc to obtain a moratorium](section/A47.md)
+    - [s. A48 Prosecution of delinquent officers of company](section/A48.md)
+  - Chapter 8 Miscellaneous and general
+    - Special rules for certain kinds of company etc
+      - [s. A49 Regulated companies: modifications to this Part](section/A49.md)
+      - [s. A50 Power to modify this Part etc in relation to certain companies](section/A50.md)
+      - [s. A51 Power to make provision in connection with pension schemes](section/A51.md)
+    - Floating charges
+      - [s. A52 Void provisions in floating charge documents](section/A52.md)
+    - Interpretation of this Part
+      - [s. A53 Meaning of “pre-moratorium debt” and “moratorium debt”](section/A53.md)
+      - [s. A54 Interpretation of this Part: general](section/A54.md)
+    - Regulations
+      - [s. A55 Regulations](section/A55.md)
+- Part I Company Voluntary Arrangements
+  - The Proposal
+    - [s. 1 Those who may propose an arrangement.](section/1.md)
+    - [s. 1A Moratorium.](section/1A.md)
+    - [s. 2 Procedure where nominee is not the liquidator or administrator.](section/2.md)
+    - [s. 3 Consideration of proposal.](section/3.md)
+  - Consideration and implementation of proposal
+    - [s. 4 Decisions of the company and its creditors.](section/4.md)
+    - [s. 4A Approval of arrangement.](section/4A.md)
+    - [s. 5 Effect of approval.](section/5.md)
+    - [s. 6 Challenge of decisions.](section/6.md)
+    - [s. 6A False representations, etc.](section/6A.md)
+    - [s. 7 Implementation of proposal.](section/7.md)
+    - [s. 7A Prosecution of delinquent officers of company.](section/7A.md)
+    - [s. 7B Arrangements coming to an end prematurely.](section/7B.md)
+- Part II Administration
+  - [s. 8 Administration](section/8.md)
+- Part II Administration Orders
+  - Making etc. of administration order
+    - [s. 9 Application for order.](section/9.md)
+    - [s. 10 Effect of application.](section/10.md)
+    - [s. 11 Effect of order.](section/11.md)
+    - [s. 12 Notification of order.](section/12.md)
+  - Administrators
+    - [s. 13 Appointment of administrator.](section/13.md)
+    - [s. 14 General powers.](section/14.md)
+    - [s. 15 Power to deal with charged property, etc.](section/15.md)
+    - [s. 16 Operation of s. 15 in Scotland.](section/16.md)
+    - [s. 17 General duties.](section/17.md)
+    - [s. 18 Discharge or variation of administration order.](section/18.md)
+    - [s. 19 Vacation of office.](section/19.md)
+    - [s. 20 Release of administrator.](section/20.md)
+  - Ascertainment and investigation of company’s affairs
+    - [s. 21 Information to be given by administrator.](section/21.md)
+    - [s. 22 Statement of affairs to be submitted to administrator.](section/22.md)
+  - Administrator’s proposals
+    - [s. 23 Statement of proposals.](section/23.md)
+    - [s. 24 Consideration of proposals by creditors’ meeting.](section/24.md)
+    - [s. 25 Approval of substantial revisions.](section/25.md)
+  - Miscellaneous
+    - [s. 26 Creditors’ committee.](section/26.md)
+    - [s. 27 Protection of interests of creditors and members.](section/27.md)
+- Part III Receivership
+  - Chapter I Receivers and Managers (England and Wales)
+    - Preliminary and general provisions
+      - [s. 28 Extent of this Chapter.](section/28.md)
+      - [s. 29 Definitions.](section/29.md)
+      - [s. 30 Disqualification of body corporate from acting as receiver.](section/30.md)
+      - [s. 31 Disqualification of bankrupt or person in respect of whom a debt relief order is made](section/31.md)
+      - [s. 32 Power for court to appoint official receiver.](section/32.md)
+    - Receivers and managers appointed out of court
+      - [s. 33 Time from which appointment is effective.](section/33.md)
+      - [s. 34 Liability for invalid appointment.](section/34.md)
+      - [s. 35 Application to court for directions.](section/35.md)
+      - [s. 36 Court’s power to fix remuneration.](section/36.md)
+      - [s. 37 Liability for contracts, etc.](section/37.md)
+      - [s. 38 Receivership accounts to be delivered to registrar.](section/38.md)
+    - Provisions applicable to every receivership
+      - [s. 39 Notification that receiver or manager appointed.](section/39.md)
+      - [s. 40 Payment of debts out of assets subject to floating charge.](section/40.md)
+      - [s. 41 Enforcement of duty to make returns.](section/41.md)
+    - Administrative receivers: general
+      - [s. 42 General powers.](section/42.md)
+      - [s. 43 Power to dispose of charged property, etc.](section/43.md)
+      - [s. 44 Agency and liability for contracts.](section/44.md)
+      - [s. 45 Vacation of office.](section/45.md)
+    - Administrative receivers: ascertainment and investigation of company’s affairs
+      - [s. 46 Information to be given by administrative receiver.](section/46.md)
+      - [s. 47 Statement of affairs to be submitted.](section/47.md)
+      - [s. 48 Report by administrative receiver.](section/48.md)
+      - [s. 49 Committee of creditors.](section/49.md)
+  - Chapter II Receivers (Scotland)
+    - [s. 50 Extent of this Chapter.](section/50.md)
+    - [s. 51 Power to appoint receiver.](section/51.md)
+    - [s. 52 Circumstances justifying appointment.](section/52.md)
+    - [s. 53 Mode of appointment by holder of charge.](section/53.md)
+    - [s. 54 Appointment by court.](section/54.md)
+    - [s. 55 Powers of receiver.](section/55.md)
+    - [s. 56 Precedence among receivers.](section/56.md)
+    - [s. 57 Agency and liability of receiver for contracts.](section/57.md)
+    - [s. 58 Remuneration of receiver.](section/58.md)
+    - [s. 59 Priority of debts.](section/59.md)
+    - [s. 60 Distribution of moneys.](section/60.md)
+    - [s. 61 Disposal of interest in property.](section/61.md)
+    - [s. 62 Cessation of appointment of receiver.](section/62.md)
+    - [s. 63 Powers of court.](section/63.md)
+    - [s. 64 Notification that receiver appointed.](section/64.md)
+    - [s. 65 Information to be given by receiver.](section/65.md)
+    - [s. 66 Company’s statement of affairs.](section/66.md)
+    - [s. 67 Report by receiver.](section/67.md)
+    - [s. 68 Committee of creditors](section/68.md)
+    - [s. 69 Enforcement of receiver’s duty to make returns, etc.](section/69.md)
+    - [s. 70 Interpretation for Chapter II.](section/70.md)
+    - [s. 71 Prescription of forms, etc.; regulations.](section/71.md)
+  - Chapter III Receivers’ Powers in Great Britain as a Whole
+    - [s. 72 Cross-border operation of receivership provisions.](section/72.md)
+  - CHAPTER IV PROHIBITION OF APPOINTMENT OF ADMINISTRATIVE RECEIVER
+    - [s. 72A Floating charge holder not to appoint administrative receiver](section/72A.md)
+    - [s. 72B First exception: capital market](section/72B.md)
+    - [s. 72C Second exception: public-private partnership](section/72C.md)
+    - [s. 72D Third exception: utilities](section/72D.md)
+    - [s. 72DA Exception in respect of urban regeneration projects](section/72DA.md)
+    - [s. 72E Fourth exception: project finance](section/72E.md)
+    - [s. 72F Fifth exception: financial market](section/72F.md)
+    - [s. 72G Sixth exception: social landlords](section/72G.md)
+    - [s. 72GA Exception in relation to protected railway companies etc.](section/72GA.md)
+    - [s. 72H Sections 72A to 72G: supplementary](section/72H.md)
+- Part IV Winding Up of Companies Registered under the Companies Acts
+  - Chapter I Preliminary
+    - Introductory
+      - [s. 73 Scheme of this Part](section/73.md)
+    - Contributories
+      - [s. 74 Liability as contributories of present and past members.](section/74.md)
+      - [s. 75 Directors, etc. with unlimited liability.](section/75.md)
+      - [s. 76 Liability of past directors and shareholders.](section/76.md)
+      - [s. 77 Limited company formerly unlimited.](section/77.md)
+      - [s. 78 Unlimited company formerly limited.](section/78.md)
+      - [s. 79 Meaning of “contributory”.](section/79.md)
+      - [s. 80 Nature of contributory’s liability.](section/80.md)
+      - [s. 81 Contributories in case of death of a member.](section/81.md)
+      - [s. 82 Effect of contributory’s bankruptcy.](section/82.md)
+      - [s. 83 Companies registered but not formed under the Companies Act 2006](section/83.md)
+  - Chapter II Voluntary Winding Up (Introductory and General)
+    - Resolutions for, and commencement of, voluntary winding up
+      - [s. 84 Circumstances in which company may be wound up voluntarily.](section/84.md)
+      - [s. 85 Notice of resolution to wind up.](section/85.md)
+      - [s. 86 Commencement of winding up.](section/86.md)
+    - Consequences of resolution to wind up
+      - [s. 87](section/87.md)
+      - [s. 88 Avoidance of share transfers, etc. after winding-up resolution.](section/88.md)
+    - Declaration of solvency
+      - [s. 89 Statutory declaration of solvency.](section/89.md)
+      - [s. 90 Distinction between “members’” and “creditors’” voluntary winding up.](section/90.md)
+  - Chapter III Members’ Voluntary Winding Up
+    - [s. 91 Appointment of liquidator.](section/91.md)
+    - [s. 92 Power to fill vacancy in office of liquidator.](section/92.md)
+    - [s. 92A Progress report to company ...](section/92A.md)
+    - [s. 93 General company meeting at each year’s end (Scotland)](section/93.md)
+    - [s. 94 Final account prior to dissolution](section/94.md)
+    - [s. 95 Effect of company’s insolvency.](section/95.md)
+    - [s. 96 Conversion to creditors’ voluntary winding up.](section/96.md)
+  - Chapter IV Creditors’ Voluntary Winding Up
+    - [s. 97 Application of this Chapter.](section/97.md)
+    - [s. 98 Meeting of creditors.](section/98.md)
+    - [s. 99 Directors to lay statement of affairs before creditors.](section/99.md)
+    - [s. 100 Appointment of liquidator.](section/100.md)
+    - [s. 101 Appointment of liquidation committee.](section/101.md)
+    - [s. 102 Creditors’ meeting where winding up converted under s. 96.](section/102.md)
+    - [s. 103 Cesser of directors’ powers.](section/103.md)
+    - [s. 104 Vacancy in office of liquidator.](section/104.md)
+    - [s. 104A Progress report to company and creditors ... ...](section/104A.md)
+    - [s. 105 Meetings of company and creditors at each year’s end (Scotland).](section/105.md)
+    - [s. 106 Final account prior to dissolution.](section/106.md)
+  - Chapter V Provisions Applying to both kinds of Voluntary Winding Up
+    - [s. 107 Distribution of company’s property.](section/107.md)
+    - [s. 108 Appointment or removal of liquidator by the court.](section/108.md)
+    - [s. 109 Notice by liquidator of his appointment.](section/109.md)
+    - [s. 110 Acceptance of shares, etc., as consideration for sale of company property.](section/110.md)
+    - [s. 111 Dissent from arrangement under s. 110.](section/111.md)
+    - [s. 112 Reference of questions to court.](section/112.md)
+    - [s. 113 Court’s power to control proceedings (Scotland).](section/113.md)
+    - [s. 114 No liquidator appointed or nominated by company.](section/114.md)
+    - [s. 115 Expenses of voluntary winding up.](section/115.md)
+    - [s. 116 Saving for certain rights.](section/116.md)
+  - Chapter VI Winding Up by the Court
+    - Jurisdiction (England and Wales)
+      - [s. 117 High Court and county court jurisdiction.](section/117.md)
+      - [s. 118 Proceedings taken in wrong court.](section/118.md)
+      - [s. 119 Proceedings in county court; case stated for High Court.](section/119.md)
+    - Jurisdiction (Scotland)
+      - [s. 120 Court of Session and sheriff court jurisdiction.](section/120.md)
+      - [s. 121 Power to remit winding up to Lord Ordinary.](section/121.md)
+    - Grounds and effect of winding-up petition
+      - [s. 122 Circumstances in which company may be wound up by the court.](section/122.md)
+      - [s. 123 Definition of inability to pay debts.](section/123.md)
+      - [s. 124 Application for winding up.](section/124.md)
+      - [s. 124A Petition for winding up on grounds of public interest.](section/124A.md)
+      - [s. 124B Petition for winding up of SE](section/124B.md)
+      - [s. 124C Petition for winding up of SCE](section/124C.md)
+      - [s. 125 Powers of court on hearing of petition.](section/125.md)
+      - [s. 126 Power to stay or restrain proceedings against company.](section/126.md)
+      - [s. 127 Avoidance of property dispositions, etc.](section/127.md)
+      - [s. 128 Avoidance of attachments, etc.](section/128.md)
+    - Commencement of winding up
+      - [s. 129 Commencement of winding up by the court.](section/129.md)
+      - [s. 130 Consequences of winding-up order.](section/130.md)
+    - Investigation procedures
+      - [s. 131 Company’s statement of affairs.](section/131.md)
+      - [s. 132 Investigation by official receiver.](section/132.md)
+      - [s. 133 Public examination of officers](section/133.md)
+      - [s. 134 Enforcement of s. 133.](section/134.md)
+    - Appointment of liquidator
+      - [s. 135 Appointment and powers of provisional liquidator.](section/135.md)
+      - [s. 136 Functions of official receiver in relation to office of liquidator.](section/136.md)
+      - [s. 137 Appointment by Secretary of State.](section/137.md)
+      - [s. 138 Appointment of liquidator in Scotland.](section/138.md)
+      - [s. 139 Choice of liquidator by creditors and contributories.](section/139.md)
+      - [s. 140 Appointment by the court following administration or voluntary arrangement.](section/140.md)
+    - Liquidation committees
+      - [s. 141 Liquidation committee (England and Wales).](section/141.md)
+      - [s. 142 Liquidation committee (Scotland).](section/142.md)
+    - The liquidator’s functions
+      - [s. 143 General functions in winding up by the court.](section/143.md)
+      - [s. 144 Custody of company’s property.](section/144.md)
+      - [s. 145 Vesting of company property in liquidator.](section/145.md)
+      - [s. 146 Final account](section/146.md)
+      - [s. 146A Official receiver’s duty to send statement to registrar about other proceedings](section/146A.md)
+    - General powers of court
+      - [s. 147 Power to stay or sist winding up.](section/147.md)
+      - [s. 148 Settlement of list of contributories and application of assets.](section/148.md)
+      - [s. 149 Debts due from contributory to company.](section/149.md)
+      - [s. 150 Power to make calls.](section/150.md)
+      - [s. 151 Payment into bank of money due to company.](section/151.md)
+      - [s. 152 Order on contributory to be conclusive evidence.](section/152.md)
+      - [s. 153 Power to exclude creditors not proving in time.](section/153.md)
+      - [s. 154 Adjustment of rights of contributories.](section/154.md)
+      - [s. 155 Inspection of books by creditors, etc.](section/155.md)
+      - [s. 156 Payment of expenses of winding up.](section/156.md)
+      - [s. 157 Attendance at company meetings (Scotland).](section/157.md)
+      - [s. 158 Power to arrest absconding contributory.](section/158.md)
+      - [s. 159 Powers of court to be cumulative.](section/159.md)
+      - [s. 160 Delegation of powers to liquidator (England and Wales).](section/160.md)
+    - Enforcement of, and appeal from, orders
+      - [s. 161 Orders for calls on contributories (Scotland).](section/161.md)
+      - [s. 162 Appeals from orders in Scotland.](section/162.md)
+  - Chapter VII Liquidators
+    - Preliminary
+      - [s. 163 Style and title of liquidators.](section/163.md)
+      - [s. 164 Corrupt inducement affecting appointment.](section/164.md)
+    - Liquidator’s powers and duties
+      - [s. 165 Voluntary winding up.](section/165.md)
+      - [s. 166 Creditors’ voluntary winding up.](section/166.md)
+      - [s. 167 Winding up by the court.](section/167.md)
+      - [s. 168 Supplementary powers (England and Wales).](section/168.md)
+      - [s. 169 Supplementary powers (Scotland).](section/169.md)
+      - [s. 170 Enforcement of liquidator’s duty to make returns, etc.](section/170.md)
+    - Removal; vacation of office
+      - [s. 171 Removal, etc. (voluntary winding up).](section/171.md)
+      - [s. 172 Removal, etc. (winding up by the court).](section/172.md)
+    - Release of liquidator
+      - [s. 173 Release (voluntary winding up).](section/173.md)
+      - [s. 174 Release (winding up by the court).](section/174.md)
+  - Chapter VIII Provisions of General Application in Winding Up
+    - Moratorium: order of priority of payment of debts
+      - [s. 174A Moratorium debts etc: priority](section/174A.md)
+    - Preferential debts
+      - [s. 175 Preferential debts (general provision).](section/175.md)
+      - [s. 176 Preferential charge on goods distrained, etc.](section/176.md)
+    - Non-preferential debts
+      - [s. 176AZA Non-preferential debts of financial institutions](section/176AZA.md)
+    - Property subject to floating charge
+      - [s. 176ZA Payment of expenses of winding up (England and Wales)](section/176ZA.md)
+      - [s. 176ZB Application of proceeds of office-holder claims](section/176ZB.md)
+      - [s. 176A Share of assets for unsecured creditors](section/176A.md)
+    - Special managers
+      - [s. 177 Power to appoint special manager.](section/177.md)
+    - Disclaimer (England and Wales only)
+      - [s. 178 Power to disclaim onerous property.](section/178.md)
+      - [s. 179 Disclaimer of leaseholds.](section/179.md)
+      - [s. 180 Land subject to rentcharge.](section/180.md)
+      - [s. 181 Powers of court (general).](section/181.md)
+      - [s. 182 Powers of court (leaseholds).](section/182.md)
+    - Execution, attachment and the Scottish equivalents
+      - [s. 183 Effect of execution or attachment (England and Wales).](section/183.md)
+      - [s. 184 Duties of officers charged with execution of writs and other processes (England and Wales).](section/184.md)
+      - [s. 185 Effect of diligence (Scotland)](section/185.md)
+    - Miscellaneous matters
+      - [s. 186 Rescission of contracts by the court.](section/186.md)
+      - [s. 187 Power to make over assets to employees.](section/187.md)
+      - [s. 188 Notification that company is in liquidation.](section/188.md)
+      - [s. 189 Interest on debts.](section/189.md)
+      - [s. 190 Documents exempt from stamp duty.](section/190.md)
+      - [s. 191 Company’s books to be evidence.](section/191.md)
+      - [s. 192 Information as to pending liquidations.](section/192.md)
+      - [s. 193 Unclaimed dividends (Scotland).](section/193.md)
+      - [s. 194 Resolutions passed at adjourned meetings.](section/194.md)
+      - [s. 195 Court’s powers to ascertain wishes of creditors or contributories.](section/195.md)
+      - [s. 196 Judicial notice of court documents.](section/196.md)
+      - [s. 197 Commission for receiving evidence.](section/197.md)
+      - [s. 198 Court order for examination of persons in Scotland.](section/198.md)
+      - [s. 199 Costs of application for leave to proceed (Scottish companies).](section/199.md)
+      - [s. 200 Affidavits etc. in United Kingdom and overseas.](section/200.md)
+  - Chapter IX Dissolution of Companies After Winding Up
+    - [s. 201 Dissolution (voluntary winding up).](section/201.md)
+    - [s. 202 Early dissolution (England and Wales).](section/202.md)
+    - [s. 203 Consequence of notice under s. 202.](section/203.md)
+    - [s. 204 Early dissolution (Scotland).](section/204.md)
+    - [s. 205 Dissolution otherwise than under ss. 202-204.](section/205.md)
+  - Chapter X Malpractice before and during Liquidation; Penalisation of Companies and Company Officers; Investigations and Prosecutions
+    - Offences of fraud, deception, etc.
+      - [s. 206 Fraud, etc. in anticipation of winding up.](section/206.md)
+      - [s. 207 Transactions in fraud of creditors.](section/207.md)
+      - [s. 208 Misconduct in course of winding up.](section/208.md)
+      - [s. 209 Falsification of company’s books.](section/209.md)
+      - [s. 210 Material omissions from statement relating to company’s affairs.](section/210.md)
+      - [s. 211 False representations to creditors.](section/211.md)
+    - Penalisation of directors and officers
+      - [s. 212 Summary remedy against delinquent directors, liquidators, etc.](section/212.md)
+      - [s. 213 Fraudulent trading.](section/213.md)
+      - [s. 214 Wrongful trading.](section/214.md)
+      - [s. 215 Proceedings under ss. 213, 214.](section/215.md)
+      - [s. 216 Restriction on re-use of company names.](section/216.md)
+      - [s. 217 Personal liability for debts, following contravention of s. 216.](section/217.md)
+    - Investigation and prosecution of malpractice
+      - [s. 218 Prosecution of delinquent officers and members of company.](section/218.md)
+      - [s. 219 Obligations arising under s. 218.](section/219.md)
+- Part V Winding Up of Unregistered Companies
+  - [s. 220 Meaning of “unregistered company”.](section/220.md)
+  - [s. 221 Winding up of unregistered companies.](section/221.md)
+  - [s. 222 Inability to pay debts: unpaid creditor for £750 or more.](section/222.md)
+  - [s. 223 Inability to pay debts: debt remaining unsatisfed after action brought.](section/223.md)
+  - [s. 224 Inability to pay debts: other cases.](section/224.md)
+  - [s. 225 Company incorporated outside Great Britain may be wound up though dissolved.](section/225.md)
+  - [s. 226 Contributories in winding up of unregistered company.](section/226.md)
+  - [s. 227 Power of court to stay, sist or restrain proceedings.](section/227.md)
+  - [s. 228 Actions stayed on winding-up order.](section/228.md)
+  - [s. 229 Provisions of this Part to be cumulative.](section/229.md)
+- Part VI Miscellaneous Provisions Applying to Companies Which are Insolvent or in Liquidation
+  - Office-holders
+    - [s. 230 Holders of office to be qualified insolvency practitioners.](section/230.md)
+    - [s. 231 Appointment to office of two or more persons.](section/231.md)
+    - [s. 232 Validity of office-holder’s acts.](section/232.md)
+  - Management by administrators, liquidators, etc.
+    - [s. 233 Supplies of gas, water, electricity, etc.](section/233.md)
+    - [s. 233A Further protection of essential supplies](section/233A.md)
+    - [s. 233B Protection of supplies of goods and services](section/233B.md)
+    - [s. 233C Powers to amend section 233B and Schedule 4ZZA](section/233C.md)
+    - [s. 234 Getting in the company’s property.](section/234.md)
+    - [s. 235 Duty to co-operate with office-holder.](section/235.md)
+    - [s. 236 Inquiry into company’s dealings, etc.](section/236.md)
+    - [s. 237 Court’s enforcement powers under s. 236.](section/237.md)
+  - Adjustment of prior transactions (administration and liquidation)
+    - [s. 238 Transactions at an undervalue (England and Wales).](section/238.md)
+    - [s. 239 Preferences (England and Wales).](section/239.md)
+    - [s. 240 “Relevant time” under ss. 238, 239.](section/240.md)
+    - [s. 241 Orders under ss. 238, 239.](section/241.md)
+    - [s. 242 Gratuitous alienations (Scotland).](section/242.md)
+    - [s. 243 Unfair preferences (Scotland).](section/243.md)
+    - [s. 244 Extortionate credit transactions.](section/244.md)
+    - [s. 245 Avoidance of certain floating charges.](section/245.md)
+    - [s. 246 Unenforceability of liens on books, etc.](section/246.md)
+  - Administration: penalisation of directors etc
+    - [s. 246ZA Fraudulent trading: administration](section/246ZA.md)
+    - [s. 246ZB Wrongful trading: administration](section/246ZB.md)
+    - [s. 246ZC Proceedings under section 246ZA or 246ZB](section/246ZC.md)
+  - Power to assign certain causes of action
+    - [s. 246ZD Power to assign](section/246ZD.md)
+  - Decisions by creditors and contributories
+    - [s. 246ZE Decisions by creditors and contributories: general](section/246ZE.md)
+    - [s. 246ZF Deemed consent procedure](section/246ZF.md)
+    - [s. 246ZG Power to amend sections 246ZE and 246ZF](section/246ZG.md)
+    - Remote attendance at meetings
+      - [s. 246A Remote attendance at meetings](section/246A.md)
+    - Giving of notices etc by office-holders
+      - [s. 246B Use of websites](section/246B.md)
+      - [s. 246C Creditors’ ability to opt out of receiving certain notices](section/246C.md)
+- Part VII Interpretation for First Group of Parts
+  - [s. 247 “Insolvency” and “go into liquidation”.](section/247.md)
+  - [s. 248 “Secured creditor”, etc.](section/248.md)
+  - [s. 248A “Opted-out creditor”](section/248A.md)
+  - [s. 249 “Connected” with a company.](section/249.md)
+  - [s. 250 “Member” of a company.](section/250.md)
+  - [s. 251 Expressions used generally.](section/251.md)
+- The Second Group of Parts Insolvency of Individuals; Bankruptcy
+- Part 7A Debt relief orders
+  - Preliminary
+    - [s. 251A Debt relief orders](section/251A.md)
+  - Applications for a debt relief order
+    - [s. 251B Making of application](section/251B.md)
+    - [s. 251C Duty of official receiver to consider and determine application](section/251C.md)
+    - [s. 251D Presumptions applicable to the determination of an application](section/251D.md)
+  - Making and effect of debt relief order
+    - [s. 251E Making of debt relief orders](section/251E.md)
+    - [s. 251F Effect of debt relief order on other debt management arrangements](section/251F.md)
+    - [s. 251G Moratorium from qualifying debts](section/251G.md)
+    - [s. 251H The moratorium period](section/251H.md)
+    - [s. 251I Discharge from qualifying debts](section/251I.md)
+  - Duties of debtor
+    - [s. 251J Providing assistance to official receiver etc](section/251J.md)
+  - Objections, investigations and revocation
+    - [s. 251K Objections and investigations](section/251K.md)
+    - [s. 251L Power of official receiver to revoke or amend a debt relief order](section/251L.md)
+  - Role of the court
+    - [s. 251M Powers of court in relation to debt relief orders](section/251M.md)
+    - [s. 251N Inquiry into debtor’s dealings and property](section/251N.md)
+  - Offences
+    - [s. 251O False representations and omissions](section/251O.md)
+    - [s. 251P Concealment or falsification of documents](section/251P.md)
+    - [s. 251Q Fraudulent disposal of property](section/251Q.md)
+    - [s. 251R Fraudulent dealing with property obtained on credit](section/251R.md)
+    - [s. 251S Obtaining credit or engaging in business](section/251S.md)
+    - [s. 251T Offences: supplementary](section/251T.md)
+  - Supplementary
+    - [s. 251U Approved intermediaries](section/251U.md)
+    - [s. 251V Debt relief restrictions orders and undertakings](section/251V.md)
+    - [s. 251W Register of debt relief orders etc](section/251W.md)
+    - [s. 251X Interpretation](section/251X.md)
+- Part VIII Individual Voluntary Arrangements
+  - Moratorium for insolvent debtor
+    - [s. 252 Interim order of court.](section/252.md)
+    - [s. 253 Application for interim order.](section/253.md)
+    - [s. 254 Effect of application.](section/254.md)
+    - [s. 255 Cases in which interim order can be made.](section/255.md)
+    - [s. 256 Nominee’s report on debtor’s proposal.](section/256.md)
+  - Procedure where no interim order made
+    - [s. 256A Debtor’s proposal and nominee’s report.](section/256A.md)
+  - Creditors’ decisions
+    - [s. 257 Consideration of debtor’s proposal by creditors](section/257.md)
+  - Consideration and implementation of debtor’s proposal
+    - [s. 258 Approval of debtor’s proposal](section/258.md)
+    - [s. 259 Report of decisions to court.](section/259.md)
+    - [s. 260 Effect of approval.](section/260.md)
+    - [s. 261 Additional effect on undischarged bankrupt](section/261.md)
+    - [s. 262 Challenge of creditors’ decision.](section/262.md)
+    - [s. 262A False representations etc.](section/262A.md)
+    - [s. 262B Prosecution of delinquent debtors.](section/262B.md)
+    - [s. 262C Arrangements coming to an end prematurely.](section/262C.md)
+    - [s. 263 Implementation and supervision of approved voluntary arrangement.](section/263.md)
+  - ................................
+    - [s. 263A Availability](section/263A.md)
+    - [s. 263B Decision](section/263B.md)
+    - [s. 263C Result](section/263C.md)
+    - [s. 263D Approval of voluntary arrangement](section/263D.md)
+    - [s. 263E Implementation](section/263E.md)
+    - [s. 263F Revocation](section/263F.md)
+    - [s. 263G Offences](section/263G.md)
+- Part IX Bankruptcy
+  - CHAPTER A1 Adjudicators: bankruptcy applications by debtors and bankruptcy orders
+    - [s. 263H Bankruptcy applications to an adjudicator](section/263H.md)
+    - [s. 263I Debtors against whom an adjudicator may make a bankruptcy order](section/263I.md)
+    - [s. 263J Conditions applying to bankruptcy application](section/263J.md)
+    - [s. 263K Determination of bankruptcy application](section/263K.md)
+    - [s. 263L Adjudicator’s requests for further information](section/263L.md)
+    - [s. 263M Making of bankruptcy order](section/263M.md)
+    - [s. 263N Refusal to make a bankruptcy order: review and appeal etc.](section/263N.md)
+    - [s. 263O False representations and omissions](section/263O.md)
+  - Chapter I The court: bankruptcy petitions and bankruptcy orders
+    - Preliminary
+      - [s. 264 Who may present a bankruptcy petition.](section/264.md)
+      - [s. 265 Creditor’s petition: debtors against whom the court may make a bankruptcy order.](section/265.md)
+      - [s. 266 Other preliminary conditions.](section/266.md)
+    - Creditor’s petition
+      - [s. 267 Grounds of creditor’s petition.](section/267.md)
+      - [s. 268 Definition of “inability to pay”, etc.; the statutory demand.](section/268.md)
+      - [s. 269 Creditor with security.](section/269.md)
+      - [s. 270 Expedited petition.](section/270.md)
+      - [s. 271 Proceedings on creditor’s petition.](section/271.md)
+    - ...
+      - [s. 272 Grounds of debtor’s petition.](section/272.md)
+      - [s. 273 Appointment of insolvency practitioner by the court.](section/273.md)
+      - [s. 274 Action on report of insolvency practitioner.](section/274.md)
+      - [s. 274A Debtor who meets conditions for a debt relief order](section/274A.md)
+      - [s. 275 Summary administration.](section/275.md)
+    - Other cases for special consideration
+      - [s. 276 Default in connection with voluntary arrangement.](section/276.md)
+      - [s. 277 Petition based on criminal bankruptcy order.](section/277.md)
+  - Chapter IA Commencement and duration of bankruptcy
+    - [s. 278 Commencement and continuance.](section/278.md)
+    - [s. 279 Duration](section/279.md)
+    - [s. 280 Discharge by order of the court.](section/280.md)
+    - [s. 281 Effect of discharge.](section/281.md)
+    - [s. 281A Post-discharge restrictions](section/281A.md)
+    - [s. 282 Court’s power to annul bankruptcy order.](section/282.md)
+  - Chapter II Protection of Bankrupt’s Estate and Investigation of His Affairs
+    - [s. 283 Definition of bankrupt’s estate.](section/283.md)
+    - [s. 283A Bankrupt’s home ceasing to form part of estate](section/283A.md)
+    - [s. 284 Restrictions on dispositions of property.](section/284.md)
+    - [s. 285 Restriction on proceedings and remedies.](section/285.md)
+    - [s. 286 Power to appoint interim receiver.](section/286.md)
+    - [s. 287 Powers of interim receiver.](section/287.md)
+    - [s. 288 Statement of affairs.](section/288.md)
+    - [s. 289 Investigatory duties of official receiver](section/289.md)
+    - [s. 290 Public examination of bankrupt.](section/290.md)
+    - [s. 291 Duties of bankrupt in relation to official receiver.](section/291.md)
+  - Chapter III Trustees in Bankruptcy
+    - Tenure of office as trustee
+      - [s. 291A First trustee in bankruptcy](section/291A.md)
+      - [s. 292 Appointment of trustees: general provision](section/292.md)
+      - [s. 293 Summoning of meeting to appoint first trustee.](section/293.md)
+      - [s. 294 Power of creditors to requisition meeting.](section/294.md)
+      - [s. 295 Failure of meeting to appoint trustee.](section/295.md)
+      - [s. 296 Appointment of trustee by Secretary of State.](section/296.md)
+      - [s. 297 Special cases.](section/297.md)
+      - [s. 298 Removal of trustee; vacation of office.](section/298.md)
+      - [s. 299 Release of trustee.](section/299.md)
+      - [s. 300 Vacancy in office as trustee.](section/300.md)
+    - Control of trustee
+      - [s. 301 Creditors’ committee.](section/301.md)
+      - [s. 302 Exercise by Secretary of State of functions of creditors’ committee.](section/302.md)
+      - [s. 303 General control of trustee by the court.](section/303.md)
+      - [s. 304 Liability of trustee.](section/304.md)
+  - Chapter IV Administration by Trustee
+    - Preliminary
+      - [s. 305 General functions of trustee.](section/305.md)
+    - Acquisition, control and realisation of bankrupt’s estate
+      - [s. 306 Vesting of bankrupt’s estate in trustee.](section/306.md)
+      - [s. 306A Property subject to restraint order](section/306A.md)
+      - [s. 306AA Property released from detention](section/306AA.md)
+      - [s. 306B Property in respect of which receivership or administration order made](section/306B.md)
+      - [s. 306BA Property in respect of which realisation order made](section/306BA.md)
+      - [s. 306C Property subject to certain orders where confiscation order discharged or quashed](section/306C.md)
+      - [s. 307 After-acquired property.](section/307.md)
+      - [s. 308 Vesting in trustee of certain items of excess value.](section/308.md)
+      - [s. 308A Vesting in trustee of certain tenancies.](section/308A.md)
+      - [s. 309 Time-limit for notice under s. 307 or 308.](section/309.md)
+      - [s. 310 Income payments orders.](section/310.md)
+      - [s. 310A Income payments agreement](section/310A.md)
+      - [s. 311 Acquisition by trustee of control.](section/311.md)
+      - [s. 312 Obligation to surrender control to trustee.](section/312.md)
+      - [s. 313 Charge on bankrupt’s home.](section/313.md)
+      - [s. 313A Low value home: application for sale, possession or charge](section/313A.md)
+      - [s. 314 Powers of trustee.](section/314.md)
+    - Disclaimer of onerous property
+      - [s. 315 Disclaimer (general power).](section/315.md)
+      - [s. 316 Notice requiring trustee’s decision.](section/316.md)
+      - [s. 317 Disclaimer of leaseholds.](section/317.md)
+      - [s. 318 Disclaimer of dwelling house.](section/318.md)
+      - [s. 319 Disclaimer of land subject to rentcharge.](section/319.md)
+      - [s. 320 Court order vesting disclaimed property.](section/320.md)
+      - [s. 321 Order under s. 320 in respect of leaseholds.](section/321.md)
+    - Distribution of bankrupt’s estate
+      - [s. 322 Proof of debts.](section/322.md)
+      - [s. 323 Mutual credit and set-off.](section/323.md)
+      - [s. 324 Distribution by means of dividend.](section/324.md)
+      - [s. 325 Claims by unsatisfied creditors.](section/325.md)
+      - [s. 326 Distribution of property in specie.](section/326.md)
+      - [s. 327 Distribution in criminal bankruptcy.](section/327.md)
+      - [s. 328 Priority of debts.](section/328.md)
+      - [s. 329 Debts to spouse.](section/329.md)
+      - [s. 330 Final distribution.](section/330.md)
+      - [s. 331 Final report.](section/331.md)
+      - [s. 332 Saving for bankrupt’s home.](section/332.md)
+    - Supplemental
+      - [s. 333 Duties of bankrupt in relation to trustee.](section/333.md)
+      - [s. 334 Stay of distribution in case of second bankruptcy.](section/334.md)
+      - [s. 335 Adjustment between earlier and later bankruptcy estates.](section/335.md)
+  - Chapter V Effect of Bankruptcy on Certain Rights Transacttions, Etc.
+    - Rights under trusts of land
+      - [s. 335A Rights under trusts of land.](section/335A.md)
+    - Rights of occupation
+      - [s. 336 Rights of occupation etc. of bankrupt’s spouse or civil partner.](section/336.md)
+      - [s. 337 Rights of occupation of bankrupt.](section/337.md)
+      - [s. 338 Payments in respect of premises occupied by bankrupt.](section/338.md)
+    - Adjustment of prior transactions, etc.
+      - [s. 339 Transactions at an undervalue.](section/339.md)
+      - [s. 340 Preferences.](section/340.md)
+      - [s. 341 “Relevant time” under ss. 339, 340.](section/341.md)
+      - [s. 342 Orders under ss. 339, 340.](section/342.md)
+      - [s. 342A Recovery of excessive pension contributions.](section/342A.md)
+      - [s. 342B Orders under section 342A.](section/342B.md)
+      - [s. 342C Orders under section 342A: supplementary.](section/342C.md)
+      - [s. 342D Recovery of excessive contributions in pension-sharing cases.](section/342D.md)
+      - [s. 342E Orders under section 339 or 340 in respect of pension-sharing transactions.](section/342E.md)
+      - [s. 342F Orders under section 339 or 340 in pension-sharing cases: supplementary.](section/342F.md)
+      - [s. 343 Extortionate credit transactions.](section/343.md)
+      - [s. 344 Avoidance of general assignment of book debts.](section/344.md)
+      - [s. 345 Contracts to which bankrupt is a party.](section/345.md)
+      - [s. 346 Enforcement procedures.](section/346.md)
+      - [s. 347 Distress, etc.](section/347.md)
+      - [s. 348 Apprenticeships, etc.](section/348.md)
+      - [s. 349 Unenforceability of liens on books, etc.](section/349.md)
+      - [s. 349A Arbitration agreements to which bankrupt is party.](section/349A.md)
+  - Chapter VI Bankruptcy Offences
+    - Preliminary
+      - [s. 350 Scheme of this Chapter.](section/350.md)
+      - [s. 351 Definitions.](section/351.md)
+      - [s. 352 Defence of innocent intention.](section/352.md)
+    - Wrongdoing by the bankrupt before and after bankruptcy
+      - [s. 353 Non-disclosure.](section/353.md)
+      - [s. 354 Concealment of property.](section/354.md)
+      - [s. 355 Concealment of books and papers; falsification.](section/355.md)
+      - [s. 356 False statements.](section/356.md)
+      - [s. 357 Fraudulent disposal of property.](section/357.md)
+      - [s. 358 Absconding.](section/358.md)
+      - [s. 359 Fraudulent dealing with property obtained on credit.](section/359.md)
+      - [s. 360 Obtaining credit; engaging in business.](section/360.md)
+      - [s. 361 Failure to keep proper accounts of business.](section/361.md)
+      - [s. 362 Gambling.](section/362.md)
+  - Chapter VII Powers of Court In Bankruptcy
+    - [s. 363 General control of court.](section/363.md)
+    - [s. 364 Power of arrest.](section/364.md)
+    - [s. 365 Seizure of bankrupt’s property.](section/365.md)
+    - [s. 366 Inquiry into bankrupt’s dealings and property.](section/366.md)
+    - [s. 367 Court’s enforcement powers under s. 366.](section/367.md)
+    - [s. 368 Provision corresponding to s. 366, where interim receiver appointed.](section/368.md)
+    - [s. 369 Order for production of documents by inland revenue.](section/369.md)
+    - [s. 370 Power to appoint special manager.](section/370.md)
+    - [s. 371 Re-direction of bankrupt’s letters, etc.](section/371.md)
+- Part X Individual Insolvency: General Provisions
+  - [s. 372 Supplies of gas, water, electricity, etc.](section/372.md)
+  - [s. 372A Further protection of essential supplies](section/372A.md)
+  - [s. 373 Jurisdiction in relation to insolvent individuals.](section/373.md)
+  - [s. 374 Insolvency districts.](section/374.md)
+  - [s. 375 Appeals etc. from courts exercising insolvency jurisdiction.](section/375.md)
+  - [s. 376 Time-limits.](section/376.md)
+  - [s. 377 Formal defects.](section/377.md)
+  - [s. 378 Exemption from stamp duty.](section/378.md)
+  - [s. 379 Annual report.](section/379.md)
+  - Creditors’ decisions
+    - [s. 379ZA Creditors’ decisions: general](section/379ZA.md)
+    - [s. 379ZB Deemed consent procedure](section/379ZB.md)
+    - [s. 379ZC Power to amend sections 379ZA and 379ZB](section/379ZC.md)
+    - ................................
+      - [s. 379A Remote attendance at meetings](section/379A.md)
+    - Giving of notices etc by office-holders
+      - [s. 379B Use of websites](section/379B.md)
+      - [s. 379C Creditors’ ability to opt out of receiving certain notices](section/379C.md)
+- Part XI Interpretation for Second Group of Parts
+  - [s. 380 Introductory.](section/380.md)
+  - [s. 381 “Bankrupt” and associated terminology.](section/381.md)
+  - [s. 382 “Bankruptcy debt”, “liability”](section/382.md)
+  - [s. 383 “Creditor”, “security”, etc.](section/383.md)
+  - [s. 383A “Opted-out creditor”](section/383A.md)
+  - [s. 384 “Prescribed” and “the rules”.](section/384.md)
+  - [s. 385 Miscellaneous definitions.](section/385.md)
+- The Third Group of Parts Miscellaneous Matters Bearing on Both Company and Individual Insolvency; General Interpretation; Final Provisions
+- Part XII Preferential and non-preferential debts in Company and Individual Insolvency
+  - [s. 386 Categories of preferential debts.](section/386.md)
+  - [s. 387 “The relevant date”.](section/387.md)
+  - [s. 387A Financial institutions and their non-preferential debts](section/387A.md)
+- Part XIII Insolvency Practitioners and their Qualification
+  - Restrictions on unqualified persons acting as liquidator, trustee in bankruptcy, etc.
+    - [s. 388 Meaning of “act as insolvency practitioner”](section/388.md)
+    - [s. 389 Acting without qualification an offence.](section/389.md)
+    - [s. 389A Authorisation of nominees and supervisors.](section/389A.md)
+    - [s. 389B Official receiver as nominee or supervisor](section/389B.md)
+    - [s. 390 Persons not qualified to act as insolvency practitioners.](section/390.md)
+    - [s. 390A Authorisation](section/390A.md)
+    - [s. 390B Partial authorisation: acting in relation to partnerships](section/390B.md)
+    - [s. 391 Recognised professional bodies](section/391.md)
+    - [s. 391A Application for recognition as recognised professional body](section/391A.md)
+  - Regulatory objectives
+    - [s. 391B Application of regulatory objectives](section/391B.md)
+    - [s. 391C Meaning of “regulatory functions” and “regulatory objectives”](section/391C.md)
+  - Oversight of recognised professional bodies
+    - [s. 391D Directions](section/391D.md)
+    - [s. 391E Directions: procedure](section/391E.md)
+    - [s. 391F Financial penalty](section/391F.md)
+    - [s. 391G Financial penalty: procedure](section/391G.md)
+    - [s. 391H Appeal against financial penalty](section/391H.md)
+    - [s. 391I Recovery of financial penalties](section/391I.md)
+    - [s. 391J Reprimand](section/391J.md)
+    - [s. 391K Reprimand: procedure](section/391K.md)
+  - Revocation etc of recognition
+    - [s. 391L Revocation of recognition at instigation of Secretary of State](section/391L.md)
+    - [s. 391M Orders under section 391L: procedure](section/391M.md)
+    - [s. 391N Revocation of recognition at request of body](section/391N.md)
+  - Court sanction of insolvency practitioners in public interest cases
+    - [s. 391O Direct sanctions orders](section/391O.md)
+    - [s. 391P Application for, and power to make, direct sanctions order](section/391P.md)
+    - [s. 391Q Direct sanctions order: conditions](section/391Q.md)
+    - [s. 391R Direct sanctions direction instead of order](section/391R.md)
+  - General
+    - [s. 391S Power for Secretary of State to obtain information](section/391S.md)
+    - [s. 391T Compliance orders](section/391T.md)
+  - The requisite qualification, and the means of obtaining it
+    - [s. 392 Authorisation by competent authority.](section/392.md)
+    - [s. 393 Grant, refusal and withdrawal of authorisation.](section/393.md)
+    - [s. 394 Notices.](section/394.md)
+    - [s. 395 Right to make representations.](section/395.md)
+    - [s. 396 Reference to Tribunal.](section/396.md)
+    - [s. 397 Action of Tribunal on reference.](section/397.md)
+    - [s. 398 Refusal or withdrawal without reference to Tribunal.](section/398.md)
+- Part XIV Public Administration (England and Wales)
+  - Adjudicators
+    - [s. 398A Appointment etc of adjudicators and assistants](section/398A.md)
+  - Official receivers
+    - [s. 399 Appointment, etc. of official receivers.](section/399.md)
+    - [s. 400 Functions and status of official receivers.](section/400.md)
+    - [s. 401 Deputy official receivers and staff.](section/401.md)
+  - The Official Petitioner
+    - [s. 402 Official Petitioner.](section/402.md)
+  - Insolvency Service finance, accounting and investment
+    - [s. 403 Insolvency Services Account.](section/403.md)
+    - [s. 404 Investment Account.](section/404.md)
+    - [s. 405 Application of income in Investment Account; adjustment of balances.](section/405.md)
+    - [s. 406 Interest on money received by liquidators or trustees in bankruptcy and invested.](section/406.md)
+    - [s. 407 Unclaimed dividends and undistributed balances.](section/407.md)
+    - [s. 408 Adjustment of balances](section/408.md)
+    - [s. 409 Annual financial statement and audit.](section/409.md)
+  - Supplementary
+    - [s. 410 Extent of this Part.](section/410.md)
+- Part XV Subordinate Legislation
+  - General insolvency rules
+    - [s. 411 Company insolvency rules.](section/411.md)
+    - [s. 412 Individual insolvency rules (England and Wales).](section/412.md)
+    - [s. 413 Insolvency Rules Committee.](section/413.md)
+  - Fees orders
+    - [s. 414 Fees orders (company insolvency proceedings).](section/414.md)
+    - [s. 415 Fees orders (individual insolvency proceedings in England and Wales).](section/415.md)
+    - [s. 415A Fees orders (general)](section/415A.md)
+  - Specification, increase and reduction of money sums relevant in the operation of this Act
+    - [s. 415B Monetary limits (company moratorium)](section/415B.md)
+    - [s. 416 Monetary limits (companies winding up).](section/416.md)
+    - [s. 417 Money sum in s. 222.](section/417.md)
+    - [s. 417A Money sums (company moratorium).](section/417A.md)
+    - [s. 418 Monetary limits (bankruptcy).](section/418.md)
+  - Insolvency practice
+    - [s. 419 Regulations for purposes of Part XIII.](section/419.md)
+  - Other order-making powers
+    - [s. 420 Insolvent partnerships.](section/420.md)
+    - [s. 421 Insolvent estates of deceased persons.](section/421.md)
+    - [s. 421A Insolvent estates: joint tenancies.](section/421A.md)
+    - [s. 422 Formerly authorised banks.](section/422.md)
+    - [s. 422A Meaning of “relevant offence”](section/422A.md)
+- Part XVI Provisions Against Debt Avoidance (England and Wales only)
+  - [s. 423 Transactions defrauding creditors.](section/423.md)
+  - [s. 424 Those who may apply for an order under s. 423.](section/424.md)
+  - [s. 425 Provision which may be made by order under s. 423.](section/425.md)
+- Part XVII Miscellaneous and General
+  - [s. 426 Co-operation between courts exercising jurisdiction in relation to insolvency.](section/426.md)
+  - [s. 426A Disqualification from Parliament (England and Wales and Northern Ireland)](section/426A.md)
+  - [s. 426B Devolution](section/426B.md)
+  - [s. 426C Irrelevance of privilege](section/426C.md)
+  - [s. 427 Disqualification from Parliament (Scotland ...)](section/427.md)
+  - [s. 428 Exemptions from Restrictive Trade Practices Act.](section/428.md)
+  - [s. 429 Disabilities on revocation of administration order against an individual.](section/429.md)
+  - [s. 430 Provision introducing Schedule of punishments.](section/430.md)
+  - [s. 431 Summary proceedings.](section/431.md)
+  - [s. 432 Offences by bodies corporate.](section/432.md)
+  - [s. 433 Admissibility in evidence of statements of affairs, etc.](section/433.md)
+  - [s. 434 Crown application.](section/434.md)
+- PART 17A SUPPLEMENTARY PROVISIONS
+  - [s. 434A Introductory](section/434A.md)
+  - [s. 434B Representation of corporations in decision procedures and at meetings](section/434B.md)
+  - [s. 434C Legal professional privilege](section/434C.md)
+  - [s. 434D Enforcement of company’s filing obligations](section/434D.md)
+  - [s. 434E Application of filing obligations to overseas companies](section/434E.md)
+- Part XVIII Interpretation
+  - [s. 435 Meaning of “associate”.](section/435.md)
+  - [s. 436 Expressions used generally.](section/436.md)
+  - [s. 436A Proceedings under EU Regulations: modified definition of property](section/436A.md)
+  - [s. 436B References to things in writing](section/436B.md)
+- Part XIX Final Provisions
+  - [s. 437 Transitional provisions, and savings.](section/437.md)
+  - [s. 438 Repeals.](section/438.md)
+  - [s. 439 Amendment of enactments.](section/439.md)
+  - [s. 440 Extent (Scotland).](section/440.md)
+  - [s. 441 Extent (Northern Ireland).](section/441.md)
+  - [s. 442 Extent (other territories).](section/442.md)
+  - [s. 443 Commencement.](section/443.md)
+  - [s. 444 Citation.](section/444.md)
+- SCHEDULE ZA1 Moratorium: Eligible companies
+  - [Sch. ZA1 para. 1 Eligible companies](schedule/ZA1/paragraph/1.md)
+  - [Sch. ZA1 para. 2 Companies subject to, or recently subject to, moratorium or an insolvency procedure](schedule/ZA1/paragraph/2.md)
+  - [Sch. ZA1 para. 2A Private registered providers of social housing](schedule/ZA1/paragraph/2A.md)
+  - [Sch. ZA1 para. 2B Registered social landlord under Part 2 of the Housing (Scotland) Act 2010](schedule/ZA1/paragraph/2B.md)
+  - [Sch. ZA1 para. 3 Insurance companies](schedule/ZA1/paragraph/3.md)
+  - [Sch. ZA1 para. 4 Banks](schedule/ZA1/paragraph/4.md)
+  - [Sch. ZA1 para. 5 Electronic money institutions](schedule/ZA1/paragraph/5.md)
+  - [Sch. ZA1 para. 6 Investment banks and investment firms](schedule/ZA1/paragraph/6.md)
+  - [Sch. ZA1 para. 7 Companies that are party to market contracts or subject to market charges, etc](schedule/ZA1/paragraph/7.md)
+  - [Sch. ZA1 para. 8 Participants in designated systems](schedule/ZA1/paragraph/8.md)
+  - [Sch. ZA1 para. 9 Payment institutions](schedule/ZA1/paragraph/9.md)
+  - [Sch. ZA1 para. 10 Operators of payment systems, infrastructure providers etc](schedule/ZA1/paragraph/10.md)
+  - [Sch. ZA1 para. 11 Recognised investment exchanges, clearing houses and CSDs](schedule/ZA1/paragraph/11.md)
+  - [Sch. ZA1 para. 12 Securitisation companies](schedule/ZA1/paragraph/12.md)
+  - [Sch. ZA1 para. 13 Parties to capital market arrangements](schedule/ZA1/paragraph/13.md)
+  - [Sch. ZA1 para. 14 Parties to capital market arrangements](schedule/ZA1/paragraph/14.md)
+  - [Sch. ZA1 para. 15 Public-private partnership project companies](schedule/ZA1/paragraph/15.md)
+  - [Sch. ZA1 para. 16 Public-private partnership project companies](schedule/ZA1/paragraph/16.md)
+  - [Sch. ZA1 para. 17 Public-private partnership project companies](schedule/ZA1/paragraph/17.md)
+  - [Sch. ZA1 para. 18 Overseas companies with corresponding functions](schedule/ZA1/paragraph/18.md)
+  - [Sch. ZA1 para. 19 Interpretation of Schedule](schedule/ZA1/paragraph/19.md)
+  - [Sch. ZA1 para. 20 Powers to amend Schedule](schedule/ZA1/paragraph/20.md)
+  - [Sch. ZA1 para. 21 Powers to amend Schedule](schedule/ZA1/paragraph/21.md)
+  - [Sch. ZA1 para. 22 Powers to amend Schedule](schedule/ZA1/paragraph/22.md)
+- SCHEDULE ZA2 Moratorium: contract or other instrument involving financial services
+  - [Sch. ZA2 para. 1 Introductory](schedule/ZA2/paragraph/1.md)
+  - [Sch. ZA2 para. 2 Financial contracts](schedule/ZA2/paragraph/2.md)
+  - [Sch. ZA2 para. 3 Securities financing transactions](schedule/ZA2/paragraph/3.md)
+  - [Sch. ZA2 para. 4 Derivatives](schedule/ZA2/paragraph/4.md)
+  - [Sch. ZA2 para. 5 Spot contracts](schedule/ZA2/paragraph/5.md)
+  - [Sch. ZA2 para. 6 Capital market investments](schedule/ZA2/paragraph/6.md)
+  - [Sch. ZA2 para. 7 Contracts forming part of a public-private partnership](schedule/ZA2/paragraph/7.md)
+  - [Sch. ZA2 para. 8 Market contracts](schedule/ZA2/paragraph/8.md)
+  - [Sch. ZA2 para. 9 Qualifying collateral arrangements and qualifying property transfers](schedule/ZA2/paragraph/9.md)
+  - [Sch. ZA2 para. 10 Contracts secured by certain charges or arrangements](schedule/ZA2/paragraph/10.md)
+  - [Sch. ZA2 para. 11 Default arrangements and transfer orders](schedule/ZA2/paragraph/11.md)
+  - [Sch. ZA2 para. 12 Card-based payment transactions](schedule/ZA2/paragraph/12.md)
+  - [Sch. ZA2 para. 13 Power to amend Schedule](schedule/ZA2/paragraph/13.md)
+- SCHEDULE A1 Moratorium where directors propose voluntary arrangement
+  - ...
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - [Sch. A1 para. 4A](schedule/A1/paragraph/4A.md)
+    - [Sch. A1 para. 4B](schedule/A1/paragraph/4B.md)
+    - [Sch. A1 para. 4C](schedule/A1/paragraph/4C.md)
+    - [Sch. A1 para. 4D](schedule/A1/paragraph/4D.md)
+    - [Sch. A1 para. 4E](schedule/A1/paragraph/4E.md)
+    - [Sch. A1 para. 4F](schedule/A1/paragraph/4F.md)
+    - [Sch. A1 para. 4G](schedule/A1/paragraph/4G.md)
+    - [Sch. A1 para. 4H](schedule/A1/paragraph/4H.md)
+    - [Sch. A1 para. 4I](schedule/A1/paragraph/4I.md)
+    - [Sch. A1 para. 4J](schedule/A1/paragraph/4J.md)
+    - [Sch. A1 para. 4K](schedule/A1/paragraph/4K.md)
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+    - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+    - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+    - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+    - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+    - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+    - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+    - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+    - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+    - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+    - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+    - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+    - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+    - [Sch. A1 para. 27](schedule/A1/paragraph/27.md)
+    - [Sch. A1 para. 28](schedule/A1/paragraph/28.md)
+    - [Sch. A1 para. 29](schedule/A1/paragraph/29.md)
+    - [Sch. A1 para. 30](schedule/A1/paragraph/30.md)
+    - [Sch. A1 para. 31](schedule/A1/paragraph/31.md)
+    - [Sch. A1 para. 32](schedule/A1/paragraph/32.md)
+    - [Sch. A1 para. 33](schedule/A1/paragraph/33.md)
+    - [Sch. A1 para. 34](schedule/A1/paragraph/34.md)
+    - [Sch. A1 para. 35](schedule/A1/paragraph/35.md)
+    - [Sch. A1 para. 36](schedule/A1/paragraph/36.md)
+    - [Sch. A1 para. 37](schedule/A1/paragraph/37.md)
+    - [Sch. A1 para. 38](schedule/A1/paragraph/38.md)
+    - [Sch. A1 para. 39](schedule/A1/paragraph/39.md)
+    - [Sch. A1 para. 40](schedule/A1/paragraph/40.md)
+    - [Sch. A1 para. 41](schedule/A1/paragraph/41.md)
+    - [Sch. A1 para. 42](schedule/A1/paragraph/42.md)
+    - [Sch. A1 para. 43](schedule/A1/paragraph/43.md)
+    - [Sch. A1 para. 44](schedule/A1/paragraph/44.md)
+    - [Sch. A1 para. 45](schedule/A1/paragraph/45.md)
+- SCHEDULE B1 ADMINISTRATION
+  - ARRANGEMENT OF SCHEDULE
+  - NATURE OF ADMINISTRATION
+    - [Sch. B1 para. 1 Administration](schedule/B1/paragraph/1.md)
+    - [Sch. B1 para. 2](schedule/B1/paragraph/2.md)
+    - [Sch. B1 para. 3 Purpose of administration](schedule/B1/paragraph/3.md)
+    - [Sch. B1 para. 4](schedule/B1/paragraph/4.md)
+    - [Sch. B1 para. 5 Status of administrator](schedule/B1/paragraph/5.md)
+    - [Sch. B1 para. 6 General restrictions](schedule/B1/paragraph/6.md)
+    - [Sch. B1 para. 7](schedule/B1/paragraph/7.md)
+    - [Sch. B1 para. 8](schedule/B1/paragraph/8.md)
+    - [Sch. B1 para. 9](schedule/B1/paragraph/9.md)
+  - APPOINTMENT OF ADMINISTRATOR BY COURT
+    - [Sch. B1 para. 10 Administration order](schedule/B1/paragraph/10.md)
+    - [Sch. B1 para. 11 Conditions for making order](schedule/B1/paragraph/11.md)
+    - [Sch. B1 para. 12 Administration application](schedule/B1/paragraph/12.md)
+    - [Sch. B1 para. 13 Powers of court](schedule/B1/paragraph/13.md)
+  - APPOINTMENT OF ADMINISTRATOR BY HOLDER OF FLOATING CHARGE
+    - [Sch. B1 para. 14 Power to appoint](schedule/B1/paragraph/14.md)
+    - [Sch. B1 para. 15 Restrictions on power to appoint](schedule/B1/paragraph/15.md)
+    - [Sch. B1 para. 16](schedule/B1/paragraph/16.md)
+    - [Sch. B1 para. 17](schedule/B1/paragraph/17.md)
+    - [Sch. B1 para. 18 Notice of appointment](schedule/B1/paragraph/18.md)
+    - [Sch. B1 para. 19 Commencement of appointment](schedule/B1/paragraph/19.md)
+    - [Sch. B1 para. 20](schedule/B1/paragraph/20.md)
+    - [Sch. B1 para. 21 Invalid appointment: indemnity](schedule/B1/paragraph/21.md)
+  - APPOINTMENT OF ADMINISTRATOR BY COMPANY OR DIRECTORS
+    - [Sch. B1 para. 22 Power to appoint](schedule/B1/paragraph/22.md)
+    - [Sch. B1 para. 23 Restrictions on power to appoint](schedule/B1/paragraph/23.md)
+    - [Sch. B1 para. 24](schedule/B1/paragraph/24.md)
+    - [Sch. B1 para. 25](schedule/B1/paragraph/25.md)
+    - [Sch. B1 para. 25A](schedule/B1/paragraph/25A.md)
+    - [Sch. B1 para. 26 Notice of intention to appoint](schedule/B1/paragraph/26.md)
+    - [Sch. B1 para. 27](schedule/B1/paragraph/27.md)
+    - [Sch. B1 para. 28](schedule/B1/paragraph/28.md)
+    - [Sch. B1 para. 29 Notice of appointment](schedule/B1/paragraph/29.md)
+    - [Sch. B1 para. 30](schedule/B1/paragraph/30.md)
+    - [Sch. B1 para. 31 Commencement of appointment](schedule/B1/paragraph/31.md)
+    - [Sch. B1 para. 32](schedule/B1/paragraph/32.md)
+    - [Sch. B1 para. 33](schedule/B1/paragraph/33.md)
+    - [Sch. B1 para. 34 Invalid appointment: indemnity](schedule/B1/paragraph/34.md)
+  - ADMINISTRATION APPLICATION – SPECIAL CASES
+    - [Sch. B1 para. 35 Application by holder of floating charge](schedule/B1/paragraph/35.md)
+    - [Sch. B1 para. 36 Intervention by holder of floating charge](schedule/B1/paragraph/36.md)
+    - [Sch. B1 para. 37 Application where company in liquidation](schedule/B1/paragraph/37.md)
+    - [Sch. B1 para. 38](schedule/B1/paragraph/38.md)
+    - [Sch. B1 para. 39 Effect of administrative receivership](schedule/B1/paragraph/39.md)
+  - EFFECT OF ADMINISTRATION
+    - [Sch. B1 para. 40 Dismissal of pending winding-up petition](schedule/B1/paragraph/40.md)
+    - [Sch. B1 para. 41 Dismissal of administrative or other receiver](schedule/B1/paragraph/41.md)
+    - [Sch. B1 para. 42 Moratorium on insolvency proceedings](schedule/B1/paragraph/42.md)
+    - [Sch. B1 para. 43 Moratorium on other legal process](schedule/B1/paragraph/43.md)
+    - [Sch. B1 para. 44 Interim moratorium](schedule/B1/paragraph/44.md)
+    - [Sch. B1 para. 45 Publicity](schedule/B1/paragraph/45.md)
+  - PROCESS OF ADMINISTRATION
+    - [Sch. B1 para. 46 Announcement of administrator’s appointment](schedule/B1/paragraph/46.md)
+    - [Sch. B1 para. 47 Statement of company’s affairs](schedule/B1/paragraph/47.md)
+    - [Sch. B1 para. 48](schedule/B1/paragraph/48.md)
+    - [Sch. B1 para. 49 Administrator’s proposals](schedule/B1/paragraph/49.md)
+    - [Sch. B1 para. 50](schedule/B1/paragraph/50.md)
+    - [Sch. B1 para. 51 Consideration of administrator’s proposals by creditors](schedule/B1/paragraph/51.md)
+    - [Sch. B1 para. 52](schedule/B1/paragraph/52.md)
+    - [Sch. B1 para. 53 Creditors’ decision](schedule/B1/paragraph/53.md)
+    - [Sch. B1 para. 54 Revision of administrator’s proposals](schedule/B1/paragraph/54.md)
+    - [Sch. B1 para. 55 Failure to obtain approval of administrator’s proposals](schedule/B1/paragraph/55.md)
+    - [Sch. B1 para. 56 Further creditors’ decisions](schedule/B1/paragraph/56.md)
+    - [Sch. B1 para. 57 Creditors’ committee](schedule/B1/paragraph/57.md)
+    - [Sch. B1 para. 58](schedule/B1/paragraph/58.md)
+  - FUNCTIONS OF ADMINISTRATOR
+    - [Sch. B1 para. 59 General powers](schedule/B1/paragraph/59.md)
+    - [Sch. B1 para. 60](schedule/B1/paragraph/60.md)
+    - [Sch. B1 para. 60A](schedule/B1/paragraph/60A.md)
+    - [Sch. B1 para. 61](schedule/B1/paragraph/61.md)
+    - [Sch. B1 para. 62](schedule/B1/paragraph/62.md)
+    - [Sch. B1 para. 63](schedule/B1/paragraph/63.md)
+    - [Sch. B1 para. 64](schedule/B1/paragraph/64.md)
+    - [Sch. B1 para. 64A Distribution](schedule/B1/paragraph/64A.md)
+    - [Sch. B1 para. 65](schedule/B1/paragraph/65.md)
+    - [Sch. B1 para. 66](schedule/B1/paragraph/66.md)
+    - [Sch. B1 para. 67 General duties](schedule/B1/paragraph/67.md)
+    - [Sch. B1 para. 68](schedule/B1/paragraph/68.md)
+    - [Sch. B1 para. 69 Administrator as agent of company](schedule/B1/paragraph/69.md)
+    - [Sch. B1 para. 70 Charged property: floating charge](schedule/B1/paragraph/70.md)
+    - [Sch. B1 para. 71 Charged property: non-floating charge](schedule/B1/paragraph/71.md)
+    - [Sch. B1 para. 72 Hire-purchase property](schedule/B1/paragraph/72.md)
+    - [Sch. B1 para. 73 Protection for priority creditor](schedule/B1/paragraph/73.md)
+    - [Sch. B1 para. 74 Challenge to administrator’s conduct of company](schedule/B1/paragraph/74.md)
+    - [Sch. B1 para. 75 Misfeasance](schedule/B1/paragraph/75.md)
+  - ENDING ADMINISTRATION
+    - [Sch. B1 para. 76 Automatic end of administration](schedule/B1/paragraph/76.md)
+    - [Sch. B1 para. 77](schedule/B1/paragraph/77.md)
+    - [Sch. B1 para. 78](schedule/B1/paragraph/78.md)
+    - [Sch. B1 para. 79 Court ending administration on application of administrator](schedule/B1/paragraph/79.md)
+    - [Sch. B1 para. 80 Termination of administration where objective achieved](schedule/B1/paragraph/80.md)
+    - [Sch. B1 para. 81 Court ending administration on application of creditor](schedule/B1/paragraph/81.md)
+    - [Sch. B1 para. 82 Public interest winding-up](schedule/B1/paragraph/82.md)
+    - [Sch. B1 para. 83 Moving from administration to creditors’ voluntary liquidation](schedule/B1/paragraph/83.md)
+    - [Sch. B1 para. 84 Moving from administration to dissolution](schedule/B1/paragraph/84.md)
+    - [Sch. B1 para. 85 Discharge of administration order where administration ends](schedule/B1/paragraph/85.md)
+    - [Sch. B1 para. 86 Notice to Companies Registrar where administration ends](schedule/B1/paragraph/86.md)
+  - REPLACING ADMINISTRATOR
+    - [Sch. B1 para. 87 Resignation of administrator](schedule/B1/paragraph/87.md)
+    - [Sch. B1 para. 88 Removal of administrator from office](schedule/B1/paragraph/88.md)
+    - [Sch. B1 para. 89 Administrator ceasing to be qualified](schedule/B1/paragraph/89.md)
+    - [Sch. B1 para. 90 Supplying vacancy in office of administrator](schedule/B1/paragraph/90.md)
+    - [Sch. B1 para. 91](schedule/B1/paragraph/91.md)
+    - [Sch. B1 para. 92](schedule/B1/paragraph/92.md)
+    - [Sch. B1 para. 93](schedule/B1/paragraph/93.md)
+    - [Sch. B1 para. 94](schedule/B1/paragraph/94.md)
+    - [Sch. B1 para. 95](schedule/B1/paragraph/95.md)
+    - [Sch. B1 para. 96 Substitution of administrator: competing floating charge-holder](schedule/B1/paragraph/96.md)
+    - [Sch. B1 para. 97 Substitution of administrator appointed by company or directors: creditors’ decision](schedule/B1/paragraph/97.md)
+    - [Sch. B1 para. 98 Vacation of office: discharge from liability](schedule/B1/paragraph/98.md)
+    - [Sch. B1 para. 99 Vacation of office: charges and liabilities](schedule/B1/paragraph/99.md)
+  - GENERAL
+    - [Sch. B1 para. 100 Joint and concurrent administrators](schedule/B1/paragraph/100.md)
+    - [Sch. B1 para. 101](schedule/B1/paragraph/101.md)
+    - [Sch. B1 para. 102](schedule/B1/paragraph/102.md)
+    - [Sch. B1 para. 103](schedule/B1/paragraph/103.md)
+    - [Sch. B1 para. 104 Presumption of validity](schedule/B1/paragraph/104.md)
+    - [Sch. B1 para. 105 Majority decision of directors](schedule/B1/paragraph/105.md)
+    - [Sch. B1 para. 106 Penalties](schedule/B1/paragraph/106.md)
+    - [Sch. B1 para. 107 Extension of time limit](schedule/B1/paragraph/107.md)
+    - [Sch. B1 para. 108](schedule/B1/paragraph/108.md)
+    - [Sch. B1 para. 109](schedule/B1/paragraph/109.md)
+    - [Sch. B1 para. 110 Amendment of provision about time](schedule/B1/paragraph/110.md)
+    - [Sch. B1 para. 111 Interpretation](schedule/B1/paragraph/111.md)
+    - [Sch. B1 para. 111A Non-UK companies](schedule/B1/paragraph/111A.md)
+    - [Sch. B1 para. 112 Scotland](schedule/B1/paragraph/112.md)
+    - [Sch. B1 para. 113](schedule/B1/paragraph/113.md)
+    - [Sch. B1 para. 114](schedule/B1/paragraph/114.md)
+    - [Sch. B1 para. 115](schedule/B1/paragraph/115.md)
+    - [Sch. B1 para. 116](schedule/B1/paragraph/116.md)
+- SCHEDULE 1 Powers of Administrator or Administrative Receiver
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+- SCHEDULE 2 Powers of a Scottish Receiver (Additional to Those Conferred on him by the Instrument of Charge)
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+- SCHEDULE 2A EXCEPTIONS TO PROHIBITION ON APPOINTMENT OF ADMINISTRATIVE RECEIVER: SUPPLEMENTARY PROVISIONS
+  - [Sch. 2A para. 1 Capital market arrangement](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2 Capital market investment](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4 “Agreement”](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5 Debt](schedule/2A/paragraph/5.md)
+  - [Sch. 2A para. 6 Step-in rights](schedule/2A/paragraph/6.md)
+  - [Sch. 2A para. 7 Project company](schedule/2A/paragraph/7.md)
+  - [Sch. 2A para. 8 “Resources”](schedule/2A/paragraph/8.md)
+  - [Sch. 2A para. 9 “Public body”](schedule/2A/paragraph/9.md)
+  - [Sch. 2A para. 10 Regulated business](schedule/2A/paragraph/10.md)
+  - [Sch. 2A para. 11 “Person”](schedule/2A/paragraph/11.md)
+- SCHEDULE 3 Orders in Course of Winding Up Pronounced in Vacation (Scotland)
+  - Part I Orders Which are to be Final
+  - Part II Orders Which are to take Effect Until Matter Disposed of by Inner House
+- SCHEDULE 4 Powers of Liquidator in a Winding Up
+  - Part I ...
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - Part II ...
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part III ...
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 6A](schedule/4/paragraph/6A.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 4ZZA Protection of supplies under section 233B: exclusions
+  - PART 1 Essential supplies
+    - [Sch. 4ZZA para. 1 Essential supplies](schedule/4ZZA/paragraph/1.md)
+  - PART 2 Persons involved in financial services
+    - [Sch. 4ZZA para. 2 Introductory](schedule/4ZZA/paragraph/2.md)
+    - [Sch. 4ZZA para. 3 Insurers](schedule/4ZZA/paragraph/3.md)
+    - [Sch. 4ZZA para. 4 Banks](schedule/4ZZA/paragraph/4.md)
+    - [Sch. 4ZZA para. 5 Electronic money institutions](schedule/4ZZA/paragraph/5.md)
+    - [Sch. 4ZZA para. 6 Investment banks and investment firms](schedule/4ZZA/paragraph/6.md)
+    - [Sch. 4ZZA para. 7 Payment institutions](schedule/4ZZA/paragraph/7.md)
+    - [Sch. 4ZZA para. 8 Operators of payment systems, infrastructure providers etc](schedule/4ZZA/paragraph/8.md)
+    - [Sch. 4ZZA para. 9 Recognised investment exchanges etc](schedule/4ZZA/paragraph/9.md)
+    - [Sch. 4ZZA para. 10 Securitisation companies](schedule/4ZZA/paragraph/10.md)
+    - [Sch. 4ZZA para. 11 Overseas activities](schedule/4ZZA/paragraph/11.md)
+  - PART 3 Contracts involving financial services
+    - [Sch. 4ZZA para. 12 Introductory](schedule/4ZZA/paragraph/12.md)
+    - [Sch. 4ZZA para. 13 Financial contracts](schedule/4ZZA/paragraph/13.md)
+    - [Sch. 4ZZA para. 14 Securities financing transactions](schedule/4ZZA/paragraph/14.md)
+    - [Sch. 4ZZA para. 15 Derivatives](schedule/4ZZA/paragraph/15.md)
+    - [Sch. 4ZZA para. 16 Spot contracts](schedule/4ZZA/paragraph/16.md)
+    - [Sch. 4ZZA para. 17 Capital market investments](schedule/4ZZA/paragraph/17.md)
+    - [Sch. 4ZZA para. 18 Contracts forming part of a public-private partnership](schedule/4ZZA/paragraph/18.md)
+  - PART 4 Other exclusions
+    - [Sch. 4ZZA para. 19 Financial markets and insolvency](schedule/4ZZA/paragraph/19.md)
+    - [Sch. 4ZZA para. 20 Set-off and netting](schedule/4ZZA/paragraph/20.md)
+    - [Sch. 4ZZA para. 21 Aircraft equipment](schedule/4ZZA/paragraph/21.md)
+- SCHEDULE 4ZA Conditions for making a debt relief order
+  - Part 1 Conditions which must be met
+    - Connection with England and Wales
+      - [Sch. 4ZA para. 1](schedule/4ZA/paragraph/1.md)
+    - Debtor’s previous insolvency history
+      - [Sch. 4ZA para. 2](schedule/4ZA/paragraph/2.md)
+      - [Sch. 4ZA para. 3](schedule/4ZA/paragraph/3.md)
+      - [Sch. 4ZA para. 4](schedule/4ZA/paragraph/4.md)
+      - [Sch. 4ZA para. 5](schedule/4ZA/paragraph/5.md)
+    - Limit on debtor’s overall indebtedness
+      - [Sch. 4ZA para. 6](schedule/4ZA/paragraph/6.md)
+    - Limit on debtor’s monthly surplus income
+      - [Sch. 4ZA para. 7](schedule/4ZA/paragraph/7.md)
+    - Limit on value of debtor’s property
+      - [Sch. 4ZA para. 8](schedule/4ZA/paragraph/8.md)
+  - Part 2 Other conditions
+    - [Sch. 4ZA para. 9](schedule/4ZA/paragraph/9.md)
+    - [Sch. 4ZA para. 10](schedule/4ZA/paragraph/10.md)
+- SCHEDULE 4ZB Debt relief restrictions orders and undertakings
+  - Debt relief restrictions order
+    - [Sch. 4ZB para. 1](schedule/4ZB/paragraph/1.md)
+  - Grounds for making order
+    - [Sch. 4ZB para. 2](schedule/4ZB/paragraph/2.md)
+  - Timing of application for order
+    - [Sch. 4ZB para. 3](schedule/4ZB/paragraph/3.md)
+  - Duration of order
+    - [Sch. 4ZB para. 4](schedule/4ZB/paragraph/4.md)
+  - Interim debt relief restrictions order
+    - [Sch. 4ZB para. 5](schedule/4ZB/paragraph/5.md)
+    - [Sch. 4ZB para. 6](schedule/4ZB/paragraph/6.md)
+  - Debt relief restrictions undertaking
+    - [Sch. 4ZB para. 7](schedule/4ZB/paragraph/7.md)
+    - [Sch. 4ZB para. 8](schedule/4ZB/paragraph/8.md)
+    - [Sch. 4ZB para. 9](schedule/4ZB/paragraph/9.md)
+  - Effect of revocation of debt relief order
+    - [Sch. 4ZB para. 10](schedule/4ZB/paragraph/10.md)
+- SCHEDULE 4A
+  - [Sch. 4A para. 1 Bankruptcy restrictions order](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2 Grounds for making order](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3 Timing of application for order](schedule/4A/paragraph/3.md)
+  - [Sch. 4A para. 4 Duration of order](schedule/4A/paragraph/4.md)
+  - [Sch. 4A para. 5 Interim bankruptcy restrictions order](schedule/4A/paragraph/5.md)
+  - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - [Sch. 4A para. 7 Bankruptcy restrictions undertaking](schedule/4A/paragraph/7.md)
+  - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+  - [Sch. 4A para. 10 Effect of annulment of bankruptcy order](schedule/4A/paragraph/10.md)
+  - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+  - [Sch. 4A para. 12 Registration](schedule/4A/paragraph/12.md)
+- SCHEDULE 5 Powers of Trustee in Bankruptcy
+  - Part I ...
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Part II ...
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 9A](schedule/5/paragraph/9A.md)
+    - [Sch. 5 para. 9B](schedule/5/paragraph/9B.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Part III ...
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 The Categories of Preferential Debts
+  - Category 1: Debts due to Inland Revenue
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Category 2: Debts due to Customs and Excise
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 3A](schedule/6/paragraph/3A.md)
+    - [Sch. 6 para. 3B](schedule/6/paragraph/3B.md)
+    - [Sch. 6 para. 3C](schedule/6/paragraph/3C.md)
+    - [Sch. 6 para. 3D](schedule/6/paragraph/3D.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+    - [Sch. 6 para. 5B](schedule/6/paragraph/5B.md)
+    - [Sch. 6 para. 5C](schedule/6/paragraph/5C.md)
+  - Category 3: Social security contributions
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Category 4: Contributions to occupational pension schemes, etc.
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Category 5: Remuneration, etc., of employees
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Interpertation for Category 5
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Category 6: Levies on coal and steel production
+    - [Sch. 6 para. 15A](schedule/6/paragraph/15A.md)
+  - Category 6A: Debts owed to the Financial Services Compensation Scheme
+    - [Sch. 6 para. 15AA](schedule/6/paragraph/15AA.md)
+  - Category 7: Deposits covered by Financial Services Compensation Scheme
+    - [Sch. 6 para. 15B](schedule/6/paragraph/15B.md)
+  - Category 8: Other deposits
+    - [Sch. 6 para. 11n1](schedule/6/paragraph/11n1.md)
+    - [Sch. 6 para. 12n1](schedule/6/paragraph/12n1.md)
+  - Interpretation for categories 6A, 7 and 8.
+    - [Sch. 6 para. 15C](schedule/6/paragraph/15C.md)
+  - Category 9: Certain HMRC debts
+    - [Sch. 6 para. 15D](schedule/6/paragraph/15D.md)
+  - Orders
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 Insolvency Practitioners Tribunal
+  - Panels of members
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Remuneration of members
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Sittings of Tribunal
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Procedure of Tribunal
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Provisions Capable of Inclusion in Company Insolvency Rules
+  - Courts
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Notices, etc.
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 5A](schedule/8/paragraph/5A.md)
+  - Registration of voluntary arrangements
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Provisional liquidator
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Conduct of insolvency
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 8A](schedule/8/paragraph/8A.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 9A](schedule/8/paragraph/9A.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 13A](schedule/8/paragraph/13A.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 14A](schedule/8/paragraph/14A.md)
+    - [Sch. 8 para. 14B Administration](schedule/8/paragraph/14B.md)
+  - Financial provisions
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 16A](schedule/8/paragraph/16A.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Information and records
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - General
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+- SCHEDULE 9 Provisions Capable of Inclusion in Individual Insolvency Rules
+  - Courts
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Adjudicators
+    - [Sch. 9 para. 4A](schedule/9/paragraph/4A.md)
+    - [Sch. 9 para. 4B](schedule/9/paragraph/4B.md)
+  - Appeals against determinations by adjudicators
+    - [Sch. 9 para. 4C](schedule/9/paragraph/4C.md)
+  - Notices, etc.
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 7An1](schedule/9/paragraph/7An1.md)
+  - Debt relief orders
+    - [Sch. 9 para. 7A](schedule/9/paragraph/7A.md)
+    - [Sch. 9 para. 7B](schedule/9/paragraph/7B.md)
+    - [Sch. 9 para. 7C](schedule/9/paragraph/7C.md)
+  - Debt relief restrictions orders and undertakings
+    - [Sch. 9 para. 7D](schedule/9/paragraph/7D.md)
+  - Register of debt relief orders and debt relief restrictions orders etc
+    - [Sch. 9 para. 7E](schedule/9/paragraph/7E.md)
+  - Registration of voluntary arrangements
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 8A Official receiver acting on voluntary arrangement](schedule/9/paragraph/8A.md)
+  - Interim receiver
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Receiver or manager
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Administration of individual insolvency
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 11A](schedule/9/paragraph/11A.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 12A](schedule/9/paragraph/12A.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 18A](schedule/9/paragraph/18A.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Financial provisions
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 21A](schedule/9/paragraph/21A.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - Information and records
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 24A](schedule/9/paragraph/24A.md)
+    - [Sch. 9 para. 24B](schedule/9/paragraph/24B.md)
+    - [Sch. 9 para. 24C](schedule/9/paragraph/24C.md)
+    - [Sch. 9 para. 24D](schedule/9/paragraph/24D.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 29A Bankruptcy restrictions orders and undertakings](schedule/9/paragraph/29A.md)
+  - General
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+- SCHEDULE 10 Punishment of Offences under this Act
+- SCHEDULE 11 Transitional Provisions and Savings
+  - Part I Company Insolvency and Winding Up
+    - Administration orders
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Receivers and managers (England and Wales)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Receivers (Scotland)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Winding up already in progress
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Statement of affairs
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Provisions relating to liquidator
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Winding up under supervision of the court
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Saving for power to make rules
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Setting aside of preferences and other transactions
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Part II Individual Insolvency
+    - Bankruptcy (general)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Discharge from old bankruptcy
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Provisions relating to trustee
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Copyright
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Second bankruptcy
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Setting aside of preferences and other transactions
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - Bankruptcy offences
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Power to make rules
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Part III Transitional Effect of Part XVI
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Part IV Insolvency Practitioners
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - Part V General Transitional Provisions and Savings
+    - Interpretation for this Part
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - General saving for past acts and events
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - Periods of time
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - Internal cross-references in this Act
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - Punishment of offences
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - References elsewhere to the former enactments
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - Saving for power to repeal provisions in section 51
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - Saving for Interpretation Act 1978 ss. 16, 17
+      - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+- SCHEDULE 12 Enactments Repealed
+- SCHEDULE 13 Consequential Amendments of Companies Act 1985
+  - Part I Internal and Other Section References Amended or Re-amended
+  - Part II Amendement of Part XXVI (Interpretation)
+- SCHEDULE 14 Consequential Amendments of other Enactments
