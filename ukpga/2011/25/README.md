@@ -1,0 +1,941 @@
+# Charities Act 2011
+
+2011 c. 25. Enacted 2011-12-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2026-10-01
+
+## Contents
+
+- Part 1 Meaning of “charity” and “charitable purpose”
+  - CHAPTER 1 General
+    - Charity
+      - [s. 1 Meaning of “charity”](section/1.md)
+    - Charitable purpose
+      - [s. 2 Meaning of “charitable purpose”](section/2.md)
+      - [s. 3 Descriptions of purposes](section/3.md)
+      - [s. 4 The public benefit requirement](section/4.md)
+    - Recreational trusts and registered sports clubs
+      - [s. 5 Recreational and similar trusts, etc.](section/5.md)
+      - [s. 6 Registered sports clubs](section/6.md)
+    - Supplementary
+      - [s. 7 Application of this Chapter in relation to Scotland](section/7.md)
+      - [s. 8 Application of this Chapter in relation to Northern Ireland](section/8.md)
+      - [s. 9 Interpretation](section/9.md)
+  - CHAPTER 2 Special provision for this Act
+    - [s. 10 Ecclesiastical corporations etc. not charities in certain contexts](section/10.md)
+    - [s. 11 Charitable purposes](section/11.md)
+    - [s. 12 Directions as to what is (or is not) a separate charity](section/12.md)
+- Part 2 The Charity Commission and the Official Custodian for Charities
+  - The Commission
+    - [s. 13 The Charity Commission](section/13.md)
+    - [s. 14 The Commission’s objectives](section/14.md)
+    - [s. 15 The Commission’s general functions](section/15.md)
+    - [s. 16 The Commission’s general duties](section/16.md)
+    - [s. 17 Guidance as to operation of public benefit requirement](section/17.md)
+    - [s. 18 Supply by Commission of copies of documents](section/18.md)
+    - [s. 19 Fees and other amounts payable to Commission](section/19.md)
+    - [s. 20 Incidental powers](section/20.md)
+  - The official custodian
+    - [s. 21 The official custodian for charities](section/21.md)
+- Part 3 Exempt charities and the principal regulator
+  - Exempt charities
+    - [s. 22 Meaning of “exempt charity” and Sch.3](section/22.md)
+    - [s. 23 Power to amend Sch.3 so as to add or remove exempt charities](section/23.md)
+    - [s. 24 Power to remove defunct institutions from Sch.3](section/24.md)
+  - The principal regulator
+    - [s. 25 Meaning of “the principal regulator”](section/25.md)
+    - [s. 26 General duty of principal regulator in relation to exempt charity](section/26.md)
+    - [s. 27 Power to make amendments in connection with s.26](section/27.md)
+    - [s. 28 Commission to consult principal regulator](section/28.md)
+- Part 4 Registration and names of charities
+  - The register
+    - [s. 29 The register](section/29.md)
+  - Charities required to be registered
+    - [s. 30 Charities required to be registered: general](section/30.md)
+    - [s. 31 Restrictions on extending the range of excepted charities etc.](section/31.md)
+    - [s. 32 Power to alter sums specified in s.30(2)](section/32.md)
+    - [s. 33 Power to repeal provisions relating to excepted charities](section/33.md)
+  - Removal of charities from register
+    - [s. 34 Removal of charities from register](section/34.md)
+  - Registration: duties of trustees and claims and objections
+    - [s. 35 Duties of trustees in connection with registration](section/35.md)
+    - [s. 36 Claims and objections to registration](section/36.md)
+  - Effect of registration and right to inspect register
+    - [s. 37 Effect of registration](section/37.md)
+    - [s. 38 Right to inspect register](section/38.md)
+  - Disclosure of registered charity status
+    - [s. 39 Statement required to be made in official publications etc.](section/39.md)
+    - [s. 40 Power to alter sum specified in s.39(1)](section/40.md)
+    - [s. 41 Offences](section/41.md)
+  - Names and working names
+    - [s. 42 Power to require name or working name to be changed](section/42.md)
+    - [s. 43 Duty of charity trustees on receiving direction under s.42](section/43.md)
+    - [s. 44 Change of name not to affect existing rights and obligations etc.](section/44.md)
+    - [s. 45 Change of name where charity is a company](section/45.md)
+    - [s. 45A Power to delay registration following s. 42 direction](section/45A.md)
+    - [s. 45B Power to delay entry of name in register following a s. 42 direction](section/45B.md)
+- Part 5 Information powers
+  - Inquiries instituted by Commission
+    - [s. 46 General power to institute inquiries](section/46.md)
+    - [s. 47 Obtaining evidence etc. for purposes of inquiry](section/47.md)
+    - [s. 48 Power to obtain search warrant for purposes of inquiry](section/48.md)
+    - [s. 49 Execution of search warrant](section/49.md)
+    - [s. 50 Publication of results of inquiries](section/50.md)
+    - [s. 51 Contributions by local authorities to inquiries into local charities](section/51.md)
+  - Power to call for documents and search records
+    - [s. 52 Power to call for documents](section/52.md)
+    - [s. 53 Power to search records](section/53.md)
+  - Disclosure of information
+    - [s. 54 Disclosure to Commission: general](section/54.md)
+    - [s. 55 Disclosure to Commission: Revenue and Customs information](section/55.md)
+    - [s. 56 Disclosure by Commission: general](section/56.md)
+    - [s. 57 Disclosure by Commission: Revenue and Customs information](section/57.md)
+    - [s. 58 Disclosure to and by principal regulators of exempt charities](section/58.md)
+    - [s. 59 Disclosure: supplementary](section/59.md)
+  - Supply of false or misleading information to Commission etc.
+    - [s. 60 Supply of false or misleading information to Commission etc.](section/60.md)
+- Part 6 Cy-près powers and assistance and supervision of charities by court and Commission
+  - Cy-près powers and variation of charters
+    - [s. 61 Duty of trustees in relation to application of property cy-près](section/61.md)
+    - [s. 62 Occasions for applying property cy-près](section/62.md)
+    - [s. 63 Failure of specific charitable purposes: application cy-près](section/63.md)
+    - [s. 66 Section 63A: supplementary](section/66.md)
+    - [s. 67 Cy-près schemes](section/67.md)
+    - [s. 67A Proceeds of fund-raising: power of charity trustees to apply cy-près](section/67A.md)
+    - [s. 68 Charities governed by charter, or by or under statute](section/68.md)
+  - Powers of Commission to make schemes etc.
+    - [s. 69 Commission’s concurrent jurisdiction with High Court for certain purposes](section/69.md)
+    - [s. 70 Restrictions on Commission’s concurrent jurisdiction](section/70.md)
+    - [s. 71 Exercise of Commission’s concurrent jurisdiction: notice](section/71.md)
+    - [s. 72 Power to alter sum specified in s.70(3)](section/72.md)
+    - [s. 73 Powers to make schemes altering provision made by Acts, etc.](section/73.md)
+    - [s. 74 Restriction on expenditure on promoting Bills](section/74.md)
+    - [s. 75 Further powers to alter application of charitable property](section/75.md)
+  - Power of the court and the Commission to make schemes
+    - [s. 75ZA Power of the court and the Commission to make schemes](section/75ZA.md)
+  - Powers of Commission to act for protection of charities etc.
+    - [s. 75A Official warnings by the Commission](section/75A.md)
+    - [s. 76 Suspension of trustees etc. and appointment of interim managers](section/76.md)
+    - [s. 76A Exercise of powers where section 76(1)(a) applies](section/76A.md)
+    - [s. 77 Offence of contravening certain orders under s.76](section/77.md)
+    - [s. 78 Interim managers: supplementary](section/78.md)
+    - [s. 79 Removal of trustee or officer etc for protective etc purposes](section/79.md)
+    - [s. 79A Removal of disqualified trustee](section/79A.md)
+    - [s. 80 Other powers to remove or appoint charity trustees](section/80.md)
+    - [s. 81 Removal or appointment of charity trustees etc.: supplementary](section/81.md)
+    - [s. 82 Removal of trustees etc.: notice](section/82.md)
+    - [s. 83 Power to suspend or remove trustees etc. from membership of charity](section/83.md)
+    - [s. 84 Power to direct specified action to be taken](section/84.md)
+    - [s. 84A Power to direct specified action not to be taken](section/84A.md)
+    - [s. 84B Power to direct winding up](section/84B.md)
+    - [s. 85 Power to direct application of charity property](section/85.md)
+    - [s. 86 Copy of certain orders, and reasons, to be sent to charity](section/86.md)
+    - [s. 87 Supervision by Commission of certain Scottish charities](section/87.md)
+  - Publicity relating to schemes and orders
+    - [s. 88 Publicity relating to schemes](section/88.md)
+    - [s. 89 Publicity for orders relating to trustees or other individuals](section/89.md)
+  - Property vested in official custodian
+    - [s. 90 Entrusting charity property to official custodian, and termination of trust](section/90.md)
+    - [s. 91 Supplementary provisions as to property vested in official custodian](section/91.md)
+  - Official custodian and Reverter of Sites Act 1987
+    - [s. 92 Divestment of official custodian where 1987 Act due to operate](section/92.md)
+    - [s. 93 Divestment of official custodian where 1987 Act has operated](section/93.md)
+    - [s. 94 Vesting of land in relevant charity trustees following divestment](section/94.md)
+    - [s. 95 Supplementary provisions in connection with 1987 Act](section/95.md)
+  - Establishment of common investment or deposit funds
+    - [s. 96 Power to make common investment schemes](section/96.md)
+    - [s. 97 Bodies which may participate in common investment schemes](section/97.md)
+    - [s. 98 Provisions which may be included in common investment schemes](section/98.md)
+    - [s. 99 Further provisions relating to common investment schemes and funds](section/99.md)
+    - [s. 100 Power to make common deposit schemes](section/100.md)
+    - [s. 101 Bodies which may participate in common deposit schemes](section/101.md)
+    - [s. 102 Provisions which may be included in common deposit schemes](section/102.md)
+    - [s. 103 Further provisions relating to common deposit schemes and funds](section/103.md)
+    - [s. 104 Meaning of “Scottish recognised body” and “Northern Ireland charity”](section/104.md)
+  - Total return investment
+    - [s. 104A Investment of endowment fund on total return basis](section/104A.md)
+    - [s. 104AA Total return investment: social investments](section/104AA.md)
+    - [s. 104B Total return investment: regulations](section/104B.md)
+  - Power to authorise dealings with charity property, ex gratia payments etc.
+    - [s. 105 Power to authorise dealings with charity property etc.](section/105.md)
+    - [s. 106 Power to authorise ex gratia payments etc.](section/106.md)
+  - Power to give directions about dormant bank accounts of charities
+    - [s. 107 Power to direct transfer of credits in dormant bank accounts](section/107.md)
+    - [s. 108 Accounts which cease to be dormant before transfer](section/108.md)
+    - [s. 109 Dormant bank accounts: supplementary](section/109.md)
+  - Additional powers of Commission
+    - [s. 110 Power to give advice](section/110.md)
+    - [s. 111 Power to determine membership of charity](section/111.md)
+    - [s. 112 Power to order assessment of solicitor’s bill](section/112.md)
+  - Legal proceedings relating to charities
+    - [s. 113 Petitions for winding up charities under Insolvency Act](section/113.md)
+    - [s. 114 Proceedings by the Commission](section/114.md)
+    - [s. 115 Proceedings by other persons](section/115.md)
+  - Supplementary
+    - [s. 116 Effect of provisions relating to vesting or transfer of property](section/116.md)
+- Part 7 Charity land
+  - Restrictions on dispositions of land in England and Wales
+    - [s. 117 Restrictions on dispositions of land: general](section/117.md)
+    - [s. 118 Meaning of “connected person” in s.117(2)](section/118.md)
+    - [s. 119 Requirements for dispositions other than certain leases](section/119.md)
+    - [s. 120 Requirements for leases which are for 7 years or less or which are assured tenancies etc.](section/120.md)
+    - [s. 121 Additional restrictions where land held for stipulated purposes](section/121.md)
+    - [s. 122 Instruments concerning dispositions of land: required statements, etc.](section/122.md)
+    - [s. 123 Charity land and land registration](section/123.md)
+  - Restrictions on mortgages of land in England and Wales
+    - [s. 124 Restrictions on mortgages](section/124.md)
+    - [s. 125 Mortgages: required statements, etc.](section/125.md)
+    - [s. 126 Mortgages of charity land and land registration](section/126.md)
+  - Release of charity rentcharges
+    - [s. 127 Release of charity rentcharges](section/127.md)
+    - [s. 128 Power to alter sum specified in s.127(2)](section/128.md)
+  - Advice etc from charity trustees, officers and employees
+    - [s. 128A Advice etc from charity trustees, officers and employees](section/128A.md)
+  - Interpretation
+    - [s. 129 Interpretation](section/129.md)
+- Part 8 Charity accounts, reports and returns
+  - CHAPTER 1 Individual accounts
+    - [s. 130 Accounting records](section/130.md)
+    - [s. 131 Preservation of accounting records](section/131.md)
+    - [s. 132 Preparation of statement of accounts](section/132.md)
+    - [s. 133 Account and statement an option for lower-income charities](section/133.md)
+    - [s. 134 Preservation of statement of accounts or account and statement](section/134.md)
+    - [s. 135 Charitable companies](section/135.md)
+    - [s. 136 Exempt charities](section/136.md)
+  - CHAPTER 2 Group accounts
+    - [s. 137 Accounting records](section/137.md)
+    - [s. 138 Preparation of group accounts](section/138.md)
+    - [s. 139 Exceptions to requirement to prepare group accounts](section/139.md)
+    - [s. 140 Preservation of group accounts](section/140.md)
+    - [s. 141 “Parent charity”, “subsidiary undertaking” and “group”](section/141.md)
+    - [s. 142 “Group accounts”](section/142.md)
+    - [s. 143 Exempt charities](section/143.md)
+  - CHAPTER 3 Audit or examination of accounts
+    - Audit or examination of individual accounts
+      - [s. 144 Audit of accounts of larger charities](section/144.md)
+      - [s. 145 Examination of accounts an option for lower-income charities](section/145.md)
+      - [s. 146 Commission’s powers to order audit](section/146.md)
+      - [s. 147 Accounts required to be audited under Companies Act](section/147.md)
+      - [s. 148 NHS charities: general](section/148.md)
+      - [s. 149 Audit or examination of English NHS charity accounts](section/149.md)
+      - [s. 150 Audit or examination of Welsh NHS charity accounts](section/150.md)
+    - Audit or examination of group accounts
+      - [s. 151 Audit of accounts of larger groups](section/151.md)
+      - [s. 152 Examination of accounts an option for smaller groups](section/152.md)
+      - [s. 153 Commission’s powers to order audit of group accounts](section/153.md)
+    - Regulations relating to audits and examinations
+      - [s. 154 Regulations relating to audits and examinations](section/154.md)
+      - [s. 155 Power of Commission to direct compliance with certain regulations](section/155.md)
+    - Duty of auditors etc. to report matters to Commission
+      - [s. 156 Duty of auditors etc. to report matters to Commission](section/156.md)
+      - [s. 157 Meaning of “connected institution or body” in s.156(2)](section/157.md)
+      - [s. 158 Application of duty in relation to auditors etc. of group accounts](section/158.md)
+      - [s. 159 Application of duty in relation to Companies Act auditors](section/159.md)
+    - Exempt and excepted charities
+      - [s. 160 Exempt charities](section/160.md)
+      - [s. 161 Excepted charities](section/161.md)
+  - CHAPTER 4 Annual reports and returns and public access to accounts etc.
+    - Annual reports etc.
+      - [s. 162 Charity trustees to prepare annual reports](section/162.md)
+      - [s. 162A Annual reports: fund-raising standards information](section/162A.md)
+      - [s. 163 Transmission of annual reports to Commission in certain cases](section/163.md)
+      - [s. 164 Documents to be transmitted with annual report](section/164.md)
+      - [s. 165 Preservation of annual reports etc.](section/165.md)
+      - [s. 166 Annual reports and group accounts](section/166.md)
+      - [s. 167 Exempt charities](section/167.md)
+      - [s. 168 Excepted charities](section/168.md)
+    - Annual returns
+      - [s. 169 Annual returns by registered charities](section/169.md)
+    - Availability of documents to public
+      - [s. 170 Public inspection of annual reports etc. kept by Commission](section/170.md)
+      - [s. 171 Supply by charity trustees of copy of most recent annual report](section/171.md)
+      - [s. 172 Supply by charity trustees of copy of most recent accounts](section/172.md)
+    - Offences
+      - [s. 173 Offences of failing to supply certain documents](section/173.md)
+  - CHAPTER 5 Powers to set financial thresholds
+    - [s. 174 Powers to alter certain sums specified in this Part](section/174.md)
+    - [s. 175 Aggregate gross income of group](section/175.md)
+    - [s. 176 Larger groups: “relevant income threshold” and “relevant assets threshold”](section/176.md)
+- Part 9 Charity trustees, trustees and auditors etc.
+  - Meaning of “charity trustees”
+    - [s. 177 Meaning of “charity trustees”](section/177.md)
+  - Disqualification of charity trustees and trustees
+    - [s. 178 Persons disqualified from being charity trustees or trustees of a charity](section/178.md)
+    - [s. 178A Case A: specified offences](section/178A.md)
+    - [s. 179 Disqualification: pre-commencement events etc.](section/179.md)
+    - [s. 180 Disqualification: exceptions in relation to charitable companies](section/180.md)
+    - [s. 181 Power to waive disqualification](section/181.md)
+    - [s. 181A Disqualification orders](section/181A.md)
+    - [s. 181B Duration of disqualification, and suspension pending disqualification](section/181B.md)
+    - [s. 181C Disqualification orders: procedure](section/181C.md)
+    - [s. 181D Disqualification orders: variation and revocation](section/181D.md)
+    - [s. 182 Records of persons removed from office](section/182.md)
+    - [s. 183 Criminal consequences of acting while disqualified](section/183.md)
+    - [s. 184 Civil consequences of acting while disqualified](section/184.md)
+    - [s. 184A Sections 183 and 184: participation in corporate decisions](section/184A.md)
+  - Invalid appointment of charity trustee
+    - [s. 184B Power to confirm trustee appointments etc](section/184B.md)
+  - Remuneration of charity trustees and trustees etc.
+    - [s. 185 Remuneration of charity trustees or trustees etc. providing goods or services to charity](section/185.md)
+    - [s. 186 Disqualification of charity trustee or trustee receiving remuneration under s.185](section/186.md)
+    - [s. 186A Remuneration etc for work already carried out](section/186A.md)
+    - [s. 187 Meaning of “benefit”, “remuneration”...etc.](section/187.md)
+    - [s. 188 Meaning of “connected person”](section/188.md)
+  - Indemnity insurance for charity trustees and trustees
+    - [s. 189 Indemnity insurance for charity trustees and trustees](section/189.md)
+    - [s. 190 Power to amend s.189](section/190.md)
+  - Powers to relieve trustees and auditors etc. from liability
+    - [s. 191 Commission’s power to relieve trustees and auditors etc. from liability](section/191.md)
+    - [s. 192 Court’s power to grant relief to apply to all auditors etc. of charities which are not companies](section/192.md)
+- Part 10 Charitable companies etc.
+  - Introductory
+    - [s. 193 Meaning of “charitable company”](section/193.md)
+  - Disclosure of charitable status by companies
+    - [s. 194 Requirement to disclose charitable status](section/194.md)
+    - [s. 195 Civil consequences of failure to make required disclosure](section/195.md)
+    - [s. 196 Criminal consequences of failure to make required disclosure](section/196.md)
+  - Restrictions on alteration of objects
+    - [s. 197 Alteration of objects by bodies corporate and charitable status](section/197.md)
+    - [s. 198 Alteration of objects by companies and Commission’s consent](section/198.md)
+    - [s. 199 Meaning of “benefit” in s.198(2)](section/199.md)
+    - [s. 200 Meaning of “connected person” in s.198(2)](section/200.md)
+  - Acts requiring Commission consent
+    - [s. 201 Consent of Commission required for approval etc. by members of charitable companies](section/201.md)
+    - [s. 202 Consent of Commission required for certain acts of charitable company](section/202.md)
+  - Restoration of charitable company to register
+    - [s. 203 Application for restoration of charitable company to register](section/203.md)
+- Part 11 Charitable incorporated organisations (CIOs)
+  - CHAPTER 1 General
+    - Nature and constitution
+      - [s. 204 Meaning of “CIO”](section/204.md)
+      - [s. 205 Nature](section/205.md)
+      - [s. 206 Constitution](section/206.md)
+    - Formation and registration of CIO
+      - [s. 207 Application for CIO to be constituted and registered](section/207.md)
+      - [s. 208 Cases where application must or may be refused](section/208.md)
+      - [s. 209 Registration of CIO](section/209.md)
+      - [s. 210 Effect of registration of CIO](section/210.md)
+    - Name and status
+      - [s. 211 Name](section/211.md)
+      - [s. 212 Status](section/212.md)
+      - [s. 213 Civil consequences of failure to disclose name or status](section/213.md)
+      - [s. 214 Offence of failing to disclose name or status](section/214.md)
+      - [s. 215 Offence of holding out that a body is a CIO](section/215.md)
+  - CHAPTER 2 Powers, capacity and procedure etc.
+    - [s. 216 Powers of CIO](section/216.md)
+    - [s. 217 Constitutional requirements](section/217.md)
+    - [s. 218 Third parties](section/218.md)
+    - [s. 219 Limits to s.218](section/219.md)
+    - [s. 220 Duty of CIO members](section/220.md)
+    - [s. 221 Duties of charity trustees](section/221.md)
+    - [s. 222 Personal benefit and payments](section/222.md)
+    - [s. 223 Regulations about procedure of CIOs](section/223.md)
+  - CHAPTER 3 Amendment of constitution
+    - [s. 224 Amendment of constitution and procedure](section/224.md)
+    - [s. 225 Amendment of constitution and charitable status](section/225.md)
+    - [s. 226 Amendment of constitution and Commission’s consent](section/226.md)
+    - [s. 227 Registration and coming into effect of amendments](section/227.md)
+  - CHAPTER 4 Conversion, amalgamation and transfer
+    - Conversion of certain bodies to CIO
+      - [s. 228 Application for conversion by charitable company](section/228.md)
+      - [s. 229 Application for conversion by registered society](section/229.md)
+      - [s. 230 Commission to consult appropriate registrar and others](section/230.md)
+      - [s. 231 Cases where application must or may be refused](section/231.md)
+      - [s. 232 Provisional and final registration of converting body](section/232.md)
+      - [s. 233 Effect of registration becoming final](section/233.md)
+      - [s. 234 Conversion of community interest company](section/234.md)
+    - Amalgamation of CIOs
+      - [s. 235 Application for amalgamation of CIOs](section/235.md)
+      - [s. 236 Notice of application for amalgamation](section/236.md)
+      - [s. 237 Cases where application must or may be refused](section/237.md)
+      - [s. 238 Registration of amalgamated CIO](section/238.md)
+      - [s. 239 Effect of registration](section/239.md)
+    - Transfer of CIO’s undertaking to another CIO
+      - [s. 240 Resolutions about transfer of CIO’s undertaking to another CIO](section/240.md)
+      - [s. 241 Notice of transfer of CIO’s undertaking to another CIO](section/241.md)
+      - [s. 242 Cases where confirmation of resolution must or may be refused](section/242.md)
+      - [s. 243 Confirmation of resolution](section/243.md)
+      - [s. 244 Effect of confirmation of resolution](section/244.md)
+  - CHAPTER 5 Supplementary
+    - [s. 245 Regulations about winding up, insolvency and dissolution](section/245.md)
+    - [s. 246 Power to make further provision about CIOs](section/246.md)
+    - [s. 247 Meaning of “CIO regulations”](section/247.md)
+    - [s. 247A Regulations about moratorium for certain CIOs](section/247A.md)
+    - [s. 248 Meaning of “benefit”](section/248.md)
+    - [s. 249 Meaning of “connected person”](section/249.md)
+    - [s. 250 Effect of provisions relating to vesting or transfer of property](section/250.md)
+- Part 12 Incorporation of charity trustees
+  - General
+    - [s. 251 Incorporation of charity trustees](section/251.md)
+    - [s. 252 Estate to vest in incorporated body](section/252.md)
+    - [s. 253 Gifts to take effect as gifts to incorporated body](section/253.md)
+    - [s. 254 Liability of charity trustees not affected by incorporation](section/254.md)
+    - [s. 255 Charity trustees bound by conditions in certificate etc.](section/255.md)
+  - Application procedure
+    - [s. 256 Applications for incorporation](section/256.md)
+    - [s. 257 Requirement to be met before certificate is granted](section/257.md)
+    - [s. 258 Certificate conclusive as to compliance with incorporation requirements etc.](section/258.md)
+  - Administration etc. of charity whose charity trustees are incorporated
+    - [s. 259 Filling up of vacancies in charity trustees](section/259.md)
+    - [s. 260 Execution of documents by incorporated body: general](section/260.md)
+    - [s. 261 Conferral of authority to execute documents](section/261.md)
+  - Commission’s powers to amend certificate or dissolve body
+    - [s. 262 Amendment of certificate of incorporation](section/262.md)
+    - [s. 263 Dissolution of incorporated body](section/263.md)
+  - Supplementary
+    - [s. 264 Records of applications and certificates](section/264.md)
+    - [s. 265 Meaning of “incorporated body” and “relevant charity”](section/265.md)
+    - [s. 266 Effect of provisions relating to vesting or transfer of property](section/266.md)
+- Part 13 Powers to amend trusts and use capital
+  - Power to transfer all property of unincorporated charity
+    - [s. 267 Introduction](section/267.md)
+    - [s. 268 Resolution to transfer all property](section/268.md)
+    - [s. 269 Notice of, and information about, resolution to transfer property](section/269.md)
+    - [s. 270 General rule as to when s.268 resolution takes effect](section/270.md)
+    - [s. 271 S.268 resolution not to take effect or to take effect at later date](section/271.md)
+    - [s. 272 Transfer of property in accordance with s.268 resolution](section/272.md)
+    - [s. 273 Transfer where charity has permanent endowment: general](section/273.md)
+    - [s. 274 Requirements relating to permanent endowment](section/274.md)
+  - Powers to alter purposes or powers etc. of unincorporated charity
+    - [s. 275 Resolution to replace purposes of unincorporated charity](section/275.md)
+    - [s. 276 Notice of, and information about, s.275 resolution](section/276.md)
+    - [s. 277 General rule as to when s.275 resolution takes effect](section/277.md)
+    - [s. 278 S.275 resolution not to take effect or to take effect at a later date](section/278.md)
+    - [s. 279 Replacement of purposes in accordance with s.275](section/279.md)
+    - [s. 280 Power to modify powers or procedures of unincorporated charity](section/280.md)
+  - Unincorporated charity’s general power to amend
+    - [s. 280A Amendment of the trusts of an unincorporated charity](section/280A.md)
+    - [s. 280B S. 280A: supplementary provision](section/280B.md)
+  - Charity established etc by Royal charter: general power to amend
+    - [s. 280C Power to amend Royal charter](section/280C.md)
+  - Powers of ... charities to spend capital
+    - [s. 281 Power of ... charities to spend capital: general](section/281.md)
+    - [s. 282 Resolution to spend larger fund ...](section/282.md)
+    - [s. 283 Notice of, and information about, s.282 resolution](section/283.md)
+    - [s. 284 When and how s.282 resolution takes effect](section/284.md)
+  - Power to borrow from permanent endowment
+    - [s. 284A Power to borrow from permanent endowment: general](section/284A.md)
+    - [s. 284B Calculation of the “permitted amount”](section/284B.md)
+    - [s. 284C Calculation of the “maximum estimated capital appreciation”](section/284C.md)
+    - [s. 284D Inability to repay](section/284D.md)
+  - Supplementary
+    - [s. 285 Power to alter sums etc specified in this Part](section/285.md)
+    - [s. 286 Effect of provisions relating to vesting or transfer of property](section/286.md)
+- Part 14 Special trusts
+  - [s. 287 Meaning of “special trust”](section/287.md)
+  - [s. 288 Power to spend capital subject to special trusts: general](section/288.md)
+  - [s. 289 Resolution to spend capital subject to special trusts: larger fund](section/289.md)
+  - [s. 290 Notice of, and information about, s.289 resolution](section/290.md)
+  - [s. 291 When and how s.289 resolution takes effect](section/291.md)
+  - [s. 292 Power to alter sum specified in s.289](section/292.md)
+- PART 14A SOCIAL INVESTMENTS
+  - [s. 292A Meaning of “social investment”](section/292A.md)
+  - [s. 292B General power to make social investments](section/292B.md)
+  - [s. 292C Charity trustees’ duties in relation to social investments](section/292C.md)
+- Part 15 Local charities
+  - Indexes and reviews etc.
+    - [s. 293 Meaning of “local charity”](section/293.md)
+    - [s. 294 Local authority’s index of local charities](section/294.md)
+    - [s. 295 Reviews of local charities by local authority](section/295.md)
+    - [s. 296 S.294 and s.295: supplementary](section/296.md)
+    - [s. 297 Co-operation between charities, and between charities and local authorities](section/297.md)
+  - Parochial charities
+    - [s. 298 Transfer of property to parish or community council or its appointees](section/298.md)
+    - [s. 299 Local authorities’ power to appoint representative trustees](section/299.md)
+    - [s. 300 Powers of appointment deriving from pre-1894 powers](section/300.md)
+    - [s. 301 Powers of appointment deriving from pre-1927 powers](section/301.md)
+    - [s. 302 Term of office of trustees appointed under s.299 to s.301](section/302.md)
+    - [s. 303 S.298 to s.302: supplementary](section/303.md)
+  - Supplementary
+    - [s. 304 Effect of provisions relating to vesting or transfer of property](section/304.md)
+- Part 16 Charity mergers
+  - Registration
+    - [s. 305 Register of charity mergers](section/305.md)
+    - [s. 306 Meaning of “relevant charity merger” etc.](section/306.md)
+    - [s. 307 Notification of charity mergers](section/307.md)
+    - [s. 308 Details to be entered in register of charity mergers](section/308.md)
+    - [s. 309 Right to inspect register of charity mergers](section/309.md)
+  - Vesting declarations and effect of merger on certain gifts
+    - [s. 310 Pre-merger vesting declarations](section/310.md)
+    - [s. 311 Effect of registering charity merger on gifts to transferor](section/311.md)
+    - [s. 312 “Transferor” and “transferee” etc. in s.310 and s.311](section/312.md)
+  - Supplementary
+    - [s. 313 Effect of provisions relating to vesting or transfer of property](section/313.md)
+    - [s. 314 Exception for CIOs](section/314.md)
+- Part 17 The Tribunal
+  - CHAPTER 1 General
+    - [s. 315 The Tribunal](section/315.md)
+    - [s. 316 Rules relating to appeals, applications or references](section/316.md)
+    - [s. 317 Appeal from Tribunal](section/317.md)
+    - [s. 318 Intervention by Attorney General](section/318.md)
+  - CHAPTER 2 Appeals and applications to Tribunal
+    - [s. 319 Appeals: general](section/319.md)
+    - [s. 320 Appeals: orders under s.52](section/320.md)
+    - [s. 321 Reviews](section/321.md)
+    - [s. 322 Reviewable matters](section/322.md)
+    - [s. 323 Remission of matters to Commission](section/323.md)
+    - [s. 324 Power to amend provisions relating to appeals and applications to Tribunal](section/324.md)
+    - [s. 324A Power to authorise costs to be incurred in relation to proceedings](section/324A.md)
+  - CHAPTER 3 References to Tribunal
+    - [s. 325 References by Commission](section/325.md)
+    - [s. 326 References by Attorney General](section/326.md)
+    - [s. 327 Powers of Commission in relation to matters referred to Tribunal](section/327.md)
+    - [s. 328 Suspension of time limits while reference is in progress](section/328.md)
+    - [s. 329 Agreement for Commission to act while reference is in progress](section/329.md)
+    - [s. 330 Appeals and applications in respect of matters determined on references](section/330.md)
+    - [s. 331 Interpretation](section/331.md)
+- Part 18 Miscellaneous and supplementary
+  - Limited power to make ex gratia payments
+    - [s. 331A Limited power for charity trustees to make ex gratia payments etc](section/331A.md)
+    - [s. 331B Power to alter sums specified in s.331A](section/331B.md)
+  - Administrative provisions about charities
+    - [s. 332 Manner of giving notice of charity meetings, etc.](section/332.md)
+    - [s. 333 Conferral of authority to execute documents](section/333.md)
+    - [s. 334 Transfer and evidence of title to property vested in trustees](section/334.md)
+  - Trustee of charitable trust: status as trust corporation
+    - [s. 334A Status of certain trustees of charitable trusts](section/334A.md)
+  - Enforcement powers of Commission etc.
+    - [s. 335 Enforcement of requirements by order of Commission](section/335.md)
+    - [s. 336 Enforcement of orders of Commission](section/336.md)
+    - [s. 337 Other provisions as to orders etc of Commission](section/337.md)
+    - [s. 338 Directions of the Commission or person conducting inquiry](section/338.md)
+    - [s. 339 Service of orders and directions](section/339.md)
+  - Documents and evidence etc.
+    - [s. 340 Enrolment and deposit of documents etc.](section/340.md)
+    - [s. 341 Evidence of documents received by Commission etc.](section/341.md)
+    - [s. 342 Report of inquiry to be evidence in certain proceedings](section/342.md)
+    - [s. 343 Evidence of documents issued by Commission etc.](section/343.md)
+    - [s. 344 Other miscellaneous provisions as to evidence](section/344.md)
+  - Offences
+    - [s. 345 Restriction on institution of proceedings for certain offences](section/345.md)
+    - [s. 346 Offences by bodies corporate](section/346.md)
+  - Regulations and orders
+    - [s. 347 Regulations and orders: general](section/347.md)
+    - [s. 348 Regulations subject to affirmative procedure etc.](section/348.md)
+    - [s. 349 Orders subject to affirmative procedure etc.](section/349.md)
+  - Interpretation
+    - [s. 350 Connected person: child, spouse and civil partner](section/350.md)
+    - [s. 351 Connected person: controlled institution](section/351.md)
+    - [s. 352 Connected person: substantial interest in body corporate](section/352.md)
+    - [s. 352A Power to amend definition of “connected person”](section/352A.md)
+    - [s. 353 Minor definitions](section/353.md)
+- Part 19 Final provisions
+  - [s. 354 Amendments etc.](section/354.md)
+  - [s. 355 Commencement](section/355.md)
+  - [s. 356 Extent](section/356.md)
+  - [s. 357 Index of defined expressions](section/357.md)
+  - [s. 358 Short title](section/358.md)
+- SCHEDULE 1 The Charity Commission
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Terms of appointment and remuneration
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Staff
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Committees
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Procedure etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Performance of functions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Evidence
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Execution of documents
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Annual report
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Annual public meeting
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 The official custodian
+  - Status and official seal
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Expenses
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Performance of functions and liability for loss or misapplication of property
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Accounts
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Exempt charities
+  - Institutions with an exemption from the Charitable Trusts Acts 1853 to 1939
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Educational institutions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+    - [Sch. 3 para. 11B](schedule/3/paragraph/11B.md)
+  - Museums, galleries etc.
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Housing
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Connected institutions
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+- SCHEDULE 4 Enlargement of areas of local charities
+- SCHEDULE 5 Court’s jurisdiction over certain charities governed by or under statute
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 Appeals and applications to Tribunal
+- SCHEDULE 7 Consequential amendments
+  - Part 1 General amendments
+    - References to the Charitable Uses Act 1601 (c. 4)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - References to the Charity Commissioners for England and Wales
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Application of certain enactments to trust corporations
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Part 2 Particular amendments
+    - Literary and Scientific Institutions Act 1854 (c. 112)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Places of Worship Registration Act 1855 (c. 81)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Places of Worship Sites Amendment Act 1882 (c. 21)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Technical and Industrial Institutions Act 1892 (c. 29)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Open Spaces Act 1906 (c. 25)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - ...
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - London County Council (General Powers) Act 1947 (c. xlvi)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - London County Council (General Powers) Act 1955 (c. xxix)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Incumbents and Churchwardens (Trusts) Measure 1964 (No. 2)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Co-operative and Community Benefit Societies and Credit Unions Act 1965 (c. 12)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Leasehold Reform Act 1967 (c. 88)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Co-operative and Community Benefit Societies and Credit Unions Act 1968 (c. 55)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Redundant Churches and other Religious Buildings Act 1969 (c. 22)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Sharing of Church Buildings Act 1969 (c. 38)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Synodical Government Measure 1969 (No. 2)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - Friendly Societies Act 1974 (c. 46)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Theatres Trust Act 1976 (c. 27)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Endowments and Glebe Measure 1976 (No. 4)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - Interpretation Act 1978 (c. 30)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - Disused Burial Grounds (Amendment) Act 1981 (c. 18)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - Pastoral Measure 1983 (No. 1)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Greater London Council (General Powers) Act 1984 (c. xxvii)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - Housing Associations Act 1985 (c. 69)
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+      - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - Coal Industry Act 1987 (c. 3)
+      - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - Reverter of Sites Act 1987 (c. 15)
+      - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - Education Reform Act 1988 (c. 40)
+      - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+      - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+      - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - Copyright, Designs and Patents Act 1988 (c. 48)
+      - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - Imperial College Act 1988 (c. xxiv)
+      - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+      - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - Courts and Legal Services Act 1990 (c. 41)
+      - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+    - London Local Authorities Act 1991 (c. xiii)
+      - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - Further and Higher Education Act 1992 (c. 13)
+      - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+      - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+      - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+      - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+      - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+      - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+      - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+      - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+    - Charities Act 1992 (c. 41)
+      - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+      - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+    - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+      - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+    - Reserve Forces Act 1996 (c. 14)
+      - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+    - Trusts of Land and Appointment of Trustees Act 1996 (c. 47)
+      - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+    - Housing Act 1996 (c. 52)
+      - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+      - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+    - Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+      - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+    - Education Act 1996 (c. 56)
+      - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - School Standards and Framework Act 1998 (c. 31)
+      - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+      - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+      - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+      - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+      - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+    - National Institutions Measure 1998 (No. 1)
+      - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+    - Finance Act 1999 (c. 16)
+      - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+    - ...
+      - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+      - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+      - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+      - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+      - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
+    - Learning and Skills Act 2000 (c. 21)
+      - [Sch. 7 para. 88](schedule/7/paragraph/88.md)
+    - Trustee Act 2000 (c. 29)
+      - [Sch. 7 para. 89](schedule/7/paragraph/89.md)
+      - [Sch. 7 para. 90](schedule/7/paragraph/90.md)
+    - Criminal Justice and Court Services Act 2000 (c. 43)
+      - [Sch. 7 para. 91](schedule/7/paragraph/91.md)
+    - Criminal Justice and Police Act 2001 (c. 16)
+      - [Sch. 7 para. 92](schedule/7/paragraph/92.md)
+    - Churchwardens Measure 2001 (No. 1)
+      - [Sch. 7 para. 93](schedule/7/paragraph/93.md)
+    - Land Registration Act 2002 (c. 9)
+      - [Sch. 7 para. 94](schedule/7/paragraph/94.md)
+    - Licensing Act 2003 (c. 17)
+      - [Sch. 7 para. 95](schedule/7/paragraph/95.md)
+      - [Sch. 7 para. 96](schedule/7/paragraph/96.md)
+    - Higher Education Act 2004 (c. 8)
+      - [Sch. 7 para. 97](schedule/7/paragraph/97.md)
+    - Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
+      - [Sch. 7 para. 98](schedule/7/paragraph/98.md)
+      - [Sch. 7 para. 99](schedule/7/paragraph/99.md)
+      - [Sch. 7 para. 100](schedule/7/paragraph/100.md)
+    - Pensions Act 2004 (c. 35)
+      - [Sch. 7 para. 101](schedule/7/paragraph/101.md)
+      - [Sch. 7 para. 102](schedule/7/paragraph/102.md)
+    - Serious Organised Crime and Police Act 2005 (c. 15)
+      - [Sch. 7 para. 103](schedule/7/paragraph/103.md)
+    - Education Act 2005 (c. 18)
+      - [Sch. 7 para. 104](schedule/7/paragraph/104.md)
+    - Gambling Act 2005 (c. 19)
+      - [Sch. 7 para. 105](schedule/7/paragraph/105.md)
+    - Charities and Trustee Investment (Scotland) Act 2005 (asp 10)
+      - [Sch. 7 para. 106](schedule/7/paragraph/106.md)
+      - [Sch. 7 para. 107](schedule/7/paragraph/107.md)
+      - [Sch. 7 para. 108](schedule/7/paragraph/108.md)
+    - Natural Environment and Rural Communities Act 2006 (c. 16)
+      - [Sch. 7 para. 109](schedule/7/paragraph/109.md)
+    - Education and Inspections Act 2006 (c. 40)
+      - [Sch. 7 para. 110](schedule/7/paragraph/110.md)
+    - National Health Service Act 2006 (c. 41)
+      - [Sch. 7 para. 111](schedule/7/paragraph/111.md)
+    - National Health Service (Wales) Act 2006 (c. 42)
+      - [Sch. 7 para. 112](schedule/7/paragraph/112.md)
+    - Companies Act 2006 (c. 46)
+      - [Sch. 7 para. 113](schedule/7/paragraph/113.md)
+      - [Sch. 7 para. 114](schedule/7/paragraph/114.md)
+      - [Sch. 7 para. 115](schedule/7/paragraph/115.md)
+      - [Sch. 7 para. 116](schedule/7/paragraph/116.md)
+    - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+      - [Sch. 7 para. 117](schedule/7/paragraph/117.md)
+    - Charities Act 2006 (c. 50)
+      - [Sch. 7 para. 118](schedule/7/paragraph/118.md)
+      - [Sch. 7 para. 119](schedule/7/paragraph/119.md)
+      - [Sch. 7 para. 120](schedule/7/paragraph/120.md)
+      - [Sch. 7 para. 121](schedule/7/paragraph/121.md)
+      - [Sch. 7 para. 122](schedule/7/paragraph/122.md)
+      - [Sch. 7 para. 123](schedule/7/paragraph/123.md)
+      - [Sch. 7 para. 124](schedule/7/paragraph/124.md)
+      - [Sch. 7 para. 125](schedule/7/paragraph/125.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 7 para. 126](schedule/7/paragraph/126.md)
+    - Legal Services Act 2007 (c. 29)
+      - [Sch. 7 para. 127](schedule/7/paragraph/127.md)
+    - Dioceses, Pastoral and Mission Measure 2007 (No. 1)
+      - [Sch. 7 para. 128](schedule/7/paragraph/128.md)
+      - [Sch. 7 para. 129](schedule/7/paragraph/129.md)
+    - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+      - [Sch. 7 para. 130](schedule/7/paragraph/130.md)
+    - Housing and Regeneration Act 2008 (c. 17)
+      - [Sch. 7 para. 131](schedule/7/paragraph/131.md)
+      - [Sch. 7 para. 132](schedule/7/paragraph/132.md)
+      - [Sch. 7 para. 133](schedule/7/paragraph/133.md)
+      - [Sch. 7 para. 134](schedule/7/paragraph/134.md)
+      - [Sch. 7 para. 135](schedule/7/paragraph/135.md)
+    - Planning Act 2008 (c. 29)
+      - [Sch. 7 para. 136](schedule/7/paragraph/136.md)
+    - Charities Act (Northern Ireland) 2008 (c. 12 (N.I.))
+      - [Sch. 7 para. 137](schedule/7/paragraph/137.md)
+      - [Sch. 7 para. 138](schedule/7/paragraph/138.md)
+    - Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)
+      - [Sch. 7 para. 139](schedule/7/paragraph/139.md)
+      - [Sch. 7 para. 140](schedule/7/paragraph/140.md)
+      - [Sch. 7 para. 141](schedule/7/paragraph/141.md)
+    - Corporation Tax Act 2010 (c. 4)
+      - [Sch. 7 para. 142](schedule/7/paragraph/142.md)
+    - Finance Act 2010 (c. 13)
+      - [Sch. 7 para. 143](schedule/7/paragraph/143.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 7 para. 144](schedule/7/paragraph/144.md)
+    - Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)
+      - [Sch. 7 para. 145](schedule/7/paragraph/145.md)
+    - Mission and Pastoral Measure 2011 (No. 3)
+      - [Sch. 7 para. 146](schedule/7/paragraph/146.md)
+      - [Sch. 7 para. 147](schedule/7/paragraph/147.md)
+      - [Sch. 7 para. 148](schedule/7/paragraph/148.md)
+      - [Sch. 7 para. 149](schedule/7/paragraph/149.md)
+- SCHEDULE 8 Transitionals and savings
+  - Part 1 General
+    - Continuity of the law
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Effect of old transitionals and savings
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Use of existing forms etc.
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Part 2 Recreational etc. purposes
+    - General
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Scotland
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Northern Ireland
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Part 3 Miscellaneous
+    - Regulations relating to fees
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Exempt charities
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Application cy-prs: donors unknown or disclaiming or treated as disclaiming
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Official custodian as successor to official trustee of charity lands and official trustees of charity funds
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Savings for consequential amendments
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Universities of Durham and Newcastle-upon-Tyne Act 1963
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 Transitory modifications
+  - Commission’s general functions—public charitable collections
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - “Exempt charity” and common investment and deposit funds
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - “Exempt charity” and church funds
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - “Exempt charity” and registered societies etc.
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Power to amend enactments in connection with changes in exempt charities
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Exempt charities and the principal regulator
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Voluntary registration
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Regulations to secure that any institution ceasing to be an exempt charity on the relevant commencement date is excepted
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - ...
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Power to institute inquiries and exempt charities
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Maximum term of imprisonment for offence under section 49(8)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Power to call for documents etc. and exempt charities
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Maximum term of imprisonment for offence under section 57(3)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Exempt charities and disclosure to and by principal regulator
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Exempt charities and Commission’s concurrent jurisdiction with High Court
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Exempt charities and restriction on expenditure on promoting Bills
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Exempt charities and power to act for protection of charities
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - Reference to Mission and Pastoral Measure 2011
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Exempt charities and power to give directions about dormant bank accounts
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - Exempt charities and Commission’s consent to proceedings etc.
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Exempt charities and duty of auditors etc. to report matters to Commission
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - Disqualification and references to section 429(2) of Insolvency Act 1986
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - Maximum term of imprisonment for offence under section 183(1)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+  - Exempt charities and power to order disqualified trustee to repay sums
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+  - CIOs
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - References to re-named Acts in Schedule 7
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - Meaning of “the relevant commencement date”
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - References to Acts
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+- SCHEDULE 10 Repeals and revocations
+- SCHEDULE 11 Index of defined expressions
