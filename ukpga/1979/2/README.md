@@ -1,0 +1,396 @@
+# Customs and Excise Management Act 1979
+
+1979 c. 2. Enacted 1979-02-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 38 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1979/2
+
+Source: https://www.legislation.gov.uk/ukpga/1979/2/2026-10-01
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Interpretation.](section/1.md)
+  - [s. 2 Application to hovercraft.](section/2.md)
+  - [s. 3 Application to pipe-lines.](section/3.md)
+  - [s. 4 Application to certain Crown aircraft.](section/4.md)
+  - [s. 5 Time of importation, exportation, etc.](section/5.md)
+- Part II Administration
+  - Appointment and duties of Commissioners, officers, etc.
+    - [s. 6 Appointment and general duties of Commissioners, etc.](section/6.md)
+    - [s. 7 Privileges of Commissioners, etc.](section/7.md)
+    - [s. 8 Exercise of powers and performance of duties.](section/8.md)
+    - [s. 8A Disclosure of customs information](section/8A.md)
+    - [s. 8B Co-operation with other customs services](section/8B.md)
+    - [s. 9 General duties of Commissioners in relation to customs matters concerning the European Communities.](section/9.md)
+    - [s. 10 Disclosure by Commissioners of certain information as to imported goods.](section/10.md)
+    - [s. 11 Assistance to be rendered by police, etc.](section/11.md)
+    - [s. 12 Power to hold inquiries.](section/12.md)
+  - Offences in connection with Commissioners, officers, etc.
+    - [s. 13 Unlawful assumption of character of officer, etc.](section/13.md)
+    - [s. 14 Failure to surrender commission, etc.](section/14.md)
+    - [s. 15 Bribery and collusion.](section/15.md)
+    - [s. 16 Obstruction of officers, etc.](section/16.md)
+  - Commissioners’ receipts and expenses
+    - [s. 17 Disposal of duties, etc.](section/17.md)
+    - [s. 18 Remuneration and expenses of Commissioners.](section/18.md)
+- Part III Customs and Excise Control Areas
+  - [s. 19 Appointment of ports, etc.](section/19.md)
+  - [s. 20 Approval of wharves](section/20.md)
+  - [s. 20A Approved wharves](section/20A.md)
+  - [s. 20B Approval of aerodromes](section/20B.md)
+  - [s. 21 Control of movement of aircraft, etc. into and out of the United Kingdom.](section/21.md)
+  - [s. 22 Approval of examination stations at regulated aerodromes](section/22.md)
+  - [s. 22A Examination stations](section/22A.md)
+  - [s. 23 Control of movement of hovercraft.](section/23.md)
+  - [s. 24 Control of movement of goods by pipe-line.](section/24.md)
+  - [s. 25 Approval of temporary storage facilities](section/25.md)
+  - [s. 25A Temporary storage facilities](section/25A.md)
+  - [s. 26 Power to regulate movements of goods into and out of United Kingdom by land.](section/26.md)
+  - [s. 27 Officers’ powers of boarding.](section/27.md)
+  - [s. 28 Officers’ powers of access, etc.](section/28.md)
+  - [s. 29 Officers’ powers of detention of ships, etc.](section/29.md)
+  - [s. 30 Control of movement of uncleared goods within or between port or airport and other places.](section/30.md)
+  - [s. 31 Control of movement of goods to and from inland clearance depot, etc.](section/31.md)
+  - [s. 32 Penalty for carrying away officers.](section/32.md)
+  - [s. 33 Power to inspect aircraft, aerodromes, railway vehicles and customs areas, records, etc.](section/33.md)
+  - [s. 34 Power to prevent flight of aircraft or departure of railway vehicles.](section/34.md)
+- Part IV Control of Importation
+  - Control of entry of goods
+    - [s. 35 Report inwards.](section/35.md)
+    - [s. 35A Obligation to confirm making of Customs declaration: particular vehicle operators](section/35A.md)
+    - [s. 36 Provisions as to Her Majesty’s ships, etc.](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 37A Initial and supplementary entries.](section/37A.md)
+    - [s. 37B Postponed entry.](section/37B.md)
+    - [s. 37C Provisions supplementary to ss. 37A and 37B.](section/37C.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 38A ................................](section/38A.md)
+    - [s. 38B Correction and cancellation of entry.](section/38B.md)
+    - [s. 39 Entry of surplus stores.](section/39.md)
+    - [s. 40 Removal of chargeable goods to Queen’s warehouse.](section/40.md)
+    - [s. 41 Failure to comply with customs formalities.](section/41.md)
+    - [s. 42 Power to regulate unloading, removal, etc. of imported goods.](section/42.md)
+  - Provisions as to duty on imported goods
+    - [s. 43 Excise duty on imported goods.](section/43.md)
+    - [s. 44 Exclusion of s. 43(1) for importers etc. keeping standing deposits.](section/44.md)
+    - [s. 45 Deferred payment of customs duty.](section/45.md)
+    - [s. 46 Goods to be warehoused without payment of duty.](section/46.md)
+    - [s. 47 Relief from payment of duty of goods entered for transit or transhipment.](section/47.md)
+    - [s. 48 Relief from payment of duty of goods temporarily imported.](section/48.md)
+  - Forfeiture, offences, etc. in connection with importation
+    - [s. 49 Forfeiture of goods improperly imported.](section/49.md)
+    - [s. 50 Penalty for improper importation of goods.](section/50.md)
+    - [s. 51 Special provisions as to proof in Northern Ireland.](section/51.md)
+- Part V Control of Exportation
+  - Breach of applicable export provisions etc
+    - [s. 52 Meaning for this Part of “dutiable or restricted goods”.](section/52.md)
+    - [s. 52A Breach of applicable export provisions etc](section/52A.md)
+    - [s. 53 Entry outwards of goods.](section/53.md)
+    - [s. 54 Acceptance of incomplete entry.](section/54.md)
+    - [s. 55 Correction and cancellation of entry.](section/55.md)
+    - [s. 56 Failure to export.](section/56.md)
+    - [s. 57 Delivery of entry by owner of exporting ship etc.](section/57.md)
+    - [s. 58 Simplified clearance procedure.](section/58.md)
+    - [s. 58A Local export control.](section/58A.md)
+    - [s. 58B Provisions supplementary to ss. 58 and 58A.](section/58B.md)
+    - [s. 58C Pipe-lines and export of ships and aircraft.](section/58C.md)
+    - [s. 58D Operative date for Community purposes.](section/58D.md)
+    - [s. 58E Authentication of Community customs documents.](section/58E.md)
+    - [s. 59 Restrictions on putting export goods alongside for loading.](section/59.md)
+    - [s. 60 Additional restrictions as to certain export goods.](section/60.md)
+    - [s. 60A Power to make regulations about stores](section/60A.md)
+    - [s. 60B Failure to comply with regulations under section 60A](section/60B.md)
+    - [s. 61 Supplementary provision relating to stores.](section/61.md)
+    - [s. 62 Information, documentation, etc. as to export goods.](section/62.md)
+  - Outward entry and clearance of ships, etc.
+    - [s. 63 Entry outwards of exporting ships.](section/63.md)
+    - [s. 64 Clearance outwards of vehicles.](section/64.md)
+    - [s. 65 Power to refuse or cancel clearance of vehicle.](section/65.md)
+  - General regulation of exportation, etc.
+    - [s. 66 Power to make regulations as to exportation, etc.](section/66.md)
+  - Offences in relation to exportation
+    - [s. 67 Offences in relation to exportation of goods.](section/67.md)
+    - [s. 68 Offences in relation to exportation of prohibited or restricted goods.](section/68.md)
+    - [s. 68A Offences in relation to agricultural levies.](section/68A.md)
+    - [s. 68B Special provisions as to proof in Northern Ireland.](section/68B.md)
+- Part VI Control of Coastwise Traffic
+  - [s. 69 Meaning of “coasting ship”](section/69.md)
+  - [s. 70 Coasting trade—exceptional provisions.](section/70.md)
+  - [s. 71 Clearance of coasting ship and transire.](section/71.md)
+  - [s. 72 Additional powers of officers in relation to coasting ships.](section/72.md)
+  - [s. 73 Power to make regulations as to carriage of goods coastwise, etc.](section/73.md)
+  - [s. 74 Offences in connection with carriage of goods coastwise.](section/74.md)
+- Part VII Customs and Excise Control: Supplementary Provisions
+  - Special requirements as to movement of certain goods
+    - [s. 75 Explosives.](section/75.md)
+  - Keeping and preservation of records
+    - [s. 75A Records relating to importation and exportation.](section/75A.md)
+    - [s. 75B Records relating to firearms](section/75B.md)
+    - [s. 75C Records relating to goods subject to certain transit arrangements](section/75C.md)
+    - [s. 76 ................................](section/76.md)
+  - Additional provisions as to information
+    - [s. 77 Information in relation to goods imported or exported.](section/77.md)
+    - [s. 77A Information powers.](section/77A.md)
+    - [s. 77B Information powers relating to firearms](section/77B.md)
+    - [s. 77C Information powers relating to goods subject to certain transit arrangements](section/77C.md)
+    - [s. 78 Customs and excise control of persons entering or leaving the United Kingdom.](section/78.md)
+    - [s. 79 Power to require evidence in support of information.](section/79.md)
+    - [s. 80 Power to require information or production of documents where origin of goods exported is evidenced ....](section/80.md)
+  - Prevention of smuggling
+    - [s. 81 Power to regulate small craft.](section/81.md)
+    - [s. 82 Power to haul up revenue vessels, patrol coasts, etc.](section/82.md)
+    - [s. 83 Penalty for removing seals, etc.](section/83.md)
+    - [s. 84 Penalty for signalling to smugglers.](section/84.md)
+    - [s. 85 Penalty for interfering with revenue vessels, etc.](section/85.md)
+    - [s. 86 Special penalty where offender armed or disguised.](section/86.md)
+    - [s. 87 Penalty for offering goods for sale as smuggled goods.](section/87.md)
+  - Forfeiture of ships, etc. for certain offences
+    - [s. 88 Forfeiture of ship, aircraft or vehicle constructed, etc. for concealing goods.](section/88.md)
+    - [s. 89 Forfeiture of ship jettisoning cargo, etc.](section/89.md)
+    - [s. 90 Forfeiture of ship, railway vehicle or aircraft unable to account for missing cargo.](section/90.md)
+    - [s. 91 Ships failing to bring to.](section/91.md)
+- Part VIII Warehouses and Queen’s Warehouses and Related Provisions about Pipe-lines
+  - [s. 92 Approval of warehouses.](section/92.md)
+  - [s. 93 Regulation of warehouses and warehoused goods.](section/93.md)
+  - [s. 94 Deficiency in warehoused goods.](section/94.md)
+  - [s. 95 Deficiency in goods occurring in course of removal from warehouse without payment of duty.](section/95.md)
+  - [s. 96 Deficiency in certain goods moved by pipe-line.](section/96.md)
+  - [s. 97 Restriction on compensation for loss or damage to goods in, or for removal of goods from warehouse or pipe-line.](section/97.md)
+  - [s. 98 Procedure on warehouse ceasing to be approved.](section/98.md)
+  - [s. 99 Provisions as to deposit in Queen’s warehouse.](section/99.md)
+  - [s. 100 General offences relating to warehouses and warehoused goods.](section/100.md)
+- Part VIIIA Free Zones
+  - [s. 100A Designation of free zones.](section/100A.md)
+  - [s. 100B ................................](section/100B.md)
+  - [s. 100C ................................](section/100C.md)
+  - [s. 100D ................................](section/100D.md)
+  - [s. 100E ................................](section/100E.md)
+  - [s. 100F Powers of search.](section/100F.md)
+- Part VIIIB REGISTERED EXCISE DEALERS AND SHIPPERS
+  - [s. 100G Registered excise dealers and shippers.](section/100G.md)
+  - [s. 100H Registered excise dealers and shippers regulations.](section/100H.md)
+  - [s. 100J Contravention of regulations etc.](section/100J.md)
+- Part IX Control of Excise Licence Trades and Revenue Traders
+  - Excise licences—general provisions
+    - [s. 101 Excise licences.](section/101.md)
+    - [s. 102 Payment for excise licences by cheque.](section/102.md)
+    - [s. 103 Renewal of excise licences.](section/103.md)
+    - [s. 104 Transfer and removal of excise licence trades and licences.](section/104.md)
+    - [s. 105 ................................](section/105.md)
+    - [s. 107 Power to require person carrying on excise licence trade to display sign.](section/107.md)
+  - General provisions as to entries of premises, etc.
+    - [s. 108 Making of entries.](section/108.md)
+    - [s. 109 New or further entries of same premises.](section/109.md)
+    - [s. 110 Proof as to entries.](section/110.md)
+    - [s. 111 Offences in connection with entries.](section/111.md)
+  - General provisions as to revenue traders
+    - [s. 112 Power of entry upon premises, etc. of revenue traders.](section/112.md)
+    - [s. 112A Section 112: supplementary powers](section/112A.md)
+    - [s. 113 Power to search for concealed pipes, etc.](section/113.md)
+    - [s. 114 Power to prohibit use of certain substances in exciseable goods.](section/114.md)
+    - [s. 115 Power to keep specimen on premises of revenue traders.](section/115.md)
+    - [s. 116 Payment of excise duty by revenue traders.](section/116.md)
+    - [s. 116A ................................](section/116A.md)
+    - [s. 117 Execution and distress against revenue traders.](section/117.md)
+    - [s. 118 Liability of ostensible owner or principal manager.](section/118.md)
+- Part IXA PROTECTION OF THE REVENUES DERIVED FROM EXCISE DUTIES
+  - [s. 118A Duty of revenue traders to keep records.](section/118A.md)
+  - [s. 118B Duty of revenue traders and others to furnish information and produce documents.](section/118B.md)
+  - [s. 118BA Further duty to provide information and documents](section/118BA.md)
+  - [s. 118BB Inspection powers: goods-based duties](section/118BB.md)
+  - [s. 118BC Inspection powers: gaming duty and machine games duty](section/118BC.md)
+  - [s. 118BCA Inspection powers: betting duties and remote gaming duty](section/118BCA.md)
+  - [s. 118BD Inspection powers: supplementary provision](section/118BD.md)
+  - [s. 118C Entry and search of premises and persons.](section/118C.md)
+  - [s. 118D Order for access to recorded information, etc.](section/118D.md)
+  - [s. 118E Procedure when documents etc. are removed.](section/118E.md)
+  - [s. 118F Failure of officer to comply with requirements under section 118E.](section/118F.md)
+  - [s. 118G Offences under Part IXA.](section/118G.md)
+- Part X Duties and Drawbacks—General Provisions
+  - General provisions relating to imported goods
+    - [s. 119 Delivery of imported goods on giving of security for duty.](section/119.md)
+    - [s. 120 Regulations for determining origin of goods.](section/120.md)
+    - [s. 121 Power to impose restrictions where duty depends on certain matters ....](section/121.md)
+    - [s. 122 Regulations where customs duty depends on use.](section/122.md)
+    - [s. 123 Repayment of duty where goods returned or destroyed by importer.](section/123.md)
+    - [s. 124 Forfeiture for breach of certain conditions.](section/124.md)
+    - [s. 125 Valuation of goods for purpose of ad valorem duties.](section/125.md)
+    - [s. 126 Charge of excise duty on manufactured or composite imported articles.](section/126.md)
+    - [s. 127 ................................](section/127.md)
+  - Deferred payment of excise duty on goods
+    - [s. 127A Deferred payment of excise duty on goods.](section/127A.md)
+  - General provisions relating to charge of duty on and delivery of goods
+    - [s. 128 Restriction of delivery of goods.](section/128.md)
+    - [s. 129 Power to remit or repay duty on denatured goods.](section/129.md)
+    - [s. 130 Power to remit or repay duty on goods lost or destroyed, etc.](section/130.md)
+    - [s. 131 Enforcement of bond in respect of goods removed without payment of excise duty.](section/131.md)
+  - Drawback, allowances, duties, etc.—general
+    - [s. 132 Extension of drawback.](section/132.md)
+    - [s. 133 General provisions as to claims for drawback.](section/133.md)
+    - [s. 134 Drawback and allowance on goods damaged or destroyed after shipment.](section/134.md)
+    - [s. 135 Time limit on payment of drawback or allowance.](section/135.md)
+    - [s. 136 Offences in connection with claims for drawback, etc.](section/136.md)
+    - [s. 137 Recovery of excise duties and calculation of excise duties, drawbacks, etc.](section/137.md)
+    - [s. 137A Recovery of overpaid excise duty.](section/137A.md)
+- Part XI Detention of Persons, Forfeiture and Legal Proceedings
+  - Detention of persons
+    - [s. 138 Provisions as to detention of persons.](section/138.md)
+  - Forfeiture
+    - [s. 139 Provisions as to detention, seizure and condemnation of goods, etc.](section/139.md)
+    - [s. 140 Forfeiture of spirits.](section/140.md)
+    - [s. 141 Forfeiture of ships, etc. used in connection with goods liable to forfeiture.](section/141.md)
+    - [s. 142 Special provision as to forfeiture of larger ships.](section/142.md)
+    - [s. 143 Penalty in lieu of forfeiture of larger ship where responsible officer implicated in offence.](section/143.md)
+    - [s. 144 Protection of officers, etc. in relation to seizure and detention of goods, etc.](section/144.md)
+  - General provisions as to legal proceedings
+    - [s. 145 Institution of proceedings.](section/145.md)
+    - [s. 146 Service of process.](section/146.md)
+    - [s. 146A Time limits for proceedings.](section/146A.md)
+    - [s. 147 Proceedings for offences.](section/147.md)
+    - [s. 148 Place of trial for offences.](section/148.md)
+    - [s. 149 Non-payment of penalties, etc.: maximum terms of imprisonment.](section/149.md)
+    - [s. 150 Incidental provisions as to legal proceedings.](section/150.md)
+    - [s. 151 Application of penalties.](section/151.md)
+    - [s. 152 Powers of Commissioners to mitigate penalties, etc.](section/152.md)
+    - [s. 153 Proof of certain documents.](section/153.md)
+    - [s. 154 Proof of certain other matters.](section/154.md)
+    - [s. 155 Persons who may conduct proceedings.](section/155.md)
+  - Saving for outlying enactments of certain general provisions as to offences
+    - [s. 156 Saving for outlying enactments of certain general provisions as to offences.](section/156.md)
+- Part XII General and Miscellaneous
+  - General powers, etc.
+    - [s. 157 Bonds and security.](section/157.md)
+    - [s. 157A General information powers in relation to persons entering or leaving the United Kingdom](section/157A.md)
+    - [s. 158 Power to require provision of facilities.](section/158.md)
+    - [s. 159 Power to examine and take account of goods.](section/159.md)
+    - [s. 160 Power to take samples.](section/160.md)
+    - [s. 160ZA Examination of goods and samples: supplementary](section/160ZA.md)
+    - [s. 161 Power to search premises: writ of assistance.](section/161.md)
+    - [s. 161A Power to search premises: search warrant.](section/161A.md)
+    - [s. 162 Power to enter land for or in connection with access to pipelines.](section/162.md)
+    - [s. 163 Power to search vehicles ...](section/163.md)
+    - [s. 163A Power to search articles.](section/163A.md)
+    - [s. 164 Power to search persons.](section/164.md)
+    - [s. 164A Powers to search for cash](section/164A.md)
+    - [s. 164B Power to scan for child sexual abuse images](section/164B.md)
+    - [s. 165 Power to pay rewards.](section/165.md)
+    - [s. 166 Agents.](section/166.md)
+  - Powers to make regulations about movement of goods
+    - [s. 166A Regulations about movement of goods](section/166A.md)
+    - [s. 166B Authorised economic operators](section/166B.md)
+    - [s. 166C Regulations under sections 166A: further provision](section/166C.md)
+  - General offences
+    - [s. 167 Untrue declarations, etc.](section/167.md)
+    - [s. 168 Counterfeiting documents, etc.](section/168.md)
+    - [s. 169 False scales, etc.](section/169.md)
+    - [s. 170 Penalty for fraudulent evasion of duty, etc.](section/170.md)
+    - [s. 170A Offence of handling goods subject to unpaid excise duty.](section/170A.md)
+    - [s. 170B Offence of taking preparatory steps for evasion of excise duty.](section/170B.md)
+    - [s. 171 General provisions as to offences and penalties.](section/171.md)
+  - Miscellaneous
+    - [s. 172 Regulations.](section/172.md)
+    - [s. 173 Directions.](section/173.md)
+    - [s. 174 ................................](section/174.md)
+    - [s. 175 Scotland—special provisions.](section/175.md)
+    - [s. 176 Game licences. S.R. & O. 1908/844.](section/176.md)
+    - [s. 177 Consequential amendments, repeals and saving and transitional provisions.](section/177.md)
+    - [s. 178 Citation and commencement.](section/178.md)
+- SCHEDULE 1 Controlled Drugs: Variation of Punishments for Certain Offences under this Act
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Composite Goods:Supplementary Provisions as to Excise Duties and Drawbacks
+  - Duties
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Drawbacks
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Supplementary
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Interpretation
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 2A Supplementary provisions relating to the detention of things as liable to forfeiture
+  - Interpretation
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Period of detention
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Notice of detention
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Unauthorised removal or disposal: penalties etc
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+- SCHEDULE 3 Provisions Relating to Forfeiture
+  - Notice of seizure
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Notice of claim
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Condemnation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Proceedings for condemnation by court
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Provisions as to proof
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Special provisions as to certain claimants
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Power to deal with seizures before condemnation, etc.
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Unauthorised removal or disposal: penalties etc
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- SCHEDULE 4 Consequential Amendments
+  - Construction of references in Acts passed before 1st April 1909 and in instruments made thereunder
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Diplomatic Privileges Act 1964
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Provisional Collection of Taxes Act 1964
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Consular Relations Act 1968
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Misuse of Drugs Act 1971
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Table of textual amendments
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Transitory Consequential Amendments of Enactments Relating to Purchase Tax
+  - Purchase Tax Act 1963
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Finance Act 1964
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Finance Act 1967
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 REPEALS
+- SCHEDULE 7 Saving and Transitional Provisions
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
