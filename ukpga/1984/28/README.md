@@ -1,0 +1,376 @@
+# County Courts Act 1984
+
+1984 c. 28. Enacted 1984-06-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 42 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
+
+Source: https://www.legislation.gov.uk/ukpga/1984/28/2026-10-01
+
+## Contents
+
+- Part I Constitution and Administration
+  - The county court
+    - [s. A1 Establishment of a single county court](section/A1.md)
+  - County courts and districts
+    - [s. 1 County courts to be held for districts.](section/1.md)
+    - [s. 2 County court districts etc.](section/2.md)
+  - Places and times of sittings of courts
+    - [s. 3 Places and times of sittings.](section/3.md)
+    - [s. 4 Use of public buildings for courts.](section/4.md)
+  - Judges
+    - [s. 5 Judges of the county court](section/5.md)
+  - District judges and deputy district judges
+    - [s. 6 District judges.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 Deputy district judges.](section/8.md)
+    - [s. 9 Qualifications for appointment as district judge.](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 Tenure of office.](section/11.md)
+    - [s. 12 Records of proceedings to be kept ....](section/12.md)
+  - Miscellaneous provisions as to officers
+    - [s. 13 Officers of court not to act as legal representatives in that court.](section/13.md)
+    - [s. 14 Penalty for assaulting officers.](section/14.md)
+- Part II Jurisdiction and Transfer of Proceedings
+  - Actions of contract and tort
+    - [s. 15 General jurisdiction in actions of contract and tort.](section/15.md)
+    - [s. 16 Money recoverable by statute.](section/16.md)
+    - [s. 17 Abandonment of part of claim to give court jurisdiction.](section/17.md)
+    - [s. 18 Jurisdiction by agreement in certain actions.](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+  - Recovery of land and cases where title in question
+    - [s. 21 Actions for recovery of land and actions where title is in question.](section/21.md)
+    - [s. 22 ................................](section/22.md)
+  - Equity proceedings
+    - [s. 23 Equity jurisdiction.](section/23.md)
+    - [s. 24 Jurisdiction by agreement in certain equity proceedings.](section/24.md)
+  - Family provision proceedings
+    - [s. 25 Jurisdiction under Inheritance (Provision for Family and Dependants) Act 1975.](section/25.md)
+  - Admiralty proceedings
+    - [s. 26 Districts for Admiralty purposes.](section/26.md)
+    - [s. 27 Admiralty jurisdiction.](section/27.md)
+    - [s. 28 Mode of exercise of Admiralty jurisdiction.](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 Restrictions on entertainment of actions in personam in collision and other similar cases.](section/30.md)
+    - [s. 31 Admiralty—interpretation.](section/31.md)
+  - Probate proceedings
+    - [s. 32 Contentious probate jurisdiction.](section/32.md)
+    - [s. 33 Effect of order of judge in probate proceedings.](section/33.md)
+  - Miscellaneous provisions as to jurisdiction
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 Division of causes of action.](section/35.md)
+    - [s. 36 No action on judgment of High Court.](section/36.md)
+  - Exercise of jurisdiction and ancillary jurisdiction
+    - [s. 37 Persons who may exercise jurisdiction of court.](section/37.md)
+    - [s. 38 Remedies available in county courts.](section/38.md)
+    - [s. 39 Ancillary powers of judge.](section/39.md)
+  - Transfer of proceedings
+    - [s. 40 Transfer of proceedings to county court.](section/40.md)
+    - [s. 41 Transfer to High Court by order of High Court.](section/41.md)
+    - [s. 42 Transfer to High Court by order of the county court.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 Costs in transferred cases.](section/45.md)
+- Part III Procedure
+  - Parties
+    - [s. 46 Proceedings by the Crown](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 Persons jointly liable.](section/48.md)
+    - [s. 49 Bankruptcy of plaintiff.](section/49.md)
+  - Interim payments in pending proceedings
+    - [s. 50 Orders for interim payment.](section/50.md)
+  - Provisional damages for personal injuries
+    - [s. 51 Orders for provisional damages for personal injuries.](section/51.md)
+  - Discovery and related procedures
+    - [s. 52 Powers of court exercisable before commencement of action.](section/52.md)
+    - [s. 53 Power of court to order disclosure of documents, inspection of property etc. in proceedings for personal injuries or death.](section/53.md)
+    - [s. 54 Provisions supplementary to sections 52 and 53.](section/54.md)
+  - Witnesses and evidence
+    - [s. 55 Penalty for neglecting or refusing to give evidence.](section/55.md)
+    - [s. 56 Examination of witnesses abroad.](section/56.md)
+    - [s. 57 Evidence of prisoners.](section/57.md)
+    - [s. 58 Persons who may take affidavits for use in county courts.](section/58.md)
+    - [s. 59 Evidence in Admiralty proceedings.](section/59.md)
+  - Right of audience
+    - [s. 60 Right of audience.](section/60.md)
+    - [s. 61 Right of audience by direction of Lord Chancellor.](section/61.md)
+  - Mode of trial
+    - [s. 62 General power of judge to determine questions of law and fact.](section/62.md)
+    - [s. 63 Assessors.](section/63.md)
+    - [s. 64 Reference to arbitration.](section/64.md)
+    - [s. 65 Power of judge to refer to registrar or referee.](section/65.md)
+  - Juries
+    - [s. 66 Trial by jury.](section/66.md)
+    - [s. 67 Impanelling and swearing of jury.](section/67.md)
+    - [s. 68 Duty of judge to determine foreign law in jury trials.](section/68.md)
+  - Interest on debts and damages
+    - [s. 69 Power to award interest on debts and damages.](section/69.md)
+  - Judgments and orders.
+    - [s. 70 Finality of judgments and orders.](section/70.md)
+    - [s. 71 Satisfaction of judgments and orders for payment of money.](section/71.md)
+    - [s. 72 Set-off in cases of cross judgments in county courts and High Court.](section/72.md)
+    - [s. 73 Register of judgments and orders.](section/73.md)
+    - [s. 73A Provision for register under s.73 to be kept by body under contract to Lord Chancellor](section/73A.md)
+    - [s. 74 Interest on judgment debts etc.](section/74.md)
+  - Practice directions
+    - [s. 74A Practice directions.](section/74A.md)
+  - General rules of procedure
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 Application of practice of High Court.](section/76.md)
+- Part IV Appeals etc.
+  - Appeals
+    - [s. 77 Appeals: general provisions.](section/77.md)
+    - [s. 78 Assistance of Trinity masters for Court of Appeal in Admiralty proceedings.](section/78.md)
+    - [s. 79 Agreement not to appeal.](section/79.md)
+    - [s. 80 Judge’s note on appeal.](section/80.md)
+    - [s. 81 Powers of Court of Appeal on appeal from county court.](section/81.md)
+    - [s. 82 Decision of Court of Appeal on probate appeals to be final.](section/82.md)
+  - Certiorari and prohibition
+    - [s. 83 Stay of proceedings in case of certiorari or prohibition.](section/83.md)
+    - [s. 84 Prohibition.](section/84.md)
+- Part V Enforcement of Judgments and Orders
+  - Execution against goods
+    - [s. 85 Execution of judgments or orders for payment of money.](section/85.md)
+    - [s. 86 Execution of orders for payment by instalments.](section/86.md)
+    - [s. 87 Indorsement of amount on warrant](section/87.md)
+    - [s. 88 Power to stay execution.](section/88.md)
+  - Seizure and custody of goods etc.
+    - [s. 89 Goods which may be seized.](section/89.md)
+    - [s. 90 Custody of goods seized.](section/90.md)
+    - [s. 91 Disposal of bills of exchange, etc., seized.](section/91.md)
+    - [s. 92 Penalty for rescuing goods seized.](section/92.md)
+  - Sale of goods seized
+    - [s. 93 Period to elapse before sale.](section/93.md)
+    - [s. 94 Goods not to be sold except by brokers or appraisers.](section/94.md)
+    - [s. 95 Appoint-ment of brokers, appraisers etc.](section/95.md)
+    - [s. 96 Power to appoint bailiffs to act as brokers and appraisers.](section/96.md)
+    - [s. 97 Sales under executions to be public unless otherwise ordered.](section/97.md)
+    - [s. 98 Protection of registrar selling goods under execution without notice of claim by third party.](section/98.md)
+  - Claims in respect of goods seized
+    - [s. 99 Endorsement of warrants of control etc.](section/99.md)
+    - [s. 100 Sale of goods to which claim is made.](section/100.md)
+    - [s. 101 Interpleader by registrar.](section/101.md)
+    - [s. 102 Claims for rent where goods seized in execution.](section/102.md)
+  - Execution out of jurisdiction of court
+    - [s. 103 Execution out of jurisdiction of court.](section/103.md)
+    - [s. 104 Information as to writs and warrants of execution.](section/104.md)
+  - Execution in county court of judgments and orders of, or enforceable as judgments and orders of, High Court
+    - [s. 105 ................................](section/105.md)
+  - Enforcement in High Court of judgments and orders of county courts
+    - [s. 106 ................................](section/106.md)
+  - Receivers and attachment of debts
+    - [s. 107 Receivers.](section/107.md)
+    - [s. 108 Attachment of debts.](section/108.md)
+    - [s. 109 Administrative and clerical expenses of garnishees.](section/109.md)
+  - Miscellaneous provisions as to enforcement of judgments and orders
+    - [s. 110 Penalty for non-attendance on judgment summons.](section/110.md)
+    - [s. 111 Provisions as to warrants of possession.](section/111.md)
+- Part VI Administration Orders
+  - [s. 112 Power to make administration order.](section/112.md)
+  - [s. 113 Notice of order and proof of debts.](section/113.md)
+  - [s. 114 Effect of administration order.](section/114.md)
+  - [s. 115 Execution by registrar.](section/115.md)
+  - [s. 116 Right of landlord to distrain notwithstanding order.](section/116.md)
+  - [s. 117 Appropriation of money paid under order and discharge of order.](section/117.md)
+- Part VII Committals
+  - [s. 118 Power to commit for contempt.](section/118.md)
+  - [s. 119 Issue and execution of orders of committal.](section/119.md)
+  - [s. 120 Prisons to which committals may be made.](section/120.md)
+  - [s. 121 Power of judge to order discharge.](section/121.md)
+  - [s. 122 Execution of committal orders out of jurisdiction of court.](section/122.md)
+- Part VIII Responsibility and Protection of Officers
+  - [s. 123 Registrar to have same responsibilities as sheriff.](section/123.md)
+  - [s. 124 Liability of bailiff for neglect to levy execution.](section/124.md)
+  - [s. 125 Irregularity in executing warrants.](section/125.md)
+  - [s. 126 Actions against bailiffs acting under warrants.](section/126.md)
+  - [s. 127 Warrants evidence of authority.](section/127.md)
+- Part IX Miscellaneous and General
+  - Financial Provisions
+    - [s. 128 Fees.](section/128.md)
+    - [s. 129 Enforcement of fines.](section/129.md)
+    - [s. 130 Payment and application of fees, fines, etc.](section/130.md)
+    - [s. 131 Appointment of auditors and other officers.](section/131.md)
+    - [s. 132 Payment of salaries and expenses.](section/132.md)
+  - Summonses and other documents
+    - [s. 133 Proof of service of summonses etc.](section/133.md)
+    - [s. 134 ................................](section/134.md)
+    - [s. 135 Penalty for falsely pretending to act under authority of court.](section/135.md)
+    - [s. 136 Penalty for falsely representing document to have been issued from county court.](section/136.md)
+    - [s. 137 Lessee to give notice of summons for recovery of land.](section/137.md)
+  - Forfeiture for non-payment of rent
+    - [s. 138 Provisions as to forfeiture for non-payment of rent.](section/138.md)
+    - [s. 139 Service of summons and re-entry.](section/139.md)
+    - [s. 140 Interpretation of sections 138 and 139.](section/140.md)
+  - Solicitors
+    - [s. 141 ................................](section/141.md)
+    - [s. 142 Power to enforce undertakings of solicitors.](section/142.md)
+    - [s. 143 Prohibition on persons other than solicitors receiving remuneration for business done in county courts.](section/143.md)
+  - Replevin
+    - [s. 144 Replevin.](section/144.md)
+  - Power to raise monetary limits
+    - [s. 145 Power to raise monetary limits.](section/145.md)
+  - General
+    - [s. 146 Lords Commissioners to representLord Chancellorwhen Great Seal in commission.](section/146.md)
+    - [s. 147 Interpretation.](section/147.md)
+    - [s. 148 Amendments of other Acts, transitory provisions, transitional provisions savings and repeals.](section/148.md)
+    - [s. 149 Extent.](section/149.md)
+    - [s. 150 Commencement.](section/150.md)
+    - [s. 151 Short title.](section/151.md)
+- SCHEDULE 1 Replevin
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Amendments of Other Enactments
+  - Part I
+    - Trustee Act 1925 (c. 19)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part II
+    - Law of Property Act 1925 (c. 20)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part III
+    - Administration of Estates Act 1925 (c. 23)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part IV
+    - Land Charges Act 1972 (c. 61)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Part V Miscellaneous Amendments
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Settled Land Act 1925 (c. 18)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Crown Proceedings Act 1947 (c. 44)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Arbitration Act 1950 (c. 27)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Landlord and Tenant Act 1954 (c. 56)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Mental Health (Scotland) Act 1960 (c. 61)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Administration of Justice Act 1960 (c. 65)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Industrial and Provident Societies Act 1965 (c. 12)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Hire-Purchase Act 1965 (c. 66)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Leasehold Reform Act 1967 (c. 88)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Hovercraft Act 1968 (c. 59)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Civil Evidence Act 1968 (c. 64)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Mines and Quarries (Tips) Act 1969 (c. 10)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - Administration of Justice Act 1970 (c. 31)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Courts Act 1971 (c. 23)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - Attachment of Earnings Act 1971 (c. 32)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - Civil Evidence Act 1972 (c. 30)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - Legal Aid Act 1974 (c. 4)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - Friendly Societies Act 1974 (c. 46)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - Solicitors Act 1974 (c. 47)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - Evidence (Proceedings in other Jurisdictions) Act 1975 (c. 34)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - Children Act 1975 (c. 72)
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - Local Land Charges Act 1975 (c. 76)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - Adoption Act 1976 (c. 36)
+      - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - Insolvency Act 1976 (c. 60)
+      - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+      - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+    - Rent (Agriculture) Act 1976 (c. 80)
+      - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+    - Rentcharges Act 1977 (c. 30)
+      - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+    - Torts (Interference with Goods) Act 1977 (c. 32)
+      - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+      - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+      - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - Rent Act 1977 (c. 42)
+      - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - Interpretation Act 1978 (c. 30)
+      - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+    - Merchant Shipping Act 1979 (c. 39)
+      - [Sch. 2 para. 69](schedule/2/paragraph/69.md)
+    - Arbitration Act 1979 (c. 42)
+      - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+    - Charging Orders Act 1979 (c. 53)
+      - [Sch. 2 para. 71](schedule/2/paragraph/71.md)
+      - [Sch. 2 para. 72](schedule/2/paragraph/72.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+      - [Sch. 2 para. 74](schedule/2/paragraph/74.md)
+    - Judical Pensions Act 1981 (c. 20)
+      - [Sch. 2 para. 75](schedule/2/paragraph/75.md)
+    - Contempt of Court Act 1981 (c. 49)
+      - [Sch. 2 para. 76](schedule/2/paragraph/76.md)
+    - Senior Courts Act 1981(c. 54)
+      - [Sch. 2 para. 77](schedule/2/paragraph/77.md)
+    - Administration of Justice Act 1982 (c. 53)
+      - [Sch. 2 para. 78](schedule/2/paragraph/78.md)
+- SCHEDULE 3 Transitory and Transitional Provisions and Savings
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Administration Orders
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - County court
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 5A](schedule/3/paragraph/5A.md)
+  - Former enactments
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - High bailiffs
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Periods of time
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Offences
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - General
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Repeals
+- TABLE OF DERIVATIONS
