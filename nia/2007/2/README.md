@@ -1,0 +1,223 @@
+# Welfare Reform Act (Northern Ireland) 2007
+
+nia/2007/2. Enacted 2007-06-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 55 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2007/2
+
+Source: https://www.legislation.gov.uk/nia/2007/2/2026-10-01
+
+## Contents
+
+- PART 1 EMPLOYMENT AND SUPPORT ALLOWANCE
+  - Entitlement
+    - [s. 1 Employment and support allowance](section/1.md)
+    - [s. 1A Duration of allowance](section/1A.md)
+    - [s. 1B Further entitlement after time-limiting](section/1B.md)
+    - [s. 1C Claimant commitment](section/1C.md)
+    - [s. 2 Amount of allowance](section/2.md)
+    - [s. 3 Deductions from allowance: supplementary](section/3.md)
+    - [s. 4 Amount of income-related allowance](section/4.md)
+    - [s. 5 Advance award of income-related allowance](section/5.md)
+    - [s. 6 Amount payable where claimant entitled to both forms of allowance](section/6.md)
+    - [s. 7 Exclusion of payments below prescribed minimum](section/7.md)
+  - Assessments relating to entitlement
+    - [s. 8 Limited capability for work](section/8.md)
+    - [s. 9 Limited capability for work-related activity](section/9.md)
+    - [s. 10 Report](section/10.md)
+  - Work-related requirements
+    - [s. 11 Work-related requirements](section/11.md)
+    - [s. 11A Claimant commitment](section/11A.md)
+    - [s. 11B Work-focused interview requirement](section/11B.md)
+    - [s. 11C Work preparation requirement](section/11C.md)
+    - [s. 11D Persons subject to no work-related requirements](section/11D.md)
+    - [s. 11E Persons subject to work-focused interview requirement only](section/11E.md)
+    - [s. 11F Persons subject to work preparation and work-focused interview requirement](section/11F.md)
+    - [s. 11G Connected requirements](section/11G.md)
+    - [s. 11H Imposition of requirements](section/11H.md)
+    - [s. 11I Compliance with requirements](section/11I.md)
+    - [s. 11J Sanctions](section/11J.md)
+    - [s. 11K Concurrent exercise of certain functions by Department for Employment and Learning](section/11K.md)
+    - [s. 11L Delegation and contracting out](section/11L.md)
+    - [s. 12 Work-focused interviews](section/12.md)
+    - [s. 13 Work-related activity](section/13.md)
+    - [s. 14 Action plans in connection with work-focused interviews](section/14.md)
+    - [s. 15 Directions about work-related activity](section/15.md)
+    - [s. 16 Contracting out](section/16.md)
+    - [s. 16A Hardship payments](section/16A.md)
+  - Miscellaneous
+    - [s. 17 Income and capital: general](section/17.md)
+    - [s. 18 Disqualification](section/18.md)
+    - [s. 19 Pilot schemes](section/19.md)
+    - [s. 20 Relationship with statutory payments](section/20.md)
+    - [s. 21 Deemed entitlement for other purposes](section/21.md)
+    - [s. 22 Supplementary provisions](section/22.md)
+    - [s. 23 Recovery of sums in respect of maintenance](section/23.md)
+  - General
+    - [s. 24 Interpretation, etc. of Part 1](section/24.md)
+    - [s. 25 Regulations and orders](section/25.md)
+    - [s. 26 Assembly control](section/26.md)
+    - [s. 27 Financial provisions relating to Part 1](section/27.md)
+    - [s. 28 Consequential amendments relating to Part 1](section/28.md)
+    - [s. 29 Transition relating to Part 1](section/29.md)
+- PART 2 HOUSING BENEFIT
+  - [s. 30 Local housing allowance](section/30.md)
+  - [s. 31 Loss of housing benefit following eviction for anti-social behaviour, etc.](section/31.md)
+  - [s. 32 Housing benefit for persons taking up employment](section/32.md)
+  - [s. 33 Section 32: supplemental](section/33.md)
+  - [s. 34 Sections 32 and 33: interpretation](section/34.md)
+  - [s. 35 Payment of housing benefit](section/35.md)
+  - [s. 36 Directions by Department](section/36.md)
+  - [s. 37 Minor and consequential amendments relating to Part 2](section/37.md)
+- PART 3 SOCIAL SECURITY ADMINISTRATION: GENERAL
+  - Sharing of social security information
+    - [s. 38 Social security information](section/38.md)
+    - [s. 39 Information relating to certain benefits](section/39.md)
+    - [s. 40 Unlawful disclosure of certain information](section/40.md)
+  - Overpayment recovery
+    - [s. 41 Recovery of overpaid benefit](section/41.md)
+  - Benefit fraud
+    - [s. 42 Housing Executive powers to investigate benefit fraud](section/42.md)
+    - [s. 43 Housing Executive powers to prosecute benefit fraud](section/43.md)
+    - [s. 44 Housing Executive functions relating to benefit: information](section/44.md)
+    - [s. 45 Loss of benefit for commission of benefit offences](section/45.md)
+- PART 4 MISCELLANEOUS
+  - Benefits for bereaved persons
+    - [s. 46 Widowed mother’s allowance](section/46.md)
+    - [s. 47 Widowed parent’s allowance](section/47.md)
+  - Disability living allowance: age conditions
+    - [s. 48 Care component of disability living allowance: persons under the age of 16](section/48.md)
+    - [s. 49 Mobility component of disability living allowance: persons under the age of 16](section/49.md)
+  - Social fund
+    - [s. 50 Matters to which regard must be had in awarding budgeting loans](section/50.md)
+    - [s. 51 Allocations from Social Fund](section/51.md)
+  - Compensation for pneumoconiosis etc.
+    - [s. 52 “Relevant employer”](section/52.md)
+    - [s. 53 “Dependant”](section/53.md)
+  - Other
+    - [s. 54 Power to stop payment of allowances to care home residents](section/54.md)
+    - [s. 55 Medical examinations](section/55.md)
+    - [s. 56 Minor and consequential amendments relating to Part 4](section/56.md)
+- PART 5 GENERAL
+  - [s. 57 Interpretation](section/57.md)
+  - [s. 58 Repeals](section/58.md)
+  - [s. 59 Transition](section/59.md)
+  - [s. 60 Commencement](section/60.md)
+  - [s. 61 Short title](section/61.md)
+- SCHEDULE 1 EMPLOYMENT AND SUPPORT ALLOWANCE: ADDITIONAL CONDITIONS
+    - Conditions relating to national insurance
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Condition relating to youth
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - “Relevant benefit week”
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 EMPLOYMENT AND SUPPORT ALLOWANCE: SUPPLEMENTARY PROVISIONS
+  - Limited capability for work
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Waiting days
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Periods of less than a week
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Linking periods
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Exemption
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - Presence in Northern Ireland
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - entitlement in case of absence from Northern Ireland
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - modification in relation to employment on ships etc.
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Income-related allowance: entitlement in case of absence from Northern Ireland
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Limited capability for work-related activity
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Effect of work
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 10ZA](schedule/2/paragraph/10ZA.md)
+  - Good reason for failure to comply with certain regulations
+    - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+  - Responsibility for children
+    - [Sch. 2 para. 10B](schedule/2/paragraph/10B.md)
+  - Treatment of allowance as “benefit”
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Attribution of reductions in cases where allowance taken to consist of two elements
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Treatment of information supplied as information relating to social security
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Advance claims
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS RELATING TO PART 1
+  - The Education Reform (Northern Ireland) Order 1989 (NI 20)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Child Support (Northern Ireland) Order 1991 (NI 23)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Children (Northern Ireland) Order 1995 (NI 2)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Jobseekers (Northern Ireland) Order 1995 (NI 15)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Road Traffic (Northern Ireland) Order 1995 (NI 18)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Pensions (Northern Ireland) Order 1995 (NI 22)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Industrial Tribunals (Northern Ireland) Order 1996 (NI 18)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Social Security (Northern Ireland) Order 1998 (NI 10)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Social Security Fraud Act (Northern Ireland) 2001 (c. 17)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 TRANSITION RELATING TO PART 1
+  - General power to provide for transition relating to Part 1
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Pre-commencement claims
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Post-commencement claims
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Award of employment and support allowance for pre-commencement period
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Matching of awards of employment and support allowance
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Treatment of existing awards
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Transitional allowances
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Post-commencement up-rating of incapacity benefit and severe disablement allowance
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Interpretation
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO PART 2
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 SCHEDULE TO BE INSERTED IN THE PNEUMOCONIOSIS, ETC., (WORKERS’ COMPENSATION) (NORTHERN IRELAND) ORDER 1979
+- SCHEDULE 7 MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO PART 4
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Social Security (Northern Ireland) Order 1998 (NI 10)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 REPEALS
