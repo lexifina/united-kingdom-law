@@ -1,0 +1,172 @@
+# Matrimonial and Family Proceedings Act 1984
+
+1984 c. 42. Enacted 1984-07-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
+
+Source: https://www.legislation.gov.uk/ukpga/1984/42/2026-10-01
+
+## Contents
+
+- Part I Time Restrictions on Presentation of Petitions for Divorce or Nullity of Marriage
+  - [s. 1 Bar on petitions for divorce within one year of marriage.](section/1.md)
+  - [s. 2 Extension of period for proceedings for decree of nullity in respect of voidable marriage.](section/2.md)
+- Part II Financial Relief in Matrimonial Proceedings
+  - Provisions relating to powers of the High Court and county courts
+    - [s. 3 Orders for financial relief after divorce etc.](section/3.md)
+    - [s. 4 Orders for financial relief in case of neglect to maintain.](section/4.md)
+    - [s. 5 Duration of orders for periodical payments and effect of remarriage.](section/5.md)
+    - [s. 6 Variation and discharge of orders for periodical payments.](section/6.md)
+    - [s. 7 Consent orders for financial provision or property adjustment.](section/7.md)
+    - [s. 8 Restrictions imposed in divorce proceedings etc., on applications under Inheritance (Provision for Family and Dependants) Act 1975.](section/8.md)
+  - Provisions relating to the powers of magistrates’ courts
+    - [s. 9 Orders for financial relief made by magistrates’ courts in matrimonial proceedings.](section/9.md)
+    - [s. 10 Orders for payments which have been agreed by the parties.](section/10.md)
+    - [s. 11 Variation of consent orders by magistrates’ courts.](section/11.md)
+- Part III Financial Relief in England and Wales After Overseas Divorce etc.
+  - Applications for financial relief
+    - [s. 12 Applica tions for financial relief after overseas divorce etc.](section/12.md)
+    - [s. 13 Leave of the court required for applications for financial relief.](section/13.md)
+    - [s. 14 Interim orders for maintenance.](section/14.md)
+    - [s. 15 Jurisdiction of the court.](section/15.md)
+    - [s. 16 Duty of the court to consider whether England and Wales is appropriate venue for application.](section/16.md)
+  - Orders for financial provision and property adjustment
+    - [s. 17 Orders for financial provision and property adjustment.](section/17.md)
+    - [s. 18 Matters to which the court is to have regard in exercising its powers under s. 17.](section/18.md)
+    - [s. 19 Consent orders for financial provision or property adjustment.](section/19.md)
+    - [s. 20 Restriction of powers of court where jurisdiction depends on matrimonial home in England or Wales.](section/20.md)
+    - [s. 21 Application to orders under ss. 14 and 17 of certain provisions of Part II of Matrimonial Causes Act 1973.](section/21.md)
+  - Orders for transfer of tenancies
+    - [s. 22 Powers of court in relation to certain tenancies of dwelling-houses.](section/22.md)
+  - Avoidance of transactions intended to prevent or reduce financial relief
+    - [s. 23 Avoidance of transactions intended to defeat applications for financial relief.](section/23.md)
+    - [s. 24 Prevention of transactions intended to defeat prospective applications for financial relief.](section/24.md)
+  - Financial provision out of estate of deceased party to marriage
+    - [s. 25 Extension of powers under Inheritance (Provision for Family and Dependants) Act 1975 in respect of former spouses.](section/25.md)
+  - Recovery of maintenance in magistrates’ courts after overseas divorce etc.
+    - [s. 26 ................................](section/26.md)
+  - Interpretation
+    - [s. 27 Interpretation of Part III.](section/27.md)
+- Part IV Financial Provision in Scotland After Overseas Divorce Etc.
+  - [s. 28 Circumstances in which a Scottish court may entertain application for financial provision.](section/28.md)
+  - [s. 29 Disposal of application in Scotland.](section/29.md)
+  - [s. 29A Application of Part IV to annulled marriages.](section/29A.md)
+  - [s. 30 Interpretation of Part IV.](section/30.md)
+  - [s. 31 Extension of s. 31 of Maintenance Orders (Reciprocal Enforcement) Act 1972.](section/31.md)
+- Part 4A The Family Court
+  - [s. 31A Establishment of the family court](section/31A.md)
+  - [s. 31B Sittings](section/31B.md)
+  - [s. 31C Judges](section/31C.md)
+  - [s. 31D Composition of the court and distribution of its business](section/31D.md)
+  - [s. 31E Family court has High Court and county court powers](section/31E.md)
+  - [s. 31F Proceedings and decisions](section/31F.md)
+  - [s. 31G Witnesses and evidence](section/31G.md)
+  - [s. 31H Contempt of court: power to limit court’s powers](section/31H.md)
+  - [s. 31I Powers of the High Court in respect of family court proceedings](section/31I.md)
+  - [s. 31J Overview of certain powers of the court under other Acts](section/31J.md)
+  - [s. 31K Appeals](section/31K.md)
+  - [s. 31L Enforcement](section/31L.md)
+  - [s. 31M Records of proceedings](section/31M.md)
+  - [s. 31N Summonses and other documents](section/31N.md)
+  - [s. 31O Function of giving legal advice to judges](section/31O.md)
+  - [s. 31P Orders, regulations and rules under Part 4A](section/31P.md)
+- PART 4B Family proceedings: prohibition of cross-examination in person
+  - [s. 31Q Prohibition of cross-examination in person: introductory](section/31Q.md)
+  - [s. 31R Prohibition of cross-examination in person: victims of offences](section/31R.md)
+  - [s. 31S Prohibition of cross-examination in person: persons protected by injunctions etc](section/31S.md)
+  - [s. 31T Prohibition of cross-examination in person: evidence of domestic abuse](section/31T.md)
+  - [s. 31U Direction for prohibition of cross-examination in person: other cases](section/31U.md)
+  - [s. 31V Directions under section 31U: supplementary](section/31V.md)
+  - [s. 31W Alternatives to cross-examination in person](section/31W.md)
+  - [s. 31X Costs of legal representatives appointed under section 31W(6)](section/31X.md)
+  - [s. 31Y Guidance for legal representatives appointed under section 31W(6)](section/31Y.md)
+  - [s. 31Z Regulations under Part 4B](section/31Z.md)
+- Part V Family Business: Distribution and Transfer
+  - Preliminary
+    - [s. 32 What is family business.](section/32.md)
+  - Jurisdiction of county courts in matrimonial causes and matters
+    - [s. 33 Jurisdiction of county courts in matrimonial causes.](section/33.md)
+    - [s. 34 Jurisdiction of divorce county courts as respects financial relief and protection of children.](section/34.md)
+    - [s. 35 Consideration of agreements or arrangements.](section/35.md)
+    - [s. 36 Assignment of Circuit judges to matrimonial proceedings.](section/36.md)
+  - Jurisdiction of county courts in civil partnership causes and matters
+    - [s. 36A Jurisdiction of county courts in civil partnership causes](section/36A.md)
+    - [s. 36B Jurisdiction of civil partnership proceedings county courts as respects financial relief and protection of children](section/36B.md)
+    - [s. 36C Consideration of agreements or arrangements](section/36C.md)
+    - [s. 36D Assignment of circuit judges to civil partnership proceedings](section/36D.md)
+  - Distribution and transfer of family business and proceedings
+    - [s. 37 Directions as to distribution and transfer of family business and proceedings.](section/37.md)
+    - [s. 38 Transfer of family proceedings from High Court ....](section/38.md)
+    - [s. 39 Transfer of family proceedings to High Court ....](section/39.md)
+  - Rules of court and fees
+    - [s. 40 Family proceedings rules.](section/40.md)
+    - [s. 40A Process for making rules of court under section 40](section/40A.md)
+    - [s. 40B Rules to be made if required by Lord Chancellor](section/40B.md)
+    - [s. 41 Fees in family proceedings.](section/41.md)
+  - County court proceedings in principal registry
+    - [s. 42 County court proceedings in principal registry of Family Division.](section/42.md)
+  - Distribution of business: proceedings under s. 17 of Married Women’s Property Act 1882
+    - [s. 43 Distribution of business: proceedings under s. 17 of Married Women’s Property Act 1882.](section/43.md)
+  - Magistrates’ courts’ domestic jurisdiction
+    - [s. 44 Family proceedings in magistrates’ courts to include applications to alter maintenance agreements.](section/44.md)
+- Part VI Miscellaneous and General
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 Amendments, transitional provisions and repeals.](section/46.md)
+  - [s. 47 Commencement.](section/47.md)
+  - [s. 48 Short title and extent.](section/48.md)
+- SCHEDULE 1 Minor and Consequential Amendments
+  - Maintenance Orders Act 1950 (c. 37)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Matrimonial Causes (Property and Maintenance) Act 1958 (c. 35)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Maintenance Orders Act 1958 (c. 39)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Succession (Scotland) Act 1964 (c. 41)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1966 (c. 19)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Administration of Justice Act 1970 (c. 31)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Matrimonial Causes Act 1973 (c. 18)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Domicile and Matrimonial Proceedings Act 1973 (c. 45)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Children Act 1975 (c. 72)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Adoption Act 1976 (c. 36)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Land Registration (Scotland) Act 1979 (c. 33)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+- SCHEDULE 2 Transitional Provisions
+  - Time restrictions on petitions for divorce
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Time restrictions on petitions for nullity
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Scope of “matrimonial cause” for Part V purposes
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Repeals
