@@ -1,0 +1,1101 @@
+# Trade Union and Labour Relations (Consolidation) Act 1992
+
+1992 c. 52. Enacted 1992-07-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 157 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
+
+Source: https://www.legislation.gov.uk/ukpga/1992/52/2026-10-01
+
+## Contents
+
+- Part I Trade Unions
+  - Chapter I Introductory
+    - Meaning of “trade union"
+      - [s. 1 Meaning of “trade union".](section/1.md)
+    - The list of trade unions
+      - [s. 2 The list of trade unions.](section/2.md)
+      - [s. 3 Application to have name entered in the list.](section/3.md)
+      - [s. 4 Removal of name from the list.](section/4.md)
+    - Certification as independent trade union
+      - [s. 5 Meaning of “independent trade union".](section/5.md)
+      - [s. 6 Application for certificate of independence.](section/6.md)
+      - [s. 7 Withdrawal or cancellation of certificate.](section/7.md)
+      - [s. 8 Conclusive effect of Certification Officer’s decision.](section/8.md)
+    - Supplementary
+      - [s. 9 Appeal against decision of Certification Officer.](section/9.md)
+  - Chapter II Status and property of trade unions
+    - General
+      - [s. 10 Quasi-corporate status of trade unions.](section/10.md)
+      - [s. 11 Exclusion of common law rules as to restraint of trade.](section/11.md)
+    - Property of trade union
+      - [s. 12 Property to be vested in trustees.](section/12.md)
+      - [s. 13 Vesting of property in new trustees.](section/13.md)
+      - [s. 14 Transfer of securities held in trust for trade union.](section/14.md)
+      - [s. 15 Prohibition on use of funds to indemnify unlawful conduct.](section/15.md)
+      - [s. 16 Remedy against trustees for unlawful use of union property.](section/16.md)
+      - [s. 17 Nominations by members of trade unions.](section/17.md)
+      - [s. 18 Payments out of union funds on death of member.](section/18.md)
+      - [s. 19 Application of certain provisions relating to industrial assurance or friendly societies.](section/19.md)
+    - Liability of trade unions in proceedings in tort
+      - [s. 20 Liability of trade union in certain proceedings in tort.](section/20.md)
+      - [s. 21 Repudiation by union of certain acts.](section/21.md)
+      - [s. 22 Limit on damages awarded against trade unions in actions in tort.](section/22.md)
+    - Restriction on enforcement against certain property
+      - [s. 23 Restriction on enforcement of awards against certain property.](section/23.md)
+  - Chapter III Trade union administration
+    - Register of members’ names and addresses
+      - [s. 24 Duty to maintain register of members’ names and addresses.](section/24.md)
+      - [s. 24ZA Duty to provide membership audit certificate](section/24ZA.md)
+      - [s. 24ZB Duty to appoint an assurer](section/24ZB.md)
+      - [s. 24ZC Appointment and removal of an assurer](section/24ZC.md)
+      - [s. 24ZD Requirements of assurer’s membership audit certificate](section/24ZD.md)
+      - [s. 24ZE Rights of assurer](section/24ZE.md)
+      - [s. 24ZF Duty to inform the Certification Officer](section/24ZF.md)
+      - [s. 24ZG Duty of confidentiality](section/24ZG.md)
+      - [s. 24ZH Power of Certification Officer to require production of documents etc](section/24ZH.md)
+      - [s. 24ZI Investigations by inspectors](section/24ZI.md)
+      - [s. 24ZJ Inspectors’ reports etc](section/24ZJ.md)
+      - [s. 24ZK Sections 24ZH and 24ZI: supplementary](section/24ZK.md)
+      - [s. 24A Securing confidentiality of register during ballots.](section/24A.md)
+      - [s. 24B Enforcement of sections 24 to 24ZC by Certification Officer](section/24B.md)
+      - [s. 24C Enforcement of sections 24ZH and 24ZI by Certification Officer](section/24C.md)
+      - [s. 25 Remedy for failure: application to Certification Officer.](section/25.md)
+      - [s. 26 Remedy for failure: application to court.](section/26.md)
+    - Duty to supply copy of rules
+      - [s. 27 Duty to supply copy of rules.](section/27.md)
+    - Accounting records
+      - [s. 28 Duty to keep accounting records.](section/28.md)
+      - [s. 29 Duty to keep records available for inspection.](section/29.md)
+      - [s. 30 Right of access to accounting records.](section/30.md)
+      - [s. 31 Remedy for failure to comply with request for access.](section/31.md)
+    - Annual return, accounts and audit
+      - [s. 32 Annual return.](section/32.md)
+      - [s. 32ZA Details of industrial action etc to be included in annual return](section/32ZA.md)
+      - [s. 32ZB Details of political expenditure to be included in annual return](section/32ZB.md)
+      - [s. 32ZC Enforcement of sections 32ZA and 32ZB by Certification Officer](section/32ZC.md)
+      - [s. 32A Statement to members following annual return.](section/32A.md)
+      - [s. 33 Duty to appoint auditors.](section/33.md)
+      - [s. 34 Eligibility for appointment as auditor.](section/34.md)
+      - [s. 35 Appointment and removal of auditors.](section/35.md)
+      - [s. 36 Auditors’ report.](section/36.md)
+      - [s. 37 Rights of auditors.](section/37.md)
+    - Investigation of financial affairs
+      - [s. 37A Power of Certification Officer to require production of documents etc.](section/37A.md)
+      - [s. 37B Investigations by inspectors.](section/37B.md)
+      - [s. 37C Inspectors’ reports etc.](section/37C.md)
+      - [s. 37D Expenses of investigations.](section/37D.md)
+      - [s. 37E Sections 37A and 37B: supplementary.](section/37E.md)
+    - Members’ superannuation schemes
+      - [s. 38 Members’ superannuation schemes: separate fund to be maintained.](section/38.md)
+      - [s. 39 Examination of proposals for new scheme.](section/39.md)
+      - [s. 40 Periodical re-examination of existing schemes.](section/40.md)
+      - [s. 41 Powers of the Certification Officer.](section/41.md)
+      - [s. 42 Meaning of “appropriately qualified actuary".](section/42.md)
+    - Supplementary
+      - [s. 43 Newly-formed trade unions.](section/43.md)
+      - [s. 44 Discharge of duties in case of union having branches or sections.](section/44.md)
+      - [s. 45 Offences.](section/45.md)
+      - [s. 45A Penalties and prosecution time limits.](section/45A.md)
+      - [s. 45B Duty to secure positions not held by certain offenders.](section/45B.md)
+      - [s. 45C Remedies and enforcement.](section/45C.md)
+      - [s. 45D Appeals from Certification Officer.](section/45D.md)
+  - Chapter IV Elections for certain positions
+    - Duty to hold elections
+      - [s. 46 Duty to hold elections for certain positions.](section/46.md)
+    - Determination of means of voting
+      - [s. 46A Responsible person’s determination of means of voting](section/46A.md)
+    - Requirements to be satisfied with respect to elections
+      - [s. 47 Candidates.](section/47.md)
+      - [s. 48 Election addresses.](section/48.md)
+      - [s. 49 Appointment of independent scrutineer.](section/49.md)
+      - [s. 50 Entitlement to vote.](section/50.md)
+      - [s. 51 Voting.](section/51.md)
+      - [s. 51ZA Counting of votes where multiple votes cast by same person](section/51ZA.md)
+    - Postal voting
+      - [s. 51ZB Postal voting](section/51ZB.md)
+      - [s. 51ZC Postal voting: voting paper and method of voting](section/51ZC.md)
+      - [s. 51A Postal voting: counting of votes etc. by independent person](section/51A.md)
+    - Electronic voting
+      - [s. 51B Electronic voting](section/51B.md)
+    - Hybrid voting
+      - [s. 51C Hybrid voting](section/51C.md)
+    - Elections: further provision
+      - [s. 52 Scrutineer’s report.](section/52.md)
+      - [s. 53 Uncontested elections.](section/53.md)
+      - [s. 53A Small accidental failures in relation to electronic voting to be disregarded](section/53A.md)
+    - Remedy for failure to comply with requirements
+      - [s. 54 Remedy for failure to comply with requirements: general.](section/54.md)
+      - [s. 55 Application to Certification Officer.](section/55.md)
+      - [s. 56 Application to court.](section/56.md)
+      - [s. 56A Appeals from Certification Officer.](section/56A.md)
+    - Supplementary
+      - [s. 57 Exemption of newly-formed trade unions, &c.](section/57.md)
+      - [s. 58 Exemption of certain persons nearing retirement.](section/58.md)
+      - [s. 59 Period for giving effect to election.](section/59.md)
+      - [s. 60 Overseas members.](section/60.md)
+      - [s. 61 Other supplementary provisions.](section/61.md)
+  - Chapter V Rights of trade union members
+    - Right to a ballot before industrial action
+      - [s. 62 Right to a ballot before industrial action.](section/62.md)
+    - Right not to be denied access to the courts
+      - [s. 63 Right not to be denied access to the courts.](section/63.md)
+    - Right not to be unjustifiably disciplined
+      - [s. 64 Right not to be unjustifiably disciplined.](section/64.md)
+      - [s. 65 Meaning of “unjustifiably disciplined".](section/65.md)
+      - [s. 66 Complaint of infringement of right.](section/66.md)
+      - [s. 67 Further remedies for infringement of right.](section/67.md)
+    - Right not to suffer deduction of unauthorised or excessive union subscriptions
+      - [s. 68 Right not to suffer deduction of unauthorised subscriptions](section/68.md)
+      - [s. 68A Complaint of infringement of rights.](section/68A.md)
+    - Right to terminate membership of union
+      - [s. 69 Right to terminate membership of union.](section/69.md)
+    - Supplementary
+      - [s. 70 Membership of constituent or affiliated organisation.](section/70.md)
+  - Chapter 5ZA Right of trade unions to access workplaces
+    - Access agreements: general
+      - [s. 70ZA Access agreements](section/70ZA.md)
+    - Entering into access agreements
+      - [s. 70ZB Access requests and response notices](section/70ZB.md)
+      - [s. 70ZC Response period and negotiation period](section/70ZC.md)
+      - [s. 70ZD Entering into access agreement by negotiation](section/70ZD.md)
+      - [s. 70ZE Determinations by the Central Arbitration Committee](section/70ZE.md)
+      - [s. 70ZF Determinations by the Central Arbitration Committee: further provision](section/70ZF.md)
+    - Variation and revocation of access agreements
+      - [s. 70ZG Variation and revocation of access agreements](section/70ZG.md)
+    - Enforcement of access agreements
+      - [s. 70ZH Enforcement of access agreements: initial complaint](section/70ZH.md)
+      - [s. 70ZI Enforcement of access agreements: subsequent complaint](section/70ZI.md)
+      - [s. 70ZJ Power to make provision about amounts payable under section 70ZI](section/70ZJ.md)
+      - [s. 70ZK Enforcement of access agreements: supplementary provision](section/70ZK.md)
+    - General limitations on access agreements etc
+      - [s. 70ZL General limitations on access agreements etc](section/70ZL.md)
+    - Appeals to the Employment Appeal Tribunal
+      - [s. 70ZM Appeals to the Employment Appeal Tribunal](section/70ZM.md)
+    - Regulations
+      - [s. 70ZN Regulations under this Chapter](section/70ZN.md)
+  - Chapter VA Collective bargaining: recognition
+    - [s. 70A Recognition of trade unions.](section/70A.md)
+    - [s. 70B Training.](section/70B.md)
+    - [s. 70C Section 70B: complaint to employment tribunal.](section/70C.md)
+  - Chapter VI Application of funds for political objects
+    - Restriction on use of funds for certain political objects
+      - [s. 71 Restriction on use of funds for political objects.](section/71.md)
+      - [s. 72 Political objects to which restriction applies.](section/72.md)
+      - [s. 72A Application of funds in breach of section 71.](section/72A.md)
+    - Trade union without a branch or section in Northern Ireland: political resolution
+      - [s. 72B Application of sections 72C to 72P](section/72B.md)
+      - [s. 72C Passing and effect of political resolution](section/72C.md)
+      - [s. 72D Approval of political ballot rules](section/72D.md)
+      - [s. 72E Responsible person’s determination of means of voting](section/72E.md)
+      - [s. 72F Appointment of independent scrutineer](section/72F.md)
+      - [s. 72G Entitlement to vote](section/72G.md)
+      - [s. 72H Voting](section/72H.md)
+      - [s. 72I Counting of votes where multiple votes cast by same person](section/72I.md)
+      - [s. 72J Postal voting](section/72J.md)
+      - [s. 72K Postal voting (voting paper and method of voting)](section/72K.md)
+      - [s. 72L Postal voting (counting of votes etc. by independent person)](section/72L.md)
+      - [s. 72M Electronic voting](section/72M.md)
+      - [s. 72N Hybrid voting](section/72N.md)
+      - [s. 72O Scrutineer’s report](section/72O.md)
+      - [s. 72P Small accidental failures in relation to electronic voting to be disregarded](section/72P.md)
+    - Trade union with a branch or section in Northern Ireland: Political resolution
+      - [s. 72Q Application of sections 73 to 78](section/72Q.md)
+      - [s. 73 Passing and effect of political resolution.](section/73.md)
+      - [s. 74 Approval of political ballot rules.](section/74.md)
+      - [s. 75 Appointment of independent scrutineer.](section/75.md)
+      - [s. 76 Entitlement to vote.](section/76.md)
+      - [s. 77 Voting.](section/77.md)
+      - [s. 77A Counting of votes etc. by independent person.](section/77A.md)
+      - [s. 78 Scrutineer’s report.](section/78.md)
+    - Failure to comply with ballot rules
+      - [s. 79 Remedy for failure to comply with ballot rules: general.](section/79.md)
+      - [s. 80 Application to Certification Officer.](section/80.md)
+      - [s. 81 Application to court.](section/81.md)
+    - The political fund
+      - [s. 82 Rules as to political fund.](section/82.md)
+      - [s. 83 Assets and liabilities of political fund.](section/83.md)
+      - [s. 84 Contributors to political fund](section/84.md)
+      - [s. 84A Opt-out information notices](section/84A.md)
+      - [s. 85 Manner of giving effect to section 84](section/85.md)
+    - Duties of employer who deducts union contributions
+      - [s. 86 Employer not to deduct contributions where member gives certificate](section/86.md)
+      - [s. 87 Complaint in respect of employer’s failure.](section/87.md)
+      - [s. 88 ................................](section/88.md)
+    - Position where political resolution ceases to have effect
+      - [s. 89 Administration of political fund where no resolution in force.](section/89.md)
+      - [s. 90 Discontinuance of contributions to political fund.](section/90.md)
+      - [s. 91 Rules to cease to have effect.](section/91.md)
+    - Supplementary
+      - [s. 92 Manner of making union rules.](section/92.md)
+      - [s. 93 Effect of amalgamation.](section/93.md)
+      - [s. 94 Overseas members of trade union.](section/94.md)
+      - [s. 95 Appeals from Certification Officer.](section/95.md)
+      - [s. 96 Meaning of “date of the ballot".](section/96.md)
+  - Chapter VII Amalgamations and similar matters
+    - Amalgamation or transfer of engagements
+      - [s. 97 Amalgamation or transfer of engagements.](section/97.md)
+      - [s. 98 Approval of instrument of amalgamation or transfer.](section/98.md)
+      - [s. 99 Notice to be given to members.](section/99.md)
+      - [s. 100 Requirement of ballot on resolution.](section/100.md)
+    - Determination of means of voting
+      - [s. 100ZA Responsible person’s determination of means of voting](section/100ZA.md)
+      - [s. 100A Appointment of independent scrutineer.](section/100A.md)
+      - [s. 100B Entitlement to vote.](section/100B.md)
+      - [s. 100C Voting.](section/100C.md)
+      - [s. 100CA Counting of votes where multiple votes cast by same person](section/100CA.md)
+    - Postal voting
+      - [s. 100CB Postal voting](section/100CB.md)
+      - [s. 100CC Postal voting: voting paper and method of voting](section/100CC.md)
+      - [s. 100D Postal voting: counting of votes etc. by independent person](section/100D.md)
+    - Electronic voting
+      - [s. 100DA Electronic voting](section/100DA.md)
+    - Hybrid voting
+      - [s. 100DB Hybrid voting](section/100DB.md)
+    - Ballots: further provision
+      - [s. 100E Scrutineer’s report.](section/100E.md)
+      - [s. 100F Small accidental failures in relation to electronic voting to be disregarded](section/100F.md)
+      - [s. 101 Registration of instrument of amalgamation or transfer.](section/101.md)
+      - [s. 101A Listing and certification after amalgamation](section/101A.md)
+      - [s. 101B Supply of information by amalgamated union](section/101B.md)
+      - [s. 102 Power to alter rules of transferee union for purposes of transfer.](section/102.md)
+      - [s. 103 Complaint to Certification Officer as regards passing of resolution.](section/103.md)
+      - [s. 104 Appeal from decision of Certification Officer.](section/104.md)
+      - [s. 105 Transfer of property on amalgamation or transfer.](section/105.md)
+      - [s. 106 Amalgamation or transfer involving Northern Ireland union.](section/106.md)
+    - Change of name
+      - [s. 107 Change of name of trade union.](section/107.md)
+    - Supplementary
+      - [s. 108 General power to make regulations.](section/108.md)
+  - CHAPTER VIIA BREACH OF RULES
+    - [s. 108A Right to apply to Certification Officer.](section/108A.md)
+    - [s. 108B Declarations and orders.](section/108B.md)
+    - [s. 108C Appeals from Certification Officer.](section/108C.md)
+  - Chapter VIII ...
+    - [s. 109 Proceedings in relation to which assistance may be provided.](section/109.md)
+    - [s. 110 Application for assistance: its consideration.](section/110.md)
+    - [s. 111 Provision of assistance.](section/111.md)
+    - [s. 112 Title of proceedings where assistance provided.](section/112.md)
+    - [s. 113 Recovery of sums paid in case of fraud.](section/113.md)
+    - [s. 114 Supplementary provisions.](section/114.md)
+  - Chapter IX Miscellaneous and general provisions
+    - Further provisions with respect to ballots
+      - [s. 115 ................................](section/115.md)
+      - [s. 116 ................................](section/116.md)
+    - Union modernisation
+      - [s. 116A Provision of money for union modernisation](section/116A.md)
+    - ...
+      - [s. 116B Restriction on deduction of union subscriptions from wages in public sector](section/116B.md)
+    - Exceptions and adaptations for certain bodies
+      - [s. 117 Special register bodies.](section/117.md)
+      - [s. 118 Federated trade unions.](section/118.md)
+    - Interpretation
+      - [s. 119 Expressions relating to trade unions.](section/119.md)
+      - [s. 120 Northern Ireland unions.](section/120.md)
+      - [s. 121 Meaning of “the court".](section/121.md)
+- Part II Employers’ Associations
+  - Introductory
+    - [s. 122 Meaning of “employers’ association".](section/122.md)
+  - The list of employers’ associations
+    - [s. 123 The list of employers’ associations.](section/123.md)
+    - [s. 124 Application to have name entered in the list.](section/124.md)
+    - [s. 125 Removal of name from the list.](section/125.md)
+    - [s. 126 Appeal against decision of Certification Officer.](section/126.md)
+  - Status and property of employers’ associations
+    - [s. 127 Corporate or quasi-corporate status of employers’ associations.](section/127.md)
+    - [s. 128 Exclusion of common law rules as to restraint of trade.](section/128.md)
+    - [s. 129 Property of unincorporated employers’ associations, &c.](section/129.md)
+    - [s. 130 Restriction on enforcement of awards against certain property.](section/130.md)
+  - Administration of employers’ associations
+    - [s. 131 Administrative provisions applying to employers’ associations.](section/131.md)
+  - Application of funds for political objects
+    - [s. 132 Application of funds for political objects.](section/132.md)
+  - Amalgamations and similar matters
+    - [s. 133 Amalgamations and transfers of engagements.](section/133.md)
+    - [s. 134 Change of name of employers’ association.](section/134.md)
+  - General
+    - [s. 135 Federated employers’ associations.](section/135.md)
+    - [s. 136 Meaning of “officer" of employers’ association.](section/136.md)
+- Part III Rights in relation to union membership and activities
+  - Statement of trade union rights
+    - [s. 136A Right to statement of trade union rights](section/136A.md)
+  - Access to employment
+    - [s. 137 Refusal of employment on grounds related to union membership.](section/137.md)
+    - [s. 138 Refusal of service of employment agency on grounds related to union membership.](section/138.md)
+    - [s. 139 Time limit for proceedings.](section/139.md)
+    - [s. 140 Remedies.](section/140.md)
+    - [s. 141 Complaint against employer and employment agency.](section/141.md)
+    - [s. 142 Awards against third parties.](section/142.md)
+    - [s. 143 Interpretation and other supplementary provisions.](section/143.md)
+  - Contracts for supply of goods or services
+    - [s. 144 Union membership requirement in contract for goods or services void.](section/144.md)
+    - [s. 145 Refusal to deal on union membership grounds prohibited.](section/145.md)
+  - Inducements
+    - [s. 145A Inducements relating to union membership or activities](section/145A.md)
+    - [s. 145B Inducements relating to collective bargaining](section/145B.md)
+    - [s. 145C Time limit for proceedings](section/145C.md)
+    - [s. 145D Consideration of complaint](section/145D.md)
+    - [s. 145E Remedies](section/145E.md)
+    - [s. 145F Interpretation and other supplementary provisions](section/145F.md)
+  - Detriment
+    - [s. 146 Detriment on grounds related to union membership or activities.](section/146.md)
+    - [s. 147 Time limit for proceedings.](section/147.md)
+    - [s. 148 Consideration of complaint.](section/148.md)
+    - [s. 149 Remedies.](section/149.md)
+    - [s. 150 Awards against third parties.](section/150.md)
+    - [s. 151 Interpretation and other supplementary provisions.](section/151.md)
+  - Dismissal of employee
+    - [s. 152 Dismissal of employee on grounds related to union membership or activities.](section/152.md)
+    - [s. 153 Selection for redundancy on grounds related to union membership or activities.](section/153.md)
+    - [s. 154 Disapplication of qualifying period and upper age limit for unfair dismissal](section/154.md)
+    - [s. 155 Matters to be disregarded in assessing contributory fault.](section/155.md)
+    - [s. 156 Minimum basic award.](section/156.md)
+    - [s. 157 .](section/157.md)
+    - [s. 158 .](section/158.md)
+    - [s. 159 Power to increase sums by order.](section/159.md)
+    - [s. 160 Awards against third parties.](section/160.md)
+    - [s. 161 Application for interim relief.](section/161.md)
+    - [s. 162 Application to be promptly determined.](section/162.md)
+    - [s. 163 Procedure on hearing of application and making of order.](section/163.md)
+    - [s. 164 Order for continuation of contract of employment.](section/164.md)
+    - [s. 165 Application for variation or revocation of order.](section/165.md)
+    - [s. 166 Consequences of failure to comply with order.](section/166.md)
+    - [s. 167 Interpretation and other supplementary provisions.](section/167.md)
+  - Time off for trade union duties and activities
+    - [s. 168 Time off for carrying out trade union duties.](section/168.md)
+    - [s. 168A Time off for union learning representatives](section/168A.md)
+    - [s. 168B Time off for union equality representatives](section/168B.md)
+    - [s. 169 Payment for time off under sections 168 to 168B.](section/169.md)
+    - [s. 170 Time off for trade union activities.](section/170.md)
+    - [s. 171 Time limit for proceedings.](section/171.md)
+    - [s. 172 Remedies.](section/172.md)
+    - [s. 172A Publication requirements in relation to facility time](section/172A.md)
+    - [s. 172B Reserve powers in relation to facility time](section/172B.md)
+    - [s. 173 Intepretation and other supplementary provisions.](section/173.md)
+  - Right to membership of trade union
+    - [s. 174 Right not to be excluded or expelled from union.](section/174.md)
+    - [s. 175 Time limit for proceedings.](section/175.md)
+    - [s. 176 Remedies.](section/176.md)
+    - [s. 177 Interpretation and other supplementary provisions.](section/177.md)
+- Part IV Industrial Relations
+  - Chapter I Collective bargaining
+    - Introductory
+      - [s. 178 Collective agreements and collective bargaining.](section/178.md)
+    - Enforceability of collective agreements
+      - [s. 179 Whether agreement intended to be a legally enforceable contract.](section/179.md)
+      - [s. 180 Effect of provisions restricting right to take industrial action.](section/180.md)
+    - Disclosure of information for purposes of collective bargaining
+      - [s. 181 General duty of employers to disclose information.](section/181.md)
+      - [s. 182 Restrictions on general duty.](section/182.md)
+      - [s. 183 Complaint of failure to disclose information.](section/183.md)
+      - [s. 184 Further complaint of failure to comply with declaration.](section/184.md)
+      - [s. 185 Determination of claim and award.](section/185.md)
+    - Prohibition of union recognition requirements
+      - [s. 186 Recognition requirement in contract for goods or services void.](section/186.md)
+      - [s. 187 Refusal to deal on grounds of union exclusion prohibited.](section/187.md)
+  - Chapter II Procedure for Handling Redundancies
+    - Duty of employer to consult... representatives
+      - [s. 188 Duty of employer to consult... representatives.](section/188.md)
+      - [s. 188A](section/188A.md)
+      - [s. 189 Complaint ... and protective award.](section/189.md)
+      - [s. 190 Entitlement under protective award.](section/190.md)
+      - [s. 191 Termination of employment during protected period.](section/191.md)
+      - [s. 192 Complaint by employee to employment tribunal.](section/192.md)
+    - Duty of employer to notify Secretary of State
+      - [s. 193 Duty of employer to notify Secretary of State of certain redundancies.](section/193.md)
+      - [s. 193A Application of section 193 in certain cases involving redundancies of ships’ crew](section/193A.md)
+      - [s. 194 Offence of failure to notify.](section/194.md)
+    - Supplementary provisions
+      - [s. 195 Construction of references to dismissal as redundant etc.](section/195.md)
+      - [s. 195A Construction of references to threshold number of employees](section/195A.md)
+      - [s. 196 Construction of references to representatives.](section/196.md)
+      - [s. 197 Power to vary provisions.](section/197.md)
+      - [s. 198 Power to adapt provisions in case of collective agreement.](section/198.md)
+      - [s. 198A Employees being transferred to the employer from another undertaking](section/198A.md)
+      - [s. 198B Section 198A: supplementary](section/198B.md)
+  - Chapter III Codes of Practice
+    - Codes of Practice issued by ACAS
+      - [s. 199 Issue of Codes of Practice by ACAS.](section/199.md)
+      - [s. 200 Procedure for issue of Code by ACAS.](section/200.md)
+      - [s. 201 Consequential revision of Code issued by ACAS.](section/201.md)
+      - [s. 202 Revocation of Code issued by ACAS.](section/202.md)
+    - Codes of Practice issued by the Secretary of State
+      - [s. 203 Issue of Codes of Practice by the Secretary of State.](section/203.md)
+      - [s. 204 Procedure for issue of Code by Secretary of State.](section/204.md)
+      - [s. 205 Consequential revision of Code issued by Secretary of State.](section/205.md)
+      - [s. 206 Revocation of Code issued by Secretary of State.](section/206.md)
+    - Supplementary provisions
+      - [s. 207 Effect of failure to comply with Code.](section/207.md)
+      - [s. 207A Effect of failure to comply with Code: adjustment of awards](section/207A.md)
+      - [s. 208 Provisions of earlier Code superseded by later.](section/208.md)
+  - Chapter IV General
+    - Functions of ACAS
+      - [s. 209 General duty to promote improvement of industrial relations.](section/209.md)
+      - [s. 210 Conciliation.](section/210.md)
+      - [s. 210A Information required by ACAS for purposes of settling recognition disputes](section/210A.md)
+      - [s. 211 Conciliation officers.](section/211.md)
+      - [s. 212 Arbitration.](section/212.md)
+      - [s. 212A Arbitration scheme for unfair dismissal cases etc.](section/212A.md)
+      - [s. 212B Dismissal procedures agreements.](section/212B.md)
+      - [s. 213 Advice.](section/213.md)
+      - [s. 214 Inquiry.](section/214.md)
+    - Courts of inquiry
+      - [s. 215 Inquiry and report by court of inquiry.](section/215.md)
+      - [s. 216 Constitution and proceedings of court of inquiry.](section/216.md)
+    - Supplementary provisions
+      - [s. 217 Exclusion of power of arbiter to state case to Court of Session.](section/217.md)
+      - [s. 218 Meaning of “trade dispute" in Part IV.](section/218.md)
+- Part V Industrial action
+  - Protection of acts in contemplation or furtherance of trade dispute
+    - [s. 219 Protection from certain tort liabilities.](section/219.md)
+    - [s. 220 Peaceful picketing.](section/220.md)
+    - [s. 220A Union supervision of picketing](section/220A.md)
+    - [s. 221 Restrictions on grant of injunctions and interdicts.](section/221.md)
+  - Action excluded from protection
+    - [s. 222 Action to enforce trade union membership.](section/222.md)
+    - [s. 223 Action taken because of dismissal for taking unofficial action.](section/223.md)
+    - [s. 224 Secondary action.](section/224.md)
+    - [s. 225 Pressure to impose union recognition requirement.](section/225.md)
+  - Requirement of ballot before action by trade union
+    - [s. 226 Requirement of ballot before action by trade union.](section/226.md)
+  - Determination of means of voting
+    - [s. 226ZA Responsible person’s determination of means of voting](section/226ZA.md)
+    - [s. 226A Notice of ballot and sample voting materials for employers.](section/226A.md)
+    - [s. 226B Appointment of scrutineer.](section/226B.md)
+    - [s. 226C Exclusion for small ballots.](section/226C.md)
+    - [s. 227 Entitlement to vote in ballot.](section/227.md)
+    - [s. 228 Separate workplace ballots.](section/228.md)
+    - [s. 228A Separate workplaces: single and aggregate ballots.](section/228A.md)
+    - [s. 228B Conduct of ballot](section/228B.md)
+    - [s. 228C Counting of votes where multiple votes cast by same person](section/228C.md)
+  - Postal voting and workplace voting
+    - [s. 229 Postal voting and workplace voting: voting paper](section/229.md)
+  - Postal voting
+    - [s. 230 Postal voting: additional requirements for conduct of ballot](section/230.md)
+  - Electronic voting
+    - [s. 230A Electronic voting](section/230A.md)
+  - Hybrid voting
+    - [s. 230B Hybrid voting](section/230B.md)
+  - Workplace voting
+    - [s. 230C Workplace voting](section/230C.md)
+    - [s. 230D Workplace voting: notice of ballot](section/230D.md)
+    - [s. 230E Workplace voting: additional requirements for conduct of ballot](section/230E.md)
+    - [s. 230F Workplace voting: qualifying location](section/230F.md)
+    - [s. 230G Workplace voting: agreement with employer](section/230G.md)
+    - [s. 230H Workplace voting: counting of votes](section/230H.md)
+    - [s. 231 Information as to result of ballot.](section/231.md)
+    - [s. 231A Employers to be informed of ballot result.](section/231A.md)
+    - [s. 231B Scrutineer’s report.](section/231B.md)
+    - [s. 232 Balloting of overseas members.](section/232.md)
+    - [s. 232A Inducement of member denied entitlement to vote.](section/232A.md)
+    - [s. 232B Small accidental failures to be disregarded.](section/232B.md)
+    - [s. 233 Calling of industrial action with support of ballot.](section/233.md)
+    - [s. 234 Period after which ballot ceases to be effective.](section/234.md)
+  - Requirement on trade union to give notice of industrial action
+    - [s. 234A Notice to employers of industrial action.](section/234A.md)
+  - ...
+    - [s. 234B Power of Secretary of State to specify minimum service levels](section/234B.md)
+    - [s. 234C Work notices relating to minimum service levels](section/234C.md)
+    - [s. 234D Work notices: disclosure of information](section/234D.md)
+    - [s. 234E Work notices: no protection if union fails to take reasonable steps](section/234E.md)
+    - [s. 234F Regulations: consultation and supplementary](section/234F.md)
+    - [s. 234G Interpretation of terms relating to minimum service levels](section/234G.md)
+  - Sections 226 to 234A: meaning of “contract of employment”
+    - [s. 235 Construction of references to contract of employment in sections 226 to 234A.](section/235.md)
+  - Industrial action affecting supply of goods or services to an individual
+    - [s. 235A Industrial action affecting supply of goods or services to an individual.](section/235A.md)
+    - [s. 235B ................................](section/235B.md)
+    - [s. 235C ................................](section/235C.md)
+  - No compulsion to work
+    - [s. 236 No compulsion to work.](section/236.md)
+  - Protection against detriment
+    - [s. 236A Detriment on grounds of industrial action](section/236A.md)
+    - [s. 236B Time limit for proceedings](section/236B.md)
+    - [s. 236C Consideration of complaint](section/236C.md)
+    - [s. 236D Remedies](section/236D.md)
+  - Loss of unfair dismissal protection
+    - [s. 237 Dismissal of those taking part in unofficial industrial action.](section/237.md)
+    - [s. 238 Dismissals in connection with other industrial action.](section/238.md)
+    - [s. 238A Participation in official industrial action.](section/238A.md)
+    - [s. 238B Conciliation and mediation: supplementary provisions](section/238B.md)
+    - [s. 239 Supplementary provisions relating to unfair dismissal.](section/239.md)
+  - Criminal offences
+    - [s. 240 Breach of contract involving injury to persons or property.](section/240.md)
+    - [s. 241 Intimidation or annoyance by violence or otherwise.](section/241.md)
+    - [s. 242 Restriction of offence of conspiracy: England and Wales.](section/242.md)
+    - [s. 243 Restriction of offence of conspiracy: Scotland.](section/243.md)
+  - Supplementary
+    - [s. 244 Meaning of “trade dispute" in Part V.](section/244.md)
+    - [s. 245 Crown employees and contracts.](section/245.md)
+    - [s. 246 Minor definitions.](section/246.md)
+- Part VI Administrative provisions
+  - ACAS
+    - [s. 247 ACAS.](section/247.md)
+    - [s. 248 The Council of ACAS.](section/248.md)
+    - [s. 249 Terms of appointment of members of Council.](section/249.md)
+    - [s. 250 Remuneration, &c. of members of Council.](section/250.md)
+    - [s. 251 Secretary, officers and staff of ACAS.](section/251.md)
+    - [s. 251A Fees for exercise of functions by ACAS.](section/251A.md)
+    - [s. 251B Prohibition on disclosure of information](section/251B.md)
+    - [s. 252 General financial provisions.](section/252.md)
+    - [s. 253 Annual report and accounts.](section/253.md)
+  - The Certification Officer
+    - [s. 254 The Certification Officer.](section/254.md)
+    - [s. 255 Remuneration, &c. of Certification Officer and assistants.](section/255.md)
+    - [s. 256 Procedure before the Certification Officer.](section/256.md)
+    - [s. 256ZA Striking out](section/256ZA.md)
+    - [s. 256A Vexatious litigants.](section/256A.md)
+    - [s. 256B Vexatious litigants: applications disregarded.](section/256B.md)
+    - [s. 256C Investigatory powers](section/256C.md)
+    - [s. 256D Power to impose financial penalties](section/256D.md)
+    - [s. 257 Custody of documents submitted under earlier legislation.](section/257.md)
+    - [s. 257A Levy payable to Certification Officer](section/257A.md)
+    - [s. 258 Annual report and accounts.](section/258.md)
+  - Central Arbitration Committee
+    - [s. 259 The Central Arbitration Committee.](section/259.md)
+    - [s. 260 The members of the Committee.](section/260.md)
+    - [s. 261 Terms of appointment of members of Committee.](section/261.md)
+    - [s. 262 Remuneration, &c. of members of Committee.](section/262.md)
+    - [s. 263 Proceedings of the Committee.](section/263.md)
+    - [s. 263A Proceedings of the Committee under Schedule A1.](section/263A.md)
+    - [s. 264 Awards of the Committee.](section/264.md)
+    - [s. 265 Annual report and accounts.](section/265.md)
+  - ...
+    - [s. 266 ................................](section/266.md)
+    - [s. 267 .](section/267.md)
+    - [s. 268 .](section/268.md)
+    - [s. 269 .](section/269.md)
+    - [s. 270 .](section/270.md)
+    - [s. 271 .](section/271.md)
+  - Supplementary
+    - [s. 272 Meaning of financial year.](section/272.md)
+- Part VII Miscellaneous and general
+  - Crown employment, etc.
+    - [s. 273 Crown employment.](section/273.md)
+    - [s. 274 Armed forces.](section/274.md)
+    - [s. 275 Exemption on grounds of national security.](section/275.md)
+    - [s. 276 Further provision as to Crown application.](section/276.md)
+  - House of Lords and House of Commons staff
+    - [s. 277 House of Lords staff.](section/277.md)
+    - [s. 278 House of Commons staff.](section/278.md)
+  - Health service practitioners
+    - [s. 279 Health service practitioners.](section/279.md)
+  - Police service
+    - [s. 280 Police service.](section/280.md)
+  - Excluded classes of employment
+    - [s. 281 ................................](section/281.md)
+    - [s. 282 Fixed term employment](section/282.md)
+    - [s. 283 ................................](section/283.md)
+    - [s. 284 Share fishermen.](section/284.md)
+    - [s. 285 Employment outside Great Britain.](section/285.md)
+    - [s. 286 Power to make further provision as to excluded classes of employment.](section/286.md)
+  - Offshore employment
+    - [s. 287 Offshore employment.](section/287.md)
+  - Contracting out, &c.
+    - [s. 288 Restriction on contracting out.](section/288.md)
+    - [s. 289 Employment governed by foreign law.](section/289.md)
+  - Employment tribunal proceedings
+    - [s. 290 ................................](section/290.md)
+    - [s. 291](section/291.md)
+  - Other supplementary provisions
+    - [s. 292 Death of employee or employer.](section/292.md)
+    - [s. 292A Extension of time limits to facilitate conciliation before institution of proceedings](section/292A.md)
+    - [s. 293 Regulations.](section/293.md)
+    - [s. 294 Reciprocal arrangements with Northern Ireland.](section/294.md)
+  - Interpretation
+    - [s. 295 Meaning of employee and related expressions.](section/295.md)
+    - [s. 296 Meaning of worker and related expressions.](section/296.md)
+    - [s. 297 Associated employers.](section/297.md)
+    - [s. 297A Meaning of “voting”](section/297A.md)
+    - [s. 297B Devolved Welsh authorities](section/297B.md)
+    - [s. 298 Minor definitions: general.](section/298.md)
+    - [s. 298A Definitions relating to means of voting](section/298A.md)
+    - [s. 299 Index of defined expressions.](section/299.md)
+  - Final provisions
+    - [s. 300 Repeals, consequential amendments, transitional provisions and savings.](section/300.md)
+    - [s. 301 Extent.](section/301.md)
+    - [s. 302 Commencement.](section/302.md)
+    - [s. 303 Short title.](section/303.md)
+- Schedule ZA1 Further requirements relating to the responsible person’s determination
+  - [Sch. ZA1 para. 1](schedule/ZA1/paragraph/1.md)
+  - [Sch. ZA1 para. 2](schedule/ZA1/paragraph/2.md)
+- SCHEDULE A1 Collective Bargaining: Recognition
+  - Part I Recognition
+    - Introduction
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - Request for recognition
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Parties agree
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+    - Employer rejects request
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - Negotiations fail
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - Acceptance of applications
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - Notice to cease consideration of application
+      - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - Appropriate bargaining unit
+      - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+      - [Sch. A1 para. 18A](schedule/A1/paragraph/18A.md)
+      - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+      - [Sch. A1 para. 19A](schedule/A1/paragraph/19A.md)
+      - [Sch. A1 para. 19B](schedule/A1/paragraph/19B.md)
+    - Union communications with workers after acceptance of application
+      - [Sch. A1 para. 19C](schedule/A1/paragraph/19C.md)
+      - [Sch. A1 para. 19D](schedule/A1/paragraph/19D.md)
+      - [Sch. A1 para. 19E](schedule/A1/paragraph/19E.md)
+      - [Sch. A1 para. 19F](schedule/A1/paragraph/19F.md)
+    - Access agreements
+      - [Sch. A1 para. 19G](schedule/A1/paragraph/19G.md)
+      - [Sch. A1 para. 19H](schedule/A1/paragraph/19H.md)
+      - [Sch. A1 para. 19I](schedule/A1/paragraph/19I.md)
+      - [Sch. A1 para. 19J](schedule/A1/paragraph/19J.md)
+      - [Sch. A1 para. 19K](schedule/A1/paragraph/19K.md)
+      - [Sch. A1 para. 19L](schedule/A1/paragraph/19L.md)
+    - Unfair practices
+      - [Sch. A1 para. 19M](schedule/A1/paragraph/19M.md)
+      - [Sch. A1 para. 19N](schedule/A1/paragraph/19N.md)
+      - [Sch. A1 para. 19O](schedule/A1/paragraph/19O.md)
+      - [Sch. A1 para. 19P](schedule/A1/paragraph/19P.md)
+    - Union recognition
+      - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+      - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+      - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+      - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+      - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+      - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+      - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+      - [Sch. A1 para. 27](schedule/A1/paragraph/27.md)
+      - [Sch. A1 para. 27A](schedule/A1/paragraph/27A.md)
+      - [Sch. A1 para. 27B](schedule/A1/paragraph/27B.md)
+      - [Sch. A1 para. 27C](schedule/A1/paragraph/27C.md)
+      - [Sch. A1 para. 27D](schedule/A1/paragraph/27D.md)
+      - [Sch. A1 para. 27E](schedule/A1/paragraph/27E.md)
+      - [Sch. A1 para. 27F](schedule/A1/paragraph/27F.md)
+      - [Sch. A1 para. 28](schedule/A1/paragraph/28.md)
+      - [Sch. A1 para. 29](schedule/A1/paragraph/29.md)
+      - [Sch. A1 para. 30](schedule/A1/paragraph/30.md)
+      - [Sch. A1 para. 31](schedule/A1/paragraph/31.md)
+    - Method not carried out
+      - [Sch. A1 para. 32](schedule/A1/paragraph/32.md)
+    - General provisions about admissibility
+      - [Sch. A1 para. 33](schedule/A1/paragraph/33.md)
+      - [Sch. A1 para. 34](schedule/A1/paragraph/34.md)
+      - [Sch. A1 para. 35](schedule/A1/paragraph/35.md)
+      - [Sch. A1 para. 36](schedule/A1/paragraph/36.md)
+      - [Sch. A1 para. 37](schedule/A1/paragraph/37.md)
+      - [Sch. A1 para. 38](schedule/A1/paragraph/38.md)
+      - [Sch. A1 para. 39](schedule/A1/paragraph/39.md)
+      - [Sch. A1 para. 40](schedule/A1/paragraph/40.md)
+      - [Sch. A1 para. 41](schedule/A1/paragraph/41.md)
+      - [Sch. A1 para. 42](schedule/A1/paragraph/42.md)
+      - [Sch. A1 para. 43](schedule/A1/paragraph/43.md)
+      - [Sch. A1 para. 44](schedule/A1/paragraph/44.md)
+      - [Sch. A1 para. 45](schedule/A1/paragraph/45.md)
+      - [Sch. A1 para. 46](schedule/A1/paragraph/46.md)
+      - [Sch. A1 para. 47](schedule/A1/paragraph/47.md)
+      - [Sch. A1 para. 48](schedule/A1/paragraph/48.md)
+      - [Sch. A1 para. 49](schedule/A1/paragraph/49.md)
+      - [Sch. A1 para. 50](schedule/A1/paragraph/50.md)
+    - Competing applications
+      - [Sch. A1 para. 51](schedule/A1/paragraph/51.md)
+  - Part II Voluntary Recognition
+    - Agreements for recognition
+      - [Sch. A1 para. 52](schedule/A1/paragraph/52.md)
+    - Other interpretation
+      - [Sch. A1 para. 53](schedule/A1/paragraph/53.md)
+      - [Sch. A1 para. 54](schedule/A1/paragraph/54.md)
+    - Determination of type of agreement
+      - [Sch. A1 para. 55](schedule/A1/paragraph/55.md)
+    - Termination of agreement for recognition
+      - [Sch. A1 para. 56](schedule/A1/paragraph/56.md)
+      - [Sch. A1 para. 57](schedule/A1/paragraph/57.md)
+    - Application to CAC to specify method
+      - [Sch. A1 para. 58](schedule/A1/paragraph/58.md)
+      - [Sch. A1 para. 59](schedule/A1/paragraph/59.md)
+      - [Sch. A1 para. 60](schedule/A1/paragraph/60.md)
+      - [Sch. A1 para. 61](schedule/A1/paragraph/61.md)
+    - CAC’s response to application
+      - [Sch. A1 para. 62](schedule/A1/paragraph/62.md)
+      - [Sch. A1 para. 63](schedule/A1/paragraph/63.md)
+  - Part III Changes affecting bargaining unit
+    - Introduction
+      - [Sch. A1 para. 64](schedule/A1/paragraph/64.md)
+      - [Sch. A1 para. 65](schedule/A1/paragraph/65.md)
+    - Either party believes unit no longer appropriate
+      - [Sch. A1 para. 66](schedule/A1/paragraph/66.md)
+      - [Sch. A1 para. 67](schedule/A1/paragraph/67.md)
+      - [Sch. A1 para. 68](schedule/A1/paragraph/68.md)
+      - [Sch. A1 para. 69](schedule/A1/paragraph/69.md)
+      - [Sch. A1 para. 70](schedule/A1/paragraph/70.md)
+      - [Sch. A1 para. 71](schedule/A1/paragraph/71.md)
+      - [Sch. A1 para. 72](schedule/A1/paragraph/72.md)
+      - [Sch. A1 para. 73](schedule/A1/paragraph/73.md)
+    - Employer believes unit has ceased to exist
+      - [Sch. A1 para. 74](schedule/A1/paragraph/74.md)
+      - [Sch. A1 para. 75](schedule/A1/paragraph/75.md)
+      - [Sch. A1 para. 76](schedule/A1/paragraph/76.md)
+      - [Sch. A1 para. 77](schedule/A1/paragraph/77.md)
+      - [Sch. A1 para. 78](schedule/A1/paragraph/78.md)
+      - [Sch. A1 para. 79](schedule/A1/paragraph/79.md)
+      - [Sch. A1 para. 80](schedule/A1/paragraph/80.md)
+      - [Sch. A1 para. 81](schedule/A1/paragraph/81.md)
+    - Access agreements
+      - [Sch. A1 para. 81A](schedule/A1/paragraph/81A.md)
+      - [Sch. A1 para. 81B](schedule/A1/paragraph/81B.md)
+      - [Sch. A1 para. 81C](schedule/A1/paragraph/81C.md)
+      - [Sch. A1 para. 81D](schedule/A1/paragraph/81D.md)
+      - [Sch. A1 para. 81E](schedule/A1/paragraph/81E.md)
+      - [Sch. A1 para. 81F](schedule/A1/paragraph/81F.md)
+    - Unfair practices
+      - [Sch. A1 para. 81G](schedule/A1/paragraph/81G.md)
+      - [Sch. A1 para. 81H](schedule/A1/paragraph/81H.md)
+      - [Sch. A1 para. 81I](schedule/A1/paragraph/81I.md)
+      - [Sch. A1 para. 81J](schedule/A1/paragraph/81J.md)
+    - Position where CAC decides new unit
+      - [Sch. A1 para. 82](schedule/A1/paragraph/82.md)
+      - [Sch. A1 para. 83](schedule/A1/paragraph/83.md)
+      - [Sch. A1 para. 84](schedule/A1/paragraph/84.md)
+      - [Sch. A1 para. 85](schedule/A1/paragraph/85.md)
+      - [Sch. A1 para. 86](schedule/A1/paragraph/86.md)
+      - [Sch. A1 para. 87](schedule/A1/paragraph/87.md)
+      - [Sch. A1 para. 88](schedule/A1/paragraph/88.md)
+      - [Sch. A1 para. 89](schedule/A1/paragraph/89.md)
+    - Residual workers
+      - [Sch. A1 para. 90](schedule/A1/paragraph/90.md)
+      - [Sch. A1 para. 91](schedule/A1/paragraph/91.md)
+    - Applications under this Part
+      - [Sch. A1 para. 92](schedule/A1/paragraph/92.md)
+    - Withdrawal of application
+      - [Sch. A1 para. 93](schedule/A1/paragraph/93.md)
+    - Meaning of collective bargaining
+      - [Sch. A1 para. 94](schedule/A1/paragraph/94.md)
+    - Method of collective bargaining
+      - [Sch. A1 para. 95](schedule/A1/paragraph/95.md)
+  - Part IV Derecognition: General
+    - Introduction
+      - [Sch. A1 para. 96](schedule/A1/paragraph/96.md)
+      - [Sch. A1 para. 97](schedule/A1/paragraph/97.md)
+      - [Sch. A1 para. 98](schedule/A1/paragraph/98.md)
+    - Employer employs fewer than 21 workers
+      - [Sch. A1 para. 99](schedule/A1/paragraph/99.md)
+      - [Sch. A1 para. 99A](schedule/A1/paragraph/99A.md)
+      - [Sch. A1 para. 100](schedule/A1/paragraph/100.md)
+      - [Sch. A1 para. 101](schedule/A1/paragraph/101.md)
+      - [Sch. A1 para. 102](schedule/A1/paragraph/102.md)
+      - [Sch. A1 para. 103](schedule/A1/paragraph/103.md)
+    - Employer’s request to end arrangements
+      - [Sch. A1 para. 104](schedule/A1/paragraph/104.md)
+      - [Sch. A1 para. 105](schedule/A1/paragraph/105.md)
+      - [Sch. A1 para. 106](schedule/A1/paragraph/106.md)
+      - [Sch. A1 para. 107](schedule/A1/paragraph/107.md)
+      - [Sch. A1 para. 108](schedule/A1/paragraph/108.md)
+      - [Sch. A1 para. 109](schedule/A1/paragraph/109.md)
+      - [Sch. A1 para. 110](schedule/A1/paragraph/110.md)
+      - [Sch. A1 para. 111](schedule/A1/paragraph/111.md)
+    - Workers’ application to end arrangements
+      - [Sch. A1 para. 112](schedule/A1/paragraph/112.md)
+      - [Sch. A1 para. 113](schedule/A1/paragraph/113.md)
+      - [Sch. A1 para. 114](schedule/A1/paragraph/114.md)
+      - [Sch. A1 para. 115](schedule/A1/paragraph/115.md)
+      - [Sch. A1 para. 116](schedule/A1/paragraph/116.md)
+    - Access agreements
+      - [Sch. A1 para. 116A](schedule/A1/paragraph/116A.md)
+      - [Sch. A1 para. 116B](schedule/A1/paragraph/116B.md)
+      - [Sch. A1 para. 116C](schedule/A1/paragraph/116C.md)
+      - [Sch. A1 para. 116D](schedule/A1/paragraph/116D.md)
+      - [Sch. A1 para. 116E](schedule/A1/paragraph/116E.md)
+      - [Sch. A1 para. 116F](schedule/A1/paragraph/116F.md)
+      - [Sch. A1 para. 116G](schedule/A1/paragraph/116G.md)
+    - Unfair practices
+      - [Sch. A1 para. 116H](schedule/A1/paragraph/116H.md)
+      - [Sch. A1 para. 116I](schedule/A1/paragraph/116I.md)
+      - [Sch. A1 para. 116J](schedule/A1/paragraph/116J.md)
+      - [Sch. A1 para. 116K](schedule/A1/paragraph/116K.md)
+      - [Sch. A1 para. 116L](schedule/A1/paragraph/116L.md)
+    - Ballot on derecognition
+      - [Sch. A1 para. 117](schedule/A1/paragraph/117.md)
+      - [Sch. A1 para. 118](schedule/A1/paragraph/118.md)
+      - [Sch. A1 para. 119](schedule/A1/paragraph/119.md)
+      - [Sch. A1 para. 119A](schedule/A1/paragraph/119A.md)
+      - [Sch. A1 para. 119B](schedule/A1/paragraph/119B.md)
+      - [Sch. A1 para. 119C](schedule/A1/paragraph/119C.md)
+      - [Sch. A1 para. 119D](schedule/A1/paragraph/119D.md)
+      - [Sch. A1 para. 119E](schedule/A1/paragraph/119E.md)
+      - [Sch. A1 para. 119F](schedule/A1/paragraph/119F.md)
+      - [Sch. A1 para. 119G](schedule/A1/paragraph/119G.md)
+      - [Sch. A1 para. 119H](schedule/A1/paragraph/119H.md)
+      - [Sch. A1 para. 119I](schedule/A1/paragraph/119I.md)
+      - [Sch. A1 para. 120](schedule/A1/paragraph/120.md)
+      - [Sch. A1 para. 121](schedule/A1/paragraph/121.md)
+  - Part V Derecognition where recognition automatic
+    - Introduction
+      - [Sch. A1 para. 122](schedule/A1/paragraph/122.md)
+      - [Sch. A1 para. 123](schedule/A1/paragraph/123.md)
+      - [Sch. A1 para. 124](schedule/A1/paragraph/124.md)
+      - [Sch. A1 para. 125](schedule/A1/paragraph/125.md)
+      - [Sch. A1 para. 126](schedule/A1/paragraph/126.md)
+    - Employer’s request to end arrangements
+      - [Sch. A1 para. 127](schedule/A1/paragraph/127.md)
+      - [Sch. A1 para. 128](schedule/A1/paragraph/128.md)
+      - [Sch. A1 para. 129](schedule/A1/paragraph/129.md)
+      - [Sch. A1 para. 130](schedule/A1/paragraph/130.md)
+      - [Sch. A1 para. 131](schedule/A1/paragraph/131.md)
+      - [Sch. A1 para. 132](schedule/A1/paragraph/132.md)
+    - Access agreements
+      - [Sch. A1 para. 132A](schedule/A1/paragraph/132A.md)
+    - Unfair practices
+      - [Sch. A1 para. 132B](schedule/A1/paragraph/132B.md)
+    - Ballot on derecognition
+      - [Sch. A1 para. 133](schedule/A1/paragraph/133.md)
+  - Part VI Derecognition where union not independent
+    - Introduction
+      - [Sch. A1 para. 134](schedule/A1/paragraph/134.md)
+      - [Sch. A1 para. 135](schedule/A1/paragraph/135.md)
+      - [Sch. A1 para. 136](schedule/A1/paragraph/136.md)
+    - Workers’ application to end arrangements
+      - [Sch. A1 para. 137](schedule/A1/paragraph/137.md)
+      - [Sch. A1 para. 138](schedule/A1/paragraph/138.md)
+      - [Sch. A1 para. 139](schedule/A1/paragraph/139.md)
+      - [Sch. A1 para. 140](schedule/A1/paragraph/140.md)
+      - [Sch. A1 para. 141](schedule/A1/paragraph/141.md)
+      - [Sch. A1 para. 142](schedule/A1/paragraph/142.md)
+      - [Sch. A1 para. 143](schedule/A1/paragraph/143.md)
+      - [Sch. A1 para. 144](schedule/A1/paragraph/144.md)
+      - [Sch. A1 para. 145](schedule/A1/paragraph/145.md)
+      - [Sch. A1 para. 146](schedule/A1/paragraph/146.md)
+    - Access agreements
+      - [Sch. A1 para. 146A](schedule/A1/paragraph/146A.md)
+    - Unfair practices
+      - [Sch. A1 para. 146B](schedule/A1/paragraph/146B.md)
+    - Ballot on derecognition
+      - [Sch. A1 para. 147](schedule/A1/paragraph/147.md)
+    - Derecognition: other cases
+      - [Sch. A1 para. 148](schedule/A1/paragraph/148.md)
+  - Part VII Loss of independence
+    - Introduction
+      - [Sch. A1 para. 149](schedule/A1/paragraph/149.md)
+      - [Sch. A1 para. 150](schedule/A1/paragraph/150.md)
+      - [Sch. A1 para. 151](schedule/A1/paragraph/151.md)
+    - Loss of certificate
+      - [Sch. A1 para. 152](schedule/A1/paragraph/152.md)
+    - Certificate re-issued
+      - [Sch. A1 para. 153](schedule/A1/paragraph/153.md)
+    - Miscellaneous
+      - [Sch. A1 para. 154](schedule/A1/paragraph/154.md)
+      - [Sch. A1 para. 155](schedule/A1/paragraph/155.md)
+  - Part VIII Detriment
+    - Detriment
+      - [Sch. A1 para. 156](schedule/A1/paragraph/156.md)
+      - [Sch. A1 para. 157](schedule/A1/paragraph/157.md)
+      - [Sch. A1 para. 158](schedule/A1/paragraph/158.md)
+      - [Sch. A1 para. 159](schedule/A1/paragraph/159.md)
+      - [Sch. A1 para. 160](schedule/A1/paragraph/160.md)
+    - Dismissal
+      - [Sch. A1 para. 161](schedule/A1/paragraph/161.md)
+    - Selection for redundancy
+      - [Sch. A1 para. 162](schedule/A1/paragraph/162.md)
+    - Employees with fixed-term contracts
+      - [Sch. A1 para. 163](schedule/A1/paragraph/163.md)
+    - Exclusion of requirement as to qualifying period
+      - [Sch. A1 para. 164](schedule/A1/paragraph/164.md)
+    - Meaning of worker’s contract
+      - [Sch. A1 para. 165](schedule/A1/paragraph/165.md)
+  - Part IX General
+    - Rights of appeal against demands for costs
+      - [Sch. A1 para. 165A](schedule/A1/paragraph/165A.md)
+    - Power to amend
+      - [Sch. A1 para. 166](schedule/A1/paragraph/166.md)
+      - [Sch. A1 para. 166A](schedule/A1/paragraph/166A.md)
+      - [Sch. A1 para. 166B](schedule/A1/paragraph/166B.md)
+    - Guidance
+      - [Sch. A1 para. 167](schedule/A1/paragraph/167.md)
+    - Method of conducting collective bargaining
+      - [Sch. A1 para. 168](schedule/A1/paragraph/168.md)
+    - Directions about certain applications
+      - [Sch. A1 Pt. IX heading directions-about-certain-applicationsn1 para. 169](schedule/A1/part/IX/crossheading/directions-about-certain-applicationsn1/paragraph/169.md)
+    - Effect of union amalgamations and transfers of engagements
+      - [Sch. A1 para. 169A](schedule/A1/paragraph/169A.md)
+    - Effect of change of identity of employer
+      - [Sch. A1 para. 169B](schedule/A1/paragraph/169B.md)
+    - Orders under paragraphs 169A and 169B: supplementary
+      - [Sch. A1 para. 169C](schedule/A1/paragraph/169C.md)
+    - Directions about certain applications
+      - [Sch. A1 Pt. IX heading directions-about-certain-applicationsn2 para. 169](schedule/A1/part/IX/crossheading/directions-about-certain-applicationsn2/paragraph/169.md)
+    - Notice of declarations
+      - [Sch. A1 para. 170](schedule/A1/paragraph/170.md)
+    - Supply of information to CAC
+      - [Sch. A1 para. 170A](schedule/A1/paragraph/170A.md)
+    - CAC’s general duty
+      - [Sch. A1 para. 171](schedule/A1/paragraph/171.md)
+    - “Pay” and other matters subject to collective bargaining
+      - [Sch. A1 para. 171A](schedule/A1/paragraph/171A.md)
+    - “The required percentage”
+      - [Sch. A1 para. 171B](schedule/A1/paragraph/171B.md)
+    - General interpretation
+      - [Sch. A1 para. 172](schedule/A1/paragraph/172.md)
+- Schedule A1A Certain requirements relating to electronic voting and hybrid voting
+  - Part 1 Electronic voting and hybrid voting
+    - [Sch. A1A para. 1 Application](schedule/A1A/paragraph/1.md)
+    - [Sch. A1A para. 2 Voting access method and electronic voting instructions](schedule/A1A/paragraph/2.md)
+    - [Sch. A1A para. 3 Electronic voting form](schedule/A1A/paragraph/3.md)
+    - [Sch. A1A para. 4 Unique identifier](schedule/A1A/paragraph/4.md)
+    - [Sch. A1A para. 5 Electronic voting platform](schedule/A1A/paragraph/5.md)
+    - [Sch. A1A para. 6 Requirements relating to security](schedule/A1A/paragraph/6.md)
+    - [Sch. A1A para. 7 Counting of votes](schedule/A1A/paragraph/7.md)
+    - [Sch. A1A para. 8 Processing of information relating to a ballot](schedule/A1A/paragraph/8.md)
+    - [Sch. A1A para. 9 Audit logs](schedule/A1A/paragraph/9.md)
+    - [Sch. A1A para. 10 Retention of audit logs and data](schedule/A1A/paragraph/10.md)
+  - Part 2 Electronic voting
+    - [Sch. A1A para. 11 Application](schedule/A1A/paragraph/11.md)
+    - [Sch. A1A para. 12 Voting](schedule/A1A/paragraph/12.md)
+  - Part 3 Hybrid voting
+    - [Sch. A1A para. 13 Application](schedule/A1A/paragraph/13.md)
+    - [Sch. A1A para. 14 Voting: general requirements](schedule/A1A/paragraph/14.md)
+    - [Sch. A1A para. 15 Ballots held under section 97(1)(b) or section 97(2)(b): additional requirements](schedule/A1A/paragraph/15.md)
+    - [Sch. A1A para. 16 Ballots held under section 226(1)(a): additional requirements](schedule/A1A/paragraph/16.md)
+    - [Sch. A1A para. 17 Interpretation](schedule/A1A/paragraph/17.md)
+  - Part 4 Interpretation
+    - [Sch. A1A para. 18](schedule/A1A/paragraph/18.md)
+- SCHEDULE A2 Tribunal jurisdictions to which section 207A applies
+- SCHEDULE A3 Certification Officer: investigatory powers
+  - Introduction
+    - [Sch. A3 para. 1](schedule/A3/paragraph/1.md)
+  - Power of Certification Officer to require production of documents etc
+    - [Sch. A3 para. 2](schedule/A3/paragraph/2.md)
+  - Investigation by inspectors
+    - [Sch. A3 para. 3](schedule/A3/paragraph/3.md)
+  - Inspectors’ reports etc
+    - [Sch. A3 para. 4](schedule/A3/paragraph/4.md)
+  - Enforcement of paragraphs 2 and 3 by Certification Officer
+    - [Sch. A3 para. 5](schedule/A3/paragraph/5.md)
+  - Supplementary
+    - [Sch. A3 para. 6](schedule/A3/paragraph/6.md)
+- SCHEDULE A4 Certification Officer: power to impose financial penalties
+  - Introduction
+    - [Sch. A4 para. 1](schedule/A4/paragraph/1.md)
+  - Power to impose financial penalties
+    - [Sch. A4 para. 2](schedule/A4/paragraph/2.md)
+  - Enforcement of conditional penalty order
+    - [Sch. A4 para. 3](schedule/A4/paragraph/3.md)
+  - Representations
+    - [Sch. A4 para. 4](schedule/A4/paragraph/4.md)
+  - Appeals
+    - [Sch. A4 para. 5](schedule/A4/paragraph/5.md)
+  - Amount of penalty
+    - [Sch. A4 para. 6](schedule/A4/paragraph/6.md)
+  - Early or late payment, and enforcement
+    - [Sch. A4 para. 7](schedule/A4/paragraph/7.md)
+  - Regulations
+    - [Sch. A4 para. 8](schedule/A4/paragraph/8.md)
+  - Payment of penalties etc into Consolidated Fund
+    - [Sch. A4 para. 9](schedule/A4/paragraph/9.md)
+- SCHEDULE 1 Repeals
+- SCHEDULE 2 Consequential amendments
+  - Parliamentary Commissioner Act 1967 (c.13)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Transport Act 1968 (c.73)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - ...
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Social Security Pensions Act 1975 (c.60)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Sex Discrimination Act 1975 (c.65)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Race Relations Discrimination Act 1976 (c.74)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Aircraft and Shipbuilding Industries Act 1977 (c.3)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Patents Act 1977 (c.37)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - House of Commons (Administration) Act 1978 (c.36)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Employment Protection (Consolidation) Act 1978 (c.44)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Crown Agents Act 1979 (c.43)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Agricultural Training Board Act 1982 (c.9)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Industrial Training Act 1982 (c.10)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Oil and Gas (Enterprise) Act 1982 (c.23)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - Employment Act 1982 (c.46)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+  - Insurance Companies Act 1982 (c.50)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+  - Value Added Tax Act 1983 (c.55)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Insolvency Act 1986 (c.45)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+  - Wages Act 1986 (c.48)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+  - Building Societies Act 1986 (c.53)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - Sex Discrimination Act 1986 (c.59)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+  - Income and Corporation Taxes Act 1988 (c.1)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - Local Government Act 1988 (c.9)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+  - Local Government and Housing Act 1989 (c.42)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+  - Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992 No. 807 (N.I. 5))
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+- SCHEDULE 3 Transitional provisions and savings
+  - Continuity of the law
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - General saving for old transitional provisions and savings
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Effect of repeal of 1946 Act
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Pre-1974 references to registered trade unions or employers’ associations
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Enforceability of collective agreements
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Trade unions and employers’ associations ceasing to be incorporated by virtue of 1974 Act
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - References to former Industrial Arbitration Board
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Effect of political resolution passed before 1984 amendments
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Persons elected to trade union office before 1988 amendments
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Qualification to act as auditor of trade union or employers’ association
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5))
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Use of existing forms, &c.
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Saving for power to vary or revoke
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- TABLE OF DERIVATIONS
