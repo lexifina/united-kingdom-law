@@ -1,0 +1,563 @@
+# Pension Schemes Act 1993
+
+1993 c. 48. Enacted 1993-11-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 153 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
+
+Source: https://www.legislation.gov.uk/ukpga/1993/48/2026-10-01
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Categories of pension schemes.](section/1.md)
+- Part II Administration
+  - The Occupational Pensions Board
+    - [s. 2 Constitution and functions of the Board.](section/2.md)
+    - [s. 3 Membership of the Board.](section/3.md)
+    - [s. 4 Reports of the Board.](section/4.md)
+    - [s. 5 Further provisions as to constitution and procedure of the Board.](section/5.md)
+  - Registration of schemes
+    - [s. 6 Registration of occupational and personal pension schemes.](section/6.md)
+- Part III Schemes that were contracted-out etc and Effects on Members’ State Scheme Rights ...
+  - Chapter I Schemes that were contracted-out: guaranteed minimum pensions and alteration of scheme rules etc
+    - Preliminary
+      - [s. 7 Issue of contracting-out certificates.](section/7.md)
+      - [s. 7A Meaning of “the first abolition date” and “the second abolition date”](section/7A.md)
+      - [s. 7B Meaning of “contracted-out scheme” and “appropriate scheme” etc.](section/7B.md)
+      - [s. 8 Meaning of “contracted-out employment”, “guaranteed minimum pension” and “minimum payment”.](section/8.md)
+    - ...
+      - [s. 9 Requirements for certification of schemes: general.](section/9.md)
+      - [s. 10 Protected rights and money purchase benefits.](section/10.md)
+      - [s. 11 Elections as to employments covered by contracting-out certificates.](section/11.md)
+      - [s. 12 Determination of basis on which scheme is contracted-out.](section/12.md)
+    - ...
+      - [s. 12A The statutory standard](section/12A.md)
+      - [s. 12B Reference scheme](section/12B.md)
+      - [s. 12C Transfer, commutation, etc](section/12C.md)
+      - [s. 12D Entitlement to benefit](section/12D.md)
+    - Guaranteed minimum pensions
+      - [s. 12E Former salary related contracted-out schemes to comply with GMP requirements](section/12E.md)
+      - [s. 13 Minimum pensions for earners.](section/13.md)
+      - [s. 14 Earner’s guaranteed minimum.](section/14.md)
+      - [s. 15 Increase of guaranteed minimum where commencement of guaranteed minimum pension postponed.](section/15.md)
+      - [s. 15A Reduction of guaranteed minimum in consequence of pension debit.](section/15A.md)
+      - [s. 16 Revaluation of earnings factors for purposes of s. 14: early leavers etc.](section/16.md)
+      - [s. 17 Minimum pensions for widows and widowers.](section/17.md)
+      - [s. 18 Treatment of insignificant amounts.](section/18.md)
+      - [s. 19 Discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts.](section/19.md)
+      - [s. 20 Transfer of accrued rights.](section/20.md)
+      - [s. 21 Commutation, surrender and forfeiture.](section/21.md)
+      - [s. 22 Financing of benefits.](section/22.md)
+      - [s. 23 Securing of benefits.](section/23.md)
+      - [s. 24 Sufficiency of resources.](section/24.md)
+      - [s. 24A Conversion of guaranteed minimum pension into other benefits: introduction](section/24A.md)
+      - [s. 24B The conversion conditions](section/24B.md)
+      - [s. 24C Actuarial equivalence](section/24C.md)
+      - [s. 24D Survivors’ benefits](section/24D.md)
+      - [s. 24E Procedural requirements](section/24E.md)
+      - [s. 24F Transfer out](section/24F.md)
+      - [s. 24G Powers to amend schemes](section/24G.md)
+      - [s. 24H Enforcement of GMP conversion conditions](section/24H.md)
+    - Discretionary requirements
+      - [s. 25 Power for Board to impose conditions as to investments and resources.](section/25.md)
+    - Requirements for certification of occupational and personal money purchase schemes
+      - [s. 25A Requirements for schemes with members with protected rights](section/25A.md)
+      - [s. 26 Persons who may establish scheme.](section/26.md)
+      - [s. 27 Identification and valuation of protected rights.](section/27.md)
+      - [s. 27A Requirements in relation to giving effect to protected rights](section/27A.md)
+      - [s. 28 Ways of giving effect to protected rights.](section/28.md)
+      - [s. 28A Requirements for interim arrangements](section/28A.md)
+      - [s. 28B Information about interim arrangements](section/28B.md)
+      - [s. 29 The pension and annuity requirements.](section/29.md)
+      - [s. 30 Securing of liability for protected rights.](section/30.md)
+      - [s. 31 Investment and resources of schemes.](section/31.md)
+      - [s. 32 Suspension or forfeiture.](section/32.md)
+      - [s. 32A Discharge of protected rights on winding up: insurance policies](section/32A.md)
+      - [s. 33 Tax requirements to prevail over requirements of section 31.](section/33.md)
+      - [s. 33A Appropriate schemes: “Blowing the whistle”](section/33A.md)
+    - Cancellation, variation, surrender and refusal of certificates
+      - [s. 34 Cancellation, variation, surrender and refusal of certificates.](section/34.md)
+      - [s. 35 Surrender and cancellation of contracting-out certificates: issue of further certificates.](section/35.md)
+      - [s. 36 Surrender and cancellation of contracting-out certificates: cancellation of further certificates.](section/36.md)
+    - Alteration of rules by former salary related contracted-out schemes
+      - [s. 37 Alteration of rules of contracted-out schemes.](section/37.md)
+      - [s. 37A Transfer of liabilities etc: schemes contracted-out on or after 6 April 1997](section/37A.md)
+      - [s. 38 Alteration of rules of appropriate schemes.](section/38.md)
+    - General regulations as to administration of Part III
+      - [s. 38A Regulations about relevant gender change cases](section/38A.md)
+      - [s. 39 General power to make regulations.](section/39.md)
+  - Chapter II Reduction in social security benefits for members of schemes that were contracted-out
+    - Preliminary
+      - [s. 40 Scope of Chapter II.](section/40.md)
+    - ...
+      - [s. 41 Reduced rates of Class 1 contributions](section/41.md)
+      - [s. 42 Review and alteration of rates of contributions applicable under s. 41.](section/42.md)
+    - Reduced rates of contributions, and rebates, for members of money purchase contracted-out schemes
+      - [s. 42A Reduced rates of Class 1 contributions, and rebates](section/42A.md)
+      - [s. 42B Determination and alteration of rates of contributions, and rebates, applicable under section 42A](section/42B.md)
+    - Minimum contributions: members of appropriate personal pension schemes
+      - [s. 43 Payment of minimum contributions to personal pension schemes.](section/43.md)
+      - [s. 44 Earner’s chosen scheme.](section/44.md)
+      - [s. 45 Amount of minimum contributions.](section/45.md)
+      - [s. 45A Determination and alteration of rates of minimum contributions under section 45](section/45A.md)
+      - [s. 45B Money purchase and personal pension schemes: verification of ages](section/45B.md)
+    - Effect of entitlement to guaranteed minimum pensions on payment of social security benefits
+      - [s. 46 Effect of entitlement to guaranteed minimum pensions on payment of social security benefits.](section/46.md)
+      - [s. 46A Retirement in tax year after 5th April 2020](section/46A.md)
+      - [s. 47 Further provisions concerning entitlement to guaranteed minimum pensions for the purposes of s. 46.](section/47.md)
+      - [s. 48 Reduced benefits where minimum payments or minimum contributions paid.](section/48.md)
+    - Effect of reduced contributions and rebates on social security benefits
+      - [s. 48A Additional pension and other benefits](section/48A.md)
+    - Women, married women and widows
+      - [s. 49 Women, married women and widows.](section/49.md)
+  - Chapter III Termination of contracted-out or appropriate scheme status: state scheme premiums
+    - Approval of arrangements for schemes ceasing to be certified
+      - [s. 50 Powers of Inland Revenue to approve arrangements for scheme ceasing to be certified.](section/50.md)
+      - [s. 51 Calculation of guaranteed minimum pensions preserved under approved arrangements.](section/51.md)
+    - Supervision of formerly certified schemes
+      - [s. 52 Supervision of former salary related contracted-out schemes](section/52.md)
+      - [s. 53 Supervision: former contracted-out schemes.](section/53.md)
+      - [s. 54 Supervision: former appropriate personal pension schemes.](section/54.md)
+    - State scheme premiums
+      - [s. 55 Payment of state scheme premiums on termination of certified status.](section/55.md)
+      - [s. 56 Provisions supplementary to s. 55.](section/56.md)
+      - [s. 57 Elections to pay contributions equivalent premiums.](section/57.md)
+      - [s. 58 Amount of premiums payable under s. 55.](section/58.md)
+      - [s. 59 Alternative basis for revaluation of earnings factors for calculation of certain premiums.](section/59.md)
+      - [s. 60 Effect of payment of premiums on rights.](section/60.md)
+      - [s. 61 Deduction of contributions equivalent premium from refund of scheme contributions.](section/61.md)
+      - [s. 62 No recovery of state scheme premiums from earners etc.](section/62.md)
+      - [s. 63 Further provisions concerning calculations relating to premiums.](section/63.md)
+      - [s. 64 Actuarial tables for purposes of calculations relating to premiums.](section/64.md)
+      - [s. 65 Inclusion of former and future earners for some purposes of this Chapter.](section/65.md)
+      - [s. 66 Power to apply certain provisions to widowers.](section/66.md)
+      - [s. 67 Non-payment of contributions equivalent premiums.](section/67.md)
+      - [s. 68 Unpaid premiums: supplementary.](section/68.md)
+- Part IIIA Safeguarded rights
+  - [s. 68A Safeguarded rights.](section/68A.md)
+  - [s. 68B Requirements relating to safeguarded rights.](section/68B.md)
+  - [s. 68C Reserve powers in relation to non-complying schemes.](section/68C.md)
+  - [s. 68D Power to control transfer or discharge of liability.](section/68D.md)
+- Part IV Protection for early leavers
+  - Chapter I preservation of benefit under occupational schemes
+    - [s. 69 Scope of Chapter I: the preservation requirements.](section/69.md)
+    - [s. 70 Interpretation.](section/70.md)
+    - [s. 71 Basic principle as to short service benefit.](section/71.md)
+    - [s. 72 No discrimination between short service and long service beneficiaries.](section/72.md)
+    - [s. 73 Form of short service benefit and its alternatives.](section/73.md)
+    - [s. 74 Computation of short service benefit.](section/74.md)
+    - [s. 75 Credits.](section/75.md)
+    - [s. 76 Pension increases.](section/76.md)
+    - [s. 77 Assignment, surrender and commutation of benefit.](section/77.md)
+    - [s. 78 Forfeiture, etc.](section/78.md)
+    - [s. 79 Charges, liens and set-offs.](section/79.md)
+    - [s. 80 Power to modify ss. 77 to 79 as respects alternative benefits.](section/80.md)
+    - [s. 81 Discharge of liability where short service or alternative benefits secured by insurance policies or annuity contracts.](section/81.md)
+    - [s. 82 Supplementary regulations.](section/82.md)
+  - Chapter II Revaluation of accrued benefits (excluding guaranteed minimum pensions)
+    - [s. 83 Scope of Chapter II.](section/83.md)
+    - [s. 84 Basis of revaluation.](section/84.md)
+    - [s. 85 Revaluation not to apply to substituted benefit.](section/85.md)
+    - [s. 86 Supplementary provisions.](section/86.md)
+  - Chapter III Protection of increases in guaranteed minimum pensions (“anti-franking”)
+    - [s. 87 General protection principle.](section/87.md)
+    - [s. 88 The relevant sum.](section/88.md)
+    - [s. 89 The appropriate addition.](section/89.md)
+    - [s. 90 The later earnings addition.](section/90.md)
+    - [s. 91 Special provision where employment continues after it ceases to be contracted-out by reference to scheme.](section/91.md)
+    - [s. 92 Supplementary provisions.](section/92.md)
+  - Chapter IV Transfer values
+  - Chapter 5 Early leavers: cash transfer sums and contribution refunds
+- Part 4ZA Transfers and contribution refunds
+  - Chapter 1 Transfer rights: general
+    - [s. 93 Scope of Chapter 1.](section/93.md)
+    - [s. 93A Right to statement of entitlement: benefits other than money purchase](section/93A.md)
+    - [s. 94 Right to cash equivalent.](section/94.md)
+    - [s. 95 Ways of taking right to cash equivalent.](section/95.md)
+    - [s. 96 Further provisions concerning exercise of option under s. 95.](section/96.md)
+    - [s. 97 Calculation of cash equivalents.](section/97.md)
+    - [s. 97A Designation of funded public service defined benefits schemes](section/97A.md)
+    - [s. 97B Designation of funded public service defined benefits schemes: Scotland](section/97B.md)
+    - [s. 97C Reduction of cash equivalents in case of designated schemes](section/97C.md)
+    - [s. 98 Loss of right to cash equivalent](section/98.md)
+    - [s. 99 Trustees’ duties after exercise of option.](section/99.md)
+    - [s. 99A Trustees’ further duties: collective money purchase benefits](section/99A.md)
+    - [s. 100 Withdrawal of applications.](section/100.md)
+    - [s. 100A Prohibition on excluding future accruals etc](section/100A.md)
+    - [s. 100B Meaning of “scheme rules”: occupational pension schemes](section/100B.md)
+    - [s. 100C Meaning of “normal pension age” in this Chapter](section/100C.md)
+    - [s. 100D Interpretation of Chapter](section/100D.md)
+    - [s. 101 Supplementary provisions.](section/101.md)
+  - Chapter 2 Early leavers: cash transfer sums and contribution refunds
+    - [s. 101AA Scope of Chapter 5](section/101AA.md)
+    - [s. 101AB Right to cash transfer sum and contribution refund](section/101AB.md)
+    - [s. 101AC Notification of right to cash transfer sum or contribution refund](section/101AC.md)
+    - [s. 101AD Exercise of right under section 101AB](section/101AD.md)
+    - [s. 101AE Permitted ways of using cash transfer sum](section/101AE.md)
+    - [s. 101AF Calculation of cash transfer sum and contribution refund](section/101AF.md)
+    - [s. 101AG Duties of trustees or managers following exercise of right](section/101AG.md)
+    - [s. 101AH Powers of trustees or managers where right not exercised](section/101AH.md)
+    - [s. 101AI Rights under section 101AB: further provisions](section/101AI.md)
+- Part IVA Requirements relating to pension credit benefit
+  - Chapter I Pension credit benefit under occupational schemes
+    - [s. 101A Scope of Chapter I.](section/101A.md)
+    - [s. 101B Interpretation.](section/101B.md)
+    - [s. 101C Basic principle as to pension credit benefit.](section/101C.md)
+    - [s. 101D Form of pension credit benefit and its alternatives.](section/101D.md)
+    - [s. 101E Discharge of liability where pension credit or alternative benefits secured by insurance policies or annuity contracts.](section/101E.md)
+  - Chapter II Transfer values
+    - [s. 101F Power to give transfer notice.](section/101F.md)
+    - [s. 101G Restrictions on power to give transfer notice.](section/101G.md)
+    - [s. 101H Benefits other than money purchase: statements of entitlement.](section/101H.md)
+    - [s. 101I Calculation of cash equivalents.](section/101I.md)
+    - [s. 101J Time for compliance with transfer notice.](section/101J.md)
+    - [s. 101K Withdrawal of transfer notice.](section/101K.md)
+    - [s. 101L Variation of the amount required to be used.](section/101L.md)
+    - [s. 101M Effect of transfer on trustees’ duties.](section/101M.md)
+    - [s. 101N Matters to be disregarded in calculations.](section/101N.md)
+    - [s. 101NA Prohibition on excluding transfers of some rights without others etc](section/101NA.md)
+    - [s. 101O Service of notices.](section/101O.md)
+    - [s. 101P Interpretation of Chapter II.](section/101P.md)
+    - [s. 101Q Power to modify Chapter II in relation to hybrid schemes.](section/101Q.md)
+- Part V Annual Increases of Pensions in Payment
+  - Chapter I Pensions under Final Salary Schemes etc.
+    - [s. 102 Scope of Chapter I: annual increase of certain occupational pensions.](section/102.md)
+    - [s. 103 Annual increase of later service component.](section/103.md)
+    - [s. 104 Annual increase of earlier service component where scheme is in surplus.](section/104.md)
+    - [s. 105 Proportional increase where first period is less than 12 months.](section/105.md)
+    - [s. 106 Restriction on increase where member is under 55.](section/106.md)
+    - [s. 107 Application of Chapter I to pensions not attributable to pensionable service.](section/107.md)
+    - [s. 108 No payments to employers from non-complying schemes.](section/108.md)
+  - Chapter II Guaranteed minimum pensions
+    - [s. 109 Annual increase of guaranteed minimum pensions.](section/109.md)
+    - [s. 110 Requirement as to resources for annual increase of guaranteed minimum pensions.](section/110.md)
+- Part VI Further Requirements for Protection of Scheme Members
+  - [s. 111 Voluntary contributions.](section/111.md)
+  - [s. 111A Monitoring of employers’ payments to personal pension schemes.](section/111A.md)
+  - [s. 111B Obtaining information for purposes of section 111A and corresponding Northern Ireland legislation.](section/111B.md)
+  - [s. 112 Restrictions on investment of scheme’s resources in employer-related assets.](section/112.md)
+  - [s. 113 Disclosure of information about schemes to members etc.](section/113.md)
+  - [s. 113A Disclosure of information about transfers etc](section/113A.md)
+  - [s. 113B Occupational pension schemes: requirements to refer members to guidance etc](section/113B.md)
+  - [s. 114 Additional documents for members etc. and Registrar.](section/114.md)
+  - [s. 115 Powers as respects failure to comply with information requirements.](section/115.md)
+  - [s. 116 Regulations as to auditors.](section/116.md)
+  - [s. 117 Regulations as to form and content of advertisements.](section/117.md)
+  - [s. 118 Equal access requirements.](section/118.md)
+- Part VII Insolvency of employers
+  - Chapter I Independent trustees
+    - [s. 119 Requirement for independent trustee where employer becomes insolvent etc.](section/119.md)
+    - [s. 120 Members’ powers to apply to court to enforce duty under s. 119.](section/120.md)
+    - [s. 121 Further provisions as to appointment and powers of independent trustees.](section/121.md)
+    - [s. 122 Duty of insolvency practitioner or official receiver to give information to scheme trustees.](section/122.md)
+  - Chapter II Payment by Secretary of State of unpaid scheme contributions
+    - [s. 123 Interpretation of Chapter II.](section/123.md)
+    - [s. 124 Duty of Secretary of State to pay unpaid contributions to schemes.](section/124.md)
+    - [s. 125 Certification of amounts payable under s. 124 by insolvency officers.](section/125.md)
+    - [s. 126 Complaint to industrial tribunal.](section/126.md)
+    - [s. 127 Transfer to Secretary of State of rights and remedies.](section/127.md)
+  - Chapter III Priority in bankruptcy
+    - [s. 128 Priority in bankruptcy etc.](section/128.md)
+- Part VIII Relationship between requirements and scheme rules
+  - [s. 129 Overriding requirements.](section/129.md)
+  - [s. 130 Extra-statutory benefits.](section/130.md)
+  - [s. 131 Relationship of preservation requirements and scheme rules.](section/131.md)
+  - [s. 132 Duty to bring schemes into conformity with indirectly-applying requirements.](section/132.md)
+  - [s. 133 Advice of the Board as to conformity of schemes with requirements.](section/133.md)
+  - [s. 134 Determination of questions whether schemes conform with requirements.](section/134.md)
+  - [s. 135 Persons competent to make applications under s. 134.](section/135.md)
+- Part IX Modification and winding up of schemes
+  - Modification
+    - [s. 136 Applications to the Board to modify schemes (other than public service schemes).](section/136.md)
+    - [s. 137 Persons competent to make applications under s. 136.](section/137.md)
+    - [s. 138 Further provisions concerning the Board’s powers under s. 136.](section/138.md)
+    - [s. 139 Other functions of the Board as respects modification of schemes.](section/139.md)
+    - [s. 140 Effect of orders under ss. 136 and 139.](section/140.md)
+    - [s. 141 Modification of public service schemes.](section/141.md)
+  - Winding up
+    - [s. 142 Powers of the Board to wind up schemes.](section/142.md)
+    - [s. 143 Winding up of public service schemes.](section/143.md)
+    - [s. 144 Deficiencies in the assets of a scheme on winding up.](section/144.md)
+- Part X Investigations: the Pensions Ombudsman
+  - [s. 145 The Pensions Ombudsman.](section/145.md)
+  - [s. 145A Deputy Pensions Ombudsmen](section/145A.md)
+  - [s. 146 Functions of the Pensions Ombudsman.](section/146.md)
+  - [s. 147 Death, insolvency or disability of authorised complainant.](section/147.md)
+  - [s. 148 Staying court proceedings where a complaint is made or a dispute is referred.](section/148.md)
+  - [s. 149 Procedure on an investigation.](section/149.md)
+  - [s. 150 Investigations: further provisions.](section/150.md)
+  - [s. 151 Determinations of the Pensions Ombudsman.](section/151.md)
+  - [s. 151A Interest on late payment of benefit](section/151A.md)
+  - [s. 152 Power to make special county court rules.](section/152.md)
+- Part XI General and miscellaneous provisions
+  - Modification powers
+    - [s. 153 Power to modify certain provisions of this Act.](section/153.md)
+    - [s. 154 Application of enactments as respects personal pension schemes.](section/154.md)
+  - Information about schemes
+    - [s. 155 Requirement to give information to the Secretary of State or the Board for the purposes of certain provisions.](section/155.md)
+    - [s. 156 Information for purposes of contracting-out.](section/156.md)
+    - [s. 157 Power of Secretary of State to obtain information in connection with applications under s. 124.](section/157.md)
+    - [s. 158 Disclosure of information between government departments etc.](section/158.md)
+    - [s. 158A Other disclosures by the Secretary of State.](section/158A.md)
+  - Avoidance of certain transactions and provisions
+    - [s. 159 Inalienability of guaranteed minimum pension ....](section/159.md)
+    - [s. 159A No forfeiture on bankruptcy of rights under personal pension schemes.](section/159A.md)
+    - [s. 160 Terms of contracts of service or schemes restricting choice to be void.](section/160.md)
+    - [s. 161 Provisions excluding Chapter II of Part VII to be void.](section/161.md)
+    - [s. 162 Removal of restrictions on friendly societies’ pension business.](section/162.md)
+    - [s. 163 Exemption of certain schemes from rule against perpetuities.](section/163.md)
+  - Special classes of earner
+    - [s. 164 Crown employment.](section/164.md)
+    - [s. 165 Application of certain provisions to cases with foreign element.](section/165.md)
+  - Reciprocity with other countries
+    - [s. 166 Reciprocity with other countries.](section/166.md)
+  - Application of provisions relating to social security administration
+    - [s. 167 Application of general provisions relating to administration of social security.](section/167.md)
+  - General provisions as to offences
+    - [s. 168 Breach of regulations.](section/168.md)
+    - [s. 168A Offence in connection with the Registrar](section/168A.md)
+    - [s. 169 Offences by bodies corporate.](section/169.md)
+  - General provisions as to determinations and appeals
+    - [s. 170 Decisions and appeals](section/170.md)
+    - [s. 171 Questions arising in proceedings.](section/171.md)
+    - [s. 171A Reports by Inland Revenue.](section/171A.md)
+    - [s. 172 Review of the Board’s determinations.](section/172.md)
+    - [s. 173 References and appeals from the Board.](section/173.md)
+  - Financial provisions
+    - [s. 174 Grants to advisory bodies etc](section/174.md)
+    - [s. 175 Levies towards certain expenditure](section/175.md)
+    - [s. 176 Fees for official services to schemes.](section/176.md)
+    - [s. 177 General financial arrangements.](section/177.md)
+- Part XII Supplementary Provisions
+  - Interpretation
+    - [s. 178 Trustees and managers of schemes.](section/178.md)
+    - [s. 179 Linked qualifying service.](section/179.md)
+    - [s. 180 Normal pension age.](section/180.md)
+    - [s. 180A Insurer and long-term insurance business](section/180A.md)
+    - [s. 181 General interpretation.](section/181.md)
+    - [s. 181A Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date](section/181A.md)
+    - [s. 181B Money purchase benefits: supplementary](section/181B.md)
+  - Subordinate legislation etc.
+    - [s. 182 Orders and regulations (general provisions).](section/182.md)
+    - [s. 183 Sub-delegation.](section/183.md)
+    - [s. 184 Consultation with Social Security Advisory Committee about regulations under s. 36(6).](section/184.md)
+    - [s. 185 Consultations about other regulations.](section/185.md)
+    - [s. 186 Parliamentary control of orders and regulations.](section/186.md)
+    - [s. 187 Northern Ireland Constitution Act 1973: “reserved matters”.](section/187.md)
+  - Supplemental provisions
+    - [s. 188 Repeals.](section/188.md)
+    - [s. 189 Transitional provisions and savings.](section/189.md)
+    - [s. 190 Prospective and consequential amendments.](section/190.md)
+    - [s. 191 Transitory modifications.](section/191.md)
+    - [s. 192 Extent.](section/192.md)
+    - [s. 193 Short title and commencement.](section/193.md)
+- SCHEDULE 1 The Occupational Pensions Board
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Expenses, remuneration, etc. of members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Procedure
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Proceedings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Staff etc.
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Fees
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Instruments and contracts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Certification Regulations
+  - Part I Occupational Pension Schemes
+    - General regulations: beginning and ending of employment
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Power to modify Part III etc.
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - State scheme premiums
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Schemes covering different employers
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Special provisions for certain public service pension schemes
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Incidental matters
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Part II Personal Pension Schemes
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Methods of revaluing accrued pension benefits
+  - The final salary method
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The revaluation percentage and the appropriate revaluation percentage
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+  - The average salary method
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The cash balance method
+    - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+  - The flat rate method
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The money purchase method
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Priority in Bankruptcy etc
+  - Earner’s contributions to occupational pension scheme
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Employer’s contributions to occupational pension scheme
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - State scheme premiums
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Interpretation
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Repeals
+  - Part I General
+  - Part II Provisions relating to equal access
+  - Part III Provisions repealed as respects Great Britain only
+  - Part IV Subordinate legislation revoked
+- SCHEDULE 6 Transitional Provisions and Savings
+  - Part I General Provisions
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Part II Specific Provisions
+    - Contracting-out requirements for schemes providing guaranteed minimum pensions
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Overriding effect of certain requirements for existing contracted-out and appropriate schemes
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Transactions discharging trustees
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Contributions equivalent premiums: earnings before 1987-88
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Preservation
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Anti-franking
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Modifications in consequence of enactment of Part I of the Social Security Act 1986
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Savings for statutory instruments
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Provisions contained in this Act by virtue of statutory instruments
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Saving for application of general provisions relating to social security
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Saving for section 7 of the Social Security Act 1986
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+- SCHEDULE 7 Re-enactment or amendment of certain provisions not in force
+  - The Equal Pay Act 1970 (c. 41)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Social Security Act 1989 (c.24)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - This Act
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Consequential Amendments
+  - The Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Administration of Justice Act 1970 (c. 31)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Equal Pay Act 1970 (c. 41)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - The Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - The Pensions (Increase) Act 1971 (c. 56)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - The Superannuation Act 1972 (c. 11)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - The Social Security Pensions Act 1975 (c. 60)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - The Rent Act 1977 (c. 42)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - The Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - The Justices of the Peace Act 1979 (c. 55)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - The Judicial Pensions Act 1981 (c. 20)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - The Forfeiture Act 1982 (c. 34)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - The Companies Act 1985 (c. 6)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - The Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - The Insolvency Act 1986 (c. 45)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - The Coal Industry Act 1987 (c. 3)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - The Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - The Official Secrets Act 1989 (c. 6)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - The Finance Act 1989 (c. 26)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - The Electricity Act 1989 (c. 29)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - The Social Security Administration Act 1992 (c. 5)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - The Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - The Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+  - The Social Security Act 1993 (c.3)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+  - The Judicial Pensions and Retirement Act 1993 (c.8)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+- SCHEDULE 9 Transitory Modifications
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Rule against perpetuities
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Limited price indexation
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Guaranteed minimum for married women and widows paying reduced rate contributions
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Friendly societies
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Judicial pensions
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- TABLE OF DERIVATIONS
+  - [Sch. n9 para. 1 Notes:](schedule/n9/paragraph/1.md)
+  - [Sch. n9 para. 2](schedule/n9/paragraph/2.md)
+  - [Sch. n9 para. 3](schedule/n9/paragraph/3.md)
+  - [Sch. n9 para. 4](schedule/n9/paragraph/4.md)
+  - [Sch. n9 para. 5](schedule/n9/paragraph/5.md)
+  - [Sch. n9 para. 6](schedule/n9/paragraph/6.md)
