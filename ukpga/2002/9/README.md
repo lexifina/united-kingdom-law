@@ -1,0 +1,399 @@
+# Land Registration Act 2002
+
+2002 c. 9. Enacted 2002-02-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2002/9
+
+Source: https://www.legislation.gov.uk/ukpga/2002/9/2026-10-01
+
+## Contents
+
+- Part 1 Preliminary
+  - [s. 1 Register of title](section/1.md)
+  - [s. 2 Scope of title registration](section/2.md)
+- Part 2 First registration of title
+  - Chapter 1 First registration
+    - Voluntary registration
+      - [s. 3 When title may be registered](section/3.md)
+    - Compulsory registration
+      - [s. 4 When title must be registered](section/4.md)
+      - [s. 5 Power to extend section 4](section/5.md)
+      - [s. 6 Duty to apply for registration of title](section/6.md)
+      - [s. 7 Effect of non-compliance with section 6](section/7.md)
+      - [s. 8 Liability for making good void transfers etc](section/8.md)
+    - Classes of title
+      - [s. 9 Titles to freehold estates](section/9.md)
+      - [s. 10 Titles to leasehold estates](section/10.md)
+    - Effect of first registration
+      - [s. 11 Freehold estates](section/11.md)
+      - [s. 12 Leasehold estates](section/12.md)
+    - Dependent estates
+      - [s. 13 Appurtenant rights and charges](section/13.md)
+    - Supplementary
+      - [s. 14 Rules about first registration](section/14.md)
+  - Chapter 2 Cautions against first registration
+    - [s. 15 Right to lodge](section/15.md)
+    - [s. 16 Effect](section/16.md)
+    - [s. 17 Withdrawal](section/17.md)
+    - [s. 18 Cancellation](section/18.md)
+    - [s. 19 Cautions register](section/19.md)
+    - [s. 20 Alteration of register by court](section/20.md)
+    - [s. 21 Alteration of register by registrar](section/21.md)
+    - [s. 22 Supplementary](section/22.md)
+- Part 3 Dispositions of registered land
+  - Powers of disposition
+    - [s. 23 Owner’s powers](section/23.md)
+    - [s. 24 Right to exercise owner’s powers](section/24.md)
+    - [s. 25 Mode of exercise](section/25.md)
+    - [s. 26 Protection of disponees](section/26.md)
+  - Registrable dispositions
+    - [s. 27 Dispositions required to be registered](section/27.md)
+  - Effect of dispositions on priority
+    - [s. 28 Basic rule](section/28.md)
+    - [s. 29 Effect of registered dispositions: estates](section/29.md)
+    - [s. 30 Effect of registered dispositions: charges](section/30.md)
+    - [s. 31 Inland Revenue charges](section/31.md)
+- Part 4 Notices and restrictions
+  - Notices
+    - [s. 32 Nature and effect](section/32.md)
+    - [s. 33 Excluded interests](section/33.md)
+    - [s. 34 Entry on application](section/34.md)
+    - [s. 35 Unilateral notices](section/35.md)
+    - [s. 36 Cancellation of unilateral notices](section/36.md)
+    - [s. 37 Unregistered interests](section/37.md)
+    - [s. 38 Registrable dispositions](section/38.md)
+    - [s. 39 Supplementary](section/39.md)
+  - Restrictions
+    - [s. 40 Nature](section/40.md)
+    - [s. 41 Effect](section/41.md)
+    - [s. 42 Power of registrar to enter](section/42.md)
+    - [s. 43 Applications](section/43.md)
+    - [s. 44 Obligatory restrictions](section/44.md)
+    - [s. 45 Notifiable applications](section/45.md)
+    - [s. 46 Power of court to order entry](section/46.md)
+    - [s. 47 Withdrawal](section/47.md)
+- Part 5 Charges
+  - Relative priority
+    - [s. 48 Registered charges](section/48.md)
+    - [s. 49 Tacking and further advances](section/49.md)
+    - [s. 50 Overriding statutory charges: duty of notification](section/50.md)
+  - Powers as chargee
+    - [s. 51 Effect of completion by registration](section/51.md)
+    - [s. 52 Protection of disponees](section/52.md)
+    - [s. 53 Powers as sub-chargee](section/53.md)
+  - Realisation of security
+    - [s. 54 Proceeds of sale: chargee’s duty](section/54.md)
+    - [s. 55 Local land charges](section/55.md)
+  - Miscellaneous
+    - [s. 56 Receipt in case of joint proprietors](section/56.md)
+    - [s. 57 Entry of right of consolidation](section/57.md)
+- Part 6 Registration: general
+  - Registration as proprietor
+    - [s. 58 Conclusiveness](section/58.md)
+    - [s. 59 Dependent estates](section/59.md)
+  - Boundaries
+    - [s. 60 Boundaries](section/60.md)
+    - [s. 61 Accretion and diluvion](section/61.md)
+  - Quality of title
+    - [s. 62 Power to upgrade title](section/62.md)
+    - [s. 63 Effect of upgrading title](section/63.md)
+    - [s. 64 Use of register to record defects in title](section/64.md)
+  - Alteration of register
+    - [s. 65 Alteration of register](section/65.md)
+  - Information etc.
+    - [s. 66 Inspection of the registers etc](section/66.md)
+    - [s. 67 Official copies of the registers etc](section/67.md)
+    - [s. 68 Index](section/68.md)
+    - [s. 69 Historical information](section/69.md)
+    - [s. 70 Official searches](section/70.md)
+  - Applications
+    - [s. 71 Duty to disclose unregistered interests](section/71.md)
+    - [s. 72 Priority protection](section/72.md)
+    - [s. 73 Objections](section/73.md)
+    - [s. 74 Effective date of registration](section/74.md)
+  - Proceedings before the registrar
+    - [s. 75 Production of documents](section/75.md)
+    - [s. 76 Costs](section/76.md)
+  - Miscellaneous
+    - [s. 77 Duty to act reasonably](section/77.md)
+    - [s. 78 Notice of trust not to affect registrar](section/78.md)
+- Part 7 Special cases
+  - The Crown
+    - [s. 79 Voluntary registration of demesne land](section/79.md)
+    - [s. 80 Compulsory registration of grants out of demesne land](section/80.md)
+    - [s. 81 Demesne land: cautions against first registration](section/81.md)
+    - [s. 82 Escheat etc](section/82.md)
+    - [s. 83 Crown and Duchy land: representation](section/83.md)
+    - [s. 84 Disapplication of requirements relating to Duchy land](section/84.md)
+    - [s. 85 Bona vacantia](section/85.md)
+  - Overseas entities
+    - [s. 85A Overseas entities](section/85A.md)
+  - Pending actions etc.
+    - [s. 86 Bankruptcy](section/86.md)
+    - [s. 87 Pending land actions, writs, orders and deeds of arrangement](section/87.md)
+  - Miscellaneous
+    - [s. 88 Incorporeal hereditaments](section/88.md)
+    - [s. 89 Settlements](section/89.md)
+    - [s. 90 PPP leases relating to transport in London](section/90.md)
+- Part 8 Electronic conveyancing
+  - [s. 91 Electronic dispositions: formalities](section/91.md)
+  - [s. 92 Land registry network](section/92.md)
+  - [s. 93 Power to require simultaneous registration](section/93.md)
+  - [s. 94 Electronic settlement](section/94.md)
+  - [s. 95 Supplementary](section/95.md)
+- Part 9 Adverse possession
+  - [s. 96 Disapplication of periods of limitation](section/96.md)
+  - [s. 97 Registration of adverse possessor](section/97.md)
+  - [s. 98 Defences](section/98.md)
+- Part 10 Land registry
+  - Administration
+    - [s. 99 The land registry](section/99.md)
+    - [s. 100 Conduct of business](section/100.md)
+    - [s. 101 Annual report](section/101.md)
+  - Fees and indemnities
+    - [s. 102 Fee orders](section/102.md)
+    - [s. 103 Indemnities](section/103.md)
+  - Miscellaneous
+    - [s. 104 General information about land](section/104.md)
+    - [s. 105 Services relating to land or other property](section/105.md)
+    - [s. 106 Incidental powers: companies](section/106.md)
+- Part 11 Adjudication
+  - [s. 107 The adjudicator](section/107.md)
+  - [s. 108 Jurisdiction](section/108.md)
+  - [s. 109 Procedure](section/109.md)
+  - [s. 110 Functions in relation to disputes](section/110.md)
+  - [s. 111 Appeals](section/111.md)
+  - [s. 112 Enforcement of orders etc](section/112.md)
+  - [s. 113 Fees](section/113.md)
+  - [s. 114 Supplementary](section/114.md)
+- Part 12 Miscellaneous and general
+  - Miscellaneous
+    - [s. 115 Rights of pre-emption](section/115.md)
+    - [s. 116 Proprietary estoppel and mere equities](section/116.md)
+    - [s. 117 Reduction in unregistered interests with automatic protection](section/117.md)
+    - [s. 118 Power to reduce qualifying term](section/118.md)
+    - [s. 119 Power to deregister manors](section/119.md)
+    - [s. 120 Conclusiveness of filed copies etc](section/120.md)
+    - [s. 121 Forwarding of applications to registrar of companies](section/121.md)
+    - [s. 122 Repeal of Land Registry Act 1862](section/122.md)
+  - Offences etc.
+    - [s. 123 Suppression of information](section/123.md)
+    - [s. 124 Improper alteration of the registers](section/124.md)
+    - [s. 125 Privilege against self-incrimination](section/125.md)
+  - Land registration rules
+    - [s. 126 Miscellaneous and general powers](section/126.md)
+    - [s. 127 Exercise of powers](section/127.md)
+  - Supplementary
+    - [s. 128 Rules, regulations and orders](section/128.md)
+    - [s. 129 Crown application](section/129.md)
+    - [s. 130 Application to internal waters](section/130.md)
+    - [s. 131 “Proprietor in possession”](section/131.md)
+    - [s. 132 General interpretation](section/132.md)
+  - Final provisions
+    - [s. 133 Minor and consequential amendments](section/133.md)
+    - [s. 134 Transition](section/134.md)
+    - [s. 135 Repeals](section/135.md)
+    - [s. 136 Short title, commencement and extent](section/136.md)
+- SCHEDULE 1 Unregistered interests which override first registration
+  - [Sch. 1 para. 1 Leasehold estates in land](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 1A Relevant social housing tenancies](schedule/1/paragraph/1A.md)
+  - [Sch. 1 para. 2 Interests of persons in actual occupation](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Easements and profits a prendre](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Customary and public rights](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Local land charges](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Mines and minerals](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Miscellaneous](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Registrable dispositions: registration requirements
+  - Part 1 Registered estates
+    - [Sch. 2 para. 1 Introductory](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Transfer](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Lease of estate in land](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Lease of franchise or manor](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Creation of independently registrable legal interest](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Creation of other legal interest](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Creation of legal charge](schedule/2/paragraph/8.md)
+  - Part 2 Registered charges
+    - [Sch. 2 para. 9 Introductory](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Transfer](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Creation of sub-charge](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Unregistered interests which override registered dispositions
+  - [Sch. 3 para. 1 Leasehold estates in land](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 1A Relevant social housing tenancies](schedule/3/paragraph/1A.md)
+  - [Sch. 3 para. 2 Interests of persons in actual occupation](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Easements and profits a prendre](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Customary and public rights](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Local land charges](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Mines and minerals](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Miscellaneous](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Alteration of the register
+  - [Sch. 4 para. 1 Introductory](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Alteration pursuant to a court order](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Alteration otherwise than pursuant to a court order](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Rectification and derivative interests](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9 Costs in non-rectification cases](schedule/4/paragraph/9.md)
+- SCHEDULE 4A Overseas entities
+  - [Sch. 4A para. 1 Meaning of “qualifying estate”](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2 Registration](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3 Restrictions on disposal](schedule/4A/paragraph/3.md)
+  - [Sch. 4A para. 4 Registrable dispositions by overseas entity entitled to be registered (but not registered)](schedule/4A/paragraph/4.md)
+  - [Sch. 4A para. 5 Consent to registration of dispositions that cannot otherwise be registered](schedule/4A/paragraph/5.md)
+  - [Sch. 4A para. 6 Making dispositions that cannot be registered](schedule/4A/paragraph/6.md)
+  - [Sch. 4A para. 7 Interpretation etc.](schedule/4A/paragraph/7.md)
+  - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+- SCHEDULE 5 Land registry network
+  - [Sch. 5 para. 1 Access to network](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Terms of access](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Termination of access](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Appeals](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Network transaction rules](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Overriding nature of network access obligations](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Do-it-yourself conveyancing](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 Presumption of authority](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9 Management of network transactions](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10 Supplementary](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Registration of adverse possessor
+  - [Sch. 6 para. 1 Right to apply for registration](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Notification of application](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Treatment of application](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Right to make further application for registration](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Restriction on applications](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Effect of registration](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Apportionment and discharge of charges](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Meaning of “adverse possession”](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12 Trusts](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13 Crown foreshore](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14 Rentcharges](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15 Procedure](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16 Extension of time limits because of mediation in certain cross-border disputes](schedule/6/paragraph/16.md)
+- SCHEDULE 7 The land registry
+  - [Sch. 7 para. 1 Holding of office by Chief Land Registrar](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Remuneration etc. of Chief Land Registrar](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Staff](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 Indemnity for members](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 Seal](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Documentary evidence](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7 Parliamentary disqualification](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Indemnities
+  - [Sch. 8 para. 1 Entitlement](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Mines and minerals](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Costs](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5 Claimant’s fraud or lack of care](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6 Valuation of estates etc.](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7 Determination of indemnity by court](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8 Time limits](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9 Interest](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10 Recovery of indemnity by registrar](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11 Interpretation](schedule/8/paragraph/11.md)
+- SCHEDULE 9 The adjudicator
+  - [Sch. 9 para. 1 Holding of office](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 Remuneration](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Staff](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Conduct of business](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 Finances](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8 Application of Tribunals and Inquiries Act 1992](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9 Parliamentary disqualification](schedule/9/paragraph/9.md)
+- SCHEDULE 10 Miscellaneous and general powers
+  - Part 1 Miscellaneous
+    - [Sch. 10 para. 1 Dealings with estates subject to compulsory first registration](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2 Regulation of title matters between sellers and buyers](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3 Implied covenants](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4 Land certificates](schedule/10/paragraph/4.md)
+  - Part 2 General
+    - [Sch. 10 para. 5 Notice](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6 Applications](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7 Statutory statements](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8 Residual power](schedule/10/paragraph/8.md)
+- SCHEDULE 11 Minor and consequential amendments
+  - [Sch. 11 para. 1 Settled Land Act 1925 (c. 18)](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2 Law of Property Act 1925 (c. 20)](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3 Administration of Estates Act 1925 (c. 23)](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4 Requisitioned Land and War Works Act 1945 (c. 43)](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 Law of Property (Joint Tenants) Act 1964 (c. 63)](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 Gas Act 1965 (c. 36)](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7 Commons Registration Act 1965 (c. 64)](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8 Leasehold Reform Act 1967 (c. 88)](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9 Law of Property Act 1969 (c. 59)](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10 Land Charges Act 1972 (c. 61)](schedule/11/paragraph/10.md)
+  - [Sch. 11 para. 11 Consumer Credit Act 1974 (c. 39)](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12 Solicitors Act 1974 (c. 47)](schedule/11/paragraph/12.md)
+  - [Sch. 11 para. 13 Local Land Charges Act 1975 (c. 76)](schedule/11/paragraph/13.md)
+  - [Sch. 11 para. 14 Rent Act 1977 (c. 42)](schedule/11/paragraph/14.md)
+  - [Sch. 11 para. 15 Charging Orders Act 1979 (c. 53)](schedule/11/paragraph/15.md)
+  - [Sch. 11 para. 16 Highways Act 1980 (c. 66)](schedule/11/paragraph/16.md)
+  - [Sch. 11 para. 17 Inheritance Tax Act 1984 (c. 51)](schedule/11/paragraph/17.md)
+  - [Sch. 11 para. 18 Housing Act 1985 (c. 68)](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 19 Building Societies Act 1986 (c. 53)](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 20 Landlord and Tenant Act 1987 (c. 31)](schedule/11/paragraph/20.md)
+  - [Sch. 11 para. 21 Diplomatic and Consular Premises Act 1987 (c. 46)](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22 Criminal Justice Act 1988 (c. 33)](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 23 Housing Act 1988 (c. 50)](schedule/11/paragraph/23.md)
+  - [Sch. 11 para. 24 Local Government and Housing Act 1989 (c. 42)](schedule/11/paragraph/24.md)
+  - [Sch. 11 para. 25 Water Resources Act 1991 (c. 57)](schedule/11/paragraph/25.md)
+  - [Sch. 11 para. 26 Access to Neighbouring Land Act 1992 (c. 23)](schedule/11/paragraph/26.md)
+  - [Sch. 11 para. 27 Further and Higher Education Act 1992 (c. 13)](schedule/11/paragraph/27.md)
+  - [Sch. 11 para. 28 Judicial Pensions and Retirement Act 1993 (c. 8)](schedule/11/paragraph/28.md)
+  - [Sch. 11 para. 29 Charities Act 1993 (c. 10)](schedule/11/paragraph/29.md)
+  - [Sch. 11 para. 30 Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)](schedule/11/paragraph/30.md)
+  - [Sch. 11 para. 31 Law of Property (Miscellaneous Provisions) Act 1994 (c. 36)](schedule/11/paragraph/31.md)
+  - [Sch. 11 para. 32 Drug Trafficking Act 1994 (c. 37)](schedule/11/paragraph/32.md)
+  - [Sch. 11 para. 33 Landlord and Tenant (Covenants) Act 1995 (c. 30)](schedule/11/paragraph/33.md)
+  - [Sch. 11 para. 34 Family Law Act 1996 (c. 27)](schedule/11/paragraph/34.md)
+  - [Sch. 11 para. 35 Housing Act 1996 (c. 52)](schedule/11/paragraph/35.md)
+  - [Sch. 11 para. 36 Education Act 1996 (c. 56)](schedule/11/paragraph/36.md)
+  - [Sch. 11 para. 37 School Standards and Framework Act 1998 (c. 31)](schedule/11/paragraph/37.md)
+  - [Sch. 11 para. 38 Terrorism Act 2000 (c. 11)](schedule/11/paragraph/38.md)
+  - [Sch. 11 para. 39 Finance Act 2000 (c. 17)](schedule/11/paragraph/39.md)
+  - [Sch. 11 para. 40 International Criminal Court Act 2001 (c. 17)](schedule/11/paragraph/40.md)
+- SCHEDULE 12 Transition
+  - [Sch. 12 para. 1 Existing entries in the register](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Existing cautions against first registration](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Pending applications](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Former overriding interests](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - [Sch. 12 para. 14 Cautions against first registration](schedule/12/paragraph/14.md)
+  - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - [Sch. 12 para. 17 Applications under section 34 or 43 by cautioners](schedule/12/paragraph/17.md)
+  - [Sch. 12 para. 18 Adverse possession](schedule/12/paragraph/18.md)
+  - [Sch. 12 para. 19 Indemnities](schedule/12/paragraph/19.md)
+  - [Sch. 12 para. 20 Implied indemnity covenants on transfers of pre-1996 leases](schedule/12/paragraph/20.md)
+- SCHEDULE 13 Repeals
