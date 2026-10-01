@@ -1,0 +1,182 @@
+# Road Traffic Offenders Act 1988
+
+1988 c. 53. Enacted 1988-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 104 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
+
+Source: https://www.legislation.gov.uk/ukpga/1988/53/2026-10-01
+
+## Contents
+
+- Part I Trial
+  - Introductory
+    - [s. 1 Requirement of warning etc. of prosecutions for certain offences.](section/1.md)
+    - [s. 2 Requirement of warning etc: supplementary.](section/2.md)
+    - [s. 3 Restriction on institution of proceedings for certain offences.](section/3.md)
+    - [s. 4 Offences for which local authorities in England and Wales may institute proceedings.](section/4.md)
+    - [s. 5 Exemption from Licensing Act offence.](section/5.md)
+    - [s. 6 Time within which summary proceedings for certain offences must be commenced.](section/6.md)
+    - [s. 7 Duty of accused to provide licence.](section/7.md)
+    - [s. 8 Duty to include date of birth and sex in written plea of guilty.](section/8.md)
+  - Trial
+    - [s. 9 Mode of trial.](section/9.md)
+    - [s. 10 Jurisdiction of district court in Scotland.](section/10.md)
+    - [s. 11 Evidence by certificate as to driver, user or owner.](section/11.md)
+    - [s. 12 Proof, in summary proceedings, of identity of driver of vehicle.](section/12.md)
+    - [s. 13 Admissibility of records as evidence.](section/13.md)
+    - [s. 14 Use of records kept by operators of goods vehicles.](section/14.md)
+    - [s. 15 Use of specimens in proceedings for an offence under any of sections 3A to 5A of the Road Traffic Act.](section/15.md)
+    - [s. 16 Documentary evidence as to specimens in such proceedings.](section/16.md)
+    - [s. 17 Provisions as to proceedings for certain offences in connection with the construction and use of vehicles and equipment.](section/17.md)
+    - [s. 18 Evidence by certificate as to registration of driving instructors and licences to give instruction.](section/18.md)
+    - [s. 19 Evidence of disqualification in Scotland.](section/19.md)
+    - [s. 20 Speeding offences etc: admissibility of certain evidence.](section/20.md)
+    - [s. 21 Proceedings in which evidence of one witness sufficient in Scotland.](section/21.md)
+    - [s. 22 Notification of disability.](section/22.md)
+  - Verdict
+    - [s. 23 Alternative verdicts in Scotland.](section/23.md)
+    - [s. 24 Alternative verdicts: general.](section/24.md)
+  - After conviction
+    - [s. 25 Information as to date of birth and sex.](section/25.md)
+    - [s. 26 Interim disqualification.](section/26.md)
+- Part II Sentence
+  - Introductory
+    - [s. 27 Production of licence.](section/27.md)
+    - [s. 28 Penalty points to be attributed to an offence.](section/28.md)
+    - [s. 29 Penalty points to be taken into account on conviction.](section/29.md)
+    - [s. 30 Penalty points: modification where fixed penalty also in question.](section/30.md)
+    - [s. 31 Court may take particulars endorsed ... into consideration.](section/31.md)
+    - [s. 32 In Scotland, court may take extract from licensing records into account.](section/32.md)
+  - Fine and imprisonment
+    - [s. 33 Fine and imprisonment.](section/33.md)
+    - [s. 33A Forfeiture of vehicles: Scotland.](section/33A.md)
+  - Disqualification
+    - [s. 34 Disqualification for certain offences.](section/34.md)
+    - [s. 34A Reduced disqualification period for attendance on courses.](section/34A.md)
+    - [s. 34B Certificates of completion of courses.](section/34B.md)
+    - [s. 34BA Approval of courses](section/34BA.md)
+    - [s. 34C Provisions supplementary to sections 34A and 34B.](section/34C.md)
+    - [s. 35 Disqualification for repeated offences.](section/35.md)
+    - [s. 35A Extension of disqualification where custodial sentence also imposed](section/35A.md)
+    - [s. 35B Effect of custodial sentence in other cases](section/35B.md)
+    - [s. 35C Extension of disqualification where sentence of imprisonment also imposed: Scotland](section/35C.md)
+    - [s. 35D Effect of sentence of imprisonment in other cases: Scotland](section/35D.md)
+    - [s. 36 Disqualification until test is passed.](section/36.md)
+    - [s. 37 Effect of order of disqualification.](section/37.md)
+    - [s. 37A Surrender of licence to Secretary of State where disqualified](section/37A.md)
+    - [s. 38 Appeal against disqualification.](section/38.md)
+    - [s. 39 Suspension of disqualification pending appeal.](section/39.md)
+    - [s. 40 Power of appellate courts in England and Wales to suspend disqualification.](section/40.md)
+    - [s. 41 Power of appellate courts in Scotland to suspend disqualification.](section/41.md)
+    - [s. 41A Suspension of disqualification pending determination of applications under section 34B.](section/41A.md)
+    - [s. 42 Removal of disqualification.](section/42.md)
+    - [s. 43 Rule for determining end of period of disqualification.](section/43.md)
+  - Endorsement
+    - [s. 44 Orders for endorsement](section/44.md)
+    - [s. 44A Endorsement of driving record in accordance with order](section/44A.md)
+    - [s. 45 Effect of endorsement of counterparts.](section/45.md)
+    - [s. 45A Effect of endorsement of driving records](section/45A.md)
+  - General
+    - [s. 46 Combination of disqualification and endorsement with probation orders and orders for discharge.](section/46.md)
+    - [s. 47 Supplementary provisions as to disqualifications and endorsements.](section/47.md)
+    - [s. 48 Exemption from disqualification and endorsement for certain construction and use offences.](section/48.md)
+    - [s. 49 Offender escaping consequences of endorseable offence by deception.](section/49.md)
+    - [s. 50 Powers of district court in Scotland.](section/50.md)
+- Part III Fixed Penalties
+  - Introductory
+    - [s. 51 Fixed penalty offences.](section/51.md)
+    - [s. 52 Fixed penalty notices.](section/52.md)
+    - [s. 53 Amount of fixed penalty.](section/53.md)
+  - Giving notices to suspected offenders
+    - [s. 54 Notices on-the-spot etc..](section/54.md)
+    - [s. 55 Effect of fixed penalty notice given under section 54.](section/55.md)
+    - [s. 56 Licence receipts.](section/56.md)
+    - [s. 57 Endorsement of counterparts without hearings.](section/57.md)
+    - [s. 57A Endorsement of driving records without hearings](section/57A.md)
+    - [s. 58 Effect of endorsement of counterpart without hearing.](section/58.md)
+    - [s. 58A Effect of endorsement of driving record without hearing](section/58A.md)
+    - [s. 59 Notification of court and date of trial in England and Wales.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Fixed penalty notice mistakenly given to licence holder: exclusion of fixed penalty procedures.](section/61.md)
+    - [s. 61A Fixed penalty notice mistakenly given ...: exclusion of fixed penalty procedures](section/61A.md)
+  - Notices fixed to vehicles
+    - [s. 62 Fixing notices to vehicles.](section/62.md)
+    - [s. 63 Service of notice to owner if penalty not paid.](section/63.md)
+    - [s. 64 Enforcement or proceedings against owner.](section/64.md)
+    - [s. 65 Restrictions on proceedings against owner and others.](section/65.md)
+    - [s. 66 Hired vehicles.](section/66.md)
+    - [s. 67 False statements in response to notices to owner.](section/67.md)
+    - [s. 68 “Owner”, “statutory statement” and “official form”.](section/68.md)
+  - The fixed penalty procedure
+    - [s. 69 Payment of penalty.](section/69.md)
+    - [s. 70 Registration certificates.](section/70.md)
+    - [s. 71 Registration of sums payable in default.](section/71.md)
+    - [s. 72 Notices on-the-spot etc.: when registration and endorsement invalid.](section/72.md)
+    - [s. 73 Notices fixed to vehicles: when registration invalid.](section/73.md)
+    - [s. 74 Provisions supplementary to sections 72 and 73.](section/74.md)
+  - Conditional offer of fixed penalty
+    - [s. 75 Issue of conditional offer.](section/75.md)
+    - [s. 76 Effect of offer and payment of penalty.](section/76.md)
+    - [s. 77 Endorsement of counterparts where penalty paid.](section/77.md)
+    - [s. 77A Endorsement of driving records where penalty paid](section/77A.md)
+  - Proceedings in fixed penalty cases
+    - [s. 78 General restriction on proceedings.](section/78.md)
+    - [s. 79 Statements by constables.](section/79.md)
+    - [s. 80 Certificates about payment etc.](section/80.md)
+    - [s. 81 Documents signed by the accused.](section/81.md)
+  - Miscellaneous
+    - [s. 82 Accounting for fixed penalties: England and Wales.](section/82.md)
+    - [s. 83 Powers of court in cases of deception.](section/83.md)
+    - [s. 84 Regulations.](section/84.md)
+    - [s. 84A Notices to Secretary of State](section/84A.md)
+    - [s. 85 Service of documents.](section/85.md)
+    - [s. 86 Functions of traffic wardens.](section/86.md)
+    - [s. 87 Guidance on application of Part III.](section/87.md)
+    - [s. 88 Procedure for regulations and orders.](section/88.md)
+    - [s. 89 Interpretation.](section/89.md)
+    - [s. 90 Index to Part III.](section/90.md)
+- Part 3A Financial penalty deposits
+  - [s. 90A Power to impose financial penalty deposit requirement](section/90A.md)
+  - [s. 90B Financial penalty deposit requirement](section/90B.md)
+  - [s. 90C Making of payment in compliance with requirement](section/90C.md)
+  - [s. 90D Prohibition on driving on failure to make payment](section/90D.md)
+  - [s. 90E Orders about financial penalty deposits](section/90E.md)
+  - [s. 90F Financial penalty deposits: interpretation](section/90F.md)
+- PART 3B Courses offered as alternative to prosecution
+  - [s. 90G Power to charge fees: England and Wales](section/90G.md)
+  - [s. 90H Power to prevent courses being offered for repeat offences: England and Wales](section/90H.md)
+  - [s. 90I Further provision about regulations under this Part](section/90I.md)
+- Part IV Miscellaneous and General
+  - [s. 91 Penalty for breach of regulations.](section/91.md)
+  - [s. 91ZA Application to Northern Ireland licence holders](section/91ZA.md)
+  - [s. 91ZB Effect of endorsement on Northern Ireland licence holders](section/91ZB.md)
+  - [s. 91A Application to Community licence holders.](section/91A.md)
+  - [s. 91B Effect of endorsement on Community licence holders.](section/91B.md)
+  - [s. 92 Application to Crown.](section/92.md)
+  - [s. 93 Application of sections 15 and 16 to persons subject to service discipline.](section/93.md)
+  - [s. 94 Proceedings in respect of offences in connection with Crown vehicles.](section/94.md)
+  - [s. 95 Destination of Scottish fines.](section/95.md)
+  - [s. 96 Meaning of “offence involving obligatory endorsement”.](section/96.md)
+  - [s. 97 Meaning of “offence involving obligatory disqualification” and “offence involving discretionary disqualification”.](section/97.md)
+  - [s. 97A Meaning of “driving record”](section/97A.md)
+  - [s. 98 General interpretation.](section/98.md)
+  - [s. 99 Short title, commencement and extent.](section/99.md)
+- SCHEDULE 1 Offences to which sections 1, 6, 11 and 12(1) apply
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Prosecution and Punishment of Offences
+  - Part I Offences under the Traffic Acts
+  - Part II Other offences
+- SCHEDULE 3 Fixed Penalty Offences
+- SCHEDULE 4 Statutory Statements
+  - Part I Statutory Statement of Ownership or Hiring
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Part II Statutory Statement of Facts
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Scotland: Additional Offences Open to Conditional Offer
