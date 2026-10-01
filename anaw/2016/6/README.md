@@ -1,0 +1,352 @@
+# Tax Collection and Management (Wales) Act 2016
+
+anaw/2016/6. Enacted 2016-04-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 29 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2016/6
+
+Source: https://www.legislation.gov.uk/anaw/2016/6/2026-10-01
+
+## Contents
+
+- PART 1 OVERVIEW
+  - [s. 1 Overview of Act](section/1.md)
+- PART 2 THE WELSH REVENUE AUTHORITY
+  - Establishment and status of the Welsh Revenue Authority
+    - [s. 2 The Welsh Revenue Authority](section/2.md)
+  - Membership
+    - [s. 3 Membership](section/3.md)
+    - [s. 4 Disqualification for appointment as non-executive member](section/4.md)
+    - [s. 5 Terms of non-executive membership](section/5.md)
+    - [s. 6 Appointment of elected executive member](section/6.md)
+    - [s. 7 Removal of members etc.](section/7.md)
+  - Committees and staff
+    - [s. 8 Committees and sub-committees](section/8.md)
+    - [s. 9 Chief executive and other staff](section/9.md)
+  - Procedure and validity
+    - [s. 10 Procedure](section/10.md)
+    - [s. 11 Validity of proceedings and acts](section/11.md)
+  - Functions
+    - [s. 12 Main functions](section/12.md)
+    - [s. 13 Internal authorisation to carry out functions](section/13.md)
+    - [s. 14 Delegation of functions](section/14.md)
+    - [s. 15 General directions](section/15.md)
+  - Information
+    - [s. 16 Use of information by WRA and delegates](section/16.md)
+    - [s. 17 Confidentiality of protected ... information](section/17.md)
+    - [s. 18 Permitted disclosures](section/18.md)
+    - [s. 19 Declaration of confidentiality](section/19.md)
+    - [s. 20 Offence of wrongful disclosure of protected ... information](section/20.md)
+  - Court proceedings and evidence
+    - [s. 21 Court proceedings](section/21.md)
+    - [s. 22 Evidence](section/22.md)
+  - Money
+    - [s. 23 Funding](section/23.md)
+    - [s. 24 Rewards](section/24.md)
+    - [s. 24A Payments of net proceeds of the visitor levy to principal councils](section/24A.md)
+    - [s. 25 Payments of receipts into Welsh Consolidated Fund](section/25.md)
+  - Charter of standards and values
+    - [s. 26 Charter of standards and values](section/26.md)
+  - Corporate plans, annual reports, accounts etc.
+    - [s. 27 Corporate plan](section/27.md)
+    - [s. 28 Annual report](section/28.md)
+    - [s. 29 Accounts](section/29.md)
+    - [s. 30 Statement of amount of money collected by WRA](section/30.md)
+    - [s. 31 Audit](section/31.md)
+    - [s. 32 Examination into use of resources](section/32.md)
+    - [s. 33 Accounting officer](section/33.md)
+  - Consequential amendments
+    - [s. 34 Welsh public records](section/34.md)
+    - [s. 35 Public Services Ombudsman](section/35.md)
+    - [s. 36 Auditor General for Wales](section/36.md)
+- PART 3 TAX RETURNS, ENQUIRIES AND ASSESSMENTS
+  - CHAPTER 1 OVERVIEW
+    - [s. 37 Overview of Part](section/37.md)
+  - CHAPTER 2 ... DUTIES TO KEEP AND PRESERVE RECORDS
+    - [s. 38 Duty to keep and preserve records: cases where a tax return is required](section/38.md)
+    - [s. 38A Duty to keep and preserve records: land transactions in respect of which no tax return is required.](section/38A.md)
+    - [s. 39 Preservation of information etc.](section/39.md)
+    - [s. 39A Power to make regulations about records](section/39A.md)
+  - CHAPTER 3 TAX RETURNS
+    - Filing date
+      - [s. 40 Meaning of “filing date”](section/40.md)
+    - Amendment and correction of tax returns
+      - [s. 41 Amendment of tax return by taxpayer](section/41.md)
+      - [s. 42 Correction of tax return by WRA](section/42.md)
+  - CHAPTER 4 WRA ENQUIRIES
+    - Notice and scope of enquiry
+      - [s. 43 Notice of enquiry](section/43.md)
+      - [s. 44 Scope of enquiry](section/44.md)
+    - Amendment of tax return during enquiry
+      - [s. 45 Amendment of tax return during enquiry to prevent loss of tax](section/45.md)
+      - [s. 45A Amendment of tax return by taxpayer when enquiry is in progress](section/45A.md)
+    - Referral during enquiry
+      - [s. 46 Referral of questions to tribunal during enquiry](section/46.md)
+      - [s. 47 Withdrawal of referral](section/47.md)
+      - [s. 48 Effect of referral on enquiry](section/48.md)
+      - [s. 49 Effect of determination](section/49.md)
+    - Completion of enquiry
+      - [s. 50 Completion of enquiry](section/50.md)
+      - [s. 51 Direction to complete enquiry](section/51.md)
+  - CHAPTER 5 WRA DETERMINATIONS
+    - [s. 52 Determination of tax chargeable if no tax return made](section/52.md)
+    - [s. 53 Determination superseded by tax return](section/53.md)
+  - CHAPTER 6 WRA ASSESSMENTS
+    - Assessment of loss of tax or of excessive repayment
+      - [s. 54 Assessment where loss of tax](section/54.md)
+      - [s. 55 Assessment to recover excessive repayment of tax](section/55.md)
+      - [s. 55A Assessment in relation to tax credit](section/55A.md)
+      - [s. 56 References to “WRA assessment”](section/56.md)
+    - Making WRA assessments
+      - [s. 57 References to the “taxpayer”](section/57.md)
+      - [s. 58 Conditions for making WRA assessments](section/58.md)
+      - [s. 59 Time limits for WRA assessments](section/59.md)
+      - [s. 60 Situations brought about carelessly or deliberately](section/60.md)
+      - [s. 61 Assessment procedure](section/61.md)
+  - CHAPTER 7 RELIEF IN CASE OF EXCESSIVE ASSESSMENT OR OVERPAID TAX
+    - Double assessment
+      - [s. 62 Claim for relief in case of double assessment](section/62.md)
+    - Overpaid tax etc.
+      - [s. 63 Claim for relief for overpaid tax etc.](section/63.md)
+      - [s. 63A Claim for relief in respect of land transaction tax: regulations ceasing to have effect](section/63A.md)
+    - Unjustified enrichment
+      - [s. 64 Disallowing claims for relief due to unjustified enrichment](section/64.md)
+      - [s. 65 Unjustified enrichment: further provision](section/65.md)
+      - [s. 66 Unjustified enrichment: reimbursement arrangements](section/66.md)
+    - Other grounds for disallowing claims
+      - [s. 67 Cases in which WRA need not give effect to a claim](section/67.md)
+  - CHAPTER 8 PROCEDURE FOR MAKING CLAIMS ETC.
+    - [s. 68 Making claims](section/68.md)
+    - [s. 69 Duty to keep and preserve records](section/69.md)
+    - [s. 70 Preservation of information etc.](section/70.md)
+    - [s. 71 Amendment of claim by claimant](section/71.md)
+    - [s. 72 Correction of claim by WRA](section/72.md)
+    - [s. 73 Giving effect to claims and amendments](section/73.md)
+    - [s. 74 Notice of enquiry](section/74.md)
+    - [s. 75 Completion of enquiry](section/75.md)
+    - [s. 76 Direction to complete enquiry](section/76.md)
+    - [s. 77 Giving effect to amendments under section 75](section/77.md)
+    - [s. 78 Time limit for making claims](section/78.md)
+    - [s. 79 The claimant: partnerships](section/79.md)
+    - [s. 80 Assessment of claimant in connection with claim](section/80.md)
+    - [s. 81 Contract settlements](section/81.md)
+- PART 3A GENERAL ANTI-AVOIDANCE RULE: DEVOLVED TAXES
+  - Overview
+    - [s. 81A Meaning of ““general anti-avoidance rule”” and overview](section/81A.md)
+  - Artificial tax avoidance arrangements
+    - [s. 81B Tax avoidance arrangements](section/81B.md)
+    - [s. 81C Artificial tax avoidance arrangements](section/81C.md)
+    - [s. 81D Meaning of ““tax”” and “tax advantage](section/81D.md)
+  - Counteracting tax advantages
+    - [s. 81E Adjustments to counteract tax advantages](section/81E.md)
+    - [s. 81F Notice of proposed counteraction](section/81F.md)
+    - [s. 81G Final counteraction notice](section/81G.md)
+  - Proceedings before a court or tribunal
+    - [s. 81H Proceedings in connection with the general anti-avoidance rule](section/81H.md)
+  - Commencement and transitional provision
+    - [s. 81I General anti-avoidance rule: commencement and transitional provision](section/81I.md)
+- PART 4 INVESTIGATORY POWERS OF WRA
+  - CHAPTER 1 INTRODUCTORY
+    - Overview
+      - [s. 82 Overview of Part](section/82.md)
+    - Interpretation
+      - [s. 83 Information notices](section/83.md)
+      - [s. 84 Meaning of “tax position”](section/84.md)
+      - [s. 84A Meaning of “prejudice to the assessment or collection of WRA-collected tax”](section/84A.md)
+      - [s. 85 Meaning of “carrying on a business”](section/85.md)
+  - CHAPTER 2 POWERS TO REQUIRE INFORMATION AND DOCUMENTS
+    - [s. 86 Taxpayer notices](section/86.md)
+    - [s. 87 Third party notices](section/87.md)
+    - [s. 88 Tribunal approval of taxpayer notices and third party notices](section/88.md)
+    - [s. 89 Power to require information and documents about persons whose identity is not known](section/89.md)
+    - [s. 90 Requiring information and documents in relation to a group of undertakings](section/90.md)
+    - [s. 91 Requiring information and documents in relation to a partnership](section/91.md)
+    - [s. 92 Power to obtain information to enable a person’s identity to be ascertained](section/92.md)
+    - [s. 93 Power to obtain contact details for debtors](section/93.md)
+    - [s. 94 Time limit for issuing a tribunal approved information notice](section/94.md)
+    - [s. 95 Complying with an information notice](section/95.md)
+    - [s. 96 Producing copies of documents](section/96.md)
+  - CHAPTER 3 RESTRICTIONS ON POWERS IN CHAPTER 2
+    - [s. 97 Information notices: general restrictions](section/97.md)
+    - [s. 98 Protection for journalistic material](section/98.md)
+    - [s. 99 Protection for personal records](section/99.md)
+    - [s. 100 Taxpayer notices following a tax return](section/100.md)
+    - [s. 101 Protection for privileged communications between legal advisers and clients](section/101.md)
+    - [s. 102 Protection for tax advisers and auditors](section/102.md)
+  - CHAPTER 4 INSPECTIONS OF PREMISES AND OTHER PROPERTY
+    - [s. 103 Power to inspect business premises](section/103.md)
+    - [s. 103A Further power to inspect business premises: landfill disposals tax](section/103A.md)
+    - [s. 103B Further power to inspect premises: taxable disposals made at places other than authorised landfill sites](section/103B.md)
+    - [s. 104 Carrying out inspections under section 103, 103A or 103B: further provision](section/104.md)
+    - [s. 105 Carrying out inspections under section 103, 103A or 103B: use of equipment and materials](section/105.md)
+    - [s. 106 Power to inspect premises or property for valuation etc.](section/106.md)
+    - [s. 107 Producing authorisation to carry out inspections](section/107.md)
+    - [s. 108 Approval of tribunal for inspection of premises](section/108.md)
+    - [s. 109 Power to mark assets and to record information](section/109.md)
+    - [s. 110 Restriction on inspection of documents](section/110.md)
+    - [s. 111 Interpretation of Chapter 4](section/111.md)
+  - CHAPTER 5 FURTHER INVESTIGATORY POWERS
+    - [s. 112 Power to copy and remove documents](section/112.md)
+    - [s. 113 Further provision about records](section/113.md)
+  - CHAPTER 6 OFFENCES RELATING TO INFORMATION NOTICES
+    - [s. 114 Offence of concealing etc. documents following information notice](section/114.md)
+    - [s. 115 Offence of concealing etc. documents following notification](section/115.md)
+  - CHAPTER 7 TRIBUNAL APPROVALS
+    - [s. 116 No review or appeal of tribunal approvals](section/116.md)
+- PART 5 PENALTIES
+  - CHAPTER 1 OVERVIEW
+    - [s. 117 Overview of Part](section/117.md)
+    - [s. 117A Interpretation and application of this Part in relation to the visitor levy](section/117A.md)
+  - CHAPTER 2 PENALTIES FOR FAILURE TO MAKE RETURNS OR PAY TAX OR AMOUNTS PAYABLE IN RESPECT OF TAX CREDITS
+    - Penalty for failure to make devolved tax return
+      - [s. 118 Penalty for failure to make devolved tax return on or before filing date](section/118.md)
+      - [s. 118A Penalties for multiple failures to make tax returns in respect of landfill disposals tax](section/118A.md)
+      - [s. 119 Penalty for failure to make tax devolved return within 6 months from filing date](section/119.md)
+      - [s. 120 Penalty for failure to make devolved tax return within 12 months from filing date](section/120.md)
+    - Penalty points and penalties for failures to make visitor levy returns
+      - [s. 120A Penalty point for failure to make visitor levy return on or before filing date](section/120A.md)
+      - [s. 120B Financial penalty where penalty points have been awarded](section/120B.md)
+      - [s. 120C Expiry of penalty points](section/120C.md)
+      - [s. 120D Changing frequency of filing of returns when provider has penalty point](section/120D.md)
+      - [s. 120E Financial penalty for failure to make visitor levy return within 6 months from filing date](section/120E.md)
+      - [s. 120F Financial penalty for failure to make visitor levy return within 12 months from filing date](section/120F.md)
+      - [s. 120G Penalty points and penalties: persons that have ceased to be a VAP](section/120G.md)
+      - [s. 120H Penalty points: partnerships and other unincorporated bodies](section/120H.md)
+    - Reduction in penalty for disclosure of information
+      - [s. 121 Reduction in penalty for failure to make tax return: disclosure](section/121.md)
+    - Penalty for failure to pay tax
+      - [s. 122 Penalty for failure to pay tax on time](section/122.md)
+      - [s. 122ZA Penalty for multiple failures to pay landfill disposals tax on time](section/122ZA.md)
+      - [s. 122A Further penalties for continuing failure to pay devolved tax](section/122A.md)
+      - [s. 122B Further penalties for continuing failure to pay visitor levy](section/122B.md)
+      - [s. 123 Suspension of penalty for failure to pay tax during currency of agreement for deferred payment](section/123.md)
+    - Penalty for failure to pay amount payable in respect of tax credit
+      - [s. 123A Penalty for failure to pay amount payable in respect of tax credit on time](section/123A.md)
+    - Penalties under Chapter 2: general
+      - [s. 124 Interaction of penalties](section/124.md)
+      - [s. 125 Special reduction in penalty under Chapter 2](section/125.md)
+      - [s. 126 Reasonable excuse for failure to make tax return or pay tax or amount payable in respect of tax credit](section/126.md)
+      - [s. 127 Assessment of penalties under Chapter 2](section/127.md)
+      - [s. 128 Time limit for assessment of penalties under Chapter 2](section/128.md)
+  - CHAPTER 3 PENALTIES FOR INACCURACIES
+    - Penalties for inaccuracies in documents
+      - [s. 129 Penalty for inaccuracy in document given to WRA](section/129.md)
+      - [s. 130 Amount of penalty for inaccuracy in document given to WRA](section/130.md)
+      - [s. 131 Suspension of penalty for careless inaccuracy](section/131.md)
+      - [s. 132 Penalty for deliberate inaccuracy in document given to WRA by another person](section/132.md)
+    - Penalty for failure to notify under-assessment etc.
+      - [s. 133 Penalty for failure to notify under-assessment or under-determination](section/133.md)
+    - Potential lost revenue
+      - [s. 134 Meaning of “potential lost revenue”](section/134.md)
+      - [s. 135 Potential lost revenue: normal rule](section/135.md)
+      - [s. 136 Potential lost revenue: multiple errors](section/136.md)
+      - [s. 137 Potential lost revenue: losses](section/137.md)
+      - [s. 138 Potential lost revenue: delayed tax](section/138.md)
+    - Penalties under Chapter 3: general
+      - [s. 139 Reduction in penalty under Chapter 3 for disclosure](section/139.md)
+      - [s. 140 Special reduction in penalty under Chapter 3](section/140.md)
+      - [s. 141 Assessment of penalties under Chapter 3](section/141.md)
+    - Interpretation
+      - [s. 142 Interpretation of Chapter 3](section/142.md)
+  - CHAPTER 4 PENALTIES RELATING TO RECORD-KEEPING AND REIMBURSEMENT ARRANGEMENTS
+    - Penalty for failure to keep and preserve records in connection with tax returns or claims
+      - [s. 143 Penalty for failure to keep and preserve records](section/143.md)
+      - [s. 144 Reasonable excuse for failure to keep and preserve records](section/144.md)
+      - [s. 145 Assessment of penalties under section 143](section/145.md)
+  - CHAPTER 5 PENALTIES RELATING TO INVESTIGATIONS
+    - Penalties for failure to comply or obstruction
+      - [s. 146 Penalty for failure to comply with information notice or obstruction](section/146.md)
+      - [s. 147 Daily default penalty for failure to comply with information notice or obstruction](section/147.md)
+      - [s. 148 Effect of extension of time limit for compliance](section/148.md)
+      - [s. 149 Reasonable excuse for failure to comply or obstruction](section/149.md)
+    - Further penalties for continuing failure to comply or obstruction
+      - [s. 150 Increased daily default penalty for failure to comply with information notice](section/150.md)
+      - [s. 151 Tax-related penalty for failure to comply with information notice or obstruction](section/151.md)
+    - Penalty for inaccurate information or documents
+      - [s. 152 Penalty for inaccurate information or documents](section/152.md)
+    - Penalties under Chapter 5: general
+      - [s. 153 Assessment of penalties under Chapter 5](section/153.md)
+  - CHAPTER 6 PAYMENT OF PENALTIES
+    - [s. 154 Payment of penalties](section/154.md)
+    - [s. 154A Liability of personal representatives](section/154A.md)
+  - CHAPTER 7 SUPPLEMENTARY
+    - [s. 155 Double jeopardy](section/155.md)
+    - [s. 156 Power to make regulations about penalties](section/156.md)
+- PART 6 INTEREST
+  - CHAPTER 1 INTEREST ON AMOUNTS PAYABLE TO WRA
+    - ...
+      - [s. 157 Late payment interest on WRA-collected taxes](section/157.md)
+      - [s. 157A Late payment interest on penalties](section/157A.md)
+      - [s. 157B Late payment interest on amounts payable in respect of tax credit](section/157B.md)
+      - [s. 158 Late payment interest: supplementary](section/158.md)
+    - ...
+      - [s. 159 Late payment interest start date: amendments to assessments etc.](section/159.md)
+      - [s. 160 Late payment interest start date: death of taxpayer](section/160.md)
+  - CHAPTER 2 INTEREST ON AMOUNTS PAYABLE BY WRA
+    - Repayment interest
+      - [s. 161 Repayment interest on amounts payable by WRA](section/161.md)
+      - [s. 162 Repayment interest: supplementary](section/162.md)
+  - CHAPTER 3 RATES OF INTEREST
+    - [s. 163 Rates of late payment interest and repayment interest](section/163.md)
+- PART 7 PAYMENT AND ENFORCEMENT
+  - Payment
+    - [s. 164 Meaning of “relevant amount”](section/164.md)
+    - [s. 165 Relevant amounts payable to WRA](section/165.md)
+    - [s. 166 Receipts for payment](section/166.md)
+    - [s. 167 Fees for payment](section/167.md)
+  - Certification of debt
+    - [s. 168 Certificates of debt](section/168.md)
+  - Recovery
+    - [s. 169 Proceedings in magistrates’ court](section/169.md)
+    - [s. 170 Enforcement by taking control of goods](section/170.md)
+- PART 8 REVIEWS AND APPEALS
+  - CHAPTER 1 INTRODUCTORY
+    - Overview
+      - [s. 171 Overview of Part](section/171.md)
+    - Appealable decisions
+      - [s. 172 Appealable decisions](section/172.md)
+  - CHAPTER 2 REVIEWS
+    - [s. 173 Requesting a review](section/173.md)
+    - [s. 174 Time limit for requesting a review](section/174.md)
+    - [s. 175 Late request for review](section/175.md)
+    - [s. 176 Carrying out a review](section/176.md)
+    - [s. 177 Effect of conclusions of review](section/177.md)
+  - CHAPTER 3 APPEALS
+    - [s. 178 Making an appeal](section/178.md)
+    - [s. 179 Time limit for making an appeal](section/179.md)
+    - [s. 180 Making a late appeal](section/180.md)
+    - [s. 181 Determining an appeal](section/181.md)
+  - CHAPTER 3A PAYMENT AND RECOVERY OF WRA-collected TAX ETC SUBJECT TO REVIEW OR APPEAL
+    - [s. 181A Review or appeal not to affect requirement to pay](section/181A.md)
+    - [s. 181B Postponement requests](section/181B.md)
+    - [s. 181C Time limit for making a postponement request](section/181C.md)
+    - [s. 181D Late postponement request](section/181D.md)
+    - [s. 181E Application for tribunal review of decision on a postponement request](section/181E.md)
+    - [s. 181F Variation after postponement request granted](section/181F.md)
+    - [s. 181G Effect of postponement](section/181G.md)
+    - [s. 181H Postponement requests relating to further appeals](section/181H.md)
+    - [s. 181I No further appeal or review of tribunal decisions relating to postponement requests](section/181I.md)
+    - [s. 181J Application of this Chapter to amounts payable in respect of tax credit](section/181J.md)
+  - CHAPTER 4 MISCELLANEOUS AND SUPPLEMENTARY
+    - Consequences of reviews and appeals
+      - [s. 182 Payment of penalties in the event of a review or appeal](section/182.md)
+      - [s. 183 Disposal of reviews and appeals in respect of information notices and notices under section 12 of the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025](section/183.md)
+      - [s. 183A Suspension of repayment pending further appeal](section/183A.md)
+    - Settlement agreements
+      - [s. 184 Settling disputes by agreement](section/184.md)
+- PART 9 INVESTIGATION OF CRIMINAL OFFENCES
+  - [s. 185 Powers to investigate criminal offences](section/185.md)
+  - [s. 186 Proceeds of crime](section/186.md)
+  - [s. 187 Regulation of investigatory powers](section/187.md)
+- PART 10 FINAL PROVISIONS
+  - [s. 187A Crown application for the purposes of Land Transaction Tax](section/187A.md)
+  - [s. 187B Crown application for the purposes of the visitor levy and the register of visitor accommodation](section/187B.md)
+  - [s. 188 Power to make consequential etc. provision](section/188.md)
+  - [s. 189 Regulations](section/189.md)
+  - [s. 190 Issue of notices by WRA](section/190.md)
+  - [s. 191 Giving notices and other documents to WRA](section/191.md)
+  - [s. 192 Interpretation](section/192.md)
+  - [s. 193 Index of defined expressions](section/193.md)
+  - [s. 194 Coming into force](section/194.md)
+  - [s. 195 Short title](section/195.md)
