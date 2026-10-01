@@ -1,0 +1,1421 @@
+# National Health Service Act 2006
+
+2006 c. 41. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 246 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
+
+Source: https://www.legislation.gov.uk/ukpga/2006/41/2026-10-01
+
+## Contents
+
+- Part 1 Promotion and provision of the health service in England
+  - The Secretary of State and the health service in England
+    - [s. 1 Secretary of State’s duty to promote comprehensive health service](section/1.md)
+    - [s. 1A Duty as to improvement in quality of services](section/1A.md)
+    - [s. 1B Duty as to the NHS Constitution](section/1B.md)
+    - [s. 1C Duty as to reducing inequalities](section/1C.md)
+    - [s. 1D Duty as to promoting autonomy](section/1D.md)
+    - [s. 1E Duty as to research](section/1E.md)
+    - [s. 1F Duty as to education and training](section/1F.md)
+    - [s. 1G Secretary of State’s duty as to reporting on and reviewing treatment of providers](section/1G.md)
+    - [s. 1GA Secretary of State’s duty to report on workforce systems](section/1GA.md)
+  - Role of NHS England in the health service in England
+    - [s. 1H NHS England and its general functions](section/1H.md)
+  - Role of integrated care boards in the health service in England
+    - [s. 1I General functions of integrated care boards](section/1I.md)
+  - General power
+    - [s. 2 General power](section/2.md)
+  - Provision for protection or improvement of public health
+    - [s. 2A Secretary of State’s duty as to protection of public health](section/2A.md)
+    - [s. 2B Functions of local authorities and Secretary of State as to improvement of public health](section/2B.md)
+  - Arrangements for the provision of certain health services
+    - [s. 3 Duties of integrated care boards as to commissioning certain health services](section/3.md)
+    - [s. 3A Power of integrated care boards to commission certain health services](section/3A.md)
+    - [s. 3B Secretary of State’s power to require NHS England to commission services](section/3B.md)
+    - [s. 4 High security psychiatric services](section/4.md)
+    - [s. 5 Other services](section/5.md)
+  - Provision of services otherwise than in England
+    - [s. 6 Performance of functions outside England](section/6.md)
+    - [s. 6A Reimbursement of cost of services provided in another EEA state](section/6A.md)
+    - [s. 6B Prior authorisation for the purposes of section 6A](section/6B.md)
+    - [s. 6BA Reimbursement of cost of services provided in another EEA state where expenditure incurred on or after 25 October 2013.](section/6BA.md)
+    - [s. 6BB Prior authorisation for the purposes of section 6BA](section/6BB.md)
+  - Regulations as to the exercise of functions
+    - [s. 6C Regulations as to the exercise by local authorities of certain public health functions](section/6C.md)
+    - [s. 6D Regulations relating to EU obligations](section/6D.md)
+    - [s. 6E Regulations as to the exercise of functions by NHS England or integrated care boards](section/6E.md)
+    - [s. 6F Enforcement of section 6E regulations relating to patient choice](section/6F.md)
+    - [s. 6G Guidance relating to patient choice](section/6G.md)
+  - Functions of Special Health Authorities
+    - [s. 7 Functions of Special Health Authorities](section/7.md)
+  - Exercise of Secretary of State’s public health functions
+    - [s. 7A Exercise of Secretary of State’s public health functions](section/7A.md)
+    - [s. 7B Directions requiring NHS bodies to exercise public health functions](section/7B.md)
+    - [s. 7C Power of direction: investigation functions](section/7C.md)
+    - [s. 7D Transfer schemes in connection with a direction under section 7C](section/7D.md)
+    - [s. 7E Transfer schemes under section 7D: taxation](section/7E.md)
+  - Directions to certain NHS bodies
+    - [s. 8 Secretary of State’s directions to certain health service bodies](section/8.md)
+  - NHS contracts
+    - [s. 9 NHS contracts](section/9.md)
+    - [s. 10 Provision for bodies in Northern Ireland](section/10.md)
+    - [s. 10A Provision for bodies in Scotland](section/10A.md)
+    - [s. 11 Arrangements to be treated as NHS contracts](section/11.md)
+  - Arrangements with other bodies
+    - [s. 12 Secretary of State’s arrangements with other bodies](section/12.md)
+    - [s. 12ZA Commissioning arrangements by NHS England or integrated care boards](section/12ZA.md)
+  - Procurement
+    - [s. 12ZB Procurement regulations](section/12ZB.md)
+    - [s. 12ZC Eradicating slavery and human trafficking in supply chains](section/12ZC.md)
+  - Direct payments for health care
+    - [s. 12A Direct payments for health care](section/12A.md)
+    - [s. 12B Regulations about direct payments](section/12B.md)
+    - [s. 12C Direct payments pilot schemes](section/12C.md)
+    - [s. 12D Arrangements with other bodies relating to direct payments](section/12D.md)
+  - Miscellaneous
+    - [s. 12E Secretary of State’s duty as respects variation in provision of health services](section/12E.md)
+    - [s. 12F Expected mental health spending](section/12F.md)
+- Part 2 Health service bodies
+  - CHAPTER A1 NHS England
+    - Secretary of State’s mandate to NHS England
+      - [s. 13A Mandate to NHS England](section/13A.md)
+      - [s. 13B Review of NHS England’s performance in implementing the mandate](section/13B.md)
+    - General duties of NHS England
+      - [s. 13C Duty to promote NHS Constitution](section/13C.md)
+      - [s. 13D Duty as to effectiveness, efficiency etc.](section/13D.md)
+      - [s. 13E Duty as to improvement in quality of services](section/13E.md)
+      - [s. 13F Duty as to promoting autonomy](section/13F.md)
+      - [s. 13G Duty as to reducing inequalities](section/13G.md)
+      - [s. 13H Duty to promote involvement of each patient](section/13H.md)
+      - [s. 13I Duty as to patient choice](section/13I.md)
+      - [s. 13J Duty to obtain appropriate advice](section/13J.md)
+      - [s. 13K Duty to promote innovation](section/13K.md)
+      - [s. 13L Duty in respect of research](section/13L.md)
+      - [s. 13M Duty as to promoting education and training](section/13M.md)
+      - [s. 13N Duty as to promoting integration](section/13N.md)
+      - [s. 13NA Duty to have regard to wider effect of decisions](section/13NA.md)
+      - [s. 13NB Guidance about discharge of duty](section/13NB.md)
+      - [s. 13NC Duties as to climate change etc](section/13NC.md)
+      - [s. 13ND Guidance about discharge of duty under section 13NC etc](section/13ND.md)
+      - [s. 13O Duty to have regard to impact on services in certain areas](section/13O.md)
+      - [s. 13P Duty as respects variation in provision of health services](section/13P.md)
+      - [s. 13PA Duty to cooperate for education and training functions and specified functions](section/13PA.md)
+    - Public involvement
+      - [s. 13Q Public involvement and consultation by NHS England](section/13Q.md)
+    - Functions in relation to information
+      - [s. 13R Information on safety of services provided by the health service](section/13R.md)
+      - [s. 13S Guidance in relation to processing of information](section/13S.md)
+      - [s. 13SA Information about inequalities](section/13SA.md)
+    - Regulatory functions
+      - [s. 13SB Minimising conflicts between regulatory and other functions](section/13SB.md)
+      - [s. 13SC Provision of regulatory information or assistance to the CMA](section/13SC.md)
+    - Business plan and report
+      - [s. 13T Business plan](section/13T.md)
+      - [s. 13U Annual report](section/13U.md)
+    - Joint appointments
+      - [s. 13UA Guidance about joint appointments](section/13UA.md)
+    - Additional powers
+      - [s. 13V Establishment of pooled funds](section/13V.md)
+      - [s. 13W NHS England’s power to generate income, etc.](section/13W.md)
+      - [s. 13X Power to make grants etc.](section/13X.md)
+      - [s. 13Y NHS England’s incidental powers: further provision](section/13Y.md)
+    - Assistance and support
+      - [s. 13YA Power of NHS England to provide assistance and support](section/13YA.md)
+    - Discharge of functions
+      - [s. 13YB Directions in respect of functions relating to provision of services](section/13YB.md)
+    - ...
+      - [s. 13Z Exercise of functions](section/13Z.md)
+      - [s. 13ZA Section 13Z: further provision in relation to devolved arrangements](section/13ZA.md)
+      - [s. 13ZB Section 13Z: arrangements in relation to the function under section 3B(1)(d)](section/13ZB.md)
+    - Powers of direction
+      - [s. 13ZC Secretary of State directions as to exercise of NHS England functions](section/13ZC.md)
+      - [s. 13ZD Power to give directions: exceptions](section/13ZD.md)
+      - [s. 13ZE Compliance with directions: significant failure](section/13ZE.md)
+      - [s. 13ZF Secretary of State directions to provide information](section/13ZF.md)
+    - Power to confer additional functions
+      - [s. 13Z1 Power to confer additional functions on NHS England](section/13Z1.md)
+    - ...
+      - [s. 13Z2 Failure by the Board to discharge any of its functions](section/13Z2.md)
+    - Disclosure of information
+      - [s. 13Z3 Permitted disclosures of information](section/13Z3.md)
+    - Interpretation
+      - [s. 13Z4 Interpretation](section/13Z4.md)
+  - CHAPTER A2 Clinical commissioning groups
+    - Establishment of clinical commissioning groups
+      - [s. 14A General duties of Board in relation to clinical commissioning groups](section/14A.md)
+      - [s. 14B Applications for the establishment of clinical commissioning groups](section/14B.md)
+      - [s. 14C Determination of applications](section/14C.md)
+      - [s. 14D Effect of grant of application](section/14D.md)
+    - Variation of constitution
+      - [s. 14E Applications for variation of constitution](section/14E.md)
+      - [s. 14F Variation of constitution otherwise than on application](section/14F.md)
+    - Mergers, dissolution etc.
+      - [s. 14G Mergers](section/14G.md)
+      - [s. 14H Dissolution](section/14H.md)
+    - Supplemental provision about applications, variation, mergers etc.
+      - [s. 14I Transfers in connection with variation, merger, dissolution etc.](section/14I.md)
+      - [s. 14J Publication of constitution of clinical commissioning groups](section/14J.md)
+      - [s. 14K Guidance about the establishment of clinical commissioning groups etc.](section/14K.md)
+    - Governing bodies of clinical commissioning groups
+      - [s. 14L Governing bodies of clinical commissioning groups](section/14L.md)
+      - [s. 14M Audit and remuneration committees of governing bodies](section/14M.md)
+      - [s. 14N Regulations as to governing bodies of clinical commissioning groups](section/14N.md)
+    - Conflicts of interest
+      - [s. 14O Registers of interests and management of conflicts of interest](section/14O.md)
+    - General duties of clinical commissioning groups
+      - [s. 14P Duty to promote NHS Constitution](section/14P.md)
+      - [s. 14Q Duty as to effectiveness, efficiency etc.](section/14Q.md)
+      - [s. 14R Duty as to improvement in quality of services](section/14R.md)
+      - [s. 14S Duty in relation to quality of primary medical services](section/14S.md)
+      - [s. 14T Duties as to reducing inequalities](section/14T.md)
+      - [s. 14U Duty to promote involvement of each patient](section/14U.md)
+      - [s. 14V Duty as to patient choice](section/14V.md)
+      - [s. 14W Duty to obtain appropriate advice](section/14W.md)
+      - [s. 14X Duty to promote innovation](section/14X.md)
+      - [s. 14Y Duty in respect of research](section/14Y.md)
+      - [s. 14Z Duty as to promoting education and training](section/14Z.md)
+      - [s. 14Z1 Duty as to promoting integration](section/14Z1.md)
+    - Public involvement
+      - [s. 14Z2 Public involvement and consultation by clinical commissioning groups](section/14Z2.md)
+    - Arrangements with others
+      - [s. 14Z3 Arrangements by clinical commissioning groups in respect of the exercise of functions](section/14Z3.md)
+      - [s. 14Z3A Joint exercise of functions with combined authorities](section/14Z3A.md)
+      - [s. 14Z4 Joint exercise of functions with Local Health Boards](section/14Z4.md)
+    - Additional powers of clinical commissioning groups
+      - [s. 14Z5 Raising additional income](section/14Z5.md)
+      - [s. 14Z6 Power to make grants](section/14Z6.md)
+    - Board’s functions in relation to clinical commissioning groups
+      - [s. 14Z7 Responsibility for payments to providers](section/14Z7.md)
+      - [s. 14Z8 Guidance on commissioning by the Board](section/14Z8.md)
+      - [s. 14Z9 Exercise of functions by, or jointly with, the Board](section/14Z9.md)
+      - [s. 14Z10 Power of Board to provide assistance or support](section/14Z10.md)
+    - Commissioning plans and reports
+      - [s. 14Z11 Commissioning plan](section/14Z11.md)
+      - [s. 14Z12 Revision of commissioning plans](section/14Z12.md)
+      - [s. 14Z13 Consultation about commissioning plans](section/14Z13.md)
+      - [s. 14Z14 Opinion of Health and Wellbeing Boards on commissioning plans](section/14Z14.md)
+      - [s. 14Z15 Reports by clinical commissioning groups](section/14Z15.md)
+    - Performance assessment of clinical commissioning groups
+      - [s. 14Z16 Performance assessment of clinical commissioning groups](section/14Z16.md)
+    - Powers to require information etc.
+      - [s. 14Z17 Circumstances in which powers in sections 14Z18 and 14Z19 apply](section/14Z17.md)
+      - [s. 14Z18 Power to require documents and information etc.](section/14Z18.md)
+      - [s. 14Z19 Power to require explanation](section/14Z19.md)
+      - [s. 14Z20 Use of information](section/14Z20.md)
+    - Intervention powers
+      - [s. 14Z21 Power to give directions, dissolve clinical commissioning groups etc.](section/14Z21.md)
+    - Procedural requirements in connection with certain powers
+      - [s. 14Z22 Procedural requirements in connection with certain powers](section/14Z22.md)
+    - Disclosure of information
+      - [s. 14Z23 Permitted disclosures of information](section/14Z23.md)
+    - Interpretation
+      - [s. 14Z24 Interpretation](section/14Z24.md)
+  - CHAPTER A3 Integrated care boards
+    - Establishment of integrated care boards (including by re-purposing clinical commissioning groups)
+      - [s. 14Z25 Duty to establish integrated care boards](section/14Z25.md)
+      - [s. 14Z26 Process for establishing initial integrated care boards](section/14Z26.md)
+      - [s. 14Z27 Abolition of clinical commissioning groups](section/14Z27.md)
+      - [s. 14Z28 Transfer schemes in connection with integrated care boards](section/14Z28.md)
+    - Constitution: publication
+      - [s. 14Z29 Duty for integrated care board to publish constitution](section/14Z29.md)
+    - Conflicts of interest
+      - [s. 14Z30 Register of interests and management of conflicts of interests](section/14Z30.md)
+    - People for whom integrated care board has responsibility
+      - [s. 14Z31 People for whom integrated care board has responsibility](section/14Z31.md)
+    - General duties of integrated care boards
+      - [s. 14Z32 Duty to promote NHS Constitution](section/14Z32.md)
+      - [s. 14Z33 Duty as to effectiveness, efficiency etc](section/14Z33.md)
+      - [s. 14Z34 Duty as to improvement in quality of services](section/14Z34.md)
+      - [s. 14Z35 Duties as to reducing inequalities](section/14Z35.md)
+      - [s. 14Z36 Duty to promote involvement of each patient](section/14Z36.md)
+      - [s. 14Z37 Duty as to patient choice](section/14Z37.md)
+      - [s. 14Z38 Duty to obtain appropriate advice](section/14Z38.md)
+      - [s. 14Z39 Duty to promote innovation](section/14Z39.md)
+      - [s. 14Z40 Duty in respect of research](section/14Z40.md)
+      - [s. 14Z41 Duty to promote education and training](section/14Z41.md)
+      - [s. 14Z42 Duty to promote integration](section/14Z42.md)
+      - [s. 14Z43 Duty to have regard to wider effect of decisions](section/14Z43.md)
+      - [s. 14Z44 Duties as to climate change etc](section/14Z44.md)
+    - Involvement of the public
+      - [s. 14Z45 Public involvement and consultation by integrated care boards](section/14Z45.md)
+    - Joint exercise of functions with Local Health Boards
+      - [s. 14Z46 Joint exercise of functions with Local Health Boards](section/14Z46.md)
+    - Additional powers of integrated care boards
+      - [s. 14Z47 Raising additional income](section/14Z47.md)
+      - [s. 14Z48 Power to make grants](section/14Z48.md)
+    - Experience of members
+      - [s. 14Z49 Duty to keep experience of members under review etc](section/14Z49.md)
+    - NHS England’s functions in relation to integrated care boards
+      - [s. 14Z50 Responsibility for payments to providers](section/14Z50.md)
+      - [s. 14Z51 Guidance by NHS England](section/14Z51.md)
+    - Forward planning and reports
+      - [s. 14Z52 Joint forward plans for integrated care board and its partners](section/14Z52.md)
+      - [s. 14Z53 Revision of forward plans](section/14Z53.md)
+      - [s. 14Z54 Consultation about forward plans](section/14Z54.md)
+      - [s. 14Z55 Opinion of Health and Wellbeing Boards on forward plan](section/14Z55.md)
+      - [s. 14Z56 Joint capital resource use plan for integrated care board and its partners](section/14Z56.md)
+      - [s. 14Z57 Revision of joint capital resource use plans](section/14Z57.md)
+      - [s. 14Z58 Annual report](section/14Z58.md)
+    - Performance assessment of integrated care boards
+      - [s. 14Z59 Performance assessment of integrated care boards](section/14Z59.md)
+    - Power of NHS England to obtain information
+      - [s. 14Z60 Power of NHS England to obtain information](section/14Z60.md)
+    - Intervention powers
+      - [s. 14Z61 Power to give directions to integrated care boards](section/14Z61.md)
+      - [s. 14Z62 Section 14Z61 directions: consultation and cooperation](section/14Z62.md)
+    - Disclosure of information
+      - [s. 14Z63 Permitted disclosures of information](section/14Z63.md)
+    - Interpretation
+      - [s. 14Z64 Interpretation](section/14Z64.md)
+  - Chapter 1 Strategic Health Authorities
+    - [s. 13 Strategic Health Authorities](section/13.md)
+    - [s. 14 Exercise of Strategic Health Authority functions](section/14.md)
+    - [s. 15 Strategic Health Authorities’ directions](section/15.md)
+    - [s. 16 Section 92 arrangements and section 107 arrangements and LPS schemes](section/16.md)
+    - [s. 17 Advice for Strategic Health Authorities](section/17.md)
+    - [s. 17A Reports on consultation](section/17A.md)
+  - Chapter 2 Primary Care Trusts
+    - [s. 18 Primary Care Trusts](section/18.md)
+    - [s. 19 Exercise of Primary Care Trust functions](section/19.md)
+    - [s. 20 Strategic Health Authority directions to Primary Care Trusts](section/20.md)
+    - [s. 21 Provision of services etc](section/21.md)
+    - [s. 22 Administration and management of services](section/22.md)
+    - [s. 23 Advice for Primary Care Trusts](section/23.md)
+    - [s. 23A Arrangements for improving quality of health care](section/23A.md)
+    - [s. 24 Plans for improving health etc](section/24.md)
+    - [s. 24A Report on consultation](section/24A.md)
+  - Chapter 3 NHS trusts
+    - [s. 25 NHS trusts](section/25.md)
+    - [s. 26 General duty of NHS trusts](section/26.md)
+    - [s. 26A Duty to have regard to wider effect of decisions](section/26A.md)
+    - [s. 26B Duties in relation to climate change etc](section/26B.md)
+    - [s. 27 Financial provisions relating to NHS trusts](section/27.md)
+    - [s. 27A Oversight and support of NHS trusts](section/27A.md)
+    - [s. 27B NHS England’s directions to NHS trusts](section/27B.md)
+    - [s. 27C Recommendations about restructuring](section/27C.md)
+    - [s. 27D Intervention in NHS trusts: recommendations etc by NHS England](section/27D.md)
+  - Chapter 4 Special Health Authorities
+    - [s. 28 Special Health Authorities](section/28.md)
+    - [s. 28A Special Health Authorities: further provision](section/28A.md)
+    - [s. 29 Exercise of Special Health Authority functions](section/29.md)
+    - [s. 29A Special Health Authorities: accounts and audit](section/29A.md)
+  - Chapter 5 NHS foundation trusts
+    - Introductory
+      - [s. 30 NHS foundation trusts](section/30.md)
+      - [s. 31 Independent Regulator of NHS Foundation Trusts](section/31.md)
+      - [s. 32 General duty of regulator](section/32.md)
+    - Authorisation
+      - [s. 33 Applications by NHS trusts](section/33.md)
+      - [s. 34 Other applications](section/34.md)
+      - [s. 35 Authorisation of NHS foundation trusts](section/35.md)
+      - [s. 36 Effect of authorisation](section/36.md)
+      - [s. 37 Amendments of constitution](section/37.md)
+      - [s. 38 Variation of authorisation](section/38.md)
+      - [s. 39 Register of NHS foundation trusts](section/39.md)
+      - [s. 39A Panel for advising governors](section/39A.md)
+    - Financial matters
+      - [s. 40 Power of Secretary of State to give financial assistance](section/40.md)
+      - [s. 41 Prudential borrowing code](section/41.md)
+      - [s. 42 Public dividend capital](section/42.md)
+      - [s. 42A Criteria for making loans etc.](section/42A.md)
+      - [s. 42B Limits on capital expenditure](section/42B.md)
+      - [s. 42C Guidance in relation to orders under section 42B](section/42C.md)
+    - Functions
+      - [s. 43 Provision of goods and services](section/43.md)
+      - [s. 44 Power to charge for accommodation etc.](section/44.md)
+      - [s. 45 Protection of property](section/45.md)
+      - [s. 46 Financial powers](section/46.md)
+      - [s. 47 General powers](section/47.md)
+      - [s. 47A Joint exercise of functions](section/47A.md)
+      - [s. 48 Information](section/48.md)
+      - [s. 49 Entry and inspection of premises](section/49.md)
+      - [s. 50 Fees](section/50.md)
+      - [s. 51 Trust funds and trustees](section/51.md)
+      - [s. 51A Significant transactions](section/51A.md)
+    - Failure
+      - [s. 52 Failing NHS foundation trusts](section/52.md)
+      - [s. 52A Application of sections 52B to 52E](section/52A.md)
+      - [s. 52B De-authorisation: regulator’s notice](section/52B.md)
+      - [s. 52C Grounds for de-authorisation notice](section/52C.md)
+      - [s. 52D De-authorisation](section/52D.md)
+      - [s. 52E Secretary of State’s request](section/52E.md)
+      - [s. 53 Voluntary arrangements](section/53.md)
+      - [s. 54 Dissolution etc](section/54.md)
+      - [s. 55 Sections 53 and 54: supplementary](section/55.md)
+    - Mergers, acquisitions and separations
+      - [s. 56 Mergers](section/56.md)
+      - [s. 56A Acquisitions](section/56A.md)
+      - [s. 56AA Acquisitions under section 56A: supplementary](section/56AA.md)
+      - [s. 56B Separations](section/56B.md)
+      - [s. 57 Sections 56 to 56B: supplementary](section/57.md)
+      - [s. 57A Dissolution](section/57A.md)
+    - Miscellaneous
+      - [s. 58 Taxation](section/58.md)
+      - [s. 59 Conduct of elections](section/59.md)
+      - [s. 60 Voting and standing for election](section/60.md)
+      - [s. 61 Representative membership](section/61.md)
+      - [s. 62 Audit](section/62.md)
+      - [s. 63 General duty of NHS foundation trusts](section/63.md)
+      - [s. 63A Duty to have regard to wider effect of decisions](section/63A.md)
+      - [s. 63B Duties in relation to climate change etc](section/63B.md)
+    - Supplementary
+      - [s. 64 Orders and regulations under this Chapter](section/64.md)
+      - [s. 65 Interpretation of this Chapter](section/65.md)
+  - Chapter 5A Trust special administrators: NHS trusts and NHS foundation trusts
+    - Application
+      - [s. 65A Application](section/65A.md)
+    - Appointment
+      - [s. 65B NHS trusts: appointment of trust special administrator](section/65B.md)
+      - [s. 65BA Care Quality Commission report on safety and quality of services](section/65BA.md)
+      - [s. 65C Suspension of directors](section/65C.md)
+    - ...
+      - [s. 65D NHS foundation trusts: appointment of trust special administrator](section/65D.md)
+      - [s. 65DA Objective of trust special administration](section/65DA.md)
+      - [s. 65E NHS foundation trusts: de-authorisation and appointment of trust special administrator](section/65E.md)
+    - Consultation and report
+      - [s. 65F Draft report](section/65F.md)
+      - [s. 65G Consultation plan](section/65G.md)
+      - [s. 65H Consultation requirements](section/65H.md)
+      - [s. 65I Final report](section/65I.md)
+      - [s. 65J Power to extend time](section/65J.md)
+    - Action by the Secretary of State and NHS England
+      - [s. 65K Decision of NHS England or Secretary of State in case of NHS trust](section/65K.md)
+      - [s. 65KA NHS England’s decision in case of NHS foundation trust](section/65KA.md)
+      - [s. 65KB Secretary of State’s response to NHS England’s decision](section/65KB.md)
+      - [s. 65KC Action following Secretary of State’s rejection of final report](section/65KC.md)
+      - [s. 65KD Secretary of State’s response to re-submitted final report](section/65KD.md)
+      - [s. 65L Trusts coming out of administration](section/65L.md)
+      - [s. 65LA Trusts to be dissolved](section/65LA.md)
+    - Supplementary
+      - [s. 65M Replacement of trust special administrator](section/65M.md)
+      - [s. 65N Guidance](section/65N.md)
+      - [s. 65O Interpretation of this Chapter](section/65O.md)
+  - Chapter 5B Trust special administrators: Primary Care Trusts
+    - Appointment
+      - [s. 65P Appointment of trust special administrator](section/65P.md)
+      - [s. 65Q Displacement of functions](section/65Q.md)
+  - Chapter 6 Miscellaneous
+    - Consolidated accounts
+      - [s. 65Z4 Consolidated accounts for NHS trusts and NHS foundation trusts](section/65Z4.md)
+    - Joint working arrangements and delegation
+      - [s. 65Z5 Joint working and delegation arrangements](section/65Z5.md)
+      - [s. 65Z6 Joint committees and pooled funds](section/65Z6.md)
+      - [s. 65Z7 Joint working and delegation: guidance by NHS England](section/65Z7.md)
+    - Intervention orders and default powers
+      - [s. 66 Intervention orders](section/66.md)
+      - [s. 67 Effect of intervention orders](section/67.md)
+      - [s. 68 Default powers](section/68.md)
+    - Reconfiguration of NHS services
+      - [s. 68A Reconfiguration of NHS services](section/68A.md)
+    - Protection of members and officers of health service bodies
+      - [s. 69 Protection from personal liability](section/69.md)
+    - Transfer schemes
+      - [s. 69A Transfer schemes: NHS trusts and NHS foundation trusts](section/69A.md)
+    - Transfer of residual liabilities
+      - [s. 70 Transfer of residual liabilities of certain health service bodies](section/70.md)
+    - Losses and liabilities of certain health service bodies
+      - [s. 71 Schemes for meeting losses and liabilities etc of certain health service bodies](section/71.md)
+    - Co-operation between NHS bodies
+      - [s. 72 Co-operation between NHS bodies](section/72.md)
+    - NHS trusts and foundation trusts: exemption from merger legislation
+      - [s. 72A Exemption from Part 3 of the Enterprise Act 2002](section/72A.md)
+    - Directions and regulations under this Part
+      - [s. 73 Directions and regulations under this Part](section/73.md)
+- Part 3 Local authorities and the NHS
+  - [s. 73A Appointment of directors of public health](section/73A.md)
+  - [s. 73B Exercise of public health functions of local authorities: further provision](section/73B.md)
+  - [s. 73C Complaints about exercise of public health functions by local authorities](section/73C.md)
+  - [s. 74 Supply of goods and services by local authorities](section/74.md)
+  - [s. 75 Arrangements between NHS bodies and local authorities](section/75.md)
+  - [s. 76 Power of local authorities to make payments](section/76.md)
+  - [s. 77 Care Trusts](section/77.md)
+  - [s. 78 Directed partnership arrangements](section/78.md)
+  - [s. 79 Further provision about directions and directed partnership arrangements](section/79.md)
+  - [s. 80 Supply of goods and services by the Secretary of State, NHS England and integrated care boards](section/80.md)
+  - [s. 81 Conditions of supply under section 80](section/81.md)
+  - [s. 82 Co-operation between NHS bodies and local authorities](section/82.md)
+- Part 4 Medical services
+  - Duty of NHS England in relation to primary medical services
+    - [s. 83 Primary medical services](section/83.md)
+  - General medical services contracts
+    - [s. 84 General medical services contracts: introductory](section/84.md)
+    - [s. 85 Requirement to provide certain primary medical services](section/85.md)
+    - [s. 86 Persons eligible to enter into GMS contracts](section/86.md)
+    - [s. 87 GMS contracts: payments](section/87.md)
+    - [s. 88 GMS contracts: prescription of drugs, etc](section/88.md)
+    - [s. 89 GMS contracts: other required terms](section/89.md)
+    - [s. 90 GMS contracts: disputes and enforcement](section/90.md)
+  - Performance of primary medical services
+    - [s. 91 Persons performing primary medical services](section/91.md)
+  - Other arrangements for the provision of primary medical services
+    - [s. 92 Arrangements by the Board for the provision of primary medical services](section/92.md)
+    - [s. 93 Persons with whom agreements may be made under section 92](section/93.md)
+    - [s. 94 Regulations about section 92 arrangements](section/94.md)
+    - [s. 95 Transfer of liabilities relating to section 92 arrangements](section/95.md)
+  - Assistance and support
+    - [s. 96 Assistance and support: primary medical services](section/96.md)
+  - Local Medical Committees
+    - [s. 97 Local Medical Committees](section/97.md)
+  - Provision of accommodation by the Secretary of State
+    - [s. 98 Use of accommodation: provision of primary medical services](section/98.md)
+  - Directions
+    - [s. 98A Exercise of functions](section/98A.md)
+- Part 5 Dental services
+  - Duty of NHS England in relation to primary dental services
+    - [s. 99 Primary dental services](section/99.md)
+  - General dental services contracts
+    - [s. 100 General dental services contracts: introductory](section/100.md)
+    - [s. 101 Requirement to provide certain primary dental services](section/101.md)
+    - [s. 102 Persons eligible to enter into GDS contracts](section/102.md)
+    - [s. 103 GDS contracts: payments](section/103.md)
+    - [s. 104 GDS contracts: other required terms](section/104.md)
+    - [s. 105 GDS contracts: disputes and enforcement](section/105.md)
+  - Performance of primary dental services
+    - [s. 106 Persons performing primary dental services](section/106.md)
+  - Other arrangements for the provision of primary dental services
+    - [s. 107 Arrangements by the Board for the provision of primary dental services](section/107.md)
+    - [s. 108 Persons with whom agreements may be made under section 107](section/108.md)
+    - [s. 109 Regulations about section 107 arrangements](section/109.md)
+    - [s. 110 Transfer of liabilities relating to section 107 arrangements](section/110.md)
+  - Dental public health
+    - [s. 111 Dental public health](section/111.md)
+  - Assistance and support
+    - [s. 112 Assistance and support: primary dental services](section/112.md)
+  - Local Dental Committees
+    - [s. 113 Local Dental Committees](section/113.md)
+  - Provision of accommodation by the Secretary of State
+    - [s. 114 Use of accommodation: provision of primary dental services](section/114.md)
+  - Directions
+    - [s. 114A Exercise of functions](section/114A.md)
+- Part 6 Ophthalmic services
+  - Duty of the Board in relation to primary ophthalmic services
+    - [s. 115 Primary ophthalmic services](section/115.md)
+    - [s. 116 Regulations under section 115: supplementary](section/116.md)
+  - General ophthalmic services contracts
+    - [s. 117 General ophthalmic services contracts: introductory](section/117.md)
+    - [s. 118 Persons eligible to enter into GOS contracts](section/118.md)
+    - [s. 119 Exclusion of contractors](section/119.md)
+    - [s. 120 GOS contracts: payments](section/120.md)
+    - [s. 121 GOS contracts: other required terms](section/121.md)
+    - [s. 122 GOS contracts: disputes and enforcement](section/122.md)
+  - Performance of primary ophthalmic services
+    - [s. 123 Persons performing primary ophthalmic services](section/123.md)
+  - Assistance and support
+    - [s. 124 Assistance and support: primary ophthalmic services](section/124.md)
+  - Local Optical Committees
+    - [s. 125 Local Optical Committees](section/125.md)
+  - Directions
+    - [s. 125A Exercise of functions](section/125A.md)
+- Part 7 Pharmaceutical services and local pharmaceutical services
+  - Chapter 1 Provision of pharmaceutical services
+    - [s. 126 Arrangements for pharmaceutical services](section/126.md)
+    - [s. 127 Arrangements for additional pharmaceutical services](section/127.md)
+    - [s. 128 Terms and conditions, etc](section/128.md)
+    - [s. 128A Pharmaceutical needs assessments](section/128A.md)
+    - [s. 129 Regulations as to pharmaceutical services](section/129.md)
+    - [s. 130 Regulations under section 129: appeals, etc](section/130.md)
+    - [s. 131 Power to charge](section/131.md)
+    - [s. 132 Persons authorised to provide pharmaceutical services](section/132.md)
+    - [s. 133 Inadequate provision of pharmaceutical services](section/133.md)
+  - Chapter 2 Local pharmaceutical services: pilot schemes
+    - [s. 134 Pilot schemes](section/134.md)
+    - [s. 135 Making pilot schemes](section/135.md)
+    - [s. 136 Designation of priority neighbourhoods or premises](section/136.md)
+    - [s. 137 Reviews of pilot schemes](section/137.md)
+    - [s. 138 Variation and termination of pilot schemes](section/138.md)
+    - [s. 139 NHS contracts and the provision of piloted services](section/139.md)
+    - [s. 140 Funding of preparatory work](section/140.md)
+    - [s. 141 Application of this Act](section/141.md)
+    - [s. 142 Premises from which piloted services may be provided](section/142.md)
+    - [s. 143 Control of entry regulations](section/143.md)
+  - Chapter 3 Local pharmaceutical services: LPS schemes
+    - [s. 144 Local pharmaceutical services schemes](section/144.md)
+  - Chapter 4 Local pharmaceutical services: miscellaneous
+    - Application of enactments
+      - [s. 145 Application of enactments](section/145.md)
+    - Performance of local pharmaceutical services
+      - [s. 146 Persons performing local pharmaceutical services](section/146.md)
+    - Assistance and support
+      - [s. 147 Assistance and support: local pharmaceutical services](section/147.md)
+  - CHAPTER 4A Lists of performers of pharmaceutical services and assistants
+    - [s. 147A Performers of pharmaceutical services and assistants](section/147A.md)
+    - [s. 147B Further provision about regulations under section 147A](section/147B.md)
+  - Chapter 5 Conditional inclusion in pharmaceutical lists
+    - [s. 148 Conditional inclusion in pharmaceutical lists](section/148.md)
+    - [s. 149 Supplementary lists](section/149.md)
+    - [s. 150 Further provision about regulations under section 149](section/150.md)
+  - Chapter 5A Notices and penalties
+    - [s. 150A Notices and penalties](section/150A.md)
+  - Chapter 6 Disqualification
+    - [s. 151 Disqualification of practitioners](section/151.md)
+    - [s. 152 Contingent removal](section/152.md)
+    - [s. 153 Fraud and unsuitability cases: supplementary](section/153.md)
+    - [s. 154 Suspension](section/154.md)
+    - [s. 155 Suspension pending appeal](section/155.md)
+    - [s. 156 Effect of suspension](section/156.md)
+    - [s. 157 Review of decisions](section/157.md)
+    - [s. 158 Appeals](section/158.md)
+    - [s. 159 National disqualification](section/159.md)
+    - [s. 160 Notification of decisions](section/160.md)
+    - [s. 161 Withdrawal from lists](section/161.md)
+    - [s. 162 Regulations about decisions under this Chapter](section/162.md)
+    - [s. 163 Corresponding provisions in Scotland and Northern Ireland](section/163.md)
+  - Chapter 7 Miscellaneous
+    - Remuneration
+      - [s. 164 Remuneration for persons providing pharmaceutical services](section/164.md)
+      - [s. 165 Section 164: supplementary](section/165.md)
+      - [s. 165A Pharmaceutical remuneration: further provision](section/165A.md)
+    - Indemnity cover
+      - [s. 166 Indemnity cover](section/166.md)
+    - Local Pharmaceutical Committees
+      - [s. 167 Local Pharmaceutical Committees](section/167.md)
+    - Provision of accommodation by the Secretary of State
+      - [s. 168 Use of accommodation: provision of pharmaceutical services and local pharmaceutical services](section/168.md)
+    - Directions
+      - [s. 168A Exercise of functions](section/168A.md)
+- Part 8 Appeals to First-Tier Tribunal
+  - [s. 169 Appeals to the First-tier Tribunal](section/169.md)
+  - [s. 170 FHSAA: financial provisions](section/170.md)
+  - [s. 171 Conditions of use of services of persons under section 169](section/171.md)
+- Part 9 Charging
+  - Power to charge generally
+    - [s. 172 Charges for drugs, medicines or appliances, or pharmaceutical services](section/172.md)
+    - [s. 173 Exemptions from general charging](section/173.md)
+    - [s. 174 Pre-payment certificates](section/174.md)
+    - [s. 175 Charges in respect of non-residents](section/175.md)
+  - Charging for dental services
+    - [s. 176 Dental charging](section/176.md)
+    - [s. 177 Exemptions from dental charging](section/177.md)
+  - Charging for local pharmaceutical services
+    - [s. 178 Charges, recovery of payments and penalties](section/178.md)
+  - Charging for optical appliances
+    - [s. 179 Charges for optical appliances](section/179.md)
+    - [s. 180 Payments in respect of costs of optical appliances and sight tests](section/180.md)
+    - [s. 181 Section 180: supplementary](section/181.md)
+  - Exemptions, etc
+    - [s. 182 Remission and repayment of charges](section/182.md)
+    - [s. 183 Payment of travelling expenses](section/183.md)
+    - [s. 184 Sections 182 and 183: supplementary](section/184.md)
+  - Other provisions relating to charging
+    - [s. 185 Charges for more expensive supplies](section/185.md)
+    - [s. 186 Charges for repairs and replacements in certain cases](section/186.md)
+    - [s. 186A Charges in respect of public health functions](section/186A.md)
+    - [s. 187 Charges for designated services or facilities](section/187.md)
+    - [s. 188 Sums otherwise payable to those providing services](section/188.md)
+    - [s. 189 Hospital accommodation on part payment](section/189.md)
+    - [s. 190 Expenses payable by employed patients](section/190.md)
+  - Recovery, etc
+    - [s. 191 Recovery of charges](section/191.md)
+    - [s. 192 Recovery of charges and payments in relation to goods and services](section/192.md)
+    - [s. 193 Penalties relating to charges](section/193.md)
+    - [s. 194 Offences relating to charges](section/194.md)
+- Part 10 Protection of NHS from fraud and other unlawful activities
+  - Preliminary
+    - [s. 195 Compulsory disclosure of documents](section/195.md)
+    - [s. 196 Persons and bodies about which provision is made by this Part](section/196.md)
+  - Disclosure notices
+    - [s. 197 Notice requiring production of documents](section/197.md)
+    - [s. 198 Production of documents](section/198.md)
+    - [s. 199 Delegation of functions](section/199.md)
+    - [s. 200 Code of practice relating to delegated functions](section/200.md)
+    - [s. 201 Disclosure of information](section/201.md)
+    - [s. 202 Protection of personal information disclosed for purposes of proceedings](section/202.md)
+    - [s. 203 Manner in which disclosure notice may be served](section/203.md)
+  - Offences under this Part
+    - [s. 204 Offences in connection with production of documents](section/204.md)
+    - [s. 205 Offences relating to disclosure or use of information](section/205.md)
+    - [s. 206 Offences by bodies corporate etc](section/206.md)
+    - [s. 207 Offences committed by partnerships and other unincorporated associations](section/207.md)
+    - [s. 208 Penalties for offences under this Part: transitional modification](section/208.md)
+  - Supplementary
+    - [s. 209 Orders and regulations under this Part](section/209.md)
+    - [s. 210 Interpretation of this Part](section/210.md)
+- Part 11 Property and finance
+  - Chapter 1 Land and other property
+    - [s. 211 Acquisition, use and maintenance of property](section/211.md)
+  - Chapter 2 Trusts
+    - [s. 212 Special trustees for a university hospital or teaching hospital](section/212.md)
+    - [s. 213 Transfers of trust property](section/213.md)
+    - [s. 214 Transfer of functions and property to or from Welsh special trustees](section/214.md)
+    - [s. 215 Trustees and property under section 222](section/215.md)
+    - [s. 216 Application of trust property: further provisions](section/216.md)
+    - [s. 217 Trusts: supplementary provisions](section/217.md)
+    - [s. 218 Private trusts for hospitals](section/218.md)
+  - Chapter 3 Property transferred under the National Health Service Act 1946
+    - [s. 219 Transferred property free of trusts](section/219.md)
+    - [s. 220 Trust property previously held for general hospital purposes](section/220.md)
+    - [s. 221 Voluntary hospitals](section/221.md)
+  - Chapter 4 Raising money
+    - [s. 222 Power to raise money](section/222.md)
+  - Chapter 5 Formation of companies
+    - [s. 223 Public-private partnerships](section/223.md)
+    - [s. 223A Application of section 223 to integrated care boards](section/223A.md)
+  - Chapter 6 Finance
+    - NHS England
+      - [s. 223B Funding of NHS England](section/223B.md)
+      - [s. 223C Financial duties of NHS England: expenditure](section/223C.md)
+      - [s. 223CA NHS England: banking facilities](section/223CA.md)
+      - [s. 223D Financial duties of NHS England: controls on total resource use](section/223D.md)
+      - [s. 223E Financial duties of NHS England: additional controls on resource use](section/223E.md)
+      - [s. 223F Power to establish contingency fund](section/223F.md)
+    - Integrated care boards
+      - [s. 223G Means of meeting expenditure of integrated care boards out of public funds](section/223G.md)
+      - [s. 223GA Expenditure on integration](section/223GA.md)
+      - [s. 223GB Power to impose financial requirements on integrated care boards](section/223GB.md)
+      - [s. 223GC Financial duties of integrated care boards: expenditure limits](section/223GC.md)
+      - [s. 223GD Integrated care boards: banking facilities](section/223GD.md)
+      - [s. 223H Financial duties of clinical commissioning groups: expenditure](section/223H.md)
+      - [s. 223I Financial duties of clinical commissioning groups: use of resources](section/223I.md)
+      - [s. 223J Financial duties of clinical commissioning groups: additional controls on resource use](section/223J.md)
+      - [s. 223K Payments in respect of quality](section/223K.md)
+    - Joint duties of an integrated care board and its partner NHS trusts and NHS foundation trusts
+      - [s. 223L Joint financial objectives for integrated care boards etc](section/223L.md)
+      - [s. 223M Financial duties of integrated care boards etc: use of resources](section/223M.md)
+      - [s. 223N Financial duties of integrated care boards etc: additional controls on resource use](section/223N.md)
+    - Directions about resources etc to be taken into account
+      - [s. 223O Resources etc relevant to section 223D, 223E or 223M](section/223O.md)
+    - Strategic Health Authorities and Special Health Authorities
+      - [s. 224 Means of meeting expenditure of Strategic Health Authorities out of public funds](section/224.md)
+      - [s. 225 Means of meeting expenditure of Special Health Authorities out of public funds](section/225.md)
+      - [s. 226 Financial duties of ... Special Health Authorities](section/226.md)
+      - [s. 227 Resource limits for ... Special Health Authorities](section/227.md)
+    - Primary Care Trusts
+      - [s. 228 Public funding of Primary Care Trusts](section/228.md)
+      - [s. 229 Financial duties of Primary Care Trusts](section/229.md)
+      - [s. 230 Resource limits for Primary Care Trusts](section/230.md)
+      - [s. 231 Further provision about the expenditure of Primary Care Trusts](section/231.md)
+    - ...
+      - [s. 232 Accounts and audit](section/232.md)
+    - Allowances and remuneration
+      - [s. 233 Allowances for members of certain bodies](section/233.md)
+      - [s. 234 Special arrangement as to payment of remuneration](section/234.md)
+      - [s. 235 Superannuation of officers of certain hospitals](section/235.md)
+      - [s. 236 Payments for certain medical examinations](section/236.md)
+- Part 12 Public involvement and scrutiny
+  - Chapter 1 Patients’ Forums
+    - [s. 237 Establishment of Patients’ Forums](section/237.md)
+    - [s. 238 Additional functions of PCT Patients’ Forums](section/238.md)
+    - [s. 239 Entry and inspection of premises](section/239.md)
+    - [s. 240 Annual reports](section/240.md)
+    - [s. 241 Further provision about Patients’ Forums](section/241.md)
+  - Chapter 2 Public involvement and consultation
+    - [s. 242 Public involvement and consultation](section/242.md)
+    - [s. 242A Strategic Health Authorities: further duty to involve users](section/242A.md)
+    - [s. 242B Directions in cases where Strategic Health Authority arranges involvement](section/242B.md)
+    - [s. 243 The Commission for Patient and Public Involvement in Health](section/243.md)
+  - Chapter 3 Review and scrutiny by local authorities
+    - [s. 244 Review and scrutiny by local authorities](section/244.md)
+    - [s. 245 Joint overview and scrutiny committees etc](section/245.md)
+    - [s. 246 Business relating to functions of local authorities by virtue of section 244: exempt information](section/246.md)
+    - [s. 247 Application to the City of London](section/247.md)
+    - [s. 247A Application to certain other local authorities without overview and scrutiny committees](section/247A.md)
+- Part 13 Miscellaneous
+  - Co-operation in relation to public health functions
+    - [s. 247B Co-operation in relation to public health functions](section/247B.md)
+  - Duty to keep under review
+    - [s. 247C Secretary of State’s duty to keep health service functions under review](section/247C.md)
+  - Annual report
+    - [s. 247D Secretary of State’s annual report](section/247D.md)
+  - Independent advocacy services
+    - [s. 248 Independent advocacy services](section/248.md)
+  - Joint working with the prison service
+    - [s. 249 Joint working with the prison service](section/249.md)
+  - Standing advisory committees
+    - [s. 250 Secretary of State’s standing advisory committees](section/250.md)
+  - The National Information Governance Board for Health and Social Care
+    - [s. 250A National Information Governance Board: functions](section/250A.md)
+    - [s. 250B National Information Governance Board: Wales](section/250B.md)
+    - [s. 250C National Information Governance Board: further provisions.](section/250C.md)
+    - [s. 250D National Information Governance Board: annual reports](section/250D.md)
+  - Patient information
+    - [s. 251 Control of patient information](section/251.md)
+    - [s. 252 Consultation with the Care Quality Commission](section/252.md)
+  - Emergencies: role of the Secretary of State, NHS England and integrated care boards
+    - [s. 252A Role of NHS England and integrated care boards in respect of emergencies](section/252A.md)
+    - [s. 253 Emergency powers](section/253.md)
+  - Local social services authorities
+    - [s. 254 Local social service authorities](section/254.md)
+  - Support functions of the Secretary of State
+    - [s. 254A](section/254A.md)
+  - Supplies by the Secretary of State
+    - [s. 255 Supplies not readily obtainable](section/255.md)
+  - Community services
+    - [s. 256 Power of NHS England or an integrated care board to make payments towards expenditure on community services](section/256.md)
+    - [s. 257 Payments in respect of voluntary organisations under section 256](section/257.md)
+  - Universities
+    - [s. 258 University clinical teaching and research](section/258.md)
+  - Sale of medical practices
+    - [s. 259 Sale of medical practices](section/259.md)
+  - Price of medical supplies
+    - [s. 260 Control of maximum price of medical supplies other than health service medicines](section/260.md)
+    - [s. 261 Powers relating to voluntary schemes](section/261.md)
+    - [s. 262 Power to control prices](section/262.md)
+    - [s. 263 Statutory schemes](section/263.md)
+    - [s. 264 Statutory schemes: supplementary](section/264.md)
+    - [s. 264A Provision of information about health service products](section/264A.md)
+    - [s. 264B Disclosure of information](section/264B.md)
+    - [s. 264C Sections 264A and 264B: supplementary](section/264C.md)
+    - [s. 265 Enforcement](section/265.md)
+    - [s. 266 Controls: supplementary](section/266.md)
+  - Use of facilities in private practice
+    - [s. 267 Permission for use of facilities in private practice](section/267.md)
+  - ...
+    - [s. 268 Persons displaced by health service development](section/268.md)
+  - Registration of information, etc
+    - [s. 269 Special notices of births and deaths](section/269.md)
+    - [s. 270 Provision of information by Registrar General](section/270.md)
+- Part 14 Supplementary
+  - [s. 271 Territorial limit of exercise of functions](section/271.md)
+  - [s. 271A Services to be treated as services of the Crown for certain purposes](section/271A.md)
+  - [s. 272 Orders, regulations, rules and directions](section/272.md)
+  - [s. 273 Further provision about orders and directions under this Act](section/273.md)
+  - [s. 274 Supplementary regulatory powers](section/274.md)
+  - [s. 275 Interpretation](section/275.md)
+  - [s. 275A References to functions: delegation etc](section/275A.md)
+  - [s. 276 Index of defined expressions](section/276.md)
+  - [s. 277 Commencement](section/277.md)
+  - [s. 278 Short title, extent and application](section/278.md)
+- SCHEDULE A1 NHS England
+  - [Sch. A1 para. 1 Status](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2 Membership](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3 The chief executive and other executive members: appointment and status](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4 Non-executive members: tenure](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5 Suspension of non-executive members](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6 Suspension of non-executive members](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7 Payment of non-executive members](schedule/A1/paragraph/7.md)
+  - [Sch. A1 para. 8 Staff](schedule/A1/paragraph/8.md)
+  - [Sch. A1 para. 9 Staff](schedule/A1/paragraph/9.md)
+  - [Sch. A1 para. 9A Staff](schedule/A1/paragraph/9A.md)
+  - [Sch. A1 para. 10 Committees](schedule/A1/paragraph/10.md)
+  - [Sch. A1 para. 11 Trust funds and trustees](schedule/A1/paragraph/11.md)
+  - [Sch. A1 para. 12 Procedure](schedule/A1/paragraph/12.md)
+  - [Sch. A1 para. 13 Exercise of functions](schedule/A1/paragraph/13.md)
+  - [Sch. A1 para. 14 ...](schedule/A1/paragraph/14.md)
+  - [Sch. A1 para. 15 Accounts](schedule/A1/paragraph/15.md)
+  - [Sch. A1 para. 16 Annual accounts](schedule/A1/paragraph/16.md)
+  - [Sch. A1 para. 17 Interim Accounts](schedule/A1/paragraph/17.md)
+  - [Sch. A1 para. 18 Seal and evidence](schedule/A1/paragraph/18.md)
+- SCHEDULE 1 Further provision about the Secretary of State and services under this Act
+  - Medical inspection of pupils
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Weighing and measuring of children
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+    - [Sch. 1 para. 7B](schedule/1/paragraph/7B.md)
+  - Supply of blood and other human tissues
+    - [Sch. 1 para. 7C](schedule/1/paragraph/7C.md)
+  - Contraceptive services
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Provision of vehicles for disabled persons
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Provision of a microbiological service by the Secretary of State
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Powers in relation to research etc.
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 1ZA Patient choice: undertakings by integrated care boards
+  - [Sch. 1ZA para. 1 Introductory](schedule/1ZA/paragraph/1.md)
+  - [Sch. 1ZA para. 2 Procedure](schedule/1ZA/paragraph/2.md)
+  - [Sch. 1ZA para. 3 Procedure](schedule/1ZA/paragraph/3.md)
+  - [Sch. 1ZA para. 4 Variation of terms](schedule/1ZA/paragraph/4.md)
+  - [Sch. 1ZA para. 5 Compliance certificates](schedule/1ZA/paragraph/5.md)
+  - [Sch. 1ZA para. 6 Compliance certificates](schedule/1ZA/paragraph/6.md)
+  - [Sch. 1ZA para. 7 Inaccurate, incomplete or misleading information](schedule/1ZA/paragraph/7.md)
+- SCHEDULE 1A Clinical commissioning groups
+  - PART 1 Constitution of clinical commissioning groups
+    - General
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Governing bodies of clinical commissioning groups
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Supplemental
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - PART 2 Further provision about clinical commissioning groups
+    - Status
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - Staff
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - Accountable officer
+      - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - Remuneration etc for members of governing bodies
+      - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - Additional powers in respect of payment of allowances
+      - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+    - ...
+      - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - Externally financed development agreements
+      - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+    - Accounts and audits
+      - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+    - Provision of financial information to Board
+      - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+    - Provision of information required by the Secretary of State
+      - [Sch. 1A para. 19](schedule/1A/paragraph/19.md)
+    - Incidental powers
+      - [Sch. 1A para. 20](schedule/1A/paragraph/20.md)
+    - Seal and evidence
+      - [Sch. 1A para. 21](schedule/1A/paragraph/21.md)
+  - PART 3 Transfer schemes
+    - [Sch. 1A para. 22](schedule/1A/paragraph/22.md)
+    - [Sch. 1A para. 23](schedule/1A/paragraph/23.md)
+    - [Sch. 1A para. 24](schedule/1A/paragraph/24.md)
+    - [Sch. 1A para. 25](schedule/1A/paragraph/25.md)
+    - [Sch. 1A para. 26](schedule/1A/paragraph/26.md)
+- SCHEDULE 1B Integrated care boards
+  - PART 1 Constitution of integrated care boards
+    - [Sch. 1B para. 1 Introduction](schedule/1B/paragraph/1.md)
+    - [Sch. 1B para. 2 Name and area](schedule/1B/paragraph/2.md)
+    - [Sch. 1B para. 3 Membership: general](schedule/1B/paragraph/3.md)
+    - [Sch. 1B para. 4 Membership: general](schedule/1B/paragraph/4.md)
+    - [Sch. 1B para. 5 Chair](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6 Chair](schedule/1B/paragraph/6.md)
+    - [Sch. 1B para. 7 Chief executive](schedule/1B/paragraph/7.md)
+    - [Sch. 1B para. 8 Ordinary members](schedule/1B/paragraph/8.md)
+    - [Sch. 1B para. 9 Further provision in connection with membership](schedule/1B/paragraph/9.md)
+    - [Sch. 1B para. 10 Further provision in connection with membership](schedule/1B/paragraph/10.md)
+    - [Sch. 1B para. 11 Arrangements for discharging functions](schedule/1B/paragraph/11.md)
+    - [Sch. 1B para. 12 Arrangements for discharging functions](schedule/1B/paragraph/12.md)
+    - [Sch. 1B para. 13 Arrangements for conflicts of interests](schedule/1B/paragraph/13.md)
+    - [Sch. 1B para. 14 Arrangements for public involvement](schedule/1B/paragraph/14.md)
+    - [Sch. 1B para. 15 Variation of constitution](schedule/1B/paragraph/15.md)
+    - [Sch. 1B para. 16 Further provision](schedule/1B/paragraph/16.md)
+  - PART 2 Further provision about integrated care boards
+    - [Sch. 1B para. 17 Status](schedule/1B/paragraph/17.md)
+    - [Sch. 1B para. 18 Staff](schedule/1B/paragraph/18.md)
+    - [Sch. 1B para. 19 Staff](schedule/1B/paragraph/19.md)
+    - [Sch. 1B para. 20 Additional powers in respect of payment of allowances](schedule/1B/paragraph/20.md)
+    - [Sch. 1B para. 21 Externally financed development agreements](schedule/1B/paragraph/21.md)
+    - [Sch. 1B para. 22 Accounts and audits](schedule/1B/paragraph/22.md)
+    - [Sch. 1B para. 23 Incidental powers](schedule/1B/paragraph/23.md)
+    - [Sch. 1B para. 24 Seal and evidence](schedule/1B/paragraph/24.md)
+- SCHEDULE 2 Strategic Health Authorities
+  - Corporate status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Pay and allowances
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Membership of Strategic Health Authorities
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Staff
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Miscellaneous
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Primary Care Trusts
+  - Part 1 Constitution and membership
+    - Status
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Membership
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Staff
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Remuneration, pensions etc of members
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Trust funds and trustees
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Part 2 PCT orders
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part 3 Powers and duties
+    - General
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Rights and liabilities
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Powers of Primary Care Trusts to enter into externally financed development agreements
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Research
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Training
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Specific duties
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Compulsory acquisition
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Dissolution
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Part 4 Transfer of property
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Part 5 Transfer of staff
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 NHS trusts established under section 25
+  - Part 1 Constitution, establishment, etc
+    - Status
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Board of directors
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Regulations
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Provision to be made by first NHS trust order
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Temporary availability of staff etc.
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Establishment of NHS trust prior to operational date
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Transfer of staff to NHS trusts
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Transfer of property and liabilities to NHS trusts
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - ...
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Pay and allowances
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Accounts and audit
+      - [Sch. 4 para. 11A](schedule/4/paragraph/11A.md)
+    - Reports and other information
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Part 2 Powers and duties
+    - General
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - NHS contracts
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Research
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Training
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Joint exercise of functions
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Payment for accommodation or services
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Additional income
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Provision of accommodation and services outside England and Wales
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Conferral of further powers by order
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Powers of NHS trusts to enter into externally financed development agreements
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Agreements under section 92 or 107
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Staff
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Pensions, etc.
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Compulsory acquisition
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Part 3 Dissolution
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Part 4 Miscellaneous
+    - Use and development of consecrated land and burial grounds
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - Instruments etc.
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - Interpretation
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+- SCHEDULE 5 Financial provision about NHS trusts established under section 25
+  - Originating capital of NHS trusts
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Financial obligations of NHS trusts
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Borrowing
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Guarantees of borrowing
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Limits on indebtedness
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Additional public dividend capital
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Supplementary payments
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Surplus funds
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Investment
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Special Health Authorities established under section 28
+  - Corporate status
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Pay and allowances
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Staff
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Miscellaneous
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Constitution of public benefit corporations
+  - Requirement for a constitution
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Eligibility for membership
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Constituencies
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Becoming a member
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Council of Governors
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 10A](schedule/7/paragraph/10A.md)
+    - [Sch. 7 para. 10B](schedule/7/paragraph/10B.md)
+    - [Sch. 7 para. 10C](schedule/7/paragraph/10C.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Directors
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 18A](schedule/7/paragraph/18A.md)
+    - [Sch. 7 para. 18B](schedule/7/paragraph/18B.md)
+    - [Sch. 7 para. 18C](schedule/7/paragraph/18C.md)
+    - [Sch. 7 para. 18D](schedule/7/paragraph/18D.md)
+    - [Sch. 7 para. 18E](schedule/7/paragraph/18E.md)
+  - Initial directors of former NHS trusts
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Register of members etc
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Auditor
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Accounts
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Annual reports and forward plans
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Annual meeting of members
+    - [Sch. 7 para. 27A](schedule/7/paragraph/27A.md)
+  - Meeting of council of governors to consider annual accounts and reports
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - Combined meetings of members and governors
+    - [Sch. 7 para. 28A](schedule/7/paragraph/28A.md)
+  - Instruments etc
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Power to make provision about voting
+    - [Sch. 7 para. 29n1](schedule/7/paragraph/29n1.md)
+- SCHEDULE 8 Independent Regulator of NHS foundation Trusts
+  - Membership
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Tenure of office
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 2A](schedule/8/paragraph/2A.md)
+  - Remuneration and pensions
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Staff
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Superannuation
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Procedure
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Delegation of functions
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - General powers
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Specific powers
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Finance
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Reports and other information
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Seal and evidence
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - General
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+- SCHEDULE 8A De-authorised NHS foundation trusts
+  - Introductory
+    - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+  - Replacement of constitution
+    - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+    - [Sch. 8A para. 3](schedule/8A/paragraph/3.md)
+  - Board of directors
+    - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+  - Name and functions
+    - [Sch. 8A para. 5](schedule/8A/paragraph/5.md)
+  - Trustees
+    - [Sch. 8A para. 6](schedule/8A/paragraph/6.md)
+  - Public dividend capital
+    - [Sch. 8A para. 7](schedule/8A/paragraph/7.md)
+  - Accounts
+    - [Sch. 8A para. 8](schedule/8A/paragraph/8.md)
+  - Contracts
+    - [Sch. 8A para. 9](schedule/8A/paragraph/9.md)
+  - Other property
+    - [Sch. 8A para. 10](schedule/8A/paragraph/10.md)
+  - Membership of bodies corporate
+    - [Sch. 8A para. 11](schedule/8A/paragraph/11.md)
+  - Directions
+    - [Sch. 8A para. 12](schedule/8A/paragraph/12.md)
+- SCHEDULE 9 NHS foundation trusts: transfer of staff
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Audit of accounts of NHS foundation trusts
+  - General duty
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Right to documents and information
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Reports
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Referral to NHS England
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Audit of accounts of directors or officers
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Restriction on disclosure of information
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+- SCHEDULE 10A Intervention powers in relation to the reconfiguration of NHS services
+  - [Sch. 10A para. 1 Definitions](schedule/10A/paragraph/1.md)
+  - [Sch. 10A para. 2 Duty to notify Secretary of State of reconfiguration proposals](schedule/10A/paragraph/2.md)
+  - [Sch. 10A para. 3 Power to call-in proposal for reconfiguration](schedule/10A/paragraph/3.md)
+  - [Sch. 10A para. 4 Power to call-in proposal for reconfiguration](schedule/10A/paragraph/4.md)
+  - [Sch. 10A para. 5 Power to require consideration of proposals for reconfiguration](schedule/10A/paragraph/5.md)
+  - [Sch. 10A para. 6 Duties to provide information and other assistance](schedule/10A/paragraph/6.md)
+  - [Sch. 10A para. 7 Guidance](schedule/10A/paragraph/7.md)
+- SCHEDULE 11 Pilot schemes
+  - How pilot schemes may be initiated
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Preliminary steps to be taken
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Approval
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Preliminary approval
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Effect of proposals on existing services
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Guidance
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Making a scheme
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12 LPS schemes
+  - Provision of local pharmaceutical services
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Designation of priority neighbourhoods or premises
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Regulations
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+- SCHEDULE 12A Pharmaceutical remuneration
+  - Interpretation
+    - [Sch. 12A para. 1](schedule/12A/paragraph/1.md)
+  - Pharmaceutical remuneration to be apportioned among integrated care boards
+    - [Sch. 12A para. 2](schedule/12A/paragraph/2.md)
+  - Other pharmaceutical remuneration
+    - [Sch. 12A para. 3](schedule/12A/paragraph/3.md)
+  - Exercise of functions
+    - [Sch. 12A para. 4](schedule/12A/paragraph/4.md)
+- SCHEDULE 13 The Family Health Services Appeal Authority
+  - ...
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+- SCHEDULE 14 Further provision about the expenditure of Primary Care Trusts
+  - Pharmaceutical services expenditure
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Main expenditure
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 3A](schedule/14/paragraph/3A.md)
+  - Interpretation
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+- SCHEDULE 15 Accounts and audit
+  - NHS bodies
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Accounts to be kept by NHS bodies
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Preparation of annual accounts
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Auditing of accounts of certain NHS bodies
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Transmission of annual accounts
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Auditing of certain Special Health Authority accounts by Comptroller and Auditor General
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Summarised accounts of NHS bodies other than Special Health Authorities
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Exceptions for accounts of charitable trusts
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Exceptions for accounts of non-charitable trusts
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+- SCHEDULE 16 The Commission for Patient and Public Involvement in Health
+  - Status
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Powers
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Membership
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Appointment, procedure etc
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Remuneration and allowances
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Staff
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Delegation of functions
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Assistance
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Payments and loans to the Commission
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Accounts and audit
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - Reports and other information
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - Application of seal and evidence
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+- SCHEDULE 17 Exempt information relating to health services
+  - Part 1 Descriptions of exempt information
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - Part 2 Qualifications
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+  - Part 3 Interpretation
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+- SCHEDULE 18 Section 75 arrangements: transfer of staff
+  - Application of Schedule
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Orders transferring staff
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Effect of order on contracts of employment
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Effect of order on pension rights
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Divided employments
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+- SCHEDULE 19 Further provision about standing advisory committees
+  - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - [Sch. 19 para. 5A](schedule/19/paragraph/5A.md)
+  - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+  - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+- SCHEDULE 20 Further provision about local social services authorities
+  - Care of mothers and young children
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Prevention, care and after-care
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Home help and laundry facilities
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Research
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+- SCHEDULE 21 Prohibition of sale of medical practices
+  - Prohibition, and certificate of the Secretary of State
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Certain transactions deemed sale of goodwill
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Consideration
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Carried-over goodwill
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Interpretation
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+- SCHEDULE 22 Control of maximum prices for medical supplies
+  - Orders and directions
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Notices, authorisations and proof of documents
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Territorial extent
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - False documents and false statements
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Restrictions on disclosing information
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Offences by corporations
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - Penalties
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Production of documents
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - Penalties for offences: transitional modification for England and Wales
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
