@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-29, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-09-29
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-10-01
 
 ## Contents
 
@@ -998,7 +998,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-09-29
       - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
     - Reduction in number of hours of work required by unpaid work requirement
       - [Sch. 9 para. 3A](schedule/9/paragraph/3A.md)
-  - PART 2 Rehabilitation activity requirement
+  - PART 2 Probation requirement
     - Requirement
       - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
     - Instructions given by responsible officer
@@ -1010,6 +1010,12 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-09-29
       - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
     - Restriction on imposing prohibited activity requirement
       - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Part 4A Driving prohibition requirement
+    - [Sch. 9 para. 8A](schedule/9/paragraph/8A.md)
+  - Part 4B Public event attendance prohibition requirement
+    - [Sch. 9 para. 8B](schedule/9/paragraph/8B.md)
+  - Part 4C Drinking establishment entry prohibition requirement
+    - [Sch. 9 para. 8C](schedule/9/paragraph/8C.md)
   - PART 5 Curfew requirement
     - Requirement
       - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
