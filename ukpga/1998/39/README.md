@@ -1,0 +1,162 @@
+# National Minimum Wage Act 1998
+
+1998 c. 39. Enacted 1998-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/39
+
+Source: https://www.legislation.gov.uk/ukpga/1998/39/2026-10-01
+
+## Contents
+
+- Entitlement to the national minimum wage
+  - [s. 1 Workers to be paid at least the national minimum wage.](section/1.md)
+- Regulations relating to the national minimum wage
+  - [s. 2 Determination of hourly rate of remuneration.](section/2.md)
+  - [s. 3 Exclusion of, and modifications for, certain classes of person.](section/3.md)
+  - [s. 4 Power to add to the persons to whom section 3 applies.](section/4.md)
+- The Low Pay Commission
+  - [s. 5 The first regulations: referral to the Low Pay Commission.](section/5.md)
+  - [s. 6 Referral of matters to the Low Pay Commission at any time.](section/6.md)
+  - [s. 7 Referrals to, and reports of, the Low Pay Commission: supplementary.](section/7.md)
+  - [s. 8 The Low Pay Commission.](section/8.md)
+- Records
+  - [s. 9 Duty of employers to keep records.](section/9.md)
+  - [s. 10 Worker’s right of access to records.](section/10.md)
+  - [s. 11 Failure of employer to allow access to records.](section/11.md)
+  - [s. 11A Extension of time limit to facilitate conciliation before institution of proceedings](section/11A.md)
+  - [s. 12 Employer to provide worker with national minimum wage statement.](section/12.md)
+- ...
+  - [s. 13 Appointment of officers.](section/13.md)
+  - [s. 14 Powers of officers.](section/14.md)
+- Information
+  - [s. 15 Information obtained by officers.](section/15.md)
+  - [s. 16 Information obtained by agricultural wages officers.](section/16.md)
+  - [s. 16A Disclosure of information by officers](section/16A.md)
+- Enforcement
+  - [s. 17 Non-compliance: worker entitled to additional remuneration.](section/17.md)
+  - [s. 18 Enforcement in the case of special classes of worker.](section/18.md)
+  - [s. 19 Notices of underpayment: arrears](section/19.md)
+  - [s. 19A Notices of underpayment: financial penalty](section/19A.md)
+  - [s. 19B Suspension of financial penalty](section/19B.md)
+  - [s. 19C Notices of underpayment: appeals](section/19C.md)
+  - [s. 19D Non-compliance with notice of underpayment: recovery of arrears](section/19D.md)
+  - [s. 19E Non-compliance with notice of underpayment: recovery of penalty](section/19E.md)
+  - [s. 19F Withdrawal of notice of underpayment](section/19F.md)
+  - [s. 19G Replacement notice of underpayment](section/19G.md)
+  - [s. 19H Effect of replacement notice of underpayment](section/19H.md)
+  - [s. 20 Non-compliance: power of officer to sue on behalf of worker.](section/20.md)
+  - [s. 21 Financial penalty for non-compliance.](section/21.md)
+  - [s. 22 Appeals against penalty notices.](section/22.md)
+  - [s. 22A Withdrawal of enforcement notice](section/22A.md)
+  - [s. 22B Replacement of enforcement notice](section/22B.md)
+  - [s. 22C Effect of replacement on penalties where section 22A(3) not applied](section/22C.md)
+  - [s. 22D Effect of replacement on appeals and civil proceedings where section 22A(3) not applied](section/22D.md)
+  - [s. 22E Withdrawal of penalty notice](section/22E.md)
+  - [s. 22F Replacement of penalty notice with notice imposing lower penalty](section/22F.md)
+- Rights not to suffer unfair dismissal or other detriment
+  - [s. 23 The right not to suffer detriment.](section/23.md)
+  - [s. 24 Enforcement of the right.](section/24.md)
+  - [s. 25 Right of employee not to be unfairly dismissed: Great Britain.](section/25.md)
+  - [s. 26 Right of employee not to be unfairly dismissed: Northern Ireland.](section/26.md)
+- Civil procedure, evidence and appeals
+  - [s. 27 Tribunal hearings etc by chairman alone.](section/27.md)
+  - [s. 28 Reversal of burden of proof.](section/28.md)
+  - [s. 29 Appeals to the Employment Appeal Tribunal.](section/29.md)
+- Conciliation
+  - [s. 30 Conciliation.](section/30.md)
+- Offences
+  - [s. 31 Offences.](section/31.md)
+  - [s. 32 Offences by bodies corporate etc.](section/32.md)
+  - [s. 33 Proceedings for offences.](section/33.md)
+- Special classes of person
+  - [s. 34 Agency workers who are not otherwise “workers”.](section/34.md)
+  - [s. 35 Home workers who are not otherwise “workers”.](section/35.md)
+  - [s. 36 Crown employment.](section/36.md)
+  - [s. 37 Armed forces.](section/37.md)
+  - [s. 37A Cadet Force Adult Volunteers](section/37A.md)
+  - [s. 38 House of Lords staff.](section/38.md)
+  - [s. 39 House of Commons staff.](section/39.md)
+  - [s. 40 Mariners.](section/40.md)
+- Extensions
+  - [s. 41 Power to apply Act to individuals who are not otherwise “workers”.](section/41.md)
+  - [s. 42 Power to apply Act to offshore employment.](section/42.md)
+- Exclusions
+  - [s. 43 Share fishermen.](section/43.md)
+  - [s. 44 Voluntary workers.](section/44.md)
+  - [s. 44A Religious and other communities: resident workers.](section/44A.md)
+  - [s. 45 Prisoners.](section/45.md)
+  - [s. 45A Persons discharging fines by unpaid work](section/45A.md)
+  - [s. 45B Immigration: detained persons](section/45B.md)
+- Agricultural workers
+  - [s. 46 Relationship of this Act and agricultural wages legislation.](section/46.md)
+  - [s. 47 Amendments relating to remuneration etc of agricultural workers.](section/47.md)
+- Miscellaneous
+  - [s. 48 Application of Act to superior employers.](section/48.md)
+  - [s. 49 Restrictions on contracting out.](section/49.md)
+  - [s. 50 Publicity.](section/50.md)
+- Supplementary
+  - [s. 51 Regulations and orders.](section/51.md)
+  - [s. 52 Expenses.](section/52.md)
+  - [s. 53 Repeals and revocations.](section/53.md)
+  - [s. 54 Meaning of “worker”, “employee” etc.](section/54.md)
+  - [s. 55 Interpretation.](section/55.md)
+  - [s. 56 Short title, commencement and extent.](section/56.md)
+- SCHEDULE 1 The Low Pay Commission
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Financial provisions
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Staff, facilities and money
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proceedings
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Disqualification for House of Commons and Northern Ireland Assembly
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Amendments relating to remuneration etc of agricultural workers
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part II The Agricultural Wages (Scotland) Act 1949
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Section 3
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Enforcement
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Section 4
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Section 5
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Section 11
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Section 12
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Information obtained by national minimum wage officers
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Section 17
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Relationship between national minimum wage and agricultural wages legislation
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part III The Agricultural Wages (Regulation) (Northern Ireland) Order 1977
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Article 2
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Relationship between the national minimum wage and agricultural wages legislation
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Article 4
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Article 6
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Enforcement
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Information obtained by national minimum wage officers
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 Repeals and revocations
