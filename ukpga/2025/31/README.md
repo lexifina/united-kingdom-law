@@ -1,0 +1,159 @@
+# Border Security, Asylum and Immigration Act 2025
+
+2025 c. 31. Enacted 2025-12-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2025/31/2026-10-01
+
+## Contents
+
+- Part 1 Border security
+  - Chapter 1 The Border Security Commander
+    - [s. 1 The Border Security Commander](section/1.md)
+    - [s. 2 Terms and conditions of designation etc](section/2.md)
+    - [s. 3 Functions of the Commander](section/3.md)
+    - [s. 4 Duty to prepare annual reports](section/4.md)
+    - [s. 5 Duties of cooperation etc](section/5.md)
+    - [s. 6 The Board](section/6.md)
+    - [s. 7 Delegation by the Commander](section/7.md)
+    - [s. 8 Designation of an Interim Border Security Commander](section/8.md)
+    - [s. 9 Directions and guidance by the Secretary of State](section/9.md)
+    - [s. 10 Exclusion of application to the armed forces](section/10.md)
+    - [s. 11 Amendment of Schedule 7 to the Data Protection Act 2018](section/11.md)
+    - [s. 12 Interpretation](section/12.md)
+  - Chapter 2 Other border security provision
+    - Offences: things for use in immigration crime and advertising of unlawful immigration services
+      - [s. 13 Supplying articles for use in immigration crime](section/13.md)
+      - [s. 14 Handling articles for use in immigration crime](section/14.md)
+      - [s. 15 Sections 13 and 14: meaning of “relevant article”](section/15.md)
+      - [s. 16 Collecting information for use in immigration crime](section/16.md)
+      - [s. 17 Online advertising of unlawful immigration services](section/17.md)
+      - [s. 18 Application of section 17 to internet service providers](section/18.md)
+      - [s. 19 Liability for offence under section 17 committed by a body](section/19.md)
+      - [s. 20 Offences committed outside the United Kingdom](section/20.md)
+    - Endangering another during sea crossing to United Kingdom
+      - [s. 21 Endangering another during sea crossing to United Kingdom](section/21.md)
+    - Powers of search etc in relation to electronic devices
+      - [s. 22 Meaning of key expressions](section/22.md)
+      - [s. 23 Powers of authorised officers to search for relevant articles](section/23.md)
+      - [s. 24 Powers to seize and retain relevant articles](section/24.md)
+      - [s. 25 Duty to pass on items seized under section 24](section/25.md)
+      - [s. 26 Powers to access, copy and use information stored on relevant articles](section/26.md)
+      - [s. 27 Amendment of the Criminal Justice and Police Act 2001](section/27.md)
+      - [s. 28 Extension of powers to other persons](section/28.md)
+      - [s. 29 Meaning of other expressions](section/29.md)
+    - Sharing of information
+      - [s. 30 Supply of customs information by HMRC](section/30.md)
+      - [s. 31 Use and disclosure of information supplied under section 30](section/31.md)
+      - [s. 32 Further provision about use and disclosure of information under section 31](section/32.md)
+      - [s. 33 Supply of trailer registration information](section/33.md)
+      - [s. 34 Onwards sharing of information shared under section 33](section/34.md)
+      - [s. 35 Sections 30 to 34: general provision about disclosure](section/35.md)
+      - [s. 36 Sections 30 to 34: interpretation](section/36.md)
+    - Provision of biometric information by evacuees etc
+      - [s. 37 Provision of biometric information by evacuees etc](section/37.md)
+      - [s. 38 Use and retention of information taken under section 37](section/38.md)
+    - Provision of biometric information at ports in Scotland
+      - [s. 39 Provision of biometric information at ports in Scotland](section/39.md)
+- Part 2 Asylum and immigration
+  - Repeal of immigration legislation
+    - [s. 40 Repeal of the Safety of Rwanda (Asylum and Immigration) Act 2024](section/40.md)
+    - [s. 41 Repeal of certain provisions of the Illegal Migration Act 2023](section/41.md)
+    - [s. 42 Sections 40 and 41: consequential amendments](section/42.md)
+  - Immigration advisers and immigration service providers
+    - [s. 43 Immigration advisers and immigration service providers](section/43.md)
+  - Deportation etc
+    - [s. 44 Detention and exercise of functions pending deportation](section/44.md)
+  - EU Settlement Scheme
+    - [s. 45 EU Settlement Scheme: rights of entry and residence etc](section/45.md)
+  - Conditions on leave and bail
+    - [s. 46 Conditions on limited leave to enter or remain and immigration bail](section/46.md)
+  - Powers to take biometric information
+    - [s. 47 Powers to take biometric information](section/47.md)
+  - Employment
+    - [s. 48 Extension of prohibition on employment to other working arrangements](section/48.md)
+  - Appeals
+    - [s. 49 Timeframe for determination of appeal brought by appellant receiving accommodation support](section/49.md)
+    - [s. 50 Timeframe for determination of certain appeals brought by non-detained appellants liable to deportation](section/50.md)
+  - Refugee Convention
+    - [s. 51 Refugee Convention: particularly serious crime](section/51.md)
+- Part 3 Prevention of serious crime
+  - Offences relating to things for use in serious crime
+    - [s. 52 Articles for use in serious crime](section/52.md)
+    - [s. 53 Section 52: meaning of “relevant article”](section/53.md)
+    - [s. 54 Confiscation of assets](section/54.md)
+  - Serious crime prevention orders
+    - [s. 55 Electronic monitoring requirements](section/55.md)
+    - [s. 56 Interim serious crime prevention orders](section/56.md)
+    - [s. 57 Applicants for making of orders and interim orders](section/57.md)
+    - [s. 58 Notification requirements](section/58.md)
+    - [s. 59 Orders by Crown Court on acquittal or when allowing an appeal](section/59.md)
+- Part 4 Miscellaneous and general
+  - Miscellaneous
+    - [s. 60 Validation of fees charged in relation to qualifications](section/60.md)
+  - General
+    - [s. 61 Financial provisions](section/61.md)
+    - [s. 62 Consequential and minor provision](section/62.md)
+    - [s. 63 Regulations](section/63.md)
+    - [s. 64 Extent](section/64.md)
+    - [s. 65 Commencement](section/65.md)
+    - [s. 66 Short title](section/66.md)
+- Schedule 1 Immigration advisers and immigration service providers
+  - [Sch. 1 para. 1 Introductory](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Power to amend definition of “relevant matters”](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Suspension etc of registration](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Suspension etc of registration](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Suspension etc of registration](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Provision of immigration advice or immigration services under supervision](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Monetary penalties](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Fees](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 The complaints scheme](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Appointment of Immigration Services Commissioner](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Appointment of Deputy Immigration Services Commissioner](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Acting as Commissioner during vacancy etc](schedule/1/paragraph/18.md)
+- Schedule 2 Interim serious crime prevention orders: consequential amendments
+  - [Sch. 2 para. 1 Serious Crime Act 2007](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Serious Crime Act 2007](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Serious Crime Act 2007](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Serious Crime Act 2007](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Serious Crime Act 2007](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Serious Crime Act 2007](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Serious Crime Act 2007](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Serious Crime Act 2007](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Serious Crime Act 2007](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Serious Crime Act 2007](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Serious Crime Act 2007](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Serious Crime Act 2007](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Serious Crime Act 2007](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Serious Crime Act 2007](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Serious Crime Act 2007](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16 Serious Crime Act 2007](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17 Serious Crime Act 2007](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18 Serious Crime Act 2007](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19 Serious Crime Act 2007](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20 Serious Crime Act 2007](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21 Serious Crime Act 2007](schedule/2/paragraph/21.md)
+  - [Sch. 2 para. 22 Serious Crime Act 2007](schedule/2/paragraph/22.md)
+  - [Sch. 2 para. 23 Serious Crime Act 2007](schedule/2/paragraph/23.md)
+  - [Sch. 2 para. 24 Serious Crime Act 2007](schedule/2/paragraph/24.md)
+  - [Sch. 2 para. 25 Serious Crime Act 2007](schedule/2/paragraph/25.md)
+  - [Sch. 2 para. 26 Serious Crime Act 2007](schedule/2/paragraph/26.md)
+  - [Sch. 2 para. 27 Serious Crime Act 2007](schedule/2/paragraph/27.md)
+  - [Sch. 2 para. 28 Serious Crime Act 2007](schedule/2/paragraph/28.md)
+  - [Sch. 2 para. 29 Serious Crime Act 2007](schedule/2/paragraph/29.md)
+  - [Sch. 2 para. 30 Serious Crime Act 2007](schedule/2/paragraph/30.md)
+  - [Sch. 2 para. 31 Serious Crime Act 2007](schedule/2/paragraph/31.md)
+  - [Sch. 2 para. 32 Serious Crime Act 2007](schedule/2/paragraph/32.md)
+  - [Sch. 2 para. 33 Serious Crime Act 2007](schedule/2/paragraph/33.md)
+  - [Sch. 2 para. 34 Serious Crime Act 2007](schedule/2/paragraph/34.md)
+  - [Sch. 2 para. 35 Serious Crime Act 2007](schedule/2/paragraph/35.md)
+  - [Sch. 2 para. 36 Serious Crime Act 2007](schedule/2/paragraph/36.md)
+  - [Sch. 2 para. 37 Serious Crime Act 2007](schedule/2/paragraph/37.md)
+  - [Sch. 2 para. 38 Serious Crime Act 2007](schedule/2/paragraph/38.md)
