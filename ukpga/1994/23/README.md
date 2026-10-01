@@ -1,0 +1,1590 @@
+# Value Added Tax Act 1994
+
+1994 c. 23. Enacted 1994-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 38 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/23
+
+Source: https://www.legislation.gov.uk/ukpga/1994/23/2026-10-01
+
+## Contents
+
+- Part I The charge to tax
+  - Imposition and rate of VAT
+    - [s. 1 Value added tax.](section/1.md)
+    - [s. 2 Rate of VAT.](section/2.md)
+    - [s. 3 Taxable persons and registration.](section/3.md)
+    - [s. 3A Supplies of electronic, telecommunication and broadcasting services: special accounting schemes](section/3A.md)
+  - Supply of goods or services in the United Kingdom
+    - [s. 4 Scope of VAT on taxable supplies.](section/4.md)
+    - [s. 5 Meaning of supply: alteration by Treasury order.](section/5.md)
+    - [s. 5A Supplies of goods facilitated by online marketplaces: deemed supply](section/5A.md)
+    - [s. 6 Time of supply.](section/6.md)
+    - [s. 7 Place of supply of goods.](section/7.md)
+    - [s. 7AA Reverse charge on goods supplied from abroad](section/7AA.md)
+    - [s. 7A Place of supply of services](section/7A.md)
+    - [s. 8 Reverse charge on supplies received from abroad.](section/8.md)
+    - [s. 9 Place where supplier or recipient of services belongs.](section/9.md)
+    - [s. 9A Reverse charge on gas, electricity, heat or cooling...](section/9A.md)
+  - Acquisition of goods from member States
+    - [s. 10 Scope of VAT on acquisitions from member States.](section/10.md)
+    - [s. 11 Meaning of acquisition of goods from another member State.](section/11.md)
+    - [s. 12 Time of acquisition.](section/12.md)
+    - [s. 13 Place of acquisition.](section/13.md)
+    - [s. 14 Acquisitions from persons belonging in other member States.](section/14.md)
+  - Goods supplied between the UK and member States under call-off stock arrangements
+    - [s. 14A Call-off stock arrangements](section/14A.md)
+  - Importation of goods ...
+    - [s. 15 Meaning of “importation of goods” into the United Kingdom](section/15.md)
+    - [s. 16 Application of customs enactments](section/16.md)
+    - [s. 16A Postal packets](section/16A.md)
+    - [s. 17 Free zone regulations.](section/17.md)
+  - Goods subject to a warehousing regime
+    - [s. 18 Place and time of ... supply.](section/18.md)
+    - [s. 18A Fiscal warehousing.](section/18A.md)
+    - [s. 18B Fiscally warehoused goods: relief.](section/18B.md)
+    - [s. 18C Warehouses and fiscal warehouses: services.](section/18C.md)
+    - [s. 18D Removal from warehousing: accountability.](section/18D.md)
+    - [s. 18E Deficiency in fiscally warehoused goods.](section/18E.md)
+    - [s. 18F Sections 18A to 18E: supplementary.](section/18F.md)
+  - Determination of value
+    - [s. 19 Value of supply of goods or services.](section/19.md)
+    - [s. 20 Valuation of acquisitions from other member States.](section/20.md)
+    - [s. 21 Value of imported goods.](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Value of supplies involving relevant machine games](section/23.md)
+    - [s. 23A Meaning of “relevant machine game”](section/23A.md)
+  - Payment of VAT by taxable persons
+    - [s. 24 Input tax and output tax.](section/24.md)
+    - [s. 25 Payment by reference to accounting periods and credit for input tax against output tax.](section/25.md)
+    - [s. 26 Input tax allowable under section 25.](section/26.md)
+    - [s. 26A Disallowance of input tax where consideration not paid](section/26A.md)
+    - [s. 26AA Disapplication of disallowance under section 26A in insolvency](section/26AA.md)
+    - [s. 26AB Adjustment of output tax in respect of supplies under section 55A](section/26AB.md)
+    - [s. 26B Flat-rate scheme](section/26B.md)
+    - [s. 27 Goods imported for private purposes.](section/27.md)
+    - [s. 28 Payments on account of VAT.](section/28.md)
+    - [s. 29 Invoices provided by recipients of goods or services.](section/29.md)
+- Part II Reliefs, exemptions and repayments
+  - Reliefs etc. generally available
+    - [s. 29A Reduced rate](section/29A.md)
+    - [s. 30 Zero-rating.](section/30.md)
+    - [s. 31 Exempt supplies ....](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Refunds of VAT in certain cases.](section/33.md)
+    - [s. 33A Refunds of VAT to museums and galleries](section/33A.md)
+    - [s. 33B Refunds of VAT to Academies](section/33B.md)
+    - [s. 33C Refunds of VAT to charities within section 33D](section/33C.md)
+    - [s. 33D Charities to which section 33C applies](section/33D.md)
+    - [s. 33E Power to extend refunds of VAT to other persons](section/33E.md)
+    - [s. 34 Capital goods.](section/34.md)
+    - [s. 35 Refund of VAT to persons constructing certain buildings.](section/35.md)
+    - [s. 36 Bad debts.](section/36.md)
+  - Acquisitions
+    - [s. 36A Relief from VAT on acquisition if importation would attract relief](section/36A.md)
+  - Imports, overseas businesses etc
+    - [s. 37 VAT on importation of goods: reliefs etc](section/37.md)
+    - [s. 38 Importation of goods by taxable persons.](section/38.md)
+    - [s. 39 Repayment of VAT to those in business overseas.](section/39.md)
+    - [s. 39A Applications for forwarding of VAT repayment claims to other member States](section/39A.md)
+    - [s. 40 Refunds in relation to new means of transport supplied to other member States.](section/40.md)
+- Part III Application of Act in particular cases
+  - [s. 40A Northern Ireland Protocol](section/40A.md)
+  - [s. 41 Application to the Crown.](section/41.md)
+  - [s. 41A Supply of goods or services by public bodies](section/41A.md)
+  - [s. 42 Local authorities.](section/42.md)
+  - [s. 43 Groups of companies.](section/43.md)
+  - [s. 43A Groups: eligibility.](section/43A.md)
+  - [s. 43AZA Section 43A: control test](section/43AZA.md)
+  - [s. 43AA Power to alter eligibility for grouping](section/43AA.md)
+  - [s. 43B Groups: applications.](section/43B.md)
+  - [s. 43C Groups: termination of membership.](section/43C.md)
+  - [s. 43D Groups: duplication](section/43D.md)
+  - [s. 44 Supplies to groups.](section/44.md)
+  - [s. 45 Partnerships.](section/45.md)
+  - [s. 46 Business carried on in divisions or by unincorporated bodies, personal representatives etc.](section/46.md)
+  - [s. 47 Agents etc.](section/47.md)
+  - [s. 48 VAT representatives and security.](section/48.md)
+  - [s. 49 Transfers of going concerns.](section/49.md)
+  - [s. 50 Terminal markets.](section/50.md)
+  - [s. 50A Margin schemes.](section/50A.md)
+  - [s. 50B Margin schemes and export or removal of goods](section/50B.md)
+  - [s. 51 Buildings and land.](section/51.md)
+  - [s. 51B Face-value vouchers issued before 1 January 2019](section/51B.md)
+  - [s. 51C Vouchers issued on or after 1 January 2019](section/51C.md)
+  - [s. 51D Postage stamps issued on or after 1 January 2019](section/51D.md)
+  - [s. 52 Trading stamp schemes.](section/52.md)
+  - [s. 53 Tour operators.](section/53.md)
+  - [s. 54 Farmers etc.](section/54.md)
+  - [s. 55 Customers to account for tax on supplies of gold etc.](section/55.md)
+  - [s. 55A Customers to account for tax on supplies of goods or services of a kind used in missing trader ... fraud](section/55A.md)
+  - [s. 55B Deposit schemes: designation](section/55B.md)
+  - [s. 55C Deposit schemes: value of supply](section/55C.md)
+  - [s. 55D Deposit schemes: liability to account for VAT on deposit amounts](section/55D.md)
+  - [s. 56 Fuel for private use.](section/56.md)
+  - [s. 57 Determination of consideration for fuel supplied for private use.](section/57.md)
+  - [s. 57A Importation following zero-rated free zone supply: deemed supply](section/57A.md)
+- Part IV Administration, collection and enforcement
+  - General administrative provisions
+    - [s. 58 General provisions relating to the administration and collection of VAT.](section/58.md)
+    - [s. 58ZA International VAT arrangements](section/58ZA.md)
+  - Disclosure of avoidance schemes
+    - [s. 58A Disclosure of avoidance schemes](section/58A.md)
+    - [s. 58B Payment by cheque](section/58B.md)
+  - penalties and criminal offences
+    - [s. 59 The default surcharge.](section/59.md)
+    - [s. 59A Default surcharge: payments on account.](section/59A.md)
+    - [s. 59B Relationship between sections 59 and 59A.](section/59B.md)
+    - [s. 60 VAT evasion: conduct involving dishonesty.](section/60.md)
+    - [s. 61 VAT evasion: liability of directors etc.](section/61.md)
+    - [s. 62 Incorrect certificates as to zero-rating etc.](section/62.md)
+    - [s. 63 Penalty for misdeclaration or neglect resulting in VAT loss for one accounting period equalling or exceeding certain amounts.](section/63.md)
+    - [s. 64 Repeated misdeclarations.](section/64.md)
+    - [s. 65 Inaccuracies in section 55A statements](section/65.md)
+    - [s. 66 Failure to submit section 55A statement](section/66.md)
+    - [s. 67 Failure to notify and unauthorised issue of invoices.](section/67.md)
+    - [s. 67A Breach of controlled goods agreement](section/67A.md)
+    - [s. 68 Breaches of walking possession agreements.](section/68.md)
+    - [s. 69 Breaches of regulatory provisions.](section/69.md)
+    - [s. 69A Breach of record-keeping requirements etc. in relation to transactions in gold.](section/69A.md)
+    - [s. 69B Breach of record-keeping requirements imposed by directions](section/69B.md)
+    - [s. 69C Transactions connected with VAT fraud](section/69C.md)
+    - [s. 69D Penalties under section 69C: officers’ liability](section/69D.md)
+    - [s. 69E Publication of details of persons liable to penalties under section 69C](section/69E.md)
+    - [s. 70 Mitigation of penalties under sections 60, 63, 64, 67, 69A and 69C.](section/70.md)
+    - [s. 71 Construction of sections 60 to 70.](section/71.md)
+    - [s. 72 Offences.](section/72.md)
+  - Assessments of VAT and other payments due
+    - [s. 73 Failure to make returns etc.](section/73.md)
+    - [s. 74 Interest on VAT recovered or recoverable by assessment.](section/74.md)
+    - [s. 75 Assessments in cases of acquisitions of certain goods by non-taxable persons.](section/75.md)
+    - [s. 76 Assessment of amounts due by way of penalty ....](section/76.md)
+    - [s. 76A Section 76: cases involving special accounting schemes](section/76A.md)
+    - [s. 77 Assessments: time limits and supplementary assessments.](section/77.md)
+    - [s. 77ZA Late payment interest on amounts of VAT due](section/77ZA.md)
+  - Liability for unpaid VAT of another
+    - [s. 77A Joint and several liability of traders in supply chain where tax unpaid](section/77A.md)
+  - Online marketplaces
+    - [s. 77B Joint and several liability: sellers identified as non-compliant by the Commissioners](section/77B.md)
+    - [s. 77BA Joint and several liability: non-UK sellers in breach of Schedule 1A registration requirement](section/77BA.md)
+    - [s. 77C Joint and several liability under section 77B or 77BA: assessments](section/77C.md)
+    - [s. 77D Joint and several liability under section 77B or 77BA: interest](section/77D.md)
+    - [s. 77E Display of VAT registration numbers](section/77E.md)
+  - Liability of operators of online marketplaces for VAT in cases of deemed supply
+    - [s. 77F Exception from liability under section 5A](section/77F.md)
+  - Interest, repayment supplements etc. payable by Commissioners
+    - [s. 78 Interest in certain cases of official error.](section/78.md)
+    - [s. 78A Assessment for interest overpayments.](section/78A.md)
+    - [s. 79 Repayment supplement in respect of certain delayed payments or refunds.](section/79.md)
+    - [s. 80 Credit for, or repayment of, overstated or overpaid VAT](section/80.md)
+    - [s. 80A Arrangements for reimbursing customers.](section/80A.md)
+    - [s. 80B Assessments of amounts due under section 80A arrangements.](section/80B.md)
+    - [s. 80C Assessed amounts of overpayments etc deemed to be amounts of VAT](section/80C.md)
+    - [s. 81 Interest given by way of credit and set-off of credits.](section/81.md)
+- Part V Reviews and Appeals
+  - [s. 82 Meaning of “tribunal”](section/82.md)
+  - [s. 83 Appeals.](section/83.md)
+  - [s. 83A Offer of review](section/83A.md)
+  - [s. 83B Right to require review](section/83B.md)
+  - [s. 83C Review by HMRC](section/83C.md)
+  - [s. 83D Extensions of time](section/83D.md)
+  - [s. 83E Review out of time](section/83E.md)
+  - [s. 83F Nature of review etc](section/83F.md)
+  - [s. 83FA Nature of review: penalties under Schedule 24 to FA 2021](section/83FA.md)
+  - [s. 83FB Effect of conclusions of review: penalties under Schedule 24 to FA 2021](section/83FB.md)
+  - [s. 83G Bringing of appeals](section/83G.md)
+  - [s. 84 Further provisions relating to appeals.](section/84.md)
+  - [s. 85 Settling appeals by agreement.](section/85.md)
+  - [s. 85A Payment of tax on determination of appeal](section/85A.md)
+  - [s. 85B Payment of tax where there is a further appeal](section/85B.md)
+  - [s. 86 Appeals to Court of Appeal.](section/86.md)
+  - [s. 87 Enforcement of registered or recorded tribunal decisions etc.](section/87.md)
+- Part VI Supplementary provisions
+  - Change in rate of VAT etc. and disclosure of information
+    - [s. 88 Supplies spanning change of rate etc.](section/88.md)
+    - [s. 89 Adjustments of contracts on changes in VAT.](section/89.md)
+    - [s. 90 Failure of resolution under Provisional Collection of Taxes Act 1968.](section/90.md)
+    - [s. 91 Disclosure of information for statistical purposes.](section/91.md)
+  - Interpretative provisions
+    - [s. 92 Taxation under the laws of other member States etc.](section/92.md)
+    - [s. 93 Territories included in references to other member States etc.](section/93.md)
+    - [s. 94 Meaning of “business” etc.](section/94.md)
+    - [s. 95 Meaning of “new means of transport”.](section/95.md)
+    - [s. 95A Meaning of “online marketplace” and “operator” etc](section/95A.md)
+    - [s. 96 Other interpretative provisions.](section/96.md)
+  - Supplementary provisions
+    - [s. 97 Orders, rules and regulations.](section/97.md)
+    - [s. 97A Place of supply orders: transitional provision.](section/97A.md)
+    - [s. 98 Service of notices.](section/98.md)
+    - [s. 99 Refund of VAT to Government of Northern Ireland.](section/99.md)
+    - [s. 100 Savings and transitional provisions, consequential amendments and repeals.](section/100.md)
+    - [s. 101 Commencement and extent.](section/101.md)
+    - [s. 102 Short title.](section/102.md)
+- SCHEDULE A1 ................................
+  - The supplies
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Interpretation
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - [Sch. A1 para. 7 Interpretation of paragraph 1(5)](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8 Interpretation of paragraph 1(6): introductory](schedule/A1/paragraph/8.md)
+    - [Sch. A1 para. 9 Interpretation of paragraph 1(6): meaning of “qualifying conversion”](schedule/A1/paragraph/9.md)
+    - [Sch. A1 para. 10 Interpretation of paragraph 1(6): meaning of “changed number of dwellings conversion”](schedule/A1/paragraph/10.md)
+    - [Sch. A1 para. 11 Interpretation of paragraph 1(6): meaning of “house in multiple occupation conversion”](schedule/A1/paragraph/11.md)
+    - [Sch. A1 para. 12 Interpretation of paragraph 1(6): meaning of “special residential conversion”](schedule/A1/paragraph/12.md)
+    - [Sch. A1 para. 13 Special residential conversions: reduced rate only for supplies made to intended user of converted accommodation](schedule/A1/paragraph/13.md)
+    - [Sch. A1 para. 14 Interpretation of paragraph 1(6): “qualifying conversion” includes related garage works](schedule/A1/paragraph/14.md)
+    - [Sch. A1 para. 15 Interpretation of paragraph 1(6): conversion not “qualifying” if planning consent and building control approval not obtained](schedule/A1/paragraph/15.md)
+    - [Sch. A1 para. 16 Interpretation of paragraph 1(6): meaning of “supply of qualifying services”](schedule/A1/paragraph/16.md)
+    - [Sch. A1 para. 17 Interpretation of paragraphs 11 to 14: meaning of “qualifying residential purpose”](schedule/A1/paragraph/17.md)
+    - [Sch. A1 para. 18 Interpretation of paragraph 1(7): introductory](schedule/A1/paragraph/18.md)
+    - [Sch. A1 para. 19 Paragraph 1(7) only applies where dwelling has been empty for at least 3 years](schedule/A1/paragraph/19.md)
+    - [Sch. A1 para. 20 Paragraph 1(7) only applies if planning consent and building control approval obtained](schedule/A1/paragraph/20.md)
+    - [Sch. A1 para. 21 Interpretation of paragraph 1(7): meaning of “supply of qualifying services”](schedule/A1/paragraph/21.md)
+    - [Sch. A1 para. 22 Interpretation of paragraph 1(6) and (7): meaning of “building materials”](schedule/A1/paragraph/22.md)
+- SCHEDULE 1 Registration in respect of taxable supplies: UK establishment
+  - Liability to be registered
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Notification of liability and registration
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Entitlement to be registered
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Notification of end of liability or entitlement etc
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Cancellation of registration
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Exemption from registration
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Power to vary specified sums by order
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Supplementary
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 1A Registration in respect of taxable supplies: non-uk establishment
+  - Liability to be registered
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Notification of liability and registration
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Notification of end of liability
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Cancellation of registration
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Exemption from registration
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+  - Supplementary
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+- SCHEDULE 2 Registration in respect of supplies from other member States
+  - Liability to be registered
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Notification of liability and registration
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Request to be registered
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Notification of matters affecting continuance of registration
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Cancellation of registration
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Conditions of cancellation
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Power to vary specified sums by order
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Supplementary
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Registration in respect of acquisitions from other member States
+  - Liability to be registered
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Notification of liability and registration
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Entitlement to be registered etc
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Notification of matters affecting continuance of registration
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Cancellation of registration
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Conditions of cancellation
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Exemption from registration
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Power to vary specified sums by order
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Supplementary
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 3A Registration in respect of disposals of assets for which a VAT repayment is claimed
+  - Liability to be registered
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Notification of liability and registration
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Notification of end of liability
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Cancellation of registration
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Exemption from registration
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Supplementary
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+- SCHEDULE 3B Electronic, telecommunication and broadcasting services: non-union scheme
+  - [Sch. 3B para. 1](schedule/3B/paragraph/1.md)
+- SCHEDULE 3BA Electronic, telecommunication and broadcasting services: Union scheme
+  - [Sch. 3BA para. 1](schedule/3BA/paragraph/1.md)
+- SCHEDULE 4 Matters to be treated as supply of goods or services
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 4A Place of supply of services: special rules
+  - Part 1 General exceptions
+    - Services relating to land
+      - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+    - Passenger transport
+      - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+    - Hiring of means of transport
+      - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - Cultural, educational and entertainment services etc
+      - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+    - Restaurant and catering services...
+      - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - ...
+      - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - Hiring of goods
+      - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+    - ...broadcasting services
+      - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - Part 2 Exceptions relating to supplies made to relevant business person
+    - Electronically-supplied services
+      - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - Admission to cultural, educational and entertainment activities etc
+      - [Sch. 4A para. 9A](schedule/4A/paragraph/9A.md)
+    - Transport of goods
+      - [Sch. 4A para. 9B](schedule/4A/paragraph/9B.md)
+    - Ancillary transport services
+      - [Sch. 4A para. 9C](schedule/4A/paragraph/9C.md)
+    - Repair services: contracts of insurance
+      - [Sch. 4a para. 9D](schedule/4a/paragraph/9D.md)
+    - Telecommunication services
+      - [Sch. 4A para. 9E](schedule/4A/paragraph/9E.md)
+  - Part 3 Exceptions relating to supplies not made to relevant business person
+    - Intermediaries
+      - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+    - Transport of goods...
+      - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+    - ...
+      - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+    - Ancillary transport services
+      - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+    - Long-term hiring of means of transport
+      - [Sch. 4A para. 13A](schedule/4A/paragraph/13A.md)
+    - Valuation services etc
+      - [Sch. 4A para. 14](schedule/4A/paragraph/14.md)
+    - Cultural, educational and entertainment services etc
+      - [Sch. 4A para. 14A](schedule/4A/paragraph/14A.md)
+    - Electronically supplied, telecommunication and broadcasting services
+      - [Sch. 4A para. 15](schedule/4A/paragraph/15.md)
+    - Other services provided to recipient belonging outside United Kingdom and the Isle of Man
+      - [Sch. 4A para. 16](schedule/4A/paragraph/16.md)
+- SCHEDULE 4B Call-off stock arrangements
+  - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+  - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+  - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+  - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+  - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+  - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+  - [Sch. 4B para. 7](schedule/4B/paragraph/7.md)
+  - [Sch. 4B para. 8](schedule/4B/paragraph/8.md)
+  - [Sch. 4B para. 9](schedule/4B/paragraph/9.md)
+- SCHEDULE 5 Services supplied where received
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 7A](schedule/5/paragraph/7A.md)
+  - [Sch. 5 para. 7B](schedule/5/paragraph/7B.md)
+  - [Sch. 5 para. 7C](schedule/5/paragraph/7C.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 5A Goods Eligible to be Fiscally Warehoused
+- SCHEDULE 6 Valuation: special cases
+  - Part 1 Valuation of supplies of fuel for private use
+    - Option for valuation on flat-rate basis
+      - [Sch. 6 para. A1](schedule/6/paragraph/A1.md)
+      - [Sch. 6 para. B1](schedule/6/paragraph/B1.md)
+    - Interpretation
+      - [Sch. 6 para. C1](schedule/6/paragraph/C1.md)
+  - Part 2 Other Provisions
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 1A](schedule/6/paragraph/1A.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 8A](schedule/6/paragraph/8A.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 11A](schedule/6/paragraph/11A.md)
+    - [Sch. 6 para. 11B](schedule/6/paragraph/11B.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Valuation of acquisitions from other member states: special cases
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 7A CHARGE AT REDUCED RATE
+  - Part 1 INDEX TO REDUCED-RATE SUPPLIES OF GOODS AND SERVICES
+  - Part 2 THE GROUPS
+    - Group 1 — Supplies of domestic fuel or power
+      - [Sch. 7A Pt. 2 Ch. 1 para. 1n1](schedule/7A/part/2/chapter/1/paragraph/1n1.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 1n2 Matters included or not included in the supplies](schedule/7A/part/2/chapter/1/paragraph/1n2.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 2 Meaning of “fuel oil”, “gas oil” and “kerosene”](schedule/7A/part/2/chapter/1/paragraph/2.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 3 Meaning of “qualifying use”](schedule/7A/part/2/chapter/1/paragraph/3.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 4 Supplies only partly for qualifying use](schedule/7A/part/2/chapter/1/paragraph/4.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 5 Supplies deemed to be for domestic use](schedule/7A/part/2/chapter/1/paragraph/5.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 6 Other supplies that are for domestic use](schedule/7A/part/2/chapter/1/paragraph/6.md)
+      - [Sch. 7A Pt. 2 Ch. 1 para. 7 Interpretation of paragraph 6](schedule/7A/part/2/chapter/1/paragraph/7.md)
+    - Group 2 — Installation of energy-saving materials from 1st April 2027
+      - [Sch. 7A Pt. 2 Ch. 2 para. 1n3](schedule/7A/part/2/chapter/2/paragraph/1n3.md)
+      - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+      - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+      - [Sch. 7A para. A1 ...](schedule/7A/paragraph/A1.md)
+      - [Sch. 7A Pt. 2 Ch. 2 para. 1n4 Meaning of “energy-saving materials”](schedule/7A/part/2/chapter/2/paragraph/1n4.md)
+      - [Sch. 7A para. 1A Installation of heat pumps](schedule/7A/paragraph/1A.md)
+      - [Sch. 7A Pt. 2 Ch. 2 para. 2n3 Meaning of “residential accommodation”](schedule/7A/part/2/chapter/2/paragraph/2n3.md)
+      - [Sch. 7A para. 3n1 Meaning of “use for a relevant charitable purpose”](schedule/7A/paragraph/3n1.md)
+      - [Sch. 7A Pt. 2 Ch. 2 para. 3 Meaning of “use for a relevant charitable purpose”](schedule/7A/part/2/chapter/2/paragraph/3.md)
+      - [Sch. 7A para. 4 ...](schedule/7A/paragraph/4.md)
+      - [Sch. 7A para. 5 ...](schedule/7A/paragraph/5.md)
+      - [Sch. 7A para. 6 Meaning of “relevant supplies”](schedule/7A/paragraph/6.md)
+    - Group 3 — Grant-funded installation of heating equipment or security goods or connection of gas supply
+      - [Sch. 7A Pt. 2 Ch. 3 para. 1n5](schedule/7A/part/2/chapter/3/paragraph/1n5.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 2n4](schedule/7A/part/2/chapter/3/paragraph/2n4.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 3n3](schedule/7A/part/2/chapter/3/paragraph/3n3.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 4n2](schedule/7A/part/2/chapter/3/paragraph/4n2.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 5n2](schedule/7A/part/2/chapter/3/paragraph/5n2.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 6n2](schedule/7A/part/2/chapter/3/paragraph/6n2.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 7](schedule/7A/part/2/chapter/3/paragraph/7.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 8](schedule/7A/part/2/chapter/3/paragraph/8.md)
+      - [Sch. 7A para. 8A](schedule/7A/paragraph/8A.md)
+      - [Sch. 7A para. 8B](schedule/7A/paragraph/8B.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 9](schedule/7A/part/2/chapter/3/paragraph/9.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 10](schedule/7A/part/2/chapter/3/paragraph/10.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 1n6 Supply only included so far as grant-funded](schedule/7A/part/2/chapter/3/paragraph/1n6.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 2n5 Meaning of “relevant scheme”](schedule/7A/part/2/chapter/3/paragraph/2n5.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 3n4 Apportionment of grants that also cover other supplies](schedule/7A/part/2/chapter/3/paragraph/3n4.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 4n3 Meaning of “heating appliances”](schedule/7A/part/2/chapter/3/paragraph/4n3.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 4A Meaning of “central heating system”](schedule/7A/part/2/chapter/3/paragraph/4A.md)
+      - [Sch. 7A para. 4B Meaning of “renewable source heating system”](schedule/7A/paragraph/4B.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 5n3 Meaning of “qualifying security goods”](schedule/7A/part/2/chapter/3/paragraph/5n3.md)
+      - [Sch. 7A Pt. 2 Ch. 3 para. 6n3 Meaning of “qualifying person”](schedule/7A/part/2/chapter/3/paragraph/6n3.md)
+    - Group 4 — Women’s sanitary products
+      - [Sch. 7A Pt. 2 Ch. 4 para. 1n8](schedule/7A/part/2/chapter/4/paragraph/1n8.md)
+    - Group 5 — Children’s car seats
+      - [Sch. 7A Pt. 2 Ch. 5 para. 1n9](schedule/7A/part/2/chapter/5/paragraph/1n9.md)
+      - [Sch. 7A Pt. 2 Ch. 5 para. 1n10 Meaning of “children’s car seats”](schedule/7A/part/2/chapter/5/paragraph/1n10.md)
+      - [Sch. 7A Pt. 2 Ch. 5 para. 2 Meaning of “safety seat”](schedule/7A/part/2/chapter/5/paragraph/2.md)
+      - [Sch. 7A Pt. 2 Ch. 5 para. 2A Meaning of “related base unit”](schedule/7A/part/2/chapter/5/paragraph/2A.md)
+      - [Sch. 7A Pt. 2 Ch. 5 para. 3n1 Meaning of “related wheeled framework”](schedule/7A/part/2/chapter/5/paragraph/3n1.md)
+      - [Sch. 7A Pt. 2 Ch. 5 para. 4 Meaning of “booster seat”](schedule/7A/part/2/chapter/5/paragraph/4.md)
+      - [Sch. 7A Pt. 2 Ch. 5 para. 5 Meaning of “booster cushion”](schedule/7A/part/2/chapter/5/paragraph/5.md)
+    - Group 6 — Residential conversions
+      - [Sch. 7A Pt. 2 Ch. 6 para. 1n11](schedule/7A/part/2/chapter/6/paragraph/1n11.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 2n7](schedule/7A/part/2/chapter/6/paragraph/2n7.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 1n12 Supplies only partly within item 1](schedule/7A/part/2/chapter/6/paragraph/1n12.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 2n8 Meaning of “qualifying conversion”](schedule/7A/part/2/chapter/6/paragraph/2n8.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 3 Meaning of “changed number of dwellings conversion”](schedule/7A/part/2/chapter/6/paragraph/3.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 4 Meaning of “single household dwelling” and “multiple occupancy dwelling”](schedule/7A/part/2/chapter/6/paragraph/4.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 5 Meaning of “house in multiple occupation conversion”](schedule/7A/part/2/chapter/6/paragraph/5.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 6 Meaning of “use for a relevant residential purpose”](schedule/7A/part/2/chapter/6/paragraph/6.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 7 Meaning of “special residential conversion”](schedule/7A/part/2/chapter/6/paragraph/7.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 8 Special residential conversions: reduced rate only for supplies made to intended user of converted accommodation](schedule/7A/part/2/chapter/6/paragraph/8.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 9 “Qualifying conversion” includes related garage works](schedule/7A/part/2/chapter/6/paragraph/9.md)
+      - [Sch. 7A Pt. 2 Ch. 6 para. 10 Conversion not “qualifying” if planning consent and building control approval not obtained](schedule/7A/part/2/chapter/6/paragraph/10.md)
+      - [Sch. 7A para. 11 Meaning of “supply of qualifying services”](schedule/7A/paragraph/11.md)
+      - [Sch. 7A para. 12 Meaning of “building materials”](schedule/7A/paragraph/12.md)
+    - Group 7 — RESIDENTIAL RENOVATIONS AND ALTERATIONS
+      - [Sch. 7A Pt. 2 Ch. 7 para. 1n13](schedule/7A/part/2/chapter/7/paragraph/1n13.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 2n9](schedule/7A/part/2/chapter/7/paragraph/2n9.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 1n14 Supplies only partly within item 1](schedule/7A/part/2/chapter/7/paragraph/1n14.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 2n10 Meaning of “alteration” and “qualifying residential premises”](schedule/7A/part/2/chapter/7/paragraph/2n10.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 3 Items 1 and 2 only apply where premises have been empty for at least 2 years](schedule/7A/part/2/chapter/7/paragraph/3.md)
+      - [Sch. 7A para. 3A Items 1 and 2 apply to related garage works](schedule/7A/paragraph/3A.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 4 Items 1 and 2 only apply if planning consent and building control approval obtained](schedule/7A/part/2/chapter/7/paragraph/4.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 4A Items 1 and 2 only apply if building used for relevant residential purpose is subsequently used solely for that purpose](schedule/7A/part/2/chapter/7/paragraph/4A.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 5 Meaning of “supply of qualifying services”](schedule/7A/part/2/chapter/7/paragraph/5.md)
+      - [Sch. 7A Pt. 2 Ch. 7 para. 6 Meaning of “building materials”](schedule/7A/part/2/chapter/7/paragraph/6.md)
+    - Group 8— CONTRACEPTIVE PRODUCTS
+      - [Sch. 7A Pt. 2 Ch. 8 para. 1](schedule/7A/part/2/chapter/8/paragraph/1.md)
+    - Group 9— WELFARE ADVICE OR INFORMATION
+      - [Sch. 7A Pt. 2 Ch. 9 para. 1](schedule/7A/part/2/chapter/9/paragraph/1.md)
+    - Group 10 – INSTALLATION OF MOBILITY AIDS FOR THE ELDERLY
+      - [Sch. 7A Pt. 2 Ch. 10 para. 1](schedule/7A/part/2/chapter/10/paragraph/1.md)
+      - [Sch. 7A Pt. 2 Ch. 10 para. 2](schedule/7A/part/2/chapter/10/paragraph/2.md)
+    - Group 11 — SMOKING CESSATION PRODUCTS
+      - [Sch. 7A Pt. 2 Ch. 11 para. 1](schedule/7A/part/2/chapter/11/paragraph/1.md)
+    - GROUP 12 CARAVANS
+      - [Sch. 7A Ch. 12 para. 1 Item No](schedule/7A/chapter/12/paragraph/1.md)
+      - [Sch. 7A Ch. 12 para. 2](schedule/7A/chapter/12/paragraph/2.md)
+    - GROUP 13 CABLE-SUSPENDED PASSENGER TRANSPORT SYSTEMS
+    - Group 14 — Course of Catering
+      - [Sch. 7A Pt. 2 Ch. 14 para. 1](schedule/7A/part/2/chapter/14/paragraph/1.md)
+    - Group 15 — Holiday accommodation etc
+      - [Sch. 7A Pt. 2 Ch. 15 para. 1](schedule/7A/part/2/chapter/15/paragraph/1.md)
+    - Group 16 — Shows and certain other attractions
+      - [Sch. 7A Pt. 2 Ch. 16 para. 1](schedule/7A/part/2/chapter/16/paragraph/1.md)
+- SCHEDULE 8 Zero-rating
+  - Part I Index to zero-rated supplies of goods and services
+  - Part II The Groups
+    - Group 1— Food
+      - General items
+        - [Sch. 8 Pt. II Ch. 1 heading general-items para. 1 Item No.](schedule/8/part/II/chapter/1/crossheading/general-items/paragraph/1.md)
+        - [Sch. 8 Pt. II Ch. 1 heading general-items para. 2](schedule/8/part/II/chapter/1/crossheading/general-items/paragraph/2.md)
+        - [Sch. 8 Pt. II Ch. 1 heading general-items para. 3](schedule/8/part/II/chapter/1/crossheading/general-items/paragraph/3.md)
+        - [Sch. 8 Pt. II Ch. 1 heading general-items para. 4](schedule/8/part/II/chapter/1/crossheading/general-items/paragraph/4.md)
+      - Excepted items
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 1 Item No.](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/1.md)
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 2](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/2.md)
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 3](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/3.md)
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 4](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/4.md)
+        - [Sch. 8 para. 4A](schedule/8/paragraph/4A.md)
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 5](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/5.md)
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 6](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/6.md)
+        - [Sch. 8 Pt. II Ch. 1 heading excepted-items para. 7](schedule/8/part/II/chapter/1/crossheading/excepted-items/paragraph/7.md)
+      - Items overriding the exceptions
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 1 Item No.](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/1.md)
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 2](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/2.md)
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 3](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/3.md)
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 4](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/4.md)
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 5](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/5.md)
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 6](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/6.md)
+        - [Sch. 8 Pt. II Ch. 1 heading items-overriding-the-exceptions para. 7](schedule/8/part/II/chapter/1/crossheading/items-overriding-the-exceptions/paragraph/7.md)
+    - Group 2— Sewerage services and water
+      - [Sch. 8 Pt. II Ch. 2 para. 1 Item No.](schedule/8/part/II/chapter/2/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 2 para. 2](schedule/8/part/II/chapter/2/paragraph/2.md)
+    - Group 3— Books, etc.
+      - [Sch. 8 Pt. II Ch. 3 para. 1 Item No.](schedule/8/part/II/chapter/3/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 3 para. 2](schedule/8/part/II/chapter/3/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 3 para. 3](schedule/8/part/II/chapter/3/paragraph/3.md)
+      - [Sch. 8 Pt. II Ch. 3 para. 4](schedule/8/part/II/chapter/3/paragraph/4.md)
+      - [Sch. 8 Pt. II Ch. 3 para. 5](schedule/8/part/II/chapter/3/paragraph/5.md)
+      - [Sch. 8 Pt. II Ch. 3 para. 6](schedule/8/part/II/chapter/3/paragraph/6.md)
+      - [Sch. 8 Pt. II Ch. 3 para. 7](schedule/8/part/II/chapter/3/paragraph/7.md)
+    - Group 4— Talking books for the blind and disabled and wireless sets for the blind
+      - [Sch. 8 Pt. II Ch. 4 para. 1 Item No.](schedule/8/part/II/chapter/4/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 4 para. 2](schedule/8/part/II/chapter/4/paragraph/2.md)
+    - GROUP 5-CONSTRUCTION OF BUILDINGS, ETC.
+      - [Sch. 8 Pt. II Ch. 5 para. 1 Item No.](schedule/8/part/II/chapter/5/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 5 para. 2](schedule/8/part/II/chapter/5/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 5 para. 3](schedule/8/part/II/chapter/5/paragraph/3.md)
+      - [Sch. 8 Pt. II Ch. 5 para. 4](schedule/8/part/II/chapter/5/paragraph/4.md)
+    - GROUP 6—PROTECTED BUILDINGS
+      - [Sch. 8 Pt. II Ch. 6 para. 1 Item No.](schedule/8/part/II/chapter/6/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 6 para. 2](schedule/8/part/II/chapter/6/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 6 para. 3](schedule/8/part/II/chapter/6/paragraph/3.md)
+    - Group 7— International services
+      - [Sch. 8 Pt. II Ch. 7 para. 1 Item No.](schedule/8/part/II/chapter/7/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 7 para. 2](schedule/8/part/II/chapter/7/paragraph/2.md)
+    - Group 8— Transport
+      - [Sch. 8 Pt. II Ch. 8 para. 1](schedule/8/part/II/chapter/8/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 2](schedule/8/part/II/chapter/8/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 2A](schedule/8/part/II/chapter/8/paragraph/2A.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 2B](schedule/8/part/II/chapter/8/paragraph/2B.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 3](schedule/8/part/II/chapter/8/paragraph/3.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 4](schedule/8/part/II/chapter/8/paragraph/4.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 5](schedule/8/part/II/chapter/8/paragraph/5.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 6](schedule/8/part/II/chapter/8/paragraph/6.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 6ZA](schedule/8/part/II/chapter/8/paragraph/6ZA.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 6ZB](schedule/8/part/II/chapter/8/paragraph/6ZB.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 6A](schedule/8/part/II/chapter/8/paragraph/6A.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 7](schedule/8/part/II/chapter/8/paragraph/7.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 8](schedule/8/part/II/chapter/8/paragraph/8.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 9](schedule/8/part/II/chapter/8/paragraph/9.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 10](schedule/8/part/II/chapter/8/paragraph/10.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 11](schedule/8/part/II/chapter/8/paragraph/11.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 12](schedule/8/part/II/chapter/8/paragraph/12.md)
+      - [Sch. 8 Pt. II Ch. 8 para. 13](schedule/8/part/II/chapter/8/paragraph/13.md)
+    - Group 9— Caravans and houseboats
+      - [Sch. 8 Pt. II Ch. 9 para. 1 Item No.](schedule/8/part/II/chapter/9/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 9 para. 2](schedule/8/part/II/chapter/9/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 9 para. 3](schedule/8/part/II/chapter/9/paragraph/3.md)
+    - Group 10— Gold
+      - [Sch. 8 Pt. II Ch. 10 para. 1 Item No.](schedule/8/part/II/chapter/10/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 10 para. 2](schedule/8/part/II/chapter/10/paragraph/2.md)
+    - Group 11— Bank notes
+      - [Sch. 8 Pt. II Ch. 11 para. 1 Item No.](schedule/8/part/II/chapter/11/paragraph/1.md)
+    - Group 12— Drugs, medicines, aids for the disabled, etc.
+      - [Sch. 8 Pt. II Ch. 12 para. 1 Item No.](schedule/8/part/II/chapter/12/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 1A](schedule/8/part/II/chapter/12/paragraph/1A.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 2](schedule/8/part/II/chapter/12/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 2A](schedule/8/part/II/chapter/12/paragraph/2A.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 2B](schedule/8/part/II/chapter/12/paragraph/2B.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 3](schedule/8/part/II/chapter/12/paragraph/3.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 4](schedule/8/part/II/chapter/12/paragraph/4.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 5](schedule/8/part/II/chapter/12/paragraph/5.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 6](schedule/8/part/II/chapter/12/paragraph/6.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 7](schedule/8/part/II/chapter/12/paragraph/7.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 8](schedule/8/part/II/chapter/12/paragraph/8.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 9](schedule/8/part/II/chapter/12/paragraph/9.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 10](schedule/8/part/II/chapter/12/paragraph/10.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 11](schedule/8/part/II/chapter/12/paragraph/11.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 12](schedule/8/part/II/chapter/12/paragraph/12.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 13](schedule/8/part/II/chapter/12/paragraph/13.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 14](schedule/8/part/II/chapter/12/paragraph/14.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 15](schedule/8/part/II/chapter/12/paragraph/15.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 16](schedule/8/part/II/chapter/12/paragraph/16.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 17](schedule/8/part/II/chapter/12/paragraph/17.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 18](schedule/8/part/II/chapter/12/paragraph/18.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 19](schedule/8/part/II/chapter/12/paragraph/19.md)
+      - [Sch. 8 Pt. II Ch. 12 para. 20](schedule/8/part/II/chapter/12/paragraph/20.md)
+    - Group 13— Imports, exports etc.
+      - [Sch. 8 Pt. II Ch. 13 para. 1 Item No.](schedule/8/part/II/chapter/13/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 13 para. 2](schedule/8/part/II/chapter/13/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 13 para. 3](schedule/8/part/II/chapter/13/paragraph/3.md)
+    - Group 14— Tax-free shops
+    - Group 15— Charities etc.
+      - [Sch. 8 Pt. II Ch. 15 para. 1](schedule/8/part/II/chapter/15/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 1A](schedule/8/part/II/chapter/15/paragraph/1A.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 2](schedule/8/part/II/chapter/15/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 3](schedule/8/part/II/chapter/15/paragraph/3.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 4](schedule/8/part/II/chapter/15/paragraph/4.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 5](schedule/8/part/II/chapter/15/paragraph/5.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 6](schedule/8/part/II/chapter/15/paragraph/6.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 7](schedule/8/part/II/chapter/15/paragraph/7.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 8](schedule/8/part/II/chapter/15/paragraph/8.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 8A](schedule/8/part/II/chapter/15/paragraph/8A.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 8B](schedule/8/part/II/chapter/15/paragraph/8B.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 8C](schedule/8/part/II/chapter/15/paragraph/8C.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 9](schedule/8/part/II/chapter/15/paragraph/9.md)
+      - [Sch. 8 Pt. II Ch. 15 para. 10](schedule/8/part/II/chapter/15/paragraph/10.md)
+    - Group 16— Clothing and footwear
+      - [Sch. 8 Pt. II Ch. 16 para. 1 Item No.](schedule/8/part/II/chapter/16/paragraph/1.md)
+      - [Sch. 8 Pt. II Ch. 16 para. 2](schedule/8/part/II/chapter/16/paragraph/2.md)
+      - [Sch. 8 Pt. II Ch. 16 para. 3](schedule/8/part/II/chapter/16/paragraph/3.md)
+    - GROUP 17—EMISSIONS ALLOWANCES
+      - [Sch. 8 Pt. II Ch. 17 para. 1](schedule/8/part/II/chapter/17/paragraph/1.md)
+    - GROUP 18 — EUROPEAN RESEARCH INFRASTRUCTURE CONSORTIA
+    - Group 19 - women’s sanitary products
+      - [Sch. 8 Pt. II Ch. 19 para. 1 Item No.](schedule/8/part/II/chapter/19/paragraph/1.md)
+    - Group 20—Personal Protective Equipment (Coronavirus)
+      - [Sch. 8 Pt. II Ch. 20 para. 1 Item No.](schedule/8/part/II/chapter/20/paragraph/1.md)
+    - GROUP 21 ONLINE MARKETPLACES (DEEMED SUPPLY)
+      - Item No.
+        - [Sch. 8 Pt. II Ch. 21 para. 1](schedule/8/part/II/chapter/21/paragraph/1.md)
+    - GROUP 22 FREE ZONES
+      - Item No
+        - [Sch. 8 Pt. II Ch. 22 para. 1](schedule/8/part/II/chapter/22/paragraph/1.md)
+    - GROUP 23 INSTALLATION OF ENERGY-SAVING MATERIALS IN ENGLAND AND WALES AND SCOTLAND FROM 1 APRIL 2022 TO 31 MARCH 2027, and in Northern Ireland from 1st May 2023 to 31st March 2027
+      - Item No
+        - [Sch. 8 Pt. II Ch. 23 para. 1](schedule/8/part/II/chapter/23/paragraph/1.md)
+        - [Sch. 8 Pt. II Ch. 23 para. 2n1](schedule/8/part/II/chapter/23/paragraph/2n1.md)
+        - [Sch. 8 Pt. II Ch. 23 para. 1n1 Meaning of “energy-saving materials”](schedule/8/part/II/chapter/23/paragraph/1n1.md)
+        - [Sch. 8 Pt. II Ch. 23 para. 2n2 Meaning of “residential accommodation”](schedule/8/part/II/chapter/23/paragraph/2n2.md)
+        - [Sch. 8 Pt. II Ch. 23 para. 3 Meaning of “relevant supplies”](schedule/8/part/II/chapter/23/paragraph/3.md)
+        - [Sch. 8 para. 4 Installation of heat pumps](schedule/8/paragraph/4.md)
+        - [Sch. 8 para. 5 Meaning of “use for a relevant charitable purpose”](schedule/8/paragraph/5.md)
+- SCHEDULE 9 Exemptions
+  - Part I Index to exempt supplies of goods and services
+  - Part II The Groups
+    - Group 1— Land
+      - [Sch. 9 Pt. II Ch. 1 para. 1 Item No.](schedule/9/part/II/chapter/1/paragraph/1.md)
+    - Group 2 — Insurance
+      - [Sch. 9 Pt. II Ch. 2 para. 1](schedule/9/part/II/chapter/2/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 2 para. 4](schedule/9/part/II/chapter/2/paragraph/4.md)
+    - Group 3— Postal services
+      - [Sch. 9 Pt. II Ch. 3 para. 1 Item No](schedule/9/part/II/chapter/3/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 3 para. 2](schedule/9/part/II/chapter/3/paragraph/2.md)
+    - Group 4— Betting, gaming, dutiable machine games and lotteries
+      - [Sch. 9 Pt. II Ch. 4 para. 1 Item No.](schedule/9/part/II/chapter/4/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 4 para. 1A](schedule/9/part/II/chapter/4/paragraph/1A.md)
+      - [Sch. 9 Pt. II Ch. 4 para. 2](schedule/9/part/II/chapter/4/paragraph/2.md)
+    - Group 5— Finance
+      - [Sch. 9 Pt. II Ch. 5 para. 1 Item No.](schedule/9/part/II/chapter/5/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 2](schedule/9/part/II/chapter/5/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 2A](schedule/9/part/II/chapter/5/paragraph/2A.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 3](schedule/9/part/II/chapter/5/paragraph/3.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 4](schedule/9/part/II/chapter/5/paragraph/4.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 5](schedule/9/part/II/chapter/5/paragraph/5.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 5A](schedule/9/part/II/chapter/5/paragraph/5A.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 6](schedule/9/part/II/chapter/5/paragraph/6.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 7](schedule/9/part/II/chapter/5/paragraph/7.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 8](schedule/9/part/II/chapter/5/paragraph/8.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 9](schedule/9/part/II/chapter/5/paragraph/9.md)
+      - [Sch. 9 Pt. II Ch. 5 para. 10](schedule/9/part/II/chapter/5/paragraph/10.md)
+    - Group 6— Education
+      - [Sch. 9 Pt. II Ch. 6 para. 1 Item No.](schedule/9/part/II/chapter/6/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 2](schedule/9/part/II/chapter/6/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 3](schedule/9/part/II/chapter/6/paragraph/3.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 4](schedule/9/part/II/chapter/6/paragraph/4.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 5](schedule/9/part/II/chapter/6/paragraph/5.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 5A](schedule/9/part/II/chapter/6/paragraph/5A.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 5B](schedule/9/part/II/chapter/6/paragraph/5B.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 5C](schedule/9/part/II/chapter/6/paragraph/5C.md)
+      - [Sch. 9 Pt. II Ch. 6 para. 6](schedule/9/part/II/chapter/6/paragraph/6.md)
+    - Group 7— Health and welfare
+      - [Sch. 9 Pt. II Ch. 7 para. 1 Item No.](schedule/9/part/II/chapter/7/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 2](schedule/9/part/II/chapter/7/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 2A](schedule/9/part/II/chapter/7/paragraph/2A.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 3](schedule/9/part/II/chapter/7/paragraph/3.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 4](schedule/9/part/II/chapter/7/paragraph/4.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 5](schedule/9/part/II/chapter/7/paragraph/5.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 6](schedule/9/part/II/chapter/7/paragraph/6.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 7](schedule/9/part/II/chapter/7/paragraph/7.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 8](schedule/9/part/II/chapter/7/paragraph/8.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 9](schedule/9/part/II/chapter/7/paragraph/9.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 10](schedule/9/part/II/chapter/7/paragraph/10.md)
+      - [Sch. 9 Pt. II Ch. 7 para. 11](schedule/9/part/II/chapter/7/paragraph/11.md)
+    - Group 8— Burial and cremation
+      - [Sch. 9 Pt. II Ch. 8 para. 1 Item No.](schedule/9/part/II/chapter/8/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 8 para. 2](schedule/9/part/II/chapter/8/paragraph/2.md)
+    - Group 9— SUBSCRIPTIONS TO TRADE UNIONS, PROFESSIONAL AND OTHER PUBLIC INTEREST BODIES
+      - [Sch. 9 Pt. II Ch. 9 para. 1 Item No.](schedule/9/part/II/chapter/9/paragraph/1.md)
+    - Group 10— Sport, sports competitions and physical education
+      - [Sch. 9 Pt. II Ch. 10 para. 1 Item No.](schedule/9/part/II/chapter/10/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 10 para. 2](schedule/9/part/II/chapter/10/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 10 para. 3](schedule/9/part/II/chapter/10/paragraph/3.md)
+    - Group 11— Works of art etc
+      - [Sch. 9 Pt. II Ch. 11 para. 1 Item No.](schedule/9/part/II/chapter/11/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 11 para. 2](schedule/9/part/II/chapter/11/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 11 para. 3](schedule/9/part/II/chapter/11/paragraph/3.md)
+      - [Sch. 9 Pt. II Ch. 11 para. 4](schedule/9/part/II/chapter/11/paragraph/4.md)
+    - GROUP 12—FUND-RAISING EVENTS BY CHARITIES AND OTHER QUALIFYING BODIES
+      - [Sch. 9 Pt. II Ch. 12 para. 1 Item No.](schedule/9/part/II/chapter/12/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 12 para. 2](schedule/9/part/II/chapter/12/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 12 para. 3](schedule/9/part/II/chapter/12/paragraph/3.md)
+    - GROUP 13— CULTURAL SERVICES ETC
+      - [Sch. 9 Pt. II Ch. 13 para. 1 Item No.](schedule/9/part/II/chapter/13/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 13 para. 2](schedule/9/part/II/chapter/13/paragraph/2.md)
+    - GROUP 14—SUPPLIES OF GOODS WHERE INPUT TAX CANNOT BE RECOVERED
+      - [Sch. 9 Pt. II Ch. 14 para. 1 Item No.](schedule/9/part/II/chapter/14/paragraph/1.md)
+    - GROUP 15—INVESTMENT GOLD
+      - [Sch. 9 Pt. II Ch. 15 para. 1 Item No.](schedule/9/part/II/chapter/15/paragraph/1.md)
+      - [Sch. 9 Pt. II Ch. 15 para. 2](schedule/9/part/II/chapter/15/paragraph/2.md)
+      - [Sch. 9 Pt. II Ch. 15 para. 3](schedule/9/part/II/chapter/15/paragraph/3.md)
+    - GROUP 16 — SUPPLIES OF SERVICES BY GROUPS INVOLVING COST SHARING
+      - [Sch. 9 para. 1n1n1 Item No](schedule/9/paragraph/1n1n1.md)
+  - Part 3 Exceptions
+- SCHEDULE 9ZA VAT on acquisitions in Northern Ireland from member States
+  - PART 1 Charge to VAT for acquisitions in Northern Ireland from member States
+    - Charge to VAT
+      - [Sch. 9ZA para. 1](schedule/9ZA/paragraph/1.md)
+    - Scope of NI acquisition VAT
+      - [Sch. 9ZA para. 2](schedule/9ZA/paragraph/2.md)
+    - Meaning of acquisition of goods from a member State
+      - [Sch. 9ZA para. 3](schedule/9ZA/paragraph/3.md)
+    - Time of acquisition
+      - [Sch. 9ZA para. 4](schedule/9ZA/paragraph/4.md)
+    - Place of acquisition
+      - [Sch. 9ZA para. 5](schedule/9ZA/paragraph/5.md)
+    - Acquisitions from persons belonging in member States
+      - [Sch. 9ZA para. 6](schedule/9ZA/paragraph/6.md)
+    - Identification of persons for the purposes of VAT in Northern Ireland
+      - [Sch. 9ZA para. 7](schedule/9ZA/paragraph/7.md)
+  - PART 2 Valuation of acquisitions
+    - Valuation of acquisitions from member States
+      - [Sch. 9ZA para. 8](schedule/9ZA/paragraph/8.md)
+    - Transactions below market value
+      - [Sch. 9ZA para. 9](schedule/9ZA/paragraph/9.md)
+    - Value where goods subject to excise duty etc
+      - [Sch. 9ZA para. 10](schedule/9ZA/paragraph/10.md)
+    - Transfer or disposal for no consideration
+      - [Sch. 9ZA para. 11](schedule/9ZA/paragraph/11.md)
+    - Foreign currency transactions
+      - [Sch. 9ZA para. 12](schedule/9ZA/paragraph/12.md)
+    - Meaning of “relevant transaction” and “relevant time”
+      - [Sch. 9ZA para. 13](schedule/9ZA/paragraph/13.md)
+  - PART 3 Payment of NI acquisition VAT by taxable persons
+    - Input tax and output tax
+      - [Sch. 9ZA para. 14](schedule/9ZA/paragraph/14.md)
+    - Payment of NI acquisition VAT
+      - [Sch. 9ZA para. 15](schedule/9ZA/paragraph/15.md)
+  - PART 4 Reliefs etc
+    - Reduced rate
+      - [Sch. 9ZA para. 16](schedule/9ZA/paragraph/16.md)
+    - Zero-rating and exempt acquisitions
+      - [Sch. 9ZA para. 17](schedule/9ZA/paragraph/17.md)
+    - Refunds and reliefs
+      - [Sch. 9ZA para. 18](schedule/9ZA/paragraph/18.md)
+    - Refund of NI acquisition VAT to persons constructing certain buildings
+      - [Sch. 9ZA para. 18A](schedule/9ZA/paragraph/18A.md)
+    - Refunds in relation to new means of transport supplied to member States
+      - [Sch. 9ZA para. 19](schedule/9ZA/paragraph/19.md)
+  - PART 5 Application of Act to acquisitions in particular cases
+    - Crown application
+      - [Sch. 9ZA para. 20](schedule/9ZA/paragraph/20.md)
+    - Groups of companies
+      - [Sch. 9ZA para. 21](schedule/9ZA/paragraph/21.md)
+    - Partnerships
+      - [Sch. 9ZA para. 22](schedule/9ZA/paragraph/22.md)
+    - Unincorporated bodies, personal representative etc
+      - [Sch. 9ZA para. 23](schedule/9ZA/paragraph/23.md)
+    - Agents
+      - [Sch. 9ZA para. 24](schedule/9ZA/paragraph/24.md)
+    - VAT representatives
+      - [Sch. 9ZA para. 25](schedule/9ZA/paragraph/25.md)
+    - Margin schemes
+      - [Sch. 9ZA para. 26](schedule/9ZA/paragraph/26.md)
+  - PART 6 Administration, collection and enforcement
+    - Breaches of regulatory provisions
+      - [Sch. 9ZA para. 27](schedule/9ZA/paragraph/27.md)
+    - Offences
+      - [Sch. 9ZA para. 28](schedule/9ZA/paragraph/28.md)
+    - Failure to make returns
+      - [Sch. 9ZA para. 29](schedule/9ZA/paragraph/29.md)
+    - Interest on VAT
+      - [Sch. 9ZA para. 30](schedule/9ZA/paragraph/30.md)
+    - Assessment in cases of acquisitions of certain goods by non-taxable persons
+      - [Sch. 9ZA para. 31](schedule/9ZA/paragraph/31.md)
+    - Assessment of amounts due
+      - [Sch. 9ZA para. 32](schedule/9ZA/paragraph/32.md)
+    - Credit for, or repayment of, overstated or overpaid VAT
+      - [Sch. 9ZA para. 33](schedule/9ZA/paragraph/33.md)
+  - PART 7 Appeals and supplementary provision
+    - Appeals
+      - [Sch. 9ZA para. 34](schedule/9ZA/paragraph/34.md)
+    - Supplies spanning change of rate etc
+      - [Sch. 9ZA para. 35](schedule/9ZA/paragraph/35.md)
+    - Failure of resolution under Provisional Collection of Taxes Act 1968
+      - [Sch. 9ZA para. 36](schedule/9ZA/paragraph/36.md)
+    - Refund of VAT to Government of Northern Ireland
+      - [Sch. 9ZA para. 37](schedule/9ZA/paragraph/37.md)
+  - PART 8 Registration in respect of acquisitions from member States
+    - Liability to be registered
+      - [Sch. 9ZA para. 38](schedule/9ZA/paragraph/38.md)
+      - [Sch. 9ZA para. 39](schedule/9ZA/paragraph/39.md)
+    - Notification of liability and registration
+      - [Sch. 9ZA para. 40](schedule/9ZA/paragraph/40.md)
+    - Entitlement to be registered etc
+      - [Sch. 9ZA para. 41](schedule/9ZA/paragraph/41.md)
+    - Notification of matters affecting continuance of registration
+      - [Sch. 9ZA para. 42](schedule/9ZA/paragraph/42.md)
+    - Cancellation of registration
+      - [Sch. 9ZA para. 43](schedule/9ZA/paragraph/43.md)
+    - Exemption from registration
+      - [Sch. 9ZA para. 44](schedule/9ZA/paragraph/44.md)
+    - Power to vary specified sums by regulations
+      - [Sch. 9ZA para. 45](schedule/9ZA/paragraph/45.md)
+    - Notifications
+      - [Sch. 9ZA para. 46](schedule/9ZA/paragraph/46.md)
+    - Meaning of relevant acquisition
+      - [Sch. 9ZA para. 47](schedule/9ZA/paragraph/47.md)
+  - PART 9 Registration in respect of distance sales from the EU to Northern Ireland
+    - Liability to be registered
+      - [Sch. 9ZA para. 48](schedule/9ZA/paragraph/48.md)
+      - [Sch. 9ZA para. 49](schedule/9ZA/paragraph/49.md)
+    - Notification of liability and registration
+      - [Sch. 9ZA para. 50](schedule/9ZA/paragraph/50.md)
+    - Request to be registered
+      - [Sch. 9ZA para. 51](schedule/9ZA/paragraph/51.md)
+    - Notification of matters affecting continuance of registration
+      - [Sch. 9ZA para. 52](schedule/9ZA/paragraph/52.md)
+    - Cancellation of registration
+      - [Sch. 9ZA para. 53](schedule/9ZA/paragraph/53.md)
+    - Power to vary specified sums by regulations
+      - [Sch. 9ZA para. 54](schedule/9ZA/paragraph/54.md)
+    - Notifications
+      - [Sch. 9ZA para. 55](schedule/9ZA/paragraph/55.md)
+    - Meaning of relevant supply
+      - [Sch. 9ZA para. 56](schedule/9ZA/paragraph/56.md)
+  - PART 10 Call-off stock arrangements
+    - Where this Part of this Schedule applies
+      - [Sch. 9ZA para. 57](schedule/9ZA/paragraph/57.md)
+    - Removal of the goods not to be treated as a supply
+      - [Sch. 9ZA para. 58](schedule/9ZA/paragraph/58.md)
+    - Goods transferred to the customer within 12 months of arrival
+      - [Sch. 9ZA para. 59](schedule/9ZA/paragraph/59.md)
+    - Relevant event occurs within 12 months of arrival
+      - [Sch. 9ZA para. 60](schedule/9ZA/paragraph/60.md)
+    - Goods not transferred and no relevant event occurs within 12 months of arrival
+      - [Sch. 9ZA para. 61](schedule/9ZA/paragraph/61.md)
+    - Exception to paragraphs 60 and 61: goods returned to origin territory
+      - [Sch. 9ZA para. 62](schedule/9ZA/paragraph/62.md)
+    - Meaning of “relevant event”
+      - [Sch. 9ZA para. 63](schedule/9ZA/paragraph/63.md)
+    - Record keeping by the supplier
+      - [Sch. 9ZA para. 64](schedule/9ZA/paragraph/64.md)
+    - Record keeping by the customer
+      - [Sch. 9ZA para. 65](schedule/9ZA/paragraph/65.md)
+  - PART 11 Modification of other Schedules
+    - Registration in respect of taxable supplies: UK establishment (Schedule 1)
+      - [Sch. 9ZA para. 66](schedule/9ZA/paragraph/66.md)
+    - Registration in respect of taxable supplies: non-UK establishment (Schedule 1A)
+      - [Sch. 9ZA para. 67](schedule/9ZA/paragraph/67.md)
+    - Registration: disposals of assets where repayment is claimed (Schedule 3A)
+      - [Sch. 9ZA para. 68](schedule/9ZA/paragraph/68.md)
+    - Valuation of supplies: special cases (Schedule 6)
+      - [Sch. 9ZA para. 69](schedule/9ZA/paragraph/69.md)
+    - Zero-rating (Schedule 8)
+      - [Sch. 9ZA para. 70](schedule/9ZA/paragraph/70.md)
+    - Exempt supplies (Schedule 9)
+      - [Sch. 9ZA para. 71](schedule/9ZA/paragraph/71.md)
+    - Avoidance (Schedules 9A and 11A)
+      - [Sch. 9ZA para. 72](schedule/9ZA/paragraph/72.md)
+    - Accounting for VAT and payment of VAT (Schedule 11)
+      - [Sch. 9ZA para. 73](schedule/9ZA/paragraph/73.md)
+    - Administration, collection and enforcement (Schedule 11)
+      - [Sch. 9ZA para. 74](schedule/9ZA/paragraph/74.md)
+  - PART 12 Modification of other Acts
+    - Diplomatic privileges etc
+      - [Sch. 9ZA para. 75](schedule/9ZA/paragraph/75.md)
+    - Customs and Excise Duties (General Reliefs) Act 1979
+      - [Sch. 9ZA para. 76](schedule/9ZA/paragraph/76.md)
+    - Vehicle Excise and Registration Act 1994
+      - [Sch. 9ZA para. 77](schedule/9ZA/paragraph/77.md)
+    - Finance Act 2008
+      - [Sch. 9ZA para. 78](schedule/9ZA/paragraph/78.md)
+    - Finance Act 2016
+      - [Sch. 9ZA para. 79](schedule/9ZA/paragraph/79.md)
+    - Finance (No. 2) Act 2017
+      - [Sch. 9ZA para. 80](schedule/9ZA/paragraph/80.md)
+  - PART 13 Interpretive provisions
+    - Taxation under the laws of member States etc
+      - [Sch. 9ZA para. 81](schedule/9ZA/paragraph/81.md)
+    - Territories included in references to member States etc
+      - [Sch. 9ZA para. 82](schedule/9ZA/paragraph/82.md)
+    - Meaning of “new means of transport”
+      - [Sch. 9ZA para. 83](schedule/9ZA/paragraph/83.md)
+    - VAT charged in a member State
+      - [Sch. 9ZA para. 84](schedule/9ZA/paragraph/84.md)
+- SCHEDULE 9ZB Goods removed to or from Northern Ireland and supply rules
+  - PART 1 Importations
+    - Importations
+      - [Sch. 9ZB para. 1](schedule/9ZB/paragraph/1.md)
+    - Valuation of imports
+      - [Sch. 9ZB para. 2](schedule/9ZB/paragraph/2.md)
+  - PART 2 Movements between Northern Ireland and Great Britain
+    - Movements between Northern Ireland and Great Britain
+      - [Sch. 9ZB para. 3](schedule/9ZB/paragraph/3.md)
+    - Liability for VAT on movements between Great Britain and Northern Ireland
+      - [Sch. 9ZB para. 4](schedule/9ZB/paragraph/4.md)
+    - Valuation of goods removed from Northern Ireland to Great Britain
+      - [Sch. 9ZB para. 5](schedule/9ZB/paragraph/5.md)
+    - Relief for qualifying Northern Ireland goods
+      - [Sch. 9ZB para. 6](schedule/9ZB/paragraph/6.md)
+    - Zero-rating of supplies made before declaration on removal
+      - [Sch. 9ZB para. 7](schedule/9ZB/paragraph/7.md)
+  - PART 3 Modifications in relation to exports
+    - Movements of goods by charities
+      - [Sch. 9ZB para. 8](schedule/9ZB/paragraph/8.md)
+    - Goods exported from Northern Ireland
+      - [Sch. 9ZB para. 9](schedule/9ZB/paragraph/9.md)
+    - Zero-rating regulations
+      - [Sch. 9ZB para. 10](schedule/9ZB/paragraph/10.md)
+    - Zero-rating of supply of exported goods let on hire
+      - [Sch. 9ZB para. 11](schedule/9ZB/paragraph/11.md)
+    - Application of section 30(10)
+      - [Sch. 9ZB para. 12](schedule/9ZB/paragraph/12.md)
+    - Relief from VAT on importation of goods
+      - [Sch. 9ZB para. 13](schedule/9ZB/paragraph/13.md)
+    - Schedule 8: modifications to Group 13 and 15
+      - [Sch. 9ZB para. 14](schedule/9ZB/paragraph/14.md)
+  - PART 4 Warehouses
+    - Modification of sections 18 and 18A
+      - [Sch. 9ZB para. 15](schedule/9ZB/paragraph/15.md)
+    - Place and time of supply: Northern Ireland warehouses
+      - [Sch. 9ZB para. 16](schedule/9ZB/paragraph/16.md)
+    - Northern Ireland fiscal warehouses
+      - [Sch. 9ZB para. 17](schedule/9ZB/paragraph/17.md)
+    - Conversion of relevant fiscal warehouses etc
+      - [Sch. 9ZB para. 18](schedule/9ZB/paragraph/18.md)
+    - Northern Ireland fiscal warehouses: relief
+      - [Sch. 9ZB para. 19](schedule/9ZB/paragraph/19.md)
+    - Modification of section 18B
+      - [Sch. 9ZB para. 20](schedule/9ZB/paragraph/20.md)
+    - Northern Ireland warehouses and fiscal warehouses: services
+      - [Sch. 9ZB para. 21](schedule/9ZB/paragraph/21.md)
+    - Removal from warehousing: accountability
+      - [Sch. 9ZB para. 22](schedule/9ZB/paragraph/22.md)
+    - Deficiency in Northern Ireland fiscally warehoused goods
+      - [Sch. 9ZB para. 23](schedule/9ZB/paragraph/23.md)
+    - Incorrect Northern Ireland fiscal warehousing certificates
+      - [Sch. 9ZB para. 24](schedule/9ZB/paragraph/24.md)
+    - Supplementary provision
+      - [Sch. 9ZB para. 25](schedule/9ZB/paragraph/25.md)
+    - Modification of other provisions
+      - [Sch. 9ZB para. 26](schedule/9ZB/paragraph/26.md)
+  - PART 5 Rules relating to particular supplies
+    - Supplies of gas, electricity or heat
+      - [Sch. 9ZB para. 27](schedule/9ZB/paragraph/27.md)
+    - Time of supply involving both a supply and an acquisition
+      - [Sch. 9ZB para. 28](schedule/9ZB/paragraph/28.md)
+    - Distance selling between EU and Northern Ireland: place of supply
+      - [Sch. 9ZB para. 29](schedule/9ZB/paragraph/29.md)
+    - Removal of business assets to be treated as a supply of goods
+      - [Sch. 9ZB para. 30](schedule/9ZB/paragraph/30.md)
+    - Application of section 43 (company groups) to goods in Northern Ireland
+      - [Sch. 9ZB para. 31](schedule/9ZB/paragraph/31.md)
+    - Partially exempt supplies
+      - [Sch. 9ZB para. 31A](schedule/9ZB/paragraph/31A.md)
+    - Movement of own goods from Great Britain to Northern Ireland for non-business purposes
+      - [Sch. 9ZB para. 31B](schedule/9ZB/paragraph/31B.md)
+  - PART 6 Northern Ireland and the Isle of Man
+    - Application of Part 2 of this Schedule
+      - [Sch. 9ZB para. 32](schedule/9ZB/paragraph/32.md)
+    - Modifications in relation to exports: goods removed to Isle of Man
+      - [Sch. 9ZB para. 33](schedule/9ZB/paragraph/33.md)
+    - Warehouses
+      - [Sch. 9ZB para. 34](schedule/9ZB/paragraph/34.md)
+    - Extent
+      - [Sch. 9ZB para. 35](schedule/9ZB/paragraph/35.md)
+  - PART 7 Supplies from a member State to Great Britain via Northern Ireland: registration
+    - [Sch. 9ZB para. 36](schedule/9ZB/paragraph/36.md)
+- SCHEDULE 9ZC Online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol
+  - PART 1 Modification of this Act
+    - [Sch. 9ZC para. 1](schedule/9ZC/paragraph/1.md)
+    - [Sch. 9ZC para. 1A](schedule/9ZC/paragraph/1A.md)
+    - [Sch. 9ZC para. 1B](schedule/9ZC/paragraph/1B.md)
+    - [Sch. 9ZC para. 2](schedule/9ZC/paragraph/2.md)
+    - [Sch. 9ZC para. 2A](schedule/9ZC/paragraph/2A.md)
+    - [Sch. 9ZC para. 3](schedule/9ZC/paragraph/3.md)
+    - [Sch. 9ZC para. 3A](schedule/9ZC/paragraph/3A.md)
+    - [Sch. 9ZC para. 3B](schedule/9ZC/paragraph/3B.md)
+    - [Sch. 9ZC para. 4](schedule/9ZC/paragraph/4.md)
+    - [Sch. 9ZC para. 4A](schedule/9ZC/paragraph/4A.md)
+  - PART 2 Modification of the Value Added Tax (Imported Goods) Relief Order 1984
+    - [Sch. 9ZC para. 5](schedule/9ZC/paragraph/5.md)
+  - PART 2A Modification of the Value Added Tax Regulations 1995
+    - [Sch. 9ZC para. 5A](schedule/9ZC/paragraph/5A.md)
+  - PART 3 Registration
+    - Liability to be registered
+      - [Sch. 9ZC para. 6](schedule/9ZC/paragraph/6.md)
+      - [Sch. 9ZC para. 7](schedule/9ZC/paragraph/7.md)
+    - Notification of liability and registration
+      - [Sch. 9ZC para. 8](schedule/9ZC/paragraph/8.md)
+    - Entitlement to be registered etc
+      - [Sch. 9ZC para. 9](schedule/9ZC/paragraph/9.md)
+    - Notification of matters affecting continuance of registration
+      - [Sch. 9ZC para. 10](schedule/9ZC/paragraph/10.md)
+    - Cancellation of registration
+      - [Sch. 9ZC para. 11](schedule/9ZC/paragraph/11.md)
+    - Notifications
+      - [Sch. 9ZC para. 12](schedule/9ZC/paragraph/12.md)
+    - Meaning of relevant supply
+      - [Sch. 9ZC para. 13](schedule/9ZC/paragraph/13.md)
+    - Modification of the Finance Act 2008
+      - [Sch. 9ZC para. 14](schedule/9ZC/paragraph/14.md)
+- SCHEDULE 9ZD Distance selling of goods from Northern Ireland: special accounting scheme
+  - PART 1 Introduction
+    - Overview
+      - [Sch. 9ZD para. 1](schedule/9ZD/paragraph/1.md)
+    - “Scheme supply”
+      - [Sch. 9ZD para. 2](schedule/9ZD/paragraph/2.md)
+  - PART 2 Registration
+    - The register
+      - [Sch. 9ZD para. 3](schedule/9ZD/paragraph/3.md)
+    - Persons who may be registered
+      - [Sch. 9ZD para. 4](schedule/9ZD/paragraph/4.md)
+    - Becoming registered
+      - [Sch. 9ZD para. 5](schedule/9ZD/paragraph/5.md)
+    - Date on which registration takes effect
+      - [Sch. 9ZD para. 6](schedule/9ZD/paragraph/6.md)
+    - Further provision about registration
+      - [Sch. 9ZD para. 7](schedule/9ZD/paragraph/7.md)
+    - Notification of changes etc
+      - [Sch. 9ZD para. 8](schedule/9ZD/paragraph/8.md)
+    - Cancellation of registration
+      - [Sch. 9ZD para. 9](schedule/9ZD/paragraph/9.md)
+  - PART 3 Liability, returns, payment etc
+    - Liability to pay ... VAT to Commissioners
+      - [Sch. 9ZD para. 10](schedule/9ZD/paragraph/10.md)
+    - OSS scheme returns
+      - [Sch. 9ZD para. 11](schedule/9ZD/paragraph/11.md)
+    - OSS scheme returns: further requirements
+      - [Sch. 9ZD para. 12](schedule/9ZD/paragraph/12.md)
+    - Payment
+      - [Sch. 9ZD para. 13](schedule/9ZD/paragraph/13.md)
+    - Availability of records
+      - [Sch. 9ZD para. 14](schedule/9ZD/paragraph/14.md)
+    - Amounts required to be paid to member States
+      - [Sch. 9ZD para. 15](schedule/9ZD/paragraph/15.md)
+    - Persons registered under the OSS scheme who are also registered under this Act
+      - [Sch. 9ZD para. 15A](schedule/9ZD/paragraph/15A.md)
+  - PART 4 Persons registered under non-UK special accounting schemes
+    - Meaning of “a non-UK scheme”
+      - [Sch. 9ZD para. 16](schedule/9ZD/paragraph/16.md)
+    - Exemption from requirement to register under this Act
+      - [Sch. 9ZD para. 17](schedule/9ZD/paragraph/17.md)
+    - De-registration
+      - [Sch. 9ZD para. 18](schedule/9ZD/paragraph/18.md)
+    - Scheme participants who are also registered under this Act
+      - [Sch. 9ZD para. 19](schedule/9ZD/paragraph/19.md)
+    - Value of supplies to connected persons
+      - [Sch. 9ZD para. 20](schedule/9ZD/paragraph/20.md)
+    - Refund of VAT on supplies of goods and services supplied to scheme participant
+      - [Sch. 9ZD para. 21](schedule/9ZD/paragraph/21.md)
+    - Availability of records
+      - [Sch. 9ZD para. 21A](schedule/9ZD/paragraph/21A.md)
+  - PART 5 Collection of ...UK VAT
+    - Assessments: general modifications of section 73
+      - [Sch. 9ZD para. 22](schedule/9ZD/paragraph/22.md)
+    - Assessments in connection with increase in consideration: modifications
+      - [Sch. 9ZD para. 23](schedule/9ZD/paragraph/23.md)
+    - Assessments: consequential modifications
+      - [Sch. 9ZD para. 24](schedule/9ZD/paragraph/24.md)
+    - Deemed amendments of ... returns
+      - [Sch. 9ZD para. 25](schedule/9ZD/paragraph/25.md)
+    - Interest on VAT: “reckonable date”
+      - [Sch. 9ZD para. 26](schedule/9ZD/paragraph/26.md)
+    - Default surcharge: notice of special surcharge period
+      - [Sch. 9ZD para. 27](schedule/9ZD/paragraph/27.md)
+    - Further default after service of notice
+      - [Sch. 9ZD para. 28](schedule/9ZD/paragraph/28.md)
+    - Default surcharge: exceptions for reasonable excuse etc
+      - [Sch. 9ZD para. 29](schedule/9ZD/paragraph/29.md)
+    - Interest in certain cases of official error
+      - [Sch. 9ZD para. 30](schedule/9ZD/paragraph/30.md)
+    - Overpayments
+      - [Sch. 9ZD para. 31](schedule/9ZD/paragraph/31.md)
+    - Overpayments: supplementary
+      - [Sch. 9ZD para. 32](schedule/9ZD/paragraph/32.md)
+    - Increase or decrease in consideration for a supply: cases outside Article 61 of the Implementing Regulation
+      - [Sch. 9ZD para. 33](schedule/9ZD/paragraph/33.md)
+    - Bad debts
+      - [Sch. 9ZD para. 34](schedule/9ZD/paragraph/34.md)
+    - Penalties for errors: disclosure
+      - [Sch. 9ZD para. 35](schedule/9ZD/paragraph/35.md)
+    - Set-offs
+      - [Sch. 9ZD para. 36](schedule/9ZD/paragraph/36.md)
+  - PART 6 Appeals
+    - [Sch. 9ZD para. 37](schedule/9ZD/paragraph/37.md)
+  - PART 7 Interpretation
+    - [Sch. 9ZD para. 38](schedule/9ZD/paragraph/38.md)
+- SCHEDULE 9ZE Distance selling of goods imported to Northern Ireland: special accounting scheme
+  - PART 1 Introduction
+    - Overview
+      - [Sch. 9ZE para. 1](schedule/9ZE/paragraph/1.md)
+    - Qualifying supplies of goods
+      - [Sch. 9ZE para. 2](schedule/9ZE/paragraph/2.md)
+  - PART 2 Registration
+    - The register
+      - [Sch. 9ZE para. 3](schedule/9ZE/paragraph/3.md)
+    - Persons who may be registered
+      - [Sch. 9ZE para. 4](schedule/9ZE/paragraph/4.md)
+    - Becoming registered
+      - [Sch. 9ZE para. 5](schedule/9ZE/paragraph/5.md)
+    - Date on which registration takes effect
+      - [Sch. 9ZE para. 6](schedule/9ZE/paragraph/6.md)
+    - Further provision about registration
+      - [Sch. 9ZE para. 7](schedule/9ZE/paragraph/7.md)
+    - Notification of changes etc
+      - [Sch. 9ZE para. 8](schedule/9ZE/paragraph/8.md)
+    - Cancellation of registration
+      - [Sch. 9ZE para. 9](schedule/9ZE/paragraph/9.md)
+  - PART 3 Liability, returns, payment etc
+    - Liability to pay VAT to Commissioners
+      - [Sch. 9ZE para. 10](schedule/9ZE/paragraph/10.md)
+    - IOSS scheme returns
+      - [Sch. 9ZE para. 11](schedule/9ZE/paragraph/11.md)
+    - IOSS scheme returns: further requirements
+      - [Sch. 9ZE para. 12](schedule/9ZE/paragraph/12.md)
+    - Payment
+      - [Sch. 9ZE para. 13](schedule/9ZE/paragraph/13.md)
+    - Availability of records: persons registered under the IOSS scheme
+      - [Sch. 9ZE para. 14](schedule/9ZE/paragraph/14.md)
+    - Amounts required to be paid to member States
+      - [Sch. 9ZE para. 15](schedule/9ZE/paragraph/15.md)
+  - PART 4 Collection etc of UK VAT
+    - Assessments: general modifications of section 73
+      - [Sch. 9ZE para. 16](schedule/9ZE/paragraph/16.md)
+    - Assessments in connection with increase in consideration: modifications
+      - [Sch. 9ZE para. 17](schedule/9ZE/paragraph/17.md)
+    - Assessments: consequential modifications
+      - [Sch. 9ZE para. 18](schedule/9ZE/paragraph/18.md)
+    - Deemed amendments of relevant special scheme returns
+      - [Sch. 9ZE para. 19](schedule/9ZE/paragraph/19.md)
+    - Interest on VAT: “reckonable date”
+      - [Sch. 9ZE para. 20](schedule/9ZE/paragraph/20.md)
+    - Default surcharge: notice of special surcharge period
+      - [Sch. 9ZE para. 21](schedule/9ZE/paragraph/21.md)
+    - Further default after service of notice
+      - [Sch. 9ZE para. 22](schedule/9ZE/paragraph/22.md)
+    - Default surcharge: exceptions for reasonable excuse etc
+      - [Sch. 9ZE para. 23](schedule/9ZE/paragraph/23.md)
+    - Interest in certain cases of official error
+      - [Sch. 9ZE para. 24](schedule/9ZE/paragraph/24.md)
+    - Overpayments
+      - [Sch. 9ZE para. 25](schedule/9ZE/paragraph/25.md)
+    - Overpayments: supplementary
+      - [Sch. 9ZE para. 26](schedule/9ZE/paragraph/26.md)
+    - Increase or decrease in consideration for a supply
+      - [Sch. 9ZE para. 27](schedule/9ZE/paragraph/27.md)
+    - Bad debts
+      - [Sch. 9ZE para. 28](schedule/9ZE/paragraph/28.md)
+    - Penalties for errors: disclosure
+      - [Sch. 9ZE para. 29](schedule/9ZE/paragraph/29.md)
+    - Set-offs
+      - [Sch. 9ZE para. 30](schedule/9ZE/paragraph/30.md)
+    - Availability of records: participants in a special scheme (other than the IOSS scheme)
+      - [Sch. 9ZE para. 30A](schedule/9ZE/paragraph/30A.md)
+  - PART 5 IOSS representatives
+    - Eligibility and representation
+      - [Sch. 9ZE para. 31](schedule/9ZE/paragraph/31.md)
+    - Register
+      - [Sch. 9ZE para. 32](schedule/9ZE/paragraph/32.md)
+    - Duties and obligations
+      - [Sch. 9ZE para. 33](schedule/9ZE/paragraph/33.md)
+  - PART 6 Supplementary provision
+    - Registration under this Act
+      - [Sch. 9ZE para. 34](schedule/9ZE/paragraph/34.md)
+    - De-registration
+      - [Sch. 9ZE para. 35](schedule/9ZE/paragraph/35.md)
+    - Scheme participants who are also registered under this Act
+      - [Sch. 9ZE para. 36](schedule/9ZE/paragraph/36.md)
+    - No VAT chargeable on supplies by special scheme participants not registered for VAT
+      - [Sch. 9ZE para. 36A](schedule/9ZE/paragraph/36A.md)
+    - No import VAT chargeable on qualifying supplies of goods
+      - [Sch. 9ZE para. 37](schedule/9ZE/paragraph/37.md)
+    - Time and place of supply of goods
+      - [Sch. 9ZE para. 38](schedule/9ZE/paragraph/38.md)
+    - Place of supply of goods: supplies facilitated by online marketplaces
+      - [Sch. 9ZE para. 39](schedule/9ZE/paragraph/39.md)
+    - VAT representatives
+      - [Sch. 9ZE para. 40](schedule/9ZE/paragraph/40.md)
+    - Refund of UK VAT
+      - [Sch. 9ZE para. 41](schedule/9ZE/paragraph/41.md)
+  - PART 7 Appeals
+    - Appeals
+      - [Sch. 9ZE para. 42](schedule/9ZE/paragraph/42.md)
+  - PART 8 Interpretation
+    - Interpretation
+      - [Sch. 9ZE para. 43](schedule/9ZE/paragraph/43.md)
+- SCHEDULE 9ZF Modifications etc in connection with Schedules 9ZD and 9ZE
+  - PART 1 Modifications of this Act
+    - [Sch. 9ZF para. 1](schedule/9ZF/paragraph/1.md)
+    - [Sch. 9ZF para. 1A](schedule/9ZF/paragraph/1A.md)
+    - [Sch. 9ZF para. 2](schedule/9ZF/paragraph/2.md)
+    - [Sch. 9ZF para. 3](schedule/9ZF/paragraph/3.md)
+    - [Sch. 9ZF para. 4](schedule/9ZF/paragraph/4.md)
+    - [Sch. 9ZF para. 5](schedule/9ZF/paragraph/5.md)
+    - [Sch. 9ZF para. 6](schedule/9ZF/paragraph/6.md)
+    - [Sch. 9ZF para. 7](schedule/9ZF/paragraph/7.md)
+    - [Sch. 9ZF para. 8](schedule/9ZF/paragraph/8.md)
+    - [Sch. 9ZF para. 8A](schedule/9ZF/paragraph/8A.md)
+  - PART 2 Modifications etc of other Acts
+    - Finance Act 2007
+      - [Sch. 9ZF para. 9](schedule/9ZF/paragraph/9.md)
+    - Finance Act 2009
+      - [Sch. 9ZF para. 10](schedule/9ZF/paragraph/10.md)
+      - [Sch. 9ZF para. 11](schedule/9ZF/paragraph/11.md)
+      - [Sch. 9ZF para. 11A](schedule/9ZF/paragraph/11A.md)
+      - [Sch. 9ZF para. 11B](schedule/9ZF/paragraph/11B.md)
+      - [Sch. 9ZF para. 11C](schedule/9ZF/paragraph/11C.md)
+      - [Sch. 9ZF para. 11D](schedule/9ZF/paragraph/11D.md)
+      - [Sch. 9ZF para. 12](schedule/9ZF/paragraph/12.md)
+    - Taxation (Cross-border Trade) Act 2018
+      - [Sch. 9ZF para. 13](schedule/9ZF/paragraph/13.md)
+    - Finance Act 2021
+      - [Sch. 9ZF para. 13A](schedule/9ZF/paragraph/13A.md)
+  - PART 3 Modifications of secondary legislation
+    - Value Added Tax Regulations 1995
+      - [Sch. 9ZF para. 14](schedule/9ZF/paragraph/14.md)
+      - [Sch. 9ZF para. 15](schedule/9ZF/paragraph/15.md)
+      - [Sch. 9ZF para. 16](schedule/9ZF/paragraph/16.md)
+      - [Sch. 9ZF para. 17](schedule/9ZF/paragraph/17.md)
+      - [Sch. 9ZF para. 18](schedule/9ZF/paragraph/18.md)
+- SCHEDULE 9A Anti-avoidance provisions: groups
+  - Power to give directions
+    - [Sch. 9A para. 1](schedule/9A/paragraph/1.md)
+  - Restrictions on giving directions
+    - [Sch. 9A para. 2](schedule/9A/paragraph/2.md)
+  - Form of directions under Schedule
+    - [Sch. 9A para. 3](schedule/9A/paragraph/3.md)
+  - Time limit on directions
+    - [Sch. 9A para. 4](schedule/9A/paragraph/4.md)
+  - Manner of giving directions
+    - [Sch. 9A para. 5](schedule/9A/paragraph/5.md)
+  - Assessment in consequence of a direction
+    - [Sch. 9A para. 6](schedule/9A/paragraph/6.md)
+  - Interpretation of Schedule etc.
+    - [Sch. 9A para. 7](schedule/9A/paragraph/7.md)
+- SCHEDULE 10 BUILDINGS AND LAND
+  - PART 1 THE OPTION TO TAX LAND
+    - Introduction
+      - [Sch. 10 para. 1 Overview of the option to tax](schedule/10/paragraph/1.md)
+    - The option to tax
+      - [Sch. 10 para. 2 Effect of the option to tax: exempt supplies become taxable](schedule/10/paragraph/2.md)
+      - [Sch. 10 para. 3 Meaning of “relevant associate”](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4 Permission for a body corporate to cease to be a relevant associate of the opter](schedule/10/paragraph/4.md)
+    - Exclusions from effect of option to tax
+      - [Sch. 10 para. 5 Dwellings designed or adapted, and intended for use, as dwelling etc](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6 Conversion of buildings for use as dwelling etc](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7 Charities](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8 Residential caravans](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9 Residential houseboats](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10 Relevant housing associations](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11 Grant to individual for construction of dwelling](schedule/10/paragraph/11.md)
+    - Anti-avoidance
+      - [Sch. 10 para. 12 Developers of exempt land](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13 Meaning of grants made by a developer](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14 Meaning of “development financier”](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15 Meaning of “exempt land”: basic definition](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 15A Meaning of “exempt land”: the building occupation conditions](schedule/10/paragraph/15A.md)
+      - [Sch. 10 para. 16 Meaning of “exempt land”: eligible purposes](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17 Paragraph 12: grants made on or after 19th March 1997 and before 10th March 1999](schedule/10/paragraph/17.md)
+    - Scope of the option, its duration, notification etc
+      - [Sch. 10 para. 18 Scope of the option](schedule/10/paragraph/18.md)
+      - [Sch. 10 para. 19 The day from which the option has effect](schedule/10/paragraph/19.md)
+      - [Sch. 10 para. 20 Requirement to notify the option](schedule/10/paragraph/20.md)
+      - [Sch. 10 para. 21 Real estate elections: elections to opt to tax land subsequently acquired](schedule/10/paragraph/21.md)
+      - [Sch. 10 para. 22 Real estate elections: supplementary](schedule/10/paragraph/22.md)
+      - [Sch. 10 para. 23 Revocation of option: the “cooling off” period](schedule/10/paragraph/23.md)
+      - [Sch. 10 para. 24 Revocation of option: lapse of 6 years since having a relevant interest](schedule/10/paragraph/24.md)
+      - [Sch. 10 para. 25 Revocation of option: lapse of more than 20 years since option had effect](schedule/10/paragraph/25.md)
+      - [Sch. 10 para. 26 Revocation of option under paragraph 22(2) or (3) or 24: anti-avoidance](schedule/10/paragraph/26.md)
+      - [Sch. 10 para. 27 Exclusion of new building from effect of an option](schedule/10/paragraph/27.md)
+      - [Sch. 10 para. 28 Pre-option exempt grants: requirement for prior permission before exercise of option to tax](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29 Paragraph 28: application for prior permission](schedule/10/paragraph/29.md)
+      - [Sch. 10 para. 30 Paragraph 28: purported exercise where prior permission not obtained](schedule/10/paragraph/30.md)
+    - Supplementary provisions
+      - [Sch. 10 para. 31 Timing of grant and supplies](schedule/10/paragraph/31.md)
+      - [Sch. 10 para. 32 Supplies in relation to a building where part designed or intended for residential or charitable use and part designed or intended for other uses](schedule/10/paragraph/32.md)
+      - [Sch. 10 para. 33 Definitions in Schedules 8 or 9 that are applied for the purposes of this Schedule](schedule/10/paragraph/33.md)
+      - [Sch. 10 para. 34 Other definitions etc](schedule/10/paragraph/34.md)
+  - PART 2 RESIDENTIAL AND CHARITABLE BUILDINGS: CHANGE OF USE ETC
+    - [Sch. 10 para. 35 Introductory](schedule/10/paragraph/35.md)
+    - [Sch. 10 para. 36 Disposal of interest or change of use following relevant zero-rated supply](schedule/10/paragraph/36.md)
+    - [Sch. 10 para. 37 Charge to VAT](schedule/10/paragraph/37.md)
+    - [Sch. 10 para. 38 Supplies in relation to a building where part designed for residential or charitable use and part designed for other uses](schedule/10/paragraph/38.md)
+    - [Sch. 10 para. 39 Definitions](schedule/10/paragraph/39.md)
+  - PART 3 GENERAL
+    - [Sch. 10 para. 40 Benefit of consideration for grant accruing to a person other than the grantor](schedule/10/paragraph/40.md)
+- SCHEDULE 10A Face-value vouchers issued before 1 January 2019
+  - Meaning of “face-value voucher” etc
+    - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+  - Nature of supply
+    - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+  - Treatment of credit vouchers
+    - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+  - Treatment of retailer vouchers
+    - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+  - Treatment of postage stamps
+    - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+  - Treatment of other kinds of face-value voucher
+    - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+  - Vouchers supplied free with other goods or services
+    - [Sch. 10A para. 7](schedule/10A/paragraph/7.md)
+  - Exclusion of single purpose vouchers
+    - [Sch. 10A para. 7A](schedule/10A/paragraph/7A.md)
+  - Interpretation
+    - [Sch. 10A para. 8](schedule/10A/paragraph/8.md)
+- SCHEDULE 10B VAT treatment of vouchers issued on or after 1 January 2019
+  - Meaning of “voucher”
+    - [Sch. 10B para. 1](schedule/10B/paragraph/1.md)
+  - Meaning of related expressions
+    - [Sch. 10B para. 2](schedule/10B/paragraph/2.md)
+  - VAT treatment of vouchers: general rule
+    - [Sch. 10B para. 3](schedule/10B/paragraph/3.md)
+  - Single purpose vouchers: special rules
+    - [Sch. 10B para. 4](schedule/10B/paragraph/4.md)
+    - [Sch. 10B para. 5](schedule/10B/paragraph/5.md)
+  - Multi-purpose vouchers: special rules
+    - [Sch. 10B para. 6](schedule/10B/paragraph/6.md)
+    - [Sch. 10B para. 7](schedule/10B/paragraph/7.md)
+    - [Sch. 10B para. 8](schedule/10B/paragraph/8.md)
+  - Intermediaries
+    - [Sch. 10B para. 9](schedule/10B/paragraph/9.md)
+    - [Sch. 10B para. 10](schedule/10B/paragraph/10.md)
+  - Composite transactions
+    - [Sch. 10B para. 11](schedule/10B/paragraph/11.md)
+- SCHEDULE 11 Administration, collection and enforcement
+  - General
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Accounting for VAT... and payment of VAT
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - VAT invoices
+    - [Sch. 11 para. 2A](schedule/11/paragraph/2A.md)
+  - Self-billed invoices
+    - [Sch. 11 para. 2B](schedule/11/paragraph/2B.md)
+  - Electronic communication and storage of VAT invoices etc
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Power to require security and production of evidence
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Recovery of VAT, etc
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Duty to keep records
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 6A](schedule/11/paragraph/6A.md)
+  - Furnishing of information and production of documents
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Power to take samples
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Power to require opening of machines on which relevant machine games are played
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Entry and search of premises and persons
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Order for access to recorded information etc.
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Procedure where documents etc. are removed
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Evidence by certificate, etc
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+- SCHEDULE 11A Disclosure of avoidance Schemes
+  - Interpretation
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+  - Obtaining a tax advantage
+    - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+  - Meaning of “non-deductible tax”
+    - [Sch. 11A para. 2A](schedule/11A/paragraph/2A.md)
+  - Designation by order of avoidance schemes
+    - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+  - Designation by order of provisions included in or associated with avoidance schemes
+    - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+  - Meaning of “notifiable scheme”
+    - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+  - Duty to notify Commissioners
+    - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+  - Exemptions from duty to notify under paragraph 6
+    - [Sch. 11A para. 7](schedule/11A/paragraph/7.md)
+  - Power to exclude exemption
+    - [Sch. 11A para. 8](schedule/11A/paragraph/8.md)
+  - Voluntary notification of avoidance scheme that is not designated scheme
+    - [Sch. 11A para. 9](schedule/11A/paragraph/9.md)
+  - Penalty for failure to notify use of notifiable scheme
+    - [Sch. 11A para. 10](schedule/11A/paragraph/10.md)
+  - Amount of penalty
+    - [Sch. 11A para. 11](schedule/11A/paragraph/11.md)
+  - Penalty assessments
+    - [Sch. 11A para. 12](schedule/11A/paragraph/12.md)
+  - Penalty assessments
+    - [Sch. 11A para. 13](schedule/11A/paragraph/13.md)
+- SCHEDULE 12 Constitution and procedure of tribunals
+  - Establishment of tribunals
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - The President
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Sittings of tribunals
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Composition of tribunals
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Membership of tribunals
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Exemption from jury service
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Rules of procedure
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+- SCHEDULE 13 Transitional provisions and savings
+    - General provisions
+      - [Sch. 13 Pt. crossheading general-provisions paragraph 1](schedule/13/part/crossheading/general-provisions/paragraph/1.md)
+    - Validity of subordinate legislation
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Provisions related to the introduction of VAT
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Supply in accordance with pre-21.4.75 arrangements
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - President, chairmen etc of tribunals
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Overseas suppliers accounting through their customers
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Supplies of fuel and power for domestic or charity use
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Group 4A Fuel and power for domestic or charity use
+      - [Sch. 13 Pt. chapter 1 paragraph 1 Item No.](schedule/13/part/chapter/1/paragraph/1.md)
+      - Zero-rated supplies of goods and services
+        - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+      - Bad debt relief
+        - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+      - Supplies during construction of buildings and works
+        - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - Offences and Penalties
+        - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+        - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+        - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+        - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+        - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+        - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+        - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+        - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+      - Importation of goods
+        - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+      - Assessments
+        - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+      - Set-off of credits
+        - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+      - VAT tribunals
+        - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+      - Isle of Man
+        - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+- SCHEDULE 14 Consequential amendments
+  - Diplomatic Privileges Act 1964 c.81
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Commonwealth Secretariat Act 1966 c.10
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Consular Relations Act 1968 c.18
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - International Organisations Act 1968 c.48
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Diplomatic and other Privileges Act 1971 c.64
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Customs and Excise Management Act 1979 c.2
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Isle of Man Act 1979 c.58
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Insolvency Act 1986 c.45
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Bankruptcy (Scotland) Act 1985 c.66
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Income and Corporation Taxes Act 1988 c.1
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Capital Allowances Act 1990 c.1
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Tribunals and Inquiries Act 1992 c.53
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Finance Act 1994 c.9
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Vehicle Excise and Registration Act 1994 c.22
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+- SCHEDULE 15 Repeals
+  - Acts of Parliament
+  - Statutory Instruments
+- TABLE OF DERIVATIONS
+  - [Sch. n21 para. 1 Notes:](schedule/n21/paragraph/1.md)
+  - [Sch. n21 para. 2](schedule/n21/paragraph/2.md)
+  - Acts of Parliament
+  - Subordinate legislation
