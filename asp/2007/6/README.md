@@ -1,0 +1,169 @@
+# Criminal Proceedings etc. (Reform) (Scotland) Act 2007
+
+asp/2007/6. Enacted 2007-02-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/6
+
+Source: https://www.legislation.gov.uk/asp/2007/6/2026-10-01
+
+## Contents
+
+- Part 1 Bail
+  - [s. 1 Determination of questions of bail](section/1.md)
+  - [s. 2 Bail and bail conditions](section/2.md)
+  - [s. 3 Breach of bail conditions](section/3.md)
+  - [s. 4 Bail review and appeal](section/4.md)
+  - [s. 5 Attitude of prosecutor after conviction](section/5.md)
+  - [s. 6 Time for dealing with applications](section/6.md)
+- Part 2 Proceedings
+  - Police functions
+    - [s. 7 Liberation on undertaking](section/7.md)
+  - Summary procedure
+    - [s. 8 Manner of citation](section/8.md)
+    - [s. 9 Procedure at first calling](section/9.md)
+    - [s. 10 Intimation of diets etc.](section/10.md)
+    - [s. 11 Pre-trial time limits](section/11.md)
+    - [s. 12 Disclosure of convictions](section/12.md)
+    - [s. 13 Complaints triable together](section/13.md)
+    - [s. 14 Proceedings in absence of accused](section/14.md)
+    - [s. 15 Failure of accused to appear](section/15.md)
+    - [s. 16 Obstructive witnesses](section/16.md)
+    - [s. 17 Prosecution of companies etc.](section/17.md)
+  - Preparation for summary trial
+    - [s. 18 Intermediate diets](section/18.md)
+    - [s. 19 Notice of defences](section/19.md)
+    - [s. 20 Proof of uncontroversial matters](section/20.md)
+    - [s. 21 Service of documents through solicitor etc.](section/21.md)
+  - Transfer of summary cases
+    - [s. 22 Transfer of proceedings](section/22.md)
+    - [s. 23 Time bar for transferred and related cases](section/23.md)
+  - Other provisions
+    - [s. 24 Reports about supervised persons](section/24.md)
+    - [s. 25 Summary appeal time limit](section/25.md)
+  - Solemn cases
+    - [s. 26 Pre-trial time limits](section/26.md)
+    - [s. 27 Obstructive witnesses](section/27.md)
+    - [s. 28 Proceedings against bodies corporate](section/28.md)
+    - [s. 29 Jury citation](section/29.md)
+    - [s. 30 Duty to seek agreement of evidence](section/30.md)
+    - [s. 31 Petition proceedings outwith sheriffdom](section/31.md)
+    - [s. 32 Failure of accused to appear](section/32.md)
+  - Miscellaneous
+    - [s. 33 Apprehension warrants](section/33.md)
+    - [s. 34 Participation in identification procedures](section/34.md)
+    - [s. 35 Evidence on commission](section/35.md)
+    - [s. 36 Victim notification scheme](section/36.md)
+    - [s. 37 Recovery of documents](section/37.md)
+    - [s. 38 Intimation of certain applications to the High Court](section/38.md)
+    - [s. 39 Refixing diets](section/39.md)
+    - [s. 40 Power of court to excuse procedural irregularities](section/40.md)
+  - Electronic proceedings
+    - [s. 41 Electronic proceedings](section/41.md)
+    - [s. 42 Further provision for summary cases](section/42.md)
+- Part 3 Penalties
+  - Sentencing powers
+    - [s. 43 Common law offences](section/43.md)
+    - [s. 44 Particular statutory offences](section/44.md)
+    - [s. 45 Other statutory offences](section/45.md)
+    - [s. 46 JP court: power to increase penalties](section/46.md)
+    - [s. 47 Fine level](section/47.md)
+    - [s. 48 Prescribed sum](section/48.md)
+    - [s. 49 Compensation orders](section/49.md)
+  - Penalties as alternative to prosecution
+    - [s. 50 Fixed penalty and compensation offers](section/50.md)
+    - [s. 51 Work orders](section/51.md)
+    - [s. 52 Setting aside of offers and orders](section/52.md)
+    - [s. 53 Disclosure of previous offers](section/53.md)
+    - [s. 54 Time bar where offer made](section/54.md)
+  - Enforcement of fines etc.
+    - [s. 55 Fines enforcement officers and their functions](section/55.md)
+    - [s. 56 Recognition of EU financial penalties](section/56.md)
+  - Breach of post-conviction orders
+    - [s. 57 Probation and community service orders](section/57.md)
+    - [s. 58 Restriction of liberty orders](section/58.md)
+- Part 4 JP courts and JPs
+  - Establishing JP courts etc.
+    - [s. 59 Establishing JP courts](section/59.md)
+    - [s. 60 Making provision for JP courts](section/60.md)
+    - [s. 61 Efficient disposal of business in JP courts](section/61.md)
+    - [s. 62 Area and territorial jurisdiction of JP courts](section/62.md)
+    - [s. 63 Constitution and powers etc. of JP courts](section/63.md)
+    - [s. 64 Abolition of district courts](section/64.md)
+    - [s. 65 Transfer of staff and property](section/65.md)
+    - [s. 66 Transitional arrangements for proceedings](section/66.md)
+  - Appointment of JPs etc.
+    - [s. 67 Appointment of JPs](section/67.md)
+    - [s. 68 Conditions of office](section/68.md)
+    - [s. 69 Training and appraisal of JPs](section/69.md)
+    - [s. 70 Reappointment of JPs](section/70.md)
+    - [s. 71 Removal of JPs](section/71.md)
+    - [s. 71A Re-employment of former JPs](section/71A.md)
+    - [s. 71B Re-employment of former JPs: further provision](section/71B.md)
+    - [s. 72 Disqualification of solicitors who are JPs](section/72.md)
+    - [s. 73 Disqualification where sequestration or bankruptcy](section/73.md)
+    - [s. 74 Appointment of stipendiary magistrates](section/74.md)
+    - [s. 74A Exercise of functions by stipendiary magistrates](section/74A.md)
+    - [s. 75 Stipendiary magistrates: further provision](section/75.md)
+    - [s. 76 Signing functions](section/76.md)
+    - [s. 77 Records and validity of appointment etc.](section/77.md)
+- Part 5 Inspection of the Crown Office and Procurator Fiscal Service
+  - [s. 78 Appointment of Inspector](section/78.md)
+  - [s. 79 The Inspector’s functions](section/79.md)
+- Part 6 General
+  - [s. 80 Modification of enactments](section/80.md)
+  - [s. 81 Orders](section/81.md)
+  - [s. 82 Ancillary provision](section/82.md)
+  - [s. 83 Interpretation](section/83.md)
+  - [s. 84 Commencement and short title](section/84.md)
+- SCHEDULE Modification of enactments
+  - Sheriff Courts and Legal Officers (Scotland) Act 1927 (c. 35)
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - Public Records (Scotland) Act 1937 (c. 43)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - Education (Scotland) Act 1980 (c. 44)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+  - Environmental Protection Act 1990 (c. 43)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - The 1995 Act
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - [Sch. paragraph 23](schedule/paragraph/23.md)
+    - [Sch. paragraph 24](schedule/paragraph/24.md)
+    - [Sch. paragraph 25](schedule/paragraph/25.md)
+    - [Sch. paragraph 26](schedule/paragraph/26.md)
+  - Bail, Judicial Appointments etc. (Scotland) Act 2000 (asp 9)
+    - [Sch. paragraph 27](schedule/paragraph/27.md)
+  - Sexual Offences (Procedure and Evidence) (Scotland) Act 2002 (asp 9)
+    - [Sch. paragraph 28](schedule/paragraph/28.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. paragraph 29](schedule/paragraph/29.md)
+  - Criminal Justice (Scotland) Act 2003 (asp 7)
+    - [Sch. paragraph 30](schedule/paragraph/30.md)
+  - Dog Fouling (Scotland) Act 2003 (asp 12)
+    - [Sch. paragraph 31](schedule/paragraph/31.md)
+  - Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+    - [Sch. paragraph 32](schedule/paragraph/32.md)
+  - Enactments generally: references to district court and justices
+    - [Sch. paragraph 33](schedule/paragraph/33.md)
