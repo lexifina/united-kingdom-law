@@ -1,0 +1,294 @@
+# Courts Act 1971
+
+1971 c. 23. Enacted 1971-05-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1971/23
+
+Source: https://www.legislation.gov.uk/ukpga/1971/23/2026-10-01
+
+## Contents
+
+- Part I Introductory
+  - [s. 1 The Supreme Court.](section/1.md)
+  - [s. 2 Location of sittings and business of High Court.](section/2.md)
+  - [s. 3 Abolition of courts of quarter sessions.](section/3.md)
+- Part II The Crown Court
+  - [s. 4 Establishment of the Crown Court.](section/4.md)
+  - [s. 5 Justices as judges of Crown Court.](section/5.md)
+  - Trial on indictment
+    - [s. 6 Exclusive jurisdiction in trial on indictment.](section/6.md)
+    - [s. 7 Committal for trial on indictment.](section/7.md)
+  - Other jurisdiction
+    - [s. 8 Transfer to Crown Court of quarter sessions jurisdiction.](section/8.md)
+    - [s. 9 Appeals to Crown Court.](section/9.md)
+    - [s. 10 High Court jurisdiction in Crown Court proceedings.](section/10.md)
+  - Trial on indictment and other jurisdiction
+    - [s. 11 Sentences imposed and other decisions made by Crown Court.](section/11.md)
+    - [s. 12 Right of audience.](section/12.md)
+    - [s. 13 Process to compel appearance before Crown Court.](section/13.md)
+    - [s. 14 Practice and procedure: power to make rules.](section/14.md)
+    - [s. 15 Crown Court rules.](section/15.md)
+- Part III Judges
+  - [s. 16 Appointment of Circuit Judges.](section/16.md)
+  - [s. 17 Retirement, removal and disqualifications of Circuit judge.](section/17.md)
+  - [s. 18 Salaries and allowances of Circuit judges.](section/18.md)
+  - [s. 19](section/19.md)
+  - [s. 20 Judges of county courts.](section/20.md)
+  - [s. 21 Appointment of Recorders.](section/21.md)
+  - [s. 22 Oaths to be taken by Circuit judges and Recorders.](section/22.md)
+  - [s. 23 Circuit judge or Recorder sitting as High Court Judge.](section/23.md)
+  - [s. 24 Deputy Circuit judges ...](section/24.md)
+  - [s. 25 Official referees’ business.](section/25.md)
+- Part IV Officers and Accommodation
+  - [s. 26 Masters and registrars to be appointed by Lord Chancellor.](section/26.md)
+  - [s. 27 Administrative and other court staff.](section/27.md)
+  - [s. 28 Provision of accommodation.](section/28.md)
+  - [s. 29 Accommodation in City of London.](section/29.md)
+  - [s. 30 Advisory committees.](section/30.md)
+- Part V
+  - [s. 31 ................................](section/31.md)
+- Part VI Miscellaneous and Supplemental
+  - Merger or abolition of certain courts and offices
+    - [s. 41 Merger of Palatine Courts with High Court.](section/41.md)
+    - [s. 42 Local court for City of London.](section/42.md)
+    - [s. 43 Abolition of certain other local courts.](section/43.md)
+    - [s. 44 Abolition of certain offices.](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+  - Costs
+    - [s. 47 ................................](section/47.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 Construction and consequential amendments](section/51.md)
+    - [s. 52 Award of costs where information or complaint is not proceeded with.](section/52.md)
+  - Administrative functions of justices
+    - [s. 53 Administrative functions of justices.](section/53.md)
+  - Boroughs: honorary offices
+    - [s. 54 Boroughs: honorary offices.](section/54.md)
+  - Supplemental
+    - [s. 55 Financial provisions.](section/55.md)
+    - [s. 56 Minor and consequential amendments, transitional provisions and repeals.](section/56.md)
+    - [s. 57 Interpretation of this Act and rules of construction of other Acts.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 Short title, commencement and extent.](section/59.md)
+- SCHEDULE 1
+- SCHEDULE 2 Holders of Certain Existing Judicial Offices
+  - Part I Certain Office-Holders to be Circuit Judges
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part IA Certain Office–Holders Eligible for Appointment as Circuit Judges
+  - Part II Supplementary Provisions with Respect to Certain Judicial Officers
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3
+  - Right of use for Supreme Court and county courts
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Premises acquired by Secretary of State
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Compulsory purchase
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Loan charges
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Premises in which more than one local authority are interested
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Termination of obligation to provide courthouse or sessions-house
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Judges’ lodgings
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Reference of disputes to Lands Tribunal
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Exclusion of premises in City of London
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Supplemental
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4
+- SCHEDULE 5
+  - Part I The Palatine Courts
+    - Interpretation
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Pending Proceedings
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Fees
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Funds in court
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Court Records
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part II Mayor’s and City of London Court
+    - Interpretation
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Pending proceedings
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Outstanding fees
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Funds in court
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part III Other Local Courts
+    - Interpretation
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Pending proceedings
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Fees
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Funds in court
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Court records
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 AMENDMENTS RELATING TO COSTS IN CRIMINAL CASES ETC.
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Betting, Gaming and Lotteries Act 1963
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Licensing Act 1964.
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Criminal Justice Act 1967
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Gaming Act 1968
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 ADMINISTRATIVE FUNCTIONS OF JUSTICES
+  - PART I AMENDMENTS OF JUSTICES OF THE PEACE ACT 1949
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - PART II AMENDMENTS OF THE PRISON ACT 1952
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - PART III
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Amendments of other Acts
+  - Part I General
+    - Administrative functions of quarter sessions and clerks of the peace
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - General rules of construction
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Amendments of local Acts
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Part II Miscellaneous Amendments
+    - Habeas Corpus 1679
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Vagrancy Act 1824
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Parliamentary Documents Deposit Act 1837
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Slave Trade Act 1843
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Indictable Offences Act 1848
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Petty Sessions (Ireland) Act 1851
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Explosives Act 1875
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Central Criminal Court (Prisons) Act 1881
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Coroners Act 1887
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Witnesses (Public Inquiries) Protection Act 1892
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Indictments Act 1915
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Criminal Justice Act 1925
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Coroners (Amendment) Act 1926
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Petroleum (Consolidation) Act 1928
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Criminal Justice Act 1948
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - Prison Act 1952
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - County Courts Act 1959
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - Obscene Publications Act 1959
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - Caravan Sites and Control of Development Act 1960
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - Administration of Justice Act 1960
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - Criminal Justice Act 1961
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - Licensing Act 1964
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - Administration of Justice Act 1964
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - Criminal Procedure (Attendance of Witnesses) Act 1965
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - Criminal Justice Act 1967
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - Criminal Appeal Act 1968
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - Children and Young Persons Act 1969
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+    - Administration of Justice Act 1970
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+- SCHEDULE 9 Quarter Sessions Jurisdiction: Substitution of References to Crown Court
+  - Part I Appellate Jurisdiction
+  - Part II Original Jurisdiction
+- SCHEDULE 10. Transitional Provisions
+  - Part I Criminal Assize Courts and Courts of Quarter Sessions
+    - [Sch. 10. para. 1](schedule/10/paragraph/1.md)
+    - Part-heard proceedings
+      - [Sch. 10. para. 2](schedule/10/paragraph/2.md)
+    - Costs in criminal cases
+      - [Sch. 10. para. 3](schedule/10/paragraph/3.md)
+    - Records of courts of quarter sessions
+      - [Sch. 10. para. 4](schedule/10/paragraph/4.md)
+  - Part II Courts: Miscellaneous
+    - Civil courts of assize
+      - [Sch. 10. para. 5](schedule/10/paragraph/5.md)
+    - Directions by Lord Chief Justice
+      - [Sch. 10. para. 6](schedule/10/paragraph/6.md)
+  - Part III County Court Judges
+    - [Sch. 10. para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10. para. 8](schedule/10/paragraph/8.md)
+  - Part IV Judges, Officers and Staff
+    - Continuation of appointments
+      - [Sch. 10. para. 9](schedule/10/paragraph/9.md)
+    - Jury service
+      - [Sch. 10. para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10. para. 11](schedule/10/paragraph/11.md)
+      - [Sch. 10. para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10. para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10. para. 16](schedule/10/paragraph/16.md)
+    - Seconding of staff from local or other authorities
+      - [Sch. 10. para. 17](schedule/10/paragraph/17.md)
+- SCHEDULE 11 REPEALS
