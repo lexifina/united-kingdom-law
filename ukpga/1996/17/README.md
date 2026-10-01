@@ -1,0 +1,194 @@
+# Employment Tribunals Act 1996
+
+1996 c. 17. Enacted 1996-05-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 35 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/17
+
+Source: https://www.legislation.gov.uk/ukpga/1996/17/2026-10-01
+
+## Contents
+
+- PART I Employment Tribunals
+  - Introductory
+    - [s. 1 Employment tribunals](section/1.md)
+  - Jurisdiction
+    - [s. 2 Enactments conferring jurisdiction on employment tribunals.](section/2.md)
+    - [s. 3 Power to confer further jurisdiction on employment tribunals.](section/3.md)
+  - Membership etc.
+    - [s. 3A Meaning of “Employment Judge”](section/3A.md)
+    - [s. 4 Composition of tribunals.](section/4.md)
+    - [s. 5 Remuneration, fees and allowances.](section/5.md)
+    - [s. 5A Training etc.](section/5A.md)
+    - [s. 5B Members of employment tribunals: removal from office](section/5B.md)
+    - [s. 5C Oaths](section/5C.md)
+    - [s. 5D Judicial assistance](section/5D.md)
+  - Procedure
+    - [s. 6 Conduct of hearings.](section/6.md)
+    - [s. 7 Practice and procedure: general](section/7.md)
+    - [s. 7A Practice directions](section/7A.md)
+    - [s. 7B Mediation](section/7B.md)
+    - [s. 8 Procedure in contract cases.](section/8.md)
+    - [s. 9 Preliminary hearings.](section/9.md)
+    - [s. 10 National security.](section/10.md)
+    - [s. 10A Confidential information.](section/10A.md)
+    - [s. 10B Restriction of publicity in cases involving national security.](section/10B.md)
+    - [s. 11 Restriction of publicity in cases involving sexual misconduct.](section/11.md)
+    - [s. 12 Restriction of publicity in disability cases.](section/12.md)
+  - Financial penalties
+    - [s. 12A Financial penalties](section/12A.md)
+  - Costs etc, interest and enforcement
+    - [s. 13 Costs and expenses.](section/13.md)
+    - [s. 13A Payments in respect of preparation time](section/13A.md)
+    - [s. 14 Interest.](section/14.md)
+    - [s. 15 Enforcement.](section/15.md)
+  - Recoupment of social security benefits
+    - [s. 16 Power to provide for recoupment of benefits.](section/16.md)
+    - [s. 17 Recoupment: further provisions.](section/17.md)
+  - Conciliation
+    - [s. 18 Conciliation: relevant proceedings etc..](section/18.md)
+    - [s. 18A Requirement to contact ACAS before instituting proceedings](section/18A.md)
+    - [s. 18B Conciliation before institution of proceedings: other ACAS duties](section/18B.md)
+    - [s. 18C Conciliation after institution of proceedings](section/18C.md)
+    - [s. 19 Conciliation procedure.](section/19.md)
+    - [s. 19A Conciliation: recovery of sums payable under settlements](section/19A.md)
+- Part II The Employment Appeal Tribunal
+  - Introductory
+    - [s. 20 The Appeal Tribunal.](section/20.md)
+  - Jurisdiction
+    - [s. 21 Jurisdiction of Appeal Tribunal.](section/21.md)
+  - Membership etc.
+    - [s. 22 Membership of Appeal Tribunal.](section/22.md)
+    - [s. 23 Temporary membership.](section/23.md)
+    - [s. 24 Temporary additional judicial membership.](section/24.md)
+    - [s. 24A Training etc. of members of Appeal Tribunal](section/24A.md)
+    - [s. 24B Oaths](section/24B.md)
+    - [s. 25 Tenure of appointed members.](section/25.md)
+    - [s. 26 Staff.](section/26.md)
+    - [s. 27 Remuneration, pensions and allowances.](section/27.md)
+    - [s. 28 Composition of Appeal Tribunal.](section/28.md)
+  - Procedure
+    - [s. 29 Conduct of hearings.](section/29.md)
+    - [s. 29A Practice directions](section/29A.md)
+    - [s. 30 Appeal Tribunal procedure rules.](section/30.md)
+    - [s. 31 Restriction of publicity in cases involving sexual misconduct.](section/31.md)
+    - [s. 32 Restriction of publicity in disability cases.](section/32.md)
+    - [s. 33 Restriction of vexatious proceedings.](section/33.md)
+    - [s. 34 Costs and expenses](section/34.md)
+  - Decisions and further appeals
+    - [s. 35 Powers of Appeal Tribunal.](section/35.md)
+    - [s. 36 Enforcement of decisions etc.](section/36.md)
+    - [s. 37 Appeals from Appeal Tribunal.](section/37.md)
+    - [s. 37ZA Appeals to Supreme Court: grant of certificate by Appeal Tribunal](section/37ZA.md)
+    - [s. 37ZB Appeals to Supreme Court: permission to appeal](section/37ZB.md)
+    - [s. 37ZC Appeals to Supreme Court: exclusions](section/37ZC.md)
+- PART 2A Financial penalties for failure to pay sums ordered to be paid or settlement sums
+  - [s. 37A Sums to which financial penalty can relate](section/37A.md)
+  - [s. 37B Financial award: unpaid amount](section/37B.md)
+  - [s. 37C Settlement sum: unpaid amount](section/37C.md)
+  - [s. 37D Unpaid amount of relevant sum: further provision](section/37D.md)
+  - [s. 37E Warning notice](section/37E.md)
+  - [s. 37F Penalty notice](section/37F.md)
+  - [s. 37G Appeal against penalty notice](section/37G.md)
+  - [s. 37H Interest and recovery](section/37H.md)
+  - [s. 37I Withdrawal of warning notice](section/37I.md)
+  - [s. 37J Withdrawal of penalty notice](section/37J.md)
+  - [s. 37K Replacement penalty notice](section/37K.md)
+  - [s. 37L Effect of replacement penalty notice](section/37L.md)
+  - [s. 37M Enforcement officers](section/37M.md)
+  - [s. 37N Power to amend Part 2A](section/37N.md)
+  - [s. 37O Modification in particular cases](section/37O.md)
+  - [s. 37P Giving of notices](section/37P.md)
+  - [s. 37Q Financial penalties for non-payment: interpretation](section/37Q.md)
+- Part III General and Supplementary
+  - Procedure Rules
+    - [s. 37QA Procedure Rules](section/37QA.md)
+    - [s. 37QB Power to amend legislation in connection with Procedure Rules](section/37QB.md)
+  - Crown employment and Parliamentary staff
+    - [s. 38 Crown employment.](section/38.md)
+    - [s. 39 Parliamentary staff.](section/39.md)
+  - General
+    - [s. 40 Power to amend Act.](section/40.md)
+    - [s. 41 Orders, regulations and rules.](section/41.md)
+    - [s. 42 Interpretation.](section/42.md)
+  - Final provisions
+    - [s. 43 Consequential amendments.](section/43.md)
+    - [s. 44 Transitionals, savings and transitory provisions.](section/44.md)
+    - [s. 45 Repeals and revocations.](section/45.md)
+    - [s. 46 Commencement.](section/46.md)
+    - [s. 47 Extent.](section/47.md)
+    - [s. 48 Short title.](section/48.md)
+- Schedule A1 Procedure Rules
+  - Part 1 Objectives
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Part 2 Content of Procedure Rules
+    - [Sch. A1 para. 2 Delegation of functions to staff](schedule/A1/paragraph/2.md)
+    - [Sch. A1 para. 3 Time limits](schedule/A1/paragraph/3.md)
+    - [Sch. A1 para. 4 Determining where to start proceedings](schedule/A1/paragraph/4.md)
+    - [Sch. A1 para. 5 Repeat applications](schedule/A1/paragraph/5.md)
+    - [Sch. A1 para. 6 Tribunal acting of its own initiative](schedule/A1/paragraph/6.md)
+    - [Sch. A1 para. 7 Hearings](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8 Proceedings without notice](schedule/A1/paragraph/8.md)
+    - [Sch. A1 para. 9 Representation](schedule/A1/paragraph/9.md)
+    - [Sch. A1 para. 10 Intervention by Secretary of State](schedule/A1/paragraph/10.md)
+    - [Sch. A1 para. 11 Evidence, witnesses and attendance](schedule/A1/paragraph/11.md)
+    - [Sch. A1 para. 12 Use of information](schedule/A1/paragraph/12.md)
+    - [Sch. A1 para. 13 Set-off](schedule/A1/paragraph/13.md)
+    - [Sch. A1 para. 14 Reconsideration or review of decisions](schedule/A1/paragraph/14.md)
+    - [Sch. A1 para. 15 Correction of errors and setting aside of decisions on procedural grounds](schedule/A1/paragraph/15.md)
+    - [Sch. A1 para. 16 Registration and proof of decisions](schedule/A1/paragraph/16.md)
+    - [Sch. A1 para. 17 Ancillary powers](schedule/A1/paragraph/17.md)
+    - [Sch. A1 para. 18 Rules may refer to practice directions](schedule/A1/paragraph/18.md)
+    - [Sch. A1 para. 19 Presumptions](schedule/A1/paragraph/19.md)
+    - [Sch. A1 para. 20 Differential provision](schedule/A1/paragraph/20.md)
+  - Part 3 Supplementary provision
+    - [Sch. A1 para. 21 Procedure for making Procedure Rules](schedule/A1/paragraph/21.md)
+    - [Sch. A1 para. 22 Interpretation](schedule/A1/paragraph/22.md)
+- SCHEDULE 1 Consequential amendments
+  - The Transport Act 1968 (c.73)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Transport Holding Company Act 1972 (c.14)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Sex Discrimination Act 1975 (c.65)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Race Relations Act 1976 (c.74)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The Aircraft and Shipbuilding Industries Act 1977 (c.3)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - The Judicial Pensions Act 1981 (c.20)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The Social Security Administration Act 1992 (c.5)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Trade Union and Labour Relations (Consolidation) Act 1992 (c.52)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - The Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The Judicial Pensions and Retirement Act 1993 (c.8)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - The Pension Schemes Act 1993 (c.48)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The Disability Discrimination Act 1995 (c.50)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Transitional provisions, savings and transitory provisions
+  - Part I Transitional provisions and savings
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part II Transitory provisions
+    - Disability discrimination
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Jobseeker’s allowance
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Armed forces
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Repeals and revocations
+  - Part I Repeals
+  - Part II Revocations
+    - TABLE OF DERIVATIONS
+      - [Sch. 3 para. 1 Notes:](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
