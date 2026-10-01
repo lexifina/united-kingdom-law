@@ -1,0 +1,343 @@
+# Senior Courts Act 1981
+
+1981 c. 54. Enacted 1981-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
+
+Source: https://www.legislation.gov.uk/ukpga/1981/54/2026-10-01
+
+## Contents
+
+- Part I CONSTITUTION OF Senior Courts
+  - The Senior Courts
+    - [s. 1 The Senior Courts.](section/1.md)
+  - The Court of Appeal
+    - [s. 2 The Court of Appeal.](section/2.md)
+    - [s. 3 Divisions of Court of Appeal.](section/3.md)
+  - The High Court
+    - [s. 4 The High Court.](section/4.md)
+    - [s. 5 Divisions of High Court.](section/5.md)
+    - [s. 6 The Patents, Admiralty and Commercial Courts.](section/6.md)
+    - [s. 7 Power to alter Divisions or transfer certain courts to different Divisions.](section/7.md)
+  - The Crown Court
+    - [s. 8 The Crown Court.](section/8.md)
+  - Other provisions
+    - [s. 9 Assistance for transaction of judicial business ....](section/9.md)
+    - [s. 10 Appointment of judges of Senior Courts.](section/10.md)
+    - [s. 11 Tenure of office of judges of Senior Courts.](section/11.md)
+    - [s. 12 Salaries etc. of judges of Senior Courts.](section/12.md)
+    - [s. 13 Precedence of judges of Senior Courts.](section/13.md)
+    - [s. 14 Power of judge of Senior Courts or Crown Court to act in cases relating to rates and taxes.](section/14.md)
+- Part II JURISDICTION
+  - The Court of Appeal
+    - [s. 15 General jurisdiction of Court of Appeal.](section/15.md)
+    - [s. 16 Appeals from High Court.](section/16.md)
+    - [s. 17 Applications for new trial.](section/17.md)
+    - [s. 18 Restrictions on appeals to Court of Appeal.](section/18.md)
+  - The High Court
+    - General jurisdiction
+      - [s. 19 General jurisdiction of High Court.](section/19.md)
+    - Admiralty jurisdiction
+      - [s. 20 Admiralty jurisdiction of High Court.](section/20.md)
+      - [s. 21 Mode of exercise of Admiralty jurisdiction.](section/21.md)
+      - [s. 22 Restrictions on entertainment of actions in personam in collision and other similar cases.](section/22.md)
+      - [s. 23 High Court not to have jurisdiction in cases within Rhine Convention.](section/23.md)
+      - [s. 24 Supplementary provisions as to Admiralty jurisdiction.](section/24.md)
+    - Other particular fields of jurisdiction
+      - [s. 25 Probate jurisdiction of High Court.](section/25.md)
+      - [s. 26 Matrimonial jurisdiction of High Court.](section/26.md)
+      - [s. 27 Prize jurisdiction of High Court.](section/27.md)
+      - [s. 28 Appeals from Crown Court and inferior courts.](section/28.md)
+      - [s. 28A Proceedings on case stated by magistrates’ court or Crown Court.](section/28A.md)
+      - [s. 29 Mandatory, prohibiting and quashing orders](section/29.md)
+      - [s. 29A Further provision in connection with quashing orders](section/29A.md)
+      - [s. 30 Injunctions to restrain persons from acting in offices in which they are not entitled to act.](section/30.md)
+      - [s. 31 Application for judicial review.](section/31.md)
+      - [s. 31A Transfer of judicial review applications to Upper Tribunal](section/31A.md)
+    - Powers
+      - [s. 32 Orders for interim payment.](section/32.md)
+      - [s. 32A Orders for provisional damages for personal injuries.](section/32A.md)
+      - [s. 33 Powers of High Court exercisable before commencement of action.](section/33.md)
+      - [s. 34 Power of High Court to order disclosure of documents, inspection of property etc. in proceedings for personal injuries or death.](section/34.md)
+      - [s. 35 Provisions supplementary to ss. 33 and 34.](section/35.md)
+      - [s. 35A Power of High Court to award interest on debts and damages.](section/35A.md)
+      - [s. 36 Subpoena issued by High Court to run throughout United Kingdom.](section/36.md)
+      - [s. 37 Powers of High Court with respect to injunctions and receivers.](section/37.md)
+      - [s. 38 Relief against forfeiture for non-payment of rent.](section/38.md)
+      - [s. 39 Execution of instrument by person nominated by High Court.](section/39.md)
+      - [s. 40 Attachment of debts.](section/40.md)
+      - [s. 40A Administrative and clerical expenses of garnishees.](section/40A.md)
+      - [s. 41 Wards of court.](section/41.md)
+      - [s. 42 Restriction of vexatious legal proceedings.](section/42.md)
+      - [s. 43 Power of High Court to vary sentence on application for quashing order.](section/43.md)
+      - [s. 43ZA Power of High Court to vary committal in default.](section/43ZA.md)
+      - [s. 43A Specific powers of arbitrator exercisable by High Court.](section/43A.md)
+    - Other provisions
+      - [s. 44 Extraordinary functions of judges of High Court.](section/44.md)
+  - The Crown Court
+    - [s. 45 General jurisdiction of Crown Court.](section/45.md)
+    - [s. 46 Exclusive jurisdiction of Crown Court in trial on indictment.](section/46.md)
+    - [s. 46ZA Remitting proceedings to magistrates’ courts for trial](section/46ZA.md)
+    - [s. 46A Offences committed on ships and abroad.](section/46A.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 Appeals to Crown Court.](section/48.md)
+  - General Provisions
+    - Law and equity
+      - [s. 49 Concurrent administration of law and equity.](section/49.md)
+      - [s. 50 Power to award damages as well as, or in substitution for, injunction or specific performance.](section/50.md)
+    - Costs
+      - [s. 51 Costs in civil division of Court of Appeal, High Court and county courts.](section/51.md)
+      - [s. 52 Costs in Crown Court.](section/52.md)
+      - [s. 52A Appeals to Crown Court: criminal courts charge](section/52A.md)
+- Part III PRACTICE AND PROCEDURE
+  - The Court of Appeal
+    - Distribution of business
+      - [s. 53 Distribution of business between civil and criminal divisions.](section/53.md)
+    - Composition of court
+      - [s. 54 Court of civil division.](section/54.md)
+      - [s. 55 Court of criminal division.](section/55.md)
+      - [s. 56 Judges not to sit on appeal from their own judgments, etc.](section/56.md)
+      - [s. 56A Circuit judges not to sit on certain appeals.](section/56A.md)
+      - [s. 56B Allocation of cases in criminal division.](section/56B.md)
+    - Sittings and vacations
+      - [s. 57 Sittings and vacations.](section/57.md)
+    - Other provisions
+      - [s. 58 Calling into question of incidental decisions in civil division.](section/58.md)
+      - [s. 59 Form of judgment of court of criminal division.](section/59.md)
+      - [s. 60 Rules of court, and decisions of Court of Appeal, as to whether judgment or order is final or interlocutory.](section/60.md)
+  - The High Court
+    - Distribution of business
+      - [s. 61 Distribution of business among Divisions.](section/61.md)
+      - [s. 62 Business of Patents, Admiralty and Commercial Courts.](section/62.md)
+      - [s. 63 Business assigned to specially nominated judges.](section/63.md)
+      - [s. 64 Choice of Division by plaintiff.](section/64.md)
+      - [s. 65 Power of transfer.](section/65.md)
+    - Divisional courts
+      - [s. 66 Divisional courts of High Court.](section/66.md)
+    - Mode of conducting business
+      - [s. 67 Proceedings in court and in chambers.](section/67.md)
+      - [s. 68 Exercise of High Court jurisdiction otherwise than by judges of that court.](section/68.md)
+      - [s. 69 Trial by jury.](section/69.md)
+      - [s. 70 Assessors and scientific advisers.](section/70.md)
+    - Sittings and vacations
+      - [s. 71 Sittings and vacations.](section/71.md)
+    - Other provisions
+      - [s. 72 Withdrawal of privilege against incrimination of self or spouse in certain proceedings.](section/72.md)
+  - The Crown Court
+    - Composition of court
+      - [s. 73 General provisions.](section/73.md)
+      - [s. 74 Appeals and committals for sentence.](section/74.md)
+    - Distribution of business
+      - [s. 75 Allocation of cases according to composition of court, etc.](section/75.md)
+      - [s. 76 Sending for trial: alteration of place of trial.](section/76.md)
+      - [s. 77 Sending for trial: date of trial.](section/77.md)
+    - Sittings
+      - [s. 78 Sittings.](section/78.md)
+    - Other provisions
+      - [s. 79 Practice and procedure in connection with indictable offences and appeals.](section/79.md)
+      - [s. 80 Process to compel appearance.](section/80.md)
+      - [s. 81 Bail.](section/81.md)
+      - [s. 82 Duties of officers of Crown Court.](section/82.md)
+      - [s. 83 ................................](section/83.md)
+  - Rules of Court
+    - [s. 84 Power to make rules of court.](section/84.md)
+    - [s. 85 The Senior Courts Rule Committee.](section/85.md)
+    - [s. 86 The Crown Court Rule Committee.](section/86.md)
+    - [s. 86A Process for making rules of court under section 84](section/86A.md)
+    - [s. 86B Rules to be made if required by Lord Chancellor](section/86B.md)
+    - [s. 87 Particular matters for which rules of court may provide.](section/87.md)
+- Part IV OFFICERS AND OFFICES
+  - Appointment of certain officers of Senior Courts
+    - [s. 88 Qualification for office.](section/88.md)
+    - [s. 89 Masters and registrars.](section/89.md)
+    - [s. 90 Official Solicitor.](section/90.md)
+    - [s. 91 Deputies and temporary appointments.](section/91.md)
+  - Other provisions relating to officers of Senior Courts
+    - [s. 92 Tenure of office.](section/92.md)
+    - [s. 93 Status of officers for purposes of salary and pension.](section/93.md)
+    - [s. 94 ................................](section/94.md)
+    - [s. 95 Property held by officers.](section/95.md)
+  - Central Office and Accountant General
+    - [s. 96 Central Office.](section/96.md)
+    - [s. 97 Accountant General.](section/97.md)
+  - Judges’ clerks and secretaries
+    - [s. 98 Judges’ clerks and secretaries.](section/98.md)
+  - District registries and district registrars
+    - [s. 99 District registries.](section/99.md)
+    - [s. 100 District judges](section/100.md)
+    - [s. 101 Power of one district registrar to act for another.](section/101.md)
+    - [s. 102 Deputy district registrars.](section/102.md)
+    - [s. 103 ................................](section/103.md)
+  - District probate registries
+    - [s. 104 District probate registries.](section/104.md)
+- Part V PROBATE CAUSES AND MATTERS
+  - Procedure in probate registries in relation to grants of representation
+    - [s. 105 Applications.](section/105.md)
+    - [s. 106 Grants by district probate registrars.](section/106.md)
+    - [s. 107 No grant where conflicting applications.](section/107.md)
+    - [s. 108 Caveats.](section/108.md)
+    - [s. 109 Refusal of grant where capital transfer tax unpaid.](section/109.md)
+    - [s. 110 Documents to be delivered to Commissioners of Inland Revenue.](section/110.md)
+    - [s. 111 Records of grants.](section/111.md)
+  - Powers of court in relation to personal representatives
+    - [s. 112 Summons to executor to prove or renounce.](section/112.md)
+    - [s. 113 Power of court to sever grant.](section/113.md)
+    - [s. 114 Number of personal representatives.](section/114.md)
+    - [s. 115 Grants to trust corporations.](section/115.md)
+    - [s. 116 Power of court to pass over prior claims to grant.](section/116.md)
+    - [s. 117 Administration pending suit.](section/117.md)
+    - [s. 118 Effect of appointment of minor as executor.](section/118.md)
+    - [s. 119 Administration with will annexed.](section/119.md)
+    - [s. 120 Power to require administrators to produce sureties.](section/120.md)
+  - Revocation of grants and cancellation of resealing at instance of court
+    - [s. 121 Revocation of grants and cancellation of resealing at instance of court.](section/121.md)
+  - Ancillary powers of court
+    - [s. 122 Examination of person with knowledge of testamentary document.](section/122.md)
+    - [s. 123 Subpoena to bring in testamentary document.](section/123.md)
+  - Provisions as to documents
+    - [s. 124 Place for deposit of original wills and other documents.](section/124.md)
+    - [s. 125 Copies of wills and grants.](section/125.md)
+    - [s. 126 Depositories for wills of living persons.](section/126.md)
+  - Probate rules
+    - [s. 127 Probate rules.](section/127.md)
+  - Interpretation of Part V and other probate provisions
+    - [s. 128 Interpretation of Part V and other probate provisions.](section/128.md)
+- Part VI MISCELLANEOUS AND SUPPLEMENTARY
+  - Miscellaneous provisions
+    - [s. 129 Lords Commissioners to represent Lord Chancellor when Great Seal in commission.](section/129.md)
+    - [s. 130 Fees to be taken in Supreme Court.](section/130.md)
+    - [s. 131 Conveyancing counsel of Senior Courts.](section/131.md)
+    - [s. 132 Proof of documents bearing seal or stamp of Senior Courts or any office thereof.](section/132.md)
+    - [s. 133 Enrolment and engrossment of instruments.](section/133.md)
+    - [s. 134 Powers of attorney deposited before October 1971.](section/134.md)
+    - [s. 135 Bonds given under order of court.](section/135.md)
+    - [s. 136 Production of documents filed in, or in custody of, Senior Courts.](section/136.md)
+    - [s. 137 Money paid into court under enactment subsequently repealed.](section/137.md)
+    - [s. 138 Effect of writs of execution against goods.](section/138.md)
+    - [s. 138A Sales under executions.](section/138A.md)
+    - [s. 138B Protection of officer selling goods under execution.](section/138B.md)
+    - [s. 139 Attachment of National Savings Bank deposits.](section/139.md)
+    - [s. 140 Enforcement of fines and forfeited recognizances.](section/140.md)
+    - [s. 141 Abolition of certain writs.](section/141.md)
+    - [s. 142 Selection of judges for trial of election petitions.](section/142.md)
+    - [s. 143 ................................](section/143.md)
+    - [s. 144 ................................](section/144.md)
+    - [s. 145 Amendment of Courts-Martial (Appeals) Act 1968.](section/145.md)
+    - [s. 146 Amendment of Courts Act 1971.](section/146.md)
+    - [s. 147 Amendment of Solicitors Act 1974.](section/147.md)
+    - [s. 148 ................................](section/148.md)
+    - [s. 149 ................................](section/149.md)
+  - Supplementary
+    - [s. 150 Admiralty jurisdiction: provisions as to Channel Islands, Isle of Man, colonies etc.](section/150.md)
+    - [s. 151 Interpretation of this Act, and rules of construction for other Acts and documents.](section/151.md)
+    - [s. 152 Amendments of other Acts, transitional provisions, savings and repeals.](section/152.md)
+    - [s. 153 Citation, commencement and extent.](section/153.md)
+- SCHEDULE 1 Distribution of Business in High Court
+  - Business and Property Division
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Queen’s Bench Division
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Family Division
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 List of offices in Senior Courts for purposes of Part 4
+  - Part 1
+  - Part 2
+  - Part 3
+- SCHEDULE 3
+- SCHEDULE 4 Construction of References to Superseded Courts and Officers
+  - General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Accountants-General of the Courts of Chancery and Exchequer
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Court of Criminal Appeal and its registrar
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Principal registrar of Family Division
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Consequential Amendments
+  - COLONIAL PROBATES ACT 1892 (c. 6)
+  - ADMINISTRATION OF ESTATES ACT 1925 (c. 23)
+  - LAW OF PROPERTY (AMENDMENT) ACT 1926 (c. 11)
+  - FOREIGN JUDGMENTS (RECIPROCAL ENFORCEMENT) ACT 1933 (c. 13)
+    - [Sch. 5 heading foreign-judgments-reciprocal-enforcement-act-1933-c-13 para. 1](schedule/5/crossheading/foreign-judgments-reciprocal-enforcement-act-1933-c-13/paragraph/1.md)
+    - [Sch. 5 heading foreign-judgments-reciprocal-enforcement-act-1933-c-13 para. 2](schedule/5/crossheading/foreign-judgments-reciprocal-enforcement-act-1933-c-13/paragraph/2.md)
+  - ADMINISTRATION OF JUSTICE (MISCELLANEOUS PROVISIONS) ACT 1933 (c. 36)
+  - CRIMINAL JUSTICE ACT 1948 (c. 58)
+  - CONSULAR CONVENTIONS ACT 1949 (c. 29)
+  - ARBITRATION ACT 1950 (c. 27)
+  - ARMY ACT 1955 (c. 18)
+  - AIR FORCE ACT 1955 (c. 19)
+  - PROFESSIONS SUPPLEMENTARY TO MEDICINE ACT 1960 (c. 66)
+  - NURSES (AMENDMENT) ACT 1961 (c. 14)
+  - RIVERS (PREVENTION OF POLLUTION) ACT 1961 (c. 50)
+  - PUBLIC HEALTH ACT 1961 (c. 64)
+  - ADMINISTRATION OF JUSTICE ACT 1964 (c. 42)
+  - ADMINISTRATION OF JUSTICE ACT 1965 (c. 2)
+    - [Sch. 5 heading administration-of-justice-act-1965-c-2 para. 1](schedule/5/crossheading/administration-of-justice-act-1965-c-2/paragraph/1.md)
+    - [Sch. 5 heading administration-of-justice-act-1965-c-2 para. 2](schedule/5/crossheading/administration-of-justice-act-1965-c-2/paragraph/2.md)
+    - [Sch. 5 heading administration-of-justice-act-1965-c-2 para. 3](schedule/5/crossheading/administration-of-justice-act-1965-c-2/paragraph/3.md)
+  - VETERINARY SURGEONS ACT 1966 (c. 36)
+  - ARBITRATION (INTERNATIONAL INVESTMENT DISPUTES) ACT 1966 (c. 41)
+  - MATRIMONIAL CAUSES ACT 1967 (c. 56)
+  - CRIMINAL APPEAL ACT 1968 (c. 19)
+    - [Sch. 5 heading criminal-appeal-act-1968-c-19 para. 1](schedule/5/crossheading/criminal-appeal-act-1968-c-19/paragraph/1.md)
+    - [Sch. 5 heading criminal-appeal-act-1968-c-19 para. 2](schedule/5/crossheading/criminal-appeal-act-1968-c-19/paragraph/2.md)
+    - [Sch. 5 heading criminal-appeal-act-1968-c-19 para. 3](schedule/5/crossheading/criminal-appeal-act-1968-c-19/paragraph/3.md)
+  - HEARING AID COUNCIL ACT 1968 (c. 50)
+  - HOVERCRAFT ACT 1968 (c. 59)
+    - [Sch. 5 heading hovercraft-act-1968-c-59 para. 1](schedule/5/crossheading/hovercraft-act-1968-c-59/paragraph/1.md)
+    - [Sch. 5 heading hovercraft-act-1968-c-59 para. 2](schedule/5/crossheading/hovercraft-act-1968-c-59/paragraph/2.md)
+  - ADMINISTRATION OF ESTATES ACT 1971 (c. 25)
+    - [Sch. 5 heading administration-of-estates-act-1971-c-25 para. 1](schedule/5/crossheading/administration-of-estates-act-1971-c-25/paragraph/1.md)
+    - [Sch. 5 heading administration-of-estates-act-1971-c-25 para. 2](schedule/5/crossheading/administration-of-estates-act-1971-c-25/paragraph/2.md)
+  - MISUSE OF DRUGS ACT 1971 (c. 38)
+  - MERCHANT SHIPPING (OIL POLLUTION) ACT 1971 (c. 59)
+  - TRIBUNALS AND INQUIRIES ACT 1971 (c. 62)
+  - LAND CHARGES ACT 1972 (c. 61)
+  - HEALTH AND SAFETY AT WORK ETC. ACT 1974 (c. 37)
+  - MERCHANT SHIPPING ACT 1974 (c. 43)
+  - SOLICITORS ACT 1974 (c. 47)
+    - [Sch. 5 heading solicitors-act-1974-c-47 para. 1](schedule/5/crossheading/solicitors-act-1974-c-47/paragraph/1.md)
+    - [Sch. 5 heading solicitors-act-1974-c-47 para. 2](schedule/5/crossheading/solicitors-act-1974-c-47/paragraph/2.md)
+  - HOUSE OF COMMONS DISQUALIFICATION ACT 1975 (c. 24)
+  - NORTHERN IRELAND ASSEMBLY DISQUALIFICATION ACT 1975 (c. 25)
+  - EVIDENCE (PROCEEDINGS IN OTHER JURISDICTIONS) ACT 1975 (c. 34)
+    - [Sch. 5 heading evidence-proceedings-in-other-jurisdictions-act-1975-c-34 para. 1](schedule/5/crossheading/evidence-proceedings-in-other-jurisdictions-act-1975-c-34/paragraph/1.md)
+    - [Sch. 5 heading evidence-proceedings-in-other-jurisdictions-act-1975-c-34 para. 2](schedule/5/crossheading/evidence-proceedings-in-other-jurisdictions-act-1975-c-34/paragraph/2.md)
+  - FARRIERS (REGISTRATION) ACT 1975 (c. 35)
+  - TORTS (INTERFERENCE WITH GOODS) ACT 1977 (c. 32)
+  - INSURANCE BROKERS (REGISTRATION) ACT 1977 (c. 46)
+  - EMPLOYMENT PROTECTION (CONSOLIDATION) ACT 1978 (c. 44)
+  - ARBITRATION ACT 1979 (c. 42)
+  - CHARGING ORDERS ACT 1979 (c. 53)
+  - MAGISTRATES’ COURTS ACT 1980 (c. 43)
+    - [Sch. 5 heading magistrates-courts-act-1980-c-43 para. 1](schedule/5/crossheading/magistrates-courts-act-1980-c-43/paragraph/1.md)
+    - [Sch. 5 heading magistrates-courts-act-1980-c-43 para. 2](schedule/5/crossheading/magistrates-courts-act-1980-c-43/paragraph/2.md)
+  - JUDICIAL PENSIONS ACT 1981 (c. 20)
+    - [Sch. 5 heading judicial-pensions-act-1981-c-20 para. 1](schedule/5/crossheading/judicial-pensions-act-1981-c-20/paragraph/1.md)
+    - [Sch. 5 heading judicial-pensions-act-1981-c-20 para. 2](schedule/5/crossheading/judicial-pensions-act-1981-c-20/paragraph/2.md)
+- SCHEDULE 6 Transitional Provisions and Savings
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Continuity of appointments of officers
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Tenure, etc. of certain officers
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Inland Revenue affidavits
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Grants of representation made under provisions of 1925 Act not reproduced in this Act
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Minor executors
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Administration bonds given before 1st January 1972
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Grants and resealings liable to revocation or cancellation at instance of court
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Appeals from certain orders and decisions under section 54(3) of Magistrates’ Courts Act 1952
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Interpretation
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7
