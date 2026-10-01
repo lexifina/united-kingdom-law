@@ -1,0 +1,396 @@
+# Courts Reform (Scotland) Act 2014
+
+asp/2014/18. Enacted 2014-11-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2014/18
+
+Source: https://www.legislation.gov.uk/asp/2014/18/2026-10-01
+
+## Contents
+
+- PART 1 SHERIFF COURTS
+  - CHAPTER 1 SHERIFFDOMS, SHERIFF COURT DISTRICTS AND SHERIFF COURTS
+    - [s. 1 Sheriffdoms, sheriff court districts and sheriff courts](section/1.md)
+    - [s. 2 Power to alter sheriffdoms, sheriff court districts and sheriff courts](section/2.md)
+  - CHAPTER 2 JUDICIARY OF THE SHERIFFDOMS
+    - Permanent and full-time judiciary
+      - [s. 3 Sheriffs principal](section/3.md)
+      - [s. 4 Sheriffs](section/4.md)
+      - [s. 5 Summary sheriffs](section/5.md)
+    - Temporary and part-time judiciary
+      - [s. 6 Temporary sheriff principal](section/6.md)
+      - [s. 7 Temporary sheriff principal: further provision](section/7.md)
+      - [s. 8 Part-time sheriffs](section/8.md)
+      - [s. 9 Reappointment of part-time sheriffs](section/9.md)
+      - [s. 10 Part-time summary sheriffs](section/10.md)
+      - [s. 11 Reappointment of part-time summary sheriffs](section/11.md)
+    - Re-employment of former holders of certain judicial offices
+      - [s. 12 Re-employment of former judicial office holders](section/12.md)
+      - [s. 13 Re-employment of former judicial office holders: further provision](section/13.md)
+    - Qualification and disqualification
+      - [s. 14 Qualification for appointment](section/14.md)
+      - [s. 15 Disqualification from practice, etc.](section/15.md)
+    - Remuneration and expenses
+      - [s. 16 Remuneration](section/16.md)
+      - [s. 17 Expenses](section/17.md)
+    - Leave of absence
+      - [s. 18 Leave of absence](section/18.md)
+    - Residence
+      - [s. 19 Place of residence](section/19.md)
+    - Cessation of appointment
+      - [s. 20 Cessation of appointment of judicial officers](section/20.md)
+    - Fitness for office
+      - [s. 21 Tribunal to consider fitness for office](section/21.md)
+      - [s. 22 Tribunal investigations: suspension from office](section/22.md)
+      - [s. 23 Further provision about tribunals](section/23.md)
+      - [s. 24 Tribunal report](section/24.md)
+      - [s. 25 Removal from office](section/25.md)
+    - Honorary sheriffs
+      - [s. 26 Abolition of the office of honorary sheriff](section/26.md)
+  - CHAPTER 3 ORGANISATION OF BUSINESS
+    - Sheriff principal’s general responsibilities
+      - [s. 27 Sheriff principal’s responsibility for efficient disposal of business in sheriff courts](section/27.md)
+      - [s. 28 Sheriff principal’s power to fix sittings of sheriff courts](section/28.md)
+      - [s. 29 Lord President’s power to exercise functions under sections 27 and 28](section/29.md)
+    - Deployment of judiciary
+      - [s. 30 Power to authorise a sheriff principal to act in another sheriffdom](section/30.md)
+      - [s. 31 Power to direct a sheriff or summary sheriff to act in another sheriffdom](section/31.md)
+      - [s. 32 Power to re-allocate sheriffs principal, sheriffs and summary sheriffs between sheriffdoms](section/32.md)
+      - [s. 33 Allocation of sheriffs and summary sheriffs to sheriff court districts](section/33.md)
+    - Judicial specialisation
+      - [s. 34 Determination of categories of case for purposes of judicial specialisation](section/34.md)
+      - [s. 35 Designation of specialist judiciary](section/35.md)
+      - [s. 36 Allocation of business to specialist judiciary](section/36.md)
+      - [s. 37 Saving for existing powers to provide for judicial specialisation](section/37.md)
+  - CHAPTER 4 COMPETENCE AND JURISDICTION
+    - Sheriffs: civil competence and jurisdiction
+      - [s. 38 Jurisdiction and competence of sheriffs](section/38.md)
+      - [s. 39 Exclusive competence](section/39.md)
+      - [s. 40 Territorial jurisdiction](section/40.md)
+      - [s. 41 Power to confer all-Scotland jurisdiction for specified cases](section/41.md)
+      - [s. 42 All-Scotland jurisdiction: further provision](section/42.md)
+      - [s. 43 Jurisdiction over persons, etc.](section/43.md)
+    - Summary sheriffs: civil and criminal competence and jurisdiction
+      - [s. 44 Summary sheriff: civil competence and jurisdiction](section/44.md)
+      - [s. 45 Summary sheriff: criminal competence and jurisdiction](section/45.md)
+- PART 2 THE SHERIFF APPEAL COURT
+  - CHAPTER 1 ESTABLISHMENT AND ROLE
+    - [s. 46 The Sheriff Appeal Court](section/46.md)
+    - [s. 47 Jurisdiction and competence](section/47.md)
+    - [s. 48 Status of decisions of the Sheriff Appeal Court in precedent](section/48.md)
+  - CHAPTER 2 APPEAL SHERIFFS
+    - [s. 49 Sheriffs principal to be Appeal Sheriffs](section/49.md)
+    - [s. 50 Appointment of sheriffs as Appeal Sheriffs](section/50.md)
+    - [s. 51 Re-employment of former Appeal Sheriffs](section/51.md)
+    - [s. 52 Expenses](section/52.md)
+    - [s. 53 Temporary provision](section/53.md)
+  - CHAPTER 3 ORGANISATION OF BUSINESS
+    - President and Vice President
+      - [s. 54 President and Vice President of the Sheriff Appeal Court](section/54.md)
+      - [s. 55 President and Vice President: incapacity and suspension](section/55.md)
+    - Disposal of business
+      - [s. 56 President’s responsibility for efficient disposal of business](section/56.md)
+    - Sittings
+      - [s. 57 Sittings of the Sheriff Appeal Court](section/57.md)
+      - [s. 58 Rehearing of pending case by a larger Court](section/58.md)
+  - CHAPTER 4 ADMINISTRATION
+    - Clerks
+      - [s. 59 Clerk of the Sheriff Appeal Court](section/59.md)
+      - [s. 60 Deputy Clerks of the Sheriff Appeal Court](section/60.md)
+      - [s. 61 Clerk and Deputy Clerks: further provision](section/61.md)
+    - Records
+      - [s. 62 Records of the Sheriff Appeal Court](section/62.md)
+- PART 3 CIVIL PROCEDURE
+  - CHAPTER 1 SHERIFF COURT
+    - Civil jury trials
+      - [s. 63 Civil jury trials in an all-Scotland sheriff court](section/63.md)
+      - [s. 64 Selection of the jury](section/64.md)
+      - [s. 65 Application to allow the jury to view property](section/65.md)
+      - [s. 66 Discharge or death of juror during trial](section/66.md)
+      - [s. 67 Trial to proceed despite objection to opinion and direction of the sheriff](section/67.md)
+      - [s. 68 Return of verdict](section/68.md)
+      - [s. 69 Application for new trial](section/69.md)
+      - [s. 70 Restrictions on granting a new trial](section/70.md)
+      - [s. 71 Verdict subject to opinion of the Sheriff Appeal Court](section/71.md)
+    - Simple procedure
+      - [s. 72 Simple procedure](section/72.md)
+      - [s. 73 Proceedings in an all-Scotland sheriff court](section/73.md)
+      - [s. 74 Proceedings for aliment of small amounts under simple procedure](section/74.md)
+      - [s. 75 Rule-making: matters to be taken into consideration](section/75.md)
+      - [s. 76 Service of documents](section/76.md)
+      - [s. 77 Evidence in simple procedure cases](section/77.md)
+      - [s. 78 Transfer of cases to simple procedure](section/78.md)
+      - [s. 79 Proceedings in an all-Scotland sheriff court: transfer to simple procedure](section/79.md)
+      - [s. 80 Transfer of cases from simple procedure](section/80.md)
+      - [s. 81 Expenses in simple procedure cases](section/81.md)
+      - [s. 82 Appeals from simple procedure cases](section/82.md)
+      - [s. 83 Transitional provision: summary causes](section/83.md)
+    - Interdicts and other orders: effect outside sheriffdom
+      - [s. 84 Interdicts having effect in more than one sheriffdom](section/84.md)
+      - [s. 85 Proceedings for breach of an extended interdict](section/85.md)
+      - [s. 86 Power to enable sheriff to make orders having effect outside sheriffdom](section/86.md)
+    - Execution of deeds relating to heritage
+      - [s. 87 Power of sheriff to order sheriff clerk to execute deed relating to heritage](section/87.md)
+    - Interim orders
+      - [s. 88 Interim orders](section/88.md)
+  - CHAPTER 2 COURT OF SESSION
+    - [s. 89 Judicial review](section/89.md)
+    - [s. 90 Interim orders](section/90.md)
+    - [s. 91 Warrants for ejection](section/91.md)
+  - CHAPTER 3 REMIT OF CASES BETWEEN COURTS
+    - [s. 92 Remit of cases to the Court of Session](section/92.md)
+    - [s. 93 Remit of cases from the Court of Session](section/93.md)
+    - [s. 94 Remit of cases to the Scottish Land Court](section/94.md)
+  - CHAPTER 4 LAY REPRESENTATION FOR NON-NATURAL PERSONS
+    - [s. 95 Key defined terms](section/95.md)
+    - [s. 96 Lay representation in simple procedure cases](section/96.md)
+    - [s. 97 Lay representation in other proceedings](section/97.md)
+    - [s. 98 Lay representation: supplementary provision](section/98.md)
+  - CHAPTER 5 JURY SERVICE
+    - [s. 99 Jury service](section/99.md)
+  - CHAPTER 6 VEXATIOUS PROCEEDINGS
+    - [s. 100 Vexatious litigation orders](section/100.md)
+    - [s. 101 Vexatious litigation orders: further provision](section/101.md)
+    - [s. 102 Power to make orders in relation to vexatious behaviour](section/102.md)
+- PART 4 PROCEDURE AND FEES
+  - Procedure
+    - [s. 103 Power to regulate procedure etc. in the Court of Session](section/103.md)
+    - [s. 104 Power to regulate procedure etc. in the sheriff court and the Sheriff Appeal Court](section/104.md)
+  - Fees of solicitors etc.
+    - [s. 105 Power to regulate fees in the Court of Session](section/105.md)
+    - [s. 106 Power to regulate fees in the sheriff court and the Sheriff Appeal Court](section/106.md)
+  - Court fees
+    - [s. 107 Power to provide for fees for SCTS, court clerks and other officers](section/107.md)
+  - Sanction for counsel
+    - [s. 108 Sanction for counsel in the sheriff court and Sheriff Appeal Court](section/108.md)
+- PART 5 CIVIL APPEALS
+  - Appeals to the Sheriff Appeal Court
+    - [s. 109 Abolition of appeal from a sheriff to the sheriff principal](section/109.md)
+    - [s. 110 Appeal from a sheriff to the Sheriff Appeal Court](section/110.md)
+    - [s. 111 Sheriff Appeal Court’s powers of disposal in appeals](section/111.md)
+    - [s. 112 Remit of appeal from the Sheriff Appeal Court to the Court of Session](section/112.md)
+  - Appeals to the Court of Session
+    - [s. 113 Appeal from the Sheriff Appeal Court to the Court of Session](section/113.md)
+    - [s. 114 Appeal from the sheriff principal to the Court of Session](section/114.md)
+    - [s. 115 Appeals: granting of leave or permission and assessment of grounds of appeal](section/115.md)
+  - Effect of appeal
+    - [s. 116 Effect of appeal](section/116.md)
+  - Appeals to the Supreme Court
+    - [s. 117 Appeals to the Supreme Court](section/117.md)
+- PART 6 CRIMINAL APPEALS
+  - Appeals from summary criminal proceedings
+    - [s. 118 Appeals to the Sheriff Appeal Court from summary criminal proceedings](section/118.md)
+    - [s. 119 Appeals from the Sheriff Appeal Court to the High Court](section/119.md)
+    - [s. 120 Power to refer points of law for the opinion of the High Court](section/120.md)
+    - [s. 121 References by the Scottish Criminal Cases Review Commission](section/121.md)
+  - Bail appeals
+    - [s. 122 Bail appeals](section/122.md)
+- PART 7 JUDGES OF THE COURT OF SESSION
+  - [s. 123 Appointment of Court of Session judges, etc.](section/123.md)
+  - [s. 124 Payment of salaries and allowances of Court of Session judges](section/124.md)
+  - [s. 125 Expenses](section/125.md)
+- PART 8 SCOTTISH LAND COURT
+  - [s. 126 Scottish Land Court: remuneration and expenses](section/126.md)
+- PART 9 JUSTICE OF THE PEACE COURTS
+  - [s. 127 Establishing, relocating and disestablishing justice of the peace courts](section/127.md)
+  - [s. 128 Abolition of the office of stipendiary magistrate](section/128.md)
+  - [s. 129 Summary sheriffs to sit in justice of the peace courts](section/129.md)
+- PART 10 THE SCOTTISH COURTS AND TRIBUNALS SERVICE
+  - [s. 130 The Scottish Courts and Tribunals Service](section/130.md)
+- PART 11 THE JUDICIAL APPOINTMENTS BOARD FOR SCOTLAND
+  - [s. 131 Assistants to the Judicial Appointments Board for Scotland](section/131.md)
+- PART 12 GENERAL
+  - [s. 132 Modifications of enactments](section/132.md)
+  - [s. 133 Subordinate legislation](section/133.md)
+  - [s. 134 References to “sheriff”](section/134.md)
+  - [s. 135 Definition of “family proceedings”](section/135.md)
+  - [s. 136 Interpretation](section/136.md)
+  - [s. 137 Ancillary provision](section/137.md)
+  - [s. 138 Commencement](section/138.md)
+  - [s. 139 Short title](section/139.md)
+- SCHEDULE 1 CIVIL PROCEEDINGS, ETC. IN RELATION TO WHICH SUMMARY SHERIFF HAS COMPETENCE
+  - Family proceedings
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Domestic abuse proceedings
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Adoption proceedings
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Children’s hearings proceedings
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Proceedings relating to children under the age of criminal responsibility
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+  - Forced marriage proceedings
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Warrants and interim orders
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Diligence proceedings
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Extension of time to pay debts
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Simple procedure
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 APPEAL SHERIFFS: TEMPORARY PROVISION
+  - The transitional period
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Appointment of Senators of the College of Justice to act as Appeal Sheriffs
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Tenure
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Savings
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 TRANSFER OF SUMMARY CRIMINAL APPEAL JURISDICTION TO THE SHERIFF APPEAL COURT
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 THE SCOTTISH COURTS AND TRIBUNALS SERVICE
+  - PART 1 CONFERRAL OF ADDITIONAL FUNCTIONS ETC. IN RELATION TO TRIBUNALS
+    - Modification of the Judiciary and Courts (Scotland) Act 2008
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 TRANSITIONAL PROVISION
+    - Transfer of staff
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Existing tribunals
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - PART 3 CONSEQUENTIAL REPEALS, ETC.
+    - Lands Tribunal Act 1949
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Mental Health (Care and Treatment) (Scotland) Act 2003
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Education (Additional Support for Learning) (Scotland) Act 2004
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Charities and Trustee Investment (Scotland) Act 2005
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Tribunals (Scotland) Act 2014
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Revenue Scotland and Tax Powers Act 2014
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 MODIFICATIONS OF ENACTMENTS
+  - PART 1 SHERIFF COURTS
+    - Promissory Oaths Act 1868
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Promissory Oaths Act 1871
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Sheriff Courts (Scotland) Act 1876
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Sheriff Courts (Scotland) Act 1907
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Sheriff Courts and Legal Officers (Scotland) Act 1927
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Sheriff Courts (Scotland) Act 1971
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Civil Jurisdiction and Judgments Act 1982
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Judicial Pensions and Retirement Act 1993
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Judiciary and Courts (Scotland) Act 2008
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - PART 2 SHERIFF APPEAL COURT
+    - Sheriff Courts and Legal Officers (Scotland) Act 1927
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Public Records (Scotland) Act 1937
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Administration of Justice (Scotland) Act 1972
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Civil Jurisdiction and Judgments Act 1982
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Legal Aid (Scotland) Act 1986
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Judiciary and Courts (Scotland) Act 2008
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Criminal Justice and Licensing (Scotland) Act 2010
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Scottish Civil Justice Council and Criminal Legal Assistance Act 2013
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 3 CIVIL JURY TRIALS
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1980
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - PART 4 SIMPLE PROCEDURE
+    - Heritable Securities (Scotland) Act 1894
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Sheriff Courts (Civil Jurisdiction and Procedure) (Scotland) Act 1963
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Conveyancing and Feudal Reform (Scotland) Act 1970
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Legal Aid (Scotland) Act 1986
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - PART 5 JUDICIAL REVIEW
+    - Tribunals (Scotland) Act 2014
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - PART 6 REMIT OF CASES BETWEEN COURTS
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1985
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - PART 7 REGULATION OF PROCEDURE AND FEES
+    - Courts of Law Fees (Scotland) Act 1895
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Vexatious Actions (Scotland) Act 1898
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Execution of Diligence (Scotland) Act 1926
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Administration of Justice (Scotland) Act 1972
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Court of Session Act 1988
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - Scottish Civil Justice Council and Criminal Legal Assistance Act 2013
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - PART 8 CIVIL APPEALS
+    - Court of Session Act 1988
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Constitutional Reform Act 2005
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+  - PART 9 JUDGES OF THE COURT OF SESSION
+    - Promissory Oaths Act 1868
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - Administration of Justice Act 1973
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1985
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1990
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - Judiciary and Courts (Scotland) Act 2008
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+  - PART 10 JUSTICE OF THE PEACE COURTS
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - Criminal Proceedings etc. (Reform) (Scotland) Act 2007
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - Judiciary and Courts (Scotland) Act 2008
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+  - PART 11 MISCELLANEOUS
+    - Judicial Offices (Salaries, &c.) Act 1952
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - Court of Session Act 1988
+      - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - Interpretation and Legislative Reform (Scotland) Act 2010
+      - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
