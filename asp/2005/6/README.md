@@ -1,0 +1,217 @@
+# Further and Higher Education (Scotland) Act 2005
+
+asp/2005/6. Enacted 2005-06-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 18 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2005/6
+
+Source: https://www.legislation.gov.uk/asp/2005/6/2026-10-01
+
+## Contents
+
+- Part 1 Further and higher education etc.
+  - Establishment of the Scottish Further and Higher Education Funding Council
+    - [s. 1 Scottish Further and Higher Education Funding Council](section/1.md)
+    - [s. 2 Dissolution of other funding bodies](section/2.md)
+  - Provision of further and higher education etc.
+    - [s. 3 The Council: general duty](section/3.md)
+    - [s. 4 The Scottish Ministers: general duty](section/4.md)
+    - [s. 5 Fundable further and higher education](section/5.md)
+    - [s. 6 Fundable bodies](section/6.md)
+    - [s. 7 Fundable bodies: further provision](section/7.md)
+    - [s. 7A Regional colleges](section/7A.md)
+    - [s. 7B Regional strategic bodies](section/7B.md)
+    - [s. 7C Assignation of colleges](section/7C.md)
+    - [s. 7D Orders under sections 7A to 7C: supplemental](section/7D.md)
+    - [s. 8 Support needs](section/8.md)
+  - Funding of further and higher education etc.
+    - [s. 9 Funding of the Council](section/9.md)
+    - [s. 9A Higher education institutions: good governance](section/9A.md)
+    - [s. 9B Further education institutions: good governance](section/9B.md)
+    - [s. 9C Widening access to fundable higher education](section/9C.md)
+    - [s. 9D Fee cap: students liable for higher education fees](section/9D.md)
+    - [s. 9E Widening access to Gaelic education](section/9E.md)
+    - [s. 10 Additional grants](section/10.md)
+    - [s. 11 Administration of funds](section/11.md)
+    - [s. 12 Funding of fundable bodies](section/12.md)
+    - [s. 12A Regional strategic bodies: administration of funds](section/12A.md)
+    - [s. 12B Funding of assigned colleges](section/12B.md)
+  - Funding for national training programmes
+    - [s. 12C Grants to the Council for national training programmes](section/12C.md)
+    - [s. 12D Administration of funds by the Council for national training programmes](section/12D.md)
+  - Scottish apprenticeships
+    - [s. 12E Definition of Scottish apprenticeship](section/12E.md)
+    - [s. 12F Scottish apprenticeship frameworks](section/12F.md)
+    - [s. 12G Requests for apprenticeship frameworks](section/12G.md)
+    - [s. 12H Scottish apprenticeship certificates](section/12H.md)
+  - Funding for Scottish apprenticeships and work-based learning
+    - [s. 12I Grants to the Council for Scottish apprenticeships and work-based learning](section/12I.md)
+    - [s. 12J Administration of funds by the Council for Scottish apprenticeships and work-based learning](section/12J.md)
+    - [s. 12K Information sharing on national training programmes, apprenticeships and work-based learning](section/12K.md)
+  - The Council: functions
+    - [s. 13 Quality of fundable further and higher education](section/13.md)
+    - [s. 13A Performance of regional strategic bodies](section/13A.md)
+    - [s. 14 Credit and qualification framework](section/14.md)
+    - [s. 14A Review of fundable further and higher education](section/14A.md)
+    - [s. 14B Notifications to the Council by post-16 education bodies](section/14B.md)
+    - [s. 15 Efficiency studies](section/15.md)
+    - [s. 15A Monitoring of financial sustainability of post-16 education bodies](section/15A.md)
+    - [s. 16 Council’s right to address meetings](section/16.md)
+    - [s. 17 Advisory functions](section/17.md)
+    - [s. 18 Functions regarding certain property](section/18.md)
+    - [s. 19 Administration of certain support](section/19.md)
+    - [s. 19A Reviews of progress with widening access](section/19A.md)
+    - [s. 19B Reporting by the Council](section/19B.md)
+  - The Council: exercise of functions
+    - [s. 20 Council to have regard to particular matters](section/20.md)
+    - [s. 21 Equal opportunities](section/21.md)
+    - [s. 22 Consultation and collaboration](section/22.md)
+    - [s. 23 General powers](section/23.md)
+  - Regional colleges: functions
+    - [s. 23A Regional colleges: general duty](section/23A.md)
+    - [s. 23B Regional colleges: planning, consultation and collaboration](section/23B.md)
+    - [s. 23C Regional colleges: improvement of economic and social well-being](section/23C.md)
+    - [s. 23D Regional college to have regard to particular matters](section/23D.md)
+  - Regional strategic bodies: functions
+    - [s. 23E Regional strategic bodies: general duty](section/23E.md)
+    - [s. 23F Regional strategic bodies: planning](section/23F.md)
+    - [s. 23G Performance monitoring](section/23G.md)
+    - [s. 23H Promotion of Council’s credit and qualification framework](section/23H.md)
+    - [s. 23I Efficiency studies: assigned colleges](section/23I.md)
+    - [s. 23J Right to address college meetings](section/23J.md)
+    - [s. 23K Regional strategic bodies: improvement of economic and social well-being](section/23K.md)
+    - [s. 23L Regional strategic body to have regard to particular matters](section/23L.md)
+    - [s. 23M Regional strategic bodies: consultation and collaboration](section/23M.md)
+    - [s. 23N Assigned colleges: information and directions](section/23N.md)
+    - [s. 23O Transfer of staff and property etc.](section/23O.md)
+  - Regional boards: constitution etc.
+    - [s. 23P Regional boards: constitution](section/23P.md)
+    - [s. 23Q Mismanagement by regional boards](section/23Q.md)
+    - [s. 23R Establishment and abolition of regional boards: supplemental](section/23R.md)
+  - The Scottish Ministers: requirements and directions
+    - [s. 24 Requirements as to Council’s functions](section/24.md)
+    - [s. 25 Directions where financial mismanagement](section/25.md)
+    - [s. 25A Provision of information](section/25A.md)
+  - Fundable bodies: miscellaneous
+    - [s. 26 Academic freedom](section/26.md)
+    - [s. 26A Equal opportunities: post-16 education bodies etc.](section/26A.md)
+    - [s. 27 Remit of the Scottish Public Services Ombudsman](section/27.md)
+    - [s. 28 Inspection of accounts](section/28.md)
+    - [s. 29 Educational use of certain property](section/29.md)
+    - [s. 30 Change of name by certain bodies](section/30.md)
+    - [s. 31 Information about recorded children](section/31.md)
+- Part 2 General
+  - [s. 32 Amendment of enactments](section/32.md)
+  - [s. 33 Ancillary provision](section/33.md)
+  - [s. 34 Orders and regulations](section/34.md)
+  - [s. 35 Interpretation](section/35.md)
+  - [s. 36 Short title and commencement](section/36.md)
+- SCHEDULE 1 The Scottish Further and Higher Education Funding Council
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership of the Council
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Disqualification from membership
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remuneration, allowances and pensions for members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Chief executive
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Other staff
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Continuity of employment etc.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Transfer of property and liabilities
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Proceedings of the Council
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Committees
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Delegation of functions
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Participation of Scottish Ministers at meetings
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Accounts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Reports and information
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Fundable bodies
+  - Institutions formerly eligible for funding by the Scottish Further Education Funding Council
+  - Institutions formerly eligible for funding by the Scottish Higher Education Funding Council
+  - Other institutions
+- SCHEDULE 2A Regional strategic bodies
+  - PART 1 Regional boards
+  - PART 2 Other regional strategic bodies
+- SCHEDULE 2B Regional boards
+  - Regional boards
+    - [Sch. 2B para. 1](schedule/2B/paragraph/1.md)
+  - Status
+    - [Sch. 2B para. 2](schedule/2B/paragraph/2.md)
+  - Membership
+    - [Sch. 2B para. 3](schedule/2B/paragraph/3.md)
+  - Student members
+    - [Sch. 2B para. 4](schedule/2B/paragraph/4.md)
+  - Election of staff and student members
+    - [Sch. 2B para. 5](schedule/2B/paragraph/5.md)
+  - Disqualification from membership
+    - [Sch. 2B para. 6](schedule/2B/paragraph/6.md)
+  - Terms and conditions
+    - [Sch. 2B para. 7](schedule/2B/paragraph/7.md)
+  - Remuneration and allowances
+    - [Sch. 2B para. 8](schedule/2B/paragraph/8.md)
+  - Resignation and removal of members
+    - [Sch. 2B para. 9](schedule/2B/paragraph/9.md)
+  - Staff
+    - [Sch. 2B para. 10](schedule/2B/paragraph/10.md)
+  - Proceedings of the board
+    - [Sch. 2B para. 11](schedule/2B/paragraph/11.md)
+  - Committees
+    - [Sch. 2B para. 12](schedule/2B/paragraph/12.md)
+  - Participation at meetings
+    - [Sch. 2B para. 13](schedule/2B/paragraph/13.md)
+  - General powers
+    - [Sch. 2B para. 14](schedule/2B/paragraph/14.md)
+  - Goods and services
+    - [Sch. 2B para. 15](schedule/2B/paragraph/15.md)
+  - Delegation of functions
+    - [Sch. 2B para. 16](schedule/2B/paragraph/16.md)
+  - Accounts
+    - [Sch. 2B para. 17](schedule/2B/paragraph/17.md)
+  - Modification
+    - [Sch. 2B para. 18](schedule/2B/paragraph/18.md)
+- SCHEDULE 3 Amendment of enactments
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Further and Higher Education (Scotland) Act 1992 (c. 37)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Teaching and Higher Education Act 1998 (c. 30)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Public Finance and Accountability (Scotland) Act 2000 (asp 1)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp 6)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Scottish Further Education Funding Council (Establishment) (Scotland) Order 1998 ( S.I. 1998/2667)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
