@@ -1,0 +1,296 @@
+# Public Audit (Wales) Act 2013
+
+anaw/2013/3. Enacted 2013-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2013/3
+
+Source: https://www.legislation.gov.uk/anaw/2013/3/2026-10-01
+
+## Contents
+
+- Introduction
+  - [s. 1 Overview](section/1.md)
+- PART 1 AUDITOR GENERAL FOR WALES
+  - CHAPTER 1 THE OFFICE OF AUDITOR GENERAL FOR WALES
+    - [s. 2 Office of Auditor General for Wales](section/2.md)
+    - [s. 3 Resignation or removal](section/3.md)
+    - [s. 4 Disqualification](section/4.md)
+    - [s. 5 Employment etc of former Auditor General](section/5.md)
+    - [s. 6 Status etc](section/6.md)
+    - [s. 7 Remuneration](section/7.md)
+  - CHAPTER 2 AUDITOR GENERAL’S FUNCTIONS
+    - General provision about the exercise of the Auditor General’s functions etc
+      - [s. 8 How functions are to be exercised](section/8.md)
+      - [s. 9 Supplementary powers](section/9.md)
+      - [s. 10 Code of audit practice](section/10.md)
+    - Functions relating to local government
+      - [s. 11 Audit of local government bodies](section/11.md)
+    - Provision relating to the transfer of supervisory functions of the Welsh Ministers
+      - [s. 12 Transfer etc of supervisory functions of Welsh Ministers: consultation](section/12.md)
+- PART 2 THE WALES AUDIT OFFICE AND ITS RELATIONSHIP WITH THE AUDITOR GENERAL
+  - CHAPTER 1 THE WALES AUDIT OFFICE
+    - [s. 13 Incorporation of Wales Audit Office](section/13.md)
+    - [s. 14 Powers](section/14.md)
+    - [s. 15 Efficiency](section/15.md)
+  - CHAPTER 2 RELATIONSHIP BETWEEN THE AUDITOR GENERAL AND THE WAO
+    - General
+      - [s. 16 Relationship with the Auditor General](section/16.md)
+      - [s. 17 WAO to monitor and provide advice](section/17.md)
+      - [s. 18 Delegation and joint exercise of functions of the Auditor General](section/18.md)
+    - Provision of services
+      - [s. 19 Provision of services](section/19.md)
+    - Income and expenses
+      - [s. 20 Expenditure](section/20.md)
+      - [s. 21 Provision of resources for Auditor General’s functions](section/21.md)
+      - [s. 22 Borrowing](section/22.md)
+    - Fees
+      - [s. 23 General provision relating to fees](section/23.md)
+      - [s. 24 Scheme for charging fees](section/24.md)
+    - Annual plan
+      - [s. 25 Annual plan](section/25.md)
+      - [s. 26 Annual plan: National Assembly](section/26.md)
+      - [s. 27 Annual plan: effect](section/27.md)
+- PART 3 MISCELLANEOUS AND GENERAL
+  - [s. 28 Functions of the National Assembly](section/28.md)
+  - [s. 29 Indemnification](section/29.md)
+  - [s. 29A Working with the Public Services Ombudsman for Wales](section/29A.md)
+  - [s. 30 Orders](section/30.md)
+  - [s. 31 Directions](section/31.md)
+  - [s. 32 Interpretation](section/32.md)
+  - [s. 33 Transitional, supplementary and saving provisions etc](section/33.md)
+  - [s. 34 Minor and consequential amendments](section/34.md)
+  - [s. 35 Commencement](section/35.md)
+  - [s. 36 Short title](section/36.md)
+- SCHEDULE 1 Incorporation of Wales Audit Office
+  - PART 1 MEMBERSHIP AND STATUS
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Appointment of non-executive and employee members
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Status
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - PART 2 NON-EXECUTIVE MEMBERS
+    - Appointment of non-executive members
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Appointment of chair of the WAO
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Period of appointment and re-appointment
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Remuneration arrangements
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Other terms of appointment
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Consultation
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Termination of appointments
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - PART 3 AUDITOR GENERAL
+    - Additional remuneration of the Auditor General
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - PART 4 EMPLOYEE MEMBERS
+    - Appointment
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - The appointed member
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - The elected members
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Terms of appointment
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Other terms of appointment
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Termination of appointments
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - PART 5 EMPLOYEES
+    - Appointment
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Status
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Remuneration arrangements
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - PART 6 DISQUALIFICATION AS MEMBER OF, OR EMPLOYEE OF, THE WAO
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - PART 7 PROCEDURAL RULES
+    - General
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Quorum for WAO meetings
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Committees
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Ballots
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - PART 8 OTHER MATTERS
+    - Validity
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Delegation of functions
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - WAO accounts
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Audit etc of the WAO
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Documentary evidence
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+- SCHEDULE 2 Relationship between the Auditor General and the WAO
+  - PART 1 CODE OF PRACTICE
+    - Preparation and approval etc
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Content
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - PART 2 REPORTS AND DOCUMENTS
+    - Reports
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Documents and information
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 3 TEMPORARY EXERCISE OF THE FUNCTIONS OF AUDITOR GENERAL BY ANOTHER PERSON
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Transitional, supplementary and saving provisions
+  - PART 1 THE AUDITOR GENERAL
+    - Previous Auditor General to continue to be Auditor General
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Savings for auditors appointed under section 13 of the Public Audit (Wales) Act 2004
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Savings in respect of restrictions on disclosure of information
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - PART 2 THE WAO
+    - WAO’s procedural rules before rules are made under paragraph 27 of Schedule 1
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - PART 3 TRANSFER OF FUNCTIONS ETC
+    - Transfer of staff
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Variation of employment contracts
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Collective agreements
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Trade union recognition
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Dismissal in relation to transfer
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Transfer of other property, rights and liabilities
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Criminal liability of the Auditor General
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Indemnification
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Superannuation Act 1972
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Finance Act 1989
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Social Security Administration Act 1992
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Education Act 1997
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Government of Wales Act 1998
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Local Government Act 1999
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Freedom of Information Act 2000
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Public Audit (Wales) Act 2004
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+    - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+  - Government of Wales Act 2006
+    - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+    - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+    - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+    - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+    - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+    - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+    - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+    - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+    - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+    - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+  - Companies Act 2006
+    - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+    - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+    - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+  - Local Government (Wales) Measure 2009
+    - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+    - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+    - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+    - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+    - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+    - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+  - Local Democracy, Economic Development and Construction Act 2009
+    - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+    - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+    - [Sch. 4 para. 91](schedule/4/paragraph/91.md)
+  - Equality Act 2010
+    - [Sch. 4 para. 92](schedule/4/paragraph/92.md)
