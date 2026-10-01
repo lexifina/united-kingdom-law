@@ -1,0 +1,244 @@
+# Victims, Witnesses, and Justice Reform (Scotland) Act 2025
+
+asp/2025/12. Enacted 2025-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2025/12
+
+Source: https://www.legislation.gov.uk/asp/2025/12/2026-10-01
+
+## Contents
+
+- Part 1 Victims and Witnesses Commissioner for Scotland
+  - Establishment
+    - [s. 1 Victims and Witnesses Commissioner for Scotland](section/1.md)
+  - Functions and powers
+    - [s. 2 Functions](section/2.md)
+    - [s. 3 Civil function](section/3.md)
+    - [s. 4 Engagement](section/4.md)
+    - [s. 5 Advisory group](section/5.md)
+    - [s. 6 Power to work with others](section/6.md)
+    - [s. 7 General powers](section/7.md)
+    - [s. 8 Restriction on exercise of functions](section/8.md)
+  - Victims’ charter
+    - [s. 9 Victims’ charter](section/9.md)
+  - Strategic plan
+    - [s. 10 Strategic plan](section/10.md)
+  - Investigations
+    - [s. 11 Carrying out investigations](section/11.md)
+    - [s. 12 Initiation and conduct of investigation](section/12.md)
+    - [s. 13 Investigations: witnesses and documents](section/13.md)
+    - [s. 14 Reports on investigations](section/14.md)
+  - Information gathering
+    - [s. 15 Power to gather information](section/15.md)
+    - [s. 16 Failure to supply required information](section/16.md)
+    - [s. 17 Offence of Commissioner disclosing confidential information](section/17.md)
+  - Annual report
+    - [s. 18 Annual Report](section/18.md)
+    - [s. 19 Requirement to respond to annual report](section/19.md)
+    - [s. 20 Publication of responses to annual report](section/20.md)
+  - Miscellaneous
+    - [s. 21 Reports](section/21.md)
+    - [s. 22 Protection from actions of defamation](section/22.md)
+  - Co-operation with Commissioner
+    - [s. 23 Co-operation with Commissioner](section/23.md)
+  - Application of public authorities legislation
+    - [s. 24 Application of public authorities legislation](section/24.md)
+  - Interpretation of Part
+    - [s. 25 Interpretation of Part](section/25.md)
+- Part 2 Trauma-informed practice
+  - Principle of trauma-informed practice
+    - [s. 26 Principle of trauma-informed practice](section/26.md)
+  - Conduct of proceedings in accordance with trauma-informed practice
+    - [s. 27 Criminal courts: conduct of proceedings](section/27.md)
+    - [s. 28 Civil courts: conduct of proceedings](section/28.md)
+    - [s. 29 Fatal accident inquiries: conduct of proceedings](section/29.md)
+  - Duty to have regard to principle of trauma-informed practice
+    - [s. 30 Scheduling of business in Scottish courts](section/30.md)
+    - [s. 31 Scheduling of business in sheriff courts and the Sheriff Appeal Court](section/31.md)
+    - [s. 32 Scheduling of business in justice of the peace courts](section/32.md)
+- Part 3 Victims’ rights to receive information and to give views
+  - [s. 33 Victim’s right to information about plea agreements, etc.](section/33.md)
+  - [s. 34 Victims’ right to be informed of decision not to prosecute or to discontinue proceedings](section/34.md)
+  - [s. 35 Single victim notification system](section/35.md)
+  - [s. 36 Right of eligible persons to receive information in event of death or incapacity of victim](section/36.md)
+  - [s. 37 Victim notification and right to make representations where offender is a child](section/37.md)
+  - [s. 38 Provision of information where victim is a child](section/38.md)
+  - [s. 39 Notification of individual other than supporter to receive information](section/39.md)
+  - [s. 40 Transfers of convicted persons](section/40.md)
+  - [s. 41 Additional information to be provided to victims](section/41.md)
+  - [s. 42 Powers to modify information to be given and right to make representations](section/42.md)
+  - [s. 43 Co-operation with the Scottish Ministers for the purposes of sharing information with victims](section/43.md)
+  - [s. 44 Standards of service](section/44.md)
+  - [s. 45 Victim’s right to receive information concerning offender subject to compulsion order by virtue of cross-border transfer](section/45.md)
+  - [s. 46 Information to be given concerning offender subject to compulsion order](section/46.md)
+  - [s. 47 Victim’s right to receive information under section 17D after representations](section/47.md)
+  - [s. 48 Conditional discharge: relevant conditions](section/48.md)
+  - [s. 49 Suspension from detention within hospital grounds](section/49.md)
+  - [s. 50 Victim statements in solemn proceedings](section/50.md)
+  - [s. 51 Provision of transcript of record of trial to certain complainers](section/51.md)
+  - [s. 52 Right to referral by Police Scotland to victim support services](section/52.md)
+  - [s. 53 Release on licence: reasons for decisions](section/53.md)
+  - [s. 54 Review of victim’s right to receive information on fixed penalties](section/54.md)
+- Part 4 Release of prisoners
+  - [s. 55 Parole Board rules: decisions where prisoner has information about victim’s remains](section/55.md)
+  - [s. 56 Parole Board rules: safety and security of victims and victims’ family](section/56.md)
+  - [s. 57 Licence conditions: exclusion zones](section/57.md)
+- Part 5 Special measures in civil cases
+  - Vulnerable witnesses
+    - [s. 58 Vulnerable witnesses](section/58.md)
+    - [s. 59 Prohibition on personal conduct of case](section/59.md)
+    - [s. 60 Register of solicitors for section 22B of the Vulnerable Witnesses (Scotland) Act 2004](section/60.md)
+  - Vulnerable parties
+    - [s. 61 Vulnerable parties](section/61.md)
+- Part 6 Criminal juries and verdicts
+  - Solemn proceedings
+    - [s. 62 Jury size and quorum](section/62.md)
+    - [s. 63 Form of jury affirmation](section/63.md)
+    - [s. 64 Jury service: assistance for jurors with communication](section/64.md)
+    - [s. 65 Verdict of guilty or not guilty and majority required for guilty verdict](section/65.md)
+  - Summary proceedings
+    - [s. 66 Verdict of guilty or not guilty](section/66.md)
+  - Research into juries
+    - [s. 67 Research into juries](section/67.md)
+    - [s. 68 Research into juries by or on behalf of the Scottish Ministers: duty to report](section/68.md)
+- Part 7 Sexual Offences Court
+  - Chapter 1 Establishment, jurisdiction and Judges of the Sexual Offences Court
+    - Establishment
+      - [s. 69 Sexual Offences Court](section/69.md)
+    - Jurisdiction and competence
+      - [s. 70 Jurisdiction and competence: general](section/70.md)
+      - [s. 71 Jurisdiction: sexual offences](section/71.md)
+    - Judges of the Sexual Offences Court
+      - [s. 72 Judges of the Sexual Offences Court: Lord Commissioners of Justiciary and temporary judges](section/72.md)
+      - [s. 73 Judges of the Sexual Offences Court: re-employment of former judges](section/73.md)
+      - [s. 74 Appointment of Judges of the Sexual Offences Court](section/74.md)
+      - [s. 75 Remuneration and expenses of Judges of the Sexual Offences Court](section/75.md)
+  - Chapter 2 Organisation of business
+    - President and Vice President of the Sexual Offences Court
+      - [s. 76 President and Vice President of the Sexual Offences Court](section/76.md)
+      - [s. 77 President and Vice President: incapacity and suspension](section/77.md)
+    - Disposal of business
+      - [s. 78 President’s responsibility for efficient disposal of business](section/78.md)
+    - Sittings
+      - [s. 79 Sittings of the Sexual Offences Court](section/79.md)
+    - Transfer of cases
+      - [s. 80 Transfer of cases to the Sexual Offences Court](section/80.md)
+      - [s. 81 Transfer of cases from the Sexual Offences Court](section/81.md)
+    - Rights of audience
+      - [s. 82 Rights of audience: solicitors](section/82.md)
+      - [s. 83 Rights of audience: advocates](section/83.md)
+      - [s. 84 Statement of training requirement for prosecutors](section/84.md)
+      - [s. 85 Rights of audience: review](section/85.md)
+  - Chapter 3 Administration
+    - Clerks
+      - [s. 86 Clerk of the Sexual Offences Court](section/86.md)
+      - [s. 87 Deputy Clerks of the Sexual Offences Court](section/87.md)
+      - [s. 88 Clerk and Deputy Clerks: further provisions](section/88.md)
+    - Sexual Offences Court records
+      - [s. 89 Sexual Offences Court records](section/89.md)
+      - [s. 90 Sexual Offences Court records: authentication and electronic form](section/90.md)
+  - Chapter 4 Procedure
+    - Procedure
+      - [s. 91 Sexual Offences Court procedure](section/91.md)
+    - Prohibition on personal conduct of defence
+      - [s. 92 Prohibition on personal conduct of defence](section/92.md)
+    - Ground rules hearings
+      - [s. 93 Ground rules hearings](section/93.md)
+    - Pre-recording of evidence
+      - [s. 94 Pre-recording of evidence](section/94.md)
+      - [s. 95 Taking of evidence by a commissioner](section/95.md)
+      - [s. 96 Admission of the record of a prior examination of vulnerable complainer as evidence](section/96.md)
+      - [s. 97 Giving evidence in the form of a prior statement](section/97.md)
+    - Art and part and aiding and abetting
+      - [s. 98 Statutory offences: art and part and aiding and abetting](section/98.md)
+    - Sentencing
+      - [s. 99 Sentencing power of the Sexual Offences Court](section/99.md)
+    - Double jeopardy
+      - [s. 100 Exception to rule against double jeopardy in the Sexual Offences Court: new evidence](section/100.md)
+- Part 8 Special measures for vulnerable witnesses under the 1995 Act
+  - [s. 101 Vulnerable witnesses under the 1995 Act: admission of the record of a prior examination as evidence in full](section/101.md)
+  - [s. 102 Child witnesses under the 1995 Act: exception to presumption in favour of special measures](section/102.md)
+  - [s. 103 Vulnerable witnesses under the 1995 Act: supplementary provision in relation to child witnesses](section/103.md)
+- Part 9 Sexual offences cases: further reform
+  - Anonymity for victims
+    - [s. 104 Sexual offences cases: anonymity and restriction on publications](section/104.md)
+  - Restrictions on evidence relating to sexual offences
+    - [s. 105 Restrictions on evidence relating to sexual offences](section/105.md)
+  - Independent legal representation for complainers
+    - [s. 106 Applications to admit certain evidence relating to sexual offences: rights of complainers](section/106.md)
+  - Non-harassment orders
+    - [s. 107 Circumstances in which non-harassment order must be considered by court](section/107.md)
+- Part 10 Non-harassment orders
+  - [s. 108 Non-harassment orders: domestic abuse cases](section/108.md)
+- Part 11 Enforcement of protective orders made outwith Scotland
+  - [s. 109 Offences relating to protective orders made outwith Scotland](section/109.md)
+- Part 12 Domestic abuse cases
+  - [s. 110 Review in relation to connected proceedings](section/110.md)
+- Part 13 Final provisions
+  - [s. 111 Review of operation of Act](section/111.md)
+  - [s. 112 Regulations](section/112.md)
+  - [s. 113 Ancillary provision](section/113.md)
+  - [s. 114 Interpretation](section/114.md)
+  - [s. 115 Modification of enactments](section/115.md)
+  - [s. 116 Commencement](section/116.md)
+  - [s. 117 Short title](section/117.md)
+- Schedule 1 The office of Victims and Witnesses Commissioner for Scotland
+  - Part 1 Status and independence
+    - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Independence](schedule/1/paragraph/2.md)
+  - Part 2 Appointment, termination and terms and conditions
+    - [Sch. 1 para. 3 Appointment](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Disqualification from appointment](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Tenure](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Early termination](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Validity of things done](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Remuneration and pensions, etc.](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Other terms and conditions](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Temporary appointments](schedule/1/paragraph/10.md)
+  - Part 3 Staff and offices
+    - [Sch. 1 para. 11 Appointment of staff](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Staff terms and conditions](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Staff pensions](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Authority to perform functions](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Duty to comply with directions](schedule/1/paragraph/15.md)
+  - Part 4 Accounts and accountability
+    - [Sch. 1 para. 16 Budget](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Accountable officer](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Accounts and audit](schedule/1/paragraph/18.md)
+- Schedule 2 Application of public authorities legislation to the office of Victims and Witnesses Commissioner for Scotland
+  - [Sch. 2 para. 1 Scottish Public Services Ombudsman Act 2002](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Freedom of Information (Scotland) Act 2002](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Public Services Reform (Scotland) Act 2010](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Public Records (Scotland) Act 2011](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Procurement Reform (Scotland) Act 2014](schedule/2/paragraph/5.md)
+- Schedule 3 Victim Notification Scheme
+  - Part 1 Right of eligible persons to receive information in event of death or incapacity of victim
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part 2 Notification of individual other than supporter to receive information
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- Schedule 4 Sexual offences
+  - Part 1 Crimes at common law
+    - [Sch. 4 para. 1 Crimes at common law](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Crimes at common law](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Crimes at common law](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Crimes at common law](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Crimes at common law](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Crimes at common law](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Crimes at common law](schedule/4/paragraph/7.md)
+  - Part 2 Statutory offences
+    - [Sch. 4 para. 8 Offences under the Mental Health (Scotland) Act 1984](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Offences under the Criminal Law (Consolidation) (Scotland) Act 1995](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Offence under the Sexual Offences (Amendment) Act 2000](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Offences under the Mental Health (Care and Treatment) (Scotland) Act 2003](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Offence under the Prohibition of Female Genital Mutilation (Scotland) Act 2005](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Offences under the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Offences under the Sexual Offences (Scotland) Act 2009](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Offence under the Abusive Behaviour and Sexual Harm (Scotland) Act 2016](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16 Offence under the Domestic Abuse (Scotland) Act 2018](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17 Offences under the Health and Care Act 2022](schedule/4/paragraph/17.md)
+- Schedule 5 Minor and consequential modifications
+  - [Sch. 5 para. 1 Legal Aid (Scotland) Act 1986](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Judiciary and Courts Scotland Act 2008](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Courts Reform (Scotland) Act 2014](schedule/5/paragraph/3.md)
