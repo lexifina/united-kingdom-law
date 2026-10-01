@@ -1,0 +1,227 @@
+# Employment Relations Act 1999
+
+1999 c. 26. Enacted 1999-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/26
+
+Source: https://www.legislation.gov.uk/ukpga/1999/26/2026-10-01
+
+## Contents
+
+- Trade unions
+  - [s. 1 Collective bargaining: recognition.](section/1.md)
+  - [s. 2 Detriment related to trade union membership.](section/2.md)
+  - [s. 3 Blacklists.](section/3.md)
+  - [s. 4 Ballots and notices.](section/4.md)
+  - [s. 5 Training.](section/5.md)
+  - [s. 6 Unfair dismissal connected with recognition: interim relief.](section/6.md)
+- Leave for family and domestic reasons
+  - [s. 7 Maternity and parental leave.](section/7.md)
+  - [s. 8 Time off for domestic incidents.](section/8.md)
+  - [s. 9 Consequential amendments.](section/9.md)
+- Disciplinary and grievance hearings
+  - [s. 10 Right to be accompanied.](section/10.md)
+  - [s. 11 Complaint to employment tribunal.](section/11.md)
+  - [s. 12 Detriment and dismissal.](section/12.md)
+  - [s. 13 Interpretation.](section/13.md)
+  - [s. 14 Contracting out and conciliation.](section/14.md)
+  - [s. 15 National security employees.](section/15.md)
+- Other rights of individuals
+  - [s. 16 Unfair dismissal of striking workers.](section/16.md)
+  - [s. 17](section/17.md)
+  - [s. 18 Agreement to exclude dismissal rights.](section/18.md)
+  - [s. 19 Part-time work: discrimination.](section/19.md)
+  - [s. 20 Part-time work: code of practice.](section/20.md)
+  - [s. 21 Code of practice: supplemental.](section/21.md)
+  - [s. 22 National minimum wage: communities.](section/22.md)
+  - [s. 23 Power to confer rights on individuals.](section/23.md)
+- CAC, ACAS, Commissioners and Certification Officer
+  - [s. 24 CAC: members.](section/24.md)
+  - [s. 25 CAC: proceedings.](section/25.md)
+  - [s. 26 ACAS: general duty.](section/26.md)
+  - [s. 27 ACAS: reports.](section/27.md)
+  - [s. 28 Abolition of Commissioners.](section/28.md)
+  - [s. 29 The Certification Officer.](section/29.md)
+- Miscellaneous
+  - [s. 30 Partnerships at work.](section/30.md)
+  - [s. 31 Employment agencies.](section/31.md)
+  - [s. 32 Employment rights: employment outside Great Britain.](section/32.md)
+  - [s. 33 Unfair dismissal: special and additional awards.](section/33.md)
+  - [s. 34 Indexation of amounts, &c.](section/34.md)
+  - [s. 35 Guarantee payments.](section/35.md)
+  - [s. 36 Sections 33 to 35: consequential.](section/36.md)
+  - [s. 37 Compensatory award etc: removal of limit in certain cases.](section/37.md)
+  - [s. 38 Transfer of undertakings.](section/38.md)
+  - [s. 39 Minimum wage: information.](section/39.md)
+  - [s. 40 Dismissal of school staff.](section/40.md)
+  - [s. 41 National security.](section/41.md)
+- General
+  - [s. 42 Orders and regulations.](section/42.md)
+  - [s. 43 Finance.](section/43.md)
+  - [s. 44 Repeals.](section/44.md)
+  - [s. 45 Commencement.](section/45.md)
+  - [s. 46 Extent.](section/46.md)
+  - [s. 47 Citation.](section/47.md)
+- SCHEDULE 1 Collective Bargaining: Recognition
+- SCHEDULE 2 Union Membership: Detriment
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Detriment
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Time limit for proceedings
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Consideration of complaint
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Remedies
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Awards against third parties
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Ballots and notices
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Support of ballot
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Documents for employers
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Entitlement to vote
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Separate workplace ballots
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Voting paper
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Conduct of ballot: merchant seamen
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Inducement
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Disregard of certain failures
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Period of ballot’s effectiveness
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Notice of industrial action
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Leave for Family Reasons Etc
+  - Part I Maternity Leave and Parental Leave
+    - New Part VIII of Employment Rights Act 1996
+  - Part II Time off for Dependants
+    - Provisions to be Inserted after Section 57 of the Employment Rights Act 1996
+  - Part III Consequential Amendments
+    - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Employment Tribunals Act 1996 (c. 17)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Employment Rights Act 1996 (c. 18)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+- SCHEDULE 5 Unfair Dismissal of Striking Workers
+  - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 The Certification Officer
+  - Introduction
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Register of members
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Accounting records
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Offenders
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Trade union administration: appeals
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Elections
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Application of funds for political objects
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Political ballot rules
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Political fund
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Amalgamation or transfer of engagements
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Breach of union rules
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Employers’ associations
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Procedure before Certification Officer
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Annual report by Certification Officer
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+- SCHEDULE 7 Employment Agencies
+  - Introduction
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - General regulations
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Charges
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Inspection
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Offences
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Regulations and orders
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Interpretation
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Exemptions
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 National Security
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 Repeals
