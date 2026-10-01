@@ -1,0 +1,864 @@
+# Mental Capacity Act 2005
+
+2005 c. 9. Enacted 2005-04-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 55 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2005/9
+
+Source: https://www.legislation.gov.uk/ukpga/2005/9/2026-10-01
+
+## Contents
+
+- Part 1 Persons who lack capacity
+  - The principles
+    - [s. 1 The principles](section/1.md)
+  - Preliminary
+    - [s. 2 People who lack capacity](section/2.md)
+    - [s. 3 Inability to make decisions](section/3.md)
+    - [s. 4 Best interests](section/4.md)
+    - [s. 4A Restriction on deprivation of liberty](section/4A.md)
+    - [s. 4B Deprivation of liberty necessary for life-sustaining treatment etc](section/4B.md)
+    - [s. 5 Acts in connection with care or treatment](section/5.md)
+    - [s. 6 Section 5 acts: limitations](section/6.md)
+    - [s. 7 Payment for necessary goods and services](section/7.md)
+    - [s. 8 Expenditure](section/8.md)
+  - Lasting powers of attorney
+    - [s. 9 Lasting powers of attorney](section/9.md)
+    - [s. 10 Appointment of donees](section/10.md)
+    - [s. 11 Lasting powers of attorney: restrictions](section/11.md)
+    - [s. 12 Scope of lasting powers of attorney: gifts](section/12.md)
+    - [s. 13 Revocation of lasting powers of attorney etc.](section/13.md)
+    - [s. 14 Protection of donee and others if no power created or power revoked](section/14.md)
+  - General powers of the court and appointment of deputies
+    - [s. 15 Power to make declarations](section/15.md)
+    - [s. 16 Powers to make decisions and appoint deputies: general](section/16.md)
+    - [s. 16A Section 16 powers: Mental Health Act patients etc](section/16A.md)
+    - [s. 17 Section 16 powers: personal welfare](section/17.md)
+    - [s. 18 Section 16 powers: property and affairs](section/18.md)
+    - [s. 19 Appointment of deputies](section/19.md)
+    - [s. 20 Restrictions on deputies](section/20.md)
+    - [s. 21 Transfer of proceedings relating to people under 18](section/21.md)
+  - Powers of the court in relation to Schedule A1
+    - [s. 21A Powers of court in relation to Schedule A1](section/21A.md)
+  - Powers of the court in relation to lasting powers of attorney
+    - [s. 22 Powers of court in relation to validity of lasting powers of attorney](section/22.md)
+    - [s. 23 Powers of court in relation to operation of lasting powers of attorney](section/23.md)
+  - Advance decisions to refuse treatment
+    - [s. 24 Advance decisions to refuse treatment: general](section/24.md)
+    - [s. 25 Validity and applicability of advance decisions](section/25.md)
+    - [s. 26 Effect of advance decisions](section/26.md)
+  - Excluded decisions
+    - [s. 27 Family relationships etc.](section/27.md)
+    - [s. 28 Mental Health Act matters](section/28.md)
+    - [s. 29 Voting rights](section/29.md)
+  - Research
+    - [s. 30 Research](section/30.md)
+    - [s. 31 Requirements for approval](section/31.md)
+    - [s. 32 Consulting carers etc.](section/32.md)
+    - [s. 33 Additional safeguards](section/33.md)
+    - [s. 34 Loss of capacity during research project](section/34.md)
+  - Independent mental capacity advocate service
+    - [s. 35 Appointment of independent mental capacity advocates](section/35.md)
+    - [s. 36 Functions of independent mental capacity advocates](section/36.md)
+    - [s. 37 Provision of serious medical treatment by NHS body](section/37.md)
+    - [s. 38 Provision of accommodation by NHS body](section/38.md)
+    - [s. 39 Provision of accommodation by local authority](section/39.md)
+    - [s. 39A Person becomes subject to Schedule A1](section/39A.md)
+    - [s. 39B Section 39A: supplementary provision](section/39B.md)
+    - [s. 39C Person unrepresented whilst subject to Schedule A1](section/39C.md)
+    - [s. 39D Person subject to Schedule A1 without paid representative](section/39D.md)
+    - [s. 39E Limitation on duty to instruct advocate under section 39D](section/39E.md)
+    - [s. 40 Exceptions](section/40.md)
+    - [s. 41 Power to adjust role of independent mental capacity advocate](section/41.md)
+  - Miscellaneous and supplementary
+    - [s. 42 Codes of practice](section/42.md)
+    - [s. 43 Codes of practice: procedure](section/43.md)
+    - [s. 44 Ill-treatment or neglect](section/44.md)
+- Part 2 The Court of Protection and the Public Guardian
+  - The Court of Protection
+    - [s. 45 The Court of Protection](section/45.md)
+    - [s. 46 The judges of the Court of Protection](section/46.md)
+  - Supplementary powers
+    - [s. 47 General powers and effect of orders etc.](section/47.md)
+    - [s. 48 Interim orders and directions](section/48.md)
+    - [s. 49 Power to call for reports](section/49.md)
+  - Practice and procedure
+    - [s. 50 Applications to the Court of Protection](section/50.md)
+    - [s. 51 Court of Protection Rules](section/51.md)
+    - [s. 52 Practice directions](section/52.md)
+    - [s. 53 Rights of appeal](section/53.md)
+  - Fees and costs
+    - [s. 54 Fees](section/54.md)
+    - [s. 55 Costs](section/55.md)
+    - [s. 56 Fees and costs: supplementary](section/56.md)
+  - The Public Guardian
+    - [s. 57 The Public Guardian](section/57.md)
+    - [s. 58 Functions of the Public Guardian](section/58.md)
+    - [s. 59 Public Guardian Board](section/59.md)
+    - [s. 60 Annual report](section/60.md)
+  - Court of Protection Visitors
+    - [s. 61 Court of Protection Visitors](section/61.md)
+- Part 3 Miscellaneous and general
+  - Declaratory provision
+    - [s. 62 Scope of the Act](section/62.md)
+  - Private international law
+    - [s. 63 International protection of adults](section/63.md)
+  - General
+    - [s. 64 Interpretation](section/64.md)
+    - [s. 65 Rules, regulations and orders](section/65.md)
+    - [s. 66 Existing receivers and enduring powers of attorney etc.](section/66.md)
+    - [s. 67 Minor and consequential amendments and repeals](section/67.md)
+    - [s. 68 Commencement and extent](section/68.md)
+    - [s. 69 Short title](section/69.md)
+- SCHEDULE A1 Hospital and care home residents: deprivation of liberty
+  - Part 1 Authorisation to deprive residents of liberty etc
+    - Application of Part
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Authorisation to deprive P of liberty
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - No liability for acts done for purpose of depriving P of liberty
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - No protection for negligent acts etc
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Part 2 Interpretation: main terms
+    - Introduction
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - Detained resident
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - Relevant person etc
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - Authorisations
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+  - Part 3 The qualifying requirements
+    - The qualifying requirements
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - The age requirement
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+    - The mental health requirement
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+    - The mental capacity requirement
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+    - The best interests requirement
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - The eligibility requirement
+      - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - The no refusals requirement
+      - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+      - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+      - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+  - Part 4 Standard authorisations
+    - Supervisory body to give authorisation
+      - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+      - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+      - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+    - Duty to request authorisation: basic cases
+      - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+    - Duty to request authorisation: change in place of detention
+      - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+      - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+    - Other authority for detention: request for authorisation
+      - [Sch. A1 para. 27](schedule/A1/paragraph/27.md)
+    - Request refused: no further request unless change of circumstances
+      - [Sch. A1 para. 28](schedule/A1/paragraph/28.md)
+    - Authorisation given: request for further authorisation
+      - [Sch. A1 para. 29](schedule/A1/paragraph/29.md)
+    - Power to request authorisation
+      - [Sch. A1 para. 30](schedule/A1/paragraph/30.md)
+    - Information included in request
+      - [Sch. A1 para. 31](schedule/A1/paragraph/31.md)
+    - Records of requests
+      - [Sch. A1 para. 32](schedule/A1/paragraph/32.md)
+    - Relevant person must be assessed
+      - [Sch. A1 para. 33](schedule/A1/paragraph/33.md)
+    - Age assessment
+      - [Sch. A1 para. 34](schedule/A1/paragraph/34.md)
+    - Mental health assessment
+      - [Sch. A1 para. 35](schedule/A1/paragraph/35.md)
+      - [Sch. A1 para. 36](schedule/A1/paragraph/36.md)
+    - Mental capacity assessment
+      - [Sch. A1 para. 37](schedule/A1/paragraph/37.md)
+    - Best interests assessment
+      - [Sch. A1 para. 38](schedule/A1/paragraph/38.md)
+      - [Sch. A1 para. 39](schedule/A1/paragraph/39.md)
+      - [Sch. A1 para. 40](schedule/A1/paragraph/40.md)
+      - [Sch. A1 para. 41](schedule/A1/paragraph/41.md)
+      - [Sch. A1 para. 42](schedule/A1/paragraph/42.md)
+      - [Sch. A1 para. 43](schedule/A1/paragraph/43.md)
+      - [Sch. A1 para. 44](schedule/A1/paragraph/44.md)
+      - [Sch. A1 para. 45](schedule/A1/paragraph/45.md)
+    - Eligibility assessment
+      - [Sch. A1 para. 46](schedule/A1/paragraph/46.md)
+      - [Sch. A1 para. 47](schedule/A1/paragraph/47.md)
+    - No refusals assessment
+      - [Sch. A1 para. 48](schedule/A1/paragraph/48.md)
+    - Equivalent assessment already carried out
+      - [Sch. A1 para. 49](schedule/A1/paragraph/49.md)
+    - Duty to give authorisation
+      - [Sch. A1 para. 50](schedule/A1/paragraph/50.md)
+    - Terms of authorisation
+      - [Sch. A1 para. 51](schedule/A1/paragraph/51.md)
+      - [Sch. A1 para. 52](schedule/A1/paragraph/52.md)
+      - [Sch. A1 para. 53](schedule/A1/paragraph/53.md)
+    - Form of authorisation
+      - [Sch. A1 para. 54](schedule/A1/paragraph/54.md)
+      - [Sch. A1 para. 55](schedule/A1/paragraph/55.md)
+      - [Sch. A1 para. 56](schedule/A1/paragraph/56.md)
+    - Duty to give information about decision
+      - [Sch. A1 para. 57](schedule/A1/paragraph/57.md)
+      - [Sch. A1 para. 58](schedule/A1/paragraph/58.md)
+    - Duty to give information about effect of authorisation
+      - [Sch. A1 para. 59](schedule/A1/paragraph/59.md)
+    - Records of authorisations
+      - [Sch. A1 para. 60](schedule/A1/paragraph/60.md)
+    - Variation of an authorisation
+      - [Sch. A1 para. 61](schedule/A1/paragraph/61.md)
+    - Effect of decision about request made under paragraph 25 or 30
+      - [Sch. A1 para. 62](schedule/A1/paragraph/62.md)
+    - When an authorisation is in force
+      - [Sch. A1 para. 63](schedule/A1/paragraph/63.md)
+      - [Sch. A1 para. 64](schedule/A1/paragraph/64.md)
+      - [Sch. A1 para. 65](schedule/A1/paragraph/65.md)
+    - When a request for a standard authorisation is “disposed of”
+      - [Sch. A1 para. 66](schedule/A1/paragraph/66.md)
+    - Right of third party to require consideration of whether authorisation needed
+      - [Sch. A1 para. 67](schedule/A1/paragraph/67.md)
+      - [Sch. A1 para. 68](schedule/A1/paragraph/68.md)
+      - [Sch. A1 para. 69](schedule/A1/paragraph/69.md)
+      - [Sch. A1 para. 70](schedule/A1/paragraph/70.md)
+      - [Sch. A1 para. 71](schedule/A1/paragraph/71.md)
+      - [Sch. A1 para. 72](schedule/A1/paragraph/72.md)
+      - [Sch. A1 para. 73](schedule/A1/paragraph/73.md)
+  - Part 5 Urgent authorisations
+    - Managing authority to give authorisation
+      - [Sch. A1 para. 74](schedule/A1/paragraph/74.md)
+      - [Sch. A1 para. 75](schedule/A1/paragraph/75.md)
+    - Duty to give authorisation
+      - [Sch. A1 para. 76](schedule/A1/paragraph/76.md)
+      - [Sch. A1 para. 77](schedule/A1/paragraph/77.md)
+    - Terms of authorisation
+      - [Sch. A1 para. 78](schedule/A1/paragraph/78.md)
+    - Form of authorisation
+      - [Sch. A1 para. 79](schedule/A1/paragraph/79.md)
+      - [Sch. A1 para. 80](schedule/A1/paragraph/80.md)
+      - [Sch. A1 para. 81](schedule/A1/paragraph/81.md)
+    - Duty to keep records and give copies
+      - [Sch. A1 para. 82](schedule/A1/paragraph/82.md)
+    - Duty to give information about authorisation
+      - [Sch. A1 para. 83](schedule/A1/paragraph/83.md)
+    - Request for extension of duration
+      - [Sch. A1 para. 84](schedule/A1/paragraph/84.md)
+      - [Sch. A1 para. 85](schedule/A1/paragraph/85.md)
+      - [Sch. A1 para. 86](schedule/A1/paragraph/86.md)
+    - No variation
+      - [Sch. A1 para. 87](schedule/A1/paragraph/87.md)
+    - When an authorisation is in force
+      - [Sch. A1 para. 88](schedule/A1/paragraph/88.md)
+      - [Sch. A1 para. 89](schedule/A1/paragraph/89.md)
+      - [Sch. A1 para. 90](schedule/A1/paragraph/90.md)
+  - Part 6 Eligibility requirement not met: suspension of standard authorisation
+    - [Sch. A1 para. 91](schedule/A1/paragraph/91.md)
+    - [Sch. A1 para. 92](schedule/A1/paragraph/92.md)
+    - [Sch. A1 para. 93](schedule/A1/paragraph/93.md)
+    - [Sch. A1 para. 94](schedule/A1/paragraph/94.md)
+    - [Sch. A1 para. 95](schedule/A1/paragraph/95.md)
+    - [Sch. A1 para. 96](schedule/A1/paragraph/96.md)
+    - [Sch. A1 para. 97](schedule/A1/paragraph/97.md)
+  - Part 7 Standard authorisations: change in supervisory responsibility
+    - Application of this Part
+      - [Sch. A1 para. 98](schedule/A1/paragraph/98.md)
+      - [Sch. A1 para. 99](schedule/A1/paragraph/99.md)
+    - Effect of change in supervisory responsibility
+      - [Sch. A1 para. 100](schedule/A1/paragraph/100.md)
+  - Part 8 Standard authorisations: review
+    - Application of this Part
+      - [Sch. A1 para. 101](schedule/A1/paragraph/101.md)
+    - Review by supervisory body
+      - [Sch. A1 para. 102](schedule/A1/paragraph/102.md)
+    - Request for review
+      - [Sch. A1 para. 103](schedule/A1/paragraph/103.md)
+    - Grounds for review
+      - [Sch. A1 para. 104](schedule/A1/paragraph/104.md)
+    - Non-qualification ground
+      - [Sch. A1 para. 105](schedule/A1/paragraph/105.md)
+    - Change of reason ground
+      - [Sch. A1 para. 106](schedule/A1/paragraph/106.md)
+    - Variation of conditions ground
+      - [Sch. A1 para. 107](schedule/A1/paragraph/107.md)
+    - Notice that review to be carried out
+      - [Sch. A1 para. 108](schedule/A1/paragraph/108.md)
+    - Starting a review
+      - [Sch. A1 para. 109](schedule/A1/paragraph/109.md)
+    - No reviewable qualifying requirements
+      - [Sch. A1 para. 110](schedule/A1/paragraph/110.md)
+    - One or more reviewable qualifying requirements
+      - [Sch. A1 para. 111](schedule/A1/paragraph/111.md)
+    - Review assessments
+      - [Sch. A1 para. 112](schedule/A1/paragraph/112.md)
+      - [Sch. A1 para. 113](schedule/A1/paragraph/113.md)
+    - Best interests requirement reviewable but non-assessable
+      - [Sch. A1 para. 114](schedule/A1/paragraph/114.md)
+    - Best interests review assessment positive
+      - [Sch. A1 para. 115](schedule/A1/paragraph/115.md)
+    - Mental health, mental capacity, eligibility or no refusals review assessment positive
+      - [Sch. A1 para. 116](schedule/A1/paragraph/116.md)
+    - One or more review assessments negative
+      - [Sch. A1 para. 117](schedule/A1/paragraph/117.md)
+    - Completion of a review
+      - [Sch. A1 para. 118](schedule/A1/paragraph/118.md)
+    - Variations under this Part
+      - [Sch. A1 para. 119](schedule/A1/paragraph/119.md)
+    - Notice of outcome of review
+      - [Sch. A1 para. 120](schedule/A1/paragraph/120.md)
+    - Records
+      - [Sch. A1 para. 121](schedule/A1/paragraph/121.md)
+    - Relationship between review and suspension under Part 6
+      - [Sch. A1 para. 122](schedule/A1/paragraph/122.md)
+    - Relationship between review and request for new authorisation
+      - [Sch. A1 para. 123](schedule/A1/paragraph/123.md)
+      - [Sch. A1 para. 124](schedule/A1/paragraph/124.md)
+      - [Sch. A1 para. 125](schedule/A1/paragraph/125.md)
+  - Part 9 Assessments under this Schedule
+    - Introduction
+      - [Sch. A1 para. 126](schedule/A1/paragraph/126.md)
+      - [Sch. A1 para. 127](schedule/A1/paragraph/127.md)
+      - [Sch. A1 para. 128](schedule/A1/paragraph/128.md)
+    - Supervisory body to select assessor
+      - [Sch. A1 para. 129](schedule/A1/paragraph/129.md)
+      - [Sch. A1 para. 130](schedule/A1/paragraph/130.md)
+    - Examination and copying of records
+      - [Sch. A1 para. 131](schedule/A1/paragraph/131.md)
+    - Representations
+      - [Sch. A1 para. 132](schedule/A1/paragraph/132.md)
+    - Assessments to stop if any comes to negative conclusion
+      - [Sch. A1 para. 133](schedule/A1/paragraph/133.md)
+    - Duty to keep records and give copies
+      - [Sch. A1 para. 134](schedule/A1/paragraph/134.md)
+      - [Sch. A1 para. 135](schedule/A1/paragraph/135.md)
+      - [Sch. A1 para. 136](schedule/A1/paragraph/136.md)
+  - Part 10 Relevant person’s representative
+    - The representative
+      - [Sch. A1 para. 137](schedule/A1/paragraph/137.md)
+      - [Sch. A1 para. 138](schedule/A1/paragraph/138.md)
+    - Supervisory body to appoint representative
+      - [Sch. A1 para. 139](schedule/A1/paragraph/139.md)
+      - [Sch. A1 para. 140](schedule/A1/paragraph/140.md)
+      - [Sch. A1 para. 141](schedule/A1/paragraph/141.md)
+    - Appointment regulations
+      - [Sch. A1 para. 142](schedule/A1/paragraph/142.md)
+      - [Sch. A1 para. 143](schedule/A1/paragraph/143.md)
+      - [Sch. A1 para. 144](schedule/A1/paragraph/144.md)
+      - [Sch. A1 para. 145](schedule/A1/paragraph/145.md)
+      - [Sch. A1 para. 146](schedule/A1/paragraph/146.md)
+    - Monitoring of representatives
+      - [Sch. A1 para. 147](schedule/A1/paragraph/147.md)
+    - Termination
+      - [Sch. A1 para. 148](schedule/A1/paragraph/148.md)
+      - [Sch. A1 para. 149](schedule/A1/paragraph/149.md)
+    - Suspension of representative’s functions
+      - [Sch. A1 para. 150](schedule/A1/paragraph/150.md)
+    - Payment of representative
+      - [Sch. A1 para. 151](schedule/A1/paragraph/151.md)
+    - Regulations under this Part
+      - [Sch. A1 para. 152](schedule/A1/paragraph/152.md)
+    - Effect of appointment of section 39C IMCA
+      - [Sch. A1 para. 153](schedule/A1/paragraph/153.md)
+  - Part 11 IMCAs
+    - Application of Part
+      - [Sch. A1 para. 154](schedule/A1/paragraph/154.md)
+    - The IMCAs
+      - [Sch. A1 para. 155](schedule/A1/paragraph/155.md)
+      - [Sch. A1 para. 156](schedule/A1/paragraph/156.md)
+      - [Sch. A1 para. 157](schedule/A1/paragraph/157.md)
+      - [Sch. A1 para. 158](schedule/A1/paragraph/158.md)
+    - Section 39C IMCA: functions
+      - [Sch. A1 para. 159](schedule/A1/paragraph/159.md)
+      - [Sch. A1 para. 160](schedule/A1/paragraph/160.md)
+    - Section 39A IMCA: restriction of functions
+      - [Sch. A1 para. 161](schedule/A1/paragraph/161.md)
+  - Part 12 Miscellaneous
+    - Monitoring of operation of Schedule
+      - [Sch. A1 para. 162](schedule/A1/paragraph/162.md)
+      - [Sch. A1 para. 163](schedule/A1/paragraph/163.md)
+    - Disclosure of information
+      - [Sch. A1 para. 164](schedule/A1/paragraph/164.md)
+    - Directions by National Assembly in relation to supervisory functions
+      - [Sch. A1 para. 165](schedule/A1/paragraph/165.md)
+      - [Sch. A1 para. 166](schedule/A1/paragraph/166.md)
+      - [Sch. A1 para. 167](schedule/A1/paragraph/167.md)
+      - [Sch. A1 para. 168](schedule/A1/paragraph/168.md)
+    - Notices
+      - [Sch. A1 para. 169](schedule/A1/paragraph/169.md)
+    - Regulations
+      - [Sch. A1 para. 170](schedule/A1/paragraph/170.md)
+      - [Sch. A1 para. 171](schedule/A1/paragraph/171.md)
+      - [Sch. A1 para. 172](schedule/A1/paragraph/172.md)
+      - [Sch. A1 para. 173](schedule/A1/paragraph/173.md)
+  - Part 13 Interpretation
+    - Introduction
+      - [Sch. A1 para. 174](schedule/A1/paragraph/174.md)
+    - Hospitals and their managing authorities
+      - [Sch. A1 para. 175](schedule/A1/paragraph/175.md)
+      - [Sch. A1 para. 176](schedule/A1/paragraph/176.md)
+      - [Sch. A1 para. 177](schedule/A1/paragraph/177.md)
+    - Care homes and their managing authorities
+      - [Sch. A1 para. 178](schedule/A1/paragraph/178.md)
+      - [Sch. A1 para. 179](schedule/A1/paragraph/179.md)
+    - Supervisory bodies: hospitals
+      - [Sch. A1 para. 180](schedule/A1/paragraph/180.md)
+      - [Sch. A1 para. 181](schedule/A1/paragraph/181.md)
+    - Supervisory bodies: care homes
+      - [Sch. A1 para. 182](schedule/A1/paragraph/182.md)
+    - Supervisory bodies: determination of place of ordinary residence
+      - [Sch. A1 para. 183](schedule/A1/paragraph/183.md)
+    - Same body managing authority and supervisory body
+      - [Sch. A1 para. 184](schedule/A1/paragraph/184.md)
+    - Interested persons
+      - [Sch. A1 para. 185](schedule/A1/paragraph/185.md)
+      - [Sch. A1 para. 186](schedule/A1/paragraph/186.md)
+      - [Sch. A1 para. 187](schedule/A1/paragraph/187.md)
+      - [Sch. A1 para. 188](schedule/A1/paragraph/188.md)
+- SCHEDULE AA1 Deprivation of liberty: authorisation of arrangements enabling care and treatment
+  - Part 1 Introductory and interpretation
+    - Contents of this Schedule
+      - [Sch. AA1 para. 1](schedule/AA1/paragraph/1.md)
+    - Arrangements this Schedule applies to
+      - [Sch. AA1 para. 2](schedule/AA1/paragraph/2.md)
+    - Definitions
+      - [Sch. AA1 para. 3](schedule/AA1/paragraph/3.md)
+    - Local authority
+      - [Sch. AA1 para. 4](schedule/AA1/paragraph/4.md)
+    - NHS hospital and independent hospital
+      - [Sch. AA1 para. 5](schedule/AA1/paragraph/5.md)
+    - Responsible body
+      - [Sch. AA1 para. 6](schedule/AA1/paragraph/6.md)
+      - [Sch. AA1 para. 7](schedule/AA1/paragraph/7.md)
+      - [Sch. AA1 para. 8](schedule/AA1/paragraph/8.md)
+      - [Sch. AA1 para. 9](schedule/AA1/paragraph/9.md)
+      - [Sch. AA1 para. 10](schedule/AA1/paragraph/10.md)
+      - [Sch. AA1 para. 11](schedule/AA1/paragraph/11.md)
+      - [Sch. AA1 para. 12](schedule/AA1/paragraph/12.md)
+  - Part 2 Authorisation of arrangements
+    - The authorisation conditions
+      - [Sch. AA1 para. 13](schedule/AA1/paragraph/13.md)
+    - Rights to information etc
+      - [Sch. AA1 para. 14](schedule/AA1/paragraph/14.md)
+      - [Sch. AA1 para. 15](schedule/AA1/paragraph/15.md)
+      - [Sch. AA1 para. 16](schedule/AA1/paragraph/16.md)
+    - Authorisation
+      - [Sch. AA1 para. 17](schedule/AA1/paragraph/17.md)
+      - [Sch. AA1 para. 18](schedule/AA1/paragraph/18.md)
+      - [Sch. AA1 para. 19](schedule/AA1/paragraph/19.md)
+      - [Sch. AA1 para. 20](schedule/AA1/paragraph/20.md)
+    - Determinations made on capacity and medical assessments
+      - [Sch. AA1 para. 21](schedule/AA1/paragraph/21.md)
+    - Determination that arrangements are necessary and proportionate
+      - [Sch. AA1 para. 22](schedule/AA1/paragraph/22.md)
+    - Consultation
+      - [Sch. AA1 para. 23](schedule/AA1/paragraph/23.md)
+    - Pre-authorisation review
+      - [Sch. AA1 para. 24](schedule/AA1/paragraph/24.md)
+      - [Sch. AA1 para. 25](schedule/AA1/paragraph/25.md)
+      - [Sch. AA1 para. 26](schedule/AA1/paragraph/26.md)
+    - Authorisation record
+      - [Sch. AA1 para. 27](schedule/AA1/paragraph/27.md)
+  - Part 3 Duration, renewal, variation and review of authorisation
+    - Time for which authorisation has effect
+      - [Sch. AA1 para. 28](schedule/AA1/paragraph/28.md)
+      - [Sch. AA1 para. 29](schedule/AA1/paragraph/29.md)
+    - Notification that arrangements have ceased to have effect
+      - [Sch. AA1 para. 30](schedule/AA1/paragraph/30.md)
+    - Authorisation coming to an end early: arrangements to be treated as authorised
+      - [Sch. AA1 para. 31](schedule/AA1/paragraph/31.md)
+    - Renewal
+      - [Sch. AA1 para. 32](schedule/AA1/paragraph/32.md)
+      - [Sch. AA1 para. 33](schedule/AA1/paragraph/33.md)
+      - [Sch. AA1 para. 34](schedule/AA1/paragraph/34.md)
+      - [Sch. AA1 para. 35](schedule/AA1/paragraph/35.md)
+      - [Sch. AA1 para. 36](schedule/AA1/paragraph/36.md)
+    - Variation
+      - [Sch. AA1 para. 37](schedule/AA1/paragraph/37.md)
+    - Reviews
+      - [Sch. AA1 para. 38](schedule/AA1/paragraph/38.md)
+  - Part 4 Approved Mental Capacity Professionals
+    - [Sch. AA1 para. 39](schedule/AA1/paragraph/39.md)
+    - [Sch. AA1 para. 40](schedule/AA1/paragraph/40.md)
+  - Part 5 Appointment of IMCA
+    - Appointment of Independent Mental Capacity Advocate
+      - [Sch. AA1 para. 41](schedule/AA1/paragraph/41.md)
+      - [Sch. AA1 para. 42](schedule/AA1/paragraph/42.md)
+      - [Sch. AA1 para. 43](schedule/AA1/paragraph/43.md)
+  - Part 6 Monitoring and reporting
+    - [Sch. AA1 para. 44](schedule/AA1/paragraph/44.md)
+  - Part 7 Excluded arrangements: mental health
+    - Excluded arrangements
+      - [Sch. AA1 para. 45](schedule/AA1/paragraph/45.md)
+    - Kinds of mental health arrangements
+      - [Sch. AA1 para. 46](schedule/AA1/paragraph/46.md)
+      - [Sch. AA1 para. 47](schedule/AA1/paragraph/47.md)
+      - [Sch. AA1 para. 48](schedule/AA1/paragraph/48.md)
+      - [Sch. AA1 para. 49](schedule/AA1/paragraph/49.md)
+      - [Sch. AA1 para. 50](schedule/AA1/paragraph/50.md)
+      - [Sch. AA1 para. 51](schedule/AA1/paragraph/51.md)
+      - [Sch. AA1 para. 52](schedule/AA1/paragraph/52.md)
+    - Mental health arrangements: the hospital treatment regime
+      - [Sch. AA1 para. 53](schedule/AA1/paragraph/53.md)
+    - Mental health arrangements: other definitions
+      - [Sch. AA1 para. 54](schedule/AA1/paragraph/54.md)
+      - [Sch. AA1 para. 55](schedule/AA1/paragraph/55.md)
+      - [Sch. AA1 para. 56](schedule/AA1/paragraph/56.md)
+    - Mental health requirements
+      - [Sch. AA1 para. 57](schedule/AA1/paragraph/57.md)
+  - Part 8 Transitory provision
+    - [Sch. AA1 para. 58](schedule/AA1/paragraph/58.md)
+- SCHEDULE 1 Lasting powers of attorney: formalities
+  - Part 1 Making instruments
+    - General requirements as to making instruments
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Requirements as to content of instruments
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Failure to comply with prescribed form
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part 2 Registration
+    - Applications and procedure for registration
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Notification requirements
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Power to dispense with notification requirements
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Instrument not made properly or containing ineffective provision
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Deputy already appointed
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Objection by donee or named person
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Objection by donor
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Notification of registration
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Evidence of registration
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Part 3 Cancellation of registration and notification of severance
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Part 4 Records of alterations in registered powers
+    - Partial revocation or suspension of power as a result of bankruptcy
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Termination of appointment of donee which does not revoke power
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Replacement of donee
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Severance of ineffective provisions
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Notification of alterations
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+- SCHEDULE 1A Persons ineligible to be deprived of liberty by this Act
+  - Part 1 Ineligible persons
+    - Application
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - Determining ineligibility
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - Authorised course of action not in accordance with regime
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - Treatment for mental disorder in a hospital
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - P objects to being a mental health patient etc
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Part 2 Interpretation
+    - Application
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Mental health regimes
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - Hospital treatment regime
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Community treatment regime
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - Guardianship regime
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - England and Wales enactments
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - P within scope of Mental Health Act
+      - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - Authorised course of action, relevant care or treatment & relevant instrument
+      - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+      - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+      - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - Expressions used in paragraph 5
+      - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+    - Expressions with same meaning as in Mental Health Act
+      - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+- SCHEDULE 2 Property and affairs: supplementary provisions
+  - Wills: general
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Provision that may be made in will
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Wills: requirements relating to execution
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Wills: effect of execution
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Vesting orders ancillary to settlement etc.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Variation of settlements
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Vesting of stock in curator appointed outside England and Wales
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Preservation of interests in property disposed of on behalf of person lacking capacity
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Powers as patron of benefice
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 International protection of adults
+  - Part 1 Preliminary
+    - Introduction
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The Convention
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Countries, territories and nationals
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Adults with incapacity
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Protective measures
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Central Authority
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part 2 Jurisdiction of competent authority
+    - Scope of jurisdiction
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Exercise of jurisdiction
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part 3 Applicable law
+    - Applicable law
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Lasting powers of attorney, etc.
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Protection of third parties
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Mandatory rules
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Public policy
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Part 4 Recognition and enforcement
+    - Recognition
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Enforcement
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Measures taken in relation to those aged under 16
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Supplementary
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Part 5 Co-operation
+    - Proposal for cross-border placement
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Adult in danger etc.
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - Part 6 General
+    - Certificates
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Powers to make further provision as to private international law
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - Exceptions
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Regulations and orders
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - Commencement
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+- SCHEDULE 4 Provisions applying to existing enduring powers of attorney
+  - Part 1 Enduring powers of attorney
+    - Enduring power of attorney to survive mental incapacity of donor
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Characteristics of an enduring power of attorney
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Scope of authority etc. of attorney under enduring power
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part 2 Action on actual or impending incapacity of donor
+    - Duties of attorney in event of actual or impending incapacity of donor
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part 3 Notification prior to registration
+    - Duty to give notice to relatives
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Duty to give notice to donor
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Contents of notices
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Duty to give notice to other attorneys
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Supplementary
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Part 4 Registration
+    - Registration of instrument creating power
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Register of enduring powers
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Part 5 Legal position after registration
+    - Effect and proof of registration
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Functions of court with regard to registered power
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Cancellation of registration by Public Guardian
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Part 6 Protection of attorney and third parties
+    - Protection of attorney and third persons where power is invalid or revoked
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Further protection of attorney and third persons
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Part 7 Joint and joint and several attorneys
+    - Application to joint and joint and several attorneys
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Joint attorneys
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Joint and several attorneys
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Part 8 Interpretation
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 Transitional provisions and savings
+  - Part 1 Repeal of Part 7 of the Mental Health Act 1983
+    - Existing receivers
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Orders, appointments etc.
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Pending proceedings
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Appeals
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Fees
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Court records
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Existing charges
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Preservation of interests on disposal of property
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Accounts
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Interpretation
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Part 2 Repeal of the Enduring Powers of Attorney Act 1985
+    - Orders, determinations, etc.
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Pending proceedings
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Appeals
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Exercise of powers of donor as trustee
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Interpretation
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 Minor and consequential amendments
+  - Fines and Recoveries Act 1833 (c. 74)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Improvement of Land Act 1864 (c. 114)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Trustee Act 1925 (c. 19)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Law of Property Act 1925 (c. 20)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Administration of Estates Act 1925 (c. 23)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - National Assistance Act 1948 (c. 29)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - U.S.A. Veterans’ Pensions (Administration) Act 1949 (c. 45)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Intestates’ Estates Act 1952 (c. 64)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Variation of Trusts Act 1958 (c. 53)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Administration of Justice Act 1960 (c. 65)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Industrial and Provident Societies Act 1965 (c. 12)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Compulsory Purchase Act 1965 (c. 56)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Medicines Act 1968 (c. 67)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Family Law Reform Act 1969 (c. 46)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Courts Act 1971 (c. 23)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Matrimonial Causes Act 1973 (c. 18)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Juries Act 1974 (c. 23)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Solicitors Act 1974 (c. 47)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Sale of Goods Act 1979 (c. 54)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Limitation Act 1980 (c. 58)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Judicial Pensions Act 1981 (c. 20)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - Supreme Court Act 1981 (c. 54)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+  - Administration of Justice Act 1985 (c. 61)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+  - Public Trustee and Administration of Funds Act 1986 (c. 57)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+  - Patronage (Benefices) Measure 1986 (No.3)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+  - Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+  - Disability Discrimination Act 1995 (c. 50)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+  - Trusts of Land and Appointment of Trustees Act 1996 (c. 47)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+  - Human Rights Act 1998 (c. 42)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+  - Access to Justice Act 1999 (c. 22)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+  - Adoption and Children Act 2002 (c. 38)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+  - Licensing Act 2003 (c. 17)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+- SCHEDULE 7 Repeals
