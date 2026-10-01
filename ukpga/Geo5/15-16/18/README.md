@@ -1,0 +1,247 @@
+# Settled Land Act 1925
+
+1925 c. 18. Enacted 1925-04-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/15-16/18
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5/15-16/18/2026-10-01
+
+## Contents
+
+- Part I General Preliminary Provisions
+  - Settlements and Settled Land
+    - [s. 1 What constitutes a settlement.](section/1.md)
+    - [s. 2 What is settled land.](section/2.md)
+    - [s. 3 Duration of settlements.](section/3.md)
+    - [s. 4 Authorised method of settling land inter vivos.](section/4.md)
+    - [s. 5 Contents of vesting deeds.](section/5.md)
+    - [s. 6 Procedure in the case of settlements by will.](section/6.md)
+    - [s. 7 Procedure on change of ownership.](section/7.md)
+    - [s. 8 Mode and costs of conveyance, and saving of rights of personal representatives and equitable chargees.](section/8.md)
+    - [s. 9 Procedure in the case of settlements and of instruments deemed to be trust instruments.](section/9.md)
+    - [s. 10 Procedure on acquisition of land to be made subject to a settlement.](section/10.md)
+    - [s. 11 As to contracts for the settlement of land.](section/11.md)
+    - [s. 12 Power to make vesting orders as to settled land.](section/12.md)
+    - [s. 13 Dispositions not to take effect until vesting instrument is made.](section/13.md)
+    - [s. 14 Forfeiture and stamps.](section/14.md)
+    - [s. 15 Examples of instruments.](section/15.md)
+  - Enforcement of Equitable Interests and Powers against Estate Owner and discharge on termination of Settlement
+    - [s. 16 Enforcement of equitable interests and powers against estate owner.](section/16.md)
+    - [s. 17 Deed of discharge on termination of settlement.](section/17.md)
+  - Restrictions on dispositions of Settled Land where Trustees have not been Discharged
+    - [s. 18 Restrictions on dispositions of settled land where trustees have not been discharged.](section/18.md)
+  - Tenants for Life and Persons with Powers of Tenant for Life
+    - [s. 19 Who is tenant for life.](section/19.md)
+    - [s. 20 Other limited owners having powers of tenant for life.](section/20.md)
+    - [s. 21 Absolute owners subject to certain interests to have the powers of tenant for life.](section/21.md)
+    - [s. 22 Provisions applicable where interest in settled land is restored.](section/22.md)
+    - [s. 23 Powers of trustees, &c. when there is no tenant for life.](section/23.md)
+    - [s. 24 As to a tenant for life who has parted with his interest.](section/24.md)
+    - [s. 25 Married woman, how to be affected.](section/25.md)
+    - [s. 26 Infants, how to be affected.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+  - Trustees of Settlement
+    - [s. 30 Who are trustees for purposes of Act.](section/30.md)
+    - [s. 31 As to trustees of compound settlements.](section/31.md)
+    - [s. 32 As to trustees of referential settlements.](section/32.md)
+    - [s. 33 Continuance of trustees in office, and as to certain compound settlements.](section/33.md)
+    - [s. 34 Appointment of trustees by court.](section/34.md)
+    - [s. 35 Procedure on appointment of new trustees.](section/35.md)
+  - Provisions as to Undivided Shares
+    - [s. 36 Undivided shares to take effect behind a trust of land.](section/36.md)
+  - Transitional Provisons
+    - [s. 37 Transitional provisions with respect to existing settlements, &c.](section/37.md)
+- Part II Powers of a Tenant for Life
+  - Sale and Exchange
+    - [s. 38 Powers of sale and exchange.](section/38.md)
+    - [s. 39 Regulations respecting sales.](section/39.md)
+    - [s. 40 Regulations respecting exchanges.](section/40.md)
+  - Leasing Powers
+    - [s. 41 Power to lease for ordinary or building or mining or forestry purposes.](section/41.md)
+    - [s. 42 Regulations respecting leases generally.](section/42.md)
+    - [s. 43 Leasing powers for special objects.](section/43.md)
+  - Provisions as to building, mining and forestry leases
+    - [s. 44 Regulations respecting building leases.](section/44.md)
+    - [s. 45 Regulations respecting mining leases.](section/45.md)
+    - [s. 46 Variation of building or mining lease according to circumstances of district.](section/46.md)
+    - [s. 47 Capitalisation of part of mining rent.](section/47.md)
+    - [s. 48 Regulations respecting forestry leases.](section/48.md)
+  - Miscellaneous Powers
+    - [s. 49 Power on dispositions to impose restrictions and make reservations and stipulations.](section/49.md)
+    - [s. 50 Separate dealing with surface and minerals, with or without wayleaves, &c.](section/50.md)
+    - [s. 51 Power to grant options.](section/51.md)
+    - [s. 52 Surrenders and regrants.](section/52.md)
+    - [s. 53 Acceptance of leases.](section/53.md)
+    - [s. 54 Power to grant water rights to statutory bodies.](section/54.md)
+    - [s. 55 Power to grant land for public and charitable purposes.](section/55.md)
+    - [s. 56 Dedication for streets, open spaces, &c.](section/56.md)
+    - [s. 57 Provision of land for small dwellings, small holdings and dwellings for working classes.](section/57.md)
+    - [s. 58 Power to compromise claims and release restrictions, &c.](section/58.md)
+    - [s. 59 Power to vary leases and grants and to give licences and consents.](section/59.md)
+    - [s. 60 Power to apportion rents.](section/60.md)
+    - [s. 61 Provisions as to consideration.](section/61.md)
+    - [s. 62 †Special provisions as to manorial incidents, &c.](section/62.md)
+    - [s. 63 Power to complete predecessor’s contracts.](section/63.md)
+    - [s. 64 General power for the tenant for life to effect any transaction under an order of the court.](section/64.md)
+  - Provisions as to special classes of property
+    - [s. 65 Power to dispose of mansion.](section/65.md)
+    - [s. 66 Cutting and sale of timber, and capitalisation of part of proceeds.](section/66.md)
+    - [s. 67 Sale and purchase of heirlooms under order of court.](section/67.md)
+  - Dealings as between tenants for life and the estate
+    - [s. 68 Provision enabling dealings with tenant for life.](section/68.md)
+  - Incumbrances
+    - [s. 69 Shifting of incumbrances.](section/69.md)
+    - [s. 70 Power to vary provisions of an incumbrance and to charge by way of additional security.](section/70.md)
+  - Raising of Money
+    - [s. 71 Power to raise money by mortgage.](section/71.md)
+  - Conveyance
+    - [s. 72 Completion of transactions by conveyance.](section/72.md)
+- Part III Investment or other application of Capital Money
+  - [s. 73 Modes of investment or application.](section/73.md)
+  - [s. 74 Power to acquire land subject to certain incumbrances.](section/74.md)
+  - [s. 75 Regulations respecting investment, devolution, and income of securities, &c.](section/75.md)
+  - [s. 75A Power to accept charge as security for part payment for land sold.](section/75A.md)
+  - [s. 76 Application of money in court under Lands Clauses and other Acts.](section/76.md)
+  - [s. 77 Application of money in hands of trustees under powers of settlement.](section/77.md)
+  - [s. 78 Provision as to personal estate settled by reference to capital money, or on trusts corresponding with the limitations of land.](section/78.md)
+  - [s. 79 Application of money paid for lease or reversion.](section/79.md)
+  - [s. 80 As to money received by way of damages for breach of covenant.](section/80.md)
+  - [s. 81 As to capital arising otherwise than under the Act.](section/81.md)
+  - [s. 82 Land acquired may be made a substituted security for released charges.](section/82.md)
+- Part IV Improvements
+  - Improvements with Capital Money
+    - [s. 83 Description of improvements authorised by Act.](section/83.md)
+    - [s. 84 Mode of application of capital money.](section/84.md)
+    - [s. 85 Creation of rentcharges to discharge instalments.](section/85.md)
+  - Sundry Provisions as to Improvements
+    - [s. 86 Concurrence in improvements.](section/86.md)
+    - [s. 87 Court may order payment for improvements executed.](section/87.md)
+    - [s. 88 Obligation on tenant for life and successors to maintain, insure, &c.](section/88.md)
+    - [s. 89 Protection as regards waste in execution and repair of improvements.](section/89.md)
+- Part V Miscellaneous Provisions
+  - [s. 90 Power for tenant for life to enter into contracts.](section/90.md)
+  - [s. 91 Provisions as to different estates settled upon the same limitations.](section/91.md)
+  - [s. 92 Proceedings for protection or recovery of land settled or claimed as settled.](section/92.md)
+  - [s. 93 Reference of questions to court.](section/93.md)
+- Part VI General Provisions as to Trustees
+  - [s. 94 Number of trustees to act.](section/94.md)
+  - [s. 95 Trustees’ receipts.](section/95.md)
+  - [s. 96 ................................](section/96.md)
+  - [s. 97 Protection of trustees generally.](section/97.md)
+  - [s. 98 Protection of trustees in particular cases.](section/98.md)
+  - [s. 99 Indemnities to personal representatives and others.](section/99.md)
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 Notice to trustees.](section/101.md)
+  - [s. 102 Management of land during minority or pending contingency.](section/102.md)
+- Part VII Restrictions, Savings, and Protection of Purchasers
+  - [s. 103 Legal estate in settled land not to vest in trustee in bankruptcy of estate owner.](section/103.md)
+  - [s. 104 Powers not assignable, and contract not to exercise powers void.](section/104.md)
+  - [s. 105 Effect of surrender of life estate to the next remainderman.](section/105.md)
+  - [s. 106 Prohibition or limitation against exercise of powers void, and provision against forfeiture.](section/106.md)
+  - [s. 107 Tenant for life trustee for all parties interested.](section/107.md)
+  - [s. 108 Saving for and exercise of other powers.](section/108.md)
+  - [s. 109 Saving for additional or larger powers under settlement.](section/109.md)
+  - [s. 110 Protection of purchasers, &c.](section/110.md)
+  - [s. 111 Purchaser of beneficial interest of tenant for life to have remedies of a legal owner.](section/111.md)
+  - [s. 112 Exercise of powers; limitation of provisions, &c.](section/112.md)
+- Part VIII Court, Ministry of Agriculture and Fisheries, Procedure
+  - [s. 113 Jurisdiction and procedure.](section/113.md)
+  - [s. 114 Payment of costs out of settled property.](section/114.md)
+  - [s. 115 Powers of the Minister of Agriculture.](section/115.md)
+  - [s. 116 Filing of certificates, &c. at the Ministry of Agriculture.](section/116.md)
+- Part IX Supplementary Provisions
+  - [s. 117 Definitions.](section/117.md)
+  - [s. 118 Retrospective amendment of certain provisions of Settled Land Acts.](section/118.md)
+  - [s. 119 Repeals, savings, and construction.](section/119.md)
+  - [s. 120 †Short title, commencement and extent.](section/120.md)
+- FIRST SCHEDULE Forms of Instruments
+  - Form No. 1 Vesting Deed for giving effect to a Settlement subsisting at the Commencement of this Act
+    - [Sch. FIRST Pt. 1 para. 1](schedule/FIRST/part/1/paragraph/1.md)
+    - [Sch. FIRST Pt. 1 para. 2](schedule/FIRST/part/1/paragraph/2.md)
+    - [Sch. FIRST Pt. 1 para. 3](schedule/FIRST/part/1/paragraph/3.md)
+    - [Sch. FIRST Pt. 1 para. 4](schedule/FIRST/part/1/paragraph/4.md)
+    - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+    - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+  - Form No. 2 Vesting Deed on the Settlement of Land
+    - [Sch. FIRST Pt. 2 para. 1](schedule/FIRST/part/2/paragraph/1.md)
+    - [Sch. FIRST Pt. 2 para. 2](schedule/FIRST/part/2/paragraph/2.md)
+    - [Sch. FIRST Pt. 2 para. 3](schedule/FIRST/part/2/paragraph/3.md)
+    - [Sch. FIRST Pt. 2 para. 4](schedule/FIRST/part/2/paragraph/4.md)
+  - Form No. 3 Trust Instrument of the Settlement of Land
+    - [Sch. FIRST Pt. 3 para. 1](schedule/FIRST/part/3/paragraph/1.md)
+    - [Sch. FIRST Pt. 3 para. 2](schedule/FIRST/part/3/paragraph/2.md)
+  - Form No. 4 Subsidiary Vesting Deed on Sale when the Land is Purchased with Capital Money
+    - [Sch. FIRST Pt. 4 para. 1](schedule/FIRST/part/4/paragraph/1.md)
+    - [Sch. FIRST Pt. 4 para. 2](schedule/FIRST/part/4/paragraph/2.md)
+  - Form No. 5 Vesting Assent by Personal Representative
+    - [Sch. FIRST Pt. 5 para. 1](schedule/FIRST/part/5/paragraph/1.md)
+    - [Sch. FIRST Pt. 5 para. 2](schedule/FIRST/part/5/paragraph/2.md)
+    - [Sch. FIRST Pt. 5 para. 3](schedule/FIRST/part/5/paragraph/3.md)
+    - [Sch. FIRST Pt. 5 para. 4](schedule/FIRST/part/5/paragraph/4.md)
+- SECOND SCHEDULE Transitional Provisions affecting Existing Settlements
+  - Paragraph 1 Provisions for vesting legal estate in tenant for Life or Statutory Owner
+    - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - Paragraph 2 Provisions where Settled Land is at commencement of Act vested in personal representatives
+    - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+  - Paragraph 3 Provisions as to Infants
+    - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+- THIRD SCHEDULE
+  - Part I Improvements, the costs of which are not liable to be replaced by Instalments
+    - [Sch. THIRD Pt. I para. i](schedule/THIRD/part/I/paragraph/i.md)
+    - [Sch. THIRD Pt. I para. ii](schedule/THIRD/part/I/paragraph/ii.md)
+    - [Sch. THIRD Pt. I para. iii](schedule/THIRD/part/I/paragraph/iii.md)
+    - [Sch. THIRD Pt. I para. iv](schedule/THIRD/part/I/paragraph/iv.md)
+    - [Sch. THIRD Pt. I para. v](schedule/THIRD/part/I/paragraph/v.md)
+    - [Sch. THIRD Pt. I para. vi](schedule/THIRD/part/I/paragraph/vi.md)
+    - [Sch. THIRD para. vii](schedule/THIRD/paragraph/vii.md)
+    - [Sch. THIRD para. viii](schedule/THIRD/paragraph/viii.md)
+    - [Sch. THIRD para. ix](schedule/THIRD/paragraph/ix.md)
+    - [Sch. THIRD para. x](schedule/THIRD/paragraph/x.md)
+    - [Sch. THIRD para. xi](schedule/THIRD/paragraph/xi.md)
+    - [Sch. THIRD para. xii](schedule/THIRD/paragraph/xii.md)
+    - [Sch. THIRD para. xiii](schedule/THIRD/paragraph/xiii.md)
+    - [Sch. THIRD para. xiv](schedule/THIRD/paragraph/xiv.md)
+    - [Sch. THIRD para. xv](schedule/THIRD/paragraph/xv.md)
+    - [Sch. THIRD para. xvi](schedule/THIRD/paragraph/xvi.md)
+    - [Sch. THIRD para. xvii](schedule/THIRD/paragraph/xvii.md)
+    - [Sch. THIRD para. xviii](schedule/THIRD/paragraph/xviii.md)
+    - [Sch. THIRD para. xix](schedule/THIRD/paragraph/xix.md)
+    - [Sch. THIRD para. xx](schedule/THIRD/paragraph/xx.md)
+    - [Sch. THIRD para. xxi](schedule/THIRD/paragraph/xxi.md)
+    - [Sch. THIRD para. xxii](schedule/THIRD/paragraph/xxii.md)
+    - [Sch. THIRD para. xxiii](schedule/THIRD/paragraph/xxiii.md)
+    - [Sch. THIRD para. xxiv](schedule/THIRD/paragraph/xxiv.md)
+    - [Sch. THIRD para. xxv](schedule/THIRD/paragraph/xxv.md)
+  - Part II Improvements, the Costs of which the Trustees of the Settlement or the Court may require to be replaced by Instalments
+    - [Sch. THIRD Pt. II para. i](schedule/THIRD/part/II/paragraph/i.md)
+    - [Sch. THIRD Pt. II para. ii](schedule/THIRD/part/II/paragraph/ii.md)
+    - [Sch. THIRD Pt. II para. iii](schedule/THIRD/part/II/paragraph/iii.md)
+    - [Sch. THIRD Pt. II para. iv](schedule/THIRD/part/II/paragraph/iv.md)
+    - [Sch. THIRD Pt. II para. v](schedule/THIRD/part/II/paragraph/v.md)
+    - [Sch. THIRD Pt. II para. vi](schedule/THIRD/part/II/paragraph/vi.md)
+  - Part III Improvements, the Costs of which the Trustees of the Settlement and the Court must require to be replaced by Instalments
+    - [Sch. THIRD Pt. III para. i](schedule/THIRD/part/III/paragraph/i.md)
+    - [Sch. THIRD Pt. III para. ii](schedule/THIRD/part/III/paragraph/ii.md)
+    - [Sch. THIRD Pt. III para. iii](schedule/THIRD/part/III/paragraph/iii.md)
+- FOURTH SCHEDULE Retrospective Amendments of the Settled Land Acts, 1882 to 1890
+  - [Sch. FOURTH para. 1 ...](schedule/FOURTH/paragraph/1.md)
+  - [Sch. FOURTH para. 2](schedule/FOURTH/paragraph/2.md)
+  - [Sch. FOURTH para. 3](schedule/FOURTH/paragraph/3.md)
+  - [Sch. FOURTH para. 4](schedule/FOURTH/paragraph/4.md)
+  - [Sch. FOURTH para. 5 Powers on sale, &c.](schedule/FOURTH/paragraph/5.md)
+  - [Sch. FOURTH para. 6 Sale of timber and fixtures at a valuation.](schedule/FOURTH/paragraph/6.md)
+  - [Sch. FOURTH para. 7 Raising of money.](schedule/FOURTH/paragraph/7.md)
+  - [Sch. FOURTH para. 8 Provision where interest in settled land is restored.](schedule/FOURTH/paragraph/8.md)
+  - [Sch. FOURTH para. 9 Referential settlements.](schedule/FOURTH/paragraph/9.md)
+  - [Sch. FOURTH para. 10 Application of capital money.](schedule/FOURTH/paragraph/10.md)
+  - [Sch. FOURTH para. 11 As to capital arising otherwise than under the Settled Land Acts.](schedule/FOURTH/paragraph/11.md)
+  - [Sch. FOURTH para. 12 power for Public Trustee to give receipts and accept notices.](schedule/FOURTH/paragraph/12.md)
+  - [Sch. FOURTH para. 13 Assignments of tenant for life’s interest.](schedule/FOURTH/paragraph/13.md)
+  - [Sch. FOURTH para. 14 As to base fees.](schedule/FOURTH/paragraph/14.md)
+  - [Sch. FOURTH para. 15 Amendment of s. 58(1)(ix) of the Act of 1882.](schedule/FOURTH/paragraph/15.md)
+  - [Sch. FOURTH para. 16 ...](schedule/FOURTH/paragraph/16.md)
+- Fifth Schedule ...
