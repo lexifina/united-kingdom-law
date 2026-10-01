@@ -1,0 +1,241 @@
+# Judiciary and Courts (Scotland) Act 2008
+
+asp/2008/6. Enacted 2008-10-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2008/6
+
+Source: https://www.legislation.gov.uk/asp/2008/6/2026-10-01
+
+## Contents
+
+- Part 1 Judicial independence
+  - [s. 1 Guarantee of continued judicial independence](section/1.md)
+- Part 2 The judiciary
+  - Chapter 1 Head of the Scottish Judiciary
+    - [s. 2 Head of the Scottish Judiciary](section/2.md)
+    - [s. 3 Delegation of functions](section/3.md)
+  - Chapter 2 Senior judiciary: vacancy, incapacity and suspension
+    - [s. 4 Lord President](section/4.md)
+    - [s. 5 Lord Justice Clerk](section/5.md)
+    - [s. 6 Periods when both sections 4 and 5 apply](section/6.md)
+    - [s. 7 Supplementary](section/7.md)
+    - [s. 8 Interpretation of Chapter 2](section/8.md)
+  - Chapter 3 Judicial appointments
+    - Judicial Appointments Board for Scotland
+      - [s. 9 The Judicial Appointments Board for Scotland](section/9.md)
+      - [s. 10 Judicial offices within the Board’s remit](section/10.md)
+      - [s. 11 Recommendations of the Board](section/11.md)
+      - [s. 12 Selection criteria](section/12.md)
+      - [s. 13 Assessment of legal knowledge, skills and competence](section/13.md)
+      - [s. 14 Encouragement of diversity](section/14.md)
+      - [s. 15 Guidance](section/15.md)
+      - [s. 16 Guidance: procedure](section/16.md)
+      - [s. 17 Confidentiality of information](section/17.md)
+      - [s. 18 Annual report](section/18.md)
+    - Lord President and Lord Justice Clerk
+      - [s. 19 Appointment](section/19.md)
+      - [s. 20 Selection criteria](section/20.md)
+    - Other Court of Session judges
+      - [s. 20A Qualification of certain individuals for appointment as Court of Session judge](section/20A.md)
+      - [s. 20B Temporary judges](section/20B.md)
+      - [s. 20C Reappointment of temporary judges](section/20C.md)
+      - [s. 20D Cessation of appointment of temporary judges](section/20D.md)
+      - [s. 20E Re-employment of former Court of Session and Supreme Court judges](section/20E.md)
+      - [s. 20F Re-employment of former judges: further provision](section/20F.md)
+      - [s. 20G Remuneration and expenses of temporary and former judges](section/20G.md)
+    - Sheriffs principal, sheriffs and part-time sheriffs
+      - [s. 24 Appointment of temporary sheriffs principal](section/24.md)
+      - [s. 25 Re-employment of retired sheriffs principal and sheriffs](section/25.md)
+      - [s. 26 Appointment of part-time sheriffs](section/26.md)
+      - [s. 27 Sheriffs and part-time sheriffs: official oaths](section/27.md)
+  - Chapter 4 Judicial conduct
+    - Judicial conduct
+      - [s. 28 Rules about investigations etc.](section/28.md)
+      - [s. 29 Powers of Lord President](section/29.md)
+    - Judicial Complaints Reviewer
+      - [s. 30 Judicial Complaints Reviewer](section/30.md)
+      - [s. 31 Judicial Complaints Reviewer: tenure etc.](section/31.md)
+      - [s. 32 Guidance](section/32.md)
+      - [s. 33 Lord President’s powers on referral](section/33.md)
+    - Suspension
+      - [s. 34 Suspension](section/34.md)
+  - Chapter 5 Removal from office
+    - Judges
+      - [s. 35 Tribunal to consider fitness for judicial office](section/35.md)
+      - [s. 36 Suspension during investigation](section/36.md)
+      - [s. 37 Further provision about tribunals](section/37.md)
+      - [s. 38 Report of tribunal](section/38.md)
+      - [s. 39 Temporary judges: removal from office](section/39.md)
+    - Sheriffs
+      - [s. 40 Consideration of fitness for, and removal from, shrieval office](section/40.md)
+    - Justices of the peace
+      - [s. 41 Provision relating to tribunal considering fitness for office of justices of the peace](section/41.md)
+  - Chapter 6 Training and appraisal of justices of the peace
+    - [s. 42 Training and appraisal of justices of the peace](section/42.md)
+  - Chapter 7 Meaning of “judicial office holder”
+    - [s. 43 Meaning of “judicial office holder”](section/43.md)
+- Part 3 The courts
+  - The Court of Session
+    - [s. 44 Maximum number of judges](section/44.md)
+    - [s. 45 Number of judges of the First and Second Divisions of the Inner House](section/45.md)
+    - [s. 46 Divisions of the Inner House](section/46.md)
+  - Sheriff courts
+    - [s. 47 Sheriff principal’s responsibility](section/47.md)
+    - [s. 48 Repeal of certain responsibilities of Scottish Ministers](section/48.md)
+    - [s. 49 Lord President’s default power](section/49.md)
+    - [s. 50 Alteration of boundaries of sheriffdoms](section/50.md)
+    - [s. 51 Sheriff court districts and places where sheriff courts are to be held](section/51.md)
+    - [s. 52 Repeal of power to appoint sheriff to assist Scottish Ministers](section/52.md)
+    - [s. 53 Sheriffs principal and sheriffs acting in other sheriffdoms](section/53.md)
+    - [s. 54 Residence and leave of absence of sheriffs principal](section/54.md)
+    - [s. 55 Number, residence and deployment of sheriffs](section/55.md)
+    - [s. 56 Leave of absence of sheriffs](section/56.md)
+  - Justice of the peace courts
+    - [s. 57 Establishment, constitution etc.](section/57.md)
+    - [s. 58 Sheriff principal’s responsibility](section/58.md)
+  - Court holidays
+    - [s. 59 Court holidays in sheriff courts and justice of the peace courts](section/59.md)
+- Part 4 THE SCOTTISH COURTS AND TRIBUNALS SERVICE
+  - Establishment
+    - [s. 60 The Scottish Courts and Tribunals Service](section/60.md)
+  - Functions
+    - [s. 61 Administrative support for the Scottish courts and judiciary](section/61.md)
+    - [s. 61A Administrative support for the Scottish Tribunals and their members etc.](section/61A.md)
+    - [s. 62 Administrative support for other persons](section/62.md)
+    - [s. 63 Appointment etc. of office holders](section/63.md)
+    - [s. 64 Payment of remuneration etc. of certain judicial office holders](section/64.md)
+  - Provision of advice etc. to the Scottish Ministers
+    - [s. 65 Provision of advice etc. to the Scottish Ministers](section/65.md)
+  - Plan and report
+    - [s. 66 Corporate plan](section/66.md)
+    - [s. 67 Annual report](section/67.md)
+  - Ministerial powers
+    - [s. 68 Provision of information](section/68.md)
+    - [s. 69 Guidance](section/69.md)
+    - [s. 70 Default power](section/70.md)
+- Part 5 General
+  - [s. 71 Orders and regulations](section/71.md)
+  - [s. 72 Interpretation](section/72.md)
+  - [s. 73 Consequential amendments and repeals](section/73.md)
+  - [s. 74 Ancillary provision](section/74.md)
+  - [s. 75 Transitional provision etc.](section/75.md)
+  - [s. 76 Commencement and short title](section/76.md)
+- SCHEDULE 1 The Judicial Appointments Board for Scotland
+  - Status of the Board
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The judicial and legal members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The lay members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Persons disqualified from membership
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Term of office
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Resignation of members
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Removal of members
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Chairing Member: appointment and tenure
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Chairing Member: resignation, removal, vacancy etc.
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Temporary members
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Conflicts of interest
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Fees and expenses
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Appointment of persons to assist the Board
+    - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+  - Powers and conduct of persons appointed to assist the Board
+    - [Sch. 1 para. 13B](schedule/1/paragraph/13B.md)
+  - Administrative support
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Procedure
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Committees and delegation
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Proceedings relating to the Scottish Tribunals
+    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Board to fall within remit of Commissioner for Public Appointments in Scotland
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Code of conduct for members
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Maladministration
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Freedom of information
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Transitional provision: constitution of the first Board
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 Panels established under section 19(2)
+  - Constitution of panel
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Vacancies etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Qualifying judges
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Fees and expenses
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 THE SCOTTISH COURTS AND TRIBUNALS SERVICE
+  - Status of SCTS
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Membership
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Procedure for appointment of members
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Persons disqualified from membership
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Term of office
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Reappointment
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Resignation and removal of members
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Suspension of judicial members
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Chairing of the SCTS
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Committees
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Proceedings
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Validity of actings
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Remuneration and expenses
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Chief Executive and other staff
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Ancillary powers
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Power to use local authority premises
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Delegation
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Freedom of information
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Transfer of staff
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Transfer of property and liabilities
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+- SCHEDULE 4 Appointment etc. of office holders: consequential amendments
+  - The Administration of Justice (Scotland) Act 1933 (c. 41)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Sheriff Courts and Legal Officers (Scotland) Act 1927 (c. 35)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+- SCHEDULE 5 Consequential amendments and repeals
+  - The Courts of Law Fees (Scotland) Act 1895 (c. 14)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Sheriff Courts (Scotland) Act 1971 (c. 58)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Scotland Act 1998 (Transitory and Transitional Provisions) (Removal of Judges) Order 1999 (S.I. 1999/1017)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - The Senior Judiciary (Vacancies and Incapacity) (Scotland) Act 2006 (asp 9)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
