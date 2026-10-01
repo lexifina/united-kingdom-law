@@ -1,0 +1,292 @@
+# Public Service Pensions and Judicial Offices Act 2022
+
+2022 c. 7. Enacted 2022-03-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/7
+
+Source: https://www.legislation.gov.uk/ukpga/2022/7/2026-10-01
+
+## Contents
+
+- PART 1 Public service pension schemes
+  - CHAPTER 1 Schemes other than judicial schemes and local government schemes
+    - Remediable service
+      - [s. 1 Meaning of “remediable service”](section/1.md)
+    - Retrospective provision about remediable service
+      - [s. 2 Remediable service treated as pensionable under Chapter 1 legacy schemes](section/2.md)
+      - [s. 3 Benefits already paid](section/3.md)
+      - [s. 4 Meaning of “the relevant Chapter 1 legacy scheme” etc](section/4.md)
+      - [s. 5 Election for retrospective provision to apply to opted-out service](section/5.md)
+    - Pensioner and deceased members: immediate choice of new scheme benefits
+      - [s. 6 Immediate choice to receive new scheme benefits](section/6.md)
+      - [s. 7 Elections by virtue of section 6: timing and procedure](section/7.md)
+      - [s. 8 Power to deem election by virtue of section 6 to have been made](section/8.md)
+      - [s. 9 Persons with remediable service in more than one Chapter 1 legacy scheme](section/9.md)
+    - Active and deferred members: deferred choice of new scheme benefits
+      - [s. 10 Deferred choice to receive new scheme benefits](section/10.md)
+      - [s. 11 Elections by virtue of section 10: timing and procedure](section/11.md)
+      - [s. 12 Power to deem election by virtue of section 10 to have been made](section/12.md)
+      - [s. 13 Persons with remediable service in more than one Chapter 1 legacy scheme](section/13.md)
+    - Pension benefits and contributions: corrections
+      - [s. 14 Pension benefits and lump sum benefits: pensioner and deceased members](section/14.md)
+      - [s. 15 Pension contributions: pensioner and deceased members](section/15.md)
+      - [s. 16 Pension contributions: active and deferred members (immediate correction)](section/16.md)
+      - [s. 17 Pension contributions: active and deferred members (deferred correction)](section/17.md)
+      - [s. 18 Powers to reduce or waive liabilities](section/18.md)
+    - Powers to make provision in relation to special cases
+      - [s. 19 Pension credit members](section/19.md)
+      - [s. 20 Voluntary contributions](section/20.md)
+      - [s. 21 Transfers](section/21.md)
+      - [s. 22 Further powers to make provision about special cases](section/22.md)
+    - Compensation
+      - [s. 23 Power to pay compensation](section/23.md)
+      - [s. 24 Indirect compensation](section/24.md)
+      - [s. 25 Remedial arrangements to pay voluntary contributions to legacy schemes](section/25.md)
+    - Further provision about corrections, special cases and compensation
+      - [s. 26 Interest and process](section/26.md)
+      - [s. 27 Treasury directions](section/27.md)
+    - Miscellaneous
+      - [s. 28 Scheme rules that prohibit unauthorised payments](section/28.md)
+      - [s. 29 Remediable service statements](section/29.md)
+      - [s. 30 Section 61 of the Equality Act 2010 etc](section/30.md)
+    - Immediate detriment cases
+      - [s. 31 Application of Chapter to immediate detriment cases](section/31.md)
+      - [s. 32 Whether an “immediate detriment remedy” has been obtained](section/32.md)
+    - Interpretation
+      - [s. 33 Meaning of “Chapter 1 scheme” etc](section/33.md)
+      - [s. 34 Meaning of “new scheme benefits”](section/34.md)
+      - [s. 35 Meaning of “legacy scheme contributions” and “new scheme contributions”](section/35.md)
+      - [s. 36 Meaning of “opted-out service”](section/36.md)
+      - [s. 37 Scheme regulations](section/37.md)
+      - [s. 38 Interpretation of Chapter](section/38.md)
+  - CHAPTER 2 Judicial schemes
+    - Remediable service
+      - [s. 39 Meaning of “remediable service”](section/39.md)
+    - Options exercise
+      - [s. 40 Legacy scheme elections](section/40.md)
+      - [s. 41 Partnership pension account: requirement to transfer and surrender rights](section/41.md)
+      - [s. 42 Legacy scheme elections: effect](section/42.md)
+      - [s. 43 Meaning of “the relevant judicial legacy salaried scheme”](section/43.md)
+      - [s. 44 2015 scheme elections](section/44.md)
+      - [s. 45 2015 scheme elections: effect](section/45.md)
+      - [s. 46 Person by whom election is to be made](section/46.md)
+    - Options exercise: further provision
+      - [s. 47 Cases in which 2015 scheme election treated as made](section/47.md)
+      - [s. 48 Benefits for children where election made](section/48.md)
+      - [s. 49 Effect of elections on benefits previously paid or payable](section/49.md)
+      - [s. 50 Effect of elections on pension contributions previously paid or payable](section/50.md)
+    - Pension benefits and contributions: corrections
+      - [s. 51 Pension benefits and lump sums benefits](section/51.md)
+      - [s. 52 Pension contributions](section/52.md)
+      - [s. 53 Effective pension age payments](section/53.md)
+      - [s. 54 Transitional protection allowance](section/54.md)
+      - [s. 55 Power to reduce benefits in lieu of paying liabilities owed to scheme](section/55.md)
+      - [s. 56 Powers to reduce or waive liabilities](section/56.md)
+    - Powers to make provision in relation to special cases
+      - [s. 57 Pension credit members](section/57.md)
+      - [s. 58 Further powers to make provision about special cases](section/58.md)
+    - Compensation
+      - [s. 59 Power to pay compensation](section/59.md)
+      - [s. 60 Remedial arrangements to pay voluntary contributions to judicial schemes](section/60.md)
+    - Further provision about corrections, special cases and compensation
+      - [s. 61 Interest and process](section/61.md)
+      - [s. 62 Treasury directions](section/62.md)
+    - Miscellaneous
+      - [s. 63 Scheme rules that prohibit unauthorised payments](section/63.md)
+      - [s. 64 Information statements](section/64.md)
+      - [s. 65 Power to delegate](section/65.md)
+      - [s. 66 Section 61 of the Equality Act 2010 etc](section/66.md)
+    - Immediate detriment cases
+      - [s. 67 Application of Chapter to immediate detriment cases](section/67.md)
+      - [s. 68 Whether an “immediate detriment remedy” has been obtained](section/68.md)
+    - Interpretation
+      - [s. 69 Meaning of “the election period”](section/69.md)
+      - [s. 70 Meaning of “a judicial scheme” etc](section/70.md)
+      - [s. 71 Meaning of “judicial office” etc](section/71.md)
+      - [s. 72 Meaning of “the relevant authority”](section/72.md)
+      - [s. 73 Meaning of “opted-out service” and “PPA opted-out service”](section/73.md)
+      - [s. 74 Scheme regulations](section/74.md)
+      - [s. 75 Interpretation of Chapter](section/75.md)
+      - [s. 76 Modifications of Chapter in relation to fee-paid judicial offices](section/76.md)
+  - CHAPTER 3 Local government schemes
+    - Remediable service
+      - [s. 77 Meaning of “remediable service”](section/77.md)
+    - Power to pay final salary benefits
+      - [s. 78 Power to pay final salary benefits](section/78.md)
+      - [s. 79 Section 78: transitional provision](section/79.md)
+    - Power to make provision in relation to special cases
+      - [s. 80 Pension credit members](section/80.md)
+      - [s. 81 Further powers to make provision about special cases](section/81.md)
+    - Compensation
+      - [s. 82 Power to pay compensation](section/82.md)
+      - [s. 83 Indirect compensation](section/83.md)
+    - Further provision about final salary benefits, special cases and compensation
+      - [s. 84 Interest and process](section/84.md)
+      - [s. 85 Treasury directions](section/85.md)
+    - Interpretation
+      - [s. 86 Meaning of “local government scheme” etc](section/86.md)
+      - [s. 87 Interpretation of Chapter](section/87.md)
+  - CHAPTER 4 General
+    - Restriction of schemes from 31 March 2022
+      - [s. 88 Restriction of existing schemes](section/88.md)
+      - [s. 89 Restriction of existing schemes: savings and transitional provision](section/89.md)
+      - [s. 90 Restriction of other schemes](section/90.md)
+      - [s. 91 Prohibition of new arrangements to pay voluntary contributions](section/91.md)
+    - Employer cost cap
+      - [s. 92 Amendments relating to employer cost cap](section/92.md)
+      - [s. 93 Operation of employer cost cap in relation to 2016/17 valuation](section/93.md)
+    - Other amendments of PSPA 2013 and PSPA(NI) 2014
+      - [s. 94 Amendments relating to scheme regulations](section/94.md)
+      - [s. 95 Amendments relating to the establishment or restriction of schemes](section/95.md)
+      - [s. 96 Amendments relating to the Secret Intelligence Service etc](section/96.md)
+      - [s. 97 Amendments relating to the judiciary](section/97.md)
+      - [s. 98 Amendments relating to non-scheme benefits](section/98.md)
+      - [s. 99 Amendments relating to pension schemes for members of the Senedd](section/99.md)
+      - [s. 100 Guidance to public service pension scheme managers on investment decisions](section/100.md)
+    - Miscellaneous
+      - [s. 101 Power of Treasury to make scheme for compensation](section/101.md)
+      - [s. 102 Power of Department of Finance to make scheme for compensation](section/102.md)
+      - [s. 103 Power to make provision in relation to certain fee-paid judges](section/103.md)
+      - [s. 104 HMRC information-sharing and other functions relating to compensation etc](section/104.md)
+      - [s. 105 Section 91 of Pensions Act 1995 and section 356 of Armed Forces Act 2006](section/105.md)
+      - [s. 106 Minor amendment](section/106.md)
+      - [s. 107 Parliamentary procedure for judicial schemes: transitory provision](section/107.md)
+      - [s. 108 Power to make consequential provision](section/108.md)
+    - Interpretation of Part
+      - [s. 109 Meaning of “member” etc](section/109.md)
+      - [s. 110 Interpretation of Part](section/110.md)
+- PART 2 Pensions and Banking (Special Provisions) Act 2008 Bodies
+  - New public pension schemes
+    - [s. 111 Establishment of new public schemes and transfer of rights](section/111.md)
+    - [s. 112 New public schemes: further provision](section/112.md)
+    - [s. 113 Protection against adverse treatment: transfer of rights](section/113.md)
+    - [s. 114 Protection against adverse treatment: amendment of new public schemes](section/114.md)
+    - [s. 115 Transfer of assets and liabilities](section/115.md)
+  - Other liabilities to pay pensions
+    - [s. 116 Transfer of other pensions and benefits](section/116.md)
+  - Supplementary
+    - [s. 117 Taxation](section/117.md)
+    - [s. 118 Information](section/118.md)
+    - [s. 119 Regulations](section/119.md)
+    - [s. 120 Interpretation](section/120.md)
+- PART 3 Judicial offices
+  - Judicial pay and conditions
+    - [s. 121 Retirement date for holders of judicial offices etc](section/121.md)
+    - [s. 122 Allowances for judicial office holders](section/122.md)
+  - Sitting in retirement offices
+    - [s. 123 Sitting in retirement offices](section/123.md)
+    - [s. 124 Appointment to sitting in retirement offices](section/124.md)
+    - [s. 125 Appointment to sitting in retirement offices: further provision](section/125.md)
+    - [s. 126 Discipline and removal from office](section/126.md)
+    - [s. 127 Power to add new offices](section/127.md)
+  - Consequential etc provision
+    - [s. 128 Consequential etc provision](section/128.md)
+- PART 4 General
+  - [s. 129 Regulations and directions](section/129.md)
+  - [s. 130 Extent](section/130.md)
+  - [s. 131 Commencement](section/131.md)
+  - [s. 132 Short title](section/132.md)
+- SCHEDULE 1 Retirement date for holders of judicial offices etc
+  - PART 1 Amendments of legislation
+    - [Sch. 1 para. 1 Pensions Appeal Tribunals Act 1943 (c. 39)](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Agriculture Act 1947 (c. 48)](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Lands Tribunal Act 1949 (c. 42)](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Foreign Compensation Act 1950 (c. 12)](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Courts-Martial (Appeals) Act 1951 (c. 46)](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 County Courts Act (Northern Ireland) 1959 (c. 25 (N.I.))](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Judicial Pensions Act 1959 (c. 9)](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Resident Magistrates’ Pensions Act (Northern Ireland) 1960 (c.2 (N.I))](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Betting, Gaming and Lotteries Act 1963 (c. 2)](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Lands Tribunal and Compensation Act (Northern Ireland) 1964 (c. 29 (N.I.))](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Courts Act 1971 (c. 23)](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Misuse of Drugs Act 1971 (c. 38)](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Industry Act 1975 (c. 68)](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Rent Act 1977 (c. 42)](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Judicature (Northern Ireland) Act 1978 (c. 23)](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Senior Courts Act 1981 (c. 54)](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Public Passenger Vehicles Act 1981 (c. 14)](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Mental Health Act 1983 (c. 20)](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 County Courts Act 1984 (c. 28)](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Reserve Forces (Safeguard of Employment) Act 1985 (c. 17)](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 Transport Act 1985 (c. 67)](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22 Copyright, Designs and Patents Act 1988 (c. 48)](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Child Support Act 1991 (c. 48)](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 Social Security Administration (Northern Ireland) Act 1992 (c. 8)](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25 Judicial Pensions and Retirement Act 1993 (c. 8)](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26 Merchant Shipping Act 1995 (c. 21)](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27 Reserve Forces Act 1996 (c. 14)](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28 Employment Tribunals Act 1996 (c. 17)](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29 Plant Varieties Act 1997 (c. 66)](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30 Social Security Act 1998 (c. 14)](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31 The Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32 The Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 21))](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33 Courts Act 2003 (c. 39)](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34 Education Act 2005 (c. 18)](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35 Constitutional Reform Act 2005 (c. 4)](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36 Tribunals, Courts and Enforcement Act 2007 (c. 15)](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37 Charities Act (Northern Ireland) 2008 (c. 12 (N.I.))](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38 Coroners and Justice Act 2009 (c. 25)](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39 Welsh Language (Wales) Measure 2011 (2011 nawm 1)](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40 Tribunals (Scotland) Act 2014 (asp 10)](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41 Justice Act (Northern Ireland) 2015 (c. 9 (N.I.))](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42 Victims’ Payment Regulations 2020 (S.I. 2020/103)](schedule/1/paragraph/42.md)
+  - PART 2 Transitional provision
+    - [Sch. 1 para. 43 General](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44 Lay justices in England and Wales](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45 Lay magistrates in Northern Ireland](schedule/1/paragraph/45.md)
+  - PART 3 Repeal of spent provisions etc
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+- SCHEDULE 2 Allowances payable to judicial office holders
+  - [Sch. 2 para. 1 Compensation (Defence) Act 1939 (c. 75)](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Lands Tribunal Act 1949 (c. 42)](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Courts-Martial (Appeals) Act 1951 (c. 46)](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Coroners Act (Northern Ireland) 1959 (c. 15 (N.I.))](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 County Courts Act (Northern Ireland) 1959 (c. 25 (N.I.))](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Lands Tribunal and Compensation Act (Northern Ireland) 1964 (c. 29 (N.I.))](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Courts-Martial (Appeals) Act 1968 (c. 20)](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Administration of Justice Act 1973 (c. 15)](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Senior Courts Act 1981 (c. 54)](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 County Courts Act 1984 (c. 28)](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Transport Act 1985 (c. 67)](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Social Security Administration (Northern Ireland) Act 1992 (c. 8)](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Scottish Land Court Act 1993 (c. 45)](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Merchant Shipping Act 1995 (c. 21)](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Employment Tribunals Act 1996 (c. 17)](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16 Education (Northern Ireland) Order 1996 (S.I. 1996/274 (N.I. 1))](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17 Industrial Tribunals (Northern Ireland) Order 1996 (S.I. 1996/1921 (N.I. 18))](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18 Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997 (S.R. (N.I.) 1997 No. 269)](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19 Traffic Management (Northern Ireland) Order 2005 No. 1964 (N.I. 14)](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20 Judiciary and Courts (Scotland) Act 2008 (asp 6)](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21 Courts Reform (Scotland) Act 2014 (asp 18)](schedule/2/paragraph/21.md)
+- SCHEDULE 3 Judicial offices
+  - PART 1 Lord Chief Justice as appointing authority for corresponding sitting in retirement office
+  - PART 2 Senior President of Tribunals as appointing authority for corresponding sitting in retirement office
+  - PART 3 Lord Chief Justice of Northern Ireland as appointing authority for corresponding sitting in retirement office
+  - PART 4 Northern Ireland Judicial Appointments Commission as appointing authority for corresponding sitting in retirement office
+  - PART 5 President of Welsh Tribunals as appointing authority for corresponding sitting in retirement office
+  - PART 6 Lord President of the Court of Session as appointing authority for corresponding sitting in retirement office
+- SCHEDULE 4 Consequential etc amendments in connection with Part 3
+  - PART 1 Amendments of primary legislation
+    - [Sch. 4 para. 1 Courts-Martial Appeals Act 1951 (c. 46)](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Administration of Justice Act 1970 (c. 31)](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Courts Act 1971 (c. 23)](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Judicature (Northern Ireland) Act 1978 (c. 23)](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Senior Courts Act 1981 (c. 54)](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 County Courts Act 1984 (c. 28)](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Matrimonial and Family Proceedings Act 1984 (c. 42)](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Judicial Pensions and Retirement Act 1993 (c. 8)](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Employment Tribunals Act 1996 (c. 17)](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Courts Act 2003 (c. 39)](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Constitutional Reform Act 2005 (c. 4)](schedule/4/paragraph/11.md)
+  - PART 2 Amendments of secondary legislation
+    - [Sch. 4 para. 12 Access to Justice Act 1999 (Destination of Appeals) Order 2016 (S.I. 2016/917)](schedule/4/paragraph/12.md)
+  - PART 3 Repeal of spent provisions
+    - [Sch. 4 para. 13 Judicial Pensions and Retirement Act 1993 (c. 8)](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Tribunals, Courts and Enforcement Act 2007 (c. 15)](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Crime and Courts Act 2013 (c. 22)](schedule/4/paragraph/15.md)
