@@ -2,9 +2,11 @@
 
 2013 c. 22. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/22/2026-06-29
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2013/22
+
+Source: https://www.legislation.gov.uk/ukpga/2013/22/2026-10-01
 
 ## Contents
 
