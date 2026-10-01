@@ -1,0 +1,215 @@
+# Food Safety Act 1990
+
+1990 c. 16. Enacted 1990-06-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
+
+Source: https://www.legislation.gov.uk/ukpga/1990/16/2026-10-01
+
+## Contents
+
+- Part I PRELIMINARY
+  - [s. 1 Meaning of “food” and other basic expressions.](section/1.md)
+  - [s. 2 Extended meaning of “sale” etc.](section/2.md)
+  - [s. 3 Presumptions that food intended for human consumption.](section/3.md)
+  - [s. 4 Ministers having functions under Act.](section/4.md)
+  - [s. 5 Food authorities and authorised officers.](section/5.md)
+  - [s. 6 Enforcement of Act.](section/6.md)
+- Part II MAIN PROVISIONS
+  - Food safety
+    - [s. 7 Rendering food injurious to health.](section/7.md)
+    - [s. 8 Selling food not complying with food safety requirements.](section/8.md)
+    - [s. 9 Inspection and seizure of suspected food.](section/9.md)
+    - [s. 10 Improvement notices.](section/10.md)
+    - [s. 11 Prohibition orders.](section/11.md)
+    - [s. 12 Emergency prohibition notices and orders.](section/12.md)
+    - [s. 13 Emergency control orders.](section/13.md)
+  - Consumer protection
+    - [s. 14 Selling food not of the nature or substance or quality demanded.](section/14.md)
+    - [s. 15 Falsely describing or presenting food.](section/15.md)
+  - Food information
+    - [s. 15A Meaning of “food information” etc.](section/15A.md)
+    - [s. 15B Contravention of food information law: seizure of food etc.](section/15B.md)
+    - [s. 15C Duty to report non-compliance with food information law](section/15C.md)
+    - [s. 15D Power to obtain information](section/15D.md)
+  - Regulations
+    - [s. 16 Food safety and consumer protection.](section/16.md)
+    - [s. 17 Enforcement of EU provisions.](section/17.md)
+    - [s. 18 Special provisions for particular foods etc.](section/18.md)
+    - [s. 19 Registration and licensing of food premises.](section/19.md)
+  - Defences etc.
+    - [s. 20 Offences due to fault of another person.](section/20.md)
+    - [s. 21 Defence of due diligence.](section/21.md)
+    - [s. 22 Defence of publication in the course of business.](section/22.md)
+  - Miscellaneous and supplemental
+    - [s. 23 Provision of food hygiene training.](section/23.md)
+    - [s. 24 Provision of facilities for cleansing shellfish.](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Regulations and orders: supplementary provisions.](section/26.md)
+- Part III ADMINISTRATION AND ENFORCEMENT
+  - Administration
+    - [s. 27 Appointment of public analysts.](section/27.md)
+    - [s. 28 Provision of facilities for examinations.](section/28.md)
+  - Sampling and analysis etc.
+    - [s. 29 Procurement of samples.](section/29.md)
+    - [s. 30 Analysis etc. of samples.](section/30.md)
+    - [s. 31 Regulation of sampling and analysis etc.](section/31.md)
+  - Powers of entry and obstruction etc.
+    - [s. 32 Powers of entry.](section/32.md)
+    - [s. 33 Obstruction etc. of officers.](section/33.md)
+  - Offences
+    - [s. 34 Time limit for prosecutions.](section/34.md)
+    - [s. 35 Punishment of offences.](section/35.md)
+    - [s. 36 Offences by bodies corporate.](section/36.md)
+    - [s. 36A Offences by Scottish partnerships.](section/36A.md)
+  - Appeals
+    - [s. 37 Appeals to magistrates’ court or sheriff.](section/37.md)
+    - [s. 38 Appeals to Crown Court.](section/38.md)
+    - [s. 39 Appeals against improvement notices.](section/39.md)
+- Part IV MISCELLANEOUS AND SUPPLEMENTAL
+  - Powers of Ministers
+    - [s. 40 Power to issue codes of practice.](section/40.md)
+    - [s. 41 Power to require returns.](section/41.md)
+    - [s. 42 Default powers.](section/42.md)
+  - Protective provisions
+    - [s. 43 Continuance of registration or licence on death.](section/43.md)
+    - [s. 44 Protection of officers acting in good faith.](section/44.md)
+  - Financial provisions
+    - [s. 45 Regulations as to charges.](section/45.md)
+    - [s. 46 Expenses of authorised officers and county councils.](section/46.md)
+    - [s. 47 Remuneration of tribunal chairmen.](section/47.md)
+  - Instruments and documents
+    - [s. 48 Regulations and orders.](section/48.md)
+    - [s. 49 Form and authentication of documents.](section/49.md)
+    - [s. 50 Service of documents.](section/50.md)
+  - Amendments of other Acts
+    - [s. 51 Contamination of food: emergency orders.](section/51.md)
+    - [s. 52 Markets, sugar beet and cold storage.](section/52.md)
+  - Supplemental
+    - [s. 53 General interpretation.](section/53.md)
+    - [s. 54 Application to Crown.](section/54.md)
+    - [s. 55 Water supply: England and Wales.](section/55.md)
+    - [s. 56 Water supply: Scotland.](section/56.md)
+    - [s. 57 Scilly Isles and Channel Islands.](section/57.md)
+    - [s. 58 Territorial waters and the continental shelf.](section/58.md)
+    - [s. 59 Amendments, transitional provisions, savings and repeals.](section/59.md)
+    - [s. 60 Short title, commencement and extent.](section/60.md)
+- SCHEDULE 1 Provisions of Regulations under Section 16(1)
+  - Composition of food
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Fitness etc. of food
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Processing and treatment of food
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Food hygiene
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Production of food sources
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Inspection etc. of food sources
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Amendments of Parts III and V of 1984 Act
+  - Amendments of Part III
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Amendments of Part V
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - The Public Health Act 1936 (c. 49)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The London Government Act 1963 (c. 33)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Agriculture Act 1967 (c. 22)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Farm and Garden Chemicals Act 1967 (c. 50)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Trade Descriptions Act 1968 (c. 29)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Medicines Act 1968 (c. 67)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Transport Act 1968 (c. 73)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Agriculture (Miscellaneous Provisions) Act 1972 (c. 62)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - The Poisons Act 1972 (c. 66)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Local Government Act 1972 (c. 70)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Slaughterhouses Act 1974 (c. 3)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The Licensing (Scotland) Act 1976 (c. 66)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Weights and Measures &c. Act 1976 (c. 77)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Hydrocarbon Oil Duties Act 1979 (c. 5)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Slaughter of Animals (Scotland) Act 1980 (c. 13)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - The Civic Government (Scotland) Act 1982 (c. 45)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - The Public Health (Control of Disease) Act 1984 (c. 22)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - The Food and Environment Protection Act 1985 (c. 48)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - The Local Government Act 1985 (c. 51)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - The Weights and Measures Act 1985 (c. 72)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - The Agriculture Act 1986 (c. 49)
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - The National Health Service (Amendment) Act 1986 (c. 66)
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - The Consumer Protection Act 1987 (c. 43)
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - The Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+- SCHEDULE 4 Transitional Provisions and Savings
+  - Ships and aircraft
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Regulations under the 1984 Act
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Regulations under the 1956 Act
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Other regulations
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Orders with respect to milk in Scotland
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Disqualification orders
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Food hygiene byelaws
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Closure orders
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Repeals
