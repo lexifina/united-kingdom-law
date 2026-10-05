@@ -1,0 +1,497 @@
+# Rent Act 1977
+
+1977 c. 42. Enacted 1977-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1977/42
+
+Source: https://www.legislation.gov.uk/ukpga/1977/42/2026-10-05
+
+## Contents
+
+- Part I Preliminary
+  - Protected and statutory tenancies
+    - [s. 1 Protected tenants and tenancies.](section/1.md)
+    - [s. 2 Statutory tenants and tenancies.](section/2.md)
+    - [s. 3 Terms and conditions of statutory tenancies.](section/3.md)
+  - Exceptions
+    - [s. 4 Dwelling-houses above certain rateable values.](section/4.md)
+    - [s. 5 Tenancies at low rents.](section/5.md)
+    - [s. 5A Certain shared ownership leases.](section/5A.md)
+    - [s. 6 Dwelling-houses let with other land.](section/6.md)
+    - [s. 7 Payments for board or attendance.](section/7.md)
+    - [s. 8 Lettings to students.](section/8.md)
+    - [s. 9 Holiday lettings.](section/9.md)
+    - [s. 10 Agricultural holdings etc.](section/10.md)
+    - [s. 11 Licensed premises.](section/11.md)
+    - [s. 12 Resident landlords.](section/12.md)
+    - [s. 13 Landlord’s interest belonging to Crown.](section/13.md)
+    - [s. 14 Landlord’s interest belonging to local authority, etc.](section/14.md)
+    - [s. 15 Landlord’s interest belonging to housing association, etc.](section/15.md)
+    - [s. 16 Landlord’s interest belonging to housing co-operative.](section/16.md)
+    - [s. 16A ................................](section/16A.md)
+    - [s. 17 Controlled tenancies.](section/17.md)
+    - [s. 18 Regulated tenancies.](section/18.md)
+    - [s. 18A Modification of Act for controlled tenancies converted into regulated tenancies.](section/18A.md)
+    - [s. 19 ................................](section/19.md)
+  - Shared accommodation
+    - [s. 22 Tenant sharing accommodation with persons other than landlord.](section/22.md)
+  - Sublettings
+    - [s. 23 Certain sublettings not to exclude any part of sub-lessor’s premises from protection.](section/23.md)
+  - Business premises
+    - [s. 24 Premises with a business use.](section/24.md)
+  - Miscellaneous
+    - [s. 25 Rateable value and meaning of “appropriate day”.](section/25.md)
+    - [s. 26 Land and premises let with dwelling-house.](section/26.md)
+- Part II Rents Under Controlled Tenancies
+  - Rent limit
+    - [s. 27 ................................](section/27.md)
+- Part III Rents under Regulated Tenancies
+  - Regulation of rent
+    - [s. 44 Limit of rent during contractual periods.](section/44.md)
+    - [s. 45 Limit of rent during statutory periods.](section/45.md)
+    - [s. 46 Adjustment, with respect to rates, of recoverable rent for statutory periods before registration.](section/46.md)
+    - [s. 47 Adjustment, with respect to services and furniture, of recoverable rent for statutory periods before registration.](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 Notices of increase.](section/49.md)
+    - [s. 50 Private street works to count as improvements.](section/50.md)
+  - Rent agreements with tenants having security of tenure
+    - [s. 51 Protection of tenants with security of tenure.](section/51.md)
+    - [s. 52 Protection: special provisions following conversion.](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 Failure to comply with provisions for protection of tenants.](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+  - Enforcement provisions
+    - [s. 57 Recovery from landlord of sums paid in excess of recoverable rent, etc.](section/57.md)
+    - [s. 58 Rectification of rent books in light of determination of recoverable rent.](section/58.md)
+  - General provisions
+    - [s. 59 Adjustment for differences in lengths of rental periods.](section/59.md)
+    - [s. 60 Regulations.](section/60.md)
+    - [s. 61 Interpretation of Part III.](section/61.md)
+- Part IV Registration of Rents Under Regulated Tenancies
+  - [s. 62 Registration areas.](section/62.md)
+  - [s. 63 Schemes for appointment of rent officers.](section/63.md)
+  - [s. 64 Default powers of Secretary of State.](section/64.md)
+  - Amalgamation schemes
+    - [s. 64A](section/64A.md)
+  - New basis for administration of rent officer service
+    - [s. 64B](section/64B.md)
+    - [s. 65 Rent assessment committees.](section/65.md)
+    - [s. 65A Right of appeal from a rent assessment committee](section/65A.md)
+    - [s. 66 Register of rents.](section/66.md)
+    - [s. 67 Application for registration of rent.](section/67.md)
+    - [s. 67A Application before 1st April 1994 for interim increase of rent in certain cases where landlord liable for council tax](section/67A.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 70 Determination of fair rent.](section/70.md)
+    - [s. 70A Interim determination of fair rent on application under section 67A](section/70A.md)
+    - [s. 71 Amount to be registered as rent.](section/71.md)
+    - [s. 72 Effect of registration of rent.](section/72.md)
+    - [s. 72A Amounts attributable to services.](section/72A.md)
+    - [s. 73 Cancellation of registration of rent.](section/73.md)
+    - [s. 74 Regulations.](section/74.md)
+    - [s. 75 Interpretation of Part IV.](section/75.md)
+- Part V Rents Under Restricted Contracts
+  - [s. 76 ................................](section/76.md)
+  - Control of rents
+    - [s. 77 Reference of contracts to ... tribunals and obtaining by them of information.](section/77.md)
+    - [s. 78 Powers of ... tribunals on reference of contracts.](section/78.md)
+    - [s. 79 Register of rents under restricted contracts relating to dwellings in Wales.](section/79.md)
+    - [s. 79A Register of rents under restricted contracts relating to dwellings in England](section/79A.md)
+    - [s. 80 Reconsideration of rent after registration.](section/80.md)
+    - [s. 80A Reference before 1st April 1994 for interim increase of rent in certain cases where lessor liable for council tax](section/80A.md)
+    - [s. 81 Effect of registration of rent.](section/81.md)
+    - [s. 81A Cancellation of registration of rent.](section/81A.md)
+  - Miscellaneous and general
+    - [s. 82 Jurisdiction of ... tribunals.](section/82.md)
+    - [s. 83 Local authorities for Part V.](section/83.md)
+    - [s. 84 Regulations.](section/84.md)
+    - [s. 85 Interpretation of Part V.](section/85.md)
+- Part VI Rent Limit for Dwellings Let by Housing Associations, Housing Trusts and the Housing Corporation
+  - Registration of rents
+    - [s. 86 Tenancies to which Part VI applies.](section/86.md)
+    - [s. 87 Rents to be registrable.](section/87.md)
+  - Rent limit
+    - [s. 88 Rent limit.](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+  - Conversion to regulated tenancies
+    - [s. 92 Conversion of housing association tenancies into regulated tenancies.](section/92.md)
+  - Miscellaneous
+    - [s. 93 Increase of rent without notice to quit.](section/93.md)
+    - [s. 94 Recovery from landlord of sums paid in excess of recoverable rent, etc.](section/94.md)
+    - [s. 95 Duty of landlord to supply statement of rent under previous tenancy.](section/95.md)
+    - [s. 96 Supplemental.](section/96.md)
+    - [s. 97 Interpretation of Part VI.](section/97.md)
+- Part VII Security of Tenure
+  - Limitations on recovery of possession of dwelling-houses let on protected tenancies or subject to statutory tenancies
+    - [s. 98 Grounds for possession of certain dwelling-houses.](section/98.md)
+    - [s. 99 Grounds for possession of certain dwelling-houses let to agricultural workers, etc.](section/99.md)
+    - [s. 100 Extended discretion of court in claims for possession of certain dwelling-houses.](section/100.md)
+    - [s. 101 Overcrowded dwelling-houses.](section/101.md)
+    - [s. 102 Compensation for misrepresentation or concealment in Cases 8 and 9.](section/102.md)
+    - [s. 102A Restricted application of sections 103 to 106.](section/102A.md)
+  - Restricted contracts
+    - [s. 103 Notice to quit served after reference of contract to ... tribunal.](section/103.md)
+    - [s. 104 Application to tribunal for security of tenure where notice to quit is served.](section/104.md)
+    - [s. 105 Notices to quit served by owner-occupiers.](section/105.md)
+    - [s. 106 Reduction of period of notice on account of lessee’s default.](section/106.md)
+    - [s. 106A Discretion of court in certain proceedings for possession.](section/106A.md)
+  - Miscellaneous
+    - [s. 107 Interpretation of Part VII.](section/107.md)
+- Part VIII Conversion of Controlled Tenancies into Regulated Tenancies
+  - Dwelling-houses in good repair and provided with standard amenities
+    - [s. 108 ................................](section/108.md)
+    - [s. 114 ................................](section/114.md)
+  - Miscellaneous
+    - [s. 115 ................................](section/115.md)
+    - [s. 116 Consent of tenant.](section/116.md)
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 Interpretation of Part VIII.](section/118.md)
+- Part IX Premiums, Etc.
+  - [s. 119 Prohibition of premiums and loans on grant of protected tenancies.](section/119.md)
+  - [s. 120 Prohibition of premiums and loans on assignment of protected tenancies.](section/120.md)
+  - [s. 121 Tenancies which became regulated by virtue of Counter-Inflation Act 1973.](section/121.md)
+  - [s. 122 Prohibition of premiums on grant or assignment of rights under restricted contracts.](section/122.md)
+  - [s. 123 Excessive price for furniture to be treated as premium.](section/123.md)
+  - [s. 124 Punishment of attempts to obtain from prospective tenants excessive prices for furniture.](section/124.md)
+  - [s. 125 Recovery of premiums and loans unlawfully required or received.](section/125.md)
+  - [s. 126 Avoidance of requirements for advance payment of rent in certain cases.](section/126.md)
+  - [s. 127 Allowable premiums in relation to certain long tenancies.](section/127.md)
+  - [s. 128 Interpretation of Part IX.](section/128.md)
+- Part X Mortgages
+  - [s. 129 Mortgages to which Part X applies.](section/129.md)
+  - [s. 130 ................................](section/130.md)
+  - [s. 131 Regulated mortgages.](section/131.md)
+  - [s. 132 Powers of court to mitigate hardship to mortgagors under regulated mortgages.](section/132.md)
+  - [s. 133 ................................](section/133.md)
+  - [s. 136 Interpretation of Part X.](section/136.md)
+- Part XI General
+  - Sublettings
+    - [s. 137 Effect on sub-tenancy of determination of superior tenancy.](section/137.md)
+    - [s. 138 Effect on furnished sub-tenancy of determination of superior unfurnished tenancy.](section/138.md)
+    - [s. 139 Obligation to notify sublettings of dwelling-houses let on or subject to protected or statutory tenancies.](section/139.md)
+  - Fire Precautions
+    - [s. 140 Modification of Act in relation to fire precautions.](section/140.md)
+  - Jurisdiction and procedure
+    - [s. 141 County court jurisdiction.](section/141.md)
+    - [s. 142 Rules as to procedure.](section/142.md)
+  - Release from provisions of Act
+    - [s. 143 Release from rent regulation.](section/143.md)
+    - [s. 144 Release from restricted contract provisions.](section/144.md)
+    - [s. 145 ................................](section/145.md)
+  - Miscellaneous
+    - [s. 146 Long tenancies at a low rent.](section/146.md)
+    - [s. 147 Restriction on levy of distress for rent.](section/147.md)
+    - [s. 148 Implied term in all protected tenancies.](section/148.md)
+  - Supplemental
+    - [s. 149 Powers of local authorities for the purposes of giving information.](section/149.md)
+    - [s. 150 Prosecution of offences.](section/150.md)
+    - [s. 151 Service of notices on landlord’s agents.](section/151.md)
+    - [s. 152 Interpretation.](section/152.md)
+    - [s. 153 Application to Isles of Scilly.](section/153.md)
+    - [s. 154 Application to Crown property.](section/154.md)
+    - [s. 155 Modifications, amendments, transitional provisions, repeals etc.](section/155.md)
+    - [s. 156 Short title, commencement and extent.](section/156.md)
+- SCHEDULE 1 Statutory Tenancies
+  - Part I Statutory Tenants by Succession
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+  - Part II Relinquishing Tenancies and Changing Tenants
+    - Payments demanded by statutory tenants as a condition of giving up possession
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Change of statutory tenant by agreement
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - No pecuniary consideration to be required on change of tenant under paragraph 13
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Resident Landlords
+  - Part I Provisions for Determining Application of Section 12
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part II Tenancies ceasing to fall within section 12
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULES 3—4.................................
+- SCHEDULE 5 Calculation of Amount of Rates
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6................................
+- SCHEDULE 7 Rent Limit for certain Tenancies first regulated by virtue of the Counter-Inflation Act 1973
+  - Special rent limit
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Adjustment for repairs, services or rates
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8................................
+- SCHEDULE 9................................
+- SCHEDULE 10 Rent Assessment Committees
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 2A](schedule/10/paragraph/2A.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 5A](schedule/10/paragraph/5A.md)
+  - [Sch. 10 para. 5B](schedule/10/paragraph/5B.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 6A](schedule/10/paragraph/6A.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 7A](schedule/10/paragraph/7A.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 11 Applications for Registration of Rent
+  - Part I Application Unsupported by Certificate of Fair Rent
+    - Procedure on application to rent officer
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 3A](schedule/11/paragraph/3A.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 5A](schedule/11/paragraph/5A.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Determination of fair rent by rent assessment committee
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 8A](schedule/11/paragraph/8A.md)
+      - [Sch. 11 para. 9 Outcome of determination of fair rent by appropriate tribunal](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 9A Interim registration of rent](schedule/11/paragraph/9A.md)
+    - Maximum Fair Rent
+      - [Sch. 11 para. 9B](schedule/11/paragraph/9B.md)
+  - Part II................................
+  - Part III................................
+- SCHEDULE 12................................
+- SCHEDULE 13................................
+- SCHEDULE 14 Conversion of Housing Association Tenancies into Regulated Tenancies
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+- SCHEDULE 15 Grounds for Possession of Dwelling-Houses Let on or Subject to Protected or Statutory Tenancies
+  - Part I Cases in Which Court May Order Possession
+    - Case 1
+    - Case 2
+    - Case 3
+    - Case 4
+    - Case 5
+    - Case 6
+    - Case 7
+    - Case 8
+    - Case 9
+    - Case 10
+    - Case 10A
+  - Part II Cases in Which Court Must Order Possession Where Dwelling-House Subject to Regulated Tenancy
+    - Case 11
+    - Case 12
+    - Case 13
+    - Case 14
+    - Case 15
+    - Case 16
+    - Case 17
+    - Case 18
+    - Case 19
+    - Case 20
+  - Part III Provisions Applicable to Case 9 and Part II of This Schedule
+    - Provision for Case 9
+      - [Sch. 15 Pt. III heading provision-for-case-9 para. 1](schedule/15/part/III/crossheading/provision-for-case-9/paragraph/1.md)
+    - Provision for Part II
+      - [Sch. 15 Pt. III heading provision-for-part-ii para. 2](schedule/15/part/III/crossheading/provision-for-part-ii/paragraph/2.md)
+  - Part IV Suitable Alternative Accommodation
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Part V Provisions applying to Cases 11, 12 and 20
+    - [Sch. 15 Pt. V para. 1](schedule/15/part/V/paragraph/1.md)
+    - [Sch. 15 Pt. V para. 2](schedule/15/part/V/paragraph/2.md)
+- SCHEDULE 16 Further Grounds for Possession of Dwelling-Houses let on or subject to Tenancies to which Section 99 applies
+  - Case I
+    - Alternative accommodation not provided or arranged by housing authority
+      - [Sch. 16 Pt. 1 heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 1](schedule/16/part/1/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/1.md)
+      - [Sch. 16 Pt. 1 heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 2](schedule/16/part/1/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/2.md)
+      - [Sch. 16 Pt. 1 heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 3](schedule/16/part/1/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/3.md)
+      - [Sch. 16 Pt. 1 heading alternative-accommodation-not-provided-or-arranged-by-housing-authority para. 4](schedule/16/part/1/crossheading/alternative-accommodation-not-provided-or-arranged-by-housing-authority/paragraph/4.md)
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Case II
+    - Alternative accommodation provided or arranged by housing authority
+      - [Sch. 16 Pt. 2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 1](schedule/16/part/2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/1.md)
+      - [Sch. 16 Pt. 2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 2](schedule/16/part/2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/2.md)
+      - [Sch. 16 Pt. 2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 3](schedule/16/part/2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/3.md)
+      - [Sch. 16 Pt. 2 heading alternative-accommodation-provided-or-arranged-by-housing-authority para. 4](schedule/16/part/2/crossheading/alternative-accommodation-provided-or-arranged-by-housing-authority/paragraph/4.md)
+- SCHEDULE 17 Converted Tenancies: Modification of Act
+  - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+- SCHEDULE 18 Allowable Premiums
+  - Part I Premium Allowed on Assignment of Tenancy where Premium Lawfully Paid on Grant
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Part II Premium Allowed under Sections 121 and 127
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+- SCHEDULE 19................................
+- SCHEDULE 20 Modification of Act in Relation to Fire Precautions
+  - Steps mentioned in certain notices under the Fire Precautions Act 1971 to count as improvements for certain purposes of this Act
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Cases where rent is increased by virtue of section 28(3)(b) of the Act of 1971
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Interpretation
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+- SCHEDULE 21................................
+- SCHEDULE 22................................
+- SCHEDULE 23 Consequential Amendments
+  - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+  - Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+    - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+    - [Sch. 23 para. 29](schedule/23/paragraph/29.md)
+    - [Sch. 23 para. 31](schedule/23/paragraph/31.md)
+    - [Sch. 23 para. 37](schedule/23/paragraph/37.md)
+    - [Sch. 23 para. 39](schedule/23/paragraph/39.md)
+  - Matrimonial Homes Act 1967 (c. 75)
+    - [Sch. 23 para. 40](schedule/23/paragraph/40.md)
+    - [Sch. 23 para. 41](schedule/23/paragraph/41.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 23 para. 42](schedule/23/paragraph/42.md)
+    - [Sch. 23 para. 43](schedule/23/paragraph/43.md)
+    - [Sch. 23 para. 44](schedule/23/paragraph/44.md)
+    - [Sch. 23 para. 45](schedule/23/paragraph/45.md)
+    - [Sch. 23 para. 46](schedule/23/paragraph/46.md)
+    - [Sch. 23 para. 47](schedule/23/paragraph/47.md)
+  - Fire Precautions Act 1971 (c. 40)
+    - [Sch. 23 para. 49](schedule/23/paragraph/49.md)
+    - [Sch. 23 para. 50](schedule/23/paragraph/50.md)
+  - Pensions (Increase) Act 1971 (c. 56)
+    - [Sch. 23 para. 51](schedule/23/paragraph/51.md)
+    - [Sch. 23 para. 52](schedule/23/paragraph/52.md)
+    - [Sch. 23 para. 55](schedule/23/paragraph/55.md)
+    - [Sch. 23 para. 56](schedule/23/paragraph/56.md)
+  - Agriculture (Miscellaneous Provisions) Act 1972 (c. 62)
+    - [Sch. 23 para. 58](schedule/23/paragraph/58.md)
+    - [Sch. 23 para. 59](schedule/23/paragraph/59.md)
+  - Rent Act 1974 (c. 51)
+    - [Sch. 23 para. 67](schedule/23/paragraph/67.md)
+    - [Sch. 23 para. 68](schedule/23/paragraph/68.md)
+    - [Sch. 23 para. 69](schedule/23/paragraph/69.md)
+    - [Sch. 23 para. 71](schedule/23/paragraph/71.md)
+  - Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 23 para. 72](schedule/23/paragraph/72.md)
+    - [Sch. 23 para. 73](schedule/23/paragraph/73.md)
+    - [Sch. 23 para. 74](schedule/23/paragraph/74.md)
+    - [Sch. 23 para. 75](schedule/23/paragraph/75.md)
+    - [Sch. 23 para. 76](schedule/23/paragraph/76.md)
+    - [Sch. 23 para. 77](schedule/23/paragraph/77.md)
+    - [Sch. 23 para. 78](schedule/23/paragraph/78.md)
+    - [Sch. 23 para. 79](schedule/23/paragraph/79.md)
+    - [Sch. 23 para. 80](schedule/23/paragraph/80.md)
+    - [Sch. 23 para. 81](schedule/23/paragraph/81.md)
+    - [Sch. 23 para. 82](schedule/23/paragraph/82.md)
+    - [Sch. 23 para. 83](schedule/23/paragraph/83.md)
+    - [Sch. 23 para. 84](schedule/23/paragraph/84.md)
+- SCHEDULE 24 Savings and Transitional Provisions
+  - General transitional provisions
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - Existing statutory tenants
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+    - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+  - Tenancies which ended before passing of Counter-Inflation Act 1973 (c. 9)
+    - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+  - Protected furnished tenancies
+    - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+    - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+  - Regulated tenancies of formerly requisitioned houses
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+  - Miscellaneous
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+    - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
+    - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
+    - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
+    - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
+    - [Sch. 24 para. 15](schedule/24/paragraph/15.md)
+    - [Sch. 24 para. 16](schedule/24/paragraph/16.md)
+    - [Sch. 24 para. 17](schedule/24/paragraph/17.md)
+    - [Sch. 24 para. 18](schedule/24/paragraph/18.md)
+    - [Sch. 24 para. 19](schedule/24/paragraph/19.md)
+    - [Sch. 24 para. 20](schedule/24/paragraph/20.md)
+    - [Sch. 24 para. 21](schedule/24/paragraph/21.md)
+  - Transitional provisions from Rent Act 1957
+    - [Sch. 24 para. 22](schedule/24/paragraph/22.md)
+    - [Sch. 24 para. 23](schedule/24/paragraph/23.md)
+    - [Sch. 24 para. 24](schedule/24/paragraph/24.md)
+    - [Sch. 24 para. 25](schedule/24/paragraph/25.md)
+    - [Sch. 24 para. 26](schedule/24/paragraph/26.md)
+  - Savings
+    - [Sch. 24 para. 27](schedule/24/paragraph/27.md)
+    - [Sch. 24 para. 28](schedule/24/paragraph/28.md)
+    - [Sch. 24 para. 29](schedule/24/paragraph/29.md)
+    - [Sch. 24 para. 30](schedule/24/paragraph/30.md)
+    - [Sch. 24 para. 31](schedule/24/paragraph/31.md)
+    - [Sch. 24 para. 32](schedule/24/paragraph/32.md)
+- SCHEDULE 25 Repeals
