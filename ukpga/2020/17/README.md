@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-10-01
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-10-05
 
 ## Contents
 
@@ -89,6 +89,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-10-01
       - [s. 54 Duty to give reasons where reparation order not made](section/54.md)
       - [s. 55 Duty to give reasons where compensation order not made](section/55.md)
       - [s. 56 Other duties of court to give reasons where certain orders not made](section/56.md)
+    - Chapter 6 Finding of domestic abuse
+      - [s. 56A Finding of domestic abuse](section/56A.md)
   - PART 4 Exercise of court’s discretion
     - CHAPTER 1 Purposes of sentencing
       - [s. 57 Purposes of sentencing: adults](section/57.md)
