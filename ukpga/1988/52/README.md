@@ -1,0 +1,419 @@
+# Road Traffic Act 1988
+
+1988 c. 52. Enacted 1988-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 295 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
+
+Source: https://www.legislation.gov.uk/ukpga/1988/52/2026-10-05
+
+## Contents
+
+- Part I Principal Road Safety Provisions
+  - Driving offences
+    - [s. 1 Causing death by dangerous driving.](section/1.md)
+    - [s. 1A Causing serious injury by dangerous driving](section/1A.md)
+    - [s. 2 Dangerous driving.](section/2.md)
+    - [s. 2A Meaning of dangerous driving.](section/2A.md)
+    - [s. 2B Causing death by careless, or inconsiderate, driving](section/2B.md)
+    - [s. 2C Causing serious injury by careless, or inconsiderate, driving](section/2C.md)
+    - [s. 3 Careless, and inconsiderate, driving.](section/3.md)
+    - [s. 3ZA Meaning of careless, or inconsiderate, driving](section/3ZA.md)
+    - [s. 3ZB Causing death by driving: unlicensed... or uninsured drivers](section/3ZB.md)
+    - [s. 3ZC Causing death by driving: disqualified drivers](section/3ZC.md)
+    - [s. 3ZD Causing serious injury by driving: disqualified drivers](section/3ZD.md)
+    - [s. 3A Causing death by careless driving when under influence of drink or drugs.](section/3A.md)
+  - Motor vehicles: drink and drugs
+    - [s. 4 Driving, or being in charge, when under influence of drink or drugs.](section/4.md)
+    - [s. 5 Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit.](section/5.md)
+    - [s. 5A Driving or being in charge of a motor vehicle with concentration of specified controlled drug above specified limit](section/5A.md)
+    - [s. 6 Power to administer preliminary tests](section/6.md)
+    - [s. 6A Preliminary breath test](section/6A.md)
+    - [s. 6B Preliminary impairment test](section/6B.md)
+    - [s. 6C Preliminary drug test](section/6C.md)
+    - [s. 6D Arrest](section/6D.md)
+    - [s. 6E Power of entry](section/6E.md)
+    - [s. 7 Provision of specimens for analysis.](section/7.md)
+    - [s. 7A Specimens of blood taken from persons incapable of consenting](section/7A.md)
+    - [s. 8 Breath specimen showing higher alcohol level to be disregarded.](section/8.md)
+    - [s. 9 Protection for hospital patients.](section/9.md)
+    - [s. 10 Detention of persons affected by alcohol or a drug.](section/10.md)
+    - [s. 11 Interpretation of sections 4 to 10.](section/11.md)
+  - Motor racing on public ways
+    - [s. 12 Motor racing on public ways.](section/12.md)
+    - [s. 12A Motor race orders: England and Wales: overview](section/12A.md)
+    - [s. 12B Permission to apply for motor race order](section/12B.md)
+    - [s. 12C Application for motor race order](section/12C.md)
+    - [s. 12D Determination of applications for motor race orders](section/12D.md)
+    - [s. 12E Effect of motor race order](section/12E.md)
+    - [s. 12F Regulations by appropriate national authority: procedure](section/12F.md)
+    - [s. 12G Authorisation of races and trials of speed in Scotland](section/12G.md)
+    - [s. 12H Races and trials of speed in Scotland: further provision](section/12H.md)
+    - [s. 12I Regulations under section 12G or 12H: procedure](section/12I.md)
+  - Other motor events
+    - [s. 13 Regulation of motoring events on public ways.](section/13.md)
+    - [s. 13A Disapplication of sections 1 to 3 for authorised motoring events.](section/13A.md)
+  - Protective measures: seat belts, helmets, etc.
+    - [s. 14 Seat belts: adults.](section/14.md)
+    - [s. 15 Restriction on carrying children not wearing seat belts in motor vehicles.](section/15.md)
+    - [s. 15A Safety equipment for children in motor vehicles.](section/15A.md)
+    - [s. 15B Requirement to notify bus passengers to wear seat belts](section/15B.md)
+    - [s. 16 Wearing of protective headgear.](section/16.md)
+    - [s. 17 Protective helmets for motor cyclists.](section/17.md)
+    - [s. 18 Authorisation of head-worn appliances for use on motor cycles.](section/18.md)
+  - Stopping on verges, etc., or in dangerous positions, etc.
+    - [s. 19 Prohibition of parking of HGVs on verges, central reservations and footways.](section/19.md)
+    - [s. 19A ................................](section/19A.md)
+    - [s. 20 Definition of “heavy commercial vehicle” for the purposes of section 19.](section/20.md)
+    - [s. 21 Prohibition of driving or parking on cycle tracks.](section/21.md)
+    - [s. 22 Leaving vehicles in dangerous positions.](section/22.md)
+    - [s. 22A Causing danger to road-users.](section/22A.md)
+  - Other restrictions in interests of safety
+    - [s. 23 Restriction of carriage of persons on motor cycles.](section/23.md)
+    - [s. 24 Restriction of carriage of persons on bicycles.](section/24.md)
+    - [s. 25 Tampering with motor vehicles.](section/25.md)
+    - [s. 26 Holding or getting on to vehicle in order to be towed or carried.](section/26.md)
+    - [s. 27 Control of dogs on roads.](section/27.md)
+  - Cycling offences and cycle racing
+    - [s. 28 Dangerous cycling.](section/28.md)
+    - [s. 29 Careless, and inconsiderate, cycling.](section/29.md)
+    - [s. 30 Cycling when under influence of drink or drugs.](section/30.md)
+    - [s. 31 Regulation of cycle racing on public ways.](section/31.md)
+    - [s. 32 Electrically assisted pedal cycles.](section/32.md)
+  - Use of motor vehicles away from roads
+    - [s. 33 Control of use of footpaths, bridleways and restricted byways for motor vehicle trials.](section/33.md)
+    - [s. 34 Prohibition of driving mechanically propelled vehicles elsewhere than on roads.](section/34.md)
+  - Directions to traffic and to pedestrians and traffic signs
+    - [s. 35 Drivers to comply with traffic directions.](section/35.md)
+    - [s. 36 Drivers to comply with traffic signs.](section/36.md)
+    - [s. 37 Directions to pedestrians.](section/37.md)
+  - Promotion of road safety
+    - [s. 38 The Highway Code.](section/38.md)
+    - [s. 39 Powers of Secretary of State and local authorities as to giving road safety information and training.](section/39.md)
+    - [s. 40 Road safety grants](section/40.md)
+- Part II Construction and Use of Vehicles and Equipment
+  - Using vehicle in dangerous condition
+    - [s. 40A Using vehicle in dangerous condition etc.](section/40A.md)
+  - General regulation of construction, use etc.
+    - [s. 41 Regulation of construction, weight, equipment and use of vehicles.](section/41.md)
+    - [s. 41A Breach of requirement as to brakes, steering-gear or tyres.](section/41A.md)
+    - [s. 41B Breach of requirement as to weight: goods and passenger vehicles.](section/41B.md)
+    - [s. 41C Breach of requirement as to speed assessment equipment detection devices](section/41C.md)
+    - [s. 41D Breach of requirements as to control of vehicle, mobile telephones etc.](section/41D.md)
+    - [s. 42 Breach of other construction and use requirements.](section/42.md)
+    - [s. 43 Temporary exemption from application of regulations under section 41.](section/43.md)
+    - [s. 44 Authorisation of use on roads of special vehicles not complying with regulations under section 41.](section/44.md)
+  - Tests of vehicles other than goods vehicles to which section 49 applies
+    - [s. 45 Tests of satisfactory condition of vehicles.](section/45.md)
+    - [s. 46 Regulations under section 45.](section/46.md)
+    - [s. 46A Use of records of vehicle examinations, etc.](section/46A.md)
+    - [s. 46B Evidence from records of vehicle examinations.](section/46B.md)
+    - [s. 47 Obligatory test certificates.](section/47.md)
+    - [s. 48 Supplementary provisions about test certificates.](section/48.md)
+  - Tests of certain classes of goods vehicles
+    - [s. 49 Tests of satisfactory condition of goods vehicles and determination of plated weights, etc.](section/49.md)
+    - [s. 49A Use of records of goods vehicle examinations, etc.](section/49A.md)
+    - [s. 50 Appeals against determinations.](section/50.md)
+    - [s. 51 Particular aspects of regulations under section 49.](section/51.md)
+    - [s. 52 Supplementary provisions about tests, etc., of goods vehicles.](section/52.md)
+    - [s. 53 Obligatory goods vehicle test certificates.](section/53.md)
+  - Approval of design, construction, equipment and marking of vehicles
+    - [s. 54 Type approval requirements.](section/54.md)
+    - [s. 55 Type approval certificates.](section/55.md)
+    - [s. 56 Conditions of, and cancellation or suspension of, type approval certificates.](section/56.md)
+    - [s. 57 Certificates of conformity.](section/57.md)
+    - [s. 58 Minister’s approval certificates.](section/58.md)
+    - [s. 59 Supplementary provisions as to certificates of conformity and Minister’s approval certificates.](section/59.md)
+    - [s. 60 Appeals.](section/60.md)
+    - [s. 61 Regulations for the purposes of sections 54 to 60.](section/61.md)
+    - [s. 62 Other supplementary provisions.](section/62.md)
+    - [s. 63 Obligatory type approval certificates, certificates of conformity and Minister’s approval certificates.](section/63.md)
+    - [s. 63A Alteration of plated weights for goods vehicles without examination.](section/63A.md)
+    - [s. 64 Using goods vehicle with unauthorised weights as well as authorised weights marked on it.](section/64.md)
+    - [s. 64A Failure to hold EC certificate of conformity for unregistered motor cycle or tractor](section/64A.md)
+    - [s. 65 Vehicles and parts not to be sold without required certificate of conformity or Minister’s approval certificate.](section/65.md)
+    - [s. 65A Motor cycles not to be sold without EC certificate of conformity](section/65A.md)
+  - Conditions for grant of excise licence
+    - [s. 66 Regulations prohibiting the grant of excise licences for certain vehicles except on compliance with certain conditions.](section/66.md)
+  - Vehicle examiners
+    - [s. 66A Appointment of examiners.](section/66A.md)
+  - Stopping officers
+    - [s. 66B Appointment of stopping officers](section/66B.md)
+    - [s. 66C Stopping officers: offences](section/66C.md)
+  - Testing vehicles on roads
+    - [s. 67 Testing of condition of vehicles on roads.](section/67.md)
+    - [s. 67A Remedying defects discovered on roadside test.](section/67A.md)
+    - [s. 67B Tests to check whether defects have been remedied.](section/67B.md)
+  - Inspection of public passenger vehicles and goods vehicles
+    - [s. 68 Inspection of public passenger vehicles and goods vehicles.](section/68.md)
+  - Prohibition of unfit vehicles
+    - [s. 69 Power to prohibit driving of unfit vehicles.](section/69.md)
+    - [s. 69A Prohibitions conditional on inspection etc.](section/69A.md)
+    - [s. 70 Power to prohibit driving of overloaded goods vehicles.](section/70.md)
+    - [s. 71 Unfit and overloaded vehicles: offences.](section/71.md)
+    - [s. 72 Removal of prohibitions.](section/72.md)
+    - [s. 72A Official testing stations.](section/72A.md)
+    - [s. 73 Provisions supplementary to sections 69 to 72.](section/73.md)
+  - Miscellaneous provisions about vehicles and vehicle parts
+    - [s. 74 Operator’s duty to inspect, and keep records of inspections of, goods vehicles.](section/74.md)
+    - [s. 75 Vehicles not to be sold in unroadworthy condition or altered so as to be unroadworthy.](section/75.md)
+    - [s. 76 Fitting and supply of defective or unsuitable vehicle parts.](section/76.md)
+    - [s. 77 Testing condition of used vehicles at sale rooms, etc.](section/77.md)
+    - [s. 78 Weighing of motor vehicles.](section/78.md)
+    - [s. 79 Further provisions relating to weighing of motor vehicles.](section/79.md)
+    - [s. 80 Approval marks.](section/80.md)
+  - Pedal cycles and horse-drawn vehicles
+    - [s. 81 Regulation of brakes, bells etc., on pedal cycles.](section/81.md)
+    - [s. 82 Regulation of brakes on horse-drawn vehicles.](section/82.md)
+  - Miscellaneous
+    - [s. 83 Offences to do with reflectors and tail lamps.](section/83.md)
+    - [s. 84 Appointment of officials and destination of fees.](section/84.md)
+    - [s. 85 Interpretation of Part II.](section/85.md)
+    - [s. 86 Index to Part II.](section/86.md)
+- Part III Licensing of drivers of vehicles
+  - Requirement to hold licence
+    - [s. 87 Drivers of motor vehicles to have driving licences.](section/87.md)
+    - [s. 88 Exceptions.](section/88.md)
+  - Tests
+    - [s. 89 Tests of competence to drive.](section/89.md)
+    - [s. 89A The alternative requirements to those in section 89.](section/89A.md)
+    - [s. 90 Review of conduct of test.](section/90.md)
+    - [s. 91 Repayment of test fees.](section/91.md)
+  - Physical fitness
+    - [s. 92 Requirements as to physical fitness of drivers.](section/92.md)
+    - [s. 93 Revocation of licence because of disability or prospective disability.](section/93.md)
+    - [s. 94 Provision of information, etc. relating to disabilities.](section/94.md)
+    - [s. 94A Driving after refusal or revocation of licence.](section/94A.md)
+    - [s. 95 Notification of refusal of insurance on grounds of health.](section/95.md)
+    - [s. 96 Driving with uncorrected defective eyesight.](section/96.md)
+  - Granting of licences, their form and duration
+    - [s. 97 Grant of licences.](section/97.md)
+    - [s. 97A Residence requirement](section/97A.md)
+    - [s. 98 Form of licence.](section/98.md)
+    - [s. 98A Compulsory surrender of old-form licences](section/98A.md)
+    - [s. 99 Duration of licences.](section/99.md)
+  - Driver training
+    - [s. 99ZA Compulsory driver training courses.](section/99ZA.md)
+    - [s. 99ZB Requirements to complete training courses.](section/99ZB.md)
+    - [s. 99ZC Driver training courses: supplementary.](section/99ZC.md)
+  - Community licence holders
+    - [s. 99A Authorisation to drive in Great Britain.](section/99A.md)
+    - [s. 99B Information about resident Community licence holders.](section/99B.md)
+    - [s. 99C Revocation of authorisation conferred by Community licence because of disability or prospective disability.](section/99C.md)
+    - [s. 99D Information relating to disabilities etc.](section/99D.md)
+    - [s. 99E Return of Community licences delivered to Secretary of State.](section/99E.md)
+  - Appeals
+    - [s. 100 Appeals relating to licences.](section/100.md)
+  - Disqualification (otherwise than on conviction)
+    - [s. 101 Disqualification of persons under age.](section/101.md)
+    - [s. 102 Disqualification to prevent duplication of licences.](section/102.md)
+  - Disqualification if disqualified in Northern Ireland etc.
+    - [s. 102A Disqualification while disqualified in Northern Ireland, Isle of Man, Channel Islands or Gibraltar](section/102A.md)
+  - Effects of disqualification
+    - [s. 103 Obtaining licence, or driving, while disqualified.](section/103.md)
+  - Miscellaneous
+    - [s. 104 Conduct of proceedings in certain courts by or against the Secretary of State.](section/104.md)
+    - [s. 105 Regulations.](section/105.md)
+    - [s. 106 Destination of fees for licences, etc.](section/106.md)
+    - [s. 107 Service of notices.](section/107.md)
+    - [s. 108 Interpretation.](section/108.md)
+    - [s. 109 Provisions as to Northern Ireland drivers’ licences.](section/109.md)
+    - [s. 109A Information about Northern Ireland licence holders](section/109A.md)
+    - [s. 109B Revocation of authorisation conferred by Northern Ireland licence because of disability or prospective disability](section/109B.md)
+    - [s. 109C Information relating to disabilities etc](section/109C.md)
+- Part IV Licensing of drivers of large goods vehicles and passenger-carrying vehicles.
+  - Licensing of drivers of large goods vehicles and passenger-carrying vehicles.
+    - [s. 110](section/110.md)
+    - [s. 111 Functions of traffic commissioners.](section/111.md)
+    - [s. 112 Grants of licences: fitness as regards conduct.](section/112.md)
+    - [s. 113 Grant of licences: referral of matters of conduct to traffic commissioners.](section/113.md)
+    - [s. 114 Conditions of certain licences.](section/114.md)
+    - [s. 115 Revocation or suspension of licences.](section/115.md)
+    - [s. 115A Community licence holders: cessation of authorisation, etc.](section/115A.md)
+    - [s. 116 Revocation or suspension of licences: referral of matters of conduct to traffic commissioners.](section/116.md)
+    - [s. 117 Disqualification on revocation of licence.](section/117.md)
+    - [s. 117A Community licences: disqualification etc.](section/117A.md)
+    - [s. 118 Revoked or suspended licences: surrender, return and endorsement.](section/118.md)
+    - [s. 119 Appeals to magistrates’ court or sheriff](section/119.md)
+    - [s. 120 Regulations.](section/120.md)
+    - [s. 121 Interpretation.](section/121.md)
+    - [s. 122 Provisions as to Northern Ireland licences.](section/122.md)
+- Part IV Licensing of drivers of heavy goods vehicles
+- Part V Driving Instruction
+  - Instructors to be registered or licensed
+    - [s. 123 Driving instruction for payment to be given only by registered or licensed persons.](section/123.md)
+    - [s. 124 Exemption of police instructors from prohibition imposed by section 123.](section/124.md)
+  - Registration
+    - [s. 125 The register of approved instructors.](section/125.md)
+    - [s. 125A Registration of disabled persons.](section/125A.md)
+    - [s. 125B Provisions supplementary to section 125A.](section/125B.md)
+    - [s. 126 Duration of registration.](section/126.md)
+    - [s. 127 Extension of duration of registration.](section/127.md)
+    - [s. 128 Removal of names from register.](section/128.md)
+  - Licences
+    - [s. 129 Licences for giving instruction so as to obtain practical experience.](section/129.md)
+    - [s. 130 Revocation of licences.](section/130.md)
+  - Appeals
+    - [s. 131 Appeals.](section/131.md)
+  - Compensation
+    - [s. 131A Compensation in respect of suspension](section/131A.md)
+  - Examinations and tests
+    - [s. 132 Examinations and tests of ability to give driving instruction.](section/132.md)
+    - [s. 133 Review of examinations.](section/133.md)
+  - Disabled persons: emergency control certificates, etc
+    - [s. 133A Assessment of disabled person’s ability to control a motor car in an emergency.](section/133A.md)
+    - [s. 133B Further assessments.](section/133B.md)
+    - [s. 133C Duty to disclose further disability.](section/133C.md)
+    - [s. 133D Offences relating to giving by disabled person of paid driving instruction.](section/133D.md)
+    - [s. 133E Direction to disregard emergency control assessment requirement](section/133E.md)
+  - General and supplemental
+    - [s. 134 Power to alter conditions for entry or retention in, and removal from, register and for grant or revocation of licences.](section/134.md)
+    - [s. 135 Power to prescribe form of certificate of registration, etc.](section/135.md)
+    - [s. 136 Surrender of certificates and licences.](section/136.md)
+    - [s. 137 Production of certificates and licences to constables and authorised persons.](section/137.md)
+    - [s. 138 Offences by corporations.](section/138.md)
+    - [s. 139 Service of notices.](section/139.md)
+    - [s. 140 Receipts.](section/140.md)
+    - [s. 141 Regulations.](section/141.md)
+    - [s. 141A Meaning of “motor car".](section/141A.md)
+    - [s. 142 Index to Part V.](section/142.md)
+- Part VI Third-Party Liabilities
+  - Compulsory insurance ...
+    - [s. 143 Users of motor vehicles to be insured ....](section/143.md)
+    - [s. 144 Exceptions from requirement of third-party insurance ....](section/144.md)
+    - [s. 144A Offence of keeping vehicle which does not meet insurance requirements](section/144A.md)
+    - [s. 144B Exceptions to section 144A offence](section/144B.md)
+    - [s. 144C Fixed penalty notices](section/144C.md)
+    - [s. 144D Section 144A offence: supplementary](section/144D.md)
+    - [s. 145 Requirements in respect of policies of insurance.](section/145.md)
+    - [s. 146 Requirements in respect of securities.](section/146.md)
+    - [s. 147 Issue ... of certificates of insurance ....](section/147.md)
+    - [s. 148 Avoidance of certain exceptions to policies ....](section/148.md)
+    - [s. 149 Avoidance of certain agreements as to liability towards passengers.](section/149.md)
+    - [s. 150 Insurance ... in respect of private use of vehicle to cover use under car-sharing arrangements.](section/150.md)
+    - [s. 151 Duty of insurers ... to satisfy judgment against persons insured ....](section/151.md)
+    - [s. 152 Exceptions to section 151.](section/152.md)
+    - [s. 153 Bankruptcy, etc., of insured ... persons not to affect claims by third parties.](section/153.md)
+    - [s. 154 Duty to give information as to insurance ... where claim made.](section/154.md)
+    - [s. 155 Deposits.](section/155.md)
+    - [s. 156 Power to require evidence of insurance ... on application for vehicle excise licence.](section/156.md)
+  - Assimilated law relating to compulsory insurance
+    - [s. 156A Assimilated law relating to compulsory insurance](section/156A.md)
+  - Payments for treatment of traffic casualties
+    - [s. 157 Payment for hospital treatment of traffic casualties.](section/157.md)
+    - [s. 158 Payment for emergency treatment of traffic casualties.](section/158.md)
+    - [s. 159 Supplementary provisions as to payments for treatment.](section/159.md)
+  - General
+    - [s. 159A Disclosure of information](section/159A.md)
+    - [s. 160 Regulations.](section/160.md)
+    - [s. 161 Interpretation.](section/161.md)
+    - [s. 162 Index to Part VI.](section/162.md)
+- Part VII Miscellaneous and General
+  - Requirement for approval of persons to assist at tests
+    - [s. 162A Approved test assistants](section/162A.md)
+  - Powers of constables and other authorised persons
+    - [s. 163 Power of police to stop vehicles.](section/163.md)
+    - [s. 164 Power of constables to require production of driving licence and in certain cases statement of date of birth.](section/164.md)
+    - [s. 165 Power of constables to obtain names and addresses of drivers and others, and to require production of evidence of insurance ... and test certificates.](section/165.md)
+    - [s. 165A Power to seize vehicles driven without licence or insurance](section/165A.md)
+    - [s. 165B Retention etc. of vehicles seized under section 165A](section/165B.md)
+    - [s. 166 Powers of certain officers as respects goods vehicles and passenger-carrying vehicles.](section/166.md)
+    - [s. 167 Power of arrest in Scotland for reckless or careless driving or cycling.](section/167.md)
+  - Duty to give name and address
+    - [s. 168 Failure to give, or giving false, name and address in case of reckless or careless or inconsiderate driving or cycling.](section/168.md)
+    - [s. 169 Pedestrian contravening constable’s direction to stop to give name and address.](section/169.md)
+  - Duties in case of accident
+    - [s. 170 Duty of driver to stop, report accident and give information or documents.](section/170.md)
+  - Other duties to give information or documents
+    - [s. 171 Duty of owner of motor vehicle to give information for verifying compliance with requirement of compulsory insurance ....](section/171.md)
+    - [s. 172 Duty to give information as to identity of driver etc in certain circumstances.](section/172.md)
+  - Forgery, false statements, etc.
+    - [s. 173 Forgery of documents, etc.](section/173.md)
+    - [s. 174 False statements and withholding material information.](section/174.md)
+    - [s. 175 Issue of false documents.](section/175.md)
+    - [s. 176 Power to seize articles in respect of which offences under sections 173 to 175 may have been committed.](section/176.md)
+    - [s. 177 Impersonation of authorised examiner, etc.](section/177.md)
+  - Offences in Scotland
+    - [s. 178 Taking motor vehicle without authority, etc.](section/178.md)
+  - Inquiries
+    - [s. 179 General power to hold enquiries.](section/179.md)
+    - [s. 180 General provisions as to inquiries.](section/180.md)
+    - [s. 181 General provisions as to accident inquiries.](section/181.md)
+    - [s. 182 Special provisions as to accident inquiries in Greater London.](section/182.md)
+  - Application to the Crown
+    - [s. 183 Application to the Crown.](section/183.md)
+    - [s. 184 Application of sections 5 to 10 to persons subject to service discipline.](section/184.md)
+  - Interpretation
+    - [s. 185 Meaning of “motor vehicle” and other expressions relating to vehicles.](section/185.md)
+    - [s. 186 Supplementary provisions about those expressions.](section/186.md)
+    - [s. 187 Articulated vehicles.](section/187.md)
+    - [s. 188 Hover vehicles.](section/188.md)
+    - [s. 189 Certain vehicles not to be treated as motor vehicles.](section/189.md)
+    - [s. 190 Method of calculating weight of motor vehicles and trailers.](section/190.md)
+    - [s. 191 Interpretation of statutory references to carriages.](section/191.md)
+    - [s. 192 General interpretation of Act.](section/192.md)
+    - [s. 192A Tramcars and other guided vehicles: drink and drugs.](section/192A.md)
+    - [s. 193 ................................](section/193.md)
+    - [s. 193A Tramcars and trolley vehicles.](section/193A.md)
+    - [s. 194 General index.](section/194.md)
+  - Supplementary
+    - [s. 195 Provisions as to regulations.](section/195.md)
+    - [s. 196 Provision, etc., of weighbridges.](section/196.md)
+    - [s. 197 Short title, commencement and extent.](section/197.md)
+- SCHEDULE 1 Supplementary Provisions in Connection with Proceedings for Offences under Sections 15A, 17 and 18(4)
+  - Proceedings in England and Wales
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proceedings in Scotland
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Proceedings in Great Britain
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Deferred Tests of Condition of Vehicles
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 2A Offence of keeping vehicle which does not meet insurance requirements: immobilisation, removal and disposal of vehicles
+  - Immobilisation
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Offences connected with immobilisation
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Removal and disposal of vehicles
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Offences as to securing possession of vehicles
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Disputes
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Authorised persons
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Application of Road Traffic Offenders Act 1988
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+- SCHEDULE 2A Form of seat belt symbol for buses
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
