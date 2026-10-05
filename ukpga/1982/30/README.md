@@ -1,0 +1,227 @@
+# Local Government (Miscellaneous Provisions) Act 1982
+
+1982 c. 30. Enacted 1982-07-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
+
+Source: https://www.legislation.gov.uk/ukpga/1982/30/2026-10-05
+
+## Contents
+
+- Part I Licensing of Public Entertainments
+  - [s. 1 Licensing of public entertainments.](section/1.md)
+- Part II Control of Sex Establishments
+  - [s. 2 Control of sex establishments.](section/2.md)
+- Part III Street Trading
+  - [s. 3 Power of district council to adopt Schedule 4.](section/3.md)
+- Part IV Control of Refreshment Premises
+  - Take-away food shops
+    - [s. 4 Closing hours for take-away food shops.](section/4.md)
+    - [s. 5 Closing orders etc.—procedure and appeals.](section/5.md)
+    - [s. 6 Contraventions of closing orders.](section/6.md)
+  - Late night refreshment houses
+    - [s. 7 Refreshments etc. on licensed premises.](section/7.md)
+- Part V Fire Precautions
+  - Provisions as to consultations.
+    - [s. 8 Consultation between authorities.](section/8.md)
+  - Firemen’s switches
+    - [s. 9 Application of section 10.](section/9.md)
+    - [s. 10 Firemen’s switches for luminous tube signs.](section/10.md)
+- Part VI ABOLITION OF REGISTRATION OF THEATRICAL EMPLOYERS
+  - [s. 11 Repeal of Theatrical Employers Registration Acts 1925 and 1928.](section/11.md)
+- Part VII Byelaws
+  - [s. 12 General provisions relating to byelaws.](section/12.md)
+- Part VIII Acupuncture, Tattooing, Ear-Piercing and Electrolysis
+  - [s. 13 Application of Part VIII.](section/13.md)
+  - [s. 14 Acupuncture.](section/14.md)
+  - [s. 15 Tattooing, semi-permanent skin-colouring, cosmetic piercing and electrolysis.](section/15.md)
+  - [s. 16 Provisions supplementary to ss. 14 and 15.](section/16.md)
+  - [s. 17 Power to enter premises (acupuncture etc.).](section/17.md)
+- Part IX
+  - [s. 18 ................................](section/18.md)
+- Part X HIGHWAYS
+  - [s. 20 Highway amenities.](section/20.md)
+  - [s. 21 Prosecutions for offences relating to works in street.](section/21.md)
+  - [s. 22 Control of construction under streets.](section/22.md)
+  - [s. 23 Control of road-side sales.](section/23.md)
+- Part XI Public Health, etc.
+  - [s. 24 ................................](section/24.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 Powers to repair drains etc. and to remedy stopped-up drains etc.](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 Protection of buildings.](section/29.md)
+  - [s. 30 Buildings on operational land of British Railways Board and certain statutory undertakers.](section/30.md)
+  - [s. 31 Appeals against notices.](section/31.md)
+  - [s. 32 Applications to court in respect of expenses of works.](section/32.md)
+- Part XII Miscellaneous
+  - [s. 33 Enforceability by local authorities of certain covenants relating to land.](section/33.md)
+  - [s. 34 Local land charges registers–computerisation etc.](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 37 Temporary markets.](section/37.md)
+  - [s. 38 Work undertaken by local authorities and development bodies under certain agreements with Manpower Services Commission.](section/38.md)
+  - [s. 39 Insurance etc. of local authority members and persons voluntarily assisting local authorities and probation committees.](section/39.md)
+  - [s. 40 Nuisance and disturbance on educational premises.](section/40.md)
+  - [s. 41 Lost and uncollected property.](section/41.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 Advances for acquisition of land, erection of buildings or carrying out of works.](section/43.md)
+  - [s. 44 Definition of certain local authority expenditure.](section/44.md)
+  - [s. 45 Arrangements under Employment and Training Act 1973.](section/45.md)
+  - [s. 46 Extension of duration of local Act powers to assist industry etc.](section/46.md)
+- Part XIII Supplementary
+  - [s. 47 Minor amendments and repeals.](section/47.md)
+  - [s. 48 Consequential repeal or amendment of local statutory provisions.](section/48.md)
+  - [s. 49 Citation and extent.](section/49.md)
+- SCHEDULE 1 Licensing of Public Entertainments
+  - Grant, renewal and transfer of entertainments licences
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Transmission and cancellation of entertainments licences
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Power to prescribe standard terms, conditions and restrictions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Enforcement
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Provisional grant of licences
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Variation of licences
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
+  - Appeals
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Miscellaneous
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Savings and transitional provisions
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Supplemental
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 AMENDMENTS CONSEQUENTIAL ON SECTION 1
+  - Hypnotism Act 1952 (c. 46)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Private Places of Entertainment (Licensing) Act 1967 (c. 19)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Licensing Act 1964 (c. 26)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Control of Sex Establishments
+  - Saving for existing law
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Meaning of “sex establishment”
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 2A Meaning of “sexual entertainment venue”](schedule/3/paragraph/2A.md)
+  - Meaning of “sex cinema”
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Meaning of “sex shop” and “sex article”
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Miscellaneous definitions
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Requirement for licences for sex establishments
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Grant, renewal and transfer of licences for sex establishments
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Refusal of licences
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Power to prescribe standard conditions
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Copies of licences and standard conditions
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Transmission and cancellation of licences
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Revocation of licences
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Variation of licences
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Fees
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Enforcement
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Offences relating to persons under 18
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Powers of constables and local authority officers
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 25A](schedule/3/paragraph/25A.md)
+  - Offences by bodies corporate
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Appeals
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 27A Premises which are deemed sexual entertainment venues](schedule/3/paragraph/27A.md)
+  - Provisions relating to existing premises
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - Commencement of Schedule
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+- SCHEDULE 4 Street Trading
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Designation of streets
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Street trading licences
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Street trading consents
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - General
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Offences
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Savings
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 HIGHWAY AMENITIES
+  - Part I Addition of Part VIIA to Highways Act 1980
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - PART II
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 MINOR AMENDMENTS
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Planning
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Direct labour
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 REPEALS
+  - PART I Repeals in Public General Acts in Consequence of Section 1
+  - PART II REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 1
+  - PART III REPEAL IN LOCAL ACT IN CONSEQUENCE OF SECTION 8
+  - PART IV REPEALS IN PUBLIC GENERAL ACTS IN CONSEQUENCE OF SECTION 11
+  - PART V REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 12
+  - PART VI REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 20.
+  - PART VII REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 22
+  - PART VIII REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 24
+  - PART IX REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 26
+  - PART X REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SEECTION 27
+  - PART XI REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 28
+  - PART XII REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 33
+  - PART XIII REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 34
+  - PART XIV REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 36
+  - PART XV REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 39
+  - PART XVI MISCELLANEOUS REPEALS IN PUBLIC GENERAL ACTS
