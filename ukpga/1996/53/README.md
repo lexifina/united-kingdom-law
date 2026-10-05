@@ -1,0 +1,288 @@
+# Housing Grants, Construction and Regeneration Act 1996
+
+1996 c. 53. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/53
+
+Source: https://www.legislation.gov.uk/ukpga/1996/53/2026-10-05
+
+## Contents
+
+- Part I Grants, &c. for renewal of private sector housing
+  - Chapter I The main grants
+    - Introductory
+      - [s. 1 Grants for improvements and repairs, &c.](section/1.md)
+      - [s. 2 Applications for grants.](section/2.md)
+    - Preliminary conditions
+      - [s. 3 Ineligible applicants.](section/3.md)
+      - [s. 4 The age of the property.](section/4.md)
+      - [s. 5 Excluded descriptions of works.](section/5.md)
+      - [s. 6 Defective dwellings.](section/6.md)
+    - Renovation grants
+      - [s. 7 Renovation grants: owner’s applications and tenant’s applications.](section/7.md)
+      - [s. 8 Renovation grants: certificates required in case of owner’s application.](section/8.md)
+      - [s. 9 Renovation grants: certificates required in case of tenant’s application.](section/9.md)
+      - [s. 10 Renovation grants: prior qualifying period.](section/10.md)
+      - [s. 11 Prior qualifying period: the ownership or tenancy condition.](section/11.md)
+      - [s. 12 Renovation grants: purposes for which grant may be given.](section/12.md)
+      - [s. 13 Renovation grants: approval of application.](section/13.md)
+    - Common parts grants
+      - [s. 14 Common parts grants: occupation of flats by occupying tenants.](section/14.md)
+      - [s. 15 Common parts grants: landlord’s and tenants’ applications.](section/15.md)
+      - [s. 16 Common parts grants: certificate required to accompany application.](section/16.md)
+      - [s. 17 Common parts grants: purposes for which grant may be given.](section/17.md)
+      - [s. 18 Common parts grants: approval of application.](section/18.md)
+    - Disabled facilities grants
+      - [s. 19 Disabled facilities grants: owner’s and tenant’s applications.](section/19.md)
+      - [s. 20 Disabled facilities grants: the disabled occupant.](section/20.md)
+      - [s. 21 Disabled facilities grants: certificate required in case of owner’s application.](section/21.md)
+      - [s. 22 Disabled facilities grants: certificates required in case of tenant’s application.](section/22.md)
+      - [s. 22A Certificates required in case of occupier’s application](section/22A.md)
+      - [s. 23 Disabled facilities grants: purposes for which grant must or may be given.](section/23.md)
+      - [s. 24 Disabled facilities grants: approval of application.](section/24.md)
+    - HMO grants
+      - [s. 25 HMO grants: the interest of the applicant in the property.](section/25.md)
+      - [s. 26 HMO grants: certificate required to accompany application.](section/26.md)
+      - [s. 27 HMO grants: purposes for which grant may be given.](section/27.md)
+      - [s. 28 HMO grants: approval of application.](section/28.md)
+    - Restrictions on grant aid
+      - [s. 29 Restriction on grants for works already begun.](section/29.md)
+      - [s. 30 Means testing in case of application by owner-occupier or tenant.](section/30.md)
+      - [s. 31 Determination of amount of grant in case of landlord’s application.](section/31.md)
+      - [s. 32 Apportionment in case of tenants’ application for common parts grant.](section/32.md)
+      - [s. 33 Power to specify maximum amount of grant.](section/33.md)
+    - Decision and notification
+      - [s. 34 Decision and notification.](section/34.md)
+    - Payment of grants
+      - [s. 35 Payment of grants: general.](section/35.md)
+      - [s. 36 Delayed payment of mandatory grant.](section/36.md)
+      - [s. 37 Payment of grants: conditions as to carrying out of the works.](section/37.md)
+      - [s. 38 Payment of grants: conditions as to contractors employed.](section/38.md)
+      - [s. 39 Payment of grant to contractor.](section/39.md)
+      - [s. 40 Applicant ceasing to be entitled before payment of grant.](section/40.md)
+      - [s. 41 Change of circumstances affecting disabled occupant.](section/41.md)
+      - [s. 42 Cases in which grants may be re-calculated, withheld or repaid.](section/42.md)
+      - [s. 43 Repayment where applicant not entitled to grant.](section/43.md)
+    - Grant conditions and repayment
+      - [s. 44 Grant conditions: introductory.](section/44.md)
+      - [s. 45 Condition for repayment on disposal: renovation grants.](section/45.md)
+      - [s. 46 Condition for repayment on disposal: common parts grants.](section/46.md)
+      - [s. 47 Condition for repayment on disposal: HMO grants.](section/47.md)
+      - [s. 48 Condition as to owner-occupation: renovation grants.](section/48.md)
+      - [s. 49 Condition as to availability for letting: renovation grants.](section/49.md)
+      - [s. 50 Conditions as to occupation: HMO grants.](section/50.md)
+      - [s. 51 Conditions as to repayment in case of other compensation, &c.](section/51.md)
+      - [s. 52 Power to impose other conditions with consent of Secretary of State.](section/52.md)
+      - [s. 53 Meaning of relevant disposal.](section/53.md)
+      - [s. 54 Meaning of exempt disposal.](section/54.md)
+      - [s. 55 Cessation of conditions on repayment of grant, &c.](section/55.md)
+    - Supplementary provisions
+      - [s. 56 Provisions relating to death of applicant.](section/56.md)
+      - [s. 57 Power of local housing authority to carry out works which would attract grant.](section/57.md)
+      - [s. 58 Minor definitions: Chapter I.](section/58.md)
+      - [s. 59 .](section/59.md)
+  - Chapter II
+    - Introductory
+      - [s. 60 Group repair schemes.](section/60.md)
+      - [s. 61 Qualifying buildings.](section/61.md)
+      - [s. 62 Scheme works.](section/62.md)
+      - [s. 63 Approval of scheme by Secretary of State.](section/63.md)
+    - Participation in group repair scheme
+      - [s. 64 Persons eligible to participate in group repair scheme.](section/64.md)
+      - [s. 65 Scheme consent and restriction on works.](section/65.md)
+      - [s. 66 Certificate of completion date.](section/66.md)
+      - [s. 67 Contributions by participants.](section/67.md)
+    - Variation of group repair scheme
+      - [s. 68 Variation of group repair scheme.](section/68.md)
+    - Conditions of participation
+      - [s. 69 Conditions of participation: general.](section/69.md)
+      - [s. 70 Condition as to payment of balance of cost on disposal.](section/70.md)
+      - [s. 71 Conditions as to occupation.](section/71.md)
+      - [s. 72 Meaning of relevant disposal and exempt disposal.](section/72.md)
+      - [s. 73 Payment of balance of cost, &c: cessation of conditions.](section/73.md)
+    - Supplementary provisions
+      - [s. 74 Power of Secretary of State to modify operation of Chapter.](section/74.md)
+      - [s. 75 Index of defined expressions: Chapter II.](section/75.md)
+  - Chapter III
+    - [s. 76 Home repair assistance.](section/76.md)
+    - [s. 77 Entitlement to home repair assistance.](section/77.md)
+    - [s. 78 Assistance in respect of house-boats and mobile homes.](section/78.md)
+    - [s. 79 Power to make further provision by regulations.](section/79.md)
+    - [s. 80 Index of defined expressions: Chapter III.](section/80.md)
+  - Chapter IV Deferred action notices, &c.
+    - Deferred action notices
+      - [s. 81 Deferred action notices.](section/81.md)
+      - [s. 82 Service of deferred action notices.](section/82.md)
+      - [s. 83 Appeals against deferred action notices.](section/83.md)
+      - [s. 84 Review of deferred action notices.](section/84.md)
+      - [s. 85 Guidance by Secretary of State.](section/85.md)
+    - Power to improve enforcement procedures
+      - [s. 86 Unfitness for human habitation &c.: power to improve enforcement procedures.](section/86.md)
+    - Power to charge for enforcement action
+      - [s. 87 Unfitness for human habitation, &c.: power to charge for enforcement action.](section/87.md)
+      - [s. 88 Recovery of charge for enforcement action.](section/88.md)
+    - Supplementary provisions
+      - [s. 89 Power to prescribe forms.](section/89.md)
+      - [s. 90 Minor definitions: Chapter IV.](section/90.md)
+      - [s. 91 Index of defined expressions: Chapter IV.](section/91.md)
+  - Chapter V Supplementary provisions
+    - Contributions by Secretary of State
+      - [s. 92 Contributions by the Secretary of State.](section/92.md)
+      - [s. 93 Recovery of contributions.](section/93.md)
+    - Consent of the Secretary of State
+      - [s. 94 Consent of the Secretary of State.](section/94.md)
+    - Parsonages, charities, &c.
+      - [s. 95 Parsonages, charities, &c.](section/95.md)
+    - Interpretation
+      - [s. 96 Meaning of “reasonable repair”.](section/96.md)
+      - [s. 97 Fitness for human habitation.](section/97.md)
+      - [s. 98 Members of a person’s family and connected persons.](section/98.md)
+      - [s. 99 Meaning of “owner" of dwelling.](section/99.md)
+      - [s. 100 Disabled persons.](section/100.md)
+      - [s. 101 Minor definitions: Part I.](section/101.md)
+    - Transitional and consequential provisions
+      - [s. 102 Transitional provisions.](section/102.md)
+      - [s. 103 Consequential amendments: Part I.](section/103.md)
+- Part II Construction contracts
+  - Introductory provisions
+    - [s. 104 Construction contracts.](section/104.md)
+    - [s. 105 Meaning of “construction operations".](section/105.md)
+    - [s. 106 Provisions not applicable to contract with residential occupier.](section/106.md)
+    - [s. 106A Power to disapply provisions of this Part](section/106A.md)
+    - [s. 107 Provisions applicable only to agreements in writing.](section/107.md)
+  - Adjudication
+    - [s. 108 Right to refer disputes to adjudication.](section/108.md)
+    - [s. 108A Adjudication costs: effectiveness of provision](section/108A.md)
+  - Payment
+    - [s. 109 Entitlement to stage payments.](section/109.md)
+    - [s. 110 Dates for payment.](section/110.md)
+    - [s. 110A Payment notices: contractual requirements](section/110A.md)
+    - [s. 110B Payment notices: payee’s notice in default of payer’s notice](section/110B.md)
+    - [s. 111n1 Requirement to pay notified sum.](section/111n1.md)
+    - [s. 112 Right to suspend performance for non-payment.](section/112.md)
+    - [s. 113 Prohibition of conditional payment provisions.](section/113.md)
+  - Supplementary provisions
+    - [s. 114 The Scheme for Construction Contracts.](section/114.md)
+    - [s. 115 Service of notices, &c.](section/115.md)
+    - [s. 116 Reckoning periods of time.](section/116.md)
+    - [s. 117 Crown application.](section/117.md)
+- Part III
+  - The Architects Registration Board
+    - [s. 118 The Board and its committees.](section/118.md)
+    - [s. 119 Registrar and staff.](section/119.md)
+  - Registration and discipline
+    - [s. 120 Registration.](section/120.md)
+    - [s. 121 Discipline.](section/121.md)
+    - [s. 122 Code of practice.](section/122.md)
+  - Miscellaneous
+    - [s. 123 Offence of practising while not registered.](section/123.md)
+    - [s. 124 The Education Fund.](section/124.md)
+    - [s. 125 Supplementary.](section/125.md)
+- Part IV Grants &c. for regeneration, development and relocation
+  - Financial assistance for regeneration and development
+    - [s. 126 Power of Secretary of State to give financial assistance for regeneration and development.](section/126.md)
+    - [s. 127 Regeneration and development: forms of assistance.](section/127.md)
+    - [s. 128 Regeneration and development: terms on which assistance is given.](section/128.md)
+    - [s. 129 Regeneration and development: consequential amendment.](section/129.md)
+    - [s. 130 Regeneration and development: Welsh Development Agency.](section/130.md)
+  - Relocation grants in clearance areas
+    - [s. 131 Resolution by local housing authority to pay relocation grants.](section/131.md)
+    - [s. 132 Relocation grants: applications and payments.](section/132.md)
+    - [s. 133 Relocation grants: qualifying persons and qualifying dwellings.](section/133.md)
+    - [s. 134 Relocation grants: amount.](section/134.md)
+    - [s. 135 Relocation grants: condition for repayment on disposal.](section/135.md)
+    - [s. 136 Relocation grants: conditions as to owner-occupation.](section/136.md)
+    - [s. 137 Relocation grants: cessation of conditions on repayment of grant, &c.](section/137.md)
+    - [s. 138 Relocation grants: liability to repay is a charge on dwelling.](section/138.md)
+    - [s. 139 Relocation grants: contributions by the Secretary of State.](section/139.md)
+    - [s. 140 Minor definitions relating to relocation grants.](section/140.md)
+- Part V Miscellaneous and general provisions
+  - Miscellaneous provisions
+    - [s. 141 Existing housing grants: meaning of exempt disposal](section/141.md)
+    - [s. 142 Home energy efficiency schemes.](section/142.md)
+    - [s. 143 Urban development corporations: pre-dissolution transfers.](section/143.md)
+    - [s. 144 Housing action trusts: orders for dissolution.](section/144.md)
+    - [s. 145 The Commission for the New Towns: orders for dissolution.](section/145.md)
+  - General provisions
+    - [s. 146 Orders, regulations and directions.](section/146.md)
+    - [s. 147 Repeals and revocations.](section/147.md)
+    - [s. 148 Extent.](section/148.md)
+    - [s. 149 Corresponding provision for Northern Ireland.](section/149.md)
+    - [s. 150 Commencement.](section/150.md)
+    - [s. 151 Short title.](section/151.md)
+- SCHEDULE 1 Private sector renewal: consequential amendments
+  - Rent Act 1977 (c.42)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Housing Act 1985 (c.68)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Landlord and Tenant Act 1985 (c.70)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Housing Act 1988 (c.50)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Local Government and Housing Act 1989 (c.42)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2
+  - Part I New First Schedule to the 1931 Act
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part II Other amendments
+    - The 1931 Act
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - The 1938 Act
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Other enactments
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part III Transitional provisions and savings
+    - First elections and appointments to the Board
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Registration
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Discipline
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Pre-commencement removals and disqualifications
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Offence of practising while not registered
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Transfer of Fund
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Supplementary
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+- SCHEDULE 3 Repeals and Revocations
+  - Part I Grants, &c for renewal of private sector housing
+  - Part II Architects
+  - Part III Financial assistance for regeneration and development
