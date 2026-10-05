@@ -1,0 +1,310 @@
+# Deregulation and Contracting Out Act 1994
+
+1994 c. 40. Enacted 1994-11-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/40
+
+Source: https://www.legislation.gov.uk/ukpga/1994/40/2026-10-05
+
+## Contents
+
+- Part I Deregulation
+  - Chapter I General
+    - Removal or reduction of burdens
+      - [s. 1 Power to remove or reduce certain statutory burdens on businesses, individuals etc.](section/1.md)
+      - [s. 2 Limitations on the power under section 1.](section/2.md)
+      - [s. 3 Preliminary consultation.](section/3.md)
+      - [s. 4 Parliamentary consideration of proposals.](section/4.md)
+    - Enforcement procedures and appeals
+      - [s. 5 Powers to improve enforcement procedures.](section/5.md)
+      - [s. 6 Model provisions with respect to appeals.](section/6.md)
+  - Chapter II Miscellaneous Deregulatory Provisions
+    - [s. 7 Undertakings as alternative to monopoly reference by Director General of Fair Trading.](section/7.md)
+    - [s. 8 Newspaper mergers: meaning of “newspaper proprietor” etc.](section/8.md)
+    - [s. 9 Undertakings as alternative to merger reference: non-divestment matters.](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 Anti-competitive practices: competition references.](section/12.md)
+    - [s. 13 Striking off of non-trading private companies.](section/13.md)
+    - [s. 14 Repeal of section 43 of the Weights and Measures Act 1985.](section/14.md)
+    - [s. 15 Building societies: issue of deferred shares at a premium.](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 Licensed premises at international ports: permitted hours.](section/18.md)
+    - [s. 19 Bars in licensed premises in England and Wales: children’s certificates.](section/19.md)
+    - [s. 20 Betting on Sundays.](section/20.md)
+    - [s. 21 Sporting events and activities on Sundays.](section/21.md)
+    - [s. 22 Sunday opening of certain licensed premises in Scotland.](section/22.md)
+    - [s. 23 Repeal of Part I of the Shops Act 1950.](section/23.md)
+    - [s. 24 Repeal of remainder of the Shops Act 1950.](section/24.md)
+    - [s. 25 Controls on fund-raising for charitable institutions: exclusion of connected companies.](section/25.md)
+    - [s. 26 Offences under section 63 of the Charities Act 1992: creation of statutory defence.](section/26.md)
+    - [s. 27 Applications for permits to conduct public charitable collections: time-limits.](section/27.md)
+    - [s. 28 Annual audit or examination of charity accounts.](section/28.md)
+    - [s. 29 Annual reports of charities.](section/29.md)
+    - [s. 30 Annual returns by charities.](section/30.md)
+    - [s. 31 Slaughterhouses and knackers’ yards: uniting of enforcement functions.](section/31.md)
+    - [s. 32 Building regulations: power to repeal or modify provisions of local Acts.](section/32.md)
+    - [s. 33 Amendment of duty of care etc. as respects waste.](section/33.md)
+    - [s. 34 Controls on London lorries: replacement of discretionary exceptions.](section/34.md)
+    - [s. 35 Employment agencies etc.: replacement of licensing.](section/35.md)
+    - [s. 36 Unfair dismissal: selection for redundancy.](section/36.md)
+    - [s. 37 Power to repeal certain health and safety provisions.](section/37.md)
+    - [s. 38 Inspection of independent schools.](section/38.md)
+    - [s. 39 Chapter II: consequential amendments.](section/39.md)
+    - [s. 40 Extent of Chapter II.](section/40.md)
+  - Chapter III
+    - [s. 41 The 1968 Act.](section/41.md)
+    - [s. 42 Use of vehicles under licences.](section/42.md)
+    - [s. 43 Objections to grant or variation of licences.](section/43.md)
+    - [s. 44 Determination of applications for licences.](section/44.md)
+    - [s. 45 Conditions for securing road safety.](section/45.md)
+    - [s. 46 Duration of licences and grant of interim licences.](section/46.md)
+    - [s. 47 Variation of licences.](section/47.md)
+    - [s. 48 Revocation, suspension and curtailment of licences.](section/48.md)
+    - [s. 49 Publication of applications.](section/49.md)
+    - [s. 50 Review and transfer of operating centres.](section/50.md)
+    - [s. 51 Assessors.](section/51.md)
+    - [s. 52 Review of decisions.](section/52.md)
+    - [s. 53 Appeals.](section/53.md)
+    - [s. 54 Partnerships.](section/54.md)
+    - [s. 55 Operators’ licences not to be transferable etc.](section/55.md)
+    - [s. 56 Fees.](section/56.md)
+    - [s. 57 Chapter III: minor and consequential amendments.](section/57.md)
+  - CHAPTER IV Public Service Vehicle Operator Licensing etc.
+    - [s. 58 The 1981 Act.](section/58.md)
+    - [s. 59 Undertakings given on applications.](section/59.md)
+    - [s. 60 Objections to applications for licences.](section/60.md)
+    - [s. 61 Duration of licences.](section/61.md)
+    - [s. 62 Suspension of licences.](section/62.md)
+    - [s. 63 Operators’ discs.](section/63.md)
+    - [s. 64 Repeal of section 27 of the 1981 Act.](section/64.md)
+    - [s. 65 Review of decisions and correction of errors.](section/65.md)
+    - [s. 66 Fees.](section/66.md)
+    - [s. 67 Disqualification of PSV operators.](section/67.md)
+    - [s. 68 Chapter IV: minor and consequential amendments.](section/68.md)
+- Part II Contracting Out
+  - Contracting out of functions
+    - [s. 69 Functions of Ministers and office-holders.](section/69.md)
+    - [s. 70 Functions of local authorities.](section/70.md)
+    - [s. 71 Functions excluded from sections 69 and 70.](section/71.md)
+    - [s. 72 Effect of contracting out.](section/72.md)
+    - [s. 73 Termination of contracting out.](section/73.md)
+  - Provisions for facilitating contracting out
+    - [s. 74 Powers of certain office-holders.](section/74.md)
+    - [s. 75 Restrictions on disclosure of information.](section/75.md)
+    - [s. 76 Amendments of enactments etc.](section/76.md)
+  - Supplemental
+    - [s. 77 Provisions with respect to orders.](section/77.md)
+    - [s. 78 Extent of Part II.](section/78.md)
+    - [s. 79 Interpretation of Part II.](section/79.md)
+    - [s. 79A “Local authority”: England](section/79A.md)
+    - [s. 79B “Local authority”: Wales](section/79B.md)
+    - [s. 79C Regulations for the purposes of section 79A and 79B](section/79C.md)
+- Part III Supplementary
+  - [s. 80 Financial provisions.](section/80.md)
+  - [s. 81 Repeals.](section/81.md)
+  - [s. 82 Short title, commencement and extent.](section/82.md)
+- SCHEDULE 1 Powers to Improve Enforcement Procedures
+  - Explanation of suggested remedial action
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Explanation of immediate enforcement action et ceteralaetc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Right to make representations
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Explanation of right of appeal
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Application of provisions to other interested persons
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Section 7: Sectoral Regulators
+  - Telecommunications
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Electricity
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Water
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Railways
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Interpretation
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Non-notifiable Agreements: Modifications of the Restrictive Trade Practices Act 1976
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Section 12: Sectoral Regulators and Transition
+  - Sectoral regulators
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Transition
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Striking off of Non-trading Private Companies: Great Britain
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Striking Off of Non-trading Private Companies: Northern Ireland
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Children’s Certificates: Supplementary Provisions
+- SCHEDULE 8
+- SCHEDULE 9 Slaughterhouses and Knackers’ Yards: Uniting of Enforcement Functions
+  - Powers to transfer enforcement functions to agriculture Ministers
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Territorial division of enforcement functions under the Food Safety Act 1990
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Employment Agencies etc.: Replacement of Licensing
+  - Part I General
+    - Great Britain
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Northern Ireland
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Part II Seamen
+    - United Kingdom
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Great Britain
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Northern Ireland
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 Miscellaneous Deregulatory Provisions: Consequential Amendments
+  - Licensing Act 1964 (c. 26)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Energy Act 1976 (c. 76)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Competition Act 1980 (c. 21)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Company Directors Disqualification Act 1986 (c. 46)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Financial Services Act 1986 (c. 60)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Companies Act 1989 (c. 40)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Companies (Northern Ireland) Order 1989 (N.I. 18)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Companies (Northern Ireland) Order 1990 (N.I. 5)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Charities Act 1993 (c. 10)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+- SCHEDULE 12 ...
+- SCHEDULE 13
+  - Part I Amendment of the Transport Act 1968 (1968 c. 73)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Part II Amendment of other Enactments
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+- SCHEDULE 14 PSV Operator Licensing etc: Minor and Consequential Amendments
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+- SCHEDULE 15 Restrictions on Disclosure of Information
+  - Preliminary
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Disclosures between contracting parties etc.
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Disclosures by contracting parties to contractor B
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Disclosures by contracting parties to contractor C
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Disclosures by contractor A to authority D
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Disclosures to contractor A by authority E
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Disclosures for audit purposes
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Implied term of contractor A’s contract
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Unauthorised disclosures
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Interpretation: general
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+- SCHEDULE 16 Amendments etc. for Facilitating Contracting Out
+  - Newspaper Libel and Registration Act 1881 (c.60) and Limited Partnerships Act 1907 (c.24)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Courts Act 1971 (c.23)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Local Government Act 1972 (c.70)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Patents Act 1977 (c.37)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Rent (Scotland) Act 1984 (c.58)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Companies Act 1985 (c.6)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Gas Act 1986 (c.44)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - Agriculture Act 1986 (c.49)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - European Economic Interest Grouping Regulations 1989
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+  - Food Safety Act 1990 (c.16)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - Social Security Administration Act 1992 (c.5)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+  - Social Security Administration (Northern Ireland) Act 1992 (c.8)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+- SCHEDULE 17 Repeals
