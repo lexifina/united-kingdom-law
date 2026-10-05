@@ -1,0 +1,121 @@
+# Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026
+
+asc/2026/4. Enacted 2026-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2026/4
+
+Source: https://www.legislation.gov.uk/asc/2026/4/2026-10-05
+
+## Contents
+
+- PART 1 ENVIRONMENTAL OBJECTIVE AND PRINCIPLES
+  - [s. 1 Environmental objective](section/1.md)
+  - [s. 2 Environmental principles](section/2.md)
+  - [s. 3 Welsh Ministers’ duties when making policy](section/3.md)
+  - [s. 4 Natural Resources Wales’ duties when making policy](section/4.md)
+  - [s. 5 Environmental assessments: public authorities’ duties](section/5.md)
+  - [s. 6 Environmental principles and integrating environmental protection statement](section/6.md)
+  - [s. 7 Environmental principles and integrating environmental protection statement: procedural requirements](section/7.md)
+- PART 2 THE OFFICE OF ENVIRONMENTAL GOVERNANCE WALES
+  - The Office of Environmental Governance Wales
+    - [s. 8 Establishment of the Office of Environmental Governance Wales](section/8.md)
+    - [s. 9 Independence of the OEGW](section/9.md)
+    - [s. 10 General purpose etc.](section/10.md)
+    - [s. 11 Duty to prepare and publish strategy](section/11.md)
+  - Monitoring, reporting and advising functions
+    - [s. 12 Monitoring and reporting](section/12.md)
+    - [s. 13 Advising the Welsh Ministers](section/13.md)
+    - [s. 14 Advice, guidance and assistance on environmental law](section/14.md)
+  - Information notices
+    - [s. 15 Information notices](section/15.md)
+  - Representations
+    - [s. 16 Representations](section/16.md)
+  - Investigations
+    - [s. 17 Investigations](section/17.md)
+  - Compliance notices
+    - [s. 18 Compliance notices](section/18.md)
+    - [s. 19 Urgent compliance notices](section/19.md)
+    - [s. 20 OEGW’s review of compliance notices](section/20.md)
+    - [s. 21 High Court review after failure to take specified action](section/21.md)
+  - Improvement reports and improvement plans
+    - [s. 22 Improvement reports](section/22.md)
+    - [s. 23 Improvement reports: content](section/23.md)
+    - [s. 24 Improvement plans](section/24.md)
+  - Co-operation duties
+    - [s. 25 Co-operation duties](section/25.md)
+  - Disclosure of information and confidentiality
+    - [s. 26 Disclosure of information to the OEGW](section/26.md)
+    - [s. 27 Confidentiality requirements: the OEGW](section/27.md)
+    - [s. 28 Confidentiality requirements: public authorities](section/28.md)
+    - [s. 29 Application of Environmental Information Regulations 2004](section/29.md)
+  - Staff transfer schemes
+    - [s. 30 Staff transfer schemes](section/30.md)
+  - Interpretation
+    - [s. 31 Meaning of “environmental law”](section/31.md)
+    - [s. 32 Meaning of “public authority”](section/32.md)
+    - [s. 33 Meaning of “effectiveness of environmental law”](section/33.md)
+    - [s. 34 Meaning of “failing to comply with environmental law”](section/34.md)
+- PART 3 BIODIVERSITY TARGETS, ETC.
+  - [s. 35 Biodiversity targets](section/35.md)
+  - [s. 36 Public authorities’ duties](section/36.md)
+  - [s. 37 Welsh Ministers’ plans under section 6 of the Environment Act](section/37.md)
+  - [s. 38 Reports under section 6 of the Environment Act](section/38.md)
+  - [s. 39 Evaluation report](section/39.md)
+  - [s. 40 Promoting awareness of biodiversity](section/40.md)
+- PART 4 GENERAL
+  - [s. 41 Power to make consequential etc. provision](section/41.md)
+  - [s. 42 Regulations](section/42.md)
+  - [s. 43 Service of notices and other documents](section/43.md)
+  - [s. 44 General interpretation](section/44.md)
+  - [s. 45 Consequential amendments](section/45.md)
+  - [s. 46 Coming into force](section/46.md)
+  - [s. 47 Short title](section/47.md)
+- SCHEDULE 1 THE OFFICE OF ENVIRONMENTAL GOVERNANCE WALES
+  - PART 1 STATUS
+    - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+  - PART 2 MEMBERSHIP
+    - [Sch. 1 para. 2 Members](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Disqualification](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Terms of non-executive members](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Removal etc. of non-executive members](schedule/1/paragraph/5.md)
+  - PART 3 STAFF
+    - [Sch. 1 para. 6 Chief executive](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Other staff](schedule/1/paragraph/7.md)
+  - PART 4 APPOINTMENT REQUIREMENTS
+    - [Sch. 1 para. 8 Appointment requirements](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Disapplication of appointment requirements: interim members](schedule/1/paragraph/9.md)
+  - PART 5 COMMITTEES AND DELEGATION
+    - [Sch. 1 para. 10 Review committee](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Other committees and sub-committees](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Joint committees](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Delegation](schedule/1/paragraph/13.md)
+  - PART 6 PROCEDURE ETC.
+    - [Sch. 1 para. 14 Procedure](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Validity of proceedings and acts](schedule/1/paragraph/15.md)
+  - PART 7 FINANCIAL MATTERS
+    - [Sch. 1 para. 16 Funding](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Accounting officer](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Accounts](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Audit](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Examination into use of resources](schedule/1/paragraph/20.md)
+  - PART 8 REPORTING REQUIREMENTS
+    - [Sch. 1 para. 21 Annual report](schedule/1/paragraph/21.md)
+  - PART 9 SUPPLEMENTARY PROVISIONS
+    - [Sch. 1 para. 22 Register of interests](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Supplementary powers](schedule/1/paragraph/23.md)
+- SCHEDULE 2 THE OFFICE OF ENVIRONMENTAL GOVERNANCE WALES: STRATEGY
+  - [Sch. 2 para. 1 Content](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Procedural requirements](schedule/2/paragraph/2.md)
+- SCHEDULE 3 STAFF TRANSFER SCHEMES
+  - [Sch. 3 para. 1 Power to make staff transfer schemes](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Modification of staff transfer schemes](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Duty to lay staff transfer schemes before Senedd Cymru](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Interpretation](schedule/3/paragraph/4.md)
+- SCHEDULE 4 CONSEQUENTIAL AMENDMENTS
+  - [Sch. 4 para. 1 Environment Act 1995 (c. 25)](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Government of Wales Act 2006 (c. 32)](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Welsh Language (Wales) Measure 2011 (nawm 1)](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Active Travel (Wales) Act 2013 (anaw 7)](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Well-being of Future Generations (Wales) Act 2015 (anaw 2)](schedule/4/paragraph/5.md)
