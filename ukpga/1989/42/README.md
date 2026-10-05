@@ -1,0 +1,802 @@
+# Local Government and Housing Act 1989
+
+1989 c. 42. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 43 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
+
+Source: https://www.legislation.gov.uk/ukpga/1989/42/2026-10-05
+
+## Contents
+
+- Part I Local Authority Members, Officers, Staff and Committees etc.
+  - Political restriction of officers and staff
+    - [s. 1 Disqualification and political restriction of certain officers and staff.](section/1.md)
+    - [s. 2 Politically restricted posts.](section/2.md)
+    - [s. 3 Grant and supervision of exemptions from political restriction: Scotland and Wales.](section/3.md)
+    - [s. 3A Grant and supervision of exemptions from political restriction: England](section/3A.md)
+    - [s. 3B General advice as to politically restricted posts: England](section/3B.md)
+  - Duties of particular officers
+    - [s. 4 Designation and reports of head of paid service.](section/4.md)
+    - [s. 5 Designation and reports of monitoring officer.](section/5.md)
+    - [s. 5A Reports of monitoring officer—local authorities operating executive arrangements](section/5A.md)
+    - [s. 6 Officer responsible for financial administration of certain authorities.](section/6.md)
+  - Appointment and management etc. of staff
+    - [s. 7 All staff to be appointed on merit.](section/7.md)
+    - [s. 8 Duty to adopt standing orders with respect to staff.](section/8.md)
+    - [s. 9 Assistants for political groups.](section/9.md)
+    - [s. 10 Limit on paid leave for local authority duties.](section/10.md)
+    - [s. 11 Confidentiality of staff records.](section/11.md)
+    - [s. 12 Conflict of interest in staff negotiations.](section/12.md)
+  - Voting rights of members of certain committees
+    - [s. 13 Voting rights of members of certain committees: England and Wales.](section/13.md)
+    - [s. 14 Voting rights of members of certain committees: Scotland.](section/14.md)
+  - Political balance on committees etc.
+    - [s. 15 Duty to allocate seats to political groups.](section/15.md)
+    - [s. 16 Duty to give effect to allocations.](section/16.md)
+    - [s. 17 Exceptions to and extensions of political balance requirements.](section/17.md)
+  - Allowances
+    - [s. 18 Schemes for basic, attendance and special responsibility allowances for local authority members.](section/18.md)
+  - Members’ interests
+    - [s. 19 Members’ interests.](section/19.md)
+  - Duty to adopt certain procedural standing orders
+    - [s. 20 Duty to adopt certain procedural standing orders.](section/20.md)
+  - Interpretation of Part I
+    - [s. 21 Interpretation of Part I.](section/21.md)
+- Part II Local Government Administration
+  - [s. 22 Advisory Commissioners.](section/22.md)
+  - [s. 23 Advice and guidance by Commissions for Local Administration and ScottishCommissioner.](section/23.md)
+  - [s. 24 Expenses of Commissions for Local Administration.](section/24.md)
+  - [s. 25 Annual reports of Commissions: new provisions.](section/25.md)
+  - [s. 26 Implementation of recommendations of Commissioners for Local Administration in England and Wales.](section/26.md)
+  - [s. 27 Implementation of recommendations of Commissioner for Local Administrationin Scotland.](section/27.md)
+  - [s. 28 Consideration of adverse reports: England and Wales.](section/28.md)
+  - [s. 29 Consideration of adverse reports: Scotland.](section/29.md)
+  - [s. 30 Declaration of acceptance of office of councillor etc.](section/30.md)
+  - [s. 31 National Code of Local Government Conduct.](section/31.md)
+  - [s. 32 Anonymity in reports on investigations.](section/32.md)
+- Part III Economic Development and Discretionary Expenditure by Local Authorities
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Amendments of existing power to incur discretionary expenditure.](section/36.md)
+  - [s. 37 Conditions of provision of financial assistance.](section/37.md)
+  - [s. 38 Information etc. on individuals’ rights.](section/38.md)
+- Part IV Revenue Accounts and Capital Finance of Local Authorities
+  - Introductory
+    - [s. 39 Application of Part IV.](section/39.md)
+    - [s. 40 Capital purposes.](section/40.md)
+  - Charge of expenditure to revenue accounts
+    - [s. 41 Expenditure to be charged to revenue account.](section/41.md)
+    - [s. 42 Expenditure excluded from section 41(1).](section/42.md)
+  - Borrowing
+    - [s. 43 Borrowing powers.](section/43.md)
+    - [s. 44 Borrowing limits etc.](section/44.md)
+    - [s. 45 The authority’s own limits.](section/45.md)
+    - [s. 46 Register of loan instruments and certain existing loans.](section/46.md)
+    - [s. 47 Security for money borrowed etc.](section/47.md)
+  - Credit arrangements
+    - [s. 48 Credit arrangements.](section/48.md)
+    - [s. 49 Initial and subsequent cost of credit arrangements.](section/49.md)
+    - [s. 50 Limits on powers to enter into credit arrangements.](section/50.md)
+    - [s. 51 Variation of credit arrangements.](section/51.md)
+    - [s. 52 Transitional credit arrangements.](section/52.md)
+  - Credit approvals
+    - [s. 53 Basic credit approvals.](section/53.md)
+    - [s. 54 Supplementary credit approvals.](section/54.md)
+    - [s. 55 Criteria for issuing credit approvals.](section/55.md)
+    - [s. 56 Use of credit approvals by local authorities.](section/56.md)
+    - [s. 57 Effect of certain capital grants on credit approvals.](section/57.md)
+  - Capital receipts
+    - [s. 58 Capital receipts.](section/58.md)
+    - [s. 59 The reserved part of capital receipts.](section/59.md)
+    - [s. 60 The usable balance of capital receipts.](section/60.md)
+    - [s. 61 Capital receipts not wholly in money paid to the authority.](section/61.md)
+  - Aggregate credit limit
+    - [s. 62 Aggregate credit limit.](section/62.md)
+  - Amounts set aside to meet credit liabilities
+    - [s. 63 Duty to set certain amounts aside as provision to meet credit liabilities.](section/63.md)
+    - [s. 64 Use of amounts set aside to meet credit liabilities.](section/64.md)
+  - Supplementary
+    - [s. 65 Information.](section/65.md)
+    - [s. 66 Interpretation of Part IV.](section/66.md)
+- Part V Companies in which Local Authorities have interests
+  - [s. 67 Application of, and orders under, Part V.](section/67.md)
+  - [s. 68 Companies controlled by local authorities and arm’s length companies.](section/68.md)
+  - [s. 69 Companies subject to local authority influence.](section/69.md)
+  - [s. 70 Requirements for companies under control or subject to influence of localauthorities.](section/70.md)
+  - [s. 71 Control of minority interests etc. in certain companies.](section/71.md)
+  - [s. 72 Trusts influenced by local authorities.](section/72.md)
+  - [s. 73 Authorities acting jointly and by committees.](section/73.md)
+- Part VI Housing Finance
+  - Housing accounts
+    - [s. 74 Duty to keep Housing Revenue Account.](section/74.md)
+    - [s. 75 The keeping of the Housing Revenue Account.](section/75.md)
+    - [s. 76 Duty to prevent debit balance on Housing Revenue Account.](section/76.md)
+    - [s. 77 Power to keep Housing Repairs Account.](section/77.md)
+    - [s. 78 Directions to secure proper accounting.](section/78.md)
+    - [s. 78A Directions as to treatment of service charges, &c.](section/78A.md)
+    - [s. 78B Directions as to accounting for work subject to competitive tendering.](section/78B.md)
+  - Housing subsidies
+    - [s. 79 Housing Revenue Account subsidy.](section/79.md)
+    - [s. 80 Calculation of Housing Revenue Account subsidy.](section/80.md)
+    - [s. 80B Agreements to exclude certain authorities or property](section/80B.md)
+    - [s. 80ZA Negative amounts of subsidy payable to Welsh Ministers](section/80ZA.md)
+    - [s. 80A Final decision on amount of Housing Revenue Account subsidy.](section/80A.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 Residual debt subsidy for year 1989–90.](section/82.md)
+    - [s. 83 Calculation of residual debt subsidy.](section/83.md)
+    - [s. 84 Adjustment of housing subsidy for year 1989-90.](section/84.md)
+  - Supplementary
+    - [s. 85 Power to obtain information.](section/85.md)
+    - [s. 86 Recoupment of subsidy in certain cases.](section/86.md)
+    - [s. 87 Determinations and directions.](section/87.md)
+    - [s. 87A Orders amending Part 6](section/87A.md)
+    - [s. 88 Construction and application of Part VI.](section/88.md)
+- Part VII Renewal Areas
+  - [s. 89 Declaration of renewal area.](section/89.md)
+  - [s. 90 Conditions for declaration of renewal area.](section/90.md)
+  - [s. 91 Renewal area: steps to be taken after declaration or extension](section/91.md)
+  - [s. 92 Duty to publish information.](section/92.md)
+  - [s. 93 General powers of local housing authority.](section/93.md)
+  - [s. 94 Power to apply for orders extinguishing right to use vehicles on highway.](section/94.md)
+  - [s. 95 Exclusion of land from, or termination of, renewal area.](section/95.md)
+  - [s. 96 Contributions by the Secretary of State.](section/96.md)
+  - [s. 97 Powers of entry and penalty for obstruction.](section/97.md)
+  - [s. 98 Part VIII of Housing Act 1985.](section/98.md)
+  - [s. 99 Directions and guidance.](section/99.md)
+  - [s. 100 Interpretation of Part VII.](section/100.md)
+- Part VIII
+  - Introductory
+    - [s. 101 Grants for improvements and repairs.](section/101.md)
+    - [s. 102 Applications for grants.](section/102.md)
+  - Preliminary conditions
+    - [s. 103 The age of the property.](section/103.md)
+    - [s. 104 The interest of the applicant in the property.](section/104.md)
+    - [s. 105 Common parts grants: preliminary conditions.](section/105.md)
+    - [s. 106 Certificate as to future occupation, etc.](section/106.md)
+  - Restrictions on grant aid
+    - [s. 107 Certain dwellings and works excluded from grant aid.](section/107.md)
+    - [s. 108 Restriction on grants for works already begun.](section/108.md)
+    - [s. 109 Owner-occupiers and tenants.](section/109.md)
+    - [s. 110 Landlords.](section/110.md)
+    - [s. 111 Tenants’ common parts applications.](section/111.md)
+  - Approvals, notification and payment
+    - [s. 112 Duty to approve applications to render certain dwellings fit for humanhabitation.](section/112.md)
+    - [s. 113 Duty to approve applications arising out of certain statutory notices.](section/113.md)
+    - [s. 114 Approval of applications to provide certain facilities for the disabled.](section/114.md)
+    - [s. 115 Discretionary approval of certain applications.](section/115.md)
+    - [s. 116 Approval and refusal of applications.](section/116.md)
+    - [s. 117 Payment of grants.](section/117.md)
+  - Conditions of grants and repayments
+    - [s. 118 Conditions as to completion of works.](section/118.md)
+    - [s. 119 Condition as to availability for letting.](section/119.md)
+    - [s. 120 Condition requiring repayment of grant in case of certain disposals wherecertificate of intended letting given.](section/120.md)
+    - [s. 121 Condition requiring repayment of grant in case of certain disposals whereowner-occupation certificate given.](section/121.md)
+    - [s. 122 Conditions relating to HMO grant.](section/122.md)
+    - [s. 123 Condition requiring repayment of grant on certain disposals in case oflandlord’s common parts application.](section/123.md)
+    - [s. 124 Meaning of relevant disposal and exempt disposal for the purposes ofsections 120 to 123.](section/124.md)
+    - [s. 125 Repayment of grant.](section/125.md)
+    - [s. 126 Renovation grants relating to two or more dwellings.](section/126.md)
+  - Group repair schemes
+    - [s. 127 Group repair schemes and persons eligible to participate.](section/127.md)
+    - [s. 128 Qualifying buildings and external works, etc.](section/128.md)
+    - [s. 129 Contributions by participants and limitations on works.](section/129.md)
+    - [s. 130 Payment of balance of costs in case of certain disposals.](section/130.md)
+  - Minor works
+    - [s. 131 Assistance for provision of minor works to dwellings.](section/131.md)
+  - Supplementary provisions
+    - [s. 132 Contributions by the Secretary of State.](section/132.md)
+    - [s. 133 Persons entitled to grants.](section/133.md)
+    - [s. 134 Cases in which grants may be re-calculated, withheld or repaid.](section/134.md)
+    - [s. 135 Power of local housing authority to carry out works which would attractgrant.](section/135.md)
+    - [s. 136 Parsonages, charities etc.](section/136.md)
+    - [s. 137 Orders and regulations.](section/137.md)
+    - [s. 138 Interpretation of Part VIII.](section/138.md)
+- Part IX Miscellaneous and General
+  - Local Government Finance Act 1988, local finance (Scotland) and block grants
+    - [s. 139 Local Government Finance Act 1988: amendments.](section/139.md)
+    - [s. 140 Scottish non-domestic rates: interim provisions.](section/140.md)
+    - [s. 141 ................................](section/141.md)
+    - [s. 142 Powers to vary incidence of standard community charge: Scotland.](section/142.md)
+    - [s. 143 Reduced liability for personal community charges: Scotland.](section/143.md)
+    - [s. 144 Community charge grants: Scotland.](section/144.md)
+    - [s. 145 Amendment of Abolition of Domestic Rates Etc. (Scotland) Act 1987 andother enactments: Scotland.](section/145.md)
+    - [s. 146 ................................](section/146.md)
+    - [s. 147 Adjustment of block grant.](section/147.md)
+    - [s. 148 Rate support grant, 1985/86.](section/148.md)
+    - [s. 149 Statutory references to rating.](section/149.md)
+  - Charges by certain authorities
+    - [s. 150 Power to allow charges.](section/150.md)
+    - [s. 151 Power to amend provisions about charges.](section/151.md)
+    - [s. 152 Interpretation, consultation and commencement of ss. 150 and 151.](section/152.md)
+    - [s. 153 Charges: temporary traffic signs.](section/153.md)
+    - [s. 154 Charges: library services.](section/154.md)
+  - Miscellaneous local government provisions
+    - [s. 155 Emergency financial assistance to local authorities.](section/155.md)
+    - [s. 156 Contingency planning and co-ordination in respect of emergencies ordisasters.](section/156.md)
+    - [s. 157 Commutation of, and interest on, periodic payments of grants etc.](section/157.md)
+    - [s. 158 Electronic transfer of documents.](section/158.md)
+    - [s. 159 Prevention of continuance or recurrence of default of local authority: Scotland.](section/159.md)
+    - [s. 160 ................................](section/160.md)
+  - Miscellaneous housing provisions
+    - [s. 161 Housing authorities not required to keep a housing stock.](section/161.md)
+    - [s. 162 Determination of rents.](section/162.md)
+    - [s. 163 Exchanges between secure and assured tenants.](section/163.md)
+    - [s. 164 Exception to the right to buy in case of certain dwelling-houses forpersons of pensionable age.](section/164.md)
+    - [s. 165 Unfit housing etc.](section/165.md)
+    - [s. 166 Amendments relating to defective housing.](section/166.md)
+    - [s. 167 Reports to tenants etc. on local housing authority functions.](section/167.md)
+    - [s. 168 Contributions towards costs of housing mobility arrangements.](section/168.md)
+    - [s. 169 Powers of local authorities and Secretary of State as respects services etc. for owners and occupiers of houses for work on them.](section/169.md)
+    - [s. 170 Powers of local authorities and Secretary of State as respects services,etc., for owners and occupiers of houses for work on them: Scotland.](section/170.md)
+    - [s. 171 Winding up of home purchase assistance scheme.](section/171.md)
+    - [s. 172 Transfer of new town housing stock.](section/172.md)
+    - [s. 173 Consent required for subsequent disposals.](section/173.md)
+    - [s. 174 ................................](section/174.md)
+    - [s. 175 Repeal of the Town Development Act 1952.](section/175.md)
+    - [s. 176 Amendment of definition of occupation for purposes of purchase of house by secure tenant: Scotland.](section/176.md)
+    - [s. 177 Sale to secure tenants of houses provided for persons of pensionable age: Scotland.](section/177.md)
+    - [s. 178 Application of secure tenant’s right to buy to cases where landlord is lessee: Scotland.](section/178.md)
+    - [s. 179 Amendment of powers of Scottish Homes to dispose of land.](section/179.md)
+    - [s. 180 Race relations: codes of practice in housing field.](section/180.md)
+    - [s. 181 Duty of landlord to inform secure tenant seeking to buy house about changes in law: Scotland.](section/181.md)
+  - Other provisions
+    - [s. 182 ................................](section/182.md)
+    - [s. 183 Extension of powers of Housing Corporation and Housing for Wales to give financial assistance.](section/183.md)
+    - [s. 184 Extension of functions of Audit Commission.](section/184.md)
+    - [s. 185 Publication of reports of Controller of Audit: Scotland.](section/185.md)
+    - [s. 186 Security of tenure on ending of long residential tenancies.](section/186.md)
+    - [s. 187 Construction industry: grants and guarantees.](section/187.md)
+    - [s. 188 Repeal of s. 2 of the Education (Grants and Awards) Act 1984.](section/188.md)
+    - [s. 189 ................................](section/189.md)
+  - Supplementary
+    - [s. 190 Regulations.](section/190.md)
+    - [s. 191 Separate provisions for Wales.](section/191.md)
+    - [s. 192 Financial provisions.](section/192.md)
+    - [s. 193 Application to Isles of Scilly.](section/193.md)
+    - [s. 194 Amendments and repeals.](section/194.md)
+    - [s. 195 Short title, commencement and extent.](section/195.md)
+- SCHEDULE 1 Political Balance on Local Authority Committees etc.
+  - Bodies to which section 15 applies
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Construction of sections 15 to 17
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Supplemental regulation making power
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Local Government Act 1972, section 137, as amended
+- SCHEDULE 3 Provisions Supplementing Part IV
+  - Part I Effect of Overspend in 1989-90 on Credit Approvals
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part II Non-Monetary Consideration received before April 1990
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part III Credit Ceiling
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part IV Minimum Revenue Provision
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+- SCHEDULE 4 The Keeping of the Housing Revenue Account
+  - Part I Credits to the Account
+    - Item 1: rents
+    - Item 2: charges for services and facilities
+    - Item 3: Housing Revenue Account subsidy
+    - Item 4: contributions towards expenditure
+    - Item 5: housing benefit transfers
+    - Item 6: transfers from the Housing Repairs Account
+    - Item 7: reduced provision for bad or doubtful debts
+    - Item 8: sums calculated as determined by Secretary of State
+    - Item 9: sums directed by Secretary of State or National Assembly for Wales
+    - Item 10: credit balance from previous year
+  - Part II Debits to the Account
+    - Item 1: expenditure on repairs, maintenance and management
+    - Item 2: capital expenditure
+    - Item 3: rents, rates, taxes and other charges
+    - Item 4: rent rebates
+    - Item 5: sums payable under section 80ZA
+    - Item 5A: sums payable under section 170 of the Localism Act 2011
+    - Item 5B: sums payable under section 134 of the Housing (Wales) Act 2014
+    - Item 6: contributions to Housing Repairs Account
+    - Item 7: provision for bad or doubtful debts
+    - Item 8: sums calculated as determined by Secretary of State
+    - Item 9: debit balance from previous year
+    - Item 10: sums directed by Secretary of State or National Assembly for Wales
+    - Item 11: payments under section 86 of the Housing and Planning Act 2016
+  - Part III Special Cases
+    - Balance for year 1989-90
+      - [Sch. 4 Pt. III heading balance-for-year-198990 para. 1](schedule/4/part/III/crossheading/balance-for-year-198990/paragraph/1.md)
+    - ...
+      - [Sch. 4 Pt. III heading credit-balance-where-no-hra-subsidy-payable para. 2](schedule/4/part/III/crossheading/credit-balance-where-no-hra-subsidy-payable/paragraph/2.md)
+    - Amenities shared by the whole community
+      - [Sch. 4 Pt. III heading amenities-shared-by-the-whole-community para. 3](schedule/4/part/III/crossheading/amenities-shared-by-the-whole-community/paragraph/3.md)
+    - Provision of welfare services
+      - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+    - Land disposed of at less than market value
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Adjustment of accounts on appropriation of land
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Transfers of housing stock between authorities in London
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Contributions in respect of land in certain areas
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Part IV Supplementary Provisions
+    - Duty to supply information
+      - [Sch. 4 Pt. IV heading duty-to-supply-information para. 1](schedule/4/part/IV/crossheading/duty-to-supply-information/paragraph/1.md)
+    - Directions excluding or modifying statutory provisions
+      - [Sch. 4 Pt. IV heading directions-excluding-or-modifying-statutory-provisions para. 2](schedule/4/part/IV/crossheading/directions-excluding-or-modifying-statutory-provisions/paragraph/2.md)
+    - Orders amending statutory provisions
+      - [Sch. 4 Pt. IV heading orders-amending-statutory-provisions para. 3](schedule/4/part/IV/crossheading/orders-amending-statutory-provisions/paragraph/3.md)
+- SCHEDULE 5 Local Government Finance Act 1988: Amendments
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Community charges
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Charges and multipliers
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Non-domestic rating
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+    - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+    - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+  - Precepts and levies
+    - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+    - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+    - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+    - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+    - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+    - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+    - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
+    - [Sch. 5 para. 56](schedule/5/paragraph/56.md)
+  - Grants
+    - [Sch. 5 para. 57](schedule/5/paragraph/57.md)
+    - [Sch. 5 para. 58](schedule/5/paragraph/58.md)
+    - [Sch. 5 para. 59](schedule/5/paragraph/59.md)
+    - [Sch. 5 para. 60](schedule/5/paragraph/60.md)
+    - [Sch. 5 para. 61](schedule/5/paragraph/61.md)
+  - Funds
+    - [Sch. 5 para. 62](schedule/5/paragraph/62.md)
+    - [Sch. 5 para. 63](schedule/5/paragraph/63.md)
+    - [Sch. 5 para. 64](schedule/5/paragraph/64.md)
+    - [Sch. 5 para. 65](schedule/5/paragraph/65.md)
+  - Financial administration
+    - [Sch. 5 para. 66](schedule/5/paragraph/66.md)
+  - Existing rates
+    - [Sch. 5 para. 67](schedule/5/paragraph/67.md)
+  - Information
+    - [Sch. 5 para. 68](schedule/5/paragraph/68.md)
+  - England and Wales: separate administration
+    - [Sch. 5 para. 69](schedule/5/paragraph/69.md)
+  - Payments
+    - [Sch. 5 para. 70](schedule/5/paragraph/70.md)
+    - [Sch. 5 para. 71](schedule/5/paragraph/71.md)
+  - Orders and regulations
+    - [Sch. 5 para. 72](schedule/5/paragraph/72.md)
+  - Relevant population
+    - [Sch. 5 para. 73](schedule/5/paragraph/73.md)
+    - [Sch. 5 para. 74](schedule/5/paragraph/74.md)
+  - Information
+    - [Sch. 5 para. 75](schedule/5/paragraph/75.md)
+  - Tribunals
+    - [Sch. 5 para. 76](schedule/5/paragraph/76.md)
+  - General
+    - [Sch. 5 para. 77](schedule/5/paragraph/77.md)
+    - [Sch. 5 para. 78](schedule/5/paragraph/78.md)
+    - [Sch. 5 para. 79](schedule/5/paragraph/79.md)
+    - [Sch. 5 para. 80](schedule/5/paragraph/80.md)
+- SCHEDULE 6 Amendment of Scottish Enactments
+  - Valuation appeals to Lands Tribunal for Scotland
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Rateable value of certain buildings used for breeding or rearing horses
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Application of regulations about determination of net annual value
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Rateable value for purposes of levying rates after 1st April 1990
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Exemption of church premises from the non-domestic rate
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Extension of charitable rate relief to universities
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Duty to notify registration officer about liability for collective community charge
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Interest not payable on back dated liability for community charges where there is reasonable excuse for non-registration
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Exemption from personal community charge
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Liability for non-domestic water rate
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Premises in respect of which non-domestic water rate is leviable
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Exemption of formula valued premises from non-domestic water rate
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Liability for non-domestic sewerage rate
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Reduced liability for non-domestic sewerage rate in respect of certain church and charity premises
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Public inspection of community charges register
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Exclusion from voting disability of local authority members who are community charge payers
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Revocation of civil penalties imposed by registration officer
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Evidence in appeals under Abolition of Domestic Rates Etc. (Scotland) Act 1987
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - No liability for community water charges where water previously supplied free
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Provision of information by registration officer
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - Revenue support grants
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+- SCHEDULE 7 Compensation Provisions of Landlord and Tenant Act 1954, Part II
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Welsh Language Names for Local Authorities
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Amendments of Parts VI, IX, XI, XVII and XVIII of the Housing Act 1985
+  - Part I Amendments of Part VI
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Part II Amendments of Part IX
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+  - Part III Amendments of Part XI
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+    - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+    - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+    - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+    - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+    - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+    - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+    - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+    - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+    - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+    - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+    - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+    - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+    - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+    - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+    - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+    - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+    - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+    - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+    - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+    - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+    - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+    - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+    - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+    - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+    - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+    - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+  - Part IV Amendments of Part XVII
+    - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+    - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+    - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+    - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+    - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
+    - [Sch. 9 para. 77](schedule/9/paragraph/77.md)
+    - [Sch. 9 para. 78](schedule/9/paragraph/78.md)
+    - [Sch. 9 para. 79](schedule/9/paragraph/79.md)
+    - [Sch. 9 para. 80](schedule/9/paragraph/80.md)
+    - [Sch. 9 para. 81](schedule/9/paragraph/81.md)
+    - [Sch. 9 para. 82](schedule/9/paragraph/82.md)
+  - Part V Amendments of Part XVIII
+    - [Sch. 9 para. 83](schedule/9/paragraph/83.md)
+    - [Sch. 9 para. 84](schedule/9/paragraph/84.md)
+    - [Sch. 9 para. 85](schedule/9/paragraph/85.md)
+    - [Sch. 9 para. 86](schedule/9/paragraph/86.md)
+    - [Sch. 9 para. 87](schedule/9/paragraph/87.md)
+    - [Sch. 9 para. 88](schedule/9/paragraph/88.md)
+    - [Sch. 9 para. 89](schedule/9/paragraph/89.md)
+    - [Sch. 9 para. 90](schedule/9/paragraph/90.md)
+    - [Sch. 9 para. 91](schedule/9/paragraph/91.md)
+- SCHEDULE 10 Security of Tenure on Ending of Long Residential Tenancies
+  - Preliminary
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 1A](schedule/10/paragraph/1A.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Continuation of long residential tenancies
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Termination of tenancy by the landlord
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 4A](schedule/10/paragraph/4A.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Interim rent
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Termination of tenancy by the tenant
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - The assured periodic tenancy or periodic standard contract
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Initial rent under and terms of assured periodic tenancy or periodic standard contract
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Landlord’s application for possession
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - Provisions where tenant not ordered to give up possession
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Tenancies granted in continuation of long tenancies
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Agreements as to the grant of new tenancies
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Assumptions on which to determine future questions
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Landlords and mortgagees in possession
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Application of other provisions of the 1954 Act
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Crown application
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+- SCHEDULE 11 Minor And Consequential Amendments
+  - The Military Lands Act 1892
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - The Small Holdings and Allotments Act 1908
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - The Prevention of Corruption Act 1916
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - The Education Act 1944
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - The Sexual Offences Act 1956
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - The Public Works Loans Act 1965
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - The Public Works Loans Act 1967
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - The Leasehold Reform Act 1967
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - The International Organisations Act 1968
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - The Social Work (Scotland) Act 1968
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - The Transport Act 1968
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - The Local Authority Social Services Act 1970
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - The Town and Country Planning Act 1971
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - The Local Government Act 1972
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+  - The Land Compensation Act 1973
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+  - The Local Government (Scotland) Act 1973
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+    - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+    - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+    - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+  - The Local Government Act 1974
+    - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+    - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+    - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+    - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+    - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+  - The Housing Act 1974
+    - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+  - The Local Government (Scotland) Act 1975
+    - [Sch. 11 para. 43](schedule/11/paragraph/43.md)
+    - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+    - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+    - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+    - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+  - The Rent (Agriculture) Act 1976
+    - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+    - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+  - The Rent Act 1977
+    - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+    - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+    - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+  - The Protection from Eviction Act 1977
+    - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+  - The Education (Scotland) Act 1980
+    - [Sch. 11 para. 55](schedule/11/paragraph/55.md)
+  - The Local Government, Planning and Land Act 1980
+    - [Sch. 11 para. 56](schedule/11/paragraph/56.md)
+    - [Sch. 11 para. 57](schedule/11/paragraph/57.md)
+  - ...
+    - [Sch. 11 para. 58](schedule/11/paragraph/58.md)
+  - The Stock Transfer Act 1982
+    - [Sch. 11 para. 59](schedule/11/paragraph/59.md)
+  - The County Courts Act 1984
+    - [Sch. 11 para. 60](schedule/11/paragraph/60.md)
+  - Rent (Scotland) Act 1984
+    - [Sch. 11 para. 61](schedule/11/paragraph/61.md)
+  - The Housing Act 1985
+    - [Sch. 11 para. 62](schedule/11/paragraph/62.md)
+    - [Sch. 11 para. 63](schedule/11/paragraph/63.md)
+    - [Sch. 11 para. 64](schedule/11/paragraph/64.md)
+    - [Sch. 11 para. 65](schedule/11/paragraph/65.md)
+    - [Sch. 11 para. 66](schedule/11/paragraph/66.md)
+    - [Sch. 11 para. 67](schedule/11/paragraph/67.md)
+    - [Sch. 11 para. 68](schedule/11/paragraph/68.md)
+    - [Sch. 11 para. 69](schedule/11/paragraph/69.md)
+    - [Sch. 11 para. 70](schedule/11/paragraph/70.md)
+    - [Sch. 11 para. 71](schedule/11/paragraph/71.md)
+    - [Sch. 11 para. 72](schedule/11/paragraph/72.md)
+    - [Sch. 11 para. 73](schedule/11/paragraph/73.md)
+    - [Sch. 11 para. 74](schedule/11/paragraph/74.md)
+    - [Sch. 11 para. 75](schedule/11/paragraph/75.md)
+    - [Sch. 11 para. 76](schedule/11/paragraph/76.md)
+    - [Sch. 11 para. 77](schedule/11/paragraph/77.md)
+    - [Sch. 11 para. 78](schedule/11/paragraph/78.md)
+    - [Sch. 11 para. 79](schedule/11/paragraph/79.md)
+    - [Sch. 11 para. 80](schedule/11/paragraph/80.md)
+    - [Sch. 11 para. 81](schedule/11/paragraph/81.md)
+    - [Sch. 11 para. 82](schedule/11/paragraph/82.md)
+    - [Sch. 11 para. 83](schedule/11/paragraph/83.md)
+    - [Sch. 11 para. 84](schedule/11/paragraph/84.md)
+    - [Sch. 11 para. 85](schedule/11/paragraph/85.md)
+    - [Sch. 11 para. 86](schedule/11/paragraph/86.md)
+    - [Sch. 11 para. 87](schedule/11/paragraph/87.md)
+    - [Sch. 11 para. 88](schedule/11/paragraph/88.md)
+  - The Landlord and Tenant Act 1985
+    - [Sch. 11 para. 89](schedule/11/paragraph/89.md)
+    - [Sch. 11 para. 90](schedule/11/paragraph/90.md)
+    - [Sch. 11 para. 91](schedule/11/paragraph/91.md)
+  - The Education Act 1986
+    - [Sch. 11 para. 92](schedule/11/paragraph/92.md)
+  - The Housing (Scotland) Act 1987
+    - [Sch. 11 para. 93](schedule/11/paragraph/93.md)
+    - [Sch. 11 para. 94](schedule/11/paragraph/94.md)
+    - [Sch. 11 para. 95](schedule/11/paragraph/95.md)
+  - The Local Government Act 1988
+    - [Sch. 11 para. 96](schedule/11/paragraph/96.md)
+    - [Sch. 11 para. 97](schedule/11/paragraph/97.md)
+  - The Education Reform Act 1988
+    - [Sch. 11 para. 98](schedule/11/paragraph/98.md)
+  - The Housing (Scotland) Act 1988
+    - [Sch. 11 para. 99](schedule/11/paragraph/99.md)
+    - [Sch. 11 para. 100](schedule/11/paragraph/100.md)
+  - The Housing Act 1988
+    - [Sch. 11 para. 101](schedule/11/paragraph/101.md)
+    - [Sch. 11 para. 102](schedule/11/paragraph/102.md)
+    - [Sch. 11 para. 103](schedule/11/paragraph/103.md)
+    - [Sch. 11 para. 104](schedule/11/paragraph/104.md)
+    - [Sch. 11 para. 105](schedule/11/paragraph/105.md)
+    - [Sch. 11 para. 106](schedule/11/paragraph/106.md)
+    - [Sch. 11 para. 107](schedule/11/paragraph/107.md)
+    - [Sch. 11 para. 108](schedule/11/paragraph/108.md)
+    - [Sch. 11 para. 109](schedule/11/paragraph/109.md)
+    - [Sch. 11 para. 110](schedule/11/paragraph/110.md)
+    - [Sch. 11 para. 111](schedule/11/paragraph/111.md)
+    - [Sch. 11 para. 112](schedule/11/paragraph/112.md)
+  - The Social Security Act 1989
+    - [Sch. 11 para. 113](schedule/11/paragraph/113.md)
+- SCHEDULE 12 Enactments Repealed
+  - Part I Local Authority Finance
+  - Part II Other Repeals
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
