@@ -1,0 +1,139 @@
+# Sentencing Act 2026
+
+2026 c. 2. Enacted 2026-01-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
+
+Source: https://www.legislation.gov.uk/ukpga/2026/2/2026-10-05
+
+## Contents
+
+- Part 1 Sentencing
+  - Suspended sentences
+    - [s. 1 Presumption of suspended sentence order for sentences of 12 months or less](section/1.md)
+    - [s. 2 Custodial sentences that may be suspended](section/2.md)
+  - Income reduction orders
+    - [s. 3 Income reduction orders](section/3.md)
+  - Purposes of sentencing
+    - [s. 4 Purposes of sentencing](section/4.md)
+  - Deferment of sentence
+    - [s. 5 Date to which passing of sentence may be deferred](section/5.md)
+  - Finding of domestic abuse
+    - [s. 6 Finding of domestic abuse](section/6.md)
+  - Offenders of particular concern
+    - [s. 7 Special custodial sentence for certain offenders of particular concern: England and Wales](section/7.md)
+    - [s. 8 Sentence with fixed licence period: Scotland](section/8.md)
+    - [s. 9 Sentence with fixed licence period: Northern Ireland](section/9.md)
+    - [s. 10 Corresponding provision under service law](section/10.md)
+  - Whole life order: murder of police, prison or probation officer
+    - [s. 11 Whole life order: murder of police, prison or probation officer](section/11.md)
+  - Rehabilitation activity requirement
+    - [s. 12 Removal of requirement to specify maximum number of days](section/12.md)
+    - [s. 13 Rehabilitation activity requirement renamed probation requirement](section/13.md)
+  - New community order requirements and community requirements
+    - [s. 14 Driving prohibition requirement](section/14.md)
+    - [s. 15 Public event attendance prohibition requirement](section/15.md)
+    - [s. 16 Drinking establishment entry prohibition requirement](section/16.md)
+    - [s. 17 Restriction zone requirement](section/17.md)
+    - [s. 18 Power to add or alter requirements](section/18.md)
+  - Sentencing Council for England and Wales
+    - [s. 19 Sentencing Council business plan](section/19.md)
+    - [s. 20 Sentencing guidelines](section/20.md)
+  - Prison capacity report
+    - [s. 21 Annual report relating to prison capacity](section/21.md)
+  - Court transcripts
+    - [s. 22 Provision of transcripts of sentencing remarks to victims](section/22.md)
+- Part 2 Management of offenders after sentencing
+  - Release
+    - [s. 23 Release](section/23.md)
+    - [s. 24 Release: consequential amendments relating to driving disqualification](section/24.md)
+    - [s. 25 Release on licence of certain violent or sexual offenders: service offences](section/25.md)
+    - [s. 26 Limitation of provisions about home detention curfew](section/26.md)
+  - Licences
+    - [s. 27 Licence conditions](section/27.md)
+    - [s. 28 Licence conditions: offenders sentenced under repealed armed forces legislation](section/28.md)
+  - Recall and further release
+    - [s. 29 Power to make provision about recall to prison](section/29.md)
+    - [s. 30 Further release after recall: introductory](section/30.md)
+    - [s. 31 Further release after recall: relevant young offenders suitable for automatic release](section/31.md)
+    - [s. 32 Further release after recall: other offenders eligible for automatic release](section/32.md)
+    - [s. 33 Further release after recall: supplementary](section/33.md)
+  - Removal of requirement for supervision after sentence
+    - [s. 34 Repeal of provisions relating to supervision after end of sentence](section/34.md)
+  - Early removal of prisoners liable to removal from the United Kingdom
+    - [s. 35 Early removal of prisoners liable to removal from United Kingdom](section/35.md)
+  - Community order requirements and community requirements
+    - [s. 36 Removal of maximum period for unpaid work requirement](section/36.md)
+    - [s. 37 Number of hours of work required by unpaid work requirement](section/37.md)
+    - [s. 38 Termination of community order](section/38.md)
+    - [s. 39 Termination of supervision period of suspended sentence order](section/39.md)
+  - Parole Board rules
+    - [s. 40 Rules about the proceedings of the Parole Board](section/40.md)
+  - Repatriated prisoners
+    - [s. 41 Application of provisions about release etc to certain repatriated prisoners](section/41.md)
+  - Sentences of imprisonment or detention for public protection
+    - [s. 42 Imprisonment or detention for public protection: termination of licences](section/42.md)
+    - [s. 43 Powers of High Court on referral](section/43.md)
+- Part 3 Bail
+  - [s. 44 Amendments to Bail Act 1976](section/44.md)
+- Part 4 Foreign criminals
+  - [s. 45 Deportation of foreign criminals](section/45.md)
+- Part 5 General
+  - [s. 46 Power to make consequential provision](section/46.md)
+  - [s. 47 Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act](section/47.md)
+  - [s. 48 Extent](section/48.md)
+  - [s. 49 Commencement](section/49.md)
+  - [s. 50 Short title](section/50.md)
+- Schedule 1 Presumption of suspended sentence order: consequential provision
+  - [Sch. 1 para. 1 Firearms Act 1968](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Proceeds of Crime Act 2002](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Armed Forces Act 2006](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Sentencing Act 2020](schedule/1/paragraph/4.md)
+- Schedule 2 Sentence with fixed licence period in Scotland or Northern Ireland: consequential provision
+  - Part 1 Scotland
+    - [Sch. 2 para. 1 Rehabilitation of Offenders Act 1974](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Prisons (Scotland) Act 1989](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Prisoners and Criminal Proceedings (Scotland) Act 1993](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Repatriation of Prisoners Act 1984](schedule/2/paragraph/4.md)
+  - Part 2 Northern Ireland
+    - [Sch. 2 para. 5 Criminal Justice (Northern Ireland) Order 2008](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Repatriation of Prisoners Act 1984](schedule/2/paragraph/6.md)
+- Schedule 3 Corresponding provision about sentencing under service law: sentences for offenders of particular concern
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- Schedule 4 Offences where offender not eligible for automatic release under section 255BA after recall
+- Schedule 5 Repeal of provisions relating to supervision after end of sentence: consequential provision
+  - Part 1 Amendments consequential on repeals made by section 34
+    - [Sch. 5 para. 1 Crime (Sentences) Act 1997](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Crime (Sentences) Act 1997](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Crime (Sentences) Act 1997](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Crime (Sentences) Act 1997](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Crime (Sentences) Act 1997](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Crime (Sentences) Act 1997](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Crime (Sentences) Act 1997](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8 Crime and Disorder Act 1998](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Criminal Justice Act 2003](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Offender Management Act 2007](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11 Sentencing Code](schedule/5/paragraph/11.md)
+  - Part 2 Repeal of provision which inserts or amends provision repealed by section 34 or Part 1 of this Schedule
+    - [Sch. 5 para. 12 Offender Rehabilitation Act 2014](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13 Criminal Justice and Courts Act 2015](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14 Sentencing Act 2020](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15 Terrorist Offenders (Restriction of Early Release) Act 2020](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16 Police, Crime, Sentencing and Courts Act 2022](schedule/5/paragraph/16.md)
