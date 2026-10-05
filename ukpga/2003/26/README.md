@@ -1,0 +1,408 @@
+# Local Government Act 2003
+
+2003 c. 26. Enacted 2003-09-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 18 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
+
+Source: https://www.legislation.gov.uk/ukpga/2003/26/2026-10-05
+
+## Contents
+
+- Part 1 Capital finance etc and accounts
+  - Chapter 1 Capital finance etc
+    - Borrowing
+      - [s. 1 Power to borrow](section/1.md)
+      - [s. 2 Control of borrowing](section/2.md)
+      - [s. 3 Duty to determine affordable borrowing limit](section/3.md)
+      - [s. 4 Imposition of borrowing limits](section/4.md)
+      - [s. 5 Temporary borrowing](section/5.md)
+      - [s. 6 Protection of lenders](section/6.md)
+    - Credit arrangements
+      - [s. 7 “Credit arrangements”](section/7.md)
+      - [s. 8 Control of credit arrangements](section/8.md)
+    - Capital receipts
+      - [s. 9 “Capital receipt”](section/9.md)
+      - [s. 10 Non-money receipts](section/10.md)
+      - [s. 11 Use of capital receipts](section/11.md)
+    - Investment
+      - [s. 12 Power to invest](section/12.md)
+    - Risk management: England
+      - [s. 12A Risk-mitigation directions](section/12A.md)
+      - [s. 12B Risk thresholds](section/12B.md)
+      - [s. 12C Restriction of power to give risk-mitigation directions](section/12C.md)
+      - [s. 12D Duty to cooperate with independent expert](section/12D.md)
+    - Miscellaneous
+      - [s. 13 Security for money borrowed etc](section/13.md)
+      - [s. 14 Information](section/14.md)
+    - Supplementary
+      - [s. 15 Guidance](section/15.md)
+      - [s. 16 “Capital expenditure”](section/16.md)
+      - [s. 17 External funds](section/17.md)
+      - [s. 18 Local authority companies etc](section/18.md)
+      - [s. 19 Application to parish and community councils](section/19.md)
+      - [s. 20 Directions](section/20.md)
+  - Chapter 2 Accounts
+    - [s. 21 Accounting practices](section/21.md)
+    - [s. 22 “Revenue account”](section/22.md)
+  - Chapter 3 General
+    - [s. 23 “Local authority”](section/23.md)
+    - [s. 24 Wales](section/24.md)
+- Part 2 Financial administration
+  - [s. 25 Budget calculations: report on robustness of estimates etc](section/25.md)
+  - [s. 26 Minimum reserves](section/26.md)
+  - [s. 27 Budget calculations: report on inadequacy of controlled reserve](section/27.md)
+  - [s. 28 Budget monitoring: general](section/28.md)
+  - [s. 29 Budget monitoring: Greater London Authority](section/29.md)
+  - [s. 30 Authorisation of agreements during the prohibition period](section/30.md)
+- Part 3 Grants etc
+  - Chapter 1 Expenditure grant
+    - [s. 31 Power of Ministers to pay grant](section/31.md)
+    - [s. 32 Application to Greater London Authority](section/32.md)
+    - [s. 32A n1 Power to pay grant to joint committees of London councils](section/32A/n1.md)
+    - [s. 32A Power of strategic authorities to pay grant](section/32A.md)
+    - [s. 32B Application to Mayoral development corporations outside London](section/32B.md)
+    - [s. 33 Interpretation of Chapter 1](section/33.md)
+  - Chapter 2 Other grants etc
+    - [s. 34 Best value grant: parishes](section/34.md)
+    - [s. 35 Best value grant: communities](section/35.md)
+    - [s. 36 Grants in connection with designation for service excellence](section/36.md)
+    - [s. 36A Grants by Ministers of the Crown in respect of best value authorities etc](section/36A.md)
+    - [s. 36B Grants by Welsh Ministers in respect of Welsh principal councils](section/36B.md)
+    - [s. 37 Emergency financial assistance to combined fire authorities](section/37.md)
+    - [s. 38 Local loans](section/38.md)
+    - [s. 39 Payments towards local authority indebtedness](section/39.md)
+    - [s. 40 Local government finance reports: Wales](section/40.md)
+- Part 4 Business improvement districts
+  - BID arrangements
+    - [s. 41 Arrangements with respect to business improvement districts](section/41.md)
+    - [s. 42 Joint arrangements](section/42.md)
+    - [s. 43 Additional contributions and action](section/43.md)
+    - [s. 44 Duty to comply with arrangements](section/44.md)
+  - BID levy
+    - [s. 45 BID levy](section/45.md)
+    - [s. 46 Liability for BID levy](section/46.md)
+  - Administration etc
+    - [s. 47 BID Revenue Account](section/47.md)
+    - [s. 48 Administration of BID levy etc](section/48.md)
+  - Procedure
+    - [s. 49 BID proposals](section/49.md)
+    - [s. 50 Approval in ballot](section/50.md)
+    - [s. 51 Power of veto](section/51.md)
+    - [s. 52 Appeal against veto](section/52.md)
+    - [s. 53 Commencement of BID arrangements](section/53.md)
+  - Miscellaneous
+    - [s. 54 Duration of BID arrangements etc](section/54.md)
+    - [s. 55 Regulations about ballots](section/55.md)
+    - [s. 56 Power to make further provision](section/56.md)
+    - [s. 57 Crown application](section/57.md)
+    - [s. 58 Wales](section/58.md)
+    - [s. 59 Interpretation of Part 4](section/59.md)
+- Part 5 Non-domestic rates
+  - [s. 60 Submission of proposed rating lists](section/60.md)
+  - [s. 61 Small business relief](section/61.md)
+  - [s. 62 Calculation of non-domestic rating multiplier](section/62.md)
+  - [s. 63 Rural settlement lists etc](section/63.md)
+  - [s. 64 Relief for registered community amateur sports clubs](section/64.md)
+  - [s. 65 Transitional relief](section/65.md)
+  - [s. 66 Rating of meters](section/66.md)
+  - [s. 67 Exemptions for agricultural buildings](section/67.md)
+  - [s. 68 Exemption for places of religious worship](section/68.md)
+  - [s. 69 Removal of power to prescribe rateable values](section/69.md)
+  - [s. 70 Local retention of rates](section/70.md)
+  - [s. 71 Adjustments for hardship relief](section/71.md)
+  - [s. 72 Provision of information](section/72.md)
+  - [s. 73 Interpretation of Part 5](section/73.md)
+- Part 6 Council tax
+  - Liability and amount of tax
+    - [s. 74 Exception of students from joint and several liability](section/74.md)
+    - [s. 75 Second and empty homes](section/75.md)
+    - [s. 76 Billing authority’s power to reduce amount of tax payable](section/76.md)
+  - Valuation lists and bands
+    - [s. 77 Statutory revaluation cycle](section/77.md)
+    - [s. 78 Power to change number of valuation bands](section/78.md)
+    - [s. 79 Transitional arrangements](section/79.md)
+  - Enforcement
+    - [s. 80 Amendments relating to distress](section/80.md)
+    - [s. 81 Charging orders: aggregation](section/81.md)
+    - [s. 82 Quashing of liability orders](section/82.md)
+  - Other
+    - [s. 83 Major precepting authorities: combined fire authorities](section/83.md)
+    - [s. 84 Amendment of section 67 of the Local Government Finance Act 1992](section/84.md)
+    - [s. 85 Vacant dwellings: use of information obtained for council tax purposes](section/85.md)
+    - [s. 86 Repeal of section 31 of the Local Government Act 1999](section/86.md)
+- Part 7 Housing finance etc
+  - [s. 87 Housing strategies and statements](section/87.md)
+  - [s. 88 Housing Revenue Account business plans](section/88.md)
+  - [s. 89 Housing Revenue Account subsidy: payment and calculation](section/89.md)
+  - [s. 90 Housing Revenue Account subsidy: negative amounts](section/90.md)
+  - [s. 91 Housing Revenue Accounts etc: adaptation of enactments](section/91.md)
+  - [s. 92 Local housing authority houses: rents](section/92.md)
+- Part 8 Miscellaneous and general
+  - Chapter 1 Miscellaneous
+    - Charging and trading
+      - [s. 93 Power to charge for discretionary services](section/93.md)
+      - [s. 94 Power to disapply section 93(1)](section/94.md)
+      - [s. 95 Power to trade in function-related activities through a company](section/95.md)
+      - [s. 96 Regulation of trading powers](section/96.md)
+      - [s. 97 Power to modify enactments in connection with charging or trading](section/97.md)
+      - [s. 98 Procedure for orders under section 97: England](section/98.md)
+      - [s. 98A Procedure for orders under section 97: Wales](section/98A.md)
+    - Performance categories
+      - [s. 99 Categorisation of English local authorities by reference to performance](section/99.md)
+      - [s. 100 Exercise of powers by reference to authorities’ performance categories](section/100.md)
+    - Contracting-out
+      - [s. 101 Staff transfer matters: general](section/101.md)
+      - [s. 102 Staff transfer matters: pensions](section/102.md)
+    - 2004 local government elections
+      - [s. 103 Power to change date of elections in England](section/103.md)
+      - [s. 104 Power to change date of elections in Wales](section/104.md)
+    - Valuation Tribunal Service
+      - [s. 105 The Valuation Tribunal Service](section/105.md)
+      - [s. 106 Transfer to Service of property, rights and liabilities](section/106.md)
+    - Audit Commission
+      - [s. 107 Auditors’ public interest reports: time allowed for consideration](section/107.md)
+      - [s. 108 Auditors’ public interest reports: publicity](section/108.md)
+      - [s. 109 Registered social landlords](section/109.md)
+      - [s. 110 Financial year](section/110.md)
+      - [s. 111 Delegation](section/111.md)
+    - Other
+      - [s. 112 Standards Board for England: delegation](section/112.md)
+      - [s. 113 Standards committees and monitoring officers: delegation](section/113.md)
+      - [s. 114 Paid time off for councillors not to be political donation](section/114.md)
+      - [s. 115 Overview and scrutiny committees: voting rights of co-opted members](section/115.md)
+      - [s. 116 Local polls](section/116.md)
+      - [s. 117 Generally accepted accounting practice: power to amend enactments](section/117.md)
+      - [s. 118 Appropriate sum under section 137(4) of the Local Government Act 1972](section/118.md)
+      - [s. 119 Use of fixed penalties paid for litter and dog-fouling offences](section/119.md)
+      - [s. 120 Regulation of cosmetic piercing and skin-colouring businesses](section/120.md)
+      - [s. 121 Fire brigade establishment schemes: removal of Secretary of State’s functions](section/121.md)
+      - [s. 122 Repeal of prohibition on promotion of homosexuality](section/122.md)
+  - Chapter 2 General
+    - [s. 123 Orders and regulations](section/123.md)
+    - [s. 124 General interpretation](section/124.md)
+    - [s. 125 Application to Isles of Scilly](section/125.md)
+    - [s. 126 Financial provisions](section/126.md)
+    - [s. 127 Minor and consequential amendments and repeals](section/127.md)
+    - [s. 128 Commencement](section/128.md)
+    - [s. 129 Short title and extent](section/129.md)
+- SCHEDULE 1 Capital finance: parish and community councils and charter trustees
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Borrowing
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Loans
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - “Fixed period”
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Welsh local government finance reports
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Amendment of powers exercisable in relation to local authorities
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Local Government Act 1999 (c. 27)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 The Valuation Tribunal Service
+  - Membership, chairman and deputy chairman
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Disqualification
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Remuneration, pensions, etc of members
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Staff
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Committees
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Proceedings
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Delegation
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Members’ interests
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Vacancies and defective appointments
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Minutes
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Execution and proof of instruments
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Money
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - The Public Records Act 1958 (c. 51)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - The Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - The House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - The Freedom of Information Act 2000 (c. 36)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - The Enterprise Act 2002 (c. 40)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Status
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - Interpretation
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+- SCHEDULE 5 Transfer schemes: further provision
+  - Contents of transfer scheme
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Effect of transfers
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Continuity of employment, etc of transferred employees
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Modification of transfer scheme after appointed day
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Provision of information to Secretary of State
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Consultation
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Stamp duty
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Section 120: transition
+  - Commencement not to affect existing application of section 15 of the 1982 Act
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Commencement not to affect pending resolutions about the application of section 15 of the 1982 Act
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Additional powers of commencement in relation to section 15 of the 1982 Act as amended
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Effect of existing ear-piercing registrations following extension of control to cosmetic piercing
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Interpretation
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Fire Services Act 1947 (c. 41)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Public Works Loans Act 1965 (c. 63)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Public Works Loans Act 1967 (c. 61)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Stock Transfer Act 1982 (c. 41)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Representation of the People Act 1985 (c. 50)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Local Government Act 1988 (c. 9)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+  - Local Government (Wales) Act 1994 (c. 19)
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+  - Deregulation and Contracting Out Act 1994 (c. 40)
+    - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+  - Justices of the Peace Act 1997 (c. 25)
+    - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+    - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+    - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+  - Local Government (Contracts) Act 1997 (c. 65)
+    - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+  - School Standards and Framework Act 1998 (c. 31) and Education Act 2002 (c. 32)
+    - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+    - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+    - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+    - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+    - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+    - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+    - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+    - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+    - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+    - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+  - National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)
+    - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+  - ................................
+    - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+  - Homelessness Act 2002 (c. 7)
+    - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+- SCHEDULE 8 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
