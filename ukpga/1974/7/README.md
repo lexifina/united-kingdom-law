@@ -1,0 +1,173 @@
+# Local Government Act 1974
+
+1974 c. 7. Enacted 1974-02-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 52 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1974/7
+
+Source: https://www.legislation.gov.uk/ukpga/1974/7/2026-10-05
+
+## Contents
+
+- Part I Grants
+  - Rate support grants
+    - [s. 1 Rate support grants.](section/1.md)
+    - [s. 2 Elements of rate support grants.](section/2.md)
+    - [s. 3 Rate support grant orders.](section/3.md)
+    - [s. 4 Variation of rate support grant orders.](section/4.md)
+    - [s. 5 Reduction of grants in case of default.](section/5.md)
+  - Grants for particular purposes
+    - [s. 6 Supplementary grants for transport purposes.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 Specific grants for purposes not covered by rate support grants.](section/8.md)
+    - [s. 9 Grants and loans by the Countryside Council for Wales](section/9.md)
+  - Supplementary
+    - [s. 10 Supplementary provisions for Part I.](section/10.md)
+- Part II Rating
+  - [s. 1114. ................................](section/1114.md)
+  - [s. 1519. ................................](section/1519.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 2122. ................................](section/2122.md)
+- PART 2A Decisions relating to holding of events
+  - [s. 22A Decisions invoking health or safety: notification, reasons and review](section/22A.md)
+- Part III Local Government Administration
+  - [s. 23 The Commissions for Local Administration.](section/23.md)
+  - [s. 23A Annual reports for representatives etc.](section/23A.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 24A Power to investigate](section/24A.md)
+  - [s. 25 Authorities subject to investigation.](section/25.md)
+  - [s. 26 Matters subject to investigation.](section/26.md)
+  - [s. 26A Who can complain](section/26A.md)
+  - [s. 26B Procedure for making complaints](section/26B.md)
+  - [s. 26C Referral of complaints by authorities](section/26C.md)
+  - [s. 26D Matters coming to attention of Local Commissioner](section/26D.md)
+  - [s. 27 Members of the public.](section/27.md)
+  - [s. 28 Procedure in respect of investigations.](section/28.md)
+  - [s. 29 Investigations: further provisions.](section/29.md)
+  - [s. 30 Reports on investigations.](section/30.md)
+  - [s. 31 Reports on investigations: further provisions.](section/31.md)
+  - [s. 31A Consideration of adverse reports.](section/31A.md)
+  - [s. 31B Publication of reports etc by Commissioners](section/31B.md)
+  - [s. 32 Law of defamation, and disclosure of information.](section/32.md)
+  - [s. 32A Use of information by Local Commissioner in other capacity](section/32A.md)
+  - [s. 33 Consultation between Local Commissioner, and other Commissioners and Ombudsmen.](section/33.md)
+  - [s. 33n1 Collaborative working between Local Commissioners and other Commissioners](section/33n1.md)
+  - [s. 33ZB Arrangements for provision of administrative and other services](section/33ZB.md)
+  - [s. 33A Disclosure of information by Local Commissioner to Information Commission.](section/33A.md)
+  - [s. 34 Interpretation of Part III.](section/34.md)
+- Part 3A Investigation of complaints about privately arranged or funded adult social care
+  - Private adult social care: matters subject to investigation
+    - [s. 34A Interpretation: “adult social care provider” and “adult social care”](section/34A.md)
+    - [s. 34B Power to investigate](section/34B.md)
+    - [s. 34C Who can complain](section/34C.md)
+    - [s. 34D Procedure for making complaints](section/34D.md)
+    - [s. 34E Matters coming to attention of Local Commissioner](section/34E.md)
+  - Investigations by a Local Commissioner
+    - [s. 34F Procedure in respect of investigations](section/34F.md)
+    - [s. 34G Investigations: further provisions](section/34G.md)
+  - Statements etc. about investigations
+    - [s. 34H Statements about investigations](section/34H.md)
+    - [s. 34I Adverse findings notices](section/34I.md)
+    - [s. 34J Publication of statements etc. by Local Commissioner](section/34J.md)
+    - [s. 34K Disclosure of information](section/34K.md)
+    - [s. 34L Law of defamation](section/34L.md)
+  - Arrangements with other Commissioners etc.
+    - [s. 34M Consultation with other Commissioners](section/34M.md)
+    - [s. 34N Collaborative working with other Commissioners](section/34N.md)
+    - [s. 34O Disclosure of information by Local Commissioner to Information Commission](section/34O.md)
+    - [s. 34P Disclosure of information by Local Commissioner to Care Quality Commission](section/34P.md)
+  - General
+    - [s. 34Q Arrangements etc. to be made by Commission](section/34Q.md)
+    - [s. 34R Review, recommendations, advice and guidance](section/34R.md)
+    - [s. 34S Annual reports](section/34S.md)
+    - [s. 34T Interpretation of Part 3A](section/34T.md)
+- Part IV Miscellaneous and General
+  - [s. 35 Removal or relaxation of controls affecting certain local authority functions.](section/35.md)
+  - [s. 36 Recovery by local authorities of establishment charges.](section/36.md)
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 Compensation for loss of office: extension of cases for which regulations may provide.](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Expenses.](section/41.md)
+  - [s. 42 Minor and consequential amendments and repeals.](section/42.md)
+  - [s. 43 Short title, commencement, construction, application and extent.](section/43.md)
+- SCHEDULE 1 Termination or Modification of Certain Existing Grants
+  - Part I
+    - [Sch. 1 para. 15.](schedule/1/paragraph/15.md)
+  - Part II Existing Grants for Highways and Public Transport
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part III Existing Grants for Other Specific Purposes
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Elements of Rate Support Grants
+  - Part I The Needs Element
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part II The Domestic Element
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part III The Resources Element
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 ...
+- SCHEDULE 4 The Commission
+  - Disqualifications
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2A](schedule/4/paragraph/2A.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Remuneration, etc.
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Staff and accommodation
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Proceedings of the Commission
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Expenses of the Commission
+    - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 8A](schedule/4/paragraph/8A.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Delegation](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Matters not Subject to Investigation
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+  - [Sch. 5 para. 5B](schedule/5/paragraph/5B.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- Schedule 5A Matters not subject to investigation under Part 3A
+  - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+- SCHEDULE 6 RELAXATION AND REMOVAL OF CONTROLS
+- SCHEDULE 7 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 310.](schedule/7/paragraph/310.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - The Water Act 1973
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - The Breeding of Dogs Act 1973
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Enactments Repealed
