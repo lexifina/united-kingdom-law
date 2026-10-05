@@ -1,0 +1,1029 @@
+# Local Government Act 1972
+
+1972 c. 70. Enacted 1972-10-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 37 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
+
+Source: https://www.legislation.gov.uk/ukpga/1972/70/2026-10-05
+
+## Contents
+
+- Part I Local Government Areas and Authorities in England
+  - New local government areas
+    - [s. 1 New local government areas in England.](section/1.md)
+  - Principal councils
+    - [s. 2 Constitution of principal councils in England.](section/2.md)
+  - Members of principal councils
+    - [s. 3 Chairman.](section/3.md)
+    - [s. 4 Election of chairman.](section/4.md)
+    - [s. 5 Vice-chairman.](section/5.md)
+    - [s. 6 Term of office and retirement of councillors.](section/6.md)
+    - [s. 7 Elections of councillors.](section/7.md)
+    - [s. 8 Constitution and membership of Greater London Council and London borough councils.](section/8.md)
+  - Parishes
+    - [s. 9 Parish meetings and councils.](section/9.md)
+    - [s. 10 Power to dissolve parish councils in small parishes.](section/10.md)
+    - [s. 11 Orders for grouping parishes, dissolving groups and separating parishes from groups.](section/11.md)
+    - [s. 11A Grouping: alternative styles](section/11A.md)
+    - [s. 11B De-grouping: alternative styles](section/11B.md)
+    - [s. 12 Provision supplementary to sections 9 to 11.](section/12.md)
+    - [s. 12A Parishes: alternative styles](section/12A.md)
+    - [s. 12B Groups of parishes: alternative styles](section/12B.md)
+    - [s. 13 Constitution of parish meeting, etc.](section/13.md)
+    - [s. 14 Constitution and powers of parish council.](section/14.md)
+    - [s. 15 Chairman and vice-chairman of parish council or meeting.](section/15.md)
+    - [s. 16 Parish councillors.](section/16.md)
+    - [s. 16A Appointed councillors](section/16A.md)
+    - [s. 17 ................................](section/17.md)
+  - Miscellaneous
+    - [s. 17A Alternative styles: supplementary](section/17A.md)
+    - [s. 18 Establishment of new authorities in England.](section/18.md)
+    - [s. 19 Extent of Part I.](section/19.md)
+- Part II Local Government Areas and Authorities in Wales
+  - New local government areas
+    - [s. 20 New principal local government areas in Wales.](section/20.md)
+  - Principal councils
+    - [s. 21 Constitution of principal councils in Wales.](section/21.md)
+  - Members of principal councils
+    - [s. 22 Chairman.](section/22.md)
+    - [s. 23 Election of chairman.](section/23.md)
+    - [s. 24 Vice-chairman.](section/24.md)
+    - [s. 24A Presiding member](section/24A.md)
+    - [s. 24B Deputy presiding member](section/24B.md)
+    - [s. 25 Term of office and retirement of councillors.](section/25.md)
+    - [s. 25A Title of chairman or vice-chairman of county borough council.](section/25A.md)
+    - [s. 25B Title of civic chair](section/25B.md)
+    - [s. 26 Elections of councillors.](section/26.md)
+  - Communities
+    - [s. 27 Community meetings and continuation of community councils.](section/27.md)
+    - [s. 27A Power of community meeting to apply for an order establishing a community council](section/27A.md)
+    - [s. 27B Orders establishing separate community councils for communities](section/27B.md)
+    - [s. 27C Power of community meeting to apply for an order dissolving its separate community council](section/27C.md)
+    - [s. 27D Orders dissolving separate community councils for communities](section/27D.md)
+    - [s. 27E Power of community meeting to apply for an order grouping its community with other communities under a common community council](section/27E.md)
+    - [s. 27F Orders grouping a community with other communities under a common community council](section/27F.md)
+    - [s. 27G Power of community meeting to apply for an order adding its community to a group of communities with a common council](section/27G.md)
+    - [s. 27H Orders adding a community to a group of communities with a common council](section/27H.md)
+    - [s. 27I Power of council for a group of communities to apply for an order dissolving the group](section/27I.md)
+    - [s. 27J Orders dissolving a group of communities](section/27J.md)
+    - [s. 27K Power of community meeting to apply for an order separating community from a group of communities](section/27K.md)
+    - [s. 27L Orders separating a community from a group of communities](section/27L.md)
+    - [s. 27M Power of Welsh Ministers to alter voting thresholds in connection with organisation of community councils](section/27M.md)
+    - [s. 28 Establishment or dissolution of community councils.](section/28.md)
+    - [s. 29 Community councils for groups of communities.](section/29.md)
+    - [s. 29A Community councils for groups of communities: dissolution.](section/29A.md)
+    - [s. 29B Community councils: applications under section 28, 29 or 29A.](section/29B.md)
+    - [s. 30 Restriction on community applications during and after reviews.](section/30.md)
+    - [s. 31 Provision supplementary to sections 27A to 27L.](section/31.md)
+    - [s. 32 Constitution of community meeting.](section/32.md)
+    - [s. 33 Constitution and powers of community councils.](section/33.md)
+    - [s. 33A Consultation with community councils.](section/33A.md)
+    - [s. 33B Principal council’s response to a community poll](section/33B.md)
+    - [s. 33C Principal council’s explanation of its response to a community poll](section/33C.md)
+    - [s. 34 Chairman and vice-chairman of community council.](section/34.md)
+    - [s. 35 Community councillors.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+  - Miscellaneous
+    - [s. 37 Establishment of principal councils in Wales.](section/37.md)
+    - [s. 38 Extent of Part II.](section/38.md)
+- Part III
+  - [s. 39 ................................](section/39.md)
+- Part IV Changes in Local Government Areas
+  - Proposals by Local Government Boundary Commission for England
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+  - Proposals by Local Government Boundary Commission for Wales
+    - [s. 53 Local Government Boundary Commission for Wales.](section/53.md)
+    - [s. 54 Proposals for changes in local government areas in Wales.](section/54.md)
+    - [s. 55 Review of local government areas in Wales.](section/55.md)
+    - [s. 56 Power of Secretary of State to direct holding of reviews.](section/56.md)
+    - [s. 57 Substantive changes in electoral arrangements.](section/57.md)
+    - [s. 57A Exercise of functions by the Welsh Commission on behalf of principal councils](section/57A.md)
+    - [s. 58 Commission’s reports and their implementation.](section/58.md)
+    - [s. 59 Directions about reviews.](section/59.md)
+  - Conduct of reviews
+    - [s. 60 Procedure for reviews.](section/60.md)
+    - [s. 61 Local inquiries.](section/61.md)
+  - Border between England and Wales
+    - [s. 62 ................................](section/62.md)
+  - Initial reviews
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 Review of electoral arrangements for Welsh principal areas.](section/64.md)
+  - Supplementary provisions
+    - [s. 65 Delegation of functions of Commission.](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 Consequential and transitional arrangements relating to Part IV.](section/67.md)
+    - [s. 68 Transitional agreements as to property and finance.](section/68.md)
+    - [s. 69 Variation and revocation of orders under Part IV, etc.](section/69.md)
+  - Miscellaneous
+    - [s. 70 Restriction on promotion of Bills for changing local government areas, etc.](section/70.md)
+    - [s. 71 Modification of seaward boundaries of local government areas.](section/71.md)
+    - [s. 72 Accretions from the sea, etc.](section/72.md)
+    - [s. 73 Alteration of local boundaries consequent on alteration of water-course.](section/73.md)
+    - [s. 74 Change of name of county, district or London borough.](section/74.md)
+    - [s. 75 Change of name of parish.](section/75.md)
+    - [s. 76 Change of name of community.](section/76.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 Supplementary.](section/78.md)
+- Part V General Provisions as to Members and Proceedings of Local Authorities
+  - Qualifications and disqualifications
+    - [s. 79 Qualifications for election and holding office as member of local authority.](section/79.md)
+    - [s. 80 Disqualifications for election and holding office as member of a local authority in England.](section/80.md)
+    - [s. 80A Disqualification for election or being a member of a local authority in Wales](section/80A.md)
+    - [s. 80B Disqualification for being a member of a local authority in Wales and holding local office or employment](section/80B.md)
+    - [s. 80C Paid office or employment to which disqualification applies](section/80C.md)
+    - [s. 81 Exceptions to provisions of section 80.](section/81.md)
+    - [s. 81A Disqualification relating to sexual offences etc (England)](section/81A.md)
+    - [s. 82 Validity of acts done by unqualified persons.](section/82.md)
+  - Acceptance, resignation and vacation of office, and casual vacancies
+    - [s. 83 Declaration of acceptance of office.](section/83.md)
+    - [s. 84 Resignation.](section/84.md)
+    - [s. 85 Vacation of office by failure to attend meetings.](section/85.md)
+    - [s. 86 Declaration by local authority of vacancy in office in certain cases.](section/86.md)
+    - [s. 87 Date of casual vacancies.](section/87.md)
+    - [s. 88 Filling of casual vacancy in case of chairman, etc.](section/88.md)
+    - [s. 89 Filling of casual vacancies in case of councillors.](section/89.md)
+    - [s. 90 Term of office of persons filling casual vacancies.](section/90.md)
+    - [s. 91 Temporary appointment of members of parish and community councils.](section/91.md)
+  - Proceedings for disqualification
+    - [s. 92 Proceedings for disqualification.](section/92.md)
+  - Restrictions on voting
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 Disability of members of authorities for voting on account of interest in contracts, etc.](section/94.md)
+    - [s. 95 Pecuniary interests for purposes of section 94.](section/95.md)
+    - [s. 96 General notices and recording of disclosures for purposes of section 94.](section/96.md)
+    - [s. 97 Removal or exclusion of disability, etc.](section/97.md)
+    - [s. 98 Interpretation of sections 95 and 97.](section/98.md)
+  - Meetings and proceedings
+    - [s. 99 Meetings and proceedings of local authorities.](section/99.md)
+    - [s. 100 Admission of public and press to local authority committee meetings.](section/100.md)
+- Part VA Access to Meetings and Documents of Certain Authorities, Committees and Sub-Committees.
+  - [s. 100A Admission to meetings of principal councils.](section/100A.md)
+  - [s. 100B Access to agenda and connected reports.](section/100B.md)
+  - [s. 100BA Access to agenda and connected reports: principal councils in Wales](section/100BA.md)
+  - [s. 100C Inspection and publication of minutes and other documents after meetings.](section/100C.md)
+  - [s. 100D Inspection and publication of background papers.](section/100D.md)
+  - [s. 100E Application to committees and sub-committees.](section/100E.md)
+  - [s. 100EA Inspection of records relating to functions exercisable by members](section/100EA.md)
+  - [s. 100F Additional rights of access to documents for members of principal councils.](section/100F.md)
+  - [s. 100G Principal councils to publish additional information.](section/100G.md)
+  - [s. 100H Supplemental provisions and offences.](section/100H.md)
+  - [s. 100I Exempt information and power to vary Schedule 12A.](section/100I.md)
+  - [s. 100J Application to new authorities, Common Council, etc.](section/100J.md)
+  - [s. 100K Interpretation and application of Part VA.](section/100K.md)
+- Part VI Discharge of Functions
+  - [s. 101 Arrangements for discharge of functions by local authorities.](section/101.md)
+  - [s. 102 Appointment of committees.](section/102.md)
+  - [s. 103 Expenses of joint committees.](section/103.md)
+  - [s. 104 Disqualification for membership of committees and joint committees.](section/104.md)
+  - [s. 105 Disability for voting on account of interest in contracts, etc.](section/105.md)
+  - [s. 106 Standing orders.](section/106.md)
+  - [s. 107 Application of foregoing provisions to the Common Council.](section/107.md)
+  - [s. 108 Committees of parish meetings.](section/108.md)
+  - [s. 109 Conferring functions of parish council on parish meeting.](section/109.md)
+  - [s. 110 ................................](section/110.md)
+- Part VII Miscellaneous Powers of Local Authorities
+  - Subsidiary powers
+    - [s. 111 Subsidiary powers of local authorities.](section/111.md)
+  - Staff
+    - [s. 112 Appointment of staff.](section/112.md)
+    - [s. 113 Placing of staff of local authorities at disposal of other local authorities.](section/113.md)
+    - [s. 114 Security to be taken in relation to officers.](section/114.md)
+    - [s. 115 Accountability of officers.](section/115.md)
+    - [s. 116 Members of local authorities in England not to be appointed as officers.](section/116.md)
+    - [s. 116A Members of local authorities in Wales not to be appointed as officers](section/116A.md)
+    - [s. 117 Disclosure by officers of interest in contracts.](section/117.md)
+    - [s. 118 Payment of salary, etc., due to mentally disordered person.](section/118.md)
+    - [s. 119 Payments due to deceased officers.](section/119.md)
+  - Land transactions — principal councils
+    - [s. 120 Acquisition of land by agreement by principal councils.](section/120.md)
+    - [s. 121 Acquisition of land compulsorily by principal councils.](section/121.md)
+    - [s. 122 Appropriation of land by principal councils.](section/122.md)
+    - [s. 123 Disposal of land by principal councils.](section/123.md)
+    - [s. 123A ................................](section/123A.md)
+  - Land transactions—parish and community councils
+    - [s. 124 Acquisition of land by agreement by parish and community councils.](section/124.md)
+    - [s. 125 Compulsory acquisition of land on behalf of parish or community councils.](section/125.md)
+    - [s. 126 Appropriation of land by parish and community councils and by parish meetings.](section/126.md)
+    - [s. 127 Disposal of land held by parishes and communities.](section/127.md)
+  - Land transactions—general provisions
+    - [s. 128 Consents to land transactions by local authorities and protection of purchasers.](section/128.md)
+  - Discharge of statutory trusts
+    - [s. 128A Statutory trust discharge orders](section/128A.md)
+    - [s. 128B Applications for statutory trust discharge orders](section/128B.md)
+    - [s. 128C Applications where land has been divided up](section/128C.md)
+    - [s. 128D The qualifying conditions](section/128D.md)
+    - [s. 128E The new publicity requirements](section/128E.md)
+    - [s. 128F Previous advertisement procedure: co-operation by councils etc and presumption](section/128F.md)
+    - [s. 128G Making statutory trust discharge orders](section/128G.md)
+    - [s. 128H Sections 128A to 128G: interpretation and application to the Crown](section/128H.md)
+    - [s. 129 Payment of purchase or compensation money by one local authority to another.](section/129.md)
+    - [s. 130 Acquisition by local authorities of lands belonging to the Duchy of Lancaster.](section/130.md)
+    - [s. 131 Savings.](section/131.md)
+  - Premises and contracts
+    - [s. 132 Provision of offices, etc. by principal councils.](section/132.md)
+    - [s. 133 Provision of parish and community buildings.](section/133.md)
+    - [s. 134 Use of schoolroom, etc. in parish or community.](section/134.md)
+    - [s. 135 Contracts of local authorities.](section/135.md)
+  - Miscellaneous
+    - [s. 136 Contributions towards expenditure on concurrent functions.](section/136.md)
+    - [s. 137 Power of local authorities to incur expenditure for certain purposes not otherwise authorised.](section/137.md)
+    - [s. 137A Financial assistance to be conditional on provision of information.](section/137A.md)
+    - [s. 138 Powers of principal councils with respect to emergencies or disasters.](section/138.md)
+    - [s. 138A Prayers and other observances](section/138A.md)
+    - [s. 138B Involvement with religious events and events connected with a belief](section/138B.md)
+    - [s. 138C Application of sections 138A and 138B to other authorities](section/138C.md)
+    - [s. 139 Acceptance of gifts of property.](section/139.md)
+    - [s. 140 Insurance by local authorities against accidents to members.](section/140.md)
+    - [s. 140A Insurance of voluntary assistants of local authorities.](section/140A.md)
+    - [s. 140B Insurance of voluntary assistants of probation committee.](section/140B.md)
+    - [s. 140C Provisions supplementary to sections 140A, 140B.](section/140C.md)
+    - [s. 140D Application of sections 140, 140A and 140C to corporate joint committees](section/140D.md)
+    - [s. 141 Research and the collection of information.](section/141.md)
+    - [s. 142 Provision of information, etc., relating to matters affecting local government.](section/142.md)
+    - [s. 143 Subscriptions to local government associations.](section/143.md)
+    - [s. 144 Power to encourage visitors and provide conference and other facilities.](section/144.md)
+    - [s. 145 Provision of entertainments.](section/145.md)
+    - [s. 146 Transfer of securities on alteration of area, etc.](section/146.md)
+    - [s. 146A Joint Authorities and Inner London Education Authority.](section/146A.md)
+- Part VIII Finance
+  - Expenses and receipts
+    - [s. 147 ................................](section/147.md)
+    - [s. 148 Principal councils’ funds and accounts.](section/148.md)
+    - [s. 149 ................................](section/149.md)
+    - [s. 150 Expenses of parish and community councils.](section/150.md)
+    - [s. 151 Financial administration.](section/151.md)
+    - [s. 152 Revenues from undertakings.](section/152.md)
+    - [s. 153 Application of capital money on disposal of land.](section/153.md)
+    - [s. 154 ................................](section/154.md)
+  - Miscellaneous provisions as to finance and rating
+    - [s. 168 Local financial returns.](section/168.md)
+    - [s. 169 Initial expenses of new authorities.](section/169.md)
+    - [s. 170 ................................](section/170.md)
+    - [s. 171 ................................](section/171.md)
+    - [s. 172 Miscellaneous amendments of enactments relating to finance and rating.](section/172.md)
+  - Allowances to members of local authorities and other bodies
+    - [s. 173 Attendance allowance and financial loss allowance.](section/173.md)
+    - [s. 173A Right to opt for financial loss allowance.](section/173A.md)
+    - [s. 174 Travelling allowance and subsistence allowance.](section/174.md)
+    - [s. 175 Allowances for attending conferences and meetings.](section/175.md)
+    - [s. 176 Payment of expenses of official and courtesy visits, etc.](section/176.md)
+    - [s. 177 Provisions supplementary to sections 173 to 176.](section/177.md)
+    - [s. 177A ................................](section/177A.md)
+    - [s. 178 Regulations as to allowances.](section/178.md)
+- Part IX Functions
+  - General
+    - [s. 179 General provision for transfer of functions.](section/179.md)
+  - The environment
+    - [s. 180 Public health.](section/180.md)
+    - [s. 181 Water and sewerage.](section/181.md)
+    - [s. 182 Town and Country Planning.](section/182.md)
+    - [s. 183 ................................](section/183.md)
+    - [s. 184 National Park and countryside functions.](section/184.md)
+    - [s. 185 Town development.](section/185.md)
+    - [s. 186 Traffic and transportation functions.](section/186.md)
+    - [s. 187 Local highway authorities and maintenance powers of district councils.](section/187.md)
+    - [s. 188 ................................](section/188.md)
+    - [s. 189 Commons.](section/189.md)
+    - [s. 190 Sites for gipsy encampments.](section/190.md)
+    - [s. 191 Ordnance survey.](section/191.md)
+  - Education, social and welfare services
+    - [s. 192 ................................](section/192.md)
+    - [s. 193 ................................](section/193.md)
+    - [s. 195 Social services functions.](section/195.md)
+  - Miscellaneous functions
+    - [s. 196 ................................](section/196.md)
+    - [s. 197 Fire services.](section/197.md)
+    - [s. 198 ................................](section/198.md)
+    - [s. 200 ................................](section/200.md)
+    - [s. 201 ................................](section/201.md)
+    - [s. 202 Public transport in passenger transport areas.](section/202.md)
+    - [s. 203 ................................](section/203.md)
+    - [s. 204 Licensing: licensed premises, cinemas, theatres and refreshment houses.](section/204.md)
+    - [s. 205 ................................](section/205.md)
+    - [s. 206 Public libraries and museums (England).](section/206.md)
+    - [s. 207 ................................](section/207.md)
+    - [s. 208 Amendments of Public Libraries and Museums Act 1964.](section/208.md)
+    - [s. 209 ................................](section/209.md)
+    - [s. 210 Charities.](section/210.md)
+    - [s. 211 Welsh Church funds.](section/211.md)
+    - [s. 212 ................................](section/212.md)
+    - [s. 213 Local licence duties.](section/213.md)
+    - [s. 214 Cemeteries and crematoria.](section/214.md)
+    - [s. 215 Maintenance of a closed churchyard.](section/215.md)
+- Part X Judicial and Related Matters
+  - [s. 216 Adaptation of law relating to old counties.](section/216.md)
+  - [s. 217](section/217.md)
+  - [s. 218 ................................](section/218.md)
+  - [s. 219 Sheriffs and under-sheriffs.](section/219.md)
+  - [s. 220 ................................](section/220.md)
+  - [s. 221 Abolition of borough civil courts.](section/221.md)
+- Part XI General Provisions as to Local Authorities
+  - Legal proceedings
+    - [s. 222 Power of local authorities to prosecute or defend legal proceedings.](section/222.md)
+    - [s. 223 Appearance of local authorities in legal proceedings.](section/223.md)
+  - Documents and notices, etc.
+    - [s. 224 Arrangements by principal councils for custody of documents.](section/224.md)
+    - [s. 225 Deposit of documents with proper officer of authority, etc.](section/225.md)
+    - [s. 226 Custody of parish and community documents.](section/226.md)
+    - [s. 227 Provision of depositories for parish and community documents.](section/227.md)
+    - [s. 228 Inspection of documents.](section/228.md)
+    - [s. 229 Photographic copies of documents.](section/229.md)
+    - [s. 230 Reports and returns.](section/230.md)
+    - [s. 231 Service of notices on local authorities, etc.](section/231.md)
+    - [s. 232 Public notices.](section/232.md)
+    - [s. 233 Service of notices by local authorities.](section/233.md)
+    - [s. 234 Authentication of documents.](section/234.md)
+  - Byelaws
+    - [s. 235 Power of councils to make byelaws for good rule and government and suppression of nuisances.](section/235.md)
+    - [s. 236 Procedure etc., for byelaws.](section/236.md)
+    - [s. 236A Alternative procedure for certain byelaws](section/236A.md)
+    - [s. 236B Revocation of byelaws](section/236B.md)
+    - [s. 237 Offences against byelaws.](section/237.md)
+    - [s. 237ZA Section 235 byelaws: powers of seizure etc](section/237ZA.md)
+    - [s. 237A Fixed penalty notices](section/237A.md)
+    - [s. 237B Amount of fixed penalty](section/237B.md)
+    - [s. 237C Power to require name and address in connection with fixed penalty](section/237C.md)
+    - [s. 237D Use of fixed penalty receipts](section/237D.md)
+    - [s. 237E Guidance relating to sections 236A and 237A to 237D](section/237E.md)
+    - [s. 237F Further provision about regulations and orders under section 237A or 237B](section/237F.md)
+    - [s. 238 Evidence of byelaws.](section/238.md)
+  - Miscellaneous provisions
+    - [s. 239 Power to promote or oppose local or personal Bills.](section/239.md)
+    - [s. 240 Provisional orders and orders subject to special parliamentary procedure.](section/240.md)
+    - [s. 241 Power to apply provisions of Act to joint boards, etc.](section/241.md)
+    - [s. 242 Effect of inaccurate description.](section/242.md)
+    - [s. 243 Computation of time and timing of elections, etc.](section/243.md)
+    - [s. 244 Saving of transfer of certain powers under local Acts from Treasury to Secretary of State.](section/244.md)
+    - [s. 244A Application of this Part to the London Fire Commissioner](section/244A.md)
+- Part XII Miscellaneous and General
+  - Status, etc.
+    - [s. 245 Status of certain districts, parishes and communities.](section/245.md)
+    - [s. 245A Change of status of Welsh county to county borough.](section/245A.md)
+    - [s. 245B Community having the status of a town.](section/245B.md)
+    - [s. 246 Preservation of powers, privileges and rights of existing cities or boroughs.](section/246.md)
+    - [s. 247 Transfer of armorial bearings from old to new authorities.](section/247.md)
+    - [s. 248 Freemen and inhabitants of existing boroughs.](section/248.md)
+    - [s. 249 Honorary titles.](section/249.md)
+  - Inquiries
+    - [s. 250 Power to direct inquiries.](section/250.md)
+  - General
+    - [s. 251 Consequential and minor modifications and amendments.](section/251.md)
+    - [s. 252 General power to adapt Acts and instruments.](section/252.md)
+    - [s. 253 Transfer of powers of certain public bodies.](section/253.md)
+    - [s. 254 Consequential and supplementary provision.](section/254.md)
+    - [s. 255 Transfer of officers.](section/255.md)
+    - [s. 256 Continuity of employment in cases of voluntary transfer.](section/256.md)
+    - [s. 257 Staff commission for England.](section/257.md)
+    - [s. 258 Staff commission for Wales.](section/258.md)
+    - [s. 259 Compensation for loss of office.](section/259.md)
+    - [s. 260 Provision for early retirement in lieu of compensation for loss of office.](section/260.md)
+    - [s. 261 Remuneration of employees of existing local authorities outside Greater London.](section/261.md)
+    - [s. 262 Local Acts and instruments.](section/262.md)
+    - [s. 263 Existing joint boards and committees and port health districts.](section/263.md)
+    - [s. 264 ................................](section/264.md)
+    - [s. 265 Application of Act to Isles of Scilly.](section/265.md)
+    - [s. 265A Application in relation to the Broads Authority.](section/265A.md)
+    - [s. 266 Orders, rules and regulations.](section/266.md)
+    - [s. 267 Expenses.](section/267.md)
+    - [s. 268 ................................](section/268.md)
+    - [s. 269 Meaning of “England” and “Wales”.](section/269.md)
+    - [s. 270 General provisions as to interpretation.](section/270.md)
+    - [s. 271 Savings.](section/271.md)
+    - [s. 272 Repeals.](section/272.md)
+    - [s. 273 Commencement.](section/273.md)
+    - [s. 274 Short title and extent.](section/274.md)
+- SCHEDULE 1 Counties and Metropolitan Districts in England
+  - Part III Rules as to Boundaries
+    - [Sch. 1 Pt. III para. 1](schedule/1/part/III/paragraph/1.md)
+    - [Sch. 1 Pt. III para. 2](schedule/1/part/III/paragraph/2.md)
+    - [Sch. 1 Pt. III para. 3](schedule/1/part/III/paragraph/3.md)
+    - [Sch. 1 Pt. III para. 4](schedule/1/part/III/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part IV Divided Parishes
+    - [Sch. 1 Pt. IV para. 1](schedule/1/part/IV/paragraph/1.md)
+    - [Sch. 1 Pt. IV para. 2](schedule/1/part/IV/paragraph/2.md)
+    - [Sch. 1 Pt. IV para. 3](schedule/1/part/IV/paragraph/3.md)
+    - [Sch. 1 Pt. IV para. 4](schedule/1/part/IV/paragraph/4.md)
+  - Part V Constitution of Parishes by Reference to existing Urban District and Borough Boundaries
+    - [Sch. 1 Pt. V para. 1](schedule/1/part/V/paragraph/1.md)
+    - [Sch. 1 Pt. V para. 2](schedule/1/part/V/paragraph/2.md)
+    - [Sch. 1 Pt. V para. 3](schedule/1/part/V/paragraph/3.md)
+    - [Sch. 1 Pt. V para. 4](schedule/1/part/V/paragraph/4.md)
+- SCHEDULE 2 Constitution and Membership of Greater London Council and London Borough Councils
+  - Part I
+    - Constitution
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Chairman and mayor
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Election of chairman and mayor
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Power of mayor of London borough to appoint deputy
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Modifications of preceding provisions
+      - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+      - [Sch. 2 para. 5B](schedule/2/paragraph/5B.md)
+      - [Sch. 2 para. 5C](schedule/2/paragraph/5C.md)
+      - [Sch. 2 para. 5D](schedule/2/paragraph/5D.md)
+      - [Sch. 2 para. 5E](schedule/2/paragraph/5E.md)
+      - [Sch. 2 para. 5F](schedule/2/paragraph/5F.md)
+      - [Sch. 2 para. 5G](schedule/2/paragraph/5G.md)
+      - [Sch. 2 para. 5H](schedule/2/paragraph/5H.md)
+      - [Sch. 2 para. 5I](schedule/2/paragraph/5I.md)
+    - Term of office and retirement of councillors
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Electoral divisions and wards
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Part II
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Establishment of New Authorities in England
+  - Division of non-metropolitan counties into districts
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - County and district councillors
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - First elections and meetings of new councils
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Parish councillors
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Qualification for membership of local authority
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Suspension of elections
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Annual meetings
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Supplementary
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4 Local Government Areas in Wales
+  - PART I Counties
+  - PART II County Boroughs
+  - PART III The Preserved Counties And Their Areas
+  - Part IV
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+- Schedule 5 Establishment of New Principal Councils
+  - Election of councillors
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Electoral divisions
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - First elections of new councils
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Declarations of acceptance of office
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - First meetings of new principal councils
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Qualification for membership
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Suspension of elections
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Appropriate transition committee
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Qualification for membership of local authority
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Suspension of elections
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Annual meetings
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Supplemental
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 ................................
+- SCHEDULE 7 ................................
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Officers and servants, remuneration and expenses
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Proof of documents
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Constitution and Proceedings of the Local Government Boundary Commission for Wales
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Officers and servants, remuneration and expenses
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Proof of documents
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+- SCHEDULE 9 ................................
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10 ................................
+  - Special community reviews
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Review of electoral arrangements for districts, etc.
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Review of electoral arrangements for counties
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - Supplemental
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+- SCHEDULE 11 Rules to be Observed in Considering Electoral Arrangements
+  - Counties
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Welsh counties and county boroughs
+    - [Sch. 11 para. 1A](schedule/11/paragraph/1A.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Districts and London boroughs
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Parishes and communities
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+- SCHEDULE 12 Meetings and Proceedings of Local Authorities
+  - Part I Principal Councils
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 4A](schedule/12/paragraph/4A.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 6ZA](schedule/12/paragraph/6ZA.md)
+  - Part IA Joint Authorities and Inner London Education Authority
+    - [Sch. 12 para. 6A](schedule/12/paragraph/6A.md)
+    - [Sch. 12 para. 6B](schedule/12/paragraph/6B.md)
+  - Part II Parish Councils
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Part III Parish Meetings
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+  - Part IV Community Councils
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 26ZA](schedule/12/paragraph/26ZA.md)
+    - [Sch. 12 para. 26A](schedule/12/paragraph/26A.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 27A](schedule/12/paragraph/27A.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 29A](schedule/12/paragraph/29A.md)
+  - Part V Community Meetings
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 30A](schedule/12/paragraph/30A.md)
+    - [Sch. 12 para. 30B](schedule/12/paragraph/30B.md)
+    - [Sch. 12 para. 30C](schedule/12/paragraph/30C.md)
+    - [Sch. 12 para. 30D](schedule/12/paragraph/30D.md)
+    - [Sch. 12 para. 30E](schedule/12/paragraph/30E.md)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+    - [Sch. 12 para. 36A](schedule/12/paragraph/36A.md)
+    - [Sch. 12 para. 36BA](schedule/12/paragraph/36BA.md)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 38A](schedule/12/paragraph/38A.md)
+    - [Sch. 12 para. 38B](schedule/12/paragraph/38B.md)
+  - Part VI Provisions Relating to Local Authorities Generally
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+    - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+    - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+    - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+- SCHEDULE 12A ACCESS TO INFORMATION: EXEMPT INFORMATION
+  - PART 1 DESCRIPTIONS OF EXEMPT INFORMATION: ENGLAND
+    - [Sch. 12A para. 1](schedule/12A/paragraph/1.md)
+    - [Sch. 12A para. 2](schedule/12A/paragraph/2.md)
+    - [Sch. 12A para. 3](schedule/12A/paragraph/3.md)
+    - [Sch. 12A para. 4](schedule/12A/paragraph/4.md)
+    - [Sch. 12A para. 5](schedule/12A/paragraph/5.md)
+    - [Sch. 12A para. 6](schedule/12A/paragraph/6.md)
+    - [Sch. 12A para. 7](schedule/12A/paragraph/7.md)
+  - PART 2 QUALIFICATIONS: ENGLAND
+    - [Sch. 12A para. 8](schedule/12A/paragraph/8.md)
+    - [Sch. 12A para. 9](schedule/12A/paragraph/9.md)
+    - [Sch. 12A para. 10](schedule/12A/paragraph/10.md)
+  - PART 3 INTERPRETATION: ENGLAND
+    - [Sch. 12A para. 11](schedule/12A/paragraph/11.md)
+  - PART 4 DESCRIPTIONS OF EXEMPT INFORMATION: WALES
+    - [Sch. 12A para. 12](schedule/12A/paragraph/12.md)
+    - [Sch. 12A para. 13](schedule/12A/paragraph/13.md)
+    - [Sch. 12A para. 14](schedule/12A/paragraph/14.md)
+    - [Sch. 12A para. 15](schedule/12A/paragraph/15.md)
+    - [Sch. 12A para. 16](schedule/12A/paragraph/16.md)
+    - [Sch. 12A para. 17](schedule/12A/paragraph/17.md)
+    - [Sch. 12A para. 18](schedule/12A/paragraph/18.md)
+  - PART 5 QUALIFICATIONS: WALES
+    - [Sch. 12A para. 19](schedule/12A/paragraph/19.md)
+    - [Sch. 12A para. 20](schedule/12A/paragraph/20.md)
+    - [Sch. 12A para. 21](schedule/12A/paragraph/21.md)
+  - PART 6 INTERPRETATION: WALES
+    - [Sch. 12A para. 22](schedule/12A/paragraph/22.md)
+- SCHEDULE 12B Appropriate sum under section 137(4)
+  - [Sch. 12B para. 1](schedule/12B/paragraph/1.md)
+  - [Sch. 12B para. 2](schedule/12B/paragraph/2.md)
+  - [Sch. 12B para. 3](schedule/12B/paragraph/3.md)
+  - [Sch. 12B para. 4](schedule/12B/paragraph/4.md)
+  - [Sch. 12B para. 5](schedule/12B/paragraph/5.md)
+  - [Sch. 12B para. 6](schedule/12B/paragraph/6.md)
+  - [Sch. 12B para. 7](schedule/12B/paragraph/7.md)
+- SCHEDULE 13 Loans and Other Financial Provisions
+  - Part I
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Part II Amendments with Respect to Finance and Rating
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - The Rural Water Supplies and Sewerage Act 1944
+      - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - Parish Councils Act 1957
+      - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+      - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+      - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - The General Rate Act 1967
+      - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+      - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+- SCHEDULE 14 Amendment and Modification of Public Health Acts, Etc.
+  - Part I The Public Health Act 1936
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+  - Part II Other Enactments
+    - Public Health Acts 1875 to 1925
+      - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+      - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+      - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+      - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+      - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+      - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+      - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+      - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+      - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+      - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+      - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - The Parish Councils Act 1957
+      - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - The Public Health Act 1961
+      - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+      - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+      - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+      - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+      - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+      - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+      - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+      - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - The Local Government Act 1966
+      - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+      - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+      - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+      - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - The Deposit of Poisonous Waste Act 1972
+      - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+- SCHEDULE 15
+  - The Public Health Act 1936
+    - [Sch. 15 para. 1 ................................](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - The Water Act 1945
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+- SCHEDULE 16 Functions Under, and Amendment and Modification of, Enactments Relating to Town and Country Planning
+  - Part I Town and Country Planning Act 1971
+    - Structure and local plans
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+      - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+      - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+  - Part II Other Enactments
+    - [Sch. 16 para. 54](schedule/16/paragraph/54.md)
+    - The Land Compensation Act 1961
+      - [Sch. 16 para. 55](schedule/16/paragraph/55.md)
+      - [Sch. 16 para. 56](schedule/16/paragraph/56.md)
+      - [Sch. 16 para. 57](schedule/16/paragraph/57.md)
+  - Part III
+    - [Sch. 16 para. 58](schedule/16/paragraph/58.md)
+- SCHEDULE 17 Functions with Respect to National Parks and the Countryside
+  - Part I ................................
+    - Planning Boards and National Park Committees
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+      - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
+      - [Sch. 17 para. 3B](schedule/17/paragraph/3B.md)
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+      - [Sch. 17 para. 12A](schedule/17/paragraph/12A.md)
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - National Park Officer
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - National Parks Plans
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - Interpretation
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+      - [Sch. 17 para. 21A](schedule/17/paragraph/21A.md)
+    - Construction of References to the Countryside Commission
+      - [Sch. 17 para. 21B](schedule/17/paragraph/21B.md)
+  - Part II Survey of Public Paths, Etc.
+    - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+    - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+    - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+    - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+    - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+    - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+    - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+  - Part III Miscellaneous Modifications of 1949 and 1968 Acts
+    - Establishment of nature reserves by local authorities
+      - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+    - Access to open country
+      - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+      - [Sch. 17 para. 35A](schedule/17/paragraph/35A.md)
+      - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+      - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+    - Miscellaneous
+      - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+      - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+      - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
+      - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
+- SCHEDULE 18 AMENDMENTS OF TOWN DEVELOPMENT ACT 1952
+  - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+- SCHEDULE 19 AMENDMENTS OF ENACTMENTS RELATING TO ROAD TRAFFIC AND ABANDONED VEHICLES
+  - PART I THE ROAD TRAFFIC ACT 1972
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - PART II
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - PART III
+    - [Sch. 19 para. 33](schedule/19/paragraph/33.md)
+- SCHEDULE 20 ................................
+- SCHEDULE 21 AMENDMENTS OF ENACTMENTS RELATING TO HIGHWAYS
+  - PART I
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - PART II OTHER ENACTMENTS
+    - [Sch. 21 para. 96](schedule/21/paragraph/96.md)
+    - [Sch. 21 para. 97](schedule/21/paragraph/97.md)
+    - [Sch. 21 para. 98](schedule/21/paragraph/98.md)
+    - [Sch. 21 para. 99](schedule/21/paragraph/99.md)
+- SCHEDULE 22 ................................
+- SCHEDULE 23 AMENDMENTS OF ENACTMENTS CONFERRING SOCIAL SERVICES FUNCTIONS
+  - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+  - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+  - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+  - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+  - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+  - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+  - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+  - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+- SCHEDULE 24 Amendments of Transport Act 1968, Part II
+  - Part I Amendments of General Application
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+    - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
+    - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
+    - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+    - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+  - Part II
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+- SCHEDULE 25 Amendments of Licensing Enactments
+  - Part I Amendments of Licensing Act 1964
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+    - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+    - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+  - Part II
+    - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+- SCHEDULE 26 Cemeteries and Crematoria
+  - Discharge of functions of burial authorities
+    - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+    - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+    - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+    - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+    - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+    - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+    - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+    - [Sch. 26 para. 8](schedule/26/paragraph/8.md)
+    - [Sch. 26 para. 9](schedule/26/paragraph/9.md)
+  - Provision and management of cemeteries
+    - [Sch. 26 para. 10](schedule/26/paragraph/10.md)
+    - [Sch. 26 para. 11](schedule/26/paragraph/11.md)
+    - [Sch. 26 para. 12](schedule/26/paragraph/12.md)
+    - [Sch. 26 para. 14](schedule/26/paragraph/14.md)
+  - Saving, amendments and modifications of enactments
+    - [Sch. 26 para. 15](schedule/26/paragraph/15.md)
+    - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
+    - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+    - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
+    - [Sch. 26 para. 24](schedule/26/paragraph/24.md)
+    - [Sch. 26 para. 25](schedule/26/paragraph/25.md)
+- SCHEDULE 27
+  - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+  - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+  - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+  - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+  - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+  - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+  - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+  - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+- SCHEDULE 28
+- SCHEDULE 28A Amendment of laws relating to freedoms of cities and towns
+  - Introductory
+    - [Sch. 28A para. 1](schedule/28A/paragraph/1.md)
+  - Powers to amend law in respect of women and civil partners
+    - [Sch. 28A para. 2](schedule/28A/paragraph/2.md)
+  - Power to amend royal charters
+    - [Sch. 28A para. 3](schedule/28A/paragraph/3.md)
+  - Powers to amend laws established by custom
+    - [Sch. 28A para. 4](schedule/28A/paragraph/4.md)
+  - Consequential amendments
+    - [Sch. 28A para. 5](schedule/28A/paragraph/5.md)
+    - [Sch. 28A para. 6](schedule/28A/paragraph/6.md)
+  - Qualifying resolutions
+    - [Sch. 28A para. 7](schedule/28A/paragraph/7.md)
+    - [Sch. 28A para. 8](schedule/28A/paragraph/8.md)
+    - [Sch. 28A para. 9](schedule/28A/paragraph/9.md)
+    - [Sch. 28A para. 10](schedule/28A/paragraph/10.md)
+  - Order-making powers: supplementary
+    - [Sch. 28A para. 11](schedule/28A/paragraph/11.md)
+- SCHEDULE 29 Adaptation, Modification and Amendment of Enactments
+  - Part I General Adaptation of Enactments
+    - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+    - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+    - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
+    - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+    - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+    - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
+    - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
+    - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
+  - Part II Particular Modifications and Amendments
+    - Allotments
+      - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
+      - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
+      - [Sch. 29 para. 11](schedule/29/paragraph/11.md)
+    - Ancient monuments
+      - [Sch. 29 para. 12](schedule/29/paragraph/12.md)
+    - Betting and gaming
+      - [Sch. 29 para. 13](schedule/29/paragraph/13.md)
+    - Caravan sites
+      - [Sch. 29 para. 14](schedule/29/paragraph/14.md)
+    - Celluloid and cinematograph film
+      - [Sch. 29 para. 15](schedule/29/paragraph/15.md)
+    - Children and young persons
+      - [Sch. 29 para. 16](schedule/29/paragraph/16.md)
+    - Coast protection
+      - [Sch. 29 para. 17](schedule/29/paragraph/17.md)
+    - Consumer protection
+      - [Sch. 29 para. 18](schedule/29/paragraph/18.md)
+    - Explosives
+      - [Sch. 29 para. 19](schedule/29/paragraph/19.md)
+    - Gas
+      - [Sch. 29 para. 20](schedule/29/paragraph/20.md)
+      - [Sch. 29 para. 21](schedule/29/paragraph/21.md)
+    - House to house and street collections
+      - [Sch. 29 para. 22](schedule/29/paragraph/22.md)
+      - [Sch. 29 para. 23](schedule/29/paragraph/23.md)
+      - [Sch. 29 para. 24](schedule/29/paragraph/24.md)
+    - Land registration
+      - [Sch. 29 para. 26](schedule/29/paragraph/26.md)
+    - Licensing of Places of entertainment
+      - [Sch. 29 para. 27](schedule/29/paragraph/27.md)
+      - [Sch. 29 para. 28](schedule/29/paragraph/28.md)
+      - [Sch. 29 para. 29](schedule/29/paragraph/29.md)
+    - Nurses agencies
+      - [Sch. 29 para. 30](schedule/29/paragraph/30.md)
+    - Offices, shops and railway premises
+      - [Sch. 29 para. 31](schedule/29/paragraph/31.md)
+    - Petroleum spirit
+      - [Sch. 29 para. 32](schedule/29/paragraph/32.md)
+    - Pharmacy and poisons
+      - [Sch. 29 para. 33](schedule/29/paragraph/33.md)
+    - Plant health
+      - [Sch. 29 para. 34](schedule/29/paragraph/34.md)
+    - Police
+      - [Sch. 29 para. 35](schedule/29/paragraph/35.md)
+    - Post and telegraph offices
+      - [Sch. 29 para. 36](schedule/29/paragraph/36.md)
+      - [Sch. 29 para. 37](schedule/29/paragraph/37.md)
+    - Redistribution of seats
+      - [Sch. 29 para. 38](schedule/29/paragraph/38.md)
+      - [Sch. 29 para. 39](schedule/29/paragraph/39.md)
+    - Registration services
+      - [Sch. 29 para. 40](schedule/29/paragraph/40.md)
+      - [Sch. 29 para. 41](schedule/29/paragraph/41.md)
+    - Riding establishments
+      - [Sch. 29 para. 42](schedule/29/paragraph/42.md)
+    - Shops
+      - [Sch. 29 para. 43](schedule/29/paragraph/43.md)
+    - Social services
+      - [Sch. 29 para. 44](schedule/29/paragraph/44.md)
+    - War memorials
+      - [Sch. 29 para. 45](schedule/29/paragraph/45.md)
+      - [Sch. 29 para. 46](schedule/29/paragraph/46.md)
+- SCHEDULE 30 Repeals
