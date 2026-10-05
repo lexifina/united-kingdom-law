@@ -1,0 +1,987 @@
+# Equality Act 2010
+
+2010 c. 15. Enacted 2010-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
+
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
+
+## Contents
+
+- Part 1 Socio-economic inequalities
+  - [s. 1 Public sector duty regarding socio-economic inequalities](section/1.md)
+  - [s. 2 Power to amend section 1](section/2.md)
+  - [s. 3 Enforcement](section/3.md)
+- Part 2 Equality: key concepts
+  - Chapter 1 Protected characteristics
+    - [s. 4 The protected characteristics](section/4.md)
+    - [s. 5 Age](section/5.md)
+    - [s. 6 Disability](section/6.md)
+    - [s. 7 Gender reassignment](section/7.md)
+    - [s. 8 Marriage and civil partnership](section/8.md)
+    - [s. 9 Race](section/9.md)
+    - [s. 10 Religion or belief](section/10.md)
+    - [s. 11 Sex](section/11.md)
+    - [s. 12 Sexual orientation](section/12.md)
+  - Chapter 2 Prohibited conduct
+    - Discrimination
+      - [s. 13 Direct discrimination](section/13.md)
+      - [s. 14 Combined discrimination: dual characteristics](section/14.md)
+      - [s. 15 Discrimination arising from disability](section/15.md)
+      - [s. 16 Gender reassignment discrimination: cases of absence from work](section/16.md)
+      - [s. 17 Pregnancy and maternity discrimination: non-work cases](section/17.md)
+      - [s. 18 Pregnancy and maternity discrimination: work cases](section/18.md)
+      - [s. 19 Indirect discrimination](section/19.md)
+      - [s. 19A Indirect discrimination: same disadvantage](section/19A.md)
+    - Adjustments for disabled persons
+      - [s. 20 Duty to make adjustments](section/20.md)
+      - [s. 21 Failure to comply with duty](section/21.md)
+      - [s. 22 Regulations](section/22.md)
+    - Discrimination: supplementary
+      - [s. 23 Comparison by reference to circumstances](section/23.md)
+      - [s. 24 Irrelevance of alleged discriminator’s characteristics](section/24.md)
+      - [s. 25 References to particular strands of discrimination](section/25.md)
+    - Other prohibited conduct
+      - [s. 26 Harassment](section/26.md)
+      - [s. 27 Victimisation](section/27.md)
+- Part 3 Services and public functions
+  - Preliminary
+    - [s. 28 Application of this Part](section/28.md)
+  - Provision of services, etc.
+    - [s. 29 Provision of services, etc.](section/29.md)
+  - Supplementary
+    - [s. 30 Ships and hovercraft](section/30.md)
+    - [s. 31 Interpretation and exceptions](section/31.md)
+- Part 4 Premises
+  - Preliminary
+    - [s. 32 Application of this Part](section/32.md)
+  - Disposal and management
+    - [s. 33 Disposals, etc.](section/33.md)
+    - [s. 34 Permission for disposal](section/34.md)
+    - [s. 35 Management](section/35.md)
+  - Reasonable adjustments
+    - [s. 36 Leasehold and commonhold premises and common parts](section/36.md)
+    - [s. 37 Adjustments to common parts in Scotland](section/37.md)
+  - Supplementary
+    - [s. 38 Interpretation and exceptions](section/38.md)
+- Part 5 Work
+  - Chapter 1 Employment, etc.
+    - Employees
+      - [s. 39 Employees and applicants](section/39.md)
+      - [s. 40 Employees and applicants: harassment](section/40.md)
+      - [s. 40A Employer duty to prevent sexual harassment of employees](section/40A.md)
+      - [s. 41 Contract workers](section/41.md)
+    - Police officers
+      - [s. 42 Identity of employer](section/42.md)
+      - [s. 43 Interpretation](section/43.md)
+    - Partners
+      - [s. 44 Partnerships](section/44.md)
+      - [s. 45 Limited liability partnerships](section/45.md)
+      - [s. 46 Interpretation](section/46.md)
+    - The Bar
+      - [s. 47 Barristers](section/47.md)
+      - [s. 48 Advocates](section/48.md)
+    - Office-holders
+      - [s. 49 Personal offices: appointments, etc.](section/49.md)
+      - [s. 50 Public offices: appointments, etc.](section/50.md)
+      - [s. 51 Public offices: recommendations for appointments, etc.](section/51.md)
+      - [s. 52 Interpretation and exceptions](section/52.md)
+    - Qualifications
+      - [s. 53 Qualifications bodies](section/53.md)
+      - [s. 54 Interpretation](section/54.md)
+    - Employment services
+      - [s. 55 Employment service-providers](section/55.md)
+      - [s. 56 Interpretation](section/56.md)
+    - Trade organisations
+      - [s. 57 Trade organisations](section/57.md)
+    - Local authority members
+      - [s. 58 Official business of members](section/58.md)
+      - [s. 59 Interpretation](section/59.md)
+    - Recruitment etc
+      - [s. 60 Enquiries about disability and health](section/60.md)
+      - [s. 60A Discriminatory statements](section/60A.md)
+  - Chapter 2 Occupational pension schemes
+    - [s. 61 Non-discrimination rule](section/61.md)
+    - [s. 62 Non-discrimination alterations](section/62.md)
+    - [s. 63 Communications](section/63.md)
+  - Chapter 3 Equality of terms
+    - Sex equality
+      - [s. 64 Relevant types of work](section/64.md)
+      - [s. 65 Equal work](section/65.md)
+      - [s. 66 Sex equality clause](section/66.md)
+      - [s. 67 Sex equality rule](section/67.md)
+      - [s. 68 Sex equality rule: consequential alteration of schemes](section/68.md)
+      - [s. 69 Defence of material factor](section/69.md)
+      - [s. 70 Exclusion of sex discrimination provisions](section/70.md)
+      - [s. 71 Sex discrimination in relation to contractual pay](section/71.md)
+    - Pregnancy and maternity equality
+      - [s. 72 Relevant types of work](section/72.md)
+      - [s. 73 Maternity equality clause](section/73.md)
+      - [s. 74 Maternity equality clause: pay](section/74.md)
+      - [s. 75 Maternity equality rule](section/75.md)
+      - [s. 76 Exclusion of pregnancy and maternity discrimination provisions](section/76.md)
+    - Disclosure of information
+      - [s. 77 Discussions about pay](section/77.md)
+      - [s. 78 Gender pay gap information](section/78.md)
+    - Equality action plans
+      - [s. 78A Equality action plans](section/78A.md)
+    - Supplementary
+      - [s. 79 Comparators](section/79.md)
+      - [s. 80 Interpretation and exceptions](section/80.md)
+  - Chapter 4 Supplementary
+    - [s. 81 Ships and hovercraft](section/81.md)
+    - [s. 82 Offshore work](section/82.md)
+    - [s. 83 Interpretation and exceptions](section/83.md)
+- Part 6 Education
+  - Chapter 1 Schools
+    - [s. 84 Application of this Chapter](section/84.md)
+    - [s. 85 Pupils: admission and treatment, etc.](section/85.md)
+    - [s. 86 Victimisation of pupils, etc. for conduct of parents, etc.](section/86.md)
+    - [s. 87 Application of enforcement powers under education legislation](section/87.md)
+    - [s. 88 Disabled pupils: accessibility](section/88.md)
+    - [s. 89 Interpretation and exceptions](section/89.md)
+  - Chapter 2 Further and higher education
+    - [s. 90 Application of this Chapter](section/90.md)
+    - [s. 91 Students: admission and treatment, etc.](section/91.md)
+    - [s. 92 Further and higher education courses](section/92.md)
+    - [s. 93 Recreational or training facilities](section/93.md)
+    - [s. 94 Interpretation and exceptions](section/94.md)
+  - Chapter 3 General qualifications bodies
+    - [s. 95 Application of this Chapter](section/95.md)
+    - [s. 96 Qualifications bodies](section/96.md)
+    - [s. 97 Interpretation](section/97.md)
+  - Chapter 4 Miscellaneous
+    - [s. 98 Reasonable adjustments](section/98.md)
+    - [s. 99 Educational charities and endowments](section/99.md)
+- Part 7 Associations
+  - Preliminary
+    - [s. 100 Application of this Part](section/100.md)
+  - Membership, etc.
+    - [s. 101 Members and associates](section/101.md)
+    - [s. 102 Guests](section/102.md)
+    - [s. 103 Sections 101 and 102: further provision](section/103.md)
+  - Special provision for political parties
+    - [s. 104 Selection of candidates](section/104.md)
+    - [s. 105 Time-limited provision](section/105.md)
+    - [s. 106 Information about diversity in range of candidates, etc.](section/106.md)
+  - Supplementary
+    - [s. 107 Interpretation and exceptions](section/107.md)
+- Part 8 Prohibited conduct: ancillary
+  - [s. 108 Relationships that have ended](section/108.md)
+  - [s. 109 Liability of employers and principals](section/109.md)
+  - [s. 110 Liability of employees and agents](section/110.md)
+  - [s. 111 Instructing, causing or inducing contraventions](section/111.md)
+  - [s. 112 Aiding contraventions](section/112.md)
+- Part 9 Enforcement
+  - Chapter 1 Introductory
+    - [s. 113 Proceedings](section/113.md)
+  - Chapter 2 Civil courts
+    - [s. 114 Jurisdiction](section/114.md)
+    - [s. 115 Immigration cases](section/115.md)
+    - [s. 116 Education cases](section/116.md)
+    - [s. 117 National security](section/117.md)
+    - [s. 118 Time limits](section/118.md)
+    - [s. 119 Remedies](section/119.md)
+  - Chapter 3 Employment tribunals
+    - [s. 120 Jurisdiction](section/120.md)
+    - [s. 121 Armed forces cases](section/121.md)
+    - [s. 122 References by court to tribunal, etc.](section/122.md)
+    - [s. 123 Time limits](section/123.md)
+    - [s. 124 Remedies: general](section/124.md)
+    - [s. 124A Remedies: compensation uplift in sexual harassment cases](section/124A.md)
+    - [s. 125 Remedies: national security](section/125.md)
+    - [s. 126 Remedies: occupational pension schemes](section/126.md)
+  - Chapter 4 Equality of terms
+    - [s. 127 Jurisdiction](section/127.md)
+    - [s. 128 References by court to tribunal, etc.](section/128.md)
+    - [s. 129 Time limits](section/129.md)
+    - [s. 130 Section 129: supplementary](section/130.md)
+    - [s. 131 Assessment of whether work is of equal value](section/131.md)
+    - [s. 132 Remedies in non-pensions cases](section/132.md)
+    - [s. 133 Remedies in pensions cases](section/133.md)
+    - [s. 134 Remedies in claims for arrears brought by pensioner members](section/134.md)
+    - [s. 135 Supplementary](section/135.md)
+  - Chapter 5 Miscellaneous
+    - [s. 136 Burden of proof](section/136.md)
+    - [s. 137 Previous findings](section/137.md)
+    - [s. 138 Obtaining information, etc.](section/138.md)
+    - [s. 139 Interest](section/139.md)
+    - [s. 139A Equal pay audits](section/139A.md)
+    - [s. 140 Conduct giving rise to separate proceedings](section/140.md)
+    - [s. 140A Extension of time limits because of mediation in certain cross-border disputes](section/140A.md)
+    - [s. 140AA Extension of time limits because of alternative dispute resolution in certain consumer contract disputes](section/140AA.md)
+    - [s. 140B Extension of time limits to facilitate conciliation before institution of proceedings](section/140B.md)
+    - [s. 141 Interpretation, etc.](section/141.md)
+- Part 10 Contracts, etc.
+  - Contracts and other agreements
+    - [s. 142 Unenforceable terms](section/142.md)
+    - [s. 143 Removal or modification of unenforceable terms](section/143.md)
+    - [s. 144 Contracting out](section/144.md)
+  - Collective agreements and rules of undertakings
+    - [s. 145 Void and unenforceable terms](section/145.md)
+    - [s. 146 Declaration in respect of void term, etc.](section/146.md)
+  - Supplementary
+    - [s. 147 Meaning of “qualifying settlement agreement”](section/147.md)
+    - [s. 148 Interpretation](section/148.md)
+- Part 11 Advancement of equality
+  - Chapter 1 Public sector equality duty
+    - [s. 149 Public sector equality duty](section/149.md)
+    - [s. 150 Public authorities and public functions](section/150.md)
+    - [s. 151 Power to specify public authorities](section/151.md)
+    - [s. 152 Power to specify public authorities: consultation ...](section/152.md)
+    - [s. 153 Power to impose specific duties](section/153.md)
+    - [s. 154 Power to impose specific duties: cross-border authorities](section/154.md)
+    - [s. 155 Power to impose specific duties: supplementary](section/155.md)
+    - [s. 156 Enforcement](section/156.md)
+    - [s. 157 Interpretation](section/157.md)
+  - Chapter 2 Positive action
+    - [s. 158 Positive action: general](section/158.md)
+    - [s. 159 Positive action: recruitment and promotion](section/159.md)
+- Part 12 Disabled persons: transport
+  - Chapter 1 Taxis, etc.
+    - [s. 160 Taxi accessibility regulations](section/160.md)
+    - [s. 161 Control of numbers of licensed taxis: exception](section/161.md)
+    - [s. 162 Designated transport facilities](section/162.md)
+    - [s. 163 Taxi licence conditional on compliance with taxi accessibility regulations](section/163.md)
+    - [s. 164 Exemption from taxi accessibility regulations](section/164.md)
+    - [s. 164A Disabled passengers: duties of drivers](section/164A.md)
+    - [s. 165 Disabled passengers in wheelchairs: duties of drivers of designated vehicles](section/165.md)
+    - [s. 165A Disabled passengers: assistance to identify and find vehicle](section/165A.md)
+    - [s. 166 Disabled passengers: exemption certificates](section/166.md)
+    - [s. 167 Lists of wheelchair-accessible vehicles](section/167.md)
+    - [s. 167A Disabled passengers: duties of operators of private hire vehicles](section/167A.md)
+    - [s. 168 Assistance dogs in taxis](section/168.md)
+    - [s. 169 Assistance dogs in taxis: exemption certificates](section/169.md)
+    - [s. 170 Assistance dogs in private hire vehicles](section/170.md)
+    - [s. 171 Assistance dogs in private hire vehicles: exemption certificates](section/171.md)
+    - [s. 172 Appeals](section/172.md)
+    - [s. 173 Interpretation](section/173.md)
+  - Chapter 2 Public service vehicles
+    - [s. 174 PSV accessibility regulations](section/174.md)
+    - [s. 175 Offence of contravening PSV accessibility regulations](section/175.md)
+    - [s. 176 Accessibility certificates](section/176.md)
+    - [s. 177 Approval certificates](section/177.md)
+    - [s. 178 Special authorisations](section/178.md)
+    - [s. 179 Reviews and appeals](section/179.md)
+    - [s. 180 Fees](section/180.md)
+    - [s. 181 Interpretation](section/181.md)
+  - CHAPTER 2A Bus services
+    - [s. 181A Information for bus passengers](section/181A.md)
+    - [s. 181B Exemptions etc](section/181B.md)
+    - [s. 181C Guidance](section/181C.md)
+    - [s. 181D Interpretation](section/181D.md)
+  - Chapter 3 Rail vehicles
+    - [s. 182 Rail vehicle accessibility regulations](section/182.md)
+    - [s. 183 Exemptions from rail vehicle accessibility regulations](section/183.md)
+    - [s. 184 Procedure for making exemption orders](section/184.md)
+    - [s. 185 Annual report on exemption orders](section/185.md)
+    - [s. 186 Rail vehicle accessibility: compliance](section/186.md)
+    - [s. 187 Interpretation](section/187.md)
+  - Chapter 4 Supplementary
+    - [s. 188 Forgery, etc.](section/188.md)
+- Part 13 Disability: miscellaneous
+  - [s. 189 Reasonable adjustments](section/189.md)
+  - [s. 190 Improvements to let dwelling houses](section/190.md)
+- Part 14 General exceptions
+  - [s. 191 Statutory provisions](section/191.md)
+  - [s. 192 National security](section/192.md)
+  - [s. 193 Charities](section/193.md)
+  - [s. 194 Charities: supplementary](section/194.md)
+  - [s. 195 Sport](section/195.md)
+  - [s. 196 General](section/196.md)
+  - [s. 197 Age](section/197.md)
+- Part 15 Family property
+  - [s. 198 Abolition of husband’s duty to maintain wife](section/198.md)
+  - [s. 199 Abolition of presumption of advancement](section/199.md)
+  - [s. 200 Amendment of Married Women’s Property Act 1964](section/200.md)
+  - [s. 201 Civil partners: housekeeping allowance](section/201.md)
+- Part 16 General and miscellaneous
+  - Civil partnerships
+    - [s. 202 Civil partnerships on religious premises](section/202.md)
+  - EU obligations
+    - [s. 203 Harmonisation](section/203.md)
+    - [s. 204 Harmonisation: procedure](section/204.md)
+  - Application
+    - [s. 205 Crown application](section/205.md)
+    - [s. 206 Information society services](section/206.md)
+  - Subordinate legislation
+    - [s. 207 Exercise of power](section/207.md)
+    - [s. 208 Ministers of the Crown, etc.](section/208.md)
+    - [s. 209 The Welsh Ministers](section/209.md)
+    - [s. 210 The Scottish Ministers](section/210.md)
+  - Amendments, etc.
+    - [s. 211 Amendments, repeals and revocations](section/211.md)
+  - Interpretation
+    - [s. 212 General interpretation](section/212.md)
+    - [s. 213 References to maternity leave, etc.](section/213.md)
+    - [s. 214 Index of defined expressions](section/214.md)
+  - Final provisions
+    - [s. 215 Money](section/215.md)
+    - [s. 216 Commencement](section/216.md)
+    - [s. 217 Extent](section/217.md)
+    - [s. 218 Short title](section/218.md)
+- SCHEDULE 1 Disability: supplementary provision
+  - Part 1 Determination of disability
+    - Impairment
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Long-term effects
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Severe disfigurement
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Substantial adverse effects
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Effect of medical treatment
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Normal day-to-day activities
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+    - Certain medical conditions
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Deemed disability
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Progressive conditions
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Past disabilities
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part 2 Guidance
+    - Preliminary
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Examples
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Adjudicating bodies
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Representations
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Parliamentary procedure
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Commencement
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Revision and revocation
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Services and public functions: reasonable adjustments
+  - Preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The duty
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Special provision about transport
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Interpretation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Services and public functions: exceptions
+  - Part 1 Constitutional matters
+    - Parliament
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Legislation
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Judicial functions
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Armed forces
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Security services, etc.
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part 2 Education
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Part 3 Health and care
+    - Blood services
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Health and safety
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Care within the family
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Part 4 Immigration
+    - Age
+      - [Sch. 3 para. 15A](schedule/3/paragraph/15A.md)
+    - Disability
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Nationality and ethnic or national origins
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Religion or belief
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Interpretation
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Part 5 Insurance and other financial services
+    - Services arranged by employer
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Age
+      - [Sch. 3 para. 20A](schedule/3/paragraph/20A.md)
+    - Disability
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Sex, gender reassignment, pregnancy and maternity
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Existing insurance policies
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Part 6 Marriage: gender reassignment
+    - Gender reassignment: England and Wales
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - PART 6ZA MARRIAGE AND CIVIL PARTNERSHIP: SCOTLAND
+    - Gender reassignment: Scotland
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - PART 6A Marriage of same sex couples and Civil Partnership in England and Wales
+    - [Sch. 3 para. 25A Marriage according to religious rites: no compulsion to solemnize etc](schedule/3/paragraph/25A.md)
+    - [Sch. 3 para. 25AA No compulsion for religious organisations or persons acting on their behalf to act in relation to civil partnerships](schedule/3/paragraph/25AA.md)
+  - PART 6B CIVIL PARTNERSHIP, MARRIAGE OF SAME SEX COUPLES AND MARRIAGE OF CIVIL PARTNERS: SCOTLAND
+    - [Sch. 3 para. 25B Marriage and civil partnership: Scotland](schedule/3/paragraph/25B.md)
+    - [Sch. 3 para. 25C Marriage of same sex couples: Scottish forces marriages](schedule/3/paragraph/25C.md)
+  - Part 7 Separate, single and concessionary services, etc
+    - Separate services for the sexes
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Single-sex services
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Gender reassignment
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Services relating to religion
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - Services generally provided only for persons who share a protected characteristic
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Concessions
+      - [Sch. 3 para. 30A](schedule/3/paragraph/30A.md)
+    - Age related holidays
+      - [Sch. 3 para. 30B](schedule/3/paragraph/30B.md)
+    - Age restricted services
+      - [Sch. 3 para. 30C](schedule/3/paragraph/30C.md)
+    - Residential mobile homes
+      - [Sch. 3 para. 30D](schedule/3/paragraph/30D.md)
+  - Part 8 Television, radio and on-line broadcasting and distribution
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Part 9 Transport
+    - Application to disability
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - Transport by air
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Transport by land: road
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - Transport by land: rail
+      - [Sch. 3 para. 34A](schedule/3/paragraph/34A.md)
+  - Part 10 Supplementary
+    - Power to amend
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+- SCHEDULE 4 Premises: reasonable adjustments
+  - Preliminary
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The duty in relation to let premises
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The duty in relation to premises to let
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The duty in relation to commonhold units
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The duty in relation to common parts
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Consultation on adjustments relating to common parts
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Agreement on adjustments relating to common parts
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Victimisation
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Regulations
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Premises: exceptions
+  - Owner-occupier
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Small premises
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Office-holders: excluded offices
+  - Work to which other provisions apply
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Political offices
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Honours etc.
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Bishops
+    - [Sch. 6 para. 3n1](schedule/6/paragraph/3n1.md)
+- SCHEDULE 7 Equality of terms: exceptions
+  - Part 1 Terms of work
+    - Compliance with laws regulating employment of women, etc.
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Pregnancy, etc.
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Part 2 Occupational pension schemes
+    - Preliminary
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - State retirement pensions
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Actuarial factors
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Power to amend
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Work: reasonable adjustments
+  - Part 1 Introductory
+    - Preliminary
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - The duty
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Part 2 Interested disabled person
+    - Preliminary
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Employers (see section 39)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Principals in contract work (see section 41)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Partnerships (see section 44)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - LLPs (see section 45)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Barristers and their clerks (see section 47)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Advocates and their clerks (see section 48)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Persons making appointments to offices etc. (see sections 49 to 51)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Qualifications bodies (see section 53)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Employment service-providers (see section 55)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Trade organisations (see section 57)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Local authorities (see section 58)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Occupational pensions (see section 61)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Part 3 Limitations on the duty
+    - Lack of knowledge of disability, etc.
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 Work: exceptions
+  - Part 1 Occupational requirements
+    - General
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Religious requirements relating to sex, marriage etc., sexual orientation
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Other requirements relating to religion or belief
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Armed forces
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Employment services
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Interpretation
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Part 2 Exceptions relating to age
+    - Preliminary
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Retirement
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Applicants at or approaching retirement age
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Benefits based on length of service
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - The national minimum wage: young workers
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - The national minimum wage: apprentices
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Redundancy
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Insurance etc.
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Child care
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Contributions to personal pension schemes
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Part 3 Other exceptions
+    - Non-contractual payments to women on maternity leave
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Benefits dependent on marital status, etc.
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Provision of services etc. to the public
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Insurance contracts, etc.
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+- SCHEDULE 10 Accessibility for disabled pupils
+  - Accessibility strategies
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Accessibility plans
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Power of direction
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Supplementary
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 Schools: exceptions
+  - Part 1 Sex discrimination
+    - Admission to single-sex schools
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Single-sex boarding at schools
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Single-sex schools turning co-educational
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Part 2 Religious or belief-related discrimination
+    - School with religious character etc.
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Curriculum, worship, etc.
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Power to amend
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Part 3 Disability discrimination
+    - Permitted form of selection
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+- SCHEDULE 12 Further and higher education exceptions
+  - Part 1 Single-sex institutions, etc.
+    - Admission to single-sex institutions
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Single-sex institutions turning co-educational
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Part 2 Other exceptions
+    - Occupational requirements
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Institutions with a religious ethos
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Benefits dependent on marital status, etc.
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Child care
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+- SCHEDULE 13 Education: reasonable adjustments
+  - Preliminary
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - The duty for schools
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - The duty for further or higher education institutions
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - The duty relating to certain other further or higher education courses
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - The duty relating to recreational or training facilities
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Code of practice
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Confidentiality requests
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - The duty for general qualifications bodies
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+- SCHEDULE 14 Educational charities and endowments
+  - Educational charities
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Educational endowments
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+- SCHEDULE 15 Associations: reasonable adjustments
+  - Preliminary
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - The duty
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+- SCHEDULE 16 Associations: exceptions
+  - Single characteristic associations
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Age
+    - [Sch. 16 para. 1A](schedule/16/paragraph/1A.md)
+  - Health and safety
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+- SCHEDULE 17 Disabled pupils: enforcement
+  - Part 1 Introductory
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Part 2 Tribunals in England and Wales
+    - Introductory
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Jurisdiction — England ...
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Jurisdiction — Wales
+      - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
+    - Time for bringing proceedings
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Powers
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Procedure
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Appeals from the Welsh Tribunal
+      - [Sch. 17 para. 6AA](schedule/17/paragraph/6AA.md)
+    - Case friends — Wales
+      - [Sch. 17 para. 6A](schedule/17/paragraph/6A.md)
+    - Advice and information — Wales
+      - [Sch. 17 para. 6B](schedule/17/paragraph/6B.md)
+    - Resolution of disputes — Wales
+      - [Sch. 17 para. 6C](schedule/17/paragraph/6C.md)
+    - Independent advocacy services — Wales
+      - [Sch. 17 para. 6D](schedule/17/paragraph/6D.md)
+    - Power of direction — Wales
+      - [Sch. 17 para. 6E](schedule/17/paragraph/6E.md)
+    - Capacity of parents and persons over compulsory school age - Wales
+      - [Sch. 17 para. 6F](schedule/17/paragraph/6F.md)
+  - Part 3 Tribunals in Scotland
+    - Introductory
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Jurisdiction
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Powers
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Procedure etc.
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Appeals
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Amendment of Education (Additional Support for Learning) (Scotland) Act 2004
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - Part 4 Admissions and exclusions
+    - Admissions
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Exclusions: Wales
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+- SCHEDULE 18 Public sector equality duty: exceptions
+  - Children
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Immigration
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Judicial functions, etc.
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Exceptions that are specific to section 149(2)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Power to amend Schedule
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+- SCHEDULE 19 Public authorities
+  - Part 1 Public authorities: general
+    - Ministers of the Crown and government departments
+    - Advocates for victims of major incidents
+    - Armed forces
+    - Broadcasting
+    - Citizens’ rights
+    - Civil liberties
+    - Court services and legal services
+    - Criminal justice
+    - Environment, housing and development
+    - Health, social care and social security
+    - Industry, business, finance etc.
+    - Local government
+    - Other educational bodies
+    - Parliamentary and devolved bodies
+    - Police
+    - Regulators
+    - Transport
+  - Part 2 Public authorities: relevant Welsh authorities
+    - Welsh Assembly Government, etc.
+    - National Health Service
+    - Local government
+    - Other educational bodies
+    - Other public authorities
+  - Part 3 Public authorities: relevant Scottish authorities
+    - Scottish Administration
+    - National Health Service
+    - Local government
+    - Other educational bodies
+    - Police and Fire
+    - Other bodies and offices added on 6th April 2011
+    - Other bodies and offices added on 5th March 2012
+    - Other bodies added on 1st April 2015
+    - Other body added on 28th June 2018
+    - Other body added on 26th November 2020
+    - Other office added on 1st December 2020
+    - Other body added on 23rd December 2021
+    - Other bodies and offices added on 1st July 2024
+    - Other body added on 1st December 2025
+  - PART 4 PUBLIC AUTHORITIES: CROSS-BORDER AUTHORITIES
+    - Cross-border Welsh authorities
+- SCHEDULE 20
+- SCHEDULE 21 Reasonable adjustments: supplementary
+  - Preliminary
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Binding obligations, etc.
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Landlord’s consent
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Proceedings before county court or sheriff
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Joining landlord as party to proceedings
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Regulations
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Interpretation
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+- SCHEDULE 22 Statutory provisions
+  - Statutory authority
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Protection of women
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Educational appointments, etc: religious belief
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Crown employment, etc.
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+- SCHEDULE 23 General exceptions
+  - Acts authorised by statute or the executive
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Organisations relating to religion or belief
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - Communal accommodation
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - Training provided to non-... residents, etc.
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+- SCHEDULE 24 Harmonisation: exceptions
+- SCHEDULE 25 Information society services
+  - Service providers
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+  - Exceptions for mere conduits
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+  - Exception for caching
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+  - Exception for hosting
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - Monitoring obligations
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+  - Interpretation
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+- SCHEDULE 26 Amendments
+  - Part 1 Acts of Parliament
+    - Disabled Persons (Employment) Act 1944
+      - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+    - Teaching Council (Scotland) Act 1965
+      - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+    - Employment and Training Act 1973
+      - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+    - Estate Agents Act 1979
+      - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+      - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+      - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+    - Civic Government (Scotland) Act 1982
+      - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+    - Housing (Scotland) Act 1987
+      - [Sch. 26 para. 8](schedule/26/paragraph/8.md)
+    - Local Government Act 1988
+      - [Sch. 26 para. 9](schedule/26/paragraph/9.md)
+      - [Sch. 26 para. 10](schedule/26/paragraph/10.md)
+      - [Sch. 26 para. 11](schedule/26/paragraph/11.md)
+      - [Sch. 26 para. 12](schedule/26/paragraph/12.md)
+    - Employment Act 1989
+      - [Sch. 26 para. 13](schedule/26/paragraph/13.md)
+      - [Sch. 26 para. 14](schedule/26/paragraph/14.md)
+      - [Sch. 26 para. 15](schedule/26/paragraph/15.md)
+      - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
+      - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+    - Local Government and Housing Act 1989
+      - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
+    - Enterprise and New Towns (Scotland) Act 1990
+      - [Sch. 26 para. 19](schedule/26/paragraph/19.md)
+      - [Sch. 26 para. 20](schedule/26/paragraph/20.md)
+      - [Sch. 26 para. 21](schedule/26/paragraph/21.md)
+      - [Sch. 26 para. 22](schedule/26/paragraph/22.md)
+    - Further and Higher Education Act 1992
+      - [Sch. 26 para. 23](schedule/26/paragraph/23.md)
+    - Trade Union and Labour Relations (Consolidation) Act 1992
+      - [Sch. 26 para. 24](schedule/26/paragraph/24.md)
+    - Trade Union Reform and Employment Rights Act 1993
+      - [Sch. 26 para. 25](schedule/26/paragraph/25.md)
+      - [Sch. 26 para. 26](schedule/26/paragraph/26.md)
+    - Employment Tribunals Act 1996
+      - [Sch. 26 para. 27](schedule/26/paragraph/27.md)
+      - [Sch. 26 para. 28](schedule/26/paragraph/28.md)
+      - [Sch. 26 para. 29](schedule/26/paragraph/29.md)
+      - [Sch. 26 para. 30](schedule/26/paragraph/30.md)
+      - [Sch. 26 para. 31](schedule/26/paragraph/31.md)
+      - [Sch. 26 para. 32](schedule/26/paragraph/32.md)
+    - Employment Rights Act 1996
+      - [Sch. 26 para. 33](schedule/26/paragraph/33.md)
+    - Housing Grants, Construction and Regeneration Act 1996
+      - [Sch. 26 para. 34](schedule/26/paragraph/34.md)
+    - Education Act 1996
+      - [Sch. 26 para. 35](schedule/26/paragraph/35.md)
+      - [Sch. 26 para. 36](schedule/26/paragraph/36.md)
+      - [Sch. 26 para. 37](schedule/26/paragraph/37.md)
+      - [Sch. 26 para. 38](schedule/26/paragraph/38.md)
+      - [Sch. 26 para. 39](schedule/26/paragraph/39.md)
+      - [Sch. 26 para. 40](schedule/26/paragraph/40.md)
+      - [Sch. 26 para. 41](schedule/26/paragraph/41.md)
+      - [Sch. 26 para. 42](schedule/26/paragraph/42.md)
+    - Teaching and Higher Education Act 1998
+      - [Sch. 26 para. 43](schedule/26/paragraph/43.md)
+    - School Standards and Framework Act 1998
+      - [Sch. 26 para. 44](schedule/26/paragraph/44.md)
+      - [Sch. 26 para. 45](schedule/26/paragraph/45.md)
+      - [Sch. 26 para. 46](schedule/26/paragraph/46.md)
+      - [Sch. 26 para. 47](schedule/26/paragraph/47.md)
+    - Transport Act 2000
+      - [Sch. 26 para. 48](schedule/26/paragraph/48.md)
+    - Employment Act 2002
+      - [Sch. 26 para. 49](schedule/26/paragraph/49.md)
+    - Income Tax (Earnings and Pensions) Act 2003
+      - [Sch. 26 para. 50](schedule/26/paragraph/50.md)
+      - [Sch. 26 para. 51](schedule/26/paragraph/51.md)
+      - [Sch. 26 para. 52](schedule/26/paragraph/52.md)
+    - Communications Act 2003
+      - [Sch. 26 para. 53](schedule/26/paragraph/53.md)
+      - [Sch. 26 para. 54](schedule/26/paragraph/54.md)
+      - [Sch. 26 para. 55](schedule/26/paragraph/55.md)
+      - [Sch. 26 para. 56](schedule/26/paragraph/56.md)
+    - Finance Act 2004
+      - [Sch. 26 para. 57](schedule/26/paragraph/57.md)
+      - [Sch. 26 para. 58](schedule/26/paragraph/58.md)
+      - [Sch. 26 para. 59](schedule/26/paragraph/59.md)
+    - Serious Organised Crime and Police Act 2005
+      - [Sch. 26 para. 60](schedule/26/paragraph/60.md)
+    - Equality Act 2006
+      - [Sch. 26 para. 61](schedule/26/paragraph/61.md)
+      - [Sch. 26 para. 62](schedule/26/paragraph/62.md)
+      - [Sch. 26 para. 63](schedule/26/paragraph/63.md)
+      - [Sch. 26 para. 64](schedule/26/paragraph/64.md)
+      - [Sch. 26 para. 65](schedule/26/paragraph/65.md)
+      - [Sch. 26 para. 66](schedule/26/paragraph/66.md)
+      - [Sch. 26 para. 67](schedule/26/paragraph/67.md)
+      - [Sch. 26 para. 68](schedule/26/paragraph/68.md)
+      - [Sch. 26 para. 69](schedule/26/paragraph/69.md)
+      - [Sch. 26 para. 70](schedule/26/paragraph/70.md)
+      - [Sch. 26 para. 71](schedule/26/paragraph/71.md)
+      - [Sch. 26 para. 72](schedule/26/paragraph/72.md)
+      - [Sch. 26 para. 73](schedule/26/paragraph/73.md)
+      - [Sch. 26 para. 74](schedule/26/paragraph/74.md)
+      - [Sch. 26 para. 75](schedule/26/paragraph/75.md)
+      - [Sch. 26 para. 76](schedule/26/paragraph/76.md)
+      - [Sch. 26 para. 77](schedule/26/paragraph/77.md)
+      - [Sch. 26 para. 78](schedule/26/paragraph/78.md)
+      - [Sch. 26 para. 79](schedule/26/paragraph/79.md)
+      - [Sch. 26 para. 80](schedule/26/paragraph/80.md)
+      - [Sch. 26 para. 81](schedule/26/paragraph/81.md)
+      - [Sch. 26 para. 82](schedule/26/paragraph/82.md)
+      - [Sch. 26 para. 83](schedule/26/paragraph/83.md)
+      - [Sch. 26 para. 84](schedule/26/paragraph/84.md)
+      - [Sch. 26 para. 85](schedule/26/paragraph/85.md)
+    - Immigration, Asylum and Nationality Act 2006
+      - [Sch. 26 para. 86](schedule/26/paragraph/86.md)
+    - Childcare Act 2006
+      - [Sch. 26 para. 87](schedule/26/paragraph/87.md)
+      - [Sch. 26 para. 88](schedule/26/paragraph/88.md)
+      - [Sch. 26 para. 89](schedule/26/paragraph/89.md)
+      - [Sch. 26 para. 90](schedule/26/paragraph/90.md)
+      - [Sch. 26 para. 91](schedule/26/paragraph/91.md)
+    - Education and Inspections Act 2006
+      - [Sch. 26 para. 92](schedule/26/paragraph/92.md)
+      - [Sch. 26 para. 93](schedule/26/paragraph/93.md)
+      - [Sch. 26 para. 94](schedule/26/paragraph/94.md)
+    - Finance Act 2007
+      - [Sch. 26 para. 95](schedule/26/paragraph/95.md)
+    - UK Borders Act 2007
+      - [Sch. 26 para. 96](schedule/26/paragraph/96.md)
+    - Regulatory Enforcement and Sanctions Act 2008
+      - [Sch. 26 para. 97](schedule/26/paragraph/97.md)
+      - [Sch. 26 para. 98](schedule/26/paragraph/98.md)
+      - [Sch. 26 para. 99](schedule/26/paragraph/99.md)
+    - Apprenticeships, Skills, Children and Learning Act 2009
+      - [Sch. 26 para. 100](schedule/26/paragraph/100.md)
+  - Part 2 Acts of the Scottish Parliament
+    - Education (Disability Strategies and Pupils’ Educational Records)(Scotland) Act 2002
+      - [Sch. 26 para. 101](schedule/26/paragraph/101.md)
+    - Freedom of Information (Scotland) Act 2002
+      - [Sch. 26 para. 102](schedule/26/paragraph/102.md)
+      - [Sch. 26 para. 103](schedule/26/paragraph/103.md)
+      - [Sch. 26 para. 104](schedule/26/paragraph/104.md)
+    - Dog Fouling (Scotland) Act 2003
+      - [Sch. 26 para. 105](schedule/26/paragraph/105.md)
+    - Education (Additional Support for Learning) (Scotland) Act 2004
+      - [Sch. 26 para. 106](schedule/26/paragraph/106.md)
+    - Housing (Scotland) Act 2006
+      - [Sch. 26 para. 106A](schedule/26/paragraph/106A.md)
+    - Education (Additional Support for Learning) (Scotland) Act 2009
+      - [Sch. 26 para. 107](schedule/26/paragraph/107.md)
+- SCHEDULE 27 Repeals and revocations
+  - Part 1 Repeals
+  - PART 1A REPEALS RELATING TO THE COMMENCEMENT OF THE PUBLIC SECTOR EQUALITY DUTY ON 5TH APRIL 2011
+  - Part 2 Revocations
+  - PART 3 REVOCATIONS RELATING TO THE COMMENCEMENT OF THE PUBLIC SECTOR EQUALITY DUTY ON 5TH APRIL 2011
+- SCHEDULE 28 Index of defined expressions
