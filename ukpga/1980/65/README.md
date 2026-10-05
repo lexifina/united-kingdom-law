@@ -1,0 +1,878 @@
+# Local Government, Planning and Land Act 1980
+
+1980 c. 65. Enacted 1980-11-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 85 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
+
+Source: https://www.legislation.gov.uk/ukpga/1980/65/2026-10-05
+
+## Contents
+
+- Part I Local Government—Relaxation of Controls
+  - [s. 1 Relaxation of Ministerial control of authorities.](section/1.md)
+- Part II Publication of Information by Local Authorities
+  - [s. 2 Duty of authorities to publish information.](section/2.md)
+  - [s. 3 Supplementary provisions relating to codes of practice on publication of information.](section/3.md)
+  - [s. 4 Power to direct bodies to publish information.](section/4.md)
+- Part III Direct Labour Organisations
+  - Works Contracts
+    - [s. 5 Meaning of “works contract ".](section/5.md)
+    - [s. 6 Regulation of works contracts.](section/6.md)
+    - [s. 7 Limitations on power to enter into works contracts.](section/7.md)
+  - Functional work
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 Regulation of functional work.](section/9.md)
+  - Accounting Provisions
+    - [s. 10 Accounts relating to construction or maintenance work](section/10.md)
+    - [s. 11 Exemption from requirement to keep seperate accounts under section 10.](section/11.md)
+    - [s. 12 Contents of accounts relating to construction or maintenance work.](section/12.md)
+    - [s. 13 Annual balance sheet etc.](section/13.md)
+    - [s. 14 Accounts under section 10 and other local authority accounts.](section/14.md)
+  - Financial provisions
+    - [s. 15 Payment for construction or maintenance work undertaken in pursuance of delegated functions etc.](section/15.md)
+    - [s. 16 General financial duty: treatment of deficits.](section/16.md)
+    - [s. 17 ................................](section/17.md)
+  - Supplementary
+    - [s. 18 Annual reports on construction or maintenance work.](section/18.md)
+    - [s. 19 Application to joint commitees.](section/19.md)
+  - Sanctions
+    - [s. 19A Notice for purpose of getting information.](section/19A.md)
+    - [s. 19B Power to give directions.](section/19B.md)
+  - General
+    - [s. 20 Interpretation of Part III.](section/20.md)
+    - [s. 21 Exemption of small direct labour organisations from requirements of Part III.](section/21.md)
+    - [s. 22 Consequential repeal or amendment of local statutory provisions.](section/22.md)
+    - [s. 23 Part III—supplementary](section/23.md)
+- Part IV Local Government Allowances
+  - [s. 24 Right of councillor to opt for financial loss allowance.](section/24.md)
+  - [s. 25 Amendments relating to allowances to members of local authorities and other bodies.](section/25.md)
+  - [s. 26 Introduction of special responsibility allowances for members of local authorities.](section/26.md)
+  - [s. 27 Vice-chairmen of councils in Scotland and application of Part IV to Scotland.](section/27.md)
+- Part V Rates
+  - Valuation
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 Ascertainment of rateable value of non-industrial buildings.](section/29.md)
+    - [s. 30 ................................](section/30.md)
+  - Fish Farms
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Rating exemption for fish farms in Scotland.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+  - Unused and unoccupied property
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 Commencement and extent of Part V.](section/47.md)
+- Part VI Rate Support Grant
+  - Amendments relating to existing system of rate support grants
+    - [s. 48 General power to reduce rate support grant.](section/48.md)
+    - [s. 49 Reduction of resources element.](section/49.md)
+    - [s. 50 Redution of needs element for authorities in Greater London.](section/50.md)
+    - [s. 51 Supplementary grants for transport purposes.](section/51.md)
+    - [s. 52 Separate provision for Wales.](section/52.md)
+  - New system of rate support grants
+    - [s. 53 Introduction of new system of rate support grants.](section/53.md)
+    - [s. 54 The aggregate amount of rate support grants.](section/54.md)
+    - [s. 55 The domestic rate relief grant.](section/55.md)
+    - [s. 56 The block grant.](section/56.md)
+    - [s. 57 Determination of grant-related poundage and grant-related expenditure.](section/57.md)
+    - [s. 58 Principles for determination of grant-related poundage.](section/58.md)
+    - [s. 59 Adjustments of distribution of block grant.](section/59.md)
+    - [s. 60 The Rate Support Grant Report.](section/60.md)
+    - [s. 61 Supplementary reports.](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 Adjustment of block grant in connection with education etc.](section/63.md)
+    - [s. 63A Adjustment of block grant for rates equalisation contribution.](section/63A.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 Information.](section/65.md)
+    - [s. 66 Estimates and calculations.](section/66.md)
+    - [s. 67 Changes in rateable value.](section/67.md)
+    - [s. 68 Rate support grant– supplementary.](section/68.md)
+- Part VII Miscellaneous Grants
+  - Grants in respect of rate rebates for disabled
+    - [s. 69 Grants in respect of rebates under the Rating (Disabled Persons) Act 1978.](section/69.md)
+  - Grants for caravan sites
+    - [s. 70](section/70.md)
+- Part VIII Capital Expenditure of Local Authorities Etc.
+  - [s. 71 ................................](section/71.md)
+  - [s. 81 ................................](section/81.md)
+  - [s. 82 ................................](section/82.md)
+- Part IX Town and Country Planning
+  - Allocation of planning functions
+    - [s. 86 Distribution of planning functions between planning authorities.](section/86.md)
+  - Planning fees
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+  - Compulsory acquisition
+    - [s. 91 Amendments relating to compulsory acquisition.](section/91.md)
+  - Amendments of Town and Country Planning (Scotland) Act 1972
+    - [s. 92 Town and Country Planning – Scotland.](section/92.md)
+- Part X Land Held by Public Bodies
+  - [s. 93 Public bodies to whom Part X applies.](section/93.md)
+  - [s. 94 Areas in which Part X is to operate.](section/94.md)
+  - [s. 95 Registration of land holdings.](section/95.md)
+  - [s. 96 Public access to information.](section/96.md)
+  - [s. 96A Information about entries.](section/96A.md)
+  - [s. 97 Secretary of State’s power to require information.](section/97.md)
+  - [s. 98 Disposal of land at direction of Secretary of State.](section/98.md)
+  - [s. 99 Directions to dispose of land– supplementary.](section/99.md)
+  - [s. 99A Power of entry.](section/99A.md)
+  - [s. 100 Interpretation and extent of Part X.](section/100.md)
+- Part XI Community Land Act
+  - [s. 101 Repeal.](section/101.md)
+- Part XII The Land Authority for Wales
+  - The Authority
+    - [s. 102 ................................](section/102.md)
+  - Functions
+    - [s. 103 ................................](section/103.md)
+  - Acquisition of land
+    - [s. 104 ................................](section/104.md)
+    - [s. 105 ................................](section/105.md)
+  - Miscellaneous
+    - [s. 106 ................................](section/106.md)
+    - [s. 107 ................................](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 ................................](section/109.md)
+    - [s. 110 ................................](section/110.md)
+    - [s. 111 ................................](section/111.md)
+- Part XIII Land Compensation
+  - [s. 112 Claims for compensation for depreciation.](section/112.md)
+  - [s. 113 Claims for compensation for depreciation which are out of time on commencement date.](section/113.md)
+  - [s. 114 Claims for home loss payments.](section/114.md)
+  - [s. 115 Interpretation of Part XIII.](section/115.md)
+- Part XIV Land—Miscellaneous
+  - Development land
+    - [s. 116 Assessment of development land.](section/116.md)
+    - [s. 117 ................................](section/117.md)
+  - Miscellaneous provisions about land
+    - [s. 118 Land miscellaneous amendments.](section/118.md)
+    - [s. 119 ................................](section/119.md)
+    - [s. 120 Compulsory acquisition: exclusion of special parliamentary procedure.](section/120.md)
+    - [s. 121 Certification of appropriate alternative development.](section/121.md)
+    - [s. 122 Acquisition and disposal of land by the Crown.](section/122.md)
+    - [s. 123 Acquisition of land by the Crown in Northern Ireland.](section/123.md)
+    - [s. 124 Town development functions.](section/124.md)
+    - [s. 125 Extent of Part XIV.](section/125.md)
+- Part XV New Towns
+  - Payments to Secretary of State
+    - [s. 126 ................................](section/126.md)
+  - Licensing
+    - [s. 131 Off-licences: special provisions to cease.](section/131.md)
+    - [s. 132 Power to end special licensing provisions.](section/132.md)
+  - Miscellaneous
+    - [s. 133 Interpretation, amendments and extent.](section/133.md)
+- Part XVI Urban Development
+  - Urban development areas
+    - [s. 134 Urban development areas.](section/134.md)
+  - Urban development corporations
+    - [s. 135 Urban development corporations.](section/135.md)
+    - [s. 135A Oversight of locally-led urban development area](section/135A.md)
+    - [s. 136 Objects and general powers.](section/136.md)
+    - [s. 136A Powers in relation to infrastructure: England](section/136A.md)
+    - [s. 137 Exclusion of functions.](section/137.md)
+    - [s. 138 Restrictions on powers.](section/138.md)
+    - [s. 139 Allocation or transfer of functions.](section/139.md)
+    - [s. 140 Consultation with local authorities.](section/140.md)
+  - Transport functions relating to urban development areas in England
+    - [s. 140A Exercise of transport functions](section/140A.md)
+  - Transfer schemes: general
+    - [s. 140B Transfer schemes under sections 134 and 140A: general provisions](section/140B.md)
+  - Land
+    - [s. 141 Vesting by order in corporation.](section/141.md)
+    - [s. 142 Acquisition by corporation.](section/142.md)
+    - [s. 143 Acquisition by local highway authority.](section/143.md)
+    - [s. 144 Vesting and acquisition: supplementary.](section/144.md)
+    - [s. 145 Land compensation.](section/145.md)
+    - [s. 146 Disposal by corporation.](section/146.md)
+  - Planning blight
+    - [s. 147 ................................](section/147.md)
+  - Planning functions
+    - [s. 148 Planning control.](section/148.md)
+    - [s. 149 Corporation as planning authority.](section/149.md)
+    - [s. 149A Arrangements for discharge of, or assistance with, planning functions in England](section/149A.md)
+    - [s. 150](section/150.md)
+  - Building control etc.
+    - [s. 151 Building control.](section/151.md)
+    - [s. 152 Fire precautions and home insulation.](section/152.md)
+  - Housing, etc.
+    - [s. 153 Corporation as housing authority.](section/153.md)
+    - [s. 154 Rent rebates.](section/154.md)
+    - [s. 155 Rent.](section/155.md)
+    - [s. 156 Other provisions relating to corporation as landlords.](section/156.md)
+  - Private streets
+    - [s. 157 Adoption of private streets.](section/157.md)
+    - [s. 157A Connection of private streets to highway.](section/157A.md)
+    - [s. 157B Traffic regulation orders for private streets.](section/157B.md)
+  - Sewerage etc.
+    - [s. 158 ................................](section/158.md)
+    - [s. 159 Public health etc.](section/159.md)
+  - Loans for building
+    - [s. 160 Loans for building.](section/160.md)
+    - [s. 161 Loans in pursuance of building agreements.](section/161.md)
+  - Inner urban areas
+    - [s. 162 Inner urban areas.](section/162.md)
+  - Supply of goods, etc, to Urban Development Corporations
+    - [s. 163 Supply of goods etc. by local authorities.](section/163.md)
+  - Finance, accounts, reports, etc.
+    - [s. 164 Finance, accounts, reports, etc.](section/164.md)
+  - Transfer of corporations’ undertakings
+    - [s. 165 Power to transfer undertaking.](section/165.md)
+    - [s. 165A Transfer of property, rights and liabilities by order.](section/165A.md)
+    - [s. 165B Transfer of property, rights and liabilities to statutory bodies.](section/165B.md)
+  - Dissolution of corporations
+    - [s. 166 Dissolution of corporations.](section/166.md)
+  - Miscellaneous
+    - [s. 167 Power to survey land in Scotland etc.](section/167.md)
+    - [s. 168 Service of notices.](section/168.md)
+    - [s. 169 Ecclesiastical property.](section/169.md)
+    - [s. 170 Interpretation: statutory undertakers etc.](section/170.md)
+    - [s. 171 Interpretation: general.](section/171.md)
+    - [s. 172 Extent of Part XVI.](section/172.md)
+- Part XVII Caravan Sites
+  - [s. 173 Duty of local authorities to provide caravan sites for gipsies.](section/173.md)
+  - [s. 174 Removal of unlawfully parked caravans and their occupants.](section/174.md)
+  - [s. 175 Designation of areas for purpose of making unauthorised camping unlawful.](section/175.md)
+  - [s. 176 Site licences: exemption for sites provided for gipsies by county councils of regional councils.](section/176.md)
+  - [s. 177 Interpretation of Part XVII.](section/177.md)
+  - [s. 178 Commencement and extent of Part XVII.](section/178.md)
+- Part XVIII Enterprise Zones
+  - [s. 179 Enterprise zones.](section/179.md)
+- Part XIX Miscellaneous and Supplementary
+  - Honorary Freemen
+    - [s. 180 Honorary freemen.](section/180.md)
+  - Land Drainage
+    - [s. 181 ................................](section/181.md)
+    - [s. 182 ................................](section/182.md)
+  - Social Services
+    - [s. 183 Relaxation of Ministerial controls over social services.](section/183.md)
+  - Commissioners for Local Administration
+    - [s. 184 Disclosure of information to Commissioners for Local Administration.](section/184.md)
+  - Pleasure Boats
+    - [s. 185 Pleasure boats bye laws.](section/185.md)
+    - [s. 186 Amendment of s. 94 of the Public Health Acts (Amendment) Act 1907.](section/186.md)
+    - [s. 187 ................................](section/187.md)
+    - [s. 188 ................................](section/188.md)
+    - [s. 190 ................................](section/190.md)
+    - [s. 191 Amendments of Inner Urban Areas Act 1978.](section/191.md)
+  - Supplementary
+    - [s. 192 Finance-general.](section/192.md)
+    - [s. 193 Minor and consequential amendments.](section/193.md)
+    - [s. 194 Repeals.](section/194.md)
+    - [s. 195 Scotland.](section/195.md)
+    - [s. 196 Northern Ireland.](section/196.md)
+    - [s. 197 Citation.](section/197.md)
+- SCHEDULE 1 Provisions to which section 1(1) refers
+  - Prevention of damage by Pests Act 1949 (c. 55)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Rag Flock and other Filling Materials Act 1951 (c. 63)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Food and Drugs Act 1955 (4 & 5 Eliz. 2) (c. 16)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Agriculture Act 1970 (c. 40)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Slaughterhouses Act 1974 (c. 3)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Relaxation of Controls Over Functions Relating to Clean Air and Pollution
+  - Clean Air Act 1956 (c. 52)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Clean Air Act 1968 (c. 62)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Control of Pollution Act 1974 (c. 40)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Relaxion of Controls Over Functions Relating to Amenity Etc.
+  - Commons Act 1876 (c. 56)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Commons Act 1899 (c. 30)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Caravan Sites and Control of Development Act 1960 (c. 62)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - London Government Act 1963 (c. 33)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Caravan Sites Act 1968 (c. 52)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Refuse Disposal (Amenity) Act 1978 (c. 3)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Relaxation of Controls Over Functions Relating to Weights and Measures and Trade
+  - Shops Act 1950 (c. 28)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Weights and Measures Act 1963 (c. 31)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Trade Descriptions Act 1968 (c. 29)
+  - Consumer Credit Act 1974 (c. 39)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Weights and Measures Act 1979 (c. 45)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Allotments
+  - Small Holdings and Allotments Act 1908 (c. 36)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Land Settlement (Facilities) Act 1919 (c. 59)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Allotments Act 1922 (c. 51)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Allotments Act 1925 (c. 61)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Relaxation of Controls Over Charges and Rates of Interest Etc.
+  - Town Police Clauses Act 1847 (c. 89)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Public Health Act 1936 (c. 49)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Coast Protection Act 1949 (c. 74)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Rag Flock and Other Filling Materials Act 1951 (c. 63)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Public Libraries and Museums Act 1964 (c. 75)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Theatres Act 1968 (c. 54)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Mines and Quarries (Tips) Act 1969 (c. 10)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Poisons Act 1972 (c. 66)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Greater London Council (General Powers) Act 1972 (c. xl)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Breeding of Dogs Act 1973 (c. 60)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Local Government (Scotland) Act 1973 (c. 65)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+- SCHEDULE 7
+  - Part I Highways
+    - Relaxation of Ministerial controls over the provision of ferries
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Relaxation of Ministerial controls in respect of footpaths and bridleways
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Abolition of Ministerial powers in respect of certain expenses
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Abolition of Ministerial powers in relation to toll highways
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Abolition of certain procedures for settlement of disputes by Minister
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Abolition of certain Ministerial controls relating to structures on and near highway
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Miscellaneous amendments of Highway Acts and associated legislation
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part II Road Traffic
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Traffic on bridges etc.
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Miscellaneous
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Enactments Mentioned in Section 53(11)(c)
+- SCHEDULE 9 Domestic Rate Relief Grant
+  - Reduction of rates by reference to domestic rate relief grant
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Distribution of domestic rate relief grant
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Apportionment of rate reductions in the City of London by reference to the domestic rate relief grant
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Adjustment of Block Grant in Connection with Education etc.
+  - Part I ................................
+  - Part II Other Adjustments Between Authorities
+    - Introduction
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Expenditure other than on advanced further education
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Expenditure on advanced further education
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Part III General
+    - Information
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Consultation
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Regulations
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Interpretation
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 11 ................................
+- SCHEDULE 12 ................................
+- SCHEDULE 13
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 ................................
+- SCHEDULE 15
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+  - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+- SCHEDULE 16 Bodies to whom Part X Applies
+- SCHEDULE 17 Community Land Act
+  - Part I Preliminary
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Part II Repeals
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Part III Provisions Re-Enacted Etc.
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Part IV Savings and Supplementary
+    - General
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Offences
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Suspension of planing permission
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Land Authority for Wales
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Land
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - General duties of authorities
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Planning permission for relevant development
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Disposal notification areas
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Direction to dispose of land
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+- SCHEDULE 18 The Land Authority for Wales
+  - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Staff
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Proceedings and instruments
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+  - Supplemental
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+- SCHEDULE 19 Public Authorities
+  - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+- SCHEDULE 20 Land Authority for Wales: Acquisition of Land
+  - Part I Modifications of 1981 Act
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3 ................................](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 4A](schedule/20/paragraph/4A.md)
+  - Part II Acquisition of Land by Agreement
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Part III Supplemental Provisions
+    - Extinguishment of rights over land compulsorily acquired
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - Power to override easements and other rights
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - Use and development of consecrated land and burial grounds
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - Use and development of land for open spaces
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - Savings for paragraphs 8 and 9
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - Construction of the Compulsory Purchase Acts in relation to this Part of this Act
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - Extinguishment of rights of way, and rights as to apparatus, of statutory undertakers
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - Orders under paragraph 12
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+    - Notice for same purposes as paragraph 12 but given by statutory undertakers to Authority
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+    - Rights of entry
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+    - Displacement of Rent Acts
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+- SCHEDULE 21 Land Authority for Wales: Further Provisions
+  - Borrowing powers
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Guarantees
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Accounts and audit
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Accounts and records about land
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Surplus accounts
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Reports
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Register of land holdings
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Information
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+  - Service of documents
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - Regulations and orders
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - Directions and consents
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - Local inquiries
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+  - Exclusion of special parliamentary procedure
+    - [Sch. 21 para. 14 ................................](schedule/21/paragraph/14.md)
+  - Crown land
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+  - Offences by corporations
+    - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+- SCHEDULE 22 Supplementary Provisions (Wales)
+  - Loans
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Guarantees
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Accounts etc.
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Land
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Staff
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Rights and liabilities
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+  - Property
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - General duties
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+  - Planning permission for relevant development
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+  - Amended Acts
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+    - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+  - General
+    - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+- SCHEDULE 23 Land: Miscellaneous Amendments
+  - Part I Amendments of Acquisition of Land (Authorisation Procedure) Act 1946
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - Part II Amendments of National Parks and Access to the Countryside Act 1949
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - Part III Amendments of Town and Country Planning Act 1959
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - Part V Amendments of Local Government Act 1972
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+  - Part VI Amendment of Local Government (Scotland) Act 1973
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+- SCHEDULE 24 Land Compensation Acts as Amended
+  - Part I Section 17 of Land Compensation Act 1961
+    - [Sch. 24 para. 17 Certification of appropriate alternative development.](schedule/24/paragraph/17.md)
+  - Part II Section 25 of Land Compensation (Scotland) Act 1963
+    - [Sch. 24 para. 25 Certification of appropriate alternative development.](schedule/24/paragraph/25.md)
+- SCHEDULE 25 New Towns
+  - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - Part II Amendment of New Towns (Scotland) Act 1968
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+  - Part III Amendment of Land Compensation Act 1961
+    - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+  - Part IV Amendments of Land Compensation (Scotland) Act 1963
+    - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+- SCHEDULE 26 Urban Development Corporations
+  - Members
+    - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+    - [Sch. 26 para. 1A](schedule/26/paragraph/1A.md)
+    - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+    - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+    - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+    - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+    - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+    - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+  - Remuneration
+    - [Sch. 26 para. 8](schedule/26/paragraph/8.md)
+    - [Sch. 26 para. 9](schedule/26/paragraph/9.md)
+    - [Sch. 26 para. 10](schedule/26/paragraph/10.md)
+  - Staff
+    - [Sch. 26 para. 11](schedule/26/paragraph/11.md)
+    - [Sch. 26 para. 12](schedule/26/paragraph/12.md)
+  - Meetings and proceedings
+    - [Sch. 26 para. 13](schedule/26/paragraph/13.md)
+    - [Sch. 26 para. 14](schedule/26/paragraph/14.md)
+  - Delegation of planning functions
+    - [Sch. 26 para. 14A](schedule/26/paragraph/14A.md)
+  - Delegation of planning functions
+    - [Sch. 26 para. 14B](schedule/26/paragraph/14B.md)
+  - Instruments, etc.
+    - [Sch. 26 para. 15](schedule/26/paragraph/15.md)
+    - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
+    - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+  - House of Commons disqualification
+    - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
+- SCHEDULE 27 Vesting of Land in Urban Development Corporations
+  - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+  - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+  - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+  - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+  - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
+  - [Sch. 27 para. 14](schedule/27/paragraph/14.md)
+  - Part II Modification of Enactments: Scotland
+    - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
+    - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+    - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+    - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+    - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+    - [Sch. 27 para. 20](schedule/27/paragraph/20.md)
+    - [Sch. 27 para. 21](schedule/27/paragraph/21.md)
+    - [Sch. 27 para. 22](schedule/27/paragraph/22.md)
+    - [Sch. 27 para. 23](schedule/27/paragraph/23.md)
+    - [Sch. 27 para. 24](schedule/27/paragraph/24.md)
+    - [Sch. 27 para. 25](schedule/27/paragraph/25.md)
+    - [Sch. 27 para. 26](schedule/27/paragraph/26.md)
+- SCHEDULE 28 Urban Development Corporations: Land
+  - Part I Modifications of 1981 and 1947 Acts
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+  - Part II Acquisition of Land by Agreement
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+  - Part III Land: Supplementary
+    - Extinguishment of rights over land
+      - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+    - Power to override easements
+      - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - Consecrated land and burial grounds
+      - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - Churches and burial grounds in Scotland
+      - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+    - Open spaces
+      - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+    - Displacement of persons
+      - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+    - Extinguishment of public rights of way
+      - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+      - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+    - Telegraphic lines
+      - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+    - Statutory undertakers
+      - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+      - [Sch. 28 para. 15](schedule/28/paragraph/15.md)
+      - [Sch. 28 para. 16](schedule/28/paragraph/16.md)
+      - [Sch. 28 para. 17](schedule/28/paragraph/17.md)
+      - [Sch. 28 para. 18](schedule/28/paragraph/18.md)
+      - [Sch. 28 para. 19](schedule/28/paragraph/19.md)
+      - [Sch. 28 para. 20](schedule/28/paragraph/20.md)
+  - Part IV Acquisition of Rights
+    - General
+      - [Sch. 28 para. 21](schedule/28/paragraph/21.md)
+      - [Sch. 28 para. 22](schedule/28/paragraph/22.md)
+    - Adaptation of Part I of 1965 Act
+      - [Sch. 28 para. 23](schedule/28/paragraph/23.md)
+- SCHEDULE 29 Planning Functions of Urban Development Corporations— England and Wales
+  - Part I Enactments referred to in Section 149(3)(a)
+    - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+    - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+    - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
+    - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+    - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+  - Part II Enactments Referred to in Section 149(3)(b)
+- SCHEDULE 30 Planning Functions of Urban Development Corporations–Scotland
+  - Part I Enactments Referred to in Section 149(8)(a)
+  - Part II Enactments Referred to in Section 149(8)(b)
+    - [Sch. 30 para. 1](schedule/30/paragraph/1.md)
+    - [Sch. 30 para. 2](schedule/30/paragraph/2.md)
+    - [Sch. 30 para. 3](schedule/30/paragraph/3.md)
+    - [Sch. 30 para. 4](schedule/30/paragraph/4.md)
+    - [Sch. 30 para. 5](schedule/30/paragraph/5.md)
+    - [Sch. 30 para. 6](schedule/30/paragraph/6.md)
+    - [Sch. 30 para. 7](schedule/30/paragraph/7.md)
+    - [Sch. 30 para. 8](schedule/30/paragraph/8.md)
+    - [Sch. 30 para. 9](schedule/30/paragraph/9.md)
+    - [Sch. 30 para. 10](schedule/30/paragraph/10.md)
+    - [Sch. 30 para. 11](schedule/30/paragraph/11.md)
+    - [Sch. 30 para. 12](schedule/30/paragraph/12.md)
+    - [Sch. 30 para. 13](schedule/30/paragraph/13.md)
+    - [Sch. 30 para. 14](schedule/30/paragraph/14.md)
+- SCHEDULE 31 Urban Development Corporations: Finance etc.
+  - Part I Preliminary
+    - [Sch. 31 para. 1](schedule/31/paragraph/1.md)
+  - Part II Finance
+    - Financial duties
+      - [Sch. 31 para. 2](schedule/31/paragraph/2.md)
+    - Government grants
+      - [Sch. 31 para. 3](schedule/31/paragraph/3.md)
+    - Borrowing
+      - [Sch. 31 para. 4](schedule/31/paragraph/4.md)
+    - Guarantees
+      - [Sch. 31 para. 5](schedule/31/paragraph/5.md)
+    - Assumed debt
+      - [Sch. 31 para. 6](schedule/31/paragraph/6.md)
+    - Surplus funds
+      - [Sch. 31 para. 7](schedule/31/paragraph/7.md)
+    - Financial limits
+      - [Sch. 31 para. 8](schedule/31/paragraph/8.md)
+    - Grants and loans: accounts
+      - [Sch. 31 para. 9](schedule/31/paragraph/9.md)
+  - Part III General Accounts etc.
+    - Accounts
+      - [Sch. 31 para. 10](schedule/31/paragraph/10.md)
+      - [Sch. 31 para. 10A](schedule/31/paragraph/10A.md)
+    - Audit
+      - [Sch. 31 para. 10B](schedule/31/paragraph/10B.md)
+      - [Sch. 31 para. 11](schedule/31/paragraph/11.md)
+    - Transmission to Secretary of State
+      - [Sch. 31 para. 12](schedule/31/paragraph/12.md)
+    - Reports
+      - [Sch. 31 para. 13](schedule/31/paragraph/13.md)
+    - Information
+      - [Sch. 31 para. 14](schedule/31/paragraph/14.md)
+- SCHEDULE 32 Enterprise Zones
+  - Part I Designation of Zones
+    - Invitation to prepare scheme
+      - [Sch. 32 para. 1](schedule/32/paragraph/1.md)
+      - [Sch. 32 para. 2](schedule/32/paragraph/2.md)
+    - Adoption of scheme
+      - [Sch. 32 para. 3](schedule/32/paragraph/3.md)
+    - Questioning scheme’s validity
+      - [Sch. 32 para. 4](schedule/32/paragraph/4.md)
+    - Designation of enterprise zone
+      - [Sch. 32 para. 5](schedule/32/paragraph/5.md)
+    - Publicity of designation
+      - [Sch. 32 para. 6](schedule/32/paragraph/6.md)
+    - Right of entry
+      - [Sch. 32 para. 7](schedule/32/paragraph/7.md)
+    - Acts referred to in Part I
+      - [Sch. 32 para. 8](schedule/32/paragraph/8.md)
+  - Part II Modification of Scheme, Etc.
+    - Modification of scheme
+      - [Sch. 32 para. 9](schedule/32/paragraph/9.md)
+      - [Sch. 32 para. 10](schedule/32/paragraph/10.md)
+      - [Sch. 32 para. 11](schedule/32/paragraph/11.md)
+      - [Sch. 32 para. 12](schedule/32/paragraph/12.md)
+      - [Sch. 32 para. 13](schedule/32/paragraph/13.md)
+      - [Sch. 32 para. 14](schedule/32/paragraph/14.md)
+    - Modification of orders by Secretary of State
+      - [Sch. 32 para. 15](schedule/32/paragraph/15.md)
+    - Change of enterprise zone authority
+      - [Sch. 32 para. 16](schedule/32/paragraph/16.md)
+  - Part III Planning
+    - General
+      - [Sch. 32 para. 17](schedule/32/paragraph/17.md)
+    - Amendments of 1971 Act
+      - [Sch. 32 para. 18](schedule/32/paragraph/18.md)
+    - Amendments of 1972 Act
+      - [Sch. 32 para. 19](schedule/32/paragraph/19.md)
+    - Enterprise zone authority as planning authority
+      - [Sch. 32 para. 20](schedule/32/paragraph/20.md)
+      - [Sch. 32 para. 21](schedule/32/paragraph/21.md)
+      - [Sch. 32 para. 22](schedule/32/paragraph/22.md)
+    - Structure and local plans
+      - [Sch. 32 para. 23](schedule/32/paragraph/23.md)
+    - Structure and local plans
+      - [Sch. 32 para. 24](schedule/32/paragraph/24.md)
+    - Regulations
+      - [Sch. 32 para. 25](schedule/32/paragraph/25.md)
+    - Interpretation
+      - [Sch. 32 para. 26](schedule/32/paragraph/26.md)
+  - Part IV ................................
+  - Part V Rates—Scotland
+    - No rates on certain lands and heritages
+      - [Sch. 32 para. 33](schedule/32/paragraph/33.md)
+    - Grants to Compensate Rating Authorities for Loss of Revenue
+      - [Sch. 32 para. 34](schedule/32/paragraph/34.md)
+    - Supplementary
+      - [Sch. 32 para. 35](schedule/32/paragraph/35.md)
+- SCHEDULE 33 Minor and Consequential Amendments
+  - Commissioners of Works Act 1894 (c. 23)
+    - [Sch. 33 para. 1](schedule/33/paragraph/1.md)
+  - Agricultural Land (Utilisation) Act 1931 (c. 41)
+    - [Sch. 33 para. 2](schedule/33/paragraph/2.md)
+  - Lands Tribunal Act 1949 (c. 42)
+    - [Sch. 33 para. 3](schedule/33/paragraph/3.md)
+  - Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 33 para. 4](schedule/33/paragraph/4.md)
+  - Land Compensation Act 1961 (c. 33)
+    - [Sch. 33 para. 5](schedule/33/paragraph/5.md)
+    - [Sch. 33 para. 6](schedule/33/paragraph/6.md)
+  - Land Compensation (Scotland) Act 1963 (c. 51)
+    - [Sch. 33 para. 7](schedule/33/paragraph/7.md)
+    - [Sch. 33 para. 8](schedule/33/paragraph/8.md)
+    - [Sch. 33 para. 9](schedule/33/paragraph/9.md)
+    - [Sch. 33 para. 12](schedule/33/paragraph/12.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 33 para. 13](schedule/33/paragraph/13.md)
+  - Housing Act 1980 (c. 51)
+    - [Sch. 33 para. 14](schedule/33/paragraph/14.md)
+- SCHEDULE 34 Repeals
+  - Part I Repeals Consequential on Section 1(1)—Various Controls
+  - Part II Repeals Consequential on Section 1(2)—Clean Air and Pollution
+  - Part III Repeals Consequential on Section 1(3)—Amenity Etc.
+  - Part IV Repeals Consequential on Section 1(4)—Weights and Measures and Trade
+  - Part V Repeals Consequential on Section 1(5)—Allotments
+  - PART VI Repeals Consequential on Section 1(6)—Charges and Rates of Interest Etc.
+  - Part VII Repeals Consequential on Section 1(7)—Highways
+  - Part VIII Repeals Consequential on Section 1(8)—Road Traffic
+  - Part IX Rates
+  - Part X Town and Country Planning
+  - Part XI Community Land
+  - Part XII Land Compensation
+  - Part XIII Repeals Consequential on Section 118 England and Wales
+  - Part XIV Town Development
+  - PART XV New Towns
+  - PART XVI Miscellaneous
