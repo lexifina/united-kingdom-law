@@ -1,0 +1,882 @@
+# Local Government Finance Act 1988
+
+1988 c. 41. Enacted 1988-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 98 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
+
+Source: https://www.legislation.gov.uk/ukpga/1988/41/2026-10-05
+
+## Contents
+
+- Part I
+  - Charges
+    - [s. 1 The charges.](section/1.md)
+    - [s. 2 Persons subject to personal community charge.](section/2.md)
+    - [s. 3 Persons subject to standard community charge.](section/3.md)
+    - [s. 4 Section 3: interpretation.](section/4.md)
+    - [s. 5 Persons subject to collective community charge.](section/5.md)
+  - Registers
+    - [s. 6 Community charges register.](section/6.md)
+  - Charges and registers: miscellaneous
+    - [s. 7 Persons subject to charges: miscellaneous.](section/7.md)
+    - [s. 8 Registers: miscellaneous.](section/8.md)
+  - Collective community charge contributions
+    - [s. 9 Liability to contribute.](section/9.md)
+    - [s. 10 Contributions: interpretation of formula.](section/10.md)
+    - [s. 11 Contributions: further provisions.](section/11.md)
+  - Liability to pay in respect of charges
+    - [s. 12 Personal community charge.](section/12.md)
+    - [s. 13 Relief for students.](section/13.md)
+    - [s. 13A Reduced liability.](section/13A.md)
+    - [s. 14 Standard community charge.](section/14.md)
+    - [s. 15 Collective community charge.](section/15.md)
+    - [s. 16 Joint and several liability: spouses.](section/16.md)
+    - [s. 17 Joint and several liability: management arrangements.](section/17.md)
+    - [s. 18 Discharge of liability.](section/18.md)
+  - Miscellaneous
+    - [s. 19 Co-owners.](section/19.md)
+    - [s. 20 Contributions in aid.](section/20.md)
+    - [s. 21 Standard community charge: special cases.](section/21.md)
+    - [s. 22 Administration and penalties.](section/22.md)
+    - [s. 23 Appeals.](section/23.md)
+    - [s. 24 Appeals: preliminary steps.](section/24.md)
+    - [s. 25 Death.](section/25.md)
+    - [s. 26 Community charges registration officer.](section/26.md)
+    - [s. 26A Registration officer: information.](section/26A.md)
+    - [s. 27 Default powers as to registers.](section/27.md)
+    - [s. 28 Default powers as to resources.](section/28.md)
+    - [s. 29 Rights of electoral registration officers.](section/29.md)
+  - General
+    - [s. 30 Students.](section/30.md)
+    - [s. 31 Interpretation.](section/31.md)
+- Part II
+  - Charges
+    - [s. 32 Amount for personal community charges.](section/32.md)
+    - [s. 33 Setting of different amounts.](section/33.md)
+    - [s. 34 Power to set substituted amounts.](section/34.md)
+    - [s. 35 Duty to set substituted amounts.](section/35.md)
+    - [s. 35A Section 35: interpretation.](section/35A.md)
+    - [s. 35B Substitutions: maximum amounts.](section/35B.md)
+    - [s. 35C Multiple substitutions.](section/35C.md)
+    - [s. 36 Substituted amounts: supplementary.](section/36.md)
+    - [s. 37 Power to anticipate precept.](section/37.md)
+    - [s. 38 Anticipated precepts: supplementary.](section/38.md)
+    - [s. 39 Information.](section/39.md)
+  - Multipliers
+    - [s. 40 Standard community charge multipliers.](section/40.md)
+- Part III Non-Domestic Rating
+  - Local rating
+    - [s. 41 Local rating lists:England.](section/41.md)
+    - [s. 41ZA Local rating lists: Wales](section/41ZA.md)
+    - [s. 41A Local non-domestic rating lists for Welsh billing authorities.](section/41A.md)
+    - [s. 42 Contents of local lists.](section/42.md)
+    - [s. 42A Rural settlement list.](section/42A.md)
+    - [s. 42B Preparation and maintenance of lists.](section/42B.md)
+    - [s. 43 Occupied hereditaments liability and reliefs.](section/43.md)
+    - [s. 44 Occupied hereditaments: supplementary.](section/44.md)
+    - [s. 44A Partly occupied hereditaments.](section/44A.md)
+    - [s. 45 Unoccupied hereditaments: liability and reliefs.](section/45.md)
+    - [s. 45A Unoccupied hereditaments: zero-rating](section/45A.md)
+    - [s. 46 Unoccupied hereditaments: supplementary.](section/46.md)
+    - [s. 46A Unoccupied hereditaments: new buildings.](section/46A.md)
+    - [s. 47 Discretionary relief.](section/47.md)
+    - [s. 48 Discretionary relief: supplementary.](section/48.md)
+    - [s. 48A Discretionary relief: functions of Mayoral development corporations](section/48A.md)
+    - [s. 49 Reduction or remission of liability.](section/49.md)
+    - [s. 49A Cancellation of backdated liabilities for days in years 2005 to 2010](section/49A.md)
+    - [s. 50 Joint owners or occupiers.](section/50.md)
+    - [s. 51 Exemption.](section/51.md)
+  - Central rating
+    - [s. 52 Central rating lists for England.](section/52.md)
+    - [s. 52ZA Central rating lists for Wales](section/52ZA.md)
+    - [s. 53 Contents of central lists.](section/53.md)
+    - [s. 54 Central rating: liability and reliefs.](section/54.md)
+    - [s. 54ZA Relief for telecommunications infrastructure](section/54ZA.md)
+  - General
+    - [s. 54A Postponement of compilation of Welsh lists for 2015 onwards](section/54A.md)
+    - [s. 54AB Power to amend revaluation year: Wales](section/54AB.md)
+    - [s. 55 Alteration of lists.](section/55.md)
+    - [s. 56 Valuation and multipliers.](section/56.md)
+    - [s. 57 Special provision for 1990-95.](section/57.md)
+    - [s. 57A Transitional provision for 2005 onwards: England](section/57A.md)
+    - [s. 58 Special provision for 1995 onwards.](section/58.md)
+    - [s. 59 Contributions in aid.](section/59.md)
+    - [s. 59A Local retention of non-domestic rates](section/59A.md)
+    - [s. 60 Pooling.](section/60.md)
+    - [s. 61 Valuation officers.](section/61.md)
+    - [s. 62 Administration.](section/62.md)
+    - [s. 62A Recovery by taking control of goods](section/62A.md)
+    - [s. 63 Death.](section/63.md)
+    - [s. 63A Disclosure of Revenue and Customs information](section/63A.md)
+    - [s. 63B Restrictions on onward disclosure of Revenue and Customs information](section/63B.md)
+    - [s. 63C Freedom of information](section/63C.md)
+    - [s. 63D Disclosure of valuation information to Northern Ireland rating officials](section/63D.md)
+  - Anti-avoidance: Wales
+    - [s. 63F Artificial non-domestic rating avoidance arrangements: introduction](section/63F.md)
+    - [s. 63G Meaning of “advantage”](section/63G.md)
+    - [s. 63H Meaning of “artificial”](section/63H.md)
+    - [s. 63I Liability to non-domestic rating: local lists](section/63I.md)
+    - [s. 63J Liability to non-domestic rating: central lists](section/63J.md)
+    - [s. 63K Liability to non-domestic rating: notification](section/63K.md)
+    - [s. 63L Appeals to valuation tribunal](section/63L.md)
+    - [s. 63M Penalties](section/63M.md)
+  - Interpretation
+    - [s. 64 Hereditaments.](section/64.md)
+    - [s. 65 Owners and occupiers.](section/65.md)
+    - [s. 65A Crown property.](section/65A.md)
+    - [s. 66 Domestic property.](section/66.md)
+    - [s. 66A Unoccupied hereditaments: change of state of property to be disregarded](section/66A.md)
+    - [s. 67 Interpretation: other provisions.](section/67.md)
+- Part IV Precepts and Levies
+  - Precepts
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 ................................](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 Levies.](section/74.md)
+    - [s. 74A ................................](section/74A.md)
+    - [s. 75 Special levies.](section/75.md)
+    - [s. 75A ................................](section/75A.md)
+- Part V Grants
+  - Chapter 1 General
+    - [s. 76 Interpretation.](section/76.md)
+  - Introduction
+    - [s. 77 ................................](section/77.md)
+  - Chapter 2 Revenue support grant: England
+    - Introductory
+      - [s. 77A Application of Chapter 2](section/77A.md)
+    - Revenue support grant
+      - [s. 78 Revenue support grant.](section/78.md)
+      - [s. 78A Requirement to specify determination in local government finance report.](section/78A.md)
+      - [s. 79 Effect of report’s approval.](section/79.md)
+      - [s. 80 ................................](section/80.md)
+      - [s. 81 ................................](section/81.md)
+      - [s. 82 Calculation of sums payable.](section/82.md)
+      - [s. 83 Payment of sums.](section/83.md)
+      - [s. 84 ................................](section/84.md)
+    - Revenue support grant: amending reports
+      - [s. 84A Amending reports.](section/84A.md)
+      - [s. 84B Calculation of sums payable under amending reports.](section/84B.md)
+      - [s. 84C Payment of sums under amending reports.](section/84C.md)
+  - Chapter 3 Revenue Support Grant: Wales
+    - [s. 84D Application of Chapter 3](section/84D.md)
+    - [s. 84E Revenue support grant: Wales](section/84E.md)
+    - [s. 84F Determination of grant](section/84F.md)
+    - [s. 84G Local government finance reports](section/84G.md)
+    - [s. 84H Effect of report’s approval](section/84H.md)
+    - [s. 84J calculation of grant payable to receiving authorities](section/84J.md)
+    - [s. 84K Payment of grant to receiving authorities](section/84K.md)
+    - [s. 84L Amending reports](section/84L.md)
+    - [s. 84M Recalculation of grant following amending report](section/84M.md)
+    - [s. 84N Payment of grant following amending report](section/84N.md)
+    - [s. 84P Information deadlines](section/84P.md)
+  - Chapter 4 Other grants
+    - [s. 84Q Application of this Chapter etc](section/84Q.md)
+    - ................................
+      - [s. 85 Additional grant.](section/85.md)
+      - [s. 86 Effect of report’s approval.](section/86.md)
+    - Additional grant: Wales
+      - [s. 86A Additional grant: Wales](section/86A.md)
+      - [s. 86B Effect of additional grant report’s approval: Wales](section/86B.md)
+    - Transport grants
+      - [s. 87 Transport grants.](section/87.md)
+      - [s. 88 Transport grants: supplementary.](section/88.md)
+    - Other grants
+      - [s. 88A Council tax grants.](section/88A.md)
+      - [s. 88B Special grants.](section/88B.md)
+      - [s. 88C Special grants: Wales](section/88C.md)
+- Part VI Funds
+  - Funds
+    - [s. 89 Collection funds.](section/89.md)
+    - [s. 89A Principal councils in Wales.](section/89A.md)
+    - [s. 90 Payments to and from collection funds.](section/90.md)
+    - [s. 91 General funds.](section/91.md)
+    - [s. 92 General funds: supplementary.](section/92.md)
+    - [s. 93 The City fund.](section/93.md)
+    - [s. 94 The City: further provisions.](section/94.md)
+  - Calculations
+    - [s. 95 ................................](section/95.md)
+    - [s. 96 ................................](section/96.md)
+  - Transfers between funds
+    - [s. 97 Principal transfers between funds.](section/97.md)
+    - [s. 98 Other transfers between funds.](section/98.md)
+  - Regulations about funds
+    - [s. 99 Regulations about funds.](section/99.md)
+- Part VII
+  - [s. 100 Power to designate authorities.](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 Designation of authorities.](section/102.md)
+  - [s. 103 Transitional years: special provisions.](section/103.md)
+  - [s. 104 Challenge of maximum amount.](section/104.md)
+  - [s. 105 Acceptance of maximum amount.](section/105.md)
+  - [s. 106 No challenge or acceptance.](section/106.md)
+  - [s. 107 Substituted calculations and precepts.](section/107.md)
+  - [s. 108 Failure to substitute.](section/108.md)
+  - [s. 109 Other financial requirements.](section/109.md)
+  - [s. 110 Information.](section/110.md)
+- Part VIII Financial Administration
+  - [s. 111 Interpretation.](section/111.md)
+  - [s. 112 Financial administration as to certain authorities.](section/112.md)
+  - [s. 113 Qualifications of responsible officer.](section/113.md)
+  - [s. 114 Functions of responsible officer as regards reports.](section/114.md)
+  - [s. 114A Functions of responsible officer as regards reports—local authorities operating executive arrangements](section/114A.md)
+  - [s. 115 Authority’s duties as regards reports.](section/115.md)
+  - [s. 115A Duties of Mayor of London and London Assembly as regards reports.](section/115A.md)
+  - [s. 115B Duties of executive as regards reports](section/115B.md)
+  - [s. 116 Information about consideration of reports etc.](section/116.md)
+- Part IX Existing Rates, Precepts and Grants
+  - [s. 117 Rates and precepts: abolition.](section/117.md)
+  - [s. 118 Rates: power to abolish or modify.](section/118.md)
+  - [s. 119 ................................](section/119.md)
+  - [s. 120 Refund of overpayments.](section/120.md)
+  - [s. 121 Valuation according to tone of list.](section/121.md)
+  - [s. 122 Rating of statutory water undertakings.](section/122.md)
+  - [s. 123 Rating amendments: miscellaneous.](section/123.md)
+  - [s. 124 Rate support grant: abolition.](section/124.md)
+  - [s. 125 Transport grants: abolition.](section/125.md)
+  - [s. 126 Variation of multipliers in supplementary reports.](section/126.md)
+  - [s. 127 London Regional Transport grants: amendment.](section/127.md)
+- Part X Scotland
+  - [s. 128 Levying of rates.](section/128.md)
+  - [s. 129 ................................](section/129.md)
+- Part XI Miscellaneous and General
+  - [s. 130 ................................](section/130.md)
+  - Other miscellaneous provisions
+    - [s. 133 ................................](section/133.md)
+    - [s. 134 ................................](section/134.md)
+    - [s. 135 Social security.](section/135.md)
+    - [s. 136 Tribunals.](section/136.md)
+    - [s. 137 Amendments.](section/137.md)
+  - General
+    - [s. 138 Judicial review.](section/138.md)
+    - [s. 139 Functions to be discharged only by authority.](section/139.md)
+    - [s. 139A Information.](section/139A.md)
+    - [s. 140 Separate administration in England and Wales.](section/140.md)
+    - [s. 141 Payments to and from authorities.](section/141.md)
+    - [s. 141A ................................](section/141A.md)
+    - [s. 141B ................................](section/141B.md)
+    - [s. 142 Saving for remedies.](section/142.md)
+    - [s. 143 Orders and regulations.](section/143.md)
+    - [s. 143A Orders and regulations of the Welsh Ministers](section/143A.md)
+    - [s. 144 Interpretation: authorities.](section/144.md)
+    - [s. 145 Interpretation: financial years etc.](section/145.md)
+    - [s. 145A ................................](section/145A.md)
+    - [s. 146 Interpretation: other provisions.](section/146.md)
+    - [s. 147 Power to make supplementary provision.](section/147.md)
+    - [s. 148 Finance.](section/148.md)
+    - [s. 149 Repeals.](section/149.md)
+    - [s. 150 Commencement: Scotland.](section/150.md)
+    - [s. 151 Extent.](section/151.md)
+    - [s. 152 Citation.](section/152.md)
+- SCHEDULE 1
+  - Persons in detention
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Visiting forces
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - International headquarters and defence organisations
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The severely mentally impaired
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Children
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Students
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Members of religious communities
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Hospital patients
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Patients in homes
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Care workers
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Residents of certain Crown buildings
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Residents of certain other dwellings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Persons without fixed abodes
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Charges
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Contributions
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Discounts
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - Information
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 ................................](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Inspection etc.
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Miscellaneous
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- SCHEDULE 3
+  - Imposition by authority
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Imposition by registration officer
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - General
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4
+  - Part I Introduction
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II Charges: Sole Liability
+    - Preliminary
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Liability orders
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Information
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Attachment of earnings
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Deductions from income support
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Distress
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Commitment to prison
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Bankruptcy
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Winding up
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Charging orders
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Relationship between remedies
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Magistrates and justices
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Part III Charges: Joint and Several Liability
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Part VIA Co-owners
+    - [Sch. 4 para. 21A](schedule/4/paragraph/21A.md)
+    - [Sch. 4 para. 21B](schedule/4/paragraph/21B.md)
+  - Part IV Contributions
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Part V Discount Adjustments
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Part VI Repayments
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Part VII Penalties
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Part VIII General
+    - Exclusion of certain matters
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Costs
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Termination of proceedings
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Offences
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Other enactments
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+- SCHEDULE 4ZA Occupied hereditaments: chargeable amount
+  - PART 1 Chargeable amount before any reliefs
+    - [Sch. 4ZA para. 1](schedule/4ZA/paragraph/1.md)
+  - PART 2 Partial reliefs
+    - [Sch. 4ZA para. 2 Charitable rate relief](schedule/4ZA/paragraph/2.md)
+    - [Sch. 4ZA para. 2A](schedule/4ZA/paragraph/2A.md)
+    - [Sch. 4ZA para. 3 Improvement rate relief](schedule/4ZA/paragraph/3.md)
+    - [Sch. 4ZA para. 4 Small business rate relief](schedule/4ZA/paragraph/4.md)
+  - PART 3 Full reliefs
+    - [Sch. 4ZA para. 5 Introduction](schedule/4ZA/paragraph/5.md)
+    - [Sch. 4ZA para. 6 Heat networks rate relief](schedule/4ZA/paragraph/6.md)
+    - [Sch. 4ZA para. 7 Public lavatories rate relief](schedule/4ZA/paragraph/7.md)
+    - [Sch. 4ZA para. 8 Rural rate relief](schedule/4ZA/paragraph/8.md)
+  - PART 3A POWERS TO CONFER, VARY AND WITHDRAW RELIEFS: WALES
+    - [Sch. 4ZA para. 8A Power to confer additional partial reliefs](schedule/4ZA/paragraph/8A.md)
+    - [Sch. 4ZA para. 8B Power to confer additional full reliefs](schedule/4ZA/paragraph/8B.md)
+    - [Sch. 4ZA para. 8C Power to vary or withdraw reliefs](schedule/4ZA/paragraph/8C.md)
+  - PART 4 Cases where more than one relief applies
+    - [Sch. 4ZA para. 9](schedule/4ZA/paragraph/9.md)
+    - [Sch. 4ZA para. 9A](schedule/4ZA/paragraph/9A.md)
+  - PART 5 Interpretation
+    - [Sch. 4ZA para. 10](schedule/4ZA/paragraph/10.md)
+    - [Sch. 4ZA para. 11](schedule/4ZA/paragraph/11.md)
+- SCHEDULE 4ZB Unoccupied hereditaments: chargeable amount
+  - PART 1 Chargeable amount before any reliefs
+    - [Sch. 4ZB para. 1](schedule/4ZB/paragraph/1.md)
+  - PART 2 Full relief
+    - [Sch. 4ZB para. 2 Charitable rate relief](schedule/4ZB/paragraph/2.md)
+  - PART 2A POWERS TO CONFER, VARY AND WITHDRAW RELIEFS: WALES
+    - [Sch. 4ZB para. 2A Power to confer partial reliefs: Wales](schedule/4ZB/paragraph/2A.md)
+    - [Sch. 4ZB para. 2B Power to confer additional full reliefs](schedule/4ZB/paragraph/2B.md)
+    - [Sch. 4ZB para. 2C Power to vary or withdraw reliefs](schedule/4ZB/paragraph/2C.md)
+  - PART 2B CASES WHERE MORE THAN ONE RELIEF APPLIES: WALES
+    - [Sch. 4ZB para. 2D](schedule/4ZB/paragraph/2D.md)
+    - [Sch. 4ZB para. 2E](schedule/4ZB/paragraph/2E.md)
+  - PART 3 Interpretation
+    - [Sch. 4ZB para. 3](schedule/4ZB/paragraph/3.md)
+    - [Sch. 4ZB para. 4](schedule/4ZB/paragraph/4.md)
+- SCHEDULE 4A Non-Domestic Rating: New Buildings (Completion Days)
+  - Completion notices
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Determination of completion day
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Position pending appeal
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - Duty to inform valuation officer
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - Supplementary
+    - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+    - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+- SCHEDULE 5 Non-Domestic Rating: Exemption
+  - Agricultural premises
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Fish farms
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Fishing
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Places of religious worship etc.
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Certain property of Trinity House
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Sewers
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Property of drainage authorities
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Parks
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Property used for the disabled
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Air-raid protection works
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Swinging moorings
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Road crossings over watercourses etc.
+    - [Sch. 5 para. 18A](schedule/5/paragraph/18A.md)
+  - Property used for road user charging schemes
+    - [Sch. 5 para. 18B](schedule/5/paragraph/18B.md)
+  - Property in enterprise zones
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Visiting forces etc.
+    - [Sch. 5 para. 19A](schedule/5/paragraph/19A.md)
+  - Power to confer exemption: England
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Powers to confer, vary and withdraw exemption: Wales
+    - [Sch. 5 para. 20A](schedule/5/paragraph/20A.md)
+  - Interpretation
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+- SCHEDULE 5A Central rating: chargeable amount
+  - PART 1 Chargeable amount before any reliefs
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - PART 2 Reliefs
+    - [Sch. 5A para. 2 Charitable rate relief](schedule/5A/paragraph/2.md)
+    - [Sch. 5A para. 3 Improvement rate relief](schedule/5A/paragraph/3.md)
+    - [Sch. 5A para. 4 Unoccupied hereditaments rate relief](schedule/5A/paragraph/4.md)
+  - PART 2A POWERS TO CONFER, VARY AND WITHDRAW RELIEFS: WALES
+    - [Sch. 5A para. 4A Power to confer additional partial reliefs: Wales](schedule/5A/paragraph/4A.md)
+    - [Sch. 5A para. 4B Power to confer additional full reliefs](schedule/5A/paragraph/4B.md)
+    - [Sch. 5A para. 4C Power to vary or withdraw reliefs](schedule/5A/paragraph/4C.md)
+  - PART 3 Cases where more than one relief applies
+    - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+    - [Sch. 5A para. 5A](schedule/5A/paragraph/5A.md)
+    - [Sch. 5A para. 5B](schedule/5A/paragraph/5B.md)
+  - PART 4 Interpretation
+    - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+    - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+- SCHEDULE 6 Non-Domestic Rating: Valuation
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 2ZA](schedule/6/paragraph/2ZA.md)
+  - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+  - [Sch. 6 para. 2B](schedule/6/paragraph/2B.md)
+  - [Sch. 6 para. 2C](schedule/6/paragraph/2C.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Non-Domestic Rating: Multipliers
+  - PART A1 Non-Domestic Rating Multipliers: England
+    - CHAPTER 1 Introduction
+      - [Sch. 7 para. A1](schedule/7/paragraph/A1.md)
+      - [Sch. 7 para. A2](schedule/7/paragraph/A2.md)
+    - CHAPTER 2 The non-domestic rating multiplier
+      - [Sch. 7 para. A3 Revaluation years](schedule/7/paragraph/A3.md)
+      - [Sch. 7 para. A4 Other years](schedule/7/paragraph/A4.md)
+    - CHAPTER 3 The small business non-domestic rating multiplier
+      - [Sch. 7 para. A5 Revaluation years](schedule/7/paragraph/A5.md)
+      - [Sch. 7 para. A6 Other years](schedule/7/paragraph/A6.md)
+    - Chapter 3A Other non-domestic rating multipliers
+      - [Sch. 7 para. A6A](schedule/7/paragraph/A6A.md)
+    - CHAPTER 4 Making and giving notice of calculations etc
+      - [Sch. 7 para. A7](schedule/7/paragraph/A7.md)
+      - [Sch. 7 para. A8](schedule/7/paragraph/A8.md)
+      - [Sch. 7 para. A9](schedule/7/paragraph/A9.md)
+    - CHAPTER 5 Interpretation
+      - [Sch. 7 para. A10](schedule/7/paragraph/A10.md)
+      - [Sch. 7 para. A11](schedule/7/paragraph/A11.md)
+    - CHAPTER 6 Regulations
+      - [Sch. 7 para. A12](schedule/7/paragraph/A12.md)
+  - PART A2 NON-DOMESTIC RATING MULTIPLIERS: WALES
+    - [Sch. 7 para. A13 Introduction](schedule/7/paragraph/A13.md)
+    - [Sch. 7 para. A14 Calculation of non-domestic rating multiplier: revaluation years](schedule/7/paragraph/A14.md)
+    - [Sch. 7 para. A15 Calculation of non-domestic rating multiplier: other years](schedule/7/paragraph/A15.md)
+    - [Sch. 7 para. A16 Calculation of differential multipliers](schedule/7/paragraph/A16.md)
+    - [Sch. 7 para. A17 Calculation of differential multipliers: supplementary](schedule/7/paragraph/A17.md)
+    - [Sch. 7 para. A18 Welsh Ministers’ power to alter the calculations for non-domestic rating multipliers](schedule/7/paragraph/A18.md)
+    - [Sch. 7 para. A19 Making and giving notice of calculations etc.](schedule/7/paragraph/A19.md)
+    - [Sch. 7 para. A20 Interpretation](schedule/7/paragraph/A20.md)
+  - Part I Non-Domestic Rating Multipliers: Wales
+    - Introduction
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - General provisions
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 3A](schedule/7/paragraph/3A.md)
+      - [Sch. 7 para. 3B](schedule/7/paragraph/3B.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 4A](schedule/7/paragraph/4A.md)
+      - [Sch. 7 para. 4B](schedule/7/paragraph/4B.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Special provision for 1990-95
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part II Special Authority’s Multipliers
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 9A](schedule/7/paragraph/9A.md)
+    - [Sch. 7 para. 9B](schedule/7/paragraph/9B.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+- SCHEDULE 7A Non-Domestic Rating: 1990-95
+  - Definitions
+    - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+    - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+    - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+    - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+    - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+    - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+  - Chargeable amounts
+    - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+    - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+    - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+  - Regulations
+    - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+    - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+    - [Sch. 7A para. 12](schedule/7A/paragraph/12.md)
+- SCHEDULE 7B Local retention of non-domestic rates
+  - Part 1 Main non-domestic rating accounts
+    - [Sch. 7B para. 1 Main non-domestic rating accounts](schedule/7B/paragraph/1.md)
+    - [Sch. 7B para. 2 Credits and debits](schedule/7B/paragraph/2.md)
+    - [Sch. 7B para. 3 End of year calculations](schedule/7B/paragraph/3.md)
+  - Part 2 Determination of the central and local share
+    - [Sch. 7B para. 4 Determination of the central and local share](schedule/7B/paragraph/4.md)
+    - [Sch. 7B para. 5 Local government finance reports](schedule/7B/paragraph/5.md)
+  - Part 3 Payments to the Secretary of State in respect of the central share
+    - [Sch. 7B para. 6 Payments to the Secretary of State in respect of the central share](schedule/7B/paragraph/6.md)
+    - [Sch. 7B para. 7 Regulations about administrative arrangements](schedule/7B/paragraph/7.md)
+    - [Sch. 7B para. 8 Regulations about deductions from central share payments](schedule/7B/paragraph/8.md)
+  - Part 4 Payments by billing authorities to major precepting authorities
+    - [Sch. 7B para. 9 Regulations about payments](schedule/7B/paragraph/9.md)
+    - [Sch. 7B para. 10 Regulations about administrative arrangements](schedule/7B/paragraph/10.md)
+    - [Sch. 7B para. 11 Payments out of deduction from central share payments](schedule/7B/paragraph/11.md)
+  - Part 5 Principal payments in connection with local retention of non-domestic rates
+    - [Sch. 7B para. 12 Determination of payments](schedule/7B/paragraph/12.md)
+    - [Sch. 7B para. 13 Calculations following local government finance report](schedule/7B/paragraph/13.md)
+    - [Sch. 7B para. 14 Payments following local government finance report](schedule/7B/paragraph/14.md)
+    - [Sch. 7B para. 15 Amending reports](schedule/7B/paragraph/15.md)
+    - [Sch. 7B para. 16 Calculations following amending report](schedule/7B/paragraph/16.md)
+    - [Sch. 7B para. 17 Payments following amending report](schedule/7B/paragraph/17.md)
+    - [Sch. 7B para. 18 Relationship with other provisions](schedule/7B/paragraph/18.md)
+  - Part 6 Levy accounts
+    - [Sch. 7B para. 19 Levy accounts](schedule/7B/paragraph/19.md)
+    - [Sch. 7B para. 20 Credits and debits](schedule/7B/paragraph/20.md)
+    - [Sch. 7B para. 21 End of year calculations](schedule/7B/paragraph/21.md)
+  - Part 7 Levy payments, safety net payments and distribution of remaining balance
+    - [Sch. 7B para. 22 Regulations about calculation of levy payments](schedule/7B/paragraph/22.md)
+    - [Sch. 7B para. 23 Calculation of levy payments](schedule/7B/paragraph/23.md)
+    - [Sch. 7B para. 24 Levy payments following calculations](schedule/7B/paragraph/24.md)
+    - [Sch. 7B para. 25 Regulations about calculation of safety net payments](schedule/7B/paragraph/25.md)
+    - [Sch. 7B para. 26 Calculation of safety net payments](schedule/7B/paragraph/26.md)
+    - [Sch. 7B para. 27 Safety net payments following calculations](schedule/7B/paragraph/27.md)
+    - [Sch. 7B para. 28 Regulations about payments on account](schedule/7B/paragraph/28.md)
+    - [Sch. 7B para. 29 Calculation of remaining balance on levy account](schedule/7B/paragraph/29.md)
+    - [Sch. 7B para. 30 Distribution of remaining balance](schedule/7B/paragraph/30.md)
+    - [Sch. 7B para. 31 Relationship with other provisions](schedule/7B/paragraph/31.md)
+  - Part 8 Transitional protection payments
+    - [Sch. 7B para. 32 Regulations about deemed and actual rating income](schedule/7B/paragraph/32.md)
+    - [Sch. 7B para. 33 Regulations about transitional protection payments](schedule/7B/paragraph/33.md)
+  - Part 9 Pooling of authorities
+    - [Sch. 7B para. 34 Designation of pool of authorities](schedule/7B/paragraph/34.md)
+    - [Sch. 7B para. 35 Designations subject to conditions](schedule/7B/paragraph/35.md)
+    - [Sch. 7B para. 36 Effect of designation in relation to Part 5](schedule/7B/paragraph/36.md)
+    - [Sch. 7B para. 37 Effect of designation in relation to Part 7](schedule/7B/paragraph/37.md)
+    - [Sch. 7B para. 38 Further provisions about effect of designation](schedule/7B/paragraph/38.md)
+  - Part 10 Designation of areas and classes of hereditament
+    - [Sch. 7B para. 39 Designation of areas](schedule/7B/paragraph/39.md)
+    - [Sch. 7B para. 40 Designation of classes of hereditament](schedule/7B/paragraph/40.md)
+    - [Sch. 7B para. 41 Payments to relevant authorities](schedule/7B/paragraph/41.md)
+    - [Sch. 7B para. 42 Estimates of amounts to be disregarded](schedule/7B/paragraph/42.md)
+  - Part 11 Supplementary
+    - [Sch. 7B para. 43 Calculations and supply of information by relevant authorities](schedule/7B/paragraph/43.md)
+    - [Sch. 7B para. 44 Regulations about calculations and supply of information](schedule/7B/paragraph/44.md)
+    - [Sch. 7B para. 45 Interpretation of Schedule](schedule/7B/paragraph/45.md)
+- SCHEDULE 8 Non-Domestic Rating: Pooling
+  - Part I Non-Domestic Rating Accounts
+    - The accounts
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Credits and debits
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Part II Contribution
+    - Interpretation
+      - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
+    - Non-domestic rating contributions
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Recovery
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part III Distribution
+    - Interpretation
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Distributable amount
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Years where two local government finance reports prepared for Wales
+      - [Sch. 8 para. 9A](schedule/8/paragraph/9A.md)
+    - Distribution: local government finance reports
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 11A](schedule/8/paragraph/11A.md)
+      - [Sch. 8 para. 11B](schedule/8/paragraph/11B.md)
+      - [Sch. 8 para. 11C](schedule/8/paragraph/11C.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Distribution: amending reports
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - [Sch. 8 para. 14A](schedule/8/paragraph/14A.md)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Source of payments by Welsh Ministers
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Recovery
+      - [Sch. 8 para. 16n1](schedule/8/paragraph/16n1.md)
+- SCHEDULE 9 Non-Domestic Rating: Administration
+  - Collection and recovery
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 4A](schedule/9/paragraph/4A.md)
+  - Information
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 5A](schedule/9/paragraph/5A.md)
+    - [Sch. 9 para. 5B](schedule/9/paragraph/5B.md)
+    - [Sch. 9 para. 5C](schedule/9/paragraph/5C.md)
+    - [Sch. 9 para. 5D](schedule/9/paragraph/5D.md)
+    - [Sch. 9 para. 5E](schedule/9/paragraph/5E.md)
+    - [Sch. 9 para. 5F](schedule/9/paragraph/5F.md)
+    - [Sch. 9 para. 5G](schedule/9/paragraph/5G.md)
+    - [Sch. 9 para. 5H](schedule/9/paragraph/5H.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 6A](schedule/9/paragraph/6A.md)
+    - [Sch. 9 para. 6AA](schedule/9/paragraph/6AA.md)
+  - Powers of entry
+    - [Sch. 9 para. 6B](schedule/9/paragraph/6B.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 7A](schedule/9/paragraph/7A.md)
+  - Access to information
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 8A](schedule/9/paragraph/8A.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+- SCHEDULE 10 Competition test: functions and agreements relating to buses
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+- SCHEDULE 11 Tribunals
+  - Part 1 The Valuation Tribunal for England
+    - Establishment
+      - [Sch. 11 para. A1](schedule/11/paragraph/A1.md)
+    - Jurisdiction
+      - [Sch. 11 para. A2](schedule/11/paragraph/A2.md)
+      - [Sch. 11 para. A3](schedule/11/paragraph/A3.md)
+    - Membership
+      - [Sch. 11 para. A4](schedule/11/paragraph/A4.md)
+      - [Sch. 11 para. A5](schedule/11/paragraph/A5.md)
+      - [Sch. 11 para. A6](schedule/11/paragraph/A6.md)
+      - [Sch. 11 para. A7](schedule/11/paragraph/A7.md)
+      - [Sch. 11 para. A8](schedule/11/paragraph/A8.md)
+    - Tenure of office
+      - [Sch. 11 para. A9](schedule/11/paragraph/A9.md)
+      - [Sch. 11 para. A10](schedule/11/paragraph/A10.md)
+    - Remuneration, allowances & pension
+      - [Sch. 11 para. A11](schedule/11/paragraph/A11.md)
+      - [Sch. 11 para. A12](schedule/11/paragraph/A12.md)
+      - [Sch. 11 para. A13](schedule/11/paragraph/A13.md)
+      - [Sch. 11 para. A14](schedule/11/paragraph/A14.md)
+    - Organisation & delegation
+      - [Sch. 11 para. A15](schedule/11/paragraph/A15.md)
+      - [Sch. 11 para. A16](schedule/11/paragraph/A16.md)
+    - Dealing with appeals
+      - [Sch. 11 para. A17](schedule/11/paragraph/A17.md)
+      - [Sch. 11 para. A18](schedule/11/paragraph/A18.md)
+    - Power for member of First-tier Tribunal to act as member of the Tribunal
+      - [Sch. 11 para. A18A](schedule/11/paragraph/A18A.md)
+    - Regulations
+      - [Sch. 11 para. A19](schedule/11/paragraph/A19.md)
+    - Interpretation
+      - [Sch. 11 para. A20](schedule/11/paragraph/A20.md)
+  - Part 2 Valuation Tribunals: Wales
+    - Establishment
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 1A](schedule/11/paragraph/1A.md)
+    - Jurisdiction
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Arbitration
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Membership
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Staff
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Accommodation and equipment
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Dealing with appeals
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Part 3 Procedure, orders etc
+    - Procedure
+      - [Sch. 11 para. 8n1](schedule/11/paragraph/8n1.md)
+    - Orders
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 10A](schedule/11/paragraph/10A.md)
+    - Appeals
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Inspection of records
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Meaning of tribunal
+      - [Sch. 11 para. 12A](schedule/11/paragraph/12A.md)
+  - Part 4 Miscellaneous
+    - Finance: Wales
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - General
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - Interpretation
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+- SCHEDULE 12 Amendments
+  - Part I England and Wales
+    - City of London (Various Powers) Act 1957 (c. x)
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Justices of the Peace Act 1979 (c. 55)
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Local Government Finance Act 1982 (c. 32)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Part II Scotland
+    - Valuation and Rating (Scotland) Act 1956 (c. 60)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Local Government (Financial Provisions etc.) (Scotland) Act 1962 (c. 9)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - Town and Country Planning (Scotland) Act 1972 (c. 52)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - Local Government (Scotland) Act 1973 (c. 65)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - Local Government (Scotland) Act 1975 (c. 30)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - Local Government, Planning and Land Act 1980 (c. 65)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+      - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+      - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+      - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+  - Part III England and Wales and Scotland
+    - Commonwealth Secretariat Act 1966 (c. 10)
+      - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - International Organisations Act 1968 (c. 48)
+      - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - Tribunals and Inquiries Act 1971 (c. 62)
+      - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+- SCHEDULE 12A
+  - Population of area
+    - [Sch. 12A para. 1](schedule/12A/paragraph/1.md)
+    - [Sch. 12A para. 2](schedule/12A/paragraph/2.md)
+    - [Sch. 12A para. 3](schedule/12A/paragraph/3.md)
+    - [Sch. 12A para. 4](schedule/12A/paragraph/4.md)
+    - [Sch. 12A para. 5](schedule/12A/paragraph/5.md)
+  - Population of part of area
+    - [Sch. 12A para. 6](schedule/12A/paragraph/6.md)
+- SCHEDULE 13 Repeals
+  - Part I Abolition of Rates and Precepts
+  - Part II Supplementary Grants for Transport Purposes
+  - Part III London Regional Transport
+  - Part IV Scotland
