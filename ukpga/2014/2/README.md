@@ -1,0 +1,550 @@
+# Local Audit and Accountability Act 2014
+
+2014 c. 2. Enacted 2014-01-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 173 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
+
+Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-10-05
+
+## Contents
+
+- Part 1 Abolition of existing audit regime
+  - [s. 1 Abolition of existing audit regime](section/1.md)
+- Part 1A The Local Audit Office
+  - [s. 1A Establishment and constitution](section/1A.md)
+  - [s. 1B Main objective](section/1B.md)
+  - [s. 1C Financial matters](section/1C.md)
+  - [s. 1D Oversight and intervention by Secretary of State](section/1D.md)
+- Part 2 Basic concepts and requirements
+  - [s. 2 Relevant authorities](section/2.md)
+  - [s. 3 General requirements for accounts](section/3.md)
+  - [s. 4 General requirements for audit](section/4.md)
+  - [s. 5 Modification of Act in relation to category 2 authorities](section/5.md)
+  - [s. 6 Meaning of “category 2 authority”](section/6.md)
+- Part 2A Providers of audit services
+  - [s. 6A Local audit register](section/6A.md)
+  - [s. 6B External registration bodies](section/6B.md)
+  - [s. 6C Eligibility and regulation of registered providers](section/6C.md)
+  - [s. 6D Professional qualifications](section/6D.md)
+  - [s. 6E Powers of Local Audit Office to facilitate provision by firms](section/6E.md)
+  - [s. 6F Scrutiny of Local Audit Office as audit provider](section/6F.md)
+- Part 3 Appointment etc of local auditors
+  - [s. 7 Appointment of local auditor](section/7.md)
+  - [s. 8 Procedure for appointment](section/8.md)
+  - [s. 9 Requirement to have auditor panel](section/9.md)
+  - [s. 10 Functions of auditor panel](section/10.md)
+  - [s. 11 Relationship with relevant authority](section/11.md)
+  - [s. 12 Failure to appoint local auditor](section/12.md)
+  - [s. 13 Failure of health service bodies to appoint local auditor](section/13.md)
+  - [s. 14 Limitation of local auditor’s liability](section/14.md)
+  - [s. 15 Further provisions about liability limitation agreements](section/15.md)
+  - [s. 16 Resignation and removal of local auditor](section/16.md)
+  - [s. 17 Appointment of auditor by specified person](section/17.md)
+- Part 4 Eligibility and regulation of local auditors
+  - [s. 18 Eligibility and regulation of local auditors](section/18.md)
+- Part 5 Conduct of local audit
+  - Codes of practice and guidance
+    - [s. 19 Codes of audit practice and guidance](section/19.md)
+  - General powers and duties of auditors
+    - [s. 20 General duties of auditors](section/20.md)
+    - [s. 21 General duties of auditors of accounts of health service bodies](section/21.md)
+    - [s. 22 Auditors’ right to documents and information](section/22.md)
+    - [s. 23 Offences relating to section 22](section/23.md)
+  - Reports and recommendations
+    - [s. 24 Reports and recommendations](section/24.md)
+  - Public inspection etc and action by auditor
+    - [s. 25 Inspection of statements of accounts etc](section/25.md)
+    - [s. 26 Inspection of documents etc](section/26.md)
+    - [s. 27 Right to make objections at audit](section/27.md)
+    - [s. 28 Declaration that item of account is unlawful](section/28.md)
+  - Prevention of unlawful expenditure etc
+    - [s. 29 Advisory notices](section/29.md)
+    - [s. 30 Unlawful expenditure or activity of health service bodies](section/30.md)
+    - [s. 31 Power of auditor to apply for judicial review](section/31.md)
+  - Accounts and audit regulations
+    - [s. 32 Accounts and audit regulations](section/32.md)
+- Part 5A Local audit: further provision
+  - Independence of auditors
+    - [s. 32B Independence requirement](section/32B.md)
+    - [s. 32C Lack of independence arising after appointment](section/32C.md)
+  - Second audits
+    - [s. 32D Second audits where first auditor ineligible](section/32D.md)
+  - Partnerships
+    - [s. 32E Effect of appointing a partnership](section/32E.md)
+  - Miscellaneous powers and duties
+    - [s. 32F Power of Local Audit Office to obtain information from relevant authorities](section/32F.md)
+    - [s. 32G Inspection of accounts by persons exercising regulatory functions](section/32G.md)
+    - [s. 32H Duty of Local Audit Office to publish summaries of inspections](section/32H.md)
+  - Offences of deception etc
+    - [s. 32I False or misleading information](section/32I.md)
+    - [s. 32J Wrongful holding out](section/32J.md)
+- Part 6 Data matching
+  - [s. 33 Data matching](section/33.md)
+- Part 7 Miscellaneous and supplementary
+  - Miscellaneous
+    - [s. 33A Audit committees](section/33A.md)
+    - [s. 34 Best value inspections](section/34.md)
+    - [s. 35 Examinations by the Comptroller and Auditor General](section/35.md)
+    - [s. 36 Disclosure of information](section/36.md)
+    - [s. 37 Social security references and reports](section/37.md)
+    - [s. 38 Duty of smaller authorities to publish information](section/38.md)
+    - [s. 39 Code of practice on local authority publicity](section/39.md)
+    - [s. 40 Access to local government meetings and documents](section/40.md)
+    - [s. 41 Council tax referendums](section/41.md)
+    - [s. 42 Parish meetings: parish polls](section/42.md)
+  - Supplementary
+    - [s. 43 Orders and regulations](section/43.md)
+    - [s. 43A Connected entities](section/43A.md)
+    - [s. 44 Interpretation of Act](section/44.md)
+    - [s. 45 Related amendments](section/45.md)
+    - [s. 46 Power to make consequential provision](section/46.md)
+    - [s. 47 Application to NHS trusts and trustees for NHS trusts](section/47.md)
+    - [s. 48 Extent](section/48.md)
+    - [s. 49 Commencement](section/49.md)
+    - [s. 50 Short title](section/50.md)
+- SCHEDULE 1 Abolition of Audit Commission: supplementary provision
+  - Part 1 Arrangements in connection with abolition of Audit Commission
+    - Transfer of property, rights and liabilities
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Reduction in membership pending abolition
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Final accounts
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Final annual report
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Payments in respect of pension liabilities
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Meaning of “the abolition date”
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part 2 Repeal of Audit Commission Act 1998: consequential repeals and revocations
+- Schedule 1A Local Audit Office: constitution, proceedings etc
+  - [Sch. 1A para. 1 Composition](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Non-executive members: appointment and tenure](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Non-executive members: remuneration](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Controller of Local Audit](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Other executive members](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Staff](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Committees](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Delegation](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Procedure](schedule/1A/paragraph/9.md)
+  - [Sch. 1A para. 10 General power](schedule/1A/paragraph/10.md)
+  - [Sch. 1A para. 11 Status](schedule/1A/paragraph/11.md)
+  - [Sch. 1A para. 12 Seal and evidence](schedule/1A/paragraph/12.md)
+  - [Sch. 1A para. 13 Accounts](schedule/1A/paragraph/13.md)
+  - [Sch. 1A para. 14 Business planning](schedule/1A/paragraph/14.md)
+  - [Sch. 1A para. 15 Annual report](schedule/1A/paragraph/15.md)
+- Schedule 1B External registration bodies
+  - [Sch. 1B para. 1 Provision of information to the Local Audit Office](schedule/1B/paragraph/1.md)
+  - [Sch. 1B para. 2 Directions to secure compliance](schedule/1B/paragraph/2.md)
+  - [Sch. 1B para. 3 Financial penalties](schedule/1B/paragraph/3.md)
+  - [Sch. 1B para. 4 Directions and penalties: procedure etc](schedule/1B/paragraph/4.md)
+  - [Sch. 1B para. 5 Directions and penalties: appeals](schedule/1B/paragraph/5.md)
+  - [Sch. 1B para. 6 Compliance orders by the court](schedule/1B/paragraph/6.md)
+  - [Sch. 1B para. 7 Directions with respect to international obligations](schedule/1B/paragraph/7.md)
+  - [Sch. 1B para. 8 Exemption from liability in damages](schedule/1B/paragraph/8.md)
+- Schedule 1C Eligibility and regulation of registered providers
+  - [Sch. 1C para. 1 Introduction](schedule/1C/paragraph/1.md)
+  - [Sch. 1C para. 2 Eligibility criteria and procedures](schedule/1C/paragraph/2.md)
+  - [Sch. 1C para. 3 Registration rules](schedule/1C/paragraph/3.md)
+  - [Sch. 1C para. 4 Professional qualifications](schedule/1C/paragraph/4.md)
+  - [Sch. 1C para. 5 Professional integrity and independence](schedule/1C/paragraph/5.md)
+  - [Sch. 1C para. 6 Lead partners](schedule/1C/paragraph/6.md)
+  - [Sch. 1C para. 7 Complaints procedures](schedule/1C/paragraph/7.md)
+  - [Sch. 1C para. 8 Meeting of claims](schedule/1C/paragraph/8.md)
+  - [Sch. 1C para. 9 Monitoring and inspections](schedule/1C/paragraph/9.md)
+  - [Sch. 1C para. 10 Enforcement](schedule/1C/paragraph/10.md)
+  - [Sch. 1C para. 11 Provision and publication of information](schedule/1C/paragraph/11.md)
+- Schedule 1D Professional qualifications
+  - Part 1 Requirements for registered providers
+    - [Sch. 1D para. 1 Qualification requirement for individuals](schedule/1D/paragraph/1.md)
+    - [Sch. 1D para. 2 Qualified control requirement for firms](schedule/1D/paragraph/2.md)
+    - [Sch. 1D para. 3 “Appropriate qualification”](schedule/1D/paragraph/3.md)
+    - [Sch. 1D para. 4 Cases in which an individual need not hold appropriate qualification: domestic cases](schedule/1D/paragraph/4.md)
+    - [Sch. 1D para. 5 Cases in which an individual need not hold appropriate qualification: overseas cases](schedule/1D/paragraph/5.md)
+  - Part 2 Recognised qualifying bodies
+    - [Sch. 1D para. 6 “Recognised qualifying body”](schedule/1D/paragraph/6.md)
+    - [Sch. 1D para. 7 Fees](schedule/1D/paragraph/7.md)
+    - [Sch. 1D para. 8 Directions to secure compliance with international obligations](schedule/1D/paragraph/8.md)
+    - [Sch. 1D para. 9 Delegation of functions](schedule/1D/paragraph/9.md)
+- SCHEDULE 2 Relevant authorities
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
+  - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - [Sch. 2 para. 23A](schedule/2/paragraph/23A.md)
+  - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - [Sch. 2 para. 28ZA](schedule/2/paragraph/28ZA.md)
+  - [Sch. 2 para. 28A](schedule/2/paragraph/28A.md)
+  - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+- SCHEDULE 3 Further provisions about appointment of local auditors
+  - Provisions applying to certain local authorities
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Provisions applying to chief constables
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Provisions applying to the Commissioner of Police of the Metropolis
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Provisions applying to other authorities
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Further provisions about auditor panels
+  - Options for auditor panels
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Constitution of auditor panels
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Constitution of auditor panels: health service bodies
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Power to make further provision about constitution of auditor panels
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Application of local authority enactments to auditor panels
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Status of auditor panels
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Expenses of auditor panels
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Connected entities
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Eligibility and regulation of local auditors
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+- SCHEDULE 6 Codes of audit practice and guidance
+  - Duty to prepare code
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Procedure for code
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Duty to keep code under review
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Alteration of code
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Replacement of code
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Publication of code
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Assistance from relevant authority
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Saving for codes of practice under Audit Commission Act 1998
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Guidance
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Application to auditors of NHS foundation trusts
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Meaning of “40-day period”
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Reports and recommendations
+  - Public interest reports
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Written recommendations
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Supply of public interest reports
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Publicity for public interest reports
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Consideration of report or recommendation
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Consideration of report or recommendation: Greater London Authority
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Bar on delegation of functions relating to meetings
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Publicity for meetings
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Access to meetings and documents
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Publicity for decisions under paragraph 5 or 6
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 Advisory notices
+  - Power to issue advisory notice
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Service and withdrawal of notice
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Effect of an advisory notice
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Further provisions about advisory notices
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Data matching
+  - Power to conduct data matching exercises
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Mandatory provision of data
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Voluntary provision of data
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Disclosure of results of data matching etc
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Publication
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Fees for data matching
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Code of data matching practice
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Powers to amend this Schedule
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 Best value inspections
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 Disclosure of information
+  - Information to which this Schedule applies
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - General bar on disclosure and exceptions
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Further exceptions
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Disclosure with consent of local auditor
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Offence of wrongful disclosure
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Meaning of “enactment”
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+- SCHEDULE 12 Related amendments
+  - Public Health Act 1875 (c. 55)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Prison Act 1952 (c. 52)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Transport Act 1968 (c. 73)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Building Act 1984 (c. 55)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Further Education Act 1985 (c. 47)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Housing Associations Act 1985 (c. 69)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - Local Government Act 1986 (c. 10)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - Airports Act 1986 (c. 31)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+  - Environmental Protection Act 1990 (c. 43)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+  - Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+  - Noise Act 1996 (c. 37)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+  - Local Government (Contracts) Act 1997 (c. 65)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+  - Local Government Act 1999 (c. 27)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+  - Crown Prosecution Service Inspectorate Act 2000 (c. 10)
+    - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+  - Public Finance and Accountability (Scotland) Act 2000 (ASP 1)
+    - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 12 para. 48](schedule/12/paragraph/48.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+    - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+    - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+    - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+    - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+    - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+  - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+    - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+    - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+    - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+  - Audit and Accountability (Northern Ireland) Order 2003 (SI 2003/418 (NI 5))
+    - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+  - Public Audit (Wales) Act 2004 (c. 23)
+    - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+    - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+    - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+    - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+    - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+    - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+    - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+    - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+  - Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
+    - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+  - Education and Inspections Act 2006 (c. 40)
+    - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+  - National Health Service Act 2006 (c. 41)
+    - [Sch. 12 para. 70](schedule/12/paragraph/70.md)
+    - [Sch. 12 para. 71](schedule/12/paragraph/71.md)
+    - [Sch. 12 para. 72](schedule/12/paragraph/72.md)
+    - [Sch. 12 para. 73](schedule/12/paragraph/73.md)
+    - [Sch. 12 para. 74](schedule/12/paragraph/74.md)
+    - [Sch. 12 para. 75](schedule/12/paragraph/75.md)
+    - [Sch. 12 para. 76](schedule/12/paragraph/76.md)
+  - National Health Service (Wales) Act 2006 (c. 42)
+    - [Sch. 12 para. 77](schedule/12/paragraph/77.md)
+  - Companies Act 2006 (c. 46)
+    - [Sch. 12 para. 78](schedule/12/paragraph/78.md)
+  - Serious Crime Act 2007 (c. 27)
+    - [Sch. 12 para. 79](schedule/12/paragraph/79.md)
+  - Local Government and Public Involvement in Health Act 2007 (c. 28)
+    - [Sch. 12 para. 80](schedule/12/paragraph/80.md)
+    - [Sch. 12 para. 81](schedule/12/paragraph/81.md)
+    - [Sch. 12 para. 82](schedule/12/paragraph/82.md)
+    - [Sch. 12 para. 83](schedule/12/paragraph/83.md)
+    - [Sch. 12 para. 84](schedule/12/paragraph/84.md)
+    - [Sch. 12 para. 85](schedule/12/paragraph/85.md)
+  - Health and Social Care Act 2008 (c. 14)
+    - [Sch. 12 para. 86](schedule/12/paragraph/86.md)
+    - [Sch. 12 para. 87](schedule/12/paragraph/87.md)
+    - [Sch. 12 para. 88](schedule/12/paragraph/88.md)
+  - Housing and Regeneration Act 2008 (c. 17)
+    - [Sch. 12 para. 89](schedule/12/paragraph/89.md)
+    - [Sch. 12 para. 90](schedule/12/paragraph/90.md)
+    - [Sch. 12 para. 91](schedule/12/paragraph/91.md)
+    - [Sch. 12 para. 92](schedule/12/paragraph/92.md)
+    - [Sch. 12 para. 93](schedule/12/paragraph/93.md)
+    - [Sch. 12 para. 94](schedule/12/paragraph/94.md)
+    - [Sch. 12 para. 95](schedule/12/paragraph/95.md)
+    - [Sch. 12 para. 96](schedule/12/paragraph/96.md)
+  - Local Democracy, Economic Development and Construction Act 2009 (c. 20)
+    - [Sch. 12 para. 97](schedule/12/paragraph/97.md)
+    - [Sch. 12 para. 98](schedule/12/paragraph/98.md)
+    - [Sch. 12 para. 99](schedule/12/paragraph/99.md)
+    - [Sch. 12 para. 100](schedule/12/paragraph/100.md)
+    - [Sch. 12 para. 101](schedule/12/paragraph/101.md)
+    - [Sch. 12 para. 102](schedule/12/paragraph/102.md)
+    - [Sch. 12 para. 103](schedule/12/paragraph/103.md)
+    - [Sch. 12 para. 104](schedule/12/paragraph/104.md)
+    - [Sch. 12 para. 105](schedule/12/paragraph/105.md)
+    - [Sch. 12 para. 106](schedule/12/paragraph/106.md)
+    - [Sch. 12 para. 107](schedule/12/paragraph/107.md)
+    - [Sch. 12 para. 108](schedule/12/paragraph/108.md)
+    - [Sch. 12 para. 109](schedule/12/paragraph/109.md)
+    - [Sch. 12 para. 110](schedule/12/paragraph/110.md)
+    - [Sch. 12 para. 111](schedule/12/paragraph/111.md)
+    - [Sch. 12 para. 112](schedule/12/paragraph/112.md)
+    - [Sch. 12 para. 113](schedule/12/paragraph/113.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 12 para. 114](schedule/12/paragraph/114.md)
+  - Police Reform and Social Responsibility Act 2011 (c. 13)
+    - [Sch. 12 para. 115](schedule/12/paragraph/115.md)
+    - [Sch. 12 para. 116](schedule/12/paragraph/116.md)
+    - [Sch. 12 para. 117](schedule/12/paragraph/117.md)
+  - Charities Act 2011 (c. 25)
+    - [Sch. 12 para. 118](schedule/12/paragraph/118.md)
+    - [Sch. 12 para. 119](schedule/12/paragraph/119.md)
+    - [Sch. 12 para. 120](schedule/12/paragraph/120.md)
+    - [Sch. 12 para. 121](schedule/12/paragraph/121.md)
+    - [Sch. 12 para. 122](schedule/12/paragraph/122.md)
+  - Repeals and revocations in consequence of this Schedule
+    - [Sch. 12 para. 123](schedule/12/paragraph/123.md)
+- SCHEDULE 13 NHS trusts and trustees for NHS trusts: transitory and saving provision
+  - Operation of this Schedule
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - “Relevant authorities”, “health service bodies” and “accounts”
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Notice of appointment of local auditor
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Functions of auditor panel
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Failure to appoint local auditor
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - General duties of auditors
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Independence requirement: directors of NHS trusts
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Public interest reports and written recommendations
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Unlawful expenditure or activity
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
