@@ -1,0 +1,1478 @@
+# Armed Forces Act 2006
+
+2006 c. 52. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 218 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/52
+
+Source: https://www.legislation.gov.uk/ukpga/2006/52/2026-10-05
+
+## Contents
+
+- First Group of Parts Discipline
+- Part 1 Offences
+  - Assisting an enemy, misconduct on operations etc
+    - [s. 1 Assisting an enemy](section/1.md)
+    - [s. 2 Misconduct on operations](section/2.md)
+    - [s. 3 Obstructing operations](section/3.md)
+    - [s. 4 Looting](section/4.md)
+    - [s. 5 Failure to escape etc](section/5.md)
+  - Mutiny
+    - [s. 6 Mutiny](section/6.md)
+    - [s. 7 Failure to suppress mutiny](section/7.md)
+  - Desertion and absence without leave
+    - [s. 8 Desertion](section/8.md)
+    - [s. 9 Absence without leave](section/9.md)
+    - [s. 10 Failure to cause apprehension of deserters or absentees](section/10.md)
+  - Insubordination etc
+    - [s. 11 Misconduct towards a superior officer](section/11.md)
+    - [s. 12 Disobedience to lawful commands](section/12.md)
+    - [s. 13 Contravention of standing orders](section/13.md)
+    - [s. 14 Using force against a sentry etc](section/14.md)
+  - Neglect of duty and misconduct
+    - [s. 15 Failure to attend for or perform duty etc](section/15.md)
+    - [s. 16 Malingering](section/16.md)
+    - [s. 17 Disclosure of information useful to an enemy](section/17.md)
+    - [s. 18 Making false records etc](section/18.md)
+    - [s. 19 Conduct prejudicial to good order and discipline](section/19.md)
+    - [s. 20 Unfitness or misconduct through alcohol or drugs](section/20.md)
+    - [s. 20A Exceeding alcohol limit for prescribed safety-critical duties](section/20A.md)
+    - [s. 21 Fighting or threatening behaviour etc](section/21.md)
+    - [s. 22 Ill-treatment of subordinates](section/22.md)
+    - [s. 23 Disgraceful conduct of a cruel or indecent kind](section/23.md)
+  - Property offences
+    - [s. 24 Damage to or loss of public or service property](section/24.md)
+    - [s. 25 Misapplying or wasting public or service property](section/25.md)
+    - [s. 26 Sections 24 and 25: “public property” and “service property”](section/26.md)
+  - Offences against service justice
+    - [s. 27 Obstructing or failing to assist a service policeman](section/27.md)
+    - [s. 28 Resistance to arrest etc](section/28.md)
+    - [s. 29 Offences in relation to service custody](section/29.md)
+    - [s. 30 Allowing escape, or unlawful release, of prisoners etc](section/30.md)
+  - Ships and aircraft
+    - [s. 31 Hazarding of ship](section/31.md)
+    - [s. 32 Giving false air signals etc](section/32.md)
+    - [s. 33 Dangerous flying etc](section/33.md)
+    - [s. 34 Low flying](section/34.md)
+    - [s. 35 Annoyance by flying](section/35.md)
+    - [s. 36 Inaccurate certification](section/36.md)
+    - [s. 37 Prize offences by officer in command of ship or aircraft](section/37.md)
+    - [s. 38 Other prize offences](section/38.md)
+  - Attempts, encouragement and assistance, and aiding and abetting
+    - [s. 39 Attempts](section/39.md)
+    - [s. 40 Encouraging and assisting](section/40.md)
+    - [s. 41 Aiding, abetting, counselling or procuring](section/41.md)
+  - Criminal conduct
+    - [s. 42 Criminal conduct](section/42.md)
+    - [s. 43 Attempting criminal conduct](section/43.md)
+    - [s. 44 Trial of section 42 offence of attempt](section/44.md)
+    - [s. 45 Conspiring to commit criminal conduct](section/45.md)
+    - [s. 46 Encouraging or assisting criminal conduct](section/46.md)
+    - [s. 47 Aiding, abetting, counselling or procuring criminal conduct](section/47.md)
+    - [s. 48 Provision supplementary to sections 43 to 47](section/48.md)
+    - [s. 49 Air Navigation Order offences](section/49.md)
+- Part 2 Jurisdiction and Time Limits
+  - Chapter 1 Jurisdiction
+    - Court Martial
+      - [s. 50 Jurisdiction of the Court Martial](section/50.md)
+    - Service Civilian Court
+      - [s. 51 Jurisdiction of the Service Civilian Court](section/51.md)
+    - Commanding officers
+      - [s. 52 Charges capable of being heard summarily](section/52.md)
+      - [s. 53 Offences that may be dealt with at a summary hearing](section/53.md)
+      - [s. 54 Charges which may be heard summarily only with permission or by senior officer](section/54.md)
+  - Chapter 2 Time Limits for Commencing Proceedings
+    - Time limits for offences other than Reserve Forces Act offences
+      - [s. 55 Time limit for charging former member of a regular or reserve force](section/55.md)
+      - [s. 56 Time limit for charging certain members or former members of ex-regular reserve forces](section/56.md)
+      - [s. 57 Time limit for charging person formerly subject to service law](section/57.md)
+      - [s. 58 Time limit for charging civilian formerly subject to service discipline](section/58.md)
+      - [s. 59 Time limit for charging offence under section 107](section/59.md)
+      - [s. 60 Time limit for charging offence under section 266](section/60.md)
+      - [s. 61 Sections 55 to 60: exceptions and interpretation](section/61.md)
+    - Time limit for Reserve Forces Act offences
+      - [s. 62 Time limit for charging Reserve Forces Act offences](section/62.md)
+  - Chapter 3 Double Jeopardy
+    - [s. 63 Service proceedings barring subsequent service proceedings](section/63.md)
+    - [s. 64 Service proceedings barring subsequent civilian proceedings](section/64.md)
+    - [s. 65 Sections 63 and 64: supplementary](section/65.md)
+    - [s. 66 Civilian proceedings barring subsequent service proceedings](section/66.md)
+- Part 3 Powers of Arrest, Search and Entry
+  - Chapter 1 Arrest etc
+    - Powers of arrest
+      - [s. 67 Power of arrest for service offence](section/67.md)
+      - [s. 68 Section 67: supplementary](section/68.md)
+      - [s. 69 Power of arrest in anticipation of commission of service offence](section/69.md)
+    - Search on arrest
+      - [s. 70 Search by service policeman upon arrest](section/70.md)
+      - [s. 71 Search by other persons upon arrest](section/71.md)
+      - [s. 72 Sections 70 and 71: supplementary](section/72.md)
+      - [s. 73 Seizure and retention after search upon arrest](section/73.md)
+      - [s. 74 Power to make provision conferring power to search premises at which person arrested](section/74.md)
+  - Chapter 2 Stop and Search
+    - [s. 75 Power of service policeman to stop and search persons, vehicles etc](section/75.md)
+    - [s. 76 Stop and search by persons other than service policemen](section/76.md)
+    - [s. 77 Sections 75 and 76: definitions](section/77.md)
+    - [s. 78 Places in which powers under sections 75 and 76 may be exercised](section/78.md)
+    - [s. 79 Sections 75 and 76: limitation on searching persons or vehicles in certain gardens etc](section/79.md)
+    - [s. 80 Searches under sections 75 and 76: supplementary](section/80.md)
+    - [s. 81 Power to make further provision about searches under sections 75 and 76](section/81.md)
+    - [s. 82 Application of Chapter to ships and aircraft](section/82.md)
+  - Chapter 3 Powers of Entry, Search and Seizure
+    - Entry for purposes of obtaining evidence etc
+      - [s. 83 Power of judge advocate to authorise entry and search](section/83.md)
+      - [s. 84 Section 83: definitions](section/84.md)
+      - [s. 85 Section 83: power to make supplementary provision](section/85.md)
+      - [s. 86 Power to make provision as to access to excluded material etc](section/86.md)
+      - [s. 87 Power of CO to authorise entry and search by service policeman](section/87.md)
+      - [s. 88 Power of CO to authorise entry and search by other persons](section/88.md)
+      - [s. 89 Review by judge advocate of certain searches under section 87 or 88](section/89.md)
+    - Entry for purposes of arrest etc
+      - [s. 90 Entry for purpose of arrest etc by a service policeman](section/90.md)
+      - [s. 91 Entry for purpose of arrest etc by other persons](section/91.md)
+    - Additional powers of entry, search and seizure
+      - [s. 92 Power to make provision conferring powers of entry and search after arrest](section/92.md)
+      - [s. 93 Power to make provision conferring power of seizure etc](section/93.md)
+      - [s. 93ZE Powers of seizure equivalent to powers under section 13 of the Terrorism Act 2000](section/93ZE.md)
+  - CHAPTER 3A Testing for alcohol and drugs in connection with a suspected offence or accident
+    - Preliminary testing for alcohol and drugs
+      - [s. 93A Commanding officer’s power to require preliminary tests](section/93A.md)
+      - [s. 93AA Section 93A: interpretation](section/93AA.md)
+      - [s. 93B Preliminary breath test](section/93B.md)
+      - [s. 93C Preliminary impairment test](section/93C.md)
+      - [s. 93D Preliminary drug test](section/93D.md)
+    - Provision of specimens for analysis
+      - [s. 93E Provision of specimens for analysis](section/93E.md)
+      - [s. 93F Further provision about specimens under section 93E](section/93F.md)
+      - [s. 93G Specimens of blood from persons incapable of consenting](section/93G.md)
+    - General provisions relating to testing
+      - [s. 93H Patients in medical establishments](section/93H.md)
+      - [s. 93I Definitions for purposes of Chapter 3A](section/93I.md)
+  - Chapter 4 Supplementary
+    - [s. 94 Property in possession of service police or CO](section/94.md)
+    - [s. 94A Property subject to deprivation order: modification of section 94](section/94A.md)
+    - [s. 95 Saving provision](section/95.md)
+    - [s. 96 “Service living accommodation”, “premises” and other definitions](section/96.md)
+    - [s. 97 Power to use reasonable force](section/97.md)
+- Part 4 Custody
+  - Chapter 1 Custody without Charge
+    - [s. 98 Limitations on custody without charge](section/98.md)
+    - [s. 99 Authorisation by commanding officer of custody without charge](section/99.md)
+    - [s. 100 Review of custody by commanding officer](section/100.md)
+    - [s. 101 Extension by judge advocate of custody without charge](section/101.md)
+    - [s. 102 Further provision about applications under section 101](section/102.md)
+    - [s. 103 Custody without charge: other cases](section/103.md)
+    - [s. 104 Custody without charge: supplementary](section/104.md)
+  - Chapter 2 Custody etc after Charge
+    - Custody after charge
+      - [s. 105 Custody after charge](section/105.md)
+      - [s. 106 Conditions A to D](section/106.md)
+      - [s. 107 Release from custody after charge](section/107.md)
+      - [s. 108 Review of custody after charge](section/108.md)
+      - [s. 109 Custody during proceedings of Court Martial or Service Civilian Court](section/109.md)
+    - Arrest after charge
+      - [s. 110 Arrest after charge or during proceedings by order of commanding officer](section/110.md)
+      - [s. 111 Arrest during proceedings at direction of court](section/111.md)
+  - Chapter 3 Custody Proceedings Rules
+    - [s. 112 Custody proceedings rules](section/112.md)
+- Part 5 Investigation, Charging and Mode of Trial
+  - Chapter 1 Investigation
+    - Duties of commanding officers
+      - [s. 113 CO to ensure service police aware of possibility serious offence committed](section/113.md)
+      - [s. 114 CO to ensure service police aware of certain circumstances](section/114.md)
+      - [s. 115 Duty of CO with respect to investigation of service offences](section/115.md)
+    - Provost Marshal’s duty in relation to independence of investigations
+      - [s. 115A Provost Marshal’s duty in relation to independence of investigations](section/115A.md)
+    - Duty of service policeman following investigation
+      - [s. 116 Referral of case following investigation by service or civilian police](section/116.md)
+      - [s. 117 Section 116: position where investigation is of multiple offences or offenders](section/117.md)
+      - [s. 118 Duty of service policeman to notify CO of referral to DSP](section/118.md)
+  - Chapter 2 Charging and Mode of Trial
+    - Powers of charging etc
+      - [s. 119 Circumstances in which CO has power to charge etc](section/119.md)
+      - [s. 120 Power of CO to charge etc](section/120.md)
+      - [s. 121 Power of DSP to charge or direct bringing of charge etc](section/121.md)
+      - [s. 122 Charges brought by or at direction of DSP](section/122.md)
+    - Powers of commanding officer or DSP after charge etc
+      - [s. 123 Powers of CO after charge](section/123.md)
+      - [s. 124 CO to hear charge allocated for summary hearing](section/124.md)
+      - [s. 125 Powers of DSP in respect of charge allocated for Court Martial trial](section/125.md)
+      - [s. 126 Powers of DSP in respect of charge allocated for SCC trial](section/126.md)
+  - Chapter 3 Supplementary
+    - [s. 127 Directions by DSP barring further proceedings](section/127.md)
+    - [s. 128 Regulations for purposes of Part 5](section/128.md)
+- Part 6 Summary Hearing and Appeals and Review
+  - Chapter 1 Summary Hearing
+    - Right to elect Court Martial trial
+      - [s. 129 Right to elect Court Martial trial](section/129.md)
+      - [s. 130 Further consequences of election for Court Martial trial](section/130.md)
+      - [s. 130A Restrictions on DSP’s powers to substitute or add charges after election](section/130A.md)
+    - Summary hearing
+      - [s. 131 Summary hearing](section/131.md)
+    - Punishments available to commanding officer
+      - [s. 132 Punishments available to commanding officer](section/132.md)
+      - [s. 133 Detention: limits on powers](section/133.md)
+      - [s. 134 Forfeiture of seniority: requirement for approval](section/134.md)
+      - [s. 135 Reduction in rank: limits on powers](section/135.md)
+      - [s. 135A Extended powers: time for obtaining](section/135A.md)
+      - [s. 136 Fine: maximum amount](section/136.md)
+      - [s. 137 Service compensation orders: maximum amount](section/137.md)
+      - [s. 138 Prohibited combinations of punishments](section/138.md)
+      - [s. 139 Savings for maximum penalties for offences](section/139.md)
+  - Chapter 2 The Summary Appeal Court
+    - [s. 140 The Summary Appeal Court](section/140.md)
+    - [s. 141 Right of appeal](section/141.md)
+    - [s. 142 Constitution of the SAC for appeals](section/142.md)
+    - [s. 143 Officers and warrant officers qualified for membership of the SAC](section/143.md)
+    - [s. 144 Officers and warrant officers ineligible for membership in particular circumstances](section/144.md)
+    - [s. 145 Open court](section/145.md)
+    - [s. 146 Hearing of appeals](section/146.md)
+    - [s. 147 Powers of the SAC](section/147.md)
+    - [s. 148 Effect of substituted punishment](section/148.md)
+    - [s. 149 Making of, and appeals from, decisions of the SAC](section/149.md)
+    - [s. 150 Privileges of witnesses and others](section/150.md)
+    - [s. 151 SAC rules](section/151.md)
+  - Chapter 3 Review of Summary Findings and Punishments
+    - [s. 152 Review of summary findings and punishments](section/152.md)
+  - Chapter 4 Summary Hearings etc Rules
+    - [s. 153 Summary hearings etc rules](section/153.md)
+- Part 7 Trial by Court Martial
+  - Chapter 1 The Court Martial
+    - [s. 154 The Court Martial](section/154.md)
+    - [s. 155 Constitution of the Court Martial](section/155.md)
+    - [s. 156 Officers etc qualified for membership of the Court Martial](section/156.md)
+    - [s. 157 Officers etc ineligible for membership in particular circumstances](section/157.md)
+  - Chapter 2 Court Martial Proceedings
+    - [s. 158 Open court](section/158.md)
+    - [s. 159 Rulings and directions](section/159.md)
+    - [s. 160 Decisions of Court Martial: finding and sentence](section/160.md)
+    - [s. 161 Power of Court Martial to convict of offence other than that charged](section/161.md)
+    - [s. 162 Privileges of witnesses and others](section/162.md)
+    - [s. 163 Court Martial rules](section/163.md)
+    - [s. 163A Offences](section/163A.md)
+  - Chapter 3 Punishments Available to Court Martial
+    - [s. 164 Punishments available to Court Martial](section/164.md)
+    - [s. 165 Sentencing powers of Court Martial where election for trial by that court instead of CO](section/165.md)
+  - Chapter 4 Findings of Unfitness to Stand Trial and Insanity
+    - [s. 166 Fitness to stand trial](section/166.md)
+    - [s. 167 Finding that defendant did the act or made the omission charged](section/167.md)
+    - [s. 168 Findings of insanity](section/168.md)
+    - [s. 169 Powers where person unfit to stand trial or not guilty by reason of insanity](section/169.md)
+    - [s. 170 Service supervision orders](section/170.md)
+    - [s. 171 Remission for trial](section/171.md)
+    - [s. 172 Provision supplementary to sections 166 and 168](section/172.md)
+- Part 8 Sentencing Powers and Mandatory etc Sentences
+  - Chapter 1 Definition etc of Certain Sentences
+    - Service supervision and punishment orders
+      - [s. 173 Service supervision and punishment orders](section/173.md)
+      - [s. 174 Review of service supervision and punishment orders](section/174.md)
+    - Service compensation orders
+      - [s. 175 Service compensation orders](section/175.md)
+      - [s. 176 Service compensation orders: appeals etc](section/176.md)
+      - [s. 177 Review of service compensation orders](section/177.md)
+      - [s. 177A Effect of service compensation order on subsequent award of damages in civil proceedings](section/177A.md)
+    - Deprivation orders
+      - [s. 177B Deprivation orders: interpretation](section/177B.md)
+      - [s. 177C Deprivation order: availability](section/177C.md)
+      - [s. 177D Vehicle to be treated as used for purposes of certain offences](section/177D.md)
+      - [s. 177DA Purported intimate images to be treated as used for purpose of certain offences](section/177DA.md)
+      - [s. 177E Exercise of power to make deprivation order](section/177E.md)
+      - [s. 177F Application of proceeds of property subject to deprivation order](section/177F.md)
+    - Driving disqualification orders
+      - [s. 177G Driving disqualification orders](section/177G.md)
+      - [s. 177H Driving disqualification: availability](section/177H.md)
+      - [s. 177I Disqualification period](section/177I.md)
+      - [s. 177J Extension of disqualification where custodial sentence or service detention also imposed](section/177J.md)
+      - [s. 177K Effect of custodial sentence or service detention in other cases](section/177K.md)
+      - [s. 177L Requirement to produce licences where driving disqualification order made](section/177L.md)
+      - [s. 177M Driving disqualification: power to make equivalent provision to Road Traffic Offenders Act 1988](section/177M.md)
+    - Service community orders (civilians and dismissed servicemen only)
+      - [s. 178 Service community orders](section/178.md)
+      - [s. 179 Review of service community order imposing drug rehabilitation requirement](section/179.md)
+      - [s. 180 Transfer of service community order to Scotland or Northern Ireland](section/180.md)
+      - [s. 181 Breach, revocation or amendment of service community order](section/181.md)
+    - Overseas community orders (civilians only)
+      - [s. 182 Overseas community orders](section/182.md)
+      - [s. 183 Overseas community orders: modifications of the Sentencing Code](section/183.md)
+      - [s. 184 Breach, revocation or amendment of overseas community order](section/184.md)
+    - Conditional or absolute discharge (civilians only)
+      - [s. 185 Conditional or absolute discharge](section/185.md)
+      - [s. 186 Commission of further offence by person conditionally discharged](section/186.md)
+      - [s. 187 Effect of discharge](section/187.md)
+  - Chapter 2 Consecutive Sentences
+    - [s. 188 Consecutive custodial sentences](section/188.md)
+    - [s. 189 Consecutive sentences of service detention](section/189.md)
+  - Chapter 3 Suspended Sentence of Service Detention
+    - [s. 190 Suspension of sentence of service detention](section/190.md)
+    - [s. 191 Activation by Court Martial of suspended sentence of service detention](section/191.md)
+    - [s. 192 Activation by Court Martial: appeals](section/192.md)
+    - [s. 193 Activation by CO of suspended sentence of service detention](section/193.md)
+    - [s. 194 Activation by CO: maximum term](section/194.md)
+    - [s. 194A Extended powers of activation: time for obtaining](section/194A.md)
+    - [s. 195 Suspended sentences: powers of SAC](section/195.md)
+  - Chapter 4 Imprisonment for Term of two years or less
+    - ...
+      - [s. 196 Term of sentence etc](section/196.md)
+    - Imprisonment with or without “custody plus” order
+      - [s. 197 Imprisonment with or without a custody plus order](section/197.md)
+      - [s. 198 Transfer to Scotland or Northern Ireland of custody plus order](section/198.md)
+      - [s. 199 Revocation and amendment of custody plus orders](section/199.md)
+    - Suspended sentences of imprisonment
+      - [s. 200 Suspended sentence orders](section/200.md)
+      - [s. 200ZA Modifications of sections 264 and 277 of the Sentencing Code](section/200ZA.md)
+      - [s. 200ZB Modifications of sections 264A and 277A of the Sentencing Code](section/200ZB.md)
+      - [s. 200A Modifications of section 286 of the Sentencing Code](section/200A.md)
+      - [s. 201 Order without community requirements: provisions not applying](section/201.md)
+      - [s. 202 Order with community requirements: disapplication of certain provisions](section/202.md)
+      - [s. 203 Review of order with community requirements](section/203.md)
+      - [s. 204 Transfer to Scotland or Northern Ireland of order with community requirements](section/204.md)
+      - [s. 205 Amendment of order with community requirements](section/205.md)
+      - [s. 206 Suspended sentence: further conviction or breach of community requirement](section/206.md)
+    - Supplementary
+      - [s. 207 Definitions for purposes of Chapter](section/207.md)
+  - Chapter 5 Young Offenders: Custodial Sentences Available to Service Courts
+    - Prohibition on imposing imprisonment on persons under 18
+      - [s. 208 Prohibition on imposing imprisonment on persons under 21](section/208.md)
+    - Detention for certain serious offences
+      - [s. 209 Offenders under 18 convicted of certain serious offences: detention for specified period](section/209.md)
+      - [s. 210 Detention under section 209: place of detention etc](section/210.md)
+      - [s. 210A Offenders under 21: offences other than murder; discretionary custody for life](section/210A.md)
+      - [s. 210B Offenders under 21: power to impose detention in a young offender institution](section/210B.md)
+    - Detention and training orders
+      - [s. 211 Offenders under 18: detention and training orders](section/211.md)
+      - [s. 212 Term of detention and training order: general](section/212.md)
+      - [s. 213 Application of provisions relating to civilian detention and training orders](section/213.md)
+      - [s. 213A Period in service custody: effect on term of detention and training order](section/213A.md)
+      - [s. 213B Period of custody awaiting extradition: effect on term of detention and training order](section/213B.md)
+      - [s. 214 Offences during currency of detention and training order](section/214.md)
+      - [s. 215 Section 214: definitions etc](section/215.md)
+      - [s. 216 Appeals against orders under section 214](section/216.md)
+  - Chapter 6 Mandatory etc Custodial Sentences for Certain Offences
+    - Mandatory sentences
+      - [s. 217 Mandatory life imprisonment](section/217.md)
+      - [s. 218 Offenders who commit murder etc when under 18: mandatory detention at Her Majesty’s pleasure](section/218.md)
+    - Required or discretionary sentences for particular offences
+      - [s. 218A Life sentence for second listed offence](section/218A.md)
+      - [s. 219 Life sentence for certain dangerous offenders aged 18 or over](section/219.md)
+      - [s. 219A Extended sentence for certain violent, sexual or terrorism offenders aged 18 or over](section/219A.md)
+      - [s. 220 Certain violent or sexual offences: offenders aged 18 or over](section/220.md)
+      - [s. 221 Life sentence for certain dangerous offenders aged under 18](section/221.md)
+      - [s. 221A Extended sentence for certain violent, sexual or terrorism offenders aged under 18](section/221A.md)
+      - [s. 222 Offenders aged under 18: certain violent or sexual offences](section/222.md)
+      - [s. 223 “The required opinion” for purposes of sections 219 to 221A](section/223.md)
+      - [s. 224 Place of detention for extended sentences for offenders aged under 18](section/224.md)
+      - [s. 224A Special custodial sentence for certain offenders of particular concern](section/224A.md)
+      - [s. 225 Third drug trafficking offence](section/225.md)
+      - [s. 226 Third domestic burglary](section/226.md)
+      - [s. 227 Firearms offences](section/227.md)
+      - [s. 227A Offences of threatening with a weapon in public or on school premises](section/227A.md)
+      - [s. 228 Appeals where previous convictions set aside](section/228.md)
+  - Chapter 7 Court Orders Other Than Sentences
+    - Service restraining orders
+      - [s. 229 Service restraining orders](section/229.md)
+      - [s. 230 Service restraining orders: supplementary](section/230.md)
+      - [s. 231 Service restraining orders: appeals](section/231.md)
+      - [s. 232 Service restraining orders: variation and revocation](section/232.md)
+    - Service sexual offences prevention orders etc
+      - [s. 232A Service sexual offences prevention orders](section/232A.md)
+      - [s. 232B Service SOPOs: appeals](section/232B.md)
+      - [s. 232C Service SOPOs etc: variation and revocation](section/232C.md)
+      - [s. 232D Variation or revocation: appeals](section/232D.md)
+      - [s. 232E Extended prohibitions orders](section/232E.md)
+      - [s. 232F Extended prohibitions orders: appeals](section/232F.md)
+      - [s. 232G Offence: breach of order under section 232A or 232E](section/232G.md)
+    - Order for parent or guardian to enter into recognizance
+      - [s. 233 Order for service parent or service guardian to enter into recognizance](section/233.md)
+      - [s. 234 Recognizances and fines under section 233: further provision](section/234.md)
+      - [s. 235 Recognizances: appeals, variation and revocation](section/235.md)
+      - [s. 236 Forfeiture of recognizance](section/236.md)
+    - Disqualification of offenders for holding elective office etc
+      - [s. 236A Disqualification orders](section/236A.md)
+      - [s. 236B Effect of disqualification order](section/236B.md)
+- Part 9 Sentencing: Principles and Procedures
+  - Chapter 1 Principles and Procedures applying to Service Courts and Summary Hearings
+    - General sentencing principles
+      - [s. 237 Duty to have regard to purposes of sentencing etc](section/237.md)
+      - [s. 238 Deciding the seriousness of an offence](section/238.md)
+      - [s. 239 Reduction in sentences for guilty pleas](section/239.md)
+      - [s. 240 Increase in sentence for racial or religious aggravation](section/240.md)
+      - [s. 241 Increase in sentence for aggravation related to disability, sexual orientation or transgender identity](section/241.md)
+    - Service detention and custodial sentences
+      - [s. 242 Service detention: general restriction](section/242.md)
+      - [s. 243 Length of term of service detention: general provision](section/243.md)
+      - [s. 244 Limit on combined term of sentences of service detention](section/244.md)
+      - [s. 245 Section 244: supplementary](section/245.md)
+      - [s. 246 Crediting of time in service custody: terms of imprisonment and detention](section/246.md)
+      - [s. 247 Crediting of time in service custody: supplementary](section/247.md)
+    - Forfeiture of seniority and reduction in rank
+      - [s. 248 Forfeiture of seniority and reduction in rank or disrating: general restriction](section/248.md)
+    - Financial punishments
+      - [s. 249 Fixing of fines](section/249.md)
+      - [s. 250 Determination of service compensation order](section/250.md)
+      - [s. 251 Power to allow payment of fine or service compensation order by instalments](section/251.md)
+    - Reasons
+      - [s. 252 Duty to give reasons and explain sentence](section/252.md)
+      - [s. 253 Duties in complying with section 252](section/253.md)
+    - Finding of domestic abuse
+      - [s. 253A Finding of domestic abuse](section/253A.md)
+    - Savings
+      - [s. 254 Savings for powers to mitigate sentence etc](section/254.md)
+  - Chapter 2 Principles and Procedures applying to Service Courts Only
+    - General
+      - [s. 255 Individual sentence for each offence](section/255.md)
+      - [s. 256 Pre-sentence reports](section/256.md)
+      - [s. 257 Pre-sentence reports: supplementary](section/257.md)
+      - [s. 258 Mentally disordered offenders: requirement for medical report](section/258.md)
+      - [s. 259 Sentencing guidelines](section/259.md)
+    - Custodial sentences and service detention
+      - [s. 260 Discretionary custodial sentences: general restrictions](section/260.md)
+      - [s. 261 Length of discretionary custodial sentences: general provision](section/261.md)
+      - [s. 261A Life sentences: further provision](section/261A.md)
+      - [s. 262 Power to recommend licence conditions](section/262.md)
+      - [s. 262A Conversion of sentence of detention to sentence of imprisonment](section/262A.md)
+      - [s. 263 Restriction on imposing custodial sentence or service detention on unrepresented offender](section/263.md)
+      - [s. 264 Effect of duties to pass custodial sentences on other powers of punishment](section/264.md)
+    - Dismissal
+      - [s. 265 Dismissal: general restrictions](section/265.md)
+    - Financial punishments
+      - [s. 266 Financial statement orders](section/266.md)
+      - [s. 267 Power of court to remit fine](section/267.md)
+      - [s. 268 Order for service parent or service guardian to pay fine or compensation](section/268.md)
+      - [s. 269 Fixing of fine or compensation to be paid by parent or guardian](section/269.md)
+      - [s. 269A Fines: fixing of term of imprisonment for default](section/269A.md)
+      - [s. 269B Service compensation orders: power to set maximum term of imprisonment for default](section/269B.md)
+      - [s. 269C Orders under section 269A or 269B against service parents or service guardians: appeals](section/269C.md)
+    - Community punishments
+      - [s. 270 Community punishments: general restrictions etc](section/270.md)
+      - [s. 270A Exception to restrictions on community punishments](section/270A.md)
+  - Chapter 3 Supplementary
+    - [s. 271 Civilian courts dealing with service offences](section/271.md)
+- Part 10 Court Martial Decisions: Appeals and Review
+  - Chapter 1 Appeals from Court Martial
+    - [s. 272 Appeals to the Court Martial Appeal Court](section/272.md)
+  - Chapter 2 Review of Court Martial Sentence
+    - [s. 273 Review of unduly lenient sentence by Court Martial Appeal Court](section/273.md)
+    - [s. 274 Reference of point of law to Supreme Court](section/274.md)
+    - [s. 275 Power to make supplementary provision about review of sentence](section/275.md)
+  - Chapter 3 Compensation for Miscarriages of Justice
+    - [s. 276 Compensation for miscarriages of justice](section/276.md)
+    - [s. 276A Miscarriages of justice: amount of compensation](section/276A.md)
+    - [s. 276B Cases where person has been detained for at least 10 years](section/276B.md)
+- Part 11 The Service Civilian Court
+  - The Service Civilian Court: court and proceedings
+    - [s. 277 The Service Civilian Court](section/277.md)
+    - [s. 278 Constitution and proceedings of the Service Civilian Court](section/278.md)
+    - [s. 279 Court must consider whether trial by Court Martial more appropriate](section/279.md)
+    - [s. 280 Right to elect trial by Court Martial instead of by SCC](section/280.md)
+    - [s. 281 Power of SCC to convict of offence other than that charged](section/281.md)
+  - Punishments available to Service Civilian Court
+    - [s. 282 Punishments available to Service Civilian Court](section/282.md)
+    - [s. 283 Imprisonment: maximum term](section/283.md)
+    - [s. 284 Fines and compensation orders: maximum amounts](section/284.md)
+  - Appeals from Service Civilian Court
+    - [s. 285 Right of appeal from SCC](section/285.md)
+    - [s. 286 Hearing of appeals from SCC](section/286.md)
+    - [s. 287 Findings made and sentences passed by Court Martial on appeal from SCC](section/287.md)
+  - SCC rules
+    - [s. 288 SCC rules](section/288.md)
+- Part 12 Service and Effect of Certain Sentences
+  - Commencement of sentence
+    - [s. 289 Commencement of sentences of the Court Martial and Service Civilian Court](section/289.md)
+    - [s. 290 Commencement of term of service detention awarded by CO](section/290.md)
+    - [s. 291 Commencement of consecutive term of service detention awarded by CO](section/291.md)
+    - [s. 292 Commencement of suspended sentence activated by CO](section/292.md)
+  - Effect of custodial sentence or detention on rank or rate
+    - [s. 293 Effect on rank or rate of WOs and NCOs of custodial sentence or sentence of service detention](section/293.md)
+    - [s. 294 Rank or rate of WOs and NCOs while in custody pursuant to custodial sentence etc](section/294.md)
+  - Effect of dismissal
+    - [s. 295 Effect of sentence of dismissal](section/295.md)
+  - Service of sentence
+    - [s. 296 Service detention](section/296.md)
+    - [s. 297 Detention in service custody following passing of custodial sentence etc](section/297.md)
+    - [s. 298 Removal to England and Wales following passing of custodial sentence etc](section/298.md)
+    - [s. 299 Duty to receive prisoners](section/299.md)
+    - [s. 300 Service custody etc rules](section/300.md)
+    - [s. 301 Duration of sentences: persons unlawfully at large or on temporary release](section/301.md)
+    - [s. 302 Remission of certain sentences on passing of custodial sentence etc](section/302.md)
+    - [s. 303 Power of service policeman to arrest person unlawfully at large](section/303.md)
+  - Supplementary
+    - [s. 304 Sentences passed by civilian courts](section/304.md)
+- PART 12A Offenders assisting investigations and prosecutions
+  - [s. 304A Immunity from prosecution](section/304A.md)
+  - [s. 304B Undertakings as to use of evidence](section/304B.md)
+  - [s. 304C Reduction in sentence](section/304C.md)
+  - [s. 304D Review of sentence following offer of assistance](section/304D.md)
+  - [s. 304E Review of sentence following failure to assist](section/304E.md)
+  - [s. 304F Sections 304C to 304E: statements in open court](section/304F.md)
+  - [s. 304G Sections 304D and 304E: exclusion of public from review proceedings](section/304G.md)
+  - [s. 304H Meaning of “sentence”](section/304H.md)
+- Part 13 Discipline: Miscellaneous and Supplementary
+  - Chapter 1 Random Drug Testing
+    - [s. 305 Random drug testing](section/305.md)
+    - [s. 306 Testing for alcohol and drugs after serious incident](section/306.md)
+    - [s. 307 Definitions etc for purposes of section 306](section/307.md)
+    - [s. 308 Section 305: supplementary](section/308.md)
+  - Chapter 2 Contempt of Court
+    - [s. 309 Offences of misbehaviour in court etc](section/309.md)
+    - [s. 310 Power to detain before dealing with section 309 offence](section/310.md)
+    - [s. 311 Certification to civil courts](section/311.md)
+    - [s. 312 Decisions of court under section 309: making and effect](section/312.md)
+  - Chapter 3 Arrest and Detention by Civil Authorities
+    - Arrest for service offences
+      - [s. 313 Arrest by civilian police under warrant of judge advocate](section/313.md)
+    - Arrest etc for desertion or absence without leave
+      - [s. 314 Arrest by civilian police of deserters and absentees without leave](section/314.md)
+      - [s. 315 Deserters and absentees without leave surrendering to civilian police](section/315.md)
+      - [s. 316 Proceedings before civilian court where person suspected of illegal absence](section/316.md)
+      - [s. 317 Warrant for the arrest of persons released under section 315(4)(c) or 316(3)(a)(ii)](section/317.md)
+    - Arrest of persons unlawfully at large
+      - [s. 318 Arrest by civilian police of persons unlawfully at large](section/318.md)
+    - Supplementary
+      - [s. 319 Certificates in connection with transfer to service custody etc](section/319.md)
+      - [s. 320 Power to use reasonable force](section/320.md)
+  - Chapter 3A Guidance on Exercise of Criminal Jurisdiction
+    - [s. 320A Guidance on exercise of criminal jurisdiction: England or Wales](section/320A.md)
+    - [s. 320B Guidance on exercise of criminal jurisdiction: Scotland](section/320B.md)
+    - [s. 320C Guidance on exercise of criminal jurisdiction: Northern Ireland](section/320C.md)
+  - Chapter 4 Powers of the Criminal Cases Review Commission
+    - [s. 321 Powers of the Criminal Cases Review Commission](section/321.md)
+  - Chapter 4A Inspection of service police investigations
+    - [s. 321A Inspection of service police investigations](section/321A.md)
+    - [s. 321B Inspectors’ reports to be laid before Parliament](section/321B.md)
+  - Chapter 5 Supplementary
+    - Financial penalty enforcement orders
+      - [s. 322 Financial penalty enforcement orders](section/322.md)
+    - Power to make provision in consequence of criminal justice enactments
+      - [s. 323 Power to make provision in consequence of criminal justice enactments](section/323.md)
+      - [s. 324 Section 323: definitions](section/324.md)
+    - Other supplementary provisions
+      - [s. 325 Evidential burden as respects excuses](section/325.md)
+      - [s. 326 Exclusion of enactments requiring consent of Attorney General or DPP](section/326.md)
+      - [s. 327 Local probation boards](section/327.md)
+- Second Group of Parts Miscellaneous Matters
+- Part 14 Enlistment, Terms of Service etc
+  - Enlistment, terms of service etc
+    - [s. 328 Enlistment](section/328.md)
+    - [s. 329 Terms and conditions of enlistment and service](section/329.md)
+    - [s. 330 Desertion and absence without leave: forfeiture of service etc](section/330.md)
+    - [s. 331 Discharge etc from the regular forces and transfer to the reserve forces](section/331.md)
+    - [s. 332 Administrative reduction in rank or rate](section/332.md)
+    - [s. 333 Pay, bounty and allowances](section/333.md)
+  - Redress of individual grievances
+    - [s. 334 Redress of individual grievances: service complaints](section/334.md)
+    - [s. 335 Service complaints: role of Defence Council and service complaint panels](section/335.md)
+    - [s. 336 Composition and procedure of service complaint panels](section/336.md)
+    - [s. 336A Requirement to delegate to service complaint panel](section/336A.md)
+    - [s. 337 Reference of individual grievance to Her Majesty](section/337.md)
+  - Role of Service Complaints Commissioner
+    - [s. 338 Referral by Service Complaints Commissioner of certain allegations](section/338.md)
+    - [s. 339 Reports by Commissioner on system for dealing with service complaints etc](section/339.md)
+  - Restriction on aliens
+    - [s. 340 Restriction on aliens in regular forces etc](section/340.md)
+- Part 14A Addressing service complaints and general service welfare matters
+  - Service complaints
+    - [s. 340A Who can make a service complaint?](section/340A.md)
+    - [s. 340B Procedure for making a complaint and determining admissibility](section/340B.md)
+  - Decisions and appeals
+    - [s. 340C Decisions on service complaints](section/340C.md)
+    - [s. 340D Appeals](section/340D.md)
+    - [s. 340E Further provision about persons and panels deciding service complaints etc](section/340E.md)
+  - Investigation, delegation and time limits
+    - [s. 340F Investigation of complaints and delegation of Defence Council functions](section/340F.md)
+    - [s. 340G Service complaints: other time limits](section/340G.md)
+  - Investigations by Armed Forces Commissioner of service complaints
+    - [s. 340H Commissioner investigations of service complaints](section/340H.md)
+    - [s. 340I Procedure on Commissioner investigations of service complaints](section/340I.md)
+  - Investigations by Armed Forces Commissioner of general service welfare matters
+    - [s. 340IA Commissioner investigations of general service welfare matters](section/340IA.md)
+    - [s. 340IB Power of entry to service premises](section/340IB.md)
+  - Armed Forces Commissioner investigations: supplementary matters
+    - [s. 340J Power to require information, documents and evidence](section/340J.md)
+    - [s. 340K Obstruction and contempt](section/340K.md)
+  - Reports of investigation
+    - [s. 340L Report and recommendations: service complaints investigations](section/340L.md)
+    - [s. 340LA Report and recommendations: general service welfare investigations](section/340LA.md)
+    - [s. 340M Action following receipt of report under section 340L](section/340M.md)
+  - Armed Forces Commissioner’s function of referring allegations
+    - [s. 340N Referral of certain allegations](section/340N.md)
+  - Annual report by Armed Forces Commissioner
+    - [s. 340O Annual report of Armed Forces Commissioner](section/340O.md)
+- Part 14B Service police: complaints, misconduct etc
+  - Functions of the Service Police Complaints Commissioner
+    - [s. 340P Complaints, misconduct etc](section/340P.md)
+    - [s. 340Q Investigation of concerns raised by whistle-blowers](section/340Q.md)
+  - Super-complaints
+    - [s. 340R Power to make super-complaints](section/340R.md)
+- Part 15 Forfeitures and Deductions
+  - [s. 341 Forfeitures and deductions: general provisions](section/341.md)
+  - [s. 342 Permitted forfeitures and deductions](section/342.md)
+- Part 16 Inquiries
+  - [s. 343 Service inquiries](section/343.md)
+- Part 16A Armed forces covenant
+  - [s. 343A Armed forces covenant report](section/343A.md)
+  - [s. 343AA Due regard to principles: England](section/343AA.md)
+  - [s. 343AB Due regard to principles: Wales](section/343AB.md)
+  - [s. 343AC Due regard to principles: Scotland](section/343AC.md)
+  - [s. 343AD Due regard to principles: Northern Ireland](section/343AD.md)
+  - [s. 343AE Sections 343AA to 343AD: guidance](section/343AE.md)
+  - [s. 343AF Sections 343AA to 343AD: power to add bodies and functions](section/343AF.md)
+  - [s. 343B Interpretation of Part](section/343B.md)
+- Part 17 Miscellaneous
+  - Offences relating to service matters punishable by civilian courts
+    - [s. 344 Aiding or abetting etc desertion or absence without leave](section/344.md)
+    - [s. 345 Aiding or abetting etc malingering](section/345.md)
+    - [s. 346 Obstructing persons subject to service law in course of duty](section/346.md)
+    - [s. 347 Sections 344 to 346: supplementary provisions](section/347.md)
+    - [s. 348 British overseas territories: references to maximum penalties](section/348.md)
+  - Exemptions from certain civil matters
+    - [s. 349 Exemption from tolls and charges](section/349.md)
+    - [s. 350 Exemption of property used for service purposes from execution](section/350.md)
+  - Powers of officers etc
+    - [s. 351 Detention etc of persons in overseas service hospitals](section/351.md)
+    - [s. 352 Power to take affidavits and declarations](section/352.md)
+  - Protection of children of service families
+    - [s. 353 Protection of children of service families](section/353.md)
+  - Miscellaneous
+    - [s. 354 Extension of powers of command dependent on rank or rate](section/354.md)
+    - [s. 355 Service of process](section/355.md)
+    - [s. 356 Avoidance of assignment of or charge on pay and pensions etc](section/356.md)
+    - [s. 357 Power of British overseas territory to apply Act, etc](section/357.md)
+    - [s. 358 Amendments relating to reserve forces](section/358.md)
+    - [s. 359 Pardons for servicemen executed for disciplinary offences: recognition as victims of First World War](section/359.md)
+- Third Group of Parts General
+- Part 18 Commanding Officer and Other Persons with Functions under Act
+  - Officers
+    - [s. 360 Meaning of “commanding officer”](section/360.md)
+    - [s. 361 Meaning of “higher authority”](section/361.md)
+  - Court officials
+    - [s. 362 Judge advocates](section/362.md)
+    - [s. 363 Court administration officer](section/363.md)
+  - Service Prosecuting Authority
+    - [s. 364 Director of Service Prosecutions](section/364.md)
+    - [s. 365 Prosecuting officers](section/365.md)
+  - Armed Forces Commissioner
+    - [s. 365AA Armed Forces Commissioner](section/365AA.md)
+  - Provost Marshals
+    - [s. 365A Provost Marshals: appointment](section/365A.md)
+  - ...
+    - [s. 365B Service Complaints Ombudsman](section/365B.md)
+  - Service Police Complaints Commissioner
+    - [s. 365BA Service Police Complaints Commissioner](section/365BA.md)
+    - [s. 365BB Investigating officers](section/365BB.md)
+  - ...
+    - [s. 366 Service Complaints Commissioner](section/366.md)
+- Part 19 Supplementary
+  - Chapter 1 Application of Act
+    - Persons subject to service law
+      - [s. 367 Persons subject to service law: regular and reserve forces](section/367.md)
+      - [s. 368 References to members of the regular forces](section/368.md)
+      - [s. 369 Members of British overseas territories’ forces serving with UK forces](section/369.md)
+    - Civilians subject to service discipline
+      - [s. 370 Civilians subject to service discipline](section/370.md)
+    - Naval chaplains
+      - [s. 371 Naval chaplains](section/371.md)
+    - Protected prisoners of war
+      - [s. 371A Power to make provision in relation to protected prisoners of war](section/371A.md)
+  - Chapter 2 Other Supplementary Provisions
+    - [s. 372 Evidence in proceedings before civilian courts](section/372.md)
+    - [s. 373 Orders, regulations and rules](section/373.md)
+  - Chapter 3 Interpretation
+    - [s. 374 Definitions applying for purposes of whole Act](section/374.md)
+    - [s. 375 Definitions relating to the service police and other police forces](section/375.md)
+    - [s. 376 “Conviction”, “sentence” etc in relation to summary hearings and the SAC](section/376.md)
+    - [s. 377 Further interpretive provisions](section/377.md)
+  - Chapter 4 Final Provisions
+    - [s. 378 Minor and consequential amendments and repeals](section/378.md)
+    - [s. 379 Power to make further amendments and repeals](section/379.md)
+    - [s. 380 Power to make transitional and transitory provision](section/380.md)
+    - [s. 381 Alignment of SDAs etc with this Act](section/381.md)
+    - [s. 382 Duration of this Act](section/382.md)
+    - [s. 383 Commencement](section/383.md)
+    - [s. 384 Extent to Channel Islands, Isle of Man and British overseas territories](section/384.md)
+    - [s. 385 Extent of applied enactments](section/385.md)
+    - [s. 386 Short title](section/386.md)
+- SCHEDULE 1 Criminal conduct offences that may be dealt with at a summary hearing
+  - Part 1 Offences that may be dealt with without permission
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part 2 Offences that may be dealt with only with permission
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 14A](schedule/1/paragraph/14A.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- SCHEDULE 2 “Schedule 2 offences”
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 2A Offences relating to members of the Court Martial
+  - Interpretation
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Research by lay members
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Sharing research with other lay members
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Engaging in other prohibited conduct
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Disclosing information about members’ deliberations etc
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Disclosing information about members’ deliberations etc: initial exceptions
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Disclosing information about members’ deliberations etc: further exceptions
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Disclosing information about members’ deliberations: exceptions for soliciting disclosures or obtaining information
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Saving for contempt of court
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+- SCHEDULE 3 Civilians etc: modifications of Court Martial sentencing powers
+  - Part 1 Civilian offenders
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part 2 Ex-servicemen etc
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 3A Court Martial sentencing powers where election for trial by that court instead of CO
+  - Part 1 Relevant offences
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Part 2 Sentencing powers etc
+    - [Sch. 3A para. 6 Sentencing powers: single relevant offence](schedule/3A/paragraph/6.md)
+    - [Sch. 3A para. 7 Sentencing powers: single relevant offence](schedule/3A/paragraph/7.md)
+    - [Sch. 3A para. 8 Multiple relevant offences](schedule/3A/paragraph/8.md)
+    - [Sch. 3A para. 9 Sentencing powers: multiple relevant offences](schedule/3A/paragraph/9.md)
+    - [Sch. 3A para. 10 Further provision about sentencing](schedule/3A/paragraph/10.md)
+    - [Sch. 3A para. 11 Further provision about sentencing](schedule/3A/paragraph/11.md)
+    - [Sch. 3A para. 12 Activation of suspended sentence of detention](schedule/3A/paragraph/12.md)
+    - [Sch. 3A para. 13 Court orders other than sentences](schedule/3A/paragraph/13.md)
+    - [Sch. 3A para. 14 Review of unduly lenient sentences](schedule/3A/paragraph/14.md)
+    - [Sch. 3A para. 15 Appeals: application of Court Martial Appeals Act 1968 to multiple relevant offences](schedule/3A/paragraph/15.md)
+  - Part 3 Interpretation
+    - [Sch. 3A para. 16 “Commanding officer”](schedule/3A/paragraph/16.md)
+    - [Sch. 3A para. 17 Substituted charges](schedule/3A/paragraph/17.md)
+- SCHEDULE 4 Unfitness and insanity: modifications of Mental Health Act 1983
+  - Hospital orders
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Restriction orders
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Remand orders
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Interim hospital orders
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Breach, revocation and amendment of community punishments
+  - Part 1 Service community orders
+    - General
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Breach of requirement of order
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Revocation of order
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Amendment of order
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Powers of civilian courts in relation to order following subsequent conviction
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Re-sentencing powers
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part 2 Overseas community orders
+    - General
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Breach of requirement of order
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 12A](schedule/5/paragraph/12A.md)
+      - [Sch. 5 para. 12B](schedule/5/paragraph/12B.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 14A](schedule/5/paragraph/14A.md)
+    - Revocation of order
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Amendment of order
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Powers in relation to order following subsequent conviction
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Supplementary provisions relating to orders
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Court Martial rules
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Appeals
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+- SCHEDULE 6 Overseas community orders: young offenders
+  - Unpaid work requirement
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Exclusion requirement
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Residence requirement
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Mental health requirement
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Drug rehabilitation requirement
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Alcohol treatment requirement
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Education requirement
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Power to amend
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 6A Breach, revocation and amendment of overseas community orders
+  - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Preliminary
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - Breach of requirement of order
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+  - Revocation of order
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+  - Amendment of order
+    - [Sch. 6A para. 9](schedule/6A/paragraph/9.md)
+  - Conviction of further offence
+    - [Sch. 6A para. 10](schedule/6A/paragraph/10.md)
+  - Supplementary
+    - [Sch. 6A para. 11](schedule/6A/paragraph/11.md)
+    - [Sch. 6A para. 12](schedule/6A/paragraph/12.md)
+  - Court Martial Rules
+    - [Sch. 6A para. 13](schedule/6A/paragraph/13.md)
+  - Appeals
+    - [Sch. 6A para. 14](schedule/6A/paragraph/14.md)
+- SCHEDULE 7 Suspended sentence orders: breach or amendment; effect of further conviction
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Preliminary
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Breach of community requirement or conviction of further offence
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Amendment of order
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Supplementary
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+- SCHEDULE 8 Amendment of the Courts-Martial (Appeals) Act 1968
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+  - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+  - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+  - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+  - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+  - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+  - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+  - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+  - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+  - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+  - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+  - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+  - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+- SCHEDULE 9 Assessors of compensation for miscarriages of justice
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Proceedings of the Service Civilian Court
+  - Court to sit in public
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Unfitness to stand trial and insanity
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Privilege of witnesses and others
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+- SCHEDULE 11 Powers of the Criminal Cases Review Commission
+  - Amendment of the Court Martial Appeals Act 1968
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Amendments of the Criminal Appeal Act 1995
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 Detention etc of persons in overseas service hospitals
+  - The relevant conditions
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Order for person’s detention in overseas service hospital
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Effect of order under paragraph 2
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Requirements as to recommendations under paragraph 2
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Exercise of powers under paragraph 2 where person’s commanding officer is absent etc
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Power to review order under paragraph 2
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Detention of resident patients in overseas service hospitals pending order under paragraph 2(3)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Urgent removal from service living accommodation to overseas service hospital
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Urgent removal from other places to overseas service hospital
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Use of force
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Service custody
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Definitions
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- SCHEDULE 13 Protection of children of service families
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+- SCHEDULE 14 Amendments relating to reserve forces
+  - Reserve Forces Act 1980 (c. 9)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+  - Reserve Forces Act 1996 (c. 14)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+- SCHEDULE 14ZA The Armed Forces Commissioner
+  - [Sch. 14ZA para. 1 Status](schedule/14ZA/paragraph/1.md)
+  - [Sch. 14ZA para. 2](schedule/14ZA/paragraph/2.md)
+  - [Sch. 14ZA para. 3 Appointment](schedule/14ZA/paragraph/3.md)
+  - [Sch. 14ZA para. 4 Disqualification](schedule/14ZA/paragraph/4.md)
+  - [Sch. 14ZA para. 5 Term of office](schedule/14ZA/paragraph/5.md)
+  - [Sch. 14ZA para. 6 Deputy Commissioners](schedule/14ZA/paragraph/6.md)
+  - [Sch. 14ZA para. 7 Vacancy or incapacity](schedule/14ZA/paragraph/7.md)
+  - [Sch. 14ZA para. 8 Staff](schedule/14ZA/paragraph/8.md)
+  - [Sch. 14ZA para. 9 Delegation of functions](schedule/14ZA/paragraph/9.md)
+  - [Sch. 14ZA para. 10 Liability](schedule/14ZA/paragraph/10.md)
+  - [Sch. 14ZA para. 11 Financial and other assistance from the Secretary of State](schedule/14ZA/paragraph/11.md)
+- Schedule 14A The Service Police Complaints Commissioner
+  - [Sch. 14A para. 1 Status](schedule/14A/paragraph/1.md)
+  - [Sch. 14A para. 2 Status](schedule/14A/paragraph/2.md)
+  - [Sch. 14A para. 3 Appointment](schedule/14A/paragraph/3.md)
+  - [Sch. 14A para. 4 Disqualification](schedule/14A/paragraph/4.md)
+  - [Sch. 14A para. 5 Vacancy or incapacity](schedule/14A/paragraph/5.md)
+  - [Sch. 14A para. 6 Term of office](schedule/14A/paragraph/6.md)
+  - [Sch. 14A para. 7 Delegation of functions](schedule/14A/paragraph/7.md)
+  - [Sch. 14A para. 8 Liability](schedule/14A/paragraph/8.md)
+- SCHEDULE 15 Civilians subject to service discipline
+  - Part 1 Civilians subject to service discipline
+    - Persons in one of Her Majesty’s aircraft in flight
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Persons in one of Her Majesty’s ships afloat
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Persons in service custody etc
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Crown servants in designated area working in support of Her Majesty’s forces
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Persons working for specified military organisations
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Persons in designated area who are members or employees of other specified organisations
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Persons designated by or on behalf of Defence Council
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Persons residing or staying with person subject to service law in designated area
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Persons residing or staying with person falling within paragraph 4 or 6 in designated area
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - Persons residing or staying with person falling within paragraph 5
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Part 2 Exclusion and definitions
+    - Exclusion
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - Definitions
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+- SCHEDULE 16 Minor and consequential amendments
+  - Metropolitan Police Act 1860 (c. 135)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Naval and Marine Pay and Pensions Act 1865 (c. 73)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Naval Pensions Act 1884 (c. 44)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Foreign Marriage Act 1892 (c. 23)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Regimental Debts Act 1893 (c. 5)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Uniforms Act 1894 (c. 45)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - Criminal Evidence Act 1898 (c. 36)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - Air Force (Constitution) Act 1917 (c. 51)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - Visiting Forces (British Commonwealth) Act 1933 (c. 6)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - Defence (Armed Forces) Regulations 1939 (S.I. 1939/1304)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+  - Courts-Martial (Appeals) Act 1951 (c. 46)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+  - Prison Act 1952 (c. 52)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+  - Visiting Forces Act 1952 (c. 67)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - Army Act 1955 (3 & 4 Eliz. 2 c. 18)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+  - Air Force Act 1955 (3 & 4 Eliz. 2 c. 19)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+  - Naval Discipline Act 1957 (c. 53)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+  - Registration of Births, Deaths and Marriages (Special Provisions) Act 1957 (c. 58)
+    - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+  - Coroners Act (Northern Ireland) 1959 (c. 15)
+    - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+  - Administration of Justice Act 1960 (c. 65)
+    - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+  - Criminal Justice Act 1961 (c. 39)
+    - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+  - Criminal Justice Act 1967 (c. 80)
+    - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+    - [Sch. 16 para. 50](schedule/16/paragraph/50.md)
+  - Civil Evidence Act 1968 (c. 64)
+    - [Sch. 16 para. 51](schedule/16/paragraph/51.md)
+    - [Sch. 16 para. 52](schedule/16/paragraph/52.md)
+    - [Sch. 16 para. 53](schedule/16/paragraph/53.md)
+  - Equal Pay Act 1970 (c. 41)
+    - [Sch. 16 para. 54](schedule/16/paragraph/54.md)
+    - [Sch. 16 para. 55](schedule/16/paragraph/55.md)
+    - [Sch. 16 para. 56](schedule/16/paragraph/56.md)
+  - Equal Pay Act (Northern Ireland) 1970 (c. 32)
+    - [Sch. 16 para. 57](schedule/16/paragraph/57.md)
+    - [Sch. 16 para. 58](schedule/16/paragraph/58.md)
+  - Civil Evidence Act (Northern Ireland) 1971 (c. 36)
+    - [Sch. 16 para. 59](schedule/16/paragraph/59.md)
+    - [Sch. 16 para. 60](schedule/16/paragraph/60.md)
+    - [Sch. 16 para. 61](schedule/16/paragraph/61.md)
+  - Juries Act 1974 (c. 23)
+    - [Sch. 16 para. 62](schedule/16/paragraph/62.md)
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 16 para. 63](schedule/16/paragraph/63.md)
+    - [Sch. 16 para. 64](schedule/16/paragraph/64.md)
+    - [Sch. 16 para. 65](schedule/16/paragraph/65.md)
+    - [Sch. 16 para. 66](schedule/16/paragraph/66.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 16 para. 67](schedule/16/paragraph/67.md)
+    - [Sch. 16 para. 68](schedule/16/paragraph/68.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 16 para. 69](schedule/16/paragraph/69.md)
+    - [Sch. 16 para. 70](schedule/16/paragraph/70.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 16 para. 71](schedule/16/paragraph/71.md)
+  - Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (c. 14)
+    - [Sch. 16 para. 72](schedule/16/paragraph/72.md)
+  - Bail Act 1976 (c. 63)
+    - [Sch. 16 para. 73](schedule/16/paragraph/73.md)
+    - [Sch. 16 para. 74](schedule/16/paragraph/74.md)
+    - [Sch. 16 para. 75](schedule/16/paragraph/75.md)
+    - [Sch. 16 para. 76](schedule/16/paragraph/76.md)
+    - [Sch. 16 para. 77](schedule/16/paragraph/77.md)
+    - [Sch. 16 para. 78](schedule/16/paragraph/78.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 16 para. 79](schedule/16/paragraph/79.md)
+    - [Sch. 16 para. 80](schedule/16/paragraph/80.md)
+    - [Sch. 16 para. 81](schedule/16/paragraph/81.md)
+  - Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+    - [Sch. 16 para. 82](schedule/16/paragraph/82.md)
+  - Judicature (Northern Ireland) Act 1978 (c. 23)
+    - [Sch. 16 para. 83](schedule/16/paragraph/83.md)
+  - Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+    - [Sch. 16 para. 84](schedule/16/paragraph/84.md)
+    - [Sch. 16 para. 85](schedule/16/paragraph/85.md)
+    - [Sch. 16 para. 86](schedule/16/paragraph/86.md)
+    - [Sch. 16 para. 87](schedule/16/paragraph/87.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 16 para. 88](schedule/16/paragraph/88.md)
+    - [Sch. 16 para. 89](schedule/16/paragraph/89.md)
+  - Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 16 para. 90](schedule/16/paragraph/90.md)
+  - Contempt of Court Act 1981 (c. 49)
+    - [Sch. 16 para. 91](schedule/16/paragraph/91.md)
+    - [Sch. 16 para. 92](schedule/16/paragraph/92.md)
+  - Senior Courts Act 1981 (c. 54)
+    - [Sch. 16 para. 93](schedule/16/paragraph/93.md)
+  - Criminal Justice Act 1982 (c. 48)
+    - [Sch. 16 para. 94](schedule/16/paragraph/94.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 16 para. 95](schedule/16/paragraph/95.md)
+    - [Sch. 16 para. 96](schedule/16/paragraph/96.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 16 para. 97](schedule/16/paragraph/97.md)
+  - Repatriation of Prisoners Act 1984 (c. 47)
+    - [Sch. 16 para. 98](schedule/16/paragraph/98.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 16 para. 99](schedule/16/paragraph/99.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 16 para. 100](schedule/16/paragraph/100.md)
+    - [Sch. 16 para. 101](schedule/16/paragraph/101.md)
+    - [Sch. 16 para. 102](schedule/16/paragraph/102.md)
+    - [Sch. 16 para. 103](schedule/16/paragraph/103.md)
+    - [Sch. 16 para. 104](schedule/16/paragraph/104.md)
+    - [Sch. 16 para. 105](schedule/16/paragraph/105.md)
+    - [Sch. 16 para. 106](schedule/16/paragraph/106.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 16 para. 107](schedule/16/paragraph/107.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 16 para. 108](schedule/16/paragraph/108.md)
+  - Debtors (Scotland) Act 1987 (c. 18)
+    - [Sch. 16 para. 109](schedule/16/paragraph/109.md)
+  - Coroners Act 1988 (c. 13)
+    - [Sch. 16 para. 110](schedule/16/paragraph/110.md)
+    - [Sch. 16 para. 111](schedule/16/paragraph/111.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 16 para. 112](schedule/16/paragraph/112.md)
+    - [Sch. 16 para. 113](schedule/16/paragraph/113.md)
+    - [Sch. 16 para. 114](schedule/16/paragraph/114.md)
+    - [Sch. 16 para. 115](schedule/16/paragraph/115.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 16 para. 116](schedule/16/paragraph/116.md)
+    - [Sch. 16 para. 117](schedule/16/paragraph/117.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 16 para. 118](schedule/16/paragraph/118.md)
+    - [Sch. 16 para. 119](schedule/16/paragraph/119.md)
+    - [Sch. 16 para. 120](schedule/16/paragraph/120.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 16 para. 121](schedule/16/paragraph/121.md)
+  - Armed Forces Act 1991 (c. 62)
+    - [Sch. 16 para. 122](schedule/16/paragraph/122.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 16 para. 123](schedule/16/paragraph/123.md)
+  - Sexual Offences (Amendment) Act 1992 (c. 34)
+    - [Sch. 16 para. 124](schedule/16/paragraph/124.md)
+    - [Sch. 16 para. 125](schedule/16/paragraph/125.md)
+    - [Sch. 16 para. 126](schedule/16/paragraph/126.md)
+    - [Sch. 16 para. 127](schedule/16/paragraph/127.md)
+    - [Sch. 16 para. 128](schedule/16/paragraph/128.md)
+    - [Sch. 16 para. 129](schedule/16/paragraph/129.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 16 para. 130](schedule/16/paragraph/130.md)
+  - Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)
+    - [Sch. 16 para. 131](schedule/16/paragraph/131.md)
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 16 para. 132](schedule/16/paragraph/132.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 16 para. 133](schedule/16/paragraph/133.md)
+  - Disability Discrimination Act 1995 (c. 50)
+    - [Sch. 16 para. 134](schedule/16/paragraph/134.md)
+  - Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+    - [Sch. 16 para. 135](schedule/16/paragraph/135.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 16 para. 136](schedule/16/paragraph/136.md)
+  - Criminal Procedure and Investigations Act 1996 (c. 25)
+    - [Sch. 16 para. 137](schedule/16/paragraph/137.md)
+  - Armed Forces Act 1996 (c. 46)
+    - [Sch. 16 para. 138](schedule/16/paragraph/138.md)
+  - ...
+    - [Sch. 16 para. 139](schedule/16/paragraph/139.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 16 para. 140](schedule/16/paragraph/140.md)
+  - Crime (Sentences) Act 1997 (c. 43)
+    - [Sch. 16 para. 141](schedule/16/paragraph/141.md)
+    - [Sch. 16 para. 142](schedule/16/paragraph/142.md)
+    - [Sch. 16 para. 143](schedule/16/paragraph/143.md)
+    - [Sch. 16 para. 144](schedule/16/paragraph/144.md)
+    - [Sch. 16 para. 145](schedule/16/paragraph/145.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 16 para. 146](schedule/16/paragraph/146.md)
+    - [Sch. 16 para. 147](schedule/16/paragraph/147.md)
+    - [Sch. 16 para. 148](schedule/16/paragraph/148.md)
+    - [Sch. 16 para. 149](schedule/16/paragraph/149.md)
+  - Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6))
+    - [Sch. 16 para. 150](schedule/16/paragraph/150.md)
+  - Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. 1997/1183 (N.I. 12))
+    - [Sch. 16 para. 151](schedule/16/paragraph/151.md)
+  - Landmines Act 1998 (c. 33)
+    - [Sch. 16 para. 152](schedule/16/paragraph/152.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 16 para. 153](schedule/16/paragraph/153.md)
+    - [Sch. 16 para. 154](schedule/16/paragraph/154.md)
+    - [Sch. 16 para. 155](schedule/16/paragraph/155.md)
+  - Human Rights Act 1998 (c. 42)
+    - [Sch. 16 para. 156](schedule/16/paragraph/156.md)
+    - [Sch. 16 para. 157](schedule/16/paragraph/157.md)
+  - Youth Justice and Criminal Evidence Act 1999 (c. 23)
+    - [Sch. 16 para. 158](schedule/16/paragraph/158.md)
+    - [Sch. 16 para. 159](schedule/16/paragraph/159.md)
+    - [Sch. 16 para. 160](schedule/16/paragraph/160.md)
+    - [Sch. 16 para. 161](schedule/16/paragraph/161.md)
+  - Welfare Reform and Pensions Act 1999 (c. 30)
+    - [Sch. 16 para. 162](schedule/16/paragraph/162.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 16 para. 163](schedule/16/paragraph/163.md)
+    - [Sch. 16 para. 164](schedule/16/paragraph/164.md)
+    - [Sch. 16 para. 165](schedule/16/paragraph/165.md)
+    - [Sch. 16 para. 166](schedule/16/paragraph/166.md)
+    - [Sch. 16 para. 167](schedule/16/paragraph/167.md)
+    - [Sch. 16 para. 168](schedule/16/paragraph/168.md)
+  - Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 16 para. 169](schedule/16/paragraph/169.md)
+    - [Sch. 16 para. 170](schedule/16/paragraph/170.md)
+    - [Sch. 16 para. 171](schedule/16/paragraph/171.md)
+    - [Sch. 16 para. 172](schedule/16/paragraph/172.md)
+    - [Sch. 16 para. 173](schedule/16/paragraph/173.md)
+    - [Sch. 16 para. 174](schedule/16/paragraph/174.md)
+    - [Sch. 16 para. 175](schedule/16/paragraph/175.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 16 para. 176](schedule/16/paragraph/176.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 16 para. 177](schedule/16/paragraph/177.md)
+    - [Sch. 16 para. 178](schedule/16/paragraph/178.md)
+    - [Sch. 16 para. 179](schedule/16/paragraph/179.md)
+    - [Sch. 16 para. 180](schedule/16/paragraph/180.md)
+    - [Sch. 16 para. 181](schedule/16/paragraph/181.md)
+    - [Sch. 16 para. 182](schedule/16/paragraph/182.md)
+    - [Sch. 16 para. 183](schedule/16/paragraph/183.md)
+    - [Sch. 16 para. 184](schedule/16/paragraph/184.md)
+    - [Sch. 16 para. 185](schedule/16/paragraph/185.md)
+    - [Sch. 16 para. 186](schedule/16/paragraph/186.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 16 para. 187](schedule/16/paragraph/187.md)
+  - International Criminal Court Act 2001 (c. 17)
+    - [Sch. 16 para. 188](schedule/16/paragraph/188.md)
+    - [Sch. 16 para. 189](schedule/16/paragraph/189.md)
+    - [Sch. 16 para. 190](schedule/16/paragraph/190.md)
+    - [Sch. 16 para. 191](schedule/16/paragraph/191.md)
+  - Armed Forces Act 2001 (c. 19)
+    - [Sch. 16 para. 192](schedule/16/paragraph/192.md)
+    - [Sch. 16 para. 193](schedule/16/paragraph/193.md)
+    - [Sch. 16 para. 194](schedule/16/paragraph/194.md)
+    - [Sch. 16 para. 195](schedule/16/paragraph/195.md)
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 16 para. 196](schedule/16/paragraph/196.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 16 para. 197](schedule/16/paragraph/197.md)
+  - Railways and Transport Safety Act 2003 (c. 20)
+    - [Sch. 16 para. 198](schedule/16/paragraph/198.md)
+    - [Sch. 16 para. 199](schedule/16/paragraph/199.md)
+  - Extradition Act 2003 (c. 41)
+    - [Sch. 16 para. 200](schedule/16/paragraph/200.md)
+    - [Sch. 16 para. 201](schedule/16/paragraph/201.md)
+    - [Sch. 16 para. 202](schedule/16/paragraph/202.md)
+    - [Sch. 16 para. 203](schedule/16/paragraph/203.md)
+    - [Sch. 16 para. 204](schedule/16/paragraph/204.md)
+    - [Sch. 16 para. 205](schedule/16/paragraph/205.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 16 para. 206](schedule/16/paragraph/206.md)
+    - [Sch. 16 para. 207](schedule/16/paragraph/207.md)
+    - [Sch. 16 para. 208](schedule/16/paragraph/208.md)
+    - [Sch. 16 para. 209](schedule/16/paragraph/209.md)
+    - [Sch. 16 para. 210](schedule/16/paragraph/210.md)
+    - [Sch. 16 para. 211](schedule/16/paragraph/211.md)
+    - [Sch. 16 para. 212](schedule/16/paragraph/212.md)
+    - [Sch. 16 para. 213](schedule/16/paragraph/213.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 16 para. 214](schedule/16/paragraph/214.md)
+    - [Sch. 16 para. 215](schedule/16/paragraph/215.md)
+    - [Sch. 16 para. 216](schedule/16/paragraph/216.md)
+    - [Sch. 16 para. 217](schedule/16/paragraph/217.md)
+    - [Sch. 16 para. 218](schedule/16/paragraph/218.md)
+    - [Sch. 16 para. 219](schedule/16/paragraph/219.md)
+    - [Sch. 16 para. 220](schedule/16/paragraph/220.md)
+    - [Sch. 16 para. 221](schedule/16/paragraph/221.md)
+    - [Sch. 16 para. 222](schedule/16/paragraph/222.md)
+    - [Sch. 16 para. 223](schedule/16/paragraph/223.md)
+    - [Sch. 16 para. 224](schedule/16/paragraph/224.md)
+    - [Sch. 16 para. 225](schedule/16/paragraph/225.md)
+    - [Sch. 16 para. 226](schedule/16/paragraph/226.md)
+    - [Sch. 16 para. 227](schedule/16/paragraph/227.md)
+    - [Sch. 16 para. 228](schedule/16/paragraph/228.md)
+    - [Sch. 16 para. 229](schedule/16/paragraph/229.md)
+    - [Sch. 16 para. 230](schedule/16/paragraph/230.md)
+    - [Sch. 16 para. 231](schedule/16/paragraph/231.md)
+    - [Sch. 16 para. 232](schedule/16/paragraph/232.md)
+    - [Sch. 16 para. 233](schedule/16/paragraph/233.md)
+    - [Sch. 16 para. 234](schedule/16/paragraph/234.md)
+    - [Sch. 16 para. 235](schedule/16/paragraph/235.md)
+    - [Sch. 16 para. 236](schedule/16/paragraph/236.md)
+  - Crime (International Co-operation) Act 2003 (c. 32)
+    - [Sch. 16 para. 237](schedule/16/paragraph/237.md)
+  - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+    - [Sch. 16 para. 238](schedule/16/paragraph/238.md)
+    - [Sch. 16 para. 239](schedule/16/paragraph/239.md)
+    - [Sch. 16 para. 240](schedule/16/paragraph/240.md)
+  - Human Tissue Act 2004 (c. 30)
+    - [Sch. 16 para. 241](schedule/16/paragraph/241.md)
+    - [Sch. 16 para. 242](schedule/16/paragraph/242.md)
+  - Civil Partnership Act 2004 (c. 33)
+    - [Sch. 16 para. 243](schedule/16/paragraph/243.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 16 para. 244](schedule/16/paragraph/244.md)
+  - Gambling Act 2005 (c. 19)
+    - [Sch. 16 para. 245](schedule/16/paragraph/245.md)
+    - [Sch. 16 para. 246](schedule/16/paragraph/246.md)
+- SCHEDULE 17 Repeals and Revocations
