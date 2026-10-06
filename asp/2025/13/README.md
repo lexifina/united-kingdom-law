@@ -1,0 +1,159 @@
+# Housing (Scotland) Act 2025
+
+asp/2025/13. Enacted 2025-11-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2025/13
+
+Source: https://www.legislation.gov.uk/asp/2025/13/2026-10-06
+
+## Contents
+
+- Part 1 Rent
+  - Chapter 1 Designation of rent control areas
+    - Rent conditions: assessments and reports
+      - [s. 1 Periodic assessment of rent conditions](section/1.md)
+      - [s. 2 Report to Scottish Ministers following periodic assessment](section/2.md)
+      - [s. 3 Interim assessment and reports by local authorities](section/3.md)
+    - Consideration of rent conditions reports
+      - [s. 4 Scottish Ministers to review local authority report](section/4.md)
+      - [s. 5 Further assessment of rent conditions and report by local authority](section/5.md)
+    - Ministerial guidance on local authority assessments and reports
+      - [s. 6 Ministerial guidance on assessments of rent conditions](section/6.md)
+      - [s. 7 Ministerial guidance on reports following assessments of rent conditions](section/7.md)
+    - Ministers’ decision on whether to designate rent control area
+      - [s. 8 Scottish Ministers’ duty to report](section/8.md)
+      - [s. 9 Power to designate rent control area](section/9.md)
+      - [s. 10 Designation of rent control area: consultation](section/10.md)
+      - [s. 11 Duty to keep rent control area under review](section/11.md)
+      - [s. 12 Variation of rent controls in existing rent control area: consultation](section/12.md)
+    - Properties subject to modified restrictions
+      - [s. 13 Properties subject to modified rent control area restrictions](section/13.md)
+    - Power to seek information relating to tenancies
+      - [s. 14 Information that may be sought by local authority or the Scottish Ministers](section/14.md)
+      - [s. 15 Information sharing and cooperation between local authorities and the Scottish Ministers](section/15.md)
+      - [s. 16 Information holder’s failure to provide information sought](section/16.md)
+      - [s. 17 Information holder’s provision of false information](section/17.md)
+      - [s. 18 Scottish Ministers’ request for landlord information from local authorities](section/18.md)
+    - Power to require landlords to provide information
+      - [s. 19 Power to require landlords to provide information](section/19.md)
+    - Expiry of rent control area: power to modify law
+      - [s. 20 Power to modify law in connection with the expiry of rent control area](section/20.md)
+    - Scottish Ministers: information and research
+      - [s. 21 Scottish Ministers: information and research](section/21.md)
+  - Chapter 2 Rent control areas: modifications of the 2016 Act
+    - Information about rent to be included in advertisements
+      - [s. 22 Prospective landlords’ duty to include information about rent in advertisements](section/22.md)
+    - Setting and variation of rent
+      - [s. 23 Setting and variation of rent](section/23.md)
+  - Chapter 3 Other restrictions on rent increases
+    - Frequency of rent increases
+      - [s. 24 Private residential tenancies not in rent control area: frequency of rent increase](section/24.md)
+    - Capping of rent increases on referral or appeal
+      - [s. 25 Private residential tenancies: capping of rent increase](section/25.md)
+      - [s. 26 Assured tenancies: capping of rent increase](section/26.md)
+  - Chapter 4 Review of the operation of Part 1 of the Act
+    - [s. 27 Review of the operation of Part 1 of the Act](section/27.md)
+- Part 2 Dealing with evictions
+  - Evictions: duties to consider delay
+    - [s. 28 Private residential tenancies: duty to consider delay to eviction](section/28.md)
+    - [s. 29 Scottish secure tenancies etc.: duty to consider delay to eviction](section/29.md)
+    - [s. 30 Assured tenancies: duty to consider delay to eviction](section/30.md)
+    - [s. 31 Protected tenancies and statutory tenancies: duty to consider delay to eviction](section/31.md)
+  - Damages for unlawful eviction
+    - [s. 32 Unlawful eviction: notification and damages](section/32.md)
+  - Eviction grounds
+    - [s. 33 Review of eviction grounds](section/33.md)
+  - Payments for wrongful termination
+    - [s. 34 Payments for wrongful termination](section/34.md)
+- Part 3 Keeping pets and making changes to let property
+  - [s. 35 Private residential tenancies: keeping pets and making changes to let property](section/35.md)
+  - [s. 36 Scottish secure tenancies etc.: keeping pets](section/36.md)
+- Part 4 Other matters relating to tenants
+  - Unclaimed tenancy deposits
+    - [s. 37 Use of unclaimed tenancy deposits](section/37.md)
+  - Registration of letting agents etc.
+    - [s. 38 Applications for registration](section/38.md)
+    - [s. 39 Duty to inform: change of circumstances](section/39.md)
+    - [s. 40 Revocation of registration: where agent no longer exists](section/40.md)
+    - [s. 41 Removal from register on application: notification of agent](section/41.md)
+    - [s. 42 Note on register where entry refused or removed: duration](section/42.md)
+    - [s. 43 Power to obtain information and carry out inspections](section/43.md)
+  - Ending joint tenancies
+    - [s. 44 Private residential tenancies: ending a joint tenancy](section/44.md)
+  - Ending student tenancies
+    - [s. 45 Student residential tenancies: power to enable tenant to bring tenancy to an end](section/45.md)
+  - Social landlords: qualifying repairs
+    - [s. 46 Social landlords: qualifying repairs](section/46.md)
+  - Tolerable standard: damp
+    - [s. 47 Tolerable standard: damp](section/47.md)
+  - Succession to tenancies: qualifying periods
+    - [s. 48 Private residential tenancies: succession](section/48.md)
+    - [s. 49 Scottish secure tenancies: succession](section/49.md)
+  - Delivery of notices etc.
+    - [s. 50 Social landlords: delivery of notices etc.](section/50.md)
+  - Converting older tenancies
+    - [s. 51 Assured tenancies: power to convert](section/51.md)
+- Part 5 Homelessness prevention
+  - Duties of relevant bodies
+    - [s. 52 Duties of relevant bodies in relation to homelessness](section/52.md)
+  - Homeless persons: intentionality
+    - [s. 53 Power to modify provision about a person becoming homeless intentionally](section/53.md)
+  - Assessment of housing support services
+    - [s. 54 Assessment of housing support services](section/54.md)
+  - Tenants affected by domestic abuse
+    - [s. 55 Local authorities etc.: consideration of domestic abuse](section/55.md)
+    - [s. 56 Social landlords: pre-action requirement where domestic abuse is a factor in rent arrears](section/56.md)
+    - [s. 57 Social landlords: policies about supporting tenants affected by domestic abuse](section/57.md)
+    - [s. 58 Scottish Social Housing Charter: supporting tenants affected by domestic abuse](section/58.md)
+  - Housing First
+    - [s. 59 Annual report on Housing First](section/59.md)
+- Part 6 Other housing matters
+  - Mobile homes
+    - [s. 60 Mobile homes: jurisdiction of the First-tier Tribunal for Scotland](section/60.md)
+    - [s. 61 New pitch fees: considerations](section/61.md)
+    - [s. 62 Meaning of “protected site”](section/62.md)
+  - Decisions of the Scottish Housing Regulator: reviews and appeals
+    - [s. 63 Decisions of the Scottish Housing Regulator: reviews and appeals](section/63.md)
+  - Property factors
+    - [s. 64 Registration: fit and proper person considerations](section/64.md)
+    - [s. 65 Revocation of registration: where property factor no longer exists](section/65.md)
+    - [s. 66 Removal from register following application](section/66.md)
+    - [s. 67 Note on register where refusal or removal](section/67.md)
+    - [s. 68 Property factor registered numbers: inclusion in communications](section/68.md)
+    - [s. 69 Monitoring of compliance](section/69.md)
+  - Managers of related properties
+    - [s. 70 Power for majority of owners to dismiss and appoint manager](section/70.md)
+  - Fuel poverty
+    - [s. 71 Fuel poverty strategy: consultation](section/71.md)
+    - [s. 72 Periodic reports: periods, consultation and publication etc.](section/72.md)
+    - [s. 73 Advisory panel: removal of funding cap](section/73.md)
+  - New homes ombudsman
+    - [s. 74 Disclosure of information to new homes ombudsman](section/74.md)
+  - Council tax
+    - [s. 75 Variation of council tax for unoccupied dwellings](section/75.md)
+    - [s. 76 Review of council tax arrears: joint and several liability](section/76.md)
+    - [s. 77 Review of classification of properties](section/77.md)
+  - Housing revenue accounts
+    - [s. 78 Transfer of funds into housing revenue account](section/78.md)
+  - Housing emergency
+    - [s. 79 Power to make provision about the declaration of a national housing emergency](section/79.md)
+    - [s. 80 Guidance for local authorities about a local housing emergency](section/80.md)
+- Part 7 Impact Assessment
+  - [s. 81 Rural impact assessment](section/81.md)
+- Part 8 Final provisions
+  - [s. 82 Regulations](section/82.md)
+  - [s. 83 Ancillary provision](section/83.md)
+  - [s. 84 Interpretation](section/84.md)
+  - [s. 85 Minor and consequential modifications](section/85.md)
+  - [s. 86 Commencement](section/86.md)
+  - [s. 87 Short title](section/87.md)
+- Schedule Minor and consequential modifications of enactments
+  - [Sch. paragraph 1 Rent (Scotland) Act 1984](schedule/paragraph/1.md)
+  - [Sch. paragraph 2 Housing (Scotland) Act 1988](schedule/paragraph/2.md)
+  - [Sch. paragraph 3 Housing (Scotland) Act 2001](schedule/paragraph/3.md)
+  - [Sch. paragraph 4 Housing (Scotland) Act 2006](schedule/paragraph/4.md)
+  - [Sch. paragraph 5 Property Factors (Scotland) Act 2011](schedule/paragraph/5.md)
+  - [Sch. paragraph 6 Housing (Scotland) Act 2014](schedule/paragraph/6.md)
+  - [Sch. paragraph 7 Private Housing (Tenancies) (Scotland) Act 2016](schedule/paragraph/7.md)
