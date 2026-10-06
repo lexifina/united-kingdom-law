@@ -1,0 +1,386 @@
+# Housing (Scotland) Act 2006
+
+asp/2006/1. Enacted 2006-01-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2006/1
+
+Source: https://www.legislation.gov.uk/asp/2006/1/2026-10-06
+
+## Contents
+
+- Part 1 Housing standards
+  - Chapter 1 Housing renewal areas
+    - Designation of housing renewal areas
+      - [s. 1 Housing renewal areas: criteria](section/1.md)
+      - [s. 2 Housing renewal areas: procedure](section/2.md)
+      - [s. 3 HRA action plans](section/3.md)
+      - [s. 4 Variation of HRA designation order](section/4.md)
+      - [s. 5 Revocation of HRA designation order](section/5.md)
+      - [s. 6 Directions concerning identification of housing renewal areas](section/6.md)
+      - [s. 7 Public access to HRA designation orders](section/7.md)
+    - Implementation of HRA action plans
+      - [s. 8 Implementation: duties of local authority](section/8.md)
+      - [s. 9 Duty to rehouse displaced residents](section/9.md)
+  - Chapter 2 Strategic housing functions
+    - [s. 10 Local housing strategies](section/10.md)
+  - Chapter 3 The tolerable standard
+    - [s. 11 Amendment of the tolerable standard](section/11.md)
+  - Chapter 4 The repairing standard
+    - Landlord’s duty to repair and maintain
+      - [s. 12 Tenancies to which repairing standard duty applies](section/12.md)
+      - [s. 13 The repairing standard](section/13.md)
+      - [s. 14 Landlord’s duty to repair and maintain](section/14.md)
+      - [s. 15 Application of duty in relation to flats etc.](section/15.md)
+      - [s. 16 Exceptions to landlord’s repairing duty](section/16.md)
+      - [s. 17 Prohibition on contracting out](section/17.md)
+      - [s. 18 Contracting out with consent of First-tier Tribunal](section/18.md)
+      - [s. 19 Pre-tenancy inspection](section/19.md)
+      - [s. 19A Duty to ensure regular electrical safety inspections](section/19A.md)
+      - [s. 19B Electrical safety inspections](section/19B.md)
+      - [s. 20 Tenant’s right to information about landlord’s duty](section/20.md)
+      - [s. 20A Power to modify repairing standard etc.](section/20A.md)
+    - Enforcement of repairing standard
+      - [s. 21 Naming of panel and re-naming of committees](section/21.md)
+      - [s. 22 Application in respect of the repairing standard](section/22.md)
+      - [s. 22A Information to be given to local authority](section/22A.md)
+      - [s. 23 Consideration of applications](section/23.md)
+      - [s. 23A Delegation of Chamber President’s functions](section/23A.md)
+      - [s. 24 Determination by the First-tier Tribunal](section/24.md)
+      - [s. 25 Variation and revocation of repairing standard enforcement orders](section/25.md)
+      - [s. 26 Effect of failure to comply with repairing standard enforcement order](section/26.md)
+      - [s. 27 Rent relief orders](section/27.md)
+      - [s. 28 The repairing standard: offences](section/28.md)
+      - [s. 28A Landlord application to the First-tier Tribunal](section/28A.md)
+      - [s. 28B Landlord application to the First-tier Tribunal: further provision](section/28B.md)
+      - [s. 28C First-tier Tribunal Member to arrange suitable time for access](section/28C.md)
+      - [s. 29 Annual report](section/29.md)
+  - Chapter 5 Repair, improvement and demolition of houses
+    - Work notices and demolition notices
+      - [s. 30 Work notices](section/30.md)
+      - [s. 31 Suspension of work notice](section/31.md)
+      - [s. 32 Revocation of work notice](section/32.md)
+      - [s. 33 Demolition notices](section/33.md)
+      - [s. 34 Extension of period for completion of work or demolition](section/34.md)
+    - Enforcement by local authority
+      - [s. 35 Carrying out of work or demolitions by local authority](section/35.md)
+      - [s. 36 Carrying out of work by local authority: repairing standard](section/36.md)
+      - [s. 37 Evacuation](section/37.md)
+      - [s. 38 Warrants for ejection](section/38.md)
+      - [s. 39 Unlawful occupation etc.](section/39.md)
+      - [s. 40 Acquisition of houses to be demolished](section/40.md)
+      - [s. 41 Sale of materials from demolished houses](section/41.md)
+  - Chapter 6 Maintenance
+    - Maintenance orders
+      - [s. 42 Maintenance orders](section/42.md)
+    - Maintenance plans
+      - [s. 43 Maintenance plans](section/43.md)
+      - [s. 44 Maintenance plans for two or more houses](section/44.md)
+      - [s. 45 Maintenance plans for two or more houses: further provision](section/45.md)
+      - [s. 46 Approval of maintenance plans](section/46.md)
+      - [s. 47 Variation and revocation of maintenance plans](section/47.md)
+      - [s. 48 Implementation of maintenance plans](section/48.md)
+      - [s. 49 Enforcement of maintenance plans](section/49.md)
+    - Recovery of maintenance costs
+      - [s. 50 Power of majority to recover maintenance costs](section/50.md)
+    - Maintenance accounts
+      - [s. 51 Maintenance accounts: grants](section/51.md)
+  - Chapter 7 Right to adapt rented houses
+    - [s. 52 Right to adapt rented houses](section/52.md)
+    - [s. 53 Matters relevant to application to carry out work under section 52](section/53.md)
+    - [s. 54 Amendment to the Housing (Scotland) Act 2001](section/54.md)
+  - Chapter 8 Supplemental provisions, including appeals
+    - Supplemental
+      - [s. 55 Power of local authority to carry out or arrange work or demolition](section/55.md)
+      - [s. 56 Effect of tenant moving from house](section/56.md)
+      - [s. 57 Obstructions etc.](section/57.md)
+      - [s. 58 Listed buildings etc.](section/58.md)
+      - [s. 59 Recovery of expenses etc.](section/59.md)
+      - [s. 60 Certification](section/60.md)
+      - [s. 61 Registration](section/61.md)
+      - [s. 62 Service of documents](section/62.md)
+      - [s. 63 Date of operation of notices, orders etc.](section/63.md)
+    - Appeals
+      - [s. 64 Part 1 appeals](section/64.md)
+      - [s. 65 Part 1 appeals: determination](section/65.md)
+      - [s. 66 Part 1 appeals: procedure etc.](section/66.md)
+      - [s. 66A Appeals in relation to section 52](section/66A.md)
+      - [s. 67 Adaptations: power to change method of appeal](section/67.md)
+  - Chapter 9 Interpretation
+    - [s. 68 Sub-standard houses](section/68.md)
+    - [s. 69 Application to non-residential premises](section/69.md)
+    - [s. 70 Interpretation of Part 1](section/70.md)
+- Part 2 Scheme of assistance for housing purposes
+  - Provision of assistance for housing purposes
+    - [s. 71 Assistance for housing purposes](section/71.md)
+    - [s. 72 Guidance about availability and amount of assistance](section/72.md)
+    - [s. 73 When assistance must be provided](section/73.md)
+  - Grants and loans
+    - [s. 74 Grants and loans: applications](section/74.md)
+    - [s. 75 Determination of applications](section/75.md)
+    - [s. 76 The approved expense](section/76.md)
+    - [s. 77 Assessment of applicant’s contribution](section/77.md)
+    - [s. 78 Applicant’s contribution: review](section/78.md)
+    - [s. 79 Amount of grant or loan](section/79.md)
+    - [s. 80 Terms of loan](section/80.md)
+    - [s. 81 Notification of decisions](section/81.md)
+    - [s. 82 Payment of grants and loans](section/82.md)
+  - Grants and loans: conditions
+    - [s. 83 Conditions applicable on completion of work](section/83.md)
+    - [s. 84 Registration of conditions](section/84.md)
+    - [s. 85 Discharge of conditions](section/85.md)
+    - [s. 86 Breach of conditions of grant or loan](section/86.md)
+    - [s. 87 Calculation of amount to be paid on breach of conditions](section/87.md)
+  - Miscellaneous and supplementary
+    - [s. 88 Limitation on further grant and loan applications](section/88.md)
+    - [s. 89 Grant and loan applications: offences](section/89.md)
+    - [s. 90 Work to improve energy efficiency and safety](section/90.md)
+    - [s. 91 Local authority payments to not for profit lenders](section/91.md)
+  - Special cases
+    - [s. 92 Tenants](section/92.md)
+    - [s. 93 Application to agricultural tenants etc.](section/93.md)
+  - Supplementary
+    - [s. 94 Directions and guidance](section/94.md)
+    - [s. 95 Local authority powers for improvement of amenity of an area](section/95.md)
+    - [s. 96 Application of this Part to the Scottish Ministers](section/96.md)
+    - [s. 97 Interpretation of Part 2](section/97.md)
+- Part 3 Provision of information on sale of house
+  - Duty to have or provide information about houses on the market
+    - [s. 98 Duty to have information about a house which is on the market](section/98.md)
+    - [s. 99 Duty to provide information to potential buyer](section/99.md)
+    - [s. 100 Imposition of conditions on provision of information](section/100.md)
+    - [s. 101 Other duties of person acting as agent for seller](section/101.md)
+    - [s. 102 Acting as agent](section/102.md)
+    - [s. 103 Duty to ensure authenticity of documents held under section 98 or 101](section/103.md)
+  - Prescribed documents
+    - [s. 104 Information to be held or provided to potential buyers](section/104.md)
+  - Exceptions from duty
+    - [s. 105 Exceptions from duty to have or provide information](section/105.md)
+  - Responsibility for marketing houses
+    - [s. 106 Responsibility for marketing: general](section/106.md)
+    - [s. 107 Responsibility of person acting as agent](section/107.md)
+    - [s. 108 Responsibility of seller](section/108.md)
+  - Enforcement
+    - [s. 109 Enforcement authorities](section/109.md)
+    - [s. 110 Power to require production of prescribed documents](section/110.md)
+    - [s. 111 Penalty charge notices](section/111.md)
+    - [s. 112 Offences relating to enforcement officers](section/112.md)
+  - Duty to provide information to tenant exercising right to purchase
+    - [s. 113 Information for tenants exercising right to purchase](section/113.md)
+  - Supplementary
+    - [s. 114 Grants for development of proposals](section/114.md)
+    - [s. 115 Disapplication for houses not available with vacant possession](section/115.md)
+    - [s. 116 Application of Part to sub-divided buildings](section/116.md)
+    - [s. 117 Notification of breach of duty](section/117.md)
+    - [s. 118 Possession of documents](section/118.md)
+    - [s. 119 Meaning of “on the market”, “sale” and related expressions](section/119.md)
+- Part 4 Tenancy deposits
+  - [s. 120 Tenancy deposits: preliminary](section/120.md)
+  - [s. 121 Tenancy deposit schemes: regulatory framework](section/121.md)
+  - [s. 122 Approval of tenancy deposit schemes](section/122.md)
+  - [s. 123 Amendment of Rent (Scotland) Act 1984](section/123.md)
+- Part 5 Licensing of houses in multiple occupation
+  - Introductory
+    - [s. 124 Requirement for HMOs to be licensed](section/124.md)
+  - Meaning of “house in multiple occupation”
+    - [s. 125 Meaning of “house in multiple occupation”](section/125.md)
+    - [s. 126 HMOs exempt from licensing requirement](section/126.md)
+    - [s. 127 Power to designate HMOs capable of being exempted by local authorities](section/127.md)
+    - [s. 128 Relationships](section/128.md)
+  - Application for HMO licence
+    - [s. 129 Application for HMO licence](section/129.md)
+    - [s. 129A Preliminary refusal: breach of planning control](section/129A.md)
+    - [s. 130 Suitability of applicants and agents](section/130.md)
+    - [s. 131 Suitability of living accommodation](section/131.md)
+    - [s. 131A Overprovision](section/131A.md)
+    - [s. 132 Restriction on applications](section/132.md)
+  - Terms of HMO licence
+    - [s. 133 Conditions](section/133.md)
+    - [s. 134 Duration of HMO licence](section/134.md)
+    - [s. 135 Application for new HMO licence: effect on existing HMO licence](section/135.md)
+    - [s. 136 Change of ownership: effect on HMO licence](section/136.md)
+    - [s. 137 Death of licence holder: effect on HMO licence](section/137.md)
+  - Variation and revocation of HMO licence
+    - [s. 138 Variation of HMO licence](section/138.md)
+    - [s. 139 Revocation of HMO licence](section/139.md)
+  - Delivery and cancellation of HMO licence
+    - [s. 140 Delivery of HMO licence](section/140.md)
+    - [s. 141 Cancellation of HMO licence](section/141.md)
+  - Temporary exemptions
+    - [s. 142 Temporary exemption orders](section/142.md)
+    - [s. 143 Temporary exemption orders: requirement to improve safety or security](section/143.md)
+  - Enforcement by local authority
+    - [s. 144 Suspension of rent etc.](section/144.md)
+    - [s. 145 Power to require rectification of breach of HMO licence](section/145.md)
+    - [s. 146 HMO amenity notices](section/146.md)
+    - [s. 147 HMO amenity notices: relevant matters](section/147.md)
+    - [s. 148 HMO amenity notices: revocation](section/148.md)
+    - [s. 149 HMO amenity notices: extension of period for completion of work](section/149.md)
+    - [s. 150 HMO amenity notices: further provision](section/150.md)
+    - [s. 151 Power of local authority to carry out or arrange work](section/151.md)
+    - [s. 152 Effect of person moving from living accommodation](section/152.md)
+    - [s. 153 Obstructions etc.](section/153.md)
+  - Offences etc.
+    - [s. 154 Offences relating to HMOs](section/154.md)
+    - [s. 155 Defences](section/155.md)
+    - [s. 156 Penalties etc.](section/156.md)
+    - [s. 157 Disqualification orders etc.](section/157.md)
+  - Local authority decisions: notice and appeals
+    - [s. 158 Notice of decisions](section/158.md)
+    - [s. 159 Part 5 appeals](section/159.md)
+  - General and supplementary
+    - [s. 160 HMO register](section/160.md)
+    - [s. 161 Fees](section/161.md)
+    - [s. 162 Grants: exercise of functions in relation to HMOs](section/162.md)
+    - [s. 163 Guidance](section/163.md)
+    - [s. 164 Joint licence holders](section/164.md)
+    - [s. 165 Agents](section/165.md)
+    - [s. 166 Interpretation of Part 5](section/166.md)
+- Part 6 Mobile homes
+  - [s. 167 Particulars of site agreements to be given in advance](section/167.md)
+  - [s. 168 Variation of site agreements](section/168.md)
+  - [s. 169 Implied terms relating to termination of agreements or disposal of mobile homes](section/169.md)
+  - [s. 170 Power to amend terms implied in site agreements](section/170.md)
+  - [s. 171 Amendments: harassment and eviction of occupiers of mobile homes](section/171.md)
+- Part 7 Repayment charges
+  - [s. 172 Repayment charges](section/172.md)
+  - [s. 172A Repayment charge: appeals to the sheriff](section/172A.md)
+  - [s. 173 Effect of registering repayment charges etc.](section/173.md)
+  - [s. 174 Repayment charges: further provision](section/174.md)
+  - [s. 174A Repayment charges: registered social landlords](section/174A.md)
+- Part 8 Miscellaneous
+  - [s. 175 Matters relevant to deciding whether person is fit and proper to act as a landlord](section/175.md)
+  - [s. 176 Other amendments of Antisocial Behaviour etc. (Scotland) Act 2004](section/176.md)
+  - [s. 177 Registered social landlords: delegation of functions](section/177.md)
+  - [s. 178 Registered social landlords: permissible purposes](section/178.md)
+  - [s. 179 Strategy for improving home energy efficiency](section/179.md)
+  - [s. 180 Amendment of Housing (Scotland) Act 1988](section/180.md)
+- Part 9 Rights of entry
+  - [s. 181 Rights of entry: general](section/181.md)
+  - [s. 182 Warrants authorising entry](section/182.md)
+  - [s. 183 Rights of entry: constables](section/183.md)
+  - [s. 184 Rights of entry: supplemental](section/184.md)
+- Part 10 General and supplementary
+  - [s. 185 Equal opportunities](section/185.md)
+  - [s. 186 Power to obtain information etc.](section/186.md)
+  - [s. 187 Formal communications](section/187.md)
+  - [s. 188 Forms](section/188.md)
+  - [s. 189 Offences by bodies corporate etc.](section/189.md)
+  - [s. 190 Ancillary provision](section/190.md)
+  - [s. 191 Orders and regulations](section/191.md)
+  - [s. 192 Modification, revocation and repeal of enactments](section/192.md)
+  - [s. 193 Crown application](section/193.md)
+  - [s. 194 Interpretation](section/194.md)
+  - [s. 195 Short title and commencement](section/195.md)
+- SCHEDULE 1 Housing renewal areas: procedure
+  - Consultation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Consideration by Scottish Ministers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Notice of decision
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Listed buildings etc.
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 The First-Tier Tribunal: procedure etc.
+  - Notification of referral
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Inquiries
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Evidence
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Duty to consult on provision for detecting fires
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Expenses
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Recording and notification of decisions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Withdrawal of application
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Procedure: further provision.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Penalty charge notices under section 111
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Applications for HMO licences: procedure
+  - Content of application
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Notice of application
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Notices: exceptions
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Representations
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Inquiries
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Applicant’s opportunity to respond
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Hearings
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Consideration of application
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Time limit for determining application
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 HMO amenity notices: enforcement etc.
+  - Carrying out of work by local authority
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Evacuation
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Warrants for ejection
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Unlawful occupation etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Listed buildings etc.
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Recovery of expenses etc.
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Certification
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Registration
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Consequential changes
+  - Part 1 Modification of Acts
+    - References to “standard amenities”
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Crofters Holdings (Scotland) Act 1886 (c. 29)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Land Compensation (Scotland) Act 1973 (c. 56)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Rent (Scotland) Act 1984 (c. 58)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Housing (Scotland) Act 1987 (c. 26)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Housing (Scotland) Act 1988 (c. 43)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Tribunals and Inquiries Act 1992 (c. 53)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Home Energy Conservation Act 1995 (c. 10)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Scottish Public Services Ombudsman Act 2002 (asp 11)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Building (Scotland) Act 2003 (asp 8)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Fire (Scotland) Act 2005 (asp 5)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Part 2 Revocation of subordinate legislation
+    - The Civic Government (Scotland) Act 1982 (Licensing of Houses in Multiple Occupation) Orders
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+- SCHEDULE 7 Repeals
