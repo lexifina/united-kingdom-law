@@ -1,0 +1,329 @@
+# Private Housing (Tenancies)
+			(Scotland) Act 2016
+
+asp/2016/19. Enacted 2016-04-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 25 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2016/19
+
+Source: https://www.legislation.gov.uk/asp/2016/19/2026-10-06
+
+## Contents
+
+- PART 1 Private residential tenancy
+  - [s. 1 Meaning of private residential tenancy](section/1.md)
+  - [s. 2 Interpretation of section 1](section/2.md)
+  - [s. 3 Writing not required to constitute private residential tenancy](section/3.md)
+  - [s. 4 Extended meaning of tenancy in this Act](section/4.md)
+  - [s. 5 Extended meaning of tenancy and related expressions in other enactments](section/5.md)
+  - [s. 6 Power to modify schedule 1](section/6.md)
+- PART 1A Choice of tenant
+  - [s. 6A Offence of discriminating in relation to children](section/6A.md)
+  - [s. 6B Offence of discriminating in relation to benefits status](section/6B.md)
+  - [s. 6C Discriminatory terms relating to children or benefits status](section/6C.md)
+  - [s. 6D No prohibition on taking income into account](section/6D.md)
+  - [s. 6E Interpretation of Part 1A](section/6E.md)
+- PART 2 Tenancy terms
+  - [s. 7 Statutory terms of tenancy](section/7.md)
+  - [s. 8 Regulations under section 7](section/8.md)
+  - [s. 9 Protection of terms allowing use of shared living accommodation](section/9.md)
+- PART 3 Tenancy information
+  - Landlord’s duties to provide information
+    - [s. 10 Duty to provide written terms of tenancy](section/10.md)
+    - [s. 11 Duty to provide specified information](section/11.md)
+    - [s. 12 Regulations about providing information](section/12.md)
+    - [s. 13 Prohibition on charging for information](section/13.md)
+  - First-tier Tribunal’s powers
+    - [s. 14 Application to First-tier Tribunal to draw up terms](section/14.md)
+    - [s. 15 First-tier Tribunal’s power to draw up terms](section/15.md)
+    - [s. 16 First-tier Tribunal’s power to sanction failure to provide information](section/16.md)
+    - [s. 17 Meaning of notice period in sections 14 and 16](section/17.md)
+  - Information about rent to be included in advertisements
+    - [s. 17A Prospective landlords’ duty to include information about rent in advertisements: property is not exempt property](section/17A.md)
+    - [s. 17B Prospective landlords’ duty to include information about property in advertisements: exempt property](section/17B.md)
+- PART 4 Rent: properties not in a rent control area (or properties that are exempt properties)
+  - CHAPTER 1 Restrictions in relation to rent, other charges and diligence
+    - Application of this Part
+      - [s. 17C Application of this Part](section/17C.md)
+      - [s. 17D Meaning of “exempt property”](section/17D.md)
+    - Restrictions on rent increases
+      - [s. 18 Method by which rent may be increased](section/18.md)
+      - [s. 19 Frequency with which rent may be increased](section/19.md)
+    - Restrictions on other charges and diligence
+      - [s. 20 No premiums, advance payments, etc.](section/20.md)
+      - [s. 21 Restriction on diligence](section/21.md)
+  - CHAPTER 2 Rent variation instigated by landlord’s notice
+    - Process by which rent may be varied
+      - [s. 21A Rent cap controls](section/21A.md)
+      - [s. 22 Landlord’s power to increase rent](section/22.md)
+      - [s. 23 Modification of rent-increase notice by parties](section/23.md)
+      - [s. 24 Tenant’s right to refer increase to rent officer](section/24.md)
+      - [s. 25 Rent officer’s power to set rent](section/25.md)
+      - [s. 26 Rent officer’s duty to issue provisional order](section/26.md)
+      - [s. 27 Rent officer’s power to correct final order](section/27.md)
+      - [s. 28 Right of appeal to First-tier Tribunal](section/28.md)
+      - [s. 29 First-tier Tribunal’s power to set rent](section/29.md)
+      - [s. 30 Finality of First-tier Tribunal’s decision](section/30.md)
+      - [s. 31 Liability for over or under paid rent](section/31.md)
+      - [s. 31A Determination of rent payable](section/31A.md)
+      - [s. 32 Determination of open market rent](section/32.md)
+      - [s. 33 Withdrawal of referral or appeal](section/33.md)
+    - ...
+      - [s. 33ZA Power to modify Chapter 2](section/33ZA.md)
+  - Chapter 2A Rent variation instigated by landlord’s application to rent officer
+    - [s. 33A Landlord application to rent officer to increase rent above permitted rate](section/33A.md)
+    - [s. 33B Rent officer’s power to apply rent increase above permitted rate](section/33B.md)
+    - [s. 33C Appeal to the First-tier Tribunal](section/33C.md)
+    - [s. 33D Withdrawal or dismissal of appeal to the First-tier Tribunal](section/33D.md)
+    - [s. 33E Finality of First-tier Tribunal’s decision](section/33E.md)
+    - [s. 33F Powers to adjust maximum amount of increased costs by which rent may be increased](section/33F.md)
+    - [s. 33G Liability for underpaid rent](section/33G.md)
+    - Information about open market rent determinations
+      - [s. 34 Duty to make information available](section/34.md)
+    - ...
+      - [s. 34A Power to modify Chapter](section/34A.md)
+  - ... Chapter 3
+- Part 4A Rent: properties in a rent control area (other than exempt properties)
+  - Chapter 1 Initial provisions and restrictions in relation to rent etc.
+    - Application of this Part
+      - [s. 43A Application of this Part](section/43A.md)
+    - Key definitions in this Part
+      - [s. 43B Meaning of property that is “previously let” and the “immediately preceding tenancy”](section/43B.md)
+      - [s. 43C Meaning of “relevant rent increase”](section/43C.md)
+      - [s. 43D Meaning of “permitted rate”](section/43D.md)
+      - [s. 43E Meaning of “permitted rate”: further provision](section/43E.md)
+      - [s. 43F Meaning of other terms](section/43F.md)
+    - Restriction on setting of initial rent by landlord
+      - [s. 43G Restriction on setting of initial rent by landlord](section/43G.md)
+    - Restrictions on rent increases
+      - [s. 43H Method by which rent may be increased](section/43H.md)
+      - [s. 43I Frequency with which rent may be increased](section/43I.md)
+    - Restrictions on other charges and diligence
+      - [s. 43J No premiums, advance payments, etc.](section/43J.md)
+      - [s. 43K Restriction on diligence](section/43K.md)
+  - Chapter 2 rent variation instigated by landlord’s notice
+    - Rent-increase notice given by landlord
+      - [s. 43L Landlord’s power to increase rent by no more than the permitted rate](section/43L.md)
+      - [s. 43M Modification of rent-increase notice by parties](section/43M.md)
+    - Tenant’s referral of rent-increase notice to rent officer
+      - [s. 43N Tenant’s right to refer rent-increase notice to rent officer](section/43N.md)
+      - [s. 43O Rent officer’s power to set rent](section/43O.md)
+      - [s. 43P Rent officer’s power to correct order](section/43P.md)
+      - [s. 43Q Right of review to another rent officer](section/43Q.md)
+      - [s. 43R Other rent officer’s power to set rent](section/43R.md)
+    - Tenant’s application to First-tier Tribunal relating to rent-increase notice
+      - [s. 43S Tenant’s right to apply to First-tier Tribunal in relation to rent-increase notice](section/43S.md)
+      - [s. 43T First-tier Tribunal’s powers on an application under section 43S(1)](section/43T.md)
+    - Matters arising from referral to rent officer or application to First-tier Tribunal
+      - [s. 43U Tenant’s liability for underpaid rent](section/43U.md)
+      - [s. 43V Withdrawal of referral or request for review by rent officer or application to First-tier Tribunal](section/43V.md)
+  - Chapter 3 Power of First-tier Tribunal to require landlords to pay penalty or compensation
+    - [s. 43W Power of First-tier Tribunal to require landlords to pay penalty or compensation](section/43W.md)
+- PART 5 Termination
+  - CHAPTER 1 Security of tenure
+    - [s. 44 No termination by parties except in accordance with this Part](section/44.md)
+    - [s. 45 Landlord’s interest transfers with ownership of property](section/45.md)
+    - [s. 46 Protection for sub-tenants](section/46.md)
+    - [s. 47 Qualification of sub-tenant protection](section/47.md)
+  - CHAPTER 2 Termination by tenant
+    - [s. 48 Tenant’s ability to bring tenancy to an end](section/48.md)
+    - [s. 48A Pre-notice to be given to other joint tenants](section/48A.md)
+    - [s. 49 Requirements for notice to be given by tenant](section/49.md)
+  - CHAPTER 3 Termination at landlord’s instigation
+    - Consensual termination
+      - [s. 50 Termination by notice to leave and tenant leaving](section/50.md)
+    - Eviction order
+      - [s. 51 First-tier Tribunal’s power to issue an eviction order](section/51.md)
+      - [s. 52 Applications for eviction orders and consideration of them](section/52.md)
+      - [s. 53 First-tier Tribunal’s power to disapply protection for sub-tenants](section/53.md)
+    - Restrictions on applying for eviction order
+      - [s. 54 Restriction on applying during the notice period](section/54.md)
+      - [s. 55 Restriction on applying 6 months after the notice period expires](section/55.md)
+      - [s. 56 Restriction on applying without notifying local authority](section/56.md)
+    - Wrongful termination
+      - [s. 57 Wrongful termination by eviction order](section/57.md)
+      - [s. 58 Wrongful termination without eviction order](section/58.md)
+      - [s. 59 Wrongful-termination order](section/59.md)
+      - [s. 60 Notice to local authority of wrongful-termination order](section/60.md)
+    - Sub-tenancies
+      - [s. 61 Sub-tenancy notice to leave](section/61.md)
+  - CHAPTER 4 Interpretation of Part
+    - [s. 62 Meaning of notice to leave and stated eviction ground](section/62.md)
+    - [s. 63 Landlord includes lender in some cases](section/63.md)
+    - [s. 64 Six month periods](section/64.md)
+- Part 5A keeping pets and making changes to let property
+  - Chapter 1 Keeping pets
+    - [s. 64A Tenant’s right to keep a pet](section/64A.md)
+    - [s. 64B Consent to keep a pet](section/64B.md)
+    - [s. 64C Restrictions on keeping a pet: right of appeal](section/64C.md)
+    - [s. 64D Restrictions on keeping a pet: decisions on appeal](section/64D.md)
+    - [s. 64E Power to make provision about when it is reasonable to refuse consent to keep a pet](section/64E.md)
+    - [s. 64F Power to make provision about when a consent condition for keeping a pet is reasonable](section/64F.md)
+    - [s. 64G Regulations under sections 64E and 64F: consultation](section/64G.md)
+  - Chapter 2 Making changes to let property
+    - [s. 64H Tenant’s right to make changes to let property](section/64H.md)
+    - [s. 64I Consent for category 2 changes](section/64I.md)
+    - [s. 64J Restrictions on category 2 changes: right of appeal](section/64J.md)
+    - [s. 64K Restrictions on category 2 changes: decisions on appeal](section/64K.md)
+    - [s. 64L Power to specify changes to a let property that may be made by the tenant](section/64L.md)
+    - [s. 64M Power to make provision about when it is reasonable to refuse consent for a category 2 change](section/64M.md)
+    - [s. 64N Power to make provision about when a consent condition for a category 2 change is reasonable](section/64N.md)
+    - [s. 64O Regulations under sections 64L, 64M and 64N: consultation](section/64O.md)
+- PART 6 Death of the tenant
+  - [s. 65 Termination of tenancy on tenant’s death](section/65.md)
+  - [s. 66 Termination of joint tenant’s interest on death](section/66.md)
+  - [s. 67 Partner’s entitlement to inherit](section/67.md)
+  - [s. 68 Other family member’s entitlement to inherit](section/68.md)
+  - [s. 69 Carer’s entitlement to inherit](section/69.md)
+  - [s. 70 Interpretation of Part](section/70.md)
+- PART 7 Miscellaneous provisions
+  - [s. 71 First-tier Tribunal’s jurisdiction](section/71.md)
+  - [s. 72 First-tier Tribunal’s duty to report unregistered landlords](section/72.md)
+  - [s. 73 Minor errors in documents](section/73.md)
+- PART 8 Consequential and transitional provision
+  - [s. 74 Consequential modifications](section/74.md)
+  - [s. 75 Transitional provision](section/75.md)
+- PART 9 Final provisions
+  - [s. 75A Crown application](section/75A.md)
+  - [s. 76 Ancillary regulations](section/76.md)
+  - [s. 77 Regulation-making powers](section/77.md)
+  - [s. 78 Interpretation](section/78.md)
+  - [s. 79 Commencement](section/79.md)
+  - [s. 80 Short title](section/80.md)
+- SCHEDULE 1 TENANCIES WHICH CANNOT BE PRIVATE RESIDENTIAL TENANCIES
+  - Low rent
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Shop
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Licensed premises
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Agricultural land
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Student let
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Holiday let
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Resident landlord
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Police housing
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Military housing
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Social housing
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Sublet, assigned, etc. social housing
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Homeless persons
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Persons on probation or released from prison etc.
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Asylum seekers
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Displaced persons
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Shared ownership
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Tenancies under previous legislation
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Accommodation for veterans and care leavers
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 STATUTORY TERMS REQUIRED BY SECTION 8
+  - Rent receipts
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Rent increases
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Notification about other residents
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Subletting etc.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Access for repairs etc.
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 EVICTION GROUNDS
+  - PART 1 LET PROPERTY REQUIRED FOR ANOTHER PURPOSE
+    - Landlord intends to sell
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 1A Landlord intends to sell property to alleviate financial hardship](schedule/3/paragraph/1A.md)
+    - Property to be sold by lender
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Landlord intends to refurbish
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Landlord intends to live in property
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 4A Landlord intends to live in property to alleviate financial hardship](schedule/3/paragraph/4A.md)
+    - Family member intends to live in property
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Landlord intends to use for non-residential purpose
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Property required for religious purpose
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - PART 2 TENANT’S STATUS
+    - Not an employee
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - No longer in need of supported accommodation
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - PART 3 TENANT’S CONDUCT
+    - Not occupying let property
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Breach of tenancy agreement
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Rent arrears
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 12A Substantial rent arrears](schedule/3/paragraph/12A.md)
+    - Criminal behaviour
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Anti-social behaviour
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Association with person who has relevant conviction or engaged in relevant anti-social behaviour
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - PART 4 LEGAL IMPEDIMENT TO LET CONTINUING
+    - Landlord has ceased to be registered
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - HMO licence has been revoked
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Overcrowding statutory notice
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4 CONSEQUENTIAL MODIFICATIONS
+  - Land Tenure Reform (Scotland) Act 1974
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Rent (Scotland) Act 1984
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Bankruptcy (Scotland) Act 1985
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Housing (Scotland) Act 1987
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Social Security Contributions and Benefits Act 1992
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Requirements of Writing (Scotland) Act 1995
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Housing (Scotland) Act 2001
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Homelessness etc. (Scotland) Act 2003
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Housing (Scotland) Act 2006
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Bankruptcy and Diligence etc. (Scotland) Act 2007
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Housing (Scotland) Act 2014
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 TRANSITION FROM REGIMES UNDER EARLIER ENACTMENTS
+  - PART 1 NO NEW ASSURED TENANCIES
+    - No new assured tenancies
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - No new short assured tenancies
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - PART 2 CONVERSION OF TENANCIES UNDER PREVIOUS REGIMES
+    - Change of tenancy status by agreement
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Change of tenancy status on succession
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
