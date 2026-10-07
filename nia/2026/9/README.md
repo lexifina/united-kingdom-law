@@ -1,0 +1,132 @@
+# Inquiry (Mother and Baby Institutions, Magdalene Laundries and Workhouses) and Redress Scheme Act (Northern Ireland) 2026
+
+nia/2026/9. Enacted 2026-10-07.
+
+The files here are the Act as enacted. legislation.gov.uk had not yet published a revised version of it, so later amendments, if any, are not shown.
+
+Source: https://www.legislation.gov.uk/nia/2026/9/enacted
+
+## Contents
+
+- Part 1 Truth recovery public inquiry
+  - The inquiry
+    - [s. 1 The inquiry](section/1.md)
+    - [s. 2 Terms of reference](section/2.md)
+    - [s. 3 Definition of “prescribed institutions”](section/3.md)
+    - [s. 4 Definition of “relevant persons”](section/4.md)
+    - [s. 5 The inquiry panel](section/5.md)
+    - [s. 6 Appointment of members](section/6.md)
+    - [s. 7 Requirement of impartiality](section/7.md)
+    - [s. 8 Duration of appointment of members](section/8.md)
+    - [s. 9 Expert advisers](section/9.md)
+    - [s. 10 Advisory Panel](section/10.md)
+    - [s. 11 Power to suspend inquiry](section/11.md)
+    - [s. 12 End of inquiry](section/12.md)
+  - Report on financial contributions
+    - [s. 13 Contributions to payments](section/13.md)
+  - Inquiry proceedings
+    - [s. 14 Evidence and procedure](section/14.md)
+    - [s. 15 Public access to inquiry proceedings and information](section/15.md)
+    - [s. 16 Restrictions on public access, etc.](section/16.md)
+    - [s. 17 Powers to require production of evidence](section/17.md)
+    - [s. 18 Privileged information, etc.](section/18.md)
+  - Reports
+    - [s. 19 Submission of reports](section/19.md)
+    - [s. 20 Publication of reports](section/20.md)
+    - [s. 21 Laying of reports before the Assembly](section/21.md)
+  - Expenses
+    - [s. 22 Expenses of witnesses, etc.](section/22.md)
+    - [s. 23 Payment of inquiry expenses by the Executive Office](section/23.md)
+  - Supplementary
+    - [s. 24 Offences](section/24.md)
+    - [s. 25 Enforcement by High Court](section/25.md)
+    - [s. 26 Immunity from suit](section/26.md)
+    - [s. 27 Time limit for applying for judicial review](section/27.md)
+    - [s. 28 Rules](section/28.md)
+    - [s. 29 Consequential amendment](section/29.md)
+    - [s. 30 Interpretation of this Part](section/30.md)
+- Part 2 Payment of redress
+  - The Truth Recovery Redress Service
+    - [s. 31 The Service](section/31.md)
+  - Payments
+    - [s. 32 Entitlement to a payment](section/32.md)
+    - [s. 33 Time limit for applications for a payment](section/33.md)
+  - Procedure for applications
+    - [s. 34 Applications for payments](section/34.md)
+    - [s. 35 Priority of applications](section/35.md)
+    - [s. 36 Power to require further information or oral evidence](section/36.md)
+    - [s. 37 Power to disclose information](section/37.md)
+    - [s. 38 Payments](section/38.md)
+    - [s. 39 Right to appeal](section/39.md)
+  - Supplementary
+    - [s. 40 Advice and assistance](section/40.md)
+    - [s. 41 Orders restricting disclosure of information](section/41.md)
+    - [s. 42 Advisers](section/42.md)
+    - [s. 43 Regulations](section/43.md)
+- Part 3 General
+  - [s. 44 Application to the Crown](section/44.md)
+  - [s. 45 Power to make supplementary, etc. provision](section/45.md)
+  - [s. 46 General interpretation](section/46.md)
+  - [s. 47 Commencement](section/47.md)
+  - [s. 48 Short title](section/48.md)
+- Schedule 1 The Truth Recovery Redress Service
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Advertisement in the Belfast Gazette
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Administrative functions exercisable by Northern Ireland department
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Appointment of President and other members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Tenure of office
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Exercise of functions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff, accommodation & equipment
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Delegation and committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Seal
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Evidence
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Funding
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Annual report
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Disqualification from the Assembly
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Freedom of information
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Public Services Ombudsman
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- Schedule 2 Relevant institutions and relevant years
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- Schedule 3 Eligible relatives
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- Schedule 4 Status of payments
+  - Income Support (General) Regulations (Northern Ireland) 1987
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Jobseeker’s Allowance Regulations (Northern Ireland) 1996
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - State Pension Credit Regulations (Northern Ireland) 2003
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Housing Benefit Regulations (Northern Ireland) 2006
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Housing Benefit (persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Employment and Support Allowance Regulations (Northern Ireland) 2008
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Universal Credit Regulations (Northern Ireland) 2016
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Powers to amend subordinate legislation not displaced
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
