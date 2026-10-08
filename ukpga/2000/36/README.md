@@ -1,0 +1,356 @@
+# Freedom of Information Act 2000
+
+2000 c. 36. Enacted 2000-11-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/36
+
+Source: https://www.legislation.gov.uk/ukpga/2000/36/2026-10-08
+
+## Contents
+
+- Part I Access to information held by public authorities
+  - Right to information
+    - [s. 1 General right of access to information held by public authorities.](section/1.md)
+    - [s. 2 Effect of the exemptions in Part II.](section/2.md)
+    - [s. 3 Public authorities.](section/3.md)
+    - [s. 4 Amendment of Schedule 1.](section/4.md)
+    - [s. 5 Further power to designate public authorities.](section/5.md)
+    - [s. 6 Publicly-owned companies.](section/6.md)
+    - [s. 7 Public authorities to which Act has limited application.](section/7.md)
+    - [s. 8 Request for information.](section/8.md)
+    - [s. 9 Fees.](section/9.md)
+    - [s. 10 Time for compliance with request.](section/10.md)
+    - [s. 11 Means by which communication to be made.](section/11.md)
+    - [s. 11A Release of datasets for re-use](section/11A.md)
+    - [s. 11B Power to charge fees in relation to release of datasets for re-use](section/11B.md)
+    - [s. 12 Exemption where cost of compliance exceeds appropriate limit.](section/12.md)
+    - [s. 13 Fees for disclosure where cost of compliance exceeds appropriate limit.](section/13.md)
+    - [s. 14 Vexatious or repeated requests.](section/14.md)
+    - [s. 15 Special provisions relating to public records transferred to Public Record Office, etc.](section/15.md)
+    - [s. 16 Duty to provide advice and assistance.](section/16.md)
+  - Refusal of request
+    - [s. 17 Refusal of request.](section/17.md)
+  - The Information Commission ...
+    - [s. 18 The Information Commission...](section/18.md)
+  - Publication schemes
+    - [s. 19 Publication schemes.](section/19.md)
+    - [s. 20 Model publication schemes.](section/20.md)
+- Part II Exempt information
+  - [s. 21 Information accessible to applicant by other means.](section/21.md)
+  - [s. 22 Information intended for future publication.](section/22.md)
+  - [s. 22A Research](section/22A.md)
+  - [s. 23 Information supplied by, or relating to, bodies dealing with security matters.](section/23.md)
+  - [s. 24 National security.](section/24.md)
+  - [s. 25 Certificates under ss. 23 and 24: supplementary provisions.](section/25.md)
+  - [s. 26 Defence.](section/26.md)
+  - [s. 27 International relations.](section/27.md)
+  - [s. 28 Relations within the United Kingdom.](section/28.md)
+  - [s. 29 The economy.](section/29.md)
+  - [s. 30 Investigations and proceedings conducted by public authorities.](section/30.md)
+  - [s. 31 Law enforcement.](section/31.md)
+  - [s. 32 Court records, etc.](section/32.md)
+  - [s. 33 Audit functions.](section/33.md)
+  - [s. 34 Parliamentary privilege.](section/34.md)
+  - [s. 35 Formulation of government policy, etc.](section/35.md)
+  - [s. 36 Prejudice to effective conduct of public affairs.](section/36.md)
+  - [s. 37 Communications with Her Majesty, etc. and honours.](section/37.md)
+  - [s. 38 Health and safety.](section/38.md)
+  - [s. 39 Environmental information.](section/39.md)
+  - [s. 40 Personal information.](section/40.md)
+  - [s. 41 Information provided in confidence.](section/41.md)
+  - [s. 42 Legal professional privilege.](section/42.md)
+  - [s. 43 Commercial interests.](section/43.md)
+  - [s. 44 Prohibitions on disclosure.](section/44.md)
+- Part III General functions of Minister for the Cabinet Office, Secretary of State and Information Commission
+  - [s. 45 Issue of code of practice by the Minister for the Cabinet Office.](section/45.md)
+  - [s. 46 Issue of code of practice by Secretary of State.](section/46.md)
+  - [s. 47 General functions of Commission.](section/47.md)
+  - [s. 48 Recommendations as to good practice.](section/48.md)
+  - [s. 49 Reports to be laid before Parliament.](section/49.md)
+- Part IV Enforcement
+  - [s. 50 Application for decision by Commission.](section/50.md)
+  - [s. 51 Information notices.](section/51.md)
+  - [s. 52 Enforcement notices.](section/52.md)
+  - [s. 53 Exception from duty to comply with decision notice or enforcement notice.](section/53.md)
+  - [s. 54 Failure to comply with notice.](section/54.md)
+  - [s. 55 Powers of entry and inspection.](section/55.md)
+  - [s. 56 No action against public authority.](section/56.md)
+- Part V Appeals
+  - [s. 57 Appeal against notices served under Part IV.](section/57.md)
+  - [s. 58 Determination of appeals.](section/58.md)
+  - [s. 59 Appeals from decision of Tribunal.](section/59.md)
+  - [s. 60 Appeals against national security certificate.](section/60.md)
+  - [s. 61 Appeal proceedings](section/61.md)
+- Part VI Historical records and records in Public Record Office or Public Record Office of Northern Ireland
+  - [s. 62 Interpretation of Part VI.](section/62.md)
+  - [s. 63 Removal of exemptions: historical records generally.](section/63.md)
+  - [s. 64 Removal of exemptions: historical records in public record offices.](section/64.md)
+  - [s. 65 Decisions as to refusal of discretionary disclosure of historical records.](section/65.md)
+  - [s. 66 Decisions relating to certain transferred public records.](section/66.md)
+  - [s. 67 Amendments of public records legislation.](section/67.md)
+- Part VII Amendments of Data Protection Act 1998
+  - Amendments relating to personal information held by public authorities
+    - [s. 68 Extension of meaning of “data”.](section/68.md)
+    - [s. 69 Right of access to unstructured personal data held by public authorities.](section/69.md)
+    - [s. 70 Exemptions applicable to certain manual data held by public authorities.](section/70.md)
+    - [s. 71 Particulars registrable under Part III of Data Protection Act 1998.](section/71.md)
+    - [s. 72 Availability under Act disregarded for purpose of exemption.](section/72.md)
+  - Other amendments
+    - [s. 73 Further amendments of Data Protection Act 1998.](section/73.md)
+- Part VIII Miscellaneous and supplemental
+  - [s. 74 Power to make provision relating to environmental information.](section/74.md)
+  - [s. 75 Power to amend or repeal enactments prohibiting disclosure of information.](section/75.md)
+  - [s. 76 Disclosure of information between Commission and ombudsmen.](section/76.md)
+  - [s. 76A Disclosure between Commission and Scottish Information Commissioner](section/76A.md)
+  - [s. 76B Disclosure of information to Tribunal](section/76B.md)
+  - [s. 77 Offence of altering etc. records with intent to prevent disclosure.](section/77.md)
+  - [s. 78 Saving for existing powers.](section/78.md)
+  - [s. 79 Defamation.](section/79.md)
+  - [s. 80 Scotland.](section/80.md)
+  - [s. 80A Information held by Northern Ireland bodies](section/80A.md)
+  - [s. 81 Application to government departments, etc.](section/81.md)
+  - [s. 82 Orders and regulations.](section/82.md)
+  - [s. 83 Meaning of “Welsh public authority”.](section/83.md)
+  - [s. 84 Interpretation.](section/84.md)
+  - [s. 85 Expenses.](section/85.md)
+  - [s. 86 Repeals.](section/86.md)
+  - [s. 87 Commencement.](section/87.md)
+  - [s. 88 Short title and extent.](section/88.md)
+- SCHEDULE 1 Public authorities
+  - Part I General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 1ZA](schedule/1/paragraph/1ZA.md)
+    - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part II Local government
+    - England and Wales
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 14A](schedule/1/paragraph/14A.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 15A](schedule/1/paragraph/15A.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+      - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+      - [Sch. 1 para. 19C](schedule/1/paragraph/19C.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 28A](schedule/1/paragraph/28A.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 33A](schedule/1/paragraph/33A.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 35A](schedule/1/paragraph/35A.md)
+      - [Sch. 1 para. 35B](schedule/1/paragraph/35B.md)
+      - [Sch. 1 para. 35C](schedule/1/paragraph/35C.md)
+      - [Sch. 1 para. 35D](schedule/1/paragraph/35D.md)
+      - [Sch. 1 para. 35E](schedule/1/paragraph/35E.md)
+      - [Sch. 1 para. 35F](schedule/1/paragraph/35F.md)
+    - Northern Ireland
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - Part III The National Health Service
+    - England and Wales
+      - [Sch. 1 para. 36A](schedule/1/paragraph/36A.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 37A](schedule/1/paragraph/37A.md)
+      - [Sch. 1 para. 37B](schedule/1/paragraph/37B.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 39A](schedule/1/paragraph/39A.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 40A](schedule/1/paragraph/40A.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 41A](schedule/1/paragraph/41A.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 43A](schedule/1/paragraph/43A.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 45A](schedule/1/paragraph/45A.md)
+      - [Sch. 1 para. 45B](schedule/1/paragraph/45B.md)
+    - Northern Ireland
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 51A](schedule/1/paragraph/51A.md)
+      - [Sch. 1 para. 51B](schedule/1/paragraph/51B.md)
+      - [Sch. 1 para. 51C](schedule/1/paragraph/51C.md)
+      - [Sch. 1 para. 51D](schedule/1/paragraph/51D.md)
+  - Part IV Maintained schools and other educational institutions
+    - England and Wales
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 52A](schedule/1/paragraph/52A.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - Northern Ireland
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+  - Part V Police
+    - England and Wales
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - Northern Ireland
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - Miscellaneous
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 63A](schedule/1/paragraph/63A.md)
+      - [Sch. 1 para. 63B](schedule/1/paragraph/63B.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+  - Part VI Other public bodies and offices: general
+  - Part VII Other public bodies and offices: Northern Ireland
+- SCHEDULE 2 The Commissioner and the Tribunal
+  - Part I Provision consequential on s. 18(1) and (2)
+    - General
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Public Records Act 1958 (c. 51)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Tribunals and Inquiries Act 1992 (c. 53)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Judicial Pensions and Retirement Act 1993 (c. 8)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Data Protection Act 1998 (c. 29)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part II Amendments relating to extension of functions of Commissioner and Tribunal
+    - Interests represented by lay members of Tribunal
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Expenses incurred under this Act excluded in calculating fees
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Information provided to Commissioner or Tribunal
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Deputy commissioners
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Exercise of Commissioner’s functions by others
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Money
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Powers of entry and inspection
+  - Issue of warrants
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Execution of warrants
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Matters exempt from inspection and seizure
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Return of warrants
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Offences
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Vessels, vehicles etc.
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Scotland and Northern Ireland
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4
+  - Constitution of Tribunal in national security cases
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Constitution of Tribunal in other cases
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Rules of procedure
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Amendments of public records legislation
+  - Part I Amendments of Public Records Act 1958
+    - Functions of Advisory Council on Public Records
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Access to public records
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Power to extend meaning of “public records”
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part II Amendment of Public Records Act (Northern Ireland) 1923
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Further amendments of Data Protection Act 1998
+  - Request by data controller for further information
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Parliament
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Honours
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Legal professional privilege
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Extension of transitional exemption
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Disclosure of information by ombudsmen
+  - The Parliamentary Commissioner for Administration
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Commissions for Local Administration in England and Wales
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - The Health Service Commissioners
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Welsh Administration Ombudsman
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - The Northern Ireland Commissioner for Complaints
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - The Assembly Ombudsman for Northern Ireland
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - The Commissioner for Local Administration in Scotland
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Repeals
+  - Part I Repeal coming into force on passing of Act
+  - Part II Repeals coming into force in accordance with section 87(2)
+  - Part III Repeals coming into force in accordance with section 87(3)
