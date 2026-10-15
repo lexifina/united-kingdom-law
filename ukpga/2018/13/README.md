@@ -1,0 +1,199 @@
+# Sanctions and Anti-Money Laundering Act 2018
+
+2018 c. 13. Enacted 2018-05-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/13
+
+Source: https://www.legislation.gov.uk/ukpga/2018/13/2026-10-15
+
+## Contents
+
+- PART 1 Sanctions regulations
+  - CHAPTER 1 Power to make sanctions regulations
+    - Power to make sanctions regulations
+      - [s. 1 Power to make sanctions regulations](section/1.md)
+      - [s. 2 Additional requirements for regulations for a purpose within section 1(2)](section/2.md)
+    - Types of sanction
+      - [s. 3 Financial sanctions](section/3.md)
+      - [s. 3A Director disqualification sanctions](section/3A.md)
+      - [s. 4 Immigration sanctions](section/4.md)
+      - [s. 5 Trade sanctions](section/5.md)
+      - [s. 6 Aircraft sanctions](section/6.md)
+      - [s. 7 Shipping sanctions](section/7.md)
+      - [s. 8 Other sanctions for purposes of UN obligations](section/8.md)
+    - Designation of persons
+      - [s. 9 “Designated persons”](section/9.md)
+      - [s. 10 Designation powers: general](section/10.md)
+      - [s. 11 Designation of a person by name under a designation power](section/11.md)
+      - [s. 12 Designation of persons by description under a designation power](section/12.md)
+      - [s. 13 Persons named by or under UN Security Council Resolutions](section/13.md)
+    - Specified ships
+      - [s. 14 “Specified ships”](section/14.md)
+    - Contents of sanctions regulations: further provision
+      - [s. 15 Exceptions and licences](section/15.md)
+      - [s. 16 Information](section/16.md)
+      - [s. 17 Enforcement](section/17.md)
+      - [s. 17A Enforcement: monetary penalties](section/17A.md)
+      - [s. 18 Report in respect of offences in regulations](section/18.md)
+      - [s. 19 Enforcement: goods etc on ships](section/19.md)
+      - [s. 20 Goods etc on ships: non-UK conduct](section/20.md)
+      - [s. 21 Extra-territorial application](section/21.md)
+  - CHAPTER 2 Review by appropriate Minister, and other reviews
+    - Revocation, variation and review of designations
+      - [s. 22 Power to vary or revoke designation made under regulations](section/22.md)
+      - [s. 23 Right to request variation or revocation of designation](section/23.md)
+      - [s. 24 Periodic review of certain designations](section/24.md)
+      - [s. 25 Right of UN-named person to request review](section/25.md)
+    - Revocation and review in relation to ships
+      - [s. 26 Power to revoke specification of ship made under regulations](section/26.md)
+      - [s. 27 Right to request revocation of specification of ship](section/27.md)
+      - [s. 28 Periodic review where ships are specified](section/28.md)
+      - [s. 29 UN-designated ship: right to request review](section/29.md)
+    - Review of regulations
+      - [s. 30 Review by appropriate Minister of regulations under section 1](section/30.md)
+      - [s. 31 Independent review of regulations with counter-terrorism purpose](section/31.md)
+      - [s. 32 Periodic reports on exercise of power to make regulations under section 1](section/32.md)
+    - Procedure for requests to, and reviews by, appropriate Minister
+      - [s. 33 Procedure for requests to ... appropriate Minister](section/33.md)
+  - CHAPTER 3 Temporary powers in relation to EU sanctions lists
+    - [s. 34 Temporary powers in relation to EU sanctions lists](section/34.md)
+    - [s. 35 Directions under section 34: further provision](section/35.md)
+    - [s. 36 Rights of person on EU sanctions list](section/36.md)
+    - [s. 37 Rights of UN-named person on EU sanctions list](section/37.md)
+  - CHAPTER 4 Court reviews
+    - [s. 38 Court review of decisions](section/38.md)
+    - [s. 39 Court reviews: further provision](section/39.md)
+    - [s. 40 Rules of court](section/40.md)
+  - CHAPTER 5 Miscellaneous
+    - [s. 41 Procedure for dealing with goods etc seized from ships](section/41.md)
+    - [s. 42 Suspension of prohibitions and requirements](section/42.md)
+    - [s. 43 Guidance about regulations under section 1](section/43.md)
+    - [s. 44 Protection for acts done for purposes of compliance](section/44.md)
+    - [s. 45 Revocation and amendment of regulations under section 1](section/45.md)
+    - [s. 46 Report where regulations for a purpose within section 1(2) are amended](section/46.md)
+    - [s. 47 Power to amend Part 1 so as to authorise additional sanctions](section/47.md)
+    - [s. 48 Power to make provision relating to certain appeals](section/48.md)
+- PART 2 Anti-money laundering
+  - [s. 49 Money laundering and terrorist financing etc](section/49.md)
+  - [s. 50 Reports on progress towards register of beneficial owners of overseas entities](section/50.md)
+  - [s. 51 Public registers of beneficial ownership of companies registered in British Overseas Territories](section/51.md)
+- PART 3 General
+  - Supplementary
+    - [s. 52 Crown application](section/52.md)
+    - [s. 53 Saving for prerogative powers](section/53.md)
+    - [s. 54 Regulations: general](section/54.md)
+    - [s. 55 Parliamentary procedure for regulations](section/55.md)
+    - [s. 56 Regulations under section 1: transitory provision](section/56.md)
+    - [s. 57 Duties to lay certain reports before Parliament: further provision](section/57.md)
+    - [s. 58 Retained EU rights](section/58.md)
+    - [s. 59 Consequential amendments and repeals](section/59.md)
+  - Definitions
+    - [s. 60 Meaning of “funds”, “economic resources” and “freeze”](section/60.md)
+    - [s. 61 Meaning of “financial services” and “financial products”](section/61.md)
+    - [s. 62 Interpretation](section/62.md)
+  - Final provisions
+    - [s. 63 Extent](section/63.md)
+    - [s. 64 Commencement](section/64.md)
+    - [s. 65 Short title](section/65.md)
+- SCHEDULE 1 Trade sanctions
+  - PART 1 Trade sanctions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - PART 2 Further provision
+    - Further provision
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Enforcement
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Restriction
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Interpretation
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+- SCHEDULE 2 Money laundering and terrorist financing etc
+  - Regulations under section 49
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Criminal offences: restrictions and relationship with civil penalties
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Criminal offences: report in respect of offences in regulations
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Extra-territorial application
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
+  - Money Laundering Regulations 2017
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Interpretation
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+- SCHEDULE 3 Consequential amendments
+  - PART 1 Amendments consequential on Parts 1 and 2
+    - Immigration Act 1971 (c. 77)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Senior Courts Act 1981 (c. 54)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Regulation of Investigatory Powers Act 2000 (c. 23)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Serious Organised Crime and Police Act 2005 (c. 15)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Crime and Courts Act 2013 (c. 22)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Investigatory Powers Act 2016 (c. 25)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Policing and Crime Act 2017 (c. 3)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - PART 2 Repeals etc consequential on repeals in Terrorist Asset-Freezing etc Act 2010
+    - Repeals and revocations
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Consequential amendment
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
