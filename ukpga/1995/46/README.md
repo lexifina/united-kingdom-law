@@ -1,0 +1,1290 @@
+# Criminal Procedure (Scotland) Act 1995
+
+1995 c. 46. Enacted 1995-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 162 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
+
+Source: https://www.legislation.gov.uk/ukpga/1995/46/2026-10-15
+
+## Contents
+
+- Part I Criminal Courts
+  - Jurisdiction and Powers
+    - The High Court
+      - [Pt. I Ch. 1 heading the-high-court s. 1 Judges in the High Court.](part/I/chapter/1/crossheading/the-high-court/section/1.md)
+      - [Pt. I Ch. 1 heading the-high-court s. 2 Fixing of High Court sittings.](part/I/chapter/1/crossheading/the-high-court/section/2.md)
+    - Solemn courts: general
+      - [Pt. I Ch. 1 heading solemn-courts-general s. 3 Jurisdiction and powers of solemn courts.](part/I/chapter/1/crossheading/solemn-courts-general/section/3.md)
+    - The sheriff
+      - [Pt. I Ch. 1 heading the-sheriff s. 4 Territorial jurisdiction of sheriff.](part/I/chapter/1/crossheading/the-sheriff/section/4.md)
+      - [Pt. I Ch. 1 heading the-sheriff s. 5 The sheriff: summary jurisdiction and powers.](part/I/chapter/1/crossheading/the-sheriff/section/5.md)
+      - [s. 5B National jurisdiction for callings of custody cases in a sheriff court](section/5B.md)
+      - [s. 5C National jurisdiction for cases in a sheriff court after failure to appear](section/5C.md)
+      - [s. 5D Further provision about national jurisdiction of sheriff courts](section/5D.md)
+      - [s. 5E Interpretation of sections 5B to 5D](section/5E.md)
+    - JP courts
+      - [Pt. I Ch. 1 heading district-courts s. 6 JP courts: constitution and prosecutor.](part/I/chapter/1/crossheading/district-courts/section/6.md)
+      - [Pt. I Ch. 1 heading district-courts s. 7 JP courts: jurisdiction and powers.](part/I/chapter/1/crossheading/district-courts/section/7.md)
+      - [s. 7A National jurisdiction for callings of custody cases in a JP court](section/7A.md)
+      - [s. 7B National jurisdiction for cases in a JP court after failure to appear](section/7B.md)
+      - [s. 7C Further provision about national jurisdiction of JP courts](section/7C.md)
+      - [s. 7D Interpretation of sections 7A to 7C](section/7D.md)
+    - Sittings of sheriff and JP courts
+      - [s. 8 Sittings of sheriff and JP courts.](section/8.md)
+    - Territorial jurisdiction: general
+      - [s. 9 Boundaries of jurisdiction.](section/9.md)
+      - [s. 9A Competence of justice’s actings outwith jurisdiction](section/9A.md)
+      - [s. 10 Crimes committed in different districts.](section/10.md)
+      - [s. 10A Jurisdiction for transferred cases](section/10A.md)
+      - [s. 11 Certain offences committed outside Scotland.](section/11.md)
+      - [s. 11A Conspiracy to commit offences outwith Scotland](section/11A.md)
+- PART II Police Functions
+  - Lord Advocate’s instructions
+    - [s. 12 Instructions by Lord Advocate as to reporting of offences.](section/12.md)
+  - Detention and questioning
+    - [s. 13 Powers relating to suspects and potential witnesses.](section/13.md)
+    - [s. 14 Detention and questioning at police station.](section/14.md)
+    - [s. 14A Extension of period of detention under section 14](section/14A.md)
+    - [s. 14B Extension under section 14A: procedure](section/14B.md)
+    - [s. 15 Right of persons arrested or detained to have intimation sent to another person](section/15.md)
+    - [s. 15A Right of suspects to have access to a solicitor](section/15A.md)
+    - [s. 16 Drunken persons: power to take to designated place.](section/16.md)
+  - Arrest: access to solicitor
+    - [s. 17 Right of accused to have access to solicitor.](section/17.md)
+    - [s. 17A Right of person accused of sexual offence to be told about restriction on conduct of defence: arrest](section/17A.md)
+  - Prints and samples
+    - [s. 18 Prints, samples etc. in criminal investigations.](section/18.md)
+    - [s. 18A Retention of samples etc.: prosecutions for sexual and violent offences](section/18A.md)
+    - [s. 18B Retention of samples etc. where offer under sections 302 to 303ZA accepted](section/18B.md)
+    - [s. 18C Section 18B: extension of retention period where relevant offer relates to certain sexual or violent offences](section/18C.md)
+    - [s. 18D Retention of samples etc. taken or provided in connection with certain fixed penalty offences](section/18D.md)
+    - [s. 18E Retention of samples etc.: children referred to children’s hearings](section/18E.md)
+    - [s. 18F Retention of samples etc. relating to children: appeals](section/18F.md)
+    - [s. 18G Retention of samples etc: national security](section/18G.md)
+    - [s. 18GA Retention of further fingerprints](section/18GA.md)
+    - [s. 18H Retention of samples etc.: extradition](section/18H.md)
+    - [s. 19 Prints, samples etc. in criminal investigations: supplementary provisions.](section/19.md)
+    - [s. 19A Samples etc. from persons convicted of sexual and violent offences.](section/19A.md)
+    - [s. 19AA Samples etc. from sex offenders](section/19AA.md)
+    - [s. 19AB Section 19AA: supplementary provision in sexual risk order cases](section/19AB.md)
+    - [s. 19B Power of constable in obtaining relevant physical data etc.](section/19B.md)
+    - [s. 19C Sections 18 and 19 to 19AA: use of samples etc.](section/19C.md)
+    - [s. 20 Use of prints, samples etc.](section/20.md)
+  - Testing for Class A drugs
+    - [s. 20A Arrested persons: testing for certain Class A drugs](section/20A.md)
+    - [s. 20B Section 20A: supplementary](section/20B.md)
+  - Schedule 1 offences
+    - [s. 21 Schedule 1 offences: power of constable to take offender into custody.](section/21.md)
+  - ...
+    - [s. 22 Liberation by police.](section/22.md)
+    - [s. 22ZA Offences where undertaking breached](section/22ZA.md)
+    - [s. 22ZB Evidential and procedural provision](section/22ZB.md)
+- PART III Bail
+  - [s. 22A Consideration of bail on first appearance](section/22A.md)
+  - [s. 23 Bail applications.](section/23.md)
+  - [s. 23A Bail and liberation where person already in custody](section/23A.md)
+  - [s. 23B Entitlement to bail and the court’s function](section/23B.md)
+  - [s. 23C Grounds relevant as to question of bail](section/23C.md)
+  - [s. 23D Restriction on bail in certain solemn cases](section/23D.md)
+  - [s. 24 Bail and bail conditions.](section/24.md)
+  - [s. 24A Bail conditions: remote monitoring of restrictions on movements](section/24A.md)
+  - [s. 24B Regulations as to power to impose remote monitoring requirements under section 24A](section/24B.md)
+  - [s. 24C Monitoring of compliance in pursuance of requirements imposed under section 24A](section/24C.md)
+  - [s. 24D Remote monitoring](section/24D.md)
+  - [s. 24E Documentary evidence in proceedings for breach of bail conditions being remotely monitored](section/24E.md)
+  - [s. 24F Bail: extradition proceedings](section/24F.md)
+  - [s. 25 Bail conditions: supplementary.](section/25.md)
+  - [s. 25A Failure to accept conditions of bail under section 65(8C): continued detention of accused](section/25A.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 Breach of bail conditions: offences.](section/27.md)
+  - [s. 28 Breach of bail conditions: arrest of offender, etc.](section/28.md)
+  - [s. 28A Application of the Criminal Justice (Scotland) Act 2016 to persons arrested and detained under section 28](section/28A.md)
+  - [s. 29 Bail: monetary conditions.](section/29.md)
+  - [s. 30 Bail review.](section/30.md)
+  - [s. 31 Bail review on prosecutor’s application.](section/31.md)
+  - [s. 32 Bail appeal.](section/32.md)
+  - [s. 32A Bail after conviction: prosecutor’s attitude](section/32A.md)
+  - [s. 33 Bail: no fees exigible.](section/33.md)
+- PART IV Petition Procedure
+  - Warrants
+    - [s. 34 Petition for warrant.](section/34.md)
+  - Petition proceedings outwith sheriffdom
+    - [s. 34A Petition proceedings outwith sheriffdom](section/34A.md)
+  - Judicial examination
+    - [s. 35 Judicial examination.](section/35.md)
+    - [s. 36 Judicial examination: questioning by prosecutor.](section/36.md)
+    - [s. 37 Judicial examination: record of proceedings.](section/37.md)
+    - [s. 38 Judicial examination: rectification of record of proceedings.](section/38.md)
+    - [s. 39 Judicial examination: charges arising in different districts.](section/39.md)
+  - Committal
+    - [s. 40 Committal until liberated in due course of law.](section/40.md)
+- PART V Children and Young Persons
+  - [s. 41 Age of criminal responsibility](section/41.md)
+  - [s. 41A Prosecution of children under 12](section/41A.md)
+  - [s. 42 Prosecution of children.](section/42.md)
+  - [s. 43 Arrangements where children arrested.](section/43.md)
+  - [s. 44 Detention of children.](section/44.md)
+  - [s. 44A Appeal against detention in secure accommodation](section/44A.md)
+  - [s. 45 Security for child’s good behaviour.](section/45.md)
+  - [s. 46 Presumption and determination of age of child.](section/46.md)
+  - [s. 47 Restriction on report of proceedings involving children.](section/47.md)
+  - [s. 48 Power to refer certain children to reporter.](section/48.md)
+  - [s. 49 Reference or remit to children’s hearing.](section/49.md)
+  - [s. 50 Children and certain proceedings.](section/50.md)
+  - [s. 51 Remand and committal of children and young persons.](section/51.md)
+- PART VI Mental Disorder
+  - Criminal responsibility of mentally disordered persons
+    - [s. 51A Criminal responsibility of persons with mental disorder](section/51A.md)
+  - Diminished responsibility
+    - [s. 51B Diminished responsibility](section/51B.md)
+  - Committal of mentally disordered persons
+    - [s. 52 Power of court to commit to hospital an accused suffering from mental disorder.](section/52.md)
+  - Remit of mentally disordered persons from district court
+    - [s. 52A Remit of certain mentally disordered persons from district court to sheriff court](section/52A.md)
+  - Assessment orders
+    - [s. 52B Prosecutor’s power to apply for assessment order](section/52B.md)
+    - [s. 52C Scottish Ministers’ power to apply for assessment order](section/52C.md)
+    - [s. 52D Assessment order](section/52D.md)
+    - [s. 52E Assessment order made ex proprio motu: application of section 52D](section/52E.md)
+    - [s. 52F Assessment order: supplementary](section/52F.md)
+    - [s. 52G Review of assessment order](section/52G.md)
+    - [s. 52H Early termination of assessment order](section/52H.md)
+    - [s. 52J Power of court on assessment order ceasing to have effect](section/52J.md)
+  - Treatment orders
+    - [s. 52K Prosecutor’s power to apply for treatment order](section/52K.md)
+    - [s. 52L Scottish Ministers’ power to apply for treatment order](section/52L.md)
+    - [s. 52M Treatment order](section/52M.md)
+    - [s. 52N Treatment order made ex proprio motu: application of section 52M](section/52N.md)
+    - [s. 52P Treatment order: supplementary](section/52P.md)
+    - [s. 52Q Review of treatment order](section/52Q.md)
+    - [s. 52R Termination of treatment order](section/52R.md)
+    - [s. 52S Power of court on treatment order ceasing to have effect](section/52S.md)
+  - Prevention of delay in trials
+    - [s. 52T Prevention of delay in trials: assessment orders and treatment orders](section/52T.md)
+  - Effect of assessment and treatment orders on pre-existing mental health orders
+    - [s. 52U Effect of assessment order and treatment order on pre-existing mental health order](section/52U.md)
+  - Interim compulsion orders
+    - [s. 53 Interim compulsion order.](section/53.md)
+    - [s. 53A Interim compulsion order: supplementary](section/53A.md)
+    - [s. 53B Review and extension of interim compulsion order](section/53B.md)
+    - [s. 53C Early termination of interim compulsion order](section/53C.md)
+    - [s. 53D Power of court on interim compulsion order ceasing to have effect](section/53D.md)
+  - Acquittal involving mental disorder
+    - [s. 53E Acquittal involving mental disorder](section/53E.md)
+  - Unfitness for trial
+    - [s. 53F Unfitness for trial](section/53F.md)
+  - ...
+    - [s. 54 Unfitness for trial: further provision.](section/54.md)
+  - Examination of facts
+    - [s. 55 Examination of facts.](section/55.md)
+    - [s. 56 Examination of facts: supplementary provisions.](section/56.md)
+  - Disposal where accused found not criminally responsible
+    - [s. 57 Disposal of case where accused found not criminally responsible or unfit for trial.](section/57.md)
+  - Compulsion orders
+    - [s. 57A Compulsion order](section/57A.md)
+    - [s. 57B Compulsion order authorising detention in hospital or requiring residence at place: ancillary provision](section/57B.md)
+    - [s. 57C Mental health officer’s report](section/57C.md)
+    - [s. 57D Compulsion order: supplementary](section/57D.md)
+  - Hospital orders and guardianship
+    - [s. 58 Order for hospital admission or guardianship.](section/58.md)
+    - [s. 58A Application of Adults with Incapacity (Scotland) Act 2000](section/58A.md)
+    - [s. 59 Hospital orders: restrictions on discharge.](section/59.md)
+  - Hospital directions
+    - [s. 59A Hospital direction](section/59A.md)
+    - [s. 59B Hospital direction: mental health officer’s report](section/59B.md)
+    - [s. 59C Hospital direction: supplementary](section/59C.md)
+    - [s. 60 Appeals against hospital orders.](section/60.md)
+    - [s. 60A Appeal by prosecutor against hospital orders etc.](section/60A.md)
+    - [s. 60B Intervention orders](section/60B.md)
+    - [s. 60C Acquitted persons: detention for medical examination](section/60C.md)
+    - [s. 60D Notification of detention under section 60C](section/60D.md)
+  - Miscellaneous provision
+    - [s. 61 Requirements as to medical evidence.](section/61.md)
+    - [s. 61A Transfer of person to suitable hospital](section/61A.md)
+    - [s. 61B Specification of hospital unit](section/61B.md)
+  - Appeals under Part VI
+    - [s. 62 Appeal by accused not criminally responsible or unfit for trial.](section/62.md)
+    - [s. 63 Appeal by prosecutor where accused found not criminally responsible or unfit for trial.](section/63.md)
+- PART VII Solemn Proceedings
+  - The indictment
+    - [s. 64 Prosecution on indictment.](section/64.md)
+    - [s. 65 Prevention of delay in trials.](section/65.md)
+    - [s. 66 Service and lodging of indictment, etc.](section/66.md)
+    - [s. 67 Witnesses.](section/67.md)
+    - [s. 67A Failure of witness to attend for, or give evidence on, precognition.](section/67A.md)
+    - [s. 68 Productions.](section/68.md)
+    - [s. 69 Notice of previous convictions.](section/69.md)
+    - [s. 70 Proceedings against organisations.](section/70.md)
+    - [s. 70A Defence statements](section/70A.md)
+  - Children
+    - [s. 70B Solemn proceedings against children](section/70B.md)
+  - Pre-trial proceedings
+    - [s. 71 First diet.](section/71.md)
+    - [s. 71A Further pre-trial diet: dismissal or withdrawal of solicitor representing accused in case of sexual offence](section/71A.md)
+    - [s. 71B First diet: appointment of trial diet](section/71B.md)
+    - [s. 71C Written record of state of preparation: sheriff court](section/71C.md)
+    - [s. 72 Preliminary hearing: procedure up to appointment of trial diet](section/72.md)
+    - [s. 72A Preliminary hearing: appointment of trial diet](section/72A.md)
+    - [s. 72B Power to dispense with preliminary hearing](section/72B.md)
+    - [s. 72C Procedure where preliminary hearing does not proceed](section/72C.md)
+    - [s. 72D Preliminary hearing: further provision](section/72D.md)
+    - [s. 72E Written record of state of preparation in certain cases](section/72E.md)
+    - [s. 72F Engagement, dismissal and withdrawal of solicitor representing accused](section/72F.md)
+    - [s. 72G Service etc. on accused through a solicitor](section/72G.md)
+    - [s. 73 Preliminary diet: procedure.](section/73.md)
+    - [s. 74 Appeals in connection with preliminary diets.](section/74.md)
+    - [s. 75 Computation of certain periods.](section/75.md)
+  - Adjournment and alteration of diets
+    - [s. 75A Adjournment and alteration of diets](section/75A.md)
+    - [s. 75B Refixing diets: non-sitting days](section/75B.md)
+    - [s. 75C Refixing diets: non-suitable days](section/75C.md)
+  - Plea of guilty
+    - [s. 76 Procedure where accused desires to plead guilty.](section/76.md)
+    - [s. 77 Plea of guilty.](section/77.md)
+  - Notice by accused
+    - [s. 78 Special defences, incrimination and notice of witnesses, etc.](section/78.md)
+    - [s. 79 Preliminary pleas and preliminary issues.](section/79.md)
+    - [s. 79A Objections to admissibility of evidence raised after first diet or preliminary hearing](section/79A.md)
+  - Alteration, etc, of diet
+    - [s. 80 Alteration and postponement of trial diet.](section/80.md)
+    - [s. 81 Procedure where trial diet does not proceed.](section/81.md)
+    - [s. 82 Desertion or postponement where accused in custody.](section/82.md)
+    - [s. 83 Transfer of sheriff court solemn proceedings.](section/83.md)
+    - [s. 83ZA Transfer of sheriff court solemn proceedings within sheriffdom: power of sheriff principal](section/83ZA.md)
+  - Continuation of trial diet
+    - [s. 83A Continuation of trial diet in the High Court](section/83A.md)
+    - [s. 83B Continuation of trial diet in the sheriff court](section/83B.md)
+  - Jurors for sittings
+    - [s. 84 Juries: returns of jurors and preparation of lists.](section/84.md)
+    - [s. 85 Juries: citation and attendance of jurors.](section/85.md)
+    - [s. 86 Jurors: excusal and objections.](section/86.md)
+  - Non-availability of judge
+    - [s. 87 Non-availability of judge.](section/87.md)
+    - [s. 87A Disposal of preliminary matters at trial diet](section/87A.md)
+  - Jury for trial
+    - [s. 88 Plea of not guilty, balloting and swearing of jury, etc.](section/88.md)
+    - [s. 89 Jury to be informed of special defence.](section/89.md)
+    - [s. 90 Effect of death or discharge of jurors](section/90.md)
+  - Obstructive witnesses
+    - [s. 90A Apprehension of witnesses in proceedings on indictment](section/90A.md)
+    - [s. 90B Orders in respect of witnesses apprehended under section 90A](section/90B.md)
+    - [s. 90C Breach of bail under section 90B(1)(b)](section/90C.md)
+    - [s. 90D Review of orders under section 90B(1)(a) or (b)](section/90D.md)
+    - [s. 90E Appeals in respect of orders under section 90B(1)](section/90E.md)
+  - Trial
+    - [s. 91 Trial to be continuous.](section/91.md)
+    - [s. 92 Trial in presence of accused.](section/92.md)
+    - [s. 93 Record of trial.](section/93.md)
+    - [s. 94 Transcripts of record and documentary productions.](section/94.md)
+    - [s. 95 Verdict by judge alone.](section/95.md)
+    - [s. 96 Amendment of indictment.](section/96.md)
+    - [s. 97 No case to answer.](section/97.md)
+    - [s. 97A Submissions as to sufficiency of evidence](section/97A.md)
+    - [s. 97B Acquittals etc. on section 97A(2)(a) submissions](section/97B.md)
+    - [s. 97C Directions etc. on section 97A(2)(b) submissions](section/97C.md)
+    - [s. 97D No acquittal on “no reasonable jury” grounds](section/97D.md)
+    - [s. 98 Defence to speak last.](section/98.md)
+    - [s. 99 Seclusion of jury to consider verdict.](section/99.md)
+  - Verdict and conviction
+    - [s. 99A Verdict of guilty or not guilty and majority for guilty verdict](section/99A.md)
+    - [s. 100 Delivery of jury verdict](section/100.md)
+    - [s. 101 Previous convictions: solemn proceedings.](section/101.md)
+    - [s. 101A Post-offence convictions etc.](section/101A.md)
+    - [s. 102 Interruption of trial for other proceedings.](section/102.md)
+  - Failure of accused to appear
+    - [s. 102A Failure of accused to appear](section/102A.md)
+- PART VIII Appeals from Solemn Proceedings
+  - [s. 103 Appeal sittings.](section/103.md)
+  - [s. 104 Power of High Court in appeals.](section/104.md)
+  - [s. 105 Appeal against refusal of application.](section/105.md)
+  - [s. 105A Appeal against granting of application](section/105A.md)
+  - [s. 106 Right of appeal.](section/106.md)
+  - [s. 106A Appeal against automatic sentences where earlier conviction quashed.](section/106A.md)
+  - [s. 107 Leave to appeal.](section/107.md)
+  - [s. 107A Prosecutor’s right of appeal: decisions on section 97 and 97A submissions](section/107A.md)
+  - [s. 107B Prosecutor’s right of appeal: decisions on admissibility of evidence](section/107B.md)
+  - [s. 107C Appeals under section 107A and 107B: general provisions](section/107C.md)
+  - [s. 107D Expedited appeals](section/107D.md)
+  - [s. 107E Other appeals under section 107A: appeal against acquittal](section/107E.md)
+  - [s. 107F Other appeals under section 107A or 107B: appeal against directions etc.](section/107F.md)
+  - [s. 108 Lord Advocate’s right of appeal against disposal.](section/108.md)
+  - [s. 108A Lord Advocate’s appeal against decision not to impose automatic sentence in certain cases.](section/108A.md)
+  - [s. 109 Intimation of intention to appeal.](section/109.md)
+  - [s. 110 Note of appeal.](section/110.md)
+  - [s. 111 Provisions supplementary to sections 109 and 110.](section/111.md)
+  - [s. 112 Admission of appellant to bail.](section/112.md)
+  - [s. 113 Judge’s report.](section/113.md)
+  - [s. 113A Judge’s observations in expedited appeal](section/113A.md)
+  - [s. 114 Applications made orally or in writing.](section/114.md)
+  - [s. 115 Presentation of appeal in writing.](section/115.md)
+  - [s. 116 Abandonment of appeal.](section/116.md)
+  - [s. 117 Presence of appellant or applicant at hearing.](section/117.md)
+  - [s. 118 Disposal of appeals.](section/118.md)
+  - [s. 119 Provision where High Court authorises new prosecution.](section/119.md)
+  - [s. 120 Appeals: supplementary provisions.](section/120.md)
+  - [s. 121 Suspension of disqualification, forfeiture, etc.](section/121.md)
+  - [s. 121A Suspension of certain sentences pending determination of appeal.](section/121A.md)
+  - [s. 122 Fines and caution.](section/122.md)
+  - [s. 123 Lord Advocate’s reference.](section/123.md)
+  - [s. 124 Finality of proceedings and Secretary of State’s reference.](section/124.md)
+  - [s. 125 Reckoning of time spent pending appeal.](section/125.md)
+  - [s. 126 Extract convictions.](section/126.md)
+  - [s. 127 Forms in relation to appeals.](section/127.md)
+  - [s. 128 Fees and expenses.](section/128.md)
+  - [s. 129 Non-compliance with certain provisions may be waived.](section/129.md)
+  - [s. 130 Bill of suspension not competent.](section/130.md)
+  - [s. 130A Bill of advocation not competent in respect of certain decisions](section/130A.md)
+  - [s. 131 Prosecution appeal by bill of advocation.](section/131.md)
+  - [s. 132 Interpretation of Part VIII.](section/132.md)
+- PART IX Summary Proceedings
+  - General
+    - [s. 133 Application of Part IX of Act.](section/133.md)
+    - [s. 134 Incidental applications.](section/134.md)
+    - [s. 135 Warrants of apprehension and search.](section/135.md)
+    - [s. 136 Time limit for certain offences.](section/136.md)
+    - [s. 136A Time limits for transferred and related cases](section/136A.md)
+    - [s. 136B Time limits where fixed penalty offer etc. made](section/136B.md)
+    - [s. 137 Alteration of diets.](section/137.md)
+    - [s. 137ZA Refixing diets: non-sitting days](section/137ZA.md)
+    - [s. 137ZB Refixing diets: non-suitable days](section/137ZB.md)
+    - [s. 137A Transfer of sheriff court summary proceedings within sheriffdom](section/137A.md)
+    - [s. 137AA Transfer of sheriff court summary proceedings within sheriffdom: power of sheriff principal](section/137AA.md)
+    - [s. 137B Transfer of sheriff court summary proceedings outwith sheriffdom](section/137B.md)
+    - [s. 137C Custody cases: initiating proceedings outwith sheriffdom](section/137C.md)
+    - [s. 137CA Transfer of JP court proceedings within sheriffdom](section/137CA.md)
+    - [s. 137CB Transfer of JP court proceedings outwith sheriffdom](section/137CB.md)
+    - [s. 137CC Custody cases: initiating JP court proceedings outwith sheriffdom](section/137CC.md)
+    - [s. 137D Transfer of JP court proceedings to the sheriff court](section/137D.md)
+  - Complaints
+    - [s. 138 Complaints.](section/138.md)
+    - [s. 139 Complaints: orders and warrants.](section/139.md)
+  - Citation
+    - [s. 140 Citation.](section/140.md)
+    - [s. 141 Manner of citation.](section/141.md)
+  - Children
+    - [s. 142 Summary proceedings against children.](section/142.md)
+    - [s. 142A Summary proceedings where child accused along with an adult](section/142A.md)
+  - Companies
+    - [s. 143 Prosecution of companies, etc.](section/143.md)
+  - First diet
+    - [s. 144 Procedure at first diet.](section/144.md)
+    - [s. 145 Adjournment for inquiry at first calling.](section/145.md)
+    - [s. 145ZA Adjournment where assessment order made at first calling](section/145ZA.md)
+    - [s. 145A Adjournment at first calling to allow accused to appear etc.](section/145A.md)
+    - [s. 146 Plea of not guilty.](section/146.md)
+  - Pre-trial procedure
+    - [s. 147 Prevention of delay in trials.](section/147.md)
+    - [s. 148 Intermediate diet.](section/148.md)
+    - [s. 148A Interim diet required in certain sexual or domestic abuse cases](section/148A.md)
+    - [s. 148B Pre-trial procedure in sheriff court where no intermediate diet is fixed](section/148B.md)
+    - [s. 148C Engagement, dismissal and withdrawal of solicitor representing accused](section/148C.md)
+    - [s. 148D Service etc. on accused through a solicitor](section/148D.md)
+    - [s. 149 Alibi.](section/149.md)
+    - [s. 149A Notice of defence plea of consent](section/149A.md)
+    - [s. 149B Notice of defences](section/149B.md)
+  - Failure of accused to appear
+    - [s. 150 Failure of accused to appear.](section/150.md)
+    - [s. 150A Proceedings in absence of accused](section/150A.md)
+  - Non-availability of judge
+    - [s. 151 Death, illness or absence of judge.](section/151.md)
+  - Trial diet
+    - [s. 152 Desertion of diet.](section/152.md)
+    - [s. 152A Complaints triable together](section/152A.md)
+    - [s. 153 Trial in presence of accused.](section/153.md)
+    - [s. 154 ................................](section/154.md)
+    - [s. 155 Punishment of witness for contempt.](section/155.md)
+    - [s. 156 Apprehension of witness.](section/156.md)
+    - [s. 156A Orders in respect of witnesses apprehended under section 156](section/156A.md)
+    - [s. 156B Breach of bail under section 156A(1)(b)](section/156B.md)
+    - [s. 156C Review of orders under section 156A(1)(a) or (b)](section/156C.md)
+    - [s. 156D Appeals in respect of orders under section 156A(1)](section/156D.md)
+    - [s. 157 Record of proceedings.](section/157.md)
+    - [s. 158 Interruption of summary proceedings for verdict in earlier trial.](section/158.md)
+    - [s. 159 Amendment of complaint.](section/159.md)
+    - [s. 160 No case to answer.](section/160.md)
+    - [s. 161 Defence to speak last.](section/161.md)
+  - Verdict and conviction
+    - [s. 161A Verdict of guilty or not guilty](section/161A.md)
+    - [s. 162 Judges equally divided.](section/162.md)
+    - [s. 163 Conviction: miscellaneous provisions.](section/163.md)
+    - [s. 164 Conviction of part of charge.](section/164.md)
+    - [s. 165 “Conviction” and “sentence” not to be used for children.](section/165.md)
+    - [s. 166 Previous convictions: summary proceedings](section/166.md)
+    - [s. 166A Post-offence convictions etc.](section/166A.md)
+    - [s. 166B Charges which disclose convictions](section/166B.md)
+    - [s. 167 Forms of finding and sentence.](section/167.md)
+    - [s. 168 Caution.](section/168.md)
+    - [s. 169 Detention in precincts of court.](section/169.md)
+  - Miscellaneous
+    - [s. 170 Damages in respect of summary proceedings.](section/170.md)
+    - [s. 171 Recovery of penalties.](section/171.md)
+    - [s. 172 Forms of procedure.](section/172.md)
+- PART X Appeals from Summary Proceedings
+  - General
+    - [s. 173 Quorum of Sheriff Appeal Court in relation to appeals.](section/173.md)
+    - [s. 174 Appeals relating to preliminary pleas.](section/174.md)
+    - [s. 175 Right of appeal.](section/175.md)
+    - [s. 175A Power to refer points of law for the opinion of the High Court](section/175A.md)
+  - Stated case
+    - [s. 176 Stated case: manner and time of appeal.](section/176.md)
+    - [s. 176A Application of section 176 in relation to certain appeals](section/176A.md)
+    - [s. 177 Procedure where appellant in custody.](section/177.md)
+    - [s. 178 Stated case: preparation of draft.](section/178.md)
+    - [s. 179 Stated case: adjustment and signature.](section/179.md)
+    - [s. 180 Leave to appeal against conviction etc.](section/180.md)
+    - [s. 181 Stated case: directions by Sheriff Appeal Court.](section/181.md)
+    - [s. 182 Stated case: hearing of appeal.](section/182.md)
+    - [s. 183 Stated case: disposal of appeal.](section/183.md)
+    - [s. 184 Abandonment of appeal.](section/184.md)
+  - New prosecution
+    - [s. 185 Authorisation of new prosecution.](section/185.md)
+  - Appeals against sentence
+    - [s. 186 Appeals against sentence only.](section/186.md)
+    - [s. 187 Leave to appeal against sentence.](section/187.md)
+  - Disposal of appeals
+    - [s. 188 Setting aside conviction or sentence: prosecutor’s consent or application.](section/188.md)
+    - [s. 189 Disposal of appeal against sentence.](section/189.md)
+    - [s. 190 Disposal of appeal where appellant not criminally responsible.](section/190.md)
+  - Miscellaneous
+    - [s. 191 Appeal by suspension or advocation on ground of miscarriage of justice.](section/191.md)
+    - [s. 191A Time limit for lodging bills of advocation and bills of suspension](section/191A.md)
+    - [s. 191B Bill of advocation not competent in respect of certain decisions](section/191B.md)
+    - [s. 192 Appeals: miscellaneous provisions.](section/192.md)
+    - [s. 193 Suspension of disqualification, forfeiture etc.](section/193.md)
+    - [s. 193A Suspension of certain sentences pending determination of appeal.](section/193A.md)
+    - [s. 194 Computation of time.](section/194.md)
+- PART 10ZA APPEALS FROM SHERIFF APPEAL COURT
+  - [s. 194ZB Appeal from the Sheriff Appeal Court](section/194ZB.md)
+  - [s. 194ZC Appeals: applications and procedure](section/194ZC.md)
+  - [s. 194ZD Application for permission for appeal: determination by single judge](section/194ZD.md)
+  - [s. 194ZE Further application for permission where single judge refuses permission](section/194ZE.md)
+  - [s. 194ZF Applications for permission: further provision](section/194ZF.md)
+  - [s. 194ZG Restriction of grounds of appeal](section/194ZG.md)
+  - [s. 194ZH Disposal of appeals](section/194ZH.md)
+  - [s. 194ZI Procedure where appellant in custody](section/194ZI.md)
+  - [s. 194ZJ Abandonment of appeal](section/194ZJ.md)
+  - [s. 194ZK Finality of proceedings](section/194ZK.md)
+  - [s. 194ZL Computation of time](section/194ZL.md)
+- Part XA Scottish Criminal Cases Review Commission
+  - The Scottish Criminal Cases Review Commission
+    - [s. 194A Scottish Criminal Cases Review Commission.](section/194A.md)
+  - References to High Court
+    - [s. 194B References by the Commission](section/194B.md)
+    - [s. 194C Grounds for reference.](section/194C.md)
+    - [s. 194D Further provision as to references.](section/194D.md)
+    - [s. 194DA High Court’s power to reject a reference made by the Commission](section/194DA.md)
+    - [s. 194E Extension of Commission’s remit to summary cases.](section/194E.md)
+    - [s. 194F Further powers.](section/194F.md)
+    - [s. 194G Supplementary provision.](section/194G.md)
+  - Powers of investigation of Commission
+    - [s. 194H Power to request precognition on oath.](section/194H.md)
+    - [s. 194I Power to obtain documents etc.](section/194I.md)
+    - [s. 194IA Power to request assistance in obtaining information abroad](section/194IA.md)
+  - Disclosure of information
+    - [s. 194J Offence of disclosure.](section/194J.md)
+    - [s. 194K Exceptions from obligations of non-disclosure.](section/194K.md)
+    - [s. 194L Consent to disclosure.](section/194L.md)
+  - Special circumstances for disclosure
+    - [s. 194M Further exception to section 194J](section/194M.md)
+    - [s. 194N Effect of the exception](section/194N.md)
+    - [s. 194O Notification and representations etc.](section/194O.md)
+    - [s. 194P Consent if UK interest](section/194P.md)
+    - [s. 194Q Consent if foreign interest](section/194Q.md)
+    - [s. 194R Designated foreign authority](section/194R.md)
+    - [s. 194S Disapplication of sections 194O to 194R](section/194S.md)
+    - [s. 194T Final disclosure-related matters](section/194T.md)
+- PART XI Sentencing
+  - General
+    - [s. 195 Remit to High Court for sentence.](section/195.md)
+    - [s. 196 Sentence following guilty plea.](section/196.md)
+    - [s. 197 Sentencing guidelines.](section/197.md)
+    - [s. 198 Form of sentence.](section/198.md)
+    - [s. 199 Power to mitigate penalties.](section/199.md)
+  - Pre-sentencing procedure
+    - [s. 200 Remand for inquiry into physical or mental condition.](section/200.md)
+    - [s. 201 Power of court to adjourn case before sentence.](section/201.md)
+    - [s. 202 Deferred sentence.](section/202.md)
+    - [s. 203 Reports.](section/203.md)
+    - [s. 203A Reports about organisations](section/203A.md)
+  - Imprisonment, etc.
+    - [s. 204 Restrictions on passing sentence of imprisonment or detention.](section/204.md)
+    - [s. 204A Restriction on consecutive sentences for released prisoners.](section/204A.md)
+    - [s. 204B Consecutive sentences: life prisoners etc.](section/204B.md)
+    - [s. 205 Punishment for murder.](section/205.md)
+    - [s. 205ZA Serious terrorism sentence](section/205ZA.md)
+    - [s. 205ZB Minimum punishment part where life sentence imposed for serious terrorism offence](section/205ZB.md)
+    - [s. 205ZC ... Sentence with fixed licence period](section/205ZC.md)
+    - [s. 205B Minimum sentence for third conviction of certain offences relating to drug trafficking.](section/205B.md)
+    - [s. 205C Meaning of “conviction” for purposes of sections 205A and 205B.](section/205C.md)
+    - [s. 205D Only one sentence of imprisonment for life to be imposed in any proceedings](section/205D.md)
+    - [s. 206 Minimum periods of imprisonment.](section/206.md)
+    - [s. 207 Detention of young offenders.](section/207.md)
+    - [s. 208 Detention of children convicted on indictment.](section/208.md)
+    - [s. 208A Detention of children under sections 205(2) and 208(1)](section/208A.md)
+    - [s. 209 Supervised release orders.](section/209.md)
+    - [s. 210 Consideration of time spent in custody.](section/210.md)
+    - [s. 210ZA Consideration of time spent on electronically monitored bail](section/210ZA.md)
+    - [s. 210A Extended sentences for sex, violent and terrorist offenders.](section/210A.md)
+    - [s. 210AA Extended sentences for certain other offenders](section/210AA.md)
+  - Approach in domestic abuse cases
+    - [s. 210AB Particular factor as to victim safety](section/210AB.md)
+  - Risk assessment
+    - [s. 210B Risk assessment order](section/210B.md)
+    - [s. 210C Risk assessment report](section/210C.md)
+    - [s. 210D Interim hospital order and assessment of risk](section/210D.md)
+    - [s. 210E The risk criteria](section/210E.md)
+    - [s. 210EA Application of certain sections of this Act to proceedings under section 210C(7)](section/210EA.md)
+  - Order for lifelong restriction etc.
+    - [s. 210F Order for lifelong restriction or compulsion order](section/210F.md)
+    - [s. 210G Disposal of case where certain orders not made](section/210G.md)
+  - Report of judge
+    - [s. 210H Report of judge](section/210H.md)
+  - Fines
+    - [s. 211 Fines.](section/211.md)
+    - [s. 212 Fines in summary proceedings.](section/212.md)
+    - [s. 213 Remission of fines.](section/213.md)
+    - [s. 214 Fines: time for payment and payment by instalments.](section/214.md)
+    - [s. 215 Application for further time to pay fine.](section/215.md)
+    - [s. 216 Fines: restriction on imprisonment for default.](section/216.md)
+    - [s. 217 Fines: supervision pending payment.](section/217.md)
+    - [s. 218 Fines: supplementary provisions as to payment.](section/218.md)
+    - [s. 219 Fines: periods of imprisonment for non-payment.](section/219.md)
+    - [s. 220 Fines: part payment by prisoners.](section/220.md)
+    - [s. 221 Fines: recovery by civil diligence.](section/221.md)
+    - [s. 222 Transfer of fine orders.](section/222.md)
+    - [s. 223 Transfer of fines: procedure for clerk of court.](section/223.md)
+  - The mutual recognition of criminal financial penalties
+    - [s. 223A Recognition of financial penalties: requests to other member States](section/223A.md)
+    - [s. 223B Requests to other member States: procedure on issue of certificate](section/223B.md)
+    - [s. 223C Requests to other member States: application of provisions relating to fines](section/223C.md)
+    - [s. 223D Requests to other member States: application of provisions relating to compensation orders](section/223D.md)
+    - [s. 223E Requests to other member States: application of provisions relating to fixed penalties](section/223E.md)
+    - [s. 223F Recognition of financial penalties: requests from other member States](section/223F.md)
+    - [s. 223FA Requests from other member States: procedure where no certificate](section/223FA.md)
+    - [s. 223G Requests from other member States: return of certificate](section/223G.md)
+    - [s. 223H Requests from other member States: procedure on receipt of certificate](section/223H.md)
+    - [s. 223I Requests from other member States: action undertaken under certificate](section/223I.md)
+    - [s. 223J Requests from other member States: application of provisions in relation to fines](section/223J.md)
+    - [s. 223K Requests from other member States: supplementary provisions in relation to fines](section/223K.md)
+    - [s. 223L Requests from other member States: action for enforcement where financial penalty not recovered](section/223L.md)
+    - [s. 223M Requests from other member States: application of provisions relating to orders for compensation](section/223M.md)
+    - [s. 223N Requests from other member States: supplementary provisions in relation to orders for compensation](section/223N.md)
+    - [s. 223O Requests from other member States: application of provisions relating to fixed penalties](section/223O.md)
+    - [s. 223P Transfer of certificates to central authority for England and Wales, or to central authority for Northern Ireland](section/223P.md)
+    - [s. 223Q The competent authority for Scotland](section/223Q.md)
+    - [s. 223R Accrual of monies obtained from the enforcement of financial penalties](section/223R.md)
+    - [s. 223S Treatment of compensation monies](section/223S.md)
+    - [s. 223T Interpretation of sections 223A to 223S](section/223T.md)
+  - Fines: discharge from imprisonment and penalties
+    - [s. 224 Discharge from imprisonment to be specified.](section/224.md)
+    - [s. 225 Penalties: standard scale, prescribed sum and uprating.](section/225.md)
+    - [s. 226 Penalties: exceptionally high maximum fines.](section/226.md)
+  - Enforcement of fines etc.: fines enforcement officers
+    - [s. 226A Fines enforcement officers](section/226A.md)
+    - [s. 226B Enforcement orders](section/226B.md)
+    - [s. 226C Variation for further time to pay](section/226C.md)
+    - [s. 226D Seizure of vehicles](section/226D.md)
+    - [s. 226E Deduction from benefits](section/226E.md)
+    - [s. 226F Powers of diligence](section/226F.md)
+    - [s. 226G Reference of case to court](section/226G.md)
+    - [s. 226H Review of actions of FEO](section/226H.md)
+    - [s. 226HA Judicial co-operation in criminal matters: mutual recognition of financial penalties: requests to other member States](section/226HA.md)
+    - [s. 226I Enforcement of fines etc.: interpretation](section/226I.md)
+  - Caution
+    - [s. 227 Caution.](section/227.md)
+  - Community payback orders
+    - [s. 227A Community payback orders](section/227A.md)
+    - [s. 227B Community payback order: procedure prior to imposition](section/227B.md)
+    - [s. 227C Community payback order: responsible officer](section/227C.md)
+    - [s. 227D Community payback order: further provision](section/227D.md)
+    - [s. 227E Requirement to avoid conflict with religious beliefs, work etc.](section/227E.md)
+    - [s. 227F Payment of offenders’ travelling and other expenses](section/227F.md)
+  - Offender supervision requirement
+    - [s. 227G Offender supervision requirement](section/227G.md)
+  - Compensation requirement
+    - [s. 227H Compensation requirement](section/227H.md)
+  - Unpaid work or other activity requirement
+    - [s. 227I Unpaid work or other activity requirement](section/227I.md)
+    - [s. 227J Unpaid work or other activity requirement: further provision](section/227J.md)
+    - [s. 227K Allocation of hours between unpaid work and other activity](section/227K.md)
+    - [s. 227L Time limit for completion of unpaid work or other activity](section/227L.md)
+    - [s. 227M Fine defaulters](section/227M.md)
+    - [s. 227N Offenders subject to more than one unpaid work or other activity requirement](section/227N.md)
+    - [s. 227O Rules about unpaid work and other activity](section/227O.md)
+  - Programme requirement
+    - [s. 227P Programme requirement](section/227P.md)
+  - Residence requirement
+    - [s. 227Q Residence requirement](section/227Q.md)
+  - Mental health treatment requirement
+    - [s. 227R Mental health treatment requirement](section/227R.md)
+    - [s. 227S Mental health treatment requirements: medical evidence](section/227S.md)
+    - [s. 227T Power to change treatment](section/227T.md)
+  - Drug treatment requirement
+    - [s. 227U Drug treatment requirement](section/227U.md)
+  - Alcohol treatment requirement
+    - [s. 227V Alcohol treatment requirement](section/227V.md)
+  - Conduct requirement
+    - [s. 227W Conduct requirement](section/227W.md)
+  - Community payback orders: review, variation etc.
+    - [s. 227X Periodic review of community payback orders](section/227X.md)
+    - [s. 227Y Applications to vary, revoke and discharge community payback orders](section/227Y.md)
+    - [s. 227Z Variation, revocation and discharge: court’s powers](section/227Z.md)
+    - [s. 227ZA Variation of community payback orders: further provision](section/227ZA.md)
+    - [s. 227ZB Change of offender’s residence to new local authority area](section/227ZB.md)
+  - Breach of community payback order
+    - [s. 227ZC Breach of community payback order](section/227ZC.md)
+    - [s. 227ZD Breach of community payback order: further provision](section/227ZD.md)
+  - Restricted movement requirement
+    - [s. 227ZE Restricted movement requirement: rules](section/227ZE.md)
+    - [s. 227ZF Restricted movement requirement: effect](section/227ZF.md)
+    - [s. 227ZG Restricted movement requirements: further provision](section/227ZG.md)
+    - [s. 227ZH Variation of restricted movement requirement](section/227ZH.md)
+    - [s. 227ZI Remote monitoring](section/227ZI.md)
+    - [s. 227ZJ Restricted movement requirements: Scottish Ministers’ functions](section/227ZJ.md)
+    - [s. 227ZK Documentary evidence in proceedings for breach of restricted movement requirement](section/227ZK.md)
+  - Local authorities: annual consultation about unpaid work
+    - [s. 227ZL Local authorities: annual consultations about unpaid work](section/227ZL.md)
+  - Annual reports on community payback orders
+    - [s. 227ZM Annual reports on community payback orders](section/227ZM.md)
+  - Community payback order: meaning of “the appropriate court”
+    - [s. 227ZN Meaning of “the appropriate court”](section/227ZN.md)
+    - [s. 227ZO Community payback orders: persons residing in England and Wales or Northern Ireland](section/227ZO.md)
+  - Probation
+    - [s. 228 Probation orders.](section/228.md)
+    - [s. 229 Probation orders: additional requirements.](section/229.md)
+    - [s. 229A Probation progress review](section/229A.md)
+    - [s. 230 Probation orders: requirement of treatment for mental condition.](section/230.md)
+    - [s. 230A Requirement for remote monitoring in probation order](section/230A.md)
+    - [s. 231 Probation orders: amendment and discharge.](section/231.md)
+    - [s. 232 Probation orders: failure to comply with requirement.](section/232.md)
+    - [s. 233 Probation orders: commission of further offence.](section/233.md)
+    - [s. 234 Probation orders: persons residing in England and Wales.](section/234.md)
+  - Non-harassment orders
+    - [s. 234A Non-harassment orders.](section/234A.md)
+    - [s. 234AZA Non-harassment orders: consideration by court in certain cases](section/234AZA.md)
+  - Antisocial behaviour orders
+    - [s. 234AA Antisocial behaviour orders](section/234AA.md)
+    - [s. 234AB Antisocial behaviour orders: notification](section/234AB.md)
+    - [s. 234B Drug treatment and testing order.](section/234B.md)
+    - [s. 234C Requirements and provisions of drug treatment and testing orders.](section/234C.md)
+    - [s. 234CA Requirement for ... monitoring in drug treatment and testing order](section/234CA.md)
+    - [s. 234D Procedural matters relating to drug treatment and testing orders.](section/234D.md)
+    - [s. 234E Amendment of drug treatment and testing order.](section/234E.md)
+    - [s. 234F Periodic review of drug treatment and testing order.](section/234F.md)
+    - [s. 234G Breach of drug treatment testing order.](section/234G.md)
+    - [s. 234H Disposal on revocation of drugs treatment and testing order.](section/234H.md)
+    - [s. 234J Concurrent drug treatment and testing and probation orders.](section/234J.md)
+    - [s. 234K Drug treatment and testing orders: interpretation.](section/234K.md)
+  - Supervised attendance
+    - [s. 235 Supervised attendance orders.](section/235.md)
+    - [s. 236 Supervised attendance orders in place of fines for 16 and 17 year olds.](section/236.md)
+    - [s. 237 Supervised attendance orders where court allows further time to pay fine.](section/237.md)
+  - Community service by offenders
+    - [s. 238 Community service orders.](section/238.md)
+    - [s. 239 Community service orders: requirements.](section/239.md)
+    - [s. 240 Community service orders: amendment and revocation etc.](section/240.md)
+    - [s. 241 Community service order: commission of offence while order in force.](section/241.md)
+    - [s. 242 Community service orders: persons residing in England and Wales.](section/242.md)
+    - [s. 243 Community service orders: persons residing in Northern Ireland.](section/243.md)
+    - [s. 244 Community service orders: general provisions relating to persons living in England and Wales or Northern Ireland.](section/244.md)
+    - [s. 245 Community service orders: rules, annual report and interpretation.](section/245.md)
+  - Restriction of liberty orders
+    - [s. 245A Restriction of liberty orders.](section/245A.md)
+    - [s. 245B Monitoring of restriction of liberty orders.](section/245B.md)
+    - [s. 245C Remote monitoring.](section/245C.md)
+    - [s. 245D Combination of restriction of liberty order with other orders.](section/245D.md)
+    - [s. 245DA Further provision about multiple orders](section/245DA.md)
+    - [s. 245E Variation of restriction of liberty order.](section/245E.md)
+    - [s. 245F Breach of restriction of liberty order.](section/245F.md)
+    - [s. 245G Disposal on revocation of restriction of liberty order.](section/245G.md)
+    - [s. 245H Documentary evidence in proceedings under section 245F.](section/245H.md)
+    - [s. 245I Procedure on variation or revocation of restriction of liberty order.](section/245I.md)
+    - [s. 245J Breach of certain orders: adjourning hearing and remanding in custody etc.](section/245J.md)
+  - Community reparation orders
+    - [s. 245K Community reparation orders](section/245K.md)
+    - [s. 245L Community reparation order: notification](section/245L.md)
+    - [s. 245M Failure to comply with community reparation order: extension of 12 month period](section/245M.md)
+    - [s. 245N Failure to comply with community reparation order: powers of court](section/245N.md)
+    - [s. 245P Extension, variation and revocation of order](section/245P.md)
+    - [s. 245Q Sections 245L, 245N and 245P: meaning of “appropriate court”](section/245Q.md)
+  - Admonition and absolute discharge
+    - [s. 246 Admonition and absolute discharge.](section/246.md)
+    - [s. 247 Effect of probation and absolute discharge.](section/247.md)
+  - Disqualification
+    - [s. 248 Disqualification where vehicle used to commit offence.](section/248.md)
+    - [s. 248A General power to disqualify offenders.](section/248A.md)
+    - [s. 248B Power to disqualify fine defaulters.](section/248B.md)
+    - [s. 248C Application of sections 248A and 248B.](section/248C.md)
+    - [s. 248D Extension of disqualification where sentence of imprisonment also imposed](section/248D.md)
+    - [s. 248E Effect of sentence of imprisonment in other cases](section/248E.md)
+  - Compensation
+    - [s. 249 Compensation order against convicted person.](section/249.md)
+    - [s. 250 Compensation orders: supplementary provisions.](section/250.md)
+    - [s. 251 Review of compensation order.](section/251.md)
+    - [s. 252 Enforcement of compensation orders: application of provisions relating to fines.](section/252.md)
+    - [s. 253 Effect of compensation order on subsequent award of damages in civil proceedings.](section/253.md)
+  - Restitution order
+    - [s. 253A Restitution order where conviction of police assault etc.](section/253A.md)
+    - [s. 253B The Restitution Fund](section/253B.md)
+    - [s. 253C Restitution order, fine and compensation order: order of preference](section/253C.md)
+    - [s. 253D Application of receipts](section/253D.md)
+    - [s. 253E Enforcement: application of certain provisions relating to fines](section/253E.md)
+  - Victim surcharge
+    - [s. 253F Victim surcharge](section/253F.md)
+    - [s. 253G The Victim Surcharge Fund](section/253G.md)
+    - [s. 253H Application of receipts](section/253H.md)
+    - [s. 253J Enforcement: application of certain provisions relating to fines](section/253J.md)
+  - Forfeiture
+    - [s. 254 Search warrant for forfeited articles.](section/254.md)
+  - European Protection Orders
+    - [s. 254A European Protection Orders: interpretation](section/254A.md)
+    - [s. 254B Issuing of a European Protection Order](section/254B.md)
+    - [s. 254C Recognition of a European Protection Order](section/254C.md)
+    - [s. 254D Implementation of a recognised European Protection Order](section/254D.md)
+    - [s. 254E Modification and revocation of non-harassment orders made under section 254D](section/254E.md)
+- PART XII Evidence
+  - Special capacity
+    - [s. 255 Special capacity.](section/255.md)
+  - Proof of age
+    - [s. 255A Proof of age.](section/255A.md)
+  - Agreed evidence
+    - [s. 256 Agreements and admissions as to evidence.](section/256.md)
+    - [s. 257 Duty to seek agreement of evidence.](section/257.md)
+    - [s. 258 Uncontroversial evidence.](section/258.md)
+  - Hearsay
+    - [s. 259 Exceptions to the rule that hearsay evidence is inadmissible.](section/259.md)
+    - [s. 260 Admissibility of prior statements of witnesses.](section/260.md)
+    - [s. 261 Statements by co-accused](section/261.md)
+    - [s. 261ZA Statements by accused](section/261ZA.md)
+  - Statements made after charge
+    - [s. 261ZB Exception to rule on inadmissiblity](section/261ZB.md)
+  - Witness statements
+    - [s. 261A Witness statements: use during trial](section/261A.md)
+    - [s. 262 Construction of sections 259 to 261A.](section/262.md)
+  - Witnesses
+    - [s. 263 Examination of witnesses.](section/263.md)
+    - [s. 264 Spouse or civil partner of accused a compellable witness](section/264.md)
+    - [s. 265 Witnesses not excluded for conviction, interest, relationship, etc.](section/265.md)
+    - [s. 266 Accused as witness.](section/266.md)
+    - [s. 267 Witnesses in court during trial.](section/267.md)
+    - [s. 267A Citation of witnesses for precognition](section/267A.md)
+  - Identification procedures
+    - [s. 267B Order requiring accused to participate in identification procedure](section/267B.md)
+  - Additional evidence, etc.
+    - [s. 268 Additional evidence.](section/268.md)
+    - [s. 269 Evidence in replication.](section/269.md)
+    - [s. 270 Evidence of criminal record and character of accused.](section/270.md)
+  - Special measures for child witnesses and other vulnerable witnesses
+    - [s. 271 Vulnerable witnesses: main definitions](section/271.md)
+    - [s. 271A Child and deemed vulnerable witnesses](section/271A.md)
+    - [s. 271AA Using only standard special measures](section/271AA.md)
+    - [s. 271B Further special provision for child witnesses under the age of 12](section/271B.md)
+    - [s. 271BZA Child witnesses in certain solemn cases: special measures](section/271BZA.md)
+    - [s. 271BZB Child witnesses in certain solemn cases: modifications of section 271A](section/271BZB.md)
+    - [s. 271BZC Child witnesses in certain solemn cases: modifications of section 271D](section/271BZC.md)
+    - [s. 271BA Assessment of witnesses](section/271BA.md)
+    - [s. 271C Vulnerable witness application](section/271C.md)
+    - [s. 271D Review of arrangements for vulnerable witnesses](section/271D.md)
+    - [s. 271E Vulnerable witnesses: supplementary provision](section/271E.md)
+    - [s. 271F The accused](section/271F.md)
+    - [s. 271G Saving provision](section/271G.md)
+    - [s. 271H The special measures](section/271H.md)
+    - [s. 271HA Temporary additional special measures](section/271HA.md)
+    - [s. 271HB Excluding the public while taking evidence](section/271HB.md)
+    - [s. 271I Taking of evidence by a commissioner](section/271I.md)
+    - [s. 271J Live television link](section/271J.md)
+    - [s. 271K Screens](section/271K.md)
+    - [s. 271L Supporters](section/271L.md)
+    - [s. 271M Giving evidence in chief in the form of a prior statement](section/271M.md)
+  - Witness anonymity orders
+    - [s. 271N Witness anonymity orders](section/271N.md)
+    - [s. 271P Applications](section/271P.md)
+    - [s. 271Q Making and determination of applications](section/271Q.md)
+    - [s. 271R Conditions for making orders](section/271R.md)
+    - [s. 271S Relevant considerations](section/271S.md)
+    - [s. 271T Direction to jury](section/271T.md)
+    - [s. 271U Discharge and variation of order](section/271U.md)
+    - [s. 271V Appeals](section/271V.md)
+    - [s. 271W Appeal against the making of a witness anonymity order](section/271W.md)
+    - [s. 271X Appeal against the refusal to make a witness anonymity order](section/271X.md)
+    - [s. 271Y Appeal against a variation of a witness anonymity order](section/271Y.md)
+    - [s. 271Z Appeal against a refusal to vary or discharge a witness anonymity order](section/271Z.md)
+  - Evidence on commission and from abroad
+    - [s. 272 Evidence by letter of request or on commission.](section/272.md)
+    - [s. 273 Television link evidence from abroad.](section/273.md)
+  - Evidence from other parts of the United Kingdom
+    - [s. 273A Television link evidence from other parts of the United Kingdom](section/273A.md)
+  - Evidence relating to sexual offences
+    - [s. 274 Restrictions on evidence relating to sexual offences.](section/274.md)
+    - [s. 275 Exceptions to restrictions under section 274.](section/275.md)
+    - [s. 275A Disclosure of accused’s previous convictions where court allows questioning or evidence under section 275](section/275A.md)
+    - [s. 275B Provisions supplementary to sections 275 and 275A](section/275B.md)
+  - Expert evidence as to subsequent behaviour of complainer
+    - [s. 275C Expert evidence as to subsequent behaviour of complainer in certain cases](section/275C.md)
+  - Biological material
+    - [s. 276 Evidence of biological material.](section/276.md)
+  - Transcripts and records
+    - [s. 277 Transcript of police interview sufficient evidence.](section/277.md)
+    - [s. 278 Record of proceedings at examination as evidence.](section/278.md)
+  - Documentary evidence
+    - [s. 279 Evidence from documents.](section/279.md)
+  - Evidence from certain official documents
+    - [s. 279A Evidence from certain official documents.](section/279A.md)
+  - Routine evidence
+    - [s. 280 Routine evidence.](section/280.md)
+    - [s. 281 Routine evidence: autopsy and forensic science reports.](section/281.md)
+    - [s. 281A Routine evidence: reports of identification prior to trial](section/281A.md)
+  - Sufficient evidence
+    - [s. 282 Evidence as to controlled drugs and medicinal products.](section/282.md)
+    - [s. 283 Evidence as to time and place of video surveillance recordings.](section/283.md)
+    - [s. 284 Evidence in relation to fingerprints.](section/284.md)
+  - Proof of previous convictions
+    - [s. 285 Previous convictions: proof, general.](section/285.md)
+    - [s. 286 Previous convictions: proof in support of substantive charge.](section/286.md)
+    - [s. 286A Proof of previous conviction by court in other member State](section/286A.md)
+- PART XIII Miscellaneous
+  - Lord Advocate
+    - [s. 287 Demission from office of Lord Advocate and Solicitor General for Scotland.](section/287.md)
+    - [s. 288 Intimation of proceedings in High Court to Lord Advocate.](section/288.md)
+  - Convention rights ... compatibility issues, devolution issues and UNCRC compatibility issues
+    - [s. 288ZA Right of Advocate General to take part in proceedings](section/288ZA.md)
+    - [s. 288ZB References of compatibility issues to the High Court or Supreme Court](section/288ZB.md)
+    - [s. 288A Rights of appeal for Advocate General: compatibility issues and devolution issues.](section/288A.md)
+    - [s. 288AA Appeals to the Supreme Court: compatibility issues](section/288AA.md)
+    - [s. 288AB References of UNCRC compatibility issues to the High Court or Supreme Court](section/288AB.md)
+    - [s. 288AC Appeals to the Supreme Court: UNCRC compatibility issues](section/288AC.md)
+    - [s. 288B Appeals to the Supreme Court: general.](section/288B.md)
+    - [s. 288BZA UNCRC compatibility issue in relation to decision to prosecute child: restriction on judicial remedies](section/288BZA.md)
+  - Dockets and charges in sex cases
+    - [s. 288BA Dockets for charges of sexual offences](section/288BA.md)
+    - [s. 288BB Mixed charges for sexual offences](section/288BB.md)
+    - [s. 288BC Aggravation by intent to rape](section/288BC.md)
+  - Trials for sexual offences
+    - [s. 288C Prohibition of personal conduct of defence in cases of certain sexual offences](section/288C.md)
+    - [s. 288D Appointment of solicitor by court in such cases](section/288D.md)
+  - Jury directions relating to sexual offences
+    - [s. 288DA Jury direction relating to lack of communication about offence](section/288DA.md)
+    - [s. 288DB Jury direction relating to absence of physical resistance or physical force](section/288DB.md)
+  - Trials involving vulnerable witnesses
+    - [s. 288DC Prohibition of personal conduct of defence in domestic abuse cases](section/288DC.md)
+    - [s. 288E Prohibition of personal conduct of defence in certain cases involving child witnesses under the age of 12](section/288E.md)
+    - [s. 288F Power to prohibit personal conduct of defence in other cases involving vulnerable witnesses](section/288F.md)
+  - Application of vulnerable witnesses provisions to proceedings in the district court
+    - [s. 288G Application of vulnerable witnesses provisions to proceedings in the district court](section/288G.md)
+  - Use of live television link
+    - [s. 288H Participation through live television link](section/288H.md)
+    - [s. 288I Evidence and personal appearance](section/288I.md)
+    - [s. 288J Effect of postponement](section/288J.md)
+    - [s. 288K Specified hearings](section/288K.md)
+    - [s. 288L Defined terms](section/288L.md)
+  - Treason trials
+    - [s. 289 Procedure and evidence in trials for treason.](section/289.md)
+  - Certain rights of accused
+    - [s. 290 Accused’s right to request identification parade.](section/290.md)
+    - [s. 291 Precognition on oath of defence witnesses.](section/291.md)
+  - Mode of trial
+    - [s. 292 Mode of trial of certain offences.](section/292.md)
+  - Art and part and attempt
+    - [s. 293 Statutory offences: art and part and aiding and abetting.](section/293.md)
+    - [s. 294 Attempt at crime.](section/294.md)
+  - Legal custody
+    - [s. 295 Legal custody.](section/295.md)
+  - Warrants
+    - [s. 296 Warrants for search and apprehension to be signed by judge.](section/296.md)
+    - [s. 297 Execution of warrants and service of complaints, etc.](section/297.md)
+    - [s. 297A Re-execution of apprehension warrants](section/297A.md)
+  - Trial judge’s report
+    - [s. 298 Trial judge’s report.](section/298.md)
+  - Intimation of certain applications to the High Court
+    - [s. 298A Intimation of bills and of petitions to the nobile officium](section/298A.md)
+  - Correction of entries
+    - [s. 299 Correction of entries.](section/299.md)
+    - [s. 300 Amendment of records of conviction and sentence in summary proceedings.](section/300.md)
+  - Excusal of irregularities
+    - [s. 300A Power of court to excuse procedural irregularities](section/300A.md)
+  - Rights of audience
+    - [s. 301 Rights of audience.](section/301.md)
+  - Recovery of documents
+    - [s. 301A Recovery of documents](section/301A.md)
+  - Fixed penalties
+    - [s. 302 Fixed penalty: conditional offer by procurator fiscal.](section/302.md)
+    - [s. 302A Compensation offer by procurator fiscal](section/302A.md)
+    - [s. 302B Combined fixed penalty and compensation offer](section/302B.md)
+    - [s. 302C Recall of fixed penalty or compensation offer](section/302C.md)
+    - [s. 303 Fixed penalty: enforcement.](section/303.md)
+    - [s. 303ZA Work orders](section/303ZA.md)
+    - [s. 303ZB Setting aside of offers and orders](section/303ZB.md)
+  - Transfer of rights of appeal of deceased person
+    - [s. 303A Transfer of rights of appeal of deceased person.](section/303A.md)
+  - Electronic proceedings
+    - [s. 303B Electronic summary proceedings](section/303B.md)
+  - Electronic signatures and alternative methods of sending documents
+    - [s. 303C Electronic signatures](section/303C.md)
+    - [s. 303D Sending documents electronically and to a solicitor](section/303D.md)
+    - [s. 303E Documents to which sections 303C and 303D apply](section/303E.md)
+    - [s. 303F Interpretation of sections 303C to 303E](section/303F.md)
+  - Virtual attendance at court
+    - [s. 303G Suspension of requirement for physical attendance in criminal trials](section/303G.md)
+    - [s. 303H Suspension of requirement for physical attendance in criminal proceedings where only party is a public official](section/303H.md)
+    - [s. 303I Directions under sections 303G and 303H](section/303I.md)
+    - [s. 303J Suspension of requirement for physical attendance in other criminal hearings or proceedings](section/303J.md)
+    - [s. 303K Attending by electronic means](section/303K.md)
+    - [s. 303L General directions under section 303K](section/303L.md)
+    - [s. 303M Publication of guidance](section/303M.md)
+  - Sections 303C to 303M: transitional provisions and interpretation
+    - [s. 303N Transitional provisions](section/303N.md)
+    - [s. 303O Interpretation of sections 303C to 303N](section/303O.md)
+- PART XIV General
+  - [s. 304 Criminal Courts Rules Council.](section/304.md)
+  - [s. 305 Acts of Adjournal.](section/305.md)
+  - [s. 306 Information for financial and other purposes.](section/306.md)
+  - [s. 307 Interpretation.](section/307.md)
+  - [s. 308 Construction of enactments referring to detention etc.](section/308.md)
+  - [s. 308A Expressions relating to electronic proceedings](section/308A.md)
+  - [s. 309 Short title, commencement and extent.](section/309.md)
+- SCHEDULE 1 Offences Against Children Under the Age of 17 Years to which Special Provisions Apply
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - [Sch. 1 para. 1B](schedule/1/paragraph/1B.md)
+  - [Sch. 1 para. 1C](schedule/1/paragraph/1C.md)
+  - [Sch. 1 para. 1D](schedule/1/paragraph/1D.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - [Sch. 1 para. 2B](schedule/1/paragraph/2B.md)
+  - [Sch. 1 para. 2C](schedule/1/paragraph/2C.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+  - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+- SCHEDULE 2 Examples of Indictments
+- SCHEDULE 3 Indictments and Complaints
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- SCHEDULE 4 Supervision and Treatment Orders
+  - Part I Preliminary
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II Making and Effect of Orders
+    - Circumstances in which orders may be made
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Making of orders and general requirements
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Obligatory requirements as to medical treatment
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Optional requirements as to residence
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part III Revocation and Amendment of Orders
+    - Revocation of order in interests of health or welfare
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Amendment of order by reason of change of residence
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Amendment of requirements of order
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Amendment of requirements in pursuance of medical report
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Supplemental
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Forms of Complaint and Charges
+- SCHEDULE 5ZA Serious terrorism offences
+  - PART 1 Terrorism offences
+    - Terrorism Act 2000
+      - [Sch. 5ZA para. 1](schedule/5ZA/paragraph/1.md)
+    - Terrorism Act 2006
+      - [Sch. 5ZA para. 2](schedule/5ZA/paragraph/2.md)
+    - Ancillary offences
+      - [Sch. 5ZA para. 3](schedule/5ZA/paragraph/3.md)
+  - PART 2 Other offences (in case where aggravated by having a terrorist connection under section 31 of the counter-terrorism act 2008)
+    - Common law offences
+      - [Sch. 5ZA para. 4](schedule/5ZA/paragraph/4.md)
+      - [Sch. 5ZA para. 5](schedule/5ZA/paragraph/5.md)
+      - [Sch. 5ZA para. 6](schedule/5ZA/paragraph/6.md)
+      - [Sch. 5ZA para. 7](schedule/5ZA/paragraph/7.md)
+      - [Sch. 5ZA para. 8](schedule/5ZA/paragraph/8.md)
+      - [Sch. 5ZA para. 9](schedule/5ZA/paragraph/9.md)
+      - [Sch. 5ZA para. 10](schedule/5ZA/paragraph/10.md)
+      - [Sch. 5ZA para. 11](schedule/5ZA/paragraph/11.md)
+      - [Sch. 5ZA para. 12](schedule/5ZA/paragraph/12.md)
+      - [Sch. 5ZA para. 13](schedule/5ZA/paragraph/13.md)
+    - Explosive Substances Act 1883
+      - [Sch. 5ZA para. 14](schedule/5ZA/paragraph/14.md)
+    - Firearms Act 1968
+      - [Sch. 5ZA para. 15](schedule/5ZA/paragraph/15.md)
+    - Biological Weapons Act 1974
+      - [Sch. 5ZA para. 16](schedule/5ZA/paragraph/16.md)
+    - Taking of Hostages Act 1982
+      - [Sch. 5ZA para. 17](schedule/5ZA/paragraph/17.md)
+    - Aviation Security Act 1982
+      - [Sch. 5ZA para. 18](schedule/5ZA/paragraph/18.md)
+    - Nuclear Material (Offences) Act 1983
+      - [Sch. 5ZA para. 19](schedule/5ZA/paragraph/19.md)
+    - Criminal Justice Act 1988
+      - [Sch. 5ZA para. 20](schedule/5ZA/paragraph/20.md)
+    - Aviation and Maritime Security Act 1990
+      - [Sch. 5ZA para. 21](schedule/5ZA/paragraph/21.md)
+    - Channel Tunnel (Security) Order 1994
+      - [Sch. 5ZA para. 22](schedule/5ZA/paragraph/22.md)
+    - Chemical Weapons Act 1996
+      - [Sch. 5ZA para. 23](schedule/5ZA/paragraph/23.md)
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 5ZA para. 24](schedule/5ZA/paragraph/24.md)
+    - International Criminal Court (Scotland) Act 2001 (asp 13)
+      - [Sch. 5ZA para. 25](schedule/5ZA/paragraph/25.md)
+    - Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)
+      - [Sch. 5ZA para. 26](schedule/5ZA/paragraph/26.md)
+    - Space Industry Act 2018
+      - [Sch. 5ZA para. 27](schedule/5ZA/paragraph/27.md)
+    - Ancillary offences
+      - [Sch. 5ZA para. 28](schedule/5ZA/paragraph/28.md)
+      - [Sch. 5ZA para. 29](schedule/5ZA/paragraph/29.md)
+- SCHEDULE 5ZB Offences specified for the purpose of section 205ZC (sentence with fixed licence period)
+  - Part 1 Terrorism Offences
+    - Terrorism Act 2000
+      - [Sch. 5ZB para. 1](schedule/5ZB/paragraph/1.md)
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 5ZB para. 2](schedule/5ZB/paragraph/2.md)
+    - Terrorism Act 2006
+      - [Sch. 5ZB para. 3](schedule/5ZB/paragraph/3.md)
+    - Counter-Terrorism Act 2008
+      - [Sch. 5ZB para. 4](schedule/5ZB/paragraph/4.md)
+    - Terrorism Prevention and Investigation Measures Act 2011
+      - [Sch. 5ZB para. 5](schedule/5ZB/paragraph/5.md)
+    - Counter-Terrorism and Security Act 2015
+      - [Sch. 5ZB para. 6](schedule/5ZB/paragraph/6.md)
+    - Ancillary offences
+      - [Sch. 5ZB para. 7](schedule/5ZB/paragraph/7.md)
+    - Abolished offences
+      - [Sch. 5ZB para. 8](schedule/5ZB/paragraph/8.md)
+  - Part 2 Offences involving or connected with a threat to national security
+    - [Sch. 5ZB para. 9 Official Secrets Act 1911](schedule/5ZB/paragraph/9.md)
+    - [Sch. 5ZB para. 10 Official Secrets Act 1920](schedule/5ZB/paragraph/10.md)
+    - [Sch. 5ZB para. 11 National Security Act 2023](schedule/5ZB/paragraph/11.md)
+    - [Sch. 5ZB para. 12 Certain electoral offences where foreign power or designated body condition met](schedule/5ZB/paragraph/12.md)
+    - [Sch. 5ZB para. 13 Ancillary offences](schedule/5ZB/paragraph/13.md)
+    - [Sch. 5ZB para. 14 Certain other offences where foreign power or designated body condition met](schedule/5ZB/paragraph/14.md)
+- SCHEDULE 5ZC Terrorism offences
+  - PART 1 Terrorism offences
+    - Terrorism Act 2000
+      - [Sch. 5ZC para. 1](schedule/5ZC/paragraph/1.md)
+    - Anti-Terrorism, Crime and Security Act 2001
+      - [Sch. 5ZC para. 2](schedule/5ZC/paragraph/2.md)
+    - Terrorism Act 2006
+      - [Sch. 5ZC para. 3](schedule/5ZC/paragraph/3.md)
+    - Ancillary offences
+      - [Sch. 5ZC para. 4](schedule/5ZC/paragraph/4.md)
+  - PART 2 Other offences (in case where aggravated by having a terrorist connection under section 31 of the counter-terrorism act 2008)
+    - Common law offences
+      - [Sch. 5ZC para. 5](schedule/5ZC/paragraph/5.md)
+      - [Sch. 5ZC para. 6](schedule/5ZC/paragraph/6.md)
+      - [Sch. 5ZC para. 7](schedule/5ZC/paragraph/7.md)
+      - [Sch. 5ZC para. 8](schedule/5ZC/paragraph/8.md)
+      - [Sch. 5ZC para. 9](schedule/5ZC/paragraph/9.md)
+      - [Sch. 5ZC para. 10](schedule/5ZC/paragraph/10.md)
+      - [Sch. 5ZC para. 11](schedule/5ZC/paragraph/11.md)
+      - [Sch. 5ZC para. 12](schedule/5ZC/paragraph/12.md)
+      - [Sch. 5ZC para. 13](schedule/5ZC/paragraph/13.md)
+      - [Sch. 5ZC para. 14](schedule/5ZC/paragraph/14.md)
+    - Explosive Substances Act 1883
+      - [Sch. 5ZC para. 15](schedule/5ZC/paragraph/15.md)
+    - Firearms Act 1968
+      - [Sch. 5ZC para. 16](schedule/5ZC/paragraph/16.md)
+    - Biological Weapons Act 1974
+      - [Sch. 5ZC para. 17](schedule/5ZC/paragraph/17.md)
+    - Taking of Hostages Act 1982
+      - [Sch. 5ZC para. 18](schedule/5ZC/paragraph/18.md)
+    - Aviation Security Act 1982
+      - [Sch. 5ZC para. 19](schedule/5ZC/paragraph/19.md)
+    - Nuclear Material (Offences) Act 1983
+      - [Sch. 5ZC para. 20](schedule/5ZC/paragraph/20.md)
+    - Criminal Justice Act 1988
+      - [Sch. 5ZC para. 21](schedule/5ZC/paragraph/21.md)
+    - Aviation and Maritime Security Act 1990
+      - [Sch. 5ZC para. 22](schedule/5ZC/paragraph/22.md)
+    - Channel Tunnel (Security) Order 1994
+      - [Sch. 5ZC para. 23](schedule/5ZC/paragraph/23.md)
+    - Chemical Weapons Act 1996
+      - [Sch. 5ZC para. 24](schedule/5ZC/paragraph/24.md)
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 5ZC para. 25](schedule/5ZC/paragraph/25.md)
+    - International Criminal Court (Scotland) Act 2001 (asp 13)
+      - [Sch. 5ZC para. 26](schedule/5ZC/paragraph/26.md)
+    - Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)
+      - [Sch. 5ZC para. 27](schedule/5ZC/paragraph/27.md)
+    - Space Industry Act 2018
+      - [Sch. 5ZC para. 28](schedule/5ZC/paragraph/28.md)
+    - Ancillary offences
+      - [Sch. 5ZC para. 29](schedule/5ZC/paragraph/29.md)
+      - [Sch. 5ZC para. 30](schedule/5ZC/paragraph/30.md)
+- ...
+  - ...
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - ...
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - ...
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 5A](schedule/7/paragraph/5A.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Documentary Evidence in Criminal Proceedings
+  - Production of copy documents
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Statements in business documents
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Documents kept by businesses etc.
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Statements not contained in business documents
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Additional evidence where evidence from business documents challenged
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - General
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 Certificates as to Proof of Certain Routine Matters
+- SCHEDULE 9A The Commission: Further Provisions
+  - Membership
+    - [Sch. 9A para. 1](schedule/9A/paragraph/1.md)
+    - [Sch. 9A para. 2](schedule/9A/paragraph/2.md)
+  - Members and employees
+    - [Sch. 9A para. 3](schedule/9A/paragraph/3.md)
+    - [Sch. 9A para. 4](schedule/9A/paragraph/4.md)
+    - [Sch. 9A para. 5](schedule/9A/paragraph/5.md)
+  - Procedure
+    - [Sch. 9A para. 6](schedule/9A/paragraph/6.md)
+  - Evidence
+    - [Sch. 9A para. 7](schedule/9A/paragraph/7.md)
+  - Annual reports and accounts
+    - [Sch. 9A para. 8](schedule/9A/paragraph/8.md)
+    - [Sch. 9A para. 9](schedule/9A/paragraph/9.md)
+    - [Sch. 9A para. 10](schedule/9A/paragraph/10.md)
+  - Expenses
+    - [Sch. 9A para. 11](schedule/9A/paragraph/11.md)
+- SCHEDULE 10 Certain Offences Triable only Summarily
+  - Night Poaching Act 1828 (c. 69)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Public Meeting Act 1908 (c.66)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Post Office Act 1953 (c. 36)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Betting, Gaming and Lotteries Act 1963 (c. 2)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Theatres Act 1968 (c.54)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 FINANCIAL PENALTIES SUITABLE FOR ENFORCEMENT IN SCOTLAND
+  - Person residing in Scotland
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Person having property et ceteralaetc. in Scotland
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Person having property et ceteralaetc. in Scotland and England and Wales
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Person having property et ceteralaetc. in Scotland and Northern Ireland
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Person having property et ceteralaetc. in Scotland and England and Wales and Northern Ireland
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Interpretation
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12 GROUNDS FOR REFUSAL TO ENFORCE FINANCIAL PENALTIES
+  - PART 1 THE GROUNDS FOR REFUSAL
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 5A](schedule/12/paragraph/5A.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 6A](schedule/12/paragraph/6A.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - PART 2 EUROPEAN FRAMEWORK LIST (FINANCIAL PENALTIES)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+    - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+    - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+    - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+  - PART 3 INTERPRETATION
+    - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+- SCHEDULE13 TRANSFER OF COMMUNITY PAYBACK ORDERS TO ENGLAND AND WALES OR NORTHERN IRELAND
+  - PART 1 ENGLAND AND WALES
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - PART 2 NORTHERN IRELAND
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+- TABLE OF DERIVATIONS
+  - [Sch. n14 para. 1 Notes:](schedule/n14/paragraph/1.md)
+  - [Sch. n14 para. 2](schedule/n14/paragraph/2.md)
