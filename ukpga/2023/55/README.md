@@ -2,9 +2,11 @@
 
 2023 c. 55. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-20, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-07-15
+legislation.gov.uk lists 97 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
+
+Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-10-20
 
 ## Contents
 
