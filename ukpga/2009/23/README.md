@@ -1,0 +1,956 @@
+# Marine and Coastal Access Act 2009
+
+2009 c. 23. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
+
+Source: https://www.legislation.gov.uk/ukpga/2009/23/2026-10-20
+
+## Contents
+
+- Part 1 The Marine Management Organisation
+  - Chapter 1 Establishment
+    - [s. 1 The Marine Management Organisation](section/1.md)
+    - [s. 2 General objective](section/2.md)
+    - [s. 3 Performance](section/3.md)
+  - Chapter 2 Transfer of functions to the MMO
+    - Sea Fish (Conservation) Act 1967
+      - [s. 4 Licensing of fishing boats](section/4.md)
+      - [s. 5 Restrictions on time spent at sea: appeals](section/5.md)
+      - [s. 6 Trans-shipment licences for vessels](section/6.md)
+      - [s. 7 Regulations supplementary to sections 4 and 4A](section/7.md)
+      - [s. 8 Exemptions for operations for scientific and other purposes](section/8.md)
+    - Nature conservation
+      - [s. 9 Licences to kill or take seals](section/9.md)
+      - [s. 10 Wildlife and Countryside Act 1981](section/10.md)
+      - [s. 11 Sea Fisheries (Wildlife Conservation) Act 1992](section/11.md)
+    - Generating and renewable energy installations
+      - [s. 12 Certain consents under section 36 of the Electricity Act 1989](section/12.md)
+      - [s. 13 Safety zones: functions under section 95 of the Energy Act 2004](section/13.md)
+  - Chapter 3 Agreements involving the MMO for the exercise of functions
+    - Powers to enter into agreements
+      - [s. 14 Agreements between the Secretary of State and the MMO](section/14.md)
+      - [s. 15 Agreements between the MMO and eligible bodies](section/15.md)
+      - [s. 16 Eligible bodies](section/16.md)
+      - [s. 17 Non-delegable functions](section/17.md)
+      - [s. 18 Maximum duration of agreement](section/18.md)
+    - Supplementary provisions
+      - [s. 19 Particular powers](section/19.md)
+      - [s. 20 Agreements with certain harbour authorities](section/20.md)
+      - [s. 21 Supplementary provisions with respect to agreements](section/21.md)
+      - [s. 22 Interpretation of this Chapter](section/22.md)
+  - Chapter 4 Miscellaneous, general and supplemental provisions
+    - Applications for development consent
+      - [s. 23 MMO’s role in relation to applications for development consent](section/23.md)
+    - General powers and duties
+      - [s. 24 Research](section/24.md)
+      - [s. 25 Advice, assistance and training facilities](section/25.md)
+      - [s. 26 Provision of information etc](section/26.md)
+      - [s. 27 Power to charge for services](section/27.md)
+      - [s. 28 Provision of information by the MMO to the Secretary of State](section/28.md)
+      - [s. 29 Power to bring proceedings](section/29.md)
+      - [s. 30 Continuation of certain existing prosecutions](section/30.md)
+      - [s. 31 Incidental powers](section/31.md)
+    - Financial provisions
+      - [s. 32 Grants](section/32.md)
+      - [s. 33 Borrowing powers](section/33.md)
+      - [s. 34 Limit on borrowing](section/34.md)
+      - [s. 35 Government loans](section/35.md)
+      - [s. 36 Government guarantees](section/36.md)
+    - Directions and guidance
+      - [s. 37 Directions by the Secretary of State](section/37.md)
+      - [s. 38 Guidance by the Secretary of State](section/38.md)
+    - Transfer schemes etc
+      - [s. 39 Transfer schemes](section/39.md)
+      - [s. 40 Interim arrangements](section/40.md)
+- Part 2 Exclusive economic zone, UK marine area and Welsh zone
+  - [s. 41 Exclusive economic zone](section/41.md)
+  - [s. 42 UK marine area](section/42.md)
+  - [s. 43 Welsh zone](section/43.md)
+- Part 3 Marine planning
+  - Chapter 1 Marine policy statement
+    - [s. 44 Marine policy statement](section/44.md)
+    - [s. 45 Preparation and coming into effect of statement](section/45.md)
+    - [s. 46 Review of statement](section/46.md)
+    - [s. 47 Amendment of statement](section/47.md)
+    - [s. 48 Withdrawal of, or from, statement](section/48.md)
+  - Chapter 2 Marine plans
+    - [s. 49 Marine planning regions](section/49.md)
+    - [s. 50 Marine plan authorities](section/50.md)
+    - [s. 51 Marine plans for marine plan areas](section/51.md)
+    - [s. 52 Amendment of marine plan](section/52.md)
+    - [s. 53 Withdrawal of marine plan](section/53.md)
+    - [s. 54 Duty to keep relevant matters under review](section/54.md)
+  - Chapter 3 Delegation of functions relating to marine plans
+    - [s. 55 Delegation of functions relating to marine plans](section/55.md)
+    - [s. 56 Directions under section 55: supplementary provisions](section/56.md)
+    - [s. 57 Directions to public bodies as regards performance of delegated functions](section/57.md)
+  - Chapter 4 Implementation and effect
+    - Decisions affected by an MPS or marine plan
+      - [s. 58 Decisions affected by marine policy documents](section/58.md)
+      - [s. 59 The appropriate marine policy documents](section/59.md)
+      - [s. 60 Meaning of “retained functions” etc](section/60.md)
+    - Monitoring and reporting
+      - [s. 61 Monitoring of, and periodical reporting on, implementation](section/61.md)
+  - Chapter 5 Miscellaneous and general provisions
+    - Validity of documents under this Part
+      - [s. 62 Validity of marine policy statements and marine plans](section/62.md)
+      - [s. 63 Powers of the court on an application under section 62](section/63.md)
+    - Interpretation and Crown application
+      - [s. 64 Interpretation and Crown application of this Part](section/64.md)
+- Part 4 Marine licensing
+  - Chapter 1 Marine licences
+    - [s. 65 Requirement for licence](section/65.md)
+    - [s. 66 Licensable marine activities](section/66.md)
+    - [s. 67 Applications](section/67.md)
+    - [s. 67A Advice and other assistance from the Welsh Ministers](section/67A.md)
+    - [s. 68 Notice of applications](section/68.md)
+    - [s. 69 Determination of applications](section/69.md)
+    - [s. 70 Inquiries](section/70.md)
+    - [s. 71 Licences](section/71.md)
+    - [s. 72 Variation, suspension, revocation and transfer](section/72.md)
+    - [s. 72A Further fees chargeable where the appropriate licensing authority is the Secretary of State, the Scottish Ministers or the Welsh Ministers](section/72A.md)
+    - [s. 73 Appeals against licensing decisions](section/73.md)
+    - [s. 73A Proceedings for questioning certain decisions under sections 70 and 71](section/73A.md)
+    - [s. 73B Applications under section 73A: requirement for permission](section/73B.md)
+  - Chapter 2 Exemptions and special cases
+    - Exemptions
+      - [s. 74 Exemptions specified by order](section/74.md)
+      - [s. 75 Exemptions for certain dredging etc activities](section/75.md)
+      - [s. 76 Dredging in the Scottish zone](section/76.md)
+      - [s. 77 Oil and gas activities and carbon dioxide storage](section/77.md)
+    - Special provisions in certain cases
+      - [s. 78 Special procedure for applications relating to harbour works](section/78.md)
+      - [s. 79 Special procedure for applications relating to certain electricity works](section/79.md)
+      - [s. 79A Special procedure for applications relating to certain electricity works (Northern Ireland)](section/79A.md)
+      - [s. 80 Electronic communications apparatus](section/80.md)
+      - [s. 81 Submarine cables ...](section/81.md)
+      - [s. 82 Structures in, over or under a main river](section/82.md)
+      - [s. 83 Requirements for Admiralty consent under local legislation](section/83.md)
+      - [s. 84 Byelaws for flood defence and drainage purposes](section/84.md)
+  - Chapter 3 Enforcement
+    - Offences
+      - [s. 85 Breach of requirement for, or conditions of, a licence](section/85.md)
+      - [s. 86 Action taken in an emergency](section/86.md)
+      - [s. 87 Electronic communications: emergency works](section/87.md)
+      - [s. 88 Activity licensed by another State](section/88.md)
+      - [s. 89 Information](section/89.md)
+    - Enforcement notices
+      - [s. 90 Compliance notice](section/90.md)
+      - [s. 91 Remediation notice](section/91.md)
+      - [s. 92 Further provision as to enforcement notices](section/92.md)
+    - Civil sanctions
+      - [s. 93 Fixed monetary penalties](section/93.md)
+      - [s. 94 Fixed monetary penalties: procedure](section/94.md)
+      - [s. 95 Variable monetary penalties](section/95.md)
+      - [s. 96 Variable monetary penalties: procedure](section/96.md)
+      - [s. 97 Further provision about civil sanctions](section/97.md)
+  - Chapter 4 Delegation
+    - [s. 98 Delegation of functions relating to marine licensing](section/98.md)
+    - [s. 99 Orders under section 98: supplementary provisions](section/99.md)
+    - [s. 100 Directions to persons as regards performance of delegated functions](section/100.md)
+  - Chapter 5 Supplementary
+    - Register
+      - [s. 101 Register](section/101.md)
+    - Stop notices and emergency safety notices
+      - [s. 102 Notice to stop activity causing serious harm etc](section/102.md)
+      - [s. 103 Further provision as to stop notices](section/103.md)
+      - [s. 104 Emergency safety notices](section/104.md)
+      - [s. 105 Further provision as to emergency safety notices](section/105.md)
+    - Other powers
+      - [s. 106 Power to take remedial action](section/106.md)
+      - [s. 107 Power to test, and charge for testing, certain substances](section/107.md)
+      - [s. 107A Deposits on account of fees payable to the Secretary of State, the Scottish Ministers or the Welsh Ministers](section/107A.md)
+      - [s. 107B Supplementary provision about fees payable to the Secretary of State, the Scottish Ministers or the Welsh Ministers](section/107B.md)
+    - Appeals against notices under this Part
+      - [s. 108 Appeals against notices](section/108.md)
+    - Offences: supplementary provision
+      - [s. 109 General defence of due diligence](section/109.md)
+      - [s. 110 Offences: jurisdiction](section/110.md)
+    - Fees
+      - [s. 110A Fees: oil and gas activities for which marine licence needed](section/110A.md)
+    - Application to the Crown
+      - [s. 111 Application to the Crown](section/111.md)
+    - Consequential and transitional provision
+      - [s. 112 Amendments and transitional provision](section/112.md)
+    - Interpretation
+      - [s. 113 The appropriate licensing authority](section/113.md)
+      - [s. 114 Meaning of “enforcement authority”](section/114.md)
+      - [s. 115 Interpretation of this Part](section/115.md)
+- Part 5 Nature conservation
+  - Chapter 1 Marine conservation zones and management of sea fisheries
+    - Designation of zones
+      - [s. 116 Marine conservation zones](section/116.md)
+      - [s. 117 Grounds for designation of MCZs](section/117.md)
+      - [s. 118 Further provision as to orders designating MCZs](section/118.md)
+      - [s. 119 Consultation before designation](section/119.md)
+      - [s. 120 Publication of orders designating MCZs](section/120.md)
+      - [s. 121 Hearings by appropriate authority](section/121.md)
+      - [s. 122 Amendment, revocation and review of orders designating MCZs](section/122.md)
+    - Duties relating to network
+      - [s. 123 Creation of network of conservation sites](section/123.md)
+      - [s. 124 Report](section/124.md)
+    - Duties of public authorities
+      - [s. 125 General duties of public authorities in relation to MCZs](section/125.md)
+      - [s. 126 Duties of public authorities in relation to certain decisions](section/126.md)
+      - [s. 127 Advice and guidance by conservation bodies](section/127.md)
+      - [s. 128 Failure to comply with duties etc](section/128.md)
+    - Byelaws for marine conservation: England and the English offshore region
+      - [s. 129 Byelaws for protection of MCZs in England](section/129.md)
+      - [s. 129A Byelaws relating to exploitation of sea fisheries resources: England](section/129A.md)
+      - [s. 129B Byelaws relating to exploitation of sea fisheries resources: English offshore region](section/129B.md)
+      - [s. 129C Byelaws under sections 129A and 129B: supplementary](section/129C.md)
+      - [s. 130 Byelaws: procedure](section/130.md)
+      - [s. 131 Emergency byelaws](section/131.md)
+      - [s. 132 Interim byelaws](section/132.md)
+      - [s. 133 Further provision as to byelaws](section/133.md)
+    - Orders for marine conservation: Wales and the Welsh offshore region
+      - [s. 134 Orders for protection of MCZs in Wales](section/134.md)
+      - [s. 134A Orders relating to exploitation of sea fisheries resources: Wales](section/134A.md)
+      - [s. 134B Orders relating to exploitation of sea fisheries resources: Welsh offshore region](section/134B.md)
+      - [s. 134C Orders under sections 134A and 134B: supplementary](section/134C.md)
+      - [s. 135 Consultation etc regarding orders under section 134, 134A or 134B](section/135.md)
+      - [s. 136 Interim orders](section/136.md)
+      - [s. 137 Further provision as to orders made under section 134 134A, 134B or 136](section/137.md)
+    - Orders for marine conservation: Scottish offshore region
+      - [s. 137A Orders relating to exploitation of sea fisheries resources: Scottish offshore region](section/137A.md)
+      - [s. 137B Consultation etc regarding orders under section 137A](section/137B.md)
+      - [s. 137C Interim orders made by Scottish Ministers](section/137C.md)
+      - [s. 137D Further provision as to orders made under section 137A or 137C](section/137D.md)
+    - Orders for marine conservation: Northern Ireland offshore region
+      - [s. 137E Orders relating to exploitation of sea fisheries resources: Northern Ireland offshore region](section/137E.md)
+      - [s. 137F Consultation etc regarding orders under section 137E](section/137F.md)
+      - [s. 137G Interim orders made by the Department](section/137G.md)
+      - [s. 137H Further provision as to orders made under section 137E or 137G](section/137H.md)
+    - Hearings
+      - [s. 138 Hearings ...](section/138.md)
+    - Offences
+      - [s. 139 Offence of contravening byelaws or orders](section/139.md)
+      - [s. 140 Offence of damaging etc protected features of MCZs](section/140.md)
+      - [s. 141 Exceptions to offences under section 139 or 140](section/141.md)
+    - Fixed monetary penalties
+      - [s. 142 Fixed monetary penalties](section/142.md)
+      - [s. 143 Fixed monetary penalties: procedure](section/143.md)
+      - [s. 144 Further provision about fixed monetary penalties](section/144.md)
+    - Miscellaneous and supplemental
+      - [s. 145 Application to the Crown](section/145.md)
+      - [s. 146 Consequential and transitional provision](section/146.md)
+      - [s. 147 Interpretation of this Chapter](section/147.md)
+  - Chapter 2 Other conservation sites
+    - [s. 148 Marine boundaries of SSSIs and national nature reserves](section/148.md)
+- Part 6 Management of inshore fisheries
+  - Chapter 1 Inshore fisheries and conservation authorities
+    - Inshore fisheries and conservation districts and authorities
+      - [s. 149 Establishment of inshore fisheries and conservation districts](section/149.md)
+      - [s. 150 Inshore fisheries and conservation authorities](section/150.md)
+      - [s. 151 Membership and proceedings of IFC authorities](section/151.md)
+      - [s. 152 Amendment or revocation of orders under section 149](section/152.md)
+    - Main duties
+      - [s. 153 Management of inshore fisheries](section/153.md)
+      - [s. 154 Protection of marine conservation zones](section/154.md)
+    - Byelaws
+      - [s. 155 Power to make byelaws](section/155.md)
+      - [s. 156 Provision that may be made by byelaw](section/156.md)
+      - [s. 157 Emergency byelaws](section/157.md)
+      - [s. 158 Byelaws: supplementary provision](section/158.md)
+      - [s. 159 Power of Secretary of State to amend or revoke byelaws](section/159.md)
+      - [s. 160 Byelaws: procedure](section/160.md)
+      - [s. 161 Inquiries](section/161.md)
+      - [s. 162 Evidence of byelaws](section/162.md)
+    - Offences
+      - [s. 163 Offences](section/163.md)
+      - [s. 164 Powers of court following conviction](section/164.md)
+    - Enforcement
+      - [s. 165 Inshore fisheries and conservation officers](section/165.md)
+      - [s. 166 Powers of IFC officers](section/166.md)
+    - Power to delegate functions
+      - [s. 167 Power to enter into agreements with eligible bodies](section/167.md)
+      - [s. 168 Eligible bodies](section/168.md)
+      - [s. 169 Variation, review and cancellation of agreements under section 167](section/169.md)
+      - [s. 170 Agreements under section 167: particular powers](section/170.md)
+      - [s. 171 Supplementary provisions with respect to agreements under section 167](section/171.md)
+    - Other powers and duties of IFC authorities
+      - [s. 172 Development, etc of fisheries](section/172.md)
+      - [s. 173 Provision of services by IFC authorities](section/173.md)
+      - [s. 174 Duty of co-operation](section/174.md)
+      - [s. 175 Information](section/175.md)
+      - [s. 176 Accounts](section/176.md)
+      - [s. 177 Annual plan](section/177.md)
+      - [s. 178 Annual report](section/178.md)
+      - [s. 179 Supplementary powers](section/179.md)
+    - Miscellaneous and supplemental
+      - [s. 180 Expenses of IFC authorities](section/180.md)
+      - [s. 181 IFC authority as party to proceedings](section/181.md)
+      - [s. 182 Exemption from liability](section/182.md)
+      - [s. 183 Report by Secretary of State](section/183.md)
+      - [s. 184 Minor and consequential amendments](section/184.md)
+      - [s. 185 Application to the Crown](section/185.md)
+      - [s. 186 Interpretation of this Chapter](section/186.md)
+  - Chapter 2 Local fisheries committees
+    - [s. 187 Abolition of local fisheries committees](section/187.md)
+    - [s. 188 Power to make consequential or transitional provision, etc](section/188.md)
+  - Chapter 3 Inshore fisheries in Wales
+    - [s. 189 Power of Welsh Ministers in relation to fisheries in Wales](section/189.md)
+    - [s. 190 Offences](section/190.md)
+    - [s. 191 Powers of court following conviction](section/191.md)
+    - [s. 192 Power to provide services for purposes of enforcement](section/192.md)
+    - [s. 193 Miscellaneous amendments](section/193.md)
+- Part 7 Fisheries
+  - Chapter 1 The Sea Fish (Conservation) Act 1967
+    - [s. 194 Size limits for sea fish](section/194.md)
+    - [s. 195 Regulation of nets and other fishing gear](section/195.md)
+    - [s. 196 Charging for commercial fishing licences](section/196.md)
+    - [s. 197 Grant of licences subject to conditions imposed for environmental purposes](section/197.md)
+    - [s. 198 Power to restrict fishing for sea fish](section/198.md)
+    - [s. 199 Penalties for offences](section/199.md)
+    - [s. 200 Offences by directors, partners, etc](section/200.md)
+    - [s. 201 Minor and consequential amendments](section/201.md)
+  - Chapter 2 The Sea Fisheries (Shellfish) Act 1967
+    - [s. 202 Power to make orders as to fisheries for shellfish](section/202.md)
+    - [s. 203 Variation etc of orders as a result of development](section/203.md)
+    - [s. 204 Purposes for which tolls etc may be applied](section/204.md)
+    - [s. 205 Increase in penalties for certain offences relating to fisheries for shellfish](section/205.md)
+    - [s. 206 Liability of master, etc where vessel used in commission of offence](section/206.md)
+    - [s. 207 Restrictions imposed by grantees, etc](section/207.md)
+    - [s. 208 Cancellation of licence after single relevant conviction](section/208.md)
+    - [s. 209 Register of licences](section/209.md)
+    - [s. 210 Protection of private shellfish beds](section/210.md)
+    - [s. 211 Use of implements of fishing](section/211.md)
+    - [s. 212 Taking of crabs and lobsters for scientific purposes](section/212.md)
+    - [s. 213 Orders prohibiting the taking and sale of certain lobsters](section/213.md)
+    - [s. 214 Power to appoint inspector before making orders as to fisheries for shellfish](section/214.md)
+  - Chapter 3 Migratory and freshwater fish
+    - Taking fish etc
+      - [s. 215 Prohibited implements](section/215.md)
+      - [s. 216 Roe etc](section/216.md)
+      - [s. 217 Licences to fish](section/217.md)
+      - [s. 218 Limitation of licences](section/218.md)
+      - [s. 219 Authorisation to fish](section/219.md)
+      - [s. 220 Enforcement](section/220.md)
+      - [s. 221 Power to specify fish](section/221.md)
+      - [s. 222 Order-making powers: supplementary](section/222.md)
+      - [s. 223 Definitions relating to fish](section/223.md)
+    - Byelaws
+      - [s. 224 Power to make byelaws](section/224.md)
+      - [s. 225 Byelaws: emergency procedures](section/225.md)
+      - [s. 226 Byelaws: enforcement](section/226.md)
+      - [s. 227 Byelaws: compensation](section/227.md)
+    - Supplementary
+      - [s. 228 Theft of fish from private fisheries etc](section/228.md)
+      - [s. 229 Handling fish](section/229.md)
+      - [s. 230 Duties of the Environment Agency](section/230.md)
+      - [s. 231 Tweed and Esk fisheries](section/231.md)
+      - [s. 232 Keeping, introduction and removal of fish](section/232.md)
+      - [s. 233 Consequential and supplementary amendments](section/233.md)
+  - Chapter 4 Obsolete fisheries enactments
+    - [s. 234 Repeal of spent or obsolete enactments](section/234.md)
+- Part 8 Enforcement
+  - Chapter 1 Enforcement officers
+    - Marine enforcement officers
+      - [s. 235 Marine enforcement officers](section/235.md)
+      - [s. 236 Enforcement of marine licensing regime](section/236.md)
+      - [s. 237 Enforcement of nature conservation or fisheries exploitation legislation](section/237.md)
+      - [s. 238 Enforcement of fisheries legislation](section/238.md)
+      - [s. 239 Marine enforcement officers as British sea-fishery officers](section/239.md)
+    - Other enforcement officers
+      - [s. 240 Marine licensing: oil and gas and other reserved matters](section/240.md)
+      - [s. 241 Marine licensing: Northern Ireland](section/241.md)
+      - [s. 242 Marine licensing: enforcement in Scottish offshore region](section/242.md)
+      - [s. 243 Enforcement of MCZs in Scottish offshore region](section/243.md)
+      - [s. 243A Infrastructure planning: enforcement in the Welsh inshore region](section/243A.md)
+    - Interpretation
+      - [s. 244 Interpretation of this Chapter](section/244.md)
+  - Chapter 2 Common enforcement powers
+    - Introductory
+      - [s. 245 Common enforcement powers](section/245.md)
+    - Entry, search and seizure
+      - [s. 246 Power to board and inspect vessels and marine installations](section/246.md)
+      - [s. 247 Power to enter and inspect premises](section/247.md)
+      - [s. 248 Power to enter and inspect vehicles](section/248.md)
+      - [s. 249 Dwellings](section/249.md)
+      - [s. 250 Powers of search, examination, etc](section/250.md)
+      - [s. 251 Power to require production of documents, etc](section/251.md)
+      - [s. 252 Powers of seizure, etc](section/252.md)
+      - [s. 253 Further provision about seizure](section/253.md)
+      - [s. 254 Retention of seized items](section/254.md)
+    - Miscellaneous and ancillary powers
+      - [s. 255 Power to record evidence of offences](section/255.md)
+      - [s. 256 Power to require name and address](section/256.md)
+      - [s. 257 Power to require production of licence, etc](section/257.md)
+      - [s. 258 Power to require attendance of certain persons](section/258.md)
+      - [s. 259 Power to direct vessel or marine installation to port](section/259.md)
+      - [s. 260 Assistance etc](section/260.md)
+      - [s. 261 Power to use reasonable force](section/261.md)
+    - Interpretation
+      - [s. 262 Interpretation of this Chapter](section/262.md)
+  - Chapter 3 Licensing enforcement powers
+    - [s. 263 Power to require information relating to certain substances and objects](section/263.md)
+  - Chapter 4 Fisheries enforcement powers
+    - Inspection and seizure of objects at sea
+      - [s. 264 Power to inspect and seize objects at sea](section/264.md)
+      - [s. 265 Reports of inspections under section 264](section/265.md)
+      - [s. 266 Retention of objects seized under section 264(2)](section/266.md)
+      - [s. 267 Disposal of objects seized under section 264](section/267.md)
+    - Seizure for purposes of forfeiture
+      - [s. 268 Power to seize fish for purposes of forfeiture](section/268.md)
+      - [s. 269 Power to seize fishing gear for purposes of forfeiture](section/269.md)
+      - [s. 270 Procedure in relation to seizure under section 268 or 269](section/270.md)
+      - [s. 271 Retention of property seized under section 268 or 269](section/271.md)
+      - [s. 272 Bonds for release of seized fish or gear](section/272.md)
+      - [s. 273 Power of relevant authority to sell seized fish in its possession](section/273.md)
+      - [s. 274 Disposal of property seized under section 268 or 269](section/274.md)
+    - Forfeiture
+      - [s. 275 Forfeiture etc of prohibited items](section/275.md)
+      - [s. 276 Forfeiture etc of fish failing to meet size requirements](section/276.md)
+      - [s. 277 Further provision about forfeiture under section 275 or 276](section/277.md)
+      - [s. 278 Forfeiture by court following conviction](section/278.md)
+    - Detention of vessels in connection with court proceedings
+      - [s. 279 Power to detain vessels in connection with court proceedings](section/279.md)
+      - [s. 280 Release of vessels detained under section 279](section/280.md)
+      - [s. 281 Power of court to order release of vessels](section/281.md)
+      - [s. 282 Bonds for release of vessels](section/282.md)
+      - [s. 283 Power of court to order repayment of bonds](section/283.md)
+    - Production of equipment
+      - [s. 284 Power to require production of certain equipment](section/284.md)
+    - Supplementary
+      - [s. 285 Service of notices, etc](section/285.md)
+      - [s. 286 Conclusion of proceedings](section/286.md)
+      - [s. 287 Interpretation of this Chapter](section/287.md)
+  - Chapter 5 Common enforcement provisions
+    - Introductory
+      - [s. 288 Meaning of “enforcement officer”](section/288.md)
+    - Duties of enforcement officers
+      - [s. 289 Duty to provide evidence of authority](section/289.md)
+      - [s. 290 Duty to state name and purpose, etc](section/290.md)
+    - Liability of enforcement officers
+      - [s. 291 Liability of enforcement officers etc](section/291.md)
+    - Offences in relation to enforcement officers
+      - [s. 292 Offences in relation to enforcement officers](section/292.md)
+  - Chapter 6 Miscellaneous and supplementary
+    - Enforcement of Community rules
+      - [s. 293 Enforcement of Community rules](section/293.md)
+    - Administrative penalty schemes
+      - [s. 294 Administrative penalty schemes](section/294.md)
+    - Crown application
+      - [s. 295 Application to the Crown](section/295.md)
+- Part 9 Coastal access
+  - The coastal access duty
+    - [s. 296 The coastal access duty](section/296.md)
+    - [s. 297 General provision about the coastal access duty](section/297.md)
+    - [s. 298 The coastal access scheme](section/298.md)
+    - [s. 299 Review of the coastal access scheme](section/299.md)
+    - [s. 300 The English coast](section/300.md)
+    - [s. 301 River estuaries](section/301.md)
+  - Implementation of the coastal access duty
+    - [s. 302 Long-distance routes](section/302.md)
+    - [s. 303 Access to the coastal margin](section/303.md)
+    - [s. 304 Establishment and maintenance of the English coastal route etc](section/304.md)
+  - Liabilities
+    - [s. 305 Restricting liabilities of Natural England and the Secretary of State](section/305.md)
+    - [s. 306 Occupiers’ liability](section/306.md)
+  - General
+    - [s. 307 Isles of Scilly](section/307.md)
+    - [s. 308 The Crown](section/308.md)
+    - [s. 309 Interpretation of this Part](section/309.md)
+  - Wales
+    - [s. 310 Powers of National Assembly for Wales](section/310.md)
+- Part 10 Miscellaneous
+  - Natural England
+    - [s. 311 Area in which functions of Natural England exercisable](section/311.md)
+    - [s. 312 Natural England not to be responder for Civil Contingencies Act 2004](section/312.md)
+  - Countryside Council for Wales
+    - [s. 313 Area in which functions of Countryside Council for Wales exercisable](section/313.md)
+  - Works detrimental to navigation
+    - [s. 314 Works detrimental to navigation](section/314.md)
+  - Harbours Act 1964
+    - [s. 315 Amendments of the Harbours Act 1964](section/315.md)
+- Part 11 Supplementary provisions
+  - [s. 316 Regulations and orders](section/316.md)
+  - [s. 317 Directions](section/317.md)
+  - [s. 318 Offences by directors, partners, etc](section/318.md)
+  - [s. 319 Disapplication of requirement for consent to certain prosecutions](section/319.md)
+  - [s. 320 Power to make transitional provisions and savings](section/320.md)
+  - [s. 321 Repeals](section/321.md)
+  - [s. 322 Interpretation](section/322.md)
+  - [s. 323 Extent](section/323.md)
+  - [s. 324 Commencement](section/324.md)
+  - [s. 325 Short title](section/325.md)
+- Schedule 1 The Marine Management Organisation
+  - Status of the MMO
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The chair of the MMO
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The deputy chair of the MMO
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Considerations in making appointments
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Power to amend the numbers of members specified in paragraph 3(1)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Terms of appointment
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Resignation from office
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Suspension from, or termination of, office
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Eligibility for re-appointment
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Members’ remuneration and allowances
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Pensions, allowances and gratuities
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Compensation for loss of office
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Chief executive
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Chief scientific adviser
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Other staff
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Staff remuneration and allowances
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Staff pensions etc
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Staff superannuation
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Procedure
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Delegation of functions
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Membership of committees and sub-committees
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Application of seal and proof of documents
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Documents served etc by the MMO
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Annual report
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Accounts and records
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Audit
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Duty to provide information to the Secretary of State
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+- Schedule 2 Minor and consequential amendments relating to the MMO
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- Schedule 3 Transfer schemes
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The property, rights and liabilities that may be transferred
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Creation and apportionment of property, rights or liabilities
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Vesting certificates
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Employment contracts
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Employee expressing objection to transfer of contract of employment
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Right to terminate contract of employment for substantial detrimental change in conditions
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Civil servants
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Compensation
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Validity
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Continuity
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Documents
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Remedies
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Interim arrangements
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Retrospective modification of schemes
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Incidental, consequential, supplemental or transitional provision or savings
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- Schedule 4 Exclusive economic zone and Welsh zone: consequential amendments
+  - Part 1 Exclusive economic zone
+    - Continental Shelf Act 1964
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Fishery Limits Act 1976
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Energy Act 2004
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Energy Act 2008
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 2 Welsh zone
+    - Government of Wales Act 2006
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- Schedule 5 Preparation of an MPS or of amendments of an MPS
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Interpretation
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Consultation in Northern Ireland
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Statement of public participation
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Further provision about the content of an SPP
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Review and revision of an SPP
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Sustainability appraisal
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Preparation and publication of a consultation draft
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Representations about the consultation draft
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - The appropriate legislative procedure
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Differences between the consultation draft and the final text
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Adoption and publication of the relevant document
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Validity of document where policy authority participates in preparation but does not adopt
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- Schedule 6 Marine plans: preparation and adoption
+  - Marine plan authority to notify related planning authorities of decision to prepare plan
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Secretary of State to be kept informed of authority’s intentions as to certain matters
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Marine plans to be compatible with certain other marine plans and Planning Act plans
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Consultation in Northern Ireland
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Statement of public participation
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Further provision about the content of an SPP
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Review and revision of the SPP
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Advice and assistance
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Matters to which a marine plan authority is to have regard in preparing a marine plan
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Sustainability appraisal
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Preparation and publication of a consultation draft
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Representations about the consultation draft
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Independent investigation
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Matters to which marine plan authority to have regard in settling text for adoption etc
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Adoption and publication of a marine plan
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+- Schedule 7 Further provision about civil sanctions under Part 4
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Fixed monetary penalties: other sanctions
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Variable monetary penalties: other sanctions
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Combination of sanctions
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Monetary penalties
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Costs recovery
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Appeals
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Consultation
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Guidance as to use of civil sanctions
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Guidance as to enforcement of offences
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Publication of enforcement action
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Payment of penalties into Consolidated Fund etc
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Disclosure of information
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- Schedule 8 Licensing: minor and consequential amendments
+  - Part 1 Consequential amendments
+    - The Coast Protection Act 1949
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - The Food and Environment Protection Act 1985
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - The Government of Wales Act 2006
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - The Planning Act 2008
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part 2 Other amendments
+    - The Food and Environment Protection Act 1985 Electronic communications apparatus: operations in tidal waters etc
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Electronic communications: emergency works
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - The Petroleum Act 1998 Application of Part 3 in relation to submarine pipelines
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Exception of certain pipelines from being “submarine pipelines” for the purposes of Part 4
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- Schedule 9 Licensing: transitional provision relating to Part 4
+  - Part 1 Interpretation
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Part 2 Coast Protection Act 1949
+    - Consents previously given and outstanding applications
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Safety requirements
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Part 3 Food and Environment Protection Act 1985
+    - Licences previously issued and outstanding applications
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Remedial action
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Register
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Channel Islands and British overseas territories
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Part 4 Miscellaneous
+    - Dredging
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Water Resources Act 1991
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Electronic Communications Code: England and Wales
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Electronic Communications Code: Scotland
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Direction under section 58(1)(c) of the Government of Wales Act 2006
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+- Schedule 10 Further provision about fixed monetary penalties under section 142
+  - Fixed monetary penalties: other sanctions
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Monetary penalties
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Appeals
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Consultation
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Guidance as to use of fixed monetary penalties
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Guidance as to enforcement of offences
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Publication of enforcement action
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Payment of penalties into Consolidated Fund etc
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Disclosure of information
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- Schedule 11 Consequential amendments relating to MCZs
+  - Conservation of Seals Act 1970 (c. 30)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Conservation (Natural Habitats, &c) Regulations 1994 (S.I. 1994/2716)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+- Schedule 12 Transitional provision relating to MCZs
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+- Schedule 13 Marine boundaries of SSSIs and national nature reserves
+  - Part 1 Introductory
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Part 2 Sites of special scientific interest
+    - Marine boundaries of sites of special scientific interest
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Notification of additional land that is subtidal
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Enlargement of SSSI to include subtidal land
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Guidance in relation to subtidal notifications of SSSIs
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Power to call in subtidal notifications of SSSIs
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Denotification of SSSI on designation of area as MCZ
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Part 3 National nature reserves
+    - Marine boundaries of national nature reserves
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Power to call in subtidal declarations of national nature reserves
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+- Schedule 14 Inshore fisheries and conservation authorities: amendments
+  - Coast Protection Act 1949 (c. 74)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Nuclear Installations Act 1965 (c. 57)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Sea Fish (Conservation) Act 1967 (c. 84)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Prevention of Oil Pollution Act 1971 (c. 60)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Fisheries Act 1981 (c. 29)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Radioactive Substances Act 1993 (c. 12)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Natural Environment and Rural Communities Act 2006 (c. 16)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+- Schedule 15 Sea Fish (Conservation) Act 1967: minor and consequential amendments
+  - Sea Fish (Conservation) Act 1967 (c. 84)
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Fisheries Act 1981 (c. 29)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+- Schedule 16 Migratory and freshwater fish: consequential and supplementary amendments
+  - Salmon and Freshwater Fisheries Act 1975 (c. 51)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+  - Fisheries Act 1981 (c. 29)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+  - Salmon Act 1986 (c. 62)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+- Schedule 17 Warrants issued under section 249
+  - Introductory
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Applications for warrants
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Safeguards in connection with power of entry conferred by warrant
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Execution of warrants
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - Return of warrants
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+- Schedule 18 Forfeiture of property under section 275 or 276
+  - Application of Schedule
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Notice of intended forfeiture
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Notice of claim
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Automatic forfeiture in a case where no claim is made
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Decision whether to take court proceedings to condemn property as forfeited
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Return of property if no forfeiture proceedings
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Forfeiture proceedings
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Supplementary provision about forfeiture proceedings
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - Effect of forfeiture
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+  - Disposal of property which is not returned
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - Provisions as to proof
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+  - Special provisions as to certain claimants
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+  - Power to destroy fish before condemnation, etc
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - Saving for owner’s rights
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+  - Interpretation
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+- Schedule 19 Schedule 1A to the National Parks and Access to the Countryside Act 1949
+- Schedule 20 Establishment and maintenance of the English coastal route etc
+  - Extension of Chapter 3 of Part 1 of the CROW Act
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Agreements relating to establishment and maintenance of route
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Establishment and maintenance of route in absence of agreement
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Appeals relating to notices under paragraph 3
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Power for Natural England to fund works
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Erection and maintenance of notices and signs
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Removal of notices and signs
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Powers of entry
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - Interpretation of Schedule
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+- Schedule 21 Amendments of the Harbours Act 1964
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Provision that may be made by harbour empowerment order
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Delegation of certain functions under the Act
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Consent of Welsh Ministers or Secretary of State required for making of certain harbour orders
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Procedure for dealing with applications for harbour orders
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Procedure where harbour revision orders are made otherwise than on application
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Application of paragraphs 5 and 6
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+- Schedule 22 Repeals
+  - Part 1 EEZ, UK marine area and Welsh zone
+  - Part 2 Marine licensing
+  - Part 3 Nature conservation
+  - Part 4 Management of inshore fisheries
+  - Part 5 Fisheries
+  - Part 6 Enforcement
+  - Part 7 Coastal access
+  - Part 8 Miscellaneous
