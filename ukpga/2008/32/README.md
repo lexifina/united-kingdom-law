@@ -1,0 +1,291 @@
+# Energy Act 2008
+
+2008 c. 32. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2008/32/2026-10-22
+
+## Contents
+
+- Part 1 Gas Importation and Storage
+  - Chapter 1 Gas Importation and Storage Zones
+    - [s. 1 Exploitation of areas outside the territorial sea for gas importation and storage](section/1.md)
+  - Chapter 2 Importation and storage of combustible gas
+    - Activities requiring a licence
+      - [s. 2 Prohibition on unlicensed activities](section/2.md)
+      - [s. 3 Exception for activities carried on partly on land etc](section/3.md)
+      - [s. 3A Exception for unloading to an installation in certain circumstances](section/3A.md)
+    - Licensing
+      - [s. 4 Licences](section/4.md)
+      - [s. 5 Applications](section/5.md)
+      - [s. 6 Terms and conditions](section/6.md)
+      - [s. 7 Model clauses](section/7.md)
+    - Enforcement
+      - [s. 8 Offence to carry on unlicensed activities](section/8.md)
+      - [s. 9 Offences relating to licences](section/9.md)
+      - [s. 10 OGA’s power of direction](section/10.md)
+      - [s. 11 Failure to comply with a direction under section 10](section/11.md)
+      - [s. 12 Injunctions restraining breaches of section 2(1)](section/12.md)
+      - [s. 13 Inspectors](section/13.md)
+      - [s. 14 Criminal proceedings](section/14.md)
+    - Supplementary
+      - [s. 15 Interaction with the petroleum licensing requirements](section/15.md)
+    - Interpretation
+      - [s. 16 Chapter 2: interpretation](section/16.md)
+  - Chapter 3 Storage of carbon dioxide
+    - Activities requiring a licence
+      - [s. 17 Prohibition on unlicensed activities](section/17.md)
+    - Licensing
+      - [s. 18 Licences](section/18.md)
+      - [s. 19 Requirements relating to grant of licences](section/19.md)
+      - [s. 20 Terms and conditions](section/20.md)
+      - [s. 21 Content of licences: regulations](section/21.md)
+    - Enforcement
+      - [s. 22 Offence to carry on unlicensed activities](section/22.md)
+      - [s. 23 Offences relating to licences](section/23.md)
+      - [s. 24 Licensing authority’s power of direction](section/24.md)
+      - [s. 25 Failure to comply with a direction under section 24](section/25.md)
+      - [s. 26 Injunctions restraining breaches of section 17(1)](section/26.md)
+      - [s. 27 Inspectors](section/27.md)
+      - [s. 28 Criminal proceedings](section/28.md)
+    - Registration
+      - [s. 29 Requirement for public register](section/29.md)
+    - Information about change in control of licence holder
+      - [s. 29A OGA’s power to require information about change in control of licence holder](section/29A.md)
+    - Abandonment of offshore infrastructure
+      - [s. 30 Abandonment of installations](section/30.md)
+      - [s. 30A Change of use relief for certain installations](section/30A.md)
+      - [s. 30B Change of use relief: carbon storage network pipelines](section/30B.md)
+      - [s. 30C Relief under sections 30A and 30B: supplementary](section/30C.md)
+    - Termination of the licence
+      - [s. 31 Termination of licence: regulations](section/31.md)
+    - Miscellaneous
+      - [s. 32 Safety zones](section/32.md)
+      - [s. 33 Enhanced petroleum recovery: power to make orders](section/33.md)
+      - [s. 34 Power of Secretary of State etc to transfer functions](section/34.md)
+      - [s. 34A Cooperation with economic regulator](section/34A.md)
+      - [s. 34B Information sharing with economic regulator](section/34B.md)
+    - Interpretation
+      - [s. 35 Chapter 3: interpretation](section/35.md)
+  - Chapter 4 General provisions about gas importation and storage
+    - [s. 36 Chapters 2 and 3: consequential amendments](section/36.md)
+- Part 2 Electricity from renewable sources
+  - The renewables obligation
+    - [s. 37 The renewables obligation](section/37.md)
+    - [s. 38 Section 37: supplemental provision](section/38.md)
+    - [s. 39 Existing savings relating to section 32 of the Electricity Act 1989](section/39.md)
+    - [s. 40 The Northern Ireland renewables obligation](section/40.md)
+  - Feed-in tariffs for small-scale generation of electricity
+    - [s. 41 Power to amend licence conditions etc: feed-in tariffs](section/41.md)
+    - [s. 42 Power to amend licence conditions etc: procedure](section/42.md)
+    - [s. 43 Feed-in tariffs: supplemental](section/43.md)
+  - Offshore electricity transmission
+    - [s. 44 Offshore electricity transmission](section/44.md)
+- Part 3 Decommissioning of energy installations
+  - Chapter 1 Nuclear sites: decommissioning and clean-up
+    - Funded decommissioning programmes
+      - [s. 45 Duty to submit a funded decommissioning programme](section/45.md)
+      - [s. 45A Costs incurred in considering proposed programmes](section/45A.md)
+      - [s. 46 Approval of a programme](section/46.md)
+      - [s. 47 Prohibition on use of site in absence of approved programme](section/47.md)
+    - Modification of approved programmes
+      - [s. 48 Modification of approved programme](section/48.md)
+      - [s. 49 Procedure for modifying approved programme](section/49.md)
+      - [s. 50 Power to disapply section 49](section/50.md)
+      - [s. 51 Time when modification takes effect](section/51.md)
+    - Information
+      - [s. 52 Provision of information and documents](section/52.md)
+      - [s. 53 Power to review operation of programme](section/53.md)
+    - Regulations and guidance
+      - [s. 54 Nuclear decommissioning: regulations and guidance](section/54.md)
+      - [s. 55 Funded decommissioning programmes: verification of financial matters](section/55.md)
+    - Protection of decommissioning funds
+      - [s. 56 Protection of security under approved programme](section/56.md)
+    - Enforcement
+      - [s. 57 Offence to fail to comply with approved programme](section/57.md)
+      - [s. 58 Secretary of State’s power of direction](section/58.md)
+      - [s. 59 Offence of further disclosure of information](section/59.md)
+      - [s. 60 Offence of supplying false information](section/60.md)
+      - [s. 61 Restriction on prosecutions under this Chapter](section/61.md)
+    - Miscellaneous
+      - [s. 62 Power to apply this Chapter to other nuclear installations](section/62.md)
+      - [s. 63 Co-operation with other public bodies](section/63.md)
+      - [s. 64 Continuity of obligations](section/64.md)
+      - [s. 65 Amendment of Nuclear Installations Act 1965](section/65.md)
+      - [s. 66 Disposal of hazardous material](section/66.md)
+    - General
+      - [s. 67 Meaning of “associated”](section/67.md)
+      - [s. 67A Meaning of “associated”: supplementary](section/67A.md)
+      - [s. 68 Interpretation](section/68.md)
+  - Chapter 2 Offshore renewables installations
+    - [s. 69 Decommissioning notices relating to offshore renewable energy installations](section/69.md)
+    - [s. 70 Security for decommissioning obligations](section/70.md)
+    - [s. 71 Provision of information to Secretary of State](section/71.md)
+  - Chapter 3 Oil and gas installations
+    - [s. 72 Persons who may be required to submit abandonment programmes](section/72.md)
+    - [s. 73 Financial resources etc](section/73.md)
+    - [s. 74 Protection of abandonment funds from creditors](section/74.md)
+  - Chapter 4 Wells
+    - [s. 75 Information about decommissioning of wells](section/75.md)
+- Part 4 Provisions relating to oil and gas
+  - Petroleum licences
+    - [s. 76 Transfers without the consent of the Secretary of State](section/76.md)
+    - [s. 77 Model clauses of petroleum licences](section/77.md)
+  - Third party access
+    - [s. 78 Third party access to infrastructure](section/78.md)
+    - [s. 79 Modification of pipelines](section/79.md)
+    - [s. 80 Third party access to oil processing facilities](section/80.md)
+    - [s. 81 Directions under section 80: supplemental](section/81.md)
+    - [s. 82 Meaning of “associate”](section/82.md)
+- Part 4A Works detrimental to navigation
+  - Consent required for carrying out of certain operations
+    - [s. 82A Restriction of works detrimental to navigation](section/82A.md)
+    - [s. 82B Applications for consent under section 82A](section/82B.md)
+    - [s. 82C Determination of applications for consent under section 82A](section/82C.md)
+    - [s. 82D Authorised exploration or exploitation operations: consent conditions](section/82D.md)
+  - Directions by the Secretary of State
+    - [s. 82E Secretary of State’s power of direction](section/82E.md)
+  - Emergency safety requirements
+    - [s. 82F Damage to, or changes in, the works: emergency safety notices](section/82F.md)
+    - [s. 82G Emergency safety notices: supplementary provisions](section/82G.md)
+    - [s. 82H Failure to comply with condition: immediate action notice](section/82H.md)
+  - Enforcement
+    - [s. 82I Carrying out operation without consent etc](section/82I.md)
+    - [s. 82J Offences relating to consents](section/82J.md)
+    - [s. 82K Failure to comply with direction under section 82E](section/82K.md)
+    - [s. 82L Failure to comply with notice under section 82F or 82H](section/82L.md)
+    - [s. 82M Injunctions restraining breaches of section 82A(1)](section/82M.md)
+    - [s. 82N Inspectors](section/82N.md)
+    - [s. 82O Criminal proceedings](section/82O.md)
+  - Supplementary provisions
+    - [s. 82OA Fees](section/82OA.md)
+    - [s. 82P Power to extend the application of this Part](section/82P.md)
+    - [s. 82Q Interpretation of this Part](section/82Q.md)
+- Part 5 Miscellaneous
+  - Duties of Gas and Electricity Markets Authority
+    - [s. 83 Duties of the Gas and Electricity Markets Authority](section/83.md)
+  - Transmission systems
+    - [s. 84 Power to amend licence conditions etc: transmission systems](section/84.md)
+    - [s. 85 Section 84: procedure](section/85.md)
+    - [s. 86 Section 84: supplemental](section/86.md)
+  - Energy reports
+    - [s. 87 Energy reports](section/87.md)
+  - Smart meters: modification of licence conditions etc by Secretary of State
+    - [s. 88 Power to amend licence conditions etc: smart meters](section/88.md)
+    - [s. 89 Power to amend licence conditions etc: procedure](section/89.md)
+    - [s. 90 Smart meters: supplemental](section/90.md)
+    - [s. 91 Licensing of activities relating to smart meters](section/91.md)
+  - Grant of smart meter communication licences
+    - [s. 91A Grant of smart meter communication licences](section/91A.md)
+    - [s. 91B Regulations under section 91A(1): further provision](section/91B.md)
+    - [s. 91C Power of Gas and Electricity Markets Authority to amend licence conditions etc](section/91C.md)
+    - [s. 91D Power under section 91C: procedure](section/91D.md)
+  - Gas meters
+    - [s. 92 Gas meters](section/92.md)
+    - [s. 93 Section 92: consequential amendments](section/93.md)
+    - [s. 94 Power to amend licence conditions: gas](section/94.md)
+  - Electricity meters
+    - [s. 95 Electricity meters](section/95.md)
+    - [s. 96 Section 95: consequential amendments](section/96.md)
+    - [s. 97 Power to amend licence conditions: electricity](section/97.md)
+  - Connection offer expenses
+    - [s. 98 Costs connected with making an offer of connection](section/98.md)
+  - Electricity safety
+    - [s. 99 Electricity safety](section/99.md)
+  - Renewable heat incentives
+    - [s. 100 Renewable heat incentives](section/100.md)
+  - Nuclear information
+    - [s. 101 Security of sensitive nuclear information](section/101.md)
+  - Application of general duties
+    - [s. 102 Application of general duties to functions relating to licences](section/102.md)
+- Part 6 General
+  - [s. 103 Offences by bodies corporate etc](section/103.md)
+  - [s. 104 Subordinate legislation](section/104.md)
+  - [s. 105 Parliamentary control of subordinate legislation](section/105.md)
+  - [s. 106 Interpretation](section/106.md)
+  - [s. 107 Minor and consequential amendments](section/107.md)
+  - [s. 108 Repeals](section/108.md)
+  - [s. 109 Transitional provision etc](section/109.md)
+  - [s. 110 Commencement](section/110.md)
+  - [s. 111 Financial provisions](section/111.md)
+  - [s. 112 Extent](section/112.md)
+  - [s. 113 Short title](section/113.md)
+- SCHEDULE 1 Amendments relating to Chapters 2 and 3 of Part 1
+  - Food and Environment Protection Act 1985 (c. 48)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Petroleum Act 1987 (c. 12)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Gas (Northern Ireland) Order 1996 (S.I. 1996/275 (N.I.2))
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Petroleum Act 1998 (c. 17)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Energy Act 2004 (c. 20)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Property schemes
+- SCHEDULE 3 Petroleum licences: amendments to model clauses
+  - Part 1 Petroleum (Production) (Landward Areas) Regulations 1995
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part 2 Petroleum (Current Model Clauses) Order 1999
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part 3 Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+- SCHEDULE 4 Smart meters: licensable activities
+  - Part 1 Gas
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part 2 Electricity
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - Pipe-lines Act 1962 (c. 58)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Gas Act 1986 (c. 44)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Petroleum Act 1998 (c. 17)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Utilities Act 2000 (c. 27)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Energy Act 2004 (c. 20)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+- SCHEDULE 6 Repeals
