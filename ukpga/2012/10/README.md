@@ -2,9 +2,11 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-01
+legislation.gov.uk lists 57 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
+
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
 
 ## Contents
 
@@ -291,7 +293,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-01
       - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
     - Risk to health or safety in rented home
       - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
-    - Anti-social behaviour
+    - Respect orders
+      - [Sch. 1 para. 35A](schedule/1/paragraph/35A.md)
+    - Anti-social behaviour: youth injunctions and housing injunctions
       - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
     - Protection from harassment
       - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
