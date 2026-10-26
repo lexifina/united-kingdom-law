@@ -1,0 +1,352 @@
+# Youth Justice and Criminal Evidence Act 1999
+
+1999 c. 23. Enacted 1999-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
+
+Source: https://www.legislation.gov.uk/ukpga/1999/23/2026-10-26
+
+## Contents
+
+- Part I Referrals to youth offender panels
+  - Referral orders
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+  - Youth offender panels
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Youth offender contracts
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+  - Further court proceedings
+    - [s. 13 ................................](section/13.md)
+  - Supplementary
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+- Part II Giving of evidence or information for purposes of criminal proceedings
+  - Chapter I Special measures directions in case of vulnerable and intimidated witnesses
+    - Preliminary
+      - [s. 16 Witnesses eligible for assistance on grounds of age or incapacity.](section/16.md)
+      - [s. 17 Witnesses eligible for assistance on grounds of fear or distress about testifying.](section/17.md)
+      - [s. 18 Special measures available to eligible witnesses.](section/18.md)
+    - Special measures directions
+      - [s. 19 Special measures direction relating to eligible witness.](section/19.md)
+      - [s. 20 Further provisions about directions: general.](section/20.md)
+      - [s. 21 Special provisions relating to child witnesses.](section/21.md)
+      - [s. 22 Extension of provisions of section 21 to certain witnesses over 18.](section/22.md)
+      - [s. 22A Special provisions relating to sexual offences](section/22A.md)
+    - Special measures
+      - [s. 23 Screening witness from accused.](section/23.md)
+      - [s. 24 Evidence by live link.](section/24.md)
+      - [s. 25 Evidence given in private.](section/25.md)
+      - [s. 26 Removal of wigs and gowns.](section/26.md)
+      - [s. 27 Video recorded evidence in chief.](section/27.md)
+      - [s. 28 Video recorded cross-examination or re-examination.](section/28.md)
+      - [s. 29 Examination of witness through intermediary.](section/29.md)
+      - [s. 30 Aids to communication.](section/30.md)
+    - Supplementary
+      - [s. 31 Status of evidence given under Chapter I.](section/31.md)
+      - [s. 32 Warning to jury.](section/32.md)
+      - [s. 33 Interpretation etc. of Chapter I.](section/33.md)
+  - Chapter 1A Use of live link for evidence of certain accused persons: service courts
+    - [s. 33A Live link directions](section/33A.md)
+    - [s. 33B Section 33A: meaning of “live link”](section/33B.md)
+    - [s. 33C Saving](section/33C.md)
+  - Chapter II Protection of witnesses from cross-examination by accused in person
+    - General prohibitions
+      - [s. 34 Complainants in proceedings for sexual offences.](section/34.md)
+      - [s. 35 Child complainants and other child witnesses.](section/35.md)
+    - Prohibition imposed by court
+      - [s. 36 Direction prohibiting accused from cross-examining particular witness.](section/36.md)
+      - [s. 37 Further provisions about directions under section 36.](section/37.md)
+    - Cross-examination on behalf of accused
+      - [s. 38 Defence representation for purposes of cross-examination.](section/38.md)
+      - [s. 39 Warning to jury.](section/39.md)
+      - [s. 40 Funding of defence representation.](section/40.md)
+  - Chapter III Protection of complainants in proceedings for sexual offences
+    - [s. 41 Restriction on evidence or questions about complainant’s sexual history.](section/41.md)
+    - [s. 42 Interpretation and application of section 41.](section/42.md)
+    - [s. 43 Procedure on applications under section 41.](section/43.md)
+  - Chapter IV Reporting restrictions
+    - Reports relating to persons under 18
+      - [s. 44 Restrictions on reporting alleged offences involving persons under 18.](section/44.md)
+      - [s. 45 Power to restrict reporting of criminal proceedings involving persons under 18.](section/45.md)
+      - [s. 45A Power to restrict reporting of criminal proceedings for lifetime of witnesses and victims under 18](section/45A.md)
+    - Reports relating to adult witnesses
+      - [s. 46 Power to restrict reports about certain adult witnesses in criminal proceedings.](section/46.md)
+    - Reports relating to directions under Chapter 1, 1A or 2
+      - [s. 47 Restrictions on reporting directions under Chapter 1, 1A or 2.](section/47.md)
+    - Other restrictions
+      - [s. 48 Amendments relating to other reporting restrictions.](section/48.md)
+    - Offences
+      - [s. 49 Offences under Chapter IV.](section/49.md)
+      - [s. 50 Defences.](section/50.md)
+      - [s. 51 Offences committed by bodies corporate or Scottish partnerships.](section/51.md)
+    - Supplementary
+      - [s. 52 Decisions as to public interest for purposes of Chapter IV.](section/52.md)
+  - Chapter V Competence of witnesses and capacity to be sworn
+    - Competence of witnesses
+      - [s. 53 Competence of witnesses to give evidence.](section/53.md)
+      - [s. 54 Determining competence of witnesses.](section/54.md)
+    - Giving of sworn or unsworn evidence
+      - [s. 55 Determining whether witness to be sworn.](section/55.md)
+      - [s. 56 Reception of unsworn evidence.](section/56.md)
+      - [s. 57 Penalty for giving false unsworn evidence.](section/57.md)
+  - Chapter VI Restrictions on use of evidence
+    - Additional restrictions
+      - [s. 58 Inferences from silence not permissible where no prior access to legal advice.](section/58.md)
+      - [s. 59 Restriction on use of answers etc. obtained under compulsion.](section/59.md)
+    - Removal of restriction
+      - [s. 60 Removal of restriction on use of evidence from computer records.](section/60.md)
+  - Chapter VII General
+    - [s. 61 Application of Part II to service courts.](section/61.md)
+    - [s. 62 Meaning of “sexual offence” and other references to offences.](section/62.md)
+    - [s. 63 General interpretation etc. of Part II.](section/63.md)
+- Part III Final provisions
+  - [s. 64 Regulations and orders.](section/64.md)
+  - [s. 65 General supplementary provisions.](section/65.md)
+  - [s. 66 Corresponding provisions for Northern Ireland.](section/66.md)
+  - [s. 67 Minor, consequential and pre-consolidation amendments, repeals and transitional provisions.](section/67.md)
+  - [s. 68 Short title, commencement and extent.](section/68.md)
+- SCHEDULE 1
+  - Part I Referral back to appropriate court
+    - Introductory
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Mode of referral back to court
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Bringing the offender before the court
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Detention and remand of arrested offender
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Power of court where it upholds panel’s decision
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Appeal
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Court not revoking referral order or orders
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Exception where court satisfied as to completion of contract
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Discharge of extension orders
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part II Further convictions during referral
+    - Extension of referral for further offences
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Extension where further offences committed pre-referral
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Extension where further offence committed after referral
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Provisions supplementary to paragraphs 11 and 12
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Further convictions which lead to revocation of referral
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Interpretation
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 1A Relevant offences for the purposes of section 17
+  - Murder and manslaughter
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Offences against the Person Act 1861 (c. 100)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Prevention of Crime Act 1953 (c. 14)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 9A](schedule/1A/paragraph/9A.md)
+  - Firearms Act 1968 (c. 27)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+    - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+    - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+    - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+    - [Sch. 1A para. 19](schedule/1A/paragraph/19.md)
+    - [Sch. 1A para. 20](schedule/1A/paragraph/20.md)
+    - [Sch. 1A para. 21](schedule/1A/paragraph/21.md)
+    - [Sch. 1A para. 22](schedule/1A/paragraph/22.md)
+    - [Sch. 1A para. 23](schedule/1A/paragraph/23.md)
+    - [Sch. 1A para. 24](schedule/1A/paragraph/24.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 1A para. 25](schedule/1A/paragraph/25.md)
+    - [Sch. 1A para. 26](schedule/1A/paragraph/26.md)
+    - [Sch. 1A para. 26A](schedule/1A/paragraph/26A.md)
+  - Violent Crime Reduction Act 2006 (c. 38)
+    - [Sch. 1A para. 27](schedule/1A/paragraph/27.md)
+    - [Sch. 1A para. 28](schedule/1A/paragraph/28.md)
+    - [Sch. 1A para. 29](schedule/1A/paragraph/29.md)
+  - Serious Crime Act 2015
+    - [Sch. 1A para. 29A](schedule/1A/paragraph/29A.md)
+  - General
+    - [Sch. 1A para. 30](schedule/1A/paragraph/30.md)
+    - [Sch. 1A para. 31](schedule/1A/paragraph/31.md)
+  - Interpretation
+    - [Sch. 1A para. 32](schedule/1A/paragraph/32.md)
+- SCHEDULE 2 Reporting restrictions: miscellaneous amendments
+  - Children and Young Persons Act 1933 (c.12)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Sexual Offences (Amendment) Act 1976 (c.82)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Sexual Offences (Northern Ireland) Order 1978 (N.I.15)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Sexual Offences (Amendment) Act 1992 (c.34)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Criminal Justice (Northern Ireland) Order 1994 (N.I.15)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 2A Restriction of reporting of criminal proceedings for lifetime of witnesses and victims under 18: providers of information society services
+  - Domestic service providers: extension of liability
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Exceptions for mere conduits
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Exception for caching
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Exception for hosting
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Interpretation
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+- SCHEDULE 3 Restriction on use of answers etc. obtained under compulsion
+  - Insurance Companies Act 1982 (c.50)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Companies Act 1985 (c.6)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Insolvency Act 1986 (c.45)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Company Directors Disqualification Act 1986 (c.46)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Building Societies Act 1986 (c.53)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Financial Services Act 1986 (c.60)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Companies (Northern Ireland) Order 1986 (N.I.6)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Banking Act 1987 (c.22)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Criminal Justice Act 1987 (c.38)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Companies Act 1989 (c.40)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Companies (Northern Ireland) Order 1989 (N.I.18)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Insolvency (Northern Ireland) Order 1989 (N.I.19)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Friendly Societies Act 1992 (c.40)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Criminal Law (Consolidation) (Scotland) Act 1995 (c.39)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Proceeds of Crime (Northern Ireland) Order 1996 (N.I.9)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Criminal Evidence Act 1898 (c.36)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Children and Young Persons Act 1933 (c.12)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Children and Young Persons Act 1963 (c.37)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Criminal Appeal Act 1968 (c.19)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Children and Young Persons Act 1969 (c.54)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Rehabilitation of Offenders Act 1974 (c.53)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Magistrates’ Courts Act 1980 (c.43)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Criminal Justice Act 1982 (c.48)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Mental Health Act 1983 (c.20)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Police and Criminal Evidence Act 1984 (c.33)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Criminal Justice Act 1988 (c.33)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Companies (Northern Ireland) Order 1989 (N.I.18)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Insolvency (Northern Ireland) Order 1989 (N.I.19)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Criminal Justice Act 1991 (c.53)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Crime and Disorder Act 1998 (c.37)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+- SCHEDULE 5
+  - Children and Young Persons Act 1969 (c.54)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Crime and Disorder Act 1998 (c.37)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Repeals
+- SCHEDULE 7 Transitional provisions and savings
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Referral orders under Part I
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Special measures under Chapter I of Part II
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Protection of witnesses from cross-examination by accused in person
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Protection of complainants in proceedings for sexual offences
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Reporting restrictions
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Competence of witnesses and capacity to be sworn
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Inferences from silence
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
