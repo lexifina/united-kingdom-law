@@ -1,0 +1,481 @@
+# Wildlife and Countryside Act 1981
+
+1981 c. 69. Enacted 1981-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 50 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
+
+Source: https://www.legislation.gov.uk/ukpga/1981/69/2026-10-26
+
+## Contents
+
+- Part I Wildlife
+  - Protection of birds and prevention of poaching
+    - [s. 1 Protection of wild birds, their nests and eggs.](section/1.md)
+    - [s. 2 Exceptions to s. 1.](section/2.md)
+    - [s. 3 Areas of special protection.](section/3.md)
+    - [s. 4 Exceptions to ss. 1 and 3.](section/4.md)
+    - [s. 5 Prohibition of certain methods of killing or taking wild birds.](section/5.md)
+    - [s. 6 Sale etc. of live or dead wild birds, eggs etc.](section/6.md)
+    - [s. 7 Registration etc. of certain captive birds.](section/7.md)
+    - [s. 8 Protection of captive birds.](section/8.md)
+  - Protection of other animals and prevention of poaching
+    - [s. 9 Protection of certain wild animals.](section/9.md)
+    - [s. 10 Exceptions to s. 9.](section/10.md)
+    - [s. 10A Protection of wild hares etc.](section/10A.md)
+    - [s. 10B Exceptions to s. 10A](section/10B.md)
+    - [s. 11 Prohibition of certain methods of killing or taking wild animals.](section/11.md)
+    - [s. 11A Snares: training, identification numbers, tags etc.](section/11A.md)
+    - [s. 11B Snares: duty to inspect etc.](section/11B.md)
+    - [s. 11C Snares: authorisation from landowners etc.](section/11C.md)
+    - [s. 11D Snares: presumption arising from identification number](section/11D.md)
+    - [s. 11E Snares: record keeping](section/11E.md)
+    - [s. 11F Snaring: review and report to the Scottish Parliament](section/11F.md)
+    - [s. 11G Prevention of poaching: wild hares, rabbits etc.](section/11G.md)
+    - [s. 11H Exceptions to s. 11G](section/11H.md)
+    - [s. 11I Sale, possession etc. of wild hares, rabbits etc. killed or taken unlawfully](section/11I.md)
+    - [s. 12YA Relaxation of restriction on night shooting of hares and rabbits](section/12YA.md)
+    - [s. 12 Protection of certain mammals.](section/12.md)
+  - Protection of plants
+    - [s. 13 Protection of wild plants.](section/13.md)
+  - Miscellaneous
+    - [s. 14 Introduction of new species etc.](section/14.md)
+    - [s. 14ZA Sale etc. of certain animals and plants included in Schedule 9](section/14ZA.md)
+    - [s. 14ZB Codes of practice in connection with species which are non-native or included in Schedule 9](section/14ZB.md)
+    - [s. 14ZC Prohibition on keeping etc. of invasive animals or plants](section/14ZC.md)
+    - [s. 14A Prohibition on sale etc. of invasive animals or plants](section/14A.md)
+    - [s. 14AA Contravention of Invasive Alien Species Regulation](section/14AA.md)
+    - [s. 14AB](section/14AB.md)
+    - [s. 14B Notification of presence of invasive animals or plants etc.](section/14B.md)
+    - [s. 14C Non-native species etc.: code of practice](section/14C.md)
+    - [s. 14D Power to make species control orders](section/14D.md)
+    - [s. 14E Emergency species control orders](section/14E.md)
+    - [s. 14F Content of species control orders](section/14F.md)
+    - [s. 14G Notice of species control orders](section/14G.md)
+    - [s. 14H Appeals in connection with species control orders](section/14H.md)
+    - [s. 14I Coming into effect of species control orders](section/14I.md)
+    - [s. 14J Review of species control orders](section/14J.md)
+    - [s. 14K Offences in relation to species control orders](section/14K.md)
+    - [s. 14L Enforcement of operations under species control orders](section/14L.md)
+    - [s. 14M Species control orders: powers of entry](section/14M.md)
+    - [s. 14N Species control orders: entry by warrant etc.](section/14N.md)
+    - [s. 14O Species control orders: powers of entry: supplemental](section/14O.md)
+    - [s. 14P Interpretation of sections 14 to 14O](section/14P.md)
+    - [s. 15 Endangered species (import and export).](section/15.md)
+    - [s. 15A Possession of pesticides](section/15A.md)
+  - Supplemental
+    - [s. 16 Power to grant licences.](section/16.md)
+    - [s. 16AA Licensing: land on which certain birds may be killed or taken](section/16AA.md)
+    - [s. 16AB Appeals relating to section 16AA licences](section/16AB.md)
+    - [s. 16AC Section 16AA Licence: code of practice](section/16AC.md)
+    - [s. 16AD Section 16AA Licence: delegation of power in relation to code of practice](section/16AD.md)
+    - [s. 16AE Report on operation and effect of section 16AA licences](section/16AE.md)
+    - [s. 16AF Report on operation and effect of section 16AA licences: delegation](section/16AF.md)
+    - [s. 16A Delegation of licence-granting power: Scotland](section/16A.md)
+    - [s. 17 False statements made for obtaining registration or licence etc.](section/17.md)
+    - [s. 18 Attempts to commit offences etc.](section/18.md)
+    - [s. 18A Wildlife inspectors](section/18A.md)
+    - [s. 18B Group 1 offences and licences: power to enter premises](section/18B.md)
+    - [s. 18C Group 1 offences and licences: examining specimens and taking samples](section/18C.md)
+    - [s. 18D Group 2 offences and licences etc.: power to enter premises](section/18D.md)
+    - [s. 18E Group 2 offences: examining specimens and taking samples](section/18E.md)
+    - [s. 18F Restrictions on taking of samples from live specimens](section/18F.md)
+    - [s. 19 Enforcement.](section/19.md)
+    - [s. 19XA Constables’ powers in connection with samples](section/19XA.md)
+    - [s. 19XB Offences in connection with enforcement powers](section/19XB.md)
+    - [s. 19ZA Enforcement: wildlife inspectors.](section/19ZA.md)
+    - [s. 19ZB Power to take samples.](section/19ZB.md)
+    - [s. 19ZC Wildlife inspectors: Scotland](section/19ZC.md)
+    - [s. 19ZD Power to take samples: Scotland](section/19ZD.md)
+    - [s. 19A Evidence in Scotland in certain proceedings.](section/19A.md)
+    - [s. 20 Proceedings for summary offences.](section/20.md)
+    - [s. 21 Penalties, forfeitures etc.](section/21.md)
+    - [s. 22 Power to vary Schedules.](section/22.md)
+    - [s. 23 Advisory bodies and their functions.](section/23.md)
+    - [s. 24 Functions of GB conservation bodies](section/24.md)
+    - [s. 25 Functions of local authorities.](section/25.md)
+    - [s. 26 Regulations, orders, notices etc.](section/26.md)
+    - [s. 26A Enforcement of wildlife legislation](section/26A.md)
+    - [s. 26B Annual report on wildlife crime](section/26B.md)
+    - [s. 27 Interpretation of Part I.](section/27.md)
+    - [s. 27ZA Application of Part 1 to England and Wales](section/27ZA.md)
+- Part II Nature Conservation, Countryside and National Parks
+  - Sites of special scientific interest and limestone pavements
+    - [s. 27A Construction of references to Nature Conservancy Council.](section/27A.md)
+    - [s. 27AA Application of sections 28 to 34 in Wales](section/27AA.md)
+    - [s. 28 Sites of special scientific interest.](section/28.md)
+    - [s. 28A Variation of notification under section 28.](section/28A.md)
+    - [s. 28B Notification of additional land.](section/28B.md)
+    - [s. 28C Enlargement of SSSI.](section/28C.md)
+    - [s. 28CA Guidance in relation to subtidal notifications of SSSIs](section/28CA.md)
+    - [s. 28CB Power to call in subtidal notifications](section/28CB.md)
+    - [s. 28D Denotification.](section/28D.md)
+    - [s. 28E Duties in relation to sites of special scientific interest.](section/28E.md)
+    - [s. 28F Appeals in connection with consents.](section/28F.md)
+    - [s. 28G Statutory undertakers, etc.: general duty.](section/28G.md)
+    - [s. 28H Statutory undertakers, etc.: duty in relation to carrying out operations.](section/28H.md)
+    - [s. 28I Statutory undertakers, etc.: duty in relation to authorising operations.](section/28I.md)
+    - [s. 28J Management schemes.](section/28J.md)
+    - [s. 28K Management notices.](section/28K.md)
+    - [s. 28L Appeals against management notices.](section/28L.md)
+    - [s. 28M Payments.](section/28M.md)
+    - [s. 28N Compulsory purchase.](section/28N.md)
+    - [s. 28P Offences.](section/28P.md)
+    - [s. 28Q Change of owner or occupier.](section/28Q.md)
+    - [s. 28R Byelaws.](section/28R.md)
+    - [s. 28S Notices and signs relating to SSSIs](section/28S.md)
+    - [s. 29 Special protection for certain areas of special scientific interest.](section/29.md)
+    - [s. 30 Compensation where order is made under s. 29.](section/30.md)
+    - [s. 31 Restoration following offence under section 28P.](section/31.md)
+    - [s. 32 Duties of agriculture Ministers with respect to areas of special scientific interest.](section/32.md)
+    - [s. 33 Ministerial guidance as respects areas of special scientific interest.](section/33.md)
+    - [s. 34 Limestone pavement orders.](section/34.md)
+  - Nature reserves, ... and Ramsar sites
+    - [s. 34A Meaning of “appropriate conservation body”](section/34A.md)
+    - [s. 35 National nature reserves.](section/35.md)
+    - [s. 35A Power to call in subtidal declarations](section/35A.md)
+    - [s. 36 Marine nature reserves.](section/36.md)
+    - [s. 37 Byelaws for protection of marine nature reserves.](section/37.md)
+    - [s. 37A Ramsar sites.](section/37A.md)
+    - [s. 38 ................................](section/38.md)
+  - Countryside
+    - [s. 39 Management agreements with owners and occupiers of land.](section/39.md)
+    - [s. 40 Experimental schemes.](section/40.md)
+    - [s. 41 Duties of agriculture Ministers with respect to the countryside.](section/41.md)
+  - National Parks
+    - [s. 41A Application of sections 42 to 45 in Wales](section/41A.md)
+    - [s. 42 Notification of agricultural operations on moor and heath in National Parks.](section/42.md)
+    - [s. 43 Maps of National Parks showing certain areas of moor or heath.](section/43.md)
+    - [s. 44 Grants and loans for purposes of National Parks.](section/44.md)
+    - [s. 45 Power to vary order designating National Park.](section/45.md)
+    - [s. 46 ................................](section/46.md)
+  - Miscellaneous and supplemental
+    - [s. 47 Grants to the Countryside Council for Wales](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 Extension of power to appoint wardens.](section/49.md)
+    - [s. 50 Payments under certain agreements offered by authorities.](section/50.md)
+    - [s. 51 Powers of entry.](section/51.md)
+    - [s. 51A Summary prosecutions](section/51A.md)
+    - [s. 52 Interpretation of Part II.](section/52.md)
+- Part III Public Rights of Way
+  - Ascertainment of public rights of way
+    - [s. 53 Duty to keep definitive map and statement under continuous review.](section/53.md)
+    - [s. 53A Power to include modifications in other orders.](section/53A.md)
+    - [s. 53B Register of applications under section 53.](section/53B.md)
+    - [s. 54 Duty to reclassify roads used as public paths.](section/54.md)
+    - [s. 54A BOATs not to be added to definitive maps.](section/54A.md)
+    - [s. 55 No further surveys or reviews under the 1949 Act.](section/55.md)
+    - [s. 56 Effect of definitive map and statement.](section/56.md)
+    - [s. 57 Supplementary provisions as to definitive maps and statements.](section/57.md)
+    - [s. 57A Consolidation of definitive maps and statements.](section/57A.md)
+    - [s. 58 Application of ss. 53 to 57 to inner London.](section/58.md)
+  - Miscellaneous and supplemental
+    - [s. 59 Prohibition on keeping bulls on land crossed by public rights of way.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Ploughing of public rights of way.](section/61.md)
+    - [s. 62 Appointment of wardens for public rights of way.](section/62.md)
+    - [s. 63 Orders creating, extinguishing or diverting footpaths and bridleways.](section/63.md)
+    - [s. 64 Publication of dedication of footpaths and bridleways.](section/64.md)
+    - [s. 65 Signposting of byways open to all traffic.](section/65.md)
+    - [s. 66 Interpretation of Part III.](section/66.md)
+- Part IV Miscellaneous and General
+  - [s. 66A Application of Part 1 to Crown](section/66A.md)
+  - [s. 66B Application of Part 1 to Crown: Scotland](section/66B.md)
+  - [s. 67 Application of Parts 2 and 3 to Crown land](section/67.md)
+  - [s. 68 Application to the Isles of Scilly.](section/68.md)
+  - [s. 69 Offences by bodies corporate etc.](section/69.md)
+  - [s. 69A Offences by Scottish partnerships etc.](section/69A.md)
+  - [s. 70 Financial provisions.](section/70.md)
+  - [s. 70A Service of notices.](section/70A.md)
+  - [s. 70B Effect of failure to serve certain notices](section/70B.md)
+  - [s. 71 General interpretation.](section/71.md)
+  - [s. 72 Minor amendments.](section/72.md)
+  - [s. 73 Repeals and savings.](section/73.md)
+  - [s. 74 Short title commencement and extent.](section/74.md)
+- SCHEDULE ZA1 Birds which re-use their nests
+- SCHEDULE A1 Protected nests and nest sites: birds
+- SCHEDULE 1 Birds which are Protected by Special Penalties
+  - Part I At All Times
+  - Part II During the Close Season
+- SCHEDULE 1A Birds which are Protected from Harassment
+- SCHEDULE 2 Birds which may be Killed or Taken
+  - Part I Outside the Close Season
+  - Part IA Exception: birds included in Part I which may not be killed or taken on Sundays or Christmas Day
+  - Part 1B Birds included in Part 1 which may only be killed or taken on land with section 16AA licence
+  - Part II By Authorised Persons at all Times
+- SCHEDULE 3 Birds which may be Sold
+  - Part I Alive at all Times if Ringed and Bred in Captivity
+  - Part IA Alive if taken in captivity or by certain persons outside close season or during first 28 days of close season
+  - Part II Dead at all Times
+  - Part IIA Dead if killed outside close season by certain persons
+  - Part III Dead from 1st September to 28th February
+- SCHEDULE 4 Birds Which Must Be Registered and Ringed if Kept in Captivity
+- SCHEDULE 5 Animals which are Protected
+- SCHEDULE 5A Animals which are Protected under Section 10A in their Close Season
+- SCHEDULE 6 Animals which may not be Killed or Taken by Certain Methods
+- SCHEDULE6ZA Animals which may not be killed or taken by trapping or snaring
+- SCHEDULE 6A Animals not to be Poached
+- SCHEDULE 7 Amendment of Acts In Relation To Night Shooting of Hares and Rabbits
+  - The Ground Game Act 1880
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Agriculture (Scotland) Act 1948
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Dogs (Protection of Livestock) Act 1953
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Deer Act 1963
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Conservation of Seals Act 1970
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - The Badgers Act 1973
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Plants which are Protected
+- SCHEDULE 9A Species control agreements and orders (England and Wales)
+  - PART 1 Overview and interpretation
+    - Overview
+      - [Sch. 9A para. 1](schedule/9A/paragraph/1.md)
+    - Definitions relating to species
+      - [Sch. 9A para. 2](schedule/9A/paragraph/2.md)
+    - Environmental authorities
+      - [Sch. 9A para. 3](schedule/9A/paragraph/3.md)
+    - Owners and dwellings
+      - [Sch. 9A para. 4](schedule/9A/paragraph/4.md)
+    - Operations
+      - [Sch. 9A para. 5](schedule/9A/paragraph/5.md)
+  - PART 2 Species control agreements
+    - Making of species control agreements
+      - [Sch. 9A para. 6](schedule/9A/paragraph/6.md)
+    - Content of species control agreements
+      - [Sch. 9A para. 7](schedule/9A/paragraph/7.md)
+    - Notice of compliance
+      - [Sch. 9A para. 8](schedule/9A/paragraph/8.md)
+    - Liability
+      - [Sch. 9A para. 9](schedule/9A/paragraph/9.md)
+  - PART 3 Species control orders
+    - When a species control order may be made
+      - [Sch. 9A para. 10](schedule/9A/paragraph/10.md)
+    - What an order must do
+      - [Sch. 9A para. 11](schedule/9A/paragraph/11.md)
+      - [Sch. 9A para. 12](schedule/9A/paragraph/12.md)
+    - What an order may do
+      - [Sch. 9A para. 13](schedule/9A/paragraph/13.md)
+    - Notice
+      - [Sch. 9A para. 14](schedule/9A/paragraph/14.md)
+    - Revocation
+      - [Sch. 9A para. 15](schedule/9A/paragraph/15.md)
+    - Appeals
+      - [Sch. 9A para. 16](schedule/9A/paragraph/16.md)
+    - Notice of compliance
+      - [Sch. 9A para. 17](schedule/9A/paragraph/17.md)
+    - Enforcement
+      - [Sch. 9A para. 18](schedule/9A/paragraph/18.md)
+    - Offences
+      - [Sch. 9A para. 19](schedule/9A/paragraph/19.md)
+    - Liability
+      - [Sch. 9A para. 20](schedule/9A/paragraph/20.md)
+  - PART 4 Powers of entry
+    - Powers of entry
+      - [Sch. 9A para. 21](schedule/9A/paragraph/21.md)
+    - Authorisation by justice of the peace
+      - [Sch. 9A para. 22](schedule/9A/paragraph/22.md)
+    - Authorisation by environmental authority
+      - [Sch. 9A para. 23](schedule/9A/paragraph/23.md)
+    - Exercise of right of entry
+      - [Sch. 9A para. 24](schedule/9A/paragraph/24.md)
+  - PART 5 Supplementary
+    - Compensation
+      - [Sch. 9A para. 25](schedule/9A/paragraph/25.md)
+    - Codes of practice
+      - [Sch. 9A para. 26](schedule/9A/paragraph/26.md)
+      - [Sch. 9A para. 27](schedule/9A/paragraph/27.md)
+      - [Sch. 9A para. 28](schedule/9A/paragraph/28.md)
+- SCHEDULE9B Invasive alien species: defences and licences
+  - Part 1 Interpretation
+    - [Sch. 9B para. 1 Interpretation](schedule/9B/paragraph/1.md)
+  - Part 2 Defences
+    - [Sch. 9B para. 2 Companion animals](schedule/9B/paragraph/2.md)
+    - [Sch. 9B para. 3 Commercial stocks](schedule/9B/paragraph/3.md)
+    - [Sch. 9B para. 4 Non-commercial owners: receipt of commercial stocks](schedule/9B/paragraph/4.md)
+  - Part 3 Licences
+    - [Sch. 9B para. 5 Restrictions](schedule/9B/paragraph/5.md)
+    - [Sch. 9B para. 6 Research etc.](schedule/9B/paragraph/6.md)
+    - [Sch. 9B para. 7 Keeping animals until the end of their natural lives](schedule/9B/paragraph/7.md)
+    - [Sch. 9B para. 8 Eradication measures](schedule/9B/paragraph/8.md)
+    - [Sch. 9B para. 9 Management measures](schedule/9B/paragraph/9.md)
+- SCHEDULE 10 Amendment of the Endangered Species (Import and Export) Act 1976
+  - Part I The Amendments
+    - Licences
+      - [Sch. 10 Pt. I heading licences para. 1](schedule/10/part/I/crossheading/licences/paragraph/1.md)
+    - Expenses of returning animals and plants to the wild
+      - [Sch. 10 Pt. I heading expenses-of-returning-animals-and-plants-to-the-wild para. 2](schedule/10/part/I/crossheading/expenses-of-returning-animals-and-plants-to-the-wild/paragraph/2.md)
+    - Powers of entry
+      - [Sch. 10 Pt. I heading powers-of-entry para. 3](schedule/10/part/I/crossheading/powers-of-entry/paragraph/3.md)
+    - Power to modify Schedules
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Sale of certain animals or plants or their derivatives
+      - [Sch. 10 Pt. I heading sale-of-certain-animals-or-plants-or-their-derivatives para. 5](schedule/10/part/I/crossheading/sale-of-certain-animals-or-plants-or-their-derivatives/paragraph/5.md)
+  - Part II Schedule inserted as Schedule 4
+    - SCHEDULE 4 Animals the Sale etc. of Which is Restricted
+    - MAMMALS
+      - [Sch. 10 Pt. II Ch. MAMMALS para. 1](schedule/10/part/II/chapter/MAMMALS/paragraph/1.md)
+      - Marsupials
+      - Primates
+      - Edentates
+      - Pangolins
+      - Rabbits and hares
+      - Rodents
+      - Cetaceans
+      - Carnivores
+      - Seals
+      - Elephants
+      - Sea-cows
+      - Odd-toed ungulates
+      - Even-toed ungulates
+    - BIRDS
+      - [Sch. 10 Pt. II Ch. BIRDS para. 2](schedule/10/part/II/chapter/BIRDS/paragraph/2.md)
+      - Rheas
+      - Tinamous
+      - Penguins
+      - Grebes
+      - Albatrosses
+      - Pelican-like birds
+      - Storks
+      - Waterfowl
+      - Diurnal Birds of Prey
+      - Gamebirds
+      - Cranes and rails
+      - Waders and Gulls
+      - Pigeons and doves
+      - Parrots
+      - Hummingbirds
+      - Trogons
+      - Owls
+      - Hornbills
+      - Woodpeckers
+      - Songbirds
+    - REPTILES
+      - [Sch. 10 Pt. 3 Ch.  para. 3](schedule/10/part/3/chapter/x/paragraph/3.md)
+      - Crocodilians
+      - Iguanas
+      - Lizards
+      - Snakes
+      - Tuatara
+      - Chelonians
+    - AMPHIBIANS
+    - FISH
+      - [Sch. 10 Pt. 5 Ch.  para. 5](schedule/10/part/5/chapter/x/paragraph/5.md)
+    - MOLLUSCS
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Part III
+    - Schedule inserted as Schedule 5
+  - SCHEDULE 5
+    - Plants the sale etc. of which is restricted
+- SCHEDULE 10A Delegation of Appellate Functions
+  - Interpretation
+    - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+  - Appointments
+    - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+  - Powers of appointed person
+    - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+  - Holding of local inquiries and other hearings by appointed persons
+    - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+  - Revocation of appointments and making of new appointments
+    - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+  - Certain acts and omissions of appointed persons to be treated as those of the Secretary of State
+    - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+- SCHEDULE 11 Procedure in Connection with Certain Orders under Part II
+  - Coming into operation
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Publicity for orders
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Unopposed orders
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Opposed orders
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Restriction on power to amend orders or confirm them with modifications
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Notice of final decision on orders
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Proceedings for questioning validity of orders
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Interpretation
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+- SCHEDULE 12 Procedure in Connection With Orders Under Section 36
+  - Consultation
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Publicity for draft orders
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Unopposed orders
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Opposed orders
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Restriction on power to make orders with modifications
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Local inquiries
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Notice of making of orders
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Proceedings for questioning validity of orders
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Supplemental
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13
+- SCHEDULE 14 Applications for Certain Orders Under Part III
+  - Form of applications
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Notice of applications
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Determination by authority
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Appeal against a decision not to make an order
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Interpretation
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+- SCHEDULE 15 Procedure in Connection with Certain Orders Under Part III
+  - Consultation
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Coming into operation
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Publicity for orders
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Representations or objections made with respect to abandoned surveys or reviews
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Severance of orders
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Unopposed orders
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Opposed orders
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Restriction on power to confirm orders with modifications
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Local inquiries
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Appointment of inspectors etc.
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Hearings and local inquiries
+    - [Sch. 15 para. 10A](schedule/15/paragraph/10A.md)
+  - Notice of final decisions on orders
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Proceedings for questioning validity of orders
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Supplemental
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- SCHEDULE 16 Orders Creating, Extinguishing or Diverting Footpaths or Bridleways
+  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - The Highways Act 1980
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Supplemental
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+- SCHEDULE 17 Enactments repealed
+  - Part I Enactments repealed one month after the passing of this Act
+  - Part II Enactments repealed on a day to be appointed
