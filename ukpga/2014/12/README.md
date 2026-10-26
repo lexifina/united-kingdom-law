@@ -2,16 +2,39 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-06-29
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
+
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
 
 ## Contents
 
+- Part A1 Respect orders
+  - Respect orders
+    - [s. A1 Power to make respect orders](section/A1.md)
+    - [s. B1 Section A1: meaning of “relevant authority”](section/B1.md)
+  - Contents of respect orders
+    - [s. C1 Power to exclude person from home in cases of violence or risk of harm](section/C1.md)
+    - [s. D1 Requirements included in respect orders](section/D1.md)
+  - Procedure
+    - [s. E1 Applications without notice](section/E1.md)
+    - [s. F1 Interim respect orders](section/F1.md)
+    - [s. G1 Variation and discharge of respect orders](section/G1.md)
+  - Breaches of respect orders
+    - [s. H1 Duty to give warning for breach of activity requirement](section/H1.md)
+    - [s. I1 Offence of breach of respect order](section/I1.md)
+  - Supplementary
+    - [s. J1 Requirement to carry out risk assessment](section/J1.md)
+    - [s. K1 Requirements to give notice of applications](section/K1.md)
+    - [s. L1 Special measures for witnesses](section/L1.md)
+    - [s. M1 Guidance](section/M1.md)
+    - [s. N1 Interpretation etc](section/N1.md)
 - PART 1 Injunctions
   - Injunctions
-    - [s. 1 Power to grant injunctions](section/1.md)
-    - [s. 2 Meaning of “anti-social behaviour”](section/2.md)
+    - [s. 1 Power to grant youth injunctions](section/1.md)
+    - [s. 1A Power to grant housing injunctions](section/1A.md)
+    - [s. 2 Meaning of “housing-related anti-social conduct”](section/2.md)
   - Contents of injunctions
     - [s. 3 Requirements included in injunctions](section/3.md)
     - [s. 4 Power of arrest](section/4.md)
@@ -30,6 +53,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-06-29
   - Exclusion from home
     - [s. 13 Power to exclude person from home in cases of violence or risk of harm](section/13.md)
   - Supplemental
+    - [s. 13A Requirement to carry out risk assessment](section/13A.md)
     - [s. 14 Requirements to consult etc](section/14.md)
     - [s. 15 Appeals against decisions of youth courts](section/15.md)
     - [s. 16 Special measures for witnesses](section/16.md)
@@ -282,7 +306,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-06-29
     - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
   - Requirements imposed on remand on bail
     - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
-- SCHEDULE 2 Breach of injunctions: powers of court in respect of under-18s
+- SCHEDULE 2 Breach of youth injunctions: powers of court in respect of under-18s
   - PART 1 Introductory
     - Power to make supervision order or detention order
       - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
