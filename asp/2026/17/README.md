@@ -1,0 +1,157 @@
+# Crofting and Scottish Land Court Act 2026
+
+asp/2026/17. Enacted 2026-05-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2026/17/2026-10-26
+
+## Contents
+
+- Part 1 Crofting reform
+  - Chapter 1 Crofts and crofters
+    - Duties
+      - [s. 1 General functions of the Commission](section/1.md)
+      - [s. 2 Enabling environmental uses of crofts](section/2.md)
+      - [s. 3 Removal of timescales for deciding applications](section/3.md)
+      - [s. 4 Reporting on breaches of duties](section/4.md)
+      - [s. 5 Enforcement of duties](section/5.md)
+      - [s. 6 Enforcement action against subtenants and tenants of short leases](section/6.md)
+      - [s. 7 Power to decline to act until information provided](section/7.md)
+      - [s. 8 Monetary penalties for non-compliance with crofting duties](section/8.md)
+      - [s. 9 Statutory conditions: entitlement to fixed equipment](section/9.md)
+    - Assignations
+      - [s. 10 Assignations to family members](section/10.md)
+    - Owner-occupier crofters
+      - [s. 11 New crofts: power to determine applicant will become the owner-occupier crofter](section/11.md)
+      - [s. 12 Meaning of “owner-occupier crofter” etc.](section/12.md)
+      - [s. 13 Power to make provision about the sale of owner-occupied crofts](section/13.md)
+    - Restriction on assignation and acquisition following Commission let
+      - [s. 14 Ten-year restriction on assignation and acquisition following Commission let](section/14.md)
+      - [s. 15 Authorisation by Land Court of acquisition of croft land: breach of duty](section/15.md)
+    - Requirement for proposed crofter to be aware of duties
+      - [s. 16 Requirement for proposed crofter to be aware of duties](section/16.md)
+    - Absences from crofts
+      - [s. 17 Guidance relating to absences from crofts](section/17.md)
+    - Decrofting
+      - [s. 18 Decrofting direction: rationalisation of routes and requirements](section/18.md)
+      - [s. 19 Commission decision-making on decrofting applications](section/19.md)
+    - Boundaries: adjustment and remapping
+      - [s. 20 Commission’s power to adjust boundaries](section/20.md)
+    - Common grazings
+      - [s. 21 Common grazings: acquisition of shares with croft](section/21.md)
+      - [s. 22 Common grazings: unattached shares etc.](section/22.md)
+      - [s. 23 Grazings committees meetings](section/23.md)
+      - [s. 24 Appointment, etc., of grazings committee or grazings constable: appeal to Land Court](section/24.md)
+      - [s. 25 Use of common grazings for forestry or environmental purposes](section/25.md)
+      - [s. 26 Consultation on common grazings](section/26.md)
+    - Meaning of crofting community, parish and township
+      - [s. 27 Meaning of “crofting community”, “parish” and “township”](section/27.md)
+    - Crofts not to be private residential tenancies
+      - [s. 28 Tenancies which cannot be private residential tenancies](section/28.md)
+    - Commission’s directions etc.
+      - [s. 29 Power of Commission to correct inaccuracies in directions etc.](section/29.md)
+  - Chapter 2 Registration
+    - Register of Crofts
+      - [s. 30 Requirement to give Commission notice of change of ownership](section/30.md)
+      - [s. 31 Changes to the content required in the Register of Crofts](section/31.md)
+    - Registration in the Crofting Register
+      - [s. 32 First registration of crofts purchased by tenant crofter](section/32.md)
+      - [s. 33 Payment of fees for applications for registration](section/33.md)
+      - [s. 34 Requirement for certain applications for first registration to be copied to landlord](section/34.md)
+      - [s. 35 Notification of first registration](section/35.md)
+      - [s. 36 Rectification of the Crofting Register](section/36.md)
+      - [s. 37 Form of applications for registration](section/37.md)
+    - Requirement for croft to be registered
+      - [s. 38 Enlargement of croft](section/38.md)
+      - [s. 39 Exchange of croft or parts of crofts](section/39.md)
+      - [s. 40 Assignation of croft](section/40.md)
+      - [s. 41 Division of crofts and owner-occupied crofts](section/41.md)
+      - [s. 42 Resumption of croft or part of croft by landlord](section/42.md)
+      - [s. 43 Reversion of resumed land](section/43.md)
+      - [s. 44 Decrofting in case of resumption or vacancy of croft](section/44.md)
+      - [s. 45 Provisions as to right to sublet](section/45.md)
+      - [s. 46 Letting of owner-occupied crofts](section/46.md)
+      - [s. 47 Requirement for croft to be registered (miscellaneous provisions)](section/47.md)
+  - Chapter 3 Miscellaneous
+    - Service of notices and public notification
+      - [s. 48 Service of notices](section/48.md)
+      - [s. 49 Public notification](section/49.md)
+      - [s. 50 Crofting census notices](section/50.md)
+    - The Crofting Commission
+      - [s. 51 Appointment of Chair](section/51.md)
+      - [s. 52 Appointed members: special considerations](section/52.md)
+      - [s. 53 Chairing of Commission meetings and committees](section/53.md)
+    - Review of crofting legislation
+      - [s. 54 Review of crofting legislation](section/54.md)
+    - Interpretation of Part 1
+      - [s. 55 Interpretation of Part 1](section/55.md)
+- Part 2 Merger of the Scottish Land Court and the Lands Tribunal for Scotland
+  - The Scottish Land Court
+    - [s. 56 The Scottish Land Court](section/56.md)
+  - Merger of the Scottish Land Court and the Lands Tribunal for Scotland
+    - [s. 57 Merger of the Scottish Land Court and the Lands Tribunal for Scotland](section/57.md)
+    - [s. 58 Savings etc.](section/58.md)
+    - [s. 59 Power to make further provision in connection with the merger etc.](section/59.md)
+    - [s. 60 Transitory provision: eligibility of suitable members of Lands Tribunal for Scotland to sit in Upper Tribunal](section/60.md)
+    - [s. 61 Giving or updating guidance on access rights](section/61.md)
+    - [s. 62 Reviews of the operation and jurisdiction of the Court](section/62.md)
+- Part 3 General
+  - [s. 63 Minor and consequential provision](section/63.md)
+  - [s. 64 Regulations](section/64.md)
+  - [s. 65 Ancillary provision](section/65.md)
+  - [s. 66 Commencement](section/66.md)
+  - [s. 67 Short title](section/67.md)
+- Schedule 1 The Scottish Land Court
+  - Part 1 Administration and organisation
+    - [Sch. 1 para. 1 Incorporation](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Appointment of members and Chair of the Court](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Designation and functions of Deputy Chair](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Principal clerk](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Remuneration](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Remuneration](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Remuneration](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Remuneration](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Quorum and delegation](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Quorum and delegation](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Quorum and delegation](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Quorum and delegation](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Eligibility to act as members of the Upper Tribunal for Scotland](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Fitness for office and removal of members of the Court](schedule/1/paragraph/14.md)
+  - Part 2 Jurisdiction of the Court
+    - [Sch. 1 para. 15 General](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Access rights](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Agriculture and agricultural holdings](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Arbitration and compensation](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Arbitration and compensation](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Arbitration and compensation](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 Community rights to buy: appeals](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22 Community rights to buy: appeals](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Crofting and crofting community right to buy](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 March Dykes, runrig and commonties](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25 Small landholdings](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26 Succession to certain leases](schedule/1/paragraph/26.md)
+  - Part 3 Rules, procedure, expenses and powers
+    - [Sch. 1 para. 27 Rules of court](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28 Procedure](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29 Procedure](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30 Powers](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31 Finality of decisions and special cases](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32 Expenses](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33 Enforcement](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34 Accounts](schedule/1/paragraph/34.md)
+  - Part 4 Interpretation
+    - [Sch. 1 para. 35 Interpretation](schedule/1/paragraph/35.md)
+- Schedule 2 Minor and consequential amendments
+  - Part 1 Crofting reform
+    - [Sch. 2 para. 1 Crofters (Scotland) Act 1993](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Crofting Reform (Scotland) Act 2010](schedule/2/paragraph/2.md)
+  - Part 2 Scottish Land Court
+    - [Sch. 2 para. 3 Lands Tribunal Act 1949](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Succession (Scotland) Act 1964](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Scottish Land Court Act 1993](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Land Reform (Scotland) Act 2003](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Judiciary and Courts (Scotland) Act 2008](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Scottish Civil Justice Council and Criminal Legal Assistance Act 2013](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Tribunals (Scotland) Act 2014](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Land Reform (Scotland) Act 2016](schedule/2/paragraph/10.md)
