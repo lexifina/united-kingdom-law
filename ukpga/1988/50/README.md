@@ -1,0 +1,813 @@
+# Housing Act 1988
+
+1988 c. 50. Enacted 1988-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
+
+Source: https://www.legislation.gov.uk/ukpga/1988/50/2026-10-26
+
+## Contents
+
+- Part I Rented Accommodation
+  - Chapter I Assured Tenancies
+    - Meaning of assured tenancy etc.
+      - [s. 1 Assured tenancies.](section/1.md)
+      - [s. 1A Application of Chapters 1, 2 and 3 of this Part to dwelling in Wales](section/1A.md)
+      - [s. 2 Letting of a dwelling-house together with other land.](section/2.md)
+      - [s. 3 Tenant sharing accommodation with persons other than landlord.](section/3.md)
+      - [s. 4 Certain sublettings not to exclude any part of sub-lessor’s premises from assured tenancy.](section/4.md)
+      - [s. 4A Assured tenancies to be periodic with rent period not exceeding a month](section/4A.md)
+      - [s. 4B Assured tenancy: prohibition of rent in advance (except initial rent)](section/4B.md)
+    - Security of tenure
+      - [s. 5 Security of tenure.](section/5.md)
+      - [s. 6](section/6.md)
+      - [s. 6A](section/6A.md)
+      - [s. 7 Orders for possession.](section/7.md)
+      - [s. 8 Notice of proceedings for possession.](section/8.md)
+      - [s. 8ZA Disapplication of conditions where notice dispensed with](section/8ZA.md)
+      - [s. 8A Additional notice requirements: ground of domestic violence.](section/8A.md)
+      - [s. 9 Extended discretion of court in possession claims.](section/9.md)
+      - [s. 9A Proceedings for possession on non-absolute grounds: anti-social behaviour](section/9A.md)
+      - [s. 10 Special provisions applicable to shared accommodation.](section/10.md)
+      - [s. 10A Power to order transfer of tenancy in certain cases](section/10A.md)
+      - [s. 11 Payment of removal expenses by social landlords in certain cases.](section/11.md)
+      - [s. 11A Possession on ground 6B: compensation of tenant](section/11A.md)
+      - [s. 12 Compensation for misrepresentation or concealment.](section/12.md)
+    - Rent and other terms
+      - [s. 13 Increases of rent under assured tenancies other than relevant low-cost tenancies.](section/13.md)
+      - [s. 13A Increases of rent under relevant low-cost tenancies](section/13A.md)
+      - [s. 13B Challenge to validity of notice to increase rent](section/13B.md)
+      - [s. 14 Determination of open-market rent by tribunal.](section/14.md)
+      - [s. 14ZA Effect of determination: rent payable](section/14ZA.md)
+      - [s. 14ZB Effect of determination: proposed new rent](section/14ZB.md)
+      - [s. 14ZC Repayment of rent paid for days after end of tenancy](section/14ZC.md)
+      - [s. 14A](section/14A.md)
+      - [s. 14B](section/14B.md)
+      - [s. 15 Limited prohibition on assignment etc. without consent.](section/15.md)
+      - [s. 15A Loss of assured tenancy status](section/15A.md)
+      - [s. 16 Access for repairs.](section/16.md)
+      - [s. 16A Requesting consent to keep a pet](section/16A.md)
+      - [s. 16B Requests for consent to keep a pet: further provision](section/16B.md)
+    - Duties of landlords and persons acting on their behalf
+      - [s. 16D Duty of landlord and contractor to give statement of terms etc](section/16D.md)
+      - [s. 16E Other duties](section/16E.md)
+      - [s. 16F Exceptions from letting and marketing prohibitions](section/16F.md)
+      - [s. 16G Interpretation of terms related to marketing in section 16E](section/16G.md)
+      - [s. 16H Landlords acting through others](section/16H.md)
+    - Landlords etc: financial penalties and offences
+      - [s. 16I Financial penalties](section/16I.md)
+      - [s. 16J Offences](section/16J.md)
+      - [s. 16K Financial penalties as an alternative to prosecution under section 16J](section/16K.md)
+      - [s. 16L Financial penalties: supplementary and interpretation](section/16L.md)
+    - Duties of landlords etc, penalties and offences: interpretation
+      - [s. 16M Duties of landlords etc, penalties and offences: interpretation](section/16M.md)
+    - Guarantors
+      - [s. 16N Guarantor not liable for rent payable after tenant’s death](section/16N.md)
+      - [s. 16P Section 16N: application and interpretation](section/16P.md)
+    - Miscellaneous
+      - [s. 17 Succession to assured tenancy.](section/17.md)
+      - [s. 18 Provisions as to reversions on assured tenancies.](section/18.md)
+      - [s. 19 Restriction on levy of distress for rent.](section/19.md)
+      - [s. 19A](section/19A.md)
+      - [s. 20](section/20.md)
+      - [s. 20A](section/20A.md)
+      - [s. 20B](section/20B.md)
+      - [s. 20C](section/20C.md)
+      - [s. 20D](section/20D.md)
+      - [s. 21](section/21.md)
+      - [s. 21A](section/21A.md)
+      - [s. 21B](section/21B.md)
+      - [s. 21C](section/21C.md)
+      - [s. 22](section/22.md)
+      - [s. 23](section/23.md)
+  - Chapter III Assured Agricultural Occupancies
+    - [s. 24 Assured agricultural occupancies.](section/24.md)
+    - [s. 24A Opting out](section/24A.md)
+    - [s. 25 Security of tenure.](section/25.md)
+    - [s. 26 Rehousing of agricultural workers etc.](section/26.md)
+  - Chapter IV Protection from Eviction
+    - [s. 27 Damages for unlawful eviction.](section/27.md)
+    - [s. 28 The measure of damages.](section/28.md)
+    - [s. 29 Offences of harassment.](section/29.md)
+    - [s. 30 Variation of scope of 1977 ss. 3 and 4.](section/30.md)
+    - [s. 31 Excluded tenancies and licences.](section/31.md)
+    - [s. 32 Notice to quit etc.](section/32.md)
+    - [s. 33 Interpretation of Chapter IV and the 1977 Act.](section/33.md)
+  - Chapter V Phasing out of Rent Acts and other Transitional Provisions
+    - [s. 34 New protected tenancies and agricultural occupancies restricted to special cases.](section/34.md)
+    - [s. 35 Removal of special regimes for tenancies of housing associations etc.](section/35.md)
+    - [s. 36 New restricted contracts limited to transitional cases.](section/36.md)
+    - [s. 37 No further assured tenancies under Housing Act 1980.](section/37.md)
+    - [s. 38 Transfer of existing tenancies from public to private sector.](section/38.md)
+    - [s. 39 Statutory tenants: succession.](section/39.md)
+  - Chapter VI General Provisions
+    - [s. 40 Jurisdiction of county courts.](section/40.md)
+    - [s. 41 Rent assessment committees: procedure and information powers.](section/41.md)
+    - [s. 41A Amounts attributable to services.](section/41A.md)
+    - [s. 41B Provision of information as to exemption from council tax](section/41B.md)
+    - [s. 42 Information as to determinations of rents in Wales.](section/42.md)
+    - [s. 42A Information as to determination of rents in England](section/42A.md)
+    - [s. 43 Powers of local authorities for purposes of giving information.](section/43.md)
+    - [s. 44 Application to Crown Property.](section/44.md)
+    - [s. 45 Interpretation of Part I.](section/45.md)
+- Part II Housing Associations
+  - Housing for Wales
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+  - Registration and issue of guidance
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+  - Grants...
+    - [s. 50 Housing association grants.](section/50.md)
+    - [s. 51 Revenue deficit grants.](section/51.md)
+    - [s. 52 Recovery etc. of grants.](section/52.md)
+    - [s. 53 Determinations under Part II.](section/53.md)
+  - Grants: functions of Secretary of State
+    - [s. 54 Tax relief grants.](section/54.md)
+    - [s. 55 Surplus rental income.](section/55.md)
+  - Miscellaneous and supplemental
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 Delegation of certain functions.](section/57.md)
+    - [s. 58 Application of Housing Acts to certain transactions.](section/58.md)
+    - [s. 59 Interpretation of Part II and amendments of Housing Associations Act 1985.](section/59.md)
+- Part III Housing Action Trust Areas
+  - Areas and trusts
+    - [s. 60 Housing action trust areas.](section/60.md)
+    - [s. 61 Consultation and publicity.](section/61.md)
+    - [s. 62 Housing action trusts.](section/62.md)
+    - [s. 63 Objects and general powers of housing action trusts.](section/63.md)
+    - [s. 64 The housing action trust’s proposals for its area.](section/64.md)
+  - Functions
+    - [s. 65 Housing action trust as housing authority etc.](section/65.md)
+    - [s. 66 Planning control.](section/66.md)
+    - [s. 67 Housing action trust as planning authority.](section/67.md)
+    - [s. 68 Public health.](section/68.md)
+    - [s. 69 Highways.](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 Power to give financial assistance.](section/71.md)
+    - [s. 72 Directions as to exercise of functions.](section/72.md)
+    - [s. 73 Transfer of functions.](section/73.md)
+  - Transfer of housing accommodation etc.
+    - [s. 74 Transfer of land and other property to housing action trusts.](section/74.md)
+    - [s. 75 Supplementary provisions as to transfer orders.](section/75.md)
+  - Vesting and acquisition of land
+    - [s. 76 Vesting by order in housing action trust.](section/76.md)
+    - [s. 77 Acquisition by housing action trust.](section/77.md)
+    - [s. 78 Supplementary provisions as to vesting, acquisition and compensation.](section/78.md)
+  - Disposals of land
+    - [s. 79 Disposal of land by housing action trusts.](section/79.md)
+    - [s. 80 Disposals made without consent.](section/80.md)
+    - [s. 81 Consent required for certain subsequent disposals.](section/81.md)
+    - [s. 82 Provision of legal assistance to tenants after disposal.](section/82.md)
+  - Secure tenancies and right to buy
+    - [s. 83 Application of Parts IV and V of Housing Act 1985.](section/83.md)
+    - [s. 84 Provisions applicable to disposals of dwelling-houses subject to secure tenancies.](section/84.md)
+    - [s. 84A Transfer by order of certain dwelling-houses let on secure tenancies.](section/84A.md)
+  - Rents
+    - [s. 85 Rents generally.](section/85.md)
+    - [s. 86 Increase of rent where tenancy not secure.](section/86.md)
+  - Agency and dissolution
+    - [s. 87 Agency agreements.](section/87.md)
+    - [s. 88 Dissolution of housing action trust.](section/88.md)
+  - Miscellaneous and general
+    - [s. 89 Supply of goods and services.](section/89.md)
+    - [s. 90 Information](section/90.md)
+    - [s. 91](section/91.md)
+    - [s. 92 Interpretation of Part III.](section/92.md)
+- Part IV
+  - Preliminary
+    - [s. 93 Right conferred by Part IV.](section/93.md)
+    - [s. 94 Persons by whom right may be exercised.](section/94.md)
+    - [s. 95 Property excluded from right.](section/95.md)
+  - Initial procedures
+    - [s. 96 Application to exercise right.](section/96.md)
+    - [s. 97 Information etc. for applicant.](section/97.md)
+    - [s. 98 Determination of property to be included.](section/98.md)
+    - [s. 99 Determination of purchase price.](section/99.md)
+  - Special cases
+    - [s. 100 Tenants continuing as tenants of landlord.](section/100.md)
+    - [s. 101 Tenancies granted after relevant date.](section/101.md)
+  - Final procedures
+    - [s. 102 Consultations by applicant.](section/102.md)
+    - [s. 103 Notice by applicant of intention to proceed.](section/103.md)
+    - [s. 104 Duty to complete and consequences of completion.](section/104.md)
+  - Subsequent disposals
+    - [s. 105 Consent required for subsequent disposals.](section/105.md)
+  - Supplemental
+    - [s. 106 Service of information, advice and assistance.](section/106.md)
+    - [s. 107 Power of Corporation to provide legal assistance to tenants in relation to acquisitions.](section/107.md)
+    - [s. 108 Registration of title and related matters.](section/108.md)
+    - [s. 109 Public open space etc.](section/109.md)
+    - [s. 110 Extension etc. of relevant periods.](section/110.md)
+    - [s. 111 Power to prescribe forms etc.](section/111.md)
+    - [s. 112 Orders and regulations.](section/112.md)
+    - [s. 113 Jurisdiction of county court.](section/113.md)
+    - [s. 114 Interpretation of Part IV.](section/114.md)
+- Part V Miscellaneous and General
+  - Leases
+    - [s. 115 Premiums on long leases.](section/115.md)
+    - [s. 116 Repairing obligations in short leases.](section/116.md)
+    - [s. 117 Certain tenancies excluded from bankrupt’s estate](section/117.md)
+    - [s. 118 Certain tenancies excluded from debtor’s estate: Scotland.](section/118.md)
+    - [s. 119 Amendment of Landlord and Tenant Act 1987.](section/119.md)
+  - Rent Officers
+    - [s. 120 Appointment etc. of rent officers.](section/120.md)
+    - [s. 121 ................................](section/121.md)
+  - Right to buy etc. and grants to obtain accommodation
+    - [s. 122 Variation of cost floor for right to buy discount.](section/122.md)
+    - [s. 123 Amendment of Schedule 5 to Housing Act 1985.](section/123.md)
+    - [s. 124 Right to buy: tenant’s sanction for landlord’s delays.](section/124.md)
+    - [s. 125 Restriction on letting etc. of certain houses in National Parks etc.](section/125.md)
+    - [s. 126 Restriction on disposal of dwelling-houses in National Parks etc. acquired under the right to buy.](section/126.md)
+    - [s. 127 Preserved right to buy.](section/127.md)
+    - [s. 128 Preservation of right to buy on disposal to private sector landlord: Scotland.](section/128.md)
+    - [s. 129 Schemes for payments to assist local housing authority tenants to obtain other accomodation.](section/129.md)
+  - Repair notices and improvement grants
+    - [s. 130 Repair notices.](section/130.md)
+    - [s. 131 Letting conditions applicable to improvement grants etc.](section/131.md)
+  - Disposals of housing stock
+    - [s. 132 Consents to disposals of housing stock and application of receipts.](section/132.md)
+    - [s. 133 Consent required for certain subsequent disposals.](section/133.md)
+    - [s. 134 Consent required for certain subsequent disposals: Scotland.](section/134.md)
+    - [s. 135 Consultation before disposal: Scotland.](section/135.md)
+    - [s. 136 ................................](section/136.md)
+  - Codes of practice
+    - [s. 137 Codes of practice in field of rented housing.](section/137.md)
+  - Supplementary
+    - [s. 138 Financial provisions.](section/138.md)
+    - [s. 139 Application to Isles of Scilly.](section/139.md)
+    - [s. 140 Amendments and repeals.](section/140.md)
+    - [s. 141 Short title, commencement and extent.](section/141.md)
+- SCHEDULE 1 Tenancies Which Cannot be Assured Tenancies
+  - Part I The Tenancies
+    - Tenancies entered into before commencement
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Tenancies of dwelling-houses with high rateable values
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Tenancies at a low rent
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+      - [Sch. 1 para. 3B](schedule/1/paragraph/3B.md)
+      - [Sch. 1 para. 3C](schedule/1/paragraph/3C.md)
+    - Fixed term tenancies of more than 21 years
+      - [Sch. 1 para. 3D](schedule/1/paragraph/3D.md)
+    - Fixed term tenancies of 7 to 21 years granted before the Renters’ Rights Act 2025
+      - [Sch. 1 para. 3E](schedule/1/paragraph/3E.md)
+    - Regulated home purchase plans
+      - [Sch. 1 para. 3F](schedule/1/paragraph/3F.md)
+    - Business tenancies
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Licensed premises
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Tenancies of agricultural land
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Tenancies of agricultural holdings etc.
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Lettings to students
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Holiday lettings
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Resident landlords
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Crown tenancies
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Local authority tenancies etc.
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Family intervention tenancies
+      - [Sch. 1 para. 12ZA](schedule/1/paragraph/12ZA.md)
+    - Accommodation for asylum-seekers
+      - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+    - ...
+      - [Sch. 1 para. 12B](schedule/1/paragraph/12B.md)
+    - Transitional cases
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Part II Rateable Values
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Part III Provisions for Determining Application of Paragraph 10 (Resident Landlords)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 Grounds for Possession of Dwelling-houses let on Assured Tenancies
+  - Part I Grounds on which Court must order possession
+    - Ground 1
+    - Ground 1A
+    - Ground 1B
+    - Ground 2
+    - Ground 2ZA
+    - Ground 2ZB
+    - Ground 2ZC
+    - Ground 2ZD
+    - Ground 4
+    - Ground 4A
+    - Ground 5
+    - Ground 5A
+    - Ground 5B
+    - Ground 5C
+    - Ground 5D
+    - Ground 5E
+    - Ground 5F
+    - Ground 5G
+    - Ground 5H
+    - Ground 6
+    - Ground 6A
+    - Ground 6B
+    - Ground 7
+    - Ground 7A
+    - Ground 7B
+    - Ground 8
+  - Part II Grounds on which Court may Order Possession
+    - Ground 9
+    - Ground 10
+    - Ground 11
+    - Ground 12
+    - Ground 13
+    - Ground 14
+    - Ground 14ZA
+    - Ground 14A
+    - Ground 15
+    - Ground 5C
+    - Ground 17
+    - Ground 18
+  - Part III Suitable Alternative Accommodation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part 5 Interpretation
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Part 6 Powers to amend certain grounds and definitions
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- Schedule 2ZA Financial penalties under sections 16I and 16K
+  - [Sch. 2ZA para. 1 Notice of intent](schedule/2ZA/paragraph/1.md)
+  - [Sch. 2ZA para. 2 Notice of intent](schedule/2ZA/paragraph/2.md)
+  - [Sch. 2ZA para. 3 Notice of intent](schedule/2ZA/paragraph/3.md)
+  - [Sch. 2ZA para. 4 Right to make representations](schedule/2ZA/paragraph/4.md)
+  - [Sch. 2ZA para. 5 Final notice](schedule/2ZA/paragraph/5.md)
+  - [Sch. 2ZA para. 6 Final notice](schedule/2ZA/paragraph/6.md)
+  - [Sch. 2ZA para. 7 Final notice](schedule/2ZA/paragraph/7.md)
+  - [Sch. 2ZA para. 8 Final notice](schedule/2ZA/paragraph/8.md)
+  - [Sch. 2ZA para. 9 Withdrawal or amendment of notice](schedule/2ZA/paragraph/9.md)
+  - [Sch. 2ZA para. 10 Appeals](schedule/2ZA/paragraph/10.md)
+  - [Sch. 2ZA para. 11 Recovery of financial penalty](schedule/2ZA/paragraph/11.md)
+  - [Sch. 2ZA para. 12 Proceeds of financial penalties](schedule/2ZA/paragraph/12.md)
+  - [Sch. 2ZA para. 13 Proceeds of financial penalties](schedule/2ZA/paragraph/13.md)
+  - [Sch. 2ZA para. 14 Proceeds of financial penalties](schedule/2ZA/paragraph/14.md)
+- SCHEDULE 2A Assured Tenancies: Non-Shortholds
+  - Tenancies excluded by notice
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Tenancies containing exclusionary provision
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Tenancies under section 39
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Former secure tenancies
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Former demoted tenancies
+    - [Sch. 2A para. 5A](schedule/2A/paragraph/5A.md)
+  - Tenancies under Schedule 10 to the Local Government and Housing Act 1989
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Tenancies replacing non-shortholds
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Assured agricultural occupancies
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+- SCHEDULE 3 Agricultural Worker Conditions
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The conditions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Statutory Tenants: Succession
+  - Part I Amendments of Schedule 1 to Rent Act 1977
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part II Amendments of Section 4 of Rent (Agriculture) Act 1976
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Part III Modifications of Section 7 and Schedule 2
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5
+  - Status
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Membership
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Chairman and Deputy Chairman
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Remuneration and allowances
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Pensions
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Staff
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Proceedings
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Amendments of Housing Associations Act 1985
+  - Part I Amendments of Part I with Respect to the Housing Corporation, Housing for Wales and Scottish Homes
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Part II Amendments of Part II with Respect to the Housing Corporation and Housing for Wales
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+  - Part III Amendments of Part III with Respect to the Housing Corporation and Housing for Wales
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+- SCHEDULE 7 Housing Action Trusts: Constitution
+  - Members
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Remuneration
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Staff
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Meetings and proceedings
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Instruments, etc.
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - House of Commons disqualification
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+- SCHEDULE 8 Housing Action Trusts: Finance Etc.
+  - Part I Preliminary
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Part II Finance
+    - Financial duties
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Government grants
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Borrowing
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Guarantees
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Assumed debt
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Surplus funds
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Financial limits
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Grants and loans: accounts
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Part III General Accounts Etc.
+    - Accounts
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Audit
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Transmission to Secretary of State
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Reports
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Information
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+- SCHEDULE 9 Orders Vesting Land in Housing Action Trusts
+  - Part I Provisions Supplementing Section 76(1)—(3)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Part II Modifications of Enactments
+    - Land Compensation Act 1961
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Compulsory Purchase (Vesting Declarations) Act 1981
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+- SCHEDULE 10 Housing Action Trusts: Land
+  - Part I Modifications of Acquisition of Land Act 1981
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Part II Land: Supplementary
+    - Extinguishment of rights over land
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - ...
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Consecrated land and burial grounds
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Open spaces
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Displacement of persons
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Extinguishment of public rights of way
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Telegraphic lines
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Statutory undertakers
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Interpretation
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Part III Acquisition of Rights
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+- SCHEDULE 11 Provisions Applicable to Certain Disposals of Houses
+  - Repayment of discount on early disposal
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Increase in value of house attributable to home improvements
+    - [Sch. 11 para. 1A](schedule/11/paragraph/1A.md)
+  - Obligation to repay a charge on the house
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Right of first refusal for housing action trust
+    - [Sch. 11 para. 2A](schedule/11/paragraph/2A.md)
+  - Consideration payable for disposal under paragraph 2A
+    - [Sch. 11 para. 2B](schedule/11/paragraph/2B.md)
+  - Relevant disposals
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Exempted disposals
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Compulsory disposal
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Exempted disposals ending obligation under covenants
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Treatment of options
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Treatment of deferred resale agreements
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+- SCHEDULE 12
+  - Interpretation
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Acquisitions under section 104(1)(a)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Procedures on termination of leases granted under section 104(1)(b)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+- SCHEDULE 13 Amendments of Landlord and Tenant Act 1987
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+- SCHEDULE 14 Appointment etc. of Rent Officers
+  - Part I Amendments of Section 63 of Rent Act 1977
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Part II Sections to be Inserted in Rent Act 1977 after Section 64
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- SCHEDULE 16 Schedule to be Inserted in the Housing (Scotland) Act 1987
+- SCHEDULE 17 Minor and Consequential Amendments
+  - Part I General Amendments
+    - The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - The Leasehold Reform Act 1967
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - The Local Government Act 1974
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - The Consumer Credit Act 1974
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - The Rent (Agriculture) Act 1976
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - The Rent Act 1977
+      - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+      - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+      - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+      - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+    - The Protection from Eviction Act 1977
+      - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+    - The Justices of the Peace Act 1979
+      - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - The Local Government, Planning and Land Act 1980
+      - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+      - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+    - The Highways Act 1980
+      - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - The New Towns Act 1981
+      - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - The Acquisition of Land Act 1981
+      - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+    - The Matrimonial Homes Act 1983
+      - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+      - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+    - The County Courts Act 1984
+      - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+    - The Matrimonial and Family Proceedings Act 1984
+      - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+    - The Local Government Act 1985
+      - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+    - The Housing Act 1985
+      - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+      - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+      - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
+      - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
+      - [Sch. 17 para. 42](schedule/17/paragraph/42.md)
+      - [Sch. 17 para. 43](schedule/17/paragraph/43.md)
+      - [Sch. 17 para. 44](schedule/17/paragraph/44.md)
+      - [Sch. 17 para. 45](schedule/17/paragraph/45.md)
+      - [Sch. 17 para. 46](schedule/17/paragraph/46.md)
+      - [Sch. 17 para. 47](schedule/17/paragraph/47.md)
+      - [Sch. 17 para. 48](schedule/17/paragraph/48.md)
+      - [Sch. 17 para. 49](schedule/17/paragraph/49.md)
+      - [Sch. 17 para. 50](schedule/17/paragraph/50.md)
+      - [Sch. 17 para. 51](schedule/17/paragraph/51.md)
+      - [Sch. 17 para. 52](schedule/17/paragraph/52.md)
+      - [Sch. 17 para. 53](schedule/17/paragraph/53.md)
+      - [Sch. 17 para. 54](schedule/17/paragraph/54.md)
+      - [Sch. 17 para. 55](schedule/17/paragraph/55.md)
+      - [Sch. 17 para. 56](schedule/17/paragraph/56.md)
+      - [Sch. 17 para. 57](schedule/17/paragraph/57.md)
+      - [Sch. 17 para. 58](schedule/17/paragraph/58.md)
+      - [Sch. 17 para. 59](schedule/17/paragraph/59.md)
+      - [Sch. 17 para. 60](schedule/17/paragraph/60.md)
+      - [Sch. 17 para. 61](schedule/17/paragraph/61.md)
+      - [Sch. 17 para. 62](schedule/17/paragraph/62.md)
+      - [Sch. 17 para. 63](schedule/17/paragraph/63.md)
+      - [Sch. 17 para. 64](schedule/17/paragraph/64.md)
+      - [Sch. 17 para. 65](schedule/17/paragraph/65.md)
+      - [Sch. 17 para. 66](schedule/17/paragraph/66.md)
+    - The Landlord and Tenant Act 1985
+      - [Sch. 17 para. 67](schedule/17/paragraph/67.md)
+      - [Sch. 17 para. 68](schedule/17/paragraph/68.md)
+    - The Agricultural Holdings Act 1986
+      - [Sch. 17 para. 69](schedule/17/paragraph/69.md)
+      - [Sch. 17 para. 70](schedule/17/paragraph/70.md)
+    - The Drug Trafficking Offences Act 1986
+      - [Sch. 17 para. 71](schedule/17/paragraph/71.md)
+      - [Sch. 17 para. 72](schedule/17/paragraph/72.md)
+    - The Insolvency Act 1986
+      - [Sch. 17 para. 73](schedule/17/paragraph/73.md)
+      - [Sch. 17 para. 74](schedule/17/paragraph/74.md)
+      - [Sch. 17 para. 75](schedule/17/paragraph/75.md)
+    - The Social Security Act 1986
+      - [Sch. 17 para. 76](schedule/17/paragraph/76.md)
+    - The Housing (Scotland) Act 1987
+      - [Sch. 17 para. 77](schedule/17/paragraph/77.md)
+      - [Sch. 17 para. 78](schedule/17/paragraph/78.md)
+      - [Sch. 17 para. 79](schedule/17/paragraph/79.md)
+    - The Access to Personal Files Act 1987
+      - [Sch. 17 para. 80](schedule/17/paragraph/80.md)
+    - The Criminal Justice (Scotland) Act 1987
+      - [Sch. 17 para. 81](schedule/17/paragraph/81.md)
+      - [Sch. 17 para. 82](schedule/17/paragraph/82.md)
+    - The Criminal Justice Act 1988
+      - [Sch. 17 para. 83](schedule/17/paragraph/83.md)
+      - [Sch. 17 para. 84](schedule/17/paragraph/84.md)
+    - The Housing (Scotland) Act 1988
+      - [Sch. 17 para. 85](schedule/17/paragraph/85.md)
+      - [Sch. 17 para. 86](schedule/17/paragraph/86.md)
+      - [Sch. 17 para. 87](schedule/17/paragraph/87.md)
+      - [Sch. 17 para. 88](schedule/17/paragraph/88.md)
+      - [Sch. 17 para. 89](schedule/17/paragraph/89.md)
+      - [Sch. 17 para. 90](schedule/17/paragraph/90.md)
+  - Part II Amendments Consequential on the Establishment of Housing for Wales
+    - The Land Commission Act 1967
+      - [Sch. 17 para. 91](schedule/17/paragraph/91.md)
+    - The Parliamentary Commissioner Act 1967
+      - [Sch. 17 para. 92](schedule/17/paragraph/92.md)
+    - The Income and Corporation Taxes Act 1970
+      - [Sch. 17 para. 93](schedule/17/paragraph/93.md)
+    - The Land Compensation Act 1973
+      - [Sch. 17 para. 94](schedule/17/paragraph/94.md)
+    - The House of Commons Disqualification Act 1975
+      - [Sch. 17 para. 95](schedule/17/paragraph/95.md)
+    - The Statutory Corporations (Financial Provisions) Act 1975
+      - [Sch. 17 para. 96](schedule/17/paragraph/96.md)
+    - The Development of Rural Wales Act 1976
+      - [Sch. 17 para. 97](schedule/17/paragraph/97.md)
+    - The Rent (Agriculture) Act 1976
+      - [Sch. 17 para. 98](schedule/17/paragraph/98.md)
+    - The Rent Act 1977
+      - [Sch. 17 para. 99](schedule/17/paragraph/99.md)
+      - [Sch. 17 para. 100](schedule/17/paragraph/100.md)
+    - The Criminal Law Act 1977
+      - [Sch. 17 para. 101](schedule/17/paragraph/101.md)
+    - The National Health Service Act 1977
+      - [Sch. 17 para. 102](schedule/17/paragraph/102.md)
+      - [Sch. 17 para. 103](schedule/17/paragraph/103.md)
+    - The Local Government, Planning and Land Act 1980
+      - [Sch. 17 para. 104](schedule/17/paragraph/104.md)
+    - The Finance Act 1981
+      - [Sch. 17 para. 105](schedule/17/paragraph/105.md)
+    - The Housing Act 1985
+      - [Sch. 17 para. 106](schedule/17/paragraph/106.md)
+      - [Sch. 17 para. 107](schedule/17/paragraph/107.md)
+      - [Sch. 17 para. 108](schedule/17/paragraph/108.md)
+      - [Sch. 17 para. 109](schedule/17/paragraph/109.md)
+      - [Sch. 17 para. 110](schedule/17/paragraph/110.md)
+      - [Sch. 17 para. 111](schedule/17/paragraph/111.md)
+      - [Sch. 17 para. 112](schedule/17/paragraph/112.md)
+      - [Sch. 17 para. 113](schedule/17/paragraph/113.md)
+    - The Landlord and Tenant Act 1987
+      - [Sch. 17 para. 114](schedule/17/paragraph/114.md)
+    - The Income and Corporation Taxes Act 1988
+      - [Sch. 17 para. 115](schedule/17/paragraph/115.md)
+      - [Sch. 17 para. 116](schedule/17/paragraph/116.md)
+- SCHEDULE 18 Enactments Repealed
+  - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
