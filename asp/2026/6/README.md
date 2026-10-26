@@ -1,0 +1,107 @@
+# Natural Environment (Scotland) Act 2026
+
+asp/2026/6. Enacted 2026-03-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2026/6/2026-10-26
+
+## Contents
+
+- Part 1 Targets for improving biodiversity
+  - [s. 1 Targets for improving biodiversity](section/1.md)
+  - [s. 2 Reports on compliance with biodiversity duty](section/2.md)
+- Part 2 National parks
+  - Modification of aims and purposes of National Parks
+    - [s. 3 Aims of National Parks](section/3.md)
+  - Policy statement on National Parks
+    - [s. 4 Policy statement on National Parks](section/4.md)
+  - National Park proposals
+    - [s. 5 Advice before making National Park proposals](section/5.md)
+  - Reports on National Park proposals
+    - [s. 6 Choice of reporter for National Park proposals](section/6.md)
+  - Definitions for the National Parks (Scotland) Act 2000
+    - [s. 7 Definitions for the National Parks (Scotland) Act 2000](section/7.md)
+  - Duties in respect of National Parks
+    - [s. 8 Duty to facilitate implementation of National Park Plans](section/8.md)
+  - National Park authorities as local authorities for access rights
+    - [s. 9 Meaning of local authority for the purpose of access rights](section/9.md)
+  - Enforcement of National Park byelaws
+    - [s. 10 Power to make regulations for the issuing of fixed penalty notices](section/10.md)
+- Part 3 Deer management
+  - Aims and purposes of deer management
+    - [s. 11 Aims and purposes of deer management](section/11.md)
+  - Membership of advisory panels
+    - [s. 12 Scottish Natural Heritage representation on advisory panels](section/12.md)
+  - Code of practice on deer management
+    - [s. 13 Code of practice on deer management](section/13.md)
+  - Deer management plans, control agreements and control schemes
+    - [s. 14 Grounds for intervention](section/14.md)
+    - [s. 15 Deer management plans](section/15.md)
+    - [s. 16 Control agreements](section/16.md)
+    - [s. 17 Right to request action where deer are not being managed](section/17.md)
+    - [s. 18 Control schemes](section/18.md)
+    - [s. 19 Recovery of costs and expenses](section/19.md)
+    - [s. 20 Limitation of criminal liability](section/20.md)
+  - Preventing or stopping damage by deer
+    - [s. 21 Measures to prevent damage by deer](section/21.md)
+    - [s. 22 Action to prevent or stop harm to persons](section/22.md)
+  - National deer management and venison plan
+    - [s. 23 National deer management and venison plan](section/23.md)
+    - [s. 24 National deer management and venison plan: matters which may be considered](section/24.md)
+    - [s. 25 National deer management and venison plan: initial consideration of matters relating to venison](section/25.md)
+  - SNH investigatory powers
+    - [s. 26 Power to enter on land](section/26.md)
+    - [s. 27 Power to require information and documents](section/27.md)
+    - [s. 28 Giving notices electronically](section/28.md)
+  - Authorisations for particular activities
+    - [s. 29 Authorisation for taking or killing deer during close seasons](section/29.md)
+    - [s. 30 Authorisation for taking or killing deer at night](section/30.md)
+    - [s. 31 Authorisation for use of vehicles to drive deer](section/31.md)
+    - [s. 32 Offence of shooting deer with a shotgun](section/32.md)
+    - [s. 33 Register of authorised persons](section/33.md)
+    - [s. 34 Repeal of obligation to carry out competence review](section/34.md)
+    - [s. 35 Requirement to be fit and competent for certain authorisations](section/35.md)
+    - [s. 36 Repeal of saving of right to take deer on land](section/36.md)
+    - [s. 37 Right of occupier or grazings committee to prevent damage by deer](section/37.md)
+  - Stray farmed deer
+    - [s. 38 Liability for taking or killing stray farmed deer](section/38.md)
+  - Licensing of dealing in venison
+    - [s. 39 Removal of requirements related to licensing to deal in venison](section/39.md)
+  - Review of modifications
+    - [s. 40 Review of modifications to the Deer (Scotland) Act 1996](section/40.md)
+- Part 4 Miscellaneous and general
+  - Building regulations: swift nest box
+    - [s. 41 Building regulations: swift nest box](section/41.md)
+  - Marine protection
+    - [s. 42 Nature conservation marine protected areas: climate adaptation](section/42.md)
+  - Salmon and freshwater fishing
+    - [s. 43 Modification of offences and penalties related to fishing](section/43.md)
+  - Report on penalties in sea fisheries legislation
+    - [s. 44 Report on penalties in sea fisheries legislation](section/44.md)
+  - Gulls
+    - [s. 45 Report on gull population](section/45.md)
+  - Scallop shells
+    - [s. 46 Guidance about scallop shells](section/46.md)
+  - Wildlife licensing
+    - [s. 47 Licensing: protection of mountain hares](section/47.md)
+    - [s. 48 Licensing: land on which certain birds may be killed or taken](section/48.md)
+  - Wildfires
+    - [s. 49 Wildfires: enabling local authorities to issue fixed penalty notices](section/49.md)
+  - Meaning of public authority in the Nature Conservation (Scotland) Act 2004
+    - [s. 50 Meaning of public authority etc. in the Nature Conservation (Scotland) Act 2004](section/50.md)
+  - Ramsar sites
+    - [s. 51 Further provision about Ramsar sites](section/51.md)
+  - Forestry
+    - [s. 52 Sustainable forest management](section/52.md)
+    - [s. 53 Forestry: offence of unauthorised felling](section/53.md)
+  - Improvement plans under the European Union (Continuity) (Scotland) Act 2021
+    - [s. 54 Procedure to approve improvement plans](section/54.md)
+  - Muirburn
+    - [s. 55 Muirburn licensing: making muirburn for purpose of approved training course](section/55.md)
+    - [s. 56 Muirburn licensing: grounds for grant of licence](section/56.md)
+  - General
+    - [s. 57 Regulations](section/57.md)
+    - [s. 58 Ancillary provision](section/58.md)
+    - [s. 59 Commencement](section/59.md)
+    - [s. 60 Short title](section/60.md)
