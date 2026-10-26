@@ -2,9 +2,11 @@
 
 2026 c. 20. Enacted 2026-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-29, one file per provision. Earlier versions, from 2026-04-29, are in the history before it: `git log -- ukpga/2026/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. Earlier versions, from 2026-04-29, are in the history before it: `git log -- ukpga/2026/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-09-29
+legislation.gov.uk lists 39 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
+
+Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-10-26
 
 ## Contents
 
@@ -371,7 +373,7 @@ Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-09-29
     - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
   - Part 2 Consequential amendments of other Acts
     - [Sch. 1 para. 23 Housing Act 1985 (c. 68)](schedule/1/paragraph/23.md)
-    - [Sch. 1 para. 24 Housing Act 1985 (c. 68)](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
     - [Sch. 1 para. 25 Housing Act 1988 (c. 50)](schedule/1/paragraph/25.md)
     - [Sch. 1 para. 26 Police Reform Act 2002 (c. 30)](schedule/1/paragraph/26.md)
     - [Sch. 1 para. 27 Localism Act 2011 (c. 20)](schedule/1/paragraph/27.md)
