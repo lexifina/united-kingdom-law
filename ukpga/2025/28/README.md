@@ -1,0 +1,185 @@
+# Public Authorities (Fraud, Error and Recovery) Act 2025
+
+2025 c. 28. Enacted 2025-12-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2025/28/2026-10-26
+
+## Contents
+
+- Part 1 Functions exercisable on behalf of public authorities
+  - Chapter 1 Key concepts
+    - [s. 1 Core functions of the Minister for the Cabinet Office](section/1.md)
+    - [s. 2 Interaction with other public authorities etc](section/2.md)
+  - Chapter 2 Investigatory powers
+    - Information
+      - [s. 3 Information notices](section/3.md)
+      - [s. 4 Reviews](section/4.md)
+      - [s. 5 Information sharing](section/5.md)
+      - [s. 6 Amendment of the Investigatory Powers Act 2016](section/6.md)
+    - Powers of entry, search and seizure etc
+      - [s. 7 Police and Criminal Evidence Act 1984 etc powers](section/7.md)
+      - [s. 8 Disposal of property](section/8.md)
+      - [s. 9 Incidents etc](section/9.md)
+  - Chapter 3 Rights to recover
+    - Recovery of recoverable amounts
+      - [s. 10 Acting for another public authority](section/10.md)
+      - [s. 11 Recovery notices](section/11.md)
+      - [s. 12 Restriction on availability of powers: claimed amounts](section/12.md)
+    - Recovery of other amounts
+      - [s. 13 Penalties etc](section/13.md)
+      - [s. 14 Restriction on availability of powers: penalties](section/14.md)
+  - Chapter 4 Methods of recovery
+    - Introduction
+      - [s. 15 Payable amounts](section/15.md)
+    - Recovery as if payable under a court order
+      - [s. 16 Recovery orders](section/16.md)
+    - Recovery from bank accounts etc
+      - [s. 17 Direct deduction orders](section/17.md)
+      - [s. 18 Accounts which may be subject to a direct deduction order](section/18.md)
+      - [s. 19 Requirement for banks to provide information](section/19.md)
+      - [s. 20 Joint accounts](section/20.md)
+      - [s. 21 Further requirements before making a direct deduction order](section/21.md)
+      - [s. 22 Amount of deductions](section/22.md)
+      - [s. 23 Content and effect of direct deduction orders](section/23.md)
+      - [s. 24 Bank’s administrative costs](section/24.md)
+      - [s. 25 Insufficient funds](section/25.md)
+      - [s. 26 Restrictions on accounts: banks](section/26.md)
+      - [s. 27 Restrictions on accounts: account holders](section/27.md)
+      - [s. 28 Applications to vary](section/28.md)
+      - [s. 29 Variation](section/29.md)
+      - [s. 30 Revocation](section/30.md)
+      - [s. 31 Further information notices](section/31.md)
+      - [s. 32 Suspension of direct deduction orders](section/32.md)
+      - [s. 33 Cessation on death of liable person](section/33.md)
+      - [s. 34 Reviews](section/34.md)
+      - [s. 35 Appeals](section/35.md)
+      - [s. 36 Meaning of “bank” etc](section/36.md)
+      - [s. 37 Deputies](section/37.md)
+      - [s. 38 Regulations](section/38.md)
+    - Deduction from earnings
+      - [s. 39 Deduction from earnings orders](section/39.md)
+      - [s. 40 Content and effect of deduction from earnings orders](section/40.md)
+      - [s. 41 Requirements before making a deduction from earnings order](section/41.md)
+      - [s. 42 Amount of deductions](section/42.md)
+      - [s. 43 The employer’s administrative costs](section/43.md)
+      - [s. 44 Suspension of deduction from earnings orders](section/44.md)
+      - [s. 45 Duty to notify the Minister of change of circumstances](section/45.md)
+      - [s. 46 Applications to vary](section/46.md)
+      - [s. 47 Variation](section/47.md)
+      - [s. 48 Revocation](section/48.md)
+      - [s. 49 Reviews](section/49.md)
+      - [s. 50 Appeals](section/50.md)
+  - Chapter 5 Civil penalties
+    - [s. 51 Penalty relating to fraud](section/51.md)
+    - [s. 52 Application to members etc of bodies](section/52.md)
+    - [s. 53 Amount of penalty relating to fraud](section/53.md)
+    - [s. 54 Penalty for failing to comply with requirements](section/54.md)
+    - [s. 55 Application to members etc of bodies](section/55.md)
+    - [s. 56 Amount of penalty for failing to comply with requirements](section/56.md)
+    - [s. 57 Procedural rights](section/57.md)
+    - [s. 58 Penalty decision notices](section/58.md)
+    - [s. 59 Reviews and decisions](section/59.md)
+    - [s. 60 Penalty notices](section/60.md)
+    - [s. 61 Appeals](section/61.md)
+    - [s. 62 Interest](section/62.md)
+    - [s. 63 Code of practice](section/63.md)
+    - [s. 64 Penalties and criminal proceedings or convictions](section/64.md)
+  - Chapter 6 General
+    - [s. 65 Independent review](section/65.md)
+    - [s. 66 Independent review: further provision](section/66.md)
+    - [s. 67 Authorised officers](section/67.md)
+    - [s. 68 Guidance on exercise of investigatory functions](section/68.md)
+    - [s. 69 Reports on exercise of functions](section/69.md)
+    - [s. 70 Record of exercise of functions](section/70.md)
+    - [s. 71 Disclosure of information etc: interaction with external constraints](section/71.md)
+    - [s. 72 Crown etc application](section/72.md)
+    - [s. 73 Public Sector Fraud Authority and transfer of functions](section/73.md)
+    - [s. 74 Interpretation](section/74.md)
+    - [s. 75 Regulations](section/75.md)
+- Part 2 Social security etc
+  - Chapter 1 Powers to require information
+    - [s. 76 Information notices](section/76.md)
+    - [s. 77 Consequential amendments to the Social Security Fraud Act 2001](section/77.md)
+    - [s. 78 Eligibility verification](section/78.md)
+    - [s. 79 Eligibility verification: independent review](section/79.md)
+  - Chapter 2 Powers of entry, search and seizure etc
+    - [s. 80 Entry, search and seizure in England and Wales](section/80.md)
+    - [s. 81 Entry, search and seizure in Scotland](section/81.md)
+    - [s. 82 Entry, search and seizure: Crown application](section/82.md)
+    - [s. 83 Offence of delay, obstruction etc](section/83.md)
+    - [s. 84 Disposal of property](section/84.md)
+    - [s. 85 Amendments to the Criminal Justice and Police Act 2001](section/85.md)
+    - [s. 86 Incidents etc in England and Wales](section/86.md)
+    - [s. 87 Incidents etc in Scotland](section/87.md)
+  - Chapter 3 Further provision relevant to investigatory powers
+    - [s. 88 Devolved benefits](section/88.md)
+    - [s. 89 DWP offence](section/89.md)
+    - [s. 90 Disclosure of information etc: interaction with external constraints](section/90.md)
+    - [s. 91 Giving notices etc](section/91.md)
+    - [s. 92 Independent review](section/92.md)
+  - Chapter 4 Overpayments: recovery and enforcement
+    - [s. 93 Enforcement of non-benefit payments](section/93.md)
+    - [s. 94 Recovery and enforcement mechanisms](section/94.md)
+    - [s. 95 Recovery from bank accounts etc](section/95.md)
+    - [s. 96 Disqualification from driving](section/96.md)
+    - [s. 97 Code of practice](section/97.md)
+    - [s. 98 Rights of audience](section/98.md)
+    - [s. 99 Recovery of costs](section/99.md)
+    - [s. 100 Recovery: further provision](section/100.md)
+  - Chapter 5 Offences, penalties etc
+    - [s. 101 Offences: non-benefit payments](section/101.md)
+    - [s. 102 Penalty as alternative to prosecution: extension to non-benefit payments](section/102.md)
+    - [s. 103 Amendments to the Social Security Fraud Act 2001: loss of benefits following penalty](section/103.md)
+    - [s. 104 Powers of Scottish Ministers](section/104.md)
+- Part 3 General
+  - [s. 105 Application and limitation](section/105.md)
+  - [s. 106 Power to make consequential provision](section/106.md)
+  - [s. 107 Financial provision](section/107.md)
+  - [s. 108 Extent](section/108.md)
+  - [s. 109 Commencement](section/109.md)
+  - [s. 110 Short title](section/110.md)
+- Schedule 1 Fraud against public authorities: Police and Criminal Evidence Act 1984 powers
+  - [Sch. 1 para. 1 Introduction](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 General modifications](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Specific modifications](schedule/1/paragraph/3.md)
+- Schedule 2 Public Sector Fraud Authority and transfer of functions
+  - Part 1 Powers to establish the PSFA and transfer functions
+    - [Sch. 2 para. 1 Main powers](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Authorised officers](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Associated modifications](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Procedure](schedule/2/paragraph/4.md)
+  - Part 2 Constitution etc
+    - [Sch. 2 para. 5 Introduction and status](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Constitution](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Appointment of non-executive members](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Appointment of executive members](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Interim chief executive](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Appointment of members: eligibility](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Terms of membership](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Non-executive members: payments](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Staffing](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Discharge of functions etc](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Procedure](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 Annual report](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Seal and evidence](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Supplementary powers](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Transfer schemes](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Amendments to other enactments](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Amendments to other enactments](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Amendments to other enactments](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23 Amendments to other enactments](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Amendments to other enactments](schedule/2/paragraph/24.md)
+  - Part 3 Power to change name
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+- Schedule 3 Eligibility verification etc
+  - Part 1 Eligibility verification
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part 2 Proceeds of Crime Act 2002
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- Schedule 4 Social security fraud: search and seizure powers etc
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+- Schedule 5 Recovery from bank accounts etc
+- Schedule 6 Disqualification from driving
