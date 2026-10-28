@@ -1,0 +1,3110 @@
+{
+ "schema": 1,
+ "source": {
+  "publisher": "legislation.gov.uk (The National Archives)",
+  "licence": "© Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.",
+  "licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "retrieved": "2026-10-28"
+ },
+ "instruments": {
+  "ukpga/2014/6": {
+   "uri": "ukpga/2014/6",
+   "title": "Children and Families Act 2014",
+   "kind": "ukpga",
+   "year": 2014,
+   "number": 6,
+   "enacted": "2014-03-13",
+   "citation": "2014 c. 6"
+  },
+  "uksi/2014/1530": {
+   "uri": "uksi/2014/1530",
+   "title": "The Special Educational Needs and Disability Regulations 2014",
+   "kind": "uksi",
+   "year": 2014,
+   "number": 1530,
+   "made": "2014-06-04",
+   "laid": "2014-06-11",
+   "coming_into_force": "2014-09-01",
+   "citation": "S.I. 2014/1530"
+  }
+ },
+ "affecting": {
+  "uksi/2014/889": {
+   "uri": "uksi/2014/889",
+   "title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+   "kind": "uksi",
+   "year": 2014,
+   "number": 889,
+   "made": "2014-03-31",
+   "citation": "S.I. 2014/889"
+  },
+  "uksi/2014/1530": {
+   "uri": "uksi/2014/1530",
+   "title": "The Special Educational Needs and Disability Regulations 2014",
+   "kind": "uksi",
+   "year": 2014,
+   "number": 1530,
+   "made": "2014-06-04",
+   "laid": "2014-06-11",
+   "coming_into_force": "2014-09-01",
+   "citation": "S.I. 2014/1530"
+  },
+  "ukpga/2014/6": {
+   "uri": "ukpga/2014/6",
+   "title": "Children and Families Act 2014",
+   "kind": "ukpga",
+   "year": 2014,
+   "number": 6,
+   "enacted": "2014-03-13",
+   "citation": "2014 c. 6"
+  },
+  "uksi/2015/914": {
+   "uri": "uksi/2015/914",
+   "title": "The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015",
+   "kind": "uksi",
+   "year": 2015,
+   "number": 914,
+   "made": "2015-03-26",
+   "citation": "S.I. 2015/914"
+  },
+  "ukpga/2020/7": {
+   "uri": "ukpga/2020/7",
+   "title": "Coronavirus Act 2020",
+   "kind": "ukpga",
+   "year": 2020,
+   "number": 7,
+   "enacted": "2020-03-25",
+   "citation": "2020 c. 7"
+  },
+  "uksi/2021/1399": {
+   "uri": "uksi/2021/1399",
+   "title": "The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021",
+   "kind": "uksi",
+   "year": 2021,
+   "number": 1399,
+   "made": "2021-12-08",
+   "coming_into_force": "2021-12-09",
+   "citation": "S.I. 2021/1399"
+  },
+  "uksi/2014/2270": {
+   "uri": "uksi/2014/2270",
+   "title": "The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014",
+   "kind": "uksi",
+   "year": 2014,
+   "number": 2270,
+   "made": "2014-08-26",
+   "coming_into_force": "2014-09-01",
+   "citation": "S.I. 2014/2270"
+  },
+  "uksi/2015/1619": {
+   "uri": "uksi/2015/1619",
+   "title": "The Children and Families Act 2014 (Transitional and Saving Provisions) (Amendment) (No. 2) Order 2015",
+   "kind": "uksi",
+   "year": 2015,
+   "number": 1619,
+   "made": "2015-08-18",
+   "coming_into_force": "2015-09-01",
+   "citation": "S.I. 2015/1619"
+  },
+  "uksi/2020/471": {
+   "uri": "uksi/2020/471",
+   "title": "The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020",
+   "kind": "uksi",
+   "year": 2020,
+   "number": 471,
+   "made": "2020-04-28",
+   "laid": "2020-04-30",
+   "coming_into_force": "2020-05-01",
+   "citation": "S.I. 2020/471"
+  }
+ },
+ "provisions": [
+  {
+   "id": "ukpga/2014/6/section/19",
+   "instrument": "ukpga/2014/6",
+   "kind": "section",
+   "number": "19",
+   "label": "Section 19",
+   "cite": "Children and Families Act 2014, s. 19",
+   "heading": "Local authority functions: supporting and involving children and young people",
+   "current_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/19",
+   "versions": [
+    {
+     "key": "enacted",
+     "date": "2014-03-13",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/19/enacted",
+     "heading": "Local authority functions: supporting and involving children and young people",
+     "lines": [
+      {
+       "depth": 0,
+       "label": null,
+       "text": "In exercising a function under this Part in the case of a child or young person, a local authority in England must have regard to the following matters in particular—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the views, wishes and feelings of the child and his or her parent, or the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the importance of the child and his or her parent, or the young person, participating as fully as possible in decisions relating to the exercise of the function concerned;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the importance of the child and his or her parent, or the young person, being provided with the information and support necessary to enable participation in those decisions;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "the need to support the child and his or her parent, or the young person, in order to facilitate the development of the child or young person and to help him or her achieve the best possible educational and other outcomes."
+      }
+     ],
+     "extent": null,
+     "status": "Not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/19/2014-09-01",
+     "heading": "Local authority functions: supporting and involving children and young people",
+     "lines": [
+      {
+       "depth": 0,
+       "label": null,
+       "text": "In exercising a function under this Part in the case of a child or young person, a local authority in England must have regard to the following matters in particular—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the views, wishes and feelings of the child and his or her parent, or the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the importance of the child and his or her parent, or the young person, participating as fully as possible in decisions relating to the exercise of the function concerned;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the importance of the child and his or her parent, or the young person, being provided with the information and support necessary to enable participation in those decisions;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "the need to support the child and his or her parent, or the young person, in order to facilitate the development of the child or young person and to help him or her achieve the best possible educational and other outcomes."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "3f4f9122fe9c51052938370fb8f14bc3": {
+       "type": "I",
+       "text": "S. 19 in force at 1.9.2014 by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      },
+      "09b0b90fd7365f2c49777909ba6a908c": {
+       "type": "C",
+       "text": "S. 19(a)(b)(c)(d) modified (1.9.2014) by The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530), regs. 1, 64(1)(a), (2), Sch. 3 Pt. 1"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "enacted",
+     "date": "2014-03-13",
+     "kind": "enacted",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "3f4f9122fe9c51052938370fb8f14bc3",
+      "09b0b90fd7365f2c49777909ba6a908c"
+     ]
+    }
+   ],
+   "effects": {
+    "3f4f9122fe9c51052938370fb8f14bc3": {
+     "id": "3f4f9122fe9c51052938370fb8f14bc3",
+     "type": "coming into force",
+     "affected_provisions": "s. 19",
+     "affected": [
+      "ukpga/2014/6/section/19"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 7(a)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Part 3, to the extent that it is not already in force, save for: (i) in section 70(1), the words “Subject to this section and sections 71 to 75,”; (ii) sections 70(2) to 75; and (iii) paragraphs 55 to 58 of Schedule 3",
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "09b0b90fd7365f2c49777909ba6a908c": {
+     "id": "09b0b90fd7365f2c49777909ba6a908c",
+     "type": "modified",
+     "affected_provisions": "s. 19(a)(b)(c)(d)",
+     "affected": [
+      "ukpga/2014/6/section/19/a/b",
+      "ukpga/2014/6/section/19/a/c",
+      "ukpga/2014/6/section/19/a/d"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 64(1)(a)(2) Sch. 3 Pt. 1",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "ukpga/2014/6/section/21",
+   "instrument": "ukpga/2014/6",
+   "kind": "section",
+   "number": "21",
+   "label": "Section 21",
+   "cite": "Children and Families Act 2014, s. 21",
+   "heading": "Special educational provision, health care provision and social care provision",
+   "current_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/21",
+   "versions": [
+    {
+     "key": "enacted",
+     "date": "2014-03-13",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/21/enacted",
+     "heading": "Special educational provision, health care provision and social care provision",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "“Special educational provision”, for a child aged two or more or a young person, means educational or training provision that is additional to, or different from, that made generally for others of the same age in—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "mainstream schools in England,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "maintained nursery schools in England,"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "mainstream post-16 institutions in England, or"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "places in England at which relevant early years education is provided."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "“Special educational provision”, for a child aged under two, means educational provision of any kind."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "“Health care provision” means the provision of health care services as part of the comprehensive health service in England continued under section 1(1) of the National Health Service Act 2006."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "“Social care provision” means the provision made by a local authority in the exercise of its social services functions."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Health care provision or social care provision which educates or trains a child or young person is to be treated as special educational provision (instead of health care provision or social care provision)."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "This section applies for the purposes of this Part."
+      }
+     ],
+     "extent": null,
+     "status": "Not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/21/2014-09-01",
+     "heading": "Special educational provision, health care provision and social care provision",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "“Special educational provision”, for a child aged two or more or a young person, means educational or training provision that is additional to, or different from, that made generally for others of the same age in—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "mainstream schools in England,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "maintained nursery schools in England,"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "mainstream post-16 institutions in England, or"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "places in England at which relevant early years education is provided."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "“Special educational provision”, for a child aged under two, means educational provision of any kind."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "“Health care provision” means the provision of health care services as part of the comprehensive health service in England continued under section 1(1) of the National Health Service Act 2006."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "“Social care provision” means the provision made by a local authority in the exercise of its social services functions."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Health care provision or social care provision which educates or trains a child or young person is to be treated as special educational provision (instead of health care provision or social care provision)."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "This section applies for the purposes of this Part."
+      }
+     ],
+     "extent": null,
+     "status": "In force",
+     "commentaries": {
+      "320d6032a91c159febe8b024d2dcc16e": {
+       "type": "I",
+       "text": "S. 21 in force at 1.9.2014 by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "enacted",
+     "date": "2014-03-13",
+     "kind": "enacted",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "320d6032a91c159febe8b024d2dcc16e"
+     ]
+    }
+   ],
+   "effects": {
+    "320d6032a91c159febe8b024d2dcc16e": {
+     "id": "320d6032a91c159febe8b024d2dcc16e",
+     "type": "coming into force",
+     "affected_provisions": "s. 21",
+     "affected": [
+      "ukpga/2014/6/section/21"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 7(a)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Part 3, to the extent that it is not already in force, save for: (i) in section 70(1), the words “Subject to this section and sections 71 to 75,”; (ii) sections 70(2) to 75; and (iii) paragraphs 55 to 58 of Schedule 3",
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "ukpga/2014/6/section/36",
+   "instrument": "ukpga/2014/6",
+   "kind": "section",
+   "number": "36",
+   "label": "Section 36",
+   "cite": "Children and Families Act 2014, s. 36",
+   "heading": "Assessment of education, health and care needs",
+   "current_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36",
+   "versions": [
+    {
+     "key": "enacted",
+     "date": "2014-03-13",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36/enacted",
+     "heading": "Assessment of education, health and care needs",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "A request for a local authority in England to secure an EHC needs assessment for a child or young person may be made to the authority by the child’s parent, the young person or a person acting on behalf of a school or post-16 institution."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "An “EHC needs assessment” is an assessment of the educational, health care and social care needs of a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "When a request is made to a local authority under subsection (1), or a local authority otherwise becomes responsible for a child or young person, the authority must determine whether it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "In making a determination under subsection (3), the local authority must consult the child’s parent or the young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Where the local authority determines that it is not necessary for special educational provision to be made for the child or young person in accordance with an EHC plan it must notify the child’s parent or the young person—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "of the reasons for that determination, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "that accordingly it has decided not to secure an EHC needs assessment for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "Subsection (7) applies where—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "no EHC plan is maintained for the child or young person,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the child or young person has not been assessed under this section or section 71 during the previous six months, and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the local authority determines that it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(7)",
+       "text": "The authority must notify the child’s parent or the young person—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "that it is considering securing an EHC needs assessment for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "that the parent or young person has the right to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "express views to the authority (orally or in writing), and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "submit evidence to the authority."
+      },
+      {
+       "depth": 0,
+       "label": "(8)",
+       "text": "The local authority must secure an EHC needs assessment for the child or young person if, after having regard to any views expressed and evidence submitted under subsection (7), the authority is of the opinion that—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child or young person has or may have special educational needs, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(9)",
+       "text": "After an EHC needs assessment has been carried out, the local authority must notify the child’s parent or the young person of—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the outcome of the assessment,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "whether it proposes to secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the reasons for that decision."
+      },
+      {
+       "depth": 0,
+       "label": "(10)",
+       "text": "In making a determination or forming an opinion for the purposes of this section in relation to a young person aged over 18, a local authority must consider whether he or she requires additional time, in comparison to the majority of others of the same age who do not have special educational needs, to complete his or her education or training."
+      },
+      {
+       "depth": 0,
+       "label": "(11)",
+       "text": "Regulations may make provision about EHC needs assessments, in particular—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "about requests under subsection (1);"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "imposing time limits in relation to consultation under subsection (4);"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "about giving notice;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "about expressing views and submitting evidence under subsection (7);"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "about how assessments are to be conducted;"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "about advice to be obtained in connection with an assessment;"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "about combining an EHC needs assessment with other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": "about the use for the purposes of an EHC needs assessment of information obtained as a result of other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(i)",
+       "text": "about the use of information obtained as a result of an EHC needs assessment, including the use of that information for the purposes of other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(j)",
+       "text": "about the provision of information, advice and support in connection with an EHC needs assessment."
+      }
+     ],
+     "extent": null,
+     "status": "Not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-04-01",
+     "date": "2014-04-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36/2014-04-01",
+     "heading": "Assessment of education, health and care needs",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "A request for a local authority in England to secure an EHC needs assessment for a child or young person may be made to the authority by the child’s parent, the young person or a person acting on behalf of a school or post-16 institution."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "An “EHC needs assessment” is an assessment of the educational, health care and social care needs of a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "When a request is made to a local authority under subsection (1), or a local authority otherwise becomes responsible for a child or young person, the authority must determine whether it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "In making a determination under subsection (3), the local authority must consult the child’s parent or the young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Where the local authority determines that it is not necessary for special educational provision to be made for the child or young person in accordance with an EHC plan it must notify the child’s parent or the young person—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "of the reasons for that determination, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "that accordingly it has decided not to secure an EHC needs assessment for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "Subsection (7) applies where—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "no EHC plan is maintained for the child or young person,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the child or young person has not been assessed under this section or section 71 during the previous six months, and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the local authority determines that it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(7)",
+       "text": "The authority must notify the child’s parent or the young person—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "that it is considering securing an EHC needs assessment for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "that the parent or young person has the right to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "express views to the authority (orally or in writing), and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "submit evidence to the authority."
+      },
+      {
+       "depth": 0,
+       "label": "(8)",
+       "text": "The local authority must secure an EHC needs assessment for the child or young person if, after having regard to any views expressed and evidence submitted under subsection (7), the authority is of the opinion that—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child or young person has or may have special educational needs, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(9)",
+       "text": "After an EHC needs assessment has been carried out, the local authority must notify the child’s parent or the young person of—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the outcome of the assessment,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "whether it proposes to secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the reasons for that decision."
+      },
+      {
+       "depth": 0,
+       "label": "(10)",
+       "text": "In making a determination or forming an opinion for the purposes of this section in relation to a young person aged over 18, a local authority must consider whether he or she requires additional time, in comparison to the majority of others of the same age who do not have special educational needs, to complete his or her education or training."
+      },
+      {
+       "depth": 0,
+       "label": "(11)",
+       "text": "Regulations may make provision about EHC needs assessments, in particular—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "about requests under subsection (1);"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "imposing time limits in relation to consultation under subsection (4);"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "about giving notice;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "about expressing views and submitting evidence under subsection (7);"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "about how assessments are to be conducted;"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "about advice to be obtained in connection with an assessment;"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "about combining an EHC needs assessment with other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": "about the use for the purposes of an EHC needs assessment of information obtained as a result of other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(i)",
+       "text": "about the use of information obtained as a result of an EHC needs assessment, including the use of that information for the purposes of other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(j)",
+       "text": "about the provision of information, advice and support in connection with an EHC needs assessment."
+      }
+     ],
+     "extent": null,
+     "status": "In force for specified purposes",
+     "commentaries": {
+      "b4f200849ebdba000a3db7ed175e7e1f": {
+       "type": "I",
+       "text": "S. 36 in force at 1.4.2014 for specified purposes by S.I. 2014/889, art. 3(c)"
+      }
+     }
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/36/2014-09-01",
+     "heading": "Assessment of education, health and care needs",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "A request for a local authority in England to secure an EHC needs assessment for a child or young person may be made to the authority by the child’s parent, the young person or a person acting on behalf of a school or post-16 institution."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "An “EHC needs assessment” is an assessment of the educational, health care and social care needs of a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "When a request is made to a local authority under subsection (1), or a local authority otherwise becomes responsible for a child or young person, the authority must determine whether it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "In making a determination under subsection (3), the local authority must consult the child’s parent or the young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Where the local authority determines that it is not necessary for special educational provision to be made for the child or young person in accordance with an EHC plan it must notify the child’s parent or the young person—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "of the reasons for that determination, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "that accordingly it has decided not to secure an EHC needs assessment for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "Subsection (7) applies where—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "no EHC plan is maintained for the child or young person,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the child or young person has not been assessed under this section or section 71 during the previous six months, and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the local authority determines that it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(7)",
+       "text": "The authority must notify the child’s parent or the young person—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "that it is considering securing an EHC needs assessment for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "that the parent or young person has the right to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "express views to the authority (orally or in writing), and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "submit evidence to the authority."
+      },
+      {
+       "depth": 0,
+       "label": "(8)",
+       "text": "The local authority must secure an EHC needs assessment for the child or young person if, after having regard to any views expressed and evidence submitted under subsection (7), the authority is of the opinion that—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child or young person has or may have special educational needs, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "it may be necessary for special educational provision to be made for the child or young person in accordance with an EHC plan."
+      },
+      {
+       "depth": 0,
+       "label": "(9)",
+       "text": "After an EHC needs assessment has been carried out, the local authority must notify the child’s parent or the young person of—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the outcome of the assessment,"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "whether it proposes to secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the reasons for that decision."
+      },
+      {
+       "depth": 0,
+       "label": "(10)",
+       "text": "In making a determination or forming an opinion for the purposes of this section in relation to a young person aged over 18, a local authority must consider whether he or she requires additional time, in comparison to the majority of others of the same age who do not have special educational needs, to complete his or her education or training."
+      },
+      {
+       "depth": 0,
+       "label": "(11)",
+       "text": "Regulations may make provision about EHC needs assessments, in particular—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "about requests under subsection (1);"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "imposing time limits in relation to consultation under subsection (4);"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "about giving notice;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "about expressing views and submitting evidence under subsection (7);"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "about how assessments are to be conducted;"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "about advice to be obtained in connection with an assessment;"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "about combining an EHC needs assessment with other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": "about the use for the purposes of an EHC needs assessment of information obtained as a result of other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(i)",
+       "text": "about the use of information obtained as a result of an EHC needs assessment, including the use of that information for the purposes of other assessments;"
+      },
+      {
+       "depth": 1,
+       "label": "(j)",
+       "text": "about the provision of information, advice and support in connection with an EHC needs assessment."
+      }
+     ],
+     "extent": null,
+     "status": "In force",
+     "commentaries": {
+      "b4f200849ebdba000a3db7ed175e7e1f": {
+       "type": "I",
+       "text": "S. 36 in force at 1.4.2014 for specified purposes by S.I. 2014/889, art. 3(c)"
+      },
+      "9ba5b2990fe655f4e296c03ffbdceec9": {
+       "type": "C",
+       "text": "S. 36(1)(4)(5)(7)(9) modified (1.9.2014) by The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530), regs. 1, 64(1)(b), 64(2), Sch. 3 Pt. 2"
+      },
+      "15b3effe8515ec83b5e3759d4bf67797": {
+       "type": "C",
+       "text": "S. 36 modified by 2002 c. 41, s. 36(9)(aa) (as inserted (1.9.2014) by Children and Families Act 2014 (c. 6), s. 139(6), Sch. 3 para. 79(7); S.I. 2014/889, art. 7(a))"
+      },
+      "2aaf048d9597a8a71055e59802ee85f5": {
+       "type": "I",
+       "text": "S. 36 in force at 1.9.2014 in so far as not already in force by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "enacted",
+     "date": "2014-03-13",
+     "kind": "enacted",
+     "effects": []
+    },
+    {
+     "version": "2014-04-01",
+     "date": "2014-04-01",
+     "kind": "commenced",
+     "effects": [
+      "b4f200849ebdba000a3db7ed175e7e1f"
+     ]
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "2aaf048d9597a8a71055e59802ee85f5",
+      "15b3effe8515ec83b5e3759d4bf67797",
+      "9ba5b2990fe655f4e296c03ffbdceec9"
+     ]
+    }
+   ],
+   "effects": {
+    "b4f200849ebdba000a3db7ed175e7e1f": {
+     "id": "b4f200849ebdba000a3db7ed175e7e1f",
+     "type": "coming into force",
+     "affected_provisions": "s. 36",
+     "affected": [
+      "ukpga/2014/6/section/36"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 3(c)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "for the purposes of making orders or regulations only",
+     "in_force": [
+      {
+       "date": "2014-04-01",
+       "qualification": "for specified purposes",
+       "prospective": false
+      }
+     ]
+    },
+    "2aaf048d9597a8a71055e59802ee85f5": {
+     "id": "2aaf048d9597a8a71055e59802ee85f5",
+     "type": "coming into force",
+     "affected_provisions": "s. 36",
+     "affected": [
+      "ukpga/2014/6/section/36"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 7(a)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Part 3, to the extent that it is not already in force, save for: (i) in section 70(1), the words “Subject to this section and sections 71 to 75,”; (ii) sections 70(2) to 75; and (iii) paragraphs 55 to 58 of Schedule 3",
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "in force in so far as not already in force",
+       "prospective": false
+      }
+     ]
+    },
+    "15b3effe8515ec83b5e3759d4bf67797": {
+     "id": "15b3effe8515ec83b5e3759d4bf67797",
+     "type": "modified by 2002 c. 41, s. 36(9)(aa) (as inserted)",
+     "affected_provisions": "s. 36",
+     "affected": [
+      "ukpga/2014/6/section/36"
+     ],
+     "affecting": "ukpga/2014/6",
+     "affecting_title": "Children and Families Act 2014",
+     "affecting_provisions": "Sch. 3 para. 79(7)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": null,
+       "qualification": "",
+       "prospective": true
+      },
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "9ba5b2990fe655f4e296c03ffbdceec9": {
+     "id": "9ba5b2990fe655f4e296c03ffbdceec9",
+     "type": "modified",
+     "affected_provisions": "s. 36(1)(4)(5)(7)(9)",
+     "affected": [
+      "ukpga/2014/6/section/36/1",
+      "ukpga/2014/6/section/36/4",
+      "ukpga/2014/6/section/36/5",
+      "ukpga/2014/6/section/36/7",
+      "ukpga/2014/6/section/36/9"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 64(1)(b)(2) Sch. 3 Pt. 2",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "ukpga/2014/6/section/37",
+   "instrument": "ukpga/2014/6",
+   "kind": "section",
+   "number": "37",
+   "label": "Section 37",
+   "cite": "Children and Families Act 2014, s. 37",
+   "heading": "Education, health and care plans",
+   "current_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37",
+   "versions": [
+    {
+     "key": "enacted",
+     "date": "2014-03-13",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37/enacted",
+     "heading": "Education, health and care plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "Where, in the light of an EHC needs assessment, it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the local authority must secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "once an EHC plan has been prepared, it must maintain the plan."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "For the purposes of this Part, an EHC plan is a plan specifying—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s or young person’s special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the outcomes sought for him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the special educational provision required by him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "any health care provision reasonably required by the learning difficulties and disabilities which result in him or her having special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "in the case of a child or a young person aged under 18, any social care provision which must be made for him or her by the local authority as a result of section 2 of the Chronically Sick and Disabled Persons Act 1970 (as it applies by virtue of section 28A of that Act);"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "any social care provision reasonably required by the learning difficulties and disabilities which result in the child or young person having special educational needs, to the extent that the provision is not already specified in the plan under paragraph (e)."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "An EHC plan may also specify other health care and social care provision reasonably required by the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "Regulations may make provision about the preparation, content, maintenance, amendment and disclosure of EHC plans."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Regulations under subsection (4) about amendments of EHC plans must include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended under those regulations."
+      }
+     ],
+     "extent": null,
+     "status": "Not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-04-01",
+     "date": "2014-04-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37/2014-04-01",
+     "heading": "Education, health and care plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "Where, in the light of an EHC needs assessment, it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the local authority must secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "once an EHC plan has been prepared, it must maintain the plan."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "For the purposes of this Part, an EHC plan is a plan specifying—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s or young person’s special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the outcomes sought for him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the special educational provision required by him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "any health care provision reasonably required by the learning difficulties and disabilities which result in him or her having special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "in the case of a child or a young person aged under 18, any social care provision which must be made for him or her by the local authority as a result of section 2 of the Chronically Sick and Disabled Persons Act 1970 (as it applies by virtue of section 28A of that Act);"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "any social care provision reasonably required by the learning difficulties and disabilities which result in the child or young person having special educational needs, to the extent that the provision is not already specified in the plan under paragraph (e)."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "An EHC plan may also specify other health care and social care provision reasonably required by the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "Regulations may make provision about the preparation, content, maintenance, amendment and disclosure of EHC plans."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Regulations under subsection (4) about amendments of EHC plans must include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended under those regulations."
+      }
+     ],
+     "extent": null,
+     "status": "In force for specified purposes",
+     "commentaries": {
+      "de111425d61e4fa6491f66eedb7c1033": {
+       "type": "I",
+       "text": "S. 37 in force at 1.4.2014 for specified purposes by S.I. 2014/889, art. 3(c)"
+      }
+     }
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37/2014-09-01",
+     "heading": "Education, health and care plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "Where, in the light of an EHC needs assessment, it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the local authority must secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "once an EHC plan has been prepared, it must maintain the plan."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "For the purposes of this Part, an EHC plan is a plan specifying—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s or young person’s special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the outcomes sought for him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the special educational provision required by him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "any health care provision reasonably required by the learning difficulties and disabilities which result in him or her having special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "in the case of a child or a young person aged under 18, any social care provision which must be made for him or her by the local authority as a result of section 2 of the Chronically Sick and Disabled Persons Act 1970 (as it applies by virtue of section 28A of that Act);"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "any social care provision reasonably required by the learning difficulties and disabilities which result in the child or young person having special educational needs, to the extent that the provision is not already specified in the plan under paragraph (e)."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "An EHC plan may also specify other health care and social care provision reasonably required by the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "Regulations may make provision about the preparation, content, maintenance, amendment and disclosure of EHC plans."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Regulations under subsection (4) about amendments of EHC plans must include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended under those regulations."
+      }
+     ],
+     "extent": null,
+     "status": "In force",
+     "commentaries": {
+      "de111425d61e4fa6491f66eedb7c1033": {
+       "type": "I",
+       "text": "S. 37 in force at 1.4.2014 for specified purposes by S.I. 2014/889, art. 3(c)"
+      },
+      "5929dbf7e8d80b668ce392b52f4e8934": {
+       "type": "I",
+       "text": "S. 37 in force at 1.9.2014 in so far as not already in force by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      }
+     }
+    },
+    {
+     "key": "2015-04-01",
+     "date": "2015-04-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/37/2015-04-01",
+     "heading": "Education, health and care plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "Where, in the light of an EHC needs assessment, it is necessary for special educational provision to be made for a child or young person in accordance with an EHC plan—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the local authority must secure that an EHC plan is prepared for the child or young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "once an EHC plan has been prepared, it must maintain the plan."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "For the purposes of this Part, an EHC plan is a plan specifying—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s or young person’s special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the outcomes sought for him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the special educational provision required by him or her;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "any health care provision reasonably required by the learning difficulties and disabilities which result in him or her having special educational needs;"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "in the case of a child or a young person aged under 18, any social care provision which must be made for him or her by the local authority as a result of section 2 of the Chronically Sick and Disabled Persons Act 1970 ...;"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "any social care provision reasonably required by the learning difficulties and disabilities which result in the child or young person having special educational needs, to the extent that the provision is not already specified in the plan under paragraph (e)."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "An EHC plan may also specify other health care and social care provision reasonably required by the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "Regulations may make provision about the preparation, content, maintenance, amendment and disclosure of EHC plans."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Regulations under subsection (4) about amendments of EHC plans must include provision applying section 33 (mainstream education for children and young people with EHC plans) to a case where an EHC plan is to be amended under those regulations."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "de111425d61e4fa6491f66eedb7c1033": {
+       "type": "I",
+       "text": "S. 37 in force at 1.4.2014 for specified purposes by S.I. 2014/889, art. 3(c)"
+      },
+      "5929dbf7e8d80b668ce392b52f4e8934": {
+       "type": "I",
+       "text": "S. 37 in force at 1.9.2014 in so far as not already in force by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      },
+      "17141d776766be8db415b051c5309d42": {
+       "type": "F",
+       "text": "Words in s. 37(2)(e) omitted (1.4.2015) by virtue of The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914), art. 1(2), Sch. para. 97 (with arts. 1(3), 3)"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "enacted",
+     "date": "2014-03-13",
+     "kind": "enacted",
+     "effects": []
+    },
+    {
+     "version": "2014-04-01",
+     "date": "2014-04-01",
+     "kind": "commenced",
+     "effects": [
+      "de111425d61e4fa6491f66eedb7c1033"
+     ]
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "5929dbf7e8d80b668ce392b52f4e8934"
+     ]
+    },
+    {
+     "version": "2015-04-01",
+     "date": "2015-04-01",
+     "kind": "amended",
+     "effects": [
+      "17141d776766be8db415b051c5309d42"
+     ]
+    }
+   ],
+   "effects": {
+    "de111425d61e4fa6491f66eedb7c1033": {
+     "id": "de111425d61e4fa6491f66eedb7c1033",
+     "type": "coming into force",
+     "affected_provisions": "s. 37",
+     "affected": [
+      "ukpga/2014/6/section/37"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 3(c)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "for the purposes of making orders or regulations only",
+     "in_force": [
+      {
+       "date": "2014-04-01",
+       "qualification": "for specified purposes",
+       "prospective": false
+      }
+     ]
+    },
+    "5929dbf7e8d80b668ce392b52f4e8934": {
+     "id": "5929dbf7e8d80b668ce392b52f4e8934",
+     "type": "coming into force",
+     "affected_provisions": "s. 37",
+     "affected": [
+      "ukpga/2014/6/section/37"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 7(a)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Part 3, to the extent that it is not already in force, save for: (i) in section 70(1), the words “Subject to this section and sections 71 to 75,”; (ii) sections 70(2) to 75; and (iii) paragraphs 55 to 58 of Schedule 3",
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "in force in so far as not already in force",
+       "prospective": false
+      }
+     ]
+    },
+    "17141d776766be8db415b051c5309d42": {
+     "id": "17141d776766be8db415b051c5309d42",
+     "type": "words omitted",
+     "affected_provisions": "s. 37(2)(e)",
+     "affected": [
+      "ukpga/2014/6/section/37/2/e"
+     ],
+     "affecting": "uksi/2015/914",
+     "affecting_title": "The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015",
+     "affecting_provisions": "Sch. para. 97",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "comes into force on the same day as s. 1 of 2014 c. 23, determined by SI 2015/993 to be 1.4.2015",
+     "in_force": [
+      {
+       "date": "2015-04-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "ukpga/2014/6/section/42",
+   "instrument": "ukpga/2014/6",
+   "kind": "section",
+   "number": "42",
+   "label": "Section 42",
+   "cite": "Children and Families Act 2014, s. 42",
+   "heading": "Duty to secure special educational provision and health care provision in accordance with EHC Plan",
+   "current_url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42",
+   "versions": [
+    {
+     "key": "enacted",
+     "date": "2014-03-13",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42/enacted",
+     "heading": "Duty to secure special educational provision and health care provision in accordance with EHC Plan",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "This section applies where a local authority maintains an EHC plan for a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "The local authority must secure the specified special educational provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "If the plan specifies health care provision, the responsible commissioning body must arrange the specified health care provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "“The responsible commissioning body”, in relation to any specified health care provision, means the body (or each body) that is under a duty to arrange health care provision of that kind in respect of the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Subsections (2) and (3) do not apply if the child’s parent or the young person has made suitable alternative arrangements."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "“Specified”, in relation to an EHC plan, means specified in the plan."
+      }
+     ],
+     "extent": null,
+     "status": "Not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42/2014-09-01",
+     "heading": "Duty to secure special educational provision and health care provision in accordance with EHC Plan",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "This section applies where a local authority maintains an EHC plan for a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "The local authority must secure the specified special educational provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "If the plan specifies health care provision, the responsible commissioning body must arrange the specified health care provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "“The responsible commissioning body”, in relation to any specified health care provision, means the body (or each body) that is under a duty to arrange health care provision of that kind in respect of the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Subsections (2) and (3) do not apply if the child’s parent or the young person has made suitable alternative arrangements."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "“Specified”, in relation to an EHC plan, means specified in the plan."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "f3a92e3703ebbc30d10f665dd9ebc3a8": {
+       "type": "C",
+       "text": "S. 42(5) modified (1.9.2014) by The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530), regs. 1, 64(1)(b), 64(2), Sch. 3 Pt. 2"
+      },
+      "0c0af5f9b718b3f4e2a0914500b0e19c": {
+       "type": "I",
+       "text": "S. 42 in force at 1.9.2014 by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      }
+     }
+    },
+    {
+     "key": "2020-03-25",
+     "date": "2020-03-25",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42/2020-03-25",
+     "heading": "Duty to secure special educational provision and health care provision in accordance with EHC Plan",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "This section applies where a local authority maintains an EHC plan for a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "The local authority must secure the specified special educational provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "If the plan specifies health care provision, the responsible commissioning body must arrange the specified health care provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "“The responsible commissioning body”, in relation to any specified health care provision, means the body (or each body) that is under a duty to arrange health care provision of that kind in respect of the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Subsections (2) and (3) do not apply if the child’s parent or the young person has made suitable alternative arrangements."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "“Specified”, in relation to an EHC plan, means specified in the plan."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "f3a92e3703ebbc30d10f665dd9ebc3a8": {
+       "type": "C",
+       "text": "S. 42(5) modified (1.9.2014) by The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530), regs. 1, 64(1)(b), 64(2), Sch. 3 Pt. 2"
+      },
+      "0c0af5f9b718b3f4e2a0914500b0e19c": {
+       "type": "I",
+       "text": "S. 42 in force at 1.9.2014 by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      },
+      "ea1701920573cc26f6b493545b62c8eb": {
+       "type": "C",
+       "text": "S. 42: power to modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 5 (with ss. 88-90) (which affecting provision expires (9.12.2021) by virtue of The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021 (S.I. 2021/1399), regs. 1(2), 5)"
+      }
+     }
+    },
+    {
+     "key": "2021-12-09",
+     "date": "2021-12-09",
+     "url": "https://www.legislation.gov.uk/ukpga/2014/6/section/42/2021-12-09",
+     "heading": "Duty to secure special educational provision and health care provision in accordance with EHC Plan",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "This section applies where a local authority maintains an EHC plan for a child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "The local authority must secure the specified special educational provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "If the plan specifies health care provision, the responsible commissioning body must arrange the specified health care provision for the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "“The responsible commissioning body”, in relation to any specified health care provision, means the body (or each body) that is under a duty to arrange health care provision of that kind in respect of the child or young person."
+      },
+      {
+       "depth": 0,
+       "label": "(5)",
+       "text": "Subsections (2) and (3) do not apply if the child’s parent or the young person has made suitable alternative arrangements."
+      },
+      {
+       "depth": 0,
+       "label": "(6)",
+       "text": "“Specified”, in relation to an EHC plan, means specified in the plan."
+      }
+     ],
+     "extent": null,
+     "status": "In force",
+     "commentaries": {
+      "f3a92e3703ebbc30d10f665dd9ebc3a8": {
+       "type": "C",
+       "text": "S. 42(5) modified (1.9.2014) by The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530), regs. 1, 64(1)(b), 64(2), Sch. 3 Pt. 2"
+      },
+      "0c0af5f9b718b3f4e2a0914500b0e19c": {
+       "type": "I",
+       "text": "S. 42 in force at 1.9.2014 by S.I. 2014/889, art. 7(a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "enacted",
+     "date": "2014-03-13",
+     "kind": "enacted",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "0c0af5f9b718b3f4e2a0914500b0e19c",
+      "f3a92e3703ebbc30d10f665dd9ebc3a8"
+     ]
+    },
+    {
+     "version": "2020-03-25",
+     "date": "2020-03-25",
+     "kind": "modified",
+     "effects": [
+      "ea1701920573cc26f6b493545b62c8eb"
+     ]
+    },
+    {
+     "version": "2021-12-09",
+     "date": "2021-12-09",
+     "kind": "modified",
+     "effects": [
+      "c419d4d9c0ee69aa68192ea5698832ea"
+     ]
+    }
+   ],
+   "effects": {
+    "c419d4d9c0ee69aa68192ea5698832ea": {
+     "id": "c419d4d9c0ee69aa68192ea5698832ea",
+     "type": "expiry of earlier affecting provision 2020 c. 7, Sch. 17 para. 5(6) entry",
+     "affected_provisions": "s. 42",
+     "affected": [
+      "ukpga/2014/6/section/42"
+     ],
+     "affecting": "uksi/2021/1399",
+     "affecting_title": "The Coronavirus Act 2020 (Early Expiry) (No. 2) Regulations 2021",
+     "affecting_provisions": "reg. 5",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Editor: remove annotation from latest version and add appended commentary in previous version: \"(which affecting provision expires (9.12.2020) by virtue of … etc)\"",
+     "in_force": [
+      {
+       "date": "2021-12-09",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "ea1701920573cc26f6b493545b62c8eb": {
+     "id": "ea1701920573cc26f6b493545b62c8eb",
+     "type": "power to modify conferred (temp.)",
+     "affected_provisions": "s. 42",
+     "affected": [
+      "ukpga/2014/6/section/42"
+     ],
+     "affecting": "ukpga/2020/7",
+     "affecting_title": "Coronavirus Act 2020",
+     "affecting_provisions": "Sch. 17 para. 5",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Notice",
+     "in_force": [
+      {
+       "date": "2020-03-25",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "0c0af5f9b718b3f4e2a0914500b0e19c": {
+     "id": "0c0af5f9b718b3f4e2a0914500b0e19c",
+     "type": "coming into force",
+     "affected_provisions": "s. 42",
+     "affected": [
+      "ukpga/2014/6/section/42"
+     ],
+     "affecting": "uksi/2014/889",
+     "affecting_title": "The Children and Families Act 2014 (Commencement No. 2) Order 2014",
+     "affecting_provisions": "art. 7(a)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Part 3, to the extent that it is not already in force, save for: (i) in section 70(1), the words “Subject to this section and sections 71 to 75,”; (ii) sections 70(2) to 75; and (iii) paragraphs 55 to 58 of Schedule 3",
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "f3a92e3703ebbc30d10f665dd9ebc3a8": {
+     "id": "f3a92e3703ebbc30d10f665dd9ebc3a8",
+     "type": "modified",
+     "affected_provisions": "s. 42(5)",
+     "affected": [
+      "ukpga/2014/6/section/42/5"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 64(1)(b)(2) Sch. 3 Pt. 2",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "uksi/2014/1530/regulation/6",
+   "instrument": "uksi/2014/1530",
+   "kind": "regulation",
+   "number": "6",
+   "label": "Regulation 6",
+   "cite": "The Special Educational Needs and Disability Regulations 2014, reg. 6",
+   "heading": "Information and advice to be obtained of EHC Needs Assessments",
+   "current_url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/6",
+   "versions": [
+    {
+     "key": "made",
+     "date": "2014-06-04",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/6/made",
+     "heading": "Information and advice to be obtained of EHC Needs Assessments",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "Where the local authority secures an EHC needs assessment for a child or young person, it must seek the following advice and information, on the needs of the child or young person, and what provision may be required to meet such needs and the outcomes that are intended to be achieved by the child or young person receiving that provision—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "advice and information from the child’s parent or the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "educational advice and information—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "from the head teacher or principal of the school or post-16 or other institution that the child or young person is attending, or"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "where this is not available, from a person who the local authority is satisfied has experience of teaching children or young people with special educational needs, or knowledge of the differing provision which may be called for in different cases to meet those needs, or"
+      },
+      {
+       "depth": 2,
+       "label": "(iii)",
+       "text": "if the child or young person is not currently attending a school or post-16 or other institution and advice cannot be obtained under sub-paragraph (ii), from a person responsible for educational provision for the child or young person, and"
+      },
+      {
+       "depth": 2,
+       "label": "(iv)",
+       "text": "if any parent of the child or young person is a serving member of Her Majesty’s armed forces, also from the Secretary of State for Defence;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "medical advice and information from a health care professional identified by the responsible commissioning body;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "psychological advice and information from an educational psychologist;"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "advice and information in relation to social care;"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "advice and information from any other person the local authority thinks is appropriate;"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "where the child or young person is in or beyond year 9, advice and information in relation to provision to assist the child or young person in preparation for adulthood and independent living; and"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": "advice and information from any person the child’s parent or young person reasonably requests that the local authority seek advice from."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "Where it appears to the authority, in consequence of medical advice or otherwise, that the child or young person in question is either or both—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "hearing impaired;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "visually impaired,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "and any person from whom advice and information is sought as provided in paragraph (1)(b) is not qualified to teach children or young people who are so impaired, then the advice sought shall be advice given after consultation with a person who is so qualified."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "When seeking advice in accordance with paragraph (1)(b) to (h), the local authority must provide the person from whom advice is being sought with copies of—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "any representations made by the child’s parent or the young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "any evidence submitted by or at the request of the child’s parent or the young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "The local authority must not seek any of the advice referred to in paragraphs (1)(b) to (h) if such advice has previously been provided for any purpose and the person providing that advice, the local authority and the child’s parent or the young person are satisfied that it is sufficient for the purposes of an EHC needs assessment."
+      }
+     ],
+     "extent": null,
+     "status": "Made, not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/6/2014-09-01",
+     "heading": "Information and advice to be obtained of EHC Needs Assessments",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "Where the local authority secures an EHC needs assessment for a child or young person, it must seek the following advice and information, on the needs of the child or young person, and what provision may be required to meet such needs and the outcomes that are intended to be achieved by the child or young person receiving that provision—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "advice and information from the child’s parent or the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "educational advice and information—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "from the head teacher or principal of the school or post-16 or other institution that the child or young person is attending, or"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "where this is not available, from a person who the local authority is satisfied has experience of teaching children or young people with special educational needs, or knowledge of the differing provision which may be called for in different cases to meet those needs, or"
+      },
+      {
+       "depth": 2,
+       "label": "(iii)",
+       "text": "if the child or young person is not currently attending a school or post-16 or other institution and advice cannot be obtained under sub-paragraph (ii), from a person responsible for educational provision for the child or young person, and"
+      },
+      {
+       "depth": 2,
+       "label": "(iv)",
+       "text": "if any parent of the child or young person is a serving member of Her Majesty’s armed forces, also from the Secretary of State for Defence;"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "medical advice and information from a health care professional identified by the responsible commissioning body;"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "psychological advice and information from an educational psychologist;"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "advice and information in relation to social care;"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "advice and information from any other person the local authority thinks is appropriate;"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "where the child or young person is in or beyond year 9, advice and information in relation to provision to assist the child or young person in preparation for adulthood and independent living; and"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": "advice and information from any person the child’s parent or young person reasonably requests that the local authority seek advice from."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "Where it appears to the authority, in consequence of medical advice or otherwise, that the child or young person in question is either or both—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "hearing impaired;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "visually impaired,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "and any person from whom advice and information is sought as provided in paragraph (1)(b) is not qualified to teach children or young people who are so impaired, then the advice sought shall be advice given after consultation with a person who is so qualified."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "When seeking advice in accordance with paragraph (1)(b) to (h), the local authority must provide the person from whom advice is being sought with copies of—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "any representations made by the child’s parent or the young person, and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "any evidence submitted by or at the request of the child’s parent or the young person."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "The local authority must not seek any of the advice referred to in paragraphs (1)(b) to (h) if such advice has previously been provided for any purpose and the person providing that advice, the local authority and the child’s parent or the young person are satisfied that it is sufficient for the purposes of an EHC needs assessment."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {}
+    }
+   ],
+   "changes": [
+    {
+     "version": "made",
+     "date": "2014-06-04",
+     "kind": "made",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "uksi/2014/1530-coming-into-force"
+     ]
+    }
+   ],
+   "effects": {
+    "uksi/2014/1530-coming-into-force": {
+     "id": "uksi/2014/1530-coming-into-force",
+     "type": "coming into force",
+     "affected_provisions": "whole instrument",
+     "affected": [
+      "uksi/2014/1530"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 1",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "uksi/2014/1530/regulation/11",
+   "instrument": "uksi/2014/1530",
+   "kind": "regulation",
+   "number": "11",
+   "label": "Regulation 11",
+   "cite": "The Special Educational Needs and Disability Regulations 2014, reg. 11",
+   "heading": "Preparation of EHC plans",
+   "current_url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/11",
+   "versions": [
+    {
+     "key": "made",
+     "date": "2014-06-04",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/11/made",
+     "heading": "Preparation of EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": null,
+       "text": "When preparing a child or young person’s EHC Plan a local authority must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "take into account the evidence received when securing the EHC needs assessment; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "consider how best to achieve the outcomes to be sought for the child or young person."
+      }
+     ],
+     "extent": null,
+     "status": "Made, not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/11/2014-09-01",
+     "heading": "Preparation of EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": null,
+       "text": "When preparing a child or young person’s EHC Plan a local authority must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "take into account the evidence received when securing the EHC needs assessment; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "consider how best to achieve the outcomes to be sought for the child or young person."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {}
+    }
+   ],
+   "changes": [
+    {
+     "version": "made",
+     "date": "2014-06-04",
+     "kind": "made",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "uksi/2014/1530-coming-into-force"
+     ]
+    }
+   ],
+   "effects": {
+    "uksi/2014/1530-coming-into-force": {
+     "id": "uksi/2014/1530-coming-into-force",
+     "type": "coming into force",
+     "affected_provisions": "whole instrument",
+     "affected": [
+      "uksi/2014/1530"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 1",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "uksi/2014/1530/regulation/12",
+   "instrument": "uksi/2014/1530",
+   "kind": "regulation",
+   "number": "12",
+   "label": "Regulation 12",
+   "cite": "The Special Educational Needs and Disability Regulations 2014, reg. 12",
+   "heading": "Form of EHC plan",
+   "current_url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/12",
+   "versions": [
+    {
+     "key": "made",
+     "date": "2014-06-04",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/12/made",
+     "heading": "Form of EHC plan",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When preparing an EHC plan a local authority must set out—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the views, interests and aspirations of the child and his parents or the young person (section A);"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the child or young person’s special educational needs (section B);"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the child or young person’s health care needs which relate to their special educational needs (section C);"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "the child or young person’s social care needs which relate to their special educational needs or to a disability (section D);"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "the outcomes sought for him or her (section E);"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "the special educational provision required by the child or young person (section F);"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "any health care provision reasonably required by the learning difficulties or disabilities which result in the child or young person having special educational needs (section G);"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": ""
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "any social care provision which must be made for the child or young person as a result of section 2 of the Chronically Sick and Disabled Persons Act 1970 (section H1);"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "any other social care provision reasonably required by the learning difficulties or disabilities which result in the child or young person having special educational needs (section H2);"
+      },
+      {
+       "depth": 1,
+       "label": "(i)",
+       "text": "the name of the school, maintained nursery school, post-16 institution or other institution to be attended by the child or young person and the type of that institution or, where the name of a school or other institution is not specified in the EHC plan, the type of school or other institution to be attended by the child or young person (section I); and"
+      },
+      {
+       "depth": 1,
+       "label": "(j)",
+       "text": "where any special educational provision is to be secured by a direct payment, the special educational needs and outcomes to be met by the direct payment (section J),"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "and each section must be separately identified."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "The health care provision specified in the EHC Plan in accordance with paragraph (1)(g) must be agreed by the responsible commissioning body."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "Where the child or young person is in or beyond year 9, the EHC plan must include within the special educational provision, health care provision and social care provision specified, provision to assist the child or young person in preparation for adulthood and independent living."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "The advice and information obtained in accordance with regulation 6(1) must be set out in appendices to the EHC plan (section K)."
+      }
+     ],
+     "extent": null,
+     "status": "Made, not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/12/2014-09-01",
+     "heading": "Form of EHC plan",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When preparing an EHC plan a local authority must set out—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the views, interests and aspirations of the child and his parents or the young person (section A);"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the child or young person’s special educational needs (section B);"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "the child or young person’s health care needs which relate to their special educational needs (section C);"
+      },
+      {
+       "depth": 1,
+       "label": "(d)",
+       "text": "the child or young person’s social care needs which relate to their special educational needs or to a disability (section D);"
+      },
+      {
+       "depth": 1,
+       "label": "(e)",
+       "text": "the outcomes sought for him or her (section E);"
+      },
+      {
+       "depth": 1,
+       "label": "(f)",
+       "text": "the special educational provision required by the child or young person (section F);"
+      },
+      {
+       "depth": 1,
+       "label": "(g)",
+       "text": "any health care provision reasonably required by the learning difficulties or disabilities which result in the child or young person having special educational needs (section G);"
+      },
+      {
+       "depth": 1,
+       "label": "(h)",
+       "text": ""
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "any social care provision which must be made for the child or young person as a result of section 2 of the Chronically Sick and Disabled Persons Act 1970 (section H1);"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "any other social care provision reasonably required by the learning difficulties or disabilities which result in the child or young person having special educational needs (section H2);"
+      },
+      {
+       "depth": 1,
+       "label": "(i)",
+       "text": "the name of the school, maintained nursery school, post-16 institution or other institution to be attended by the child or young person and the type of that institution or, where the name of a school or other institution is not specified in the EHC plan, the type of school or other institution to be attended by the child or young person (section I); and"
+      },
+      {
+       "depth": 1,
+       "label": "(j)",
+       "text": "where any special educational provision is to be secured by a direct payment, the special educational needs and outcomes to be met by the direct payment (section J),"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "and each section must be separately identified."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "The health care provision specified in the EHC Plan in accordance with paragraph (1)(g) must be agreed by the responsible commissioning body."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "Where the child or young person is in or beyond year 9, the EHC plan must include within the special educational provision, health care provision and social care provision specified, provision to assist the child or young person in preparation for adulthood and independent living."
+      },
+      {
+       "depth": 0,
+       "label": "(4)",
+       "text": "The advice and information obtained in accordance with regulation 6(1) must be set out in appendices to the EHC plan (section K)."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "c22119051": {
+       "type": "M",
+       "text": "1970 c.44"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "made",
+     "date": "2014-06-04",
+     "kind": "made",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "uksi/2014/1530-coming-into-force"
+     ]
+    }
+   ],
+   "effects": {
+    "uksi/2014/1530-coming-into-force": {
+     "id": "uksi/2014/1530-coming-into-force",
+     "type": "coming into force",
+     "affected_provisions": "whole instrument",
+     "affected": [
+      "uksi/2014/1530"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 1",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  },
+  {
+   "id": "uksi/2014/1530/regulation/13",
+   "instrument": "uksi/2014/1530",
+   "kind": "regulation",
+   "number": "13",
+   "label": "Regulation 13",
+   "cite": "The Special Educational Needs and Disability Regulations 2014, reg. 13",
+   "heading": "Timescales for EHC plans",
+   "current_url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/13",
+   "versions": [
+    {
+     "key": "made",
+     "date": "2014-06-04",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/13/made",
+     "heading": "Timescales for EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When a local authority sends a draft plan to a child’s parent or young person it must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "give them at least 15 days, beginning with the day on which the draft plan was served, in which to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "make representations about the content of the draft plan, and to request that a particular school or other institution be named in the plan; and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "require the local authority to arrange a meeting between them and an officer of the local authority at which the draft plan can be discussed; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "advise them where they can find information about the schools and colleges that are available for the child or young person to attend."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "A local authority must send the finalised EHC plan to—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s parent or to the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the governing body, proprietor or principal of any school, other institution or provider of relevant early years education named in the EHC plan; and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "to the responsible commissioning body,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "as soon as practicable, and in any event within 20 weeks of the local authority receiving a request for an EHC needs assessment in accordance with section 36(1) of the Act, or of the local authority becoming responsible for the child in accordance with section 24 of the Act."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "The local authority need not comply with the time limit referred to in paragraph (2) if it is impractical for any of the reasons set out in regulation 10(4)(a) to (d)"
+      }
+     ],
+     "extent": null,
+     "status": "Made, not yet in force",
+     "commentaries": {}
+    },
+    {
+     "key": "2014-09-01",
+     "date": "2014-09-01",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/13/2014-09-01",
+     "heading": "Timescales for EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When a local authority sends a draft plan to a child’s parent or young person it must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "give them at least 15 days, beginning with the day on which the draft plan was served, in which to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "make representations about the content of the draft plan, and to request that a particular school or other institution be named in the plan; and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "require the local authority to arrange a meeting between them and an officer of the local authority at which the draft plan can be discussed; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "advise them where they can find information about the schools and colleges that are available for the child or young person to attend."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "A local authority must send the finalised EHC plan to—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s parent or to the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the governing body, proprietor or principal of any school, other institution or provider of relevant early years education named in the EHC plan; and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "to the responsible commissioning body,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "as soon as practicable, and in any event within 20 weeks of the local authority receiving a request for an EHC needs assessment in accordance with section 36(1) of the Act, or of the local authority becoming responsible for the child in accordance with section 24 of the Act."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "The local authority need not comply with the time limit referred to in paragraph (2) if it is impractical for any of the reasons set out in regulation 10(4)(a) to (d)"
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "c3b4185efc389f877108906d78a840f7": {
+       "type": "C",
+       "text": "Reg. 13(2) excluded (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 7(12)"
+      },
+      "778a00514803315cf95a00e9d5f4e607": {
+       "type": "C",
+       "text": "Reg. 13 applied (with modifications) (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 21(3)"
+      }
+     }
+    },
+    {
+     "key": "2015-09-01",
+     "date": "2015-09-01",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/13/2015-09-01",
+     "heading": "Timescales for EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When a local authority sends a draft plan to a child’s parent or young person it must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "give them at least 15 days, beginning with the day on which the draft plan was served, in which to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "make representations about the content of the draft plan, and to request that a particular school or other institution be named in the plan; and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "require the local authority to arrange a meeting between them and an officer of the local authority at which the draft plan can be discussed; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "advise them where they can find information about the schools and colleges that are available for the child or young person to attend."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "A local authority must send the finalised EHC plan to—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s parent or to the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the governing body, proprietor or principal of any school, other institution or provider of relevant early years education named in the EHC plan; and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "to the responsible commissioning body,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "as soon as practicable, and in any event within 20 weeks of the local authority receiving a request for an EHC needs assessment in accordance with section 36(1) of the Act, or of the local authority becoming responsible for the child in accordance with section 24 of the Act."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "The local authority need not comply with the time limit referred to in paragraph (2) if it is impractical for any of the reasons set out in regulation 10(4)(a) to (d)"
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "c3b4185efc389f877108906d78a840f7": {
+       "type": "C",
+       "text": "Reg. 13(2) excluded (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 7(12)"
+      },
+      "d73c780bc138193f6a24222684622b8d": {
+       "type": "C",
+       "text": "Reg. 13 applied (with modifications) (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 21(3) (as amended (1.9.2015) by S.I. 2015/1619, arts. 1, 3)"
+      }
+     }
+    },
+    {
+     "key": "2020-05-01",
+     "date": "2020-05-01",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/13/2020-05-01",
+     "heading": "Timescales for EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When a local authority sends a draft plan to a child’s parent or young person it must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "give them at least 15 days, beginning with the day on which the draft plan was served, in which to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "make representations about the content of the draft plan, and to request that a particular school or other institution be named in the plan; and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "require the local authority to arrange a meeting between them and an officer of the local authority at which the draft plan can be discussed; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "advise them where they can find information about the schools and colleges that are available for the child or young person to attend."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "A local authority must send the finalised EHC plan to—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s parent or to the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the governing body, proprietor or principal of any school, other institution or provider of relevant early years education named in the EHC plan; and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "to the responsible commissioning body,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "as soon as practicable, and in any event within 20 weeks of the local authority receiving a request for an EHC needs assessment in accordance with section 36(1) of the Act, or of the local authority becoming responsible for the child in accordance with section 24 of the Act."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "The local authority need not comply with the time limit referred to in paragraph (2) if it is impractical for any of the reasons set out in regulation 10(4)(a) to (e)."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "c3b4185efc389f877108906d78a840f7": {
+       "type": "C",
+       "text": "Reg. 13(2) excluded (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 7(12)"
+      },
+      "d73c780bc138193f6a24222684622b8d": {
+       "type": "C",
+       "text": "Reg. 13 applied (with modifications) (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 21(3) (as amended (1.9.2015) by S.I. 2015/1619, arts. 1, 3)"
+      },
+      "4530778c99921686d320ee4007062a10": {
+       "type": "F",
+       "text": "Word in reg. 13(3) substituted (temp. until 25.9.2020) (1.5.2020) by virtue of The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/471), regs. 1, 10 (with reg. 2(2))"
+      }
+     }
+    },
+    {
+     "key": "2020-09-25",
+     "date": "2020-09-25",
+     "url": "https://www.legislation.gov.uk/uksi/2014/1530/regulation/13/2020-09-25",
+     "heading": "Timescales for EHC plans",
+     "lines": [
+      {
+       "depth": 0,
+       "label": "(1)",
+       "text": "When a local authority sends a draft plan to a child’s parent or young person it must—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "give them at least 15 days, beginning with the day on which the draft plan was served, in which to—"
+      },
+      {
+       "depth": 2,
+       "label": "(i)",
+       "text": "make representations about the content of the draft plan, and to request that a particular school or other institution be named in the plan; and"
+      },
+      {
+       "depth": 2,
+       "label": "(ii)",
+       "text": "require the local authority to arrange a meeting between them and an officer of the local authority at which the draft plan can be discussed; and"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "advise them where they can find information about the schools and colleges that are available for the child or young person to attend."
+      },
+      {
+       "depth": 0,
+       "label": "(2)",
+       "text": "A local authority must send the finalised EHC plan to—"
+      },
+      {
+       "depth": 1,
+       "label": "(a)",
+       "text": "the child’s parent or to the young person;"
+      },
+      {
+       "depth": 1,
+       "label": "(b)",
+       "text": "the governing body, proprietor or principal of any school, other institution or provider of relevant early years education named in the EHC plan; and"
+      },
+      {
+       "depth": 1,
+       "label": "(c)",
+       "text": "to the responsible commissioning body,"
+      },
+      {
+       "depth": 0,
+       "label": null,
+       "text": "as soon as practicable, and in any event within 20 weeks of the local authority receiving a request for an EHC needs assessment in accordance with section 36(1) of the Act, or of the local authority becoming responsible for the child in accordance with section 24 of the Act."
+      },
+      {
+       "depth": 0,
+       "label": "(3)",
+       "text": "The local authority need not comply with the time limit referred to in paragraph (2) if it is impractical for any of the reasons set out in regulation 10(4)(a) to (d)."
+      }
+     ],
+     "extent": "E+W",
+     "status": "In force",
+     "commentaries": {
+      "c3b4185efc389f877108906d78a840f7": {
+       "type": "C",
+       "text": "Reg. 13(2) excluded (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 7(12)"
+      },
+      "d73c780bc138193f6a24222684622b8d": {
+       "type": "C",
+       "text": "Reg. 13 applied (with modifications) (1.9.2014) by The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270), arts. 1(2), 21(3) (as amended (1.9.2015) by S.I. 2015/1619, arts. 1, 3)"
+      }
+     }
+    }
+   ],
+   "changes": [
+    {
+     "version": "made",
+     "date": "2014-06-04",
+     "kind": "made",
+     "effects": []
+    },
+    {
+     "version": "2014-09-01",
+     "date": "2014-09-01",
+     "kind": "commenced",
+     "effects": [
+      "778a00514803315cf95a00e9d5f4e607",
+      "c3b4185efc389f877108906d78a840f7",
+      "uksi/2014/1530-coming-into-force"
+     ]
+    },
+    {
+     "version": "2015-09-01",
+     "date": "2015-09-01",
+     "kind": "modified",
+     "effects": [
+      "d73c780bc138193f6a24222684622b8d"
+     ]
+    },
+    {
+     "version": "2020-05-01",
+     "date": "2020-05-01",
+     "kind": "temporary",
+     "effects": [
+      "4530778c99921686d320ee4007062a10"
+     ]
+    },
+    {
+     "version": "2020-09-25",
+     "date": "2020-09-25",
+     "kind": "reverted",
+     "effects": [
+      "4530778c99921686d320ee4007062a10"
+     ]
+    }
+   ],
+   "effects": {
+    "4530778c99921686d320ee4007062a10": {
+     "id": "4530778c99921686d320ee4007062a10",
+     "type": "word substituted (temp.)",
+     "affected_provisions": "reg. 13(3)",
+     "affected": [
+      "uksi/2014/1530/regulation/13/3"
+     ],
+     "affecting": "uksi/2020/471",
+     "affecting_title": "The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020",
+     "affecting_provisions": "reg. 10",
+     "applied": true,
+     "requires_applied": true,
+     "comments": "Retain text amendment",
+     "in_force": [
+      {
+       "date": "2020-05-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "d73c780bc138193f6a24222684622b8d": {
+     "id": "d73c780bc138193f6a24222684622b8d",
+     "type": "amendment to earlier affecting provision 2014 SI2270 art. 21(3)",
+     "affected_provisions": "reg. 13",
+     "affected": [
+      "uksi/2014/1530/regulation/13"
+     ],
+     "affecting": "uksi/2015/1619",
+     "affecting_title": "The Children and Families Act 2014 (Transitional and Saving Provisions) (Amendment) (No. 2) Order 2015",
+     "affecting_provisions": "art. 3",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2015-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "778a00514803315cf95a00e9d5f4e607": {
+     "id": "778a00514803315cf95a00e9d5f4e607",
+     "type": "applied (with modifications)",
+     "affected_provisions": "reg. 13",
+     "affected": [
+      "uksi/2014/1530/regulation/13"
+     ],
+     "affecting": "uksi/2014/2270",
+     "affecting_title": "The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014",
+     "affecting_provisions": "art. 21(3)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "c3b4185efc389f877108906d78a840f7": {
+     "id": "c3b4185efc389f877108906d78a840f7",
+     "type": "excluded",
+     "affected_provisions": "reg. 13(2)",
+     "affected": [
+      "uksi/2014/1530/regulation/13/2"
+     ],
+     "affecting": "uksi/2014/2270",
+     "affecting_title": "The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014",
+     "affecting_provisions": "art. 7(12)",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    },
+    "uksi/2014/1530-coming-into-force": {
+     "id": "uksi/2014/1530-coming-into-force",
+     "type": "coming into force",
+     "affected_provisions": "whole instrument",
+     "affected": [
+      "uksi/2014/1530"
+     ],
+     "affecting": "uksi/2014/1530",
+     "affecting_title": "The Special Educational Needs and Disability Regulations 2014",
+     "affecting_provisions": "reg. 1",
+     "applied": true,
+     "requires_applied": true,
+     "comments": null,
+     "in_force": [
+      {
+       "date": "2014-09-01",
+       "qualification": "wholly in force",
+       "prospective": false
+      }
+     ]
+    }
+   },
+   "outstanding": []
+  }
+ ]
+}
