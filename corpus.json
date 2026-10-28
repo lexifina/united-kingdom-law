@@ -5,7 +5,7 @@
   "language": "en",
   "history_from": "1801-06-20",
   "record_to": "2026-11-03",
-  "record_note": "This history holds 4373 UK Acts as their current text, one file per provision, each committed on the day that text took effect (the oldest version in this record; earlier versions of those Acts are not here yet, so the record of each Act starts with its first commit). It also holds nine provisions on EHC plans (Children and Families Act 2014 ss. 19, 21, 36, 37, 42; SEND Regulations 2014 regs. 6, 11, 12, 13) with every point-in-time version legislation.gov.uk published to 2026-10-28. Acts wholly repealed are not included. data/acts.csv lists every Act and the day its text starts.",
+  "record_note": "This history holds 4375 UK Acts as their current text, one file per provision, each committed on the day that text took effect (the oldest version in this record; earlier versions of those Acts are not here yet, so the record of each Act starts with its first commit). It also holds nine provisions on EHC plans (Children and Families Act 2014 ss. 19, 21, 36, 37, 42; SEND Regulations 2014 regs. 6, 11, 12, 13) with every point-in-time version legislation.gov.uk published to 2026-10-28. Acts wholly repealed are not included. data/acts.csv lists every Act and the day its text starts.",
   "in_force_trailer": "In-force",
   "baseline_trailer": "In-force",
   "baseline_note": "In this history the first commit of each instrument (Royal Assent or made) carries In-force with its enactment or making date; the rebuild uses Enacted, Made or Text-as-at instead.",
