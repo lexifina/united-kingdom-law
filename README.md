@@ -13,7 +13,7 @@ So the questions a lawyer asks of a provision become git commands:
 | Everything one instrument changed | `git log -p --author="S.I. 2020/471"` |
 | Every change to a provision | `git log -p -- uksi/2014/1530/regulation/13.md` |
 
-`python tools/ukhistory.py on 2020-06-01 uksi/2014/1530/regulation/13` prints a provision as it stood at the end of a day, whatever your time zone, and says so plainly if it did not exist yet. `git diff --word-diff` shows amendments of a few words more clearly than line diffs.
+`python tools/ukhistory.py on 2020-06-01 uksi/2014/1530/regulation/13` prints a provision as it stood at the end of a day, whatever your time zone, and says so plainly if it did not exist yet. `git diff --word-diff` shows amendments of a few words more clearly than line diffs. `git blame` credits a whole line to the instrument that last changed any of it, so a line amended twice shows only the later instrument. In PowerShell, run `$r = git rev-list -1 --before="2020-06-01T23:59:59Z" main; git show "$($r):uksi/2014/1530/regulation/13.md"`, because PowerShell splits `$(...):path` into two arguments.
 
 If you would rather not use a terminal, the same history has a reader at **[lexifina.com/watch/uk-law](https://lexifina.com/watch/uk-law)**: pick a date and read the text in force on it, with the status, the instrument behind each change, and the words that read differently today marked.
 

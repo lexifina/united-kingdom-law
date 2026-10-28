@@ -6,7 +6,7 @@ made by hand, and what an AI model did and did not do. Anyone with Python and gi
 ## Short version
 
 ```sh
-git clone https://github.com/alan-yahya/uk-law-history && cd uk-law-history
+git clone https://github.com/lexifina/uk-law-history && cd uk-law-history
 python tools/ukhistory.py check --history data/history.json     # every version against legislation.gov.uk now
 python tools/ukhistory.py repo  --history data/history.json --repo ../rebuilt
 git -C ../rebuilt log --format=%H        # the same law commits, with the same hashes, as this repository
@@ -28,7 +28,8 @@ Archives under the Open Government Licence v3.0. Nothing was typed in, summarise
 | Each instrument's introduction, for its title and its enacted, made, laid and in-force dates | `…/<instrument>/introduction/data.xml` | 11 |
 
 The data was retrieved on 28 October 2026, at about two requests a second, with the user agent `Lexifina
-uk-legislation history (https://github.com/alan-yahya/uk-law-history)`.
+uk-legislation history (https://github.com/alan-yahya/uk-law-history)`. The repository has since moved to
+`lexifina/uk-law-history`, and later builds name that address.
 
 ## The build, step by step
 
@@ -156,6 +157,10 @@ legalize-uk. It adds:
 
 ## Changes to this history after it was published
 
+- **28 October 2026.** A later commit added `tools/ukhistory.py on <date> <path>`, which reads a provision on a date
+  by its `In-force` trailer, so the answer does not depend on the reader's time zone. It also made `repo` refuse a
+  non-empty directory, because running it twice had added a second copy of the history. The repository moved from
+  `alan-yahya` to the `lexifina` organisation the same day.
 - **28 October 2026.** The repository was made public, then made private on the user's instruction. This file was
   added in a commit of its own, so that the commits already published, which other repositories refer to, keep their
   hashes. A full rebuild puts this file in the documentation commit.

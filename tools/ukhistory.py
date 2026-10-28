@@ -31,7 +31,7 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 BASE = "https://www.legislation.gov.uk"
-USER_AGENT = "Lexifina uk-legislation history (https://github.com/alan-yahya/uk-law-history)"
+USER_AGENT = "Lexifina uk-legislation history (https://github.com/lexifina/uk-law-history)"
 NS = {
     "leg": "http://www.legislation.gov.uk/namespaces/legislation",
     "ukm": "http://www.legislation.gov.uk/namespaces/metadata",
