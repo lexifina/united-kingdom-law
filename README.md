@@ -68,6 +68,8 @@ Others have kept law in git before. [c3e/grundgesetz](https://github.com/c3e/gru
 
 The build sends at most a few requests a second and names itself in its user agent, within legislation.gov.uk's fair-use limits.
 
+[REPRODUCE.md](REPRODUCE.md) records exactly how the history was made: the sources, every command, the software, the decisions made by hand, and what the AI model that built it did and did not do. [RESEARCH.md](RESEARCH.md) has the research behind the design.
+
 Built by [Lexifina](https://lexifina.com). For corrections, open an issue.
 
 ## Licence
