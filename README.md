@@ -19,7 +19,7 @@ If you would rather not use a terminal, the same history has a reader at **[lexi
 
 ## Every Act in force
 
-The history now also holds 3803 Acts of the UK Parliament that are in force, each as one folder at the path of its legislation.gov.uk address (`ukpga/2010/15/` is the Equality Act 2010), with one file per section or schedule paragraph and a `README.md` giving the Act's dates and contents. [data/acts.csv](data/acts.csv) lists them.
+The history now also holds 3836 Acts of the UK Parliament that are in force, each as one folder at the path of its legislation.gov.uk address (`ukpga/2010/15/` is the Equality Act 2010), with one file per section or schedule paragraph and a `README.md` giving the Act's dates and contents. [data/acts.csv](data/acts.csv) lists them.
 
 Each of these Acts enters the history as **one commit, its oldest version available here**: the text legislation.gov.uk publishes as in force today, dated by the day that version took effect (its `In-force:` line). An Act passed recently that the publisher has not yet revised is shown as enacted and dated by Royal Assent. So for these Acts the history does not yet say when each provision took its present words, and on a date before an Act's first commit the history has no text for it, which does not mean the Act was not law. Earlier versions will be added behind them, each Act ending again on its current text. Acts that have been wholly repealed are left out. The text may lag behind changes the publisher has not yet applied; each Act's `README.md` says how many it lists.
 
