@@ -1,4 +1,390 @@
 path,title,text_in_force_from,enacted,revised,provisions,changes_not_yet_applied
+asp/2000/1,Public Finance and Accountability (Scotland) Act 2000,2026-09-30,2000-01-17,yes,80,1
+asp/2000/10,National Parks (Scotland) Act 2000,2014-12-08,2000-08-09,yes,104,28
+asp/2000/11,Regulation of Investigatory Powers (Scotland) Act 2000,2022-03-25,2000-09-28,yes,35,0
+asp/2000/12,Sea Fisheries (Shellfish) Amendment (Scotland) Act 2000,2001-01-02,2000-11-02,yes,2,0
+asp/2000/2,Budget (Scotland) Act 2000,2000-03-20,2000-03-20,yes,8,0
+asp/2000/3,Census (Amendment) (Scotland) Act 2000,2000-04-10,2000-04-10,yes,2,1
+asp/2000/4,Adults with Incapacity (Scotland) Act 2000,2021-09-30,2000-05-09,yes,181,2
+asp/2000/5,Abolition of Feudal Tenure etc. (Scotland) Act 2000,2025-06-16,2000-06-09,yes,215,5
+asp/2000/6,Standards in Scotland’s Schools etc. Act 2000,2026-03-01,2000-07-14,yes,85,0
+asp/2000/7,Ethical Standards in Public Life etc. (Scotland) Act 2000,2026-04-01,2000-07-24,yes,61,3
+asp/2000/8,Education and Training (Scotland) Act 2000,2000-08-07,2000-08-07,yes,4,0
+asp/2000/9,"Bail, Judicial Appointments etc. (Scotland) Act 2000",2000-08-09,2000-08-09,yes,20,0
+asp/2001/10,Housing (Scotland) Act 2001,2026-08-01,2001-07-18,yes,267,19
+asp/2001/11,Mortgage Rights (Scotland) Act 2001,2010-09-30,2001-07-25,yes,12,1
+asp/2001/13,International Criminal Court (Scotland) Act 2001,2024-01-04,2001-09-24,yes,74,0
+asp/2001/14,Protection from Abuse (Scotland) Act 2001,2018-01-25,2001-11-06,yes,8,0
+asp/2001/2,Transport (Scotland) Act 2001,2025-10-27,2001-01-25,yes,155,31
+asp/2001/4,Budget (Scotland) Act 2001,2003-03-19,2001-03-15,yes,10,0
+asp/2001/5,Leasehold Casualties (Scotland) Act 2001,2001-04-12,2001-04-12,yes,14,0
+asp/2001/6,Education (Graduate Endowment and Student Support) (Scotland) Act 2001,2008-04-05,2001-05-03,yes,5,0
+asp/2001/7,Convention Rights (Compliance) (Scotland) Act 2001,2001-07-27,2001-07-05,yes,100,0
+asp/2001/8,Regulation of Care (Scotland) Act 2001,2026-01-07,2001-07-05,yes,131,7
+asp/2001/9,Scottish Local Authorities (Tendering) Act 2001,2001-08-06,2001-07-06,yes,2,0
+asp/2002/1,Scottish Local Government (Elections) Act 2002,2025-04-14,2002-01-22,yes,7,0
+asp/2002/10,Fur Farming (Prohibition) (Scotland) Act 2002,2015-09-22,2002-04-11,yes,6,0
+asp/2002/11,Scottish Public Services Ombudsman Act 2002,2026-09-30,2002-04-23,yes,247,7
+asp/2002/12,Education (Disability Strategies and Pupils’ Educational Records) (Scotland) Act 2002,2010-10-01,2002-04-30,yes,7,0
+asp/2002/13,Freedom of Information (Scotland) Act 2002,2026-09-30,2002-05-28,yes,279,7
+asp/2002/15,University of St. Andrews (Postgraduate Medical Degrees) Act 2002,2002-07-30,2002-07-30,yes,2,0
+asp/2002/16,Scottish Parliamentary Standards Commissioner Act 2002,2021-10-21,2002-06-27,yes,26,0
+asp/2002/17,Debt Arrangement and Attachment (Scotland) Act 2002,2024-01-04,2002-12-17,yes,137,11
+asp/2002/2,School Education (Amendment) (Scotland) Act 2002,2007-08-01,2002-01-22,yes,3,0
+asp/2002/3,Water Industry (Scotland) Act 2002,2026-03-18,2002-03-01,yes,273,1
+asp/2002/4,Criminal Procedure (Amendment) (Scotland) Act 2002,2002-03-08,2002-03-08,yes,2,0
+asp/2002/5,Community Care and Health (Scotland) Act 2002,2018-04-01,,yes,36,3
+asp/2002/7,Budget (Scotland) Act 2002,2003-03-19,2002-03-15,yes,10,0
+asp/2002/8,Marriage (Scotland) Act 2002,2002-04-04,2002-04-04,yes,2,0
+asp/2002/9,Sexual Offences (Procedure and Evidence) (Scotland) Act 2002,2018-01-25,2002-04-11,yes,23,0
+asp/2003/1,Local Government in Scotland Act 2003,2026-01-12,2003-02-11,yes,62,0
+asp/2003/10,Homelessness etc. (Scotland) Act 2003,2019-11-07,2003-04-09,yes,19,1
+asp/2003/11,Agricultural Holdings (Scotland) Act 2003,2021-02-28,2003-04-22,yes,192,98
+asp/2003/12,Dog Fouling (Scotland) Act 2003,2013-04-01,2003-04-22,yes,18,0
+asp/2003/13,Mental Health (Care and Treatment) (Scotland) Act 2003,2026-02-05,2003-04-25,yes,436,21
+asp/2003/14,Council of the Law Society of Scotland Act 2003,2003-06-01,2003-05-01,yes,3,0
+asp/2003/15,Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003,2013-09-16,2003-05-01,yes,122,24
+asp/2003/16,National Galleries of Scotland Act 2003,2003-05-09,2003-05-01,yes,3,0
+asp/2003/17,Commissioner for Children and Young People (Scotland) Act 2003,2024-07-16,2003-05-01,yes,44,0
+asp/2003/18,Education (School Meals) (Scotland) Act 2003,2003-07-07,2003-07-07,yes,2,0
+asp/2003/19,Robin Rigg Offshore Wind Farm (Navigation and Fishing) (Scotland) Act 2003,2017-04-01,2003-08-01,yes,15,0
+asp/2003/2,Land Reform (Scotland) Act 2003,2026-10-26,2003-02-25,yes,170,50
+asp/2003/3,Water Environment and Water Services (Scotland) Act 2003,2024-01-01,2003-03-05,yes,140,13
+asp/2003/4,Public Appointments and Public Bodies etc. (Scotland) Act 2003,2026-02-01,2003-03-11,yes,59,24
+asp/2003/5,Protection of Children (Scotland) Act 2003,2012-04-02,2003-03-19,yes,39,2
+asp/2003/6,Budget (Scotland) Act 2003,2004-03-23,2003-03-19,yes,11,0
+asp/2003/7,Criminal Justice (Scotland) Act 2003,2026-03-19,2003-03-26,yes,123,177
+asp/2003/8,Building (Scotland) Act 2003,2017-04-01,2003-03-26,yes,135,1
+asp/2003/9,Title Conditions (Scotland) Act 2003,2026-04-01,2003-04-03,yes,182,3
+asp/2004/1,Primary Medical Services (Scotland) Act 2004,2010-03-03,2004-01-27,yes,14,3
+asp/2004/10,Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004,2014-12-08,2004-08-10,yes,62,0
+asp/2004/11,Tenements (Scotland) Act 2004,2018-07-13,2004-10-22,yes,106,0
+asp/2004/12,School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004,2005-12-31,2004-11-12,yes,11,0
+asp/2004/2,Budget (Scotland) Act 2004,2005-03-16,2004-03-23,yes,10,0
+asp/2004/3,Vulnerable Witnesses (Scotland) Act 2004,2015-09-01,2004-04-14,yes,27,26
+asp/2004/4,Education (Additional Support for Learning) (Scotland) Act 2004,2020-03-25,2004-05-07,yes,80,0
+asp/2004/5,Criminal Procedure (Amendment) (Scotland) Act 2004,2011-03-28,2004-06-04,yes,85,0
+asp/2004/6,Nature Conservation (Scotland) Act 2004,2025-11-01,2004-06-11,yes,164,12
+asp/2004/7,National Health Service Reform (Scotland) Act 2004,2015-04-01,2004-06-11,yes,16,0
+asp/2004/8,Antisocial Behaviour etc. (Scotland) Act 2004,2026-03-26,2004-07-26,yes,182,7
+asp/2004/9,Local Governance (Scotland) Act 2004,2025-04-14,2004-07-29,yes,27,0
+asp/2005/1,Breastfeeding etc. (Scotland) Act 2005,2009-09-01,2005-01-18,yes,5,0
+asp/2005/10,Charities and Trustee Investment (Scotland) Act 2005,2026-03-05,2005-07-14,yes,168,3
+asp/2005/11,Baird Trust Reorganisation Act 2005,2005-07-19,2005-07-19,yes,6,0
+asp/2005/12,Transport (Scotland) Act 2005,2024-04-01,2005-08-05,yes,84,1
+asp/2005/13,"Smoking, Health and Social Care (Scotland) Act 2005",2022-09-19,2005-08-05,yes,66,26
+asp/2005/14,Management of Offenders etc. (Scotland) Act 2005,2019-10-11,2005-12-08,yes,25,0
+asp/2005/15,Environmental Assessment (Scotland) Act 2005,2024-01-01,2005-12-14,yes,82,0
+asp/2005/16,Licensing (Scotland) Act 2005,2024-04-30,2005-12-21,yes,226,22
+asp/2005/2,Emergency Workers (Scotland) Act 2005,2013-06-24,2005-02-01,yes,10,0
+asp/2005/3,Water Services etc. (Scotland) Act 2005,2022-11-10,2005-03-17,yes,69,0
+asp/2005/4,Budget (Scotland) Act 2005,2006-03-21,2005-03-17,yes,10,0
+asp/2005/5,Fire (Scotland) Act 2005,2016-12-20,2005-04-01,yes,166,5
+asp/2005/6,Further and Higher Education (Scotland) Act 2005,2026-10-01,2005-06-01,yes,134,18
+asp/2005/7,Gaelic Language (Scotland) Act 2005,2026-09-01,2005-06-01,yes,41,36
+asp/2005/8,Prohibition of Female Genital Mutilation (Scotland) Act 2005,2020-04-25,2005-07-01,yes,26,7
+asp/2005/9,Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005,2023-03-31,2005-07-12,yes,24,0
+asp/2006/1,Housing (Scotland) Act 2006,2026-10-06,2006-01-05,yes,269,9
+asp/2006/10,"Police, Public Order and Criminal Justice (Scotland) Act 2006",2025-06-25,,yes,150,33
+asp/2006/11,Animal Health and Welfare (Scotland) Act 2006,2024-10-17,2006-07-11,yes,98,4
+asp/2006/12,Interests of Members of the Scottish Parliament Act 2006,2016-05-05,2006-07-13,yes,35,0
+asp/2006/13,Waverley Railway (Scotland) Act 2006,2014-12-08,2006-07-24,yes,97,0
+asp/2006/14,Local Electoral Administration and Registration Services (Scotland) Act 2006,2022-09-24,2006-08-01,yes,77,0
+asp/2006/15,Tourist Boards (Scotland) Act 2006,2011-04-04,2006-11-30,yes,19,0
+asp/2006/16,Scottish Commission for Human Rights Act 2006,2024-07-16,2006-12-08,yes,51,0
+asp/2006/17,Planning etc. (Scotland) Act 2006,2021-06-30,2006-12-20,yes,60,0
+asp/2006/2,Family Law (Scotland) Act 2006,2020-12-31,2006-01-20,yes,67,1
+asp/2006/4,Human Tissue (Scotland) Act 2006,2022-07-01,2006-03-16,yes,95,0
+asp/2006/5,Budget (Scotland) Act 2006,2007-03-20,2006-03-21,yes,10,0
+asp/2006/6,Edinburgh Tram (Line Two) Act 2006,2014-12-08,2006-04-27,yes,86,1
+asp/2006/7,Edinburgh Tram (Line One) Act 2006,2017-04-01,2006-05-08,yes,88,1
+asp/2006/8,Scottish Schools (Parental Involvement) Act 2006,2026-03-01,2006-06-14,yes,25,0
+asp/2007/1,Glasgow Airport Rail Link Act 2007,2017-04-01,2007-01-15,yes,89,0
+asp/2007/10,Adult Support and Protection (Scotland) Act 2007,2026-01-07,2007-03-21,yes,88,2
+asp/2007/11,Prostitution (Public Places) (Scotland) Act 2007,2018-01-25,2007-04-05,yes,3,0
+asp/2007/12,Aquaculture and Fisheries (Scotland) Act 2007,2013-09-16,2007-04-05,yes,54,0
+asp/2007/13,Christmas Day and New Year's Day Trading (Scotland) Act 2007,2012-08-14,2007-04-13,yes,8,1
+asp/2007/14,Protection of Vulnerable Groups (Scotland) Act 2007,2026-04-01,2007-04-18,yes,235,6
+asp/2007/15,Schools (Health Promotion and Nutrition) (Scotland) Act 2007,2008-08-04,2007-04-19,yes,11,0
+asp/2007/16,Edinburgh Airport Rail Link Act 2007,2014-12-08,2007-04-19,yes,94,0
+asp/2007/17,Custodial Sentences and Weapons (Scotland) Act 2007,2026-03-24,2007-04-19,yes,114,74
+asp/2007/19,Airdrie-Bathgate Railway and Linked Improvements Act 2007,2014-12-08,2007-05-08,yes,84,0
+asp/2007/2,St Andrew's Day Bank Holiday (Scotland) Act 2007,2007-01-16,2007-01-15,yes,2,0
+asp/2007/3,Bankruptcy and Diligence etc. (Scotland) Act 2007,2026-08-01,2007-01-15,yes,379,8
+asp/2007/4,Adoption and Children (Scotland) Act 2007,2026-09-30,2007-01-15,yes,150,12
+asp/2007/5,Legal Profession and Legal Aid (Scotland) Act 2007,2026-07-01,2007-01-19,yes,129,237
+asp/2007/6,Criminal Proceedings etc. (Reform) (Scotland) Act 2007,2026-10-01,2007-02-22,yes,120,2
+asp/2007/7,Crofting Reform etc. Act 2007,2008-01-28,2007-03-01,yes,48,0
+asp/2007/8,Transport and Works (Scotland) Act 2007,2023-12-26,2007-03-14,yes,55,0
+asp/2007/9,Budget (Scotland) Act 2007,2009-03-20,2007-03-20,yes,10,0
+asp/2008/1,Abolition of Bridge Tolls (Scotland) Act 2008,2008-02-11,2008-01-24,yes,7,0
+asp/2008/2,Budget (Scotland) Act 2008,2009-03-20,2008-03-12,yes,10,0
+asp/2008/3,Graduate Endowment Abolition (Scotland) Act 2008,2008-04-05,2008-04-04,yes,7,0
+asp/2008/4,Glasgow Commonwealth Games Act 2008,2018-01-25,2008-06-10,yes,51,0
+asp/2008/5,Public Health etc. (Scotland) Act 2008,2026-03-02,2008-07-16,yes,144,0
+asp/2008/6,Judiciary and Courts (Scotland) Act 2008,2026-10-01,2008-10-29,yes,137,11
+asp/2008/7,Scottish Register of Tartans Act 2008,2010-08-01,2008-11-13,yes,18,0
+asp/2009/1,Scottish Parliamentary Pensions Act 2009,2026-03-20,2009-02-25,yes,145,0
+asp/2009/10,Scottish Local Government (Elections) Act 2009,2010-04-30,2009-07-21,yes,6,0
+asp/2009/12,Climate Change (Scotland) Act 2009,2025-11-01,2009-08-04,yes,161,0
+asp/2009/2,Budget (Scotland) Act 2009,2010-03-17,2009-03-10,yes,10,0
+asp/2009/3,Disabled Persons' Parking Places (Scotland) Act 2009,2009-04-01,2009-04-01,yes,19,0
+asp/2009/4,Damages (Asbestos-related Conditions) (Scotland) Act 2009,2009-06-17,2009-04-17,yes,5,0
+asp/2009/5,Health Boards (Membership and Elections) (Scotland) Act 2009,2013-12-31,2009-04-22,yes,14,0
+asp/2009/6,Flood Risk Management (Scotland) Act 2009,2024-01-01,2009-06-16,yes,141,0
+asp/2009/7,Education (Additional Support for Learning) (Scotland) Act 2009,2010-11-14,2009-06-25,yes,26,0
+asp/2009/9,Sexual Offences (Scotland) Act 2009,2021-06-29,2009-07-14,yes,125,3
+asp/2010/1,Arbitration (Scotland) Act 2010,2023-11-24,2010-01-05,yes,121,2
+asp/2010/10,Interpretation and Legislative Reform (Scotland) Act 2010,2024-06-07,2010-06-03,yes,77,1
+asp/2010/11,Scottish Parliamentary Commissions and Commissioners etc. Act 2010,2018-03-12,2010-07-19,yes,145,0
+asp/2010/12,William Simpson's Home (Transfer of Property etc.) (Scotland) Act 2010,2010-07-28,2010-07-27,yes,5,0
+asp/2010/13,Criminal Justice and Licensing (Scotland) Act 2010,2023-03-31,2010-08-06,yes,419,14
+asp/2010/14,Crofting Reform (Scotland) Act 2010,2013-11-30,2010-08-06,yes,75,82
+asp/2010/15,"Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act 2010",2018-01-25,2010-10-29,yes,10,0
+asp/2010/16,Legal Services (Scotland) Act 2010,2026-07-01,2010-11-09,yes,201,68
+asp/2010/17,Housing (Scotland) Act 2010,2026-04-01,2010-12-09,yes,191,7
+asp/2010/18,Alcohol etc. (Scotland) Act 2010,2018-05-01,2010-12-15,yes,18,0
+asp/2010/2,Schools (Consultation) (Scotland) Act 2010,2026-03-01,2010-01-05,yes,68,0
+asp/2010/3,Tobacco and Primary Medical Services (Scotland) Act 2010,2026-04-29,2010-03-03,yes,71,180
+asp/2010/4,Budget (Scotland) Act 2010,2011-03-17,2010-03-10,yes,10,1
+asp/2010/5,Marine (Scotland) Act 2010,2026-08-09,2010-03-10,yes,221,2
+asp/2010/6,Home Owner and Debtor Protection (Scotland) Act 2010,2016-11-30,2010-03-18,yes,17,1
+asp/2010/7,Ure Elder Fund Transfer and Dissolution Act 2010,2010-06-10,2010-04-09,yes,4,0
+asp/2010/8,Public Services Reform (Scotland) Act 2010,2026-09-30,2010-04-28,yes,398,24
+asp/2010/9,Control of Dogs (Scotland) Act 2010,2015-09-22,2010-05-26,yes,20,0
+asp/2011/1,Children's Hearings (Scotland) Act 2011,2026-03-30,2011-01-06,yes,274,266
+asp/2011/10,Local Electoral Administration (Scotland) Act 2011,2026-04-01,2011-04-20,yes,42,0
+asp/2011/11,Certification of Death (Scotland) Act 2011,2026-07-22,2011-04-20,yes,41,0
+asp/2011/12,Public Records (Scotland) Act 2011,2026-03-01,2011-04-20,yes,17,2
+asp/2011/13,Domestic Abuse (Scotland) Act 2011,2011-04-21,2011-04-20,yes,5,0
+asp/2011/14,Private Rented Housing (Scotland) Act 2011,2015-12-01,2011-04-20,yes,49,0
+asp/2011/15,Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011,2023-11-30,2011-04-27,yes,19,0
+asp/2011/16,Double Jeopardy (Scotland) Act 2011,2011-11-28,2011-04-27,yes,51,4
+asp/2011/2,Forth Crossing Act 2011,2025-11-01,2011-01-20,yes,92,0
+asp/2011/3,Historic Environment (Amendment) (Scotland) Act 2011,2011-12-01,2011-02-23,yes,33,0
+asp/2011/4,Budget (Scotland) Act 2011,2012-03-23,2011-03-16,yes,10,0
+asp/2011/5,Patient Rights (Scotland) Act 2011,2022-04-01,2011-03-31,yes,45,0
+asp/2011/6,Wildlife and Natural Environment (Scotland) Act 2011,2013-04-01,2011-04-07,yes,44,0
+asp/2011/7,Damages (Scotland) Act 2011,2011-07-21,2011-04-07,yes,28,0
+asp/2011/8,Property Factors (Scotland) Act 2011,2026-04-01,2011-04-07,yes,41,0
+asp/2011/9,Reservoirs (Scotland) Act 2011,2017-04-01,2011-04-12,yes,116,1
+asp/2012/10,Welfare Reform (Further Provision) (Scotland) Act 2012,2012-08-08,2012-08-07,yes,7,0
+asp/2012/11,Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012,2012-12-05,2012-12-05,yes,6,0
+asp/2012/2,Budget (Scotland) Act 2012,2013-03-31,2012-03-14,yes,11,0
+asp/2012/3,National Library of Scotland Act 2012,2013-02-01,2012-06-21,yes,36,0
+asp/2012/4,Alcohol (Minimum Pricing) (Scotland) Act 2012,2018-05-01,2012-06-29,yes,6,0
+asp/2012/5,Land Registration etc. (Scotland) Act 2012,2024-03-04,2012-07-10,yes,278,10
+asp/2012/6,Agricultural Holdings (Amendment) (Scotland) Act 2012,2016-12-23,2012-07-12,yes,6,1
+asp/2012/7,Criminal Cases (Punishment and Review) (Scotland) Act 2012,2012-09-24,2012-07-26,yes,6,0
+asp/2012/8,Police and Fire Reform (Scotland) Act 2012,2025-12-29,2012-08-07,yes,297,12
+asp/2012/9,Long Leases (Scotland) Act 2012,2015-09-28,2012-08-07,yes,87,0
+asp/2013/1,Social Care (Self-directed Support) (Scotland) Act 2013,2026-01-07,2013-01-10,yes,29,1
+asp/2013/10,Crofting (Amendment) (Scotland) Act 2013,2013-07-31,2013-07-31,yes,9,0
+asp/2013/11,Land and Buildings Transaction Tax (Scotland) Act 2013,2026-04-01,2013-07-31,yes,554,0
+asp/2013/12,Post-16 Education (Scotland) Act 2013,2015-03-31,2013-08-07,yes,33,0
+asp/2013/14,Scottish Independence Referendum Act 2013,2013-12-18,2013-12-17,yes,268,0
+asp/2013/2,Freedom of Information (Amendment) (Scotland) Act 2013,2013-05-31,2013-02-19,yes,8,0
+asp/2013/3,Scottish Civil Justice Council and Criminal Legal Assistance Act 2013,2016-04-01,2013-03-05,yes,26,21
+asp/2013/4,Budget (Scotland) Act 2013,2014-03-21,2013-03-13,yes,11,0
+asp/2013/5,Water Resources (Scotland) Act 2013,2025-11-01,2013-04-09,yes,81,3
+asp/2013/6,High Hedges (Scotland) Act 2013,2017-04-01,2013-05-02,yes,39,0
+asp/2013/7,Aquaculture and Fisheries (Scotland) Act 2013,2024-01-01,2013-06-18,yes,93,2
+asp/2013/8,Forth Road Bridge Act 2013,2015-06-01,2013-06-28,yes,10,0
+asp/2013/9,National Trust for Scotland (Governance etc.) Act 2013,2013-06-29,2013-06-28,yes,8,0
+asp/2014/1,Victims and Witnesses (Scotland) Act 2014,2026-10-01,2014-01-17,yes,56,7
+asp/2014/10,Tribunals (Scotland) Act 2014,2024-06-10,2014-04-15,yes,186,11
+asp/2014/12,Procurement Reform (Scotland) Act 2014,2026-03-01,2014-06-17,yes,130,20
+asp/2014/13,Buildings (Recovery of Expenses) (Scotland) Act 2014,2014-07-25,2014-07-24,yes,4,0
+asp/2014/14,Housing (Scotland) Act 2014,2026-04-01,2014-08-01,yes,184,3
+asp/2014/15,City of Edinburgh Council (Portobello Park) Act 2014,2014-08-02,2014-08-01,yes,6,0
+asp/2014/16,Revenue Scotland and Tax Powers Act 2014,2026-04-01,2014-09-24,yes,356,74
+asp/2014/17,Disabled Persons' Parking Badges (Scotland) Act 2014,2015-03-30,2014-09-24,yes,8,0
+asp/2014/18,Courts Reform (Scotland) Act 2014,2026-10-01,2014-11-10,yes,236,13
+asp/2014/19,Historic Environment Scotland Act 2014,2017-04-01,2014-12-09,yes,143,0
+asp/2014/2,Landfill Tax (Scotland) Act 2014,2015-04-01,2014-01-21,yes,46,0
+asp/2014/3,Regulatory Reform (Scotland) Act 2014,2025-11-01,2014-02-19,yes,141,0
+asp/2014/4,Burrell Collection (Lending and Borrowing) (Scotland) Act 2014,2014-02-26,2014-02-25,yes,5,0
+asp/2014/5,Marriage and Civil Partnership (Scotland) Act 2014,2021-11-30,2014-03-12,yes,58,0
+asp/2014/6,Budget (Scotland) Act 2014,2015-04-01,2014-03-12,yes,11,0
+asp/2014/7,City of Edinburgh Council (Leith Links and Surplus Fire Fund) Act 2014,2014-03-28,2014-03-27,yes,8,0
+asp/2014/8,Children and Young People (Scotland) Act 2014,2026-09-30,2014-03-27,yes,199,112
+asp/2014/9,Public Bodies (Joint Working) (Scotland) Act 2014,2026-01-07,2014-04-01,yes,74,2
+asp/2015/1,Food (Scotland) Act 2015,2018-09-01,2015-01-13,yes,74,0
+asp/2015/10,Air Weapons and Licensing (Scotland) Act 2015,2021-01-27,2015-08-04,yes,114,0
+asp/2015/11,British Sign Language (Scotland) Act 2015,2015-10-23,2015-10-22,yes,9,0
+asp/2015/12,Human Trafficking and Exploitation (Scotland) Act 2015,2025-05-05,,yes,52,3
+asp/2015/13,Harbours (Scotland) Act 2015,2015-12-03,2015-12-02,yes,4,0
+asp/2015/2,Budget (Scotland) Act 2015,2016-03-31,2015-03-11,yes,11,0
+asp/2015/3,Community Charge Debt (Scotland) Act 2015,2015-03-26,2015-03-25,yes,4,0
+asp/2015/4,Legal Writings (Counterparts and Delivery) (Scotland) Act 2015,2015-07-01,2015-04-01,yes,7,0
+asp/2015/5,Welfare Funds (Scotland) Act 2015,2016-04-01,2015-04-08,yes,15,0
+asp/2015/6,Community Empowerment (Scotland) Act 2015,2021-02-24,2015-07-24,yes,158,0
+asp/2015/7,Scottish Elections (Reduction of Voting Age) Act 2015,2020-04-27,2015-07-24,yes,22,0
+asp/2015/8,Prisoners (Control of Release) (Scotland) Act 2015,2016-02-01,2015-08-04,yes,4,0
+asp/2015/9,Mental Health (Scotland) Act 2015,2017-09-30,2015-08-04,yes,62,0
+asp/2016/1,Criminal Justice (Scotland) Act 2016,2026-03-30,2016-01-13,yes,171,3
+asp/2016/10,Community Justice (Scotland) Act 2016,2026-02-09,2016-03-21,yes,64,1
+asp/2016/11,Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016,2016-03-25,2016-03-24,yes,6,0
+asp/2016/12,Budget (Scotland) Act 2016,2017-04-01,2016-03-30,yes,11,0
+asp/2016/13,Scottish Elections (Dates) Act 2016,2020-10-01,2016-03-30,yes,4,0
+asp/2016/14,"Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016",2026-10-29,2016-04-06,yes,37,2
+asp/2016/15,Higher Education Governance (Scotland) Act 2016,2018-09-15,2016-04-13,yes,30,0
+asp/2016/16,Lobbying (Scotland) Act 2016,2026-04-10,2016-04-14,yes,76,0
+asp/2016/17,Scottish Fiscal Commission Act 2016,2018-07-01,2016-04-14,yes,32,0
+asp/2016/18,Land Reform (Scotland) Act 2016,2026-03-16,2016-04-22,yes,151,63
+asp/2016/19,"Private Housing (Tenancies)
+			(Scotland) Act 2016",2026-10-06,2016-04-22,yes,200,25
+asp/2016/2,Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016,2024-08-28,2016-01-14,yes,64,4
+asp/2016/20,Burial and Cremation (Scotland) Act 2016,2026-03-02,2016-04-28,yes,115,0
+asp/2016/21,Bankruptcy (Scotland) Act 2016,2025-06-25,2016-04-28,yes,390,17
+asp/2016/22,Abusive Behaviour and Sexual Harm (Scotland) Act 2016,2023-03-31,2016-04-28,yes,61,0
+asp/2016/3,Smoking Prohibition (Children in Motor Vehicles) (Scotland) Act 2016,2016-12-05,2016-01-21,yes,19,0
+asp/2016/4,Interests of Members of the Scottish Parliament (Amendment) Act 2016,2016-01-22,2016-01-21,yes,19,0
+asp/2016/5,Apologies (Scotland) Act 2016,2017-06-19,2016-02-23,yes,6,0
+asp/2016/6,National Galleries of Scotland Act 2016,2016-02-24,2016-02-23,yes,5,0
+asp/2016/7,Succession (Scotland) Act 2016,2024-04-30,2016-03-03,yes,36,1
+asp/2016/8,Education (Scotland) Act 2016,2026-03-01,2016-03-08,yes,67,81
+asp/2016/9,Carers (Scotland) Act 2016,2026-01-07,2016-03-09,yes,53,38
+asp/2017/1,Budget (Scotland) Act 2017,2018-03-29,2017-03-31,yes,11,0
+asp/2017/2,Air Departure Tax (Scotland) Act 2017,2026-09-15,2017-07-25,yes,79,0
+asp/2017/3,Limitation (Childhood Abuse) (Scotland) Act 2017,2017-10-04,2017-07-28,yes,3,0
+asp/2017/4,Railway Policing (Scotland) Act 2017,2017-08-02,2017-08-01,yes,9,0
+asp/2017/5,Contract (Third Party Rights) (Scotland) Act 2017,2018-02-26,2017-10-30,yes,14,0
+asp/2017/6,Child Poverty (Scotland) Act 2017,2019-07-01,2017-12-18,yes,30,0
+asp/2017/7,Seat Belts on School Transport (Scotland) Act 2017,2021-08-01,2017-12-18,yes,7,0
+asp/2018/1,Edinburgh Bakers' Widows' Fund Act 2018,2018-01-13,2018-01-12,yes,6,0
+asp/2018/10,Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018,2021-06-30,2018-06-05,yes,34,0
+asp/2018/11,Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018,2018-06-23,2018-06-22,yes,4,0
+asp/2018/12,Islands (Scotland) Act 2018,2026-04-01,2018-07-06,yes,107,0
+asp/2018/13,Housing (Amendment) (Scotland) Act 2018,2019-03-08,2018-07-06,yes,12,0
+asp/2018/14,Historical Sexual Offences (Pardons and Disregards) (Scotland) Act 2018,2019-10-15,2018-07-11,yes,18,0
+asp/2018/15,Prescription (Scotland) Act 2018,2025-02-28,2018-12-18,yes,18,0
+asp/2018/2,Writers to the Signet Dependants' Annuity Fund Amendment (Scotland) Act 2018,2018-01-19,2018-01-18,yes,3,0
+asp/2018/3,Wild Animals in Travelling Circuses (Scotland) Act 2018,2018-05-28,2018-01-24,yes,29,0
+asp/2018/4,Gender Representation on Public Boards (Scotland) Act 2018,2026-04-01,2018-03-09,yes,21,0
+asp/2018/5,Domestic Abuse (Scotland) Act 2018,2019-04-01,2018-03-09,yes,27,0
+asp/2018/6,Budget (Scotland) Act 2018,2019-03-30,2018-03-28,yes,11,0
+asp/2018/7,Offensive Behaviour at Football and Threatening Communications (Repeal) (Scotland) Act 2018,2018-04-20,2018-04-19,yes,7,0
+asp/2018/8,Forestry and Land Management (Scotland) Act 2018,2018-05-01,2018-05-01,yes,88,13
+asp/2018/9,Social Security (Scotland) Act 2018,2026-03-15,2018-06-01,yes,264,97
+asp/2019/1,Scottish Crown Estate Act 2019,2021-09-27,2019-01-15,yes,60,0
+asp/2019/10,"Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019",2026-04-01,2019-07-18,yes,21,1
+asp/2019/11,Human Tissue (Authorisation) (Scotland) Act 2019,2021-03-26,2019-07-18,yes,30,0
+asp/2019/12,Census (Amendment) (Scotland) Act 2019,2019-07-19,2019-07-18,yes,3,0
+asp/2019/13,Planning (Scotland) Act 2019,2024-12-05,2019-07-25,yes,89,1
+asp/2019/14,Management of Offenders (Scotland) Act 2019,2023-07-03,2019-07-30,yes,75,4
+asp/2019/15,Climate Change (Emissions Reduction Targets) (Scotland) Act 2019,2020-03-23,2019-10-31,yes,48,0
+asp/2019/16,Children (Equal Protection from Assault) (Scotland) Act 2019,2019-11-08,2019-11-07,yes,5,0
+asp/2019/17,Transport (Scotland) Act 2019,2024-12-26,2019-11-15,yes,138,0
+asp/2019/2,Pow of Inchaffray Drainage Commission (Scotland) Act 2019,2019-01-18,2019-01-17,yes,97,0
+asp/2019/3,Budget (Scotland) Act 2019,2020-03-25,2019-03-29,yes,11,0
+asp/2019/4,Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019,2019-07-01,2019-04-24,yes,10,0
+asp/2019/5,Hutchesons' Hospital Transfer and Dissolution (Scotland) Act 2019,2019-06-28,2019-05-31,yes,5,0
+asp/2019/6,Health and Care (Staffing) (Scotland) Act 2019,2025-11-19,2019-06-06,yes,16,0
+asp/2019/7,Age of Criminal Responsibility (Scotland) Act 2019,2025-04-01,2019-06-11,yes,86,4
+asp/2019/8,Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019,2026-03-30,2019-06-13,yes,13,0
+asp/2019/9,South of Scotland Enterprise Act 2019,2020-06-01,2019-07-12,yes,46,1
+asp/2020/10,Coronavirus (Scotland) (No.2) Act 2020,2023-04-01,2020-05-26,yes,71,0
+asp/2020/11,Consumer Scotland Act 2020,2022-04-01,2020-06-09,yes,52,0
+asp/2020/12,Scottish Elections (Reform) Act 2020,2021-09-29,2020-07-08,yes,50,0
+asp/2020/13,Disclosure (Scotland) Act 2020,2026-04-01,2020-07-14,yes,339,6
+asp/2020/14,"Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020",2023-10-03,2020-07-21,yes,23,0
+asp/2020/15,Civil Partnership (Scotland) Act 2020,2023-11-30,2020-07-28,yes,25,0
+asp/2020/16,Children (Scotland) Act 2020,2025-09-21,2020-10-01,yes,35,2
+asp/2020/17,Agriculture (Retained EU Law and Data) (Scotland) Act 2020,2025-06-16,2020-10-01,yes,30,0
+asp/2020/18,Social Security Administration and Tribunal Membership (Scotland) Act 2020,2022-05-13,2020-11-10,yes,19,0
+asp/2020/2,Referendums (Scotland) Act 2020,2026-04-01,2020-01-29,yes,271,0
+asp/2020/3,Scottish National Investment Bank Act 2020,2020-09-16,2020-02-25,yes,41,0
+asp/2020/4,Non-Domestic Rates (Scotland) Act 2020,2023-04-01,2020-03-11,yes,45,1
+asp/2020/5,Budget (Scotland) Act 2020,2021-03-30,2020-03-18,yes,11,0
+asp/2020/6,Scottish Elections (Franchise and Representation) Act 2020,2020-08-03,2020-04-01,yes,15,0
+asp/2020/7,Coronavirus (Scotland) Act 2020,2023-04-01,2020-04-06,yes,114,0
+asp/2020/8,Scottish Biometrics Commissioner Act 2020,2026-09-30,2020-04-20,yes,60,0
+asp/2020/9,Female Genital Mutilation (Protection and Guidance) (Scotland) Act 2020,2020-04-25,2020-04-24,yes,12,0
+asp/2021/1,Period Products (Free Provision) (Scotland) Act 2021,2022-08-15,2021-01-12,yes,12,0
+asp/2021/10,Defamation and Malicious Publication (Scotland) Act 2021,2022-08-08,2021-04-21,yes,58,0
+asp/2021/11,Pre-release Access to Official Statistics (Scotland) Act 2021,2021-04-22,2021-04-21,yes,5,0
+asp/2021/12,Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021,2021-04-22,2021-04-21,yes,5,0
+asp/2021/13,University of St. Andrews (Degrees in Medicine and Dentistry) Act 2021,2021-04-24,2021-04-23,yes,3,0
+asp/2021/14,Hate Crime and Public Order (Scotland) Act 2021,2024-04-01,2021-04-23,yes,31,6
+asp/2021/15,Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021,2022-02-09,2021-04-23,yes,148,0
+asp/2021/16,Domestic Abuse (Protection) (Scotland) Act 2021,2026-08-01,2021-05-05,yes,25,0
+asp/2021/17,Tied Pubs (Scotland) Act 2021,2025-03-30,2021-05-05,yes,58,0
+asp/2021/18,Dogs (Protection of Livestock) (Amendment) (Scotland) Act 2021,2021-11-06,2021-05-05,yes,8,0
+asp/2021/19,Coronavirus (Extension and Expiry) (Scotland) Act 2021,2021-08-05,2021-08-04,yes,14,0
+asp/2021/2,Solicitors in the Supreme Courts of Scotland (Amendment) Act 2021,2021-02-20,2021-01-20,yes,5,0
+asp/2021/20,Carer’s Allowance Supplement (Scotland) Act 2021,2021-11-16,2021-11-15,yes,4,0
+asp/2021/3,Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021,2023-06-19,2021-01-20,yes,26,0
+asp/2021/4,UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021,2024-01-01,2021-01-29,yes,72,4
+asp/2021/5,Scottish General Election (Coronavirus) Act 2021,2021-01-30,2021-01-29,yes,16,0
+asp/2021/6,Protection of Workers (Retail and Age-restricted Goods and Services) (Scotland) Act 2021,2021-02-25,2021-02-24,yes,7,0
+asp/2021/7,Scottish Parliament (Assistance for Political Parties) Act 2021,2021-05-22,2021-03-22,yes,5,0
+asp/2021/8,Budget (Scotland) Act 2021,2023-03-28,2021-03-29,yes,11,0
+asp/2021/9,Heat Networks (Scotland) Act 2021,2026-01-27,2021-03-30,yes,107,0
+asp/2022/1,Transvaginal Mesh Removal (Cost Reimbursement) (Scotland) Act 2022,2022-05-03,2022-03-03,yes,5,0
+asp/2022/10,Cost of Living (Tenant Protection) (Scotland) Act 2022,2025-04-01,2022-10-27,yes,28,0
+asp/2022/2,Coronavirus (Discretionary Compensation for Self-isolation) (Scotland) Act 2022,2022-03-24,2022-03-23,yes,7,0
+asp/2022/3,Budget (Scotland) Act 2022,2023-03-30,2022-03-23,yes,11,0
+asp/2022/5,Good Food Nation (Scotland) Act 2022,2025-06-30,2022-07-26,yes,50,5
+asp/2022/6,Miners’ Strike (Pardons) (Scotland) Act 2022,2025-01-22,2022-07-26,yes,7,0
+asp/2022/7,Non-Domestic Rates (Coronavirus) (Scotland) Act 2022,2022-07-29,2022-07-28,yes,6,0
+asp/2022/8,Coronavirus (Recovery and Reform) (Scotland) Act 2022,2026-02-01,2022-08-10,yes,86,0
+asp/2022/9,Fireworks and Pyrotechnic Articles (Scotland) Act 2022,2023-06-22,2022-08-10,yes,102,0
+asp/2023/1,Hunting with Dogs (Scotland) Act 2023,2023-10-03,2023-03-07,yes,49,0
+asp/2023/2,Budget (Scotland) Act 2023,2024-03-29,2023-03-27,yes,11,0
+asp/2023/3,Moveable Transactions (Scotland) Act 2023,2025-04-01,2023-06-13,yes,122,0
+asp/2023/4,Bail and Release from Custody (Scotland) Act 2023,2026-02-09,2023-08-01,yes,19,0
+asp/2023/5,Charities (Regulation and Administration) (Scotland) Act 2023,2026-03-05,2023-08-09,yes,43,0
+asp/2023/6,Patient Safety Commissioner for Scotland Act 2023,2025-09-01,2023-11-07,yes,53,0
+asp/2024/1,United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,2024-07-16,2024-01-16,yes,147,9
+asp/2024/10,Abortion Services (Safe Access Zones) (Scotland) Act 2024,2024-09-24,2024-07-22,yes,18,0
+asp/2024/11,Agriculture and Rural Communities (Scotland) Act 2024,2025-06-16,2024-07-30,yes,62,0
+asp/2024/12,Gender Representation on Public Boards (Amendment) (Scotland) Act 2024,2024-08-02,2024-08-01,yes,3,0
+asp/2024/13,Circular Economy (Scotland) Act 2024,2025-11-01,2024-08-08,yes,36,0
+asp/2024/14,Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024,2026-04-01,2024-11-12,yes,65,0
+asp/2024/15,Climate Change (Emissions Reduction Targets) (Scotland) Act 2024,2024-11-23,2024-11-22,yes,16,0
+asp/2024/2,Trusts and Succession (Scotland) Act 2024,2024-06-26,2024-01-30,yes,111,0
+asp/2024/3,Budget (Scotland) Act 2024,2025-03-29,2024-03-28,yes,11,0
+asp/2024/4,Wildlife Management and Muirburn (Scotland) Act 2024,2026-09-15,2024-04-30,yes,52,0
+asp/2024/5,Children (Care and Justice) (Scotland) Act 2024,2026-03-30,2024-06-04,yes,70,2
+asp/2024/6,Post Office (Horizon System) Offences (Scotland) Act 2024,2024-06-14,2024-06-13,yes,11,0
+asp/2024/7,Housing (Cladding Remediation) (Scotland) Act 2024,2025-01-06,2024-06-21,yes,44,0
+asp/2024/8,Visitor Levy (Scotland) Act 2024,2026-07-22,2024-07-05,yes,87,0
+asp/2024/9,Bankruptcy and Diligence (Scotland) Act 2024,2025-06-25,2024-07-15,yes,23,0
+asp/2025/1,Prisoners (Early Release) (Scotland) Act 2025,2025-02-11,2025-01-22,yes,14,0
+asp/2025/10,Scottish Languages Act 2025,2026-09-15,2025-07-31,yes,49,1
+asp/2025/11,Education (Scotland) Act 2025,2026-08-31,2025-08-06,yes,124,0
+asp/2025/12,"Victims, Witnesses, and Justice Reform (Scotland) Act 2025",2026-10-01,2025-10-30,yes,162,3
+asp/2025/13,Housing (Scotland) Act 2025,2026-10-06,2025-11-06,yes,94,15
+asp/2025/14,Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025,2026-04-01,2025-11-19,yes,44,3
+asp/2025/15,Land Reform (Scotland) Act 2025,2026-03-16,2025-12-16,yes,134,7
+asp/2025/2,Social Security (Amendment) (Scotland) Act 2025,2025-12-15,2025-01-23,yes,28,1
+asp/2025/3,Judicial Factors (Scotland) Act 2025,2025-01-28,2025-01-27,yes,93,0
+asp/2025/4,Scottish Elections (Representation and Reform) Act 2025,2026-04-01,2025-01-29,yes,107,12
+asp/2025/5,"Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025",2025-06-25,2025-03-04,yes,23,1
+asp/2025/6,Welfare of Dogs (Scotland) Act 2025,2025-05-19,2025-03-19,yes,9,0
+asp/2025/7,Budget (Scotland) Act 2025,2026-04-01,2025-03-28,yes,11,1
+asp/2025/8,Regulation of Legal Services (Scotland) Act 2025,2026-07-01,2025-06-27,yes,209,2
+asp/2025/9,Care Reform (Scotland) Act 2025,2026-04-30,2025-07-22,yes,40,0
+asp/2026/1,Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026,2026-01-08,2026-01-07,yes,4,0
+asp/2026/10,Contract (Formation and Remedies) (Scotland) Act 2026,2026-04-15,2026-04-14,yes,30,0
+asp/2026/11,European Charter of Local Self-Government (Incorporation) (Scotland) Act 2026,2026-10-15,2026-04-15,yes,15,0
+asp/2026/12,Digital Assets (Scotland) Act 2026,2026-07-01,2026-04-16,yes,10,0
+asp/2026/13,Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026,2026-07-22,2026-05-12,yes,44,0
+asp/2026/14,Building Safety Levy (Scotland) Act 2026,2026-05-14,2026-05-13,yes,54,0
+asp/2026/15,Greyhound Racing (Offences) (Scotland) Act 2026,2026-05-15,2026-05-14,yes,26,0
+asp/2026/16,"Children (Care, Care Experience and Services Planning) (Scotland) Act 2026",2026-09-30,2026-05-15,yes,71,0
+asp/2026/17,Crofting and Scottish Land Court Act 2026,2026-10-26,2026-05-18,yes,112,0
+asp/2026/18,Visitor Levy (Amendment) (Scotland) Act 2026,2026-07-22,2026-05-21,yes,42,0
+asp/2026/19,Restraint and Seclusion in Schools (Scotland) Act 2026,2026-05-27,2026-05-26,yes,10,0
+asp/2026/2,Dog Theft (Scotland) Act 2026,2026-02-11,2026-02-10,yes,6,0
+asp/2026/3,Schools (Residential Outdoor Education) (Scotland) Act 2026,2026-02-12,2026-02-11,yes,5,0
+asp/2026/4,UEFA European Championship (Scotland) Act 2026,2026-09-20,2026-02-27,yes,62,1
+asp/2026/5,Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026,2026-10-01,2026-03-11,yes,40,2
+asp/2026/6,Natural Environment (Scotland) Act 2026,2026-10-26,2026-03-12,yes,60,0
+asp/2026/7,Community Wealth Building (Scotland) Act 2026,2026-10-01,2026-03-25,yes,15,0
+asp/2026/8,Budget (Scotland) Act 2026,2026-04-01,2026-03-31,yes,11,0
+asp/2026/9,Children (Withdrawal from Religious Education and Amendment of UNCRC Compatibility Duty) (Scotland) Act 2026,2026-04-03,2026-04-02,yes,6,0
 ukpga/1963/11,Agriculture (Miscellaneous Provisions) Act 1963,2025-06-16,1963-05-15,yes,24,0
 ukpga/1963/12,Local Government (Financial Provisions) (Scotland) Act 1963,2023-04-01,1963-05-15,yes,26,1
 ukpga/1963/14,Corn Rents Act 1963,2004-07-22,1963-05-15,yes,3,0
