@@ -13,6 +13,8 @@ So the questions a lawyer asks of a provision become git commands:
 | Everything one instrument changed | `git log -p --author="S.I. 2020/471"` |
 | Every change to a provision | `git log -p -- uksi/2014/1530/regulation/13.md` |
 
+`python tools/ukhistory.py on 2020-06-01 uksi/2014/1530/regulation/13` prints a provision as it stood at the end of a day, whatever your time zone, and says so plainly if it did not exist yet. `git diff --word-diff` shows amendments of a few words more clearly than line diffs.
+
 If you would rather not use a terminal, the same history has a reader at **[lexifina.com/watch/uk-law](https://lexifina.com/watch/uk-law)**: pick a date and read the text in force on it, with the status, the instrument behind each change, and the words that read differently today marked.
 
 ## What is here

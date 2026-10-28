@@ -113,6 +113,20 @@ class Repository(unittest.TestCase):
         self.assertIn("temporarily amended, SEND Regulations 2014 reg. 13", log[0])
         self.assertTrue(log[1].startswith("2014-06-04T12:00:00+01:00|S.I. 2014/1530"), log[1])
 
+    def test_the_history_is_never_written_over_an_existing_one(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            uk.write_repo(_tiny_history(), Path(tmp), {}, ("Lexifina", "x@lexifina.com"))
+            with self.assertRaises(SystemExit):
+                uk.write_repo(_tiny_history(), Path(tmp), {}, ("Lexifina", "x@lexifina.com"))
+
+    def test_a_provision_on_a_date_follows_the_in_force_trailer(self):
+        path = "uksi/2014/1530/regulation/13.md"
+        with tempfile.TemporaryDirectory() as tmp:
+            uk.write_repo(_tiny_history(), Path(tmp), {}, ("Lexifina", "x@lexifina.com"))
+            self.assertIn("did not exist on 2014-01-01", uk.on_date(Path(tmp), "2014-01-01", path))
+            self.assertIn("to (d)", uk.on_date(Path(tmp), "2020-04-30", path))
+            self.assertIn("to (e)", uk.on_date(Path(tmp), "2020-05-01", path))
+
 
 def _tiny_history():
     made = uk.parse_version(fixture("reg13-2015-09-01.xml"))

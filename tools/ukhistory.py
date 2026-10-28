@@ -3,6 +3,7 @@
     python ukhistory.py build  [--cache DIR] [--out history.json]
     python ukhistory.py repo   --history history.json --repo DIR
     python ukhistory.py check  --history history.json        # re-fetch and compare every version's text
+    python ukhistory.py on 2020-06-01 uksi/2014/1530/regulation/13   # a provision as it stood on a date
 
 Standard library only, so the public repository can carry this file and anyone can rebuild it.
 
@@ -583,9 +584,11 @@ def london_noon(date: str) -> str:
 
 
 def write_repo(history: Dict[str, Any], repo: Path, extra: Dict[str, str], committer: Tuple[str, str]) -> int:
+    # The history is always written from scratch: writing into an existing repository would add a second copy.
+    if repo.exists() and any(repo.iterdir()):
+        raise SystemExit(f"{repo} is not empty; the history is written into a new, empty directory")
     repo.mkdir(parents=True, exist_ok=True)
-    if not (repo / ".git").exists():
-        git(repo, "init", "-q", "-b", "main")
+    git(repo, "init", "-q", "-b", "main")
     git(repo, "config", "core.autocrlf", "false")
     n = 0
     for group in commits(history):
@@ -618,6 +621,24 @@ def write_repo(history: Dict[str, Any], repo: Path, extra: Dict[str, str], commi
     return n
 
 
+# --- reading the history on a date ---------------------------------------------------------------------------------
+
+def on_date(repo: Path, date: str, path: str) -> str:
+    """The file as it stood at the end of a day, chosen by the In-force trailer, so the answer does not depend on the
+    reader's time zone. Says so plainly when the provision did not yet exist."""
+    log = git(repo, "log", "--format=%H %(trailers:key=In-force,valueonly,separator=)", "main", "--", path)
+    best = None
+    for row in log.splitlines():
+        sha, _, day = row.partition(" ")
+        if day and day.strip() <= date:
+            best = sha
+            break
+    if best is None:
+        first = log.splitlines()[-1].partition(" ")[2].strip() if log else ""
+        return f"{path} did not exist on {date}." + (f" It was enacted or made on {first}." if first else "")
+    return git(repo, "show", f"{best}:{path}")
+
+
 # --- checking -------------------------------------------------------------------------------------------------------
 
 def check(history: Dict[str, Any], fetch: Fetcher) -> int:
@@ -643,11 +664,19 @@ def main(argv: Optional[Iterable[str]] = None) -> int:
     r.add_argument("--repo", required=True)
     r.add_argument("--extra", nargs="*", default=[], help="files to add in a final commit, as repo-path=local-path")
     r.add_argument("--committer", default="Lexifina <uk-law-history@lexifina.com>")
+    o = sub.add_parser("on", help="print a provision as it stood on a date: on 2020-06-01 uksi/2014/1530/regulation/13")
+    o.add_argument("date")
+    o.add_argument("path")
+    o.add_argument("--repo", default=".")
     c = sub.add_parser("check")
     c.add_argument("--history", default="history.json")
     c.add_argument("--cache", default=".cache-check")
     args = ap.parse_args(list(argv) if argv is not None else None)
 
+    if args.cmd == "on":
+        path = args.path if args.path.endswith(".md") else args.path.strip("/") + ".md"
+        print(on_date(Path(args.repo), args.date, path))
+        return 0
     if args.cmd == "build":
         history = build(Fetcher(Path(args.cache)))
         Path(args.out).write_text(json.dumps(history, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
