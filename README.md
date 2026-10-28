@@ -17,6 +17,14 @@ So the questions a lawyer asks of a provision become git commands:
 
 If you would rather not use a terminal, the same history has a reader at **[lexifina.com/watch/uk-law](https://lexifina.com/watch/uk-law)**: pick a date and read the text in force on it, with the status, the instrument behind each change, and the words that read differently today marked.
 
+## Every Act in force
+
+The history now also holds 528 Acts of the UK Parliament that are in force, each as one folder at the path of its legislation.gov.uk address (`ukpga/2010/15/` is the Equality Act 2010), with one file per section or schedule paragraph and a `README.md` giving the Act's dates and contents. [data/acts.csv](data/acts.csv) lists them.
+
+Each of these Acts enters the history as **one commit, its oldest version available here**: the text legislation.gov.uk publishes as in force today, dated by the day that version took effect (its `In-force:` line). An Act passed recently that the publisher has not yet revised is shown as enacted and dated by Royal Assent. So for these Acts the history does not yet say when each provision took its present words, and on a date before an Act's first commit the history has no text for it, which does not mean the Act was not law. Earlier versions will be added behind them, each Act ending again on its current text. Acts that have been wholly repealed are left out. The text may lag behind changes the publisher has not yet applied; each Act's `README.md` says how many it lists.
+
+To read an Act on a date, choose the commit by its `In-force:` line, as `python tools/ukhistory.py on <date> <path>` does, not by the commit date: these commits were added after the older ones, so their commit dates are the dates they were added.
+
 ## What is here
 
 | Instrument | Provisions | Versions | Reader |
@@ -67,8 +75,6 @@ Others have kept law in git before. [c3e/grundgesetz](https://github.com/c3e/gru
 ## How it is built
 
 `tools/ukhistory.py` builds the history. It uses only the Python standard library, and it is the same code that produces the data behind the reader. `python tools/ukhistory.py build` reads every point-in-time version and the changes register from legislation.gov.uk and writes `data/history.json`. `python tools/ukhistory.py repo --repo <dir>` writes the commits. The build is deterministic: the same data gives the same commits. It is rebuilt when the data is updated, so the history may be rewritten.
-
-The build sends at most a few requests a second and names itself in its user agent, within legislation.gov.uk's fair-use limits.
 
 [REPRODUCE.md](REPRODUCE.md) records exactly how the history was made: the sources, every command, the software, the decisions made by hand, and what the AI model that built it did and did not do. [RESEARCH.md](RESEARCH.md) has the research behind the design.
 
