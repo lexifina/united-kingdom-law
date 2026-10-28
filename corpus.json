@@ -1,0 +1,39 @@
+{
+  "corpus": "gb/uk/legislation",
+  "name": "United Kingdom legislation",
+  "label": "United Kingdom",
+  "language": "en",
+  "history_from": "2014-03-13",
+  "record_to": "2026-10-28",
+  "record_note": "This history now holds nine provisions on EHC plans (Children and Families Act 2014 ss. 19, 21, 36, 37, 42; SEND Regulations 2014 regs. 6, 11, 12, 13), every point-in-time version legislation.gov.uk published to 2026-10-28. It will be replaced by a rebuild covering all UK legislation (about 199,000 documents), which is being harvested at legislation.gov.uk's crawl delay.",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "In-force",
+  "baseline_note": "In this history the first commit of each instrument (Royal Assent or made) carries In-force with its enactment or making date; the rebuild uses Enacted, Made or Text-as-at instead.",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": ["Enacted", "Made"],
+    "time": "12:00 Europe/London"
+  },
+  "scope": {
+    "trailer": null,
+    "groups": "any one line",
+    "conditions": "all of a line",
+    "when_absent": "no scope note found; not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retrospective effect",
+      "meaning": "legislation is presumed not to change the legal effect of past events or accrued rights unless it says so; a repeal does not affect rights accrued, liabilities incurred or proceedings begun under the repealed provision unless the contrary intention appears",
+      "authority": "Interpretation Act 1978, s. 16; L'Office Cherifien des Phosphates v Yamashita-Shinnihon Steamship Co Ltd [1994] 1 AC 486",
+      "decided_here": false
+    },
+    "note": "This published history has no Applies or Modifies lines; savings and transitional provisions are named in commit messages. The rebuild adds Applies (savings, from the changes register) and Modifies (curated, for modifications made by notice, with kinds modified and ended, marked Curated: yes)."
+  },
+  "modifies": {
+    "trailer": "Modifies",
+    "kinds": ["modified", "ended"],
+    "curated_trailer": "Curated",
+    "present_in_this_history": false
+  },
+  "has_future_branch": false,
+  "tool": "tools/ukhistory.py on <date> <path>"
+}
