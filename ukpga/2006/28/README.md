@@ -1,0 +1,314 @@
+# Health Act 2006
+
+2006 c. 28. Enacted 2006-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 41 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
+
+Source: https://www.legislation.gov.uk/ukpga/2006/28/2026-10-29
+
+## Contents
+
+- Part 1 Smoking
+  - Chapter 1 Smoke-free premises, places and vehicles in England
+    - Introduction
+      - [s. 1 Introduction](section/1.md)
+    - Smoke-free premises, etc.
+      - [s. 2 Smoke-free premises](section/2.md)
+      - [s. 3 Smoke-free premises: exemptions](section/3.md)
+      - [s. 4 Additional smoke-free places](section/4.md)
+      - [s. 5 Vehicles](section/5.md)
+    - No-smoking signs
+      - [s. 6 No-smoking signs](section/6.md)
+    - Offences relating to smoking in smoke-free premises, etc.
+      - [s. 7 Offence of smoking in smoke-free place](section/7.md)
+      - [s. 8 Offence of failing to prevent smoking in smoke-free place](section/8.md)
+    - Fixed penalties
+      - [s. 9 Fixed penalties](section/9.md)
+    - Enforcement
+      - [s. 10 Enforcement](section/10.md)
+      - [s. 11 Obstruction etc. of officers](section/11.md)
+    - Interpretation, etc.
+      - [s. 12 Interpretation and territorial sea](section/12.md)
+  - Chapter 2 Age for sale of tobacco etc.
+    - [s. 13 Power to amend age for sale of tobacco etc.](section/13.md)
+- Part 2 Prevention and Control of Health Care Associated Infections
+  - [s. 14 Code of practice relating to health care associated infections](section/14.md)
+  - [s. 15 Code of practice: effects on existing functions of Commission for Healthcare Audit and Inspection](section/15.md)
+  - [s. 16 Code of practice: improvement notices](section/16.md)
+- Part 3 Drugs, Medicines and Pharmacies
+  - Chapter 1 Supervision of management and use of controlled drugs
+    - [s. 17 Accountable officers and their responsibilities as to controlled drugs](section/17.md)
+    - [s. 18 Co-operation between health bodies and other organisations](section/18.md)
+    - [s. 19 Meaning of “relevant person” in section 18](section/19.md)
+    - [s. 20 Controlled drugs: power to enter and inspect](section/20.md)
+    - [s. 21 Offences in connection with power to enter and inspect](section/21.md)
+    - [s. 22 Guidance](section/22.md)
+    - [s. 23 Crown application](section/23.md)
+    - [s. 24 Relevant authorities](section/24.md)
+    - [s. 25 Interpretation](section/25.md)
+  - Chapter 2 Medicines and pharmacies
+    - [s. 26 Requirements about supervision](section/26.md)
+    - [s. 27 Control of pharmacy premises: individuals and partnerships](section/27.md)
+    - [s. 28 Control of pharmacy premises: bodies corporate](section/28.md)
+    - [s. 29 Control of pharmacy premises: representative of pharmacist in case of death or disability](section/29.md)
+    - [s. 30 The responsible pharmacist](section/30.md)
+    - [s. 31 Enforcement](section/31.md)
+    - [s. 32 Order-making powers](section/32.md)
+    - [s. 33 Orders under s.60 of the Health Act 1999](section/33.md)
+- Part 4 The National Health Service
+  - Chapter 1 Pharmaceutical services
+    - [s. 34 Power to charge](section/34.md)
+    - [s. 35 Applications for provision of pharmaceutical services](section/35.md)
+    - [s. 36 Arrangements for dispensing of medicines](section/36.md)
+  - Chapter 2 Ophthalmic services
+    - [s. 37 Provision of primary ophthalmic services](section/37.md)
+    - [s. 38 General ophthalmic services contracts](section/38.md)
+    - [s. 39 Persons performing primary ophthalmic services](section/39.md)
+    - [s. 40 Assistance and support](section/40.md)
+    - [s. 41 Local Optical Committees](section/41.md)
+    - [s. 42 Payments in respect of optical appliances](section/42.md)
+    - [s. 43 General ophthalmic services: transitional](section/43.md)
+  - Chapter 3 Protection of NHS from fraud and other unlawful activities
+    - Preliminary
+      - [s. 44 Compulsory disclosure of documents for purposes of counter fraud or security management functions](section/44.md)
+      - [s. 45 Meaning of “NHS body” etc.](section/45.md)
+    - Disclosure notices
+      - [s. 46 Notice requiring production of documents](section/46.md)
+      - [s. 47 Production of documents](section/47.md)
+      - [s. 48 Delegation of functions](section/48.md)
+      - [s. 49 Code of practice relating to delegated functions](section/49.md)
+      - [s. 50 Disclosure of information](section/50.md)
+      - [s. 51 Protection of personal information disclosed for purposes of proceedings](section/51.md)
+    - Offences
+      - [s. 52 Offences in connection with production of documents](section/52.md)
+      - [s. 53 Offences relating to disclosure or use of information](section/53.md)
+    - Supplementary
+      - [s. 54 Manner in which disclosure notice may be served](section/54.md)
+      - [s. 55 Interpretation](section/55.md)
+  - Chapter 4 Audit
+    - [s. 56 Accounts and audit](section/56.md)
+- Part 5 Appointments Commission
+  - The Appointments Commission
+    - [s. 57 The Appointments Commission](section/57.md)
+  - Delegation of appointment functions
+    - [s. 58 Commission to exercise Secretary of State’s appointment functions](section/58.md)
+    - [s. 59 Cases where appointment functions exercisable jointly etc.](section/59.md)
+    - [s. 60 Commission to exercise Privy Council’s appointment functions](section/60.md)
+    - [s. 61 Commission to exercise Assembly’s appointment functions](section/61.md)
+    - [s. 62 Exercise of appointments functions](section/62.md)
+  - Other functions
+    - [s. 63 Commission to assist other bodies with appointments](section/63.md)
+    - [s. 64 Functions connected with appointments to bodies to which section 58 or 60 applies](section/64.md)
+    - [s. 65 Prescribed functions](section/65.md)
+  - Functions: supplementary
+    - [s. 66 Exercise of functions](section/66.md)
+  - Reports etc.
+    - [s. 67 Annual reports](section/67.md)
+    - [s. 68 Other reports and information](section/68.md)
+  - Miscellaneous and supplementary
+    - [s. 69 Transfer of staff and property etc.](section/69.md)
+    - [s. 70 Directions](section/70.md)
+    - [s. 71 Interpretation](section/71.md)
+- Part 6 Miscellaneous
+  - Social care bursary
+    - [s. 72 Exercise by Special Health Authority of social care training functions](section/72.md)
+  - NHS costs recovery
+    - [s. 73 NHS costs recovery](section/73.md)
+  - Transfer of criminal liabilities
+    - [s. 74 Transfer of criminal liabilities of certain NHS bodies](section/74.md)
+  - Local Health Boards and Welsh health authorities
+    - [s. 75 Amendments relating to Local Health Boards and abolition of Welsh health authorities](section/75.md)
+- Part 7 Final provisions
+  - Offences
+    - [s. 76 Offences by bodies corporate etc.](section/76.md)
+    - [s. 77 Offences committed by partnerships and other unincorporated associations](section/77.md)
+    - [s. 78 Penalties for offences: transitional modification for England and Wales](section/78.md)
+  - General
+    - [s. 79 Orders and regulations](section/79.md)
+    - [s. 80 Amendments, repeals and revocations](section/80.md)
+    - [s. 81 Expenses](section/81.md)
+    - [s. 82 Interpretation](section/82.md)
+    - [s. 83 Commencement](section/83.md)
+    - [s. 84 Short title and extent](section/84.md)
+- SCHEDULE 1 Fixed penalties
+  - Contents of penalty notice
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Amount of penalty and period for payment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Discounted amount and period for payment
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Effect of notice and payment
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Trial
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Withdrawal of notices
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Power to amend or modify Schedule
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Powers of entry, etc.
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 New Schedule 12B to 1977 Act
+- SCHEDULE 4 The Appointments Commission: supplementary
+  - Status
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Board of the Commission
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Chairman and non-executive members
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Chief executive
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The executive members
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The vice-chairman
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Terms of appointment: chairman and non-executive members
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Terms of appointment: chief executive and executive members
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Committees: general
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Health and Social Care Appointments Committee
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Proceedings
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Staff
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Financing of Commission
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Accounts
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Authentication of seal
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 The Appointments Commission: list of statutory bodies
+  - List of statutory bodies referred to in section 58(3)
+- SCHEDULE 6 The Appointments Commission: list of regulatory bodies
+  - List of regulatory bodies referred to in section 60(1)
+- SCHEDULE 7 Transfer of staff and property etc. to Appointments Commission
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Transfer of staff
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Transfer of property, rights and liabilities
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - General
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Minor and consequential amendments
+  - Pharmacy Act 1954 (c. 61)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - ...
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - ...
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - National Health Service Act 1977 (c. 49)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Medical Act 1983 (c. 54)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Dentists Act 1984 (c. 24)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - Opticians Act 1989 (c. 44)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - National Health Service and Community Care Act 1990 (c. 19)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - Osteopaths Act 1993 (c. 21)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - Health Service Commissioners Act 1993 (c. 46)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - Chiropractors Act 1994 (c. 17)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - National Health Service (Residual Liabilities) Act 1996 (c. 15)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - Pharmacists (Fitness to Practise) Act 1997 (c. 19)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - Government Resources and Accounts Act 2000 (c. 20)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+  - Health and Social Care Act 2001 (c. 15)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+  - Nursing and Midwifery Order 2001 (S.I. 2002/253)
+    - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+  - Health Professions Order 2001 (S.I. 2002/254)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+  - National Health Service Reform and Health Care Professions Act 2002 (c. 17)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+    - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+    - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+    - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+    - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+  - General and Specialist Medical Practice (Education, Training and Qualifications) Order 2003 (S.I. 2003/1250)
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+  - Health Protection Agency Act 2004 (c. 17)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+  - Public Audit (Wales) Act 2004 (c. 23)
+    - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+- SCHEDULE 9 Repeals and revocations
