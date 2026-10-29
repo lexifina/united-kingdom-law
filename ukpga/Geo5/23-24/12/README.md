@@ -1,0 +1,210 @@
+# Children and Young Persons Act 1933
+
+1933 c. 12. Enacted 1933-04-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 52 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/2026-10-29
+
+## Contents
+
+- Part I Prevention of Cruelty and Exposure to Moral and Physical Danger
+  - Offences
+    - [s. 1 Cruelty to persons under sixteen.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 Allowing persons under sixteen to be in brothels.](section/3.md)
+    - [s. 4 Causing or allowing persons under sixteen to be used for begging.](section/4.md)
+    - [s. 5 Giving intoxicating liquor to children under five.](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 Sale of tobacco, &c. to persons under eighteen.](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 †Exposing children under seven to risk of burning.](section/11.md)
+    - [s. 12 Failing to provide for safety of children at entertainments.](section/12.md)
+  - ...
+    - [s. 12A Restricted premises orders](section/12A.md)
+    - [s. 12B Restricted sale orders](section/12B.md)
+    - [s. 12C Enforcement](section/12C.md)
+    - [s. 12D Interpretation](section/12D.md)
+  - Special Provisions as to Prosecutions for Offences specified in First Schedule
+    - [s. 13](section/13.md)
+    - [s. 14 Mode of charging offences and limitation of time.](section/14.md)
+    - [s. 15 ................................](section/15.md)
+  - Supplemental
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 Interpretation of Part I.](section/17.md)
+- Part II Employment
+  - General Provisions as to Employment
+    - [s. 18](section/18.md)
+    - [s. 18A Regulations under section 18: further provision](section/18A.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 Street trading.](section/20.md)
+    - [s. 21 Penalties and legal proceedings in respect of general provisions as to employment.](section/21.md)
+  - Entertainments and Performances
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Prohibition against persons under sixteen taking part in performances endangering life or limb.](section/23.md)
+    - [s. 24 Restrictions on training for performances of a dangerous nature.](section/24.md)
+  - Employment Abroad
+    - [s. 25 Restrictions on persons under eighteen going abroad for the purpose of performing for profit.](section/25.md)
+    - [s. 26 Punishment of contraventions of last foregoing section and proceedings with respect thereto.](section/26.md)
+  - Supplemental
+    - [s. 27 Byelaws.](section/27.md)
+    - [s. 28 Powers of entry.](section/28.md)
+    - [s. 29 Savings.](section/29.md)
+    - [s. 30 Interpretation of Part II.](section/30.md)
+- Part III Protection of Children and Young Persons in relation to Criminal and Summary Proceedings
+  - General Provisions as to Preliminary Proceedings
+    - [s. 31 Separation of children and young persons from adults in police stations, courts, &c.](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Attendance at court of parent of child or young person charged with an offence, &c.](section/34.md)
+    - [s. 34A Attendance at court of parent or guardian.](section/34A.md)
+    - [s. 35 ................................](section/35.md)
+  - General Provisions as to Proceedings in Court
+    - [s. 36 Prohibition against children being present in court during the trial of other persons.](section/36.md)
+    - [s. 37 Power to clear court while child or young person is giving evidence in certain cases.](section/37.md)
+    - [s. 38 Evidence of child of tender years.](section/38.md)
+    - [s. 39 Power to prohibit publication of certain matter....](section/39.md)
+    - [s. 39A Prohibition on publication of certain matters: providers of information society services](section/39A.md)
+  - Special Procedure with regard to Offences specified in First Schedule
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 Power to proceed with case in absence of child or young person.](section/41.md)
+    - [s. 42 Extension of power to take deposition of child or young person.](section/42.md)
+    - [s. 43 Admission of deposition of child or young person in evidence.](section/43.md)
+  - Principles to be observed by all Courts in dealing with Children and Young Persons
+    - [s. 44 General considerations.](section/44.md)
+  - Youth Courts
+    - [s. 45 Constitution of Youth courts.](section/45.md)
+    - [s. 46 Assignment of certain matters to youth courts.](section/46.md)
+    - [s. 47 Procedure in youth courts.](section/47.md)
+    - [s. 48 Miscellaneous provisions as to powers of youth courts.](section/48.md)
+    - [s. 49 Restrictions on reports of proceedings in which children or young persons are concerned.](section/49.md)
+  - Juvenile Offenders
+    - [s. 50 Age of criminal responsibility.](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 Power of Secretary of State to send certain juvenile offenders to approved schools.](section/58.md)
+    - [s. 59 Miscellaneous provisions as to summary proceedings against juvenile offenders.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 ................................](section/62.md)
+- Part IV Remand Homes, Approved Schools, and Persons To whose care children and young persons may be committed
+  - Remand Homes
+    - [s. 77 Provision of remand homes by councils of counties and county boroughs.](section/77.md)
+    - [s. 78 ................................](section/78.md)
+  - Approved Schools
+    - [s. 79 Approval of schools.](section/79.md)
+    - [s. 80 Provision of approved schools by local authorities.](section/80.md)
+    - [s. 81 Classification, administration, and management.](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 90 ................................](section/90.md)
+- Part V
+  - [s. 92 ................................](section/92.md)
+  - [s. 94 ................................](section/94.md)
+  - [s. 95 ................................](section/95.md)
+- Part VI Supplemental
+  - Local Authorities
+    - [s. 96 ` Provisions as to local authorities.](section/96.md)
+    - [s. 97 Modifications of last foregoing section as to City of London.](section/97.md)
+    - [s. 98 †Institution of proceedings by local or poor law authorities.](section/98.md)
+  - Supplementary Provisions as to Legal Proceedings
+    - [s. 99 Presumption and determination of age.](section/99.md)
+    - [s. 100 Evidence of wages of defendant.](section/100.md)
+    - [s. 101 Application of Summary Jurisdiction Acts.](section/101.md)
+    - [s. 102 †Appeals to quarter sessions.](section/102.md)
+  - Supplementary Provisions as to Secretary of State
+    - [s. 103 Power of Secretary of State to appoint inspectors.](section/103.md)
+    - [s. 104 Exchequer grants and expenses of Secretary of State.](section/104.md)
+  - General
+    - [s. 105 Variation of Orders in Council.](section/105.md)
+    - [s. 106 Provisions as to documents, &c.](section/106.md)
+    - [s. 107 Interpretation.](section/107.md)
+    - [s. 108 Transitory provisions.](section/108.md)
+    - [s. 109 †Short title, commencement, extent, and repeals.](section/109.md)
+- FIRST SCHEDULE Offences against Children and Young Persons, with respect to which Special Provisions of this Act apply
+- SCHEDULE 1A Prohibition on publication of certain matters: providers of information society services
+  - Domestic service providers: extension of liability
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Exceptions for mere conduits
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Exception for caching
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Exception for hosting
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Interpretation
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+- SCHEDULE 2
+  - Part I Outside Metropolitan Area
+    - Youth court panels
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Qualification to sit as member of youth court.
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Constitution by single District Judge (Magistrates’ Courts)
+      - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+    - Youth court panels.
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Combined youth court panels
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Effect of order establishing combined panel
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Restrictions on formation of combined panels
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 8A ................................](schedule/2/paragraph/8A.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Consultations and notices
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Part II Metropolitan Area
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 15A](schedule/2/paragraph/15A.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 ................................](schedule/2/paragraph/19.md)
+  - Part III General
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- THIRD SCHEDULE
+- FOURTH SCHEDULE Provisions as to Administration of Approved Schools and Treatment of Persons sent thereto
+  - General Provisions
+    - [Sch. FOURTH para. 1](schedule/FOURTH/paragraph/1.md)
+    - [Sch. FOURTH para. 2](schedule/FOURTH/paragraph/2.md)
+  - Treatment of Pupils
+    - [Sch. FOURTH para. 3](schedule/FOURTH/paragraph/3.md)
+    - [Sch. FOURTH para. 4](schedule/FOURTH/paragraph/4.md)
+  - Superannuation of Officers
+    - [Sch. FOURTH para. 14](schedule/FOURTH/paragraph/14.md)
+- FIFTH SCHEDULE Transitory Provisions
+  - [Sch. FIFTH para. 1](schedule/FIFTH/paragraph/1.md)
+  - [Sch. FIFTH para. 2](schedule/FIFTH/paragraph/2.md)
+  - [Sch. FIFTH para. 3](schedule/FIFTH/paragraph/3.md)
+  - [Sch. FIFTH para. 4](schedule/FIFTH/paragraph/4.md)
+  - [Sch. FIFTH para. 5](schedule/FIFTH/paragraph/5.md)
+  - [Sch. FIFTH para. 6](schedule/FIFTH/paragraph/6.md)
+  - [Sch. FIFTH para. 7](schedule/FIFTH/paragraph/7.md)
+  - [Sch. FIFTH para. 8](schedule/FIFTH/paragraph/8.md)
+  - [Sch. FIFTH para. 9](schedule/FIFTH/paragraph/9.md)
+  - [Sch. FIFTH para. 10](schedule/FIFTH/paragraph/10.md)
+  - [Sch. FIFTH para. 11](schedule/FIFTH/paragraph/11.md)
+  - [Sch. FIFTH para. 12](schedule/FIFTH/paragraph/12.md)
+  - [Sch. FIFTH para. 13](schedule/FIFTH/paragraph/13.md)
+  - [Sch. FIFTH para. 14](schedule/FIFTH/paragraph/14.md)
+  - [Sch. FIFTH para. 15](schedule/FIFTH/paragraph/15.md)
+- SIXTH SCHEDULE
