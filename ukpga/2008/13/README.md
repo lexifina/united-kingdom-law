@@ -1,0 +1,237 @@
+# Regulatory Enforcement and Sanctions Act 2008
+
+2008 c. 13. Enacted 2008-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/13
+
+Source: https://www.legislation.gov.uk/ukpga/2008/13/2026-10-29
+
+## Contents
+
+- Part 1 The Local Better Regulation Office
+  - Establishment of LBRO
+    - [s. 1 LBRO](section/1.md)
+    - [s. 2 Dissolution of the LBRO company](section/2.md)
+  - Definitions
+    - [s. 3 “Local authority”](section/3.md)
+    - [s. 4 “Relevant function”](section/4.md)
+  - General functions of LBRO
+    - [s. 5 Objective relating to general functions](section/5.md)
+    - [s. 6 Guidance to local authorities](section/6.md)
+    - [s. 7 Guidance to local authorities: enforcement](section/7.md)
+    - [s. 8 Financial support and assistance to local authorities](section/8.md)
+    - [s. 9 Advice to Ministers of the Crown](section/9.md)
+    - [s. 10 Advice to Welsh Ministers](section/10.md)
+  - Function relating to enforcement priorities
+    - [s. 11 Enforcement priorities](section/11.md)
+  - Matters relating to exercise of LBRO’s functions
+    - [s. 12 Relationship with other regulators](section/12.md)
+    - [s. 13 Duty not to impose burdens etc](section/13.md)
+    - [s. 14 Ancillary powers](section/14.md)
+  - Ministerial powers in relation to LBRO
+    - [s. 15 Guidance or directions by the Secretary of State](section/15.md)
+    - [s. 16 Guidance or directions by Welsh Ministers](section/16.md)
+  - Supplementary and general
+    - [s. 17 Review of LBRO](section/17.md)
+    - [s. 18 Power to dissolve LBRO](section/18.md)
+    - [s. 19 Dissolution of LBRO: tax](section/19.md)
+    - [s. 20 Orders under Part 1](section/20.md)
+    - [s. 21 Interpretation of Part 1](section/21.md)
+- Part 2 Co-ordination of regulatory enforcement
+  - Introductory
+    - [s. 22 Scope of Part 2](section/22.md)
+    - [s. 23 “Local authority”](section/23.md)
+    - [s. 24 “Relevant function”](section/24.md)
+  - Primary authorities
+    - [s. 25 Primary authorities](section/25.md)
+    - [s. 26 Nomination of primary authorities](section/26.md)
+  - Functions of primary authorities
+    - [s. 27 Advice and guidance](section/27.md)
+    - [s. 28 Enforcement action](section/28.md)
+    - [s. 29 Enforcement action: exclusions](section/29.md)
+    - [s. 30 Inspection plans](section/30.md)
+  - Primary authorities: supplementary
+    - [s. 31 Power to charge](section/31.md)
+    - [s. 32 LBRO support](section/32.md)
+  - General
+    - [s. 33 Guidance from the Secretary of State](section/33.md)
+    - [s. 34 Orders under Part 2](section/34.md)
+    - [s. 35 Interpretation of Part 2](section/35.md)
+- PART 2 Regulatory Enforcement
+  - Introductory
+    - [s. 22A “Regulated person” and “regulated group”](section/22A.md)
+    - [s. 22B “Qualifying regulator”](section/22B.md)
+    - [s. 22C “Relevant function”](section/22C.md)
+  - Primary authorities
+    - [s. 23A Primary authorities for regulated persons and regulated groups](section/23A.md)
+    - [s. 23B Nomination of primary authorities](section/23B.md)
+    - [s. 23C “Co-ordinator” of a regulated group](section/23C.md)
+    - [s. 23D Membership of a regulated group](section/23D.md)
+    - [s. 23E Application of sections 24A to 28B](section/23E.md)
+  - Advice and guidance
+    - [s. 24A Primary authority advice and guidance](section/24A.md)
+  - Enforcement action
+    - [s. 25A “Enforcement action”](section/25A.md)
+    - [s. 25B Enforcement action by primary authority](section/25B.md)
+    - [s. 25C Enforcement action other than by primary authority](section/25C.md)
+    - [s. 25D Enforcement action: exceptions](section/25D.md)
+  - Inspection plans
+    - [s. 26A Inspection plans](section/26A.md)
+    - [s. 26B Effect of inspection plans](section/26B.md)
+    - [s. 26C Revocation and revision of inspection plans](section/26C.md)
+  - Primary authority’s costs
+    - [s. 27A Power to charge](section/27A.md)
+  - Other regulators
+    - [s. 28A Support of primary authority by other regulators](section/28A.md)
+    - [s. 28B Other regulators to act consistently with primary authority advice etc](section/28B.md)
+  - Cases with more than one primary authority
+    - [s. 29A Primary authority enforcement action inconsistent with another authority’s advice etc](section/29A.md)
+    - [s. 29B Concurrent duties to notify primary authorities of enforcement action](section/29B.md)
+    - [s. 29C Enforcement action notified to a primary authority inconsistent with another authority’s advice etc](section/29C.md)
+    - [s. 29D Overlapping inspection plans](section/29D.md)
+  - General
+    - [s. 30A Guidance and directions](section/30A.md)
+    - [s. 30B Periods of time under Part 2](section/30B.md)
+    - [s. 30C Regulations under Part 2](section/30C.md)
+    - [s. 30D Interpretation of Part 2](section/30D.md)
+- Part 3 Civil sanctions
+  - Orders under Part 3: introductory
+    - [s. 36 Power to make orders providing for civil sanctions](section/36.md)
+    - [s. 37 “Regulator”](section/37.md)
+    - [s. 38 “Relevant offence”](section/38.md)
+  - Fixed monetary penalties
+    - [s. 39 Fixed monetary penalties](section/39.md)
+    - [s. 40 Fixed monetary penalties: procedure](section/40.md)
+    - [s. 41 Fixed monetary penalties: criminal proceedings and conviction](section/41.md)
+  - Discretionary requirements
+    - [s. 42 Discretionary requirements](section/42.md)
+    - [s. 43 Discretionary requirements: procedure](section/43.md)
+    - [s. 44 Discretionary requirements: criminal proceedings and conviction](section/44.md)
+    - [s. 45 Discretionary requirements: enforcement](section/45.md)
+  - Stop notices
+    - [s. 46 Stop notices](section/46.md)
+    - [s. 47 Stop notices: procedure](section/47.md)
+    - [s. 48 Stop notices: compensation](section/48.md)
+    - [s. 49 Stop notices: enforcement](section/49.md)
+  - Enforcement undertakings
+    - [s. 50 Enforcement undertakings](section/50.md)
+  - Orders under Part 3: supplementary provision
+    - [s. 51 Combination of sanctions](section/51.md)
+    - [s. 52 Monetary penalties](section/52.md)
+    - [s. 53 Costs recovery](section/53.md)
+    - [s. 54 Appeals](section/54.md)
+    - [s. 55 Other provision](section/55.md)
+  - Orders under Part 3: exclusions
+    - [s. 56 Excluded provision: Scotland](section/56.md)
+    - [s. 57 Excluded provision: Northern Ireland](section/57.md)
+  - Orders under Part 3: procedure
+    - [s. 58 Consultation and consent: Scotland](section/58.md)
+    - [s. 59 Consultation and consent: Wales](section/59.md)
+    - [s. 60 Consultation: general](section/60.md)
+    - [s. 61 Parliamentary and Assembly procedure](section/61.md)
+  - Extension of powers to make subordinate legislation
+    - [s. 62 Offences under subordinate legislation](section/62.md)
+  - Guidance
+    - [s. 63 Guidance as to use of civil sanctions](section/63.md)
+    - [s. 64 Guidance as to enforcement of relevant offences](section/64.md)
+    - [s. 65 Publication of enforcement action](section/65.md)
+  - Exercise of powers: general
+    - [s. 66 Compliance with regulatory principles](section/66.md)
+    - [s. 67 Review](section/67.md)
+    - [s. 68 Suspension](section/68.md)
+  - Supplementary and general
+    - [s. 69 Payment of penalties into Consolidated Fund etc](section/69.md)
+    - [s. 70 Disclosure of information](section/70.md)
+    - [s. 71 Interpretation of Part 3](section/71.md)
+- Part 4 Regulatory burdens
+  - [s. 72 Duty not to impose or maintain unnecessary burdens](section/72.md)
+  - [s. 73 Functions to which section 72 applies](section/73.md)
+- Part 5 General
+  - [s. 74 General interpretation](section/74.md)
+  - [s. 75 Extent](section/75.md)
+  - [s. 76 Commencement](section/76.md)
+  - [s. 77 Short title](section/77.md)
+- SCHEDULE 1 LBRO: supplementary
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Tenure
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Employees
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Funding
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Annual report
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Accounts
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Financial year
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Instruments and authentication
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Records
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Parliamentary disqualification
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Investigation
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Freedom of information
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Transitional provisions
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Replacement of the LBRO company by LBRO
+  - Transfer of staff
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Transfer of property, rights and liabilities
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Tax
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Continuity between the LBRO company and LBRO
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Enactments specified for the purposes of Part 1
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 4A References to the Secretary of State
+  - PART 1 Enforcement action by primary authority
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - PART 2 Enforcement action other than by primary authority
+    - Reference by an enforcing authority
+      - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+    - Reference by regulated person or member of the regulated group
+      - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - Reference by primary authority
+      - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - PART 3 General
+    - Timing
+      - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - Consultation
+      - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - Information
+      - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+    - Secretary of State’s costs
+      - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+    - Procedure
+      - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+- SCHEDULE 5 Designated regulators
+- SCHEDULE 6 Enactments specified for the purposes of orders under Part 3
+- SCHEDULE 7 Enactments specified for the purposes of section 62
