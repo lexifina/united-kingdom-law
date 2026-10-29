@@ -1,0 +1,554 @@
+# Police Reform Act 2002
+
+2002 c. 30. Enacted 2002-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
+
+Source: https://www.legislation.gov.uk/ukpga/2002/30/2026-10-29
+
+## Contents
+
+- Part 1 Powers of the Secretary of State
+  - [s. 1 National Policing Plan](section/1.md)
+  - [s. 2 Codes of practice for chief officers](section/2.md)
+  - [s. 3 Powers to require inspection and report](section/3.md)
+  - [s. 4 Directions to police authorities](section/4.md)
+  - [s. 5 Directions as to action plans](section/5.md)
+  - [s. 6 Regulation of equipment](section/6.md)
+  - [s. 7 Regulation of procedures and practices](section/7.md)
+  - [s. 8 Equivalent provision for NCIS and NCS](section/8.md)
+- Part 2 Complaints and Misconduct
+  - The Independent Office for Police Conduct
+    - [s. 9 The Independent Office for Police Conduct](section/9.md)
+    - [s. 10 General functions of the Director General](section/10.md)
+    - [s. 10A General functions of the Office](section/10A.md)
+    - [s. 10B Efficiency etc in exercise of functions](section/10B.md)
+    - [s. 10C Strategy for exercise of functions](section/10C.md)
+    - [s. 10D Code of practice](section/10D.md)
+    - [s. 11 Reports to the Secretary of State](section/11.md)
+  - Application of Part 2
+    - [s. 12 Complaints, matters and persons to which Part 2 applies](section/12.md)
+  - Handling of complaints, conduct matters and DSI matters etc.
+    - [s. 13 Handling of complaints, conduct matters and DSI matters etc.](section/13.md)
+    - [s. 13A Local policing bodies: functions in relation to complaints](section/13A.md)
+    - [s. 13B Power of the Director General to require re-investigation](section/13B.md)
+    - [s. 14 Direction and control matters](section/14.md)
+  - Co-operation, assistance and information
+    - [s. 15 General duties of local policing bodies, chief officers and inspectors](section/15.md)
+    - [s. 16 Payment for assistance with investigations](section/16.md)
+    - [s. 16A Investigations: National Policing Improvement Agency involvement](section/16A.md)
+    - [s. 17 Provision of information to the Director General](section/17.md)
+    - [s. 18 Inspections of police premises on behalf of the Director General](section/18.md)
+    - [s. 19 Use of investigatory powers by or on behalf of the Director General](section/19.md)
+    - [s. 20 Duty to keep the complainant informed](section/20.md)
+    - [s. 21 Duty to provide information for other persons](section/21.md)
+    - [s. 21A Restriction on disclosure of sensitive information](section/21A.md)
+    - [s. 21B Provision of sensitive information to the Director General and certain investigators](section/21B.md)
+  - Guidance and regulations
+    - [s. 22 Power of the Director General to issue guidance](section/22.md)
+    - [s. 23 Regulations](section/23.md)
+    - [s. 24 Consultation on regulations](section/24.md)
+  - Conduct of persons in other forms of police service
+    - [s. 25 NCIS and NCS](section/25.md)
+    - [s. 26 Forces maintained otherwise than by local policing bodies](section/26.md)
+    - [s. 26A Serious Organised Crime Agency](section/26A.md)
+    - [s. 26B National Policing Improvement Agency](section/26B.md)
+    - [s. 26BA College of Policing](section/26BA.md)
+    - [s. 26C The National Crime Agency](section/26C.md)
+    - [s. 26CA Enforcement officers appointed under Employment Rights Act 2025](section/26CA.md)
+    - [s. 26D Labour abuse prevention officers](section/26D.md)
+    - [s. 26E Food crime officers](section/26E.md)
+    - [s. 26F The Independent Commission for Reconciliation and Information Recovery](section/26F.md)
+    - [s. 26G Public sector fraud investigators](section/26G.md)
+    - [s. 26H DWP investigators](section/26H.md)
+    - [s. 27 Conduct of the Office’s staff](section/27.md)
+  - Transitional provisions
+    - [s. 28 Transitional arrangements connected with establishing the Commission etc.](section/28.md)
+    - [s. 28A Application of Part 2 to old cases](section/28A.md)
+  - Interpretation of Part 2
+    - [s. 29 Interpretation of Part 2](section/29.md)
+- Part 2A Super-complaints
+  - [s. 29A Power to make super-complaints](section/29A.md)
+  - [s. 29B Bodies who may make super-complaints](section/29B.md)
+  - [s. 29C Regulations about super-complaints](section/29C.md)
+- Part 2B Investigation of concerns raised by whistle-blowers
+  - [s. 29D Power to investigate concerns raised by whistle-blowers](section/29D.md)
+  - [s. 29E Director General’s powers and duties on decision not to investigate](section/29E.md)
+  - [s. 29F Special provision for “conduct matters”](section/29F.md)
+  - [s. 29G Special provision for “DSI matters”](section/29G.md)
+  - [s. 29H Director General’s powers and duties where whistle-blower is deceased](section/29H.md)
+  - [s. 29I Duty to keep whistle-blowers informed](section/29I.md)
+  - [s. 29J Protection of anonymity of whistle-blowers](section/29J.md)
+  - [s. 29K Other restrictions on disclosure of information](section/29K.md)
+  - [s. 29L Application of provisions of Part 2](section/29L.md)
+  - [s. 29M Regulation-making powers: consultation](section/29M.md)
+  - [s. 29N Interpretation](section/29N.md)
+- Part 3 Removal, suspension and disciplining of police officers
+  - Removal and suspension of senior officers
+    - [s. 30 Resignation in the interests of efficiency and effectiveness](section/30.md)
+    - [s. 31 Procedural requirements for removal of senior officers](section/31.md)
+    - [s. 32 Suspension of senior officers](section/32.md)
+    - [s. 33 Removal etc. of senior officers at the instance of the Secretary of State](section/33.md)
+    - [s. 34 Regulations concerning procedure for removal of senior officers](section/34.md)
+  - Disciplinary proceedings and protected disclosures
+    - [s. 35 Disciplinary regulations for special constables](section/35.md)
+    - [s. 36 Conduct of disciplinary proceedings](section/36.md)
+    - [s. 37 Protected disclosures by police officers](section/37.md)
+- Part 4 Police powers etc.
+  - Chapter 1 Exercise of police powers etc. by civilians
+    - [s. 38 Police powers for civilian staff and volunteers](section/38.md)
+    - [s. 38A Standard powers and duties of community support officers](section/38A.md)
+    - [s. 38B Police powers for civilian employees under collaboration agreements](section/38B.md)
+    - [s. 38C Designations under section 38B: supplementary provision](section/38C.md)
+    - [s. 39 Police powers for contracted-out staff](section/39.md)
+    - [s. 40 Community safety accreditation schemes](section/40.md)
+    - [s. 41 Accreditation under community safety accreditation schemes](section/41.md)
+    - [s. 41A Accreditation of weights and measures inspectors](section/41A.md)
+    - [s. 41B Power to apply accreditation provisions](section/41B.md)
+    - [s. 42 Supplementary provisions relating to designations and accreditations](section/42.md)
+    - [s. 43 Railway safety accreditation scheme](section/43.md)
+    - [s. 44 Removal of restriction on powers conferred on traffic wardens](section/44.md)
+    - [s. 45 Code of practice relating to chief officers’ powers under Chapter 1](section/45.md)
+    - [s. 46 Offences against designated and accredited persons etc.](section/46.md)
+    - [s. 47 Interpretation of Chapter 1](section/47.md)
+  - Chapter 2 Provisions modifying and supplementing police powers
+    - Powers of arrest
+      - [s. 48 Offences for which a person may be arrested without a warrant](section/48.md)
+      - [s. 49 Power of arrest in relation to failure to stop a vehicle](section/49.md)
+    - Power to require name and address
+      - [s. 50 Persons engaging in anti-social behaviour](section/50.md)
+    - Persons in police detention
+      - [s. 51 Independent custody visitors for places of detention](section/51.md)
+      - [s. 52 Detention reviews for detained persons who are asleep](section/52.md)
+      - [s. 53 Persons suspected of offences connected with transport systems](section/53.md)
+    - Blood specimens
+      - [s. 54 Persons authorised to take intimate samples from persons in police detention](section/54.md)
+      - [s. 55 Extension of role of health care professionals](section/55.md)
+      - [s. 56 Specimens taken from persons incapable of consenting](section/56.md)
+      - [s. 57 Use of specimens taken from persons incapable of consenting](section/57.md)
+      - [s. 58 Equivalent provision for offences connected with transport systems](section/58.md)
+    - Seizure of motor vehicles
+      - [s. 59 Vehicles used in manner causing alarm, distress or annoyance](section/59.md)
+      - [s. 60 Retention etc. of vehicles seized under section 59](section/60.md)
+    - Anti-social behaviour
+      - [s. 61 Anti-social behaviour orders](section/61.md)
+      - [s. 62 Power of Secretary of State to add to relevant authorities](section/62.md)
+      - [s. 63 Orders in county court proceedings](section/63.md)
+      - [s. 64 Orders on conviction in criminal proceedings](section/64.md)
+      - [s. 65 Interim orders](section/65.md)
+      - [s. 66 Consultation requirements](section/66.md)
+    - Sex offenders
+      - [s. 67 Sex offenders: England and Wales](section/67.md)
+      - [s. 68 Interim orders for sex offenders: England and Wales](section/68.md)
+      - [s. 69 Sex offender orders made in Scotland or Northern Ireland](section/69.md)
+      - [s. 70 Sex offenders: Scotland](section/70.md)
+      - [s. 71 Sex offender orders made in England and Wales or Northern Ireland](section/71.md)
+      - [s. 72 Sex offenders: Northern Ireland](section/72.md)
+      - [s. 73 Interim orders for sex offenders: Northern Ireland](section/73.md)
+      - [s. 74 Sex offender orders made in England and Wales or Scotland](section/74.md)
+    - The British Transport Police
+      - [s. 75 Removal of truants to designated places](section/75.md)
+      - [s. 76 Amendments to Part 3 of the Road Traffic Offenders Act 1988](section/76.md)
+    - Property in possession of NCS
+      - [s. 77 Application of the Police (Property) Act 1897 to NCS](section/77.md)
+- Part 5 The Ministry of Defence Police
+  - [s. 78 Ministry of Defence police serving with other forces](section/78.md)
+  - [s. 79 Disciplinary matters](section/79.md)
+  - [s. 80 Functions of inspectors of constabulary](section/80.md)
+  - [s. 81 Exemptions from firearms legislation](section/81.md)
+- Part 6 Miscellaneous
+  - Appointment and attestation of police officers etc.
+    - [s. 82 Nationality requirements applicable to police officers etc.](section/82.md)
+    - [s. 83 Attestation of constables](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 Director General of NCIS](section/85.md)
+    - [s. 86 Police members of NCIS](section/86.md)
+    - [s. 87 Police members of NCS](section/87.md)
+    - [s. 88 Regulations for NCIS](section/88.md)
+    - [s. 89 Regulations for NCS](section/89.md)
+    - [s. 90 Supplementary provisions about police membership of NCIS](section/90.md)
+    - [s. 91 Supplementary provisions about police membership of NCS](section/91.md)
+  - Bodies with functions in relation to the police
+    - [s. 92 Police authorities to produce three-year strategy plans](section/92.md)
+    - [s. 93 Quorum for the Service Authorities under the 1997 Act](section/93.md)
+    - [s. 94 Expenses of members of police authorities etc.](section/94.md)
+    - [s. 95 Duties under the Health and Safety at Work etc. Act 1974](section/95.md)
+    - [s. 96 President of ACPO](section/96.md)
+    - [s. 97 Crime and disorder reduction partnerships](section/97.md)
+    - [s. 98 Secretary of State’s functions in relation to strategies](section/98.md)
+    - [s. 99 Power to modify functions and structure of PITO](section/99.md)
+    - [s. 100 Metropolitan Police Authority housing](section/100.md)
+    - [s. 101 Provision of goods and services by police authorities](section/101.md)
+  - Liability for unlawful acts of constables etc.
+    - [s. 102 Liability for wrongful acts of constables etc.](section/102.md)
+  - International joint investigation teams
+    - [s. 103 Liability in respect of members of teams](section/103.md)
+    - [s. 104 Assaults on members of teams](section/104.md)
+- Part 7 Supplemental
+  - [s. 105 Powers of Secretary of State to make orders and regulations](section/105.md)
+  - [s. 106 General interpretation](section/106.md)
+  - [s. 107 Consequential amendments and repeals](section/107.md)
+  - [s. 108 Short title, commencement and extent](section/108.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1 Introductory](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Codes of Practice for Directors General](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Directions to Service Authorities](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Directions as to action plans](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Procedure for giving directions](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 National Crime Squad equipment](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Procedures and practices of the National Crime Squad](schedule/1/paragraph/7.md)
+- SCHEDULE 2 The Independent Office for Police Conduct
+  - [Sch. 2 para. 1 Director General](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 1A Appointment of members](schedule/2/paragraph/1A.md)
+  - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+  - [Sch. 2 para. 2 Terms of appointment etc: non-executive members](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 2A Terms of appointment etc: employee members](schedule/2/paragraph/2A.md)
+  - [Sch. 2 para. 3 Deputy Chairmen](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 3A Director General: vacancy or incapacity](schedule/2/paragraph/3A.md)
+  - [Sch. 2 para. 4 Remuneration, pensions etc. of members](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 The Chief Executive](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Staff](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 6A Delegation of functions](schedule/2/paragraph/6A.md)
+  - [Sch. 2 para. 7 Superannuation and insurance](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 7A Liability for acts of the Director General](schedule/2/paragraph/7A.md)
+  - [Sch. 2 para. 8 Liability for acts of seconded staff](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Power ... to set up regional offices](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Proceedings](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Authentication of the Office’s seal](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Evidence of documents](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Payments by the Secretary of State](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Other receipts by the Office](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16 Borrowing](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17 Accounts](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18 Financial year of the Office](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Handling of Complaints and Conduct matters etc.
+  - Part 1 Handling of complaints
+    - Duties to preserve evidence relating to complaints
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Initial handling and recording of complaints
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - ...
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Reference of complaints to the Director General
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Power of Director General to treat complaint as having been referred
+      - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+    - Duties of Director General on references under paragraph 4
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Handling of complaints by the appropriate authority
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Reviews relating to complaints dealt with other than by investigation
+      - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+    - ...
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - ...
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - ...
+      - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
+  - Part 2 Handling of conduct matters
+    - Conduct matters arising in civil proceedings
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Recording etc. of conduct matters in other cases
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Duties to preserve evidence relating to conduct matters
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Reference of conduct matters to the Director General
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Power of Director General to treat conduct matter as having been referred
+      - [Sch. 3 para. 13A](schedule/3/paragraph/13A.md)
+    - Duties of Director General on references under paragraph 13
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part 2A handling of death and serious injury (DSI) matters
+    - Duty to record DSI matters
+      - [Sch. 3 para. 14A](schedule/3/paragraph/14A.md)
+    - Duty to preserve evidence relating to DSI matters
+      - [Sch. 3 para. 14B](schedule/3/paragraph/14B.md)
+    - Reference of DSI matters to the Director General
+      - [Sch. 3 para. 14C](schedule/3/paragraph/14C.md)
+    - Power of Director General to treat DSI matter as having been referred
+      - [Sch. 3 para. 14CA](schedule/3/paragraph/14CA.md)
+    - Duties of Director General on references under paragraph 14C
+      - [Sch. 3 para. 14D](schedule/3/paragraph/14D.md)
+  - Part 3 Investigations and subsequent proceedings
+    - Power of the Director General to determine the form of an investigation
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Investigations by the appropriate authority on its own behalf
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - ...
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Investigations directed by the Director General
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Investigations by the Director General ...
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Investigations by the Director General: power to serve information notice
+      - [Sch. 3 para. 19ZA](schedule/3/paragraph/19ZA.md)
+    - Failure to comply with information notice
+      - [Sch. 3 para. 19ZB](schedule/3/paragraph/19ZB.md)
+    - Appeals against information notices
+      - [Sch. 3 para. 19ZC](schedule/3/paragraph/19ZC.md)
+    - Sensitive information: restriction on further disclosure
+      - [Sch. 3 para. 19ZD](schedule/3/paragraph/19ZD.md)
+    - Investigations by the Director General: power of seizure
+      - [Sch. 3 para. 19ZE](schedule/3/paragraph/19ZE.md)
+    - Further provision about seizure under paragraph 19ZE
+      - [Sch. 3 para. 19ZF](schedule/3/paragraph/19ZF.md)
+    - Investigations by the Director General: power of retention
+      - [Sch. 3 para. 19ZG](schedule/3/paragraph/19ZG.md)
+    - Further provision about things retained under paragraph 19ZG
+      - [Sch. 3 para. 19ZH](schedule/3/paragraph/19ZH.md)
+    - Special procedure where investigation relates to police officer or special constable
+      - [Sch. 3 para. 19A](schedule/3/paragraph/19A.md)
+    - Assessment of seriousness of conduct under investigation
+      - [Sch. 3 para. 19B](schedule/3/paragraph/19B.md)
+    - Duty to consider submissions from person whose conduct is being investigated
+      - [Sch. 3 para. 19C](schedule/3/paragraph/19C.md)
+    - Interview of person whose conduct is being investigated
+      - [Sch. 3 para. 19D](schedule/3/paragraph/19D.md)
+    - Duty to provide certain information to appropriate authority
+      - [Sch. 3 para. 19E](schedule/3/paragraph/19E.md)
+    - Interview of persons serving with the police etc during certain investigations
+      - [Sch. 3 para. 19F](schedule/3/paragraph/19F.md)
+    - Restrictions on proceedings pending the conclusion of an investigation
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Accelerated procedure in special cases: criminal conduct
+      - [Sch. 3 para. 20ZA](schedule/3/paragraph/20ZA.md)
+    - Accelerated procedure in special cases: gross misconduct
+      - [Sch. 3 para. 20A](schedule/3/paragraph/20A.md)
+    - Investigations managed or carried out by Commission: action by appropriate authority
+      - [Sch. 3 para. 20B](schedule/3/paragraph/20B.md)
+    - Investigations managed or carried out by Commission: action by Commission
+      - [Sch. 3 para. 20C](schedule/3/paragraph/20C.md)
+    - Investigations managed or carried out by Commission: action by Commission
+      - [Sch. 3 para. 20D](schedule/3/paragraph/20D.md)
+    - Other investigations: action by appropriate authority
+      - [Sch. 3 para. 20E](schedule/3/paragraph/20E.md)
+    - Other investigations: action by appropriate authority
+      - [Sch. 3 para. 20F](schedule/3/paragraph/20F.md)
+    - ................................
+      - [Sch. 3 para. 20G](schedule/3/paragraph/20G.md)
+    - Special cases: recommendation or direction of Commission
+      - [Sch. 3 para. 20H](schedule/3/paragraph/20H.md)
+    - Special cases: recommendation or direction of Commission
+      - [Sch. 3 para. 20I](schedule/3/paragraph/20I.md)
+    - ...
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Procedure where conduct matter is revealed during investigation of DSI matter
+      - [Sch. 3 para. 21A](schedule/3/paragraph/21A.md)
+    - Final reports on investigations: complaints, conduct matters and certain DSI matters
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Action by the Director General in relation to an investigation report under paragraph 22
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 23A](schedule/3/paragraph/23A.md)
+    - Action by the appropriate authority in response to an investigation report under paragraph 22
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Final reports on investigations: other DSI matters
+      - [Sch. 3 para. 24A](schedule/3/paragraph/24A.md)
+    - Action by the Director General in relation to an investigation report under paragraph 24A
+      - [Sch. 3 para. 24B](schedule/3/paragraph/24B.md)
+      - [Sch. 3 para. 24C](schedule/3/paragraph/24C.md)
+    - Reviews ... with respect to an investigation
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Information for complainant about disciplinary recommendations
+      - [Sch. 3 para. 25A](schedule/3/paragraph/25A.md)
+    - Re-investigations following a review
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Duties with respect to disciplinary proceedings etc
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Information for complainant about disciplinary recommendations
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Recommendations by the Director General or a local policing body
+      - [Sch. 3 para. 28ZA](schedule/3/paragraph/28ZA.md)
+    - Recommendations by the Director General
+      - [Sch. 3 para. 28A](schedule/3/paragraph/28A.md)
+    - Response to recommendation
+      - [Sch. 3 para. 28B](schedule/3/paragraph/28B.md)
+    - Minor definitions
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - Reviews: the relevant review body
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+- SCHEDULE 3A Whistle-blowing investigations: procedure
+  - Designation of persons to take part in investigation
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Protection of anonymity
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Powers to obtain information etc
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Procedure where conduct matter is revealed during investigation
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Procedure where DSI matter is revealed during investigation
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Conclusion of investigation
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Power of Director General to make recommendations
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+- SCHEDULE 3B Designations under section 38
+  - Part 1 Excluded powers and duties of constables
+    - [Sch. 3B para. 1](schedule/3B/paragraph/1.md)
+    - [Sch. 3B para. 2](schedule/3B/paragraph/2.md)
+    - [Sch. 3B para. 3](schedule/3B/paragraph/3.md)
+    - [Sch. 3B para. 3A](schedule/3B/paragraph/3A.md)
+    - [Sch. 3B para. 4](schedule/3B/paragraph/4.md)
+    - [Sch. 3B para. 5](schedule/3B/paragraph/5.md)
+    - [Sch. 3B para. 6](schedule/3B/paragraph/6.md)
+    - [Sch. 3B para. 7](schedule/3B/paragraph/7.md)
+  - Part 2 Application of legislation
+    - [Sch. 3B para. 8](schedule/3B/paragraph/8.md)
+- SCHEDULE 3C Designations under section 38: additional powers and duties
+  - Introduction
+    - [Sch. 3C para. 1](schedule/3C/paragraph/1.md)
+  - Powers to issue fixed penalty notices
+    - [Sch. 3C para. 2](schedule/3C/paragraph/2.md)
+  - Powers to require names and addresses
+    - [Sch. 3C para. 3](schedule/3C/paragraph/3.md)
+  - Powers to search for and seize alcohol and tobacco
+    - [Sch. 3C para. 4](schedule/3C/paragraph/4.md)
+  - Powers to seize and detain: controlled drugs
+    - [Sch. 3C para. 5](schedule/3C/paragraph/5.md)
+  - Powers to seize and detain: psychoactive substances
+    - [Sch. 3C para. 6](schedule/3C/paragraph/6.md)
+  - Powers to detain pending arrival of a constable etc
+    - [Sch. 3C para. 7](schedule/3C/paragraph/7.md)
+  - Powers to search etc individuals detained under paragraph 7
+    - [Sch. 3C para. 8](schedule/3C/paragraph/8.md)
+  - Persons detained under paragraph 7: park trading offences
+    - [Sch. 3C para. 9](schedule/3C/paragraph/9.md)
+  - Road traffic
+    - [Sch. 3C para. 10](schedule/3C/paragraph/10.md)
+  - Power to use reasonable force
+    - [Sch. 3C para. 11](schedule/3C/paragraph/11.md)
+- SCHEDULE 4 Powers exercisable by contracted-out staff
+  - Part 1 Community Support Officers
+    - [Sch. 4 para. 1 Powers to issue fixed penalty notices](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 1ZA](schedule/4/paragraph/1ZA.md)
+    - [Sch. 4 para. 1ZB Power to issue community protection notices](schedule/4/paragraph/1ZB.md)
+    - [Sch. 4 para. 1A Power to require name and address](schedule/4/paragraph/1A.md)
+    - [Sch. 4 para. 2 Power to detain etc.](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 2A Powers to search individuals and to seize and retain items](schedule/4/paragraph/2A.md)
+    - [Sch. 4 para. 2B General power of seizure](schedule/4/paragraph/2B.md)
+    - [Sch. 4 para. 3 Power to require name and address of person acting in an anti-social manner](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 3A Power to require name and address: road traffic offences](schedule/4/paragraph/3A.md)
+    - [Sch. 4 para. 3B Power to require name and address etc: charity collectors](schedule/4/paragraph/3B.md)
+    - [Sch. 4 para. 4 Power to use reasonable force to detain person](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 4ZA](schedule/4/paragraph/4ZA.md)
+    - [Sch. 4 para. 4ZB](schedule/4/paragraph/4ZB.md)
+    - [Sch. 4 para. 4A Power to disperse groups and remove young persons to their place of residence](schedule/4/paragraph/4A.md)
+    - [Sch. 4 para. 4AB Power to disperse groups and remove young persons to their place of residence](schedule/4/paragraph/4AB.md)
+    - [Sch. 4 para. 4B Power to disperse groups and remove young persons to their place of residence](schedule/4/paragraph/4B.md)
+    - [Sch. 4 para. 4C Power to remove truants and excluded pupils to designated premises etc.](schedule/4/paragraph/4C.md)
+    - [Sch. 4 para. 5 Alcohol consumption in restricted areas](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 5A Power to serve closure notice for licensed premises persistently selling to children](schedule/4/paragraph/5A.md)
+    - [Sch. 4 para. 6 Confiscation of alcohol](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Confiscation of tobacco etc.](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 7A Search and seizure powers: alcohol and tobacco](schedule/4/paragraph/7A.md)
+    - [Sch. 4 para. 7B Powers to seize and detain: controlled drugs](schedule/4/paragraph/7B.md)
+    - [Sch. 4 para. 7C Powers to seize and detain: controlled drugs](schedule/4/paragraph/7C.md)
+    - [Sch. 4 para. 7D Park Trading offences](schedule/4/paragraph/7D.md)
+    - [Sch. 4 para. 7E Powers to seize and detain: psychoactive substances](schedule/4/paragraph/7E.md)
+    - [Sch. 4 para. 7F Powers to seize and detain: psychoactive substances](schedule/4/paragraph/7F.md)
+    - [Sch. 4 para. 8 Entry to save life or limb or prevent serious damage to property](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 8A Entry to investigate licensing offences](schedule/4/paragraph/8A.md)
+    - [Sch. 4 para. 9 Seizure of vehicles used to cause alarm etc.](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Abandoned vehicles](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Power to stop vehicle for testing](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 11A Power to stop cycles](schedule/4/paragraph/11A.md)
+    - [Sch. 4 para. 11B Power to control traffic for purposes other than escorting a load of exceptional dimensions](schedule/4/paragraph/11B.md)
+    - [Sch. 4 para. 12 Power to control traffic for purposes of escorting a load of exceptional dimensions](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Carrying out of road checks](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 13A Power to place traffic signs](schedule/4/paragraph/13A.md)
+    - [Sch. 4 para. 14 Cordoned areas](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Power to stop and search vehicles etc. in authorised areas](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 15ZA Photographing of persons arrested, detained or given fixed penalty notices](schedule/4/paragraph/15ZA.md)
+    - [Sch. 4 para. 15A Power to modify paragraph 1(2A)](schedule/4/paragraph/15A.md)
+  - Part 2 Investigating Officers
+    - [Sch. 4 para. 16 Search warrants](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 16A](schedule/4/paragraph/16A.md)
+    - [Sch. 4 para. 16B](schedule/4/paragraph/16B.md)
+    - [Sch. 4 para. 17 Access to excluded and special procedure material](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18 Entry and search after arrest](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 18A Entry and search for evidence of nationality after arrest](schedule/4/paragraph/18A.md)
+    - [Sch. 4 para. 19 General power of seizure](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20 Access and copying in the case of things seized by constables](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21 Arrest at a police station for another offence](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22 Power to transfer persons into custody of investigating officers](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 22A Powers in respect of detained persons](schedule/4/paragraph/22A.md)
+    - [Sch. 4 para. 23 Power to require arrested person to account for certain matters](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24 Extended powers of seizure](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 24A Persons accompanying investigating officers](schedule/4/paragraph/24A.md)
+  - Part 3 Detention Officers
+    - [Sch. 4 para. 25 Attendance at police station for fingerprinting](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26 Non-intimate searches of detained persons](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27 Searches and examinations to ascertain identity](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 27A Searches of persons answering to live link bail](schedule/4/paragraph/27A.md)
+    - [Sch. 4 para. 28 Intimate searches of detained persons](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29 Fingerprinting without consent](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30 Warnings about intimate samples](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31 Non-intimate samples](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32 Attendance at police station for the taking of a sample](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33 Photographing persons in police detention](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 33A Taking of impressions of footwear](schedule/4/paragraph/33A.md)
+    - [Sch. 4 para. 33B Powers in respect of detained persons](schedule/4/paragraph/33B.md)
+    - [Sch. 4 para. 33C](schedule/4/paragraph/33C.md)
+    - [Sch. 4 para. 33D](schedule/4/paragraph/33D.md)
+  - Part 4 Escort Officers
+    - [Sch. 4 para. 34 Power to take an arrested person to a police station](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35 Escort of persons in police detention](schedule/4/paragraph/35.md)
+  - Part 4A
+    - [Sch. 4 para. 35A Exercise of functions of custody officers](schedule/4/paragraph/35A.md)
+    - [Sch. 4 para. 35B Powers in respect of detained persons](schedule/4/paragraph/35B.md)
+    - [Sch. 4 para. 35C](schedule/4/paragraph/35C.md)
+  - Part 5 Interpretation of Schedule
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+- SCHEDULE 5 Powers exercisable by accredited persons
+  - [Sch. 5 para. 1 Power to issue fixed penalty notices](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 1A](schedule/5/paragraph/1A.md)
+  - [Sch. 5 para. 2 Power to require giving of name and address](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Power to require name and address of person engaging in anti-social behaviour](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 3A Power to require name and address: road traffic offences](schedule/5/paragraph/3A.md)
+  - [Sch. 5 para. 4 Alcohol consumption in designated public places](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Confiscation of alcohol](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Confiscation of tobacco etc.](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Abandoned vehicles](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 Power to stop vehicle for testing](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 8A Power to stop cycles](schedule/5/paragraph/8A.md)
+  - [Sch. 5 para. 8B Power to control traffic for purposes other than escorting a load of exceptional dimensions](schedule/5/paragraph/8B.md)
+  - [Sch. 5 para. 9 Power to control traffic for purposes of escorting a load of exceptional dimensions](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 9ZA Photographing of persons given fixed penalty notices](schedule/5/paragraph/9ZA.md)
+  - [Sch. 5 para. 9A Power to modify paragraph 1(2A)](schedule/5/paragraph/9A.md)
+  - [Sch. 5 para. 10 Meaning of “relevant police area”](schedule/5/paragraph/10.md)
+- SCHEDULE 5A Powers exercisable by accredited inspectors
+  - [Sch. 5A para. 1 Power to issue fixed penalty notices](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2 Power to require giving of name and address](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3 Photographing of persons given fixed penalty notices](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4 Interpretation](schedule/5A/paragraph/4.md)
+- SCHEDULE 6
+- SCHEDULE 7 Minor and Consequential Amendments
+  - [Sch. 7 para. 1 Police (Scotland) Act 1967](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Superannuation Act 1972](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Juries Act 1974](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 Rehabilitation of Offenders Act 1974](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 House of Commons Disqualification Act 1975](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Northern Ireland Assembly Disqualification Act 1975](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7 The Police Pensions Act 1976](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8 Rehabilitation of Offenders (Northern Ireland) Order 1978](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9 The 1984 Act](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10 Prosecution of Offences Act 1985](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11 Road Traffic Act 1988](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13 Aviation and Maritime Security Act 1990](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14 The 1996 Act](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - [Sch. 7 para. 20 Justices of the Peace Act 1997](schedule/7/paragraph/20.md)
+  - [Sch. 7 para. 21 The 1997 Act](schedule/7/paragraph/21.md)
+  - [Sch. 7 para. 22 Police (Northern Ireland) Act 1998](schedule/7/paragraph/22.md)
+  - [Sch. 7 para. 23 Freedom of Information Act 2000](schedule/7/paragraph/23.md)
+  - [Sch. 7 para. 24 Criminal Justice and Police Act 2001](schedule/7/paragraph/24.md)
+- SCHEDULE 8 Repeals
