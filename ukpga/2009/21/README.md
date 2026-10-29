@@ -1,0 +1,168 @@
+# Health Act 2009
+
+2009 c. 21. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
+
+Source: https://www.legislation.gov.uk/ukpga/2009/21/2026-10-29
+
+## Contents
+
+- Part 1 Quality and delivery of health services in England
+  - Chapter 1 NHS Constitution
+    - [s. 1 NHS Constitution](section/1.md)
+    - [s. 2 Duty to have regard to NHS Constitution](section/2.md)
+    - [s. 3 Availability and review of NHS Constitution](section/3.md)
+    - [s. 4 Other revisions of NHS Constitution](section/4.md)
+    - [s. 5 Availability, review and revision of Handbook](section/5.md)
+    - [s. 6 Report on effect of NHS Constitution](section/6.md)
+    - [s. 7 Regulations under section 3 or 4](section/7.md)
+  - Chapter 2 Quality accounts
+    - [s. 8 Duty of providers to publish information](section/8.md)
+    - [s. 9 Supplementary provision about the duty](section/9.md)
+    - [s. 10 Regulations under section 8](section/10.md)
+  - Chapter 3 Direct payments
+    - [s. 11 Direct payments for health care](section/11.md)
+    - [s. 12 Jurisdiction of Health Service Commissioner](section/12.md)
+    - [s. 13 Direct payments: minor and consequential amendments](section/13.md)
+  - Chapter 4 Innovation
+    - [s. 14 Innovation prizes](section/14.md)
+- Part 2 Powers in relation to health bodies
+  - Chapter 1 Powers in relation to failing NHS bodies in England
+    - De-authorisation of NHS foundation trusts
+      - [s. 15 De-authorisation of NHS foundation trusts](section/15.md)
+    - Trust special administrators
+      - [s. 16 Trust special administrators: NHS trusts and NHS foundation trusts](section/16.md)
+      - [s. 17 Trust special administrators: Primary Care Trusts](section/17.md)
+  - Consequential amendments
+    - [s. 18 Trust special administrators: consequential amendments](section/18.md)
+  - Chapter 2 Suspension
+    - [s. 19 NHS and other health appointments: suspension](section/19.md)
+- Part 3 Miscellaneous
+  - Tobacco
+    - [s. 20 Prohibition of advertising: exclusion for specialist tobacconists](section/20.md)
+    - [s. 21 Prohibition of tobacco displays etc](section/21.md)
+    - [s. 22 Power to prohibit sales from vending machines](section/22.md)
+    - [s. 23 Power to prohibit sales from vending machines: Northern Ireland](section/23.md)
+    - [s. 24 Tobacco: minor and consequential amendments](section/24.md)
+  - Pharmaceutical services in England
+    - [s. 25 Pharmaceutical needs assessments](section/25.md)
+    - [s. 26 New arrangements for entry to pharmaceutical list](section/26.md)
+    - [s. 27 Pharmaceutical lists: minor amendment](section/27.md)
+    - [s. 28 Breach of terms of arrangements: notices and penalties](section/28.md)
+    - [s. 29 LPS schemes: powers of Primary Care Trusts and Strategic Health Authorities](section/29.md)
+  - Pharmaceutical services in Wales
+    - [s. 30 Pharmaceutical lists: minor amendment](section/30.md)
+    - [s. 31 Breach of terms of arrangements: notices and penalties](section/31.md)
+    - [s. 32 LPS schemes: powers of Local Health Boards](section/32.md)
+  - Private patient income
+    - [s. 33 Private patient income of mental health foundation trusts](section/33.md)
+  - Optical appliances
+    - [s. 34 Payments in respect of costs of optical appliances](section/34.md)
+  - Adult social care
+    - [s. 35 Investigation of complaints about privately arranged or funded adult social care](section/35.md)
+  - Disclosure of information
+    - [s. 36 Disclosure of information by Her Majesty’s Revenue and Customs](section/36.md)
+- Part 4 General
+  - [s. 37 Power to make transitional and consequential provision etc](section/37.md)
+  - [s. 38 Repeals and revocations](section/38.md)
+  - [s. 39 Extent](section/39.md)
+  - [s. 40 Commencement](section/40.md)
+  - [s. 41 Short title](section/41.md)
+- Schedule 1 Direct payments: minor and consequential amendments
+  - National Assistance Act 1948 (c. 29)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Health Services and Public Health Act 1968 (c. 46)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - National Health Service Act 2006 (c. 41)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- Schedule 2 De-authorised NHS foundation trusts
+- Schedule 3 NHS and other health appointments: suspension
+  - Part 1 Amendments of enactments
+    - Medicines Act 1968 (c. 67)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Licensing (Alcohol Education and Research) Act 1981 (c. 28)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Human Fertilisation and Embryology Act 1990 (c. 37)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Health Protection Agency Act 2004 (c. 17)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Human Tissue Act 2004 (c. 30)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Health Act 2006 (c. 28)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - National Health Service Act 2006 (c. 41)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - National Health Service (Wales) Act 2006 (c. 42)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Part 2 Supplementary
+    - Cross-border bodies
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Transitional provision
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- Schedule 4 Tobacco: minor and consequential amendments
+  - ...
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Tobacco Advertising and Promotion Act 2002 (c. 36)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- Schedule 5 Investigation of complaints about privately arranged or funded adult social care
+  - Part 1 New Part 3A for the Local Government Act 1974
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part 2 Minor and consequential amendments
+    - Local Government Act 1974 (c. 7)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Health Service Commissioners Act 1993 (c. 46)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Scottish Public Services Ombudsman Act 2002 (2002 asp 11)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- Schedule 6 Repeals and revocations
