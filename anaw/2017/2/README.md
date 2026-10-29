@@ -1,0 +1,279 @@
+# Public Health (Wales) Act 2017
+
+anaw/2017/2. Enacted 2017-07-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 89 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2017/2
+
+Source: https://www.legislation.gov.uk/anaw/2017/2/2026-10-29
+
+## Contents
+
+- PART 1 OVERVIEW
+  - [s. 1 Overview](section/1.md)
+- PART 2 OBESITY
+  - [s. 2 National strategy on preventing and reducing obesity: publication and review](section/2.md)
+  - [s. 3 Implementation of national strategy](section/3.md)
+- PART 3 TOBACCO AND NICOTINE PRODUCTS
+  - CHAPTER 1 SMOKING
+    - Introduction
+      - [s. 4 Smoking](section/4.md)
+    - Offences
+      - [s. 5 Offence of smoking in smoke-free premises or vehicle](section/5.md)
+      - [s. 6 Offence of failing to prevent smoking in smoke-free premises](section/6.md)
+    - Smoke-free premises
+      - [s. 7 Workplaces](section/7.md)
+      - [s. 8 Premises that are open to the public](section/8.md)
+      - [s. 9 Outdoor care settings for children](section/9.md)
+      - [s. 10 School grounds](section/10.md)
+      - [s. 11 Hospital grounds](section/11.md)
+      - [s. 12 Public playgrounds](section/12.md)
+      - [s. 13 Additional smoke-free premises](section/13.md)
+      - [s. 14 Further provision about additional smoke-free premises: dwellings](section/14.md)
+    - Smoke-free vehicles
+      - [s. 15 Smoke-free vehicles](section/15.md)
+    - Smoke-free premises: exemptions
+      - [s. 16 Smoke-free premises: exemptions](section/16.md)
+    - Signs
+      - [s. 17 Signs: smoke-free premises](section/17.md)
+    - Enforcement
+      - [s. 18 Enforcement authorities](section/18.md)
+      - [s. 19 Powers of entry](section/19.md)
+      - [s. 20 Warrant to enter dwelling](section/20.md)
+      - [s. 21 Warrant to enter other premises](section/21.md)
+      - [s. 22 Supplementary provision about powers of entry](section/22.md)
+      - [s. 23 Powers of inspection etc.](section/23.md)
+      - [s. 24 Obstruction etc. of officers](section/24.md)
+      - [s. 25 Retained property: appeals](section/25.md)
+      - [s. 26 Appropriated property: compensation](section/26.md)
+      - [s. 27 Fixed penalty notices](section/27.md)
+    - General
+      - [s. 28 Interpretation of this Chapter](section/28.md)
+      - [s. 29 Consequential amendments](section/29.md)
+  - CHAPTER 2 RETAILERS OF TOBACCO AND NICOTINE PRODUCTS
+    - Register of retailers of tobacco and nicotine products
+      - [s. 30 Duty to maintain register of retailers of tobacco and nicotine products](section/30.md)
+      - [s. 31 Application for entry in the register](section/31.md)
+      - [s. 32 Grant of application](section/32.md)
+      - [s. 33 Duty to give notice of certain changes](section/33.md)
+      - [s. 34 Duty to revise the register](section/34.md)
+      - [s. 35 Access to the register](section/35.md)
+      - [s. 36 Excepted premises](section/36.md)
+      - [s. 37 Moveable structures etc.](section/37.md)
+    - Offences
+      - [s. 38 Offences](section/38.md)
+    - Enforcement
+      - [s. 39 Authorised officers](section/39.md)
+      - [s. 40 Powers of entry](section/40.md)
+      - [s. 41 Warrant to enter dwelling](section/41.md)
+      - [s. 42 Warrant to enter other premises](section/42.md)
+      - [s. 43 Supplementary provision about powers of entry](section/43.md)
+      - [s. 44 Powers of inspection etc.](section/44.md)
+      - [s. 45 Obstruction etc. of officers](section/45.md)
+      - [s. 46 Power to make test purchases](section/46.md)
+      - [s. 47 Retained property: appeals](section/47.md)
+      - [s. 48 Appropriated property: compensation](section/48.md)
+      - [s. 49 Fixed penalty notices](section/49.md)
+    - Interpretation
+      - [s. 50 Interpretation of this Chapter](section/50.md)
+  - CHAPTER 3 PROHIBITION ON SALE OF TOBACCO AND NICOTINE PRODUCTS
+    - [s. 51 Restricted premises orders: tobacco or nicotine offence](section/51.md)
+  - CHAPTER 4 HANDING OVER TOBACCO ETC. TO PERSONS UNDER 18
+    - [s. 52 Offence of handing over tobacco etc. to persons under 18](section/52.md)
+    - [s. 53 Arrangements in connection with handing over tobacco etc.](section/53.md)
+    - [s. 54 Enforcement](section/54.md)
+    - [s. 54A Power to extend this Chapter to other products](section/54A.md)
+    - [s. 55 Interpretation of this Chapter](section/55.md)
+- PART 4 SPECIAL PROCEDURES
+  - Introduction
+    - [s. 56 Overview of this Part](section/56.md)
+  - Meaning of special procedure
+    - [s. 57 What is a special procedure?](section/57.md)
+  - Performance of special procedure: licensing requirement
+    - [s. 58 Requirement for individual performing special procedure to be licensed](section/58.md)
+    - [s. 59 General provision about special procedure licences](section/59.md)
+  - Exemption from requirement to be licensed
+    - [s. 60 Exempted individuals](section/60.md)
+  - Designation for purposes of licensing requirement
+    - [s. 61 Designation of individual for the purposes of section 58(3)](section/61.md)
+  - Licensing criteria and mandatory licensing conditions
+    - [s. 62 Licensing criteria](section/62.md)
+    - [s. 63 Mandatory licensing conditions](section/63.md)
+    - [s. 64 Consultation about licensing criteria and mandatory licensing conditions](section/64.md)
+  - Issuing a special procedure licence
+    - [s. 65 Mandatory grant or refusal of application for special procedure licence](section/65.md)
+    - [s. 66 Discretion to grant application for special procedure licence](section/66.md)
+    - [s. 67 Grant or refusal of application for renewal](section/67.md)
+  - Revoking a special procedure licence
+    - [s. 68 Revocation of special procedure licence](section/68.md)
+  - Approved premises and vehicles
+    - [s. 69 Performance of special procedure in course of business: approval requirement](section/69.md)
+    - [s. 70 Approval of premises and vehicles in respect of performance of special procedure](section/70.md)
+    - [s. 71 Approval certificates](section/71.md)
+    - [s. 72 Voluntary termination of approval](section/72.md)
+    - [s. 73 Revocation of approval](section/73.md)
+    - [s. 74 Revocation of approval: notification requirements](section/74.md)
+  - Register of special procedure licences and approved premises and vehicles
+    - [s. 75 Duty to maintain register of special procedure licences and approved premises and vehicles](section/75.md)
+  - Fees
+    - [s. 76 Fees](section/76.md)
+  - Stop notices
+    - [s. 77 Stop notices](section/77.md)
+  - Remedial action notices
+    - [s. 78 Special procedure licences: licence holder remedial action notices](section/78.md)
+    - [s. 79 Approved premises and vehicles: premises remedial action notices](section/79.md)
+    - [s. 80 Completion certificate](section/80.md)
+  - Appeals against stop notices and remedial action notices
+    - [s. 81 Appeals](section/81.md)
+  - Offences relating to licensing and approval system
+    - [s. 82 Offences](section/82.md)
+  - Enforcement
+    - [s. 83 Authorised officers](section/83.md)
+    - [s. 84 Powers of entry etc.](section/84.md)
+    - [s. 85 Warrant to enter dwelling](section/85.md)
+    - [s. 86 Warrant to enter other premises](section/86.md)
+    - [s. 87 Supplementary provision about powers of entry](section/87.md)
+    - [s. 88 Powers of inspection etc.](section/88.md)
+    - [s. 89 Obstruction etc. of officers](section/89.md)
+    - [s. 90 Power to make test purchases](section/90.md)
+    - [s. 91 Retained property: appeals](section/91.md)
+    - [s. 92 Appropriated property: compensation](section/92.md)
+  - Amendment of meaning of special procedure
+    - [s. 93 Power to add or remove special procedures](section/93.md)
+  - Interpretation
+    - [s. 94 Interpretation of this Part](section/94.md)
+- PART 5 INTIMATE PIERCING
+  - Offences related to intimate piercing
+    - [s. 95 Offence of performing or making arrangements to perform an intimate piercing on a child](section/95.md)
+    - [s. 96 What is an intimate piercing?](section/96.md)
+  - Enforcement
+    - [s. 97 Enforcement action by local authorities](section/97.md)
+    - [s. 98 Authorised officers](section/98.md)
+    - [s. 99 Powers of entry](section/99.md)
+    - [s. 100 Warrant to enter dwelling](section/100.md)
+    - [s. 101 Warrant to enter other premises](section/101.md)
+    - [s. 102 Supplementary provision about powers of entry](section/102.md)
+    - [s. 103 Powers of inspection etc.](section/103.md)
+    - [s. 104 Obstruction etc. of constable or officer](section/104.md)
+    - [s. 105 Power to make test purchases](section/105.md)
+    - [s. 106 Retained property: appeals](section/106.md)
+    - [s. 107 Appropriated property: compensation](section/107.md)
+- PART 6 HEALTH IMPACT ASSESSMENTS
+  - [s. 108 Requirement to carry out health impact assessments](section/108.md)
+  - [s. 109 Health impact assessments: publication and taking into account](section/109.md)
+  - [s. 110 Meaning of “public body”](section/110.md)
+- PART 7 PHARMACEUTICAL SERVICES
+  - [s. 111 Pharmaceutical needs assessments](section/111.md)
+  - [s. 112 Pharmaceutical lists](section/112.md)
+- PART 8 PROVISION OF TOILETS
+  - Local toilets strategies
+    - [s. 113 Local toilets strategies: preparation and review](section/113.md)
+    - [s. 114 Local toilets strategies: interim progress statement](section/114.md)
+    - [s. 115 Local toilets strategies: consultation](section/115.md)
+  - Local authority power to provide public toilets
+    - [s. 116 Local authority power to provide public toilets](section/116.md)
+    - [s. 117 Power to make byelaws in relation to toilets](section/117.md)
+    - [s. 118 Consequential amendments](section/118.md)
+- PART 9 MISCELLANEOUS AND GENERAL
+  - Food hygiene rating offences: fixed penalty receipts
+    - [s. 119 Fixed penalty receipts for food hygiene rating offences](section/119.md)
+  - General
+    - [s. 120 Offences by bodies corporate etc.](section/120.md)
+    - [s. 121 Offences committed by partnerships and other unincorporated associations](section/121.md)
+    - [s. 122 Giving notices](section/122.md)
+    - [s. 123 Regulations](section/123.md)
+    - [s. 124 Interpretation](section/124.md)
+    - [s. 125 Power to make consequential and transitional etc. provision](section/125.md)
+    - [s. 126 Coming into force](section/126.md)
+    - [s. 127 Short title](section/127.md)
+- SCHEDULE 1 FIXED PENALTIES
+  - Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Contents of fixed penalty notice
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Amount of penalty and period for payment
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Discounted amount and period for payment
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Effect of notice and payment
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Trial
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Withdrawal of notices
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Fixed penalty receipts
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 SMOKING: CONSEQUENTIAL AMENDMENTS
+  - Health Act 2006 (c.28)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Children and Families Act 2014 (c.6)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 FURTHER PROVISION IN CONNECTION WITH SPECIAL PROCEDURE LICENCES
+  - Application for special procedure licence
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Contents of special procedure licence
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Copy of licence
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Expiry of licence
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Renewal of licence
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Variation of licence
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Voluntary termination of licence
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Right to make representations
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Notice of decision
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Appeals
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Delegation of functions
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Consequential amendments
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+- SCHEDULE 4 PROVISION OF TOILETS: CONSEQUENTIAL AMENDMENTS
+  - Public Health Act 1936 (c.49)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Highways Act 1980 (c.66)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Local Government Byelaws (Wales) Act 2012 (anaw 2)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
