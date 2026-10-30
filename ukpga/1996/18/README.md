@@ -1,0 +1,758 @@
+# Employment Rights Act 1996
+
+1996 c. 18. Enacted 1996-05-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 157 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
+
+Source: https://www.legislation.gov.uk/ukpga/1996/18/2026-10-30
+
+## Contents
+
+- Part I Employment particulars
+  - Right to statements of employment particulars
+    - [s. 1 Statement of initial employment particulars.](section/1.md)
+    - [s. 2 Statement of initial particulars: supplementary.](section/2.md)
+    - [s. 3 Note about disciplinary procedures and pensions.](section/3.md)
+    - [s. 4 Statement of changes.](section/4.md)
+    - [s. 5 Exclusion from rights to statements.](section/5.md)
+    - [s. 6 Reasonably accessible document or collective agreement.](section/6.md)
+    - [s. 7 Power to require particulars of further matters.](section/7.md)
+    - [s. 7A Use of alternative documents to give particulars](section/7A.md)
+    - [s. 7B Giving of alternative documents before start of employment](section/7B.md)
+  - Right to itemised pay statement
+    - [s. 8 Itemised pay statement.](section/8.md)
+    - [s. 9 Standing statement of fixed deductions.](section/9.md)
+    - [s. 10 Power to amend provisions about pay and standing statements.](section/10.md)
+  - Enforcement
+    - [s. 11 References to employment tribunals.](section/11.md)
+    - [s. 12 Determination of references.](section/12.md)
+- Part II Protection of wages
+  - Deductions by employer
+    - [s. 13 Right not to suffer unauthorised deductions.](section/13.md)
+    - [s. 14 Excepted deductions.](section/14.md)
+  - Payments to employer
+    - [s. 15 Right not to have to make payments to employer.](section/15.md)
+    - [s. 16 Excepted payments.](section/16.md)
+  - Cash shortages and stock deficiencies in retail employment
+    - [s. 17 Introductory.](section/17.md)
+    - [s. 18 Limits on amount and time of deductions.](section/18.md)
+    - [s. 19 Wages determined by reference to shortages etc.](section/19.md)
+    - [s. 20 Limits on method and timing of payments.](section/20.md)
+    - [s. 21 Limit on amount of payments.](section/21.md)
+    - [s. 22 Final instalments of wages.](section/22.md)
+  - Enforcement
+    - [s. 23 Complaints to employment tribunals.](section/23.md)
+    - [s. 24 Determination of complaints.](section/24.md)
+    - [s. 25 Determinations: supplementary.](section/25.md)
+    - [s. 26 Complaints and other remedies.](section/26.md)
+  - Supplementary
+    - [s. 27 Meaning of “wages” etc.](section/27.md)
+- PART 2A Zero hours workers and similar
+  - Chapter 1 Exclusivity terms and other restrictions
+    - [s. 27A Exclusivity terms unenforceable in zero hours contracts](section/27A.md)
+    - [s. 27B Power to make further provision in relation to zero hours workers](section/27B.md)
+  - Chapter 2 Right to guaranteed hours
+    - Guaranteed hours offers
+      - [s. 27BA Right for qualifying workers to be offered guaranteed hours](section/27BA.md)
+      - [s. 27BB Requirements relating to a guaranteed hours offer](section/27BB.md)
+      - [s. 27BC Requirements relating to a guaranteed hours offer: supplementary](section/27BC.md)
+      - [s. 27BD Guaranteed hours offer: exceptions to duty to make offer and withdrawal of offer](section/27BD.md)
+      - [s. 27BE Acceptance or rejection of a guaranteed hours offer](section/27BE.md)
+    - Information
+      - [s. 27BF Information about rights conferred by Chapter 2](section/27BF.md)
+    - Enforcement
+      - [s. 27BG Complaints to employment tribunals: grounds](section/27BG.md)
+      - [s. 27BH Complaints to employment tribunals: time limits](section/27BH.md)
+      - [s. 27BI Remedies](section/27BI.md)
+  - Chapter 3 Shifts: rights to reasonable notice
+    - [s. 27BJ Right to reasonable notice of a shift](section/27BJ.md)
+    - [s. 27BK Right to reasonable notice of cancellation of or change to a shift](section/27BK.md)
+    - [s. 27BL Sections 27BJ and 27BK: supplementary](section/27BL.md)
+    - [s. 27BM Interaction with Chapter 4](section/27BM.md)
+    - [s. 27BN Complaints to employment tribunals](section/27BN.md)
+    - [s. 27BO Remedies](section/27BO.md)
+  - Chapter 4 Right to payment for cancelled, moved and curtailed shifts
+    - [s. 27BP Right to payment for a cancelled, moved or curtailed shift](section/27BP.md)
+    - [s. 27BQ Regulations under section 27BP: supplementary](section/27BQ.md)
+    - [s. 27BR Exceptions to duty to make payment for a cancelled, moved or curtailed shift](section/27BR.md)
+    - [s. 27BS Contractual remuneration](section/27BS.md)
+    - [s. 27BT Complaints to employment tribunal](section/27BT.md)
+    - [s. 27BU Remedies](section/27BU.md)
+  - Chapter 5 Agency workers: guaranteed hours and rights relating to shifts
+    - [s. 27BV Agency workers](section/27BV.md)
+  - Chapter 6 Collective agreements: contracting out
+    - [s. 27BW Zero hours workers, etc](section/27BW.md)
+    - [s. 27BX Agency workers](section/27BX.md)
+    - [s. 27BY Supplementary provision](section/27BY.md)
+    - [s. 27BZ Regulations](section/27BZ.md)
+    - [s. 27BZ1 Interpretation](section/27BZ1.md)
+  - Chapter 7 General
+    - [s. 27BZ2 Interpretation](section/27BZ2.md)
+    - [s. 27BZ3 Regulations](section/27BZ3.md)
+- PART 2B TIPS, GRATUITIES AND SERVICE CHARGES
+  - Requirement to deal with tips, gratuities and service charges
+    - [s. 27C Qualifying tips, gratuities and service charges](section/27C.md)
+    - [s. 27D How tips etc must be dealt with](section/27D.md)
+    - [s. 27E Non-public places of business](section/27E.md)
+    - [s. 27F Independent troncs](section/27F.md)
+    - [s. 27G When tips etc must be dealt with](section/27G.md)
+    - [s. 27H Agency workers](section/27H.md)
+  - Information
+    - [s. 27I Written policy](section/27I.md)
+    - [s. 27J Records](section/27J.md)
+  - Enforcement
+    - [s. 27K Complaints to employment tribunal about tips etc](section/27K.md)
+    - [s. 27L Determination of complaints about tips etc](section/27L.md)
+    - [s. 27M Compensation: dealing with tips etc](section/27M.md)
+    - [s. 27N Complaints to employment tribunal about information](section/27N.md)
+    - [s. 27O Determination of complaints about information](section/27O.md)
+  - Code of practice about tips etc
+    - [s. 27P Issue of code of practice](section/27P.md)
+    - [s. 27Q Procedure for issue of code of practice](section/27Q.md)
+    - [s. 27R Consequential revision of code of practice](section/27R.md)
+    - [s. 27S Revocation of code of practice](section/27S.md)
+    - [s. 27T Failure to comply with code of practice](section/27T.md)
+  - General
+    - [s. 27U No restitution claims by employer](section/27U.md)
+    - [s. 27V Relationship with contractual rights](section/27V.md)
+    - [s. 27W Restrictions on contracting out of this Part](section/27W.md)
+    - [s. 27X Interpretation](section/27X.md)
+    - [s. 27Y Application](section/27Y.md)
+- Part III Guarantee payments
+  - [s. 28 Right to guarantee payment.](section/28.md)
+  - [s. 29 Exclusions from right to guarantee payment.](section/29.md)
+  - [s. 30 Calculation of guarantee payment.](section/30.md)
+  - [s. 31 Limits on amount of and entitlement to guarantee payment.](section/31.md)
+  - [s. 32 Contractual remuneration.](section/32.md)
+  - [s. 33 Power to modify provisions about guarantee payments.](section/33.md)
+  - [s. 34 Complaints to employment tribunals.](section/34.md)
+  - [s. 35 Exemption orders.](section/35.md)
+- Part IV Sunday working for shop and betting workers
+  - Protected shop workers and betting workers
+    - [s. 36 Protected shop workers and betting workers.](section/36.md)
+    - [s. 37 Contractual requirements relating to Sunday work.](section/37.md)
+    - [s. 38 Contracts with guaranteed hours.](section/38.md)
+    - [s. 39 Reduction of pay etc.](section/39.md)
+  - Opting-out of Sunday work
+    - [s. 40 Notice of objection to Sunday working.](section/40.md)
+    - [s. 41 Opted-out shop workers and betting workers.](section/41.md)
+    - [s. 41A Notice of objection by shop workers to working additional hours on Sunday](section/41A.md)
+    - [s. 41B Explanatory statement: persons who become shop workers](section/41B.md)
+    - [s. 41C Explanatory statement: shop workers at commencement date](section/41C.md)
+    - [s. 41D Failure to give explanatory statement under section 41B or 41C](section/41D.md)
+    - [s. 42 Explanatory statement: betting workers.](section/42.md)
+    - [s. 43 Contractual requirements relating to Sunday work: opting-out notices.](section/43.md)
+    - [s. 43ZA Contractual requirements relating to working additional hours on Sundays: objection notices](section/43ZA.md)
+    - [s. 43ZB Interpretation](section/43ZB.md)
+- Part IVA Protected disclosures
+  - [s. 43A Meaning of “protected disclosure”.](section/43A.md)
+  - [s. 43B Disclosures qualifying for protection.](section/43B.md)
+  - [s. 43C Disclosure to employer or other responsible person.](section/43C.md)
+  - [s. 43D Disclosure to legal adviser.](section/43D.md)
+  - [s. 43E Disclosure to Minister of the Crown.](section/43E.md)
+  - [s. 43F Disclosure to prescribed person.](section/43F.md)
+  - [s. 43FA Prescribed persons: duty to report on disclosures of information](section/43FA.md)
+  - [s. 43G Disclosure in other cases.](section/43G.md)
+  - [s. 43H Disclosure of exceptionally serious failure.](section/43H.md)
+  - [s. 43J Contractual duties of confidentiality.](section/43J.md)
+  - [s. 43K Extension of meaning of “worker” etc. for Part IVA.](section/43K.md)
+  - [s. 43KA Application of this Part and related provisions to police](section/43KA.md)
+  - [s. 43L Other interpretative provisions.](section/43L.md)
+- Part V Protection from suffering detriment in employment
+  - Rights not to suffer detriment
+    - [s. 43M Jury service](section/43M.md)
+    - [s. 44 Health and safety cases.](section/44.md)
+    - [s. 45 Sunday working for shop and betting workers.](section/45.md)
+    - [s. 45ZA Sunday working for shop workers: additional hours](section/45ZA.md)
+    - [s. 45A Working time cases.](section/45A.md)
+    - [s. 46 Trustees of occupational pension schemes.](section/46.md)
+    - [s. 47 Employee representatives.](section/47.md)
+    - [s. 47A Employees exercising right to time off work for study or training.](section/47A.md)
+    - [s. 47B Protected disclosures.](section/47B.md)
+    - [s. 47C Leave for family and domestic reasons.](section/47C.md)
+    - [s. 47D Tax credits](section/47D.md)
+    - [s. 47E Flexible working](section/47E.md)
+    - [s. 47F Study and training](section/47F.md)
+    - [s. 47G Employee shareholder status](section/47G.md)
+  - Enforcement
+    - [s. 48 Complaints to employment tribunals.](section/48.md)
+    - [s. 49 Remedies.](section/49.md)
+  - Application to police of rights relating to health and safety
+    - [s. 49A Application to police of section 44 and related provisions.](section/49A.md)
+- PART 5A Protection for applicants for employment etc in the health service
+  - [s. 49B Regulations prohibiting discrimination because of protected disclosure](section/49B.md)
+- PART 5B Redundancy or dismissal during a protected period of pregnancy
+  - [s. 49D Redundancy or dismissal during a protected period of pregnancy](section/49D.md)
+  - [s. 49E Section 49D: supplemental](section/49E.md)
+- Part VI Time off work
+  - Public duties
+    - [s. 50 Right to time off for public duties.](section/50.md)
+    - [s. 51 Complaints to employment tribunals.](section/51.md)
+  - Looking for work and making arrangements for training
+    - [s. 52 Right to time off to look for work or arrange training.](section/52.md)
+    - [s. 53 Right to remuneration for time off under section 52.](section/53.md)
+    - [s. 54 Complaints to employment tribunals.](section/54.md)
+  - Ante-natal care
+    - [s. 55 Right to time off for ante-natal care.](section/55.md)
+    - [s. 56 Right to remuneration for time off under section 55.](section/56.md)
+    - [s. 57 Complaints to employment tribunals.](section/57.md)
+  - Ante-natal care: agency workers
+    - [s. 57ZA Right to time off for ante-natal care (agency workers)](section/57ZA.md)
+    - [s. 57ZB Right to remuneration for time off under section 57ZA](section/57ZB.md)
+    - [s. 57ZC Complaint to employment tribunal: agency workers](section/57ZC.md)
+    - [s. 57ZD Agency workers: supplementary](section/57ZD.md)
+  - Accompanying to ante-natal appointments
+    - [s. 57ZE Right to time off to accompany to ante-natal appointment](section/57ZE.md)
+    - [s. 57ZF Complaint to employment tribunal](section/57ZF.md)
+  - Accompanying to ante-natal appointments: agency workers
+    - [s. 57ZG Right to time off to accompany to ante-natal appointment: agency workers](section/57ZG.md)
+    - [s. 57ZH Complaint to employment tribunal: agency workers](section/57ZH.md)
+    - [s. 57ZI Agency workers: supplementary](section/57ZI.md)
+  - Adoption appointments
+    - [s. 57ZJ Right to paid time off to attend adoption appointments](section/57ZJ.md)
+    - [s. 57ZK Right to remuneration for time off under section 57ZJ](section/57ZK.md)
+    - [s. 57ZL Right to unpaid time off to attend adoption appointments](section/57ZL.md)
+    - [s. 57ZM Complaint to employment tribunal](section/57ZM.md)
+  - Adoption appointments: agency workers
+    - [s. 57ZN Right to paid time off to attend adoption appointments: agency workers](section/57ZN.md)
+    - [s. 57ZO Right to remuneration for time off under section 57ZN](section/57ZO.md)
+    - [s. 57ZP Right to unpaid time off to attend adoption meetings: agency workers](section/57ZP.md)
+    - [s. 57ZQ Complaint to employment tribunal: agency workers](section/57ZQ.md)
+    - [s. 57ZR Agency workers: supplementary](section/57ZR.md)
+    - [s. 57ZS Placement of looked after children with prospective adopters](section/57ZS.md)
+  - Dependants
+    - [s. 57A Time off for dependants.](section/57A.md)
+    - [s. 57B Complaint to employment tribunal.](section/57B.md)
+  - Occupational pension scheme trustees
+    - [s. 58 Right to time off for pension scheme trustees.](section/58.md)
+    - [s. 59 Right to payment for time off under section 58.](section/59.md)
+    - [s. 60 Complaints to employment tribunals.](section/60.md)
+  - Employee representatives
+    - [s. 61 Right to time off for employee representatives.](section/61.md)
+    - [s. 62 Right to remuneration for time off under section 61.](section/62.md)
+    - [s. 63 Complaints to employment tribunals.](section/63.md)
+    - [s. 63A Right to time off for young person in Wales or Scotland for study or training.](section/63A.md)
+    - [s. 63B Right to remuneration for time off under section 63A.](section/63B.md)
+    - [s. 63C Complaints to employment tribunals.](section/63C.md)
+- Part 6A Study and training
+  - [s. 63D Statutory right to make request in relation to study or training](section/63D.md)
+  - [s. 63E Section 63D application: supplementary](section/63E.md)
+  - [s. 63F Employer’s duties in relation to application](section/63F.md)
+  - [s. 63G Regulations about dealing with applications](section/63G.md)
+  - [s. 63H Employee’s duties in relation to agreed study or training](section/63H.md)
+  - [s. 63I Complaints to employment tribunals](section/63I.md)
+  - [s. 63J Remedies](section/63J.md)
+  - [s. 63K Supplementary](section/63K.md)
+- Part VII Suspension from work
+  - Suspension on medical grounds
+    - [s. 64 Right to remuneration on suspension on medical grounds.](section/64.md)
+    - [s. 65 Exclusions from right to remuneration.](section/65.md)
+  - Suspension on maternity grounds
+    - [s. 66 Meaning of suspension on maternity grounds.](section/66.md)
+    - [s. 67 Right to offer of alternative work.](section/67.md)
+    - [s. 68 Right to remuneration.](section/68.md)
+  - Ending the supply of an agency worker on maternity grounds
+    - [s. 68A Meaning of ending the supply of an agency worker on maternity grounds](section/68A.md)
+    - [s. 68B Right to offer of alternative work](section/68B.md)
+    - [s. 68C Right to remuneration](section/68C.md)
+    - [s. 68D Agency workers: supplementary](section/68D.md)
+  - General
+    - [s. 69 Calculation of remuneration.](section/69.md)
+    - [s. 69A Calculation of remuneration (agency workers)](section/69A.md)
+    - [s. 70 Complaints to employment tribunals.](section/70.md)
+    - [s. 70A Complaints to employment tribunals: agency workers](section/70A.md)
+- Part VIII
+  - Chapter I MATERNITY LEAVE
+    - [s. 71](section/71.md)
+    - [s. 72 Compulsory maternity leave.](section/72.md)
+    - [s. 73 Additional maternity leave.](section/73.md)
+    - [s. 74 Redundancy and dismissal.](section/74.md)
+    - [s. 75 Sections 71 to 73: supplemental.](section/75.md)
+  - Chapter 1A Adoption leave
+    - [s. 75A Ordinary adoption leave](section/75A.md)
+    - [s. 75B Additional adoption leave](section/75B.md)
+    - [s. 75C Redundancy and dismissal](section/75C.md)
+    - [s. 75D Chapter 1A: supplemental](section/75D.md)
+  - CHAPTER 1B Shared parental leave
+    - [s. 75E Entitlement to shared parental leave: birth](section/75E.md)
+    - [s. 75F Entitlement to leave under section 75E: further provision](section/75F.md)
+    - [s. 75G Entitlement to shared parental leave: adoption](section/75G.md)
+    - [s. 75H Entitlement to leave under section 75G: further provision](section/75H.md)
+    - [s. 75I Rights during and after shared parental leave](section/75I.md)
+    - [s. 75J Redundancy and dismissal](section/75J.md)
+    - [s. 75K Chapter 1B: supplemental](section/75K.md)
+  - Chapter II PARENTAL LEAVE
+    - [s. 76 Entitlement to parental leave.](section/76.md)
+    - [s. 77 Rights during and after parental leave.](section/77.md)
+    - [s. 78 Special cases.](section/78.md)
+    - [s. 79 Supplemental.](section/79.md)
+    - [s. 80 Complaint to employment tribunal.](section/80.md)
+  - Chapter 3 Paternity leave
+    - [s. 80A Entitlement to ... paternity leave: birth](section/80A.md)
+    - [s. 80AA Entitlement to additional paternity leave: birth](section/80AA.md)
+    - [s. 80B Entitlement to ... paternity leave: adoption](section/80B.md)
+    - [s. 80BB Entitlement to additional paternity leave: adoption](section/80BB.md)
+    - [s. 80C Rights during and after paternity leave](section/80C.md)
+    - [s. 80D Special cases](section/80D.md)
+    - [s. 80E Chapter 3: supplemental](section/80E.md)
+  - CHAPTER 4 Bereavement leave
+    - [s. 80EA Bereavement leave](section/80EA.md)
+    - [s. 80EB Rights during and after bereavement leave](section/80EB.md)
+    - [s. 80EC Special cases](section/80EC.md)
+    - [s. 80ED Chapter 4: supplemental](section/80ED.md)
+    - [s. 80EE Application in relation to stillbirths](section/80EE.md)
+  - CHAPTER 5 Neonatal care leave
+    - [s. 80EF Neonatal care leave](section/80EF.md)
+    - [s. 80EG Rights during and after neonatal care leave](section/80EG.md)
+    - [s. 80EH Special cases](section/80EH.md)
+    - [s. 80EI Chapter 5: supplemental](section/80EI.md)
+- Part 8A Flexible working
+  - [s. 80F Statutory right to request contract variation](section/80F.md)
+  - [s. 80G Employer’s duties in relation to application under section 80F](section/80G.md)
+  - [s. 80H Complaints to employment tribunals](section/80H.md)
+  - [s. 80I Remedies](section/80I.md)
+- PART 8B Carer’s leave
+  - [s. 80J Carer’s leave](section/80J.md)
+  - [s. 80K Rights during and after carer’s leave](section/80K.md)
+  - [s. 80L Special cases](section/80L.md)
+  - [s. 80M Part 8B: supplemental](section/80M.md)
+  - [s. 80N Complaint to employment tribunal](section/80N.md)
+- Part IX Termination of employment
+  - Minimum period of notice
+    - [s. 86 Rights of employer and employee to minimum notice.](section/86.md)
+    - [s. 87 Rights of employee in period of notice.](section/87.md)
+    - [s. 88 Employments with normal working hours.](section/88.md)
+    - [s. 89 Employments without normal working hours.](section/89.md)
+    - [s. 90 Short-term incapacity benefit, contributory employment and support allowance and industrial injury benefit.](section/90.md)
+    - [s. 91 Supplementary.](section/91.md)
+  - Written statement of reasons for dismissal
+    - [s. 92 Right to written statement of reasons for dismissal.](section/92.md)
+    - [s. 93 Complaints to employment tribunal.](section/93.md)
+- Part X Unfair dismissal
+  - Chapter I Right not to be unfairly dismissed
+    - The right
+      - [s. 94 The right.](section/94.md)
+    - Dismissal
+      - [s. 95 Circumstances in which an employee is dismissed.](section/95.md)
+      - [s. 96 ................................](section/96.md)
+      - [s. 97 Effective date of termination.](section/97.md)
+    - Fairness
+      - [s. 98 General.](section/98.md)
+    - Retirement
+      - [s. 98ZA No normal retirement age: dismissal before 65](section/98ZA.md)
+      - [s. 98ZB No normal retirement age: dismissal at or after 65](section/98ZB.md)
+      - [s. 98ZC Normal retirement age: dismissal before retirement age](section/98ZC.md)
+      - [s. 98ZD Normal retirement age 65 or higher: dismissal at or after retirement age](section/98ZD.md)
+      - [s. 98ZE Normal retirement age below 65: dismissal at or after retirement age](section/98ZE.md)
+      - [s. 98ZF Reason for dismissal: particular matters](section/98ZF.md)
+      - [s. 98ZG Retirement dismissals: fairness](section/98ZG.md)
+      - [s. 98ZH Interpretation](section/98ZH.md)
+    - Other dismissals
+      - [s. 98A Procedural fairness](section/98A.md)
+      - [s. 98B Jury service](section/98B.md)
+      - [s. 99 Leave for family reasons.](section/99.md)
+      - [s. 100 Health and safety cases.](section/100.md)
+      - [s. 101 Shop workers and betting workers who refuse Sunday work.](section/101.md)
+      - [s. 101ZA Shop workers who refuse to work additional hours on Sunday](section/101ZA.md)
+      - [s. 101A Working time cases.](section/101A.md)
+      - [s. 102 Trustees of occupational pension schemes.](section/102.md)
+      - [s. 103 Employee representatives.](section/103.md)
+      - [s. 103A Protected disclosure.](section/103A.md)
+      - [s. 104 Assertion of statutory right.](section/104.md)
+      - [s. 104A The national minimum wage.](section/104A.md)
+      - [s. 104B Tax credits](section/104B.md)
+      - [s. 104C Flexible working](section/104C.md)
+      - [s. 104D Pension enrolment](section/104D.md)
+      - [s. 104E Study and training](section/104E.md)
+      - [s. 104F Blacklists](section/104F.md)
+      - [s. 104G Employee shareholder status](section/104G.md)
+      - [s. 104I Contracts of employment: restricted variations](section/104I.md)
+      - [s. 104J Contracts of employment: variations that are not restricted variations](section/104J.md)
+      - [s. 104K Redundancy: replacement of employees with people who are not employees](section/104K.md)
+      - [s. 105 Redundancy.](section/105.md)
+      - [s. 106 Replacements.](section/106.md)
+      - [s. 107 Pressure on employer to dismiss unfairly.](section/107.md)
+    - Exclusion of right
+      - [s. 108 Qualifying period of employment.](section/108.md)
+      - [s. 109 Upper age limit.](section/109.md)
+      - [s. 110 Dismissal procedures agreements.](section/110.md)
+  - Chapter II Remedies for unfair dismissal
+    - Introductory
+      - [s. 111 Complaints to employment tribunal.](section/111.md)
+      - [s. 111A Confidentiality of negotiations before termination of employment](section/111A.md)
+      - [s. 112 The remedies: orders and compensation.](section/112.md)
+    - Orders for reinstatement or re-engagement
+      - [s. 113 The orders.](section/113.md)
+      - [s. 114 Order for reinstatement.](section/114.md)
+      - [s. 115 Order for re-engagement.](section/115.md)
+      - [s. 116 Choice of order and its terms.](section/116.md)
+      - [s. 117 Enforcement of order and compensation.](section/117.md)
+    - Compensation
+      - [s. 118 General.](section/118.md)
+      - [s. 119 Basic award.](section/119.md)
+      - [s. 120 Basic award: minimum in certain cases.](section/120.md)
+      - [s. 121 Basic award of two weeks’ pay in certain cases.](section/121.md)
+      - [s. 122 Basic award: reductions.](section/122.md)
+      - [s. 123 Compensatory award.](section/123.md)
+      - [s. 124 Limit of compensatory award etc.](section/124.md)
+      - [s. 124A Adjustments under the Employment Act 2002](section/124A.md)
+      - [s. 125 ................................](section/125.md)
+      - [s. 126 Acts which are both unfair dismissal and discrimination.](section/126.md)
+      - [s. 127 ................................](section/127.md)
+      - [s. 127A Internal appeal procedures.](section/127A.md)
+      - [s. 127B ................................](section/127B.md)
+    - Interim relief
+      - [s. 128 Interim relief pending determination of complaint.](section/128.md)
+      - [s. 129 Procedure on hearing of application and making of order.](section/129.md)
+      - [s. 130 Order for continuation of contract of employment.](section/130.md)
+      - [s. 131 Application for variation or revocation of order.](section/131.md)
+      - [s. 132 Consequence of failure to comply with order.](section/132.md)
+  - Chapter III Supplementary
+    - [s. 133 Death of employer or employee.](section/133.md)
+    - [s. 134 Teachers in aided schools.](section/134.md)
+    - [s. 134A Application to police.](section/134A.md)
+- Part XI Redundancy payments etc.
+  - Chapter I Right to redundancy payment
+    - [s. 135 The right.](section/135.md)
+  - Chapter II Right on dismissal by reason of redundancy
+    - Dismissal by reason of redundancy
+      - [s. 136 Circumstances in which an employee is dismissed.](section/136.md)
+      - [s. 137 ................................](section/137.md)
+      - [s. 138 No dismissal in cases of renewal of contract or re-engagement.](section/138.md)
+      - [s. 139 Redundancy.](section/139.md)
+    - Exclusions
+      - [s. 140 Summary dismissal.](section/140.md)
+      - [s. 141 Renewal of contract or re-engagement.](section/141.md)
+      - [s. 142 Employee anticipating expiry of employer’s notice.](section/142.md)
+      - [s. 143 Strike during currency of employer’s notice.](section/143.md)
+      - [s. 144 Provisions supplementary to section 143.](section/144.md)
+    - Supplementary
+      - [s. 145 The relevant date.](section/145.md)
+      - [s. 146 Provisions supplementing sections 138 and 141.](section/146.md)
+  - Chapter III Right by reason of lay-off or short-time
+    - Lay-off and short-time
+      - [s. 147 Meaning of “lay-off” and “short-time”.](section/147.md)
+      - [s. 148 Eligibility by reason of lay-off or short-time.](section/148.md)
+    - Exclusions
+      - [s. 149 Counter-notices.](section/149.md)
+      - [s. 150 Resignation.](section/150.md)
+      - [s. 151 Dismissal.](section/151.md)
+      - [s. 152 Likelihood of full employment.](section/152.md)
+    - Supplementary
+      - [s. 153 The relevant date.](section/153.md)
+      - [s. 154 Provisions supplementing sections 148 and 152.](section/154.md)
+  - Chapter IV General exclusions from right
+    - [s. 155 Qualifying period of employment.](section/155.md)
+    - [s. 156 Upper age limit.](section/156.md)
+    - [s. 157 Exemption orders.](section/157.md)
+    - [s. 158 Pension rights.](section/158.md)
+    - [s. 159 Public offices etc.](section/159.md)
+    - [s. 160 Overseas government employment.](section/160.md)
+    - [s. 161 Domestic servants.](section/161.md)
+  - Chapter V Other provisions about redundancy payments
+    - [s. 162 Amount of a redundancy payment.](section/162.md)
+    - [s. 163 References to employment tribunals.](section/163.md)
+    - [s. 164 Claims for redundancy payment.](section/164.md)
+    - [s. 165 Written particulars of redundancy payment.](section/165.md)
+  - Chapter VI Payments by Secretary of State
+    - [s. 166 Applications for payments.](section/166.md)
+    - [s. 167 Making of payments.](section/167.md)
+    - [s. 168 Amount of payments.](section/168.md)
+    - [s. 169 Information relating to applications for payments.](section/169.md)
+    - [s. 170 References to employment tribunals.](section/170.md)
+  - Chapter VII Supplementary
+    - Application of Part to particular cases
+      - [s. 171 Employment not under contract of employment.](section/171.md)
+      - [s. 172 Termination of employment by statute.](section/172.md)
+      - [s. 173 Employees paid by person other than employer.](section/173.md)
+    - Death of employer or employee
+      - [s. 174 Death of employer: dismissal.](section/174.md)
+      - [s. 175 Death of employer: lay-off and short-time.](section/175.md)
+      - [s. 176 Death of employee.](section/176.md)
+    - Equivalent payments
+      - [s. 177 References to employment tribunals.](section/177.md)
+    - Other supplementary provisions
+      - [s. 178 Old statutory compensation schemes.](section/178.md)
+      - [s. 179 Notices.](section/179.md)
+      - [s. 180 Offences.](section/180.md)
+      - [s. 181 Interpretation.](section/181.md)
+- Part XII Insolvency of employers
+  - [s. 182 Employee’s rights on insolvency of employer.](section/182.md)
+  - [s. 183 Insolvency.](section/183.md)
+  - [s. 184 Debts to which Part applies.](section/184.md)
+  - [s. 185 The appropriate date.](section/185.md)
+  - [s. 186 Limit on amount payable under section 182.](section/186.md)
+  - [s. 187 Role of relevant officer.](section/187.md)
+  - [s. 188 Complaints to employment tribunals.](section/188.md)
+  - [s. 189 Transfer to Secretary of State of rights and remedies.](section/189.md)
+  - [s. 190 Power to obtain information.](section/190.md)
+- Part XIII Miscellaneous
+  - Chapter I Particular types of employment
+    - Crown employment etc.
+      - [s. 191 Crown employment.](section/191.md)
+      - [s. 192 Armed forces.](section/192.md)
+      - [s. 193 National security.](section/193.md)
+    - Parliamentary staff
+      - [s. 194 House of Lords staff.](section/194.md)
+      - [s. 195 House of Commons staff.](section/195.md)
+    - Excluded classes of employment
+      - [s. 196 ................................](section/196.md)
+      - [s. 197 Fixed-term contracts.](section/197.md)
+      - [s. 198 Short-term employment.](section/198.md)
+      - [s. 199 Mariners.](section/199.md)
+      - [s. 200 Police officers.](section/200.md)
+    - Offshore employment
+      - [s. 201 Power to extend employment legislation to offshore employment.](section/201.md)
+  - Chapter II Other miscellaneous matters
+    - Restrictions on disclosure of information
+      - [s. 202 National security.](section/202.md)
+    - Harassment and discrimination: contractual duties of confidentiality
+      - [s. 202A Contractual duties of confidentiality relating to harassment and discrimination](section/202A.md)
+    - Contracting out etc. and remedies
+      - [s. 203 Restrictions on contracting out.](section/203.md)
+      - [s. 204 Law governing employment.](section/204.md)
+      - [s. 205 Remedy for infringement of certain rights.](section/205.md)
+    - Employee shareholder status
+      - [s. 205A Employee shareholders](section/205A.md)
+    - General provisions about death of employer or employee
+      - [s. 206 Institution or continuance of tribunal proceedings.](section/206.md)
+      - [s. 207 Rights and liabilities accruing after death.](section/207.md)
+    - Mediation in certain cross-border dispute
+      - [s. 207A Extension of time limits because of mediation in certain cross-border disputes](section/207A.md)
+      - [s. 207B Extension of time limits to facilitate conciliation before institution of proceedings](section/207B.md)
+    - Modifications of Act
+      - [s. 208 ................................](section/208.md)
+      - [s. 209 Powers to amend Act.](section/209.md)
+- Part XIV Interpretation
+  - Chapter I Continuous employment
+    - [s. 210 Introductory.](section/210.md)
+    - [s. 211 Period of continuous employment.](section/211.md)
+    - [s. 212 Weeks counting in computing period.](section/212.md)
+    - [s. 213 Intervals in employment.](section/213.md)
+    - [s. 214 Special provisions for redundancy payments.](section/214.md)
+    - [s. 215 Employment abroad etc.](section/215.md)
+    - [s. 216 Industrial disputes.](section/216.md)
+    - [s. 217 Reinstatement after military service.](section/217.md)
+    - [s. 218 Change of employer.](section/218.md)
+    - [s. 219 Reinstatement or re-engagement of dismissed employee.](section/219.md)
+  - Chapter II A week’s pay
+    - Introductory
+      - [s. 220 Introductory.](section/220.md)
+    - Employments with normal working hours
+      - [s. 221 General.](section/221.md)
+      - [s. 222 Remuneration varying according to time of work.](section/222.md)
+      - [s. 223 Supplementary.](section/223.md)
+    - Employments with no normal working hours
+      - [s. 224 Employments with no normal working hours.](section/224.md)
+    - The calculation date
+      - [s. 225 Rights during employment.](section/225.md)
+      - [s. 226 Rights on termination.](section/226.md)
+    - Maximum amount of week’s pay
+      - [s. 227 Maximum amount.](section/227.md)
+    - Miscellaneous
+      - [s. 228 New employments and other special cases.](section/228.md)
+      - [s. 229 Supplementary.](section/229.md)
+  - Chapter III Other interpretation provisions
+    - [s. 230 Employees, workers etc.](section/230.md)
+    - [s. 231 Associated employers.](section/231.md)
+    - [s. 232 Shop workers.](section/232.md)
+    - [s. 233 Betting workers](section/233.md)
+    - [s. 234 Normal working hours.](section/234.md)
+    - [s. 235 Other definitions.](section/235.md)
+- Part XV General and supplementary
+  - General
+    - [s. 236 Orders and regulations.](section/236.md)
+    - [s. 237 Financial provisions.](section/237.md)
+  - Reciprocal arrangements
+    - [s. 238 Reciprocal arrangements with Northern Ireland.](section/238.md)
+    - [s. 239 Reciprocal arrangements with Isle of Man.](section/239.md)
+  - Final provisions
+    - [s. 240 Consequential amendments.](section/240.md)
+    - [s. 241 Transitionals, savings and transitory provisions.](section/241.md)
+    - [s. 242 Repeals and revocations.](section/242.md)
+    - [s. 243 Commencement.](section/243.md)
+    - [s. 244 Extent.](section/244.md)
+    - [s. 245 Short title.](section/245.md)
+- SCHEDULE 1 Consequential amendments
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Atomic Energy Authority Act 1971 (c.11)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Attachment of Earnings Act 1971 (c.32)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The British Library Act 1972 (c.54)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The Health and Safety at Work etc. Act 1974 (c.37)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - The Sex Discrimination Act 1975 (c.65)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The Scottish Development Agency Act 1975 (c.69)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Welsh Development Agency Act 1975 (c.70)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - The Lotteries and Amusements Act 1976 (c.32)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The Race Relations Act 1976 (c.74)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - The Development of Rural Wales Act 1976 (c.75)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The New Towns (Scotland) Act 1977 (c.16)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - The National Health Service (Scotland) Act 1978 (c.29)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - The House of Commons (Administration) Act 1978 (c.36)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The New Towns Act 1981 (c.64)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Wildlife and Countryside Act 1981 (c.69)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - The Hops Marketing Act 1982 (c.5)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - The Oil and Gas (Enterprise) Act 1982 (c.23)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - The Local Government Finance Act 1982 (c.32)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - The Administration of Justice Act 1982 (c.53)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - The Health and Social Services and Social Security Adjudications Act 1983 (c.41)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - The National Audit Act 1983 (c.44)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - The National Heritage Act 1983 (c.47)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - The National Heritage (Scotland) Act 1985 (c.16)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - The Prosecution of Offences Act 1985 (c.23)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - The Local Government Act 1985 (c.51)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - The Trustee Savings Banks Act 1985 (c.58)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - The Housing (Consequential Provisions) Act 1985 (c.71)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - The Insolvency Act 1986 (c.45)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - The Legal Aid (Scotland) Act 1986 (c.47)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - The Debtors (Scotland) Act 1987 (c.18)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - The Pilotage Act 1987 (c.21)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - The Housing (Scotland) Act 1987 (c.26)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - The Consumer Protection Act 1987 (c.43)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - The Income and Corporation Taxes Act 1988 (c.1)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - The Legal Aid Act 1988 (c.34)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - The Education Reform Act 1988 (c.40)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - The Local Government Finance Act 1988 (c.41)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - The Housing (Scotland) Act 1988 (c.43)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - The Health and Medicines Act 1988 (c.49)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - The Housing Act 1988 (c.50)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - The Dock Work Act 1989 (c.13)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - The Electricity Act 1989 (c.29)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+  - The Local Government and Housing Act 1989 (c.42)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - The National Health Service and Community Care Act 1990 (c.19)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+  - The Enterprise and New Towns (Scotland) Act 1990 (c.35)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+  - The Environmental Protection Act 1990 (c.43)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+  - The Natural Heritage (Scotland) Act 1991 (c.28)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+  - The Coal Mining Subsidence Act 1991 (c.45)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+  - The Ports Act 1991 (c.52)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+  - The Social Security Contributions and Benefits Act 1992 (c.4)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+  - The Further and Higher Education Act 1992 (c.13)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+  - The Timeshare Act 1992 (c.35)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+  - The Further and Higher Education (Scotland) Act 1992 (c.37)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+  - The Museums and Galleries Act 1992 (c.44)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+  - The Trade Union and Labour Relations (Consolidation) Act 1992 (c.52)
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+  - The Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+  - The Social Security Act 1993 (c.3)
+    - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+  - The Education Act 1993 (c.35)
+    - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+  - The Railways Act 1993 (c.43)
+    - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+  - The Pension Schemes Act 1993 (c.48)
+    - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+  - The Finance Act 1994 (c.9)
+    - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+  - The Local Government (Wales) Act 1994 (c.19)
+    - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+  - The Coal Industry Act 1994 (c.21)
+    - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+  - The Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+  - The Local Government etc. (Scotland) Act 1994 (c.39)
+    - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+  - The Jobseekers Act 1995 (c.18)
+    - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+  - The Environment Act 1995 (c.25)
+    - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+  - The Disability Discrimination Act 1995 (c.50)
+    - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+- SCHEDULE 2 Transitional provisions, savings and transitory provisions
+  - Part I Transitional provisions and savings
+    - General transitionals and savings
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Preservation of old transitionals and savings
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Employment particulars for pre-TURERA employees
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Employment particulars for pre-6 April 2020 employees
+      - [Sch. 2 para. 7A](schedule/2/paragraph/7A.md)
+    - Request for employment particulars by pre-6 April 2020 employee or pre- TURERA employee
+      - [Sch. 2 para. 7B](schedule/2/paragraph/7B.md)
+    - Monetary limits in old cases
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Shop workers and betting workers to whom old maternity provisions applied
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Validity of provisions deriving from certain regulations
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Unfair dismissal
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Redundancy payments
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Periods of employment
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Part II Transitory provisions
+    - Occupational pension scheme trustees
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Armed forces
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Disability discrimination
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Repeals and revocations
+  - Part I Repeals
+  - Part II Revocations
+    - TABLE OF DERIVATIONS
+      - [Sch. 3 para. 1 Notes:](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
