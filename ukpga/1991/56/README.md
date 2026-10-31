@@ -1,0 +1,1035 @@
+# Water Industry Act 1991
+
+1991 c. 56. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-10-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 212 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
+
+Source: https://www.legislation.gov.uk/ukpga/1991/56/2026-10-31
+
+## Contents
+
+- Part I PRELIMINARY
+  - The Director General of Water Services
+    - [s. 1 The Director General of Water Services.](section/1.md)
+    - [s. 1A Water Services Regulation Authority](section/1A.md)
+  - General duties
+    - [s. 2 General duties with respect to water industry.](section/2.md)
+    - [s. 2A Strategic priorities and objectives: England](section/2A.md)
+    - [s. 2B Strategic priorities and objectives: Wales](section/2B.md)
+    - [s. 3 General environmental and recreational duties.](section/3.md)
+    - [s. 4 Environmental duties with respect to sites of special interest.](section/4.md)
+    - [s. 5 Codes of practice with respect to environmental and recreational duties.](section/5.md)
+- Part II APPOINTMENTMENT AND REGULATION OF UNDERTAKERS
+  - CHAPTER I APPOINTMENTS
+    - Making of appointments
+      - [s. 6 Appointment of relevant undertakers.](section/6.md)
+      - [s. 7 Continuity of appointments, replacement appointments etc.](section/7.md)
+      - [s. 8 Procedure with respect to appointments and variations.](section/8.md)
+      - [s. 9 Duties affecting making of appointments and variations.](section/9.md)
+      - [s. 10 Transitional provision with respect to replacement appointments.](section/10.md)
+    - Conditions of appointments
+      - [s. 11 Power to impose conditions.](section/11.md)
+      - [s. 12 Determinations under conditions of appointment.](section/12.md)
+    - Modification of appointment conditions: England
+      - [s. 12A Modification by the Authority](section/12A.md)
+      - [s. 12B Modification of conditions of appointment: early effective date](section/12B.md)
+      - [s. 12C Modifications of conditions under section 12A: supplementary](section/12C.md)
+      - [s. 12D Appeal to the CMA](section/12D.md)
+      - [s. 12E Procedure on appeal to CMA](section/12E.md)
+      - [s. 12F Determination by CMA of appeal](section/12F.md)
+      - [s. 12G CMA’s powers on allowing an appeal](section/12G.md)
+      - [s. 12H Time limits for CMA to determine an appeal](section/12H.md)
+      - [s. 12I Determination of appeal by CMA: supplementary](section/12I.md)
+      - [s. 12J Modification by the Secretary of State: special administration orders](section/12J.md)
+      - [s. 12K Modifications under section 12J: procedural requirements](section/12K.md)
+    - Modification of appointment conditions: Wales
+      - [s. 13 Modification by agreement.](section/13.md)
+      - [s. 14 Modification references to CMA.](section/14.md)
+      - [s. 14A References under section 14: time limits](section/14A.md)
+      - [s. 14B References under section 14: powers of investigation](section/14B.md)
+      - [s. 15 Reports on modification references.](section/15.md)
+      - [s. 16 Modification following report.](section/16.md)
+      - [s. 16A CMA’s power of veto following report](section/16A.md)
+      - [s. 16B CMA’s power of veto following report: supplementary](section/16B.md)
+      - [s. 16C Modification by the Welsh Ministers: special administration orders](section/16C.md)
+      - [s. 16D Modifications under section 16C: procedural requirements](section/16D.md)
+    - Modification of appointment conditions: England and Wales
+      - [s. 17 Modification by order under other enactments.](section/17.md)
+  - CHAPTER 1A Water supply licences and sewerage licences
+    - Granting of licences
+      - [s. 17A Water supply licences](section/17A.md)
+      - [s. 17AA Water supply licences: restrictions on grants](section/17AA.md)
+      - [s. 17B Meaning of supply system](section/17B.md)
+      - [s. 17BA Sewerage licences](section/17BA.md)
+      - [s. 17BB Sewerage licences: restrictions on grants](section/17BB.md)
+      - [s. 17C Meaning of household premises](section/17C.md)
+      - [s. 17D The threshold requirement](section/17D.md)
+      - [s. 17DA Guidance](section/17DA.md)
+      - [s. 17E Determinations by the Authority](section/17E.md)
+      - [s. 17F Procedure for granting water supply and sewerage licences](section/17F.md)
+      - [s. 17FA Applications forwarded by the Water Industry Commission for Scotland](section/17FA.md)
+      - [s. 17FB Applications forwarded to the Water Industry Commission for Scotland](section/17FB.md)
+    - Licence conditions
+      - [s. 17G Licence conditions](section/17G.md)
+      - [s. 17H Standard conditions of water supply licences](section/17H.md)
+      - [s. 17HA Standard conditions of sewerage licences](section/17HA.md)
+      - [s. 17I Modification of licences by agreement](section/17I.md)
+      - [s. 17J Modification of standard conditions](section/17J.md)
+      - [s. 17K Modification references to competition authority](section/17K.md)
+      - [s. 17L References under section 17K: time limits](section/17L.md)
+      - [s. 17M References under section 17K: powers of investigation](section/17M.md)
+      - [s. 17N Reports on modification references](section/17N.md)
+      - [s. 17O Modification of licences following report](section/17O.md)
+      - [s. 17P Power of veto following report](section/17P.md)
+      - [s. 17Q Section 17P: supplementary](section/17Q.md)
+      - [s. 17R Modification by order under other enactments](section/17R.md)
+  - CHAPTER II ENFORCEMENT OF INSOLVENCY
+    - Enforcement orders
+      - [s. 18 Orders for securing compliance with certain provisions.](section/18.md)
+      - [s. 19 Exceptions to duty to enforce.](section/19.md)
+      - [s. 20 Procedure for enforcement orders.](section/20.md)
+      - [s. 21 Validity of enforcement orders.](section/21.md)
+      - [s. 22 Effect of enforcement order.](section/22.md)
+    - Financial penalties
+      - [s. 22A Penalties](section/22A.md)
+      - [s. 22B Statement of policy with respect to penalties](section/22B.md)
+      - [s. 22C Time limits on the imposition of financial penalties](section/22C.md)
+      - [s. 22D Interest and payment of instalments](section/22D.md)
+      - [s. 22E Appeals](section/22E.md)
+      - [s. 22F Recovery of penalties](section/22F.md)
+    - Special administration orders
+      - [s. 23 Meaning and effect of special administration order.](section/23.md)
+      - [s. 24 Special administration orders made on special petitions.](section/24.md)
+      - [s. 25 Power to make special administration order on winding-up petition.](section/25.md)
+    - Restrictions on voluntary winding up and insolvency proceedings
+      - [s. 26 Restrictions on voluntary winding up and insolvency proceedings.](section/26.md)
+  - CHAPTER III PROTECTION OF CUSTOMERS ETC..
+    - General provisions
+      - [s. 27 General duty of Authority to keep matters under review.](section/27.md)
+      - [s. 27ZA Power to require information for purpose of monitoring](section/27ZA.md)
+    - The Consumer Council for Water
+      - [s. 27A Establishment of the Council and committees](section/27A.md)
+      - [s. 27B Co-operation between Council and other authorities](section/27B.md)
+    - General functions of the Council
+      - [s. 27C The interests of consumers](section/27C.md)
+      - [s. 27D Acquisition and review of information](section/27D.md)
+      - [s. 27E Provision of advice and information to public authorities](section/27E.md)
+      - [s. 27F Provision of information to consumers](section/27F.md)
+      - [s. 27G Power to publish information and advice about consumer matters](section/27G.md)
+      - [s. 27H Provision of information to the Council](section/27H.md)
+      - [s. 27I Publication of notice of reasons](section/27I.md)
+      - [s. 27J Provision of information by the Council](section/27J.md)
+      - [s. 27K Sections 27H to 27J: supplementary](section/27K.md)
+      - [s. 28 Customer service committees.](section/28.md)
+      - [s. 29 Consumer complaints](section/29.md)
+      - [s. 29A Power of Council to investigate other matters](section/29A.md)
+      - [s. 30 Duties of Director with respect to complaints](section/30.md)
+    - Further functions of Authority
+      - [s. 30ZA Duty to consult Council](section/30ZA.md)
+      - [s. 30ZB Copies of notices](section/30ZB.md)
+      - [s. 30A Determination of disputes by the Authority.](section/30A.md)
+    - Provisions with respect to competition
+      - [s. 31 Functions of Authority with respect to competition.](section/31.md)
+      - [s. 32 Duty to refer merger of water or sewerage undertakings.](section/32.md)
+      - [s. 33 Exclusion of small mergers from duty to make reference.](section/33.md)
+      - [s. 33A Exceptions to duty to make reference](section/33A.md)
+      - [s. 33B Opinion of the Authority](section/33B.md)
+      - [s. 33C Statement of methods](section/33C.md)
+      - [s. 33D Undertakings in lieu of a merger reference](section/33D.md)
+      - [s. 34 Application of provisions of Enterprise Act 2002](section/34.md)
+      - [s. 35 Construction of merger provisions.](section/35.md)
+    - Remuneration and governance
+      - [s. 35A Remuneration and standards of performance](section/35A.md)
+      - [s. 35B Rules about remuneration and governance](section/35B.md)
+      - [s. 35C Rules under section 35B: procedure](section/35C.md)
+      - [s. 35D Rules under section 35B: minor or urgent variations](section/35D.md)
+    - Financial transparency
+      - [s. 35E Authority to secure publication of financial overview](section/35E.md)
+  - chapter IV INTERPRETATION OF PART II
+    - [s. 36 Interpretation of Part II.](section/36.md)
+- Part 2A Regulation of provision of infrastructure
+  - [s. 36A Regulations](section/36A.md)
+  - [s. 36B Tendering](section/36B.md)
+  - [s. 36C Criteria for tendering](section/36C.md)
+  - [s. 36D Designation as an infrastructure provider](section/36D.md)
+  - [s. 36E Ministerial responsibility](section/36E.md)
+  - [s. 36F Cross-border infrastructure projects](section/36F.md)
+  - [s. 36G Regulations: procedure](section/36G.md)
+- Part III WATER SUPPLY
+  - chapter I GENERAL DUTIES OF WATER UNDERTAKERS etc
+    - [s. 37 General duty to maintain water supply system etc.](section/37.md)
+    - [s. 37A Water resources management plans: preparation and review](section/37A.md)
+    - [s. 37AA Water resources management plans for England: resilience](section/37AA.md)
+    - [s. 37B Water resources management plans: publication and representations](section/37B.md)
+    - [s. 37C Water resources management plans: provision of information](section/37C.md)
+    - [s. 37D Water resources management plans: supplementary](section/37D.md)
+    - [s. 38 Standards of performance in connection with water supply.](section/38.md)
+    - [s. 38ZA Standards of performance in connection with the supply of water: water supply licensees](section/38ZA.md)
+    - [s. 38A Information with respect to levels of performance.](section/38A.md)
+    - [s. 38B Publication of statistical information about complaints](section/38B.md)
+    - [s. 39 Procedure for regulations under section 38.](section/39.md)
+    - [s. 39ZA Procedure for regulations under section 38ZA](section/39ZA.md)
+    - [s. 39A Information to be given to customers about overall performance.](section/39A.md)
+    - [s. 39B Drought plans: preparation and review](section/39B.md)
+    - [s. 39C Drought plans: provision of information](section/39C.md)
+    - [s. 39D Drought plans: supplementary](section/39D.md)
+  - chapter II SUPPLY DUTIES
+    - Major supplies
+      - [s. 40 Bulk supplies.](section/40.md)
+      - [s. 40A Variation and termination of bulk supply agreements.](section/40A.md)
+      - [s. 40B Codes in respect of bulk supply agreements](section/40B.md)
+      - [s. 40C Codes under section 40B: procedure](section/40C.md)
+      - [s. 40D Codes under section 40B: minor or urgent revisions](section/40D.md)
+      - [s. 40E Rules about charges for the supply of water in bulk](section/40E.md)
+      - [s. 40F Rules under section 40E: provision about the reduction of charges](section/40F.md)
+      - [s. 40G Rules under section 40E: procedure](section/40G.md)
+      - [s. 40H Rules under section 40E: minor or urgent revisions](section/40H.md)
+      - [s. 40I Rules under section 40E: guidance](section/40I.md)
+      - [s. 40J Duty to provide information about bulk supplies](section/40J.md)
+      - [s. 41 Duty to comply with water main requisition.](section/41.md)
+      - [s. 42 Financial conditions of compliance.](section/42.md)
+      - [s. 43 Calculation of “relevant deficit” for the purposes of section 42.](section/43.md)
+      - [s. 43A Calculation of “discounted aggregate deficit” for the purposes of section 42](section/43A.md)
+      - [s. 44 Determination of completion date and route for requisitioned main.](section/44.md)
+    - Domestic connections
+      - [s. 45 Duty to make connections with main.](section/45.md)
+      - [s. 46 Duty to carry out ancillary works for the purpose of making domestic connection.](section/46.md)
+      - [s. 47 Conditions of connection with water main.](section/47.md)
+      - [s. 48 Interest on sums deposited in pursuance of the deposit condition.](section/48.md)
+      - [s. 49 Supplemental provisions with respect to the metering conditions.](section/49.md)
+      - [s. 50 Restriction on imposition of condition requiring separate service pipes.](section/50.md)
+      - [s. 51 Time for performance of connection etc. duties.](section/51.md)
+    - Adoption of water mains and service pipes
+      - [s. 51A Agreements to adopt water main or service pipe at future date](section/51A.md)
+      - [s. 51B Adoption at a future date: orders by Authority](section/51B.md)
+      - [s. 51C Variation and termination of section 51A agreements](section/51C.md)
+      - [s. 51CA Codes in respect of section 51A agreements](section/51CA.md)
+      - [s. 51CB Codes under section 51CA: procedure](section/51CB.md)
+      - [s. 51CC Codes under section 51CA: minor or urgent revisions](section/51CC.md)
+      - [s. 51CD Rules about charges in connection with a section 51A agreement](section/51CD.md)
+      - [s. 51CE Rules under section 51CD: procedure](section/51CE.md)
+      - [s. 51CF Rules under section 51CD: minor or urgent revisions](section/51CF.md)
+      - [s. 51CG Rules under section 51CD: guidance](section/51CG.md)
+      - [s. 51D Prohibition on connection without adoption](section/51D.md)
+      - [s. 51E Sections 51A to 51D: supplementary](section/51E.md)
+    - Domestic supplies
+      - [s. 52 The domestic supply duty.](section/52.md)
+      - [s. 53 Conditions of compliance with domestic supply duty.](section/53.md)
+      - [s. 54 Enforcement of domestic supply duty.](section/54.md)
+    - Other supplies
+      - [s. 55 Supplies for non-domestic purposes.](section/55.md)
+      - [s. 56 Determinations on requests for non-domestic supplies.](section/56.md)
+      - [s. 57 Duty to provide a supply of water etc. for fire-fighting.](section/57.md)
+      - [s. 58 Specially requested fire-hydrants.](section/58.md)
+      - [s. 59 Supplies for other public purposes.](section/59.md)
+    - Disconnections
+      - [s. 60 Disconnections for the carrying out of necessary works.](section/60.md)
+      - [s. 61 Disconnections for non-payment of charges.](section/61.md)
+      - [s. 62 Disconnections at request of customer.](section/62.md)
+      - [s. 63 General duties of undertakers with respect to disconnections.](section/63.md)
+    - Supply by water supply licensee etc
+      - [s. 63AA Supply by water supply licensee: domestic supply](section/63AA.md)
+      - [s. 63AB Supply by water supply licensee: non-domestic supply](section/63AB.md)
+      - [s. 63AC Interim duty: domestic and non-domestic supply](section/63AC.md)
+      - [s. 63AD Interim duty: supplementary](section/63AD.md)
+      - [s. 63AE Interim licensees: schemes for terms and conditions](section/63AE.md)
+      - [s. 63AF Interim duty: code](section/63AF.md)
+    - Use of limiting devices
+      - [s. 63A Prohibition of use of limiting devices.](section/63A.md)
+    - Means of supply
+      - [s. 64 Supply by means of separate service pipes.](section/64.md)
+      - [s. 65 Duties of undertakers as respects constancy and pressure.](section/65.md)
+      - [s. 66 Requirements by undertaker for maintaining pressure.](section/66.md)
+  - CHAPTER 2A Supply duties etc: water supply licensees
+    - Duties of undertakers to supply water supply licensees etc
+      - [s. 66A Wholesale water supply by primary water undertaker](section/66A.md)
+      - [s. 66AA Water supply from water undertaker](section/66AA.md)
+      - [s. 66B Introduction of water into water undertaker’s supply system](section/66B.md)
+      - [s. 66C Introduction of water provided by secondary water undertaker](section/66C.md)
+      - [s. 66CA Determinations by Authority](section/66CA.md)
+      - [s. 66D Agreements as to duties under sections 66A to 66C](section/66D.md)
+      - [s. 66DA Codes in respect of section 66D agreements](section/66DA.md)
+      - [s. 66DB Codes under section 66DA: procedure](section/66DB.md)
+      - [s. 66DC Codes under section 66DA: minor or urgent revisions](section/66DC.md)
+      - [s. 66E Rules about charges](section/66E.md)
+      - [s. 66EA Rules about charges: provision about the reduction of charges](section/66EA.md)
+      - [s. 66EB Rules under section 66E: procedure](section/66EB.md)
+      - [s. 66EC Rules under section 66E: minor or urgent revisions](section/66EC.md)
+      - [s. 66ED Rules under section 66E: guidance](section/66ED.md)
+      - [s. 66F Section 66D: supplementary](section/66F.md)
+      - [s. 66G Designation of strategic supply](section/66G.md)
+      - [s. 66H Designation of collective strategic supply](section/66H.md)
+    - Offences
+      - [s. 66I Prohibition on unauthorised use of supply system](section/66I.md)
+      - [s. 66J Prohibition on unauthorised introduction of water](section/66J.md)
+      - [s. 66K Sections 66I and 66J: exemptions](section/66K.md)
+      - [s. 66L Section 66K: supplementary](section/66L.md)
+  - chapter III Quality and Sufficiency of Supplies
+    - Standards of wholesomeness
+      - [s. 67 Standards of wholesomeness.](section/67.md)
+    - General obligations of undertakers and water supply licensees
+      - [s. 68 Duties of water undertakers and water supply licensees with respect to water quality.](section/68.md)
+      - [s. 69 Regulations for preserving water quality.](section/69.md)
+      - [s. 70 Offence of supplying water unfit for human consumption.](section/70.md)
+    - Waste, contamination, misuse etc.
+      - [s. 71 Waste from water sources.](section/71.md)
+      - [s. 72 Contamination of water sources.](section/72.md)
+      - [s. 73 Offences of contaminating, wasting and misusing water etc.](section/73.md)
+      - [s. 74 Regulations for preventing contamination, waste etc. and with respect to water fittings.](section/74.md)
+      - [s. 75 Power to prevent damage and to take steps to prevent contamination, waste etc.](section/75.md)
+      - [s. 76 Temporary bans on use](section/76.md)
+      - [s. 76A Temporary bans: supplemental](section/76A.md)
+      - [s. 76B Temporary bans: procedure](section/76B.md)
+      - [s. 76C Orders under sections 76 and 76A](section/76C.md)
+    - Local authority functions
+      - [s. 77 General functions of local authorities in relation to water quality.](section/77.md)
+      - [s. 78 Local authority functions in relation to undertakers’ supplies.](section/78.md)
+      - [s. 79 Local authority functions where piped supplies insufficient or unwholesome.](section/79.md)
+      - [s. 80 Remedial powers of local authorities in relation to private supplies.](section/80.md)
+      - [s. 81 Confirmation of private supply notices.](section/81.md)
+      - [s. 82 Enforcement and variation of private supply notice.](section/82.md)
+      - [s. 83 Application of certain powers to local authorities in relation to private supplies.](section/83.md)
+      - [s. 84 Local authority rights of entry etc.](section/84.md)
+      - [s. 85 Local authority power to obtain information for the purposes of functions under Chapter III.](section/85.md)
+    - Drinking Water Inspectorate
+      - [s. 86 Appointment and functions of inspectors](section/86.md)
+      - [s. 86ZA Charging of fees](section/86ZA.md)
+    - Complaints
+      - [s. 86A Procedure for dealing with complaints.](section/86A.md)
+  - CHAPTER IV FLUORIDATION
+    - [s. 87 Fluoridation of water supplies](section/87.md)
+    - [s. 87A Target concentration of fluoride](section/87A.md)
+    - [s. 87B Fluoridation arrangements: determination of terms](section/87B.md)
+    - [s. 87C Fluoridation arrangements: compliance](section/87C.md)
+    - [s. 88 Power to vary permitted fluoridation agents.](section/88.md)
+    - [s. 88A Power to vary target concentration of fluoride](section/88A.md)
+    - [s. 88B Requirement for fluoridation proposal: England](section/88B.md)
+    - [s. 88C Initial consultation etc. on fluoridation proposal](section/88C.md)
+    - [s. 88D Additional requirements where other local authorities affected](section/88D.md)
+    - [s. 88E Decision on fluoridation proposal](section/88E.md)
+    - [s. 88F Decision-making procedure: exercise of functions by committee](section/88F.md)
+    - [s. 88G Secretary of State’s duty in relation to fluoridation proposal](section/88G.md)
+    - [s. 88H Payments by local authorities towards fluoridation costs](section/88H.md)
+    - [s. 88I Variation or termination of arrangements under section 87(1)](section/88I.md)
+    - [s. 88J Initial consultation etc. on variation or termination proposal](section/88J.md)
+    - [s. 88K Additional requirements where other local authorities affected](section/88K.md)
+    - [s. 88L Decision on variation or termination proposal](section/88L.md)
+    - [s. 88M Decision-making procedure: exercise of functions by committee](section/88M.md)
+    - [s. 88N Secretary of State’s duty in relation to requests for variation or termination](section/88N.md)
+    - [s. 88O Power to make regulations as to maintenance of section 87 arrangements](section/88O.md)
+    - [s. 89 Consultation ...](section/89.md)
+    - [s. 90 Indemnities in respect of fluoridation.](section/90.md)
+    - [s. 90A Review of fluoridation](section/90A.md)
+    - [s. 90B Old English fluoridation arrangements: transitional provision](section/90B.md)
+    - [s. 91 Old Welsh fluoridation arrangements: transitional provision](section/91.md)
+  - CHAPTER V SUPPLEMENTAL PROVISIONS OF PART III
+    - [s. 92 Power to give effect to international obligations etc.](section/92.md)
+    - [s. 93 Interpretation of Part III.](section/93.md)
+- PART IIIA Promotion of the Efficient Use of Water
+  - [s. 93A Duty to promote the efficient use of water.](section/93A.md)
+  - [s. 93B Power of Authority to impose requirements on water undertakers.](section/93B.md)
+  - [s. 93C Publicity of requirements imposed under section 93B.](section/93C.md)
+  - [s. 93D Information as to compliance with requirements under section 93B.](section/93D.md)
+- Part IV SEWERAGE SERVICES
+  - chapter I GENERAL FUNCTIONS OF SEWERAGE UNDERTAKERS etc
+    - Principal duties and standards of performance
+      - [s. 94 General duty to provide sewerage system.](section/94.md)
+      - [s. 94A Drainage and sewerage management plans: preparation and review](section/94A.md)
+      - [s. 94B Drainage and sewerage management plans: power to amend period](section/94B.md)
+      - [s. 94C Drainage and sewerage management plans: regulations about procedure](section/94C.md)
+      - [s. 94D Regulations under section 94C: supplementary](section/94D.md)
+      - [s. 94E Drainage and sewerage management plans: directions](section/94E.md)
+      - [s. 95 Standards of performance in connection with provision of sewerage services.](section/95.md)
+      - [s. 95ZA Standards of performance in connection with provision of sewerage services: sewerage licensees](section/95ZA.md)
+      - [s. 95A Information with respect to levels of performance.](section/95A.md)
+      - [s. 95B Publication of statistical information about complaints](section/95B.md)
+      - [s. 96 Procedure for regulations under section 95.](section/96.md)
+      - [s. 96ZA Procedure for regulations under section 95ZA](section/96ZA.md)
+      - [s. 96A Information to be given to customers about overall performance.](section/96A.md)
+      - [s. 96B Nutrient pollution standards to apply to certain sewage disposal works](section/96B.md)
+      - [s. 96C Sensitive catchment areas](section/96C.md)
+      - [s. 96D Exempt sewage disposal works](section/96D.md)
+      - [s. 96E Upgrade date](section/96E.md)
+      - [s. 96F Nutrient pollution standards](section/96F.md)
+      - [s. 96G Nutrient pollution standards determined through environmental permitting](section/96G.md)
+      - [s. 96H Section 96G: procedure and revocations](section/96H.md)
+      - [s. 96I Information about catchment areas and nutrient significant plants](section/96I.md)
+      - [s. 96J Section 96B: enforcement and interaction with other provisions](section/96J.md)
+      - [s. 96K Powers to amend sections 96D and 96F](section/96K.md)
+      - [s. 96L Sections 96B to 96K, 96M and 96N: interpretation](section/96L.md)
+      - [s. 96M New and altered plants: modifications](section/96M.md)
+      - [s. 96N Setting and enforcing nutrient pollution standards](section/96N.md)
+    - Performance of sewerage undertaker’s functions by local authorities etc.
+      - [s. 97 Performance of sewerage undertaker’s functions by local authorities etc.](section/97.md)
+  - chapter II PROVISION OF SEWERAGE SERVICES
+    - Requisition of public sewer
+      - [s. 98 Duty to comply with sewer requisition.](section/98.md)
+      - [s. 99 Financial conditions of compliance.](section/99.md)
+      - [s. 100 Calculation of “relevant deficit” for the purposes of section 99.](section/100.md)
+      - [s. 100A Calculation of “discounted aggregate deficit” for the purposes of section 99](section/100A.md)
+      - [s. 101 Determination of completion date and route for requisitioned sewer or lateral drain.](section/101.md)
+    - Provision of public sewers otherwise than by requisition
+      - [s. 101A Further duty to provide sewers.](section/101A.md)
+      - [s. 101B Power to construct lateral drains following provision of public sewer](section/101B.md)
+    - Adoption etc. of sewers and disposal works
+      - [s. 102 Adoption of sewers and disposal works.](section/102.md)
+      - [s. 103 Adoption of cross-border sewers etc.](section/103.md)
+      - [s. 104 Agreements to adopt sewer, drain or sewage disposal works, at future date](section/104.md)
+      - [s. 105 Appeals with respect to adoption.](section/105.md)
+      - [s. 105ZA Adoption at a future date: orders by Authority](section/105ZA.md)
+      - [s. 105ZB Variation and termination of section 104 agreements](section/105ZB.md)
+      - [s. 105ZC Codes in respect of section 104 agreements](section/105ZC.md)
+      - [s. 105ZD Codes under section 105ZC: procedure](section/105ZD.md)
+      - [s. 105ZE Codes under section 105ZC: minor or urgent revisions](section/105ZE.md)
+      - [s. 105ZF Rules about charges in connection with a section 104 agreement](section/105ZF.md)
+      - [s. 105ZG Rules under section 105ZF: procedure](section/105ZG.md)
+      - [s. 105ZH Rules under section 105ZF: minor or urgent revisions](section/105ZH.md)
+      - [s. 105ZI Rules under section 105ZF: guidance](section/105ZI.md)
+      - [s. 105A Schemes for the adoption of sewers, lateral drains and sewage disposal works](section/105A.md)
+      - [s. 105B Adoption schemes: appeals](section/105B.md)
+      - [s. 105C Adoption schemes: supplementary](section/105C.md)
+    - Communication of drains and private sewers with public sewers
+      - [s. 106 Right to communicate with public sewers.](section/106.md)
+      - [s. 106A Sustainable drainage](section/106A.md)
+      - [s. 106B Requirement to enter into agreement before construction](section/106B.md)
+      - [s. 107 Right of sewerage undertaker to undertake the making of communications with public sewers.](section/107.md)
+      - [s. 108 Communication works by person entitled to communication.](section/108.md)
+      - [s. 109 Unlawful communications.](section/109.md)
+    - Connections between public sewers
+      - [s. 110 Determination of disputes with respect to cross boundary sewers.](section/110.md)
+      - [s. 110A Main connections](section/110A.md)
+      - [s. 110B Variation and termination of main connection agreements](section/110B.md)
+      - [s. 110C Codes in respect of main connection agreements](section/110C.md)
+      - [s. 110D Codes under section 110C: procedure](section/110D.md)
+      - [s. 110E Codes under section 110C: minor or urgent revisions](section/110E.md)
+      - [s. 110F Rules about charges for permitting main connections](section/110F.md)
+      - [s. 110G Rules under section 110F: provision about the reduction of charges](section/110G.md)
+      - [s. 110H Rules under section 110F: procedure](section/110H.md)
+      - [s. 110I Rules under section 110F: minor or urgent revisions](section/110I.md)
+      - [s. 110J Rules under section 110F: guidance](section/110J.md)
+    - Provision of sewerage services by sewerage licensees etc
+      - [s. 110K Provision by sewerage licensee](section/110K.md)
+      - [s. 110L Interim duty: sewerage undertakers and sewerage licensees](section/110L.md)
+      - [s. 110M Interim duty: supplementary](section/110M.md)
+      - [s. 110N Interim licensees: schemes for terms and conditions](section/110N.md)
+      - [s. 110O Interim duty: code](section/110O.md)
+    - Provisions protecting sewerage system
+      - [s. 111 Restrictions on use of public sewers.](section/111.md)
+      - [s. 112 Requirement that proposed drain or sewer be constructed so as to form part of general system.](section/112.md)
+      - [s. 113 Power to alter drainage system of premises in area.](section/113.md)
+      - [s. 114 Power to investigate defective drain or sewer.](section/114.md)
+    - Sustainable drainage
+      - [s. 114A Drainage systems relieving public sewers](section/114A.md)
+    - Use of pipes for sewerage purposes
+      - [s. 115 Use of highway drains as sewers and vice versa.](section/115.md)
+      - [s. 116 Power to close or restrict use of public sewer.](section/116.md)
+    - Complaints
+      - [s. 116A Procedures for dealing with complaints.](section/116A.md)
+    - Interpretation of Chapter II
+      - [s. 117 Interpretation of Chapter II.](section/117.md)
+  - Chapter 2A Duties relating to sewerage services: sewerage licensees
+    - Duties of sewerage undertakers as regards enabling the provision of sewerage services
+      - [s. 117A Use of undertaker’s sewerage system](section/117A.md)
+      - [s. 117B Matter dealt with by sewerage undertaker](section/117B.md)
+      - [s. 117C Removal of matter from sewerage system by a sewerage licensee](section/117C.md)
+      - [s. 117D Connections for the purposes of a disposal authorisation](section/117D.md)
+      - [s. 117E Agreements as to duties under sections 117A to 117D](section/117E.md)
+      - [s. 117F Codes in respect of section 117E agreements](section/117F.md)
+      - [s. 117G Codes under section 117F: procedure](section/117G.md)
+      - [s. 117H Codes under section 117F: minor or urgent revisions](section/117H.md)
+      - [s. 117I Rules about charges](section/117I.md)
+      - [s. 117J Rules about charges: provision about the reduction of charges](section/117J.md)
+      - [s. 117K Rules under section 117I: procedure](section/117K.md)
+      - [s. 117L Rules under section 117I: minor or urgent revisions](section/117L.md)
+      - [s. 117M Rules under section 117I: guidance](section/117M.md)
+      - [s. 117N Designation of strategic sewerage provision](section/117N.md)
+      - [s. 117O Designation of collective strategic sewerage provision](section/117O.md)
+    - Offences
+      - [s. 117P Prohibition on unauthorised use of sewerage system](section/117P.md)
+      - [s. 117Q Prohibition on unauthorised removal of matter from sewerage system](section/117Q.md)
+      - [s. 117R Sections 117P and 117Q: exemptions](section/117R.md)
+      - [s. 117S Section 117R: supplementary](section/117S.md)
+  - CHAPTER III TRADE EFFLUENT
+    - Consent for discharge of trade effluent into public sewer
+      - [s. 118 Consent required for discharge of trade effluent into public sewer.](section/118.md)
+    - Consents on an application
+      - [s. 119 Application for consent.](section/119.md)
+      - [s. 120 Applications for the discharge of special category effluent.](section/120.md)
+      - [s. 121 Conditions of consent.](section/121.md)
+      - [s. 122 Appeals to the Authority with respect to decisions on applications etc.](section/122.md)
+      - [s. 123 Appeals with respect to the discharge of special category effluent.](section/123.md)
+      - [s. 124 Variation of consents.](section/124.md)
+      - [s. 125 Variations within time limit.](section/125.md)
+      - [s. 126 Appeals with respect to variations of consent.](section/126.md)
+      - [s. 127 Review by the appropriate agency of consents relating to special category effluent.](section/127.md)
+    - Application for variation of time for discharge
+      - [s. 128 Application for variation of time for discharge.](section/128.md)
+    - Agreements with respect the disposal etc. of trade effluent
+      - [s. 129 Agreements with respect to the disposal etc of trade effluent.](section/129.md)
+      - [s. 130 Reference to the appropriate agency of agreements relating to special category effluent.](section/130.md)
+      - [s. 131 Review by the appropriate agency of agreements relating to special category effluent.](section/131.md)
+    - References and reviews relating to special category effluent
+      - [s. 132 Powers and procedure on references and reviews.](section/132.md)
+      - [s. 133 Effect of determination on reference or review.](section/133.md)
+      - [s. 134 Compensation in respect of determinations made for the protection of public health etc.](section/134.md)
+    - Supplemental provisions of Chapter III
+      - [s. 135 Restrictions on power to fix charges under Chapter III.](section/135.md)
+      - [s. 135A Power of the appropriate agency to acquire information for the purpose of its functions in relation to special category effluent.](section/135A.md)
+      - [s. 136 Evidence from meters etc.](section/136.md)
+      - [s. 137 Statement of case on appeal.](section/137.md)
+      - [s. 138 Meaning of “special category effluent”.](section/138.md)
+      - [s. 139 Power to apply Chapter III to other effluents.](section/139.md)
+      - [s. 140 Pre-1989 Act authority for trade effluent discharges etc.](section/140.md)
+    - Interpretation of Chapter III
+      - [s. 141 Interpretation of Chapter III.](section/141.md)
+  - CHAPTER 4 Storm overflows
+    - [s. 141A Storm overflow discharge reduction plan](section/141A.md)
+    - [s. 141B Progress reports on storm overflow discharge reduction plan](section/141B.md)
+    - [s. 141C Annual reports on discharges from storm overflows](section/141C.md)
+    - [s. 141D Environment Agency reports](section/141D.md)
+    - [s. 141DA Reporting on discharges from storm overflows](section/141DA.md)
+    - [s. 141DB Monitoring quality of water potentially affected by discharges from storm overflows and sewage disposal works](section/141DB.md)
+    - [s. 141E Interpretation of Chapter 4](section/141E.md)
+- Part V FINANCIAL PROVISIONS
+  - CHAPTER I CHARGES
+    - Manner of fixing charges
+      - [s. 142 Powers of undertakers to charge.](section/142.md)
+      - [s. 143 Charges schemes.](section/143.md)
+      - [s. 143A Regulations as to provisions to be included in charges schemes.](section/143A.md)
+      - [s. 143AA Special provision under section 143A: financial arrangements](section/143AA.md)
+      - [s. 143AB Special provision under section 143A: consultation](section/143AB.md)
+      - [s. 143B Rules about charges schemes](section/143B.md)
+      - [s. 143C Rules under section 143B: procedure](section/143C.md)
+      - [s. 143D Rules under section 143B: minor or urgent revisions](section/143D.md)
+      - [s. 143E Rules under section 143B: guidance](section/143E.md)
+      - [s. 144 Liability of occupiers etc. for charges.](section/144.md)
+    - Rules about undertakers’ charges
+      - [s. 144ZA Rules about charges for connections etc](section/144ZA.md)
+      - [s. 144ZB Rules under section 144ZA: procedure](section/144ZB.md)
+      - [s. 144ZC Rules under section 144ZA: minor or urgent revisions](section/144ZC.md)
+      - [s. 144ZD Rules under section 144ZA: guidance](section/144ZD.md)
+    - General guidance on charges
+      - [s. 144ZE General guidance on charges](section/144ZE.md)
+      - [s. 144ZF Guidance under section 144ZE: procedure](section/144ZF.md)
+    - Restrictions on charging
+      - [s. 144A Right of consumer to elect for charging by reference to volume.](section/144A.md)
+      - [s. 144B Restriction on undertakers’ power to require fixing of charges by reference to volume.](section/144B.md)
+      - [s. 144C Non-owner occupiers](section/144C.md)
+    - General restrictions on charging
+      - [s. 145 ................................](section/145.md)
+      - [s. 146 Connection charges etc. and charges for highway drainage.](section/146.md)
+      - [s. 147 Charging for emergency use of water.](section/147.md)
+    - Metering
+      - [s. 148 Restriction on charging for metering works.](section/148.md)
+      - [s. 149 Further provision relating to charging by volume.](section/149.md)
+    - Charging for services provided with the help of an undertaker
+      - [s. 150 Fixing maximum charges for services provided with the help of undertakers’ services.](section/150.md)
+      - [s. 150A Billing disputes.](section/150A.md)
+    - Interpretation of Chapter I
+      - [s. 150B Meaning of “consumer” in Chapter I.](section/150B.md)
+  - CHAPTER II FINANCIAL ASSISTANCE FOR UNDERTAKERS
+    - [s. 151 ................................](section/151.md)
+    - [s. 152 Grants for national security purposes.](section/152.md)
+    - [s. 153 Government financial assistance where special administration orders made.](section/153.md)
+    - [s. 154 Guarantees under section 153.](section/154.md)
+    - [s. 154A Financial assistance to reduce charges](section/154A.md)
+    - [s. 154B Financial assistance for major works](section/154B.md)
+- Part VI UNDERTAKERS ’ POWERS AND WORKS
+  - CHAPTER I UNDERTAKERS’ POWERS
+    - Powers in relation to land
+      - [s. 155 Compulsory purchase.](section/155.md)
+      - [s. 156 Restriction on disposals of land.](section/156.md)
+      - [s. 157 Byelaws with respect to undertakers’ waterways and land.](section/157.md)
+    - Pipe-laying
+      - [s. 158 Powers to lay pipes in streets.](section/158.md)
+      - [s. 159 Power to lay pipes in other land.](section/159.md)
+    - Other works powers
+      - [s. 160 Power to carry out works for sewerage purposes.](section/160.md)
+      - [s. 161 Power to deal with foul water and pollution.](section/161.md)
+      - [s. 162 Works in connection with metering.](section/162.md)
+      - [s. 163 Power to fit stopcocks.](section/163.md)
+      - [s. 164 Agreements for works with respect to water sources.](section/164.md)
+    - Powers to discharge water
+      - [s. 165 Discharges for works purposes.](section/165.md)
+      - [s. 166 Consents for certain discharges under section 165.](section/166.md)
+    - Compulsory works orders
+      - [s. 167 Compulsory works orders.](section/167.md)
+    - Entry to land etc. by water undertakers
+      - [s. 168 Entry for works purposes.](section/168.md)
+      - [s. 169 Power to carry out surveys and to search for water.](section/169.md)
+      - [s. 170 Entry etc. for other purposes.](section/170.md)
+      - [s. 171 Entry for sewerage purposes.](section/171.md)
+      - [s. 172 Entry for metering purposes.](section/172.md)
+      - [s. 173 Impersonation of persons entitled to entry.](section/173.md)
+  - CHAPTER II PROTECTION OF UNDERTAKERS’ WORKS, APPARATUS ETC.
+    - Protection of apparatus in general
+      - [s. 174 Offences of interference with works etc.](section/174.md)
+    - Protection of meters
+      - [s. 175 Offence of tampering with meter.](section/175.md)
+      - [s. 176 Consent for the purposes of section 175.](section/176.md)
+      - [s. 177 Financial obligations with respect to any interference with a meter.](section/177.md)
+    - Obstruction of sewerage works etc.
+      - [s. 178 Obstruction of sewerage works etc.](section/178.md)
+  - CHAPTER III SUPPLEMENTAL PROVISIONS WITH RESPECT TO UNDERTAKERS’ POWERS
+    - Vesting of works in undertaker
+      - [s. 179 Vesting of works in undertaker.](section/179.md)
+    - Damage etc. caused by works
+      - [s. 180 Compensation for damage caused by works etc.](section/180.md)
+      - [s. 181 Complaints with respect to the exercise of works powers on private land.](section/181.md)
+      - [s. 182 Codes of practice with respect to work on private land.](section/182.md)
+    - Protective provisions
+      - [s. 183 Protection for particular undertakings.](section/183.md)
+      - [s. 184 Power of certain undertakers to alter public sewers etc.](section/184.md)
+      - [s. 185 Duty to move pipes etc. in certain cases.](section/185.md)
+      - [s. 186 Protective provisions in respect of flood defence works and watercourses etc.](section/186.md)
+      - [s. 187 Works in tidal lands etc.](section/187.md)
+      - [s. 188 Mineral rights.](section/188.md)
+      - [s. 189 Power to sell minerals deriving from sewerage works.](section/189.md)
+      - [s. 190 Saving for planning controls.](section/190.md)
+      - [s. 191 Duties to make recreational facilities available when building reservoirs in Wales.](section/191.md)
+    - Interpretation of Part VI
+      - [s. 192 Interpretation of Part VI.](section/192.md)
+- Part VII INFORMATION PROVISIONS
+  - Reports
+    - [s. 192A Forward work programmes](section/192A.md)
+    - [s. 192B Annual and other reports](section/192B.md)
+    - [s. 193 Reports by Director.](section/193.md)
+    - [s. 194 Reports by customer service committees.](section/194.md)
+  - Registers, maps etc.
+    - [s. 195 the Authority’s register.](section/195.md)
+    - [s. 195A Reasons for decisions](section/195A.md)
+    - [s. 196 Trade effluent registers.](section/196.md)
+    - [s. 197 Register for the purposes of works discharges.](section/197.md)
+    - [s. 198 Maps of waterworks.](section/198.md)
+    - [s. 199 Sewer maps.](section/199.md)
+    - [s. 200 Provision of sewer maps to local authorities.](section/200.md)
+  - Publication of certain information and advice
+    - [s. 201 Publication of certain information and advice.](section/201.md)
+  - Powers to acquire and duties to provide information
+    - [s. 202 Duties of undertakers to furnish the Secretary of State with information.](section/202.md)
+    - [s. 203 Power to acquire information for enforcement purposes.](section/203.md)
+    - [s. 204 Provision of information to sewerage undertakers with respect to trade effluent discharges.](section/204.md)
+    - [s. 205 Exchange of metering information between undertakers.](section/205.md)
+  - Pollution incident reduction plans
+    - [s. 205A Duty to prepare and publish plans](section/205A.md)
+    - [s. 205B Implementation reports](section/205B.md)
+    - [s. 205C Sections 205A and 205B: enforcement and sanctions](section/205C.md)
+  - Restriction on disclosure of information
+    - [s. 206 Restriction on disclosure of information.](section/206.md)
+  - Provision of false information
+    - [s. 207 Provision of false information.](section/207.md)
+- Part 7A Further provision about regulation
+  - Appeals relating to revisions of codes
+    - [s. 207A Appeals to the CMA](section/207A.md)
+    - [s. 207B Procedure on appeals](section/207B.md)
+    - [s. 207C Determination of appeals](section/207C.md)
+- Part VIII MISCELLANEOUS AND SUPPLEMENTAL
+  - Miscellaneous
+    - [s. 208 Directions in the interests of national security.](section/208.md)
+    - [s. 209 Civil liability of undertakers for escapes of water etc.](section/209.md)
+    - [s. 209A Rights of tenants in relation to metering.](section/209A.md)
+  - Offences
+    - [s. 210 Offences by bodies corporate.](section/210.md)
+    - [s. 211 Limitation on right to prosecute in respect of sewerage offences.](section/211.md)
+  - Judicial disqualification
+    - [s. 212 Judicial disqualification.](section/212.md)
+  - Powers to make regulations
+    - [s. 213 Powers to make regulations.](section/213.md)
+    - [s. 214 Power to prescribe forms.](section/214.md)
+  - Local inquiries
+    - [s. 215 Local inquiries.](section/215.md)
+  - Construction of Act
+    - [s. 216 Provisions relating to the service of documents.](section/216.md)
+    - [s. 217 Construction of provision conferring powers by reference to undertakers’ functions.](section/217.md)
+    - [s. 218 Meaning of “domestic purposes” in relation to water supply.](section/218.md)
+    - [s. 219 General interpretation.](section/219.md)
+    - [s. 220 Effect of local Acts.](section/220.md)
+  - Other supplemental provisions
+    - [s. 221 Crown application.](section/221.md)
+    - [s. 222 Application to the Isles of Scilly.](section/222.md)
+    - [s. 223 Short title, commencement and extent.](section/223.md)
+- SCHEDULE 1
+  - Remuneration, pensions etc.
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Staff
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Expenses of the Director and his staff
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Official seal
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Documentary evidence
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 1A The Water Services Regulation Authority
+  - Membership
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Terms of appointment, remuneration, pensions etc
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Terms of appointment, remuneration, pensions etc
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Terms of appointment, remuneration, pensions etc
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Staff
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Committees
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Proceedings etc
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Proceedings etc
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Code of Practice
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - Performance of functions
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Payments to the Authority
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+  - Supplementary powers
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+- SCHEDULE 2 Transitional Provision on Termination of Appointments
+  - Cases where Schedule applies
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Making and modification of transfer schemes
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Transfer schemes providing for transfer by hive down
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Transfers by scheme
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Transfer of appointment
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Exclusion of transfer of licence
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - Supplemental provisions of schemes
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Duties of existing appointee after the scheme comes into force
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Further transitional provision and local statutory provisions
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 2ZA Procedure for appeals under section 12D
+  - [Sch. 2ZA para. 1 Application for permission to bring appeal](schedule/2ZA/paragraph/1.md)
+  - [Sch. 2ZA para. 2 Suspension of decision](schedule/2ZA/paragraph/2.md)
+  - [Sch. 2ZA para. 3 Time limit for representations and observations by the Authority](schedule/2ZA/paragraph/3.md)
+  - [Sch. 2ZA para. 4 Consideration and determination of appeal by group](schedule/2ZA/paragraph/4.md)
+  - [Sch. 2ZA para. 5 Matters to be considered on appeal](schedule/2ZA/paragraph/5.md)
+  - [Sch. 2ZA para. 6 Production of documents etc](schedule/2ZA/paragraph/6.md)
+  - [Sch. 2ZA para. 7 Oral hearings](schedule/2ZA/paragraph/7.md)
+  - [Sch. 2ZA para. 8 Written statements](schedule/2ZA/paragraph/8.md)
+  - [Sch. 2ZA para. 9 Expert advice](schedule/2ZA/paragraph/9.md)
+  - [Sch. 2ZA para. 10 Defaults in relation to evidence](schedule/2ZA/paragraph/10.md)
+  - [Sch. 2ZA para. 11 Appeal rules](schedule/2ZA/paragraph/11.md)
+  - [Sch. 2ZA para. 12 Costs](schedule/2ZA/paragraph/12.md)
+  - [Sch. 2ZA para. 13 Interpretation of Schedule](schedule/2ZA/paragraph/13.md)
+- SCHEDULE 2A WATER SUPPLY LICENCES: AUTHORISATIONS
+  - Operation of the authorisations in England and Wales
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Retail authorisation
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Wholesale authorisation
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Restricted retail authorisation
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Supplementary authorisation
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Enforcement and guidance
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Interpretation
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+- SCHEDULE 2B SEWERAGE LICENCES: AUTHORISATIONS
+  - Retail authorisation
+    - [Sch. 2B para. 1](schedule/2B/paragraph/1.md)
+    - [Sch. 2B para. 2](schedule/2B/paragraph/2.md)
+    - [Sch. 2B para. 3](schedule/2B/paragraph/3.md)
+    - [Sch. 2B para. 4](schedule/2B/paragraph/4.md)
+  - Wholesale authorisation
+    - [Sch. 2B para. 5](schedule/2B/paragraph/5.md)
+  - Disposal authorisation
+    - [Sch. 2B para. 6](schedule/2B/paragraph/6.md)
+    - [Sch. 2B para. 7](schedule/2B/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2B para. 8](schedule/2B/paragraph/8.md)
+    - [Sch. 2B para. 9](schedule/2B/paragraph/9.md)
+- SCHEDULE 3 SPECIAL ADMINISTRATION ORDERS
+  - Part I MODIFICATIONS OF THE 1986 ACT
+    - General application of provisions of 1986 Act
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Effect of order
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Appointment of special administrator
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - General powers of special administrator
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Power to deal with charged property
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Duties of special administrator
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Discharge of order
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Notice of making of order
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Statement of proposals
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Applications to court
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part II SUPPLEMENTAL
+    - General adaptations and saving
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Interpretation
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 3A The Consumer Council for Water
+  - Membership of Council
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Membership of Council
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Terms of appointment, remuneration, pensions etc
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Terms of appointment, remuneration, pensions etc
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Members appointed by Assembly
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Staff
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Annual reports
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Financial provisions and accounts
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Financial provisions and accounts
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+  - Financial provisions and accounts
+    - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+  - Regional committees
+    - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+  - Regional committees
+    - [Sch. 3A para. 12](schedule/3A/paragraph/12.md)
+  - Regional committees
+    - [Sch. 3A para. 13](schedule/3A/paragraph/13.md)
+  - Regional committees
+    - [Sch. 3A para. 14](schedule/3A/paragraph/14.md)
+  - Other committees
+    - [Sch. 3A para. 15](schedule/3A/paragraph/15.md)
+  - Other committees
+    - [Sch. 3A para. 16](schedule/3A/paragraph/16.md)
+  - Performance of functions of the Council
+    - [Sch. 3A para. 17](schedule/3A/paragraph/17.md)
+  - Performance of functions of the Council
+    - [Sch. 3A para. 18](schedule/3A/paragraph/18.md)
+  - Supplementary powers
+    - [Sch. 3A para. 19](schedule/3A/paragraph/19.md)
+  - First financial year of the Council
+    - [Sch. 3A para. 20](schedule/3A/paragraph/20.md)
+  - Compensation for members of customer service committees
+    - [Sch. 3A para. 21](schedule/3A/paragraph/21.md)
+- SCHEDULE 4
+  - Sub-committees
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Remuneration, pensions etc. of the chairman of a customer service committee
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Expenses of other members of a customer service committee etc.
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Staff
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Financial provisions
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 4ZA Application of provisions of Enterprise Act 2002 to mergers of water enterprises
+  - [Sch. 4ZA para. 1](schedule/4ZA/paragraph/1.md)
+  - [Sch. 4ZA para. 2](schedule/4ZA/paragraph/2.md)
+  - [Sch. 4ZA para. 2A](schedule/4ZA/paragraph/2A.md)
+  - [Sch. 4ZA para. 3](schedule/4ZA/paragraph/3.md)
+  - [Sch. 4ZA para. 4](schedule/4ZA/paragraph/4.md)
+  - [Sch. 4ZA para. 5](schedule/4ZA/paragraph/5.md)
+  - [Sch. 4ZA para. 6](schedule/4ZA/paragraph/6.md)
+  - [Sch. 4ZA para. 7](schedule/4ZA/paragraph/7.md)
+  - [Sch. 4ZA para. 8](schedule/4ZA/paragraph/8.md)
+- Schedule 4A Premises that are not to be disconnected for non-payment of charges
+  - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+  - [Sch. 4A para. 9A](schedule/4A/paragraph/9A.md)
+  - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+  - [Sch. 4A para. 10A](schedule/4A/paragraph/10A.md)
+  - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+  - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+  - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+  - [Sch. 4A para. 14](schedule/4A/paragraph/14.md)
+  - [Sch. 4A para. 15](schedule/4A/paragraph/15.md)
+  - [Sch. 4A para. 16](schedule/4A/paragraph/16.md)
+- SCHEDULE 5 PROCEDURE FOR ORDERS RELATING TO PRESSURE AND CONSTANCY OF SUPPLY
+  - Applications for orders
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Supply of copies of draft orders
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Modifications of proposals
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Consideration of objections etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 SUPPLEMENTAL PROVISIONS RELATING TO RIGHTS OF ENTRY
+  - Part I RIGHTS REQUIRING NOTICE FOR ENTRY TO NON-BUSINESS PREMISES
+    - Notice of entry
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Warrants to exercise right
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Supplementary power of person making entry
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Obstruction of person exercising right
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Duty of persons exercising rights to maintain confidentiality
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Part II OTHER RIGHTS OF ENTRY AND RELATED POWERS
+    - Notice of entry
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Warrant to exercise right or power
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Manner of exercise of right or power
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Supplementary powers of person making entry etc.
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Duty to secure premises
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Compensation
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Obstruction of person exercising right or power
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Interpretation of Part II
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 PRE-1985 FLUORIDATION SCHEMES
+  - Operation of pre-1985 schemes
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Supplies by other undertakers and revocation or variation of scheme
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Publicity and consultation
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 PRE-1989 ACT TRANSITIONAL AUTHORITY FOR TRADE EFFLUENT DISCHARGES ETC.
+  - Trade effluent agreements
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Authorisations having effect as deemed consents under the Control of Pollution Act 1974
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Appeals in respect of consents under paragraph 2
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Determinations of disputes as to transitional matters
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Regulations as to residue of agreements
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 MODIFICATION OF COMPENSATION PROVISIONS ETC. IN RELATION TO THE CREATION OF NEW RIGHTS
+  - Compensation enactments
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Adaptation of the Compulsory Purchase Act 1965
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Section 7 of the 1965 Act
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Section 8 of the 1965 Act
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Effect of deed poll
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Section 11 of the 1965 Act
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Section 20 of the 1965 Act
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Section 22 of the 1965 Act
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 PROCEDURE RELATING TO BYELAWS UNDER SECTION 157
+  - Confirmation of byelaws
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Confirmation with or without modifications
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Commencement of byelaw
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Availability of confirmed byelaws
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Revocation of byelaws
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Proof of byelaws etc.
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 ORDERS CONFERRING COMPULSORY WORKS POWERS
+  - Applications for orders
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Supply of copies of draft orders
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Powers on an application
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Consideration of objections etc.
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Notice after making of order
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Compulsory acquisition provisions
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Compensation in certain cases of compulsory acquisition
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Compensation in respect of powers other than acquisition powers
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Protection of public undertakings
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Interpretation
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+- SCHEDULE 12 COMPENSATION ETC. IN RESPECT OF PIPE-LAYING AND OTHER WORKS POWERS
+  - Compensation in respect of street works powers
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Compensation in respect of pipe-laying works in private land
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Assessment of compensation under paragraph 2
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Compensation in respect of sewerage works etc.
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Compensation in respect of metering works
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Compensation in respect of discharges for works purposes
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+- SCHEDULE 13 PROTECTIVE PROVISIONS IN RESPECT OF CERTAIN UNDERTAKINGS
+  - Part I PROVISIONS APPLYING GENERALLY
+    - General provisions protecting undertakings
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Protection for statutory powers and jurisdiction
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Special protection for certain undertakings in respect of street works
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Protection for electronic communications networks
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Part II FURTHER PROTECTIVE PROVISIONS IN RESPECT OF SEWERAGE POWERS
+    - Protection for dock undertakers
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Protection for airports, railways etc.
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Saving for Part I and other powers
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+- SCHEDULE 14 MINERAL RIGHTS
+  - Acquisition of mineral rights
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Notice required for the working of underlying mines
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Mining communications
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Compensation relating to severance
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Powers of entry
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - No exemption for injury to mines and minerals
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Interpretation
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+- SCHEDULE 15 DISCLOSURE OF INFORMATION
+  - Part I PERSONS IN RESPECT OF WHOSE FUNCTIONS DISCLOSURE MAY BE MADE
+  - Part II ENACTMENTS ETC. IN RESPECT OF WHICH DISCLOSURE MAY BE MADE
+- SCHEDULE 16 PROCEDURE ON APPEALS UNDER SECTION 207A
+  - Regulations as to procedure
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Particular provision
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Consideration and determination of appeals
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Evidence
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Appeal rules
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Interpretation
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+- Table of Derivations
