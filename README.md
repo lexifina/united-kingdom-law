@@ -1,5 +1,7 @@
 # Git for UK law
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the United Kingdom's legislation, which global-law reads at `united-kingdom/uk/legislation/`.
+
 The text of nine provisions of UK legislation on education, health and care plans, with a commit for each instrument on each day its changes to them took effect, from Royal Assent in 2014 to today. **Each commit is a law taking effect.** Its author is the Act or statutory instrument that made the change, and its date is the day the change came into force.
 
 So the questions a lawyer asks of a provision become git commands:
