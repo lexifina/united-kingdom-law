@@ -1,97 +1,83 @@
-# Git for UK law
+# United Kingdom: law history in git
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="UK law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of the United Kingdom as a git history: one file per provision (section, regulation or schedule paragraph), one commit per version on the day it took effect, with that day in the commit's `In-force:` trailer. `git log` lists every version of a provision held here; `git blame` names the commit behind every line; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the United Kingdom's legislation, which global-law reads at `united-kingdom/uk/legislation/`.
 
-The text of nine provisions of UK legislation on education, health and care plans, with a commit for each instrument on each day its changes to them took effect, from Royal Assent in 2014 to today. **Each commit is a law taking effect.** Its author is the Act or statutory instrument that made the change, and its date is the day the change came into force.
+**What is in it now:** 4,375 Acts in force, with 8,738 versions: 3,418 Acts of the UK Parliament (1801 to 2026) and 957 of the devolved legislatures (385 Acts of the Scottish Parliament; 42 Acts of the National Assembly for Wales, 33 Acts of Senedd Cymru and 19 Measures of the National Assembly for Wales; 274 Acts of the Parliament of Northern Ireland, 202 Acts of the Northern Ireland Assembly and 2 Measures of the Northern Ireland Assembly). 438 Acts of the UK Parliament from 2010 on also have their earlier versions, most from Royal Assent; the others are their current text only. It also holds nine provisions on education, health and care (EHC) plans, Children and Families Act 2014 ss. 19, 21, 36, 37 and 42 and SEND Regulations 2014 regs. 6, 11, 12 and 13, with all 26 of their versions since 2014. [`data/acts.csv`](data/acts.csv) lists every Act, the day its text starts and the changes legislation.gov.uk has not yet applied to it.
 
-So the questions a lawyer asks of a provision become git commands:
+Each Act is a folder at the path of its legislation.gov.uk address, with one file per provision and a `README.md` listing its contents (`ukpga/1996/18/` is the Employment Rights Act 1996, 1996 c. 18; `ukpga/1996/18/section/1.md` is its section 1); Acts before 1963 are numbered by regnal year (`ukpga/Will4and1Vict/7/26/` is the Wills Act 1837).
 
-| The question | The command |
+The text is in English, as legislation.gov.uk publishes it; a short header in each file gives the provision's status and the point-in-time version it is taken from.
+
+## Questions as git commands
+
+| Question | Command |
 | --- | --- |
-| What did reg. 13 say on 1 June 2020? | `git show $(git rev-list -1 --before="2020-06-01 23:59" main):uksi/2014/1530/regulation/13.md` |
-| Was s. 37 in force on 1 June 2014? | `git show $(git rev-list -1 --before="2014-06-01 23:59" main):ukpga/2014/6/section/37.md \| grep status` |
-| Which law wrote each provision? | `git blame ukpga/2014/6/section/37.md` |
-| What changed between two dates? | `git diff $(git rev-list -1 --before=2015-01-01 main) $(git rev-list -1 --before=2021-01-01 main)` |
-| Everything one instrument changed | `git log -p --author="S.I. 2020/471"` |
-| Every change to a provision | `git log -p -- uksi/2014/1530/regulation/13.md` |
+| Every change to s. 37 of the Children and Families Act 2014 (EHC plans) | `git log -p --word-diff -- ukpga/2014/6/section/37.md` |
+| Which instrument wrote each line of s. 37? | `git blame ukpga/2014/6/section/37.md` |
+| Every version of the Employment Rights Act 2025, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %s" -- ukpga/2025/36` |
+| Section 1 of the Employment Rights Act 2025 on 1 January 2026, before it came into force | `python tools/ukhistory.py on 2026-01-01 ukpga/2025/36/section/1` |
 
-`python tools/ukhistory.py on 2020-06-01 uksi/2014/1530/regulation/13` prints a provision as it stood at the end of a day, whatever your time zone, and says so plainly if it did not exist yet. `git diff --word-diff` shows amendments of a few words more clearly than line diffs. `git blame` credits a whole line to the instrument that last changed any of it, so a line amended twice shows only the later instrument. In PowerShell, run `$r = git rev-list -1 --before="2020-06-01T23:59:59Z" main; git show "$($r):uksi/2014/1530/regulation/13.md"`, because PowerShell splits `$(...):path` into two arguments.
+**Outside git**, we also host this record publicly, for free:
 
-If you would rather not use a terminal, the same history has a reader at **[lexifina.com/watch/uk-law](https://lexifina.com/watch/uk-law)**: pick a date and read the text in force on it, with the status, the instrument behind each change, and the words that read differently today marked.
+- **[Ask Claude about UK law](https://global-law.lexifina.com/v1/try_claude?country=united-kingdom)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=united-kingdom)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=united-kingdom)**: a search of UK law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## Every Act in force
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-The history now also holds 4375 Acts of the UK Parliament that are in force, each as one folder at the path of its legislation.gov.uk address (`ukpga/2010/15/` is the Equality Act 2010), with one file per section or schedule paragraph and a `README.md` giving the Act's dates and contents. [data/acts.csv](data/acts.csv) lists them.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-Each of these Acts enters the history as **one commit, its oldest version available here**: the text legislation.gov.uk publishes as in force today, dated by the day that version took effect (its `In-force:` line). An Act passed recently that the publisher has not yet revised is shown as enacted and dated by Royal Assent. So for these Acts the history does not yet say when each provision took its present words, and on a date before an Act's first commit the history has no text for it, which does not mean the Act was not law. Earlier versions will be added behind them, each Act ending again on its current text. Acts that have been wholly repealed are left out. The text may lag behind changes the publisher has not yet applied; each Act's `README.md` says how many it lists.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add united-kingdom/uk/legislation
+python3 tools/law.py show 2026-11-14 united-kingdom/uk/legislation/ukpga/1996/18/section/1.md
+```
 
-To read an Act on a date, choose the commit by its `In-force:` line, as `python tools/ukhistory.py on <date> <path>` does, not by the commit date: these commits were added after the older ones, so their commit dates are the dates they were added.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## What is here
+## Dates
 
-| Instrument | Provisions | Versions | Reader |
-| --- | --- | ---: | --- |
-| [Children and Families Act 2014](ukpga/2014/6/section/) (2014 c. 6) | ss. 19, 21, 36, 37 and 42 | 15 | [Read it](https://lexifina.com/watch/uk-law/ukpga/2014/6) |
-| [The Special Educational Needs and Disability Regulations 2014](uksi/2014/1530/regulation/) (S.I. 2014/1530) | regs. 6, 11, 12 and 13 | 11 | [Read it](https://lexifina.com/watch/uk-law/uksi/2014/1530) |
+Each commit is dated at noon, Europe/London, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-These are the provisions that govern an EHC plan: assessing a child's needs, what the plan must contain, the timescales for issuing it, and the duty to secure the provision it specifies. The record starts with them because they are what we use; more will follow.
+- for the nine EHC provisions, the day each change came into force, from legislation.gov.uk's point-in-time versions and its changes register; coming into force is itself a commit, which changes the file's `status:` line, and `Enacted:` or `Made:` give the instrument's other dates;
+- for an Act, the day its current text took effect (the start of legislation.gov.uk's latest point-in-time version), or Royal Assent for a recent Act it has not yet revised; each earlier version of the 438 Acts is dated by its own point-in-time version;
+- git cannot store dates before 1970, so the 698 Acts whose text took effect earlier are dated from 1 January 1970, one second apart, with the real day in `In-force:`. The Acts' commit dates are the days they were added, so ask for a date with `tools/ukhistory.py`, not `git log --before`.
 
-Each provision is one Markdown file at the path of its legislation.gov.uk address, so `uksi/2014/1530/regulation/13.md` is [legislation.gov.uk/uksi/2014/1530/regulation/13](https://www.legislation.gov.uk/uksi/2014/1530/regulation/13). Each subsection, paragraph and sub-paragraph is one line, so `git blame` names an instrument for each of them. A short header gives the provision's status on that date, its extent, and the point-in-time version on legislation.gov.uk that the text is taken from.
-
-## The date we use
-
-A UK change has several dates. An Act is enacted on Royal Assent. A statutory instrument is made, then usually laid before Parliament, and comes into force on a date it sets or that a later order sets. The changes it makes can come into force on different days, for different purposes, or only for a time.
-
-Commits are dated on the day a change **came into force**, because that is the date that decides which text governs a set of facts. legislation.gov.uk publishes a new point-in-time version of a provision on each day an amendment or commencement comes into force, and every one of those versions is a commit here. Each commit message carries the other dates (`Enacted:` or `Made:`) of the instrument that made the change. Commits are timed at noon, London time, so the date reads the same in any time zone.
-
-Coming into force is part of the history. An Act's sections usually do nothing on Royal Assent. Section 37, on EHC plans, was enacted on 13 March 2014, came into force for some purposes on 1 April 2014 and fully on 1 September 2014. Each step is a commit that changes the `status:` line, so the text on any date says whether it was law on that date.
-
-Temporary changes are commits too, and so is their end. During the pandemic, reg. 13(3) was amended from 1 May to 25 September 2020 so that a reason relating to coronavirus (reg. 10(4)(e)) could excuse a local authority from the 20-week deadline for issuing a plan. `git log -p -- uksi/2014/1530/regulation/13.md` shows the change on the day it took effect and the old words returning on the day it lapsed, both authored by S.I. 2020/471.
+Each change to the nine EHC provisions is credited to the instrument that made it (`S.I. 2020/471 (The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020)`), at an address ending `.invalid`. The Acts' commits are credited to `Lexifina`; their messages name the laws that the publisher's changes register dates to that day (`Affecting:`).
 
 ## How it is checked
 
-Every version is the publisher's own text. The text of each commit is legislation.gov.uk's point-in-time version for that day, and each file's `source:` line links it. `python tools/ukhistory.py check` fetches every version again and compares it with the history.
-
-Every change is explained by the publisher's own record. legislation.gov.uk keeps a register of every change made to a piece of legislation: what kind of change it is, which provision of which instrument made it, and when it came into force. The marks in the published text and the entries in that register share a key, and each commit carries it as `Effect-id:` (legislation.gov.uk writes it with a `key-` prefix, left off here because secret scanners mistake it for an API key), so a commit's explanation comes from the register and not from comparing texts. The publisher's annotation for each change is quoted in the commit message.
-
-The register also says which changes the publisher has **not yet applied** to the text. Changes are usually applied weeks or months after they come into force, and until then the latest revised text can be out of date. The build lists every unapplied change to these provisions in the data. On the date of this build there were none.
-
-## What "author" means here
-
-The author of a line is the **instrument** that gave it its current words: the Act as enacted, or the instrument that last amended it. The author of a commencement is the commencement order, or the instrument itself where it sets its own date. It is not the minister who made the instrument or the department that drafted it. Authors' addresses end in `.invalid`, because legislation has no email address.
+- `python tools/ukhistory.py check` fetches every version of the nine EHC provisions again from legislation.gov.uk and compares it with the history; on 28 October 2026 all matched, and a rebuild from `data/history.json` gave the same 11 law commits with the same hashes ([`REPRODUCE.md`](REPRODUCE.md)).
+- `tools/test_ukhistory.py` runs 15 tests of the build script, with five saved versions of the publisher's XML (`tools/fixtures/`).
+- Before each batch of Acts was pushed, every Act and version in it was read back from git and compared with the text taken from legislation.gov.uk: 0 mismatches and 0 trailer errors in all 30 batches. That builder is not in this repository, and `REPRODUCE.md` describes the nine provisions only.
+- Each file's `source:` line and each commit's `Source:` trailer link the point-in-time version on legislation.gov.uk that the text is taken from.
 
 ## What it does not show
 
-- **Changes that leave the words alone.** A provision can be modified, disapplied or applied with modifications without its words changing. These changes are commits with the same words and are described in the message. Between 2020 and 2021 the Coronavirus Act 2020 gave the Secretary of State a temporary power to modify the duty in s. 42 by notice. The power and its expiry are both commits, but the notices issued under it were not legislation and are not recorded.
-- **Transitional and saving provisions.** For some children, orders kept the old law on statements of special educational needs running alongside these provisions. The messages name those orders. The text does not show who they applied to.
-- **Different versions for different parts of the UK.** Part 3 of the Children and Families Act 2014 extends to England and Wales and applies in England. Each file gives its extent. Where legislation.gov.uk keeps separate versions for different countries, this history does not yet follow them.
-- **Changes not yet in force.** Prospective amendments are not committed until they come into force. None were outstanding for these provisions when this was built.
-- **Court decisions and guidance.** A judgment does not change the words of a provision, and the SEND Code of Practice is statutory guidance, not legislation.
+- **Earlier versions of most Acts.** 3,937 Acts are their current text only, so the history does not say when each provision took its present words; before an Act's first commit it has no text for it, which does not mean the Act was not law.
+- **Acts legislation.gov.uk has not revised, and repealed Acts.** Of the 17,561 UK Public General Acts it lists, 13,253 it has not revised (all before 2025) are left out, as are wholly repealed Acts and the Acts of the Parliaments of England, Scotland, Great Britain and Ireland before 1801.
+- **Changes not yet applied.** legislation.gov.uk applies changes weeks or months after they take effect; `data/acts.csv` counts 26,007 it had not yet applied to these Acts when they were read.
+- **Changes that leave the words alone**, such as modifications, transitional and saving provisions: they are named in commit messages at most.
+- **Secondary legislation and case law.** No statutory instruments apart from the four SEND regulations, and no court decisions. The UK has no codified constitution; constitutional statutes such as the Human Rights Act 1998 and the Scotland Act 1998 are here as Acts.
 
-Each commit links to the instrument's own words, and for anything that matters the legislation itself should be read.
+## Sources
 
-## Earlier work
-
-Others have kept law in git before. [c3e/grundgesetz](https://github.com/c3e/grundgesetz) keeps Germany's Basic Law with a commit for each amending law, dated when it was signed. [Archéo Lex](https://github.com/Legilibre/Archeo-Lex) keeps French codes with a commit for each consolidated version, dated when it came into force. [legalize-uk](https://github.com/legalize-dev/legalize-uk) keeps thousands of UK Acts as files with a commit for each amendment date. This history is much smaller. It is about provisions, and it keeps the cause of every change: one commit for each instrument on each day, with the instrument as author, the effect from the publisher's register, coming into force as a change of status, and temporary changes and their end as commits of their own.
-
-## How it is built
-
-`tools/ukhistory.py` builds the history. It uses only the Python standard library, and it is the same code that produces the data behind the reader. `python tools/ukhistory.py build` reads every point-in-time version and the changes register from legislation.gov.uk and writes `data/history.json`. `python tools/ukhistory.py repo --repo <dir>` writes the commits. The build is deterministic: the same data gives the same commits. It is rebuilt when the data is updated, so the history may be rewritten.
-
-[REPRODUCE.md](REPRODUCE.md) records exactly how the history was made: the sources, every command, the software, the decisions made by hand, and what the AI model that built it did and did not do. [RESEARCH.md](RESEARCH.md) has the research behind the design.
-
-Built by [Lexifina](https://lexifina.com). For corrections, open an issue.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [legislation.gov.uk](https://www.legislation.gov.uk) (The National Archives) | Official legislation, revised | yes, point-in-time versions | The text of each version, the day it took effect, and the changes register, with the changes not yet applied |
 
 ## Licence
 
-© Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk. This history is not endorsed by The National Archives or legislation.gov.uk.
+See [`LICENSE.md`](LICENSE.md). The legislation is © Crown and database right, derived from content available under the Open Government Licence v3.0 from legislation.gov.uk; this history is not endorsed by The National Archives or legislation.gov.uk. The history, commit messages and README are CC BY 4.0, and `tools/ukhistory.py` is under the MIT licence.
 
-The history, commit messages and README are released under [CC BY 4.0](LICENSE.md), and `tools/ukhistory.py` under the MIT licence.
+No AI model wrote or edited legal text; the code and documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
