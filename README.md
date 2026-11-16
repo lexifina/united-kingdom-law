@@ -59,6 +59,7 @@ Each change to the nine EHC provisions is credited to the instrument that made i
 - `tools/test_ukhistory.py` runs 15 tests of the build script, with five saved versions of the publisher's XML (`tools/fixtures/`).
 - Before each batch of Acts was pushed, every Act and version in it was read back from git and compared with the text taken from legislation.gov.uk: 0 mismatches and 0 trailer errors in all 30 batches. That builder is not in this repository, and `REPRODUCE.md` describes the nine provisions only.
 - Each file's `source:` line and each commit's `Source:` trailer link the point-in-time version on legislation.gov.uk that the text is taken from.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Each change to the nine EHC provisions is credited to the instrument that made i
 See [`LICENSE.md`](LICENSE.md). The legislation is © Crown and database right, derived from content available under the Open Government Licence v3.0 from legislation.gov.uk; this history is not endorsed by The National Archives or legislation.gov.uk. The history, commit messages and README are CC BY 4.0, and `tools/ukhistory.py` is under the MIT licence.
 
 No AI model wrote or edited legal text; the code and documentation were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
